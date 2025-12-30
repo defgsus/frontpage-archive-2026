@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-30T11:09:57",
+  "timestamp": "2025-12-30T12:20:22",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bundesdatenschutzbeauftragte veröffentlicht Handreichung für KI und Datenschutz",
+      "url": "https://www.heise.de/news/Bundesdatenschutzbeauftragte-veroeffentlicht-Handreichung-fuer-KI-und-Datenschutz-11126332.html"
+    },
     {
       "title": "Hilfe bei der Umsetzung von NIS-2 für Unternehmen",
       "url": "https://www.heise.de/news/Hilfe-bei-der-Umsetzung-von-NIS-2-fuer-Unternehmen-11126300.html"
@@ -64,10 +68,6 @@
     {
       "title": "39C3: Konzerne ruinieren das Netz – Cory Doctorows Ideen gegen Enshittification",
       "url": "https://www.heise.de/news/39C3-Konzerne-ruinieren-das-Netz-Cory-Doctorows-Ideen-gegen-Enshittification-11126178.html"
-    },
-    {
-      "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
-      "url": "https://www.heise.de/news/iX-Workshop-Fortgeschrittene-Administration-von-Kubernetes-11116650.html"
     },
     {
       "title": "Wandel der LadeinfrastrukturWarum man keine Wallbox mehr braucht",
@@ -208,19 +208,24 @@
       "url": "https://www.heise.de/news/Das-Blu-ray-Jahr-2025-bester-Ton-bestes-Bild-beste-Restauration-c-t-uplink-11123798.html"
     },
     {
+      "title": "Bundesdatenschutzbeauftragte veröffentlicht Handreichung für KI und Datenschutz",
+      "teaser": "Der Einsatz von KI führt bei öffentlichen Stellen oft zu Unsicherheiten. Hier soll die jüngste Publikation der Bundesdatenschutzbeauftragen Abhilfe schaffen.",
+      "url": "https://www.heise.de/news/Bundesdatenschutzbeauftragte-veroeffentlicht-Handreichung-fuer-KI-und-Datenschutz-11126332.html"
+    },
+    {
       "title": "Hilfe bei der Umsetzung von NIS-2 für Unternehmen",
       "teaser": "Die NIS-2-Richtlinie soll die Cybersicherheit in Deutschland und Europa deutlich verbessern. Unternehmen müssen jetzt handeln, hier finden sie Unterstützung.",
       "url": "https://www.heise.de/news/Hilfe-bei-der-Umsetzung-von-NIS-2-fuer-Unternehmen-11126300.html"
     },
     {
-      "title": "Linux-Bootloader Grub für Parallelinstallationen anpassen",
-      "teaser": "Windows oder Linux? Schnell, sonst schlägt die Automatik des Linux-Bootloaders zu. Doch es geht auch entspannt, selbst bei Neustarts durch Windows-Updates.",
-      "url": "https://www.heise.de/ratgeber/Linux-Bootloader-Grub-fuer-Parallelinstallationen-anpassen-10712384.html"
-    },
-    {
       "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
       "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Linux-Bootloader Grub für Parallelinstallationen anpassen",
+      "teaser": "Windows oder Linux? Schnell, sonst schlägt die Automatik des Linux-Bootloaders zu. Doch es geht auch entspannt, selbst bei Neustarts durch Windows-Updates.",
+      "url": "https://www.heise.de/ratgeber/Linux-Bootloader-Grub-fuer-Parallelinstallationen-anpassen-10712384.html"
     },
     {
       "title": "c’t-Webinar: Wenn KI zum Pinsel wird",
@@ -250,11 +255,6 @@
       "teaser": "In dieser Episode lädt Richard Seidl zum Jahresrück- und Ausblick rund um die Themen Software Testing, KI und den Podcast.",
       "url": "https://www.heise.de/blog/Software-Testing-Ask-Me-Anything-zu-KI-Automatisierung-und-Shift-Left-11119139.html",
       "image_title": "Software Testing: Ask Me Anything zu KI, Automatisierung und Shift Left"
-    },
-    {
-      "title": "39C3: Konzerne ruinieren das Netz – Cory Doctorows Ideen gegen Enshittification",
-      "teaser": "US-Plattformen entwickeln sich stetig von der Lösung zum Problem. Im Interview mit heise online nennt Doctorow Wege, wie Staaten und Nutzer sich wehren können.",
-      "url": "https://www.heise.de/news/39C3-Konzerne-ruinieren-das-Netz-Cory-Doctorows-Ideen-gegen-Enshittification-11126178.html"
     },
     {
       "title": "Z-Image in der PraxisSchnelle KI-Bilder ohne Limit – mit wenig RAM",
@@ -347,6 +347,11 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "39C3: Konzerne ruinieren das Netz – Cory Doctorows Ideen gegen Enshittification",
+      "teaser": "US-Plattformen entwickeln sich stetig von der Lösung zum Problem. Im Interview mit heise online nennt Doctorow Wege, wie Staaten und Nutzer sich wehren können.",
+      "url": "https://www.heise.de/news/39C3-Konzerne-ruinieren-das-Netz-Cory-Doctorows-Ideen-gegen-Enshittification-11126178.html"
+    },
+    {
       "title": "iX-Workshop: Fortgeschrittene Administration von Kubernetes",
       "teaser": "Lernen Sie fortgeschrittene Techniken für das Applikationsmanagement und die Implementierung von Service-Mesh-Technologien.",
       "url": "https://www.heise.de/news/iX-Workshop-Fortgeschrittene-Administration-von-Kubernetes-11116650.html",
@@ -415,14 +420,14 @@
       "url": "https://www.heise.de/hintergrund/Microsoft-Cloud-vs-Delos-vs-openDesk-Die-Office-Plaene-der-Bundeslaender-11074188.html"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "China will anthropomorphe KI streng regulieren",
       "teaser": "KI-Systeme, die menschliches Verhalten simulieren, sollen künftig strengeren Regeln unterliegen und Warnhinweise ausgeben.",
       "url": "https://www.heise.de/news/China-will-anthropomorphe-KI-streng-regulieren-11125712.html"
-    },
-    {
-      "title": "Cyberresilienz: So überstehen Unternehmen einen Cyberangriff!",
-      "teaser": "Eine gute IT-Security-Strategie muss neben Vorsorgemaßnahmen die rasche Erkennung und Eindämmung eines Angriffs sowie die schnelle Wiederherstellung betroffener Systeme umfassen. Die Hardware-Plattform spielt dabei eine Schlüsselrolle.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/cyberresilienz-so-ueberstehen-unternehmen-einen-cyberangriff/"
     },
     {
       "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
@@ -475,11 +480,6 @@
       "teaser": "Wie Microsoft 365 vom Zeit- und Informationsfresser zur funktionierenden Arbeitsplattform wird, zeigt der Workshop mit Beispielen, Übungen und Best Practices.",
       "url": "https://www.heise.de/news/c-t-Workshop-Struktur-statt-Tool-Chaos-in-Microsoft-365-11115282.html",
       "image_title": "Mehrere Hände halten ineinandergreifende Zahnräder vor violettem Hintergrund, daneben das Logo c't Workshop"
-    },
-    {
-      "title": "Commodore 64 Ultimate: Das Multitalent mit Hardware-Emulation im Test",
-      "teaser": "Mit dem Commodore 64 Ultimate kehrt ein Klassiker zurück. Wir prüfen, ob die originalgetreue Hardware-Emulation des C64 mit modernen Extras überzeugen kann.",
-      "url": "https://www.heise.de/tests/Commodore-64-Ultimate-Das-Multitalent-mit-Hardware-Emulation-im-Test-10526864.html"
     },
     {
       "title": "39C3: Skynet Starter Kit – Forscher übernehmen humanoide Roboter per Funk und KI",
@@ -657,10 +657,10 @@
       "url": "https://www.heise.de/news/KI-Bilder-statt-Modefotografie-11125753.html"
     },
     {
-      "title": "39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools",
-      "teaser": "Security researchers have found various security-relevant errors in GnuPG and similar programs. Many of the vulnerabilities are (still) not fixed.",
-      "url": "https://www.heise.de/en/news/39C3-Multiple-vulnerabilities-in-GnuPG-and-other-cryptographic-tools-11125362.html",
-      "image_title": "The 39C3 started on December 27th in Hamburg."
+      "title": "c’t-Workshop: Struktur statt Tool-Chaos in Microsoft 365",
+      "teaser": "Wie Microsoft 365 vom Zeit- und Informationsfresser zur funktionierenden Arbeitsplattform wird, zeigt der Workshop mit Beispielen, Übungen und Best Practices.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Struktur-statt-Tool-Chaos-in-Microsoft-365-11115282.html",
+      "image_title": "Mehrere Hände halten ineinandergreifende Zahnräder vor violettem Hintergrund, daneben das Logo c't Workshop"
     },
     {
       "title": "Over-Ears fürs KopfkinoBose Quiet Comfort Ultra 2 im Test",
@@ -669,16 +669,16 @@
       "image_title": "Bose Quiet Comfort Ultra 2"
     },
     {
+      "title": "Eisenhower-Prinzip, Pomodoro-Technik, SMART-FormelMit kluger Zeitplanung Freiräume schaffen",
+      "teaser": "Durch geschickte Zeiteinteilung und bewährte Produktivitätsmethoden bringen Sie Struktur in den Arbeitsalltag. Das sorgt zugleich für wohltuende Freiräume.",
+      "url": "https://www.heise.de/ratgeber/Freiraeume-schaffen-So-funktionieren-Pomodoro-Co-fuer-das-Aufgabenmanagement-11123638.html",
+      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
+    },
+    {
       "title": "Exklusives Gespräch der Mac & i mit Apple-ManagernWie die AirPods zum Live-Übersetzer wurden",
       "teaser": "iPhones und AirPods übersetzen fremde Sprachen in Echtzeit. Im Gespräch verrät Apple, was dabei im Fokus stand – und warum EU-Nutzer warten mussten.",
       "url": "https://www.heise.de/hintergrund/AirPods-als-Live-Uebersetzer-Apple-Manager-im-Hintergrundgespraech-11115543.html",
       "image_title": ", Holger Zelder/heise medien"
-    },
-    {
-      "title": "Für Finger und HandgelenkUnauffällige Fitnesstracker im Test",
-      "teaser": "Smartbänder und Smartringe kombinieren kontinuierliches Gesundheitsmonitoring mit Diskretion. Wir haben drei Armbänder und drei Ringe getestet.",
-      "url": "https://www.heise.de/tests/Unauffaellige-Fitnesstracker-fuer-Finger-und-Handgelenk-im-Test-11119927.html",
-      "image_title": ", Alle Bilder: Inge Schwabe / heise medien"
     },
     {
       "title": "Vinylflattener zum Glätten von Schallplatten im Selbstbau",
@@ -709,14 +709,15 @@
       "image_title": ", Alle Bilder: Judith Haeusler"
     },
     {
-      "title": "Astro-Objektive im Praxistest",
-      "teaser": "Sigma-Ultraweitwinkel-Objektive (Sony-E-Mount) für die Astrofotografie: von 14 bis 28 mm, mit hoher Lichtstärke und exzellenter Sternabbildung bis in die Ecken.",
-      "url": "https://www.heise.de/tests/Astro-Objektive-im-Praxistest-11121709.html"
-    },
-    {
       "title": "Der Weg zum perfekten Astro-Foto: So gelingt die Reise zum Traumspot",
       "teaser": "Von Island bis Namibia – entdecken Sie außergewöhnliche Astrospots und erfahren Sie, wie Sie Ihre Fotoreise perfekt planen und ausstatten.",
       "url": "https://www.heise.de/ratgeber/Der-Weg-zum-perfekten-Astro-Foto-So-gelingt-die-Reise-zum-Traumspot-11121029.html"
+    },
+    {
+      "title": "Gut geplant zum Nachthimmel-Foto: So gelingt die Astrofotografie",
+      "teaser": "Von Kamera bis Kleidung – wir zeigen, wie Sie Ihre Astroreise planen und an den besten Orten die Sterne fotografieren.",
+      "url": "https://www.heise.de/ratgeber/Gut-geplant-zum-Nachthimmel-Foto-So-gelingt-die-Astrofotografie-11120039.html",
+      "image_title": ", Alle Bilder: Stefan Liebermann"
     },
     {
       "title": "Proxmox mit Ansible automatisieren",
@@ -761,22 +762,22 @@
       "image_title": "Schild mit ZF-Logo auf Gebäudedach"
     },
     {
-      "title": "Vinyl statt Streaming: Die Renaissance des bewussten Musikhörens",
-      "teaser": "Analog erlebt ein Comeback. Immer mehr Musikfans schätzen den warmen Klang und das bewusste Hörerlebnis. Was steckt hinter diesem Trend?",
-      "url": "https://www.heise.de/-11108949",
-      "image_title": "Eine Schallplatte mit Cover"
+      "title": "Waymo-Robotaxis: Stromausfall zeigt Grenzen autonomer Systeme",
+      "teaser": "Ein Stromausfall in San Francisco legte Waymo-Robotaxis lahm. Experten fordern strengere Regeln. Sind autonome Taxis für echte Krisen gerüstet?",
+      "url": "https://www.heise.de/-11125274",
+      "image_title": "Ein Waymo-Fahrzeug in den Straßen von Los Angeles."
     },
     {
-      "title": "Braucht Deutschland eine neue Debatte über Verteidigungsausgaben?",
-      "teaser": "Hunderte Milliarden fließen in Aufrüstung – während Jugendliche und Senioren gemeinsam protestieren und Gewerkschafter warnen.",
-      "url": "https://www.heise.de/-11125779",
-      "image_title": "In einer Waffenfabrik werden Gewehrpatronen nach ihrer Güte kontrolliert."
+      "title": "Älteren Erwerbslosen droht Zwangsverrentung",
+      "teaser": "Bis zu 360.000 Menschen in Deutschland wären davon betroffen. Beim SPD-Parteitag ist es kein Thema",
+      "url": "https://www.heise.de/-3415886",
+      "image_url": "https://www.heise.de/icons/svg/icons/svg/comments_outline_grey_light.svg"
     },
     {
-      "title": "Mars-Mission mit Tiefenbohrer: Europas Rover soll 2028 nach Leben suchen",
-      "teaser": "Die ESA startet 2028 einen Rover zum Mars. Als erste Mission ihrer Art soll sie gezielt nach Lebensspuren bohren – bis zu zwei Meter tief unter Oberfläche.",
-      "url": "https://www.heise.de/-10771710",
-      "image_title": "Künstlerische Darstellung der Landung von ExoMars auf dem Mars"
+      "title": "Erdgas-Pipelines: Hunderte Millionen Tonnen CO2 fehlen in Klimabilanzen",
+      "teaser": "Europas Pipeline-Betreiber nutzen eine Lücke in den Berichtsstandards – mit enormen Folgen für Klimabilanzen und Investoren.",
+      "url": "https://www.heise.de/-11125479",
+      "image_title": "Gasleitungen mit Ventilen"
     },
     {
       "title": "Rückblick: So lief 2025 beim Zubau von Wind- und Sonnenenergie",
