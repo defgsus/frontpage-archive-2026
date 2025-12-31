@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-31T06:17:02",
+  "timestamp": "2025-12-31T07:14:57",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11109415.html"
+    },
     {
       "title": "China: LLMs müssen sich outen",
       "url": "https://www.heise.de/news/China-LLMs-muessen-sich-outen-11126627.html"
@@ -60,10 +64,6 @@
     {
       "title": "ACM: Die weltweit größte Gesellschaft für Informatik öffnet ihre Bibliothek",
       "url": "https://www.heise.de/news/Open-Access-Bibliothek-der-Association-for-Computing-Machinery-oeffnet-sich-11126470.html"
-    },
-    {
-      "title": "Flyover-Touren: Apple streicht Feature in Maps",
-      "url": "https://www.heise.de/news/Flyover-Touren-Apple-streicht-Feature-in-Maps-11121223.html"
     },
     {
       "title": "Wandel der LadeinfrastrukturWarum man keine Wallbox mehr braucht",
@@ -204,21 +204,27 @@
       "url": "https://www.heise.de/news/Das-Blu-ray-Jahr-2025-bester-Ton-bestes-Bild-beste-Restauration-c-t-uplink-11123798.html"
     },
     {
+      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
+      "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11109415.html",
+      "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
+    },
+    {
       "title": "China: LLMs müssen sich outen",
       "teaser": "Kann ein LLM menschlich wirken, muss es in China bald \"vorläufige Maßnahmen\" befolgen: Transparenz, Sicherheit und Sozialismus.",
       "url": "https://www.heise.de/news/China-LLMs-muessen-sich-outen-11126627.html",
       "image_title": "Fahne der Volksrepublik China"
     },
     {
+      "title": "Wenn die menschliche Firewall fällt",
+      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Die spannendsten Chips des Jahres 2026",
       "teaser": "In Folge 2025/27 des Podcasts Bit-Rauschen sprechen wir über die wichtigsten neuen Prozessoren, KI-Beschleuniger und anderen Chips, die 2026 anstehen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Die-spannendsten-Chips-des-Jahres-2026-11116560.html",
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
-      "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste Powerstation im Test",
@@ -247,12 +253,6 @@
       "teaser": "Mit einer besonderen Funktion konnte man sich seit 2014 in Apples Karten-App Städte zeigen lassen. Das Feature wurde mit iOS 26 kommentarlos gestrichen.",
       "url": "https://www.heise.de/news/Flyover-Touren-Apple-streicht-Feature-in-Maps-11121223.html",
       "image_title": "Apple-Karten"
-    },
-    {
-      "title": "Fototour: Sechs Lost Places in Niedersachsen – verlassene Schönheiten im Fokus",
-      "teaser": "Verlassene Heilstätten, leer stehende Gasthäuser und Puppen, die stumm im Wald hängen: „Lost Places“ sind mehr als nur Abenteuer oder bloße Fotokulissen.",
-      "url": "https://www.heise.de/ratgeber/Fototour-Sechs-Lost-Places-in-Niedersachsen-verlassene-Schoenheiten-im-Fokus-11107797.html",
-      "image_title": "Canon EOS 5D IV 50 mm ISO 4000 f/4.0 1/50 s, Alle Bilder: Daniel Boberg"
     },
     {
       "title": "Z-Image in der PraxisSchnelle KI-Bilder ohne Limit – mit wenig RAM",
@@ -305,12 +305,12 @@
       "image_title": "Wallbox von Bosch"
     },
     {
-      "title": "US-Regierung verhängt Einreiseverbote gegen „Ideologen in Europa“",
-      "url": "https://www.heise.de/news/USA-sanktionieren-HateAid-Chefinnen-und-Ex-EU-Kommissar-Thierry-Breton-11124559.html"
-    },
-    {
       "title": "Verfassungsrechtler und Politiker fordern Klarnamenpflicht im Internet",
       "url": "https://www.heise.de/news/Verfassungsrechtler-und-Politiker-fordern-Klarnamenpflicht-im-Internet-11125022.html"
+    },
+    {
+      "title": "Bundesregierung zu Sanktionen: „was offline illegal ist, auch online illegal“",
+      "url": "https://www.heise.de/news/Bundesregierung-zu-Sanktionen-was-offline-illegal-ist-auch-online-illegal-11124655.html"
     },
     {
       "title": "Smart heizen und Geld sparenTop 10: Das beste Heizkörperthermostat im Test",
@@ -343,6 +343,12 @@
       "teaser": "Täglich neue Angebote und Geschenke in 24 Türchen! Jeden Tag wartet ein neues heise-Angebot sowie eine Software-Vollversion zum kostenlosen Download auf Sie. Jetzt Türchen öffnen!",
       "url": "https://www.heise.de/download/blog/Der-heise-Adventskalender-2025-11078286?wt_mc=intern.abo.all.advent25.ho_advt.ad1.ad1",
       "image_title": "heise Adventskalender🎄"
+    },
+    {
+      "title": "Fototour: Sechs Lost Places in Niedersachsen – verlassene Schönheiten im Fokus",
+      "teaser": "Verlassene Heilstätten, leer stehende Gasthäuser und Puppen, die stumm im Wald hängen: „Lost Places“ sind mehr als nur Abenteuer oder bloße Fotokulissen.",
+      "url": "https://www.heise.de/ratgeber/Fototour-Sechs-Lost-Places-in-Niedersachsen-verlassene-Schoenheiten-im-Fokus-11107797.html",
+      "image_title": "Canon EOS 5D IV 50 mm ISO 4000 f/4.0 1/50 s, Alle Bilder: Daniel Boberg"
     },
     {
       "title": "39C3: Kampf gegen den gläsernen Menschen: Kenias Bevölkerung kippt Datensammlung",
@@ -410,15 +416,15 @@
       "image_title": "Auf einem Boot der NYC Ferry"
     },
     {
+      "title": "Enterprise Browser – das fehlende Puzzleteil in der Cybersecurity",
+      "teaser": "Browser gehören zu unserem Alltag. Doch kaum jemand macht sich Gedanken darüber, dass der Browser selbst gegen Sicherheitsvorfälle geschützt werden sollte. In einem Webcast zeigen wir Ihnen, wie Sie sich eine sichere Arbeitsumgebung direkt im Browser schaffen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/enterprise-browser-das-fehlende-puzzleteil-in-ihrer-cybersecurity-strategie-5016/?source=hbsad-ersatz"
+    },
+    {
       "title": "Software Testing: Ask Me Anything zu KI, Automatisierung und Shift Left",
       "teaser": "In dieser Episode lädt Richard Seidl zum Jahresrück- und Ausblick rund um die Themen Software Testing, KI und den Podcast.",
       "url": "https://www.heise.de/blog/Software-Testing-Ask-Me-Anything-zu-KI-Automatisierung-und-Shift-Left-11119139.html",
       "image_title": "Software Testing: Ask Me Anything zu KI, Automatisierung und Shift Left"
-    },
-    {
-      "title": "Cyberresilienz: So überstehen Unternehmen einen Cyberangriff!",
-      "teaser": "Eine gute IT-Security-Strategie muss neben Vorsorgemaßnahmen die rasche Erkennung und Eindämmung eines Angriffs sowie die schnelle Wiederherstellung betroffener Systeme umfassen. Die Hardware-Plattform spielt dabei eine Schlüsselrolle.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/security/cyberresilienz-so-ueberstehen-unternehmen-einen-cyberangriff/"
     },
     {
       "title": "39C3: Konzerne ruinieren das Netz – Cory Doctorows Ideen gegen Enshittification",
@@ -470,12 +476,6 @@
       "teaser": "Aufgeklappte Falt-Smartphone-Displays haben bekanntermaßen ein etwas merkwürdiges Anzeigeverhältnis. Apple will das offenbar auf besonderem Weg lösen.",
       "url": "https://www.heise.de/news/Faltbares-Apple-Handy-Kommt-der-Formfaktor-des-iPhone-mini-als-Pass-zurueck-11125785.html",
       "image_title": "Ausgedrucktes iPhone Fold nach angeblich durchgesickerten CAD-Bildern"
-    },
-    {
-      "title": "Malware, Betrug & Co.: Riskantes Domain-Chaos der Bundesregierung enthüllt",
-      "teaser": "Die Regierung hütet geheime Listen ihrer Webseiten, was die Sicherheit der Bürger gefährdet. Nun schafft die Veröffentlichung von über 2000 Domains Fakten.",
-      "url": "https://www.heise.de/news/Malware-Betrug-Co-Riskantes-Domain-Chaos-der-Bundesregierung-enthuellt-11126024.html",
-      "image_title": "Bundestagswahl 2017 - Erste Prognose:"
     },
     {
       "title": "39C3: Sicherheitsforscher kapert KI-Coding-Assistenten mit Prompt Injection",
@@ -644,16 +644,15 @@
       "url": "https://www.heise.de/en/news/39C3-Security-researcher-hijacks-AI-coding-assistants-with-prompt-injection-11125687.html"
     },
     {
+      "title": "Defekter Personalausweis: Was man bei Störung des Speicherchips tun kann",
+      "teaser": "Ärgerlich, wenn der Perso-Chip plötzlich nicht mehr funktioniert. Aber muss man dann zwingend einen neuen beantragen? Und wer trägt die Kosten?",
+      "url": "https://www.heise.de/hintergrund/Defekter-Personalausweis-Was-man-bei-Stoerung-des-Speicherchips-tun-kann-11098465.html"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Die spannendsten Chips des Jahres 2026",
       "teaser": "In Folge 2025/27 des Podcasts Bit-Rauschen sprechen wir über die wichtigsten neuen Prozessoren, KI-Beschleuniger und anderen Chips, die 2026 anstehen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Die-spannendsten-Chips-des-Jahres-2026-11116560.html",
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "c’t-Workshop: Struktur statt Tool-Chaos in Microsoft 365",
-      "teaser": "Wie Microsoft 365 vom Zeit- und Informationsfresser zur funktionierenden Arbeitsplattform wird, zeigt der Workshop mit Beispielen, Übungen und Best Practices.",
-      "url": "https://www.heise.de/news/c-t-Workshop-Struktur-statt-Tool-Chaos-in-Microsoft-365-11115282.html",
-      "image_title": "Mehrere Hände halten ineinandergreifende Zahnräder vor violettem Hintergrund, daneben das Logo c't Workshop"
     },
     {
       "title": "39C3: Multiple vulnerabilities in GnuPG and other cryptographic tools",
@@ -760,22 +759,22 @@
       "image_title": "Ein Verkehrsschild weißt den Weg zu einer Ladestation für Elektroautos. In dem Foto zeigt der Pfeil auch auf ein Restaurant namens \"Good Fortune\"."
     },
     {
-      "title": "Kakadus headbanging: Die Party-Vögel der Tierwelt",
-      "teaser": "Kakadus tanzen wohl sehr gerne, wie zahlreiche Videos in den Sozialen Netzwerken beweisen. Was aber treibt sie zu diesem bei Tieren sehr seltenen Verhalten?",
-      "url": "https://www.heise.de/-11126313",
-      "image_title": "Ein Kakadu im Anflug"
+      "title": "Winterschäden vermeiden: Was ein neues Algen-Bindemittel für Straßen bedeutet",
+      "teaser": "Forscher haben ein neues Bindemittel getestet, das Straßen bei Frost widerstandsfähiger machen soll – mit überraschendem Ergebnis.",
+      "url": "https://www.heise.de/-11125737",
+      "image_title": "Ein Schlagloch auf einer Straße in einer Großstadt wurde musste repariert werden."
     },
     {
-      "title": "Jan Conny: Der Sklavenhändler, der zum Helden wurde",
-      "teaser": "Brandenburg wagte ein Kolonial-Abenteuer in Afrika – doch ein einheimischer Händler spielte sein eigenes Spiel mit den Europäern.",
-      "url": "https://www.heise.de/-11116512",
-      "image_title": "Festung Grossfriedrichsburg"
+      "title": "Clearstream und Euroclear zwischen den Fronten",
+      "teaser": "Euroclear und Clearstream verwahren Billionen. Jetzt geraten sie durch eingefrorene russische Gelder ins Kreuzfeuer der Politik.",
+      "url": "https://www.heise.de/-11126422",
+      "image_title": "Person, die ein Mobiltelefon mit dem Logo der Gesellschaft Clearstream International S.A. auf dem Bildschirm vor der Business-Webseite hält."
     },
     {
-      "title": "Brigitte Bardot: Das Mädchen aus dem Weltraum",
-      "teaser": "Als Kino noch leicht war: Brigitte Bardot, Europas Marilyn Monroe. Mit ihrem Tod erinnert sich Frankreich an seine besseren Zeiten.",
-      "url": "https://www.heise.de/-11125680",
-      "image_title": "Brigitte Bardot Porträt"
+      "title": "Alexander Dugin: Putins Vordenker oder marginalisierte Randfigur?",
+      "teaser": "Westliche Medien sehen in ihm Putins Einflüsterer. Doch Russland-Experten zeichnen ein völlig anderes Bild von Dugin. (Teil 1)",
+      "url": "https://www.heise.de/-11125350",
+      "image_title": "Alexander Dugin bei einer Pressekonferenz im Jahr 2017"
     },
     {
       "title": "Auf der Suche nach Quanteneffekten in freier Wildbahn",
