@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T06:17:43",
+  "timestamp": "2026-01-02T07:15:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,19 @@
   ],
   "articles": [
     {
-      "title": "200 Gigabyte an Daten zum Verkauf angeboten: Cybersicherheitsvorfall bei der ESA",
-      "teaser": "Die ESA versichert, dass von einem „Cybersicherheitsproblem“ lediglich Server außerhalb des hauseigenen Netzwerks betroffen sind. Viel ist aber nicht bekannt.",
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11109427.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "Unerwünschten Netzwerkverkehr mit Pi-hole und CrowdSec blocken",
+      "teaser": "Netzwerke lassen sich vor Angriffen schützen. Pi-hole lässt Anfragen an Domains ins Leere laufen und CrowdSec blockiert als bösartig eingestufte IP-Adressen.",
+      "url": "https://www.heise.de/hintergrund/Unerwuenschten-Netzwerkverkehr-mit-Pi-hole-und-CrowdSec-blocken-11084853.html"
+    },
+    {
+      "title": "200 Gigabyte an ESA-DatenEuropas Weltraumagentur gesteht Cybersicherheitsvorfall ein",
+      "teaser": "Die ESA versichert, dass von einem „Cybersicherheitsproblem“ lediglich Server außerhalb des hauseigenen Netzwerks betroffen sind.",
       "url": "https://www.heise.de/news/200-Gigabyte-an-Daten-zum-Verkauf-angeboten-Cybersicherheitsvorfall-bei-der-ESA-11126973.html",
       "image_title": "ESA-Logo vor einer Satellitenaufnahme Europas bei Nacht"
     },
@@ -37,15 +48,8 @@
       "url": "https://www.heise.de/news/Space-Forge-erhitzt-erstmals-Fertigungsofen-im-Weltall-auf-1000-Grad-11126873.html"
     },
     {
-      "title": "WTFRaspberry-Pi-Verbot bei Amtseinführung des New Yorker Bürgermeisters",
-      "teaser": "Neben unter anderem Fahrrädern und Regenschirmen gelten auch Raspberry-Pis als gefährliche Gegenstände und sind verboten.",
-      "url": "https://www.heise.de/news/WTF-Raspberry-Pi-Verbot-bei-Amtseinfuehrung-des-New-Yorker-Buergermeisters-11126869.html"
-    },
-    {
-      "title": "39C3Rollstuhl-Security – Wenn ein QR-Code alle Schutzmechanismen aushebelt",
-      "teaser": "Eine IT-Sicherheitsforscherin deckt auf, wie der QR-Code eines Rollstuhls zum Generalschlüssel für alle Komfortfunktionen wird.",
-      "url": "https://www.heise.de/news/39C3-Rollstuhl-Security-Wenn-ein-QR-Code-alle-Schutzmechanismen-aushebelt-11126816.html",
-      "image_title": "Elfy in ihrem M25-Rollstuhl von Alber"
+      "title": "HintergrundUnerwünschten Netzwerkverkehr mit Pi-hole und CrowdSec blocken",
+      "url": "https://www.heise.de/hintergrund/Unerwuenschten-Netzwerkverkehr-mit-Pi-hole-und-CrowdSec-blocken-11084853.html"
     },
     {
       "title": "HintergrundSicherheitslücken vorbeugen: Auf Credential-Suche mit TruffleHog",
@@ -57,9 +61,15 @@
       "image_title": ","
     },
     {
-      "title": "RatgeberGeoPandas: Wie man mit Python Geodaten analysiert",
-      "url": "https://www.heise.de/ratgeber/GeoPandas-Wie-man-mit-Python-Geodaten-analysiert-11116341.html",
-      "image_title": ","
+      "title": "WTF: Raspberry-Pi-Verbot bei Amtseinführung des New Yorker Bürgermeisters",
+      "teaser": "Neben unter anderem Fahrrädern und Regenschirmen gelten auch Raspberry Pis als gefährliche Gegenstände und sind verboten.",
+      "url": "https://www.heise.de/news/WTF-Raspberry-Pi-Verbot-bei-Amtseinfuehrung-des-New-Yorker-Buergermeisters-11126869.html"
+    },
+    {
+      "title": "39C3: Rollstuhl-Security – Wenn ein QR-Code alle Schutzmechanismen aushebelt",
+      "teaser": "Eine IT-Sicherheitsforscherin deckt auf, wie der QR-Code eines Rollstuhls zum Generalschlüssel für alle Komfortfunktionen wird.",
+      "url": "https://www.heise.de/news/39C3-Rollstuhl-Security-Wenn-ein-QR-Code-alle-Schutzmechanismen-aushebelt-11126816.html",
+      "image_title": "Elfy in ihrem M25-Rollstuhl von Alber"
     },
     {
       "title": "Unterseekabel beschädigt: Finnische Eingreiftruppe geht auf verdächtiges Schiff",
@@ -134,18 +144,6 @@
       "teaser": "Werden Photovoltaik-Speicher per Software gedrosselt, müssen Kunden das laut einem Landgericht trotz Leistungsversprechen als Sicherheitsmaßnahme akzeptieren.",
       "url": "https://www.heise.de/news/PV-Speicherbatterien-Gericht-staerkt-Herstellern-bei-Fernabschaltung-den-Ruecken-11126512.html",
       "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
-    },
-    {
-      "title": "ACM: Die weltweit größte Gesellschaft für Informatik öffnet ihre Bibliothek",
-      "teaser": "Ab Januar 2026 sollen alle Publikationen der ACM Digital Library öffentlich zugänglich sein. Das soll Wissen zugänglicher machen und Innovation fördern.",
-      "url": "https://www.heise.de/news/Open-Access-Bibliothek-der-Association-for-Computing-Machinery-oeffnet-sich-11126470.html",
-      "image_title": "Die Association for Computing Machinery (ACM) verkündet den öffentlichen Zugriff auf die digitale Bibliothek des Verbandes."
-    },
-    {
-      "title": "Irland will EU-weite Identitätspflicht für Social Media einführen",
-      "teaser": "Die irische Regierung beabsichtigt, die kommende EU-Ratspräsidentschaft für eine stärkere gesetzliche Regulierung sozialer Netzwerke zu nutzen.",
-      "url": "https://www.heise.de/news/Irland-will-EU-weite-Identitaetspflicht-fuer-Social-Media-einfuehren-11126396.html",
-      "image_title": "Nahaufnahme eines Smartphone-Bildschirms mit den Symbolen verschiedener Social-Media-Apps."
     },
     {
       "title": "RatgeberKommentar: Warum man keine Wallbox mehr braucht",

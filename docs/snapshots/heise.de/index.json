@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T06:17:39",
+  "timestamp": "2026-01-02T07:15:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11109427.html"
+    },
+    {
+      "title": "Ladetarife für Elektroautos im Vergleich",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Smarte Heizkostenverteiler: Energie sparen mit monatlicher Verbrauchsübersicht",
+      "url": "https://www.heise.de/ratgeber/Smarte-Heizkostenverteiler-Energie-sparen-mit-monatlicher-Verbrauchsuebersicht-11085268.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "200 Gigabyte an Daten zum Verkauf angeboten: Cybersicherheitsvorfall bei der ESA",
       "url": "https://www.heise.de/news/200-Gigabyte-an-Daten-zum-Verkauf-angeboten-Cybersicherheitsvorfall-bei-der-ESA-11126973.html"
@@ -54,22 +70,6 @@
       "url": "https://www.heise.de/ratgeber/Der-Weg-zum-perfekten-Astro-Foto-So-gelingt-die-Reise-zum-Traumspot-11121029.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Sapphire Edge AI 340: Ultrakompakter Copilot+-Barebone mit Ryzen-AI-CPU im Test",
-      "url": "https://www.heise.de/tests/Sapphire-Edge-AI-340-Ultrakompakter-Copilot-Barebone-mit-Ryzen-AI-CPU-im-Test-11076789.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Auswandern: Als ITler in der Schweiz arbeiten",
-      "url": "https://www.heise.de/ratgeber/Auswandern-Als-ITler-in-der-Schweiz-arbeiten-10296203.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "39C3: Rollstuhl-Security – Wenn ein QR-Code alle Schutzmechanismen aushebelt",
-      "url": "https://www.heise.de/news/39C3-Rollstuhl-Security-Wenn-ein-QR-Code-alle-Schutzmechanismen-aushebelt-11126816.html"
     },
     {
       "title": "Kathoden-Auftrag verpufftStatt 2,9 Milliarden nur 7.000 Dollar von Tesla",
@@ -174,10 +174,10 @@
       "url": "https://www.heise.de/tests/Die-zehn-besten-Spiele-aus-zehn-Jahren-VR-11046652.html"
     },
     {
-      "title": "StartschwierigkeitenRuckelt sich noch zurecht: Apples Foldable-Produktion",
-      "teaser": "Einem Analysten zufolge könnte es länger dauern, bis Apple die gewünschten Stückzahlen seines Falt-Handys erreicht. Die Fertigung gestaltet sich schwierig.",
-      "url": "https://www.heise.de/news/Ruckelt-sich-noch-zurecht-Apples-Foldable-Produktion-11123413.html",
-      "image_title": "Mensch mit Foldable"
+      "title": "200 Gigabyte an ESA-DatenEuropas Weltraumagentur gesteht Cybersicherheitsvorfall ein",
+      "teaser": "Die ESA versichert, dass von einem „Cybersicherheitsproblem“ lediglich Server außerhalb des hauseigenen Netzwerks betroffen sind.",
+      "url": "https://www.heise.de/news/200-Gigabyte-an-Daten-zum-Verkauf-angeboten-Cybersicherheitsvorfall-bei-der-ESA-11126973.html",
+      "image_title": "ESA-Logo vor einer Satellitenaufnahme Europas bei Nacht"
     },
     {
       "title": "Staffel 5, Teil 2 angeguckt„Stranger Things“: Jenseits des Grauens",
@@ -203,26 +203,37 @@
       "image_title": "Wallbox von Bosch"
     },
     {
-      "title": "FrühjahrsbelebungE-Auto Dacia Spring erstarkt und bleibt günstig",
-      "teaser": "Beim günstigsten E-Auto am Markt erhöht Dacia kommendes Modelljahr entscheidend nur die Leistung. Der Preis bleibt gleich.",
-      "url": "https://www.heise.de/news/Elektroauto-Dacia-Spring-erstarkt-und-bleibt-guenstig-Fruehjahrsbelebung-11123763.html",
-      "image_title": "Dacia Spring"
+      "title": "StartschwierigkeitenRuckelt sich noch zurecht: Apples Foldable-Produktion",
+      "teaser": "Einem Analysten zufolge könnte es länger dauern, bis Apple die gewünschten Stückzahlen seines Falt-Handys erreicht. Die Fertigung gestaltet sich schwierig.",
+      "url": "https://www.heise.de/news/Ruckelt-sich-noch-zurecht-Apples-Foldable-Produktion-11123413.html",
+      "image_title": "Mensch mit Foldable"
     },
     {
-      "title": "200 Gigabyte an Daten zum Verkauf angeboten: Cybersicherheitsvorfall bei der ESA",
-      "teaser": "Die ESA versichert, dass von einem „Cybersicherheitsproblem“ lediglich Server außerhalb des hauseigenen Netzwerks betroffen sind. Viel ist aber nicht bekannt.",
-      "url": "https://www.heise.de/news/200-Gigabyte-an-Daten-zum-Verkauf-angeboten-Cybersicherheitsvorfall-bei-der-ESA-11126973.html",
-      "image_title": "ESA-Logo vor einer Satellitenaufnahme Europas bei Nacht"
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11109427.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
-      "title": "Top 10: Der beste Wireless-Carplay-Adapter im Test",
-      "teaser": "Ein Wireless-Carplay-Adapter verbindet das iPhone kabellos mit dem Auto, falls das Infotainment-System das nicht unterstützt.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-wireless-carplay-adapter-im-test-iphone-kabellos-nutzen/wwqt5v6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+      "title": "UpdateLadetarife für Elektroautos im Vergleich",
+      "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html",
+      "image_title": "Ladekurve"
     },
     {
       "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
       "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Smarte Heizkostenverteiler: Energie sparen mit monatlicher Verbrauchsübersicht",
+      "teaser": "Viele Mieter haben Anspruch auf eine monatliche Verbrauchsübersicht. Das hilft, Energie zu sparen. Wir haben zusammengetragen, worauf Sie dabei achten müssen.",
+      "url": "https://www.heise.de/ratgeber/Smarte-Heizkostenverteiler-Energie-sparen-mit-monatlicher-Verbrauchsuebersicht-11085268.html"
+    },
+    {
+      "title": "Top 10: Der beste Wireless-Carplay-Adapter im Test",
+      "teaser": "Ein Wireless-Carplay-Adapter verbindet das iPhone kabellos mit dem Auto, falls das Infotainment-System das nicht unterstützt.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-wireless-carplay-adapter-im-test-iphone-kabellos-nutzen/wwqt5v6?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Der Weg zum perfekten Astro-Foto: So gelingt die Reise zum Traumspot",
@@ -243,18 +254,6 @@
       "title": "Rauchmelder: Hekatron Genius mit Gateway im Test",
       "teaser": "Rauchmelder retten Leben und schützen Sachwerte. Aber was passiert, wenn niemand zu Hause ist? Hekatrons Gateway sendet den Feueralarm auch aufs Handy.",
       "url": "https://www.heise.de/tests/Rauchmelder-Hekatron-Genius-mit-Gateway-im-Test-11084626.html"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 Copilot für IT-Administratoren",
-      "teaser": "Microsoft 365 Copilot - Lernen Sie, wie Sie das KI-gestützte Tool sicher und datenschutzkonform implementieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-Copilot-fuer-IT-Administratoren-11109423.html",
-      "image_title": "Microsoft 365 Copilot für IT-Administratoren"
-    },
-    {
-      "title": "Unauffällige Fitnesstracker für Finger und Handgelenk im Test",
-      "teaser": "Smartbänder und Smartringe kombinieren kontinuierliches Gesundheitsmonitoring mit Diskretion. Wir haben drei Armbänder und drei Ringe getestet.",
-      "url": "https://www.heise.de/tests/Unauffaellige-Fitnesstracker-fuer-Finger-und-Handgelenk-im-Test-11119927.html",
-      "image_title": ", Alle Bilder: Inge Schwabe / heise medien"
     },
     {
       "title": "Z-Image in der PraxisSchnelle KI-Bilder ohne Limit – mit wenig RAM",
@@ -348,6 +347,18 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "iX-Workshop: Microsoft 365 Copilot für IT-Administratoren",
+      "teaser": "Microsoft 365 Copilot - Lernen Sie, wie Sie das KI-gestützte Tool sicher und datenschutzkonform implementieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-Copilot-fuer-IT-Administratoren-11109423.html",
+      "image_title": "Microsoft 365 Copilot für IT-Administratoren"
+    },
+    {
+      "title": "Unauffällige Fitnesstracker für Finger und Handgelenk im Test",
+      "teaser": "Smartbänder und Smartringe kombinieren kontinuierliches Gesundheitsmonitoring mit Diskretion. Wir haben drei Armbänder und drei Ringe getestet.",
+      "url": "https://www.heise.de/tests/Unauffaellige-Fitnesstracker-fuer-Finger-und-Handgelenk-im-Test-11119927.html",
+      "image_title": ", Alle Bilder: Inge Schwabe / heise medien"
+    },
+    {
       "title": "heise wünscht einen guten Rutsch und ein gesundes neues Jahr 2026!",
       "teaser": "Die Redaktionen von heise wünschen ein friedliches und schönes Jahr 2026. Auf dass Ihre Hoffnungen und Wünsche erfüllt werden. Kommen Sie jetzt gut rein!",
       "url": "https://www.heise.de/news/heise-wuenscht-einen-guten-Rutsch-und-ein-gesundes-neues-Jahr-2026-11120891.html",
@@ -410,6 +421,11 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
+      "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
+      "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "Von Kika bis Youtube Kids: So sicher sind Streaming-Dienste für Kinder",
       "teaser": "Die Kinder im Feiertagsstress kurz mit einer Serie zu beschäftigen, klingt verlockend. Wir erklären, wie Sie für ein altersgerechtes Programm sorgen.",
       "url": "https://www.heise.de/ratgeber/Von-Kika-bis-Youtube-Kids-So-sicher-sind-Streaming-Dienste-fuer-Kinder-10617636.html"
@@ -419,12 +435,6 @@
       "teaser": "Systeme reflektieren Kommunikation. Architekturinitiativen werden nachhaltig, wenn Organisation und Entscheidungswege zur Zielarchitektur passen.",
       "url": "https://www.heise.de/hintergrund/Organisatorische-Erfolgsfaktoren-fuer-Architekturinitiativen-10865740.html",
       "image_title": ","
-    },
-    {
-      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
-      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
-      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
     },
     {
       "title": "Smarte Heizkostenverteiler: Energie sparen mit monatlicher Verbrauchsübersicht",
@@ -472,31 +482,19 @@
       "image_title": "Anne Lüscher beim 39C3-Vortrag"
     },
     {
-      "title": "ACM: Die weltweit größte Gesellschaft für Informatik öffnet ihre Bibliothek",
-      "teaser": "Ab Januar 2026 sollen alle Publikationen der ACM Digital Library öffentlich zugänglich sein. Das soll Wissen zugänglicher machen und Innovation fördern.",
-      "url": "https://www.heise.de/news/Open-Access-Bibliothek-der-Association-for-Computing-Machinery-oeffnet-sich-11126470.html",
-      "image_title": "Die Association for Computing Machinery (ACM) verkündet den öffentlichen Zugriff auf die digitale Bibliothek des Verbandes."
-    },
-    {
-      "title": "Flyover-Touren: Apple streicht Feature in Maps",
-      "teaser": "Mit einer besonderen Funktion konnte man sich seit 2014 in Apples Karten-App Städte zeigen lassen. Das Feature wurde mit iOS 26 kommentarlos gestrichen.",
-      "url": "https://www.heise.de/news/Flyover-Touren-Apple-streicht-Feature-in-Maps-11121223.html",
-      "image_title": "Apple-Karten"
-    },
-    {
       "title": "Team und Softwarearchitektur im Einklang – ein soziotechnisches System",
       "url": "https://www.heise.de/hintergrund/Team-und-Softwarearchitektur-im-Einklang-ein-soziotechnisches-System-11107015.html",
       "image_title": "Aufmacher: Menschen in asiatischer Bar"
     },
     {
+      "title": "ACM: Die weltweit größte Gesellschaft für Informatik öffnet ihre Bibliothek",
+      "url": "https://www.heise.de/news/Open-Access-Bibliothek-der-Association-for-Computing-Machinery-oeffnet-sich-11126470.html",
+      "image_title": "Die Association for Computing Machinery (ACM) verkündet den öffentlichen Zugriff auf die digitale Bibliothek des Verbandes."
+    },
+    {
       "title": "39C3: Skynet Starter Kit – Forscher übernehmen humanoide Roboter per Funk und KI",
       "url": "https://www.heise.de/hintergrund/39C3-Skynet-Starter-Kit-Forscher-uebernehmen-humanoide-Roboter-per-Funk-und-KI-11125594.html",
       "image_title": "Das Team auf der Bühne des 39C3"
-    },
-    {
-      "title": "Russische Jet-Kamikazedrohne mit Raspberry Pi 4",
-      "url": "https://www.heise.de/news/Russische-Jet-Kamikazedrohne-mit-Raspberry-Pi-4-10669722.html",
-      "image_title": "Russische Drohne vom Typ Geran-3 nach Absturz in der Ukraine."
     },
     {
       "title": "Zahlen, bitte! 809.825 Gulden des Jacob Fugger – Reichster Mann seiner Zeit",
@@ -523,9 +521,9 @@
       "image_title": "Ausgedrucktes iPhone Fold nach angeblich durchgesickerten CAD-Bildern"
     },
     {
-      "title": "MacBook Pro M5: Apple erleichtert Akkuwechsel",
-      "url": "https://www.heise.de/news/MacBook-Pro-M5-Apple-erleichtert-Akkuwechsel-11124285.html",
-      "image_title": "„EInrollen“ des frischen Akkus bei einem MacBook Pro M5"
+      "title": "Flyover-Touren: Apple streicht Feature in Maps",
+      "url": "https://www.heise.de/news/Flyover-Touren-Apple-streicht-Feature-in-Maps-11121223.html",
+      "image_title": "Apple-Karten"
     },
     {
       "title": "Was kommt 2026? Die spannensten Motorräder der kommenden Saison - Teil 1",
@@ -542,6 +540,11 @@
       "url": "https://www.heise.de/hintergrund/Das-Fotojahr-2025-Kontinuierlicher-Wandel-statt-grosser-Umsturz-11125698.html"
     },
     {
+      "title": "Elektroauto Dacia Spring erstarkt und bleibt günstig: Frühjahrsbelebung",
+      "url": "https://www.heise.de/news/Elektroauto-Dacia-Spring-erstarkt-und-bleibt-guenstig-Fruehjahrsbelebung-11123763.html",
+      "image_title": "Dacia Spring"
+    },
+    {
       "title": "Partnerschaft besiegelt: Nvidia kauft Intel-Aktien",
       "url": "https://www.heise.de/news/Partnerschaft-besiegelt-Nvidia-kauft-Intel-Aktien-11126207.html",
       "image_title": "Schild mit Intel-Logo am Firmensitz"
@@ -550,11 +553,6 @@
       "title": "39C3: „Digital Independence Day“ gegen Tech-Monopole",
       "url": "https://www.heise.de/news/39C3-Am-Di-Day-weg-von-Tech-Monopolen-aus-den-USA-und-China-11125535.html",
       "image_title": "Der 39C3 hat am 27. Dezember in Hamburg begonnen."
-    },
-    {
-      "title": "Microsoft Teams kann ab Dezember Büroanwesenheit erfassen",
-      "url": "https://www.heise.de/news/Microsoft-Teams-kann-ab-Dezember-Bueroanwesenheit-erfassen-10899898.html",
-      "image_title": "Das Microsoft Teams Logo wird auf einem Smartphone Bildschirm angezeigt."
     },
     {
       "title": "39C3: Es gibt keine Zahlen zur Wirksamkeit von Palantir",
@@ -649,21 +647,20 @@
       "url": "https://www.heise.de/en/news/MongoBleed-Over-11-500-Vulnerable-MongoDB-Instances-in-Germany-11126735.html"
     },
     {
-      "title": "Defekter Personalausweis: Was man bei Störung des Speicherchips tun kann",
-      "teaser": "Ärgerlich, wenn der Perso-Chip plötzlich nicht mehr funktioniert. Aber muss man dann zwingend einen neuen beantragen? Und wer trägt die Kosten?",
-      "url": "https://www.heise.de/hintergrund/Defekter-Personalausweis-Was-man-bei-Stoerung-des-Speicherchips-tun-kann-11098465.html"
-    },
-    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Die spannendsten Chips des Jahres 2026",
       "teaser": "In Folge 2025/27 des Podcasts Bit-Rauschen sprechen wir über die wichtigsten neuen Prozessoren, KI-Beschleuniger und anderen Chips, die 2026 anstehen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Die-spannendsten-Chips-des-Jahres-2026-11116560.html",
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
     },
     {
-      "title": "Buchkritik: Enshittification",
-      "teaser": "Populäre Internetdienste stiften immer weniger Nutzen, manche mutieren zu echten Ärgernissen. Cory Doctorow zufolge stecken Absicht und Prinzip dahinter.",
-      "url": "https://www.heise.de/tests/Buchkritik-Enshittification-11081123.html",
-      "image_title": "Buchkritik: Cory Doctorow, Enshittification"
+      "title": "Defekter Personalausweis: Was man bei Störung des Speicherchips tun kann",
+      "teaser": "Ärgerlich, wenn der Perso-Chip plötzlich nicht mehr funktioniert. Aber muss man dann zwingend einen neuen beantragen? Und wer trägt die Kosten?",
+      "url": "https://www.heise.de/hintergrund/Defekter-Personalausweis-Was-man-bei-Stoerung-des-Speicherchips-tun-kann-11098465.html"
+    },
+    {
+      "title": "KI-Bilder statt Modefotografie",
+      "teaser": "Nach Zalando und H&M kündigt nun auch die Fast-Fashion-Marke Zara an, anstelle von Fotoshootings KI-generierte Bilder mit digitalen Klonen der Models zu nutzen.",
+      "url": "https://www.heise.de/news/KI-Bilder-statt-Modefotografie-11125753.html"
     },
     {
       "title": "Eisenhower-Prinzip, Pomodoro-Technik, SMART-FormelMit kluger Zeitplanung Freiräume schaffen",
@@ -684,12 +681,6 @@
       "image_title": "MailMaven auf dem Mac"
     },
     {
-      "title": "Vinylflattener zum Glätten von Schallplatten im Selbstbau",
-      "teaser": "Meine selbst entwickelte Bügelmaschine für Vinylplatten glättet Wellen und macht sie nicht nur optisch wieder schöner, sondern kann auch den Klang verbessern.",
-      "url": "https://www.heise.de/ratgeber/Vinylflattener-zum-Glaetten-von-Schallplatten-im-Selbstbau-10961586.html",
-      "image_title": ","
-    },
-    {
       "title": "Werkzeugwissen: Unterschiede zwischen Zwingen, Klemmen und Spannern",
       "teaser": "Zwischen Holzzwingen, Einhandzwingen und Stahlzwingen gibt es große Unterschiede in Kraft, Hub und Handhabung. Wir erklären, worauf bei der Wahl zu achten ist.",
       "url": "https://www.heise.de/ratgeber/Werkzeugwissen-Unterschiede-zwischen-Zwingen-Klemmen-und-Spannern-10778773.html",
@@ -701,27 +692,32 @@
       "url": "https://www.heise.de/news/CE-Zertifizierung-fuer-Maker-GetSmandered-macht-s-erschwinglich-11124279.html"
     },
     {
+      "title": "Für leckeres Brot: Fermentierschrank für Sauerteig im Eigenbau",
+      "teaser": "Um den besten Sauerteig zu erzeugen, hilft der hier vorgestellte Wärmeschrank – mit dem RP2040-Mikrocontroller, Sensoren und sparsamen Heizelementen.",
+      "url": "https://www.heise.de/ratgeber/Fuer-leckeres-Brot-Fermentierschrank-fuer-Sauerteig-im-Eigenbau-11113749.html",
+      "image_title": ","
+    },
+    {
       "title": "Die Bilder des Jahres 2025 aus der c't Foto-Galerie",
       "teaser": "Von Mond und Architektur bis Makro und Landschaft: Die beliebtesten Fotos 2025 zeigen starke Bildideen, Technik mit Maß und den Blick der Community.",
       "url": "https://www.heise.de/hintergrund/Die-Bilder-des-Jahres-2025-aus-der-c-t-Foto-Galerie-11126219.html"
+    },
+    {
+      "title": "Heilende Bilder: Wie Fotografieren den Blick auf uns selbst verändert",
+      "teaser": "Von Fototherapie bis Foto-Kunst-Projekten: So helfen Fotos, Traumata zu verarbeiten, Ressourcen zu entdecken und sich neu zu sehen.",
+      "url": "https://www.heise.de/ratgeber/Heilende-Bilder-Wie-Fotografieren-den-Blick-auf-uns-selbst-veraendert-11119191.html",
+      "image_title": ", Alle Bilder: Judith Haeusler"
+    },
+    {
+      "title": "Astro-Objektive im Praxistest",
+      "teaser": "Sigma-Ultraweitwinkel-Objektive (Sony-E-Mount) für die Astrofotografie: von 14 bis 28 mm, mit hoher Lichtstärke und exzellenter Sternabbildung bis in die Ecken.",
+      "url": "https://www.heise.de/tests/Astro-Objektive-im-Praxistest-11121709.html"
     },
     {
       "title": "Gut geplant zum Nachthimmel-Foto: So gelingt die Astrofotografie",
       "teaser": "Von Kamera bis Kleidung – wir zeigen, wie Sie Ihre Astroreise planen und an den besten Orten die Sterne fotografieren.",
       "url": "https://www.heise.de/ratgeber/Gut-geplant-zum-Nachthimmel-Foto-So-gelingt-die-Astrofotografie-11120039.html",
       "image_title": ", Alle Bilder: Stefan Liebermann"
-    },
-    {
-      "title": "Fototour Hamburger Bunker: Von Kriegsrelikten zur Stadtarchitektur",
-      "teaser": "Beton trifft Kamera – eine fotografische Spurensuche zu den alten, inzwischen jedoch neu genutzten Luftschutzbunkern nördlich und südlich der Elbe.",
-      "url": "https://www.heise.de/ratgeber/Fototour-Hamburger-Bunker-Von-Kriegsrelikten-zur-Stadtarchitektur-11116016.html",
-      "image_title": "Der ehemalige Flakturm IV an der Feldstraße bietet vom Jahrmarktgelände des Hamburger Doms aus in der Blauen Stunde einen spektakulären Anblick. Gut zu erkennen sind das aufgestockte Hotel, die zugehörigen Fahrstuhlschächte sowie der insgesamt 560 Meter lange Bergpfad, der zu einem öffentlichen Dachgarten führt., Alle Bilder: Knut Gielen"
-    },
-    {
-      "title": "Funken, Feinstaub, Fotofreude: Click Boom Flash # 53 Feuerwerksfotografie",
-      "teaser": "„Das klingt vielleicht merkwürdig, aber wenn man Erfahrung hat, hört man sogar, welcher Effekt als nächstes kommen kann“, sagt Fotograf Reiter über Feuerwerke.",
-      "url": "https://www.heise.de/news/Funken-Feinstaub-Fotofreude-Click-Boom-Flash-53-Feuerwerksfotografie-11118293.html",
-      "image_title": "Feuerwerksfotografie"
     },
     {
       "title": "Proxmox mit Ansible automatisieren",
@@ -742,6 +738,12 @@
       "image_title": ", Nvidia"
     },
     {
+      "title": "Was kommt 2026? Motorrad-Vorschau, Teil zwei",
+      "teaser": "Für die beliebtesten Segmente erfolgversprechende Bikes mit Modellen der großen japanischen Motorradhersteller und der Traditionsmarken MV Agusta und Triumph.",
+      "url": "https://www.heise.de/news/Was-kommt-2026-Motorrad-Vorschau-Teil-zwei-11116195.html",
+      "image_title": "Triumph Trident 800"
+    },
+    {
       "title": "CO2-Flottengrenzwert für Neuwagen ab 2030Ohne mehr E-Autos geht es nicht",
       "teaser": "Der notwendige Hochlauf der Verkaufszahlen von Elektroautos ist deutlich steiler als bisher. Denn die kommenden Grenzwerte sind anders nicht zu erreichen.",
       "url": "https://www.heise.de/news/CO2-Flottengrenzwert-fuer-Neuwagen-Warum-das-Jahr-2030-bedeutsam-ist-11125692.html",
@@ -760,28 +762,22 @@
       "image_title": "BMW R 12 S"
     },
     {
-      "title": "ElektromobilitätFörderung für gebrauchte E-Autos gefordert",
-      "teaser": "Ministerpräsident Olaf Lies will im VW-Land Niedersachsen bei der E-Auto-Förderung auf Gebrauchtwagen setzen.",
-      "url": "https://www.heise.de/news/Foerderung-fuer-gebrauchte-E-Autos-gefordert-11124818.html",
-      "image_title": "Ein Verkehrsschild weißt den Weg zu einer Ladestation für Elektroautos. In dem Foto zeigt der Pfeil auch auf ein Restaurant namens \"Good Fortune\"."
+      "title": "Kakadus headbanging: Die Party-Vögel der Tierwelt",
+      "teaser": "Kakadus tanzen wohl sehr gerne, wie zahlreiche Videos in den Sozialen Netzwerken beweisen. Was aber treibt sie zu diesem bei Tieren sehr seltenen Verhalten?",
+      "url": "https://www.heise.de/-11126313",
+      "image_title": "Ein Kakadu im Anflug"
     },
     {
-      "title": "Terror nach Maß: Wer definiert den Feind?",
-      "teaser": "Spätestens mit dem \"Global War on Terror\" wurde der Begriff zur Konstante. Warum und wie die Debatte politisch instrumentalisiert wird. Eine Analyse.",
-      "url": "https://www.heise.de/-11092957",
-      "image_title": "Terrorism in rot"
+      "title": "Blei-Vergiftung als Evolutionsfaktor: Warum moderne Menschen überlebten",
+      "teaser": "Forscher finden Hinweise auf Blei-Belastung bei Frühmenschen. Eine Genmutation könnte dem Homo sapiens Vorteile gegenüber Neandertalern verschafft haben.",
+      "url": "https://www.heise.de/-10773337",
+      "image_title": "Schädel eines Homo sapiens und eines Neandertalers"
     },
     {
-      "title": "Wer begrenzt unsere Freiheit: Wir selbst oder das System?",
-      "teaser": "Demokratie verspricht Freiheit und Gleichheit. Doch Freiheit entsteht nicht automatisch aus Mehrheiten. Wer ist in der Demokratie wirklich souverän?",
-      "url": "https://www.heise.de/-11126240",
-      "image_title": "Grafik: ein Eine einzelne Figur unter einer abstrahierten Mehrheit , dargestellt als ovale Wolke mit Figuren"
-    },
-    {
-      "title": "Genveränderung macht Schweine immun gegen tödliche Seuche",
-      "teaser": "Forscher entwickeln Schweine, die gegen die Schweinepest resistent sind. Ein winziger Eingriff ins Erbgut könnte Millionen Tieren das Leben retten.",
-      "url": "https://www.heise.de/-10855100",
-      "image_title": "Mehrere dutzend Schweine"
+      "title": "Gesund versorgt? Nur, wenn man sich auskennt",
+      "teaser": "Das deutsche Gesundheitssystem gilt als bestes der Welt. In der Praxis werden Risiken und Verantwortung weitergereicht. Am Ende steht der Patient allein.",
+      "url": "https://www.heise.de/-11123822",
+      "image_title": "500-Euro-Schein mit vituvianischem Menschen, der von einem Stethoskop geffesselt wird"
     },
     {
       "title": "Mac wird langsam? Dieses Tool zeigt dir, wann Apple heimlich deine CPU drosselt",
