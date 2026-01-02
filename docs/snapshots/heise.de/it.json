@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T09:14:37",
+  "timestamp": "2026-01-02T10:10:55",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Microsofts Andromeda OS: Windows für das Surface Duo kann ausprobiert werden",
+      "teaser": "Microsofts Surface Duo sollte mit Andromeda OS zu einem Windows-Smartphone werden. Das vor Jahren eingestampfte Projekt kann nun ausprobiert werden.",
+      "url": "https://www.heise.de/news/Microsofts-Andromeda-OS-Windows-fuer-das-Surface-Duo-kann-ausprobiert-werden-11127218.html",
+      "image_title": "Surface Duo 1 aufgeklappt in Hand"
+    },
+    {
+      "title": "AI Slop: Den Augen kann man nicht mehr trauen",
+      "teaser": "Jedes dritte Youtube-Video ist billiger KI-Müll. Der Instagram-Chef zeichnet ein düsteres Bild. Menschen lehnen KI zunehmend ab.",
+      "url": "https://www.heise.de/hintergrund/AI-Slop-KI-Bilder-als-Problem-fuer-Youtube-Instagram-und-das-Internet-11127098.html",
+      "image_title": "Mann schaut im Bett auf Handy"
+    },
+    {
       "title": "Smartpens: Ihr kurzes Dasein und warum sie vom Markt verschwunden sind",
       "teaser": "Auf Papier schreiben, automatisch digitalisieren. Die Idee war gut und doch scheinen Smartpens komplett vom Markt verschwunden zu sein. Was wurde aus ihnen?",
       "url": "https://www.heise.de/hintergrund/Smartpens-Ihr-kurzes-Dasein-und-warum-sie-vom-Markt-verschwunden-sind-11077513.html"
@@ -34,18 +46,6 @@
       "title": "Neu in .NET 10.0 [4]: Neue Operatorüberladungen in C# 14.0",
       "teaser": "C# 14.0 bietet auch Operatorüberladungen für zusammengesetzte Zuweisungsoperatoren.",
       "url": "https://www.heise.de/blog/Neu-in-NET-10-0-4-Neue-Operatorueberladungen-in-C-14-0-11120736.html"
-    },
-    {
-      "title": "StarlinkSpaceX will Orbit der Internetsatelliten merklich absenken",
-      "teaser": "SpaceX hat etwa 10.000 Satelliten in eine Umlaufbahn von mehr als 550 km Höhe geschossen. Nun sollen viele deutlich niedriger kommen.",
-      "url": "https://www.heise.de/news/Fuer-Sicherheit-im-Orbit-SpaceX-will-Starlink-Satelliten-absenken-11126985.html",
-      "image_title": "Künstlerische Darstellung eines Starlink-Satelliten über der Erde"
-    },
-    {
-      "title": "Vorsicht, Kunde: Wenn die Stromrechnung zu hoch ausfällt",
-      "teaser": "Meldet der Stromanbieter zu hohe Verbrauchswerte, können diverse Gründe dahinterstecken. Wir klären, wie man sich effektiv gegen fehlerhafte Abrechnungen wehrt.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Wenn-die-Stromrechnung-zu-hoch-ausfaellt-11126661.html",
-      "image_title": "Energiekosten-Messgerät"
     },
     {
       "title": "HintergrundSmartpens: Ihr kurzes Dasein und warum sie vom Markt verschwunden sind",
@@ -58,6 +58,18 @@
     {
       "title": "HintergrundSicherheitslücken vorbeugen: Auf Credential-Suche mit TruffleHog",
       "url": "https://www.heise.de/hintergrund/Sicherheitsluecken-vorbeugen-Auf-Credential-Suche-mit-TruffleHog-11083611.html"
+    },
+    {
+      "title": "Starlink: SpaceX will Orbit der Internetsatelliten merklich absenken",
+      "teaser": "SpaceX hat etwa 10.000 Satelliten in eine Umlaufbahn von mehr als 550 km Höhe geschossen. In den kommenden Monaten sollen viele deutlich niedriger kommen.",
+      "url": "https://www.heise.de/news/Fuer-Sicherheit-im-Orbit-SpaceX-will-Starlink-Satelliten-absenken-11126985.html",
+      "image_title": "Künstlerische Darstellung eines Starlink-Satelliten über der Erde"
+    },
+    {
+      "title": "Vorsicht, Kunde: Wenn die Stromrechnung zu hoch ausfällt",
+      "teaser": "Meldet der Stromanbieter zu hohe Verbrauchswerte, können diverse Gründe dahinterstecken. Wir klären, wie man sich effektiv gegen fehlerhafte Abrechnungen wehrt.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Wenn-die-Stromrechnung-zu-hoch-ausfaellt-11126661.html",
+      "image_title": "Energiekosten-Messgerät"
     },
     {
       "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
@@ -130,18 +142,6 @@
       "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11109415.html",
       "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
-    },
-    {
-      "title": "Wie Sie mit Kamal Web-Apps deployen",
-      "teaser": "Wer unabhängig bleiben möchte, sucht nach einer Möglichkeit, Web-Apps plattformunabhängig oder auf eigener Hardware zu deployen – und stößt auf das Tool Kamal.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-Kamal-Web-Apps-deployen-11118437.html",
-      "image_title": ","
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Die spannendsten Chips des Jahres 2026",
-      "teaser": "In Folge 2025/27 des Podcasts Bit-Rauschen sprechen wir über die wichtigsten neuen Prozessoren, KI-Beschleuniger und anderen Chips, die 2026 anstehen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Die-spannendsten-Chips-des-Jahres-2026-11116560.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
     },
     {
       "title": "RatgeberKommentar: Warum man keine Wallbox mehr braucht",
