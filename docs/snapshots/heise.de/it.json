@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T07:15:35",
+  "timestamp": "2026-01-02T08:15:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Neu in .NET 10.0 [4]: Neue Operatorüberladungen in C# 14.0",
+      "teaser": "C# 14.0 bietet auch Operatorüberladungen für zusammengesetzte Zuweisungsoperatoren.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-4-Neue-Operatorueberladungen-in-C-14-0-11120736.html"
+    },
+    {
+      "title": "Dynamics 365 mit TypeScript anpassen",
+      "teaser": "Ein Programmbeispiel zeigt, wie man TypeScript für das Customizing in Dynamics 365 nutzen kann.",
+      "url": "https://www.heise.de/ratgeber/Dynamics-365-mit-TypeScript-anpassen-11091618.html",
+      "image_title": ","
+    },
+    {
+      "title": "Vorsicht, Kunde: Wenn die Stromrechnung zu hoch ausfällt",
+      "teaser": "Meldet der Stromanbieter zu hohe Verbrauchswerte, können diverse Gründe dahinterstecken. Wir klären, wie man sich effektiv gegen fehlerhafte Abrechnungen wehrt.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Wenn-die-Stromrechnung-zu-hoch-ausfaellt-11126661.html",
+      "image_title": "Energiekosten-Messgerät"
+    },
+    {
       "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
       "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
       "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11109427.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Unerwünschten Netzwerkverkehr mit Pi-hole und CrowdSec blocken",
-      "teaser": "Netzwerke lassen sich vor Angriffen schützen. Pi-hole lässt Anfragen an Domains ins Leere laufen und CrowdSec blockiert als bösartig eingestufte IP-Adressen.",
-      "url": "https://www.heise.de/hintergrund/Unerwuenschten-Netzwerkverkehr-mit-Pi-hole-und-CrowdSec-blocken-11084853.html"
-    },
-    {
-      "title": "200 Gigabyte an ESA-DatenEuropas Weltraumagentur gesteht Cybersicherheitsvorfall ein",
-      "teaser": "Die ESA versichert, dass von einem „Cybersicherheitsproblem“ lediglich Server außerhalb des hauseigenen Netzwerks betroffen sind.",
-      "url": "https://www.heise.de/news/200-Gigabyte-an-Daten-zum-Verkauf-angeboten-Cybersicherheitsvorfall-bei-der-ESA-11126973.html",
-      "image_title": "ESA-Logo vor einer Satellitenaufnahme Europas bei Nacht"
-    },
-    {
-      "title": "Für HalbleiterherstellungErstmals Fertigungsofen im Weltall auf 1000 Grad erhitzt",
-      "teaser": "Das Unternehmen Space Forge aus Cardiff konnte zum ersten Mal Plasma im Fertigungsofen ihres Satelliten ForgeStar-1 erzeugen.",
-      "url": "https://www.heise.de/news/Space-Forge-erhitzt-erstmals-Fertigungsofen-im-Weltall-auf-1000-Grad-11126873.html"
     },
     {
       "title": "HintergrundUnerwünschten Netzwerkverkehr mit Pi-hole und CrowdSec blocken",
@@ -59,6 +60,23 @@
       "title": "RatgeberWie Sie mit Kamal Web-Apps deployen",
       "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-Kamal-Web-Apps-deployen-11118437.html",
       "image_title": ","
+    },
+    {
+      "title": "Starlink: SpaceX will Orbit der Internetsatelliten merklich absenken",
+      "teaser": "SpaceX hat etwa 10.000 Satelliten in eine Umlaufbahn von mehr als 550 km Höhe geschossen. In den kommenden Monaten sollen viele deutlich niedriger kommen.",
+      "url": "https://www.heise.de/news/Fuer-Sicherheit-im-Orbit-SpaceX-will-Starlink-Satelliten-absenken-11126985.html",
+      "image_title": "Künstlerische Darstellung eines Starlink-Satelliten über der Erde"
+    },
+    {
+      "title": "200 Gigabyte an Daten zum Verkauf angeboten: Cybersicherheitsvorfall bei der ESA",
+      "teaser": "Die ESA versichert, dass von einem „Cybersicherheitsproblem“ lediglich Server außerhalb des hauseigenen Netzwerks betroffen sind. Viel ist aber nicht bekannt.",
+      "url": "https://www.heise.de/news/200-Gigabyte-an-Daten-zum-Verkauf-angeboten-Cybersicherheitsvorfall-bei-der-ESA-11126973.html",
+      "image_title": "ESA-Logo vor einer Satellitenaufnahme Europas bei Nacht"
+    },
+    {
+      "title": "Space Forge erhitzt erstmals Fertigungsofen im Weltall auf 1000 Grad",
+      "teaser": "Das Unternehmen Space Forge aus Cardiff konnte zum ersten Mal Plasma im Fertigungsofen ihres Satelliten ForgeStar-1 erzeugen.",
+      "url": "https://www.heise.de/news/Space-Forge-erhitzt-erstmals-Fertigungsofen-im-Weltall-auf-1000-Grad-11126873.html"
     },
     {
       "title": "WTF: Raspberry-Pi-Verbot bei Amtseinführung des New Yorker Bürgermeisters",
@@ -128,42 +146,24 @@
       "image_title": "Tim Cook mit iPads"
     },
     {
-      "title": "Gehalt über 500.000 US-Dollar: OpenAI sucht Aufpasser für ChatGPT",
-      "teaser": "OpenAI sucht einen neuen Mitarbeiter, der den sicheren Umgang der KI-Dienste mit psychischen Erkrankungen gewährleistet und für Cybersicherheit einsteht.",
-      "url": "https://www.heise.de/news/Eine-halbe-Millionen-mit-KI-verdienen-OpenAI-will-Sicherheitsposten-besetzen-11126526.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "39C3: Wenn Moleküle zu kryptografischen Funktionen werden",
-      "teaser": "Chemikerin Anne Lüscher zeigte auf dem 39C3, wie sich synthetische DNA für Datenspeicherung und fälschungssichere Authentifizierung nutzen lässt.",
-      "url": "https://www.heise.de/news/39C3-Wenn-Molekuele-zu-kryptografischen-Funktionen-werden-11126508.html",
-      "image_title": "Anne Lüscher beim 39C3-Vortrag"
-    },
-    {
-      "title": "PV-Speicherbatterien: Gericht stärkt Herstellern bei Fernabschaltung den Rücken",
-      "teaser": "Werden Photovoltaik-Speicher per Software gedrosselt, müssen Kunden das laut einem Landgericht trotz Leistungsversprechen als Sicherheitsmaßnahme akzeptieren.",
-      "url": "https://www.heise.de/news/PV-Speicherbatterien-Gericht-staerkt-Herstellern-bei-Fernabschaltung-den-Ruecken-11126512.html",
-      "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
-    },
-    {
       "title": "RatgeberKommentar: Warum man keine Wallbox mehr braucht",
       "url": "https://www.heise.de/ratgeber/Warum-man-keine-Wallbox-mehr-braucht-11123337.html",
       "image_title": "Wallbox von Bosch"
     },
     {
+      "title": "NewsGehalt über 500.000 US-Dollar: OpenAI sucht Aufpasser für ChatGPT",
+      "url": "https://www.heise.de/news/Eine-halbe-Millionen-mit-KI-verdienen-OpenAI-will-Sicherheitsposten-besetzen-11126526.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
+    },
+    {
+      "title": "NewsPV-Speicherbatterien: Gericht stärkt Herstellern bei Fernabschaltung den Rücken",
+      "url": "https://www.heise.de/news/PV-Speicherbatterien-Gericht-staerkt-Herstellern-bei-Fernabschaltung-den-Ruecken-11126512.html",
+      "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
+    },
+    {
       "title": "NewsChina: LLMs müssen sich outen",
       "url": "https://www.heise.de/news/China-LLMs-muessen-sich-outen-11126627.html",
       "image_title": "Fahne der Volksrepublik China"
-    },
-    {
-      "title": "News39C3: Es gibt keine Zahlen zur Wirksamkeit von Palantir",
-      "url": "https://www.heise.de/news/39C3-Vom-interessanten-Rechtsverstaendnis-des-Wurstkoenigs-bei-Palantir-mehr-11126131.html",
-      "image_title": "Constanze Kurz und Franziska Görlitz."
-    },
-    {
-      "title": "News39C3: Sicherheitslücken in Xplora-Kinderuhr erlaubten Zugriff auf alle Geräte",
-      "url": "https://www.heise.de/news/39C3-Schwachstellen-in-Xplora-Smartwatches-gefaehrdeten-Millionen-Kinder-11126122.html",
-      "image_title": "Xplora-Smartwatch und Smartphone im Chat"
     },
     {
       "title": "TestsSkoda Enyaq 85 im Test: Reife-Leistung",
