@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-02T08:15:25",
+  "timestamp": "2026-01-02T09:14:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,20 @@
   ],
   "articles": [
     {
+      "title": "Smartpens: Ihr kurzes Dasein und warum sie vom Markt verschwunden sind",
+      "teaser": "Auf Papier schreiben, automatisch digitalisieren. Die Idee war gut und doch scheinen Smartpens komplett vom Markt verschwunden zu sein. Was wurde aus ihnen?",
+      "url": "https://www.heise.de/hintergrund/Smartpens-Ihr-kurzes-Dasein-und-warum-sie-vom-Markt-verschwunden-sind-11077513.html"
+    },
+    {
       "title": "Neu in .NET 10.0 [4]: Neue Operatorüberladungen in C# 14.0",
       "teaser": "C# 14.0 bietet auch Operatorüberladungen für zusammengesetzte Zuweisungsoperatoren.",
       "url": "https://www.heise.de/blog/Neu-in-NET-10-0-4-Neue-Operatorueberladungen-in-C-14-0-11120736.html"
     },
     {
-      "title": "Dynamics 365 mit TypeScript anpassen",
-      "teaser": "Ein Programmbeispiel zeigt, wie man TypeScript für das Customizing in Dynamics 365 nutzen kann.",
-      "url": "https://www.heise.de/ratgeber/Dynamics-365-mit-TypeScript-anpassen-11091618.html",
-      "image_title": ","
+      "title": "StarlinkSpaceX will Orbit der Internetsatelliten merklich absenken",
+      "teaser": "SpaceX hat etwa 10.000 Satelliten in eine Umlaufbahn von mehr als 550 km Höhe geschossen. Nun sollen viele deutlich niedriger kommen.",
+      "url": "https://www.heise.de/news/Fuer-Sicherheit-im-Orbit-SpaceX-will-Starlink-Satelliten-absenken-11126985.html",
+      "image_title": "Künstlerische Darstellung eines Starlink-Satelliten über der Erde"
     },
     {
       "title": "Vorsicht, Kunde: Wenn die Stromrechnung zu hoch ausfällt",
@@ -43,10 +48,8 @@
       "image_title": "Energiekosten-Messgerät"
     },
     {
-      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
-      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
-      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11109427.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+      "title": "HintergrundSmartpens: Ihr kurzes Dasein und warum sie vom Markt verschwunden sind",
+      "url": "https://www.heise.de/hintergrund/Smartpens-Ihr-kurzes-Dasein-und-warum-sie-vom-Markt-verschwunden-sind-11077513.html"
     },
     {
       "title": "HintergrundUnerwünschten Netzwerkverkehr mit Pi-hole und CrowdSec blocken",
@@ -57,15 +60,10 @@
       "url": "https://www.heise.de/hintergrund/Sicherheitsluecken-vorbeugen-Auf-Credential-Suche-mit-TruffleHog-11083611.html"
     },
     {
-      "title": "RatgeberWie Sie mit Kamal Web-Apps deployen",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-Kamal-Web-Apps-deployen-11118437.html",
-      "image_title": ","
-    },
-    {
-      "title": "Starlink: SpaceX will Orbit der Internetsatelliten merklich absenken",
-      "teaser": "SpaceX hat etwa 10.000 Satelliten in eine Umlaufbahn von mehr als 550 km Höhe geschossen. In den kommenden Monaten sollen viele deutlich niedriger kommen.",
-      "url": "https://www.heise.de/news/Fuer-Sicherheit-im-Orbit-SpaceX-will-Starlink-Satelliten-absenken-11126985.html",
-      "image_title": "Künstlerische Darstellung eines Starlink-Satelliten über der Erde"
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11109427.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "200 Gigabyte an Daten zum Verkauf angeboten: Cybersicherheitsvorfall bei der ESA",
@@ -134,16 +132,16 @@
       "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
     },
     {
+      "title": "Wie Sie mit Kamal Web-Apps deployen",
+      "teaser": "Wer unabhängig bleiben möchte, sucht nach einer Möglichkeit, Web-Apps plattformunabhängig oder auf eigener Hardware zu deployen – und stößt auf das Tool Kamal.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-Kamal-Web-Apps-deployen-11118437.html",
+      "image_title": ","
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Die spannendsten Chips des Jahres 2026",
       "teaser": "In Folge 2025/27 des Podcasts Bit-Rauschen sprechen wir über die wichtigsten neuen Prozessoren, KI-Beschleuniger und anderen Chips, die 2026 anstehen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Die-spannendsten-Chips-des-Jahres-2026-11116560.html",
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "Leak-Details: Interne Software zeigt Apples Produkte für 2026",
-      "teaser": "Eine Vorabversion von iOS 26 und ein entfleuchtes Kernel-Debug-Kit sorgten fürs Durchsickern diverser Apple-Hardware-Details. Ein Überblick.",
-      "url": "https://www.heise.de/news/Monat-der-Leaks-Apples-Dezember-legte-viele-Geraete-fuer-2026-offen-11124450.html",
-      "image_title": "Tim Cook mit iPads"
     },
     {
       "title": "RatgeberKommentar: Warum man keine Wallbox mehr braucht",
@@ -161,9 +159,9 @@
       "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
     },
     {
-      "title": "NewsChina: LLMs müssen sich outen",
-      "url": "https://www.heise.de/news/China-LLMs-muessen-sich-outen-11126627.html",
-      "image_title": "Fahne der Volksrepublik China"
+      "title": "NewsLeak-Details: Interne Software zeigt Apples Produkte für 2026",
+      "url": "https://www.heise.de/news/Monat-der-Leaks-Apples-Dezember-legte-viele-Geraete-fuer-2026-offen-11124450.html",
+      "image_title": "Tim Cook mit iPads"
     },
     {
       "title": "TestsSkoda Enyaq 85 im Test: Reife-Leistung",
