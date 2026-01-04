@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-04T10:10:14",
+  "timestamp": "2026-01-04T11:08:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Massiver Stromausfall in Berlin dauert wohl bis Donnerstag",
+      "url": "https://www.heise.de/news/Massiver-Stromausfall-in-Berlin-dauert-wohl-bis-Donnerstag-11128212.html"
+    },
     {
       "title": "Astro-Objektive im Praxistest",
       "url": "https://www.heise.de/tests/Astro-Objektive-im-Praxistest-11121709.html",
@@ -64,10 +68,6 @@
     {
       "title": "Tesla-Auslieferungen im Sinkflug – Musk sieht Zukunft woanders",
       "url": "https://www.heise.de/news/Tesla-Auslieferungen-im-Sinkflug-Musk-sieht-Zukunft-woanders-11128042.html"
-    },
-    {
-      "title": "Redmagic Astra Gaming-Tablet im Test",
-      "url": "https://www.heise.de/bestenlisten/testbericht/redmagic-astra-gaming-tablet-im-test-snapdragon-8-elite-und-165-hz-oled-display/g4db31f?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Missing LinkUnsichtbare Revolution – wie der Bund die Verwaltung mit KI flutet",
@@ -217,20 +217,26 @@
       "image_title": "Screenshot aus GTA 6"
     },
     {
+      "title": "Massiver Stromausfall in Berlin dauert wohl bis Donnerstag",
+      "teaser": "Zehntausende im Südwesten der Hauptstadt haben seit gestern keinen Strom – und das bei Schnee und Kälte und wohl noch tagelang.",
+      "url": "https://www.heise.de/news/Massiver-Stromausfall-in-Berlin-dauert-wohl-bis-Donnerstag-11128212.html",
+      "image_title": "EIne Kerze wird im Dunkeln vor einen Sicherheitskasten gehalten."
+    },
+    {
       "title": "Astro-Objektive im Praxistest",
       "teaser": "Sigma-Ultraweitwinkel-Objektive (Sony-E-Mount) für die Astrofotografie: von 14 bis 28 mm, mit hoher Lichtstärke und exzellenter Sternabbildung bis in die Ecken.",
       "url": "https://www.heise.de/tests/Astro-Objektive-im-Praxistest-11121709.html"
+    },
+    {
+      "title": "Wenn die menschliche Firewall fällt",
+      "teaser": "IT-Sicherheit muss in Zeiten von Deepfakes neu definiert werden. Wer allein auf technische Abwehrmaßnahmen setzt, irrt. Denn das eigentliche Einfallstor sind nicht die Systeme, sondern die Prozesse.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7157460170&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop Keycloak: Die Grundlagen für effizientes IAM und SSO",
       "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
       "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11100899.html",
       "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
-      "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Linux-Bootloader Grub für Parallelinstallationen anpassen",
@@ -259,12 +265,6 @@
       "title": "Redmagic Astra Gaming-Tablet im Test",
       "teaser": "Das Redmagic Astra überzeugt mit geballter Power dank Snapdragon 8 Elite. Auch das 165-Hz-OLED-Display weiß zu überzeugen.",
       "url": "https://www.heise.de/bestenlisten/testbericht/redmagic-astra-gaming-tablet-im-test-snapdragon-8-elite-und-165-hz-oled-display/g4db31f?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Chatkontrolle: EU-Rat will das freiwillige Scannen von Chats dauerhaft erlauben",
-      "teaser": "Im Ringen um die Chatkontrolle hat der Rat seine Position gefunden – und weicht in mehreren Punkten deutlich von der Position des Parlaments ab.",
-      "url": "https://www.heise.de/hintergrund/Chatkontrolle-EU-Rat-will-das-freiwillige-Scannen-von-Chats-dauerhaft-erlauben-11086156.html",
-      "image_title": "App-Symbole von Signal und WhatsApp"
     },
     {
       "title": "Z-Image in der PraxisSchnelle KI-Bilder ohne Limit – mit wenig RAM",
@@ -358,6 +358,12 @@
       "image_title": "heise Adventskalender🎄"
     },
     {
+      "title": "Chatkontrolle: EU-Rat will das freiwillige Scannen von Chats dauerhaft erlauben",
+      "teaser": "Im Ringen um die Chatkontrolle hat der Rat seine Position gefunden – und weicht in mehreren Punkten deutlich von der Position des Parlaments ab.",
+      "url": "https://www.heise.de/hintergrund/Chatkontrolle-EU-Rat-will-das-freiwillige-Scannen-von-Chats-dauerhaft-erlauben-11086156.html",
+      "image_title": "App-Symbole von Signal und WhatsApp"
+    },
+    {
       "title": "Silvester-Rekord bei Datennutzung",
       "teaser": "Die Menschen in Deutschland haben zum Jahreswechsel wieder viele digitale Neujahrsgrüße verschickt. Warum die Nutzung erneut gestiegen ist.",
       "url": "https://www.heise.de/news/Silvester-Rekord-bei-Datennutzung-11127994.html"
@@ -423,15 +429,16 @@
       "url": "https://www.heise.de/ratgeber/Smarte-Thermostate-mit-Home-Assistant-ausreizen-11076793.html"
     },
     {
+      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
+      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
       "title": "Nebel, Mond, Winterlicht: Die Bilder der Woche 1",
       "teaser": "Stille Szenen, starke Formen und warmes Licht prägen die Auswahl der ersten Woche im neuen Jahr.",
       "url": "https://www.heise.de/news/Nebel-Mond-Winterlicht-Die-Bilder-der-Woche-1-11127118.html",
       "image_title": "Winterbild"
-    },
-    {
-      "title": "So lassen sich wiederkehrende Admin-Aufgaben automatisieren",
-      "teaser": "Der Wunsch vieler IT-Admins ist es, alltägliche IT-Aufgaben mit nur wenigen Klicks zu erledigen. Wie sich das mit einem modernen Unified-Endpoint-Management (UEM) verwirklichen lässt, erfahren Sie in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/vom-handgriff-zum-mausklick-wie-uem-hilft-administrative-aufgaben-zu-automatisieren-5000/?source=hbsad_ersatz"
     },
     {
       "title": "39C3: Die Krux mit der digitalen Souveränität | c’t uplink",
@@ -482,12 +489,6 @@
       "title": "Samsung Galaxy Tab A11 im Test",
       "teaser": "Samsung veröffentlicht mit dem Galaxy Tab A11 nach langer Pause eine Neuauflage seines kleinsten und günstigsten Tablets.",
       "url": "https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-tab-a11-im-test-guenstiges-mini-tablet-mit-87-zoll/0n305qx?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Test: Einplatinencomputer mit Qualcomm-Achtkerner Dragonwing QSC6490",
-      "teaser": "Die US-Chipfirma Qualcomm entdeckt ihr Herz für Linux-Bastler. Zwei bezahlbare Boards mit ARM-Chips von Qualcomm treten gegen den Raspberry Pi 5 an.",
-      "url": "https://www.heise.de/tests/Test-Einplatinencomputer-mit-Qualcomm-Achtkerner-Dragonwing-QSC6490-11081115.html",
-      "image_title": "2 Einplatinencomputer mit Qualcomm Dragonwig QCS6490"
     },
     {
       "title": "AI Slop: Den Augen kann man nicht mehr trauen",
@@ -661,16 +662,15 @@
       "url": "https://www.heise.de/news/39C3-Die-Krux-mit-der-digitalen-Souveraenitaet-c-t-uplink-11126946.html"
     },
     {
+      "title": "Schwebende Projektion: The FreeStyle+ braucht keine glatten Flächen",
+      "teaser": "Samsung stellt ein Update seines mobilen Beamers vor: The FreeStyle+ hängt die Projektion frei in den Raum, ganz ohne Leinwand und sogar vor eine Zimmerecke.",
+      "url": "https://www.heise.de/news/Schwebende-Projektion-The-FreeStyle-braucht-keine-glatten-Flaechen-11127881.html"
+    },
+    {
       "title": "c’t-Webinar – Wärmepumpentechnik für Einsteiger erklärt",
       "teaser": "Das Webinar bietet eine herstellerunabhängige Einführung in die Wärmepumpentechnik, hilft die Machbarkeit zu beurteilen und räumt mit Vorurteilen auf.",
       "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-erklaert-11115167.html",
       "image_title": "Wärmepumpe mit Außeneinheit und Steuergerät, ein rosa Sparschwein darauf, blauer Hintergrund, daneben ein Logo: c't Webinar"
-    },
-    {
-      "title": "Bundesnetzagentur droht mit StrafenSmart-Meter-Rollout: Hunderte Betreiber verpassen offenbar gesetzliches Ziel",
-      "teaser": "Die Stromnetzbetreiber haben das erste Etappenziel beim Smart-Meter-Rollout erreicht – allerdings nur im Mittel. Hunderten Stadtwerken drohen nun Zwangsgelder.",
-      "url": "https://www.heise.de/news/Smart-Meter-Rollout-Hunderte-Betreiber-verpassen-offenbar-gesetzliches-Ziel-11127877.html",
-      "image_title": "Smart Meter Gateway"
     },
     {
       "title": "Eisenhower-Prinzip, Pomodoro-Technik, SMART-FormelMit kluger Zeitplanung Freiräume schaffen",
@@ -679,16 +679,22 @@
       "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
     },
     {
-      "title": "Mailexperte: Mail-App MailMaven im Test",
-      "teaser": "Der E-Mail-Client MailMaven für macOS bietet Tagging und umfangreiche Ordnungsfunktionen. Wir haben die App getestet.",
-      "url": "https://www.heise.de/tests/Mailexperte-Mail-App-MailMaven-im-Test-11091118.html",
-      "image_title": "MailMaven auf dem Mac"
-    },
-    {
       "title": "ParallelweltenWas kann Parallels Desktop 26 auf dem Mac?",
       "teaser": "Parallels Desktop 26 virtualisiert Betriebssysteme. Wir haben die jüngste Version getestet: Wie läuft Windows 11 auf dem Mac?",
       "url": "https://www.heise.de/tests/Parallelwelten-Was-kann-Parallels-Desktop-26-auf-dem-Mac-11091078.html",
       "image_title": "Parallels Desktop 26"
+    },
+    {
+      "title": "Für Finger und HandgelenkUnauffällige Fitnesstracker im Test",
+      "teaser": "Smartbänder und Smartringe kombinieren kontinuierliches Gesundheitsmonitoring mit Diskretion. Wir haben drei Armbänder und drei Ringe getestet.",
+      "url": "https://www.heise.de/tests/Unauffaellige-Fitnesstracker-fuer-Finger-und-Handgelenk-im-Test-11119927.html",
+      "image_title": ", Alle Bilder: Inge Schwabe / heise medien"
+    },
+    {
+      "title": "Vinylflattener zum Glätten von Schallplatten im Selbstbau",
+      "teaser": "Meine selbst entwickelte Bügelmaschine für Vinylplatten glättet Wellen und macht sie nicht nur optisch wieder schöner, sondern kann auch den Klang verbessern.",
+      "url": "https://www.heise.de/ratgeber/Vinylflattener-zum-Glaetten-von-Schallplatten-im-Selbstbau-10961586.html",
+      "image_title": ","
     },
     {
       "title": "Werkzeugwissen: Unterschiede zwischen Zwingen, Klemmen und Spannern",
@@ -700,12 +706,6 @@
       "title": "CE-Zertifizierung für Maker: GetSmandered macht's erschwinglich",
       "teaser": "Eine Gruppenzertifizierung senkt die Kosten der CE für den Einzelnen drastisch. Das Projekt GetSmandered ist aber auf Open-Source-Hardware beschränkt.",
       "url": "https://www.heise.de/news/CE-Zertifizierung-fuer-Maker-GetSmandered-macht-s-erschwinglich-11124279.html"
-    },
-    {
-      "title": "Für leckeres Brot: Fermentierschrank für Sauerteig im Eigenbau",
-      "teaser": "Um den besten Sauerteig zu erzeugen, hilft der hier vorgestellte Wärmeschrank – mit dem RP2040-Mikrocontroller, Sensoren und sparsamen Heizelementen.",
-      "url": "https://www.heise.de/ratgeber/Fuer-leckeres-Brot-Fermentierschrank-fuer-Sauerteig-im-Eigenbau-11113749.html",
-      "image_title": ","
     },
     {
       "title": "Die Bilder des Jahres 2025 aus der c't Foto-Galerie",
@@ -770,22 +770,22 @@
       "image_title": "Renault 5"
     },
     {
-      "title": "1926: Als die Zukunft noch verboten weit offen war",
-      "teaser": "Warum ein scheinbar ruhiges Jahr der Weimarer Republik unsere Gegenwart der Dauerkrisen besser spiegelt als die großen Katastrophendaten.",
-      "url": "https://www.heise.de/-11127148",
-      "image_title": "Plakatähnliche Stadtszene aus dem Berlin der 1920er"
-    },
-    {
-      "title": "Pelz ohne schlechtes Gewissen – geht das überhaupt?",
-      "teaser": "Discounter verkaufen ihn als Kunstpelz, Vintage-Händler feiern ihn als nachhaltig – doch was stimmt wirklich?",
-      "url": "https://www.heise.de/-11115425",
-      "image_title": "Nerzmantel und Nerz"
+      "title": "Bürgergeld: Müssen Jobcenter günstige Wohnungen nachweisen?",
+      "teaser": "Ein BSG-Urteil verschiebt die Beweislast bei Mietobergrenzen. Was das für Betroffene in angespannten Wohnungsmärkten bedeutet.",
+      "url": "https://www.heise.de/-11127641",
+      "image_title": "Ordner mit der Aufschrift \"Bürgergeld\". Davor steht ein Paragraphen-Zeichen."
     },
     {
       "title": "Schluss mit Verkehrssünden – brauchen wir die griechische Lösung?",
       "teaser": "KI-Kameras erfassen in Athen täglich Tausende Verstöße – Bußgelder im fünfstelligen Bereich sind bei einer Fahrt möglich.",
       "url": "https://www.heise.de/-11127230",
       "image_title": "Verbotsschild mit \"KI\" hält vor griechischer Flagge mit Überwachungskamera Auto fest"
+    },
+    {
+      "title": "Exzellenz macht uns dumm",
+      "teaser": "Wie ein verheißungsvolles Schlagwort Denken ruiniert, Bildung industrialisiert und am Ende genau das zerstört, was es zu retten vorgibt.",
+      "url": "https://www.heise.de/-11126832",
+      "image_title": "Grafik zeigt einen Kopf, über den ein Pokal gehlaten wird, der aber explodiert"
     },
     {
       "title": "Oakley Meta Vanguard ausprobiert: Warum die KI beim Sport zu Hause bleiben kann",
