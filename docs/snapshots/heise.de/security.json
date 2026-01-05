@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T13:33:48",
+  "timestamp": "2026-01-05T14:14:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,14 +26,15 @@
   ],
   "articles": [
     {
+      "title": "Sicherheitslücke MongoDBMongoBleed-Scanner für Admins",
+      "teaser": "Viele MongoDB-Instanzen sind oder waren potenziell für MongoBleed anfällig. Ein Tool hilft bei der Server-Analyse auf Angriffsspuren.",
+      "url": "https://www.heise.de/news/MongoBleed-Scanner-fuer-Admins-11129291.html",
+      "image_title": "Lupe, unter der sich ein Warndreieck befindet."
+    },
+    {
       "title": "AlertPlex Media ServerNoch ungepatchte Zugriffsschwachstellen",
       "teaser": "Im Plex Media Server klaffen Sicherheitslecks, durch die Angreifer sich unbefugt Zugriff verschaffen können. Updates stehen aus.",
       "url": "https://www.heise.de/news/Plex-Media-Server-Noch-ungepatchte-Zugriffsschwachstellen-11128582.html"
-    },
-    {
-      "title": "AlertMongoBleed in DeutschlandMehr als 11.500 verwundbare MongoDB-Instanzen",
-      "teaser": "IT-Sicherheitsforscher haben die Verbreitung von für MongoBleed anfällige Instanzen untersucht. In Deutschland stehen über 11.500.",
-      "url": "https://www.heise.de/news/MongoBleed-Mehr-als-11-500-verwundbare-MongoDB-Instanzen-in-Deutschland-11126702.html"
     },
     {
       "title": "AlertJetzt patchen! Attacken auf Adobe ColdFusion und Fortinet-Firewalls beobachtet",
@@ -57,12 +58,6 @@
       "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11109443.html",
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
-    },
-    {
-      "title": "MongoBleed-Scanner für Admins",
-      "teaser": "Viele MongoDB-Instanzen sind oder waren potenziell für MongoBleed anfällig. Ein Tool hilft bei der Server-Analyse auf Angriffsspuren.",
-      "url": "https://www.heise.de/news/MongoBleed-Scanner-fuer-Admins-11129291.html",
-      "image_title": "Lupe, unter der sich ein Warndreieck befindet."
     },
     {
       "title": "AlertJetzt patchen! Attacken auf Adobe ColdFusion und Fortinet-Firewalls beobachtet",
@@ -98,6 +93,11 @@
       "teaser": "Eine IT-Sicherheitsforscherin deckt auf, wie der QR-Code eines Rollstuhls zum Generalschlüssel für alle Komfortfunktionen wird.",
       "url": "https://www.heise.de/news/39C3-Rollstuhl-Security-Wenn-ein-QR-Code-alle-Schutzmechanismen-aushebelt-11126816.html",
       "image_title": "Elfy in ihrem M25-Rollstuhl von Alber"
+    },
+    {
+      "title": "AlertMongoBleed: Mehr als 11.500 verwundbare MongoDB-Instanzen in Deutschland",
+      "teaser": "IT-Sicherheitsforscher haben die Verbreitung von für MongoBleed anfällige Instanzen untersucht. In Deutschland stehen über 11.500.",
+      "url": "https://www.heise.de/news/MongoBleed-Mehr-als-11-500-verwundbare-MongoDB-Instanzen-in-Deutschland-11126702.html"
     },
     {
       "title": "39C3: CCC-Hacker fordern Bundesdatensicherungsspiele gegen Ransomware-Albträume",
