@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-05T08:17:50",
+  "timestamp": "2026-01-05T09:20:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,19 +26,19 @@
   ],
   "articles": [
     {
+      "title": "AlertPlex Media ServerNoch ungepatchte Zugriffsschwachstellen",
+      "teaser": "Im Plex Media Server klaffen Sicherheitslecks, durch die Angreifer sich unbefugt Zugriff verschaffen können. Updates stehen aus.",
+      "url": "https://www.heise.de/news/Plex-Media-Server-Noch-ungepatchte-Zugriffsschwachstellen-11128582.html"
+    },
+    {
       "title": "AlertMongoBleed in DeutschlandMehr als 11.500 verwundbare MongoDB-Instanzen",
       "teaser": "IT-Sicherheitsforscher haben die Verbreitung von für MongoBleed anfällige Instanzen untersucht. In Deutschland stehen über 11.500.",
       "url": "https://www.heise.de/news/MongoBleed-Mehr-als-11-500-verwundbare-MongoDB-Instanzen-in-Deutschland-11126702.html"
     },
     {
-      "title": "AlertJetzt patchen!In Deutschland sind noch 11.000 WatchGuard-Firewalls angreifbar",
-      "teaser": "Sicherheitsforscher warnen, dass weltweit noch mehr als 117.000 WatchGuard-Firewalls der Firebox-Serie ohne Sicherheitsupdate sind.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-In-Deutschland-sind-noch-11-000-WatchGuard-Firewalls-angreifbar-11123634.html",
-      "image_title": "Bildschirm mit Warnmeldung"
-    },
-    {
-      "title": "AlertPlex Media Server: Noch ungepatchte Zugriffsschwachstellen",
-      "url": "https://www.heise.de/news/Plex-Media-Server-Noch-ungepatchte-Zugriffsschwachstellen-11128582.html"
+      "title": "AlertJetzt patchen! Attacken auf Adobe ColdFusion und Fortinet-Firewalls beobachtet",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Adobe-ColdFusion-und-Fortinet-Firewalls-beobachtet-11128770.html",
+      "image_title": "Fortschrittsanzeige \"Attack Successful\""
     },
     {
       "title": "Webinar am 28. JanuarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
@@ -53,9 +53,10 @@
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertPlex Media Server: Noch ungepatchte Zugriffsschwachstellen",
-      "teaser": "Im Plex Media Server klaffen Sicherheitslecks, durch die Angreifer sich unbefugt Zugriff verschaffen können. Updates stehen aus.",
-      "url": "https://www.heise.de/news/Plex-Media-Server-Noch-ungepatchte-Zugriffsschwachstellen-11128582.html"
+      "title": "AlertJetzt patchen! Attacken auf Adobe ColdFusion und Fortinet-Firewalls beobachtet",
+      "teaser": "Derzeit haben es Angreifer auf eine fünf Jahre alte Sicherheitslücke in Fortinet-Firewalls abgesehen. Die Lücken in ColdFusion sind ebenfalls älter.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Adobe-ColdFusion-und-Fortinet-Firewalls-beobachtet-11128770.html",
+      "image_title": "Fortschrittsanzeige \"Attack Successful\""
     },
     {
       "title": "iX-Workshop: Linux-Server absichern – effektiv und umfassend",
@@ -151,14 +152,14 @@
       "url": "https://heise-academy.de/Workshops/it-sicherheit-fuer-kmu/?wt_mc=intern.conf.ct.ws_kmu-sicherheit.security_buehne_2.teaser.teaser"
     },
     {
-      "title": "Classroom | 22.01. – 12.02.2026NIS-2 in der Praxis – EU-Richtlinie umsetzen und IT-Sicherheit stärken",
-      "teaser": "Erhalten Sie praxisnahe Strategien zur rechtskonformen Umsetzung – von der Risikoanalyse über Sicherheitsmaßnahmen bis zur Compliance-Dokumentation.",
-      "url": "https://heise-academy.de/classrooms/nis2-26?wt_mc=intern.academy.academy.cr_nis2.security_buehne_2.teaser.teaser"
-    },
-    {
       "title": "Workshop | 26. – 30.01.2026Linux-Server härten: Verschlüsselung, Zugriffskontrolle, Integritätschecks",
       "teaser": "Ein Workshop für die, die Linux-Server administrieren und wissen möchten, wie sie ihre Systeme effektiv gegen Angriffe von Außen und Innen absichern.",
       "url": "https://heise-academy.de/Workshops/linuxhaerten?wt_mc=intern.academy.ix.ws_linux.security_buehne_2.teaser.teaser"
+    },
+    {
+      "title": "Classroom | 10.02. – 10.03.2026Ethical Hacking für Admins – Pentesting für eine sichere IT",
+      "teaser": "Sich selbst hacken, bevor es Angreifer tun: Admins und IT-Sicherheitsverantwortliche lernen, wie sie die Sicherheit ihrer Systeme erhöhen.",
+      "url": "https://heise-academy.de/classrooms/ethical-hacking226?wt_mc=intern.academy.academy.cr_ethical-hacking.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Kongressmesse | 18. – 19.03.2026secIT by heise",
@@ -203,8 +204,8 @@
       "url": "https://www.heise.de/news/39C3-Rollstuhl-Security-Wenn-ein-QR-Code-alle-Schutzmechanismen-aushebelt-11126816.html"
     },
     {
-      "title": "KI-Coding-Assistenten mit Prompt Injection",
-      "url": "https://www.heise.de/news/39C3-Sicherheitsforscher-kapert-KI-Coding-Assistenten-mit-Prompt-Injection-11125630.html"
+      "title": "CCC: Mit Backups gegen Ransomware-Albträume",
+      "url": "https://www.heise.de/news/39C3-CCC-Hacker-fordern-Bundesdatensicherungsspiele-gegen-Ransomware-Albtraeume-11126693.html"
     }
   ]
 }
