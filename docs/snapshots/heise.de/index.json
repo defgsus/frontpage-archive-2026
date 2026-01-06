@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-06T03:56:49",
+  "timestamp": "2026-01-06T04:33:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Android-Handy TCL Nxtpaper 70 Pro: Matter Bildschirm wird flimmerfrei",
+      "url": "https://www.heise.de/news/Android-Handy-TCL-Nxtpaper-70-Pro-Matter-Bildschirm-wird-flimmerfrei-11130220.html"
+    },
     {
       "title": "CPU-Refresh: AMDs Ryzen AI 400 werden teilweise schlechter",
       "url": "https://www.heise.de/news/CPU-Refresh-AMDs-Ryzen-AI-400-werden-teilweise-schlechter-11129833.html"
@@ -60,10 +64,6 @@
     {
       "title": "Ausspähen unter Freunden geht doch: BND soll US-Präsident Obama abgehört haben",
       "url": "https://www.heise.de/news/Ausspaehen-unter-Freunden-geht-doch-BND-soll-US-Praesident-Obama-abgehoert-haben-11129911.html"
-    },
-    {
-      "title": "Bosch: KI für Fahrzeuge, Industrie und Konsumtechnik",
-      "url": "https://www.heise.de/news/Bosch-KI-fuer-Fahrzeuge-Industrie-und-Konsumtechnik-11128089.html"
     },
     {
       "title": "Internationale RaumstationKosmonauten schließen nach Jahren ISS-Leck",
@@ -206,21 +206,27 @@
       "image_title": "Der Dialog für das telefonische Aktivieren von Windows erscheint nur mit Tricks."
     },
     {
+      "title": "Android-Handy TCL Nxtpaper 70 Pro: Matter Bildschirm wird flimmerfrei",
+      "teaser": "TCLs Nxtpaper-Mobiltelefone können E-Ink nachahmen und SD-Karten aufnehmen. Das neue 70 Pro ist zudem flimmerfrei, rechnet aber langsamer.",
+      "url": "https://www.heise.de/news/Android-Handy-TCL-Nxtpaper-70-Pro-Matter-Bildschirm-wird-flimmerfrei-11130220.html",
+      "image_title": "4 stehende Smartphones, 2 zeigen die Rückseite, 2 die Vorderseite"
+    },
+    {
       "title": "CPU-Refresh: AMDs Ryzen AI 400 werden teilweise schlechter",
       "teaser": "AMDs neu aufgelegte Prozessoren takten teilweise niedriger mit gleichzeitig weniger Performance-Kernen. Der Ryzen 7 9850X3D bekommt dagegen mehr Takt.",
       "url": "https://www.heise.de/news/CPU-Refresh-AMDs-Ryzen-AI-400-werden-teilweise-schlechter-11129833.html",
       "image_title": "Renderbild eines AMD-Mobilprozessors vor schwarz-orangefarbenem Hintergrund"
     },
     {
+      "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
+      "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Beim Raspi abgeschaut: HP versteckt x86-Mini-PC in der Tastatur",
       "teaser": "HP packt einen Mini-PC mit Ryzen-Prozessor in eine USB-C-Tastatur – auf Wunsch sogar mit Akku.",
       "url": "https://www.heise.de/news/Beim-Raspi-abgeschaut-HP-versteckt-x86-Mini-PC-in-der-Tastatur-11128179.html",
       "image_title": "Man hält eine Tastatur fest, die sich halb in einer Tragetasche befindet"
-    },
-    {
-      "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
-      "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Acer bringt 16-Zoll-Notebook mit riesigem Touchpad",
@@ -250,11 +256,6 @@
       "title": "Lyte: Frühere Apple Face ID-Ingenieure lancieren ihr Robotik-Start-up",
       "teaser": "Die LyteVision-Technologie des Unternehmens soll als visuelles Gehirn von Robotern dienen. Erfahrungen bei Apple und PrimeSense bilden die Grundlage.",
       "url": "https://www.heise.de/news/Lyte-Fruehere-Apple-Face-ID-Ingenieure-lancieren-ihr-Robotik-Start-up-11130084.html"
-    },
-    {
-      "title": "Top 10: Die beste Starthilfe-Powerbank im Test – Auto überbrücken",
-      "teaser": "Macht die Autobatterie schlapp, muss man das Auto überbrücken. Einfach geht das mit Powerbanks mit Starthilfe-Booster.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-starthilfe-powerbank-im-test-auto-ueberbruecken-per-akku/3bers0y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Essensfoto zu KcalKalorienzählen mit KI: Foodvisor im Test",
@@ -288,19 +289,18 @@
       "url": "https://www.heise.de/news/Smart-Meter-Rollout-Hunderte-Betreiber-verpassen-offenbar-gesetzliches-Ziel-11127877.html"
     },
     {
-      "title": "Skoda Enyaq 85 im Test: Reife-Leistung",
-      "url": "https://www.heise.de/tests/Skoda-Enyaq-85-im-Test-Reife-Leistung-11113898.html",
-      "image_title": "Skoda Enyaq 85"
+      "title": "Microsoft Office: Drei gute Alternativen ausprobiert",
+      "url": "https://www.heise.de/ratgeber/Microsoft-Office-Drei-gute-Alternativen-ausprobiert-11069349.html"
     },
     {
-      "title": "Warum Microsoft Office für Anwender eigentlich nicht mehr tragbar ist",
-      "url": "https://www.heise.de/ratgeber/Warum-Microsoft-Office-fuer-Anwender-eigentlich-nicht-mehr-tragbar-ist-11069337.html",
+      "title": "Skoda Enyaq 85 im Test: Reife-Leistung",
+      "url": "https://www.heise.de/tests/Skoda-Enyaq-85-im-Test-Reife-Leistung-11113898.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "Microsoft Office: Drei gute Alternativen ausprobiert",
-      "url": "https://www.heise.de/ratgeber/Microsoft-Office-Drei-gute-Alternativen-ausprobiert-11069349.html",
+      "title": "Warum Microsoft Office für Anwender eigentlich nicht mehr tragbar ist",
+      "url": "https://www.heise.de/ratgeber/Warum-Microsoft-Office-fuer-Anwender-eigentlich-nicht-mehr-tragbar-ist-11069337.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -348,6 +348,11 @@
       "teaser": "Täglich neue Angebote und Geschenke in 24 Türchen! Jeden Tag wartet ein neues heise-Angebot sowie eine Software-Vollversion zum kostenlosen Download auf Sie. Jetzt Türchen öffnen!",
       "url": "https://www.heise.de/download/blog/Der-heise-Adventskalender-2025-11078286?wt_mc=intern.abo.all.advent25.ho_advt.ad1.ad1",
       "image_title": "heise Adventskalender🎄"
+    },
+    {
+      "title": "Top 10: Die beste Starthilfe-Powerbank im Test – Auto überbrücken",
+      "teaser": "Macht die Autobatterie schlapp, muss man das Auto überbrücken. Einfach geht das mit Powerbanks mit Starthilfe-Booster.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-starthilfe-powerbank-im-test-auto-ueberbruecken-per-akku/3bers0y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Ausspähen unter Freunden geht doch: BND soll US-Präsident Obama abgehört haben",
@@ -419,14 +424,15 @@
       "image_title": "3D-Druck eines Weihnachtsbaums aus Eis"
     },
     {
+      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
+      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
       "title": "Gamakay TK75HE V2 im Test: Gaming-Tastatur mit Hall-Effect",
       "teaser": "Für 69 Euro ist die Gamakay TK75HE V2 eine preiswerte Hall-Effect-Tastatur, die zudem auch noch ausgesprochen leise tippt.",
       "url": "https://www.heise.de/bestenlisten/testbericht/gamakay-tk75he-v2-im-test-guenstige-und-leise-gaming-tastatur-mit-hall-effect/5hp4ctz?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Digitale Souveränität muss kein Wunschtraum bleiben",
-      "teaser": "Viele deutsche Unternehmen sind von ausländischer IT abhängig. Ein Webcast zeigt Ihnen, wie Sie das Steuer auf dem Weg in die digitale Zukunft in die eigene Hand nehmen können.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/ihre-it-ihre-regeln-souveraene-strategien-und-technologien-fuer-hybrid-it-compliance-und-datenhoheit-4992/?source=hbsad-ersatz"
     },
     {
       "title": "Clicks Communicator: Android-Smartphone mit Hardware-Tastatur",
@@ -482,9 +488,9 @@
       "image_title": "Arbeitsweise eine Prozessores im Auto"
     },
     {
-      "title": "Google Ads Hack: Wie unseriöse Anbieter im Web ungehindert Opfer fischen können",
-      "teaser": "Ein kompromittiertes Google Ads-Konto zeigt: Kriminelle können sich auf die Nachlässigkeit des Marktführers verlassen. So lief es beim Music Store Köln ab.",
-      "url": "https://www.heise.de/hintergrund/Google-Ads-Hack-Wie-unserioese-Anbieter-im-Web-ungehindert-Opfer-fischen-koennen-11098413.html"
+      "title": "Bislang nur illegal verfügbar: SpaceX macht Starlink in Venezuela kostenfrei",
+      "url": "https://www.heise.de/news/Nach-Ergreifung-von-Maduro-SpaceX-macht-Starlink-in-Venezuela-kostenfrei-11128496.html",
+      "image_title": "Starlink-Antenne im Gras vor Palmen"
     },
     {
       "title": "Missing Link: Unsichtbare Revolution – wie der Bund die Verwaltung mit KI flutet",
@@ -492,14 +498,8 @@
       "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
     },
     {
-      "title": "UpdateMassive Störung legt Flugverkehr in Griechenland lahm",
-      "url": "https://www.heise.de/news/Massive-Stoerung-legt-Flugverkehr-in-Griechenland-lahm-11128276.html",
-      "image_title": "Fast leer: Im griechischen Luftraum sind momentan kaum Flugzeuge unterwegs. Ursache soll eine Telekommunikationsstörung sein."
-    },
-    {
-      "title": "UpdateGrok-Skandal: KI von xAI generiert sexuelle Deepfakes von Frauen und Kindern",
-      "url": "https://www.heise.de/news/Grok-Skandal-KI-von-xAI-generiert-sexuelle-Deepfakes-von-Frauen-und-Kindern-11128059.html",
-      "image_title": "Das Logo von Grok auf einem Smartphone"
+      "title": "Withings Body Scan 2: Waage erfasst Daten zu Herz, Gefäßen und Stoffwechsel",
+      "url": "https://www.heise.de/news/Withings-Body-Scan-2-Waage-erfasst-Daten-zu-Herz-Gefaessen-und-Stoffwechsel-11128456.html"
     },
     {
       "title": "Fusionsreaktor EAST: Chinesen brechen Dichtegrenze für stabiles Plasma",
@@ -507,13 +507,18 @@
       "image_title": "Forschungsfusionsreaktor EAST"
     },
     {
-      "title": "Astronomie: Erstmals präzise Masse eines einsamen Exoplaneten ermittelt",
-      "url": "https://www.heise.de/news/Astronomie-Erstmals-praezise-Masse-eines-einsamen-Exoplaneten-ermittelt-11127291.html",
-      "image_title": "Darstellung des Weltraumteleskops gaia und einesbservatoriums, die beide dieselbe Mikrolinse vermessen"
+      "title": "Mathematiker schlussfolgern: Wir leben nicht in einer Simulation",
+      "url": "https://www.heise.de/hintergrund/Mathematiker-schlussfolgern-Wir-leben-nicht-in-einer-Simulation-11109202.html",
+      "image_title": "Rote und Blaue Kapsel"
     },
     {
       "title": "Space Forge erhitzt erstmals Fertigungsofen im Weltall auf 1000 Grad",
       "url": "https://www.heise.de/news/Space-Forge-erhitzt-erstmals-Fertigungsofen-im-Weltall-auf-1000-Grad-11126873.html"
+    },
+    {
+      "title": "Fünf Jahre ohne Batteriewechsel: Neue AirTag-Hülle ist vergleichsweise kompakt",
+      "url": "https://www.heise.de/news/Kompakte-AirTag-Batteriehuelle-soll-fuenf-Jahre-durchhalten-11128055.html",
+      "image_title": "5-Jahres-Version der TimeCapsule von ElevationLab"
     },
     {
       "title": "Tesla-Auslieferungen im Sinkflug – Musk sieht Zukunft woanders",
@@ -521,54 +526,50 @@
       "image_title": "Tilgurg,,Netherlands,-,September,25,,2016:,Tesla,Motors,Assembly,Plant"
     },
     {
+      "title": "Punkt. MC03: Android-Smartphone „Made in Europe“ ohne Google mit Abo",
+      "url": "https://www.heise.de/news/Punkt-MC03-Android-Smartphone-Made-in-Europe-ohne-Google-mit-Abo-11128698.html",
+      "image_title": "Punkt. MC03 von hinten in der Hand eines Mannes"
+    },
+    {
+      "title": "SwitchBot Smart Home 2.0: Haushaltsroboter und biometrische Schlösser",
+      "url": "https://www.heise.de/news/SwitchBot-Smart-Home-2-0-Haushaltsroboter-und-biometrische-Schloesser-11128437.html"
+    },
+    {
+      "title": "Fitness+: Apple baut Sportdienst aus – und etwas um",
+      "url": "https://www.heise.de/news/Fitness-Apple-baut-Sportdienst-aus-und-etwas-um-11128888.html",
+      "image_title": "Fitness+ auf iPad und Apple Watch"
+    },
+    {
       "title": "Schwebende Projektion: The FreeStyle+ braucht keine glatten Flächen",
       "url": "https://www.heise.de/news/Schwebende-Projektion-The-FreeStyle-braucht-keine-glatten-Flaechen-11127881.html"
     },
     {
-      "title": "Smart Glasses & VR-Brillen: Die 3 wichtigsten Trends im Jahr 2026",
-      "url": "https://www.heise.de/hintergrund/Smart-Glasses-VR-Brillen-Die-3-wichtigsten-Trends-im-Jahr-2026-11127966.html",
-      "image_title": "Drei Bilder nebeneinander, die zwei Smart Glasses und einen VR-Avatar zeigen."
+      "title": "Chromebooks für Schulen ohne Internet: Indonesischer Ex-Minister vor Gericht",
+      "url": "https://www.heise.de/news/Chromebooks-fuer-Schulen-ohne-Internet-Indonesischer-Ex-Minister-vor-Gericht-11128933.html",
+      "image_title": "Rückseite eines Chromebooks mit dem Logo, im Hintergrund das unscharfe Gesicht eines Kindes"
     },
     {
-      "title": "Was kommt 2026? Motorrad-Vorschau, Teil zwei",
-      "url": "https://www.heise.de/news/Was-kommt-2026-Motorrad-Vorschau-Teil-zwei-11116195.html",
-      "image_title": "Triumph Trident 800"
+      "title": "NRW: Oberstufen erhalten dieses Jahr Abi-Aufgaben über neues Download-System",
+      "url": "https://www.heise.de/news/NRW-Oberstufen-erhalten-dieses-Jahr-Abi-Aufgaben-ueber-neues-Download-System-11128898.html",
+      "image_title": "E-learning,Education,,Internet,Lessons,And,Online,Webinar.,Education,Internet,Technology."
     },
     {
-      "title": "39C3: Die Krux mit der digitalen Souveränität | c’t uplink",
-      "url": "https://www.heise.de/news/39C3-Die-Krux-mit-der-digitalen-Souveraenitaet-c-t-uplink-11126946.html"
-    },
-    {
-      "title": "Spiele-Glaskugel 2026: \"GTA\"-Götterdämmerung",
-      "url": "https://www.heise.de/hintergrund/Spiele-Glaskugel-2026-GTA-Goetterdaemmerung-11127421.html",
-      "image_title": "Screenshot aus GTA 6"
-    },
-    {
-      "title": "GNU Taler auf dem 39C3: Wie das quelloffene Bargeld den Praxistest besteht",
-      "url": "https://www.heise.de/news/39C3-Wie-das-quelloffene-Bargeld-GNU-Taler-den-Praxistest-besteht-11126356.html",
-      "image_title": "signum und Mikolai Gütschow"
-    },
-    {
-      "title": "Jahresauftakt: Was von der CES 2026 zu erwarten ist",
-      "url": "https://www.heise.de/news/CES-2026-KI-auf-der-Sinnsuche-11127621.html"
-    },
-    {
-      "title": "RWE-Chef: Gas und Strom werden billiger",
-      "url": "https://www.heise.de/news/RWE-Chef-Gas-und-Strom-werden-billiger-11127929.html",
-      "image_title": "Electricity,Transmission,Pylon,Silhouetted,Against,Blue,Sky,At,Dusk"
+      "title": "Vom Coding zur Flugbegleiterin: Was aus Apples Diversitäts-Initiative wurde",
+      "url": "https://www.heise.de/news/Apples-Developer-Academy-71-Prozent-finden-Jobs-nicht-immer-als-Entwickler-11128906.html",
+      "image_title": "Ein kleines Glas mit Münzen, auf dem ein aus Pappe nachgebildeter Graduierten-Hut liegt, auf einem Stapel Schulbücher. Im Hintergrund eine Schultafel."
     },
     {
       "title": "39C3: CCC-Hacker fordern Bundesdatensicherungsspiele gegen Ransomware-Albträume",
       "url": "https://www.heise.de/news/39C3-CCC-Hacker-fordern-Bundesdatensicherungsspiele-gegen-Ransomware-Albtraeume-11126693.html"
     },
     {
-      "title": "Internet im Iran wegen landesweiter Proteste eingeschränkt",
-      "url": "https://www.heise.de/news/Internet-im-Iran-wegen-landesweiter-Proteste-eingeschraenkt-11128206.html",
-      "image_title": "Fahne der Islamischen Republik Iran"
+      "title": "Diebstahl von Geschäftsgeheimnissen: Softwarehersteller o9 verklagt SAP",
+      "url": "https://www.heise.de/news/Diebstahl-von-Geschaeftsgeheimnissen-Softwarehersteller-o9-verklagt-SAP-11093619.html",
+      "image_title": "SAP-Buchstaben an einem Glasgebäude"
     },
     {
-      "title": "Digitalminister Wildberger: Bei Staatsmodernisierung \"brutal fokussieren\"",
-      "url": "https://www.heise.de/news/Digitalminister-Wildberger-Bei-Staatsmodernisierung-brutal-fokussieren-11127960.html"
+      "title": "39C3: Wie Betrüger das Deutschlandticket um Millionen erleichterten",
+      "url": "https://www.heise.de/news/39C3-Wie-Betrueger-das-Deutschlandticket-um-Millionen-erleichterten-11125194.html"
     },
     {
       "title": "China: Bilder sollen elektromagnetische Drohnenkatapulte auf LKW zeigen",
@@ -576,14 +577,14 @@
       "image_title": "Drei mutmaßliche Katapult-Prototypen stehen auf dem Dock einer ostchinesischen Werft."
     },
     {
+      "title": "UpdateGrok-Skandal: KI von xAI generiert sexuelle Deepfakes von Frauen und Kindern",
+      "url": "https://www.heise.de/news/Grok-Skandal-KI-von-xAI-generiert-sexuelle-Deepfakes-von-Frauen-und-Kindern-11128059.html",
+      "image_title": "Das Logo von Grok auf einem Smartphone"
+    },
+    {
       "title": "Massiver Stromausfall in Berlin dauert wohl bis Donnerstag",
       "url": "https://www.heise.de/news/Massiver-Stromausfall-in-Berlin-dauert-wohl-bis-Donnerstag-11128212.html",
       "image_title": "EIne Kerze wird im Dunkeln vor einen Sicherheitskasten gehalten."
-    },
-    {
-      "title": "Festung im All: Wie Europa Satelliten gegen Cyberangriffe und Geopolitik wappnet",
-      "url": "https://www.heise.de/news/Festung-im-All-Wie-Europa-Satelliten-gegen-Cyberangriffe-und-Geopolitik-wappnet-11128069.html",
-      "image_title": "Viele Satelliten"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -635,21 +636,33 @@
       "image_title": "Triumph Trident 800"
     },
     {
-      "title": "Samsung explains the absence of Google Play Services updates",
-      "url": "https://www.heise.de/en/news/Samsung-explains-the-absence-of-Google-Play-Services-updates-11124994.html",
-      "image_title": "Editorial,Illistrative.,Software,Update,On,Android.,The,Samsung,Phone,Is"
+      "title": "Theft of Trade Secrets: Software Manufacturer o9 Sues SAP",
+      "url": "https://www.heise.de/en/news/Theft-of-Trade-Secrets-Software-Manufacturer-o9-Sues-SAP-11093624.html",
+      "image_title": "SAP letters on a glass building"
     },
     {
       "title": "Vulkangruppe claims responsibility for Berlin power outage",
       "url": "https://www.heise.de/en/news/Vulkangruppe-claims-responsibility-for-Berlin-power-outage-11128338.html"
     },
     {
+      "title": "\"MongoBleed\": Exploit for critical vulnerability in MongoDB makes attacks easier",
+      "url": "https://www.heise.de/en/news/MongoBleed-Exploit-for-critical-vulnerability-in-MongoDB-makes-attacks-easier-11125127.html"
+    },
+    {
       "title": "New VR headsets 2026: These devices are expected",
       "url": "https://www.heise.de/en/background/New-VR-headsets-2026-These-devices-are-expected-11121964.html"
     },
     {
-      "title": "Grok scandal: xAI's AI generates sexual deepfakes of women and children",
-      "url": "https://www.heise.de/en/news/Grok-scandal-xAI-s-AI-generates-sexual-deepfakes-of-women-and-children-11128074.html"
+      "title": "LG-OLED-TVs: Lichtstark, satte Farben und als Tapete für die Wand",
+      "teaser": "LG präsentiert seine neuen OLED-TV-Modelle, darunter eine neue Variante des 2017 erstmals gezeigten Wallpaper Design.",
+      "url": "https://www.heise.de/news/LG-OLED-TVs-Lichtstark-satte-Farben-und-als-Tapete-fuer-die-Wand-11129759.html",
+      "image_title": "LG-Fernseher an einer Wand hängend"
+    },
+    {
+      "title": "Beim Raspi abgeschaut: HP versteckt x86-Mini-PC in der Tastatur",
+      "teaser": "HP packt einen Mini-PC mit Ryzen-Prozessor in eine USB-C-Tastatur – auf Wunsch sogar mit Akku.",
+      "url": "https://www.heise.de/news/Beim-Raspi-abgeschaut-HP-versteckt-x86-Mini-PC-in-der-Tastatur-11128179.html",
+      "image_title": "Man hält eine Tastatur fest, die sich halb in einer Tragetasche befindet"
     },
     {
       "title": "Acer bringt 16-Zoll-Notebook mit riesigem Touchpad",
@@ -658,32 +671,21 @@
       "image_title": "Notebook steht auf einem Holztisch vor grüner Wand"
     },
     {
-      "title": "Rolle rückwärts: Dell bringt die Notebookmarke XPS zurück",
-      "teaser": "Dell revidiert sein erst vor einem Jahr geändertes Namensschema für Notebooks und bringt den Markennamen XPS zurück.",
-      "url": "https://www.heise.de/news/Rolle-rueckwaerts-Dell-bringt-die-Notebookmarke-XPS-zurueck-11128171.html",
-      "image_title": "Zwei Notebooks vor weiß-grauem Hintergrund"
-    },
-    {
-      "title": "Wie photonische Quantencomputer funktionieren",
-      "teaser": "Quantenrechner aus Lichtteilchen funktionieren grundsätzlich anders als alle anderen Architekturen. Denn es ist gar nicht so leicht, Licht zu kontrollieren.",
-      "url": "https://www.heise.de/hintergrund/Wie-photonische-Quantencomputer-funktionieren-10904540.html"
-    },
-    {
       "title": "Das bringt Ihnen die neue FunktionBluthochdruckwarner in der Apple Watch",
       "teaser": "Hypertonie ist eine oft erst spät entdeckte Volkskrankheit. Die Apple Watch soll das ändern. Wir zeigen, wie gut es funktioniert.",
       "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html"
-    },
-    {
-      "title": "Eisenhower-Prinzip, Pomodoro-Technik, SMART-FormelMit kluger Zeitplanung Freiräume schaffen",
-      "teaser": "Durch geschickte Zeiteinteilung und bewährte Produktivitätsmethoden bringen Sie Struktur in den Arbeitsalltag. Das sorgt zugleich für wohltuende Freiräume.",
-      "url": "https://www.heise.de/ratgeber/Freiraeume-schaffen-So-funktionieren-Pomodoro-Co-fuer-das-Aufgabenmanagement-11123638.html",
-      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
     },
     {
       "title": "Mailexperte auf dem MacMail-App MailMaven im Test",
       "teaser": "Der E-Mail-Client MailMaven für macOS bietet Tagging und umfangreiche Ordnungsfunktionen. Wir haben die App getestet.",
       "url": "https://www.heise.de/tests/Mailexperte-Mail-App-MailMaven-im-Test-11091118.html",
       "image_title": "MailMaven auf dem Mac"
+    },
+    {
+      "title": "Eisenhower-Prinzip, Pomodoro-Technik, SMART-FormelMit kluger Zeitplanung Freiräume schaffen",
+      "teaser": "Durch geschickte Zeiteinteilung und bewährte Produktivitätsmethoden bringen Sie Struktur in den Arbeitsalltag. Das sorgt zugleich für wohltuende Freiräume.",
+      "url": "https://www.heise.de/ratgeber/Freiraeume-schaffen-So-funktionieren-Pomodoro-Co-fuer-das-Aufgabenmanagement-11123638.html",
+      "image_title": ", KI-generiert mit freepik von Madlen Grunert, Mac & i"
     },
     {
       "title": "Vinylflattener zum Glätten von Schallplatten im Selbstbau",
@@ -749,6 +751,12 @@
       "image_title": "2026"
     },
     {
+      "title": "Spannende Zweiräder für die kommende SaisonVorschau auf die interessantesten Motorräder 2026",
+      "teaser": "Für die beliebtesten Segmente erfolgversprechende Bikes mit Modellen der großen japanischen Motorradhersteller und der Traditionsmarken MV Agusta und Triumph.",
+      "url": "https://www.heise.de/news/Was-kommt-2026-Motorrad-Vorschau-Teil-zwei-11116195.html",
+      "image_title": "Triumph Trident 800"
+    },
+    {
       "title": "ElektroautosTesla steigert Produktion im deutschen Werk",
       "teaser": "Der Elektroautomarkt in Deutschland ist für Tesla schwierig. Der Leiter des einzigen europäischen Werks ist dennoch zuversichtlich.",
       "url": "https://www.heise.de/news/Tesla-steigert-Produktion-im-deutschen-Werk-11126726.html"
@@ -760,28 +768,22 @@
       "image_title": "CFMoto 1000 MT-X"
     },
     {
-      "title": "Roter RetterMV Agusta Brutale 950 Serie Oro",
-      "teaser": "MV Agusta meldet sich mit der neuen Brutale 950 zurück, zunächst in der limitierten Serie Oro. Das blutrot lackierte Naked Bike soll die Edel-Marke retten.",
-      "url": "https://www.heise.de/news/MV-Agusta-Brutale-950-Serie-Oro-Roter-Retter-11116663.html",
-      "image_title": "MV Agusta Brutale 950 Serie Oro"
+      "title": "Die unterschlagene Frage der Demokratie",
+      "teaser": "Mehrheiten legitimieren Gesetze – aber nicht jede Einschränkung von Freiheit. Sechs Prüfsteine für staatliche Gebote und Verbote.",
+      "url": "https://www.heise.de/-11127529",
+      "image_title": "Schulterzuckende Menschen mit Fragezeichen überm Kopf"
     },
     {
-      "title": "Weltraum 2026: Es bleibt spannend",
-      "teaser": "Chinas Raumstation wächst, Europa sucht Exoplaneten und NASAs Artemis umrundet den Mond: Ausgewählte Raumfahrtmissionen im Jahr 2026.",
-      "url": "https://www.heise.de/-11127853",
-      "image_title": "Raumkapsel vor dem Hintergrund der Mondoberfläche"
+      "title": "Trump-Regierung fördert Uran-Produktion mit Milliarden-Paket",
+      "teaser": "Die USA investieren Milliarden in eine Technologie, die Rechenzentren künftig mit Strom versorgen soll – und Russland ausstechen will.",
+      "url": "https://www.heise.de/-11129945",
+      "image_title": "Atomkraftwerk im Sonnenuntergang"
     },
     {
-      "title": "Internetzensur in Russland: Vom offenen Netz zur digitalen Abschottung",
-      "teaser": "Messenger mit 97 Millionen Nutzern gedrosselt – doch der Widerstand kommt aus einer unerwarteten Richtung: Kinder protestieren vehement.",
-      "url": "https://www.heise.de/-11128385",
-      "image_title": "Moskau, Russland - 6. August 2024: Hand, die ein Mobiltelefon mit YouTube-Zeichen und 404 Fehler hält Seite nicht auf dem Bildschirm auf russischem Hintergrund gefunden. Nahaufnahme"
-    },
-    {
-      "title": "Chinas Zahlungssystem: Im Schatten von SWIFT wächst CIPS",
-      "teaser": "China baut ein eigenes Zahlungssystem auf. Die einen sehen darin eine Ergänzung zu westlichen Systemen, andere ein Instrument zur Umgehung des US-Dollars.",
-      "url": "https://www.heise.de/-11127865",
-      "image_title": "Ein 100-Yuan-Geldschein zusammengesetzt aus Puzzlesteinen."
+      "title": "1926: Als die Zukunft noch verboten weit offen war",
+      "teaser": "Warum ein scheinbar ruhiges Jahr der Weimarer Republik unsere Gegenwart der Dauerkrisen besser spiegelt als die großen Katastrophendaten.",
+      "url": "https://www.heise.de/-11127148",
+      "image_title": "Plakatähnliche Stadtszene aus dem Berlin der 1920er"
     },
     {
       "title": "Excel-Weltmeister erklärt, wie sich Arbeitszeit deutlich reduzieren lässt",
