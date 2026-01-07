@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-07T13:32:14",
+  "timestamp": "2026-01-07T14:14:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,43 @@
   ],
   "articles": [
     {
+      "title": "AMD zeigt riesige Chipkonstrukte Epyc Venice und Instinct MI455X",
+      "teaser": "Erstmals zeigt AMD-Chefin Lisa Su nackte Versionen der nächsten Serverprozessoren und KI-Beschleuniger. Beide sind riesig.",
+      "url": "https://www.heise.de/news/AMD-zeigt-riesige-Chipkonstrukte-Epyc-Venice-und-Instinct-MI455X-11133033.html",
+      "image_title": "Hand hält einen riesigen Chipträger"
+    },
+    {
+      "title": "Wazuh: IT-Schutz mit Open Source",
+      "teaser": "Die Securityplattform Wazuh integriert SIEM, XDR und Monitoring ohne Lizenzkosten. File Integrity Monitoring überwacht dabei die Integrität von Dateien.",
+      "url": "https://www.heise.de/hintergrund/Wazuh-IT-Schutz-mit-Open-Source-11089508.html"
+    },
+    {
+      "title": "AlertRechteausweitungslücke in MyAsus",
+      "teaser": "In MyAsus klafft eine als hochriskant eingestufte Sicherheitslücke, die das Ausweiten der Rechte erlaubt. EIn Update steht bereit.",
+      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-MyAsus-11132979.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+    },
+    {
+      "title": "FastAPI: So härten Sie Ihre REST-Schnittstelle gegen unbefugte Zugriffe ab",
+      "teaser": "REST-Schnittstellen im Netz brauchen ein Zugriffskonzept. So gelingt ihre Absicherung inklusive Rollenmodell zur Rechtevergabe auf Basis von FastAPI in Python.",
+      "url": "https://www.heise.de/ratgeber/FastAPI-So-haerten-Sie-Ihre-REST-Schnittstelle-gegen-unbefugte-Zugriffe-ab-11110289.html",
+      "image_title": "Darstellung eines rollenbasierten Zugriffskonzept verschiedener Nutzer auf eine Datenbank."
+    },
+    {
+      "title": "RatgeberFastAPI: So härten Sie Ihre REST-Schnittstelle gegen unbefugte Zugriffe ab",
+      "url": "https://www.heise.de/ratgeber/FastAPI-So-haerten-Sie-Ihre-REST-Schnittstelle-gegen-unbefugte-Zugriffe-ab-11110289.html",
+      "image_title": "Darstellung eines rollenbasierten Zugriffskonzept verschiedener Nutzer auf eine Datenbank."
+    },
+    {
+      "title": "RatgeberHeimkinoanlagen mit c’t-Messsignalen in Dolby Atmos optimieren",
+      "url": "https://www.heise.de/ratgeber/Heimkinoanlagen-mit-c-t-Messsignalen-in-Dolby-Atmos-optimieren-11079326.html"
+    },
+    {
+      "title": "TestsPodcatcher: 10 Podcast-Apps für Apple-Geräte im Test",
+      "url": "https://www.heise.de/tests/Podcatcher-10-Podcast-Apps-fuer-Apple-Geraete-im-Test-11125994.html",
+      "image_title": ", Peopleimages.com / stock.adobe.com"
+    },
+    {
       "title": "Krypto-Phishing mit angeblicher Mail des Bundeszentralamts für Steuern",
       "teaser": "Eine aktuelle Phishing-Welle behauptet Abweichungen bei „Krypto-Angaben“ beim Bundeszentralamt für Steuern.",
       "url": "https://www.heise.de/news/Krypto-Phishing-mit-angeblicher-Mail-des-Bundeszentralamts-fuer-Steuern-11132880.html",
@@ -38,7 +75,7 @@
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
     },
     {
-      "title": "WinUI-EntwicklungMicrosoft: XAML Studio ist jetzt Open Source",
+      "title": "Microsoft: XAML Studio ist jetzt Open Source",
       "teaser": "Das Entwicklungstool für Rapid Prototyping von XAML-Code ist nun quelloffen verfügbar. Es befindet sich auf dem Weg zu Version 2.0 mit einigen neuen Features.",
       "url": "https://www.heise.de/news/Microsoft-XAML-Studio-ist-jetzt-Open-Source-11132552.html",
       "image_title": "Windows-Tastatur"
@@ -48,20 +85,6 @@
       "teaser": "Espressif und Bosch kombinieren ESP32-C5 mit MEMS-Sensoren, um Bewegung und Umwelt lokal auszuwerten.",
       "url": "https://www.heise.de/news/ESP-Oekosystem-mit-Bosch-Sensoren-11132803.html",
       "image_title": "Zu sehen ist das ESP-SensairShuttle, dessen Teile nach hinten aufgefächert werden."
-    },
-    {
-      "title": "RatgeberHeimkinoanlagen mit c’t-Messsignalen in Dolby Atmos optimieren",
-      "url": "https://www.heise.de/ratgeber/Heimkinoanlagen-mit-c-t-Messsignalen-in-Dolby-Atmos-optimieren-11079326.html"
-    },
-    {
-      "title": "TestsPodcatcher: 10 Podcast-Apps für Apple-Geräte im Test",
-      "url": "https://www.heise.de/tests/Podcatcher-10-Podcast-Apps-fuer-Apple-Geraete-im-Test-11125994.html",
-      "image_title": ", Peopleimages.com / stock.adobe.com"
-    },
-    {
-      "title": "HintergrundLinux-Systemhärtung mit Lynis",
-      "url": "https://www.heise.de/hintergrund/Linux-Systemhaertung-mit-Lynis-11081185.html",
-      "image_title": ","
     },
     {
       "title": "Google: Nicht alle Chromebooks erhalten Aluminium OS",
@@ -125,29 +148,6 @@
       "title": "Live-Webinar: Jamf Pro – Apple Geräte effizient und sicher im Griff",
       "teaser": "Verwalten Sie Apple-Geräte mit Jamf Pro automatisiert, sicher und compliant. Von der Grundkonfiguration über Security-Aspekte zu Patch-Management und Reporting.",
       "url": "https://www.heise.de/news/Live-Webinar-Jamf-Pro-Apple-Geraete-effizient-und-sicher-im-Griff-11129543.html"
-    },
-    {
-      "title": "Android: Google halbiert Releasezyklus für AOSP-Quellcode",
-      "teaser": "Google führt weitere Änderungen am Releasezyklus von Android durch: Der Quellcode wird künftig nur noch zweimal im Jahr im AOSP veröffentlicht.",
-      "url": "https://www.heise.de/news/Android-Google-halbiert-Releasezyklus-fuer-AOSP-Quellcode-11132418.html",
-      "image_title": "Android-Logo auf Smartphone vor verschwommenem Hintergrund"
-    },
-    {
-      "title": "AlertJetzt entsorgen! Kein Support mehr für attackierte D-Link-DSL-Router",
-      "teaser": "Derzeit attackieren unbekannte Angreifer verschiedene DSL-Router von D-Link. Für die Geräte gibt es seit sechs Jahren keine Sicherheitspatches mehr.",
-      "url": "https://www.heise.de/news/Jetzt-entsorgen-Kein-Support-mehr-fuer-attackierte-D-Link-DSL-Router-11132268.html",
-      "image_title": "Warndreieck vor vielen Fensterchen auf Display"
-    },
-    {
-      "title": "Microsoft sagt Spamschutzmaßnahme in Exchange Online ab",
-      "teaser": "Microsoft hatte eine Spamschutzmaßnahme für Exchange Online angekündigt. Die Externe-Empfänger-Begrenzung kommt nun doch nicht.",
-      "url": "https://www.heise.de/news/Microsoft-sagt-Spamschutzmassnahme-in-Exchange-Online-ab-11132276.html",
-      "image_title": "Aktuelle Spam-Mails verteilen Ransomware im Namen des BSI"
-    },
-    {
-      "title": "\"Passwort\" Folge 48: Digitale Unabhängigkeit, kranke Akten, behämmerter Speicher",
-      "teaser": "Der Podcast gastiert auf dem 39c3 und diskutiert aktuelle Themen aus der IT-Security mit drei Referenten und Referentinnen des Hackerkongresses.",
-      "url": "https://www.heise.de/news/Passwort-Folge-48-Digitale-Unabhaengigkeit-kranke-Akten-behaemmerter-Speicher-11104689.html"
     },
     {
       "title": "NewsQuantenspalt aus einem Atom: Physiker schließen Lücke im Einstein-Bohr-Streit",
