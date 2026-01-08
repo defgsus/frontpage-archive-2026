@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-08T03:56:54",
+  "timestamp": "2026-01-08T04:33:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Siemens und Nvidia wollen industrielle Revolution mit KI beschleunigen",
+      "url": "https://www.heise.de/news/Siemens-und-Nvidia-wollen-industrielle-Revolution-mit-KI-beschleunigen-11133679.html"
+    },
     {
       "title": "Paramount kann Warner Bros Discovery nicht überzeugen",
       "url": "https://www.heise.de/news/Warner-Bros-Discovery-raet-weiter-von-Verkauf-an-Paramount-ab-11133665.html"
@@ -64,10 +68,6 @@
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-IT-Chaos-bei-der-Muenchner-Verkehrsgesellschaft-10639671.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Linux: App-Installation als Flatpak immer beliebter",
-      "url": "https://www.heise.de/news/Linux-Flatpaks-im-Aufwind-11133175.html"
     },
     {
       "title": "LinuxApp-Installation als Flatpak immer beliebter",
@@ -218,21 +218,27 @@
       "image_title": "Doppelspaltexperiment"
     },
     {
+      "title": "Siemens und Nvidia wollen industrielle Revolution mit KI beschleunigen",
+      "teaser": "Virtuelle Fabriken bauen, Roboter trainieren, Probleme vor Auftreten lösen - was Siemens und Nvidia jetzt mit KI-Anwendungen industriell möglich machen wollen.",
+      "url": "https://www.heise.de/news/Siemens-und-Nvidia-wollen-industrielle-Revolution-mit-KI-beschleunigen-11133679.html",
+      "image_title": "Die Chefs von Siemens und Nvidia sitzen auf einer Bühne"
+    },
+    {
       "title": "Paramount kann Warner Bros Discovery nicht überzeugen",
       "teaser": "Netflix will Warner Bros übernehmen, Paramount zusätzlich Discovery. Doch das größere Angebot hat zu viele Schwächen, meint der Verwaltungsrat.",
       "url": "https://www.heise.de/news/Warner-Bros-Discovery-raet-weiter-von-Verkauf-an-Paramount-ab-11133665.html",
       "image_title": "Warner Bros. Logo an Gebäude"
     },
     {
+      "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
+      "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Künstlicher Lärm als Markenzeichen: Der feuchte Traum der E-Auto-Branche",
       "teaser": "E-Mobilität trägt das Versprechen einer leiseren Welt in sich. Doch die Autobranche drängt auf ein Recht auf künstliches Röhren.",
       "url": "https://www.heise.de/news/Sound-Diktat-vs-Chance-auf-Ruhe-Der-Kampf-ums-kuenstliche-Droehnen-der-E-Autos-11133613.html",
       "image_title": "von oben fotografiert: Roter PKW mit Lautsprecher auf dem Dach"
-    },
-    {
-      "title": "Die wichtigsten Kriterien beim Kauf von Business-PCs",
-      "teaser": "Bei der Beschaffung von Business-PCs ist die Wahl der Hardware-Plattform entscheidend. Die neue Prozessorengeneration von Intel erfüllt alle Kriterien, damit Ihr Unternehmen wettbewerbsfähig bleibt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7121067992&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Informationsrecht und Insolvenz: Wenn es keine Akten gibt, reicht Cloud-Zugang",
@@ -262,12 +268,6 @@
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-IT-Chaos-bei-der-Muenchner-Verkehrsgesellschaft-10639671.html"
     },
     {
-      "title": "Börsenwert: Nvidia ist wertvollstes Unternehmen, SAP sackt ab",
-      "teaser": "Der Börsenwert der 100 wertvollsten Unternehmen erreichte Ende 2025 den neuen Rekordwert von 54,4 Billionen US-Dollar. US-Techwerte wie Nvidia dominieren.",
-      "url": "https://www.heise.de/news/Boersenwert-Nvidia-ist-wertvollstes-Unternehmen-SAP-sackt-ab-11133295.html",
-      "image_title": "Nvidia-CEO Jensen Huang während einer Veranstaltung auf der Computex im Juni 2024 in Taipeh."
-    },
-    {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
       "teaser": "Ein hydraulisch abgeglichenes Verteilsystem ist eine Voraussetzung für einen effizienten Heizbetrieb. So kommen Sie selbst ans Ziel.",
       "url": "https://www.heise.de/ratgeber/Wie-Sie-Heizkosten-mit-dem-hydraulischen-Abgleich-sparen-11115716.html"
@@ -290,8 +290,8 @@
       "image_title": "Tesla Cybertruck, dahinter Sonnenuntergang"
     },
     {
-      "title": "Kommentar: Warum man keine Wallbox mehr braucht",
-      "url": "https://www.heise.de/ratgeber/Warum-man-keine-Wallbox-mehr-braucht-11123337.html"
+      "title": "Quantenspalt aus einem Atom: Physiker schließen Lücke im Einstein-Bohr-Streit",
+      "url": "https://www.heise.de/news/Doppelspalt-mit-Einzelatom-zeigt-Uebergang-von-Quanten-zu-klassischer-Welt-11127831.html"
     },
     {
       "title": "Smart-Meter-Rollout: Hunderte Betreiber verpassen offenbar gesetzliches Ziel",
@@ -308,8 +308,8 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Smarte Thermostate mit Home Assistant ausreizen",
-      "url": "https://www.heise.de/ratgeber/Smarte-Thermostate-mit-Home-Assistant-ausreizen-11076793.html",
+      "title": "Linux-Apps auf Android: So läuft Googles Linux-Terminal",
+      "url": "https://www.heise.de/hintergrund/Linux-Apps-auf-Android-So-laeuft-Googles-Linux-Terminal-11108933.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -356,6 +356,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Börsenwert: Nvidia ist wertvollstes Unternehmen, SAP sackt ab",
+      "teaser": "Der Börsenwert der 100 wertvollsten Unternehmen erreichte Ende 2025 den neuen Rekordwert von 54,4 Billionen US-Dollar. US-Techwerte wie Nvidia dominieren.",
+      "url": "https://www.heise.de/news/Boersenwert-Nvidia-ist-wertvollstes-Unternehmen-SAP-sackt-ab-11133295.html",
+      "image_title": "Nvidia-CEO Jensen Huang während einer Veranstaltung auf der Computex im Juni 2024 in Taipeh."
     },
     {
       "title": "KI-Hologramm für den Schreibtisch: Wie Razers Project Ava unterstützen soll",
@@ -426,14 +432,14 @@
       "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
     },
     {
+      "title": "Proxmox als Alternative für eine flexible IT-Infrastruktur",
+      "teaser": "IT-Verantwortliche wollen ihre IT-Infrastruktur oft flexibler, performanter und kostengünstiger gestalten. In einem Webcast zeigen IT-Experten am Beispiel von Proxmox VE und Proxmox Backup Server, wie Sie Open-Source-Virtualisierung erfolgreich einsetzen und den Umstieg von VMware professionell meistern.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/proxmox-ihre-alternative-fuer-flexible-und-kostenguenstige-it-infrastrukturen-5013/?source=hbsad-ersatz"
+    },
+    {
       "title": "Geht uns das Bargeld aus? Verbraucherschützer warnen vor Versorgungslücke",
       "teaser": "Digitalzahlungen sind auf dem Vormarsch – ist die Akzeptanz von Bargeld in Gefahr? Verbraucherschützer fordern einen gesetzlichen Schutz für Bargeldzahlungen.",
       "url": "https://www.heise.de/news/Geht-uns-das-Bargeld-aus-Verbraucherschuetzer-warnen-vor-Versorgungsluecke-11132831.html"
-    },
-    {
-      "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
-      "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
     },
     {
       "title": "Nvidia ACE: KI-Berater hilft in „Total War Pharaoh“",
@@ -488,30 +494,19 @@
       "image_title": "Fusionsforschungsanlage Sparc von Commonwealth Fusion Systems"
     },
     {
-      "title": "Digitalpolitik: „Die Bundesregierung legt ein gutes Tempo vor\"",
-      "teaser": "Die Bundesregierung hat laut Bitkom schon die Hälfte ihrer digitalpolitischen Vorhaben auf den Weg gebracht. Das liege vor allem am Digitalministerium.",
-      "url": "https://www.heise.de/news/Digitalpolitik-Die-Bundesregierung-legt-ein-gutes-Tempo-vor-11132683.html",
-      "image_title": "Einsamer Tourist spaziert abends am Reichstag entlang."
+      "title": "Western-Digital-Erbe: Sandisk verabschiedet sich von WD Black und WD Blue",
+      "url": "https://www.heise.de/news/SSDs-WD-Black-und-WD-Blue-sind-Geschichte-11131494.html",
+      "image_title": "Diverse M.2-SSDs vor rotem Hintergrund"
     },
     {
-      "title": "Beim Raspi abgeschaut: HP versteckt x86-Mini-PC in der Tastatur",
-      "url": "https://www.heise.de/news/Beim-Raspi-abgeschaut-HP-versteckt-x86-Mini-PC-in-der-Tastatur-11128179.html",
-      "image_title": "Man hält eine Tastatur fest, die sich halb in einer Tragetasche befindet"
+      "title": "Missing Link: Unsichtbare Revolution – wie der Bund die Verwaltung mit KI flutet",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Unsichtbare-Revolution-wie-der-Bund-die-Verwaltung-mit-KI-flutet-11127439.html",
+      "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
     },
     {
-      "title": "Plattner zum BSI-Portal: „Werden nicht die ganze Republik retten können“",
-      "url": "https://www.heise.de/news/Cybersicherheit-BSI-Portal-geht-online-und-nutzt-dafuer-AWS-11130478.html",
-      "image_title": "Ein Mann in einem Anzug drückt mit seinem Zeigefinder auf ein virtuelles eGovernment-Icon."
-    },
-    {
-      "title": "„Widerlich“: Kritik an X wegen sexualisierter Deepfakes von Grok nimmt zu",
-      "url": "https://www.heise.de/news/Widerlich-Kritik-an-X-wegen-sexualisierter-Deepfakes-von-Grok-nimmt-zu-11130336.html",
-      "image_title": "Das Logo von Grok auf einem Smartphone"
-    },
-    {
-      "title": "Kosmonauten schließen nach Jahren Leck auf der ISS",
-      "url": "https://www.heise.de/news/Kosmonauten-schliessen-nach-Jahrenen-Leck-auf-der-ISS-11128945.html",
-      "image_title": "ISS"
+      "title": "Microsoft sagt Spamschutzmaßnahme in Exchange Online ab",
+      "url": "https://www.heise.de/news/Microsoft-sagt-Spamschutzmassnahme-in-Exchange-Online-ab-11132276.html",
+      "image_title": "Aktuelle Spam-Mails verteilen Ransomware im Namen des BSI"
     },
     {
       "title": "„Cloud-9“: Gescheiterte Zwerggalaxie aus Dunkler Materie und ohne Sterne",
@@ -519,50 +514,57 @@
       "image_title": "Eine pinke Wolke vor einem Sternenhimmel"
     },
     {
-      "title": "Zahlen, bitte! Mit 162 Flugzeugen zu neuen Zielen: Die Gründung der Lufthansa",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Mit-162-Flugzeugen-zu-neuen-Zielen-Die-Gruendung-der-Lufthansa-11130652.html",
-      "image_title": "Aufmacherbild Zahlen, bitte"
+      "title": "Kosmonauten schließen nach Jahren Leck auf der ISS",
+      "url": "https://www.heise.de/news/Kosmonauten-schliessen-nach-Jahrenen-Leck-auf-der-ISS-11128945.html",
+      "image_title": "ISS"
     },
     {
-      "title": "Rolle rückwärts: Dell bringt die Notebookmarke XPS zurück",
-      "url": "https://www.heise.de/news/Rolle-rueckwaerts-Dell-bringt-die-Notebookmarke-XPS-zurueck-11128171.html",
-      "image_title": "Zwei Notebooks vor weiß-grauem Hintergrund"
+      "title": "Klimaziel 2025 erreicht, aber nur wenig CO2 gespart",
+      "url": "https://www.heise.de/news/Klimaziel-2025-erreicht-aber-nur-wenig-CO2-gespart-11132238.html",
+      "image_title": "Reduce,Co2,Emissions,To,Limit,Climate,Change,And,Global,Warming."
     },
     {
-      "title": "Panther Lake: Intel stellt 14 Core Ultra 300 vor",
-      "url": "https://www.heise.de/news/Panther-Lake-Intel-stellt-14-Core-Ultra-300-vor-11130804.html",
-      "image_title": "Hand hält einen nackten Intel-Prozessor"
+      "title": "UpdateMobilfunk und Internet: Netzbetreiber nach Stromausfall im Alarm-Modus",
+      "url": "https://www.heise.de/news/Stromausfall-in-Berlin-Wie-Mobilfunk-und-Internet-wieder-ans-Netz-gehen-11132094.html"
     },
     {
-      "title": "Apple und die KI: Erst hinten, nach geplatzter Blase vorne?",
-      "url": "https://www.heise.de/news/Apples-KI-Strategie-und-die-AI-Bubble-Holt-der-iPhone-Konzern-doch-noch-auf-11126903.html",
-      "image_title": "Apple Intelligence"
+      "title": "Saugbot Roborock Saros Rover erklimmt Treppen mit Hühnerbeinen statt Fähre",
+      "url": "https://www.heise.de/news/Saugbot-Roborock-Saros-Rover-erklimmt-Treppen-mit-Huehnerbeinen-statt-Faehre-11132074.html",
+      "image_title": "Saugbot Roborock Saros Rover mit zwei Beinen"
     },
     {
-      "title": "Lego Smart Play: Star-Wars-Sets mit Licht und Sound",
-      "url": "https://www.heise.de/news/Lego-Smart-Play-Star-Wars-Sets-mit-Licht-und-Sound-11128101.html"
+      "title": "Beim Raspi abgeschaut: HP versteckt x86-Mini-PC in der Tastatur",
+      "url": "https://www.heise.de/news/Beim-Raspi-abgeschaut-HP-versteckt-x86-Mini-PC-in-der-Tastatur-11128179.html",
+      "image_title": "Man hält eine Tastatur fest, die sich halb in einer Tragetasche befindet"
     },
     {
-      "title": "Amazon bietet bald ersten Bilderrahmen-TV an",
-      "url": "https://www.heise.de/news/Amazon-bietet-bald-ersten-Bilderrahmen-TV-an-11129401.html"
+      "title": "Ikea bringt würfelförmigen Bluetooth-Lautsprecher Kallsup für rund 10 Euro",
+      "url": "https://www.heise.de/news/Ikea-bringt-wuerfelfoermigen-Bluetooth-Lautsprecher-Kallsup-fuer-rund-10-Euro-11132438.html",
+      "image_title": "Der neue Bluetooth-Lautsprecher Kallsup von Ikea"
     },
     {
-      "title": "TCL-Fernseher: Satte Farben mit weißen LEDs und neuen Nanopartikeln",
-      "url": "https://www.heise.de/news/TCL-Fernseher-Satte-Farben-mit-weissen-LEDs-und-neuen-Nanopartikeln-11130090.html"
+      "title": "Wie in „Total Recall“: Künstliche Fingernägel mit nachträglichem Farbwechsel",
+      "url": "https://www.heise.de/news/Wie-in-Total-Recall-Kuenstliche-Fingernaegel-mit-nachtraeglichem-Farbwechsel-11132380.html",
+      "image_title": "Eine Hand mit drei farbigen Fingernäeln, einer steckt in einem Gerät und hat eine andere Farbe als die anderen drei"
     },
     {
-      "title": "China nimmt größten schwimmenden Solarpark in Betrieb",
-      "url": "https://www.heise.de/news/China-nimmt-groessten-schwimmenden-Solarpark-in-Betrieb-11129861.html",
-      "image_title": "Schwimmender Solarpark Shandong Dongying Kenli Guohua HG14"
+      "title": "QNX liefert Software für BMWs „Neue Klasse“ und vertieft Entwicklerzugang",
+      "url": "https://www.heise.de/news/QNX-liefert-Software-fuer-BMWs-Neue-Klasse-und-vertieft-Entwicklerzugang-11128159.html"
     },
     {
-      "title": "Duolingo packt Reklame in Apples Dynamic Island – obwohl das nicht erlaubt ist",
-      "url": "https://www.heise.de/news/Duolingo-packt-Reklame-in-Apples-Dynamic-Island-obwohl-das-nicht-erlaubt-ist-11128816.html",
-      "image_title": "Dynamic-Island-Werbung von Duolingo"
+      "title": "Plattner zum BSI-Portal: „Werden nicht die ganze Republik retten können“",
+      "url": "https://www.heise.de/news/Cybersicherheit-BSI-Portal-geht-online-und-nutzt-dafuer-AWS-11130478.html",
+      "image_title": "Ein Mann in einem Anzug drückt mit seinem Zeigefinder auf ein virtuelles eGovernment-Icon."
     },
     {
-      "title": "The Frame: Samsungs Bilderrahmen-TV günstiger und in neuen Größen",
-      "url": "https://www.heise.de/news/The-Frame-Samsungs-Bilderrahmen-TV-guenstiger-und-in-neuen-Groessen-11128822.html"
+      "title": "UpdateBlackout in Berlin: Stromversorgung wird schon am Mittwoch wieder hergestellt",
+      "url": "https://www.heise.de/news/Blackout-in-Berlin-Stromversorgung-wird-schon-am-Mittwoch-wieder-hergestellt-11132434.html",
+      "image_title": "Nahaufnahme einer Kerze"
+    },
+    {
+      "title": "Mitten im Skandal um sexualisierte Deepfakes: Milliardenspritze für Grok-Firma",
+      "url": "https://www.heise.de/news/Mitten-im-Skandal-um-sexualisierte-Deepfakes-Milliardenspritze-fuer-Grok-Firma-11132184.html",
+      "image_title": "Das Logo von xAI, im Hintergrund die Silhouette von Elon Musk"
     },
     {
       "title": "Schleswig-Holstein: Open Source ist praxistauglich trotz Umstellungsproblemen",
@@ -575,8 +577,14 @@
       "image_title": "Eine Europa-Karte mit einem Schloss mit EU-Flagge"
     },
     {
-      "title": "Grenzenloses Surfen: Geplante EU-Roaming-Erweiterung sorgt für böses Blut",
-      "url": "https://www.heise.de/news/Grenzenloses-Surfen-Geplante-EU-Roaming-Erweiterung-sorgt-fuer-boeses-Blut-11129815.html"
+      "title": "Digitalpolitik: „Die Bundesregierung legt ein gutes Tempo vor\"",
+      "url": "https://www.heise.de/news/Digitalpolitik-Die-Bundesregierung-legt-ein-gutes-Tempo-vor-11132683.html",
+      "image_title": "Einsamer Tourist spaziert abends am Reichstag entlang."
+    },
+    {
+      "title": "Mittwoch: Berliner Stromanschlag von links, CES mit etlichen Technik-Neuheiten",
+      "url": "https://www.heise.de/news/Mittwoch-Berliner-Stromanschlag-von-links-CES-mit-etlichen-Technik-Neuheiten-11132118.html",
+      "image_title": "Mensch hält Handy neben Stromzähler; Mittwoch: Berlin-Schäden, Folgemodus-Display, Motorola-Handys, Roborock-Treppensteiger, Roboter-Haptik & Aumovio-Armaturenbrett"
     },
     {
       "title": "HIBP: Daten von rechtsextremer Dating-Plattform „WhiteDate“ aufgenommen",
@@ -584,14 +592,8 @@
       "image_title": "Ausschnitt einer hellgrauen Computertastatur bei der die rechte Feststelltaste durch eine grüne Taste mit Aufschrift \"Leak\" ausgetauscht ist"
     },
     {
-      "title": "UpdateGrok-Skandal: KI von xAI generiert sexuelle Deepfakes von Frauen und Kindern",
-      "url": "https://www.heise.de/news/Grok-Skandal-KI-von-xAI-generiert-sexuelle-Deepfakes-von-Frauen-und-Kindern-11128059.html",
-      "image_title": "Das Logo von Grok auf einem Smartphone"
-    },
-    {
-      "title": "X greift nicht ein: Sexuelle Fake-Bilder echter Frauen kursieren weiter",
-      "url": "https://www.heise.de/news/X-greift-nicht-ein-Sexuelle-Fake-Bilder-echter-Frauen-kursieren-weiter-11128286.html",
-      "image_title": "X-Logo auf einem Smartphone"
+      "title": "TCL-Fernseher: Satte Farben mit weißen LEDs und neuen Nanopartikeln",
+      "url": "https://www.heise.de/news/TCL-Fernseher-Satte-Farben-mit-weissen-LEDs-und-neuen-Nanopartikeln-11130090.html"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -638,32 +640,31 @@
       "url": "https://www.heise.de/news/Unsere-Highlights-aus-2025-11123976.html"
     },
     {
-      "title": "What's coming in 2026? Motorcycle preview, part two",
-      "url": "https://www.heise.de/en/news/What-s-coming-in-2026-Motorcycle-preview-part-two-11126285.html",
-      "image_title": "Triumph Trident 800"
+      "title": "Logitech forgets certificate: Configuration app Options+ for macOS fails",
+      "url": "https://www.heise.de/en/news/Logitech-forgets-certificate-Configuration-app-Options-for-macOS-fails-11132623.html",
+      "image_title": "Logitech app on Mac"
     },
     {
-      "title": "Cloud: Row in Bavaria over billion-euro Microsoft contract without tender",
-      "url": "https://www.heise.de/en/news/Cloud-Row-in-Bavaria-over-billion-euro-Microsoft-contract-without-tender-11114488.html",
-      "image_title": "Microsoft sign on a dark building"
+      "title": "CPU refresh: AMD's Ryzen AI 400 are partially worse",
+      "url": "https://www.heise.de/en/news/CPU-refresh-AMD-s-Ryzen-AI-400-are-partially-worse-11129920.html",
+      "image_title": "Render image of an AMD mobile processor against a black and orange background"
     },
     {
-      "title": "Theft of Trade Secrets: Software Manufacturer o9 Sues SAP",
-      "url": "https://www.heise.de/en/news/Theft-of-Trade-Secrets-Software-Manufacturer-o9-Sues-SAP-11093624.html"
+      "title": "Blackout in Berlin: Power supply to be restored on Wednesday",
+      "url": "https://www.heise.de/en/news/Blackout-in-Berlin-Power-supply-to-be-restored-on-Wednesday-11132498.html"
     },
     {
       "title": "This is what Apple is said to be planning for the Studio Display 2",
       "url": "https://www.heise.de/en/news/This-is-what-Apple-is-said-to-be-planning-for-the-Studio-Display-2-11130341.html"
     },
     {
-      "title": "EliteBoard G1a: HP hides mini-PC in the keyboard",
-      "url": "https://www.heise.de/en/news/EliteBoard-G1a-HP-hides-mini-PC-in-the-keyboard-11129422.html"
+      "title": "Richtech Dex: mobile humanoid robot for industry",
+      "url": "https://www.heise.de/en/news/Richtech-Dex-mobile-humanoid-robot-for-industry-11132135.html"
     },
     {
-      "title": "c't-Notfall-Windows 2026",
-      "teaser": "Unser Bausatz erstellt ein vom USB-Stick bootfähiges, transportables Windows zur Schädlingsbekämpfung und Datenrettung. Diese Projektseite ergänzt die Artikel.",
-      "url": "https://www.heise.de/ratgeber/c-t-Notfall-Windows-2026-11072902.html",
-      "image_title": "c't-Notfall-Windows 2026"
+      "title": "Mini-PC: AMD stellt Ryzen AI Halo gegen Nvidias DGX Spark",
+      "teaser": "Mit dem Mini-PC Ryzen AI Halo will AMD in Kürze ein kompaktes Dev-Kit für KI-Entwickler anbieten.",
+      "url": "https://www.heise.de/news/Ryzen-AI-Halo-AMDs-Mini-PC-Antwort-auf-Nvidias-DGX-Spark-11132398.html"
     },
     {
       "title": "Dolby AtmosHeimkinoanlagen mit Messsignalen optimieren",
@@ -671,10 +672,10 @@
       "url": "https://www.heise.de/ratgeber/Heimkinoanlagen-mit-c-t-Messsignalen-in-Dolby-Atmos-optimieren-11079326.html"
     },
     {
-      "title": "Beim Raspi abgeschautHP versteckt x86-Mini-PC in der Tastatur",
-      "teaser": "HP packt einen Mini-PC mit Ryzen-Prozessor in eine USB-C-Tastatur – auf Wunsch sogar mit Akku.",
-      "url": "https://www.heise.de/news/Beim-Raspi-abgeschaut-HP-versteckt-x86-Mini-PC-in-der-Tastatur-11128179.html",
-      "image_title": "Man hält eine Tastatur fest, die sich halb in einer Tragetasche befindet"
+      "title": "Smartphone, Foldables und Zubehör: CES-Neuheiten 2026 von Motorola",
+      "teaser": "Motorola lässt zur CES 2026 eine ganze Reihe neuer Produkte vom Stapel. Ein neues Smartphone hebt man sich aber noch für später auf.",
+      "url": "https://www.heise.de/news/Smartphone-Foldables-und-Zubehoer-CES-Neuheiten-2026-von-Motorola-11131502.html",
+      "image_title": "Smartphone Motorola Signature"
     },
     {
       "title": "Das bringt Ihnen die neue FunktionBluthochdruckwarner in der Apple Watch",
@@ -682,16 +683,16 @@
       "url": "https://www.heise.de/tests/Bluthochdruckwarner-in-der-Apple-Watch-So-arbeitet-die-neue-Funktion-11090317.html"
     },
     {
+      "title": "Mit Pixeln prassenGroße Desktop-Monitore für Mac & Co.",
+      "teaser": "Bildschirme mit 5K- oder 6K-Auflösung gibt es auch günstiger als bei Apple. Wir haben drei Retina-fähige Monitore mit 27 und 32 Zoll Bilddiagonale getestet.",
+      "url": "https://www.heise.de/tests/Mit-Pixeln-prassen-Grosse-Desktop-Monitore-fuer-Mac-Co-11122603.html",
+      "image_title": "Monitor am Mac"
+    },
+    {
       "title": "Mailexperte auf dem MacMail-App MailMaven im Test",
       "teaser": "Der E-Mail-Client MailMaven für macOS bietet Tagging und umfangreiche Ordnungsfunktionen. Wir haben die App getestet.",
       "url": "https://www.heise.de/tests/Mailexperte-Mail-App-MailMaven-im-Test-11091118.html",
       "image_title": "MailMaven auf dem Mac"
-    },
-    {
-      "title": "ParallelweltenWas kann Parallels Desktop 26 auf dem Mac?",
-      "teaser": "Parallels Desktop 26 virtualisiert Betriebssysteme. Wir haben die jüngste Version getestet: Wie läuft Windows 11 auf dem Mac?",
-      "url": "https://www.heise.de/tests/Parallelwelten-Was-kann-Parallels-Desktop-26-auf-dem-Mac-11091078.html",
-      "image_title": "Parallels Desktop 26"
     },
     {
       "title": "Weihnachtsbäume aus Eis drucken",
@@ -706,9 +707,9 @@
       "image_title": ","
     },
     {
-      "title": "Vinylflattener zum Glätten von Schallplatten im Selbstbau",
-      "teaser": "Meine selbst entwickelte Bügelmaschine für Vinylplatten glättet Wellen und macht sie nicht nur optisch wieder schöner, sondern kann auch den Klang verbessern.",
-      "url": "https://www.heise.de/ratgeber/Vinylflattener-zum-Glaetten-von-Schallplatten-im-Selbstbau-10961586.html",
+      "title": "Werkzeugwissen: Unterschiede zwischen Zwingen, Klemmen und Spannern",
+      "teaser": "Zwischen Holzzwingen, Einhandzwingen und Stahlzwingen gibt es große Unterschiede in Kraft, Hub und Handhabung. Wir erklären, worauf bei der Wahl zu achten ist.",
+      "url": "https://www.heise.de/ratgeber/Werkzeugwissen-Unterschiede-zwischen-Zwingen-Klemmen-und-Spannern-10778773.html",
       "image_title": ","
     },
     {
@@ -752,11 +753,6 @@
       "image_title": ", Nvidia"
     },
     {
-      "title": "QNX liefert Software für BMWs „Neue Klasse“ und vertieft Entwicklerzugang",
-      "teaser": "BlackBerry QNX soll das Echtzeitbetriebssystem für BMWs „Neue Klasse“ liefern. Außerdem vertieft das Unternehmen die Zusammenarbeit mit Forschung und Lehre.",
-      "url": "https://www.heise.de/news/QNX-liefert-Software-fuer-BMWs-Neue-Klasse-und-vertieft-Entwicklerzugang-11128159.html"
-    },
-    {
       "title": "Alps Alpine: Fahrzeugcockpit mit haptischen Rückmeldungen",
       "teaser": "Auf der CES 2026 stellt Alps Alpine Komponenten für das Fahrzeugcockpit. Sie kombinieren Kameras, Sensoren, Sprachausgabe und haptisches Feedback.",
       "url": "https://www.heise.de/news/Alps-Alpine-Fahrzeugcockpit-mit-haptischen-Rueckmeldungen-11128129.html"
@@ -773,22 +769,28 @@
       "image_title": "Mockup eines Armaturenbretts ohne Armaturen; mittig bis rechts ein extrem breiter Bildschirm. Links steht ein weniger breiter Bildschirm oben drauf."
     },
     {
-      "title": "Rentner und Rundfunkbeitrag: Diese Rechte haben Sie",
-      "teaser": "18,36 Euro monatlich – bei kleiner Rente ist das oft zu viel. Wann Befreiung und Ermäßigung möglich sind: Überblick.",
-      "url": "https://www.heise.de/-11129258",
-      "image_title": "Sparschwein und eine Ein-Euro-Müncze mit dem ARD-Logo \"Das Erste\""
+      "title": "Neues Robotaxi für UberKooperation von Uber und Lucid Motors",
+      "teaser": "Lucids SUV Gravity wird zum autonomen Taxi. Zusammen mit Uber und Nuro hat der US-Elektroautohersteller eine seriennahe Version auf der CES gezeigt.",
+      "url": "https://www.heise.de/news/Lucid-Motors-macht-aus-dem-Lucid-Gravity-ein-Robotaxi-fuer-Uber-11131708.html",
+      "image_title": "Lucid Gravity als autonomes Taxi"
     },
     {
-      "title": "Eberswalder Wurstwerke: Das Ende eines ostdeutschen Traditionsstandorts",
-      "teaser": "Tönnies schließt Traditionsfirma: Die Eberswalder Wurstwerke werden im Februar abgewickelt. Rund 500 Beschäftigte verlieren ihre Jobs. Ein Überblick.",
-      "url": "https://www.heise.de/-11132628",
-      "image_title": "Wurstwaren in einer Kaufhalle"
+      "title": "Dry January: Selbstoptimierung statt Suchtbekämpfung",
+      "teaser": "Alkoholverzicht als Trend: Viele Deutsche trinken zu viel. Warum der Dry January gegen Marktmacht keine Perspektive bietet. Eine Einordnung.",
+      "url": "https://www.heise.de/-11129847",
+      "image_title": "Bierflaschen auf einem Band"
     },
     {
-      "title": "Peinlich: Trump-Regierung schwächt eigene Maduro-Anklage heimlich ab",
-      "teaser": "Die USA korrigierten ihre Anklage heimlich – doch Rubio sprach weiter vom \"Kartell-Boss\". Die Widersprüche sind brisant.",
-      "url": "https://www.heise.de/-11132799",
-      "image_title": "Der venezolanische Präsident Nicolás Maduro nimmt an einer Pressekonferenz im Schloss Miraflores, dem Regierungssitz Venezuelas, teil."
+      "title": "Somaliland: Israels neuer Stützpunkt gegen die Huthi",
+      "teaser": "Somalilands Küste liegt nur wenige Kilometer vom Jemen entfernt – für Israel ein strategischer Vorteil mit gefährlichen Folgen.",
+      "url": "https://www.heise.de/-11129583",
+      "image_title": "Landkarte Somaliland"
+    },
+    {
+      "title": "Grönland-Affäre: Was tun, wenn der Verbündete zum Räuber wird?",
+      "teaser": "Die USA wollen Grönland – notfalls mit Druck. Dänemark und Europa stehen vor der Frage: Wie wehrt man sich gegen den eigenen \"Freund\"? Ein Kommentar.",
+      "url": "https://www.heise.de/-11130911",
+      "image_title": "Grafik, die den Griff der USA nach Grönland darstellt."
     },
     {
       "title": "Haushaltsroboter auf der CES: Den Abwasch musst du trotzdem noch alleine machen",
