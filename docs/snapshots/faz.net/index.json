@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-10T12:17:37",
+  "timestamp": "2026-01-10T13:22:29",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -62,14 +68,16 @@
   ],
   "articles": [
     {
-      "title": "Kritische Infrastruktur: Der Preis der Resilienz",
-      "teaser": "Nach dem Berliner Stromausfall soll alles sicherer werden. Wie viel lassen wir uns das kosten? Und welche Risiken wollen wir tragen?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/der-preis-der-resilienz-accg-110816694.html"
+      "title": "Strukturelle Diskriminierung: „Der deutsche Fußball hat zu 100 Prozent ein Rassismusproblem“",
+      "teaser": "Wer bekommt die Zugänge in die Führungsetagen? Wer gilt als Straßenfußballer? Und warum werden muslimische Spieler härter bestraft? Eine Forscherin erklärt, wie der strukturelle Rassismus den deutschen Fußball prägt.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/rassismus-im-deutschen-fussball-als-strukturelles-problem-zu-100-prozent-accg-110815372.html"
     },
     {
-      "title": "Berliner Stromausfall: Kai Wegner, ein Chef mit guten Seiten",
-      "teaser": "Der Berliner Bürgermeister glänzte mit modernem Führungsverständnis. Leider nicht in jeder Hinsicht.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/kai-wegner-ein-chef-mit-guten-seiten-110816537.html"
+      "title": "Weitere Proteste in Iran: Die Krankenhäuser sind überlastet – Berichte über Hunderte Tote",
+      "teaser": "Wegen der landesweiten Internetsperre sind die genauen Ausmaße schwer einzuschätzen. Trump droht der iranischen Führung. Und der Schah-Sohn ruft zu weiterem Protest auf.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-iran-abermals-demonstrationen-in-teheran-200425064.html",
+      "image_url": "https://media0.faz.net/image/w730/ed6559415b8a/w3000h1687x0y235/202601/43601.0.1650438122/dieser-ausschnitt-aus-einem.webp",
+      "image_title": "Dieser Ausschnitt aus einem vom iranischen Staatsfernsehen via AP veröffentlichten Video soll brennende Fahrzeuge während nächtlicher Massenproteste in der Nacht zu Donnerstag in Zandschan zeigen."
     },
     {
       "title": "Handke und der Populismus: Wann ging das los mit den alternativen Fakten?",
@@ -79,17 +87,11 @@
       "image_title": "Der österreichische Schriftsteller Peter Handke im März 2006 vor seiner Rede beim Begräbnis des wegen Völkermordes in Den Haag angeklagten Serbenführers ­Slobodan Milošević in Požarevac."
     },
     {
-      "title": "Rückenschmerzen: Da läuft doch was schief!",
-      "teaser": "Viele Menschen haben ein längeres und ein kürzeres Bein – und Schmerzen. Was man dagegen tun kann und wann eine OP angebracht ist.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/rueckenschmerzen-wann-unterschiedlich-lange-beine-zum-problem-werden-accg-110811779.html",
-      "image_url": "https://media0.faz.net/image/w730/37b79487fe71/w3000h1688x0y178/012026/1.10811777/pp-1-10811777.webp"
-    },
-    {
-      "title": "FAZ+Kolumne „Mein Urteil“: Mutterschutz und Elternzeit – wann verfällt der Resturlaub?",
-      "teaser": "Wer wegen aus Gründen des Mutterschutzes oder wegen einer Elternzeit seinen Jahresurlaub nicht vollständig nehmen kann, verliert ihn nicht. Doch wie lange bleiben die Resttage erhalten?",
-      "url": "https://www.faz.net/aktuell/karriere-hochschule/mein-urteil/mutterschutzrechtliches-beschaeftigungsverbot-und-elternzeit-wann-verfaellt-der-resturlaub-accg-200409127.html",
-      "image_url": "https://media0.faz.net/image/w730/06f8aa3d51e7/w8256h4643x0y0/202601/43601.0.1636738511/eine-schwangere-frau-arbeitet.webp",
-      "image_title": "Eine schwangere Frau arbeitet im Homeoffice."
+      "title": "Kritische Infrastruktur: Der Preis der Resilienz",
+      "teaser": "Nach dem Berliner Stromausfall soll alles sicherer werden. Wie viel lassen wir uns das kosten? Und welche Risiken wollen wir tragen?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/der-preis-der-resilienz-accg-110816694.html",
+      "image_url": "https://media0.faz.net/image/w730/ba0f0652e9fe/w3000h1688x0y281/012026/1.10816691/im-dunkeln-blick-nach-steglitz.webp",
+      "image_title": "Im Dunkeln: Blick nach Steglitz-Zehlendorf"
     },
     {
       "title": "Kolumne „Der Landarzt“: Ich rutschte aus – und hörte es im linken Sprunggelenk knacken",
@@ -100,36 +102,36 @@
     },
     {
       "title": "Liveblog zum Schneesturm: Sturmtief „Elli“ soll im Süden bis zu 50 Zentimeter Neuschnee bringen",
-      "teaser": "Unwetterwarnung für Teile von Baden-Württemberg +++ Auch in Bayern werden Schneefälle erwartet +++ Fernverkehr in Norddeutschland soll mittags wieder anlaufen +++ alle Entwicklungen im Liveblog",
+      "teaser": "Unwetterwarnung für Teile von Baden-Württemberg +++ Auch in Bayern werden Schneefälle erwartet +++ Auswirkungen im Bahnverkehr sind weiterhin zu spüren +++ alle Entwicklungen im Liveblog",
       "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/liveblog-schneesturm-und-unwetterwarnung-bis-zu-50-zentimeter-neuschnee-im-schwarzwald-erwartet-faz-200418900.html",
       "image_url": "https://media0.faz.net/image/w730/64f0cad5332f/w3000h1687x0y156/202601/43601.0.1649683447/ein-mitarbeiter-eines.webp",
       "image_title": "Ein Mitarbeiter eines Winterdienstes beseitigt mit einem Motorbesen den Schnee von einem Bürgersteig in Oldenburg."
     },
     {
-      "title": "F.A.Z.-Leser helfen: Was es heißt, Geschwisterkind von psychisch Kranken zu sein",
-      "teaser": "Psychische Erkrankungen treffen nicht nur Betroffene, sondern auch ihre Familien. Das wissen zwei junge Frauen genau – und erzählen, wie sie mit Schuld, Liebe und Verantwortung umgehen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/f-a-z-leser-helfen-1/so-koennen-sich-psychische-erkrankungen-auf-geschwisterkinder-auswirken-accg-110812557.html",
-      "image_url": "https://media0.faz.net/image/w730/d2efed97a571/w3000h1688x0y311/012026/1.10812556/wuenschen-sich-mehr.webp",
-      "image_title": "Wünschen sich mehr Verständnis: Martha (vorn) und Nina"
-    },
-    {
-      "title": "USA und Lateinamerika: Amerika und Amerika",
-      "teaser": "Die USA haben in Lateinamerika schon Militärdiktaturen protegiert, aber auch Demokratien unterstützt. Mal zeigte Washington sich als hegemoniale Macht, dann wieder desinteressiert.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/lateinamerikapolitik-nicht-alle-wege-fuehren-zu-trump-accg-200420727.html",
-      "image_url": "https://media0.faz.net/image/w920/f1cb1e70be0e/w3000h1687x0y36/202601/43601.0.1637854839/begleitet-von-schwer.webp",
-      "image_title": "Begleitet von schwer bewaffneten Sicherheitskräften treffen der gefangen genommene venezolanische Präsident Nicolás Maduro (2.v.r) und seine Frau Cilia Flores (2. v. l.) am 5. Januar 2026 am Wall Street Heliport im New Yorker Stadtbezirk Manhattan ein."
+      "title": "Kostenlose Sessel: „Ich möchte mir ein Stück Kinogeschichte retten“",
+      "teaser": "Die Wiesbadener Kinos „Hollywood“ und „Thalia“ schließen. Hunderte Menschen sind am Wochenende in die Innenstadt gekommen, um sich ausgemusterte Sessel nach Hause zu holen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/wiesbaden-hollywood-und-thalia-verschenken-kinosessel-accg-200425896.html",
+      "image_url": "https://media0.faz.net/image/w730/6e93c4af9645/w5365h3018x0y281/202601/c3b30049-8049-4d40-8d0d-ff3b0e91e449/eine-frau-und-ein-mann-tragen.webp",
+      "image_title": "Eine Frau und ein Mann tragen eine rote Sitzreihe an der wartenden Menschenmenge vorbei."
     },
     {
       "title": "FAZ+F.A.Z. Machtprobe: Trumps Griff nach Venezuela: „Wenn das Öl der Preis für Freiheit ist, nehmen sie das in Kauf“",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/trumps-griff-nach-venezuela-oel-ist-der-preis-fuer-freiheit-200423872.html",
-      "image_url": "https://media0.faz.net/image/w730/7f4576550b62/w4200h2362x0y178/202601/43601.0.1631497837/menschen-feiern-die-festnahme.webp",
+      "image_url": "https://media0.faz.net/image/w920/7f4576550b62/w4200h2362x0y178/202601/43601.0.1631497837/menschen-feiern-die-festnahme.webp",
       "image_title": "Menschen feiern die Festnahme von Maduro in Doral, Florida am 3. Januar 2026"
     },
     {
-      "title": "FAZ+F.A.Z. Machtprobe: Trumps Griff nach Venezuela: „Wenn das Öl der Preis für Freiheit ist, nehmen sie das in Kauf“",
-      "teaser": "US-Präsident Trump feiert die Verhaftung des venezolanischen Diktators Maduro. Doch bis zur Erdölbonanza ist es ein weiter Weg und die „Donroe-Doktrin“ könnte den USA noch auf die Füße fallen.",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/trumps-griff-nach-venezuela-oel-ist-der-preis-fuer-freiheit-200423872.html"
+      "title": "USA und Lateinamerika: Amerika und Amerika",
+      "teaser": "Die USA haben in Lateinamerika schon Militärdiktaturen protegiert, aber auch Demokratien unterstützt. Mal zeigte Washington sich als hegemoniale Macht, dann wieder desinteressiert.",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/lateinamerikapolitik-nicht-alle-wege-fuehren-zu-trump-accg-200420727.html",
+      "image_url": "https://media0.faz.net/image/w730/f1cb1e70be0e/w3000h1687x0y36/202601/43601.0.1637854839/begleitet-von-schwer.webp",
+      "image_title": "Begleitet von schwer bewaffneten Sicherheitskräften treffen der gefangen genommene venezolanische Präsident Nicolás Maduro (2.v.r) und seine Frau Cilia Flores (2. v. l.) am 5. Januar 2026 am Wall Street Heliport im New Yorker Stadtbezirk Manhattan ein."
+    },
+    {
+      "title": "USA und Lateinamerika: Amerika und Amerika",
+      "teaser": "Die USA haben in Lateinamerika schon Militärdiktaturen protegiert, aber auch Demokratien unterstützt. Mal zeigte Washington sich als hegemoniale Macht, dann wieder desinteressiert.",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/lateinamerikapolitik-nicht-alle-wege-fuehren-zu-trump-accg-200420727.html"
     },
     {
       "title": "Früherer NATO-Chef: „Unsere Werte müssen siegen“",
@@ -144,6 +146,13 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/unsere-werte-muessen-siegen-accg-110816648.html"
     },
     {
+      "title": "Luftangriffe auf die Ukraine: Staatsterrorismus aus Moskau",
+      "teaser": "Mit den neuerlichen Schlägen auf die zivile Infrastruktur der Ukraine zeigen die Moskauer Machthaber, wo sie stehen. Russland will keinen Frieden.",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/angriffe-auf-kiew-moskauer-staatsterrorismus-110816906.html",
+      "image_url": "https://media0.faz.net/image/w100/ad56129402a8/w499h499x174y94/201911/1.6467800/reinhard-veser.webp",
+      "image_title": "Reinhard Veser"
+    },
+    {
       "title": "Hin und Her in Schottland: Moorhuhnjagd mit Celtic",
       "teaser": "Heuern und Feuern ist bei Inselklubs gerade angesagt, doch Celtic Glasgow schießt den Vogel ab: Schon wieder gibt Martin O’Neill dort sein Comeback. Ihm bliebt nur eins: Er nimmt's mit Humor.",
       "url": "https://www.faz.net/aktuell/sport/fussball/trainer-wirrwarr-in-glasgow-moorhuhnjagd-mit-celtic-110816687.html",
@@ -151,11 +160,11 @@
       "image_title": "Thomas Klemm"
     },
     {
-      "title": "Luftangriffe auf die Ukraine: Staatsterrorismus aus Moskau",
-      "teaser": "Mit den neuerlichen Schlägen auf die zivile Infrastruktur der Ukraine zeigen die Moskauer Machthaber, wo sie stehen. Russland will keinen Frieden.",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/angriffe-auf-kiew-moskauer-staatsterrorismus-110816906.html",
-      "image_url": "https://media0.faz.net/image/w100/ad56129402a8/w499h499x174y94/201911/1.6467800/reinhard-veser.webp",
-      "image_title": "Reinhard Veser"
+      "title": "Berliner Stromausfall: Kai Wegner, ein Chef mit guten Seiten",
+      "teaser": "Der Berliner Bürgermeister glänzte mit modernem Führungsverständnis. Leider nicht in jeder Hinsicht.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/kai-wegner-ein-chef-mit-guten-seiten-110816537.html",
+      "image_url": "https://media0.faz.net/image/w100/b26dee122ef5/w420h420x264y73/201907/1.6279563/ralph-bollmann.webp",
+      "image_title": "Ralph Bollmann"
     },
     {
       "title": "AfD, Wärmepumpe oder Rente: Furor mit Folgen",
@@ -207,31 +216,24 @@
       "image_title": "Manfred Lindinger"
     },
     {
-      "title": "Fehlinformation um das ICE-Opfer: Wie sich ein Gerücht verbreitet",
-      "teaser": "Die US-Regierung stellt die erschossene Renee Nicole Good als Terroristin dar. Aber auch seriöse Medien bezeichneten sie anfangs als „Ehefrau eines prominenten Aktivisten“. Woher kommt die fragwürdige Information?",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/tod-von-renee-nicole-good-medien-verbreiten-geruechte-110816413.html",
-      "image_url": "https://media0.faz.net/image/w100/7070790e40d5/w422h422x312y73/201911/1.6467789/harald-staun.webp",
-      "image_title": "Harald Staun"
+      "title": "Olympiafavoritin mit 41: Lindsey Vonn rast zum Sieg in Zauchensee",
+      "teaser": "Knapp einen Monat vor Olympia präsentiert sich Lindsey Vonn in bestechender Form. Auch die deutsche Hoffnungsträgerin Emma Aicher überzeugt. Eine Österreicherin stürzt heftig.",
+      "url": "https://www.faz.net/aktuell/sport/wintersport/ski-star-lindsey-vonn-gewinnt-abfahrt-in-zauchensee-accg-200426187.html"
     },
     {
-      "title": "Mainz-Trainer zurück in Berlin: Fischers Rückkehr unter Zugzwang",
-      "teaser": "Über fünf Jahre trainierte Urs Fischer den Bundesligaklub Union Berlin. Nun kehrt er als Coach von Mainz 05 zurück. Beim wichtigen Spiel um den Klassenverbleib fehlt ihm ein Winterzugang krankheitsbedingt.",
-      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/mainz-05-urs-fischers-rueckkehr-unter-zugzwang-accg-200423597.html"
+      "title": "FAZ+Kolumne „Mein Urteil“: Mutterschutz und Elternzeit – wann verfällt der Resturlaub?",
+      "teaser": "Wer wegen aus Gründen des Mutterschutzes oder wegen einer Elternzeit seinen Jahresurlaub nicht vollständig nehmen kann, verliert ihn nicht. Doch wie lange bleiben die Resttage erhalten?",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/mein-urteil/mutterschutzrechtliches-beschaeftigungsverbot-und-elternzeit-wann-verfaellt-der-resturlaub-accg-200409127.html"
+    },
+    {
+      "title": "F.A.Z.-Leser helfen: Was es heißt, Geschwisterkind von psychisch Kranken zu sein",
+      "teaser": "Psychische Erkrankungen treffen nicht nur Betroffene, sondern auch ihre Familien. Das wissen zwei junge Frauen genau – und erzählen, wie sie mit Schuld, Liebe und Verantwortung umgehen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/f-a-z-leser-helfen-1/so-koennen-sich-psychische-erkrankungen-auf-geschwisterkinder-auswirken-accg-110812557.html"
     },
     {
       "title": "Spektakel in Frankfurt: „Was für ein Spiel! Fußballherz, was willst du mehr?“",
       "teaser": "Im Freudentaumel über Ebnoutalibs Einstand und Dahouds späten Ausgleich verspielt die Eintracht Big Points gegen den BVB. Viel Zeit, die positiven Eindrücke aus dem 3:3 wirken zu lassen, bleibt Frankfurt nicht.",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-spektakel-frankfurt-verspielt-big-points-gegen-bvb-accg-200425802.html"
-    },
-    {
-      "title": "Weitere Proteste in Iran: „Die Gefahr eines massenhaften Tötens von Demonstranten ist sehr ernst“",
-      "teaser": "Wegen der landesweiten Internetsperre sind die genauen Ausmaße schwer einzuschätzen. Trump droht der iranischen Führung. Und der Schah-Sohn ruft zu weiterem Protest auf.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/proteste-in-iran-abermals-demonstrationen-in-teheran-200425064.html"
-    },
-    {
-      "title": "Australien: Ausnahmezustand wegen Buschbränden in Victoria ausgerufen",
-      "teaser": "In Australien ist es gerade Sommer. Bei Temperaturen von mehr als 40 Grad Celsius sind in den vergangenen Tagen mehrere Feuer im Bundesstaat Victoria ausgebrochen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/australien-buschbraende-wueten-im-bundesstaat-victoria-accg-200425972.html"
     },
     {
       "title": "FAZ+Der Beziehungs-Check: An diesen zehn Merkmalen erkennen Sie, ob Sie sich trennen sollten",
@@ -272,11 +274,11 @@
       "image_title": "Klassiker der Hausmannskost, zubereitet auf Sterneniveau: Sascha Stembergs Graupensuppe mit Mettwurst."
     },
     {
-      "title": "Antonio Muñoz Molina: Der beste Zeuge für die spanische Malaise",
-      "teaser": "Der spanische Schriftsteller Antonio Muñoz Molina gehört seit vielen Jahren zu den bedeutendsten Autoren seines Landes. Ein Glückwunsch zum siebzigsten Geburtstag.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/antonio-munoz-molina-wird-siebzig-jahre-alt-accg-110816996.html",
-      "image_url": "https://media0.faz.net/image/w920/6ab34a5dc7e7/w3000h1688x0y121/012026/1.10816993/antonio-mu-oz-molina.webp",
-      "image_title": "Antonio Muñoz Molina"
+      "title": "FAZ+Skibrillen im Test: Alles klar?",
+      "teaser": "Wechselnde Lichtverhältnisse machen Wintersportlern zu schaffen. Manche Skibrillen passen sich automatisch an. Neuerdings sogar elektronisch.",
+      "url": "https://www.faz.net/aktuell/technik-motor/technik/skibrillen-im-test-accg-110813364.html",
+      "image_url": "https://media0.faz.net/image/w920/bcef0c79d426/w1280h720x0y281/012026/1.10813361/victorious-pro-v-von-uvex.webp",
+      "image_title": "Victorious Pro V von Uvex"
     },
     {
       "title": "FAZ+Wegovy und Mounjaro: So schnell nimmt man nach Abnehmspritzen wieder zu",
@@ -346,10 +348,17 @@
       "image_url": "https://media0.faz.net/image/w730/cb9c64eb0d36/w3000h1687x0y270/202404/43601.0.270010963/436010270010963.webp"
     },
     {
+      "title": "Mainz-Trainer zurück in Berlin: Fischers Rückkehr unter Zugzwang",
+      "teaser": "Über fünf Jahre trainierte Urs Fischer den Bundesligaklub Union Berlin. Nun kehrt er als Coach von Mainz 05 zurück. Beim wichtigen Spiel um den Klassenverbleib fehlt ihm ein Winterzugang krankheitsbedingt.",
+      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/mainz-05-urs-fischers-rueckkehr-unter-zugzwang-accg-200423597.html",
+      "image_url": "https://media0.faz.net/image/w1200/00939aaeb59f/w2964h1667x18y0/202512/43601.0.1603402449/steht-vor-dem-ersten-spiel-bei.webp",
+      "image_title": "Steht vor dem ersten Spiel bei seinem ehemaligen Verein: Mainz-Trainer Urs Fischer"
+    },
+    {
       "title": "vor dem Winterwochenende: Das sind die besten Loipen im Taunus",
       "teaser": "Endlich wieder genug Schnee, um mit den Skiern durch den Wald zu gleiten. Nur wo? Die F.A.Z. hat die schönsten Strecken im Frankfurter Umland aufgesucht.",
       "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/langlaufen-im-taunus-das-sind-die-besten-loipen-accg-200422921.html",
-      "image_url": "https://media0.faz.net/image/w1200/230607fffd3c/w3000h1687x0y247/201801/431.0.21748054/wintersportler-auf-den-zwei.webp",
+      "image_url": "https://media0.faz.net/image/w730/230607fffd3c/w3000h1687x0y247/201801/431.0.21748054/wintersportler-auf-den-zwei.webp",
       "image_title": "Wintersportler auf den zwei dünnen Skiern im Wald"
     },
     {
@@ -365,13 +374,6 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/wildes-3-3-zwischen-frankfurt-und-dortmund-zum-bundesliga-re-start-200371107.html",
       "image_url": "https://media0.faz.net/image/w730/cedbdf06f701/w5325h2995x1118y774/202601/43601.0.1650697043/der-schlusspunkt-einer.webp",
       "image_title": "Der Schlusspunkt einer wendungsreichen Partie: Carney Chukwuemeka schießt zum 3:3 ein."
-    },
-    {
-      "title": "„Hans im Glück“: Früherer Rennfahrer Hans Herrmann ist tot",
-      "teaser": "Hans Herrmann galt als Ausnahmefahrer, er zählt zu den erfolgreichsten deutschen Motorsportlern der Nachkriegszeit. Sein größter Sieg gelang ihm in Le Mans. Nun ist er im Alter von 97 Jahren gestorben.",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/motorsport/praegender-motorsportler-und-le-mans-sieger-hans-herrmann-ist-tot-200425069.html",
-      "image_url": "https://media0.faz.net/image/w730/d349d67f90bf/w3000h1687x0y278/202601/43601.0.1650283496/ich-wollte-das-schicksal-nicht.webp",
-      "image_title": "„Ich wollte das Schicksal nicht länger strapazieren“: Hans Herrmann."
     },
     {
       "title": "Jetzt in der Werteunion: Meuthen hofft auf den „Reichinnek-Effekt“",
@@ -449,18 +451,17 @@
       "image_title": "Was die Maschine sieht: Mit „Factored Embodied AI“ sollen die Entscheidungen des Systems nachvollziehbar werden."
     },
     {
+      "title": "Rückenschmerzen: Da läuft doch was schief!",
+      "teaser": "Viele Menschen haben ein längeres und ein kürzeres Bein – und Schmerzen. Was man dagegen tun kann und wann eine OP angebracht ist.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/rueckenschmerzen-wann-unterschiedlich-lange-beine-zum-problem-werden-accg-110811779.html",
+      "image_url": "https://media0.faz.net/image/w920/de2bf0d43981/w3000h1285x0y379/012026/1.10811777/pp-1-10811777.webp"
+    },
+    {
       "title": "FAZ+Tipps vom Kaufbegleiter: So vermeiden Sie Betrug beim Autokauf",
       "teaser": "Beim Kauf eines Gebrauchtwagens wird viel betrogen. Kaufbegleiter können das verhindern. Hier sind ihre besten Tipps für Käufer.",
       "url": "https://www.faz.net/aktuell/finanzen/wie-sich-betrug-beim-autokauf-vermeiden-laesst-accg-110811670.html",
-      "image_url": "https://media0.faz.net/image/w920/fbbc7c0f522f/w3000h1285x0y210/122025/1.10811669/was-steckt-unter-der-haube.webp",
+      "image_url": "https://media0.faz.net/image/w730/a6973b1a0d49/w3000h1688x0y48/122025/1.10811669/was-steckt-unter-der-haube.webp",
       "image_title": "Was steckt unter der Haube? Gebrauchtwagenhandel in Dresden"
-    },
-    {
-      "title": "Quartier für Fußball-WM: Etwas Franken in Amerika",
-      "teaser": "Das amerikanische Herzogenaurach heißt Winston-Salem: Der DFB hat das Quartier für die Nationalelf während der Fußball-WM 2026 gefunden. Die Wahl der Unterkunft ist nicht zu unterschätzen.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-wm-2026-der-dfb-findet-ein-stueck-franken-in-amerika-110816946.html",
-      "image_url": "https://media0.faz.net/image/w730/3238463efebe/w2438h1371x0y0/202601/43601.0.1623511020/schau-mal-da-wohnen-wir-julian.webp",
-      "image_title": "Schau mal, da wohnen wir: Julian Nagelsmann und Joshua Kimmich kennen nun ihr WM-Quartier."
     },
     {
       "title": "FAZ+Winterrätsel: Mit barer Münze",
@@ -497,10 +498,17 @@
       "image_title": "Das Deutsche Bank in Frankfurt."
     },
     {
+      "title": "Filmklassiker „Ein Prophet“: Der Knast als Aufstiegsmöglichkeit",
+      "teaser": "Für Jacques Audiard und Tahar Rahim brachte der Gefängnisfilm 2009 den Durchbruch. Doch die Geschichte von Malik ist weit mehr als nur ein intelligenter Thriller hinter Gittern.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/warum-ein-prophet-zu-den-besten-franzoesischen-filmen-zaehlt-accg-110816302.html",
+      "image_url": "https://media0.faz.net/image/w1200/c1a2e2accc3c/w4368h2457x0y228/202601/fc411673-5cd6-4886-9bb0-5ae0afc1d06d/keine-guten-aussichten-malik.webp",
+      "image_title": "Keine guten Aussichten: Malik im Gefangenentransporter"
+    },
+    {
       "title": "Theaterpremiere Berlin: In der Homeoffice-Hölle",
       "teaser": "Die Schaubühne eröffnet eine neue Spielstätte am Kurfürstendamm mit einem Stück von Marius von Mayenburg. „Egal“ jongliert raffiniert mit Geschlechterrollen und führt uns aufs ideologische Glatteis.",
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/schaubuehne-berlin-egal-hinterfragt-geschlechterrollen-110816609.html",
-      "image_url": "https://media0.faz.net/image/w1200/57a12e59a6ee/w3000h1688x0y156/022024/1.10816608/eheszene-simone-marie-burchard.webp",
+      "image_url": "https://media0.faz.net/image/w730/57a12e59a6ee/w3000h1688x0y156/022024/1.10816608/eheszene-simone-marie-burchard.webp",
       "image_title": "Eheszene: Simone (Marie Burchard) und Erik (Stefan Stern) suchen nach Gesten der Versöhnung"
     },
     {
@@ -511,18 +519,11 @@
       "image_title": "Zeitelebends so verehrt wie verhasst und ungeheur einflussreich: Paul Cassirer"
     },
     {
-      "title": "GZSZ-Star: Wolfgang Bahro wäre im echten Leben kein Freund von Gerner",
-      "teaser": "Wolfgang Bahro kennt Jo Gerner wie kein anderer – er spielt das „Gute Zeiten, schlechte Zeiten“-Urgestein seit mehr als 30 Jahren. Privat würde er ihm aber lieber aus dem Weg gehen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/gzsz-star-wolfgang-bahro-waere-im-echten-leben-kein-freund-von-gerner-accg-200425579.html",
-      "image_url": "https://media0.faz.net/image/w730/e8ba325bb477/w3000h1687x0y156/202601/43601.0.1651166751/schauspieler-wolfgang-bahro.webp",
-      "image_title": "Schauspieler Wolfgang Bahro"
-    },
-    {
-      "title": "Roman aus Belarus: Porträt eines Landes in Schockstarre",
-      "teaser": "Eine Flaschenpost im Fluss der Zeit: Der belarussische Autor Viktor Martinowitsch untersucht in seinem neuen Roman, wie man das Böse bekämpft, ohne selbst böse zu werden.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/viktor-martinowitschs-roman-das-gute-siegt-110815590.html",
-      "image_url": "https://media0.faz.net/image/w730/2f6f6e98d455/w3000h1688x0y221/082025/1.10815588/flagge-zeigen-gegen-die.webp",
-      "image_title": "Flagge zeigen gegen die Diktatur in Weißrussland: Das ist dort nicht so einfach. Auf dieser Aufnahme geschieht es bei einer Demonstration in Warschau."
+      "title": "Antonio Muñoz Molina: Der beste Zeuge für die spanische Malaise",
+      "teaser": "Der spanische Schriftsteller Antonio Muñoz Molina gehört seit vielen Jahren zu den bedeutendsten Autoren seines Landes. Ein Glückwunsch zum siebzigsten Geburtstag.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/antonio-munoz-molina-wird-siebzig-jahre-alt-accg-110816996.html",
+      "image_url": "https://media0.faz.net/image/w730/6ab34a5dc7e7/w3000h1688x0y121/012026/1.10816993/antonio-mu-oz-molina.webp",
+      "image_title": "Antonio Muñoz Molina"
     },
     {
       "title": "FAZ+Bedrohte Wissenschaftler: Kultur zum Überleben verhelfen",
@@ -546,10 +547,17 @@
       "image_title": "Die Zwillingsbrüder Gerrit und Frederik Braun haben zusammen mit ihrem Vater Jochen Braun und Stephan Hertz 2001 das Miniatur Wunderland Hamburg gegründet."
     },
     {
+      "title": "Australien: Ausnahmezustand wegen Buschbränden in Victoria ausgerufen",
+      "teaser": "In Australien ist es gerade Sommer. Bei Temperaturen von mehr als 40 Grad Celsius sind in den vergangenen Tagen mehrere Feuer im Bundesstaat Victoria ausgebrochen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/australien-buschbraende-wueten-im-bundesstaat-victoria-accg-200425972.html",
+      "image_url": "https://media0.faz.net/image/w1200/198a8b4ac7c0/w6699h3768x0y349/202601/43601.0.1651430439/ein-hubschrauber-versucht-die.webp",
+      "image_title": "Ein Hubschrauber versucht, die Brände in Victoria zu löschen."
+    },
+    {
       "title": "Winterwetter: Brrrrrr! Warum es gerade so kalt ist",
       "teaser": "Kälte, Schnee, Glätte: Der Januar lässt Deutschland zittern. Experten erklären, woher die Kaltfront kommt – und warum die Klimakrise trotzdem bleibt.",
       "url": "https://www.faz.net/aktuell/gesellschaft/winterwetter-warum-es-gerade-so-kalt-ist-accg-200425581.html",
-      "image_url": "https://media0.faz.net/image/w1200/f97a7d1e9ebe/w2240h1260x0y143/202601/43601.0.1648665185/chemnitz-schnee-liegt-auf.webp",
+      "image_url": "https://media0.faz.net/image/w730/f97a7d1e9ebe/w2240h1260x0y143/202601/43601.0.1648665185/chemnitz-schnee-liegt-auf.webp",
       "image_title": "Chemnitz: Schnee liegt auf einem Baum im Rabensteiner Wald."
     },
     {
@@ -565,13 +573,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gelsenkirchener-sparkasse-wieso-die-ermittlungen-im-tresorraum-andauern-200424921.html",
       "image_url": "https://media0.faz.net/image/w730/b29dd0c10eed/w2250h1266x0y301/202612/43601.0.1620236590/nahezu-alle-der-3-250.webp",
       "image_title": "Nahezu alle der 3.250 Schließfächer wurden aufgebrochen. Bis der genaue Schaden beziffert werden kann, wird noch viel Ermittlungsarbeit nötig sein."
-    },
-    {
-      "title": "Brandkatastrophe im Wallis: „Der Feuerball hat Gesicht und Hände tief verbrannt“",
-      "teaser": "Im Feuerinferno von Crans-Montana haben vor allem junge Leute schwere Verbrennungen erlitten. Der Zürcher Klinikdirektor Pietro Giovanoli erklärt, warum ihr Alter die Heilungschancen erhöhen kann.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/crans-montana-wie-aerzte-um-die-brandverletzten-kaempfen-110816525.html",
-      "image_url": "https://media0.faz.net/image/w730/c2d7513e4469/w8256h4644x0y430/202601/43601.0.1647079730/ueber-dem-gedenkort-vor-der.webp",
-      "image_title": "Über dem Gedenkort vor der Bar „Le Constellation“ wurde ein schützendes Zelt errichtet."
     },
     {
       "title": "FAZ+Rhein-Main: Schaut auf diese Region!",
@@ -615,18 +616,18 @@
       "image_title": "Schöne Aussichten: Blick über den Mainzer Dom bis zum Rhein. Wenn man jedoch genauer hinschaut, könnte 2026 auch etliche Herausforderungen bringen."
     },
     {
-      "title": "FAZ+Skibrillen im Test: Alles klar?",
-      "teaser": "Wechselnde Lichtverhältnisse machen Wintersportlern zu schaffen. Manche Skibrillen passen sich automatisch an. Neuerdings sogar elektronisch.",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/skibrillen-im-test-accg-110813364.html",
-      "image_url": "https://media0.faz.net/image/w730/bcef0c79d426/w1280h720x0y281/012026/1.10813361/victorious-pro-v-von-uvex.webp",
-      "image_title": "Victorious Pro V von Uvex"
-    },
-    {
       "title": "Car of the Year: Mercedes-Benz CLA ist Auto des Jahres 2026",
       "teaser": "Nach unglaublichen 52 Jahren gewinnt Mercedes-Benz wieder den prestigeträchtigsten Preis der Automobilindustrie. Mit deutlichem Vorsprung.",
       "url": "https://www.faz.net/aktuell/technik-motor/motor/mercedes-benz-cla-ist-auto-des-jahres-2026-accg-200420900.html",
       "image_url": "https://media0.faz.net/image/w730/3a345661477d/w2749h1546x75y1734/202601/43601.0.1649037712/gewonnen-mercedes-benz-cla.webp",
       "image_title": "Gewonnen: Mercedes-Benz CLA"
+    },
+    {
+      "title": "Das Jahr 2026: Frisches Steingrün",
+      "teaser": "Optimismus ist angesagt. Hoffnung auch. Aber die Realität, die böse, holt Loriot hervor. Der würde fragen: Darf ich Ihnen ein frisches Steingrau vorschlagen?",
+      "url": "https://www.faz.net/aktuell/technik-motor/frisches-steingruen-das-jahr-2026-110813374.html",
+      "image_url": "https://media0.faz.net/image/w730/8cb479038540/w3000h1687x0y47/201812/431.0.17294393/hier-noch-ganz-hinten-in-der.webp",
+      "image_title": "Hier noch ganz hinten in der vorletzten Reihe"
     },
     {
       "title": "FAZ+Orthopädie: Wenn Kieferprobleme den Rücken belasten",
