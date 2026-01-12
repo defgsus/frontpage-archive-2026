@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T12:22:22",
+  "timestamp": "2026-01-12T13:35:03",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,32 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-11129483.html"
+    },
+    {
+      "title": "Mindestpreise statt Aufschläge: EU und China finden Zoll-Kompromiss für E-Autos",
+      "url": "https://www.heise.de/news/Sanfte-Landung-EU-und-China-finden-Kompromiss-im-Zollstreit-ueber-E-Autos-11137902.html"
+    },
+    {
+      "title": "Gmail-Störung: Exchange ActiveSync funktioniert wieder",
+      "url": "https://www.heise.de/news/Gmail-Stoerung-Exchange-ActiveSync-funktioniert-wieder-11137846.html"
+    },
+    {
+      "title": "Bayerns Staatsregierung streitet lautstark über Microsoft-Vertrag",
+      "url": "https://www.heise.de/news/Bayerns-Staatsregierung-streitet-lautstark-ueber-Microsoft-Vertrag-11137842.html"
+    },
+    {
+      "title": "Kubernetes-Cluster von Ingress Nginx zu Traefik migrieren",
+      "url": "https://www.heise.de/ratgeber/Kubernetes-Cluster-von-Ingress-Nginx-zu-Traefik-migrieren-11094019.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Airbus baut mehrere hundert Oneweb-Satelliten",
+      "url": "https://www.heise.de/news/Airbus-baut-mehrere-hundert-Oneweb-Satelliten-11137850.html"
+    },
+    {
       "title": "Distanzunterricht in mehreren Bundesländern – GEW fordert bessere Grundlagen",
       "url": "https://www.heise.de/news/Distanzunterricht-in-mehreren-Bundeslaendern-GEW-fordert-bessere-Grundlagen-11137792.html"
     },
@@ -42,36 +68,10 @@
       "url": "https://www.heise.de/news/Bemannte-Mondmission-Artemis-2-NASA-Riesenrakete-vor-ihrem-Weg-zur-Startrampe-11137593.html"
     },
     {
-      "title": "Tintenfisch-Trick: Neues Material wechselt Farbe und Struktur in Sekunden",
-      "url": "https://www.heise.de/news/Tintenfisch-Trick-Neues-Material-wechselt-Farbe-und-Struktur-in-Sekunden-11137643.html"
-    },
-    {
-      "title": "Windows-Insider-Vorschau: Microsoft testet Copilot-Deinstallation",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschau-Microsoft-testet-Copilot-Deinstallation-11137597.html"
-    },
-    {
-      "title": "MedConf by heise: Vorträge zu Medizintechnik-Themen gesucht",
-      "url": "https://www.heise.de/news/MedConf-by-heise-Vortraege-zu-Medizintechnik-Themen-gesucht-11134265.html"
-    },
-    {
-      "title": "Premium-TVs: Welcher Hersteller den passenden Fernseher bietet",
-      "url": "https://www.heise.de/tests/Premium-TVs-Welcher-Hersteller-den-passenden-Fernseher-bietet-11109266.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Was Apple 2026 bringt: Ausblick und Einordnung | Mac & i-Podcast",
-      "url": "https://www.heise.de/news/Von-Budget-MacBook-bis-Falt-iPhone-Ausblick-auf-Apples-2026-Mac-i-Podcast-11137694.html"
-    },
-    {
-      "title": "XPipe 20.0: Open-Source-Tool vereinfacht Multi-Server-Verwaltung",
-      "url": "https://www.heise.de/news/XPipe-20-0-Connection-Hub-mit-AWS-Integration-und-SSH-Key-Verwaltung-11137578.html"
-    },
-    {
-      "title": "UpdateMissglückter ReparaturversuchDatenpanne bei Datev: Wenn die Lohnabrechnung beim Falschen landet",
-      "teaser": "Im Lodas-System kam es zur Fehlzustellung sensibler Mandantendaten bei der Datev. Kunden bringt das in Erklärungsnot.",
-      "url": "https://www.heise.de/news/Datenpanne-bei-der-Datev-Wenn-die-Lohnabrechnung-beim-Falschen-landet-11136910.html",
-      "image_title": "Das Datev-Logo prangt über dem Eingang der Zentrale in Nürnberg."
+      "title": "BayernStaatsregierung streitet lautstark über Microsoft-Vertrag",
+      "teaser": "Mit einem neuen Microsoft-Lizenzvertrag will die Staatsregierung die Kosten in Bayern senken. Das Projekt ist aber nicht unumstritten.",
+      "url": "https://www.heise.de/news/Bayerns-Staatsregierung-streitet-lautstark-ueber-Microsoft-Vertrag-11137842.html",
+      "image_title": "Collage der bayerischen Flagge und des Microsoft-Logos"
     },
     {
       "title": "Stromkosten für Wärmepumpen senkenSo holen sich Haushalte Umlagen zurück",
@@ -96,10 +96,10 @@
       "image_title": "Blick von unten auf eine orangefarbene Rakete in einem Hangar"
     },
     {
-      "title": "Sexuelle DeepfakesErste Staaten sperren Grok, Kritik an Google und Apple",
-      "teaser": "Dass der KI-Chatbot Grok nicht mehr in aller Öffentlichkeit Fotos „entkleidet“, reicht ersten Aufsichtsbehörden nicht.",
-      "url": "https://www.heise.de/news/Sexuelle-Deepfakes-Erste-Staaten-sperren-Grok-Kritik-an-Google-und-Apple-11137138.html",
-      "image_title": "Silhouette Elon Musks hinter einem Smartphone mit dem Grok-Logo"
+      "title": "UpdateMissglückter ReparaturversuchDatenpanne bei Datev: Wenn die Lohnabrechnung beim Falschen landet",
+      "teaser": "Im Lodas-System kam es zur Fehlzustellung sensibler Mandantendaten bei der Datev. Kunden bringt das in Erklärungsnot.",
+      "url": "https://www.heise.de/news/Datenpanne-bei-der-Datev-Wenn-die-Lohnabrechnung-beim-Falschen-landet-11136910.html",
+      "image_title": "Das Datev-Logo prangt über dem Eingang der Zentrale in Nürnberg."
     },
     {
       "title": "Ein Kabel für allesTop 10: Die beste Dockingstation mit USB-C im Test",
@@ -129,10 +129,10 @@
       "url": "https://www.heise.de/hintergrund/KI-als-Werkzeug-statt-Denkersatz-Was-gegen-Kompetenzabbau-hilft-11079493.html"
     },
     {
-      "title": "MediaMarkt breitet sich ausFilialnetz dünnt aus – was wird aus Saturn?",
-      "teaser": "Saturn verschwindet aus immer mehr Innenstädten. Standorte werden in MediaMarkt-Filialen umgewandelt. Hält JD.com an beiden Marken fest?",
-      "url": "https://www.heise.de/news/Filialnetz-duennt-aus-was-wird-aus-Saturn-11137160.html",
-      "image_title": "Saturn-Logo"
+      "title": "Sexuelle DeepfakesErste Staaten sperren Grok, Kritik an Google und Apple",
+      "teaser": "Dass der KI-Chatbot Grok nicht mehr in aller Öffentlichkeit Fotos „entkleidet“, reicht ersten Aufsichtsbehörden nicht.",
+      "url": "https://www.heise.de/news/Sexuelle-Deepfakes-Erste-Staaten-sperren-Grok-Kritik-an-Google-und-Apple-11137138.html",
+      "image_title": "Silhouette Elon Musks hinter einem Smartphone mit dem Grok-Logo"
     },
     {
       "title": "Über die KrankenkassenSo bekommen Sie Ihre neue Apple Watch",
@@ -145,9 +145,10 @@
       "url": "https://www.heise.de/ratgeber/Microsoft-Office-Drei-gute-Alternativen-ausprobiert-11069349.html"
     },
     {
-      "title": "Missing LinkSignaling X: Siemens’ U-Bahn-Steuerung CBTC",
-      "teaser": "Von Braunschweig auf den Singapur-Testring: Siemens hat das auf regulären Servern laufende Signaling-X-System gezeigt.",
-      "url": "https://www.heise.de/hintergrund/Signaling-X-Siemens-zeigt-U-Bahn-Steuerung-CBTC-auf-herkoemmlichen-Servern-11136172.html"
+      "title": "MediaMarkt breitet sich ausFilialnetz dünnt aus – was wird aus Saturn?",
+      "teaser": "Saturn verschwindet aus immer mehr Innenstädten. Standorte werden in MediaMarkt-Filialen umgewandelt. Hält JD.com an beiden Marken fest?",
+      "url": "https://www.heise.de/news/Filialnetz-duennt-aus-was-wird-aus-Saturn-11137160.html",
+      "image_title": "Saturn-Logo"
     },
     {
       "title": "FAQWas bietet HBO Max in Deutschland?",
@@ -155,15 +156,19 @@
       "url": "https://www.heise.de/news/HBO-Max-in-Deutschland-Was-kann-der-neue-Streamingdienst-11136928.html"
     },
     {
-      "title": "EnisaEU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf",
-      "teaser": "Verantwortliche der EU-Cybersicherheitsagentur Enisa räumen ein, dass zwei ihrer Berichte zahlreiche halluzinierte Quellen enthielten.",
-      "url": "https://www.heise.de/news/EU-Cyberagentur-nutzt-heimlich-KI-fuer-Berichte-und-fliegt-auf-11136924.html",
-      "image_title": "Zwei Hände tippen auf einer Laptop-Tastatur, darüber eine Grafik mit dem Schriftzug \"AI\"."
+      "title": "Missing LinkSignaling X: Siemens’ U-Bahn-Steuerung CBTC",
+      "teaser": "Von Braunschweig auf den Singapur-Testring: Siemens hat das auf regulären Servern laufende Signaling-X-System gezeigt.",
+      "url": "https://www.heise.de/hintergrund/Signaling-X-Siemens-zeigt-U-Bahn-Steuerung-CBTC-auf-herkoemmlichen-Servern-11136172.html"
     },
     {
       "title": "QuantencomputingWie photonische Quantencomputer funktionieren",
       "teaser": "Quantenrechner aus Lichtteilchen funktionieren grundsätzlich anders als alle anderen Architekturen.",
       "url": "https://www.heise.de/hintergrund/Wie-photonische-Quantencomputer-funktionieren-10904540.html"
+    },
+    {
+      "title": "Steam MachineErstes Listing ab 1000 Euro – aber das heißt wenig",
+      "teaser": "In einem tschechischen Onlineshop taucht die Steam Machine auf – mit gesalzenen Preisen. Unklar ist, ob das nur ein Platzhalter ist.",
+      "url": "https://www.heise.de/news/Neue-Spekulationen-um-Preis-der-Steam-Machine-11136791.html"
     },
     {
       "title": "Google-Fonts-AbmahnwelleBGH schickt Grundsatzfragen zu IP-Adressen an den EuGH",
@@ -172,15 +177,44 @@
       "image_title": "Ein Notebook, auf dem der Schriftzug Fonts angezeigt wird"
     },
     {
-      "title": "Steam MachineErstes Listing ab 1000 Euro – aber das heißt wenig",
-      "teaser": "In einem tschechischen Onlineshop taucht die Steam Machine auf – mit gesalzenen Preisen. Unklar ist, ob das nur ein Platzhalter ist.",
-      "url": "https://www.heise.de/news/Neue-Spekulationen-um-Preis-der-Steam-Machine-11136791.html"
-    },
-    {
       "title": "Windows-UpdatesMicrosoft trennt zwischen Windows 11 und Server 2025",
       "teaser": "Künftig sollen Updates für Windows 11 (24H2/25H2) einerseits und Server 2025 andererseits separate KB-Nummern bekommen.",
       "url": "https://www.heise.de/news/Microsoft-Updates-fuer-Windows-11-und-Server-2025-werden-getrennt-11136967.html",
       "image_title": "Windows-Update-Suche"
+    },
+    {
+      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-11129483.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "Mindestpreise statt Aufschläge: EU und China finden Zoll-Kompromiss für E-Autos",
+      "teaser": "Im Zollstreit zwischen der EU und China gibt es eine Art Kompromiss: Bestimmte Zusagen könnten Exporteuren von E-Autos aus China künftig hohe Abgaben ersparen.",
+      "url": "https://www.heise.de/news/Sanfte-Landung-EU-und-China-finden-Kompromiss-im-Zollstreit-ueber-E-Autos-11137902.html",
+      "image_title": "GWM Ora"
+    },
+    {
+      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
+      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Gmail-Störung: Exchange ActiveSync funktioniert wieder",
+      "teaser": "Die E-Mail-Verarbeitung von Exchange-Mailern in Gmail war wochenlang gestört. Das Problem hat Google ohne weitere Hinweise gelöst.",
+      "url": "https://www.heise.de/news/Gmail-Stoerung-Exchange-ActiveSync-funktioniert-wieder-11137846.html",
+      "image_title": "GMail-Logo: Es gibt Probleme"
+    },
+    {
+      "title": "Kubernetes-Cluster von Ingress Nginx zu Traefik migrieren",
+      "teaser": "Das Kubernetes-Projekt wickelt Ingress Nginx zum März ab. Administratoren müssen ihre Cluster jetzt zukunftsfähig machen. Wir zeigen den Wechsel zu Traefik.",
+      "url": "https://www.heise.de/ratgeber/Kubernetes-Cluster-von-Ingress-Nginx-zu-Traefik-migrieren-11094019.html"
+    },
+    {
+      "title": "Airbus baut mehrere hundert Oneweb-Satelliten",
+      "teaser": "Airbus soll 340 Satelliten für die Oneweb-Konstellation bauen. Die neuen Satelliten sollen die der ersten Generation nach und nach ersetzen.",
+      "url": "https://www.heise.de/news/Airbus-baut-mehrere-hundert-Oneweb-Satelliten-11137850.html",
+      "image_title": "Künstlerische Darstellung eines Oneweb-Satelliten"
     },
     {
       "title": "Distanzunterricht in mehreren Bundesländern – GEW fordert bessere Grundlagen",
@@ -195,43 +229,10 @@
       "image_title": "BMW i7 Montage im Werk Dingolfing"
     },
     {
-      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
-      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Apple veröffentlicht Gehälter und Aktienzuteilungen von Tim Cook & Co.",
       "teaser": "74,2 Millionen US-Dollar für den CEO, 22,4 Millionen für den CFO: Apple hat eine Gehaltsliste wichtiger Manager publiziert.",
       "url": "https://www.heise.de/news/Uebersicht-Was-Tim-Cook-Co-2025-verdient-haben-11137128.html",
       "image_title": "Apple-Chef Cook"
-    },
-    {
-      "title": "Tintenfisch-Trick: Neues Material wechselt Farbe und Struktur in Sekunden",
-      "teaser": "Forscher der Uni Stanford haben einen Polymerfilm entwickelt, der sich bei Kontakt mit Wasser in Farbe und Struktur verändern kann.",
-      "url": "https://www.heise.de/news/Tintenfisch-Trick-Neues-Material-wechselt-Farbe-und-Struktur-in-Sekunden-11137643.html",
-      "image_title": "Ein Tintenfisch"
-    },
-    {
-      "title": "Windows-Insider-Vorschau: Microsoft testet Copilot-Deinstallation",
-      "teaser": "Microsoft testet in der aktuellen Insider-Vorschau für Windows 11 25H2 die Möglichkeit, die Copilot-App deinstallierbar zu machen.",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschau-Microsoft-testet-Copilot-Deinstallation-11137597.html",
-      "image_title": "Microsoft Copilot Logo durchgestrichen auf Mosaik-Hintergrund"
-    },
-    {
-      "title": "MedConf by heise: Vorträge zu Medizintechnik-Themen gesucht",
-      "teaser": "Die MedConf by heise ist die wichtigste deutschsprachige Konferenz zur Entwicklung von Medizintechnik. Interessierte können bis 15. Februar Vorträge einreichen.",
-      "url": "https://www.heise.de/news/MedConf-by-heise-Vortraege-zu-Medizintechnik-Themen-gesucht-11134265.html"
-    },
-    {
-      "title": "Premium-TVs: Welcher Hersteller den passenden Fernseher bietet",
-      "teaser": "Spitzen-TVs mit OLED-Displays liefern durchweg hohe Bildqualität. Aber es gibt Unterschiede: Wer sollte sich für welches Topmodell entscheiden und warum?",
-      "url": "https://www.heise.de/tests/Premium-TVs-Welcher-Hersteller-den-passenden-Fernseher-bietet-11109266.html"
-    },
-    {
-      "title": "Was Apple 2026 bringt: Ausblick und Einordnung | Mac & i-Podcast",
-      "teaser": "Viele spannende Hardware-Neuerungen zeichnen sich bei Apple ab. Software und Siri bleiben eine Herausforderung. Wir blicken voraus und ordnen ein.",
-      "url": "https://www.heise.de/news/Von-Budget-MacBook-bis-Falt-iPhone-Ausblick-auf-Apples-2026-Mac-i-Podcast-11137694.html",
-      "image_title": "Vom Budget-MacBook bis zum Falt-iPhone: Ein Ausblick auf Apples 2026"
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -324,6 +325,34 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Tintenfisch-Trick: Neues Material wechselt Farbe und Struktur in Sekunden",
+      "teaser": "Forscher der Uni Stanford haben einen Polymerfilm entwickelt, der sich bei Kontakt mit Wasser in Farbe und Struktur verändern kann.",
+      "url": "https://www.heise.de/news/Tintenfisch-Trick-Neues-Material-wechselt-Farbe-und-Struktur-in-Sekunden-11137643.html",
+      "image_title": "Ein Tintenfisch"
+    },
+    {
+      "title": "Windows-Insider-Vorschau: Microsoft testet Copilot-Deinstallation",
+      "teaser": "Microsoft testet in der aktuellen Insider-Vorschau für Windows 11 25H2 die Möglichkeit, die Copilot-App deinstallierbar zu machen.",
+      "url": "https://www.heise.de/news/Windows-Insider-Vorschau-Microsoft-testet-Copilot-Deinstallation-11137597.html",
+      "image_title": "Microsoft Copilot Logo durchgestrichen auf Mosaik-Hintergrund"
+    },
+    {
+      "title": "MedConf by heise: Vorträge zu Medizintechnik-Themen gesucht",
+      "teaser": "Die MedConf by heise ist die wichtigste deutschsprachige Konferenz zur Entwicklung von Medizintechnik. Interessierte können bis 15. Februar Vorträge einreichen.",
+      "url": "https://www.heise.de/news/MedConf-by-heise-Vortraege-zu-Medizintechnik-Themen-gesucht-11134265.html"
+    },
+    {
+      "title": "Premium-TVs: Welcher Hersteller den passenden Fernseher bietet",
+      "teaser": "Spitzen-TVs mit OLED-Displays liefern durchweg hohe Bildqualität. Aber es gibt Unterschiede: Wer sollte sich für welches Topmodell entscheiden und warum?",
+      "url": "https://www.heise.de/tests/Premium-TVs-Welcher-Hersteller-den-passenden-Fernseher-bietet-11109266.html"
+    },
+    {
+      "title": "Was Apple 2026 bringt: Ausblick und Einordnung | Mac & i-Podcast",
+      "teaser": "Viele spannende Hardware-Neuerungen zeichnen sich bei Apple ab. Software und Siri bleiben eine Herausforderung. Wir blicken voraus und ordnen ein.",
+      "url": "https://www.heise.de/news/Von-Budget-MacBook-bis-Falt-iPhone-Ausblick-auf-Apples-2026-Mac-i-Podcast-11137694.html",
+      "image_title": "Vom Budget-MacBook bis zum Falt-iPhone: Ein Ausblick auf Apples 2026"
+    },
+    {
       "title": "XPipe 20.0: Open-Source-Tool vereinfacht Multi-Server-Verwaltung",
       "teaser": "Update für XPipe: Version 20.0 des Desktop-Tools fürs Server-Management unterstützt EC2-Instanzen und S3-Buckets. SSH-Keys lassen sich nun direkt generieren.",
       "url": "https://www.heise.de/news/XPipe-20-0-Connection-Hub-mit-AWS-Integration-und-SSH-Key-Verwaltung-11137578.html",
@@ -371,6 +400,11 @@
       "image_title": "Frau mit iPhone vor einem Heizkörper sitzend."
     },
     {
+      "title": "Autonome Agenten: Wie KI die Prozessautomatisierung revolutioniert",
+      "teaser": "KI-Agenten planen und lösen komplexe Aufgaben selbständig und systemübergreifend. In der Prozessautomatisierung bringen sie aber auch neue Risiken und höhere Anforderungen an die IT-Infrastruktur mit sich.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/autonome-agenten-wie-ki-die-prozessautomatisierung-revolutioniert/?source=hbsadersatz"
+    },
+    {
       "title": "Starlink: FCC genehmigt SpaceX den Start von 7500 weiteren Satelliten",
       "teaser": "SpaceX darf jetzt bis zu 15.000 Starlink-Satelliten der zweiten Generation ins All bringen. Das soll etwa die direkte Anbindung von Smartphones verbessern.",
       "url": "https://www.heise.de/news/Starlink-FCC-genehmigt-SpaceX-den-Start-von-7500-weiteren-Satelliten-11137339.html",
@@ -398,11 +432,6 @@
       "teaser": "Laut Bitkom transferieren 62 Prozent der Firmen personenbezogene Daten in Nicht-EU-Staaten. Ein Verzicht würde höhere Kosten und Wettbewerbsnachteile bedeuten.",
       "url": "https://www.heise.de/news/Bitkom-Studie-Unternehmen-sind-auf-internationale-Datentransfers-angewiesen-11137226.html",
       "image_title": "USA und EU, blauer Hintergrund, Transfer-Linien"
-    },
-    {
-      "title": "Digitale Souveränität muss kein Wunschtraum bleiben",
-      "teaser": "Viele deutsche Unternehmen sind von ausländischer IT abhängig. Ein Webcast zeigt Ihnen, wie Sie das Steuer auf dem Weg in die digitale Zukunft in die eigene Hand nehmen können.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/ihre-it-ihre-regeln-souveraene-strategien-und-technologien-fuer-hybrid-it-compliance-und-datenhoheit-4992/?source=hbsad-ersatz"
     },
     {
       "title": "Nach Kritik: Larian verzichtet bei „Divinity“ auf Concept Art von KI",
@@ -434,45 +463,17 @@
       "image_title": "Datenschutzbewusste Frau am Smartphone (Symbolbild); Montag: Indien-Sicherheitsstandards, Datev-Datenpanne, VR-Piraterie, Google-Fonts-Abmahnwelle & Steam-Machine-Preise"
     },
     {
-      "title": "Samt Quellcodezugriff: Indien plant diverse Pflichten für Smartphonehersteller",
-      "teaser": "Betriebssysteme von Smartphones sollen künftig in Indien diverse Sicherheitsstandards erfüllen müssen, die den Herstellern überhaupt nicht schmecken.",
-      "url": "https://www.heise.de/news/Samt-Quellcodezugriff-Indien-plant-diverse-Pflichten-fuer-Smartphonehersteller-11137026.html"
-    },
-    {
-      "title": "AMD und Lenovo bestätigen Ryzen AI 400 für Sockel AM5",
-      "teaser": "Implizit hat AMD auf der CES bei zwei Gelegenheiten neue APUs für den Sockel AM5 angekündigt – aber ohne sie anzusprechen oder Details zu nennen.",
-      "url": "https://www.heise.de/news/AMD-und-Lenovo-zeigen-Ryzen-AI-400-fuer-Sockel-AM5-11137020.html"
-    },
-    {
-      "title": "WhatsApp: EU-Kommission prüft weiterhin Einstufung als VLOP",
-      "teaser": "WhatsApp droht seit Längerem eine Einstufung als sehr große Online-Plattform nach dem DSA. Die EU-Kommission „befasst sich aktiv“ mit der Frage.",
-      "url": "https://www.heise.de/news/WhatsApp-EU-Kommission-prueft-weiterhin-Einstufung-als-VLOP-11136989.html",
-      "image_title": "Whatsapp"
-    },
-    {
-      "title": "Gaming-Handy Redmagic 11 Pro im Test",
-      "teaser": "Das Redmagic 11 Pro liefert dank des Snapdragon 8 Elite Gen 5 geballte Power und ist durch und durch für Gaming optimiert.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/redmagic-11-pro-im-test-gaming-handy-mit-144-hz-amoled-display-und-fluessigkuehlung/mwv1g11?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Analyse: Hat die EU die Updatepflicht für Smartphones verbockt?",
-      "teaser": "Mit dem Ökodesign zwingt die EU Smartphonehersteller, mindestens fünf Jahre Updates zu liefern. Doch Motorola glaubt, ein Schlupfloch gefunden zu haben.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Hat-die-EU-die-Updatepflicht-fuer-Smartphones-verbockt-11105858.html",
-      "image_title": "Android-Smartphone."
+      "title": "EU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf",
+      "url": "https://www.heise.de/news/EU-Cyberagentur-nutzt-heimlich-KI-fuer-Berichte-und-fliegt-auf-11136924.html",
+      "image_title": "Zwei Hände tippen auf einer Laptop-Tastatur, darüber eine Grafik mit dem Schriftzug \"AI\"."
     },
     {
       "title": "Realbotix: humanoide Roboter mit austauschbarem Design",
       "url": "https://www.heise.de/news/Realbotix-humanoide-Roboter-mit-austauschbarem-Design-11128323.html"
     },
     {
-      "title": "Dell rudert zurück: Kunden ignorieren KI-Features bei PCs",
-      "url": "https://www.heise.de/news/Dell-Konsumenten-kaufen-nicht-aufgrund-von-KI-11136453.html",
-      "image_title": "Zwei aufgeklappte Dell-Notebooks vor blauem Hintergrund"
-    },
-    {
-      "title": "BND soll IT-Riesen hacken und Internetknoten stärker überwachen dürfen",
-      "url": "https://www.heise.de/news/BND-soll-IT-Riesen-hacken-und-Internetknoten-staerker-ueberwachen-duerfen-11136509.html",
-      "image_title": "Verbindungskabel laufen in einen Server."
+      "title": "AMD und Lenovo bestätigen Ryzen AI 400 für Sockel AM5",
+      "url": "https://www.heise.de/news/AMD-und-Lenovo-zeigen-Ryzen-AI-400-fuer-Sockel-AM5-11137020.html"
     },
     {
       "title": "Neu entdeckter Asteroid rotiert in Rekordgeschwindigkeit",
@@ -494,14 +495,14 @@
       "image_title": "Meta Quest 3 in einem Kinderzimmer neben bunten Stiften und Ordnern."
     },
     {
+      "title": "Dell rudert zurück: Kunden ignorieren KI-Features bei PCs",
+      "url": "https://www.heise.de/news/Dell-Konsumenten-kaufen-nicht-aufgrund-von-KI-11136453.html",
+      "image_title": "Zwei aufgeklappte Dell-Notebooks vor blauem Hintergrund"
+    },
+    {
       "title": "Bose hofft nach SoundTouch-Abschaltung auf Open-Source-Community",
       "url": "https://www.heise.de/news/Bose-Lautsprecher-SoundTouch-Abschaltung-entschaerft-und-verschoben-11134096.html",
       "image_title": "Bose-Logo auf Lautsprecher"
-    },
-    {
-      "title": "VR-Brillen auf der CES 2026: Angriff der Leichtgewichte",
-      "url": "https://www.heise.de/news/VR-Brillen-auf-der-CES-2026-Angriff-der-Leichtgewichte-11131806.html",
-      "image_title": "Ein Mann mit einer ultradünnen VR-Brille."
     },
     {
       "title": "Leicas neuer Sensor und Pentax' Kampf ums Überleben: Fotonews der Woche 01/2026",
@@ -513,8 +514,9 @@
       "image_title": "Lego Smart Brick: Klemmbaustein mit transparentem Top und innerer Beleuchtung"
     },
     {
-      "title": "Fitnessarmbänder ohne Display | c’t uplink",
-      "url": "https://www.heise.de/news/Fitnessarmbaender-ohne-Display-c-t-uplink-11133277.html"
+      "title": "VR-Brillen auf der CES 2026: Angriff der Leichtgewichte",
+      "url": "https://www.heise.de/news/VR-Brillen-auf-der-CES-2026-Angriff-der-Leichtgewichte-11131806.html",
+      "image_title": "Ein Mann mit einer ultradünnen VR-Brille."
     },
     {
       "title": "Digital Networks Act: EU verzichtet angeblich auf Milliardenstrafen für Big Tech",
@@ -541,9 +543,13 @@
       "url": "https://www.heise.de/news/Warschaus-Allianz-mit-Trump-Polen-blockiert-wichtiges-EU-Digitalgesetz-11122303.html"
     },
     {
-      "title": "Britische Regierung zu Umgang mit Musks KI Grok: „Beleidigt Opfer“",
-      "url": "https://www.heise.de/news/Britische-Regierung-zu-Umgang-mit-Musks-KI-Grok-Beleidigt-Opfer-11136743.html",
-      "image_title": "Zwei Finger tippen auf einem Smartphone auf die Grok-App"
+      "title": "WhatsApp: EU-Kommission prüft weiterhin Einstufung als VLOP",
+      "url": "https://www.heise.de/news/WhatsApp-EU-Kommission-prueft-weiterhin-Einstufung-als-VLOP-11136989.html",
+      "image_title": "Whatsapp"
+    },
+    {
+      "title": "Fitnessarmbänder ohne Display | c’t uplink",
+      "url": "https://www.heise.de/news/Fitnessarmbaender-ohne-Display-c-t-uplink-11133277.html"
     },
     {
       "title": "Microsoft bestätigt: Telefonische Windows-Aktivierung ist passé",
@@ -551,12 +557,9 @@
       "image_title": "Telefonische Aktivierungsoption in Windows"
     },
     {
-      "title": "Nasa holt ISS-Crew kommende Woche zurück",
-      "url": "https://www.heise.de/news/Nasa-holt-ISS-Crew-kommende-Woche-zurueck-11136725.html"
-    },
-    {
-      "title": "#TGIQF: Das Quiz rund um MTV-Musikvideos",
-      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-MTV-Musikvideos-11135933.html"
+      "title": "Britische Regierung zu Umgang mit Musks KI Grok: „Beleidigt Opfer“",
+      "url": "https://www.heise.de/news/Britische-Regierung-zu-Umgang-mit-Musks-KI-Grok-Beleidigt-Opfer-11136743.html",
+      "image_title": "Zwei Finger tippen auf einem Smartphone auf die Grok-App"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -591,16 +594,16 @@
       "url": "https://heise-academy.de/classrooms/pythonumsteiger26?wt_mc=intern.academy.academy.cr_python-umsteiger.academy-buehne-ho.teaser.teaser&utm_campaign=298392774-ha_2026_01-12_classrooms&utm_source=heise&utm_medium=buehne_ho&utm_content=buehne_ho_academy&utm_term=cr_python-umsteiger"
     },
     {
-      "title": "c’t uplinkDen optimalen PC 2026 selbst bauen",
-      "url": "https://www.heise.de/news/Den-optimalen-PC-2026-selbst-bauen-c-t-uplink-11113571.html"
+      "title": "c't 3003Alles Wichtige von der größten Technikmesse",
+      "url": "https://www.heise.de/news/Alles-Wichtige-von-der-groessten-Technikmesse-c-t-3003-11134044.html"
     },
     {
-      "title": "#heiseshowEU-Strafe für X, Open-Source im Norden, UKW für die Schweiz",
-      "url": "https://www.heise.de/news/heiseshow-EU-Strafe-fuer-X-Open-Source-im-Norden-UKW-fuer-die-Schweiz-11110947.html"
+      "title": "#heiseshowCES 2026, Blackout in Berlin, Stack Overflow",
+      "url": "https://www.heise.de/news/heiseshow-CES-2026-Blackout-in-Berlin-Stack-Overflow-11133496.html"
     },
     {
-      "title": "c't 3003Unsere Highlights aus dem Jahr 2025",
-      "url": "https://www.heise.de/news/Unsere-Highlights-aus-2025-11123976.html"
+      "title": "c’t uplinkFitnessarmbänder ohne Display",
+      "url": "https://www.heise.de/news/Fitnessarmbaender-ohne-Display-c-t-uplink-11133277.html"
     },
     {
       "title": "Piracy is rampant on Meta Quest",
@@ -624,14 +627,14 @@
       "url": "https://www.heise.de/en/news/Cloudflare-record-fine-Italy-s-tough-anti-piracy-course-hits-DNS-resolver-11136858.html"
     },
     {
+      "title": "Premium-TVs: Welcher Hersteller den passenden Fernseher bietet",
+      "teaser": "Spitzen-TVs mit OLED-Displays liefern durchweg hohe Bildqualität. Aber es gibt Unterschiede: Wer sollte sich für welches Topmodell entscheiden und warum?",
+      "url": "https://www.heise.de/tests/Premium-TVs-Welcher-Hersteller-den-passenden-Fernseher-bietet-11109266.html"
+    },
+    {
       "title": "c’t uplinkFitnessarmbänder ohne Display",
       "teaser": "Fitnessarmbänder ohne Display sehen schick aus und erfassen Körper- und Trainingsdaten, ohne dass man sich von den Anzeigen der Geräte gestresst fühlt.",
       "url": "https://www.heise.de/news/Fitnessarmbaender-ohne-Display-c-t-uplink-11133277.html"
-    },
-    {
-      "title": "Buchkritik: Der OpenWrt-Praktiker",
-      "teaser": "Markus Stubbig legt mit seinem Buch eine der wenigen deutschsprachigen Dokumentationen zu OpenWrt vor, dem von Netzwerkenthusiasten geschätzten Router-Linux.",
-      "url": "https://www.heise.de/tests/Buchkritik-Der-OpenWrt-Praktiker-11059229.html"
     },
     {
       "title": "c’t-Webinar: Photovoltaik verstehen",
@@ -741,21 +744,22 @@
       "image_title": "Mazda CX-6e"
     },
     {
-      "title": "Fliegende Falle im Ukraine-Krieg: Shahed-Drohnen greifen jetzt Flugzeuge an",
-      "teaser": "Russische Modifikation alarmiert Militäranalysten. Langsam, billig – aber bewaffnet. Schon ihre Existenz verändert die Taktik. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11136697",
-      "image_title": "Illustration einer bewaffneten Shahed-Drohne im Tiefflug, die eine Rakete abfeuert, während im Hintergrund Hubschrauber, Kampfjets und brennende Bodenziele in einem Kriegsgebiet zu sehen sind."
+      "title": "Schokolade im Test: Lindt und Penny fallen mit \"ungenügend\" durch",
+      "teaser": "Öko-Test fand bedenkliche Stoffe in vielen Tafeln. Doch zwei bekannte Marken fielen aus einem weiteren Grund durch – der nichts mit Schadstoffen zu tun hat.",
+      "url": "https://www.heise.de/-11134758",
+      "image_title": "Scholadetafel mit Totekopf ud gekreuzten Kochen"
     },
     {
-      "title": "Elon Musk entdeckt den Kommunismus – und macht ihn kapitalistisch",
-      "teaser": "Der reichste Mann der Welt verspricht allen ein gutes Leben. Dumm nur: Er behält die Produktionsmittel. Ein Kommentar.",
-      "url": "https://www.heise.de/-11137471"
+      "title": "UAP-Forschung verlässt den Schatten des Militärs",
+      "teaser": "New Jersey richtet das erste staatlich finanzierte UFO-Forschungszentrum der USA ein. Die Untersuchungen erfolgen an öffentlichen Hochschulen. Ein Überblick.",
+      "url": "https://www.heise.de/-11133019",
+      "image_title": "Ein UFO vor dem Weißen Haus"
     },
     {
-      "title": "Grönland-Poker: Europas Prinzipien – und die Hintertüren für Washington",
-      "teaser": "Europa reagiert auf Trumps Grönland-Pläne mit klaren Worten – doch die Antwort lässt entscheidende Fragen bewusst offen. Ein Leitartikel.",
-      "url": "https://www.heise.de/-11136150",
-      "image_title": "Amerikanische und grönländische Flaggen und klarer blauer Himmel"
+      "title": "Israel gegen die Türkei: Nun ist Europa involviert",
+      "teaser": "Israel tritt Ankaras Machtansprüchen entgegen. Die Rede ist bereits von gemeinsamen Eingreiftruppen. Welche Wirkungen hat das auf die Sicherheit in der Levante?",
+      "url": "https://www.heise.de/-11136753",
+      "image_title": "Politische Karte der Levante"
     },
     {
       "title": "ACP: Wie ein neuer Standard das KI-Chaos in der Entwicklung beendet",
