@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T19:12:58",
+  "timestamp": "2026-01-12T20:13:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Google-DNS-Sperren: Pariser Gericht stärkt Rechteinhaber gegen Streaming-Piraten",
+      "url": "https://www.heise.de/news/Google-DNS-Sperren-Pariser-Gericht-staerkt-Rechteinhaber-gegen-Streaming-Piraten-11138579.html"
+    },
     {
       "title": "Top 10: Die beste Smartwatch mit EKG im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
     {
       "title": "Nach Siri-Fail: Apple setzt für KI-Modelle auf Google Gemini",
       "url": "https://www.heise.de/news/Nach-Siri-Fail-Apple-setzt-fuer-KI-Modelle-auf-Google-Gemini-11138386.html"
-    },
-    {
-      "title": "CES 2026: Multi-Color-Revolution im 3D-Druck",
-      "url": "https://www.heise.de/news/3D-Druck-auf-der-CES-11138045.html"
     },
     {
       "title": "BayernStaatsregierung streitet lautstark über Microsoft-Vertrag",
@@ -129,10 +129,10 @@
       "image_title": "Kamin auf Winterdach"
     },
     {
-      "title": "UpdateSchulausfallDistanzunterricht laut IServ ohne größere Probleme",
-      "teaser": "Nach Schulausfällen mit Distanzunterricht fordert die Bildungsgewerkschaft bessere Standards, IServ entwarnt.",
-      "url": "https://www.heise.de/news/Distanzunterricht-in-mehreren-Bundeslaendern-GEW-fordert-bessere-Grundlagen-11137792.html",
-      "image_title": "Kind am Tablet im Unterricht"
+      "title": "Sexuelle DeepfakesErste Staaten sperren Grok, Kritik an Google und Apple",
+      "teaser": "Dass der KI-Chatbot Grok nicht mehr in aller Öffentlichkeit Fotos „entkleidet“, reicht ersten Aufsichtsbehörden nicht.",
+      "url": "https://www.heise.de/news/Sexuelle-Deepfakes-Erste-Staaten-sperren-Grok-Kritik-an-Google-und-Apple-11137138.html",
+      "image_title": "Silhouette Elon Musks hinter einem Smartphone mit dem Grok-Logo"
     },
     {
       "title": "UpdateBequemer heizen9 smarte Heizkörperthermostate im Test",
@@ -185,20 +185,25 @@
       "image_title": "Windows-Update-Suche"
     },
     {
+      "title": "Google-DNS-Sperren: Pariser Gericht stärkt Rechteinhaber gegen Streaming-Piraten",
+      "teaser": "Im Kampf gegen illegale Sportstreams nimmt die Justiz verstärkt Betreiber freier DNS-Resolver in die Pflicht. Ein Pariser Urteil zwingt Google zu Domainsperren.",
+      "url": "https://www.heise.de/news/Google-DNS-Sperren-Pariser-Gericht-staerkt-Rechteinhaber-gegen-Streaming-Piraten-11138579.html"
+    },
+    {
       "title": "Top 10: Die beste Smartwatch mit EKG im Test",
       "teaser": "Vorhofflimmern bleibt häufig unbemerkt. Smartwatches mit EKG-Funktion können helfen, Herzrhythmusstörungen früh zu erkennen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
+      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Evoli, Pikachu und Co.: Lego stellt erste Pokemon-Sets vor",
       "teaser": "Alle drei Bausätze sind wohl hauptsächlich zum Anschauen gedacht. Wer das größte Set kauft, erhält Orden als Beigabe.",
       "url": "https://www.heise.de/news/Evoli-Pikachu-und-Co-Lego-stellt-erste-Pokemon-Sets-vor-11138360.html",
       "image_title": "Lego-Pokémons im Portrait"
-    },
-    {
-      "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
-      "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Vorsicht Kunde: Fluggesellschaft kassiert bei Störung im Online-Check-in",
@@ -228,12 +233,6 @@
       "teaser": "Nvidia übertrumpft alle Chipfirmen, auf den Plätzen zwei, drei und fünf stehen die drei DRAM-Riesen. Aber auch andere profitieren von KI.",
       "url": "https://www.heise.de/news/Chip-Weltmarkt-wuchs-2025-um-ueber-20-Prozent-dank-KI-Hype-11138422.html",
       "image_title": "Chipstrukturen auf Silizium-Wafer"
-    },
-    {
-      "title": "Holpriger Start: OpenZFS 2.4.0 mit schneller Verschlüsselung – und Problemen",
-      "teaser": "OpenZFS 2.4.0 bringt interessante neue Funktionen sowie viele Bugfixes. An einigen Stellen wie dem Block Cloning und mit NVMe scheint es noch Probleme zu geben.",
-      "url": "https://www.heise.de/news/Holpriger-Start-OpenZFS-2-4-0-mit-schneller-Verschluesselung-und-Problemen-11138230.html",
-      "image_title": "SSDs als M.2-Kärtchen"
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -326,6 +325,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Holpriger Start: OpenZFS 2.4.0 mit schneller Verschlüsselung – und Problemen",
+      "teaser": "OpenZFS 2.4.0 bringt interessante neue Funktionen sowie viele Bugfixes. An einigen Stellen wie dem Block Cloning und mit NVMe scheint es noch Probleme zu geben.",
+      "url": "https://www.heise.de/news/Holpriger-Start-OpenZFS-2-4-0-mit-schneller-Verschluesselung-und-Problemen-11138230.html",
+      "image_title": "SSDs als M.2-Kärtchen"
+    },
+    {
       "title": "UpdateNach Siri-Fail: Apple setzt für KI-Modelle auf Google Gemini",
       "teaser": "Apples eigenen KI-Modelle bringen es offenbar nicht: Google-Technik soll nun im Unterbau helfen – wohl auch bei neuen Funktionen für die überalterte Siri.",
       "url": "https://www.heise.de/news/Nach-Siri-Fail-Apple-setzt-fuer-KI-Modelle-auf-Google-Gemini-11138386.html",
@@ -397,15 +402,15 @@
       "image_title": "Tehran,iran-april,28,2019:,Skyscrapers,In,Tehran,,Iran"
     },
     {
+      "title": "Self-driving Networks – Realität oder Zukunft?",
+      "teaser": "Self-driving Networks gelten als nächster Evolutionsschritt moderner Netzwerkarchitekturen. Durch den Einsatz von künstlicher Intelligenz und Machine Learning sollen Netzwerke nicht nur überwacht, sondern aktiv analysiert, optimiert und in Teilen autonom betrieben werden.",
+      "url": "https://business-services.heise.de/netze/netzwerk-management/beitrag/self-driving-networks-realitaet-oder-zukunft-5017?source=hbsad_ersatz"
+    },
+    {
       "title": "KI-Update: Sperre für Grok, ChatGPT in der Schule, Meta investiert in Atomkraft",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-Sperre-fuer-Grok-ChatGPT-in-der-Schule-Meta-investiert-in-Atomkraft-11137094.html",
       "image_title": "KI-Update Bild"
-    },
-    {
-      "title": "So lassen sich wiederkehrende Admin-Aufgaben automatisieren",
-      "teaser": "Der Wunsch vieler IT-Admins ist es, alltägliche IT-Aufgaben mit nur wenigen Klicks zu erledigen. Wie sich das mit einem modernen Unified-Endpoint-Management (UEM) verwirklichen lässt, erfahren Sie in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/vom-handgriff-zum-mausklick-wie-uem-hilft-administrative-aufgaben-zu-automatisieren-5000/?source=hbsad_ersatz"
     },
     {
       "title": "Boox Palma 2 Pro: E-Reader im Smartphone-Format im Test",
@@ -448,22 +453,16 @@
       "image_title": "Künstlerische Darstellung eines Oneweb-Satelliten"
     },
     {
+      "title": "UpdateSchnee und Eis: Distanzunterricht laut IServ ohne größere Probleme",
+      "teaser": "Die Tiefs „Elli“ und „Gunda“ haben im Norden und Westen für Schulausfälle mit Distanzunterricht gesorgt. Die GEW fordert bessere Standards, IServ entwarnt.",
+      "url": "https://www.heise.de/news/Distanzunterricht-in-mehreren-Bundeslaendern-GEW-fordert-bessere-Grundlagen-11137792.html",
+      "image_title": "Kind am Tablet im Unterricht"
+    },
+    {
       "title": "„Pwn My Ride“-Lücke: BMW liefert Patch für bestimmte Fahrzeuge",
       "teaser": "Eine schwere AirPlay-Sicherheitslücke fixt BMW für Operating System 8.5 und 9. Bei anderen setzt man auf Bluetooth-PINs – und hält sein System für gut isoliert.",
       "url": "https://www.heise.de/news/Pwn-My-Ride-Luecke-BMW-liefert-Patch-fuer-bestimmte-Fahrzeuge-11137684.html",
       "image_title": "BMW i7 Montage im Werk Dingolfing"
-    },
-    {
-      "title": "Apple veröffentlicht Gehälter und Aktienzuteilungen von Tim Cook & Co.",
-      "teaser": "74,2 Millionen US-Dollar für den CEO, 22,4 Millionen für den CFO: Apple hat eine Gehaltsliste wichtiger Manager publiziert.",
-      "url": "https://www.heise.de/news/Uebersicht-Was-Tim-Cook-Co-2025-verdient-haben-11137128.html",
-      "image_title": "Apple-Chef Cook"
-    },
-    {
-      "title": "Tintenfisch-Trick: Neues Material wechselt Farbe und Struktur in Sekunden",
-      "teaser": "Forscher der Uni Stanford haben einen Polymerfilm entwickelt, der sich bei Kontakt mit Wasser in Farbe und Struktur verändern kann.",
-      "url": "https://www.heise.de/news/Tintenfisch-Trick-Neues-Material-wechselt-Farbe-und-Struktur-in-Sekunden-11137643.html",
-      "image_title": "Ein Tintenfisch"
     },
     {
       "title": "EU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf",
@@ -630,9 +629,9 @@
       "url": "https://www.heise.de/en/news/Cloudflare-record-fine-Italy-s-tough-anti-piracy-course-hits-DNS-resolver-11136858.html"
     },
     {
-      "title": "Rechtliche Tipps zum Selfhosting von LLMs",
-      "teaser": "Wer große Sprachmodelle selbst betreibt, gewinnt Kontrolle über seine Daten. Was bei der rechtskonformen Nutzung lokal gehosteter LLMs zu beachten ist.",
-      "url": "https://www.heise.de/hintergrund/Rechtliche-Tipps-zum-Selfhosting-von-LLMs-11099866.html"
+      "title": "Displaytrends von der CES",
+      "teaser": "Bei großen Displays dominiert die LCD-Technik. Die Hersteller feilen an der Hintergrundbeleuchtung des Flüssigkristalls und sie spendieren den OLEDs neue Pixel.",
+      "url": "https://www.heise.de/hintergrund/Displaytrends-von-der-CES-11137501.html"
     },
     {
       "title": "Chip-Weltmarkt wuchs 2025 um über 20 Prozent – dank KI-Hype",
@@ -641,9 +640,9 @@
       "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
-      "title": "Buchkritik: Der OpenWrt-Praktiker",
-      "teaser": "Markus Stubbig legt mit seinem Buch eine der wenigen deutschsprachigen Dokumentationen zu OpenWrt vor, dem von Netzwerkenthusiasten geschätzten Router-Linux.",
-      "url": "https://www.heise.de/tests/Buchkritik-Der-OpenWrt-Praktiker-11059229.html"
+      "title": "Rechtliche Tipps zum Selfhosting von LLMs",
+      "teaser": "Wer große Sprachmodelle selbst betreibt, gewinnt Kontrolle über seine Daten. Was bei der rechtskonformen Nutzung lokal gehosteter LLMs zu beachten ist.",
+      "url": "https://www.heise.de/hintergrund/Rechtliche-Tipps-zum-Selfhosting-von-LLMs-11099866.html"
     },
     {
       "title": "Mit Pixeln prassenGroße Desktop-Monitore für Mac & Co.",
@@ -747,22 +746,21 @@
       "image_title": "Mazda CX-6e"
     },
     {
-      "title": "Gasspeicher unter 50 Prozent: Deutschland fährt auf Sparflamme",
-      "teaser": "Die Gasspeicher sind so leer wie lange nicht – doch die Behörden bleiben gelassen. Was hat sich bei der Gasversorgung verändert?",
-      "url": "https://www.heise.de/-11137938",
-      "image_title": "Grafik mit Gasspeichern am Meer."
+      "title": "Alkohol ab 14: Wie Deutschland seine Zukunft vertrinkt",
+      "teaser": "Ein höheres Mindestalter beim Alkoholkonsum sorgt für gesündere Jugendliche. Welche Ergebnisse eine spanische Studie noch erbrachte.",
+      "url": "https://www.heise.de/-11136777",
+      "image_title": "junges Mädchen trinkt Bier aus der Flasche"
     },
     {
-      "title": "Trumps nächstes Ziel: Kommt nach Venezuela jetzt Kuba?",
-      "teaser": "Nach Venezuela nimmt Trump Kuba ins Visier. Der Stopp aller Öllieferungen soll die Insel in die Knie zwingen. Kann Havanna dem standhalten? Eine Analyse.",
-      "url": "https://www.heise.de/-11137465",
-      "image_title": "Propagandaschild, davor zwei Oldtimer"
+      "title": "Elon Musk entdeckt den Kommunismus – und macht ihn kapitalistisch",
+      "teaser": "Der reichste Mann der Welt verspricht allen ein gutes Leben. Dumm nur: Er behält die Produktionsmittel. Ein Kommentar.",
+      "url": "https://www.heise.de/-11137471"
     },
     {
-      "title": "Agatha Christie: Die Meisterin der falschen Fährten",
-      "teaser": "Vor 50 Jahren starb die erfolgreichste Krimiautorin der Welt. Doch ein Rätsel aus ihrem eigenen Leben blieb ungeklärt.",
-      "url": "https://www.heise.de/-11137363",
-      "image_title": "Agatha Christie-Bronzekopf"
+      "title": "Ein Gegenentwurf zur Weltlage – gutes Zusammenleben",
+      "teaser": "In Paris gibt es einen Ort, der Frieden nicht predigt, sondern lebt – und zeigt, wie gesellschaftliches Engagement im Alltag funktioniert.",
+      "url": "https://www.heise.de/-11133818",
+      "image_title": "Fassade des internationalen Hauses der Cité internationale universitaire de Paris"
     },
     {
       "title": "Photoshop war gestern: 6 Bild- und Video-Tools, die euch keinen Cent kosten",
