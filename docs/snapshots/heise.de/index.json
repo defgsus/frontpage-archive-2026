@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-12T05:21:24",
+  "timestamp": "2026-01-12T06:20:24",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sexuelle Deepfakes: Erste Staaten sperren Grok, Kritik an Google und Apple",
+      "url": "https://www.heise.de/news/Sexuelle-Deepfakes-Erste-Staaten-sperren-Grok-Kritik-an-Google-und-Apple-11137138.html"
+    },
     {
       "title": "Montag: Smartphonehersteller gegen Indien, Datenschutzpanne bei Lohnabrechnungen",
       "url": "https://www.heise.de/news/Montag-Smartphonehersteller-gegen-Indien-Datenschutzpanne-bei-Lohnabrechnungen-11137132.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/hintergrund/Analyse-Hat-die-EU-die-Updatepflicht-fuer-Smartphones-verbockt-11105858.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Letzer Aufruf: Jetzt Proposals für die API-Konferenz von heise einreichen",
-      "url": "https://www.heise.de/news/Letzer-Aufruf-Jetzt-Proposals-fuer-die-API-Konferenz-von-heise-einreichen-11129641.html"
     },
     {
       "title": "Missing LinkSignaling X: Siemens’ U-Bahn-Steuerung CBTC",
@@ -185,20 +185,26 @@
       "url": "https://www.heise.de/news/Alles-Wichtige-von-der-groessten-Technikmesse-c-t-3003-11134044.html"
     },
     {
+      "title": "Sexuelle Deepfakes: Erste Staaten sperren Grok, Kritik an Google und Apple",
+      "teaser": "Dass der KI-Chatbot Grok nicht mehr in aller Öffentlichkeit Fotos „entkleidet“, reicht Aufsichtsbehörden nicht. Derweil rücken Google und Apple in den Fokus.",
+      "url": "https://www.heise.de/news/Sexuelle-Deepfakes-Erste-Staaten-sperren-Grok-Kritik-an-Google-und-Apple-11137138.html",
+      "image_title": "Silhouette Elon Musks hinter einem Smartphone mit dem Grok-Logo"
+    },
+    {
       "title": "Montag: Smartphonehersteller gegen Indien, Datenschutzpanne bei Lohnabrechnungen",
       "teaser": "Indien will Quellcodezugriff + Fehlzustellungen bei der Datev + Raubkopien für Meta Quest + EuGH prüft Google-Fonts-Abmahnungen + Vorabpreise für Steam Machine",
       "url": "https://www.heise.de/news/Montag-Smartphonehersteller-gegen-Indien-Datenschutzpanne-bei-Lohnabrechnungen-11137132.html",
       "image_title": "Datenschutzbewusste Frau am Smartphone (Symbolbild); Montag: Indien-Sicherheitsstandards, Datev-Datenpanne, VR-Piraterie, Google-Fonts-Abmahnwelle & Steam-Machine-Preise"
     },
     {
-      "title": "Top 10: Die beste Dockingstation mit USB-C im Test",
-      "teaser": "Ob Macbook oder Windows-Laptop: Anschlüsse für LAN, USB-A oder HDMI sind rar. Dockingstations mit USB-C schaffen Abhilfe.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-dockingstation-mit-usb-c-im-test-ein-kabel-fuer-alles/nvxfwxg?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Wie Lufthansa IT-Probleme erkennt, bevor Passagiere sie spüren",
       "teaser": "KI wird in vielen Branchen über (Miss-)Erfolg entscheiden. Ein praktisches Beispiel ist die Analyse großer Datenmengen durch Technik von Elastic bei komplexen IT-Infrastrukturen wie die der Lufthansa.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7122442315&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Top 10: Die beste Dockingstation mit USB-C im Test",
+      "teaser": "Ob Macbook oder Windows-Laptop: Anschlüsse für LAN, USB-A oder HDMI sind rar. Dockingstations mit USB-C schaffen Abhilfe.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-dockingstation-mit-usb-c-im-test-ein-kabel-fuer-alles/nvxfwxg?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Samt Quellcodezugriff: Indien plant diverse Pflichten für Smartphonehersteller",
@@ -226,12 +232,6 @@
       "teaser": "Künftig sollen Updates für Windows 11 (24H2/25H2) einerseits und Server 2025 andererseits separate KB-Nummern bekommen. Das könnte die Updates verschlanken.",
       "url": "https://www.heise.de/news/Microsoft-Updates-fuer-Windows-11-und-Server-2025-werden-getrennt-11136967.html",
       "image_title": "Windows-Update-Suche"
-    },
-    {
-      "title": "EU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf",
-      "teaser": "Verantwortliche der EU-Cybersicherheitsagentur Enisa räumen ein, dass zwei ihrer Berichte zahlreiche halluzinierte Quellen enthielten.",
-      "url": "https://www.heise.de/news/EU-Cyberagentur-nutzt-heimlich-KI-fuer-Berichte-und-fliegt-auf-11136924.html",
-      "image_title": "Zwei Hände tippen auf einer Laptop-Tastatur, darüber eine Grafik mit dem Schriftzug \"AI\"."
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -324,6 +324,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "EU-Cyberagentur nutzt heimlich KI für Berichte – und fliegt auf",
+      "teaser": "Verantwortliche der EU-Cybersicherheitsagentur Enisa räumen ein, dass zwei ihrer Berichte zahlreiche halluzinierte Quellen enthielten.",
+      "url": "https://www.heise.de/news/EU-Cyberagentur-nutzt-heimlich-KI-fuer-Berichte-und-fliegt-auf-11136924.html",
+      "image_title": "Zwei Hände tippen auf einer Laptop-Tastatur, darüber eine Grafik mit dem Schriftzug \"AI\"."
+    },
+    {
       "title": "Analyse: Hat die EU die Updatepflicht für Smartphones verbockt?",
       "teaser": "Mit dem Ökodesign zwingt die EU Smartphonehersteller, mindestens fünf Jahre Updates zu liefern. Doch Motorola glaubt, ein Schlupfloch gefunden zu haben.",
       "url": "https://www.heise.de/hintergrund/Analyse-Hat-die-EU-die-Updatepflicht-fuer-Smartphones-verbockt-11105858.html",
@@ -389,15 +395,15 @@
       "url": "https://www.heise.de/ratgeber/Python-Listen-fuer-Einsteiger-erklaert-Daten-clever-und-effizient-organisieren-10459107.html"
     },
     {
+      "title": "Autonome Agenten: Wie KI die Prozessautomatisierung revolutioniert",
+      "teaser": "KI-Agenten planen und lösen komplexe Aufgaben selbständig und systemübergreifend. In der Prozessautomatisierung bringen sie aber auch neue Risiken und höhere Anforderungen an die IT-Infrastruktur mit sich.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/autonome-agenten-wie-ki-die-prozessautomatisierung-revolutioniert/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
       "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
       "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11126016.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Digitale Souveränität muss kein Wunschtraum bleiben",
-      "teaser": "Viele deutsche Unternehmen sind von ausländischer IT abhängig. Ein Webcast zeigt Ihnen, wie Sie das Steuer auf dem Weg in die digitale Zukunft in die eigene Hand nehmen können.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/ihre-it-ihre-regeln-souveraene-strategien-und-technologien-fuer-hybrid-it-compliance-und-datenhoheit-4992/?source=hbsad-ersatz"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
@@ -449,11 +455,6 @@
       "teaser": "Schluss mit NSA-Abhängigkeit: Ein Gesetzentwurf sieht vor, dass der BND Internetinhalte massenhaft speichern und in Systeme von Google & Co. eindringen kann.",
       "url": "https://www.heise.de/news/BND-soll-IT-Riesen-hacken-und-Internetknoten-staerker-ueberwachen-duerfen-11136509.html",
       "image_title": "Verbindungskabel laufen in einen Server."
-    },
-    {
-      "title": "Defekter Personalausweis: Was man bei Störung des Speicherchips tun kann",
-      "teaser": "Ärgerlich, wenn der Perso-Chip plötzlich nicht mehr funktioniert. Aber muss man dann zwingend einen neuen beantragen? Und wer trägt die Kosten?",
-      "url": "https://www.heise.de/hintergrund/Defekter-Personalausweis-Was-man-bei-Stoerung-des-Speicherchips-tun-kann-11098465.html"
     },
     {
       "title": "Realbotix: humanoide Roboter mit austauschbarem Design",
@@ -630,15 +631,15 @@
       "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
     },
     {
+      "title": "c’t-Notfall-Windows 2026Das eigene Notfallsystem bauen",
+      "teaser": "Unser Notfall-Windows hilft Ihnen dabei, Schädlinge aufzustöbern, SSDs zu klonen, Startprobleme zu beseitigen und Daten zu bergen.",
+      "url": "https://www.heise.de/ratgeber/c-t-Notfall-Windows-2026-Das-eigene-Notfallsystem-bauen-10813323.html"
+    },
+    {
       "title": "Neuer FunkstandardWi-Fi 8 bringt Abhilfe gegen Verstopfungen",
       "teaser": "Auch wenn Wi-Fi 8 noch nicht finalisiert ist, sind bereits Router-Prototypen zu sehen.",
       "url": "https://www.heise.de/news/Neuer-Funkstandard-Wi-Fi-8-bringt-Abhilfe-gegen-Verstopfungen-11133659.html",
       "image_title": "Prototyp eines Wi-Fi-8-Routers von Asus"
-    },
-    {
-      "title": "Ecotank ET-3950: Multifunktionaler Tintentankdrucker im Test",
-      "teaser": "Epsons aktueller Ecotank ET-3950 druckt, scannt und kopiert sogar beidseitig. Die Tintenkosten sind dank nachfüllbarer Tanks extrem gering.",
-      "url": "https://www.heise.de/tests/Ecotank-ET-3950-Multifunktionaler-Tintentankdrucker-im-Test-11086013.html"
     },
     {
       "title": "Mit Pixeln prassenGroße Desktop-Monitore für Mac & Co.",
@@ -741,10 +742,10 @@
       "image_title": "VW e-Transporter"
     },
     {
-      "title": "Temu dreht den Spieß um: Aus dem Gejagten wird der Jäger",
-      "teaser": "Die EU-Regeln sollten europäische Händler schützen – jetzt nutzt Temu sie als Waffe gegen die Konkurrenz.",
-      "url": "https://www.heise.de/-11132532",
-      "image_title": "Temu-Päckchen mit Prüfsiegeln und Heiligenschein"
+      "title": "Fliegende Falle im Ukraine-Krieg: Shahed-Drohnen greifen jetzt Flugzeuge an",
+      "teaser": "Russische Modifikation alarmiert Militäranalysten. Langsam, billig – aber bewaffnet. Schon ihre Existenz verändert die Taktik. Eine Einschätzung.",
+      "url": "https://www.heise.de/-11136697",
+      "image_title": "Illustration einer bewaffneten Shahed-Drohne im Tiefflug, die eine Rakete abfeuert, während im Hintergrund Hubschrauber, Kampfjets und brennende Bodenziele in einem Kriegsgebiet zu sehen sind."
     },
     {
       "title": "Donroe-Doktrin erklärt: Warum Trumps Außenpolitik auch Deutschland betrifft",
@@ -753,10 +754,10 @@
       "image_title": "Donald Trump bei einer Pressekonferenz im Jahr 2025"
     },
     {
-      "title": "Fliegende Falle im Ukraine-Krieg: Shahed-Drohnen greifen jetzt Flugzeuge an",
-      "teaser": "Russische Modifikation alarmiert Militäranalysten. Langsam, billig – aber bewaffnet. Schon ihre Existenz verändert die Taktik. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11136697",
-      "image_title": "Illustration einer bewaffneten Shahed-Drohne im Tiefflug, die eine Rakete abfeuert, während im Hintergrund Hubschrauber, Kampfjets und brennende Bodenziele in einem Kriegsgebiet zu sehen sind."
+      "title": "EU-Bürger zahlen für die Korruption in Zypern – jetzt kommt alles ans Licht!",
+      "teaser": "Ein heimlich aufgenommenes Video zeigt mutmaßlich, wie Vertraute des Präsidenten über Bargeld-Tricks und Vorzugsbehandlung sprechen.",
+      "url": "https://www.heise.de/-11135644",
+      "image_title": "Nikos Christodoulides und der Umriß Zyperns mit zwei Händen und Geld"
     },
     {
       "title": "ACP: Wie ein neuer Standard das KI-Chaos in der Entwicklung beendet",
