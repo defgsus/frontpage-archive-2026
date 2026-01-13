@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-13T11:11:05",
+  "timestamp": "2026-01-13T12:21:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,13 +26,45 @@
   ],
   "articles": [
     {
-      "title": "Microsoft warnt Chinas Dominanz in Schwellenländern",
+      "title": "Preiserhöhung bei Amazon Prime: Anmeldung zur Sammelklage jetzt möglich",
+      "teaser": "Die Verbraucherzentrale NRW führt eine Sammelklage gegen eine aus ihrer Sicht unzulässige Preiserhöhung bei Amazon Prime an. Nun kann man sich dafür eintragen.",
+      "url": "https://www.heise.de/news/Amazon-Prime-Nutzer-koennen-sich-fuer-Sammelklage-gegen-Preiserhoehung-eintragen-11139222.html",
+      "image_title": "Paket mit Amazon-Schriftzug"
+    },
+    {
+      "title": "OpenAI und Anthropic vertiefen Interesse an Gesundheitsdaten",
+      "teaser": "Nach ChatGPT Health übernimmt OpenAI eine Gesundheits-App. Anthropic bietet nun ebenfalls Claude for Healthcare an.",
+      "url": "https://www.heise.de/news/OpenAI-und-Anthropic-vertiefen-Interesse-an-Gesundheitsdaten-11139184.html",
+      "image_title": "Person an einer Tastatur, drumherum befinden sich Symbole rund um das Thema Gesundheit."
+    },
+    {
+      "title": "Fehlalarm: Sirenengeheul in Halle am Samstag durch „externen Angriff“",
+      "teaser": "Am Samstagabend gab es in Halle offenbar einen Sirenen-Fehlalarm. Die Stadt geht von einem „externen Angriff“ aus.",
+      "url": "https://www.heise.de/news/Fehlalarm-Sirenengeheul-in-Halle-am-Samstag-durch-externen-Angriff-11139206.html",
+      "image_title": "Beach,Horn,Or,Speaker,On,Pole"
+    },
+    {
+      "title": "Microsoft warnt vor Chinas Dominanz in Schwellenländern",
       "teaser": "Microsoft-Präsident Brad Smith warnt vor „KI-Kluft“: China unterbietet US-Anbieter in Schwellenländern durch Subventionen und festigt seine Vorreiterrolle.",
       "url": "https://www.heise.de/news/Microsoft-warnt-Chinas-Dominanz-in-Schwellenlaendern-11139128.html",
       "image_title": "Ein schwarzer Handybildschirm in einer Hand, darauf steht in Blau deepseek"
     },
     {
-      "title": "LLMs und Agentic AI: Online-Konferenz zum richtigen Einsatz im Unternehmen",
+      "title": "RatgeberSoftwareentwicklung: Die Neuerungen von C# 14 praktisch erklärt",
+      "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Die-Neuerungen-von-C-14-praktisch-erklaert-11131309.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundNotebooks für 2026: Geräte mit neuen Prozessoren von der CES",
+      "url": "https://www.heise.de/hintergrund/Notebooks-fuer-2026-Geraete-mit-neuen-Prozessoren-von-der-CES-11115378.html",
+      "image_title": "Kommende Notebooks mit Intel Core Ultra 300 „Panther Lake“ auf der CES 2026."
+    },
+    {
+      "title": "RatgeberWindows 11: Desktop und Explorer anpassen",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Desktop-und-Explorer-anpassen-11084680.html"
+    },
+    {
+      "title": "LLMs im Unternehmen: Online-Konferenz zu Agentic AI, Self-Hosting und mehr",
       "teaser": "Der Online-Deep-Dive am 19. März hilft bei der Auswahl des passenden LLM und zeigt aktuelle Entwicklungen. Bis zum 25. Februar gibt es Frühbuchertickets.",
       "url": "https://www.heise.de/news/LLMs-und-Agentic-AI-Online-Konferenz-zum-richtigen-Einsatz-im-Unternehmen-11137976.html",
       "image_title": "Chatbot umringt von Laptops"
@@ -48,20 +80,6 @@
       "teaser": "Neben Sicherheitsforschern warnt nun auch eine US-Sicherheitsbehörde vor Attacken auf Self-hosted-Git-Service-Server auf Basis von Gogs.",
       "url": "https://www.heise.de/news/Jetzt-handeln-Angreifer-haben-seit-Monaten-Gogs-Server-im-Visier-11138757.html",
       "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
-    },
-    {
-      "title": "RatgeberSoftwareentwicklung: Die Neuerungen von C# 14 praktisch erklärt",
-      "url": "https://www.heise.de/ratgeber/Softwareentwicklung-Die-Neuerungen-von-C-14-praktisch-erklaert-11131309.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundNotebooks für 2026: Geräte mit neuen Prozessoren von der CES",
-      "url": "https://www.heise.de/hintergrund/Notebooks-fuer-2026-Geraete-mit-neuen-Prozessoren-von-der-CES-11115378.html",
-      "image_title": "Kommende Notebooks mit Intel Core Ultra 300 „Panther Lake“ auf der CES 2026."
-    },
-    {
-      "title": "RatgeberWindows 11: Desktop und Explorer anpassen",
-      "url": "https://www.heise.de/ratgeber/Windows-11-Desktop-und-Explorer-anpassen-11084680.html"
     },
     {
       "title": "AlertTinyWeb-Server führt Schadocde aus dem Netz aus",
@@ -129,24 +147,6 @@
       "teaser": "Das KI-Modell „Eden“ soll neue Gentherapien gegen Krebs und seltene Krankheiten sowie Wirkstoffe gegen multiresistente Bakterien generieren.",
       "url": "https://www.heise.de/news/KI-Modell-Eden-soll-neue-Gentherapien-und-Medikamente-generieren-11138458.html",
       "image_title": "Tele,Medicine,Concept,medical,Doctor,Online,Communicating,The,Patient,On,Vr, Telemedizin, Online-Arzt, Medizin"
-    },
-    {
-      "title": "Chip-Weltmarkt wuchs 2025 um über 20 Prozent – dank KI-Hype",
-      "teaser": "Nvidia übertrumpft alle Chipfirmen, auf den Plätzen zwei, drei und fünf stehen die drei DRAM-Riesen. Aber auch andere profitieren von KI.",
-      "url": "https://www.heise.de/news/Chip-Weltmarkt-wuchs-2025-um-ueber-20-Prozent-dank-KI-Hype-11138422.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
-    },
-    {
-      "title": "Holpriger Start: OpenZFS 2.4.0 mit schneller Verschlüsselung – und Problemen",
-      "teaser": "OpenZFS 2.4.0 bringt interessante neue Funktionen sowie viele Bugfixes. An einigen Stellen wie dem Block Cloning und mit NVMe scheint es noch Probleme zu geben.",
-      "url": "https://www.heise.de/news/Holpriger-Start-OpenZFS-2-4-0-mit-schneller-Verschluesselung-und-Problemen-11138230.html",
-      "image_title": "SSDs als M.2-Kärtchen"
-    },
-    {
-      "title": "UpdateNach Siri-Fail: Apple setzt für KI-Modelle auf Google Gemini",
-      "teaser": "Apples eigene KI-Modelle bringen es offenbar nicht: Google-Technik soll nun im Unterbau helfen – auch bei neuen Funktionen für die überalterte Siri.",
-      "url": "https://www.heise.de/news/Nach-Siri-Fail-Apple-setzt-fuer-KI-Modelle-auf-Google-Gemini-11138386.html",
-      "image_title": "Apple Intelligence"
     },
     {
       "title": "UpdateNewsDatenpanne bei der Datev: Wenn die Lohnabrechnung beim Falschen landet",
