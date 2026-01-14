@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T08:15:50",
+  "timestamp": "2026-01-14T09:18:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
+      "title": "AlertFortinetSicherheitslücken in FortiOS, FortiSIEM, FortiFone und weiteren",
+      "teaser": "Fortinet hat Updates für FortiOS und weitere Produkte veröffentlicht. Sie bessern teils kritische Schwachstellen aus.",
+      "url": "https://www.heise.de/news/Fortinet-schliesst-Sicherheitslecks-in-FortiOS-FortiSIEM-und-mehr-11140120.html",
+      "image_title": "Finger tippt auf Update-Button"
+    },
+    {
       "title": "UpdateNeuer KapitalgeberComitis Capital übernimmt Threema",
       "teaser": "Threema gilt als sicherer Messenger-Dienst mit Fokus auf Privatsphäre. Am Montag hat Comitis Capital die Übernahme angekündigt.",
       "url": "https://www.heise.de/news/Comitis-Capital-uebernimmt-Threema-11138725.html",
       "image_title": "Threema-Logo an Wand"
     },
     {
-      "title": "Instagram6,2 Millionen Nutzerdaten mittels Scraping abgegriffen",
-      "teaser": "Daten von 6,2 Millionen Instagram-Nutzern sind beim Have-I-Been-Pwned-Projekt gelandet. Von BreachForums kamen zudem 672.000.",
-      "url": "https://www.heise.de/news/Instagram-6-2-Millionen-Nutzerdaten-mittels-Scraping-abgegriffen-11137222.html",
-      "image_title": "Instagram-Logo vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertFortinet: Sicherheitslücken in FortiOS, FortiSIEM, FortiFone und weiteren",
-      "url": "https://www.heise.de/news/Fortinet-schliesst-Sicherheitslecks-in-FortiOS-FortiSIEM-und-mehr-11140120.html",
-      "image_title": "Finger tippt auf Update-Button"
+      "title": "AlertPatchday Adobe: Schadcode-Lücken bedrohen Dreamweaver & Co.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-bedrohen-Dreamweaver-Co-11140224.html",
+      "image_title": "Eine Frau drück einen symolischen Updateknopf."
     },
     {
       "title": "Webinar am 28. JanuarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
@@ -55,10 +55,22 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
-      "title": "AlertFortinet: Sicherheitslücken in FortiOS, FortiSIEM, FortiFone und weiteren",
-      "teaser": "Fortinet hat in der Nacht zum Mittwoch Updates für FortiOS und weitere Produkte veröffentlicht. Sie bessern teils kritische Schwachstellen aus.",
-      "url": "https://www.heise.de/news/Fortinet-schliesst-Sicherheitslecks-in-FortiOS-FortiSIEM-und-mehr-11140120.html",
-      "image_title": "Finger tippt auf Update-Button"
+      "title": "AlertPatchday Adobe: Schadcode-Lücken bedrohen Dreamweaver & Co.",
+      "teaser": "Wichtige Sicherheitsupdates reparieren unter anderem Adobe ColdFusion und InDesign.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-bedrohen-Dreamweaver-Co-11140224.html",
+      "image_title": "Eine Frau drück einen symolischen Updateknopf."
+    },
+    {
+      "title": "Interrail meldet Datenleck: Auch Ausweisdaten betroffen",
+      "teaser": "Bei Eurail flossen mutmaßlich Daten ab. Der Anbieter stellt Interrail-Pässe auch im Auftrag der deutschen, österreichischen und Schweizer Bahn aus.",
+      "url": "https://www.heise.de/news/Interrail-meldet-Datenleck-Auch-Ausweisdaten-betroffen-11140218.html",
+      "image_title": "Gleise im Grünen"
+    },
+    {
+      "title": "AlertPatchday Microsoft: Attacken auf Windows und Windows Server beobachtet",
+      "teaser": "Es sind wichtige Sicherheitsupdates für Office, Windows & Co. erschienen. Angreifer nutzen bereits eine Lücke aus. Weitere Attacken können bevorstehen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-spionieren-Speicherbereiche-in-Windows-aus-11140152.html",
+      "image_title": "Ein symbolishcer Updatebalken füllt sich."
     },
     {
       "title": "iX-Workshop: Windows Server absichern und härten",
@@ -114,6 +126,12 @@
       "image_title": "Eine symbolische Updateerinnerung."
     },
     {
+      "title": "Instagram-Datenleck: Daten von 6,2 Millionen Konten bei Have-I-Been-Pwned",
+      "teaser": "Daten von 6,2 Millionen Instagram-Nutzern sind beim Have-I-Been-Pwned-Projekt gelandet. Von BreachForums kamen zudem 672.000.",
+      "url": "https://www.heise.de/news/Instagram-6-2-Millionen-Nutzerdaten-mittels-Scraping-abgegriffen-11137222.html",
+      "image_title": "Instagram-Logo vor Matrix-Regen-Hintergrund"
+    },
+    {
       "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
       "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
       "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11126016.html",
@@ -130,24 +148,6 @@
       "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11125968.html",
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
-    },
-    {
-      "title": "Von München bis Sevilla: Internationaler Schlag gegen Cyber-Mafia „Black Axe“",
-      "teaser": "Ermittlern gelang in Spanien ein empfindlicher Schlag gegen die als „Black Axe“ bekannte nigerianische Cyber-Mafia.",
-      "url": "https://www.heise.de/news/Von-Muenchen-bis-Sevilla-Internationaler-Schlag-gegen-Cyber-Mafia-Black-Axe-11135925.html",
-      "image_title": "Sichergestelltes Geld bei einer Aktion gegen die Cyberkriminellen namens Black Axe"
-    },
-    {
-      "title": "AlertMediaplayer VLC: Aktualisierte Version stopft zahlreiche Lücken",
-      "teaser": "Die Version 3.0.23 des VLC Media Player bessert diverse Schwachstellen aus, die möglicherweise Unterschieben von Schadcode erlauben.",
-      "url": "https://www.heise.de/news/VLC-stopft-diverse-Sicherheitslecks-11135921.html",
-      "image_title": "VLC Logo mit Achtung-Schild"
-    },
-    {
-      "title": "Apex Central: Trend Micro braucht über vier Monate für Sicherheitspatch",
-      "teaser": "Windows-PCs mit Trend Micro Apex Central waren unter anderem über eine kritische Schadcode-Lücke angreifbar.",
-      "url": "https://www.heise.de/news/Apex-Central-Trend-Micro-braucht-ueber-vier-Monate-fuer-Sicherheitspatch-11135610.html",
-      "image_title": "Eine Tastatur mit einem symbolischen Updateknopf."
     },
     {
       "title": "Workshop | 28. – 29.1.2025Digital Forensics & Incident Response",
