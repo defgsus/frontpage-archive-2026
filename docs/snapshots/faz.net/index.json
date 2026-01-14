@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T15:14:56",
+  "timestamp": "2026-01-14T16:15:27",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -62,61 +68,41 @@
   ],
   "articles": [
     {
+      "title": "Nina Warken im Gespräch: „Nicht jeder wird mehr direkt zum Facharzt gehen können“",
+      "teaser": "Die Gesundheitsministerin kündigt eine Gesundheits- und Pflegereform an: Patienten will Nina Warken in einem Hausarztmodell belohnen und den Pflegegrad 1 reformieren. Die Tage des Pflegebudgets scheinen gezählt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/gesundheitsministerin-nina-warken-nicht-jeder-wird-mehr-direkt-zum-facharzt-gehen-koennen-110818985.html"
+    },
+    {
+      "title": "Liveblog USA unter Trump: USA ziehen Personal von Basis in Qatar ab",
+      "teaser": "Sorgen vor Angriff auf Iran +++ Trump bekräftigt Forderung nach Grönland – für Raketenschirm +++ Außenminister von Grönland und Dänemark in Washington erwartet +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-usa-ziehen-personal-von-basis-in-qatar-ab-faz-19444916.html",
+      "image_url": "https://media0.faz.net/image/w730/92de889204f4/w3000h1687x0y154/202507/43601.0.1147783088/amerikanische-soldaten-auf-der.webp",
+      "image_title": "Amerikanische Soldaten auf der Al-Udeid-Luftwaffenbasis in Qatar im Januar"
+    },
+    {
       "title": "Lage der Hauptstadt: Mit der Bequemlichkeit wächst der Berliner Müllberg",
       "teaser": "Berlin hat ein Abfallentsorgungsproblem. Die einen dramatisieren es, die anderen reden es klein. Von Umwelterziehung jedenfalls keine Spur. Dabei steht der Müll längst für mehr als übervolle Tonnen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/warum-in-berlin-der-muellberg-waechst-110815415.html"
-    },
-    {
-      "title": "Liveblog USA unter Trump: Trump: Brauchen Grönland für Raketenabwehr",
-      "teaser": "US-Präsident plant Raketenschirm „Golden Dome“ +++ Außenminister von Grönland und Dänemark in Washington erwartet +++ Fall Epstein: Clintons verweigern Aussage im US-Kongress +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-brauchen-groenland-fuer-raketenabwehr-faz-19444916.html",
-      "image_url": "https://media0.faz.net/image/w730/f54d11d35b18/w6000h3375x0y313/202601/43601.0.1663887676/groenlands-haupstadt-nuuk-im.webp",
-      "image_title": "Grönlands Haupstadt Nuuk im Januar"
-    },
-    {
-      "title": "Außenminister Rasmussen: Dänische Schicksalstage",
-      "teaser": "Die Sorge in Kopenhagen ist groß vor dem Treffen in Washington. Außenminister Rasmussen gilt als der Richtige dafür. Einst hatte er sich Trump entgegengestellt.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/schwierige-groenland-mission-fuer-rasmussen-bei-vance-und-rubio-in-washington-accg-200436897.html",
-      "image_url": "https://media0.faz.net/image/w730/b4b522a4d0c1/w6125h3445x0y319/202601/43601.0.1662109218/trotz-allem-treueste.webp",
-      "image_title": "Trotz allem treueste Verbündete: Rasmussen am Dienstag im dänischen Parlament vor dem Abflug nach Washington"
-    },
-    {
-      "title": "Außenminister Rasmussen: Dänische Schicksalstage",
-      "teaser": "Die Sorge in Kopenhagen ist groß vor dem Treffen in Washington. Außenminister Rasmussen gilt als der Richtige dafür. Einst hatte er sich Trump entgegengestellt.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/schwierige-groenland-mission-fuer-rasmussen-bei-vance-und-rubio-in-washington-accg-200436897.html"
-    },
-    {
-      "title": "Katastrophe in Crans-Montana: „Der Filz gehört zum Wallis wie die Berge“",
-      "teaser": "Im Schweizer Kanton Wallis sind Bauwirtschaft, Tourismus und Politik eng verflochten. Kritiker sagen: Dieser Filz war der Nährboden für die verheerende Brandkatastrophe in Crans-Montana.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/crans-montana-die-probleme-mit-dem-brandschutz-im-kanton-wallis-accg-110818833.html",
-      "image_url": "https://media0.faz.net/image/w730/96f83eca13ba/w8192h4608x0y500/202601/43601.0.1651441642/ein-meer-aus-lichtern-und.webp",
-      "image_title": "Ein Meer aus Lichtern und Blumen: Vor der „Constellation“-Bar trauen die Menschen um die Opfer."
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/warum-in-berlin-der-muellberg-waechst-110815415.html",
+      "image_url": "https://media0.faz.net/image/w730/e0634a18806f/w3000h1687x0y313/202503/43601.0.895759635/in-sichtweite-des-berliner.webp",
+      "image_title": "In Sichtweite des Berliner Doms stapelt sich der Müll. Das Bild entstand während des Streiks der Berliner Stadtreinigung im März 2025"
     },
     {
       "title": "Fallschirmjäger: Generalinspekteur Breuer zeigt sich „tief betroffen“",
       "teaser": "Nach dem Skandal bei den Fallschirmjägern in Zweibrücken informiert die militärische Führung den Verteidigungsausschuss. Minister Pistorius fehlt.",
-      "url": "https://www.faz.net/aktuell/politik/inland/fallschirmjaeger-generalinspekteur-breuer-zeigt-sich-tief-betroffen-110818901.html",
+      "url": "https://www.faz.net/aktuell/politik/inland/nach-fallschirmjaeger-skandal-militaerische-fuehrung-informiert-verteidigungsausschuss-110818901.html",
       "image_url": "https://media0.faz.net/image/w730/1c8ea6fe8113/w2727h1534x145y105/202507/43601.0.1140932338/soldaten-des.webp",
       "image_title": "Soldaten des Fallschirmjägerregiments 26 aus Zweibrücken im Jahr 2023"
     },
     {
-      "title": "FAZ+Tausende Tote: Wer hat das Blutbad in Iran angerichtet?",
-      "teaser": "Die Revolutionsgarde und die Basidsch sind die wichtigsten Stützen des Regimes. Sie sind einflussreicher als Armee und Polizei – und waren schon in der Vergangenheit äußerst brutal.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/iran-revolutionsgarde-und-basidsch-als-wichtigste-stuetzen-des-regimes-accg-110818835.html",
-      "image_url": "https://media0.faz.net/image/w730/0c9b64e2d573/w7300h4106x0y761/202601/43601.0.1663749593/iraner-nehmen-am-mittwoch-an.webp",
-      "image_title": "Iraner nehmen am Mittwoch an einer Trauerfeier für während der Proteste getötete Sicherheitskräfte des Regimes teil."
-    },
-    {
-      "title": "FAZ+Deutscher Exportschlager: Warum die Amerikaner Aldi lieben",
-      "teaser": "Der deutsche Discounter befindet sich in den USA auf einem Höhenflug. Das könnte auch Folgen für Deutschland haben.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aldi-warum-die-amerikaner-den-discounter-lieben-accg-110818648.html",
-      "image_url": "https://media0.faz.net/image/w730/b328be9f376c/w3000h1688x0y156/012026/1.10818643/von-wegen-langweilig-die.webp",
-      "image_title": "Von wegen langweilig: Die Amerikaner haben Aldi mittlerweile in ihr Herz geschlossen."
+      "title": "FAZ+Proteste in Iran: Die politische Selbstaufklärung einer Nation",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/neucodierung-von-zukunftsfaehigkeit-die-aktuellen-protest-im-iran-110818989.html",
+      "image_url": "https://media0.faz.net/image/w730/a9c9020eb56b/w3000h1688x0y114/012026/1.10818988/ueberbleibsel-einer.webp",
+      "image_title": "Überbleibsel einer überlebensgroßen Statue: die monumentalen bronzenen Reitstiefel von Reza Schah Pahlavi in der musealen Saadabad-Palastanlage, Teheran"
     },
     {
       "title": "FAZ+Obsidian & Claude Code: Der neue Superassistent für Wissensarbeiter",
-      "teaser": "Anthropic öffnet sein Entwicklerwerkzeug Claude Code für alle Wissensarbeiter. In Kombination mit der kostenlosen Notizsoftware Obsidian entsteht ein Recherche-Assistent, der mehr kann als jeder Chatbot – aber seinen Preis hat.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/obsidian-und-claude-code-revolution-fuer-wissensarbeit-accg-200433475.html",
+      "teaser": "Anthropic öffnet sein Entwicklerwerkzeug Claude Code für alle Wissensarbeiter. In Kombination mit der kostenlosen Notizsoftware Obsidian entsteht ein Recherche-Assistent, der weit mehr kann als jeder Chatbot.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/obsidian-und-claude-code-der-neue-superassistent-fuer-wissensarbeit-accg-200433475.html",
       "image_url": "https://media0.faz.net/image/w730/5796e2e55003/w3000h1687x0y156/202509/43601.0.1351578239/claude-code-die-produktmanager.webp",
       "image_title": "Claude Code: Die Produktmanager Cat Wu und Alex Albert."
     },
@@ -198,19 +184,14 @@
       "image_title": "Michael Hanfeld"
     },
     {
-      "title": "Abgang bei der ARD: Helge Fuhst wird Super-Chefredakteur bei Springer",
-      "teaser": "Helge Fuhst verlässt die ARD und wird Vorsitzender der Chefredaktionen von „Welt“, „Politico“ und „Business Insider“ bei Springer. Das ist ein journalistischer Topjob im Konzern.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/helge-fuhst-wird-super-chefredakteur-bei-springer-110818847.html"
-    },
-    {
       "title": "Nach Treffen in Berlin: Kaja Kallas verwechselt Pistorius und Laschet",
       "teaser": "Wer ist wer? Boris Pistorius und Armin Laschet lassen sich optisch manchmal nur schwer auseinanderhalten – das hat jetzt auch die EU-Außenbeauftragte Kaja Kallas lernen müssen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/kaja-kallas-verwechselt-pistorius-und-laschet-200438256.html"
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/armin-laschet-oder-boris-pistorius-kaja-kallas-sorgt-fuer-fauxpas-nach-treffen-in-berlin-200438256.html"
     },
     {
-      "title": "Ausländer eingeschleust?: Nagelstudiobetreiber unter Verdacht – Razzia in fünf Bundesländern",
-      "teaser": "Die Polizei hat Wohn- und Geschäftsräume in fünf Bundesländern durchsucht. Ein Mann wird verdächtigt, Personen ohne Aufenthaltserlaubnis in Nagelstudios beschäftigt zu haben.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/auslaender-eingeschleust-razzia-gegen-nagelstudiobetreiber-200437758.html"
+      "title": "Krösche wählt deutliche Worte: Der Druck auf Toppmöller steigt",
+      "teaser": "Nach der Niederlage in Stuttgart ist die Unruhe bei der Eintracht groß. Die Spieler zanken sich, Sportvorstand Krösche reagiert genervt. Wie lange hält seine Geduld mit Toppmöller?",
+      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-druck-auf-trainer-toppmoeller-steigt-200438032.html"
     },
     {
       "title": "Einstige KI-Hoffnung: Mitgründer Jonas Andrulis kehrt Aleph Alpha endgültig den Rücken",
@@ -218,37 +199,42 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aleph-alpha-jonas-andrulis-verlaesst-einstige-ki-hoffnung-endgueltig-110818896.html"
     },
     {
-      "title": "FAZ+C-Klasse als Diesel: Zu wissen, man könnte",
-      "teaser": "Stufenheck und Dieselmotor sind von gestern? Von wegen. Als Limousine passt die C-Klasse mit Selbstzünder von Mercedes-Benz ziemlich gut in unsere hektische Zeit.",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/c-klasse-von-mercedes-mit-stufenheck-und-dieselmotor-110817275.html",
-      "image_url": "https://media0.faz.net/image/w920/31708872d81d/w5425h3052x444y927/202512/43601.0.1588315190/wagen-im-dienst-c-klasse-mit.webp",
-      "image_title": "Wagen im Dienst: C-Klasse mit Dieselmotor"
+      "title": "Kolumne „Nine to five“: Die Inflation des Gedankenstrichs",
+      "teaser": "Der Gedankenstrich erlebt ein Comeback. Sprachmodelle wie ChatGPT lieben das Satzzeichen. Texte, die nur so vor Gedankenstrichen wimmeln, sind daher allzu verräterisch, von einer KI verfasst worden zu sein.",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/gedankenstriche-ueberall-wie-ein-satzzeichen-ki-texte-verraet-110816635.html"
     },
     {
-      "title": "Wellness in Irland: Heißes Glück im Algenbad",
-      "teaser": "Ein nostalgisches Erlebnis nach einem traditionellen irischen Rezept verspricht Gesundheit, Vergnügen, Entspannung – und eine zarte, geschmeidige Haut.",
-      "url": "https://www.faz.net/aktuell/reise/das-kilcullens-hot-seawater-and-seaweed-bath-in-enniscrone-110818316.html",
-      "image_url": "https://media0.faz.net/image/w920/db0088d7cc20/w5140h2891x0y268/202601/43601.0.1658285069/in-dritter-generation.webp",
-      "image_title": "In dritter Generation erfolgreich: das „Kilcullen’s Hot Seawater and Seaweed Bath“"
+      "title": "Serie „The Lowdown“: Tief in Oklahoma verkaufst du deine Oma",
+      "teaser": "Amerikanische Gewaltgeschichte, satirisch aufgespießt: In Sterlin Harjos Serie „The Lowdown“ spielt Ethan Hawke einen liebenswerten Loser, der in Tulsa einem großen Verbrechen auf die Spur kommt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/sterlin-harjos-serie-the-lowdown-mit-ethan-hawke-110818344.html",
+      "image_url": "https://media0.faz.net/image/w920/3c26c431ea7a/w3000h1688x0y72/042024/1.10818348/nicht-ohne-seinen-hut-ethan.webp",
+      "image_title": "Nicht ohne seinen Hut: Ethan Hawke als Amateurdetektiv Lee Raybon"
     },
     {
-      "title": "FAZ+Jobs der Zukunft: Im KI-Zeitalter zählt, was Maschinen nicht können",
-      "teaser": "Viele Berufseinsteiger merken, dass ihr „Buchwissen“ von der Universität nicht mehr reicht, um trotz guter Noten auch gute Jobs zu bekommen. KI-Kenntnisse werden auf dem neuen Arbeitsmarkt zum Standard.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/kuenstliche-intelligenz-was-berufseinsteiger-jetzt-koennen-muessen-accg-200424650.html",
-      "image_url": "https://media0.faz.net/image/w920/759071d340f4/w3000h1687x0y156/202501/43601.0.824830281/um-fuer-den-arbeitsmarkt.webp",
-      "image_title": "Um für den Arbeitsmarkt gerüstet zu sein, brauchen Studierende jetzt mehr als „nur“ gute Noten."
+      "title": "Rezepte für cocktails: So gelingen perfekte Drinks ohne Alkohol",
+      "teaser": "Der „Dry January“ ist wieder da. Und mit ihm das Streben nach alkoholfreiem Genuss. Zwei neue, aufwendig gestaltete Bücher zeigen, wie man anspruchsvolle Cocktails ohne Umdrehungen mixt.",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/dry-january-so-mixt-man-perfekte-cocktails-ohne-alkohol-200411902.html",
+      "image_url": "https://media0.faz.net/image/w920/09bad9fab459/w7376h4149x0y1621/202512/43601.0.1585630967/mit-ihrem-154-ist-linh-nguyen.webp",
+      "image_title": "Mit ihrem „154“ ist Linh Nguyen 2022 Cocktail-Weltmeisterin geworden, für ihr Buch „Like a Virgin“ hat sie eine alkoholfreie Variante entwickelt."
     },
     {
       "title": "FAZ+E-Auto-Markt 2025: Chinas Aufsteiger, Teslas Absturz und die deutsche Mitte",
       "teaser": "Neue Spieler – allen voran chinesische Marken – drängen mit Macht auf den Markt. Ein genauer Blick auf die Zahlen zeigt überraschende Gewinner und gleich mehrere Premiumhersteller unter Zugzwang.",
       "url": "https://www.faz.net/pro/digitalwirtschaft/mobility/elektroautos-chinas-aufsteiger-teslas-absturz-und-die-deutsche-mitte-accg-200429775.html",
-      "image_url": "https://media0.faz.net/image/w730/0c5dfba7487e/w3770h2121x0y61/202601/43601.0.1639334677/lol-on-lol-off-die-byd-hefei.webp",
+      "image_url": "https://media0.faz.net/image/w920/0c5dfba7487e/w3770h2121x0y61/202601/43601.0.1639334677/lol-on-lol-off-die-byd-hefei.webp",
       "image_title": "„Lol on Lol off“: die BYD Hefei im Hafen von Haitong in China"
     },
     {
-      "title": "FAZ+E-Auto-Markt 2025: Chinas Aufsteiger, Teslas Absturz und die deutsche Mitte",
-      "teaser": "Neue Spieler – allen voran chinesische Marken – drängen mit Macht auf den Markt. Ein genauer Blick auf die Zahlen zeigt überraschende Gewinner und gleich mehrere Premiumhersteller unter Zugzwang.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/mobility/elektroautos-chinas-aufsteiger-teslas-absturz-und-die-deutsche-mitte-accg-200429775.html"
+      "title": "FAZ+Jobs der Zukunft: Im KI-Zeitalter zählt, was Maschinen nicht können",
+      "teaser": "Viele Berufseinsteiger merken, dass ihr „Buchwissen“ von der Universität nicht mehr reicht, um trotz guter Noten auch gute Jobs zu bekommen. KI-Kenntnisse werden auf dem neuen Arbeitsmarkt zum Standard.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/kuenstliche-intelligenz-was-berufseinsteiger-jetzt-koennen-muessen-accg-200424650.html",
+      "image_url": "https://media0.faz.net/image/w730/759071d340f4/w3000h1687x0y156/202501/43601.0.824830281/um-fuer-den-arbeitsmarkt.webp",
+      "image_title": "Um für den Arbeitsmarkt gerüstet zu sein, brauchen Studierende jetzt mehr als „nur“ gute Noten."
+    },
+    {
+      "title": "FAZ+Jobs der Zukunft: Im KI-Zeitalter zählt, was Maschinen nicht können",
+      "teaser": "Viele Berufseinsteiger merken, dass ihr „Buchwissen“ von der Universität nicht mehr reicht, um trotz guter Noten auch gute Jobs zu bekommen. KI-Kenntnisse werden auf dem neuen Arbeitsmarkt zum Standard.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/kuenstliche-intelligenz-was-berufseinsteiger-jetzt-koennen-muessen-accg-200424650.html"
     },
     {
       "title": "FAZ+Apple und UCP: Googles Meisterstück(e)",
@@ -312,10 +298,17 @@
       "image_title": "AFP"
     },
     {
+      "title": "Rhein-Main-Feierabendbriefing: Umfrage: Eltern und Kinder gehen gern in die Kita",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/umfrage-eltern-geben-kitas-in-hessen-gute-noten-200438448.html",
+      "image_url": "https://media0.faz.net/image/w920/8baacb1e23cd/w5921h2537x0y1153/202505/43601.0.1008548813/gut-aufgehoben-kleinkind-sitzt.webp",
+      "image_title": "Gut aufgehoben: Kleinkind sitzt mit Bilderbuch in einer Kita."
+    },
+    {
       "title": "FAZ+F.A.Z. Podcast für Deutschland: Tödliche ICE-Schüsse: „Trump erklärt Großteil der Bevölkerung den Krieg“",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/ice-trump-erklaert-grossteil-der-bevoelkerung-den-krieg-200437204.html",
-      "image_url": "https://media0.faz.net/image/w920/e1a366189c36/w3000h1285x0y357/202601/43601.0.1663369158/epa-olga-fedorova.webp",
+      "image_url": "https://media0.faz.net/image/w730/62cc0d75c88d/w3000h1687x0y156/202601/43601.0.1663369158/epa-olga-fedorova.webp",
       "image_title": "EPA/OLGA FEDOROVA"
     },
     {
@@ -326,17 +319,24 @@
       "image_title": "Deutschlands Auslandsnachrichtendienst soll künftig auch operativ tätig werden dürfen."
     },
     {
-      "title": "FAZ+F.A.Z. Frühdenker: Wie wird Trumps „Hilfe“ für Iran aussehen?",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/trump-und-iran-wie-wird-seine-hilfe-aussehen-faz-fruehdenker-200435842.html",
-      "image_url": "https://media0.faz.net/image/w730/71531d510b54/w3000h1687x0y157/202601/43601.0.1662004904/demonstranten-in-zuerich.webp",
-      "image_title": "Demonstranten in Zürich zeigen ihre Solidarität und fordern Hilfe für die Menschen in Iran."
+      "title": "Söder will Länderfusionen: Der Stolz der Kleinen",
+      "teaser": "CSU-Chef Söder fordert die Fusion kleinerer Bundesländer. Die widersprechen umgehend – mit Verweisen auf die deutsche „Space City Nr. 1“ und den „Saarland-Stolz“.",
+      "url": "https://www.faz.net/aktuell/politik/inland/kleine-bundeslaender-widersprechen-markus-soeder-110818971.html",
+      "image_url": "https://media0.faz.net/image/w1200/de03af4a8143/w3000h1687x0y14/202601/43601.0.1660474328/csu-chef-markus-soeder-am.webp",
+      "image_title": "CSU-Chef Markus Söder am Montag in Kloster Banz"
+    },
+    {
+      "title": "Freihandelsabkommen: Frankreichs Zorn gegen Mercosur",
+      "teaser": "Die anstehende Unterzeichnung des Mercosur-Abkommens wird in Frankreich als Demütigung wahrgenommen. Die Regierung muss sich Misstrauensanträgen stellen. Hat sie noch genügend Rückhalt?",
+      "url": "https://www.faz.net/aktuell/politik/ausland/proteste-und-misstrauensantraege-setzen-regierung-unter-druck-110819034.html",
+      "image_url": "https://media0.faz.net/image/w730/c16688f6fa55/w3000h1688x0y156/012026/1.10819033/ein-demonstrant-geht-an.webp",
+      "image_title": "Ein Demonstrant geht an brennenden Barrikaden auf einem Kreisverkehr in Quimper im Westen Frankreichs vorbei."
     },
     {
       "title": "FAZ+„Golden Dome“: Wie Trump seinen Raketenabwehrschirm vorantreibt",
       "teaser": "Laut Trump ist Grönland von „entscheidender Bedeutung“ für seine geplante Raketenabwehr „Golden Dome“. Es orientiert sich am berüchtigten „Star Wars“-Programm von Reagan und soll in drei Jahren einsatzbereit sein.",
       "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/golden-dome-wie-trump-sein-raketenabwehrschirm-vorantreibt-110490343.html",
-      "image_url": "https://media0.faz.net/image/w1200/67a09ff122e0/w2996h1685x4y119/202505/1.10490427/donald-trump-im-weissen-haus.webp",
+      "image_url": "https://media0.faz.net/image/w730/67a09ff122e0/w2996h1685x4y119/202505/1.10490427/donald-trump-im-weissen-haus.webp",
       "image_title": "Donald Trump im Weißen Haus im Mai"
     },
     {
@@ -347,32 +347,18 @@
       "image_title": "Neuer Verteidigungsminister: Mychajlo Fedorow spricht am Mittwoch im Parlament"
     },
     {
-      "title": "Wahl in Uganda: Der Popmusiker gegen den ewigen Präsidenten",
-      "teaser": "Bobi Wine fordert in Uganda den seit fast 40 Jahren regierenden Präsidenten Museveni heraus. Schon jetzt haben die Behörden offenbar eine landesweite Internetsperre verhängt.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/uganda-sperrt-vor-wahl-das-internet-popmusiker-tritt-gegen-den-ewigen-praesidenten-an-accg-110817325.html",
-      "image_url": "https://media0.faz.net/image/w730/e0c172ac352a/w2709h1524x0y27/202601/08252482-d285-4a3b-bd3e-3c8402da8672/robert-kyagulanyi-alias-bobi.webp",
-      "image_title": "Robert Kyagulanyi alias Bobi Wine am Freitag im Wahlkampf in Mukono"
-    },
-    {
-      "title": "„Entschlossen handeln“: Trump droht Iran mit US-Eingreifen bei Hinrichtungen",
-      "teaser": "Angesichts von Meldungen über Tausende Getötete warnt der US-Präsident abermals Irans Regierung. Diese spricht von „künstlich geschürten Unruhen“ als Vorwand für militärische Intervention.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-droht-iran-mit-us-eingreifen-bei-hinrichtungen-accg-200436111.html",
-      "image_url": "https://media0.faz.net/image/w730/2a3d99719b56/w3000h1687x0y156/202601/43601.0.1662314617/in-teheran-sind-demonstranten.webp",
-      "image_title": "In Teheran sind Demonstranten am vergangenen Freitag zu sehen."
-    },
-    {
-      "title": "FAZ+Erbschaftsteuer: Die SPD stellt die Vermögensfrage",
-      "teaser": "Die SPD will die Erbschaftsteuer reformieren. Vor allem Firmenerben sollen mehr zahlen. Nicht nur Wirtschaftsverbände sehen die Pläne kritisch.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/so-will-die-spd-die-erbschaftsteuer-reformieren-110818378.html",
-      "image_url": "https://media0.faz.net/image/w1200/34b9fcefcf84/w6000h3375x0y625/202601/43601.0.1660842680/familie-ist-familie-heisst-es.webp",
-      "image_title": "„Familie ist Familie“, heißt es in dem SPD-Papier. Die Unterscheidung der Freibeträge nach Verwandtschaftsgrad soll dem Entwurf nach entfallen."
-    },
-    {
       "title": "European Space Ventures: „Bodenschätze auf dem Mond sind ein großes Thema“",
       "teaser": "Die Raumfahrt erhält mehr Aufmerksamkeit, Finanzierungen bleiben schwierig. Zwei Manager wollen das ändern. Elon Musk nachzueifern, sei aber weniger attraktiv für Investoren, der Mond und Datenzentren im All böten größere Chancen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/european-space-ventures-bodenschaetze-auf-dem-mond-sind-ein-grosses-thema-110817874.html",
-      "image_url": "https://media0.faz.net/image/w730/c9f89d6ea07a/w2499h1405x0y302/071969/1.10817871/ein-kleiner-schritt-den.webp",
+      "image_url": "https://media0.faz.net/image/w1200/c9f89d6ea07a/w2499h1405x0y302/071969/1.10817871/ein-kleiner-schritt-den.webp",
       "image_title": "„Ein kleiner Schritt“: Den Fußabdruck hinterließ ein Apollo-11-Astronaut auf dem Mond. Wird die Suche nach Bodenschätzen zum großen Sprung?"
+    },
+    {
+      "title": "FAZ+Deutscher Exportschlager: Warum die Amerikaner Aldi lieben",
+      "teaser": "Der deutsche Discounter befindet sich in den USA auf einem Höhenflug. Das könnte auch Folgen für Deutschland haben.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/aldi-warum-die-amerikaner-den-discounter-lieben-accg-110818648.html",
+      "image_url": "https://media0.faz.net/image/w730/b328be9f376c/w3000h1688x0y156/012026/1.10818643/von-wegen-langweilig-die.webp",
+      "image_title": "Von wegen langweilig: Die Amerikaner haben Aldi mittlerweile in ihr Herz geschlossen."
     },
     {
       "title": "US-Luxushändler: Die Gruppe von Saks Fifth Avenue rutscht in die Insolvenz",
@@ -436,6 +422,13 @@
       "image_title": "Ein Mitarbeiter der Deutschen Börse arbeitet an einem Bildschirm."
     },
     {
+      "title": "Hort der Sicherheit: Gold eilt von Rekord zu Rekord",
+      "teaser": "Die Zweifel an der Unabhängigkeit der amerikanischen Notenbank Fed geben dem Edelmetall weiteren Aufwind. Silber gewinnt noch stärker. Auch Aktien von Goldminen gewinnen.",
+      "url": "https://www.faz.net/aktuell/finanzen/gold-eilt-von-rekord-zu-rekord-110818923.html",
+      "image_url": "https://media0.faz.net/image/w730/7777b260cf20/w3000h1687x0y154/202508/43601.0.1199999823/jedes-stueck-im-gegenwert.webp",
+      "image_title": "Jedes Stück im Gegenwert eines Neuwagens: Kleine Goldbarren mit großem Wert."
+    },
+    {
       "title": "FAZ+Anlagestratege über Crashgefahr: „Wir verstehen diese Furcht nicht“",
       "teaser": "US-Aktien sind auch 2026 seine erste Wahl: Mabrouk Chetouane, Chefstratege des französischen Vermögensverwalters Natixis, zieht Amerika Europa vor – warnt aber vor naiven Erwartungen.",
       "url": "https://www.faz.net/aktuell/finanzen/dax-auf-rekord-wir-verstehen-diese-furcht-nicht-accg-110818458.html",
@@ -450,17 +443,10 @@
       "image_title": "„Zweites Einkommen“ - Nicht nur auf die Kursentwicklung kommt es an, auch die Dividendenzahlungen der Gesellschaften fallen ins Gewicht: Im Dax startet Siemens Healthineers Anfang Februar den diesjährigen Reigen."
     },
     {
-      "title": "Diskussion um Lagarde-Nachfolge: Abschied von Frank Elderson?",
-      "teaser": "Es gibt weitere Spekulationen rund um die Nachfolge für EZB-Präsidentin Christine Lagarde. Welche Chancen hat der Niederländer Klaas Knot?",
-      "url": "https://www.faz.net/aktuell/finanzen/lagarde-nachfolge-bei-der-ezb-abschied-von-elderson-110818369.html",
-      "image_url": "https://media0.faz.net/image/w730/c680cf875b74/w2000h1125x0y104/122025/1.10818475/christine-lagarde-ist-noch-bis.webp",
-      "image_title": "Christine Lagarde ist noch bis Oktober 2027 EZB-Präsidentin."
-    },
-    {
       "title": "Franz Herre gestorben: So schnell schreiben die Professoren nicht",
       "teaser": "Der Biograph, der in die Breschen sprang: Im Gründungsjahr der Bundesrepublik wurde Franz Herre von Franz Schnabel promoviert. Jetzt ist er mit fast 100 Jahren gestorben.",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/biograph-franz-herre-gestorben-110818959.html",
-      "image_url": "https://media0.faz.net/image/w1200/314a2335e165/w3000h1688x0y131/012026/1.10818947/oben-auf-dem-stapel-liegt-sein.webp",
+      "image_url": "https://media0.faz.net/image/w1200/8498f8c605d5/w3000h1688x0y87/012026/1.10818947/oben-auf-dem-stapel-liegt-sein.webp",
       "image_title": "Oben auf dem Stapel liegt sein letztes Buch: „Friedrich Wilhelm IV. Der andere Preußenkönig“ von Franz Herre kam 2007 heraus."
     },
     {
@@ -471,18 +457,18 @@
       "image_title": "Helmut Lachenmann am Heidelberger Streichquartettfest 2025"
     },
     {
+      "title": "Abgang bei der ARD: Helge Fuhst wird Super-Chefredakteur bei Springer",
+      "teaser": "Helge Fuhst verlässt die ARD und wird Vorsitzender der Chefredaktionen von „Welt“, „Politico“ und „Business Insider“ bei Springer. Das ist ein journalistischer Topjob im Konzern.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/helge-fuhst-wird-super-chefredakteur-bei-springer-110818847.html",
+      "image_url": "https://media0.faz.net/image/w730/8cd00dbcca88/w3000h1688x0y53/012026/1.10818846/wechselt-von-der-ard-zu.webp",
+      "image_title": "Wechselt von der ARD zu Springer: Helge Fuhst"
+    },
+    {
       "title": "Projekt „Gemeinsam lesen“: Neuer digitaler Buchclub startet mit Leïla Slimani",
       "teaser": "Wie unterschiedlich wir lesen, macht den Austausch über Romane reizvoll. Deshalb startet die F.A.Z. mit Thalia „Gemeinsam lesen“. Den Auftakt bildet Leïla Slimanis neuer Roman „Trag das Feuer weiter“.",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/f-a-z-und-thalia-starten-projekt-gemeinsam-lesen-accg-110818577.html",
       "image_url": "https://media0.faz.net/image/w730/0ba452c436ab/w3224h1813x0y2051/202512/43601.0.1587748861/le-la-slimani-mitte-dezember.webp",
       "image_title": "Leïla Slimani Mitte Dezember 2025 in Paris"
-    },
-    {
-      "title": "„28 Years Later 2“ im Kino: Der Plattenspielerarm ist ein sehr langer Knochen",
-      "teaser": "Ralph Fiennes legt Musik in der Knochenburg auf: Alex Garland beendet mit dem Kinohorrorfilm „28 Years Later: The Bone Temple“ seine Zombiesaga.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/28-years-later-the-bone-temple-im-kino-110818473.html",
-      "image_url": "https://media0.faz.net/image/w730/0bd6ef34f0db/w3000h1688x0y156/092024/1.10818472/jack-o-connell-als-sir-jimmy.webp",
-      "image_title": "Jack O’Connell als Sir Jimmy Crystal mit seinen Jüngern"
     },
     {
       "title": "FAZ+Kolumne „Mein Urteil“: Auch Hochverdiener genießen Arbeitsschutz",
@@ -505,10 +491,17 @@
       "image_url": "https://media0.faz.net/image/w730/373abdf62c03/w5200h2925x0y519/202601/b3ad969f-2f81-4aaf-a22b-3f82fd11458f/r56bscdzxn1.webp"
     },
     {
+      "title": "Generalprobe vor Olympia: Kein Podestplatz für Biathlon-Frauenstaffel",
+      "teaser": "Letztmals vor Olympia sind die deutschen Biathletinnen im Quartett gefordert. Doch beim Heimspiel reicht es nur zu Platz sechs. Ausgerechnet die Beste kommt nicht klar.",
+      "url": "https://www.faz.net/aktuell/sport/wintersport/preuss-patzt-kein-podestplatz-fuer-biathlon-frauenstaffel-110819135.html",
+      "image_url": "https://media0.faz.net/image/w1200/f4f569827e92/w3000h1687x0y156/202601/43601.0.1664429357/das-war-nichts-franziska.webp",
+      "image_title": "Das war nichts: Franziska Preuß enttäuscht im Ziel"
+    },
+    {
       "title": "Nachhaltigkeitsbericht: DOSB engagiert sich für eine „vitale Demokratie“",
       "teaser": "Der DOSB will den Vereinen mit seinem ersten Nachhaltigkeitsbericht unter anderem die Stärkung der Gemeinschaft und ökologisches Handeln ans Herz legen. Medaillen spielen in dem Werk kaum eine Rolle.",
       "url": "https://www.faz.net/aktuell/sport/sportpolitik/erster-dosb-nachhaltigkeitsbericht-medaillen-nicht-so-wichtig-110818882.html",
-      "image_url": "https://media0.faz.net/image/w1200/3359137efdf5/w2727h1534x0y95/202601/43601.0.1653574685/der-dosb-zeichnet-ein.webp",
+      "image_url": "https://media0.faz.net/image/w730/3359137efdf5/w2727h1534x0y95/202601/43601.0.1653574685/der-dosb-zeichnet-ein.webp",
       "image_title": "Der DOSB zeichnet ein Sportbild, für das das Abschneiden deutscher Sportler so gut wie keine Bedeutung hat."
     },
     {
@@ -526,17 +519,24 @@
       "image_title": "Nur Harry Kane hat in dieser Bundesliga-Saison häufiger getroffen als Haris Tabakovic (links)"
     },
     {
-      "title": "Fußball-Transferticker: Union Berlin verlängert Vertrag mit Baumgart",
-      "teaser": "Bundesligaverein setzt auf Kontinuität +++ Mertesacker nicht mehr Leiter der Arsenal-Akademie +++ Torwart Kovar bleibt in Eindhoven +++ Torjäger Semenyo wechselt zu City +++ alle Infos im Transferticker.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-union-berlin-verlaengert-mit-baumgart-faz-18134600.html",
-      "image_url": "https://media0.faz.net/image/w730/bb9f33e140a4/w3000h1687x0y317/202601/43601.0.1663571357/sind-auf-einem-guten-weg.webp",
-      "image_title": "„Sind auf einem guten Weg“: Steffen Baumgart und Union Berlin, das scheint zu passen."
+      "title": "Dringender Tatverdacht: „Maschseemörder“ in Düsseldorf festgenommen",
+      "teaser": "Im Jahr 2012 tötete er eine Prostituierte und warf die Leichenteile in den Maschsee in Hannover: Nun soll Alexander K. abermals schwere Straftaten begangen haben. Er befindet sich in Untersuchungshaft.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/maschseemoerder-in-duesseldorf-festgenommen-200438827.html",
+      "image_url": "https://media0.faz.net/image/w1200/eecb31f66c3e/w3000h1687x0y214/202601/43601.0.1664508164/aufnahme-vom-prozessauftakt-im.webp",
+      "image_title": "Aufnahme vom Prozessauftakt im August 2013: Der Mörder vom Machsee wurde zu zwölf Jahren Haft verurteilt. (Archivbild)"
+    },
+    {
+      "title": "Ausländer eingeschleust?: Nagelstudiobetreiber unter Verdacht – Razzia in fünf Bundesländern",
+      "teaser": "Die Polizei hat Wohn- und Geschäftsräume in fünf Bundesländern durchsucht. Ein Mann wird verdächtigt, Personen ohne Aufenthaltserlaubnis in Nagelstudios beschäftigt zu haben.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/auslaender-eingeschleust-razzia-gegen-nagelstudiobetreiber-200437758.html",
+      "image_url": "https://media0.faz.net/image/w730/9de669da36e1/w3000h1687x0y59/202501/43601.0.823372449/zollbeamte-bei.webp",
+      "image_title": "Zollbeamte bei Durchsuchungsaktionen (Symbolbild)"
     },
     {
       "title": "Mit 80 schwer verliebt: „Möchtest Du mich vielleicht heiraten?“",
       "teaser": "Gesucht, gefunden: Zwei Menschen im Alter von 80 und 78 Jahren finden sich auf einer Dating-Plattform, in Mails erkennen sie sich als Seelenverwandte. Für die Hochzeit brauchen sie nicht lange.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/mit-80-schwer-verliebt-so-hat-sich-dieses-paar-gefunden-200437853.html",
-      "image_url": "https://media0.faz.net/image/w1200/5ceaab17709b/w3000h1687x0y0/202601/43601.0.1663687238/keine-altersbeschraenkung-fuer.webp",
+      "image_url": "https://media0.faz.net/image/w730/5ceaab17709b/w3000h1687x0y0/202601/43601.0.1663687238/keine-altersbeschraenkung-fuer.webp",
       "image_title": "Keine Altersbeschränkung für die Liebe: Ellen Schmitz und Johan van Dijk"
     },
     {
@@ -545,20 +545,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zugunglueck-in-thailand-mehr-als-20-tote-accg-200436505.html",
       "image_url": "https://media0.faz.net/image/w730/e8d899f17a87/w3000h1687x0y313/202601/43601.0.1662930427/der-baukran-stuerzte-in-einen.webp",
       "image_title": "Der Baukran stürzte in einen Personenzug."
-    },
-    {
-      "title": "Unschuldig im Gefängnis: Manfred Genditzki erhält Entschädigung in Millionenhöhe",
-      "teaser": "Er saß mehr als 13 Jahre lang unschuldig im Gefängnis. Jetzt hat er sich mit dem Freistaat Bayern auf eine hohe Entschädigungssumme geeinigt.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/unschuldig-im-gefaengnis-manfred-genditzki-erhaelt-entschaedigung-accg-200437348.html",
-      "image_url": "https://media0.faz.net/image/w730/fbd7f16dfb4a/w3000h1687x0y25/202504/43601.0.945226658/justizopfer-manfred-genditzki.webp",
-      "image_title": "Justizopfer: Manfred Genditzki sitzt vor Prozessbeginn im Wiederaufnahmeverfahren um den sogenannten Badewannen-Mordfall im Gerichtssaal."
-    },
-    {
-      "title": "K-Pop-Band: BTS startet im April eine Welttournee",
-      "teaser": "Die K-Pop-Band BTS kommt nach einer vierjährigen Pause zurück. Geplant sind 79 Konzerte in 34 Städten – darunter auch zwei in Deutschland.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/bts-kehren-nach-pause-mit-welttournee-zurueck-accg-200437219.html",
-      "image_url": "https://media0.faz.net/image/w730/1d779ccfa68c/w3000h1687x0y176/202601/43601.0.1662985228/bts-im-jahr-2022.webp",
-      "image_title": "BTS im Jahr 2022"
     },
     {
       "title": "FAZ+Wenigstens hat er's Versucht: „Ich habe leider gar keine Schnapsgläser“",
@@ -575,32 +561,39 @@
       "image_title": "Auf dem Sofa in der ersten gemeinsamen Wohnung: Autorin Sabrina Günther und ihr Partner."
     },
     {
+      "title": "Narkosearzt: Gericht muss Mordvorwurf neu prüfen",
+      "teaser": "War der Tod eines vier Jahre alten Mädchens in einer Kronberger Zahnarztpraxis doch Mord? Das soll nun ein Gericht abermals prüfen. Der Bundesgerichtshof hob das Urteil gegen den Narkosearzt auf.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/prozess-gegen-narkosearzt-in-frankfurt-urteil-aufgehoben-200438520.html",
+      "image_url": "https://media0.faz.net/image/w1200/7203f57f2baf/w3000h1687x0y156/202601/43601.0.1636533072/der-bundesgerichtshof-hob-das.webp",
+      "image_title": "Der Bundesgerichtshof hob das Urteil gegen den Anästhesisten am Mittwoch auf."
+    },
+    {
+      "title": "Baumkänguru im Zoo: Nachwuchs im Beutel",
+      "teaser": "Im Frankfurter Zoo reckt ein Baumkänguru-Jungtier sein Köpfchen aus dem Beutel der Mutter. Seit seiner Geburt im Sommer hat es sich gut entwickelt und beginnt jetzt, seine Umgebung zu beobachten.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/baumkaenguru-im-frankfurter-zoo-traegt-nachwuchs-im-beutel-200437674.html",
+      "image_url": "https://media0.faz.net/image/w730/901a80a0b587/w5712h3213x0y730/202601/43601.0.1663236172/gut-behuetet.webp",
+      "image_title": "Gut behütet: Baumkänguruweibchen Aluna trägt ihr Jungtier im Beutel."
+    },
+    {
+      "title": "Hessens Europaminister: „Revolutionsgarden in Iran auf EU-Terrorliste setzen“",
+      "teaser": "Angesichts der anhaltenden Gewalt gegen Demonstranten in Iran fordert Hessens Europaminister Manfred Pentz (CDU) die Einstufung der Revolutionsgarden als Terrororganisation durch die EU.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/iran-hessischer-minister-will-iranische-revolutionsgarden-auf-eu-terrorliste-200437597.html",
+      "image_url": "https://media0.faz.net/image/w730/3a01b489e553/w3000h1687x0y156/202601/43601.0.1661299663/solidaritaetsbekundungen-auch.webp",
+      "image_title": "Solidaritätsbekundungen auch in Deutschland: In Berlin gehen Demonstranten zur Unterstützung der landesweiten Massenproteste gegen die Regierung in Iran auf die Straße."
+    },
+    {
       "title": "Umfrage: Wie zufrieden sind Hessens Eltern mit den Kitas?",
       "teaser": "Die Kita-Landeselternvertretung in Hessen hat 20.000 Eltern gefragt, wie zufrieden sie mit der Betreuung ihrer Kinder sind. Mit der Qualität sind die meisten einverstanden, doch die Hälfte der Befragten hat einen höheren Betreuungsbedarf und Schwierigkeiten, Familie und Beruf zu vereinbaren.",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/umfrage-wie-zufrieden-sind-hessens-eltern-mit-den-kitas-200437337.html",
-      "image_url": "https://media0.faz.net/image/w1200/7ba6ba5a959d/w3000h1687x0y154/202210/43600.0.1761075600/zeit-zum-vorlesen-eltern.webp",
+      "image_url": "https://media0.faz.net/image/w730/7ba6ba5a959d/w3000h1687x0y154/202210/43600.0.1761075600/zeit-zum-vorlesen-eltern.webp",
       "image_title": "Zeit zum Vorlesen: Eltern wünschen sich bessere Bedingungen für eine individuelle Betreuung ihrer Kinder."
     },
     {
-      "title": "Nach Blackout in Berlin: Hessen wappnet sich gegen Stromausfälle und hybride Gefahren",
-      "teaser": "Hessen ist nach Ansicht von Innenminister Roman Poseck gut für Krisen gerüstet. Trotzdem bleibt die Sorge vor Stromausfällen und hybriden Bedrohungen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/wie-sich-hessen-gegen-stromausfaelle-wappnet-200436943.html",
-      "image_url": "https://media0.faz.net/image/w730/4e5393059b35/w3000h1687x0y47/202601/43601.0.1662556526/potentielles-angriffsziel.webp",
-      "image_title": "Potentielles Angriffsziel: Strommasten können von Terroristen und Saboteuren beschädigt werden."
-    },
-    {
-      "title": "Winterkabeljau: Saftige Filets aus dem Polarmeer",
-      "teaser": "Winterzeit ist Skrei-Zeit. Der Kabeljau aus dem Norden Norwegens ist wegen seines delikaten Geschmacks besonders beliebt. Und in der Küche lässt er sich mit vielen Zutaten kombinieren.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/warum-der-winterkabeljau-skrei-so-vielseitig-ist-200435369.html",
-      "image_url": "https://media0.faz.net/image/w730/95f5e87b2265/w2504h1408x836y429/202601/43601.0.1662982259/sanft-gegart-skrei-mit.webp",
-      "image_title": "Sanft gegart: Skrei mit Wildbrokkoli, Beurre blanc und Schnittlauch"
-    },
-    {
-      "title": "Mehrere Mädchen betroffen: Zwei Männer nach sexuellen Belästigungen im Freibad Gelnhausen angeklagt",
-      "teaser": "Sexuelle Belästigung und Nötigung von minderjährigen Mädchen: Die Staatsanwaltschaft hat gegen zwei Männer nach den Vorfällen im Freibad von Gelnhausen Anklage erhoben. Die Ermittlungen waren umfangreich.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/freibad-gelnhausen-zwei-maenner-nach-sexuellen-belaestigungen-angeklagt-200437910.html",
-      "image_url": "https://media0.faz.net/image/w730/c7ee107da3c3/w3000h1687x0y210/202601/43601.0.1663861317/im-freibad-gelnhausen-ist-es.webp",
-      "image_title": "Im Freibad Gelnhausen ist es im Juni zu den Belästigungen gekommen."
+      "title": "FAZ+C-Klasse als Diesel: Zu wissen, man könnte",
+      "teaser": "Stufenheck und Dieselmotor sind von gestern? Von wegen. Als Limousine passt die C-Klasse mit Selbstzünder von Mercedes-Benz ziemlich gut in unsere hektische Zeit.",
+      "url": "https://www.faz.net/aktuell/technik-motor/motor/mercedes-benz-c-klasse-als-diesel-vorfreude-macht-sich-breit-110817275.html",
+      "image_url": "https://media0.faz.net/image/w730/31708872d81d/w5425h3052x444y927/202512/43601.0.1588315190/wagen-im-dienst-c-klasse-mit.webp",
+      "image_title": "Wagen im Dienst: C-Klasse mit Dieselmotor"
     },
     {
       "title": "FAZ+Kaffeemaschine im Test: Auslaufmodell Vollautomat",
@@ -608,13 +601,6 @@
       "url": "https://www.faz.net/aktuell/technik-motor/technik/kaffeevollautomat-philips-cafe-aromis-im-test-accg-110817253.html",
       "image_url": "https://media0.faz.net/image/w730/b552a13b2552/w2258h1270x826y574/202601/22188406-6bfd-4eb5-8b7b-52e1ef15e69f/das-neue-flaggschiff-caf.webp",
       "image_title": "Das neue Flaggschiff: Café Aromis 8000 Serie"
-    },
-    {
-      "title": "FAZ+Porsche Cayenne E-Hybrid: Auf die alten Tage mächtig gut",
-      "teaser": "Der elektrische Cayenne ist im Anflug. Wir dachten uns darob, ordern wir noch mal einen E-Hybrid, der sich jedenfalls bislang oben auf der Bestsellerliste befindet.",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/so-faehrt-sich-der-neue-porsche-cayenne-e-hybrid-accg-110817276.html",
-      "image_url": "https://media0.faz.net/image/w730/fdb3f30effb7/w611h344x252y240/202601/80fc16a0-71f0-4f30-813f-c579353014b4/fuer-verbrennerfans-ist-der.webp",
-      "image_title": "Für Verbrennerfans ist der Cayenne die erste Wahl."
     },
     {
       "title": "FAZ+Neuer Genrausch: Was die Gene über Genies und Massenmörder verraten",
@@ -664,11 +650,11 @@
       "image_title": "Der Schrank ist übervoll, doch wovon soll man sich trennen?"
     },
     {
-      "title": "Knast-Urlaub in Finnland: Im Kittchen ist ein Zimmer frei",
-      "teaser": "Wie ist die Aura am Fluss? Bis zu 1320 Schwerkriminelle zugleich waren im „Graniittilinna“ im finnischen Turku inhaftiert – heute ist es das „Hotel Kakola“.",
-      "url": "https://www.faz.net/aktuell/reise/im-kittchen-ist-ein-zimmer-frei-besuch-in-turku-accg-110815472.html",
-      "image_url": "https://media0.faz.net/image/w1200/ac8b749f0e63/w3000h1688x0y156/012026/1.10815470/muss-man-sich-hinter-gittern.webp",
-      "image_title": "Muss man sich hinter Gittern weniger Gedanken um die Frisur machen? In Turku kann es der Tourist herausfinden."
+      "title": "Wellness in Irland: Heißes Glück im Algenbad",
+      "teaser": "Ein nostalgisches Erlebnis nach einem traditionellen irischen Rezept verspricht Gesundheit, Vergnügen, Entspannung – und eine zarte, geschmeidige Haut.",
+      "url": "https://www.faz.net/aktuell/reise/wellness-in-irland-nostalgisches-erlebnis-verspricht-gesundheit-und-entspannung-110818316.html",
+      "image_url": "https://media0.faz.net/image/w1200/db0088d7cc20/w5140h2891x0y268/202601/43601.0.1658285069/in-dritter-generation.webp",
+      "image_title": "In dritter Generation erfolgreich: das „Kilcullen’s Hot Seawater and Seaweed Bath“"
     },
     {
       "title": "‚Eatender‘ in Taiwan: Wie verschönert man Senioren das Leben? Mit gutem Essen!",
