@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T19:10:47",
+  "timestamp": "2026-01-14T20:10:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Razzia in Deutschland: Behörden machen Cybercrime-Hoster RedVDS dicht",
+      "url": "https://www.heise.de/news/Razzia-in-Deutschland-Behoerden-machen-Cybercrime-Hoster-RedVDS-dicht-11141431.html"
+    },
     {
       "title": "Top 10: Das beste Kurbelradio im Test – Rundfunk bei Stromausfall",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-kurbelradio-im-test-rundfunkempfang-bei-stromausfall/8pqqkq3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -66,10 +70,6 @@
       "url": "https://www.heise.de/ratgeber/Wetterfotografie-Mit-Nebel-Regen-und-Sturm-zu-starken-Bildern-11130929.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Prag will auf Elektrotaxis umstellen",
-      "url": "https://www.heise.de/news/Prag-will-auf-Elektrotaxis-umstellen-11141236.html"
     },
     {
       "title": "Elektronische PatienentenakteKrankenhäuser tauschen sich in \"Selbsthilfegruppe\" aus",
@@ -192,6 +192,12 @@
       "image_title": "Nuklearbatterie"
     },
     {
+      "title": "Razzia in Deutschland: Behörden machen Cybercrime-Hoster RedVDS dicht",
+      "teaser": "Internationalen Ermittlern und Microsoft ist ein Schlag gegen die Infrastruktur des Cybercrime-Hosters RedVDS gelungen. Die Server standen auch in Deutschland.",
+      "url": "https://www.heise.de/news/Razzia-in-Deutschland-Behoerden-machen-Cybercrime-Hoster-RedVDS-dicht-11141431.html",
+      "image_title": "Volle Severschränke in einem unzureichend beleuchteten Rechenzentrum"
+    },
+    {
       "title": "Top 10: Das beste Kurbelradio im Test – Rundfunk bei Stromausfall",
       "teaser": "Ein Kurbelradio mit Dynamo funktioniert auch bei Stromausfall. Wir zeigen die besten Notfallradios mit Powerbank, Solarpanel und Taschenlampe.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-kurbelradio-im-test-rundfunkempfang-bei-stromausfall/8pqqkq3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -229,12 +235,6 @@
       "teaser": "Die gemeinnützige Organisation dotMeow will eine eigene gTLD bei der ICANN beantragen. Zur Finanzierung hat die Stiftung eine Crowdsourcing-Kampagne gestartet.",
       "url": "https://www.heise.de/news/ICANN-Domainvergabe-Queere-Initiative-will-meow-registrieren-lassen-11141311.html",
       "image_title": "Screenshot des Bluesky-Kontos des Projekts dotMeow."
-    },
-    {
-      "title": "Gigabit-Förderung des Bundes: 1,8 Milliarden für 536 Projekte",
-      "teaser": "Digitalminister Wildberger will eine zügigere Umsetzung der Gigabit-Förderung erreichen. Nun wurden 1,8 Milliarden Euro für 536 Projekte zugesagt.",
-      "url": "https://www.heise.de/news/Gigabit-Foerderung-des-Bundes-1-8-Milliarden-fuer-536-Projekte-11141042.html",
-      "image_title": "Internetkabel werden in Straße gelegt"
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -327,6 +327,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Gigabit-Förderung des Bundes: 1,8 Milliarden für 536 Projekte",
+      "teaser": "Digitalminister Wildberger will eine zügigere Umsetzung der Gigabit-Förderung erreichen. Nun wurden 1,8 Milliarden Euro für 536 Projekte zugesagt.",
+      "url": "https://www.heise.de/news/Gigabit-Foerderung-des-Bundes-1-8-Milliarden-fuer-536-Projekte-11141042.html",
+      "image_title": "Internetkabel werden in Straße gelegt"
+    },
+    {
       "title": "Wetterfotografie: Mit Nebel, Regen und Sturm zu starken Bildern",
       "teaser": "Mit Technik und Gestaltung lässt sich jedes Wetter kreativ nutzen. Regen, Sturm und Schnee verlangen Anpassung, eröffnen aber großes fotografisches Potenzial.",
       "url": "https://www.heise.de/ratgeber/Wetterfotografie-Mit-Nebel-Regen-und-Sturm-zu-starken-Bildern-11130929.html",
@@ -397,15 +403,15 @@
       "image_title": "Pixel 10 Familie"
     },
     {
+      "title": "Proxmox als Alternative für eine flexible IT-Infrastruktur",
+      "teaser": "IT-Verantwortliche wollen ihre IT-Infrastruktur oft flexibler, performanter und kostengünstiger gestalten. In einem Webcast zeigen IT-Experten am Beispiel von Proxmox VE und Proxmox Backup Server, wie Sie Open-Source-Virtualisierung erfolgreich einsetzen und den Umstieg von VMware professionell meistern.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/proxmox-ihre-alternative-fuer-flexible-und-kostenguenstige-it-infrastrukturen-5013/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11129191.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Proxmox als Alternative für eine flexible IT-Infrastruktur",
-      "teaser": "IT-Verantwortliche wollen ihre IT-Infrastruktur oft flexibler, performanter und kostengünstiger gestalten. In einem Webcast zeigen IT-Experten am Beispiel von Proxmox VE und Proxmox Backup Server, wie Sie Open-Source-Virtualisierung erfolgreich einsetzen und den Umstieg von VMware professionell meistern.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/proxmox-ihre-alternative-fuer-flexible-und-kostenguenstige-it-infrastrukturen-5013/?source=hbsad-ersatz"
     },
     {
       "title": "US-Verteidigungsminister Hegseth will Grok in die Pentagon-Systeme einbinden",
@@ -459,12 +465,6 @@
       "teaser": "Sexualisierte KI-Bilder von Frauen und Kindern fluten das Netz. Ministerin Hubig fordert härtere Strafen, gestärkte Rechte und mehr Pflichten für Plattformen.",
       "url": "https://www.heise.de/news/Hubig-will-strengere-Regeln-gegen-KI-generierte-Sex-Bilder-11140626.html",
       "image_title": "Porträtfoto von Justizministerin Dr. Stefanie Hubig"
-    },
-    {
-      "title": "OOP Konferenz by heise: Software-Architektur im Fokus – jetzt noch anmelden",
-      "teaser": "Die OOP Konferenz bietet vom 10.-13.02. in München fundierte Weiterbildung rund um Software-Architektur – für SW-Architekten, -Entwickler und IT-Projektmanager.",
-      "url": "https://www.heise.de/news/OOP-Konferenz-by-heise-Software-Architektur-im-Fokus-jetzt-noch-anmelden-11139512.html",
-      "image_title": "OOP 2026 by heise"
     },
     {
       "title": "Seagate: 32-TByte-Festplatten für NAS und Server",
@@ -636,20 +636,20 @@
       "url": "https://www.heise.de/en/news/iOS-26-3-These-new-features-Apple-has-in-the-pipeline-11139393.html"
     },
     {
-      "title": "Die Indie-Spielehits des Jahres 2025: Innovativ, außergewöhnlich & erfolgreich",
-      "teaser": "Unerwartet erreichten 2025 viele Indie-Games die Spitze der Verkaufscharts – mit frischen Ideen, liebevoller Umsetzung und begeisterter Community.",
-      "url": "https://www.heise.de/tests/Die-Indie-Spielehits-des-Jahres-2025-Innovativ-aussergewoehnlich-erfolgreich-11077778.html"
+      "title": "Notebooks für 2026: Geräte mit neuen Prozessoren von der CES",
+      "teaser": "AMD, Intel und Qualcomm enthüllten neue Mobil-CPUs auf der CES und dort waren erste Notebooks des Jahrgangs 2026 zu sehen.",
+      "url": "https://www.heise.de/hintergrund/Notebooks-fuer-2026-Geraete-mit-neuen-Prozessoren-von-der-CES-11115378.html",
+      "image_title": "Kommende Notebooks mit Intel Core Ultra 300 „Panther Lake“ auf der CES 2026."
+    },
+    {
+      "title": "Seagate32-TByte-Festplatten für NAS und Server",
+      "teaser": "Die neuen Versionen der Reihen Exos, Ironwolf Pro und Skyhawk AI speichern wie ihre Vorgänger im CMR-Format.",
+      "url": "https://www.heise.de/news/Seagate-32-TByte-Festplatten-fuer-NAS-und-Server-11138971.html"
     },
     {
       "title": "Windows 11: Desktop und Explorer anpassen",
       "teaser": "Es gibt jede Menge Tipps und Tricks, die auf dem Desktop und im Explorer von Windows 11 schneller ans Ziel führen. Hier finden Sie unsere Favoriten.",
       "url": "https://www.heise.de/ratgeber/Windows-11-Desktop-und-Explorer-anpassen-11084680.html"
-    },
-    {
-      "title": "Notebooks für 2026: Geräte mit neuen Prozessoren von der CES",
-      "teaser": "AMD, Intel und Qualcomm enthüllten neue Mobil-CPUs auf der CES und dort waren erste Notebooks des Jahrgangs 2026 zu sehen.",
-      "url": "https://www.heise.de/hintergrund/Notebooks-fuer-2026-Geraete-mit-neuen-Prozessoren-von-der-CES-11115378.html",
-      "image_title": "Kommende Notebooks mit Intel Core Ultra 300 „Panther Lake“ auf der CES 2026."
     },
     {
       "title": "UpdateBequemer heizen9 smarte Heizkörperthermostate im Test",
@@ -699,15 +699,15 @@
       "url": "https://www.heise.de/hintergrund/Streetfotografie-und-Recht-Was-Fotografen-wirklich-duerfen-11131464.html"
     },
     {
-      "title": "Streetfotografie in Schwarz‑Weiß: Technik und Bildsprache",
-      "teaser": "Wir erklären praxisnah, welche Ausrüstung sich bewährt, welche Kameraeinstellungen helfen und welche kreativen Techniken zu ausdrucksstarken Streetfotos führen.",
-      "url": "https://www.heise.de/ratgeber/Streetfotografie-in-Schwarz-Weiss-Technik-und-Bildsprache-11131456.html",
-      "image_title": ", Alle Bilder: Tilo Gockel"
-    },
-    {
       "title": "01/2026Fotonews der Woche: Leicas neuer Sensor und Pentax' Kampf ums Überleben",
       "teaser": "Während Leica an eigenen Sensoren arbeitet, ringt Ricoh um die Zukunft der Marke Pentax. Calumet kämpft mit Datenschutzproblemen.",
       "url": "https://www.heise.de/news/Leicas-neuer-Sensor-und-Pentax-Kampf-ums-Ueberleben-Fotonews-der-Woche-01-2026-11136411.html"
+    },
+    {
+      "title": "Mystischer Jahresanfang: Die Bilder der Woche 2",
+      "teaser": "Nebel, Linien und stille Momente ziehen sich durch die Bildauswahl der zweiten Jahreswoche.",
+      "url": "https://www.heise.de/news/Mystischer-Jahresanfang-Die-Bilder-der-Woche-2-11135895.html",
+      "image_title": "Winterbild"
     },
     {
       "title": "Proxmox mit Ansible automatisieren",
@@ -752,16 +752,15 @@
       "image_title": "Xiaomi SU7"
     },
     {
-      "title": "Erbschaftssteuer: SPD-Pläne sorgen für Streit um Familienunternehmen",
-      "teaser": "Die SPD will die Erbschaftssteuer reformieren. Wirtschaftsverbände warnen vor Folgen für Arbeitsplätze in Familienbetrieben.",
-      "url": "https://www.heise.de/-11139886",
-      "image_title": "Steuerformular für die Erbschaftssteuer"
+      "title": "Elon Musk entdeckt den Kommunismus – und macht ihn kapitalistisch",
+      "teaser": "Der reichste Mann der Welt verspricht allen ein gutes Leben. Dumm nur: Er behält die Produktionsmittel. Ein Kommentar.",
+      "url": "https://www.heise.de/-11137471"
     },
     {
-      "title": "Opium-Mangel: Wie die Taliban den Drogenmarkt in Europa verändern",
-      "teaser": "Die Taliban brachten Afghanistans Opiumproduktion zum Erliegen. Jetzt verändert sich Europas Drogenmarkt – mit fatalen Folgen.",
-      "url": "https://www.heise.de/-11137619",
-      "image_title": "Stoppschild in Afghanistan-Farben und Spritze"
+      "title": "Harte Chefs treiben Mitarbeiter in die Flucht",
+      "teaser": "In Krisenzeiten setzen viele Firmen auf harte Führung – doch eine neue Studie zeigt: Das könnte nach hinten losgehen.",
+      "url": "https://www.heise.de/-11138014",
+      "image_title": "Daumen drückt auf Angestellten"
     },
     {
       "title": "Rückkehr der Machtfrage: Deutschlands Aufrüstung weckt alte Ängste in Paris",
