@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T14:15:16",
+  "timestamp": "2026-01-14T15:15:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Malware-Masche: Jobangebote jubeln Entwicklern bösartige Repositories unter",
+      "title": "iPhone nur auf dem Papier offen: Erster App-Marktplatz in EU schließt",
+      "teaser": "Statt mehr werden es weniger: Mit Setapp Mobile schließt ein erster alternativer App-Marktplatz seine Pforten. Für Nutzer ist das unbequem.",
+      "url": "https://www.heise.de/news/iPhone-nur-auf-dem-Papier-offen-Erster-App-Marktplatz-in-EU-schliesst-11141103.html",
+      "image_title": "Setapp Mobile auf dem iPhone"
+    },
+    {
+      "title": "OpenProject 17 ist da: Freie Jira-Alternative bringt Kollaboration in Dokumenten",
+      "teaser": "In OpenProject 17 können Nutzer jetzt gemeinsam an Dokumenten arbeiten – allerdings mit Einschränkungen. Meetings und Projekte lassen sich nun leichter anlegen.",
+      "url": "https://www.heise.de/news/OpenProject-17-Projektmanagement-Tool-ermoeglicht-Kollaboration-in-Dokumenten-11140672.html",
+      "image_title": "Dokumenteneditor in OpenProject 17 mit farbigen Cursorn verschiedener Nutzer"
+    },
+    {
+      "title": "Malware-MascheJobangebote jubeln Entwicklern bösartige Repositories unter",
       "teaser": "Entwickler müssen bei Jobangeboten inzwischen aufpassen. Kriminelle versuchen, Infostealer darüber zu verteilen.",
       "url": "https://www.heise.de/news/Malware-Masche-Jobangebote-jubeln-Entwicklern-boesartige-Repositories-unter-11140776.html",
       "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
@@ -36,18 +48,6 @@
       "teaser": "Google macht Vietnam zu einem wichtigen Glied in der Smartphone-Lieferkette. Pixel-Smartphones sollen bald nicht mehr in China entwickelt und gefertigt werden.",
       "url": "https://www.heise.de/news/Google-verlagert-Smartphone-Entwicklung-von-China-nach-Vietnam-11140854.html",
       "image_title": "Pixel 10 Familie"
-    },
-    {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11129191.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "US-Verteidigungsminister Hegseth will Grok in die Pentagon-Systeme einbinden",
-      "teaser": "Der KI-Chatbot Grok soll künftig in den Systemen des US-Verteidigungsministeriums eingesetzt werden. Das kündigte Pete Hegseth am Montag bei SpaceX an.",
-      "url": "https://www.heise.de/news/Grok-soll-in-KI-Plattform-des-US-Verteidigungsministeriums-integriert-werden-11140701.html",
-      "image_title": "Pete Hegseth im US-Kongress"
     },
     {
       "title": "HintergrundWie Sie den Empfang von Paketen optimal steuern",
@@ -62,6 +62,24 @@
       "title": "RatgeberProzessautomatisierung mit n8n am Beispiel erklärt",
       "url": "https://www.heise.de/ratgeber/Prozessautomatisierung-mit-n8n-am-Beispiel-erklaert-11134008.html",
       "image_title": ","
+    },
+    {
+      "title": "England: Auschluss von Fußballfans nach Risikoanalyse mit KI-Halluzination",
+      "teaser": "Der Ausschluss israelischer Fans von einem Fußballspiel in England hat sich zu einem Skandal ausgeweitet: Die Risikoanalyse enthielt eine KI-Halluzination.",
+      "url": "https://www.heise.de/news/England-Auschluss-von-Fussballfans-nach-Risikoanalyse-mit-KI-Halluzination-11140707.html",
+      "image_title": "Ein Fußball in einem Tornetz"
+    },
+    {
+      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11129191.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "US-Verteidigungsminister Hegseth will Grok in die Pentagon-Systeme einbinden",
+      "teaser": "Der KI-Chatbot Grok soll künftig in den Systemen des US-Verteidigungsministeriums eingesetzt werden. Das kündigte Pete Hegseth am Montag bei SpaceX an.",
+      "url": "https://www.heise.de/news/Grok-soll-in-KI-Plattform-des-US-Verteidigungsministeriums-integriert-werden-11140701.html",
+      "image_title": "Pete Hegseth im US-Kongress"
     },
     {
       "title": "Schaltkreise als Nachschlagewerk",
@@ -133,23 +151,6 @@
       "teaser": "Wichtige Sicherheitsupdates reparieren unter anderem Adobe ColdFusion und InDesign.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-bedrohen-Dreamweaver-Co-11140224.html",
       "image_title": "Eine Frau drück einen symolischen Updateknopf."
-    },
-    {
-      "title": "OpenAI vor dem Börsengang: Der teuerste Traum der Tech-Geschichte?",
-      "teaser": "Das vielleicht größte IPO der Tech-Historie wirft seine Schatten voraus, wie ein Aktienpool von OpenAI zeigt. Doch das dürfte kein Spaziergang werden.",
-      "url": "https://www.heise.de/news/OpenAI-vor-dem-Boersengang-Der-teuerste-Traum-der-Tech-Geschichte-11140164.html",
-      "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
-    },
-    {
-      "title": "Interrail meldet Datenleck: Auch Ausweisdaten betroffen",
-      "teaser": "Bei Eurail flossen mutmaßlich Daten ab. Der Anbieter stellt Interrail-Pässe auch im Auftrag der deutschen, österreichischen und Schweizer Bahn aus.",
-      "url": "https://www.heise.de/news/Interrail-meldet-Datenleck-Auch-Ausweisdaten-betroffen-11140218.html",
-      "image_title": "Gleise im Grünen"
-    },
-    {
-      "title": "Tipp: FLAC-Dateien in Logic Pro nutzen",
-      "teaser": "Logic Pro kann FLAC-Dateien zwar intern abspielen, oft empfiehlt sich aber eine Konvertierung vor dem Import in Apples Audioproduktions-Tool.",
-      "url": "https://www.heise.de/ratgeber/Tipp-FLAC-Dateien-in-Logic-Pro-nutzen-6293558.html"
     },
     {
       "title": "UpdateNewsDatenpanne bei der Datev: Wenn die Lohnabrechnung beim Falschen landet",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T14:15:20",
+  "timestamp": "2026-01-14T15:15:10",
   "url": "https://www.faz.net/aktuell/feuilleton/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Franz Herre gestorben: So schnell schreiben die Professoren nicht",
+      "teaser": "Der Biograph, der in die Breschen sprang: Im Gründungsjahr der Bundesrepublik wurde Franz Herre von Franz Schnabel promoviert. Jetzt ist er mit fast 100 Jahren gestorben.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/biograph-franz-herre-gestorben-110818959.html"
+    },
+    {
       "title": "Lage der Hauptstadt: Mit der Bequemlichkeit wächst der Berliner Müllberg",
       "teaser": "Berlin hat ein Abfallentsorgungsproblem. Die einen dramatisieren es, die anderen reden es klein. Von Umwelterziehung jedenfalls keine Spur. Dabei steht der Müll längst für mehr als übervolle Tonnen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/warum-in-berlin-der-muellberg-waechst-110815415.html"
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/warum-in-berlin-der-muellberg-waechst-110815415.html",
+      "image_url": "https://media0.faz.net/image/w730/e0634a18806f/w3000h1687x0y313/202503/43601.0.895759635/in-sichtweite-des-berliner.webp",
+      "image_title": "In Sichtweite des Berliner Doms stapelt sich der Müll. Das Bild entstand während des Streiks der Berliner Stadtreinigung im März 2025"
     },
     {
       "title": "Lachenmanns Streichquartette: Bitte nicht am Regler drehen!",
@@ -63,7 +70,7 @@
     },
     {
       "title": "Abgang bei der ARD: Helge Fuhst wird Super-Chefredakteur bei Springer",
-      "teaser": "Dass Helge Fuhst die ARD verlässt, war seit ein paar Tagen klar. Nun wissen wir, wohin er geht: Er wird Vorsitzender der Chefredaktionen von „Welt“, „Politico“ und „Business Insider“ bei Springer. Das ist ein journalistischer Topjob im Konzern.",
+      "teaser": "Helge Fuhst verlässt die ARD und wird Vorsitzender der Chefredaktionen von „Welt“, „Politico“ und „Business Insider“ bei Springer. Das ist ein journalistischer Topjob im Konzern.",
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/helge-fuhst-wird-super-chefredakteur-bei-springer-110818847.html",
       "image_url": "https://media0.faz.net/image/w730/8cd00dbcca88/w3000h1688x0y53/012026/1.10818846/wechselt-von-der-ard-zu.webp",
       "image_title": "Wechselt von der ARD zu Springer: Helge Fuhst"
@@ -88,13 +95,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/historikerin-birgit-aschmann-ueber-rheinbegradigung-und-deutsche-naturliebe-accg-110818307.html",
       "image_url": "https://media0.faz.net/image/w730/087854dd0b77/w3364h1892x0y59/202601/f2864c58-d8a3-43ea-9396-29a99859a4b1/lebensreform-und-voelkische.webp",
       "image_title": "Lebensreform und völkische Bewegung: Ludwig Fahrenkrog: „Die heilige Stunde“, 1918."
-    },
-    {
-      "title": "Ben Heppner 70: Er ist ein Glühender",
-      "teaser": "Die Welt sieht ihn als Heldentenor. Dabei hat Ben Heppner ganz andere Qualitäten. Heute wird er siebzig Jahre alt.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/dem-tenor-ben-heppner-zum-70-geburtstag-accg-110818323.html",
-      "image_url": "https://media0.faz.net/image/w730/1f7934ee596b/w2000h1125x0y746/012026/1.10818465/ben-heppner-in-der-oper-moby.webp",
-      "image_title": "Ben Heppner in der Oper „Moby Dick“"
     },
     {
       "title": "Springer und Nius gehen steil: Ist Daniel Günther ein Zensor?",
@@ -198,17 +198,18 @@
       "url": "https://www.faz.net/podcasts/f-a-z-buecher-podcast/buecher-podcast-die-hosts-ueber-ihre-lieblingsbuecher-2025-200387570.html"
     },
     {
+      "title": "Ben Heppner 70: Er ist ein Glühender",
+      "teaser": "Die Welt sieht ihn als Heldentenor. Dabei hat Ben Heppner ganz andere Qualitäten. Heute wird er siebzig Jahre alt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/dem-tenor-ben-heppner-zum-70-geburtstag-accg-110818323.html",
+      "image_url": "https://media0.faz.net/image/w920/1f7934ee596b/w2000h1125x0y746/012026/1.10818465/ben-heppner-in-der-oper-moby.webp",
+      "image_title": "Ben Heppner in der Oper „Moby Dick“"
+    },
+    {
       "title": "FAZ+Aiki Mira Und unsere Zukunft: „Ich weiß nur, wir werden andere sein“",
       "teaser": "Was kommt da auf uns zu? Aiki Mira, eine der interessantesten Stimmen heutiger Science-Fiction in deutscher Sprache, spielt mit ernsten Antworten auf diese existenzielle Frage.",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/science-fiction-wie-aiki-mira-unsere-zukunft-sieht-accg-110818373.html",
       "image_url": "https://media0.faz.net/image/w920/6233da29de10/w1920h1080x0y303/202601/2f647ddd-8520-44a7-b02d-386203c6289d/noch-bevor-menschen-auf-die.webp",
       "image_title": "„Noch bevor Menschen auf die Welt kommen, sind sie aufeinander angewiesen“: Aiki Mira im Stadtlicht."
-    },
-    {
-      "title": "Tanztheater: „Pina Bausch hat ein künstlerisches Weltreich errichtet\"",
-      "teaser": "Das Tanztheater von Pina Bausch, die 2009 verstarb, schrumpft in Wuppertal, statt weltweit Ausstrahlung zu entfalten: Ein Gespräch mit ihrem Verleger Rudolf Rach.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/tanz/rudolf-rach-ueber-die-zukunft-des-tanztheaters-von-pina-bausch-110817535.html",
-      "image_url": "https://media0.faz.net/image/w920/3b42cd9dbd5a/w1972h1109x0y276/011995/1.10817532/pp-1-10817532.webp"
     },
     {
       "title": "FAZ+Kolumne „Richtig essen“: Warum verdient Cholesterin eine so große Aufmerksamkeit?",
@@ -300,10 +301,16 @@
       "image_title": "Lebensretter: Dr. Robby (Noah Wyle, 3. v.l.)"
     },
     {
+      "title": "Tanztheater: „Pina Bausch hat ein künstlerisches Weltreich errichtet\"",
+      "teaser": "Das Tanztheater von Pina Bausch, die 2009 verstarb, schrumpft in Wuppertal, statt weltweit Ausstrahlung zu entfalten: Ein Gespräch mit ihrem Verleger Rudolf Rach.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/tanz/rudolf-rach-ueber-die-zukunft-des-tanztheaters-von-pina-bausch-110817535.html",
+      "image_url": "https://media0.faz.net/image/w920/f43f6d67a479/w1972h845x0y319/011995/1.10817532/pp-1-10817532.webp"
+    },
+    {
       "title": "Theater in Warschau: In den Gärten unserer Wunden",
       "teaser": "Krzysztof Warlikowski inszeniert Wajdi Mouawads Stück „Europa“. Gewalt und Schuld durchziehen die fesselnde Skandalgeschichte unseres Kontinents. Im Warschau Nowy Teatr ist jetzt eine bedrückende Inszenierung zu sehen.",
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/europas-tragoedie-in-daemonischer-intensitaet-110817885.html",
-      "image_url": "https://media0.faz.net/image/w920/379f126b39e7/w3000h1285x0y106/032024/1.10817882/apokalyptische-aporien.webp",
+      "image_url": "https://media0.faz.net/image/w730/6dd10917d27a/w3000h1688x0y130/032024/1.10817882/apokalyptische-aporien.webp",
       "image_title": "Apokalyptische Aporien: Magdalena Cielika und Claude Bardouil in dem „Europa“-Stück von Wajdi Mouawad"
     },
     {
@@ -314,17 +321,16 @@
       "image_title": "Peters Mutter (Katarina Bradić, links) ist entsetzt: Azaël (Sunnyi Melles) hält das Herz ihres Sohnes in der Hand."
     },
     {
-      "title": "Berliner Jury-Urteil: Trauriges Theatertreffen",
-      "teaser": "Die Jury des Theatertreffens sorgt für Diskussionen. Trotz eines reichen Bühnenjahres wirkt die Auswahl überraschend dürftig. Wie konnte es dazu kommen – und wird es im nächsten Jahr besser?",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/theatertreffen-kritik-an-duerftiger-auswahl-trotz-top-jahr-accg-110818337.html",
-      "image_url": "https://media0.faz.net/image/w730/ce855f918899/w3000h1688x0y156/012026/1.10818336/ohne-wagemut-die-diesjaehrige.webp",
-      "image_title": "Ohne Wagemut: Die diesjährige Jury des Theatertreffens, das vom 1. bis 17. Mai in Berlin stattfindet"
+      "title": "FAZ+Bremen zeigt anderen Giacometti: Bronzestrichmännchen aus dem Bergell",
+      "teaser": "Geißenpeter-Existenzialismus: Bremens Kunsthalle schreibt mit der Ausstellung „Alberto Giacometti – Das Maß der Welt“ Kunstgeschichte um.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/bremens-kunsthalle-zeigt-unbekannte-seiten-alberto-giacomettis-110818960.html",
+      "image_url": "https://media0.faz.net/image/w920/7bceb1bd05cc/w1976h846x0y322/102010/1.10818957/pp-1-10818957.webp"
     },
     {
       "title": "Kleist und die Musik: Zum Gekrächz wird der Wohlklang",
       "teaser": "Zwischen Rührung und Gewalt: Das Kleist-Museum in Frankfurt an der Oder stellt die beiden Seiten der Musikfaszination seines Namensgebers vor.",
       "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/ausstellung-in-frankfurt-oder-ueber-kleist-und-die-musik-110817812.html",
-      "image_url": "https://media0.faz.net/image/w920/7b22c7a2e648/w3000h1285x0y357/012026/1.10817811/museumsbesucher-vor-einer.webp",
+      "image_url": "https://media0.faz.net/image/w730/2a7d838d2c48/w3000h1688x0y156/012026/1.10817811/museumsbesucher-vor-einer.webp",
       "image_title": "Museumsbesucher vor einer Flöte aus Kleists Zeiten Kleist-Museum"
     },
     {
@@ -333,12 +339,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/architektur/rhijnhaven-rotterdam-wie-stadtentwicklung-gelingen-kann-110816995.html",
       "image_url": "https://media0.faz.net/image/w730/d7a9825fc6dc/w6000h3375x0y390/202601/2eb3c021-7295-443c-81ec-4ab41fb0ee9f/zukunftsvision-so-soll-das.webp",
       "image_title": "Zukunftsvision: So soll das historische Codrico Terrain nach dem Umbau aussehen."
-    },
-    {
-      "title": "Miró-Ausstellung in Barcelona: Jenseits des Ozeans war Platz für das Monumentale",
-      "teaser": "Nicht nur Louise Bourgeois, Lee Krasner, Jackson Pollock und Mark Rothko verehrten ihn: Die Bande zwischen Miró und Amerika waren einmal eng, wie seine katalanische Fundació in einer fesselnden Ausstellung zeigt.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/barcelonas-fundacio-miro-ueber-den-kuenstler-in-den-usa-110817507.html",
-      "image_url": "https://media0.faz.net/image/w730/4b1846732b8e/w2405h1352x0y0/072012/1.10817505/pp-1-10817505.webp"
     },
     {
       "title": "Glaskunst-Ausstellung: Vorsicht, zerbrechlich!",
