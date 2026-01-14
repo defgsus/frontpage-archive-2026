@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-14T09:18:36",
+  "timestamp": "2026-01-14T10:13:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Neuer Höchststand: Deutschlands Berufstätige bekommen pro Tag über 50 E-Mails",
+      "teaser": "Die Mailflut in den beruflichen Postfächern wächst, allein seit 2021 hat sich die Zahl der täglichen Mails verdoppelt. Wie wichtig die alle sind, ist unklar.",
+      "url": "https://www.heise.de/news/Neuer-Hoechststand-Deutschlands-Berufstaetige-bekommen-pro-Tag-ueber-50-E-Mails-11140332.html",
+      "image_title": "Kleine Bausteine mit dem E-Mail-Symbol"
+    },
+    {
+      "title": "Windows 11: Desktop und Explorer anpassen",
+      "teaser": "Es gibt jede Menge Tipps und Tricks, die auf dem Desktop und im Explorer von Windows 11 schneller ans Ziel führen. Hier finden Sie unsere Favoriten.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Desktop-und-Explorer-anpassen-11084680.html"
+    },
+    {
       "title": "Last Call: Neue NIS-2-Pflichten – Was IT-Verantwortliche jetzt wissen müssen",
       "teaser": "NIS-2 ist auf europäischer Ebene längst in Kraft und wird nun in Deutschland umgesetzt. Lernen Sie, was Sie beachten müssen, um die Anforderungen zu erfüllen.",
       "url": "https://www.heise.de/news/Last-Call-Neue-NIS-2-Pflichten-Was-IT-Verantwortliche-jetzt-wissen-muessen-11130599.html"
     },
     {
-      "title": "AlertPatchday Adobe: Schadcode-Lücken bedrohen Dreamweaver & Co.",
+      "title": "AlertPatchday: Kritische Schwachstellen in Adobe-Anwendungen geschlossen",
       "teaser": "Wichtige Sicherheitsupdates reparieren unter anderem Adobe ColdFusion und InDesign.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-bedrohen-Dreamweaver-Co-11140224.html",
       "image_title": "Eine Frau drück einen symolischen Updateknopf."
-    },
-    {
-      "title": "OpenAI vor dem Börsengang: Der teuerste Traum der Tech-Geschichte?",
-      "teaser": "Das vielleicht größte IPO der Tech-Historie wirft seine Schatten voraus, wie ein Aktienpool von OpenAI zeigt. Doch das dürfte kein Spaziergang werden.",
-      "url": "https://www.heise.de/news/OpenAI-vor-dem-Boersengang-Der-teuerste-Traum-der-Tech-Geschichte-11140164.html",
-      "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
-    },
-    {
-      "title": "Interrail meldet Datenleck: Auch Ausweisdaten betroffen",
-      "teaser": "Bei Eurail flossen mutmaßlich Daten ab. Der Anbieter stellt Interrail-Pässe auch im Auftrag der deutschen, österreichischen und Schweizer Bahn aus.",
-      "url": "https://www.heise.de/news/Interrail-meldet-Datenleck-Auch-Ausweisdaten-betroffen-11140218.html",
-      "image_title": "Gleise im Grünen"
     },
     {
       "title": "RatgeberQuick Look ausreizen: So nutzen Sie Apples Finder-Übersicht optimal",
@@ -63,6 +62,24 @@
       "url": "https://www.heise.de/hintergrund/Network-Execution-Tool-NetExec-Schweizer-Messer-fuer-Sicherheitstests-11081785.html"
     },
     {
+      "title": "AlertNode.js: Aktualisierte Versionen stopfen hochriskante Sicherheitslücken",
+      "teaser": "Neue Versionen von Node.js korrigieren teils hochriskante Sicherheitslücken in der JavaScript-Laufzeitumgebung.",
+      "url": "https://www.heise.de/news/Node-js-Aktualisierte-Versionen-stopfen-hochriskante-Sicherheitsluecken-11140290.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+    },
+    {
+      "title": "OpenAI vor dem Börsengang: Der teuerste Traum der Tech-Geschichte?",
+      "teaser": "Das vielleicht größte IPO der Tech-Historie wirft seine Schatten voraus, wie ein Aktienpool von OpenAI zeigt. Doch das dürfte kein Spaziergang werden.",
+      "url": "https://www.heise.de/news/OpenAI-vor-dem-Boersengang-Der-teuerste-Traum-der-Tech-Geschichte-11140164.html",
+      "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
+    },
+    {
+      "title": "Interrail meldet Datenleck: Auch Ausweisdaten betroffen",
+      "teaser": "Bei Eurail flossen mutmaßlich Daten ab. Der Anbieter stellt Interrail-Pässe auch im Auftrag der deutschen, österreichischen und Schweizer Bahn aus.",
+      "url": "https://www.heise.de/news/Interrail-meldet-Datenleck-Auch-Ausweisdaten-betroffen-11140218.html",
+      "image_title": "Gleise im Grünen"
+    },
+    {
       "title": "Tipp: FLAC-Dateien in Logic Pro nutzen",
       "teaser": "Logic Pro kann FLAC-Dateien zwar intern abspielen, oft empfiehlt sich aber eine Konvertierung vor dem Import in Apples Audioproduktions-Tool.",
       "url": "https://www.heise.de/ratgeber/Tipp-FLAC-Dateien-in-Logic-Pro-nutzen-6293558.html"
@@ -74,7 +91,7 @@
       "image_title": "VLC-Logo vor blauem Hintergrund"
     },
     {
-      "title": "AlertPatchday Microsoft: Attacken auf Windows und Windows Server beobachtet",
+      "title": "AlertUpdatePatchday Microsoft: Attacken auf Windows und Windows Server beobachtet",
       "teaser": "Es sind wichtige Sicherheitsupdates für Office, Windows & Co. erschienen. Angreifer nutzen bereits eine Lücke aus. Weitere Attacken können bevorstehen.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-spionieren-Speicherbereiche-in-Windows-aus-11140152.html",
       "image_title": "Ein symbolishcer Updatebalken füllt sich."
@@ -131,24 +148,6 @@
       "teaser": "Seit über einem Jahrzehnt plant das Kanzleramt eigene Spähaugen im All. Doch das Prestigeprojekt verzögert sich erneut. Liegt es an Pannen bei der Bundeswehr?",
       "url": "https://www.heise.de/news/Geduldsprobe-im-Orbit-Warum-der-BND-Spaehsatellit-Georg-weiter-am-Boden-bleibt-11139868.html",
       "image_title": "Der Aufklärungssatellit SAR-Lupe von OHB"
-    },
-    {
-      "title": "Speicherkrise: Framework erhöht Preise für Notebooks und Desktops",
-      "teaser": "Der US-Computerhersteller Framework kündigt Preiserhöhungen an und begründet diese mit der Speicherkrise. Auch der Desktop-Rechner wird teurer.",
-      "url": "https://www.heise.de/news/Speicherkrise-Framework-erhoeht-Preise-fuer-Notebooks-und-Desktops-11139722.html",
-      "image_title": "Framework Desktop neben Banane"
-    },
-    {
-      "title": "Apple Creator Studio: Abo-Paket für Kreativ-Software",
-      "teaser": "Apple schnürt ein neues Abo-Paket für Final Cut Pro, Logic Pro, Pixelmator Pro und weitere Tools. Programme können monatlich oder jährlich abonniert werden.",
-      "url": "https://www.heise.de/news/Apple-Creator-Studio-Neues-Abo-fuer-Final-Cut-Pro-Logic-Pro-und-mehr-11139794.html",
-      "image_title": "Apple Creator Studio"
-    },
-    {
-      "title": "Anthropic Cowork: Claude räumt Desktop auf – Research Preview gestartet",
-      "teaser": "Anthropic hat ein neues Software-Tool namens Cowork vorgestellt. Es ist Claude Code ähnlich, soll aber deutlich leichter verwendbar sein.",
-      "url": "https://www.heise.de/news/Anthropic-Cowork-Claude-raeumt-Desktop-auf-Research-Preview-gestartet-11139696.html",
-      "image_title": "Claude Cowork"
     },
     {
       "title": "UpdateNewsDatenpanne bei der Datev: Wenn die Lohnabrechnung beim Falschen landet",
