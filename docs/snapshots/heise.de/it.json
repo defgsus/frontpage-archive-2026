@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T15:14:00",
+  "timestamp": "2026-01-15T16:20:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,17 @@
   ],
   "articles": [
     {
+      "title": "Zweckbezogene Auslöser in Home Assistant: Einfach komplexe Automationen bauen",
+      "teaser": "Die zweckbezogenen Auslöser und Bedingungen sollen Automationen für Einsteiger verständlicher machen. Wir zeigen, wie das geht.",
+      "url": "https://www.heise.de/ratgeber/Home-Assistant-Zweckbezogene-Ausloeser-richtig-einsetzen-11137651.html"
+    },
+    {
+      "title": "Australien: 4,7 Millionen Social-Media-Konten von Unter-16-Jährigen gesperrt",
+      "teaser": "Seit einem Monat gilt in Australien ein Social-Media-Verbot für Kinder und Jugendliche unter 16 Jahren. Jetzt wurde bekannt, wie viele Accounts gesperrt wurden.",
+      "url": "https://www.heise.de/news/Australien-4-7-Millionen-Social-Media-Konten-von-Unter-16-Jaehrigen-gesperrt-11142562.html",
+      "image_title": "Gelangweiltes Kind mit einem Smartphone in der Hand, das auf einem Sofa sitzt"
+    },
+    {
       "title": "Apple Creator Studio: Abo-Modell für Kreativsoftware wirft Fragen auf",
       "teaser": "Nach der Vorstellung des Kreativsoftware-Abo-Pakets Apple Creator Studio gibt es weiterhin offene Fragen. Werden Abonnenten künftig gegenüber Käufern bevorzugt?",
       "url": "https://www.heise.de/news/Apple-Creator-Studio-Bekommen-kuenftig-nur-Abonnenten-alle-neuen-Features-11142720.html",
@@ -38,16 +49,8 @@
       "image_title": "Nahaufnahme eines Wafers mit belichteten Chips"
     },
     {
-      "title": "Adobe Experience Manager: Agenten für Code und Content",
-      "teaser": "Adobe erweitert den Experience Manager um KI-Agenten, die selbstständig Code sowie Inhalte generieren und Regeln wie Marken- oder Nutzungsrechte prüfen.",
-      "url": "https://www.heise.de/news/Adobe-Experience-Manager-Agenten-fuer-Code-und-Content-11142556.html",
-      "image_title": "Adobe-Logo an Gebäude"
-    },
-    {
-      "title": "30 Jahre USB 1.0Der Anschluss für (fast) alles",
-      "teaser": "Der Erfolg des Universal Serial Bus wuchs aus bescheidenen Anfängen: Am 15. Januar 1996 erschien die erste finale Spezifikation.",
-      "url": "https://www.heise.de/hintergrund/30-Jahre-USB-1-0-Der-Anschluss-fuer-fast-alles-11142516.html",
-      "image_title": "USB-A-Buchsen an einem Desktop-PC."
+      "title": "RatgeberZweckbezogene Auslöser in Home Assistant: Einfach komplexe Automationen bauen",
+      "url": "https://www.heise.de/ratgeber/Home-Assistant-Zweckbezogene-Ausloeser-richtig-einsetzen-11137651.html"
     },
     {
       "title": "RatgeberAusprobiert: OCI-Images in Proxmox Virtual Environment",
@@ -58,14 +61,27 @@
       "url": "https://www.heise.de/tests/Homey-Pro-Mini-im-Test-Lokale-Steuerzentrale-als-Home-Assistant-Alternative-11075572.html"
     },
     {
-      "title": "TestsMehr Ports für den Mac mini M4: Acht Hubs im Test, die genau passen",
-      "url": "https://www.heise.de/tests/Mehr-Ports-fuer-den-Mac-mini-M4-Acht-Hubs-im-Test-die-genau-passen-11141463.html",
-      "image_title": "Mac mini mit Hub"
+      "title": "Minneapolis: ICE-Beamte tragen GoPros und Smart Glasses von Meta",
+      "teaser": "Im Zuge ihrer massiven Einsätze in Minneapolis sollen Beamte der US-Einwanderungsbehörde ICE GoPro-Kameras und smarte Brillen von Meta getragen haben.",
+      "url": "https://www.heise.de/news/Minneapolis-ICE-Beamte-tragen-GoPros-und-Smart-Glasses-von-Meta-11142832.html",
+      "image_title": "Screenshot eines Beitrags auf Bluesky, der einen ICE-Beamten mit Smart Glasses zeigt."
     },
     {
       "title": "Notlicht, Stromspeicher, Stromerzeuger & Co.",
       "teaser": "Heizen, kochen, Strom erzeugen und Fische im Aquarium am Leben halten – wer sich richtig vorbereitet, muss einen Stromausfall nicht fürchten.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/sicher-durch-den-stromausfall-notlicht-stromspeicher-stromerzeuger-und-co/b3e41bv?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Adobe Experience Manager: Agenten für Code und Content",
+      "teaser": "Adobe erweitert den Experience Manager um KI-Agenten, die selbstständig Code sowie Inhalte generieren und Regeln wie Marken- oder Nutzungsrechte prüfen.",
+      "url": "https://www.heise.de/news/Adobe-Experience-Manager-Agenten-fuer-Code-und-Content-11142556.html",
+      "image_title": "Adobe-Logo an Gebäude"
+    },
+    {
+      "title": "30 Jahre USB 1.0: Der Anschluss für (fast) alles",
+      "teaser": "Der Erfolg des Universal Serial Bus wuchs aus bescheidenen Anfängen: Am 15. Januar 1996 erschien die erste finale Spezifikation.",
+      "url": "https://www.heise.de/hintergrund/30-Jahre-USB-1-0-Der-Anschluss-fuer-fast-alles-11142516.html",
+      "image_title": "USB-A-Buchsen an einem Desktop-PC."
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -130,24 +146,6 @@
       "title": "software-architektur.tv: Spec-Driven Development mit Simon Martinelli",
       "teaser": "Code-First war gestern – Requirements-Driven die Zukunft! Bedeutet das, dass wir zu detaillierten Wasserfall-Spezifikationen zurückkehren müssen? Mitnichten!",
       "url": "https://www.heise.de/news/software-architektur-tv-Spec-Driven-Development-mit-Simon-Martinelli-11138731.html"
-    },
-    {
-      "title": "Mehr Zugriff, mehr Kontext: Gemini bekommt Personal Intelligence",
-      "teaser": "Gemini wird ein KI-Assistent, der Kontext versteht – basierend auf Gmail, Fotos, Such-Historie und YouTube-Verlauf. Zunächst als Beta-Version.",
-      "url": "https://www.heise.de/news/Personal-Intelligence-Googles-Gemini-wird-noch-persoenlicher-11141728.html",
-      "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
-    },
-    {
-      "title": "Siri mit Googles Gemini: Diese Features sind geplant",
-      "teaser": "Apple hat sich entschieden: Der Konzern holt sich für Siri Technik von außen. Einem Bericht zufolge gibt es erste Infos, was mit Google-Hilfe kommt.",
-      "url": "https://www.heise.de/news/Siri-mit-Googles-Gemini-Diese-Features-sind-geplant-11141543.html",
-      "image_title": "Apples Siri"
-    },
-    {
-      "title": "AlertSicherheitsupdates: HPE-Aruba-Produkte über mehrere Lücken attackierbar",
-      "teaser": "Angreifer können an verschiedenen Schwachstellen in EdgeConnect SD-WAN Orchestrator und AOS-8/AOS-10 ansetzen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-HPE-Aruba-Produkte-ueber-mehrere-Luecken-attackierbar-11141660.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "NewsBemannte Mondmission Artemis-2: NASA-Riesenrakete vor ihrem Weg zur Startrampe",
