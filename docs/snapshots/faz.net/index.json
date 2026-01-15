@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-15T17:23:09",
+  "timestamp": "2026-01-15T18:21:40",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -62,14 +68,14 @@
   ],
   "articles": [
     {
-      "title": "F.A.Z. exklusiv: Breiter Schulterschluss mit Gesundheitsministerin Warken",
-      "teaser": "Das gab es lange nicht: Arbeitgeber, Ärzteverbände, Krankenkassen und die Pflege unterstützen weite Teile der Reformanstrengungen. Ob sich aber wirklich Geld sparen lässt, steht in den Sternen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warkens-reformvorhaben-so-reagiert-die-gesundheitsbranche-200441781.html"
+      "title": "Schwäche der Wirtschaft: Kein Rambozambo beim Wachstum",
+      "teaser": "Der Reflex, dass immer mehr staatliche Einflussnahme das Leben besser mache, ist ungebrochen. Das ist das größte Hemmnis, das in Deutschland auch in diesem Jahr dem Wachstum entgegensteht.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/deutsche-wirtschaft-kein-rambozambo-beim-wachstum-110819846.html"
     },
     {
-      "title": "FAZ+Nina Warken im Gespräch: „Nicht jeder wird mehr direkt zum Facharzt gehen können“",
-      "teaser": "Die Gesundheitsministerin kündigt eine Gesundheits- und Pflegereform an: Patienten will Nina Warken in einem Hausarztmodell belohnen und den Pflegegrad 1 reformieren. Die kostenlose Mitversicherung stellt sie infrage.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/gesundheitsministerin-nina-warken-nicht-jeder-wird-mehr-direkt-zum-facharzt-gehen-koennen-110818985.html"
+      "title": "Knapp an der Rezession vorbei: Deutsche Wirtschaft wächst 2025 leicht",
+      "teaser": "Die deutsche Wirtschaftsleistung ist um 0,2 Prozent gestiegen. Für das laufende Jahr stellen Ökonomen ein Wachstum von einem Prozent in Aussicht.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutsche-wirtschaft-waechst-2025-leicht-knapp-an-der-rezession-vorbei-accg-200440680.html"
     },
     {
       "title": "Trump will Grönland: Ein Präsident im Machtrausch",
@@ -101,31 +107,39 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/daenemarks-kolonialpolitik-in-groenland-wirkt-bis-heute-nach-110819602.html"
     },
     {
-      "title": "Reformdebatte: Merz: „Ich würde das Arbeitszeitgesetz streichen“",
-      "teaser": "Der Bundeskanzler geht mit dem Arbeitszeitgesetz hart ins Gericht. Dafür bekommt er von Wirtschaftsvertretern viel Applaus. Die SPD wertet das als „Frontalangriff“.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/merz-ich-wuerde-das-arbeitszeitgesetz-streichen-110819445.html",
-      "image_url": "https://media0.faz.net/image/w730/4ac5665299d3/w6400h3600x0y332/202601/43601.0.1664963155/genug-gearbeitet-merz-bekommt.webp",
-      "image_title": "Genug gearbeitet? Merz bekommt am Mittwochabend zum Abschied Halloren mit auf den Weg."
+      "title": "Hohe Lebensmittelpreise: „Das Schwein wird in der Mitte fett“",
+      "teaser": "Heidi Reichinnek ist die Marktmacht von Edeka, Aldi und Co. ein Dorn im Auge. Die Fraktionschefs debattieren über den Anstieg der Lebensmittelpreise.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/das-schwein-wird-in-der-mitte-fett-110819844.html",
+      "image_url": "https://media0.faz.net/image/w730/d0470c0aaa08/w3000h1687x0y156/202601/43601.0.1666428244/heidi-reichinnek.webp",
+      "image_title": "Heidi Reichinnek, Fraktionsvorsitzende von Die Linke im Bundestag, spricht im Bundestag."
     },
     {
-      "title": "FAZ+F.A.Z. Podcast für Deutschland: Militärexperte Lange: „Putins Zerstörungswut zeigt, dass Bodenoffensive nicht funktioniert“",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-nico-lange-putins-zerstoerungswut-zeigt-dass-bodenoffensive-nicht-funktioniert-200442178.html",
-      "image_url": "https://media0.faz.net/image/w730/23250bac61a3/w3000h1687x0y156/202601/43601.0.1664350821/4360101664350821.webp"
+      "title": "Liveblog USA unter Trump: Putin vermeidet direkte Kritik an Trump",
+      "teaser": "Washington verhängt Sanktionen gegen Verantwortliche in Iran +++ EU-Kommissionspräsidentin sichert Grönland Unterstützung zu +++ Trump droht Minnesota mit Militäreinsatz +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-putin-vermeidet-direkte-kritik-an-trump-faz-19444916.html",
+      "image_url": "https://media0.faz.net/image/w730/dbe94c9dd5b6/w8021h4512x0y54/202601/a1db8306-703d-4f3c-81f1-f9b0e161f55e/der-russische-praesident.webp",
+      "image_title": "Der russische Präsident Wladimir Putin am Donnerstag im Kreml"
     },
     {
-      "title": "Mariam Claren über Iran: „Der häufig verwendete Begriff ‚Mullah-Regime‘ ist irreführend“",
-      "teaser": "Viele hoffen auf einen schnellen Umbruch in Iran, doch die Deutsch-Iranerin Mariam Claren hält dagegen: Die Macht liege bei mehreren Apparaten. Was jetzt zählt, seien Solidarität, Aufmerksamkeit und politische Konsequenzen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/gespraech-mit-der-aktivistin-mariam-claren-ueber-iran-110819399.html",
-      "image_url": "https://media0.faz.net/image/w730/ccd962d6537b/w3000h1687x0y201/202601/43601.0.1661397398/gegen-die-maechtigen-iraner.webp",
-      "image_title": "Gegen die Mächtigen: Iraner bei einem Protest gegen die Regierung in Teheran."
+      "title": "Regierungserklärung: Wegner will Gesetzesreform und entschuldigt sich nicht",
+      "teaser": "Das Berliner Abgeordnetenhaus hat über Konsequenzen aus dem Anschlag auf das Stromnetz debattiert. Der Regierende Bürgermeister Wegner äußerte sich nur knapp zu seinem Tennisspiel am Anschlagstag.",
+      "url": "https://www.faz.net/aktuell/politik/inland/nach-stromausfall-wegner-will-gesetzesreform-110819759.html",
+      "image_url": "https://media0.faz.net/image/w730/69934b88cdd1/w3000h1688x0y84/012026/1.10819756/berlins-regierender.webp",
+      "image_title": "Berlins Regierender Bürgermeister Kai Wegner (CDU) am Donnerstag im Berliner Abgeordnetenhaus"
     },
     {
-      "title": "Irene von Griechenland: Sie war die treue Gefährtin der Königin",
-      "teaser": "Irene von Griechenland lebte bis zuletzt Tür an Tür mit ihrer Schwester, der spanischen Königin Sofía. Nun ist sie im Alter von 83 Jahren gestorben.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/irene-von-griechenland-ist-tot-die-treue-gefaehrtin-der-koenigin-110820035.html",
-      "image_url": "https://media0.faz.net/image/w730/b1d75960586b/w2430h1367x0y0/202601/43601.0.1667528641/die-spanische-koenigin-sof-a.webp",
-      "image_title": "Die spanische Königin Sofía (rechts) und Prinzessin Irene von Griechenland nehmen 2017 gemeinsam an einer Preisverliehung teil."
+      "title": "Interview zu HBO Max: „Wir sind zu unserem Kern zurückgekehrt“",
+      "teaser": "Braucht Deutschland noch einen Streamingdienst? Die Verantwortlichen von HBO Max meinen: Ja – und erklären im Gespräch, warum. Sie setzen auf ein klares Profil, weniger Masse und den Anspruch, kulturell relevante Serien zu liefern.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/hbo-chefs-bloys-und-perrette-zum-deutschlandstart-110819613.html",
+      "image_url": "https://media0.faz.net/image/w730/37aeabda1537/w2324h1307x0y0/092025/1.10819610/casey-bloys-ceo-hbo-and-max.webp",
+      "image_title": "Casey Bloys (CEO HBO and Max Content, links) und JB Perrette (CEO Global Streaming bei Warner Bros. Discovery)"
+    },
+    {
+      "title": "Gesetzentwurf der Regierung: Warum der Wolf tot ist – zumindest als Streitthema",
+      "teaser": "Mit einem neuen Gesetz soll der Abschuss von Wölfen erleichtert werden. Dafür lobt sogar die AfD die Koalition.",
+      "url": "https://www.faz.net/aktuell/politik/inland/gesetzentwurf-zum-abschuss-von-woelfen-110819715.html",
+      "image_url": "https://media0.faz.net/image/w730/c8d476bfc5e6/w3000h1688x0y249/012026/1.10819714/ein-europaeischer-wolf-geht-in.webp",
+      "image_title": "Ein Europäischer Wolf geht in einem Gehege im Wildparadies Tripsdrill."
     },
     {
       "title": "Lehrer über Missbrauch: „Immer gehofft, es kommt nicht raus“",
@@ -133,13 +147,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gestaendnis-in-erfurter-missbrauchs-prozess-immer-gehofft-es-kommt-nicht-raus-110819721.html",
       "image_url": "https://media0.faz.net/image/w730/325e179919a5/w2511h1412x0y21/202601/43601.0.1666763431/der-angeklagte-lehrer-haelt.webp",
       "image_title": "Der angeklagte Lehrer hält sich einen Ordner vors Gesicht."
-    },
-    {
-      "title": "Leïla Slimanis neuer Roman: Fremdsein als Lebensgefühl",
-      "teaser": "Frauen, die von einer selbstbestimmten Zukunft träumen: Mit dem Roman „Trag das Feuer weiter“ schließt Leïla Slimani ihre Marokko-Trilogie „Das Land der anderen“ ab.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/rezension-leila-slimanis-roman-trag-das-feuer-weiter-110818862.html",
-      "image_url": "https://media0.faz.net/image/w730/7651444afe4a/w5757h3238x0y300/202512/43601.0.1587738758/portraet-der-franzoesischen.webp",
-      "image_title": "Porträt der französischen Autorin Leïla Slimani im Bistro des Hotels Amour in Paris"
     },
     {
       "title": "Kinder als Nichtschwimmer: Gefährliches Versagen",
@@ -212,14 +219,9 @@
       "image_title": "Hanno Mußler"
     },
     {
-      "title": "Liveblog USA unter Trump: Washington verhängt Sanktionen gegen Verantwortliche in Iran",
-      "teaser": "Strafmaßnahmen für Vertreter der iranischen Sicherheitsbehörden +++ Trump droht Minnesota mit Militäreinsatz +++ Proteste nach tödlichen Schüssen auf Frau in Minneapolis +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-droht-minnesota-mit-militaereinsatz-faz-19444916.html"
-    },
-    {
-      "title": "Nach Massenprotesten: Kein Wort der FIFA zu Iran",
-      "teaser": "Internationale Sportorganisationen behandeln das Massaker der iranischen Machthaber an Bürgern des Landes mit Routine. Wie sie damit umgehen, bleibt noch unklar.",
-      "url": "https://www.faz.net/aktuell/sport/sportpolitik/iran-massaker-reaktionen-von-fifa-ioc-und-ipc-unterschiedlich-110819699.html"
+      "title": "Kommunalwahl in Frankfurt: Ermittlungen wegen Toten auf der Feldmann-Liste",
+      "teaser": "Bei den Unterschriften für die Wahlliste des früheren Frankfurter Oberbürgermeister Feldmann gibt es Unstimmigkeiten. Sie beschäftigen die Staatsanwaltschaft.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-ermittlungen-wegen-unterschriften-fuer-wahlliste-von-ex-oberbuergermeister-feldmann-200441054.html"
     },
     {
       "title": "Krieg in der Ukraine: Humanitäre Situation in Ukraine spitzt sich zu",
@@ -227,23 +229,14 @@
       "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-humanitaere-situation-in-ukraine-spitzt-sich-zu-faz-110683325.html"
     },
     {
-      "title": "Deutschland-Blog: SPD kritisiert geplante Reform bei Medizinalcannabis",
-      "teaser": "Wegge: Gesetzentwurf so nicht zustimmungsfähig +++ Opposition wirft Regierung bei Bürgergeldreform Lügen und Hetzkampagne vor +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-opposition-wirft-regierung-luegen-und-hetzkampagne-vor-faz-110093143.html"
+      "title": "Irene von Griechenland: Sie war die treue Gefährtin der Königin",
+      "teaser": "Irene von Griechenland lebte bis zuletzt Tür an Tür mit ihrer Schwester, der spanischen Königin Sofía. Nun ist sie im Alter von 83 Jahren gestorben.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/irene-von-griechenland-ist-tot-die-treue-gefaehrtin-der-koenigin-110820035.html"
     },
     {
-      "title": "Deutsche Gebärdensprache: „Wir werden im Alltag oft vergessen“",
-      "teaser": "Die Deutsche Gebärdensprache ist seit 2002 anerkannt. Doch Barrieren prägen weiterhin den Alltag hörgeschädigter Menschen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/warum-gehoerlose-noch-immer-barrieren-ueberwinden-muessen-110817062.html",
-      "image_url": "https://media0.faz.net/image/w920/d76e6b6cb3ac/w3000h1688x0y236/072025/1.10817061/mit-mimik-und-haenden-kathrin.webp",
-      "image_title": "Mit Mimik und Händen: Kathrin Enders (links) unterhält sich mit Lena Krächan."
-    },
-    {
-      "title": "FAZ+Test Orbea Gravelbike: Letzte Wattstunde für Reichweiten-Phobiker",
-      "teaser": "Kleiner Akku, abgespeckter Motor und doch keine Angst auf langen Ausfahrten? Genau das kann das E-Gravelbike Denna M20i von Orbea.",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/probefahrt-e-gravelbike-denna-m20i-von-orbea-110817226.html",
-      "image_url": "https://media0.faz.net/image/w920/c6a719803ed1/w3000h1688x0y312/012026/1.10817223/fruehlingsvorbote-leicht-und.webp",
-      "image_title": "Frühlingsvorbote: Leicht und schlank kommt das Denna daher."
+      "title": "Deutscher reiter Ahlmann: Pferd nach Unfall eingeschläfert",
+      "teaser": "Springreiter Christian Ahlmann will eigentlich beim Weltcup in Leipzig mit dem Hengst D‘Aganix 2000 Z antreten. Dann aber kommt es beim Ausladen des Pferdes zu einem „schrecklichen und unglücklichen“ Zwischenfall.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/pferd-eingeschlaefert-unfall-um-daganix-2000-z-von-christian-ahlmann-200443179.html"
     },
     {
       "title": "Proteste in Iran: Die Geldquellen der Mullahs",
@@ -253,26 +246,42 @@
       "image_title": "Klare Botschaft von Demonstranten an Irans obersten Führer: Seit mehr als 30 Jahren bestimmt Khamenei die Geschicke des Landes."
     },
     {
-      "title": "WarenFlut: Chinas Exporte setzen deutsche Autobauer unter Druck",
-      "url": "https://www.faz.net/pro/weltwirtschaft/weltwissen/china-setzt-deutsche-autobauer-unter-druck-accg-200410592.html",
-      "image_url": "https://media0.faz.net/image/w730/8b64d7f7f57f/w5118h2879x0y480/202601/43601.0.1657658127/plug-in-hybrid-suv-wie-diesen.webp",
-      "image_title": "Plug-in-Hybrid-SUV wie diesen BYD Sealion 5 verkauft China nun lieber in Deutschland und Europa als in den USA."
+      "title": "Mariam Claren über Iran: „Der häufig verwendete Begriff ‚Mullah-Regime‘ ist irreführend“",
+      "teaser": "Viele hoffen auf einen schnellen Umbruch in Iran, doch die Deutsch-Iranerin Mariam Claren hält dagegen: Die Macht liege bei mehreren Apparaten. Was jetzt zählt, seien Solidarität, Aufmerksamkeit und politische Konsequenzen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/gespraech-mit-der-aktivistin-mariam-claren-ueber-iran-110819399.html",
+      "image_url": "https://media0.faz.net/image/w730/ccd962d6537b/w3000h1687x0y201/202601/43601.0.1661397398/gegen-die-maechtigen-iraner.webp",
+      "image_title": "Gegen die Mächtigen: Iraner bei einem Protest gegen die Regierung in Teheran."
     },
     {
-      "title": "WarenFlut: Chinas Exporte setzen deutsche Autobauer unter Druck",
-      "url": "https://www.faz.net/pro/weltwirtschaft/weltwissen/china-setzt-deutsche-autobauer-unter-druck-accg-200410592.html"
+      "title": "Mariam Claren über Iran: „Der häufig verwendete Begriff ‚Mullah-Regime‘ ist irreführend“",
+      "teaser": "Viele hoffen auf einen schnellen Umbruch in Iran, doch die Deutsch-Iranerin Mariam Claren hält dagegen: Die Macht liege bei mehreren Apparaten. Was jetzt zählt, seien Solidarität, Aufmerksamkeit und politische Konsequenzen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/gespraech-mit-der-aktivistin-mariam-claren-ueber-iran-110819399.html"
     },
     {
-      "title": "2001 gegründet: Die Wikipedia-Revolution",
-      "teaser": "Vor 25 Jahren ging eine Enzyklopädie online, die den globalen Markt für Wissenserwerb fundamental verändert und demokratisiert hat. Doch die Zukunft von Wikipedia wird nun durch Künstliche Intelligenz in Frage gestellt.",
-      "url": "https://www.faz.net/pro/weltwirtschaft/25-jahre-alt-wie-wikipedia-unseren-wissenserwerb-revolutionierte-accg-200440755.html",
-      "image_url": "https://media0.faz.net/image/w730/83eeddae4c31/w3000h1687x0y156/202601/43601.0.1659738728/vor-25-jahren-startete.webp",
-      "image_title": "Vor 25 Jahren startete Wikipedia."
+      "title": "Nach Massenprotesten: Kein Wort der FIFA zu Iran",
+      "teaser": "Internationale Sportorganisationen behandeln das Massaker der iranischen Machthaber an Bürgern des Landes mit Routine. Wie sie damit umgehen, bleibt noch unklar.",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/iran-massaker-reaktionen-von-fifa-ioc-und-ipc-unterschiedlich-110819699.html",
+      "image_url": "https://media0.faz.net/image/w730/0257a523406e/w4679h2632x0y376/202512/43601.0.1554525381/iran-wurde-bei-der-fussball-wm.webp",
+      "image_title": "Iran wurde bei der Fußball-WM 2026 in eine Gruppe mit Belgien, Ägypten und Neuseeland gelost."
     },
     {
-      "title": "2001 gegründet: Die Wikipedia-Revolution",
-      "teaser": "Vor 25 Jahren ging eine Enzyklopädie online, die den globalen Markt für Wissenserwerb fundamental verändert und demokratisiert hat. Doch die Zukunft von Wikipedia wird nun durch Künstliche Intelligenz in Frage gestellt.",
-      "url": "https://www.faz.net/pro/weltwirtschaft/25-jahre-alt-wie-wikipedia-unseren-wissenserwerb-revolutionierte-accg-200440755.html"
+      "title": "Nach Massenprotesten: Kein Wort der FIFA zu Iran",
+      "teaser": "Internationale Sportorganisationen behandeln das Massaker der iranischen Machthaber an Bürgern des Landes mit Routine. Wie sie damit umgehen, bleibt noch unklar.",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/iran-massaker-reaktionen-von-fifa-ioc-und-ipc-unterschiedlich-110819699.html"
+    },
+    {
+      "title": "Mode aus Rhein-Main: Tragbar in der Provinz und in der Stadt",
+      "teaser": "Die Deutschen haben keinen Sinn für Mode? Von wegen. Diese lokalen Marken aus dem Rhein-Main-Gebiet beweisen: Es muss nicht immer Paris oder London sein.",
+      "url": "https://www.faz.net/aktuell/stil/mode-design/die-schoensten-mode-marken-aus-dem-rhein-main-gebiet-200428250.html",
+      "image_url": "https://media0.faz.net/image/w920/2f4a517e3719/w5464h3073x0y2631/202601/c8d56d88-7826-40d0-8757-2d591147aab6/joerg-ehrlich-und-otto.webp",
+      "image_title": "Jörg Ehrlich und Otto Drögsler aus Giebelstadt haben dieses Blumenmuster für Odeeh entworfen."
+    },
+    {
+      "title": "Leïla Slimanis neuer Roman: Fremdsein als Lebensgefühl",
+      "teaser": "Frauen, die von einer selbstbestimmten Zukunft träumen: Mit dem Roman „Trag das Feuer weiter“ schließt Leïla Slimani ihre Marokko-Trilogie „Das Land der anderen“ ab.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/rezension-leila-slimanis-roman-trag-das-feuer-weiter-110818862.html",
+      "image_url": "https://media0.faz.net/image/w920/7651444afe4a/w5757h3238x0y300/202512/43601.0.1587738758/portraet-der-franzoesischen.webp",
+      "image_title": "Porträt der französischen Autorin Leïla Slimani im Bistro des Hotels Amour in Paris"
     },
     {
       "title": "FAZ+Obsidian & Claude Code: Der neue Superassistent für Wissensarbeiter",
@@ -324,10 +333,16 @@
       "image_title": "AFP"
     },
     {
+      "title": "FAZ+F.A.Z. Podcast für Deutschland: Militärexperte Lange: „Putins Zerstörungswut zeigt, dass Bodenoffensive nicht funktioniert“",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/militaerexperte-nico-lange-putins-zerstoerungswut-zeigt-dass-bodenoffensive-nicht-funktioniert-200442178.html",
+      "image_url": "https://media0.faz.net/image/w920/a78e51297eee/w3000h1285x0y357/202601/43601.0.1664350821/4360101664350821.webp"
+    },
+    {
       "title": "Rhein-Main-Feierabendbriefing: Abschiebungen sind häufiger geworden",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/migration-in-hessen-mehr-abschiebungen-weniger-asylantraege-200442454.html",
-      "image_url": "https://media0.faz.net/image/w920/1c8b5cd8fd0c/w2126h911x0y79/202505/43601.0.997860332/ende-der-hoffnung-polizisten.webp",
+      "image_url": "https://media0.faz.net/image/w730/becf64ee322f/w2126h1196x0y91/202505/43601.0.997860332/ende-der-hoffnung-polizisten.webp",
       "image_title": "Ende der Hoffnung: Polizisten holen abgelehnte Asylbewerber ab, um sie zum Flughafen und damit zu ihrer Abschiebung zu bringen."
     },
     {
@@ -338,17 +353,17 @@
       "image_title": "Die Erlöserkirche in Nuuk, der Hauptstadt von Grönland."
     },
     {
-      "title": "Rhein-Main-Feierabendbriefing: Umfrage: Eltern und Kinder gehen gern in die Kita",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/umfrage-eltern-geben-kitas-in-hessen-gute-noten-200438448.html",
-      "image_url": "https://media0.faz.net/image/w730/0069a6d57a61/w4893h2753x216y1193/202505/43601.0.1008548813/gut-aufgehoben-kleinkind-sitzt.webp",
-      "image_title": "Gut aufgehoben: Kleinkind sitzt mit Bilderbuch in einer Kita."
+      "title": "Deutschland-Blog: EU und Bundesregierung einigen sich auf neue Gaskraftwerke",
+      "teaser": "Wirtschaftsministerin Reiche: „Entscheidender Schritt für die Versorgungssicherheit“ +++ SPD kritisiert geplante Reform bei Medizinalcannabis +++ Opposition wirft Regierung bei Bürgergeldreform Lügen und Hetzkampagne vor +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-opposition-wirft-regierung-luegen-und-hetzkampagne-vor-faz-110093143.html",
+      "image_url": "https://media0.faz.net/image/w1200/9342fdcd9c90/w3000h1687x0y66/202601/43601.0.1668127619/katherina-reiche-cdu.webp",
+      "image_title": "Katherina Reiche (CDU), Bundesministerin für Wirtschaft und Energie, bei einer Plenarsitzung im deutschen Bundestag."
     },
     {
       "title": "Übergang zu Phase Zwei: Die Lücken in Trumps Plan für Gaza",
       "teaser": "Die USA erklären den Beginn der zweiten Phase von Trumps Gazaplan. Eine Übergangsregierung wird eingerichtet – aber andere wichtige Punkte sind weiter offen.",
       "url": "https://www.faz.net/aktuell/politik/ausland/trump-phase-zwei-des-gazaplans-beginnt-110819652.html",
-      "image_url": "https://media0.faz.net/image/w1200/734f6e6d99e8/w5659h3183x0y295/202601/518a688c-d887-4ef7-be13-9fb71e5afeba/immer-wieder-kommt-es-zu.webp",
+      "image_url": "https://media0.faz.net/image/w730/734f6e6d99e8/w5659h3183x0y295/202601/518a688c-d887-4ef7-be13-9fb71e5afeba/immer-wieder-kommt-es-zu.webp",
       "image_title": "Immer wieder kommt es zu Kämpfen: Zelte und zerstörte Gebäude am 13. Januar in Gaza Stadt"
     },
     {
@@ -366,59 +381,53 @@
       "image_title": "In ihrer Rolle als Ministerin: Bärbel Bas am Donnerstag im Bundestag"
     },
     {
-      "title": "Moskau umwirbt Trump: „Sie werden Grönland einfach aufgeben“",
-      "teaser": "Um von Rückschlägen abzulenken, sollen Russlands Medien über Grönland berichten. Putins Adlatus Medwedjew will so den Zwist in der NATO vertiefen.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/moskau-umwirbt-trump-sie-werden-groenland-einfach-aufgeben-200441462.html",
-      "image_url": "https://media0.faz.net/image/w730/2f2509b0c26e/w3045h1713x0y286/201706/431.0.24405253/2017-am-kreml-praesident-putin.webp",
-      "image_title": "2017 am Kreml: Präsident Putin Ende Juni zwischen Medwedjew, damals Ministerpräsident, und Schojgu, damals Verteidigungsminister"
+      "title": "Daimler Truck und Arquus: Milliardenschwere Militärlastwagen für die Verteidigung der NATO",
+      "teaser": "Das Konsortium aus Daimler Truck und Arquus hat einen Großauftrag an Land gezogen. Der AHK-Chef spricht von einem „wichtigen Zeichen für die deutsch-französische Zusammenarbeit“.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/militaerlastwagen-fuer-frankreich-110819728.html",
+      "image_url": "https://media0.faz.net/image/w1200/aa15d6bd25ab/w3000h1688x0y157/062024/1.10819725/einsatzbereit-lastwagen-4x4.webp",
+      "image_title": "Einsatzbereit: Lastwagen 4x4 Zetros"
+    },
+    {
+      "title": "F.A.Z. exklusiv: Breiter Schulterschluss mit Gesundheitsministerin Warken",
+      "teaser": "Das gab es lange nicht: Arbeitgeber, Ärzteverbände, Krankenkassen und die Pflege unterstützen weite Teile der Reformanstrengungen. Ob sich aber wirklich Geld sparen lässt, steht in den Sternen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warkens-reformvorhaben-so-reagiert-die-gesundheitsbranche-200441781.html",
+      "image_url": "https://media0.faz.net/image/w730/f1e1ddb2a16e/w3000h1687x0y156/202601/43601.0.1652927479/gesundheitsministerin-warken.webp",
+      "image_title": "Gesundheitsministerin Warken will die ambulante Versorgung erden."
     },
     {
       "title": "Agrarkonzern in der Krise: Staatsanwaltschaft durchsucht Privaträume von Baywa-Beschuldigten",
       "teaser": "Geschäftsräume seien nicht betroffen. Die Staatsanwaltschaft München hatte im vergangenen Jahr Ermittlungen gegen Baywa-Vorstandsmitglieder wegen möglicher Fehler im Geschäftsbericht eingeleitet.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/baywa-staatsanwaltschaft-durchsucht-privatraeume-von-beschuldigten-200442410.html",
-      "image_url": "https://media0.faz.net/image/w1200/a73d731a3b7e/w2048h1152x0y107/202601/43601.0.1643234727/silos-in-dettelbach-an-diesem.webp",
+      "image_url": "https://media0.faz.net/image/w730/a73d731a3b7e/w2048h1152x0y107/202601/43601.0.1643234727/silos-in-dettelbach-an-diesem.webp",
       "image_title": "Silos in Dettelbach: An diesem BayWa-Standort in Dettelbach werden Ernte-Erzeugnisse erfasst und in die Silos eingelagert."
     },
     {
-      "title": "Corsa und SUV zuerst: Opel legt Comeback des Kultautos Manta auf Eis",
-      "teaser": "Tuner und Nostalgiker hatten sich schon auf eine Wiederauflage gefreut, doch jetzt kommt aus Rüsselsheim der Dämpfer. Welche Pläne Opel stattdessen verfolgt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/opel-legt-comeback-von-manta-auf-eis-200441666.html",
-      "image_url": "https://media0.faz.net/image/w730/85436bafcbc8/w3000h1687x0y156/202601/43601.0.1667004693/der-fuchsschwanz-ist-zum.webp",
-      "image_title": "Der „Fuchsschwanz“ ist zum Sinnbild für den Opel Manta geworden. Tuner und Bastler schmückten damit das sportlich geschnittene Manta-Coupé in den Siebziger- und Achtzigerjahren."
+      "title": "Reformdebatte: Merz: „Ich würde das Arbeitszeitgesetz streichen“",
+      "teaser": "Der Bundeskanzler geht mit dem Arbeitszeitgesetz hart ins Gericht. Dafür bekommt er von Wirtschaftsvertretern viel Applaus. Die SPD wertet das als „Frontalangriff“.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/merz-ich-wuerde-das-arbeitszeitgesetz-streichen-110819445.html",
+      "image_url": "https://media0.faz.net/image/w730/4ac5665299d3/w6400h3600x0y332/202601/43601.0.1664963155/genug-gearbeitet-merz-bekommt.webp",
+      "image_title": "Genug gearbeitet? Merz bekommt am Mittwochabend zum Abschied Halloren mit auf den Weg."
     },
     {
-      "title": "FAZ+Angespannter Wohnungsmarkt: Eigentümer am Pranger",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/wohnungsnot-wie-die-stadt-landau-gegen-leerstand-ankaempft-200420756.html",
-      "image_url": "https://media0.faz.net/image/w730/c2b241d54a34/w2933h1650x1067y980/202512/43601.0.1593517732/4360101593517732.webp"
+      "title": "FAZ+Obsidian & Claude Code: Der neue Superassistent für Wissensarbeiter",
+      "teaser": "Anthropic öffnet sein Entwicklerwerkzeug Claude Code für alle Wissensarbeiter. In Kombination mit der kostenlosen Notizsoftware Obsidian entsteht ein Recherche-Assistent, der weit mehr kann als jeder Chatbot.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/obsidian-und-claude-code-der-neue-superassistent-fuer-wissensarbeit-accg-200433475.html",
+      "image_url": "https://media0.faz.net/image/w920/42daaf819dd1/w3000h1285x0y357/202509/43601.0.1351578239/claude-code-die-produktmanager.webp",
+      "image_title": "Claude Code: Die Produktmanager Cat Wu und Alex Albert."
     },
     {
-      "title": "Nubeqa: Pharmariese Bayer hofft auf das „potentiell größte Produkt in unserer Geschichte“",
-      "teaser": "Lange Zeit galt die Medikamentensparte wegen auslaufender Patente als Sorgenkind des Leverkusener Dax-Konzerns. Doch jetzt ist sie ein Aktienkurstreiber. Aus gutem Grund.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-mit-nubeqa-haben-wir-potentiell-das-groesste-produkt-in-unserer-geschichte-accg-110819123.html",
-      "image_url": "https://media0.faz.net/image/w730/af236bf4fe59/w3000h1687x0y147/202601/80f1d561-5ad9-4d2b-8a47-58b0166616ff/wichtiger-pharmastandort-ein.webp",
-      "image_title": "Wichtiger Pharmastandort: Ein Mitarbeiter kontrolliert eine Arzneimittel-Produktionsanlage in Berlin."
+      "title": "FAZ+Von Chatbots zu „Physical AI“: Investoren setzen ihr Geld jetzt auf KI zum Anfassen",
+      "teaser": "Investoren wetten auf physische KI, die autonome Fahrzeuge oder intelligente Roboter zum Leben erwecken soll. Statt LLMs sind jetzt visuelle KI und World Models gefragt. Ein Blick auf KI-Investment-Trends.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/physical-ai-der-neue-liebling-der-investoren-accg-200429725.html",
+      "image_url": "https://media0.faz.net/image/w730/464ea1a00fe6/w3000h1687x0y156/202601/4160bed4-e06b-4dcf-b994-0256a6240483/ein-ki-faehiger.webp",
+      "image_title": "Ein KI-fähiger Haushaltsroboter zeigt am LG-Stand auf der CES in Las Vegas, was er kann."
     },
     {
       "title": "FAZ+moderne Industriepolitik: Fünf Dinge, die Deutschland jetzt anders machen muss",
       "teaser": "China macht es vor: Keine Geopolitik mehr ohne Industriepolitik. Fünf konkrete Handlungsfelder zeigen, wie Deutschland strategischer, europäischer und schneller handeln kann – und muss.",
       "url": "https://www.faz.net/pro/digitalwirtschaft/transformation/industriepolitik-5-dinge-die-deutschland-aendern-muss-accg-200434793.html",
-      "image_url": "https://media0.faz.net/image/w920/6688f711a85a/w7886h3379x0y1249/202509/43601.0.1262024716/europas-supercomputer-jupiter.webp",
+      "image_url": "https://media0.faz.net/image/w730/909f42d1e226/w7886h4436x0y820/202509/43601.0.1262024716/europas-supercomputer-jupiter.webp",
       "image_title": "Europas Supercomputer „Jupiter“ in Jülich"
-    },
-    {
-      "title": "FAZ+Apple und UCP: Googles Meisterstück(e)",
-      "teaser": "2026 ist das Jahr, in dem Künstliche Intelligenz beginnt, nicht nur die Technik, sondern auch die Grundpfeiler der digitalen Ökonomie zu verschieben. Mittendrin steht Google mit gleich zwei wegweisenden Deals zu Jahresbeginn.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/konkurrenz-fuer-apple-google-sichert-sich-zwei-wegweisende-deals-200434839.html",
-      "image_url": "https://media0.faz.net/image/w730/08b609db8820/w4844h2725x0y252/202601/43601.0.1660123207/google-mischt-den-handel-auf.webp",
-      "image_title": "Google mischt den Handel auf."
-    },
-    {
-      "title": "FAZ+Google UCP: Wenn der Algorithmus der beste Kunde wird",
-      "teaser": "Das Einkaufen per KI hat sich vom Experimentierstadium zur milliardenschweren Strategiefrage für die Branche gewandelt. Mit dem Universal Commerce Protocol will Google wieder erste Anlaufstelle für den Onlinehandel werden.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/plattformen/google-ucp-wenn-der-algorithmus-der-beste-kunde-wird-accg-200435393.html",
-      "image_url": "https://media0.faz.net/image/w730/5154892c5133/w3000h1687x0y123/202512/43601.0.1611626561/wer-dominiert-die-ki-aera.webp",
-      "image_title": "Wer dominiert die KI-Ära? Google geht einen weiteren Schritt."
     },
     {
       "title": "Kerkeling und Herbst: „Ich glaube nicht, dass Horst Schlämmer ‚Longevity‘ aussprechen kann“",
@@ -441,10 +450,17 @@
       "image_url": "https://media0.faz.net/image/w730/25c46c581f1d/w9409h5292x0y1054/202512/6574da42-515f-4ab7-938d-c3ca38692b01/ofdh82qpueoi.webp"
     },
     {
+      "title": "Frankreichs Livret A: Steuer- und risikofrei 1,5 Prozent Zinsen",
+      "teaser": "57 Millionen Mal eröffnet: Das Livret A ist der Bestseller für Frankreichs Sparer. Der staatliche festgelegte Zinssatz bleibt deutlich über der Inflationsrate.",
+      "url": "https://www.faz.net/aktuell/finanzen/livret-a-steuer-und-risikolos-1-5-prozent-zinsen-110819868.html",
+      "image_url": "https://media0.faz.net/image/w1200/7d11698847fe/w3000h1687x0y281/202508/43601.0.1196671455/der-triumphbogen-in-paris.webp",
+      "image_title": "Der Triumphbogen in Paris"
+    },
+    {
       "title": "Steuerhinterziehung: Bewährungsstrafe für Banker im Cum-Ex-Skandal",
       "teaser": "Das Landgericht Bonn verurteilte einen früheren Varengold-Banker zu acht Monaten auf Bewährung. Zudem muss er 1,6 Millionen Euro aus den illegalen Aktiengeschäften abgeben.",
       "url": "https://www.faz.net/aktuell/finanzen/cum-ex-bewaehrungsstrafe-fuer-einstigen-varengold-banker-200442858.html",
-      "image_url": "https://media0.faz.net/image/w1200/8883da54a3bc/w3000h1687x0y156/202410/43601.0.657436145/in-der-strafrechtlichen.webp",
+      "image_url": "https://media0.faz.net/image/w730/8883da54a3bc/w3000h1687x0y156/202410/43601.0.657436145/in-der-strafrechtlichen.webp",
       "image_title": "In der strafrechtlichen Aufarbeitung des Cum-Ex-Skandals hat das Landgericht Bonn zahlreiche Urteile gefällt."
     },
     {
@@ -460,13 +476,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/rekordzahlen-etf-anleger-wenden-sich-von-den-usa-ab-110819654.html",
       "image_url": "https://media0.faz.net/image/w730/5780aa36363f/w3408h1917x0y158/202601/43601.0.1665196469/etf-anleger-aus-europa-sehen.webp",
       "image_title": "ETF-Anleger aus Europa sehen mehr Schatten als Licht an den US-Börsen."
-    },
-    {
-      "title": "FAZ+Iran-Krise: Wie der höhere Ölpreis die Verbraucher trifft",
-      "teaser": "Tanken wird teurer, Heizen auch. Die Rechnung für die Nebenkosten dürfte für viele Haushalte saftig ausfallen.",
-      "url": "https://www.faz.net/aktuell/finanzen/wie-der-hoehere-oelpreis-die-verbraucher-trifft-accg-110818878.html",
-      "image_url": "https://media0.faz.net/image/w730/d609e3d7732a/w3000h1687x0y145/202601/43601.0.1645192451/geopolitik-zum-anfassen-beim.webp",
-      "image_title": "Geopolitik zum Anfassen: Beim Tanken und beim Heizölkauf spüren Verbraucher den Preisanstieg durch die Iran-Krise."
     },
     {
       "title": "Ada-Lovelace-Porträts: Bilder einer Frau mit Weitsicht",
@@ -585,11 +594,11 @@
       "image_title": "Verschiedene Dating-Apps auf einem Handy. (Archivbild)"
     },
     {
-      "title": "Heute in Rhein-Main: Theater ohne Perspektive",
-      "teaser": "Hessen hat 2025 mehr Flüchtlinge als im Jahr zuvor abgeschoben. Hessen ist beim Sozialen Wohnungsbau gut, aber nicht gut genug. Und in Frankfurt wird ein Junge auch mit Booten gesucht. Die F.A.Z.-Hauptwache blickt auf die Themen des Tages.",
-      "url": "https://www.faz.net/aktuell/rhein-main/newsletter-hauptwache/heute-in-rhein-main-theater-ohne-perspektive-200443034.html",
-      "image_url": "https://media0.faz.net/image/w1200/7f7c40cca118/w5453h3067x0y284/202512/43601.0.1612657798/haengepartie-das-the-english.webp",
-      "image_title": "Hängepartie: Das „The English Theatre Frankfurt“ an der Gallusanlage wartet auf die Wiederaufnahme des Spielbetriebs."
+      "title": "Neue Funktion auf RMV-App: Mit dem Handy automatisch den günstigsten Fahrpreis zahlen",
+      "teaser": "Der Rhein-Main-Verkehrsverbund führt eine neue Funktion in seiner App ein. Der Ticketkauf wird dadurch einfacher, Tarifkenntnisse sind nicht mehr nötig.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/oepnv-tickets-automatisch-zum-guenstigsten-fahrpreis-200441934.html",
+      "image_url": "https://media0.faz.net/image/w1200/7547adaec73d/w3000h1687x0y223/202511/43601.0.1490313308/absehbar-ueberfluessig-die.webp",
+      "image_title": "Absehbar überflüssig: Die Zahl der Fahrkartenautomaten im RMV-Gebiet wird weiter abnehmen. Nutzer von Bus und Bahn werden ihre Tickets stattdessen immer öfter über ihr Handy bezahlen."
     },
     {
       "title": "Attacke an Synagoge: „Angst vor Anschlag seit dem 7. Oktober 2023 stets da“",
@@ -599,6 +608,13 @@
       "image_title": "Anschlagziel: die Beith-Jaakov-Synagoge"
     },
     {
+      "title": "Deutsche Gebärdensprache: „Wir werden im Alltag oft vergessen“",
+      "teaser": "Die Deutsche Gebärdensprache ist seit 2002 anerkannt. Doch Barrieren prägen weiterhin den Alltag hörgeschädigter Menschen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/warum-gehoerlose-noch-immer-barrieren-ueberwinden-muessen-110817062.html",
+      "image_url": "https://media0.faz.net/image/w730/d76e6b6cb3ac/w3000h1688x0y236/072025/1.10817061/mit-mimik-und-haenden-kathrin.webp",
+      "image_title": "Mit Mimik und Händen: Kathrin Enders (links) unterhält sich mit Lena Krächan."
+    },
+    {
       "title": "Erwartungen an 2026: Handwerk: Die Lage ist ernst",
       "teaser": "Von der Insolvenzwelle blieb das Handwerk in Hessen bislang verschont. Doch es fehlen Fachkräfte und die Zuversicht für Investitionen. Der Ausblick auf das Jahr ist trüb.",
       "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/handwerk-aussichten-fuer-2026-sind-trueb-200441728.html",
@@ -606,11 +622,11 @@
       "image_title": "Fachkräftemangel: Im hessischen Handwerk fehlt es nicht an Ausbildungsstellen, sondern an geeigneten Bewerbern."
     },
     {
-      "title": "Wegen Verzögerungen: English Theatre verärgert: Wiedereröffnung weiter fraglich",
-      "teaser": "Kann das English Theatre in seine Räume zurückkehren? Die Stadt Frankfurt als Hauptmieter im Gallileo-Turm fordert „rasche und priorisierte Erledigung“. Die Lage spitze sich zu, sagt der Intendant.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/english-theatre-frankfurt-wiedereroeffnung-weiter-fraglich-200438241.html",
-      "image_url": "https://media0.faz.net/image/w730/54df3ec7e59c/w4000h2250x0y209/202601/ef25c87d-a907-4705-ba03-f27908446a60/bleibt-vorerst-geschlossen-das.webp",
-      "image_title": "Bleibt vorerst geschlossen: Das English Theatre Frankfurt im Untergeschoss des Gallileo-Turms ist immer noch nicht fertig."
+      "title": "FAZ+Test Orbea Gravelbike: Letzte Wattstunde für Reichweiten-Phobiker",
+      "teaser": "Kleiner Akku, abgespeckter Motor und doch keine Angst auf langen Ausfahrten? Genau das kann das E-Gravelbike Denna M20i von Orbea.",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/probefahrt-e-gravelbike-denna-m20i-von-orbea-110817226.html",
+      "image_url": "https://media0.faz.net/image/w730/c6a719803ed1/w3000h1688x0y312/012026/1.10817223/fruehlingsvorbote-leicht-und.webp",
+      "image_title": "Frühlingsvorbote: Leicht und schlank kommt das Denna daher."
     },
     {
       "title": "FAZ+Apple Airpods: Völker, verständigt euch!",
@@ -618,13 +634,6 @@
       "url": "https://www.faz.net/aktuell/technik-motor/technik/apple-airpods-so-funktioniert-die-echtzeituebersetzung-accg-110817249.html",
       "image_url": "https://media0.faz.net/image/w730/58f4ee27e8b2/w2160h1215x0y139/202510/43601.0.1373005842/nur-die-neueren-airpods-kommen.webp",
       "image_title": "Nur die neueren Airpods kommen infrage: Hier die Airpods Pro 3"
-    },
-    {
-      "title": "FAZ+C-Klasse als Diesel: Zu wissen, man könnte",
-      "teaser": "Stufenheck und Dieselmotor sind von gestern? Von wegen. Als Limousine passt die C-Klasse mit Selbstzünder von Mercedes-Benz ziemlich gut in unsere hektische Zeit.",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/mercedes-benz-c-klasse-als-diesel-vorfreude-macht-sich-breit-110817275.html",
-      "image_url": "https://media0.faz.net/image/w730/31708872d81d/w5425h3052x444y927/202512/43601.0.1588315190/wagen-im-dienst-c-klasse-mit.webp",
-      "image_title": "Wagen im Dienst: C-Klasse mit Dieselmotor"
     },
     {
       "title": "Medizinische Probleme: Vorzeitig zurückgeholte ISS-Astronauten sind gelandet",
@@ -652,10 +661,16 @@
       "image_url": "https://media0.faz.net/image/w730/1f4c3717d09a/w2471h1389x0y227/202507/43601.0.1148383822/4360101148383822.webp"
     },
     {
+      "title": "FAZ+Angespannter Wohnungsmarkt: Eigentümer am Pranger",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/wohnungsnot-wie-die-stadt-landau-gegen-leerstand-ankaempft-200420756.html",
+      "image_url": "https://media0.faz.net/image/w920/4e6fc3719af8/w3227h1383x1081y1206/202512/43601.0.1593517732/4360101593517732.webp"
+    },
+    {
       "title": "Kompakte Raumgestaltung: Viel Design auf wenig Platz",
       "teaser": "Manchmal ist der Raum klein, aber der Wunsch nach Ästhetik groß. Dann müssen Möbel nicht nur schön, sondern auch praktisch sein. Neun Vorschläge.",
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/neun-praktische-designideen-fuer-kleine-raeume-accg-110816109.html",
-      "image_url": "https://media0.faz.net/image/w920/0584e29f3dd3/w5011h2147x0y240/202601/2efdcd89-b451-47e9-919a-a83628b8b033/fast-nicht-mehr-als-eine.webp",
+      "image_url": "https://media0.faz.net/image/w730/65c5ff50e776/w5011h2819x0y0/202601/2efdcd89-b451-47e9-919a-a83628b8b033/fast-nicht-mehr-als-eine.webp",
       "image_title": "Fast nicht mehr als eine schlanke Tischplatte mit Halterung"
     },
     {
@@ -664,13 +679,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/garten/so-riecht-der-garten-schon-im-winter-nach-fruehling-accg-110811627.html",
       "image_url": "https://media0.faz.net/image/w730/c172babe031e/w2592h1458x0y92/202601/43601.0.1658060228/grosser-auftritt-in-der.webp",
       "image_title": "Großer Auftritt in der kältesten Jahreszeit: die Winterblüte"
-    },
-    {
-      "title": "Wärme im Winter: Die Heizungsfrage",
-      "teaser": "Der Wirbel um das Heizungsgesetz war rasant. Jetzt soll die Regelung einen anderen Namen bekommen. Aber um Heizkosten zu sparen, gibt es viele Tipps.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/heizungsgesetz-tipps-fuer-kostenersparnis-und-wintervorbereitung-110808457.html",
-      "image_url": "https://media0.faz.net/image/w730/a9ff0a2a155a/w3000h1687x0y156/202510/43601.0.1395257549/aufgedreht-wie-viel-kostet-die.webp",
-      "image_title": "Aufgedreht: Wie viel kostet die Heizung?"
     },
     {
       "title": "polarisierendes Salzburg: Der kurze Schritt vom Dunkel ins Licht",
