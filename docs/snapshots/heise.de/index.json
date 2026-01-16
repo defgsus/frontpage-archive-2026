@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-16T07:15:31",
+  "timestamp": "2026-01-16T08:15:31",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,36 @@
   ],
   "articles": [
     {
+      "title": "GitLab 18.8: Duo Agent Platform jetzt allgemein verfügbar",
+      "url": "https://www.heise.de/news/GitLab-18-8-Duo-Agent-Platform-jetzt-allgemein-verfuegbar-11139238.html"
+    },
+    {
+      "title": "Jetzt patchen! Kritische Cisco-Lücke seit Dezember 2025 ausgenutzt",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Cisco-Luecke-seit-Dezember-2025-ausgenutzt-11143359.html"
+    },
+    {
+      "title": "Investieren in Silber: Wie Sie mit Aktien, ETCs und Fonds profitieren",
+      "url": "https://www.heise.de/ratgeber/Investieren-in-Silber-Wie-Sie-mit-Aktien-ETCs-und-Fonds-profitieren-11127007.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "FortiSIEM: Proof-of-Concept-Exploit für kritische Lücke öffentlich",
+      "url": "https://www.heise.de/news/FortiSIEM-Proof-of-Concept-Exploit-fuer-kritische-Luecke-oeffentlich-11143311.html"
+    },
+    {
+      "title": "Das Meldeportal in der AWS-Cloud: Warum nur, BSI?",
+      "url": "https://www.heise.de/meinung/Das-Meldeportal-in-der-AWS-Cloud-Warum-nur-BSI-11142071.html"
+    },
+    {
+      "title": "Kaufprämie für Elektroautos soll auch rückwirkend gezahlt werden",
+      "url": "https://www.heise.de/news/Kaufpraemie-fuer-Elektroautos-soll-auch-rueckwirkend-gezahlt-werden-11143275.html"
+    },
+    {
+      "title": "Amazons EU-Cloud: Abgekoppelter Betrieb noch nicht vom BSI getestet",
+      "url": "https://www.heise.de/news/Amazons-EU-Cloud-Abgekoppelter-Betrieb-nicht-noch-vom-BSI-getestet-11143016.html"
+    },
+    {
       "title": "Microsoft Teams: Separierung von Telefonie abgesagt, Entfernung von EXIF-Daten",
       "url": "https://www.heise.de/news/Microsoft-Teams-Separierung-von-Telefonie-abgesagt-Entfernung-von-EXIF-Daten-11143261.html"
     },
@@ -38,38 +68,8 @@
       "url": "https://www.heise.de/news/US-Firma-plant-Rechenzentrum-in-NRW-fuer-vier-Milliarden-Euro-11143267.html"
     },
     {
-      "title": "Zweckbezogene Auslöser in Home Assistant: Einfach komplexe Automationen bauen",
-      "url": "https://www.heise.de/ratgeber/Home-Assistant-Zweckbezogene-Ausloeser-richtig-einsetzen-11137651.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Iran: Totale Internetblockade jetzt seit einer Woche, Berichte über viele Tote",
-      "url": "https://www.heise.de/news/Iran-Totale-Internetblockade-jetzt-seit-einer-Woche-Berichte-ueber-viele-Tote-11143239.html"
-    },
-    {
-      "title": "253 Meter ohne Sauerstoff: Luc Bessons „Im Rausch der Tiefe“ im 4K-Heimkinotest",
-      "url": "https://www.heise.de/tests/253-Meter-ohne-Sauerstoff-Luc-Bessons-Im-Rausch-der-Tiefe-im-4K-Heimkinotest-11141317.html"
-    },
-    {
-      "title": "Freitag: Webbrowser einfach entschlacken, ChatGPT mit neuer Übersetzungsfunktion",
-      "url": "https://www.heise.de/news/Freitag-Webbrowser-einfach-entschlacken-ChatGPT-mit-neuer-Uebersetzungsfunktion-11143235.html"
-    },
-    {
-      "title": "Vorsicht, Kunde: Fitnessstudio-Vertrag vorzeitig kündigen",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Fitnessstudio-Vertrag-vorzeitig-kuendigen-11143098.html"
-    },
-    {
-      "title": "OpenAI hat mit ChatGPT Translate jetzt einen eigenen Übersetzungsdienst",
-      "url": "https://www.heise.de/news/OpenAI-hat-mit-ChatGPT-Translate-jetzt-einen-eigenen-Uebersetzungsdienst-11143221.html"
-    },
-    {
-      "title": "Einfach nur einen Webbrowser, bitte",
-      "url": "https://www.heise.de/news/Einfach-nur-einen-Webbrowser-bitte-11143193.html"
-    },
-    {
-      "title": "Plugin befreit Browser von BallastEinfach nur einen Webbrowser, bitte\"",
-      "teaser": "„Just the Browser” verschlankt Webbrowser am Desktop. Nervender Ballast wird binnen Sekunden aus Chrome, Edge oder Firefox entfernt.",
+      "title": "Policy befreit Browser von BallastEinfach nur einen Webbrowser, bitte",
+      "teaser": "„Just the Browser” verschlankt Webbrowser am Desktop. Nervender Ballast wird binnen Sekunden in Chrome, Edge oder Firefox deaktiviert.",
       "url": "https://www.heise.de/news/Einfach-nur-einen-Webbrowser-bitte-11143193.html",
       "image_title": "Blonde Frau lächelt hinter Macbook hervor"
     },
@@ -188,50 +188,50 @@
       "image_title": "Mann im Wartezimmer am Handy auf einem gelben Sofa."
     },
     {
+      "title": "GitLab 18.8: Duo Agent Platform jetzt allgemein verfügbar",
+      "teaser": "Mit GitLab 18.8 bringt GitLab die Duo Agent Platform an den Start und koordiniert KI-Agenten über Planung, Entwicklung, Security und Deployment hinweg.",
+      "url": "https://www.heise.de/news/GitLab-18-8-Duo-Agent-Platform-jetzt-allgemein-verfuegbar-11139238.html"
+    },
+    {
+      "title": "AlertJetzt patchen! Kritische Cisco-Lücke seit Dezember 2025 ausgenutzt",
+      "teaser": "Angreifer kompromittieren Cisco Secure Email Gateway und Secure Email und Web Manager über eine Root-Schwachstelle. Nun gibt es Sicherheitsupdates.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Kritische-Cisco-Luecke-seit-Dezember-2025-ausgenutzt-11143359.html"
+    },
+    {
+      "title": "Investieren in Silber: Wie Sie mit Aktien, ETCs und Fonds profitieren",
+      "teaser": "Silber erlebte 2025 eine Renaissance an der Börse. Anleger können davon auf verschiedenen Wegen profitieren – im besten Fall sogar ohne Kapitalertragsteuer.",
+      "url": "https://www.heise.de/ratgeber/Investieren-in-Silber-Wie-Sie-mit-Aktien-ETCs-und-Fonds-profitieren-11127007.html",
+      "image_title": "Silberbarren in einem privaten Safe"
+    },
+    {
+      "title": "AlertFortiSIEM: Proof-of-Concept-Exploit für kritische Lücke öffentlich",
+      "teaser": "Fortinet hat eine kritische FortiSIEM-Lücke geschlossen. Ein Proof-of-Concept-Exploit erhöht die Wahrscheinlichkeit von Angriffen.",
+      "url": "https://www.heise.de/news/FortiSIEM-Proof-of-Concept-Exploit-fuer-kritische-Luecke-oeffentlich-11143311.html",
+      "image_title": "Schimmerndes Warndreieck"
+    },
+    {
+      "title": "Das Meldeportal in der AWS-Cloud: Warum nur, BSI?",
+      "teaser": "Schön, dass das BSI ein neues Portal für IT-Sicherheit bietet. Aber muss das unbedingt über die AWS-Cloud laufen, fragt sich Tobias Glemser.",
+      "url": "https://www.heise.de/meinung/Das-Meldeportal-in-der-AWS-Cloud-Warum-nur-BSI-11142071.html",
+      "image_title": "Ein Screenshot des BSI-Portals"
+    },
+    {
+      "title": "Kaufprämie für Elektroautos soll auch rückwirkend gezahlt werden",
+      "teaser": "Lange wurde um Details gestritten, nun soll feststehen, wer welchen Zuschuss beim Kauf eines Elektroautos bekommen kann.",
+      "url": "https://www.heise.de/news/Kaufpraemie-fuer-Elektroautos-soll-auch-rueckwirkend-gezahlt-werden-11143275.html",
+      "image_title": "VW ID.7"
+    },
+    {
+      "title": "Amazons EU-Cloud: Abgekoppelter Betrieb noch nicht vom BSI getestet",
+      "teaser": "Bei der Vorstellung der “European Sovereign Cloud” von AWS zeigt sich, dass der Cloudriese Europas Kunden halten will. Doch ein wichtiger Test fehlt noch.",
+      "url": "https://www.heise.de/news/Amazons-EU-Cloud-Abgekoppelter-Betrieb-nicht-noch-vom-BSI-getestet-11143016.html",
+      "image_title": "AWS-Schriftzug (Amazon Web Services)"
+    },
+    {
       "title": "Microsoft Teams: Separierung von Telefonie abgesagt, Entfernung von EXIF-Daten",
       "teaser": "Die zur Beschleunigung von Teams geplante Abspaltung der Telefonie kommt nicht. Teams entfernt EXIF-Daten von geteilten Bildern.",
       "url": "https://www.heise.de/news/Microsoft-Teams-Separierung-von-Telefonie-abgesagt-Entfernung-von-EXIF-Daten-11143261.html",
       "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
-    },
-    {
-      "title": "M365 Copilot für Fortgeschrittene – Profiwissen in fünf Sessions",
-      "teaser": "Vertiefen Sie Ihr Wissen über Microsofts KI-Assistenten. Ab dem 3. März vermittelt unser Experte Profiwissen für Admins und Anwender des M365 Copilot.",
-      "url": "https://www.heise.de/news/M365-Copilot-fuer-Fortgeschrittene-Profiwissen-in-fuenf-Sessions-11136258.html"
-    },
-    {
-      "title": "US-Firma plant Rechenzentrum in NRW für vier Milliarden Euro",
-      "teaser": "Der Datenbedarf steigt weiter, Cloud-Dienste und KI-Anwendungen werden immer wichtiger. Um sie bewältigen zu können, soll in NRW ein großer Standort entstehen.",
-      "url": "https://www.heise.de/news/US-Firma-plant-Rechenzentrum-in-NRW-fuer-vier-Milliarden-Euro-11143267.html",
-      "image_title": "Ein Gang im Rechenzentrum"
-    },
-    {
-      "title": "Zweckbezogene Auslöser in Home Assistant: Einfach komplexe Automationen bauen",
-      "teaser": "Die zweckbezogenen Auslöser und Bedingungen sollen Automationen für Einsteiger verständlicher machen. Wir zeigen, wie das geht.",
-      "url": "https://www.heise.de/ratgeber/Home-Assistant-Zweckbezogene-Ausloeser-richtig-einsetzen-11137651.html"
-    },
-    {
-      "title": "Iran: Totale Internetblockade jetzt seit einer Woche, Berichte über viele Tote",
-      "teaser": "Vor einer Woche wurde befürchtet, dass die Abschaltung des Internets im Iran eine blutige Niederschlagung von Protesten verstecken sollte. Das ist geschehen.",
-      "url": "https://www.heise.de/news/Iran-Totale-Internetblockade-jetzt-seit-einer-Woche-Berichte-ueber-viele-Tote-11143239.html",
-      "image_title": "Verzerrter Schritzug \"Offline\" vor iranischer Flagge"
-    },
-    {
-      "title": "Freitag: Webbrowser einfach entschlacken, ChatGPT mit neuer Übersetzungsfunktion",
-      "teaser": "Browser von Ballast entfernen + ChatGPT für angepasste Übersetzungen + Gaskraftwerke für H2-Upgrade + Geoblocking für Urheberrechte + Verbraucherschutz-Podcast",
-      "url": "https://www.heise.de/news/Freitag-Webbrowser-einfach-entschlacken-ChatGPT-mit-neuer-Uebersetzungsfunktion-11143235.html",
-      "image_title": "Ein Mann sitzt zurückgelehnt vor einem geöffneten Laptop und verschränkt die Arme hinter dem Kopf; Freitag: Browser-Verschlankung, ChatGPT-Übersetzer, Gaskraft-Plan, Copyright-Geoblocking & Verbraucherschutz-Podcast"
-    },
-    {
-      "title": "Vorsicht, Kunde: Fitnessstudio-Vertrag vorzeitig kündigen",
-      "teaser": "Wer einen Fitnessstudio-Vertrag vorzeitig beenden will, sollte einige Regeln beachten. Sonst drohen Streit, unnötige Kosten oder sogar Inkassoschreiben.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Fitnessstudio-Vertrag-vorzeitig-kuendigen-11143098.html",
-      "image_title": "Blick in einen Saal voller Fitnessgeräte"
-    },
-    {
-      "title": "OpenAI hat mit ChatGPT Translate jetzt einen eigenen Übersetzungsdienst",
-      "teaser": "ChatGPT Translate ist ein separater Übersetzer für mehr als 50 Sprachen. Die KI bietet an verschiedene Zielgruppen angepasste Übersetzungen, etwa für Kinder.",
-      "url": "https://www.heise.de/news/OpenAI-hat-mit-ChatGPT-Translate-jetzt-einen-eigenen-Uebersetzungsdienst-11143221.html",
-      "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole"
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -279,17 +279,17 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Elektroautos in Deutschland: VW dominiert, Tesla hinter Ford",
-      "url": "https://www.heise.de/news/Elektroautos-In-Deutschland-dominiert-Volkswagen-den-Markt-11135418.html",
-      "image_title": "VW ID.7 Tourer"
-    },
-    {
       "title": "Bill Gates’ Terrapower liefert Meta Platforms Atomreaktoren",
-      "url": "https://www.heise.de/news/Bill-Gates-Terrapower-liefert-Meta-Platforms-Atomreaktoren-11140054.html"
+      "url": "https://www.heise.de/news/Bill-Gates-Terrapower-liefert-Meta-Platforms-Atomreaktoren-11140054.html",
+      "image_title": "Nuklearbatterie"
     },
     {
       "title": "Google-Fonts-Abmahnwelle: BGH schickt Grundsatzfragen zu IP-Adressen an den EuGH",
       "url": "https://www.heise.de/news/Google-Fonts-Abmahnwelle-BGH-schickt-Grundsatzfragen-zu-IP-Adressen-an-den-EuGH-11136713.html"
+    },
+    {
+      "title": "Microsoft bestätigt: Telefonische Windows-Aktivierung ist passé",
+      "url": "https://www.heise.de/news/Microsoft-hat-telefonische-Windows-Aktivierung-deaktiviert-11135717.html"
     },
     {
       "title": "Rundfunkempfang bei StromausfallTop 10: Das beste Kurbelradio im Test",
@@ -324,6 +324,46 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "M365 Copilot für Fortgeschrittene – Profiwissen in fünf Sessions",
+      "teaser": "Vertiefen Sie Ihr Wissen über Microsofts KI-Assistenten. Ab dem 3. März vermittelt unser Experte Profiwissen für Admins und Anwender des M365 Copilot.",
+      "url": "https://www.heise.de/news/M365-Copilot-fuer-Fortgeschrittene-Profiwissen-in-fuenf-Sessions-11136258.html"
+    },
+    {
+      "title": "US-Firma plant Rechenzentrum in NRW für vier Milliarden Euro",
+      "teaser": "Der Datenbedarf steigt weiter, Cloud-Dienste und KI-Anwendungen werden immer wichtiger. Um sie bewältigen zu können, soll in NRW ein großer Standort entstehen.",
+      "url": "https://www.heise.de/news/US-Firma-plant-Rechenzentrum-in-NRW-fuer-vier-Milliarden-Euro-11143267.html",
+      "image_title": "Ein Gang im Rechenzentrum"
+    },
+    {
+      "title": "Zweckbezogene Auslöser in Home Assistant: Einfach komplexe Automationen bauen",
+      "teaser": "Die zweckbezogenen Auslöser und Bedingungen sollen Automationen für Einsteiger verständlicher machen. Wir zeigen, wie das geht.",
+      "url": "https://www.heise.de/ratgeber/Home-Assistant-Zweckbezogene-Ausloeser-richtig-einsetzen-11137651.html"
+    },
+    {
+      "title": "Iran: Totale Internetblockade jetzt seit einer Woche, Berichte über viele Tote",
+      "teaser": "Vor einer Woche wurde befürchtet, dass die Abschaltung des Internets im Iran eine blutige Niederschlagung von Protesten verstecken sollte. Das ist geschehen.",
+      "url": "https://www.heise.de/news/Iran-Totale-Internetblockade-jetzt-seit-einer-Woche-Berichte-ueber-viele-Tote-11143239.html",
+      "image_title": "Verzerrter Schritzug \"Offline\" vor iranischer Flagge"
+    },
+    {
+      "title": "Freitag: Webbrowser einfach entschlacken, ChatGPT mit neuer Übersetzungsfunktion",
+      "teaser": "Browser von Ballast entfernen + ChatGPT für angepasste Übersetzungen + Gaskraftwerke für H2-Upgrade + Geoblocking für Urheberrechte + Verbraucherschutz-Podcast",
+      "url": "https://www.heise.de/news/Freitag-Webbrowser-einfach-entschlacken-ChatGPT-mit-neuer-Uebersetzungsfunktion-11143235.html",
+      "image_title": "Ein Mann sitzt zurückgelehnt vor einem geöffneten Laptop und verschränkt die Arme hinter dem Kopf; Freitag: Browser-Verschlankung, ChatGPT-Übersetzer, Gaskraft-Plan, Copyright-Geoblocking & Verbraucherschutz-Podcast"
+    },
+    {
+      "title": "Vorsicht, Kunde: Fitnessstudio-Vertrag vorzeitig kündigen",
+      "teaser": "Wer einen Fitnessstudio-Vertrag vorzeitig beenden will, sollte einige Regeln beachten. Sonst drohen Streit, unnötige Kosten oder sogar Inkassoschreiben.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Fitnessstudio-Vertrag-vorzeitig-kuendigen-11143098.html",
+      "image_title": "Blick in einen Saal voller Fitnessgeräte"
+    },
+    {
+      "title": "OpenAI hat mit ChatGPT Translate jetzt einen eigenen Übersetzungsdienst",
+      "teaser": "ChatGPT Translate ist ein separater Übersetzer für mehr als 50 Sprachen. Die KI bietet an verschiedene Zielgruppen angepasste Übersetzungen, etwa für Kinder.",
+      "url": "https://www.heise.de/news/OpenAI-hat-mit-ChatGPT-Translate-jetzt-einen-eigenen-Uebersetzungsdienst-11143221.html",
+      "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole"
+    },
+    {
       "title": "Anne-Frank-Tagebuch: EuGH-Generalanwalt stärkt Geoblocking trotz VPN-Umgehung",
       "teaser": "Gegen uferlose Haftung von Webseitenbetreibern positioniert sich Generalanwalt Rantos in einem Gutachten zum Urheberrechtsschutz der Tagebücher Anne Franks.",
       "url": "https://www.heise.de/news/Anne-Frank-Tagebuch-EuGH-Generalanwalt-staerkt-Geoblocking-trotz-VPN-Umgehung-11143052.html",
@@ -355,6 +395,11 @@
       "teaser": "Werden Flüge annulliert, haben Passagiere Anspruch auf die volle Rückzahlung ihrer Kosten. Der EuGH sagt, das schließt Gebühren externer Buchungsportale ein.",
       "url": "https://www.heise.de/news/EuGH-Fluglinien-muessen-auch-Provisionen-von-Online-Vermittlern-erstatten-11142962.html",
       "image_title": "Das Air France-KLM-Logo auf einem Flugzeug."
+    },
+    {
+      "title": "Digitale Souveränität muss kein Wunschtraum bleiben",
+      "teaser": "Viele deutsche Unternehmen sind von ausländischer IT abhängig. Ein Webcast zeigt Ihnen, wie Sie das Steuer auf dem Weg in die digitale Zukunft in die eigene Hand nehmen können.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/ihre-it-ihre-regeln-souveraene-strategien-und-technologien-fuer-hybrid-it-compliance-und-datenhoheit-4992/?source=hbsad-ersatz"
     },
     {
       "title": "Tschechien: Oberster Gerichtshof kippt die anlasslose Vorratsdatenspeicherung",
@@ -399,11 +444,6 @@
       "image_title": "Final Cut Pro von Apple"
     },
     {
-      "title": "Self-driving Networks – Realität oder Zukunft?",
-      "teaser": "Self-driving Networks gelten als nächster Evolutionsschritt moderner Netzwerkarchitekturen. Durch den Einsatz von künstlicher Intelligenz und Machine Learning sollen Netzwerke nicht nur überwacht, sondern aktiv analysiert, optimiert und in Teilen autonom betrieben werden.",
-      "url": "https://business-services.heise.de/netze/netzwerk-management/beitrag/self-driving-networks-realitaet-oder-zukunft-5017?source=hbsad_ersatz"
-    },
-    {
       "title": "Wie man mit Quantenphysik Trackingdaten von NBA-Spielern analysiert",
       "teaser": "Quantenphysik hilft Basketballspielern, ihre Strategie zu optimieren und bessere Positionen auf dem Feld zu finden.",
       "url": "https://www.heise.de/hintergrund/Wie-man-mit-Quantenphysik-Trackingdaten-von-NBA-Spielern-analysiert-11098227.html"
@@ -419,46 +459,6 @@
       "teaser": "Adobe erweitert den Experience Manager um KI-Agenten, die selbstständig Code sowie Inhalte generieren und Regeln wie Marken- oder Nutzungsrechte prüfen.",
       "url": "https://www.heise.de/news/Adobe-Experience-Manager-Agenten-fuer-Code-und-Content-11142556.html",
       "image_title": "Adobe-Logo an Gebäude"
-    },
-    {
-      "title": "MAN und Arbeitnehmer einigen sich auf Bedingungen zum Abbau von 2300 Stellen",
-      "teaser": "MAN verspricht nach Verhandlungen mit Arbeitnehmervertretern unter anderem Investitionen und eine Job- und Standortgarantie bis weit ins nächste Jahrzehnt.",
-      "url": "https://www.heise.de/news/MAN-und-Arbeitnehmer-einigen-sich-auf-Bedingungen-zum-Abbau-von-2300-Stellen-11142472.html",
-      "image_title": "MAN Truck & Bus SE"
-    },
-    {
-      "title": "EMA und FDA legen Leitlinien für KI in der Arzneimittelentwicklung vor",
-      "teaser": "EMA und FDA definieren zehn Prinzipien für den KI‑Einsatz bei Arzneimitteln – als Antwort auf den wachsenden Druck aus der Industrie.",
-      "url": "https://www.heise.de/news/EMA-und-FDA-legen-Leitlinien-fuer-KI-in-der-Arzneimittelentwicklung-vor-11142480.html",
-      "image_title": "Frauen im Labor mit Tablet und wohl Forschungsumgebung. Es sieht etwas wie ein Reinraum aus."
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11129431.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Updatecurl: Projekt beendet Bug-Bounty-Programm",
-      "teaser": "curl-Maintainer Daniel Stenberg hat das Ende des Bug-Bounty-Programms angekündigt. Unbrauchbare KI-Meldungen nahmen wohl überhand.",
-      "url": "https://www.heise.de/news/curl-Projekt-beendet-Bug-Bounty-Programm-11142345.html",
-      "image_title": "cURL-Logo auf blauem Hintergrund"
-    },
-    {
-      "title": "Sicherheitslücke in Claude Cowork: So verschaffen sich Hacker unbemerkt Zugriff",
-      "teaser": "Claude Cowork ist als Begleiter für den Arbeitsalltag gedacht. In der aktuellen Testphase weist der KI-Agent allerdings noch gravierende Sicherheitslücken auf.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Claude-Cowork-So-verschaffen-sich-Hacker-unbemerkt-Zugriff-11142353.html",
-      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
-    },
-    {
-      "title": "Honor Magic8 Pro und Magic8 Lite: Android-Smartphones im Vergleich",
-      "teaser": "Die zwei Modelle der Magic8-Serie liegen preislich meilenweit auseinander, doch der Test zeigt: An manchen Stellen ist das günstige Modell dem teuren überlegen.",
-      "url": "https://www.heise.de/tests/Honor-Magic8-Pro-und-Magic8-Lite-Android-Smartphones-im-Vergleich-11087939.html"
-    },
-    {
-      "title": "Android-Smartphone Motorola Edge 70 im Test",
-      "teaser": "Motorola probiert sich an einem sehr flachen Smartphone, treibt den Schlankheitswahn aber nicht auf die Spitze. Gut so, das Edge 70 ist so alltagstauglicher.",
-      "url": "https://www.heise.de/tests/Android-Smartphone-Motorola-Edge-70-im-Test-11087921.html"
     },
     {
       "title": "Windows Update-Nebenwirkungen: Verbindungsfehler mit Windows 365",
@@ -550,6 +550,11 @@
       "image_title": "Hammer eines Richters, im Hintergund eine Justitia-Statue"
     },
     {
+      "title": "Updatecurl: Projekt beendet Bug-Bounty-Programm",
+      "url": "https://www.heise.de/news/curl-Projekt-beendet-Bug-Bounty-Programm-11142345.html",
+      "image_title": "cURL-Logo auf blauem Hintergrund"
+    },
+    {
       "title": "Wine 11.0 entkorkt: Neue WoW64-Architektur ist fertig",
       "url": "https://www.heise.de/news/Wine-11-0-entkorkt-Neue-WoW64-Architektur-ist-fertig-11140578.html",
       "image_title": "Different,Corks,On,Wooden,Surface"
@@ -558,11 +563,6 @@
       "title": "Doch kein Zwang zu digitalem Ausweis und Handy im Vereinigten Königreich",
       "url": "https://www.heise.de/news/Doch-kein-Zwang-zu-digitalem-Ausweis-und-Handy-im-Vereinigten-Koenigreich-11141527.html",
       "image_title": "Cartoon-Illustration eines in leichtem Wind hängenden Union Jack auf einer Fahnenstange"
-    },
-    {
-      "title": "Malware-Masche: Jobangebote jubeln Entwicklern bösartige Repositories unter",
-      "url": "https://www.heise.de/news/Malware-Masche-Jobangebote-jubeln-Entwicklern-boesartige-Repositories-unter-11140776.html",
-      "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -631,14 +631,15 @@
       "url": "https://www.heise.de/en/news/With-Creator-Studio-Will-Macs-with-M5-Pro-and-M5-Max-be-released-end-of-January-11142198.html"
     },
     {
+      "title": "253 Meter ohne SauerstoffLuc Bessons „Im Rausch der Tiefe“ im 4K-Heimkinotest",
+      "teaser": "Eine halbe Stunde die Luft anhalten? Jean Reno und Jean-Marc Barr haben 1988 dieses poetische Drama über Apnoe-Taucher gedreht.",
+      "url": "https://www.heise.de/tests/253-Meter-ohne-Sauerstoff-Luc-Bessons-Im-Rausch-der-Tiefe-im-4K-Heimkinotest-11141317.html",
+      "image_title": "Im Rausch der Tiefe - Tauchszene"
+    },
+    {
       "title": "FAQ: Glasfaserverkabelung",
       "teaser": "Der neue Glasfaseranschluss wirft viele Fragen auf, insbesondere wenn nicht alles wie geplant läuft. Wir liefern die wichtigsten Antworten.",
       "url": "https://www.heise.de/ratgeber/FAQ-Glasfaserverkabelung-11074636.html"
-    },
-    {
-      "title": "Ausprobiert: OCI-Images in Proxmox Virtual Environment",
-      "teaser": "Proxmox VE kann jetzt Docker-Images importieren und daraus LXC zaubern. Wir haben das neue Feature getestet und zeigen mögliche Fallstricke auf.",
-      "url": "https://www.heise.de/ratgeber/Ausprobiert-OCI-Images-in-Proxmox-Virtual-Environment-11094071.html"
     },
     {
       "title": "30 Jahre USB 1.0Der Anschluss für (fast) alles",
@@ -671,15 +672,16 @@
       "image_title": "Es ist eine Leiterplatte zu sehen, auf der mit Silkscreen Erklärungen zu Bauteilen aufgedruckt sind."
     },
     {
-      "title": "Frostwarner im Eigenbau: Schaltung zur Temperaturerkennung für Pflanzen",
-      "teaser": "Bei dieser Schaltung mit einem Temperatursensor und dem Timer-IC ICM7555 zeigt eine LED eine Temperaturunterschreitung so lange an, bis sie zurückgesetzt wird.",
-      "url": "https://www.heise.de/ratgeber/Frostwarner-im-Eigenbau-Schaltung-zur-Temperaturerkennung-fuer-Pflanzen-11137574.html"
-    },
-    {
       "title": "CES 2026: Multi-Color-Revolution im 3D-Druck",
       "teaser": "Die CES 2026 in Las Vegas brachte viel Neues zum 3D-Druck. So zeigte Creality KI-gestützte Multi-Color-Drucker und MetalPrinting präsentierte Metall-Extruder.",
       "url": "https://www.heise.de/news/3D-Druck-auf-der-CES-11138045.html",
       "image_title": "Stand von Creality auf der CES 2026"
+    },
+    {
+      "title": "Senioren-Kommunikator im Eigenbau",
+      "teaser": "Ältere Familienmitglieder ohne Handy verlieren schnell den Anschluss. Wir lösen das Problem mit einem Raspi, Display, Telegram und einer einfachen Bedienung.",
+      "url": "https://www.heise.de/ratgeber/Senioren-Kommunikator-im-Eigenbau-11122618.html",
+      "image_title": ","
     },
     {
       "title": "Blaues Blütenmeer überzeugt: Gewinner des c't Fotografie-Wettbewerbs stehen fest",
@@ -722,10 +724,22 @@
       "image_title": ", Nvidia"
     },
     {
+      "title": "In 88 Jahren kaum verändertDie Rückkehr der Royal Enfield Bullet als 650er",
+      "teaser": "Die Royal Enfield Bullet 650 folgt der Bullet 500, mit 88 Jahren das am längsten produzierte Kraftfahrzeug. Im Stil wird sie diesem Erbe ziemlich gut gerecht.",
+      "url": "https://www.heise.de/news/Vorstellung-Royal-Enfield-Bullet-650-In-88-Jahren-kaum-veraendert-11132334.html",
+      "image_title": "Royal Enfield Bullet 650"
+    },
+    {
       "title": "Nummer drei kommt erst in den 2030er-JahrenOpel Manta: Neuauflage wird verschoben",
       "teaser": "Die Renaissance des Opel Manta verschiebt sich auf die 30er-Jahre. Priorität haben zunächst Volumenmodelle.",
       "url": "https://www.heise.de/news/Opel-Manta-Neuauflage-wird-verschoben-11142538.html",
       "image_title": "Opel Manta A"
+    },
+    {
+      "title": "Abbau von 2300 StellenMAN und Arbeitnehmer einigen sich",
+      "teaser": "MAN verspricht nach Verhandlungen mit Arbeitnehmervertretern unter anderem Investitionen und eine Job- und Standortgarantie bis weit ins nächste Jahrzehnt.",
+      "url": "https://www.heise.de/news/MAN-und-Arbeitnehmer-einigen-sich-auf-Bedingungen-zum-Abbau-von-2300-Stellen-11142472.html",
+      "image_title": "MAN Truck & Bus SE"
     },
     {
       "title": "Vision Zero in der Ewigen StadtIn Rom gilt nun Tempo 30 für das gesamte Stadtzentrum",
@@ -734,34 +748,22 @@
       "image_title": "Straße beim Teatro di Marcello"
     },
     {
-      "title": "Laden ohne EileBYD Atto 2 DM-i mit Plug-in-Hybrid im Fahrbericht",
-      "teaser": "BYD bietet das Kompakt-SUV Atto 2 nun auch mit zwei Plug-in-Hybriden an. Doch im Fahrbericht zeigt sich: Vor allem beim Laden sollte der Hersteller nachlegen.",
-      "url": "https://www.heise.de/tests/BYD-Atto-2-DM-i-mit-Plug-in-Hybrid-im-Fahrbericht-Laden-ohne-Eile-11141607.html",
-      "image_title": "BYD Atto 2"
+      "title": "Chinas neue Seemacht: Der Drohnenkrieg beginnt auf Handelsschiffen",
+      "teaser": "Was wie zivile Logistik aussieht, entpuppt sich als Teil einer neuen Seekriegsstrategie – jenseits klassischer Flotten und geltender Regeln. Eine Einschätzung.",
+      "url": "https://www.heise.de/-11140174",
+      "image_title": "Grafik zeigt ein großes Frachtschiff, von dem aus Drohnen starten"
     },
     {
-      "title": "Konflikt mit China geht weiterNexperia: Gericht prüft Vorwürfe gegen Chip-Hersteller",
-      "teaser": "China hatte 2025 den Export von Chips der Marke Nexperia gestoppt und die Autoindustrie schwer getroffen. Nun soll ein Gericht die Rechtslage klären.",
-      "url": "https://www.heise.de/news/Nexperia-Gericht-prueft-Vorwuerfe-gegen-Chip-Hersteller-11141573.html",
-      "image_title": "Wafer"
+      "title": "Rente reicht nicht: Immer mehr Senioren auf Sozialhilfe angewiesen",
+      "teaser": "Die Zahl der Rentner in Grundsicherung steigt bundesweit stark an. In Ostdeutschland fällt der Zuwachs besonders deutlich aus.",
+      "url": "https://www.heise.de/-11143006",
+      "image_title": "Porträt einer alten Frau, die Geld zählt. Das Konzept von Alter, Armut, Sparen"
     },
     {
-      "title": "Tesla in Grünheide: Steht die Gigafactory vor dem Aus?",
-      "teaser": "Verkäufe eingebrochen, Gewerkschaftsstreit eskaliert: Teslas deutsches Werk kämpft ums Überleben. Was bedeutet das für die Region?",
-      "url": "https://www.heise.de/-11140830",
-      "image_title": "Luftbildaufnahme der Tesla Gigafactory in Grünheide"
-    },
-    {
-      "title": "Rückkehr der Machtfrage: Deutschlands Aufrüstung weckt alte Ängste in Paris",
-      "teaser": "Deutschland rüstet so stark auf wie nie zuvor. In Frankreich weckt das Erinnerungen, die man längst begraben glaubte.",
-      "url": "https://www.heise.de/-11139981",
-      "image_title": "Die Bundeswehr gedenkt der im Einsatz getöteten Soldaten mit einem Gedenkmarsch. Ankunft der Prozession am Bendlerblock."
-    },
-    {
-      "title": "Opium-Mangel: Wie die Taliban den Drogenmarkt in Europa verändern",
-      "teaser": "Die Taliban brachten Afghanistans Opiumproduktion zum Erliegen. Jetzt verändert sich Europas Drogenmarkt – mit fatalen Folgen.",
-      "url": "https://www.heise.de/-11137619",
-      "image_title": "Stoppschild in Afghanistan-Farben und Spritze"
+      "title": "Mehrheit ist Macht – nicht unbedingt Demokratie",
+      "teaser": "Wenn Parlamente entscheiden, ohne zu verhandeln: Wie aus Aushandlung Mehrheitsdurchsetzung wird – und warum das oft für demokratische Legitimation gehalten wird.",
+      "url": "https://www.heise.de/-11141652",
+      "image_title": "Wagschale mit \"Ja\" und \"Nein\" vor dem deutschen Reichstagsgebäude (gezeichnet)"
     },
     {
       "title": "„Niemand hält das mehr für unwahrscheinlich“: Kritische Infrastruktur im Visier",
