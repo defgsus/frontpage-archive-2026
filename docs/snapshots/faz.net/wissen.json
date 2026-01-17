@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-17T09:10:40",
+  "timestamp": "2026-01-17T10:10:42",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -56,9 +56,23 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Gefahren minimieren: So schützt man Kinder im Netz",
+      "teaser": "Kinder und Jugendliche sollen vor den dunklen Seiten sozialer Medien und des Internets geschützt werden. Doch Alterskontrollen im Netz funktionieren nicht. Dabei gäbe es die perfekte Lösung.",
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/kinderschutz-in-sozialen-medien-warum-alterskontrollen-versagen-accg-110819508.html"
+    },
+    {
+      "title": "Gesichtserkennung mit KI: Wie Teenager Alterskontrollen im Netz austricksen",
+      "teaser": "Alterskontrollen per KI sollen Jugendliche vor gefährlichen Inhalten im Netz schützen. Doch die Technologie lässt sich leicht austricksen – und schließt manche Menschen aus.",
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/wie-teenager-alterskontrollen-im-netz-austricksen-accg-110819507.html",
+      "image_url": "https://media0.faz.net/image/w730/e2b0d71c7a4b/w5472h3078x0y570/202601/848b1993-f3cb-4e2e-a355-dfc16b855429/ki-rastert-gesichter-fuer-die.webp",
+      "image_title": "KI rastert Gesichter für die Alterskontrolle. Das funktioniert aber oft schlecht. (Symbolbild)"
+    },
+    {
       "title": "FAZ+Richtig Reanimieren: Vorsicht vor Fernsehtipps zum Überleben",
       "teaser": "Fans von Arztserien müssen nun ganz stark sein. Eine Studie zeigt: Wiederbelebungen im Fernsehen sind meist medizinischer Humbug. Die leidenschaftliche Mund-zu-Mund-Beatmung lässt man also besser.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/reanimationen-im-tv-sind-medizinisch-oft-falsch-110818235.html"
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/reanimationen-im-tv-sind-medizinisch-oft-falsch-110818235.html",
+      "image_url": "https://media0.faz.net/image/w730/7373a7931956/w2500h1406x0y255/202601/eeb40936-f5cb-4d87-b8a8-be0d2cbc4e87/wissenschaftlich-ist-es.webp",
+      "image_title": "Wissenschaftlich ist es bestätigt: Arztserien ersetzen keinen Erste-Hilfe-Kurs."
     },
     {
       "title": "Aufnahme von Satelliten: Der einst größte Eisberg der Welt zerfällt",
@@ -87,19 +101,6 @@
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/gewisse-lebenslinien-110814319.html",
       "image_url": "https://media0.faz.net/image/w730/ca663f03b81f/w2418h1360x0y0/012026/1.10814317/in-seiner-rembrandt.webp",
       "image_title": "In seiner Rembrandt-Monographie von 1917 schreibt der Soziologe Georg Simmel: „Der mathematische Kreis als solcher hat mit den runden Dingen in der realen Welt nicht das Geringste zu tun, er gehört einer fundamental und völlig anderen Ordnung an und ist in der empirisch-physischen überhaupt nicht herzustellen.“ Rembrandts Selbstporträt in Kenwood House stammt aus den letzten Lebensjahren des Malers."
-    },
-    {
-      "title": "Medizinische Probleme: Vorzeitig zurückgeholte ISS-Astronauten sind gelandet",
-      "teaser": "Ein Novum: Die Nasa hat eine Crew wegen medizinischer Probleme vorzeitig von der ISS zurückgeholt. Nun sind die vier Astronauten wieder auf der Erde.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/iss-nasa-holt-crew-erstmals-vorzeitig-auf-die-erde-zurueck-accg-200440263.html",
-      "image_url": "https://media0.faz.net/image/w730/ef8b82b0c1b5/w2414h1358x8y0/202601/43601.0.1666431237/vorzeitige-rueckkehr-die.webp",
-      "image_title": "Vorzeitige Rückkehr: Die Raumkapsel „Endeavor“ fällt an ihren Landefallschirmen in den Pazifik."
-    },
-    {
-      "title": "FAZ+Schrumpfende Exoplaneten: Welten wie Watte",
-      "teaser": "Ein ferner Stern wird von vier Planeten ungewöhnlich geringer Dichte umkreist. Doch diese Himmelskörper sind noch sehr jung und dürften mit zunehmendem Alter ihre Flauschigkeit verlieren.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/die-planeten-um-v1298-tau-haben-abnorm-geringe-dichten-accg-110818243.html",
-      "image_url": "https://media0.faz.net/image/w730/863df64a63c1/w1170h658x0y61/202601/43601.0.1658606461/4360101658606461.webp"
     },
     {
       "title": "FAZ+„The Big Bang Theory“: Physiker knacken Sitcom-Kopfnuss",
@@ -172,10 +173,11 @@
       "image_title": "Johanna Kuroczik"
     },
     {
-      "title": "FAZ+EU-Regelung schadet Forschung: Lesen bildet – auch die KI",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/warum-europas-spitzenforschung-nicht-ueberreguliert-werden-darf-accg-110817899.html",
-      "image_url": "https://media0.faz.net/image/w920/72a4ef354abc/w2000h1125x0y104/201310/431.0.41229367/die-faeden-laufen-bisher.webp",
-      "image_title": "Die Fäden laufen bisher woanders zusammen wie hier im Google-Datenzentrum in Oklahoma, auf das die KI zugreift."
+      "title": "Medizinische Probleme: Vorzeitig zurückgeholte ISS-Astronauten sind gelandet",
+      "teaser": "Ein Novum: Die Nasa hat eine Crew wegen medizinischer Probleme vorzeitig von der ISS zurückgeholt. Nun sind die vier Astronauten wieder auf der Erde.",
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/iss-nasa-holt-crew-erstmals-vorzeitig-auf-die-erde-zurueck-accg-200440263.html",
+      "image_url": "https://media0.faz.net/image/w920/ef8b82b0c1b5/w2414h1358x8y0/202601/43601.0.1666431237/vorzeitige-rueckkehr-die.webp",
+      "image_title": "Vorzeitige Rückkehr: Die Raumkapsel „Endeavor“ fällt an ihren Landefallschirmen in den Pazifik."
     },
     {
       "title": "FAZ+Winterrätsel: Mit barer Münze",
@@ -191,13 +193,6 @@
       "image_title": "Ist das echt? Auch Wissenschaftler können angesichts von KI-Fakes ihren Augen oft nicht mehr trauen."
     },
     {
-      "title": "FAZ+Orthopädie: Wenn Kieferprobleme den Rücken belasten",
-      "teaser": "Bei der Craniomandibulären Dysfunktion passen Ober- und Unterkiefer nicht richtig aufeinander. Das lässt sich mit Schienen und Übungen gut behandeln, sagt Zahnarzt Daniel Hellmann.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/fehlstellung-des-kiefers-kann-zu-rueckenschmerzen-fuehren-accg-110811780.html",
-      "image_url": "https://media0.faz.net/image/w730/e2754a413fc9/w7008h3942x0y365/202601/3362b0f7-d5cf-48e2-a240-266bbbc8a7ca/schiefer-kiefer-wenn-es-wehtut.webp",
-      "image_title": "Schiefer Kiefer: „Wenn es wehtut, sollte man das abklären lassen.“"
-    },
-    {
       "title": "FAZ+Anlagestratege über Crashgefahr: „Wir verstehen diese Furcht nicht“",
       "teaser": "US-Aktien sind auch 2026 seine erste Wahl: Mabrouk Chetouane, Chefstratege des französischen Vermögensverwalters Natixis, zieht Amerika Europa vor – warnt aber vor naiven Erwartungen.",
       "url": "https://www.faz.net/aktuell/finanzen/dax-auf-rekord-wir-verstehen-diese-furcht-nicht-accg-110818458.html",
@@ -210,6 +205,13 @@
       "url": "https://www.faz.net/pro/digitalwirtschaft/transformation/industriepolitik-5-dinge-die-deutschland-aendern-muss-accg-200434793.html",
       "image_url": "https://media0.faz.net/image/w730/909f42d1e226/w7886h4436x0y820/202509/43601.0.1262024716/europas-supercomputer-jupiter.webp",
       "image_title": "Europas Supercomputer „Jupiter“ in Jülich"
+    },
+    {
+      "title": "FAZ+Obsidian & Claude Code: Der neue Superassistent für Wissensarbeiter",
+      "teaser": "Anthropic öffnet sein Entwicklerwerkzeug Claude Code für alle Wissensarbeiter. In Kombination mit der kostenlosen Notizsoftware Obsidian entsteht ein Recherche-Assistent, der weit mehr kann als jeder Chatbot.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/obsidian-und-claude-code-der-neue-superassistent-fuer-wissensarbeit-accg-200433475.html",
+      "image_url": "https://media0.faz.net/image/w730/5796e2e55003/w3000h1687x0y156/202509/43601.0.1351578239/claude-code-die-produktmanager.webp",
+      "image_title": "Claude Code: Die Produktmanager Cat Wu und Alex Albert."
     },
     {
       "title": "FAZ+Orthopädie: Wenn Kieferprobleme den Rücken belasten",
@@ -253,10 +255,16 @@
       "image_title": "Darstellung von Melanom-Zellen. Studien weisen darauf hin, dass personalisierte Vakzine dabei helfen können, Rückfälle zu verhindern."
     },
     {
+      "title": "FAZ+Schrumpfende Exoplaneten: Welten wie Watte",
+      "teaser": "Ein ferner Stern wird von vier Planeten ungewöhnlich geringer Dichte umkreist. Doch diese Himmelskörper sind noch sehr jung und dürften mit zunehmendem Alter ihre Flauschigkeit verlieren.",
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/die-planeten-um-v1298-tau-haben-abnorm-geringe-dichten-accg-110818243.html",
+      "image_url": "https://media0.faz.net/image/w920/5459121209ea/w1170h501x0y140/202601/43601.0.1658606461/4360101658606461.webp"
+    },
+    {
       "title": "Astrophysikalisches Rätsel: Wie macht dieser Zwerg das nur?",
       "teaser": "Astronomen finden eine farbenfrohe Stoßwelle um einen verglühten Stern, die sie nicht erklären können.",
       "url": "https://www.faz.net/aktuell/wissen/weltraum/eine-stosswelle-um-einen-toten-stern-gibt-raetsel-auf-accg-110818233.html",
-      "image_url": "https://media0.faz.net/image/w920/6ff891c8a036/w2999h1285x0y201/012026/1.10818232/schock-im-sternbild-fuhrmann.webp",
+      "image_url": "https://media0.faz.net/image/w730/916b1aacc4da/w2999h1687x0y0/012026/1.10818232/schock-im-sternbild-fuhrmann.webp",
       "image_title": "Schock im Sternbild Fuhrmann: Der weiße Zwergstern RXJ0528+2838 ist von Stoßfronten umhüllt, von denen niemand weiß, womit er sie aufbaut."
     },
     {
@@ -265,12 +273,6 @@
       "url": "https://www.faz.net/aktuell/wissen/weltraum/nasa-holt-iss-crew-vorzeitig-zurueck-accg-200421518.html",
       "image_url": "https://media0.faz.net/image/w730/d55cf6875c0d/w3000h1687x0y157/202601/43601.0.1647614394/archivbild-der-iss-von.webp",
       "image_title": "Archivbild der ISS von Roscosmos: Eine Besatzung der Raumstation kehrt früher als geplant zurück."
-    },
-    {
-      "title": "FAZ+Siedlungen auf dem Mond: Ob wir diesmal bleiben werden?",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/alltag-auf-dem-mond-welche-technologien-es-moeglich-machen-200413287.html",
-      "image_url": "https://media0.faz.net/image/w730/51015f6fe961/w1920h1080x0y0/202601/45f27405-28c4-4951-bb47-14788c76f164/dluperuuypjy.webp"
     },
     {
       "title": "FAZ+Neuer Genrausch: Was die Gene über Genies und Massenmörder verraten",
@@ -399,10 +401,16 @@
       "image_title": "Unter dem Gerichtspräsidenten Andreas Voßkuhle suchte das Bundesverfassungsgericht den breiten Konsens im Zeichen einer neoaristotelischen Mitte. Hier die Hälfte des Zweiten Senats in der Zusammensetzung des Jahres 2014: links neben Voßkuhle Gertrude Lübbe-Wolff, rechts Michael Gerhardt und Peter Michael Huber."
     },
     {
+      "title": "FAZ+EU-Regelung schadet Forschung: Lesen bildet – auch die KI",
+      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/warum-europas-spitzenforschung-nicht-ueberreguliert-werden-darf-accg-110817899.html",
+      "image_url": "https://media0.faz.net/image/w920/483e3b3a2cd5/w2000h857x0y237/201310/431.0.41229367/die-faeden-laufen-bisher.webp",
+      "image_title": "Die Fäden laufen bisher woanders zusammen wie hier im Google-Datenzentrum in Oklahoma, auf das die KI zugreift."
+    },
+    {
       "title": "Gespräch zum „Trump Action Tracker“: „Zurzeit brennt es an vielen Stellen“",
       "teaser": "Die Trump-Kritikerin Christina Pagel dokumentiert die antidemokratischen und wissenschaftsfeindlichen Aktionen der US-Regierung im „Trump Action Tracker“.",
       "url": "https://www.faz.net/aktuell/wissen/forschung-politik/trump-ideologie-christina-pagel-ueber-die-gefahr-fuer-forschung-und-demokratie-accg-110814258.html",
-      "image_url": "https://media0.faz.net/image/w920/2862829ac72c/w3000h1285x0y357/202601/43601.0.1639235723/groenland-im-visier-der-usa.webp",
+      "image_url": "https://media0.faz.net/image/w730/40aa823f4dd5/w3000h1687x0y156/202601/43601.0.1639235723/groenland-im-visier-der-usa.webp",
       "image_title": "Grönland im Visier der USA: Mitglieder der dänischen Streitkräfte nehmen an einer Übung mit Hunderten von Soldaten aus mehreren europäischen NATO-Mitgliedsstaaten in Kangerlussuaq teil."
     },
     {
@@ -411,13 +419,6 @@
       "url": "https://www.faz.net/aktuell/wissen/forschung-politik/wie-sozial-ist-europa-kritik-an-der-sozialwissenschaftlichen-asymmetriethese-accg-110806815.html",
       "image_url": "https://media0.faz.net/image/w730/109152f765c8/w3000h1688x0y156/032016/1.10806814/heimlicher-integrationsmotor.webp",
       "image_title": "Heimlicher Integrationsmotor: der Europäische Gerichtshof in Luxemburg"
-    },
-    {
-      "title": "Zukunft der Wissenschaft: „Auch diese Zeit ist bewältigbar, besser sogar, als wir denken“",
-      "teaser": "Die Wissenschaftsforscherin Helga Nowotny kämpft für mehr Zuversicht im Umgang mit globalen Krisen. Ein Gespräch über Weisheit, Wehrhaftigkeit und „kompetente Rebellen“ im Forschungsbetrieb.",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/philosophin-kaempft-fuer-zuversicht-und-gegen-wissenschaftsfeindlichkeit-accg-110807277.html",
-      "image_url": "https://media0.faz.net/image/w730/c0c0dc0a9f59/w2000h1125x0y996/122025/1.10807904/wissenschaftssoziologin-helga.webp",
-      "image_title": "Wissenschaftssoziologin Helga Nowotny, emeritierte Professorin der ETH Zürich."
     }
   ]
 }
