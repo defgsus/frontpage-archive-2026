@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-18T10:10:26",
+  "timestamp": "2026-01-18T11:08:12",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -63,7 +69,7 @@
   "articles": [
     {
       "title": "Grönland-Konflikt: Warum Trumps Eskalation ein Vorteil für Dänemark sein kann",
-      "teaser": "Kopenhagens diplomatische Bemühungen scheinen gescheitert. Doch Trumps Zoll-Ankündigung macht den dänischen Kampf um Grönland zu einem Kampf Europas.",
+      "teaser": "Kopenhagens diplomatische Bemühungen scheinen gescheitert. Doch Trumps Zollankündigung macht den dänischen Kampf um Grönland zu einem Kampf Europas.",
       "url": "https://www.faz.net/aktuell/politik/ausland/warum-trumps-eskalation-ein-vorteil-fuer-daenemark-sein-kann-accg-200449488.html",
       "image_url": "https://media0.faz.net/image/w1200/cd3df22737c3/w5398h3036x0y0/202601/43601.0.1668198924/schweigt-vorerst-zur-juengsten.webp",
       "image_title": "Schweigt vorerst zur jüngsten Eskalation: Dänemarks Ministerpräsidentin Mette Frederiksen am Donnerstag beim grönländischen Neujahrsempfang in Kopenhagen"
@@ -91,11 +97,18 @@
       "image_title": "Beim Einkauf müssen Supermarktkunden seit längerem mehr zahlen."
     },
     {
-      "title": "Mehr als 50 Verletzte: Hertha-Chef kündigt Aufarbeitung nach Gewalt-Vorfall an",
-      "teaser": "Bei gewalttätigen Auseinandersetzungen rund um das Zweitligaspiel zwischen Hertha BSC und Schalke 04 werden mehr als 50 Personen verletzt. Sicherheitskräfte und Fanhilfe machen unterschiedliche Angaben zur Ursache.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/gewalt-in-berlin-bei-hertha-bsc-gegen-schalke-04-aufarbeitung-angekuendigt-accg-200449410.html",
-      "image_url": "https://media0.faz.net/image/w730/496a0655a42b/w3000h1687x0y109/202601/43601.0.1674487026/halbwegs-verwaiste-ostkurve.webp",
-      "image_title": "Halbwegs verwaiste Ostkurve: Einige Fans von Hertha BSC haben das Stadion verlassen."
+      "title": "Augenzeugenbericht aus Teheran: „Dann begannen sie, auf die Menschen zu schießen“",
+      "teaser": "Noch immer dringen wenige Informationen aus Iran nach außen. Das Kulturmagazin „aaSoo“ veröffentlichte einen Augenzeugenbericht von den Straßen Teherans, den wir dokumentieren. Er beschreibt die Eskalation der vergangenen Tage.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wir-standen-seite-an-seite-augenzeugenbericht-aus-teheran-accg-200447248.html",
+      "image_url": "https://media0.faz.net/image/w730/e9588eabd3e1/w3000h1687x0y160/202601/43601.0.1661403387/teheran-protest-gegen-das.webp",
+      "image_title": "Teheran: Protest gegen das Regime auf den Straßen von Teheran am 8. Januar 2026"
+    },
+    {
+      "title": "Taktik-Analyse: So funktioniert der Kovac-Fußball beim BVB",
+      "teaser": "Unter Trainer Niko Kovac hat Borussia Dortmund an Stabilität gewonnen, aber dafür an Spektakel eingebüßt. Der Schlüssel: kluge Laufwege, maximales „Vordecken“ und eine fast risikolose Spielanlage.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-so-funktioniert-der-kovac-bvb-accg-110821095.html",
+      "image_url": "https://media0.faz.net/image/w730/3e9a65a0b24f/w1855h1043x0y83/202601/43601.0.1662079233/unter-ihm-treten-die.webp",
+      "image_title": "Unter ihm treten die Dortmunder gefestigter auf: Dortmund-Trainer Niko Kovac hat der Borussia eine neue Identität verpasst."
     },
     {
       "title": "FAZ+Hilfe bei Kopfschmerzen: „Nahrungsergänzungsmittel bessern die Migräne“",
@@ -112,18 +125,25 @@
       "image_title": "Auch Bundestrainer Alfred Gíslason hatte nicht seinen besten Tag beim Spiel gegen Serbien."
     },
     {
-      "title": "Augenzeugenbericht aus Teheran: „Dann begannen sie, auf die Menschen zu schießen“",
-      "teaser": "Noch immer dringen wenige Informationen aus Iran nach außen. Das Kulturmagazin „aaSoo“ veröffentlichte einen Augenzeugenbericht von den Straßen Teherans, den wir dokumentieren. Er beschreibt die Eskalation der vergangenen Tage.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wir-standen-seite-an-seite-augenzeugenbericht-aus-teheran-accg-200447248.html",
-      "image_url": "https://media0.faz.net/image/w730/e9588eabd3e1/w3000h1687x0y160/202601/43601.0.1661403387/teheran-protest-gegen-das.webp",
-      "image_title": "Teheran: Protest gegen das Regime auf den Straßen von Teheran am 8. Januar 2026"
+      "title": "FAZ+Gadget: Wie Künstliche Intelligenz beim Lernen hilft",
+      "teaser": "Ein besonderer Lernmodus verwandelt die Künstliche Intelligenz in einen interaktiven Lernpartner. Damit gibt die KI nicht einfach Lösungen aus, sondern hilft, den Weg dahin zu verstehen.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/gadgets/kuenstliche-intelligenz-wie-chatgpt-und-google-gemini-beim-lernen-helfen-accg-200431068.html",
+      "image_url": "https://media0.faz.net/image/w730/36e0407aa2b6/w3591h2020x0y187/202508/43601.0.1217277566/ki-wird-zum-neuen.webp",
+      "image_title": "KI wird zum neuen Lernbegleiter."
     },
     {
-      "title": "FAZ+Testament und Ehevertrag: So schützen Sie Ihr Vermögen für den Fall einer Scheidung",
-      "teaser": "Gescheiterte Beziehungen können tiefe Narben im Vermögen hinterlassen. Das Herz kann man davor nicht schützen, Haus und Hof schon. Was empfehlen Fachleute?",
-      "url": "https://www.faz.net/aktuell/finanzen/so-schuetzen-sie-ihr-vermoegen-fuer-den-fall-einer-scheidung-accg-110820578.html",
-      "image_url": "https://media0.faz.net/image/w730/594bd3f977a0/w3000h1688x0y134/022013/1.10820573/hoffentlich-haelt-die-ehe.webp",
-      "image_title": "Hoffentlich hält die Ehe: Reste einer Hochzeitsdekoration auf einer Brücke in Düsseldorf"
+      "title": "Der Wert der DLRG: Lebensretter bleiben oben, Populisten gehen unter",
+      "teaser": "Die Deutsche Lebens-Rettungs-Gesellschaft dichtet ihre Satzung nach, gegen das Eindringen von Extremismus. Sie sind beim DLRG eben Spezialisten für lebenserhaltende Maßnahmen.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/dlrg-aendert-satzung-gegen-eindringen-von-extremismus-kommentar-110820655.html",
+      "image_url": "https://media0.faz.net/image/w100/1b4f07d37542/w407h407x208y58/201406/1.2973452/christoph-becker.webp",
+      "image_title": "Christoph Becker"
+    },
+    {
+      "title": "„Faccetta nera“: Autoscooter mit Mussolini",
+      "teaser": "In Italien ertönt auf Festen und Rummelplätzen öfter ein faschistisches Propagandalied aus den Musikboxen. Ist das tatsächlich alles nur ein bloßer Zufall?",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/italienische-kirmes-spielt-propagandalied-faccetta-nera-110820159.html",
+      "image_url": "https://media0.faz.net/image/w100/38ddd094c8c5/w883h883x117y160/201108/1.1126013/karen-krueger.webp",
+      "image_title": "Karen Krüger, Mailand"
     },
     {
       "title": "Marine Le Pen vor Gericht: Starker Rechtsstaat, schwache Politik",
@@ -131,13 +151,6 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/le-pen-vor-gericht-kein-richterlicher-coup-gegen-die-demokratie-110820174.html",
       "image_url": "https://media0.faz.net/image/w100/76c88a1889e1/w360h360x404y109/201907/1.6278040/michaela-wiegel.webp",
       "image_title": "Michaela Wiegel"
-    },
-    {
-      "title": "„Faccetta nera“: Autoscooter mit Mussolini",
-      "teaser": "In Italien ertönt auf Festen und Rummelplätzen öfter ein faschistisches Propagandalied aus den Musikboxen. Ist das tatsächlich alles nur ein bloßer Zufall?",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/italienische-kirmes-spielt-propagandalied-faccetta-nera-110820159.html",
-      "image_url": "https://media0.faz.net/image/w100/38ddd094c8c5/w883h883x117y160/201108/1.1126013/karen-krueger.webp",
-      "image_title": "Karen Krüger, Mailand, Karen Krüger"
     },
     {
       "title": "Reformpolitik: Der SPD ist nicht mehr zu helfen",
@@ -196,83 +209,111 @@
       "image_title": "Sandra Kegel"
     },
     {
-      "title": "FAZ+Richtig Reanimieren: Vorsicht vor Fernsehtipps zum Überleben",
-      "teaser": "Fans von Arztserien müssen nun ganz stark sein. Eine Studie zeigt: Wiederbelebungen im Fernsehen sind meist medizinischer Humbug. Die leidenschaftliche Mund-zu-Mund-Beatmung lässt man also besser.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/reanimationen-im-tv-sind-medizinisch-oft-falsch-110818235.html",
-      "image_url": "https://media0.faz.net/image/w100/7909055f6696/w446h446x284y95/201912/1.6526459/johanna-kuroczik.webp",
-      "image_title": "Johanna Kuroczik"
+      "title": "Pfiffe für eigene Stars: Real-Spieler bekommen den „Zorn des Bernabéu“ zu spüren",
+      "teaser": "Im ersten Heimspiel nach dem Rauswurf von Xabi Alonso bei Real Madrid machen die Fans ihrem Unmut Luft. Vor allem ein Spieler bekommt die Wut ab: Vinicius Júnior.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/real-madrid-eigene-fans-pfeifen-vinicius-junior-aus-accg-200449829.html"
     },
     {
-      "title": "Kritik an USA: Israel verärgert wegen Besetzung von Gaza-Gremium",
-      "teaser": "Von den USA berufene Exekutivgremien sollen den Wiederaufbau im vom Krieg zwischen Israel und der Hamas zerstörten Gazastreifen steuern. Israel stößt sich jedoch an der personellen Besetzung.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nahost-israel-veraergert-wegen-besetzung-von-gaza-gremium-accg-200449127.html"
+      "title": "Fußboden bricht ein: Gäste fallen bei Party in Paris durch den Boden",
+      "teaser": "Mitten in der Nacht kracht der Boden weg: 20 Gäste stürzen bei einer Pariser Geburtstagsparty ein Stockwerk tiefer.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/gaeste-fallen-bei-party-in-paris-durch-den-boden-accg-200449860.html"
     },
     {
-      "title": "Europäischer Filmpreis: Joachim Triers „Sentimental Value“ als bester Spielfilm ausgezeichnet",
-      "teaser": "Joachim Triers Tragikomödie „Sentimental Value“ ist bei der Verleihung der Europäischen Filmpreise der Sieger des Abends. Mascha Schilinskis „In die Sonne schauen“ gewinnt nur in einer Nebenkategorie.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/joachim-triers-sentimental-value-als-bester-spielfilm-ausgezeichnet-accg-110821090.html"
+      "title": "Drama in NFL-Play-offs: Broncos bezwingen Bills – und verlieren Quarterback Nix",
+      "teaser": "Die Denver Broncos gewinnen einen Krimi in den NFL-Play-offs erst in der Verlängerung und stehen so dicht vor einer Super-Bowl-Teilnahme wie lange nicht. Doch auf den Jubel folgt rasch ein Tiefschlag.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/nfl-play-offs-broncos-besiegen-bills-und-verlieren-nix-accg-200449436.html"
     },
     {
-      "title": "Zverev bei Australian Open: „Ich bin happy mit dem Niveau“",
-      "teaser": "Zum Auftakt der Australian Open erwischt Alexander Zverev ein schwieriges Los. Am Anfang tut sich der Deutsche in Melbourne schwer. Doch dann ist der Vorjahresfinalist auf der Höhe.",
-      "url": "https://www.faz.net/aktuell/sport/australian-open/zverev-bei-australian-open-in-runde-zwei-accg-200449236.html"
+      "title": "Deutschland-Blog: Proteste gegen Besuch des syrischen Präsidenten geplant",
+      "teaser": "Kurden und Alawiten werfen al-Scharaa gewaltsame Unterdrückung von Minderheiten vor +++ Vorsitzender der Grünen Jugend beschimpft Markus Söder +++ Demonstrationen in Berlin gegen das Regime in Iran +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-proteste-gegen-besuch-des-syrischen-praesidenten-geplant-faz-110093143.html"
     },
     {
-      "title": "Liveblog USA unter Trump: Bericht: Trump will von Staaten eine Milliarde Dollar für Sitz in Friedensrat",
-      "teaser": "Top-Demokrat will Trumps Zollpläne im Senat stoppen +++ Israel verärgert mit USA wegen Besetzung von Gaza-Gremium +++ Trump fordert neue Führung im Iran +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-bericht-trump-will-von-staaten-eine-milliarde-dollar-fuer-sitz-in-friedensrat-faz-19444916.html"
+      "title": "Motodrom im Museum: 20 Meter in sechs Sekunden",
+      "teaser": "Steilkurve und Schikane: Nicht viele Museen haben eine eigene Rennstrecke. Eines in Hanau aber schon, und dort wird der Große Preis von Wilhelmsbad ausgefahren – High Speed im Maßstab 1 zu 32.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/grosser-preis-fuer-kleine-autos-carrera-fans-fahren-rennen-in-hanauer-museum-accg-200448383.html",
+      "image_url": "https://media0.faz.net/image/w920/6f4a36caa687/w5457h3070x0y284/202601/43601.0.1674451584/die-schnellsten-fuer-das.webp",
+      "image_title": "Die Schnellsten: Für das Siegerauto (rechts) und den Zweitplatzierten beim „Großen Preis von Wilhelmsbad“ gibt es Pokale in passender Größe."
+    },
+    {
+      "title": "Auf zum Langlauf: In der Abwechslung liegt die Anziehungskraft",
+      "teaser": "So was schätzen nicht nur Olympiasieger: Unterwegs auf der Grenzlandloipe von Balderschwang nach Hittisau mit einer Langläuferin, die sich auskennt.",
+      "url": "https://www.faz.net/aktuell/reise/auf-der-grenzlandloipe-von-balderschwang-nach-hittisau-accg-110820095.html",
+      "image_url": "https://media0.faz.net/image/w920/7615e5a440b7/w2250h1265x0y889/012024/1.10820091/die-grenzlandloipe.webp",
+      "image_title": "Die Grenzlandloipe."
+    },
+    {
+      "title": "FAZ+Kolumne „Richtig essen“: Warum verdient Cholesterin eine so große Aufmerksamkeit?",
+      "teaser": "In Deutschland nehmen fünf Millionen Menschen Cholesterinsenker. Aber auch die Ernährung kann helfen. Hier erfahren Sie, worauf dabei zu achten ist – und warum Margarine keine gesunde Alternative zu Butter darstellt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/richtig-essen/die-richtige-ernaehrung-kann-das-cholesterin-senken-die-besten-tipps-von-andreas-michalsen-accg-200421067.html",
+      "image_url": "https://media0.faz.net/image/w920/2ad0dd653e68/w3708h2086x1817y692/202410/43601.0.623328410/prof-dr-med-andreas-michalsen.webp",
+      "image_title": "Prof. Dr. med. Andreas Michalsen arbeitet als Internist, Ernährungsmediziner und Fastenarzt in Berlin."
+    },
+    {
+      "title": "FAZ+Testament und Ehevertrag: So schützen Sie Ihr Vermögen für den Fall einer Scheidung",
+      "teaser": "Gescheiterte Beziehungen können tiefe Narben im Vermögen hinterlassen. Das Herz kann man davor nicht schützen, Haus und Hof schon. Was empfehlen Fachleute?",
+      "url": "https://www.faz.net/aktuell/finanzen/so-schuetzen-sie-ihr-vermoegen-fuer-den-fall-einer-scheidung-accg-110820578.html",
+      "image_url": "https://media0.faz.net/image/w730/594bd3f977a0/w3000h1688x0y134/022013/1.10820573/hoffentlich-haelt-die-ehe.webp",
+      "image_title": "Hoffentlich hält die Ehe: Reste einer Hochzeitsdekoration auf einer Brücke in Düsseldorf"
+    },
+    {
+      "title": "FAZ+Testament und Ehevertrag: So schützen Sie Ihr Vermögen für den Fall einer Scheidung",
+      "teaser": "Gescheiterte Beziehungen können tiefe Narben im Vermögen hinterlassen. Das Herz kann man davor nicht schützen, Haus und Hof schon. Was empfehlen Fachleute?",
+      "url": "https://www.faz.net/aktuell/finanzen/so-schuetzen-sie-ihr-vermoegen-fuer-den-fall-einer-scheidung-accg-110820578.html"
+    },
+    {
+      "title": "FAZ+Prompt der Woche: So lassen Sie ChatGPT Ihre Prompts schreiben",
+      "teaser": "Künstliche Intelligenz kann sich selbst verbessern – wenn man ihr die Aufgabe richtig stellt. Und: Die zwölf wichtigsten Regeln für gute Prompts.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/so-lassen-sie-chatgpt-ihre-prompts-schreiben-accg-200425129.html",
+      "image_url": "https://media0.faz.net/image/w730/8438b12e971e/w3000h1687x0y172/202612/43601.0.1621574931/chatgpt-unterstuetzt-dabei-den.webp",
+      "image_title": "ChatGPT unterstützt dabei, den perfekten Prompt zu prompten."
+    },
+    {
+      "title": "FAZ+Prompt der Woche: So lassen Sie ChatGPT Ihre Prompts schreiben",
+      "teaser": "Künstliche Intelligenz kann sich selbst verbessern – wenn man ihr die Aufgabe richtig stellt. Und: Die zwölf wichtigsten Regeln für gute Prompts.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/so-lassen-sie-chatgpt-ihre-prompts-schreiben-accg-200425129.html"
     },
     {
       "title": "FAZ+Social-Media-Verbot: Australische Eltern erleben Kinder wie verwandelt",
       "teaser": "In Australien trat das weltweit erste Social-Media-Verbot für Kinder und Jugendliche in Kraft. Einen Monat später sieht sich die Regierung bestätigt: „Down Under“ habe gesellige Sommerferien erlebt.",
       "url": "https://www.faz.net/aktuell/politik/ausland/social-media-verbot-australische-eltern-erleben-kinder-wie-verwandelt-accg-200443964.html",
-      "image_url": "https://media0.faz.net/image/w920/0309b321227c/w8192h4608x0y468/202512/43601.0.1567683257/zwei-australische-jugendliche.webp",
+      "image_url": "https://media0.faz.net/image/w1200/0309b321227c/w8192h4608x0y468/202512/43601.0.1567683257/zwei-australische-jugendliche.webp",
       "image_title": "Zwei australische Jugendliche aus Sydney mit ihren Handys"
     },
     {
-      "title": "FAZ+Kolumne „Richtig essen“: Auf diese zwei Lebensmittel sollte man ganz verzichten",
-      "teaser": "Hochverarbeitete Nahrung führt zu Übergewicht und Krankheiten wie Diabetes Typ 2. Es fällt aber nicht leicht, Fruchtjoghurts, Fertiggerichte oder Limonaden vom Speiseplan zu streichen. Wie die Lebensmittelindustrie uns austrickst.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/richtig-essen/ueber-einen-monat-lang-hochverarbeitete-nahrung-ich-fuehle-mich-zehn-jahre-aelter-110269807.html",
-      "image_url": "https://media0.faz.net/image/w730/0082f4cb3cf1/w2983h1678x17y366/202502/1.10270849/hochverarbeitetes-toastbrot.webp",
-      "image_title": "Hochverarbeitetes Toastbrot hat mit selbst gebackenem Vollkornbrot nicht viel zu tun."
+      "title": "FAZ+Geistige Fitness: 17 Wege zum gesunden Gehirn",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/wissen/geistige-fitness-im-alter-so-schuetzen-sie-ihr-gehirn-200432559.html",
+      "image_url": "https://media0.faz.net/image/w730/bb009a1552a5/w1920h1080x0y0/202601/97a7220a-aacb-4bae-960c-fa192ca420c5/pope-leo-xiv-2nd-r-salutes.webp",
+      "image_title": "Pope Leo XIV (2nd R) salutes bishops during his weekly general audience at Paul VI Hall in the Vatican on January 14, 2026. (Photo by Andreas SOLARO / AFP)"
     },
     {
-      "title": "FAZ+Kolumne „Richtig essen“: Auf diese zwei Lebensmittel sollte man ganz verzichten",
-      "teaser": "Hochverarbeitete Nahrung führt zu Übergewicht und Krankheiten wie Diabetes Typ 2. Es fällt aber nicht leicht, Fruchtjoghurts, Fertiggerichte oder Limonaden vom Speiseplan zu streichen. Wie die Lebensmittelindustrie uns austrickst.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/richtig-essen/ueber-einen-monat-lang-hochverarbeitete-nahrung-ich-fuehle-mich-zehn-jahre-aelter-110269807.html"
+      "title": "FAZ+Kritische Rohstoffe: Beamte auf Schatzsuche",
+      "teaser": "Chinas Macht über Seltene Erden führt vor Augen, dass Deutschland die Bodenschätze vernachlässigt hat. Eine unscheinbare Behörde hat nun eine Schlüsselrolle.",
+      "url": "https://www.faz.net/aktuell/politik/inland/seltene-erden-das-macht-die-behoerde-fuer-rohstoffe-110816807.html",
+      "image_url": "https://media0.faz.net/image/w730/210bbe1b9c11/w3000h1688x0y301/122025/1.10816804/mit-dem.webp",
+      "image_title": "Mit dem Rasterelektronenmikroskop: Ein Mitarbeiter betrachtet in der Bundesanstalt für Geowissenschaften und Rohstoffe in Hannover Gesteinsproben."
     },
     {
-      "title": "FAZ+Experte über Krafttraining: Das sind die besten Muskelübungen!",
-      "teaser": "Krafttraining ist gesund – auch im hohen Alter. Ein Experte erklärt, worauf es dabei ankommt, warnt vor den häufigsten Fehlern und verrät, warum regelmäßiges Training sogar das Krebsrisiko reduziert.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/muskelaufbau-durch-krafttraining-darauf-kommt-es-an-18352840.html",
-      "image_url": "https://media0.faz.net/image/w730/306aa4d82d01/w2944h1656x42y39/202209/1.8355067/es-reicht-aus-wenn-man-die.webp",
-      "image_title": "„Es reicht aus, wenn man die Muskulatur zweimal die Woche trainiert“, sagt Jürgen Gießing."
+      "title": "FAZ+Zukunftsforscher warnt: „Den Studenten fehlt es an fundamentalen Fähigkeiten“",
+      "teaser": "KI verändert das Studium grundlegend, sagt Zukunftsforscher Hartwin Maas. Im Interview erklärt er, warum akademische Abschlüsse an Wert verlieren – in einigen Fächern ganz besonders.",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/zukunftsforscher-warnt-den-studenten-fehlt-es-an-fundamentalen-faehigkeiten-accg-110762739.html",
+      "image_url": "https://media0.faz.net/image/w730/ce20af12c35b/w3000h1688x0y156/202504/1.10448637/eine-generation-die-nicht-mehr.webp",
+      "image_title": "Eine Generation, die nicht mehr in die alten Muster passt: Juravorlesung an der Goethe-Universität in Frankfurt"
     },
     {
-      "title": "FAZ+Experte über Krafttraining: Das sind die besten Muskelübungen!",
-      "teaser": "Krafttraining ist gesund – auch im hohen Alter. Ein Experte erklärt, worauf es dabei ankommt, warnt vor den häufigsten Fehlern und verrät, warum regelmäßiges Training sogar das Krebsrisiko reduziert.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/muskelaufbau-durch-krafttraining-darauf-kommt-es-an-18352840.html"
-    },
-    {
-      "title": "Zwangsstörungen: „Als würde man bei vollem Verstand verrückt werden“",
-      "teaser": "Jessica Teitz lebt schon seit ihrer Kindheit mit Zwangsstörungen. Heute spricht sie offen darüber, wie quälende Gedanken den Alltag bestimmen – und wie ein erfülltes Leben trotz Zweifeln gelingen kann.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/leben-mit-zwangsstoerung-wie-jessica-teitz-einen-weg-aus-der-endlosschleife-fand-accg-110818450.html",
-      "image_url": "https://media0.faz.net/image/w920/36cc3f847b24/w5745h3232x0y598/202601/47f11946-afec-4328-bc25-579490b29f05/ich-war-gefangen-in-der.webp",
-      "image_title": "„Ich war gefangen in der Endlosschleife“: Jessica Teitz hat gelernt, mit ihrer Zwangsstörung zu leben. Sie möchte, dass andere Leidende von ihren Erfahrungen profitieren."
-    },
-    {
-      "title": "FAZ+Sekt Soléance: Halber Alkohol – voller Geschmack?",
-      "teaser": "Der Soléance ist ein Schaumwein mit klassischer Flaschengärung – aber nur fünf Prozent Alkohol. Ist solch ein Sekt die Lösung, wenn man weniger Alkohol trinken möchte? Wir haben ihn verkostet.",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/soleance-wie-schmeckt-der-sekt-mit-nur-fuenf-prozent-alkohol-accg-200366802.html",
-      "image_url": "https://media0.faz.net/image/w920/189e9307968f/w3000h1687x0y156/202412/43601.0.909415752/schmeckt-auch-sekt-mit-nur.webp",
-      "image_title": "Schmeckt auch Sekt mit nur fünf Prozent Alkohol?"
+      "title": "Nach 25 Jahren Verhandlung: EU und Mercosur unterzeichnen Freihandelsabkommen",
+      "teaser": "Video",
+      "url": "https://www.faz.net/video/eu-und-mercosur-unterzeichnen-freihandelsabkommen-200449777.html",
+      "image_url": "https://media0.faz.net/image/w920/b6d1daec3e18/w5681h2434x0y676/202601/43601.0.1674478039/afp.webp",
+      "image_title": "AFP"
     },
     {
       "title": "Ankündigung von Sonderzöllen: Trump verschärft Streit um Grönland",
       "teaser": "Video",
       "url": "https://www.faz.net/video/trump-verschaerft-streit-um-groenland-200449649.html",
-      "image_url": "https://media0.faz.net/image/w920/cf81ef1c0b06/w3000h1285x0y357/202601/43601.0.1674098297/dpa.webp",
-      "image_title": "dpa"
+      "image_url": "https://media0.faz.net/image/w730/bac7603154ef/w3500h1969x0y182/202601/43601.0.1674727829/reuters.webp",
+      "image_title": "Reuters"
     },
     {
       "title": "Meuterei in Guatemala: Häftlinge nehmen 46 Geiseln in drei Gefängnissen",
@@ -280,13 +321,6 @@
       "url": "https://www.faz.net/video/guatemala-haeftlinge-nehmen-46-geiseln-200449543.html",
       "image_url": "https://media0.faz.net/image/w730/f2bf5f2b987d/w5500h3094x0y287/202601/43601.0.1675004358/reuters.webp",
       "image_title": "Reuters"
-    },
-    {
-      "title": "New York: Räuber stehlen Pokémon-Karten im Wert von 100.000 Dollar",
-      "teaser": "Video",
-      "url": "https://www.faz.net/video/raeuber-stehlen-pokemon-karten-im-wert-von-100-000-dollar-200448297.html",
-      "image_url": "https://media0.faz.net/image/w730/2ced0e1827ad/w2727h1534x35y250/202601/43601.0.1669980947/dpa.webp",
-      "image_title": "dpa"
     },
     {
       "title": "FAZ+Bücher-Podcast: Wie gespalten ist unsere Gesellschaft denn nun wirklich?",
@@ -317,13 +351,6 @@
       "image_title": "Mehr als unzufrieden: Oliver Glasner greift die Klubführung an."
     },
     {
-      "title": "Drama in NFL-Play-offs: Broncos bezwingen Bills – und verlieren Quarterback Nix",
-      "teaser": "Die Denver Broncos gewinnen einen Krimi in den NFL-Play-offs erst in der Verlängerung und stehen so dicht vor einer Super-Bowl-Teilnahme wie lange nicht. Doch auf den Jubel folgt rasch ein Tiefschlag.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/nfl-play-offs-broncos-besiegen-bills-und-verlieren-nix-accg-200449436.html",
-      "image_url": "https://media0.faz.net/image/w730/3b0938ac1b73/w3608h2029x0y180/202601/43601.0.1674952813/wird-denver-nicht-mehr-zur.webp",
-      "image_title": "Wird Denver nicht mehr zur Verfügung stehen in dieser Saison: Quarterback Bo Nix"
-    },
-    {
       "title": "SV Darmstadt 98: „Alle ziehen an einem Strang“",
       "teaser": "Der SV Darmstadt 98 geht als Tabellendritter in die Rückrunde der zweiten Liga. Vom Aufstieg in die Bundesliga als Ziel will bei den „Lilien“ trotzdem keiner sprechen.",
       "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/sv-darmstadt-98-mit-optimismus-in-rueckrunde-der-2-bundesliga-accg-200445361.html",
@@ -331,11 +358,18 @@
       "image_title": "Fingerzeig: Marco Richter sieht sich und die „Lilien“ im Aufwind."
     },
     {
-      "title": "Hertha BSC gegen Schalke: Zahlreiche Verletzte bei Zweitliga-Topspiel in Berlin",
-      "teaser": "Tore fallen nicht beim Topspiel der zweiten Bundesliga zwischen Hertha und Schalke. Im Stadion herrscht eine beklemmende Stimmung. Rund um die Partie kommt es zu Zwischenfällen mit Fans und Polizei.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fan-protest-bei-hertha-bsc-gegen-fc-schalke-04-in-2-bundesliga-200375186.html",
-      "image_url": "https://media0.faz.net/image/w730/b9c39f0c3db1/w2479h1394x241y48/202601/43601.0.1674503721/viel-kampf-aber-keine-tore.webp",
-      "image_title": "Viel Kampf, aber keine Tore: Hertha BSC und Schalke 04 trennen sich mit 0:0."
+      "title": "Mehr als 50 Verletzte: Hertha-Chef kündigt Aufarbeitung nach Gewalt-Vorfall an",
+      "teaser": "Bei gewalttätigen Auseinandersetzungen rund um das Zweitligaspiel zwischen Hertha BSC und Schalke 04 werden mehr als 50 Personen verletzt. Sicherheitskräfte und Fanhilfe machen unterschiedliche Angaben zur Ursache.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/gewalt-in-berlin-bei-hertha-bsc-gegen-schalke-04-aufarbeitung-angekuendigt-accg-200449410.html",
+      "image_url": "https://media0.faz.net/image/w730/496a0655a42b/w3000h1687x0y109/202601/43601.0.1674487026/halbwegs-verwaiste-ostkurve.webp",
+      "image_title": "Halbwegs verwaiste Ostkurve: Einige Fans von Hertha BSC haben das Stadion verlassen."
+    },
+    {
+      "title": "Zverev bei Australian Open: „Ich bin happy mit dem Niveau“",
+      "teaser": "Zum Auftakt der Australian Open erwischt Alexander Zverev ein schwieriges Los. Am Anfang tut sich der Deutsche in Melbourne schwer. Doch dann ist der Vorjahresfinalist auf der Höhe.",
+      "url": "https://www.faz.net/aktuell/sport/australian-open/zverev-bei-australian-open-in-runde-zwei-accg-200449236.html",
+      "image_url": "https://media0.faz.net/image/w730/3e74ce264e2a/w6340h3566x0y330/202601/43601.0.1675460147/alexander-zverev-tat-sich-im.webp",
+      "image_title": "Alexander Zverev tat sich im ersten Satz gegen Gabriel Diallo schwer."
     },
     {
       "title": "Wahlsieg für Präsident: Ugandas „alter Mann mit Hut“ siegt in umstrittener Wahl",
@@ -345,25 +379,25 @@
       "image_title": "Unterstützer von Präsident Museveni feiern das Wahlergebnis am Samstag in Kampala."
     },
     {
+      "title": "Liveblog USA unter Trump: Bericht: Trump will von Staaten eine Milliarde Dollar für Sitz in Friedensrat",
+      "teaser": "Top-Demokrat will Trumps Zollpläne im Senat stoppen +++ Israel verärgert mit USA wegen Besetzung von Gaza-Gremium +++ Trump fordert neue Führung im Iran +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-bericht-trump-will-von-staaten-eine-milliarde-dollar-fuer-sitz-in-friedensrat-faz-19444916.html",
+      "image_url": "https://media0.faz.net/image/w730/8394589f0713/w2833h1594x0y148/202601/43601.0.1674471908/washington-us-praesident.webp",
+      "image_title": "Washington: US-Präsident Donald Trump zeigt auf einen Reporter, der ihm eine Frage stellt."
+    },
+    {
+      "title": "Kritik an USA: Israel verärgert wegen Besetzung von Gaza-Gremium",
+      "teaser": "Von den USA berufene Exekutivgremien sollen den Wiederaufbau im vom Krieg zwischen Israel und der Hamas zerstörten Gazastreifen steuern. Israel stößt sich jedoch an der personellen Besetzung.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/nahost-israel-veraergert-wegen-besetzung-von-gaza-gremium-accg-200449127.html",
+      "image_url": "https://media0.faz.net/image/w730/65283bf9b070/w3000h1687x0y156/202601/43601.0.1633264369/israels-ministerpraesident.webp",
+      "image_title": "Israels Ministerpräsident Benjamin Netanjahu"
+    },
+    {
       "title": "Kämpfe in Nordsyrien: Syrische Armee erobert Tabqa trotz US-Warnungen",
       "teaser": "Die USA fordern „jegliche Angriffe in den Gebieten“ zu unterlassen. Trotzdem dringt die syrische Armee weiter vor und bringt wichtige Standorte unter ihre Kontrolle.",
       "url": "https://www.faz.net/aktuell/politik/ausland/kaempfe-eskalieren-syrische-armee-erobert-tabqa-trotz-us-warnungen-accg-200449072.html",
       "image_url": "https://media0.faz.net/image/w730/a1272df11b7f/w5865h3299x0y305/202601/43601.0.1674283133/die-syrische-armee-richtet.webp",
       "image_title": "Die syrische Armee richtet ihren Angriff auf Tabqa."
-    },
-    {
-      "title": "Ringen um Grönland: Ernüchterung in Kopenhagen",
-      "teaser": "Dänemarks Versuch, die Krise auf diplomatischem Wege zu lösen, scheint gescheitert. Die anderen nordischen Staaten solidarisieren sich.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/groenland-und-daenemark-eskalation-mit-donald-trump-200448941.html",
-      "image_url": "https://media0.faz.net/image/w730/32a4a9803924/w3000h1687x0y156/202601/43601.0.1674300363/alles-umsonst-erst-am-mittwoch.webp",
-      "image_title": "Alles umsonst? Erst am Mittwoch war Dänemarks Außenminister Rasmussen zu Gesprächen in Washington gewesen."
-    },
-    {
-      "title": "Deutschland-Blog: Tausende Linke demonstrieren gegeneinander in Leipzig",
-      "teaser": "Am Samstag protestieren sowohl israel- als auch palästinasolidarische linke Gruppierungen +++ Vorsitzender der Grünen Jugend beschimpft Markus Söder +++ Demonstrationen in Berlin gegen das Regime in Iran +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-tausende-linke-demonstrieren-gegeneinander-in-leipzig-faz-110093143.html",
-      "image_url": "https://media0.faz.net/image/w730/c955599b90d2/w3000h1687x0y154/202601/43601.0.1673711921/ein-teilnehmer-einer-pro.webp",
-      "image_title": "Ein Teilnehmer einer pro-palästinensischen Demonstration in Leipzig ruft in ein Megaphon."
     },
     {
       "title": "FAZ+Erbschaftsteuer: „Meine Erben müssten das Unternehmen verkaufen oder sich verschulden“",
@@ -394,17 +428,10 @@
       "image_title": "Akkurat geschorene Hänge: In und um die japanische Stadt Uji werden die Grüntee-Sorten Sencha, Gyokuro und Matcha angebaut."
     },
     {
-      "title": "FAZ+Prompt der Woche: So lassen Sie ChatGPT Ihre Prompts schreiben",
-      "teaser": "Künstliche Intelligenz kann sich selbst verbessern – wenn man ihr die Aufgabe richtig stellt. Und: Die zwölf wichtigsten Regeln für gute Prompts.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/prompt-der-woche/so-lassen-sie-chatgpt-ihre-prompts-schreiben-accg-200425129.html",
-      "image_url": "https://media0.faz.net/image/w920/338226b5b0a9/w3000h1285x0y373/202612/43601.0.1621574931/chatgpt-unterstuetzt-dabei-den.webp",
-      "image_title": "ChatGPT unterstützt dabei, den perfekten Prompt zu prompten."
-    },
-    {
       "title": "FAZ+moderne Industriepolitik: Fünf Dinge, die Deutschland jetzt anders machen muss",
       "teaser": "China macht es vor: Keine Geopolitik mehr ohne Industriepolitik. Fünf konkrete Handlungsfelder zeigen, wie Deutschland strategischer, europäischer und schneller handeln kann – und muss.",
       "url": "https://www.faz.net/pro/digitalwirtschaft/transformation/industriepolitik-5-dinge-die-deutschland-aendern-muss-accg-200434793.html",
-      "image_url": "https://media0.faz.net/image/w730/909f42d1e226/w7886h4436x0y820/202509/43601.0.1262024716/europas-supercomputer-jupiter.webp",
+      "image_url": "https://media0.faz.net/image/w920/6688f711a85a/w7886h3379x0y1249/202509/43601.0.1262024716/europas-supercomputer-jupiter.webp",
       "image_title": "Europas Supercomputer „Jupiter“ in Jülich"
     },
     {
@@ -413,6 +440,13 @@
       "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/konkurrenz-fuer-apple-google-sichert-sich-zwei-wegweisende-deals-200434839.html",
       "image_url": "https://media0.faz.net/image/w730/08b609db8820/w4844h2725x0y252/202601/43601.0.1660123207/google-mischt-den-handel-auf.webp",
       "image_title": "Google mischt den Handel auf."
+    },
+    {
+      "title": "FAZ+Google UCP: Wenn der Algorithmus der beste Kunde wird",
+      "teaser": "Das Einkaufen per KI hat sich vom Experimentierstadium zur milliardenschweren Strategiefrage für die Branche gewandelt. Mit dem Universal Commerce Protocol will Google wieder erste Anlaufstelle für den Onlinehandel werden.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/plattformen/google-ucp-wenn-der-algorithmus-der-beste-kunde-wird-accg-200435393.html",
+      "image_url": "https://media0.faz.net/image/w730/5154892c5133/w3000h1687x0y123/202512/43601.0.1611626561/wer-dominiert-die-ki-aera.webp",
+      "image_title": "Wer dominiert die KI-Ära? Google geht einen weiteren Schritt."
     },
     {
       "title": "Vorstoß von 20 Stiftungen: Gegen das Silodenken in der Bildung",
@@ -463,10 +497,17 @@
       "image_title": "Derzeit dominieren die Bullen den Aktienmarkt."
     },
     {
+      "title": "Europäischer Filmpreis: Joachim Triers „Sentimental Value“ als bester Spielfilm ausgezeichnet",
+      "teaser": "Joachim Triers Tragikomödie „Sentimental Value“ ist bei der Verleihung der Europäischen Filmpreise der Sieger des Abends. Mascha Schilinskis „In die Sonne schauen“ gewinnt nur in einer Nebenkategorie.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/joachim-triers-sentimental-value-als-bester-spielfilm-ausgezeichnet-accg-110821090.html",
+      "image_url": "https://media0.faz.net/image/w1200/cdc46147f6b5/w3000h1688x0y156/012026/1.10821089/der-norwegische-regisseur.webp",
+      "image_title": "Der norwegische Regisseur Joachim Trier mit der Trophäe für den besten europäischen Spielfilm"
+    },
+    {
       "title": "Ethnologische Forschung: Gibt es Frieden nur ohne Staaten?",
       "teaser": "Thomas Wagner bietet mithilfe ethnologischer Forschung eine kühne Antwort auf die zunehmende Kriegsgefahr. Seine These: Ohne staatliches Gewaltmonopol lässt sich leichter Frieden schließen.",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/ethnologie-gibt-es-frieden-nur-ohne-staaten-110819394.html",
-      "image_url": "https://media0.faz.net/image/w1200/e6a3ac50ec58/w3000h1687x0y156/202601/43601.0.1644362946/soldat-der-somalischen.webp",
+      "image_url": "https://media0.faz.net/image/w730/e6a3ac50ec58/w3000h1687x0y156/202601/43601.0.1644362946/soldat-der-somalischen.webp",
       "image_title": "Soldat der somalischen Nationalarmee"
     },
     {
@@ -482,13 +523,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/dem-tenor-christoph-pregardien-zum-70-geburtstag-accg-110820591.html",
       "image_url": "https://media0.faz.net/image/w730/d08e7c44f26e/w2000h1125x0y1040/012026/1.10820830/christoph-pr-gardien.webp",
       "image_title": "Christoph Prégardien"
-    },
-    {
-      "title": "Nach sieben Jahren: Neues Album von Robbie Williams ist „eine Menge Brit“ und „auch Pop“",
-      "teaser": "Nach sieben Jahren veröffentlicht Robbie Williams ein neues Album. Darauf reist der britische Popstar musikalisch zurück. Auf „Britpop“ gibt es vertraute Klänge und ein paar Überraschungen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/neues-album-von-robbie-williams-ist-eine-menge-brit-und-auch-pop-accg-200449291.html",
-      "image_url": "https://media0.faz.net/image/w730/a5f1d91ebead/w3000h1687x0y197/202601/43601.0.1672121289/robbie-williams-bringt-neue.webp",
-      "image_title": "Robbie Williams bringt neue Musik heraus."
     },
     {
       "title": "FAZ+KI und Arbeitsplätze: „Künstliche Intelligenz wird fast jeden Beruf transformieren“",
@@ -540,24 +574,31 @@
       "image_title": "Aufgebrachte Kunden nach dem Millionen-Coup von Gelsenkirchen. Sie können von Montag an bei der Polizei aussagen."
     },
     {
+      "title": "FAZ+Sekt Soléance: Halber Alkohol – voller Geschmack?",
+      "teaser": "Der Soléance ist ein Schaumwein mit klassischer Flaschengärung – aber nur fünf Prozent Alkohol. Ist solch ein Sekt die Lösung, wenn man weniger Alkohol trinken möchte? Wir haben ihn verkostet.",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/soleance-wie-schmeckt-der-sekt-mit-nur-fuenf-prozent-alkohol-accg-200366802.html",
+      "image_url": "https://media0.faz.net/image/w730/189e9307968f/w3000h1687x0y156/202412/43601.0.909415752/schmeckt-auch-sekt-mit-nur.webp",
+      "image_title": "Schmeckt auch Sekt mit nur fünf Prozent Alkohol?"
+    },
+    {
       "title": "Mode fürs Frühjahr: Mit Stil und Jugendstil",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/stil/mode-design/neue-mode-trifft-jugendstil-200416933.html",
       "image_url": "https://media0.faz.net/image/w730/c52b1c46f887/w4961h2791x0y275/202601/07c47936-2445-4305-aa05-a77f643e4ecb/p7z9rl9vh06e.webp"
     },
     {
-      "title": "FAZ+Best Friend Forever: Braucht man als Frau die eine beste Freundin?",
-      "teaser": "Mädchen wird früh vermittelt, eine best friend forever haben zu müssen. Für unsere Autorin fühlte sich diese Erwartung oft wie ein Korsett an. Führen wir bessere Freundschaften, wenn wir uns von dieser Idee lösen?",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/bff-braucht-man-als-frau-eine-beste-freundin-accg-110816226.html",
-      "image_url": "https://media0.faz.net/image/w730/0ae6b47f8b1c/w2479h1395x471y291/122025/1.10816222/koennen-sich-alles-sagen.webp",
-      "image_title": "Können sich alles sagen, müssen aber nicht: Maja Goertz (r.) mit ihren Freundinnen T. (l.) und C. (M.)."
+      "title": "Rhein-Main-Liveblog: Vier Männer an Prügelei um Parkplatz beteiligt",
+      "teaser": "Fußgänger stirbt bei Unfall in Dietzenbach +++ Drei Verletzte nach Feuer in Offenbach +++ Sechs Kandidaten für OB-Wahl in Hanau +++ Liveblog zu Rhein-Main und Hessen",
+      "url": "https://www.faz.net/aktuell/rhein-main/wiesbaden-drei-maenner-verpruegeln-fahrer-wegen-eines-parkplatzes-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "image_url": "https://media0.faz.net/image/w1200/1b3538689757/w3000h1687x0y156/202406/43601.0.417152157/sind-nicht-immer-leicht-zu.webp",
+      "image_title": "Sind nicht immer leicht zu kriegen: Parkplätze am Straßenrand."
     },
     {
-      "title": "Rhein-Main-Liveblog: Fußgänger stirbt bei Unfall in Dietzenbach",
-      "teaser": "Drei Verletzte nach Feuer in Offenbach +++ Mehrere Demonstrationen gegen iranisches Regime in Frankfurt +++ Sechs Kandidaten für OB-Wahl in Hanau +++ Liveblog zu Rhein-Main und Hessen",
-      "url": "https://www.faz.net/aktuell/rhein-main/fussgaenger-stirbt-in-dietzenbach-nach-unfall-mit-smart-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-      "image_url": "https://media0.faz.net/image/w1200/36956bb6f2c0/w3000h1687x0y156/202601/43601.0.1671922980/auch-die-mitarbeiter-des.webp",
-      "image_title": "Auch die Mitarbeiter des Rettungsdienstes konnten dem Mann nicht mehr helfen."
+      "title": "Neues Besucherzentrum: ESA plant Erlebniswelt für Raumfahrt-Fans",
+      "teaser": "Die Europäische Raumfahrtagentur (ESA) plant ein Besucherzentrum an ihrem Standort in Darmstadt. Dafür arbeiten die Raumfahrer mit Planern von Freizeitparks zusammen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/freizeitpark-fuer-raumfahrt-fans-esa-plant-besucherzentrum-in-darmstadt-accg-200434769.html",
+      "image_url": "https://media0.faz.net/image/w730/18e1bb48f4bc/w5248h2953x0y0/202601/43601.0.1671332526/anschaulich-im-besucherzentrum.webp",
+      "image_title": "Anschaulich: Im Besucherzentrum will die ESA erklären, wie sich Himmelskörper durch den Weltraum bewegen."
     },
     {
       "title": "Café butter: Nur Butterbrot und doch mehr",
@@ -567,18 +608,11 @@
       "image_title": "Simpel und doch besonders: Sauerteigbrot mit Butter, Joghurt mit selbst gemachtem Granola und Früchten und Pfannkuchenkuchen"
     },
     {
-      "title": "Wimmelbuch zur 80-Jahr-Feier: Ein Schlossgespenst erklärt Hessen",
-      "teaser": "Von den Feiern zum 80-Jahre-Jubiläum Hessens sollen auch kleine Kinder etwas haben – und lernen. Landtagspräsidentin Astrid Wallmann empfiehlt dazu sechs große, farbige Doppelseiten.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-schenkt-sich-zum-80-geburtstag-ein-wimmelbuch-accg-200445474.html",
-      "image_url": "https://media0.faz.net/image/w730/8b20501308b7/w3000h1687x0y143/202601/43601.0.1670285429/die-queen-im-eingang-zum-80.webp",
-      "image_title": "Die Queen im Eingang: Zum 80-Jahre-Jubiläum Hessens gibt der Landtag ein Wimmelbuch heraus, in dem kleine Kinder große Persönlichkeiten kennenlernen."
-    },
-    {
-      "title": "Synagoge in Frankfurt: Nur eine Gedenktafel blieb als Erinnerung",
-      "teaser": "An der Straße Unterlindau stand das Gotteshaus, das in Frankfurt ursprünglich als „Westendsynagoge“ bekannt war. Im Januar 1926 und damit vor hundert Jahren wurde es in erweiterter Form eingeweiht.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/synagoge-im-frankfurter-westend-vor-100-jahren-erweitert-accg-200409700.html",
-      "image_url": "https://media0.faz.net/image/w730/e930cbd0f45f/w5585h3142x0y292/202601/43601.0.1657491038/die-letzte-erinnerung.webp",
-      "image_title": "Die letzte Erinnerung: Gedenktafel an der Straße Unterlindau, die an die ehemalige Synagoge und ihren Rabbiner Dr. Jakob Horovitz erinnert. Heute befinden sich dort ein Bürogebäude und ein Kindergarten."
+      "title": "Zwangsstörungen: „Als würde man bei vollem Verstand verrückt werden“",
+      "teaser": "Jessica Teitz lebt schon seit ihrer Kindheit mit Zwangsstörungen. Heute spricht sie offen darüber, wie quälende Gedanken den Alltag bestimmen – und wie ein erfülltes Leben trotz Zweifeln gelingen kann.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/leben-mit-zwangsstoerung-wie-jessica-teitz-einen-weg-aus-der-endlosschleife-fand-accg-110818450.html",
+      "image_url": "https://media0.faz.net/image/w730/36cc3f847b24/w5745h3232x0y598/202601/47f11946-afec-4328-bc25-579490b29f05/ich-war-gefangen-in-der.webp",
+      "image_title": "„Ich war gefangen in der Endlosschleife“: Jessica Teitz hat gelernt, mit ihrer Zwangsstörung zu leben. Sie möchte, dass andere Leidende von ihren Erfahrungen profitieren."
     },
     {
       "title": "Schlusslicht: Nur Schnee im Kopf",
