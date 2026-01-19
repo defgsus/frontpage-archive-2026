@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-19T20:12:25",
+  "timestamp": "2026-01-19T21:09:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "OpenAI verdreifacht Rechenleistung und Umsatz",
+      "url": "https://www.heise.de/news/OpenAI-verdreifacht-Rechenleistung-und-Umsatz-11146727.html"
+    },
     {
       "title": "Europas 174-Milliarden-Lücke: Müssen Privatinvestoren die Digitalnetze retten?",
       "url": "https://www.heise.de/news/Europas-174-Milliarden-Luecke-Muessen-Privatinvestoren-die-Digitalnetze-retten-11146701.html"
@@ -64,10 +68,6 @@
     {
       "title": "Speicherkrise: Microns Kapazitätserweiterungen greifen frühestens in 1,5 Jahren",
       "url": "https://www.heise.de/news/Speicherkrise-Microns-Kapazitaetserweiterungen-greifen-fruehestens-in-1-5-Jahren-11146496.html"
-    },
-    {
-      "title": "Xreal vs. Viture: Worum es beim Patentstreit der Display-Brillen geht",
-      "url": "https://www.heise.de/hintergrund/Xreal-vs-Viture-Worum-es-beim-Patentstreit-der-Display-Brillen-geht-11146310.html"
     },
     {
       "title": "RegulierungskonzeptBundesnetzagentur skizziert den Abschied vom Kupfernetz",
@@ -190,19 +190,25 @@
       "image_title": "Ein E-Auto von Citroen"
     },
     {
+      "title": "OpenAI verdreifacht Rechenleistung und Umsatz",
+      "teaser": "Mehr als 20 Milliarden US-Dollar Jahresumsatz verkündet OpenAIs Finanzchefin und verweist auf die gestiegene Rechenleistung. Diese bleibe entscheidend.",
+      "url": "https://www.heise.de/news/OpenAI-verdreifacht-Rechenleistung-und-Umsatz-11146727.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
+    },
+    {
       "title": "Europas 174-Milliarden-Lücke: Müssen Privatinvestoren die Digitalnetze retten?",
       "teaser": "Ohne massive Kapitalspritzen droht Europa laut Beratern der digitale Stillstand. Im „Telecom Health Index“ landet Deutschland nur auf Rang 15 von 20 Staaten.",
       "url": "https://www.heise.de/news/Europas-174-Milliarden-Luecke-Muessen-Privatinvestoren-die-Digitalnetze-retten-11146701.html"
     },
     {
+      "title": "Beim Internet bleiben die größten Städte zurück",
+      "teaser": "Eine Analyse von mehr als 100 Städten zeigt: Die höchsten Geschwindigkeiten für Festnetzanschlüsse gibt es nicht in den größten Ballungsräumen, sondern in Zentren mit 30.000 bis 110.000 Einwohnern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7165479068&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "Wenn das Handynetz ausfällt: Kommunikation per Funk oder Satellit",
       "teaser": "Das Handy geht nicht mehr und das Festnetz gibt keinen Laut mehr von sich. Aber wie kommuniziert man dann?",
       "url": "https://www.heise.de/bestenlisten/ratgeber/wenn-das-handynetz-ausfaellt-kommunikation-im-notfall-per-funk-oder-satellit/xsf9ww7?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
-      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bit-Rauschen: RAM-Panik und Monsterserver",
@@ -232,12 +238,6 @@
       "teaser": "Xreal wirft Viture Patentrechtsverletzung vor. Der Rechtsstreit begann in Deutschland und hat sich mittlerweile auf die USA ausgeweitet.",
       "url": "https://www.heise.de/hintergrund/Xreal-vs-Viture-Worum-es-beim-Patentstreit-der-Display-Brillen-geht-11146310.html",
       "image_title": "Eine Frau sitzt auf einem Sofa und schaut mit Display-Brille auf ein großes virtuelles Display."
-    },
-    {
-      "title": "Android: Sideloading unverifizierter Apps wird aufwändiger",
-      "teaser": "Android-Apps können offenbar auch ohne Entwickler-Verifizierung bei Google per Sideload installiert werden. Der Ablauf soll aber aufwändiger werden als bisher.",
-      "url": "https://www.heise.de/news/Android-Sideloading-unverifizierter-Apps-wird-aufwaendiger-11146258.html",
-      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -329,6 +329,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Android: Sideloading unverifizierter Apps wird aufwändiger",
+      "teaser": "Android-Apps können offenbar auch ohne Entwickler-Verifizierung bei Google per Sideload installiert werden. Der Ablauf soll aber aufwändiger werden als bisher.",
+      "url": "https://www.heise.de/news/Android-Sideloading-unverifizierter-Apps-wird-aufwaendiger-11146258.html",
+      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
+    },
+    {
       "title": "KI-Update: Werbung in ChatGPT, KI-Einsatz überrascht, Schwäche bei Claude Cowork",
       "teaser": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-Werbung-in-ChatGPT-KI-Einsatz-ueberrascht-Schwaeche-bei-Claude-Cowork-11145358.html"
@@ -400,15 +406,15 @@
       "image_title": "Dollarscheine"
     },
     {
+      "title": "Self-driving Networks – Realität oder Zukunft?",
+      "teaser": "Self-driving Networks gelten als nächster Evolutionsschritt moderner Netzwerkarchitekturen. Durch den Einsatz von künstlicher Intelligenz und Machine Learning sollen Netzwerke nicht nur überwacht, sondern aktiv analysiert, optimiert und in Teilen autonom betrieben werden.",
+      "url": "https://business-services.heise.de/netze/netzwerk-management/beitrag/self-driving-networks-realitaet-oder-zukunft-5017?source=hbsad_ersatz"
+    },
+    {
       "title": "KI-Modelle für die Medizin: Google veröffentlicht MedGemma 1.5 und MedASR",
       "teaser": "Google hat mit MedGemma 1.5 die neueste Version seines multimodalen KI-Modells veröffentlicht.",
       "url": "https://www.heise.de/news/KI-Modelle-fuer-die-Medizin-Google-veroeffentlicht-MedGemma-1-5-und-MedASR-11145790.html",
       "image_title": "Screenshot von Googles Medizin-KI-Demo auf Hugging Face"
-    },
-    {
-      "title": "Proxmox als Alternative für eine flexible IT-Infrastruktur",
-      "teaser": "IT-Verantwortliche wollen ihre IT-Infrastruktur oft flexibler, performanter und kostengünstiger gestalten. In einem Webcast zeigen IT-Experten am Beispiel von Proxmox VE und Proxmox Backup Server, wie Sie Open-Source-Virtualisierung erfolgreich einsetzen und den Umstieg von VMware professionell meistern.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/proxmox-ihre-alternative-fuer-flexible-und-kostenguenstige-it-infrastrukturen-5013/?source=hbsad-ersatz"
     },
     {
       "title": "AlertUnberechtigte Zugriffe möglich: Lücken in Dells OneFS-NAS-Betriebssystem",
@@ -462,12 +468,6 @@
       "teaser": "Apple hat aus Datenschutzgründen am Safari-User-Agent geschraubt. In die Falle tappte der Webanalysedienst Statcounter – und zählte die iOS-26-Nutzung falsch.",
       "url": "https://www.heise.de/news/iOS-26-Nutzung-Statcounter-raeumt-fehlerhafte-Zahlen-ein-11141128.html",
       "image_title": "Safari in iOS 26"
-    },
-    {
-      "title": "Statt Smartphones: Asus setzt auf „Physische KI“ und kommerzielle PCs",
-      "teaser": "Asus’ Vorsitzender Jonney Shih hat eine Pause der Smartphone-Entwicklung bestätigt. Die Ressourcen sollen auf PCs und „Physische KI“ umgeschichtet werden.",
-      "url": "https://www.heise.de/news/Asus-pausiert-Smartphone-Entwicklung-fuer-KI-und-PCs-11145585.html",
-      "image_title": "Asus-Vorsitzender Jonney Shih auf der Bühne der Jahresendgala"
     },
     {
       "title": "USA: Taiwan soll 40 Prozent all seiner Chips in den USA produzieren",
@@ -636,21 +636,20 @@
       "url": "https://www.heise.de/en/news/With-Creator-Studio-Will-Macs-with-M5-Pro-and-M5-Max-be-released-end-of-January-11142198.html"
     },
     {
-      "title": "Eigene Menüs für Textbausteine und mehr mit AutoHotkey erstellen",
-      "teaser": "Das kostenlose AutoHotkey für Windows stellt persönliche Textbausteine systemweit zur Verfügung. Selbstgebaute Menüs eröffnen noch viel mehr Möglichkeiten.",
-      "url": "https://www.heise.de/ratgeber/Eigene-Menues-fuer-Textbausteine-und-mehr-mit-AutoHotkey-erstellen-11137279.html",
-      "image_title": ", Ulrike Weis / KI / heise medien"
-    },
-    {
-      "title": "Hundebetreuung in der Nähe finden: Onlineplattform Hundelieb im Test",
-      "teaser": "Die Hundelieb-Community vernetzt Hundehalter mit Menschen, die sich gern zeitweise um Tiere kümmern. Wir haben die Dogsharing-Plattform getestet.",
-      "url": "https://www.heise.de/tests/Hundebetreuung-in-der-Naehe-finden-Onlineplattform-Hundelieb-im-Test-11081397.html"
+      "title": "Lautsprecher und Subwoofer im Bass abstimmen mit c’t-Testsignalen",
+      "teaser": "Der Bass Ihrer Anlage dröhnt oder bricht manchmal weg? Mit unseren Testsignalen stimmen Sie Lautsprecher und Subwoofer richtig ab und gleichen Raummoden aus.",
+      "url": "https://www.heise.de/ratgeber/Lautsprecher-und-Subwoofer-im-Bass-abstimmen-mit-c-t-Testsignalen-11136889.html"
     },
     {
       "title": "Bit-Rauschen: RAM-Panik und Monsterserver",
       "teaser": "US-Firmen stehen bei koreanischen DRAM-Firmen Schlange, um Chips zu reservieren. AMD-Chefin Su ist stolz auf KI-Server. China tüftelt an EUV-Lithografie.",
       "url": "https://www.heise.de/hintergrund/Bit-Rauschen-RAM-Panik-und-Monsterserver-11074547.html",
       "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "Hundebetreuung in der Nähe finden: Onlineplattform Hundelieb im Test",
+      "teaser": "Die Hundelieb-Community vernetzt Hundehalter mit Menschen, die sich gern zeitweise um Tiere kümmern. Wir haben die Dogsharing-Plattform getestet.",
+      "url": "https://www.heise.de/tests/Hundebetreuung-in-der-Naehe-finden-Onlineplattform-Hundelieb-im-Test-11081397.html"
     },
     {
       "title": "UpdateBequemer heizen9 smarte Heizkörperthermostate im Test",
@@ -671,6 +670,12 @@
       "image_title": ","
     },
     {
+      "title": "Bastel-Projekt: Wie Sie den PV-Anhänger verdrahten",
+      "teaser": "In diesem Artikel zeigen wir nun, wie man PV-Module, Wechselrichter, Laderegler und Akku für einen möglichst effizienten Betrieb miteinander verbindet.",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Wie-Sie-den-PV-Anhaenger-verdrahten-11122867.html",
+      "image_title": ","
+    },
+    {
       "title": "Schaltkreise als Nachschlagewerk",
       "teaser": "Dieses Kickstarter-Projekt zeigt elektronische Bauteile nicht auf Papier, sondern als funktionierende Schaltungen zum Ausprobieren.",
       "url": "https://www.heise.de/news/Schaltkreise-als-Nachschlagewerk-11140727.html",
@@ -680,12 +685,6 @@
       "title": "Frostwarner im Eigenbau: Schaltung zur Temperaturerkennung für Pflanzen",
       "teaser": "Bei dieser Schaltung mit einem Temperatursensor und dem Timer-IC ICM7555 zeigt eine LED eine Temperaturunterschreitung so lange an, bis sie zurückgesetzt wird.",
       "url": "https://www.heise.de/ratgeber/Frostwarner-im-Eigenbau-Schaltung-zur-Temperaturerkennung-fuer-Pflanzen-11137574.html"
-    },
-    {
-      "title": "CES 2026: Multi-Color-Revolution im 3D-Druck",
-      "teaser": "Die CES 2026 in Las Vegas brachte viel Neues zum 3D-Druck. So zeigte Creality KI-gestützte Multi-Color-Drucker und MetalPrinting präsentierte Metall-Extruder.",
-      "url": "https://www.heise.de/news/3D-Druck-auf-der-CES-11138045.html",
-      "image_title": "Stand von Creality auf der CES 2026"
     },
     {
       "title": "Stilvolle Kameragurte: 16 Modelle im ausführlichen Vergleich",
@@ -752,22 +751,22 @@
       "image_title": "VW ID.7"
     },
     {
-      "title": "Realismus im Ukrainekrieg: Warum die Kritiker falsch lagen",
-      "teaser": "Die realistische geopolitische Schule lag beim Ukraine-Krieg richtig. Kritiker versuchen, eigene Fehler anderen zuzuschreiben. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/-11139466",
-      "image_title": "Ein Schachbrett, im Hintergrund Putins Gesicht angedeutet"
+      "title": "Dunkle Fabriken: Ein Auto alle 60 Sekunden",
+      "teaser": "Voll automatisierte Produktionsanlagen, die ohne menschliche Anwesenheit auskommen, sind keine Zukunftsvision mehr. Doch welche Folgen hat das?",
+      "url": "https://www.heise.de/-11145088",
+      "image_title": "kaum beleuchteter Produktionsraum, in dem Roboter arbeiten."
     },
     {
-      "title": "Grönland-Krise: Europa denkt über Rauswurf der US-Truppen nach",
-      "teaser": "Europäische Diplomaten diskutieren hinter den Kulissen über drastische Schritte – während Berlin öffentlich Gelassenheit zeigt.",
-      "url": "https://www.heise.de/-11144754",
-      "image_title": "Bruchlinie zwischen den Flaggen der USA und der EU - Symbol für ein gespaltenes Verhältnis der Bündnispartner."
+      "title": "Migranten unter Druck: Wie sich ihr Alltag in Russland verändert hat",
+      "teaser": "Neue Gesetze schaffen ein Kontrollsystem aus Tracking-Apps und Registern – während viele unter falschen Versprechen an die Front geraten.",
+      "url": "https://www.heise.de/-11144714",
+      "image_title": "Razzia gegen illegale Arbeitsmigration in Russland"
     },
     {
-      "title": "Grönland-Krise: Warum Europa jetzt auf Konfrontation mit Trump setzt",
-      "teaser": "93 Milliarden Euro Gegenzölle liegen bereit. Trumps Grönland-Drohungen zwingen die EU zum radikalen Kurswechsel – mit unkalkulierbaren Risiken.",
-      "url": "https://www.heise.de/-11145665",
-      "image_title": "Die Flaggen der EU und der USA. Auf ihnen liegen Pferde eines Schachspiels."
+      "title": "Quadriga 2026: Deutschland probt die Kriegslogistik",
+      "teaser": "Deutschland wird zur logistischen Drehscheibe: Bis zu 800.000 Soldaten sollen im Ernstfall durchgeschleust werden können.",
+      "url": "https://www.heise.de/-11146384",
+      "image_title": "Die Bundeswehr befördert Kriegstechnik in Richtung Osten"
     },
     {
       "title": "Von der verstaubten CD zum privaten Streaming-Dienst – so geht’s",
