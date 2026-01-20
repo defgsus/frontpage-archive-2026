@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-20T13:38:05",
+  "timestamp": "2026-01-20T14:20:56",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,25 @@
   ],
   "articles": [
     {
-      "title": "X veröffentlicht Timeline-Algorithmus – Transparenz mit Lücken",
+      "title": "Virtualisierung: Wie man eine Proxmox-Infrastruktur mit Terraform bereitstellt",
+      "url": "https://www.heise.de/hintergrund/Virtualisierung-Wie-man-eine-Proxmox-Infrastruktur-mit-Terraform-bereitstellt-11108299.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "„Teenagerjahre von Planetensystemen“: Trümmerscheiben um Sterne abgebildet",
+      "url": "https://www.heise.de/news/Teenagerjahre-von-Planetensystemen-Truemmerscheiben-um-Sterne-abgebildet-11147609.html"
+    },
+    {
+      "title": "Sony will Kontrolle über TV-Geschäft nach China abgeben",
+      "url": "https://www.heise.de/news/Sony-will-Kontrolle-ueber-TV-Geschaeft-nach-China-abgeben-11147738.html"
+    },
+    {
+      "title": "OpenAI: Erstes Hardwareprodukt „auf Kurs“",
+      "url": "https://www.heise.de/news/OpenAI-Erstes-Hardwareprodukt-auf-Kurs-11147650.html"
+    },
+    {
+      "title": "X veröffentlicht Timeline-Algorithmus",
       "url": "https://www.heise.de/news/X-veroeffentlicht-Timeline-Algorithmus-Transparenz-mit-Luecken-11147593.html"
     },
     {
@@ -48,24 +66,6 @@
     {
       "title": "Produktvorschau: Diese Hardware plant Apple wohl für 2026",
       "url": "https://www.heise.de/news/Produktvorschau-Diese-Hardware-plant-Apple-wohl-fuer-2026-11126883.html"
-    },
-    {
-      "title": "Mathematikerin und GPS-Pionierin Gladys West im Alter von 95 Jahren gestorben",
-      "url": "https://www.heise.de/news/Mathematikerin-und-GPS-Pionierin-Gladys-West-im-Alter-von-95-Jahren-gestorben-11147442.html"
-    },
-    {
-      "title": "Zahlen, bitte! Club Hits in 3½ Zoll – Fatboy Slim und sein Atari ST",
-      "url": "https://www.heise.de/news/Zahlen-bitte-31-2-Zoll-DJ-Wie-Fatboy-Slim-auf-dem-Atari-ST-Hits-produzierte-11146934.html"
-    },
-    {
-      "title": "Hundebetreuung in der Nähe finden: Onlineplattform Hundelieb im Test",
-      "url": "https://www.heise.de/tests/Hundebetreuung-in-der-Naehe-finden-Onlineplattform-Hundelieb-im-Test-11081397.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Verbände warnen vor EU‑Zugriff auf Daten in der elektronischen Patientenakte",
-      "url": "https://www.heise.de/news/Psychologische-und-therapeutische-Verbaende-fordern-besseren-Schutz-der-ePA-Daten-11147250.html"
     },
     {
       "title": "Wertverlust ist höher als bei VerbrennernGebrauchte E-Autos vergleichsweise wenig gefragt",
@@ -189,7 +189,36 @@
       "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge"
     },
     {
-      "title": "X veröffentlicht Timeline-Algorithmus – Transparenz mit Lücken",
+      "title": "Virtualisierung: Wie man eine Proxmox-Infrastruktur mit Terraform bereitstellt",
+      "teaser": "Mit Terraform definiert man komplexe Proxmox-Infrastrukturen und automatisiert Abläufe. Dabei arbeiten Proxmox-API, Templates und Terraform-Provider zusammen.",
+      "url": "https://www.heise.de/hintergrund/Virtualisierung-Wie-man-eine-Proxmox-Infrastruktur-mit-Terraform-bereitstellt-11108299.html",
+      "image_title": ","
+    },
+    {
+      "title": "„Teenagerjahre von Planetensystemen“: Trümmerscheiben um Sterne abgebildet",
+      "teaser": "Staubscheiben um Sterne, in denen Exoplaneten entstehen, werden seit Jahren abgebildet. Die werden aber dunkler und entziehen sich der Erforschung – bis jetzt.",
+      "url": "https://www.heise.de/news/Teenagerjahre-von-Planetensystemen-Truemmerscheiben-um-Sterne-abgebildet-11147609.html",
+      "image_title": "Einige der Trümmerscheiben"
+    },
+    {
+      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
+      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Sony will Kontrolle über TV-Geschäft nach China abgeben",
+      "teaser": "Sony und TCL planen ein Joint-Venture. Sonys Markenname bleibt erhalten, dessen TVs und Home-Entertainment-Geräte laufen dann aber unter chinesischer Führung.",
+      "url": "https://www.heise.de/news/Sony-will-Kontrolle-ueber-TV-Geschaeft-nach-China-abgeben-11147738.html",
+      "image_title": "Modernes Wohnzimmer mit einem Fernseher an der Wand"
+    },
+    {
+      "title": "OpenAI: Erstes Hardwareprodukt „auf Kurs“",
+      "teaser": "OpenAI hat ein kleines Statusupdate zu seinem ersten Hardwareprodukt gegeben. Man sei „auf Kurs“. Zudem kursieren Gerüchte über ein Audio-First-Gerät.",
+      "url": "https://www.heise.de/news/OpenAI-Erstes-Hardwareprodukt-auf-Kurs-11147650.html",
+      "image_title": "Jony Ive hinter einem OpenAI-Logo"
+    },
+    {
+      "title": "X veröffentlicht Timeline-Algorithmus",
       "teaser": "Der Aufbau von X' „For You“-Algorithmus lässt sich jetzt bei GitHub nachvollziehen. Doch wie genau der Algorithmus welche Inhalte bewertet, bleibt unklar.",
       "url": "https://www.heise.de/news/X-veroeffentlicht-Timeline-Algorithmus-Transparenz-mit-Luecken-11147593.html",
       "image_title": "Silhouette von Elon Musk vor dem X-Logo"
@@ -199,11 +228,6 @@
       "teaser": "Netflix legt im Wettbieten um Warner Bros. ein neues Angebot vor: Warner-Aktionäre bekommen keine Netflix-Aktien, dafür aber mehr Bargeld.",
       "url": "https://www.heise.de/news/Netflix-mit-verbessertem-Angebot-fuer-Warner-Bros-11147554.html",
       "image_title": "Warner-Bros-Logo auf einem Wasserturm"
-    },
-    {
-      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
-      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
@@ -216,29 +240,6 @@
       "teaser": "Tests und Ankündigungen gab es bereits, nun stellt das Let's-Encrypt-Projekt 6-Tage- und IP-Zertifikate für alle zur Verfügung.",
       "url": "https://www.heise.de/news/Let-s-Encrypt-6-Tage-und-IP-Zertifikate-jetzt-allgemein-verfuegbar-11147438.html",
       "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
-    },
-    {
-      "title": "AlertDells Cloudspeicherlösungen ECS und ObjectScale über mehrere Lücken angreifbar",
-      "teaser": "Angreifer können an mehreren Sicherheitslücken in Dell ECS und ObjectScale ansetzen. Updates schließen die Schwachstellen.",
-      "url": "https://www.heise.de/news/Dells-Cloudspeicherloesungen-ECS-und-ObjectScale-ueber-mehrere-Luecken-angreifbar-11147354.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Produktvorschau: Diese Hardware plant Apple wohl für 2026",
-      "teaser": "Das neue Jahr läuft – und Apples Pipeline ist gut gefüllt. Es dürfte zu einigen Änderungen im Angebot kommen. Ein Überblick.",
-      "url": "https://www.heise.de/news/Produktvorschau-Diese-Hardware-plant-Apple-wohl-fuer-2026-11126883.html",
-      "image_title": "Apple-Chef Tim Cook"
-    },
-    {
-      "title": "Mathematikerin und GPS-Pionierin Gladys West im Alter von 95 Jahren gestorben",
-      "teaser": "Die US-Mathematikerin Gladys West hat Modelle der Erde errechnet, die die Basis für die Positionsbestimmung per Satellit bilden. Sie wurde 95 Jahre alt.",
-      "url": "https://www.heise.de/news/Mathematikerin-und-GPS-Pionierin-Gladys-West-im-Alter-von-95-Jahren-gestorben-11147442.html",
-      "image_title": "Gladys West, bei der Zeremonie zur Aufnahme in die Air Force Space and Missile Pioneers Hall of Fame, 2018."
-    },
-    {
-      "title": "Zahlen, bitte! Club Hits in 3½ Zoll – Fatboy Slim und sein Atari ST",
-      "teaser": "Der weltbekannte DJ und Produzent Fatboy Slim hat seine größten Hits auf einer Hardware der 1980er produziert: dem Atari ST 520. Wir blicken zurück.",
-      "url": "https://www.heise.de/news/Zahlen-bitte-31-2-Zoll-DJ-Wie-Fatboy-Slim-auf-dem-Atari-ST-Hits-produzierte-11146934.html"
     },
     {
       "title": "Geld sparenWie Sie Heizkosten mit dem hydraulischen Abgleich senken",
@@ -330,6 +331,29 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "AlertDells Cloudspeicherlösungen ECS und ObjectScale über mehrere Lücken angreifbar",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Dell ECS und ObjectScale ansetzen. Updates schließen die Schwachstellen.",
+      "url": "https://www.heise.de/news/Dells-Cloudspeicherloesungen-ECS-und-ObjectScale-ueber-mehrere-Luecken-angreifbar-11147354.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Produktvorschau: Diese Hardware plant Apple wohl für 2026",
+      "teaser": "Das neue Jahr läuft – und Apples Pipeline ist gut gefüllt. Es dürfte zu einigen Änderungen im Angebot kommen. Ein Überblick.",
+      "url": "https://www.heise.de/news/Produktvorschau-Diese-Hardware-plant-Apple-wohl-fuer-2026-11126883.html",
+      "image_title": "Apple-Chef Tim Cook"
+    },
+    {
+      "title": "Mathematikerin und GPS-Pionierin Gladys West im Alter von 95 Jahren gestorben",
+      "teaser": "Die US-Mathematikerin Gladys West hat Modelle der Erde errechnet, die die Basis für die Positionsbestimmung per Satellit bilden. Sie wurde 95 Jahre alt.",
+      "url": "https://www.heise.de/news/Mathematikerin-und-GPS-Pionierin-Gladys-West-im-Alter-von-95-Jahren-gestorben-11147442.html",
+      "image_title": "Gladys West, bei der Zeremonie zur Aufnahme in die Air Force Space and Missile Pioneers Hall of Fame, 2018."
+    },
+    {
+      "title": "Zahlen, bitte! Club-Hits in 3½ Zoll – Fatboy Slim und sein Atari ST",
+      "teaser": "Der weltbekannte DJ und Produzent Fatboy Slim hat seine größten Hits auf einer Hardware der 1980er produziert: dem Atari ST 520. Wir blicken zurück.",
+      "url": "https://www.heise.de/news/Zahlen-bitte-31-2-Zoll-DJ-Wie-Fatboy-Slim-auf-dem-Atari-ST-Hits-produzierte-11146934.html"
+    },
+    {
       "title": "Hundebetreuung in der Nähe finden: Onlineplattform Hundelieb im Test",
       "teaser": "Die Hundelieb-Community vernetzt Hundehalter mit Menschen, die sich gern zeitweise um Tiere kümmern. Wir haben die Dogsharing-Plattform getestet.",
       "url": "https://www.heise.de/tests/Hundebetreuung-in-der-Naehe-finden-Onlineplattform-Hundelieb-im-Test-11081397.html"
@@ -381,6 +405,11 @@
       "image_title": "Mitsubishi Eclipse Cross 2026"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "AlertWordPress-Plug-ins mit teils schon angegriffenen kritischen Lücken",
       "teaser": "In verbreiteten Plug-ins für WordPress stecken Sicherheitslücken mit kritischer Risikobewertung. Eine wird bereits angegriffen.",
       "url": "https://www.heise.de/news/WordPress-Plug-ins-mit-teils-schon-angegriffenen-kritischen-Luecken-11147017.html",
@@ -403,11 +432,6 @@
       "teaser": "Das kostenlose AutoHotkey für Windows stellt persönliche Textbausteine systemweit zur Verfügung. Selbstgebaute Menüs eröffnen noch viel mehr Möglichkeiten.",
       "url": "https://www.heise.de/ratgeber/Eigene-Menues-fuer-Textbausteine-und-mehr-mit-AutoHotkey-erstellen-11137279.html",
       "image_title": ", Ulrike Weis / KI / heise medien"
-    },
-    {
-      "title": "Proxmox als Alternative für eine flexible IT-Infrastruktur",
-      "teaser": "IT-Verantwortliche wollen ihre IT-Infrastruktur oft flexibler, performanter und kostengünstiger gestalten. In einem Webcast zeigen IT-Experten am Beispiel von Proxmox VE und Proxmox Backup Server, wie Sie Open-Source-Virtualisierung erfolgreich einsetzen und den Umstieg von VMware professionell meistern.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/proxmox-ihre-alternative-fuer-flexible-und-kostenguenstige-it-infrastrukturen-5013/?source=hbsad-ersatz"
     },
     {
       "title": "Britische Regierung prüft Mindestalter für Social Media, Druck aus dem Parlament",
@@ -444,29 +468,6 @@
       "teaser": "Nach turbulenten Monaten legt sich Kult-Entwickler Bungie auf einen neuen Release-Termin für „Marathon“ fest: Im März soll der Shooter auf den Markt kommen.",
       "url": "https://www.heise.de/news/Marathon-Bungie-Shooter-soll-im-Maerz-auf-den-Markt-kommen-11146846.html",
       "image_title": "Screenshot aus Marathon"
-    },
-    {
-      "title": "Wie Sie Zusatzfunktionen in Windows 11 aktivieren",
-      "teaser": "Windows 11 bietet einen größeren Funktionsumfang, als auf den ersten Blick zu erkennen ist. Vieles müssen Sie aber erst aktivieren oder nachinstallieren.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-Zusatzfunktionen-in-Windows-11-aktivieren-11084708.html"
-    },
-    {
-      "title": "Windows Updates: Weitere Nebenwirkungen auf klassisches Outlook",
-      "teaser": "Microsofts Januar-Sicherheitsupdates für Windows 11 stören offenbar auch Outlook. Microsoft untersucht Probleme mit POP-Mail-Konten.",
-      "url": "https://www.heise.de/news/Windows-Update-Probleme-Outlook-Haenger-mit-POP-Mail-Konten-11146791.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
-    },
-    {
-      "title": "„Technische Schulden“: Zu wenig Investitionen von Firmen in IT",
-      "teaser": "Unternehmen investieren zu wenig in IT, was zu „technischen Schulden“ führe. Das könne auch KI nicht ausbügeln.",
-      "url": "https://www.heise.de/news/Technische-Schulden-Zu-wenig-Investitionen-von-Firmen-in-IT-11146808.html",
-      "image_title": "Abstrakter leuchtender Code und Symbole"
-    },
-    {
-      "title": "Microsoft-Cloud-Security: Drei kostenlose Tools, die jeder Admin kennen sollte",
-      "teaser": "M365 ist kein Security-Highlight. Firmen und Behörden sollten deshalb ihre Cloud-Dienste prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
-      "url": "https://www.heise.de/news/Microsoft-Cloud-Security-Drei-kostenlose-Tools-die-jeder-Admin-kennen-sollte-11145439.html",
-      "image_title": "Microsoft-Cloud-Webinar"
     },
     {
       "title": "Iran weiter ohne Internet: Staatsfernsehen gehackt und Regimekritik verbreitet",
@@ -638,14 +639,14 @@
       "url": "https://www.heise.de/en/background/After-the-VR-earthquake-at-Meta-End-of-an-era-and-a-new-beginning-11145149.html"
     },
     {
+      "title": "Wie Sie Zusatzfunktionen in Windows 11 aktivieren",
+      "teaser": "Windows 11 bietet einen größeren Funktionsumfang, als auf den ersten Blick zu erkennen ist. Vieles müssen Sie aber erst aktivieren oder nachinstallieren.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Zusatzfunktionen-in-Windows-11-aktivieren-11084708.html"
+    },
+    {
       "title": "Lautsprecher und Subwoofer im Bass abstimmen mit c’t-Testsignalen",
       "teaser": "Der Bass Ihrer Anlage dröhnt oder bricht manchmal weg? Mit unseren Testsignalen stimmen Sie Lautsprecher und Subwoofer richtig ab und gleichen Raummoden aus.",
       "url": "https://www.heise.de/ratgeber/Lautsprecher-und-Subwoofer-im-Bass-abstimmen-mit-c-t-Testsignalen-11136889.html"
-    },
-    {
-      "title": "Hundebetreuung in der Nähe finden: Onlineplattform Hundelieb im Test",
-      "teaser": "Die Hundelieb-Community vernetzt Hundehalter mit Menschen, die sich gern zeitweise um Tiere kümmern. Wir haben die Dogsharing-Plattform getestet.",
-      "url": "https://www.heise.de/tests/Hundebetreuung-in-der-Naehe-finden-Onlineplattform-Hundelieb-im-Test-11081397.html"
     },
     {
       "title": "Proteste im IranWie das iranische Regime Starlink stört und was dagegen hilft",
@@ -753,22 +754,22 @@
       "image_title": "Toyota GR Yaris Morizo RR"
     },
     {
-      "title": "Peking statt Trump: Kanada und China vereinbaren \"strategische Partnerschaft\"",
-      "teaser": "Kanada und China beenden ihre Handelskonflikte mit einer strategischen Partnerschaft. Premier Carney absolvierte ersten China-Besuch seit 2017. Ein Überblick.",
-      "url": "https://www.heise.de/-11146159",
-      "image_title": "Ein Mann an einem Rednerpult"
+      "title": "Tamera – Ein sozialökologisches Siedlungsprojekt in Portugal",
+      "teaser": "170 Menschen leben hier nach eigenen Regeln – zwischen ökologischer Selbstversorgung, freier Liebe und globalen Friedensmissionen.",
+      "url": "https://www.heise.de/-11143566",
+      "image_title": "Hütte und Globus im abendlichen Gegenlicht"
     },
     {
-      "title": "Lignin statt Bisphenol: Wie Forscher Kassenzettel gesünder machen wollen",
-      "teaser": "Holz und Pflanzenzucker ersetzen hormonaktive Chemikalien. Die neue Beschichtung ist bis zu hundertfach weniger schädlich.",
-      "url": "https://www.heise.de/-11146065",
-      "image_title": "Blick auf einen Kassenzettel"
+      "title": "Braucht Europa eine eigene Armee und Deutschland Atomwaffen?",
+      "teaser": "Ein Bundeswehr-General fordert deutsche Atomwaffen, die CDU diskutiert einen europäischen Nuklearschirm. Öffnet sich die Büchse der Pandora?",
+      "url": "https://www.heise.de/-11141776",
+      "image_title": "Atombombe in Ring aus BRD-Farben"
     },
     {
-      "title": "Dunkle Fabriken: Ein Auto alle 60 Sekunden",
-      "teaser": "Voll automatisierte Produktionsanlagen, die ohne menschliche Anwesenheit auskommen, sind keine Zukunftsvision mehr. Doch welche Folgen hat das?",
-      "url": "https://www.heise.de/-11145088",
-      "image_title": "kaum beleuchteter Produktionsraum, in dem Roboter arbeiten."
+      "title": "Rojava: Das Ende einer Utopie",
+      "teaser": "Die kurdische Autonomieregion wird militärisch vernichtet, der Westen sieht zu. Warum Washington den einstigen Verbündeten verraten hat. Eine Analyse.",
+      "url": "https://www.heise.de/-11147037",
+      "image_title": "Ein Mann mit einer an eine Mauer angelehnte Waffe"
     },
     {
       "title": "Von der verstaubten CD zum privaten Streaming-Dienst – so geht’s",

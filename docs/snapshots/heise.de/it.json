@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-20T13:38:09",
+  "timestamp": "2026-01-20T14:21:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
-      "title": "X veröffentlicht Timeline-Algorithmus – Transparenz mit Lücken",
+      "title": "Virtualisierung: Wie man eine Proxmox-Infrastruktur mit Terraform bereitstellt",
+      "teaser": "Mit Terraform definiert man komplexe Proxmox-Infrastrukturen und automatisiert Abläufe. Dabei arbeiten Proxmox-API, Templates und Terraform-Provider zusammen.",
+      "url": "https://www.heise.de/hintergrund/Virtualisierung-Wie-man-eine-Proxmox-Infrastruktur-mit-Terraform-bereitstellt-11108299.html",
+      "image_title": ","
+    },
+    {
+      "title": "Sony will Kontrolle über TV-Geschäft nach China abgeben",
+      "teaser": "Sony und TCL planen ein Joint-Venture. Sonys Markenname bleibt erhalten, dessen TVs und Home-Entertainment-Geräte laufen dann aber unter chinesischer Führung.",
+      "url": "https://www.heise.de/news/Sony-will-Kontrolle-ueber-TV-Geschaeft-nach-China-abgeben-11147738.html",
+      "image_title": "Modernes Wohnzimmer mit einem Fernseher an der Wand"
+    },
+    {
+      "title": "OpenAI: Erstes Hardwareprodukt „auf Kurs“",
+      "teaser": "OpenAI hat ein kleines Statusupdate zu seinem ersten Hardwareprodukt gegeben. Man sei „auf Kurs“. Zudem kursieren Gerüchte über ein Audio-First-Gerät.",
+      "url": "https://www.heise.de/news/OpenAI-Erstes-Hardwareprodukt-auf-Kurs-11147650.html",
+      "image_title": "Jony Ive hinter einem OpenAI-Logo"
+    },
+    {
+      "title": "X veröffentlicht Timeline-Algorithmus",
       "teaser": "Der Aufbau von X' „For You“-Algorithmus lässt sich jetzt bei GitHub nachvollziehen. Doch wie genau der Algorithmus welche Inhalte bewertet, bleibt unklar.",
       "url": "https://www.heise.de/news/X-veroeffentlicht-Timeline-Algorithmus-Transparenz-mit-Luecken-11147593.html",
       "image_title": "Silhouette von Elon Musk vor dem X-Logo"
-    },
-    {
-      "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
-      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-11-im-Unternehmen-absichern-11137323.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Collabora Office: LibreOffice light im Test",
-      "teaser": "Die neue Offline-Variante des auf LibreOffice basierenden Pakets Collabora Online für Windows, Linux und macOS benötigt weder Cloudspeicher noch Server.",
-      "url": "https://www.heise.de/tests/Collabora-Office-LibreOffice-light-im-Test-11118860.html"
-    },
-    {
-      "title": "Let's Encrypt: 6-Tage- und IP-Zertifikate für alle",
-      "teaser": "Tests und Ankündigungen gab es bereits, nun stellt das Let's-Encrypt-Projekt 6-Tage- und IP-Zertifikate für alle zur Verfügung.",
-      "url": "https://www.heise.de/news/Let-s-Encrypt-6-Tage-und-IP-Zertifikate-jetzt-allgemein-verfuegbar-11147438.html",
-      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
     },
     {
       "title": "TestsCollabora Office: LibreOffice light im Test",
@@ -60,6 +61,18 @@
     {
       "title": "HintergrundGeschwindigkeitsassistenten im Auto: Von dezent bis penetrant",
       "url": "https://www.heise.de/hintergrund/Geschwindigkeitsassistenten-im-Auto-Von-dezent-bis-penetrant-11098353.html"
+    },
+    {
+      "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-11-im-Unternehmen-absichern-11137323.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Let's Encrypt: 6-Tage- und IP-Zertifikate für alle",
+      "teaser": "Tests und Ankündigungen gab es bereits, nun stellt das Let's-Encrypt-Projekt 6-Tage- und IP-Zertifikate für alle zur Verfügung.",
+      "url": "https://www.heise.de/news/Let-s-Encrypt-6-Tage-und-IP-Zertifikate-jetzt-allgemein-verfuegbar-11147438.html",
+      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
     },
     {
       "title": "AlertDells Cloudspeicherlösungen ECS und ObjectScale über mehrere Lücken angreifbar",
@@ -137,18 +150,6 @@
       "teaser": "Angreifer können an vier Sicherheitslücken in HPE Networking On ansetzen. Ein Patch ist verfügbar.",
       "url": "https://www.heise.de/news/Attacken-auf-Netzwerkmanagementloesung-HPE-Networking-On-moeglich-11146858.html",
       "image_title": "Netzwerkkabellage"
-    },
-    {
-      "title": "Schnelle Schaltstellen: Sechs Gigabit-Switches für den Mac im Test",
-      "teaser": "Um mehrere Macs oder andere Netzwerkgeräte mit 10-Gbit-Geschwindigkeit verbinden zu können, benötigt man einen passenden Switch. Diese Geräte können das.",
-      "url": "https://www.heise.de/tests/Schnelle-Schaltstellen-Sechs-Gigabit-Switches-fuer-den-Mac-im-Test-11134528.html",
-      "image_title": ", Andreas Wodrich / heise medien"
-    },
-    {
-      "title": "Windows Updates: Weitere Nebenwirkungen auf klassisches Outlook",
-      "teaser": "Microsofts Januar-Sicherheitsupdates für Windows 11 stören offenbar auch Outlook. Microsoft untersucht Probleme mit POP-Mail-Konten.",
-      "url": "https://www.heise.de/news/Windows-Update-Probleme-Outlook-Haenger-mit-POP-Mail-Konten-11146791.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
       "title": "NewsErste Plastik-Führerscheine werden ungültig – Verwarngeld droht",
