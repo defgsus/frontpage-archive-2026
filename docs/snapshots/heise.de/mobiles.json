@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-20T11:14:57",
+  "timestamp": "2026-01-20T12:22:30",
   "url": "https://www.heise.de/newsticker/mobiles/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "macOS: Password Utility entsperrt FileVault und macht sudo Biometrie-fähig",
+      "teaser": "Neu startende Remote-Macs, die sich nicht mehr steuern lassen, Passwort-Zwangseingaben statt Touch ID und mehr: Ein neues Tool soll dagegen helfen.",
+      "url": "https://www.heise.de/news/macOS-Password-Utility-entsperrt-FileVault-und-macht-sudo-Biometrie-faehig-11146484.html",
+      "image_title": "Password Utility im Einsatz"
+    },
+    {
+      "title": "Nova Launcher: Neuer Besitzer integriert offenbar mehr Werbung",
+      "teaser": "Der beliebte Nova Launcher stand vor dem Aus. Nun hat er einen neuen Besitzer – und bekommt offenbar mehr Werbung.",
+      "url": "https://www.heise.de/news/Nova-Launcher-Neuer-Besitzer-integriert-offenbar-mehr-Werbung-11146979.html",
+      "image_title": "Nova Launcher App im Play Store auf Smartphone"
+    },
+    {
       "title": "iOS-26.3-Betatest: App-Store-Werbung schwerer zu erkennen",
       "teaser": "Künftig werden die User mehr Werbung in Apples Software-Laden sehen. Offenbar wird diese auch optisch tiefer integriert – die Übersicht leidet.",
       "url": "https://www.heise.de/news/iOS-26-3-Betatest-App-Store-Werbung-schwerer-zu-erkennen-11146519.html",
@@ -35,18 +47,6 @@
       "title": "Geschwindigkeitsassistenten im Auto: Von dezent bis penetrant",
       "teaser": "Piep, piep, piep: Seit 2024 ist „Intelligent Speed Assistance“ in Neuwagen Pflicht. Die Praxis zeigt: Hersteller setzen die Vorgaben sehr unterschiedlich um.",
       "url": "https://www.heise.de/hintergrund/Geschwindigkeitsassistenten-im-Auto-Von-dezent-bis-penetrant-11098353.html"
-    },
-    {
-      "title": "Tipp: Störendes AirPods-Headtracking bei 3D-Audio abstellen",
-      "teaser": "3D-Audio auf AirPods soll Nutzer stärker einbinden, indem es möglich wird, ihre Kopfposition zu erfassen. Das Feature ist nicht immer gut. So werden Sie es los.",
-      "url": "https://www.heise.de/ratgeber/Tipp-AirPods-Headtracking-bei-3D-Audio-abstellen-6288238.html",
-      "image_title": "AirPods, hier die alte Generation 3"
-    },
-    {
-      "title": "FeuergefahrLufthansa verbietet Nutzung von Powerbanks an Bord",
-      "teaser": "Wegen Feuergefahr dürfen Powerbanks in Maschinen der Lufthansa-Gruppe nicht mehr genutzt werden.",
-      "url": "https://www.heise.de/news/Lufthansa-verbietet-Nutzung-von-Powerbanks-an-Bord-11146464.html",
-      "image_title": "Startende Lufthansa-Maschine"
     },
     {
       "title": "HintergrundGeschwindigkeitsassistenten im Auto: Von dezent bis penetrant",
@@ -62,15 +62,21 @@
       "url": "https://www.heise.de/tests/Honor-Magic8-Pro-und-Magic8-Lite-Android-Smartphones-im-Vergleich-11087939.html"
     },
     {
-      "title": "Nova Launcher: Neuer Besitzer integriert offenbar mehr Werbung",
-      "teaser": "Der beliebte Nova Launcher stand vor dem Aus. Nun hat er einen neuen Besitzer – und bekommt offenbar mehr Werbung.",
-      "url": "https://www.heise.de/news/Nova-Launcher-Neuer-Besitzer-integriert-offenbar-mehr-Werbung-11146979.html",
-      "image_title": "Nova Launcher App im Play Store auf Smartphone"
+      "title": "Tipp: Störendes AirPods-Headtracking bei 3D-Audio abstellen",
+      "teaser": "3D-Audio auf AirPods soll Nutzer stärker einbinden, indem es möglich wird, ihre Kopfposition zu erfassen. Das Feature ist nicht immer gut. So werden Sie es los.",
+      "url": "https://www.heise.de/ratgeber/Tipp-AirPods-Headtracking-bei-3D-Audio-abstellen-6288238.html",
+      "image_title": "AirPods, hier die alte Generation 3"
     },
     {
       "title": "Wenn das Handynetz ausfällt: Kommunikation per Funk oder Satellit",
       "teaser": "Das Handy geht nicht mehr und das Festnetz gibt keinen Laut mehr von sich. Aber wie kommuniziert man dann?",
       "url": "https://www.heise.de/bestenlisten/ratgeber/wenn-das-handynetz-ausfaellt-kommunikation-im-notfall-per-funk-oder-satellit/xsf9ww7?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Lufthansa verbietet Nutzung von Powerbanks an Bord",
+      "teaser": "Wegen Feuergefahr dürfen Powerbanks in Lufthansa-Maschinen nicht mehr genutzt werden. Auch die Mitnahme und die Aufbewahrung werden reguliert.",
+      "url": "https://www.heise.de/news/Lufthansa-verbietet-Nutzung-von-Powerbanks-an-Bord-11146464.html",
+      "image_title": "Startende Lufthansa-Maschine"
     },
     {
       "title": "Xreal vs. Viture: Worum es beim Patentstreit der Display-Brillen geht",
@@ -138,11 +144,6 @@
       "title": "Integrierte Kabel mit Lightning & USB-C: Selore & S-Global Powerbank 30W im Test",
       "teaser": "Die Selore & S-Global Powerbank bietet 10.000 mAh, 30 W und zwei integrierte Kabel für nur 11 Euro. Ob sich der Kauf lohnt, zeigt unser Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/integrierte-kabel-mit-lightning-und-usb-c-selore-und-s-global-powerbank-30w-im-test/qw9lq5t?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Engwe EP-2 3.0 Boost im Test: fette Reifen, starker Motor",
-      "teaser": "Das faltbare E-Bike Engwe EP-2 3.0 Boost kombiniert dicke Reifen mit Drehmomentsensor, hydraulischen Bremsen und 648-Wh-Akku.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/e-bike-engwe-ep-2-30-boost-im-test-fette-reifen-starker-motor-grosser-akku/91p0d1m?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsErste Plastik-Führerscheine werden ungültig – Verwarngeld droht",
