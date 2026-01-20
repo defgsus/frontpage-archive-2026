@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-20T12:22:27",
+  "timestamp": "2026-01-20T13:38:09",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,54 @@
   ],
   "articles": [
     {
+      "title": "X veröffentlicht Timeline-Algorithmus – Transparenz mit Lücken",
+      "teaser": "Der Aufbau von X' „For You“-Algorithmus lässt sich jetzt bei GitHub nachvollziehen. Doch wie genau der Algorithmus welche Inhalte bewertet, bleibt unklar.",
+      "url": "https://www.heise.de/news/X-veroeffentlicht-Timeline-Algorithmus-Transparenz-mit-Luecken-11147593.html",
+      "image_title": "Silhouette von Elon Musk vor dem X-Logo"
+    },
+    {
+      "title": "iX-Workshop: Windows 11 im Unternehmen absichern",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Windows-11-im-Unternehmen-absichern-11137323.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "Collabora Office: LibreOffice light im Test",
+      "teaser": "Die neue Offline-Variante des auf LibreOffice basierenden Pakets Collabora Online für Windows, Linux und macOS benötigt weder Cloudspeicher noch Server.",
+      "url": "https://www.heise.de/tests/Collabora-Office-LibreOffice-light-im-Test-11118860.html"
+    },
+    {
+      "title": "Let's Encrypt: 6-Tage- und IP-Zertifikate für alle",
+      "teaser": "Tests und Ankündigungen gab es bereits, nun stellt das Let's-Encrypt-Projekt 6-Tage- und IP-Zertifikate für alle zur Verfügung.",
+      "url": "https://www.heise.de/news/Let-s-Encrypt-6-Tage-und-IP-Zertifikate-jetzt-allgemein-verfuegbar-11147438.html",
+      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
+    },
+    {
+      "title": "TestsCollabora Office: LibreOffice light im Test",
+      "url": "https://www.heise.de/tests/Collabora-Office-LibreOffice-light-im-Test-11118860.html"
+    },
+    {
+      "title": "HintergrundIT-Recht: Rechtskonformer Einsatz von KI-Agenten",
+      "url": "https://www.heise.de/hintergrund/IT-Recht-Rechtskonformer-Einsatz-von-KI-Agenten-11133778.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundGeschwindigkeitsassistenten im Auto: Von dezent bis penetrant",
+      "url": "https://www.heise.de/hintergrund/Geschwindigkeitsassistenten-im-Auto-Von-dezent-bis-penetrant-11098353.html"
+    },
+    {
+      "title": "AlertDells Cloudspeicherlösungen ECS und ObjectScale über mehrere Lücken angreifbar",
+      "teaser": "Angreifer können an mehreren Sicherheitslücken in Dell ECS und ObjectScale ansetzen. Updates schließen die Schwachstellen.",
+      "url": "https://www.heise.de/news/Dells-Cloudspeicherloesungen-ECS-und-ObjectScale-ueber-mehrere-Luecken-angreifbar-11147354.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Produktvorschau: Diese Hardware plant Apple wohl für 2026",
+      "teaser": "Das neue Jahr läuft – und Apples Pipeline ist gut gefüllt. Es dürfte zu einigen Änderungen im Angebot kommen. Ein Überblick.",
+      "url": "https://www.heise.de/news/Produktvorschau-Diese-Hardware-plant-Apple-wohl-fuer-2026-11126883.html",
+      "image_title": "Apple-Chef Tim Cook"
+    },
+    {
       "title": "macOS: Password Utility entsperrt FileVault und macht sudo Biometrie-fähig",
       "teaser": "Neu startende Remote-Macs, die sich nicht mehr steuern lassen, Passwort-Zwangseingaben statt Touch ID und mehr: Ein neues Tool soll dagegen helfen.",
       "url": "https://www.heise.de/news/macOS-Password-Utility-entsperrt-FileVault-und-macht-sudo-Biometrie-faehig-11146484.html",
@@ -50,19 +98,6 @@
       "image_title": "WordPress-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
     },
     {
-      "title": "HintergrundIT-Recht: Rechtskonformer Einsatz von KI-Agenten",
-      "url": "https://www.heise.de/hintergrund/IT-Recht-Rechtskonformer-Einsatz-von-KI-Agenten-11133778.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundGeschwindigkeitsassistenten im Auto: Von dezent bis penetrant",
-      "url": "https://www.heise.de/hintergrund/Geschwindigkeitsassistenten-im-Auto-Von-dezent-bis-penetrant-11098353.html"
-    },
-    {
-      "title": "RatgeberTastenbelegung mit Udev unter Linux anpassen",
-      "url": "https://www.heise.de/ratgeber/Tastenbelegung-mit-Udev-unter-Linux-anpassen-10632721.html"
-    },
-    {
       "title": "Starlink im Iran: Wie das Regime den Dienst stört und was dagegen hilft",
       "teaser": "Im Iran sind nicht nur Mobilfunk- und Festnetze gestört, sondern auch Starlink. Wir erklären, wie das trotz Tausender Satelliten vermutlich erreicht wird.",
       "url": "https://www.heise.de/hintergrund/Starlink-im-Iran-Wie-das-Regime-den-Dienst-stoert-und-was-dagegen-hilft-11141283.html",
@@ -73,6 +108,11 @@
       "teaser": "Der beliebte Nova Launcher stand vor dem Aus. Nun hat er einen neuen Besitzer – und bekommt offenbar mehr Werbung.",
       "url": "https://www.heise.de/news/Nova-Launcher-Neuer-Besitzer-integriert-offenbar-mehr-Werbung-11146979.html",
       "image_title": "Nova Launcher App im Play Store auf Smartphone"
+    },
+    {
+      "title": "Tastenbelegung mit Udev unter Linux anpassen",
+      "teaser": "Ihr Passwort funktioniert nicht? Daran ist vielleicht die Feststelltaste schuld. Mit eigenen Udev-Regeln passen Sie deren Verhalten und das anderer Tasten an.",
+      "url": "https://www.heise.de/ratgeber/Tastenbelegung-mit-Udev-unter-Linux-anpassen-10632721.html"
     },
     {
       "title": "Software Testing: Exploratives Ensemble Testing",
@@ -109,46 +149,6 @@
       "teaser": "Microsofts Januar-Sicherheitsupdates für Windows 11 stören offenbar auch Outlook. Microsoft untersucht Probleme mit POP-Mail-Konten.",
       "url": "https://www.heise.de/news/Windows-Update-Probleme-Outlook-Haenger-mit-POP-Mail-Konten-11146791.html",
       "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
-    },
-    {
-      "title": "„Technische Schulden“: Zu wenig Investitionen von Firmen in IT",
-      "teaser": "Unternehmen investieren zu wenig in IT, was zu „technischen Schulden“ führe. Das könne auch KI nicht ausbügeln.",
-      "url": "https://www.heise.de/news/Technische-Schulden-Zu-wenig-Investitionen-von-Firmen-in-IT-11146808.html",
-      "image_title": "Abstrakter leuchtender Code und Symbole"
-    },
-    {
-      "title": "Microsoft-Cloud-Security: Drei kostenlose Tools, die jeder Admin kennen sollte",
-      "teaser": "M365 ist kein Security-Highlight. Firmen und Behörden sollten deshalb ihre Cloud-Dienste prüfen und optimieren. Das Webinar gibt dazu den Schnelleinstieg.",
-      "url": "https://www.heise.de/news/Microsoft-Cloud-Security-Drei-kostenlose-Tools-die-jeder-Admin-kennen-sollte-11145439.html",
-      "image_title": "Microsoft-Cloud-Webinar"
-    },
-    {
-      "title": "Parameter in KI-Modellen: Was sie bei großen Sprachmodellen wirklich bedeuten",
-      "teaser": "Sie sind die geheimnisvollen Zahlen, die hinter KI-Modellen stecken und je mehr Parameter eines hat, desto besser soll es sein. Aber was bewirken sie wirklich?",
-      "url": "https://www.heise.de/hintergrund/Parameter-in-KI-Modellen-Was-sie-bei-grossen-Sprachmodellen-wirklich-bedeuten-11139376.html",
-      "image_title": "Abstraktes Bild von einer Künstliche Intelligenz. Zu sehen ist eine helle Maske mit verschiedenen Schichten."
-    },
-    {
-      "title": "Nvidia RTX Pro 2000 Blackwell mit 16 GByte im Test",
-      "teaser": "Ist die RTX Pro 2000 Blackwell das erhoffte KI-Träumchen? So schlägt sich Nvidias kompakte Workstation-Grafikkarte mit 70 Watt und 16 GByte.",
-      "url": "https://www.heise.de/tests/Nvidia-RTX-Pro-2000-Blackwell-mit-16-GByte-im-Test-11094265.html"
-    },
-    {
-      "title": "Reuters: Viele westliche Sicherheits-Anbieter in China nicht mehr willkommen",
-      "teaser": "Peking weist inländische Firmen an, fortan auf Sicherheitsdienste bestimmter Firmen aus den USA, Israel und Frankreich zu verzichten. Das berichtet Reuters.",
-      "url": "https://www.heise.de/news/Reuters-Viele-westliche-Sicherheits-Anbieter-in-China-nicht-mehr-willkommen-11146741.html",
-      "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge"
-    },
-    {
-      "title": "OpenAI verdreifacht Rechenleistung und Umsatz",
-      "teaser": "Mehr als 20 Milliarden US-Dollar Jahresumsatz verkündet OpenAIs Finanzchefin und verweist auf die gestiegene Rechenleistung. Diese bleibe entscheidend.",
-      "url": "https://www.heise.de/news/OpenAI-verdreifacht-Rechenleistung-und-Umsatz-11146727.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "Europas 174-Milliarden-Lücke: Müssen Privatinvestoren die Digitalnetze retten?",
-      "teaser": "Ohne massive Kapitalspritzen droht Europa laut Beratern der digitale Stillstand. Im „Telecom Health Index“ landet Deutschland nur auf Rang 15 von 20 Staaten.",
-      "url": "https://www.heise.de/news/Europas-174-Milliarden-Luecke-Muessen-Privatinvestoren-die-Digitalnetze-retten-11146701.html"
     },
     {
       "title": "NewsErste Plastik-Führerscheine werden ungültig – Verwarngeld droht",
