@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T11:14:48",
+  "timestamp": "2026-01-21T12:23:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Datenleck: 72 Millionen Datensätze von Under Armour geleakt",
+      "teaser": "Eine Ransomware-Bande ist bei Under Armour eingedrungen und hat Daten entwendet. 72 Millionen Datensätze sind nun bei Have I Been Pwned.",
+      "url": "https://www.heise.de/news/Datenleck-72-Millionen-Datensaetze-von-Under-Armour-geleakt-11148785.html",
+      "image_title": "Mann tippt auf Warnsymbol"
+    },
+    {
+      "title": "Espressif stellt Funk-Co-Prozessor mit RISC-V vor",
+      "teaser": "Mit dem ESP32-E22 stellt Espressif einen Funk-Co-Prozessor vor, der WLAN und Bluetooth komplett übernimmt und Host-CPUs entlastet.",
+      "url": "https://www.heise.de/news/Espressif-stellt-Funk-Co-Prozessor-mit-RISC-V-vor-11147975.html",
+      "image_title": "Zu sehen ist ein Marketing-Bild. Es ist ein futuristisch dargestellter Chip zu sehen, auf dem ESP32-E22 steht."
+    },
+    {
+      "title": "OpenAI führt KI-gestützte Altersschätzung ein",
+      "teaser": "Der US-Konzern OpenAI führt eine KI-basierte Altersschätzung für ChatGPT ein. Minderjährige sollen so künftig vor schädlichen Inhalten geschützt werden.",
+      "url": "https://www.heise.de/news/OpenAI-fuehrt-KI-gestuetzte-Altersschaetzung-ein-11148775.html",
+      "image_title": "ChatGPT-App auf einem Smartphone"
+    },
+    {
       "title": "Live-Webinar: Effizienter am Mac mit integrierten Automatisierungs-Tools",
       "teaser": "Tauchen Sie ein in die Welt der Automatisierung. Entdecken Sie, wie Sie Ihre Arbeitsabläufe am Mac optimieren, um wertvolle Zeit zu sparen.",
       "url": "https://www.heise.de/news/Live-Webinar-Effizienter-am-Mac-mit-integrierten-Automatisierungs-Tools-11146095.html"
-    },
-    {
-      "title": "IT-Recht: Rechtskonformer Einsatz von KI-Agenten",
-      "teaser": "Beim Einsatz von KI-Agenten bestehen komplexe und noch ungeklärte Haftungsfragen. Parallel greifen Gesetze wie der AI Act, das Urheber- und Datenschutzrecht.",
-      "url": "https://www.heise.de/hintergrund/IT-Recht-Rechtskonformer-Einsatz-von-KI-Agenten-11133778.html",
-      "image_title": ","
-    },
-    {
-      "title": "Logic Pro und Final Cut Pro: Drei-Monats-Trial derzeit noch verfügbar",
-      "teaser": "Mit Einführung des Creator Studio verschwinden auch die beliebten Testversionen von Apples Profisoftware. Derzeit findet man sie aber noch.",
-      "url": "https://www.heise.de/news/Logic-Pro-und-Final-Cut-Pro-Drei-Monats-Trial-derzeit-noch-verfuegbar-11147434.html",
-      "image_title": "Final Cut Pro für 90 Tage als Trial"
-    },
-    {
-      "title": "Powertoys 0.97: Neues Maus-Tool zum Cursor-„Durchscrollen“",
-      "teaser": "Die Powertoys bringen in Version 0.97 ein neues Maus-Tool mit, das Monitor-Grenzen einreißt. Die Befehlspalette wurde verbessert.",
-      "url": "https://www.heise.de/news/Powertoys-0-97-Neues-Maus-Tool-zum-Cursor-Durchscrollen-11148565.html",
-      "image_title": "Neues Maus-Tool in Powertoys 0.97"
     },
     {
       "title": "HintergrundSoftwareemulator DOSBox Pure Unleashed ausprobiert",
@@ -60,6 +60,18 @@
       "title": "TestsPlattenspieler: Alternativer Audioplayer für Apple-Geräte im Test",
       "url": "https://www.heise.de/tests/Plattenspieler-Alternativer-Audioplayer-fuer-Apple-Geraete-im-Test-11138144.html",
       "image_title": "Longplay für alle Plattformen"
+    },
+    {
+      "title": "Logic Pro und Final Cut Pro: Drei-Monats-Trial derzeit noch verfügbar",
+      "teaser": "Mit Einführung des Creator Studio verschwinden auch die beliebten Testversionen von Apples Profisoftware. Derzeit findet man sie aber noch.",
+      "url": "https://www.heise.de/news/Logic-Pro-und-Final-Cut-Pro-Drei-Monats-Trial-derzeit-noch-verfuegbar-11147434.html",
+      "image_title": "Final Cut Pro für 90 Tage als Trial"
+    },
+    {
+      "title": "Powertoys 0.97: Neues Maus-Tool zum Cursor-„Durchscrollen“",
+      "teaser": "Die Powertoys bringen in Version 0.97 ein neues Maus-Tool mit, das Monitor-Grenzen einreißt. Die Befehlspalette wurde verbessert.",
+      "url": "https://www.heise.de/news/Powertoys-0-97-Neues-Maus-Tool-zum-Cursor-Durchscrollen-11148565.html",
+      "image_title": "Neues Maus-Tool in Powertoys 0.97"
     },
     {
       "title": "Hallo Developer, hallo heise, hallo C++",
@@ -136,16 +148,6 @@
       "teaser": "Microsoft Teams soll künftig Büroanwesenheit automatisch erfassen. Jetzt hat Microsoft einen aktualisierten Zeitplan vorgelegt.",
       "url": "https://www.heise.de/news/Microsoft-verschiebt-Einfuehrung-von-Teams-Orts-und-Buerozeiterfassung-11148257.html",
       "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
-    },
-    {
-      "title": "Angreifer täuschen: Honeypots und Co.",
-      "teaser": "Bei Deception geht es um Erkenntnisse über Angriffe - und darum, die Kriminellen so zu beschäftigen, dass den Verteidigern Zeit zum Reagieren bleibt.",
-      "url": "https://www.heise.de/hintergrund/Angreifer-taeuschen-Honeypots-und-Co-11092975.html"
-    },
-    {
-      "title": "Zwei Multifunktionsdrucker mit optionalem Tintenabo im Test",
-      "teaser": "Wir haben den HP Envy Photo 7930 und Canon Pixma TS7550i getestet, die Bürodrucksachen, aber auch randlose Fotos drucken und kopieren. Die Patronen sind teuer.",
-      "url": "https://www.heise.de/tests/Zwei-Multifunktionsdrucker-mit-optionalem-Tintenabo-im-Test-11091264.html"
     },
     {
       "title": "NewsErste Plastik-Führerscheine werden ungültig – Verwarngeld droht",
