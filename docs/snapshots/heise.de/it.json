@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-21T12:23:03",
+  "timestamp": "2026-01-21T13:37:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,48 @@
   ],
   "articles": [
     {
+      "title": "Sage Operations: KI-Assistent für Fertigung und Handel",
+      "teaser": "Sage integriert den KI-Assistenten Copilot in seine ERP-Software Sage Operations. Über eine Chatfunktion soll man damit Lieferketten besser steuern können.",
+      "url": "https://www.heise.de/news/Sage-Operations-KI-Assistent-fuer-Fertigung-und-Handel-11149183.html"
+    },
+    {
+      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
+      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11137359.html",
+      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
+      "title": "Führungszeugnis künftig digital: BundID-Konto als Voraussetzung",
+      "teaser": "Wer ehrenamtlich Fußball-Nachwuchs trainiert, braucht es, wer als Kaufhausdetektiv arbeitet auch: Das Führungszeugnis soll künftig digital verfügbar sein.",
+      "url": "https://www.heise.de/news/Digitales-Fuehrungszeugnis-kommt-Kabinett-beschliesst-Gesetzentwurf-11149121.html",
+      "image_title": "Jemand stempelt ein Dokument"
+    },
+    {
+      "title": "Weitere Probleme mit Windows Updates aus dem Januar",
+      "teaser": "Microsoft hat weitere Probleme mit den Januar-Sicherheitsupdates für Windows eingeräumt. Anwendungen können nicht mehr reagieren.",
+      "url": "https://www.heise.de/news/Weitere-Probleme-mit-Windows-Updates-aus-dem-Januar-11149001.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+    },
+    {
+      "title": "HintergrundSoftwareemulator DOSBox Pure Unleashed ausprobiert",
+      "url": "https://www.heise.de/hintergrund/Softwareemulator-DOSBox-Pure-Unleashed-ausprobiert-11111316.html"
+    },
+    {
+      "title": "RatgeberOSINT: Subdomains mit Subfinder finden",
+      "url": "https://www.heise.de/ratgeber/OSINT-Subdomains-mit-Subfinder-finden-11098987.html"
+    },
+    {
+      "title": "TestsPlattenspieler: Alternativer Audioplayer für Apple-Geräte im Test",
+      "url": "https://www.heise.de/tests/Plattenspieler-Alternativer-Audioplayer-fuer-Apple-Geraete-im-Test-11138144.html",
+      "image_title": "Longplay für alle Plattformen"
+    },
+    {
+      "title": "Projekt Aegis: Niedersächsicher Cyberschutzschild basiert auf US-Technologie",
+      "teaser": "Mit KI-gestützter Angriffserkennung will sich Niedersachsen gegen Attacken wappnen und hybrider Kriegsführung begegnen.",
+      "url": "https://www.heise.de/news/Projekt-Aegis-Niedersaechsicher-Cyberschutzschild-basiert-auf-US-Technologie-11148813.html",
+      "image_title": "Trojanisches Pferd aus 0 und 1"
+    },
+    {
       "title": "Datenleck: 72 Millionen Datensätze von Under Armour geleakt",
       "teaser": "Eine Ransomware-Bande ist bei Under Armour eingedrungen und hat Daten entwendet. 72 Millionen Datensätze sind nun bei Have I Been Pwned.",
       "url": "https://www.heise.de/news/Datenleck-72-Millionen-Datensaetze-von-Under-Armour-geleakt-11148785.html",
@@ -47,19 +89,6 @@
       "title": "Live-Webinar: Effizienter am Mac mit integrierten Automatisierungs-Tools",
       "teaser": "Tauchen Sie ein in die Welt der Automatisierung. Entdecken Sie, wie Sie Ihre Arbeitsabläufe am Mac optimieren, um wertvolle Zeit zu sparen.",
       "url": "https://www.heise.de/news/Live-Webinar-Effizienter-am-Mac-mit-integrierten-Automatisierungs-Tools-11146095.html"
-    },
-    {
-      "title": "HintergrundSoftwareemulator DOSBox Pure Unleashed ausprobiert",
-      "url": "https://www.heise.de/hintergrund/Softwareemulator-DOSBox-Pure-Unleashed-ausprobiert-11111316.html"
-    },
-    {
-      "title": "RatgeberOSINT: Subdomains mit Subfinder finden",
-      "url": "https://www.heise.de/ratgeber/OSINT-Subdomains-mit-Subfinder-finden-11098987.html"
-    },
-    {
-      "title": "TestsPlattenspieler: Alternativer Audioplayer für Apple-Geräte im Test",
-      "url": "https://www.heise.de/tests/Plattenspieler-Alternativer-Audioplayer-fuer-Apple-Geraete-im-Test-11138144.html",
-      "image_title": "Longplay für alle Plattformen"
     },
     {
       "title": "Logic Pro und Final Cut Pro: Drei-Monats-Trial derzeit noch verfügbar",
@@ -118,36 +147,6 @@
       "title": "\"Passwort\" Folge 49: BSI, n8n, PGP, … allüberall Probleme",
       "teaser": "Die Hosts schlagen etwas über die Stränge und erzählen von diversen aktuellen Sicherheitsproblemen und technisch gewieften Angriffen darauf.",
       "url": "https://www.heise.de/news/Passwort-Folge-49-BSI-n8n-PGP-allueberall-Probleme-11139629.html"
-    },
-    {
-      "title": "AlertUpdate-Flut: Oracle liefert zum CPU im Januar 337 Patches aus",
-      "teaser": "Oracle veröffentlicht quartalsweise gebündelt Sicherheitsupdates. Im Januar liefert Oracle zum Critical Patch Update 337 Aktualisierungen.",
-      "url": "https://www.heise.de/news/Update-Flut-Oracle-liefert-zum-CPU-im-Januar-337-Patches-aus-11148305.html",
-      "image_title": "Oracle-Schriftzug mit Update vor weißem Hintergrund"
-    },
-    {
-      "title": "UEFA Champions League trieb Datenverkehr auf neue Rekordwerte",
-      "teaser": "26,99 Tbit/s – so viele Daten rauschten am Rekordtag durchs Netz: Ein Champions-League-Kracher hatte das Internet an seine Grenzen gebracht.",
-      "url": "https://www.heise.de/news/Globaler-Datenverkehr-steigt-deutlich-an-11148295.html",
-      "image_title": "DE-CIX Apollon Plattform in Frankfurt"
-    },
-    {
-      "title": "programmier.bar: Entwicklung von Headless Apps mit Rust",
-      "teaser": "Von Flutter bis Wasm: Die programmier.bar diskutiert mit Marcel Koch, wie sich Headless Apps mit Rust umsetzen lassen.",
-      "url": "https://www.heise.de/blog/programmier-bar-Headless-Apps-mit-Marcel-Koch-11141656.html",
-      "image_title": "programmier.bar: Headless Apps mit Marcel Koch"
-    },
-    {
-      "title": "Mastering Observability 2026: Weniger Daten sammeln, mehr verstehen",
-      "teaser": "Die dritte Ausgabe der Observability-Konferenz von heise rückt am 16. April 2026 proaktives Reliability Engineering sowie den Einsatz von KI in den Mittelpunkt.",
-      "url": "https://www.heise.de/news/Mastering-Observability-2026-Weniger-Daten-sammeln-mehr-verstehen-11146500.html",
-      "image_title": "Mastering Observability 2026 Logo und Titel"
-    },
-    {
-      "title": "Microsoft verschiebt Einführung von Teams-Orts- und Bürozeiterfassung",
-      "teaser": "Microsoft Teams soll künftig Büroanwesenheit automatisch erfassen. Jetzt hat Microsoft einen aktualisierten Zeitplan vorgelegt.",
-      "url": "https://www.heise.de/news/Microsoft-verschiebt-Einfuehrung-von-Teams-Orts-und-Buerozeiterfassung-11148257.html",
-      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
     },
     {
       "title": "NewsErste Plastik-Führerscheine werden ungültig – Verwarngeld droht",
