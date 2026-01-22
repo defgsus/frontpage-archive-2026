@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-22T15:18:41",
+  "timestamp": "2026-01-22T16:19:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Analysen: Zwei bis drei Millionen sexualisierte Deepfakes von Grok generiert",
+      "teaser": "Die Kritik an den KI-generierten Deepfakes von Grok war groß, das ganze Ausmaß war bislang aber unklar. Nun haben zwei Organisationen erstmals nachgezählt.",
+      "url": "https://www.heise.de/news/Analysen-Zwei-bis-drei-Millionen-sexualisierte-Deepfakes-von-Grok-generiert-11150776.html",
+      "image_title": "Grok-App auf einem Smartphone"
+    },
+    {
+      "title": "Aus für Datenatlas Bund: 25-Millionen-Euro-Grab der Verwaltungsdigitalisierung",
+      "teaser": "Ein Prestigeprojekt sollte die Daten von Ministerien vernetzen und Behörden fit fürs KI-Zeitalter machen. Nach massiver Kritik ist das teure Portal nun offline.",
+      "url": "https://www.heise.de/news/Aus-fuer-Datenatlas-Bund-25-Millionen-Euro-Grab-der-Verwaltungsdigitalisierung-11150881.html",
+      "image_title": "Foto von einer Person, die an einem Computer sitzt, auf dem der Datenatlas Bund aufgerufen ist"
+    },
+    {
       "title": "OpenAI und Gates Foundation: KI für den afrikanischen Gesundheitssektor",
       "teaser": "OpenAI und die Stiftung von Bill Gates wollen 50 Millionen US-Dollar investieren, um die medizinische Versorgung in Afrika mittels KI zu verbessern.",
       "url": "https://www.heise.de/news/OpenAI-und-Gates-Foundation-KI-fuer-den-afrikanischen-Gesundheitssektor-11150734.html",
@@ -36,18 +48,6 @@
       "teaser": "Der erste eigene Router OpenWrt One des OpenWrt-Projekts läuft nun auch mit Debian. Das macht ihn zum Allzweck-Linux-System.",
       "url": "https://www.heise.de/news/Collabora-portiert-Debian-auf-OpenWrt-One-11150708.html",
       "image_title": "WLAN Router OpenWrt One von vorn"
-    },
-    {
-      "title": "Mozilla bringt Firefox Nightly als RPM-Paket für Linux",
-      "teaser": "Mozilla bietet Firefox Nightly jetzt als RPM-Paket an. Die Installation auf Fedora, openSUSE und RHEL wird damit deutlich einfacher.",
-      "url": "https://www.heise.de/news/Mozilla-bringt-Firefox-Nightly-als-RPM-Paket-fuer-Linux-11150654.html",
-      "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
-    },
-    {
-      "title": "Ganz ohne Cloud und InternetRaspi 5 wird zum DIY-KI-Sprachassistenten",
-      "teaser": "Einen tragbaren KI-Sprachassistenten, der komplett ohne Cloud oder WLAN funktioniert, hat ein Maker aus Hongkong gebaut.",
-      "url": "https://www.heise.de/news/Ganz-ohne-Cloud-und-Internet-Raspi-5-wird-zum-DIY-KI-Sprachassistenten-11150389.html",
-      "image_title": "Hand hält ein Raspi-Gagdet hoch"
     },
     {
       "title": "HintergrundABAP: Wie der Einstieg in die Entwicklung für SAP-Umgebungen gelingt",
@@ -64,9 +64,26 @@
       "image_title": ", KI-generiert mit Midjourney"
     },
     {
+      "title": "Saugroboter 3i G10+ im Test: Schmutzkompression statt Absaugstation",
+      "teaser": "Der 3i G10+ ist ein kompakter Saug- und Wischroboter mit Schmutzkomprimierung, starker Saugleistung, KI und solider App. Aber es gibt auch Schwächen.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-3i-g10-im-test-schmutzkompression-statt-absaugstation/ezgt138?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
       "title": "Der stabilste höhenverstellbare Schreibtisch: Maidesite T4 Pro Plus im Test",
       "teaser": "Der elektrisch höhenverstellbare Schreibtisch Maidesite T4 Pro Plus bietet vier freistehende Beine statt der üblichen zwei und 240 kg Belastung.",
       "url": "https://www.heise.de/bestenlisten/testbericht/der-stabilste-hoehenverstellbare-schreibtisch-maidesite-t4-pro-plus-im-test/x4v61y7?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Mozilla bringt Firefox Nightly als RPM-Paket für Linux",
+      "teaser": "Mozilla bietet Firefox Nightly jetzt als RPM-Paket an. Die Installation auf Fedora, openSUSE und RHEL wird damit deutlich einfacher.",
+      "url": "https://www.heise.de/news/Mozilla-bringt-Firefox-Nightly-als-RPM-Paket-fuer-Linux-11150654.html",
+      "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
+    },
+    {
+      "title": "Ganz ohne Cloud und Internet: Raspi 5 wird zum DIY-KI-Sprachassistenten",
+      "teaser": "Ein tragbarer KI-Sprachassistent, der komplett ohne Cloud oder WLAN funktioniert, hat ein Maker aus Hongkong gebaut. Als Basis dazu dient ein Raspberry Pi 5.",
+      "url": "https://www.heise.de/news/Ganz-ohne-Cloud-und-Internet-Raspi-5-wird-zum-DIY-KI-Sprachassistenten-11150389.html",
+      "image_title": "Hand hält ein Raspi-Gagdet hoch"
     },
     {
       "title": "iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)",
@@ -133,23 +150,6 @@
       "teaser": "Netatmo erneuert Klassiker für Heizen und Videoüberwachung: Die Thermostate für Wand und Heizkörper sprechen Matter, die Outdoor-Kamera filmt in 2K und HDR.",
       "url": "https://www.heise.de/news/Netatmo-heizt-jetzt-mit-Matter-11149853.html",
       "image_title": "Netatmos neue Thermostate für Heizkörper und Heizkessel"
-    },
-    {
-      "title": "M365 für Admins: Sichere Konfiguration & effiziente Verwaltung lernen",
-      "teaser": "Perfekter Einstieg in die Verwaltung von Microsoft 365: IT-Admins erhalten einen detaillierten Überblick – von Lizenzen über Tenant bis Purview.",
-      "url": "https://www.heise.de/news/M365-fuer-Admins-Sichere-Konfiguration-effiziente-Verwaltung-lernen-11147945.html",
-      "image_title": "KI-Coding-Tools"
-    },
-    {
-      "title": "Microsoft-Chef: KI muss Nutzen schaffen, sonst verliert sie schnell Akzeptanz",
-      "teaser": "Souveränität müsse man im KI-Zeitalter anders denken als bisher, erklärte Microsoft-Chef Satya Nadella in Davos. Und eine KI-Blase sieht er auch nicht.",
-      "url": "https://www.heise.de/news/Microsoft-Chef-Nadella-Souveraenitaet-haengt-nicht-vom-Rechenzentrums-Standort-ab-11150144.html",
-      "image_title": "Larry Fink im Gespräch mit Satya Nadella"
-    },
-    {
-      "title": "software-architektur.tv: Wie Datenbanken die Architektur formen",
-      "teaser": "Persistenz prägt die Architektur. Eberhard Wolff erklärt O/R-Mismatch, DDD und Aggregates – und warum Relationale versus NoSQL zu anderen Architekturen führen.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Wie-Datenbanken-die-Architektur-formen-11148442.html"
     },
     {
       "title": "NewsErste Plastik-Führerscheine werden ungültig – Verwarngeld droht",
