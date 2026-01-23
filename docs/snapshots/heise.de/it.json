@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T12:21:49",
+  "timestamp": "2026-01-23T13:35:13",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,31 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11137551.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
+    },
+    {
+      "title": "PDF-Formulare im Griff: Daten auslesen und verarbeiten",
+      "teaser": "PDF-Formulare versprechen digitale Abläufe, die aber allzu oft in Medienbrüchen enden. Mit Open-Source-Tools lassen sich die Daten automatisiert auslesen.",
+      "url": "https://www.heise.de/ratgeber/PDF-Formulare-im-Griff-Daten-auslesen-und-verarbeiten-11080661.html"
+    },
+    {
+      "title": "Neue Macs im Anflug: Apple lädt zur „Apple Experience“ nach Los Angeles",
+      "teaser": "Am 28. Januar erscheint Apples „Creator Studio“, ein neues Kreativ-Abopaket. Gleichzeitig gibt es für ausgewählte Kreative eine Veranstaltung in Kalifornien.",
+      "url": "https://www.heise.de/news/Apple-veranstaltet-Creator-Event-Apple-Experience-mit-neuen-Macs-in-L-A-11151904.html",
+      "image_title": "Auszug aus Apple-Einladung"
+    },
+    {
       "title": "AlertSicherheitsupdate GitLab: Angreifer können Zwei-Faktor-Authentifizierung umgehen",
       "teaser": "Die Softwareentwicklungsumgebung GitLab ist über mehrere Sicherheitslücken attackierbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-GitLab-Angreifer-koennen-Zwei-Faktor-Authentifizierung-umgehen-11151728.html",
       "image_title": "Ein sich füllender Updatebalken."
     },
     {
-      "title": "Live-Webinar zum Apple-Gerätemanagement: MDM, ABM und neue Funktionen",
-      "teaser": "Apple-Geräte professionell verwalten – von MDM-Grundlagen über Bereitstellungsmodelle wie Declarative Device Management bis zu aktuellen Funktionen und Trends.",
-      "url": "https://www.heise.de/news/Live-Webinar-zum-Apple-Geraetemanagement-MDM-ABM-und-neue-Funktionen-11149731.html"
-    },
-    {
-      "title": "Neue NetzkennungTelekom-Kunden sehen „Im besten Netz“ statt „Telekom“",
-      "teaser": "Die Deutsche Telekom hat quasi über Nacht auf Millionen Smartphones die Netzkennung geändert. Das ist Teil einer Werbekampagne.",
-      "url": "https://www.heise.de/news/Im-besten-Netz-Telekom-aendert-Netzkennung-auf-Millionen-Smartphones-11151876.html",
-      "image_title": "\"Im besten Netz\"-Werbung auf iPhone"
-    },
-    {
-      "title": "Tipp: Apps ohne dauernde Passworteingabe bei Apple herunterladen",
-      "teaser": "Wer viel im App Store shoppt, kann sich die Passworteingabe erleichtern. So dreht man sie ab oder sichert sie, was besser ist, per Biometrie.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Apps-ohne-dauernde-Passworteingabe-bei-Apple-herunterladen-6255090.html",
-      "image_title": "Aufgeklapptes MacBook"
+      "title": "RatgeberPDF-Formulare im Griff: Daten auslesen und verarbeiten",
+      "url": "https://www.heise.de/ratgeber/PDF-Formulare-im-Griff-Daten-auslesen-und-verarbeiten-11080661.html"
     },
     {
       "title": "RatgeberTalos: Ein Minimal-Linux für Kubernetes",
@@ -58,8 +62,21 @@
       "image_title": ","
     },
     {
-      "title": "HintergrundABAP: Wie der Einstieg in die Entwicklung für SAP-Umgebungen gelingt",
-      "url": "https://www.heise.de/hintergrund/ABAP-Wie-der-Einstieg-in-die-Entwicklung-fuer-SAP-Umgebungen-gelingt-11129633.html"
+      "title": "Live-Webinar zum Apple-Gerätemanagement: MDM, ABM und neue Funktionen",
+      "teaser": "Apple-Geräte professionell verwalten – von MDM-Grundlagen über Bereitstellungsmodelle wie Declarative Device Management bis zu aktuellen Funktionen und Trends.",
+      "url": "https://www.heise.de/news/Live-Webinar-zum-Apple-Geraetemanagement-MDM-ABM-und-neue-Funktionen-11149731.html"
+    },
+    {
+      "title": "Neue Netzkennung: Telekom-Kunden sehen „Im besten Netz“ statt „Telekom“",
+      "teaser": "Die Deutsche Telekom hat quasi über Nacht auf Millionen Smartphones die Netzkennung geändert. Sie ist Teil einer großangelegten Werbekampagne.",
+      "url": "https://www.heise.de/news/Im-besten-Netz-Telekom-aendert-Netzkennung-auf-Millionen-Smartphones-11151876.html",
+      "image_title": "\"Im besten Netz\"-Werbung auf iPhone"
+    },
+    {
+      "title": "Tipp: Apps ohne dauernde Passworteingabe bei Apple herunterladen",
+      "teaser": "Wer viel im App Store shoppt, kann sich die Passworteingabe erleichtern. So dreht man sie ab oder sichert sie, was besser ist, per Biometrie.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Apps-ohne-dauernde-Passworteingabe-bei-Apple-herunterladen-6255090.html",
+      "image_title": "Aufgeklapptes MacBook"
     },
     {
       "title": "iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung",
@@ -129,23 +146,6 @@
       "teaser": "In unseren Checklisten finden Sie zahlreiche Prüfpunkte und klare Hinweise, wie Sie die Wahrscheinlichkeit reduzieren, Opfer eines Cyberangriffs zu werden.",
       "url": "https://www.heise.de/ratgeber/Die-c-t-Security-Checkliste-2026-Teil-1-Mehr-Sicherheit-im-Internet-11144232.html",
       "image_title": ", Jessica Nachtigall / KI / heise medien"
-    },
-    {
-      "title": "Intel-Aktie im Keller: Weniger Minus als erwartet, aber schlechte Aussichten",
-      "teaser": "Intel rutscht zurück in die roten Zahlen, allerdings weniger stark als befürchtet. An der Börse rasselt die Aktie herunter.",
-      "url": "https://www.heise.de/news/Intel-macht-weniger-Minus-als-erwartet-11151284.html",
-      "image_title": "Intel Core Ultra 200S im Mainboard"
-    },
-    {
-      "title": "Top 10: Der beste Akku-Wischsauger im Test",
-      "teaser": "Mit Akku-Wischsaugern geht Wischen so einfach und schnell wie Saugen. Wir haben über 20 Modelle getestet und zeigen hier die 10 besten.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-wischsauger-im-test-mit-dampf-und-schaum-gegen-den-schmutz/mel3jmn?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Digitaler Befreiungsschlag: EU-Parlament fordert Loslösung von US-Tech-Riesen",
-      "teaser": "EU-Abgeordnete skizzieren einen Kurswechsel in der Digitalpolitik. Sie verlangen Unabhängigkeit von US-Infrastrukturen sowie mehr heimische KI und Open Source.",
-      "url": "https://www.heise.de/news/Digitaler-Befreiungsschlag-EU-Parlament-fordert-Losloesung-von-US-Tech-Riesen-11151163.html",
-      "image_title": "Europa-Flaggen vor dem Gebäude der Europäischen Kommission"
     },
     {
       "title": "NewsKostenvergleichs-Studie in Alaska: E-Autos bei Kälte effizienter als Diesel",
