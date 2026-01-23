@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T04:00:03",
+  "timestamp": "2026-01-23T04:43:29",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,11 +104,25 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Abhängigkeit von den USA: Kriegstüchtig? Geht ohne die USA nicht",
+      "teaser": "Rüstung, Software, Soldaten, Geheimdienstinformationen: Die USA tragen einen erheblichen Teil zur Verteidigung Deutschlands bei. Was ohne diese Hilfen geschehen könnte.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-01/abhaengigkeit-usa-deutschland-sicherheit-bundeswehr-geheimdienste-ruestung-gxe",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-01/abhaengigkeit-usa-deutschland-sicherheit-bundeswehr-geheimdienste-ruestung-bild/wide__1000x562",
+      "image_title": "Abhängigkeit von den USA: German Minister Of Defence Meets German Soldiers Stationed In Poland German servicemen transport MIM 104 Patriot surface-to-air defence system batteries during German Minister of Defence Boris Pistorius visit to the German compound of military training ground German Patriot defence systems are placed in Jasionka near Rzeszow, Poland, on January 23, 2025. German army has two Patrion defence systems in Poland. Boris Pistorius arrived in Poland to meet German military servicemen who serve on NATO s Eastern Flank in Poland. Two Ministers will also discuss an issue of European investments in defence in the face of the Russian threat. Rzeszow podkarpackie Poland 23/01/2025"
+    },
+    {
       "title": "Der US-Überblick am Morgen: Trump droht Iran mit Militärschlag, US-Firma für TikTok gegründet",
       "teaser": "Die USA verlegen laut Präsident Donald Trump mehrere Militärboote in die Nähe des Iran. Dank einer neuen Firma ist das US-Geschäft von TikTok gesichert. Die Nacht",
       "url": "https://www.zeit.de/politik/ausland/2026-01/usa-ueberblick-donald-trump-iran-tiktok",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-01/donald-trump-us-ueberblick/wide__1000x562",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-01/donald-trump-us-ueberblick/super__430x287",
       "image_title": "Der US-Überblick am Morgen: President Donald Trump speaks with reporters aboard Air Force One after leaving the World Economic Forum in Davos for Washington, Thursday, Jan. 22, 2026. (AP Photo/Evan Vucci) Aufnahmedatum 22.01.2026 Bildnachweis picture alliance / ASSOCIATED PRESS | Evan Vucci"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); China: Der lächelnde Dritte",
+      "teaser": "In Davos streiten Europäer und Amerikaner, während China seine Macht ausbaut. Doch mehr und mehr stellt sich die Frage: Wie stark ist die chinesische Wirtschaft wirklich?",
+      "url": "https://www.zeit.de/2026/04/china-weltwirtschaftsforum-davos-donald-trump-he-lifeng",
+      "image_url": "https://img.zeit.de/2026/04/der-laechelnde-dritte-bild-1/super__430x287",
+      "image_title": "China: Im Schweizer Bergdorf Davos versammelt sich die globale Elite aus Politik und Wirtschaft. Chinas Staatschef Xi hat es nicht nötig, anzureisen"
     },
     {
       "title": "Konflikt um Grönland: EU-Kommission kündigt Investitionspaket für Grönland an",
@@ -112,53 +132,11 @@
       "image_title": "Konflikt um Grönland: European Commission President Ursula von der Leyen addresses a media conference at the end of the EU summit in Brussels, Friday, Jan. 23, 2026. (AP Photo/Omar Havana) Aufnahmedatum 22.01.2026 Bildnachweis picture alliance / ASSOCIATED PRESS | Omar Havana"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); China: Der lächelnde Dritte",
-      "teaser": "In Davos streiten Europäer und Amerikaner, während China seine Macht ausbaut. Doch mehr und mehr stellt sich die Frage: Wie stark ist die chinesische Wirtschaft wirklich?",
-      "url": "https://www.zeit.de/2026/04/china-weltwirtschaftsforum-davos-donald-trump-he-lifeng",
-      "image_url": "https://img.zeit.de/2026/04/der-laechelnde-dritte-bild-1/super__320x213",
-      "image_title": "China: Im Schweizer Bergdorf Davos versammelt sich die globale Elite aus Politik und Wirtschaft. Chinas Staatschef Xi hat es nicht nötig, anzureisen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Elon Musk in Davos: Der zahme Elon Musk",
       "teaser": "In Davos präsentiert sich der Tech-Unternehmer von einer anderen Seite: Als Fürsprecher nachhaltiger Energie verkündet er eine Ära des \"großartigen Überflusses\".",
       "url": "https://www.zeit.de/wirtschaft/2026-01/elon-musk-davos-wef-schweiz",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-01/elon-musk-davos-wef/super__320x213",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-01/elon-musk-davos-wef/super__430x287",
       "image_title": "Elon Musk in Davos: CEO of SpaceX and Tesla, South African-Canadian-US businessman Elon Musk speaks during the World Economic Forum (WEF) annual meeting in Davos on January 22, 2026. The World Economic Forum takes place in Davos from January 19 to January 23, 2026. (Photo by Fabrice COFFRINI / AFP via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump in Davos: Er bekommt, was er schon hat",
-      "teaser": "Donald Trump kann Grönland nicht übernehmen, und die Zölle gegen die Europäer sind vom Tisch. Warum der US-Präsident sich dennoch auf den Deal einlässt.",
-      "url": "https://www.zeit.de/politik/ausland/2026-01/donald-trump-davos-weltwirtschaftsforum-groenland-nato-strafzoelle",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-01/donald-trump-davos-weltwirtschaftsforum-groenland-nato/super__320x213",
-      "image_title": "Donald Trump in Davos: US President Donald Trump attends the Annual Meeting of the World Economic Forum in Davos, Switzerland, Thursday, Jan. 22, 2026. (AP Photo/Markus Schreiber)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump und Grönland: Der Weg ins postamerikanische Zeitalter ist eingeschlagen",
-      "teaser": "Donald Trump hat die Nato mit seiner Drohung, Grönland zu besetzen, in eine tiefe Krise gestürzt. Was bleibt, ist ein tiefer Bruch in den transatlantischen Beziehungen.",
-      "url": "https://www.zeit.de/politik/ausland/2026-01/donald-trump-groenland-usa-nato-davos",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-01/groenland-konflikt-donald-trump-usa-europa-handelskrieg-nato-bild-2/super__320x213",
-      "image_title": "Donald Trump und Grönland: Der Weg ins postamerikanische Zeitalter ist eingeschlagen"
-    },
-    {
-      "title": "Friedrich Merz: Schluss mit kuschelig",
-      "teaser": "In Davos antwortet der Bundeskanzler dem US-Präsidenten. Friedrich Merz verspricht Wirtschaftsreformen – nur so könne Europa in einem Kampf der Großmächte bestehen.",
-      "url": "https://www.zeit.de/wirtschaft/2026-01/friedrich-merz-davos-rede-weltwirtschaftsforum",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-01/friedrich-merz-davos-rede-weltwirtschaftsforum-bild4/super__320x213",
-      "image_title": "Friedrich Merz: Bundeskanzler Friedrich Merz (CDU) spricht während einer Plenarsitzung in der Kongresshalle beim 56. jährlichen Treffen des Weltwirtschaftsforums (WEF). Das Treffen unter dem Motto \"A Spirit of Dialogue\" bringt Unternehmer, Wissenschaftler, Wirtschaftsführer und Politiker in Davos zusammen und findet vom 19. bis 23. Januar in Davos statt. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Liveblog:Krieg gegen die Ukraine: Gespräche zwischen Putin, Witkoff und Kushner in Moskau sind beendet",
-      "teaser": "Wladimir Putin, Steve Witkoff und Jared Kushner haben über Stunden beraten – Ergebnisse wurden nicht bekannt. Die Ukraine kündigt trilaterale Gespräche an. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/2026-01/wladimir-putin-steve-witkoff-jared-kushner-moskau/super__430x287",
-      "image_title": "Krieg gegen die Ukraine: Wladimir Putin begrüßt Steve Witkoff und Jared Kushner in Moskau. In this pool photograph distributed by the Russian state agency Sputnik, Russia's President Vladimir Putin welcomes US special envoy Steve Witkoff and US President Donald Trump's son-in-law Jared Kushner during a meeting at the Kremlin in Moscow on January 22, 2026. (Photo by Alexander KAZAKOV / POOL / AFP via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlumfragen: Grüne und SPD schöpfen wieder Hoffnung",
-      "teaser": "Wo stehen die Parteien in den fünf Bundesländern, in denen in diesem Jahr gewählt wird? In Baden-Württemberg und Rheinland-Pfalz könnte es wieder spannend werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2025-10/sonntagsfrage-landtagswahlen-2026-wahltrends-umfrage",
-      "image_url": "https://img.zeit.de/politik/deutschland/2025-09/sonntagsfrage-landtagswahlen-2026-wahltrends-umfrage-2/super__430x287",
-      "image_title": "Wahlumfragen: Grüne und SPD schöpfen wieder Hoffnung"
     },
     {
       "title": "Diese Woche in der ZEIT: Wie halten wir das alles aus?",
@@ -168,11 +146,11 @@
       "image_title": "Diese Woche in der ZEIT: Wie halten wir das alles aus?"
     },
     {
-      "title": "Spionage: Russische Botschaft in Berlin weist Spionagevorwurf zurück",
-      "teaser": "Russlands Botschaft kritisiert die Ausweisung eines Diplomaten, der eine Spionin betreut haben soll. Es handele sich um eine \"Provokation\" und \"Angstmacherei\".",
-      "url": "https://www.zeit.de/politik/2026-01/spionage-russland-provokation",
-      "image_url": "https://img.zeit.de/politik/2026-01/botschaft-russland-berlin-spionage/super__430x287",
-      "image_title": "Spionage: Die Botschaft der Russischen Föderation in Berlin. Eine Deutsch-Ukrainerin soll in Berlin für Moskau spioniert haben. Die Bundesanwaltschaft lässt sie festnehmen. Im Verdacht stehen in dem Fall auch zwei ehemalige Bundeswehr-Angehörige. Zudem werden zwei mutmaßliche Unterstützer prorussischer Gruppen in Brandenburg gefasst. (zu dpa: «Mutmaßliche... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.01.2026 Bildnachweis picture alliance/dpa | Christoph Soeder"
+      "title": "Z+ (abopflichtiger Inhalt); Telefonische Krankschreibung: \"Wenn jemand übertreibt, schreibe ich ihn höchstens kurz krank\"",
+      "teaser": "Sind telefonische Krankschreibungen schuld an den vielen Fehltagen? Der Hausarzt Markus Beier hält das für eine Scheindebatte und erklärt, wie er Blaumacher erkennt.",
+      "url": "https://www.zeit.de/arbeit/2026-01/telefonische-krankschreibung-au-missbrauch-regeln-markus-beier",
+      "image_url": "https://img.zeit.de/arbeit/2026-01/telefonische-krankschreibung-au-missbrauch-regeln-markus-beier-bild/wide__892x502",
+      "image_title": "Telefonische Krankschreibung: \"Wenn jemand übertreibt, schreibe ich ihn höchstens kurz krank\""
     },
     {
       "title": "Egisto Ott: \"Er sollte besser Märchenerzähler werden\"",
@@ -196,88 +174,74 @@
       "image_title": "Tödlicher Unfall mit Fahrerflucht: Symbolbild"
     },
     {
-      "title": "US-Bank: Trump verklagt JPMorganChase auf fünf Milliarden Dollar Schadensersatz",
+      "title": "Z+ (abopflichtiger Inhalt); Identität durch Arbeit • Z+ Empfehlung: Ende 50, hochqualifiziert und arbeitslos",
+      "teaser": "Die Arbeit war ihr ganzes Leben. Doch dann wurden sie plötzlich entlassen. Zwei Menschen fragen sich zwischen Hunderten Absagen, wer sie eigentlich noch sind.",
+      "url": "https://www.zeit.de/arbeit/2026-01/bedeutung-arbeit-identitaet-arbeitslosigkeit-entlassung",
+      "image_url": "https://img.zeit.de/arbeit/2026-01/bedeutung-arbeit-identitaet-arbeitslosigkeit-entlassung-bild-2/super__430x287",
+      "image_title": "Identität durch Arbeit • Z+ Empfehlung: Ende 50, hochqualifiziert und arbeitslos"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zyklusorientiertes Leben: Ein Leben nach dem Zyklus",
+      "teaser": "Gehaltsverhandlungen bitte während des Eisprungs, zur Lutealphase nur dunkle Schokolade: Zyklusorientiertes Leben liegt im Trend. Was die Wissenschaft dazu weiß.",
+      "url": "https://www.zeit.de/gesundheit/2026-01/zyklusorientiertes-leben-arbeit-alltag-wohlbefinden-frauen",
+      "image_url": "https://img.zeit.de/gesundheit/2025-12/zyklusorientiertes-leben-arbeit-alltag-wohlbefinden-frauen-bild/super__430x287",
+      "image_title": "Zyklusorientiertes Leben: Ein Leben nach dem Zyklus"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Schlaflosigkeit : \"Die Nacht bedeutete für mich: Hin- und Herwälzen, Herzrasen, Panik\"",
+      "teaser": "Zehn Jahre litt sie unter Schlaflosigkeit. Melatonin, Ernährungsumstellung, White Noise. Nichts half. Bis sie verstand: Es geht nicht um Schlaf, sondern um den Tag.",
+      "url": "https://www.zeit.de/sinn/2024-12/schlaflosigkeit-tipps-hilfe-stoerungen-insomnie-chronisch",
+      "image_url": "https://img.zeit.de/sinn/2024-12/schlaflosigkeit-tipps-hilfe-stoerungen-insomnie-chronisch-bild/super__430x287",
+      "image_title": "Schlaflosigkeit: \"Die Nacht bedeutete für mich: Hin- und Herwälzen, Herzrasen, Panik\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Küchenmaschinen im Test: Alle gegen die KitchenAid",
+      "teaser": "Stellt KitchenAid die beste Küchenmaschine her? In unserem Test landet der Marktführer nur im Mittelfeld. Welche Geräte überzeugen – und ein klarer Preis-Leistungs-Tipp",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-12/kuechenmaschinen-test-vergleich-produkte-kitchenaid",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-12/kuechenmaschinen-test-vergleich-produkte-kitchenaid-teaser-01/super__430x287",
+      "image_title": "Küchenmaschinen im Test: Alle gegen die KitchenAid"
+    },
+    {
+      "title": "Liveblog:Krieg gegen die Ukraine: Gespräche zwischen Putin, Witkoff und Kushner in Moskau sind beendet",
+      "teaser": "Wladimir Putin, Steve Witkoff und Jared Kushner haben über Stunden beraten – Ergebnisse wurden nicht bekannt. Die Ukraine kündigt trilaterale Gespräche an. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/2026-01/wladimir-putin-steve-witkoff-jared-kushner-moskau/super__430x287",
+      "image_title": "Krieg gegen die Ukraine: Wladimir Putin begrüßt Steve Witkoff und Jared Kushner in Moskau. In this pool photograph distributed by the Russian state agency Sputnik, Russia's President Vladimir Putin welcomes US special envoy Steve Witkoff and US President Donald Trump's son-in-law Jared Kushner during a meeting at the Kremlin in Moscow on January 22, 2026. (Photo by Alexander KAZAKOV / POOL / AFP via Getty Images)"
+    },
+    {
+      "title": "Spionage: Russische Botschaft in Berlin weist Spionagevorwurf zurück",
+      "teaser": "Russlands Botschaft kritisiert die Ausweisung eines Diplomaten, der eine Spionin betreut haben soll. Es handele sich um eine \"Provokation\" und \"Angstmacherei\".",
+      "url": "https://www.zeit.de/politik/2026-01/spionage-russland-provokation",
+      "image_url": "https://img.zeit.de/politik/2026-01/botschaft-russland-berlin-spionage/super__430x287",
+      "image_title": "Spionage: Die Botschaft der Russischen Föderation in Berlin. Eine Deutsch-Ukrainerin soll in Berlin für Moskau spioniert haben. Die Bundesanwaltschaft lässt sie festnehmen. Im Verdacht stehen in dem Fall auch zwei ehemalige Bundeswehr-Angehörige. Zudem werden zwei mutmaßliche Unterstützer prorussischer Gruppen in Brandenburg gefasst. (zu dpa: «Mutmaßliche... + Mehr lesen Service +++ dpa-Bildfunk +++ Aufnahmedatum 21.01.2026 Bildnachweis picture alliance/dpa | Christoph Soeder"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wahlumfragen: Grüne und SPD schöpfen wieder Hoffnung",
+      "teaser": "Wo stehen die Parteien in den fünf Bundesländern, in denen in diesem Jahr gewählt wird? In Baden-Württemberg und Rheinland-Pfalz könnte es wieder spannend werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2025-10/sonntagsfrage-landtagswahlen-2026-wahltrends-umfrage",
+      "image_url": "https://img.zeit.de/politik/deutschland/2025-09/sonntagsfrage-landtagswahlen-2026-wahltrends-umfrage-2/super__430x287",
+      "image_title": "Wahlumfragen: Grüne und SPD schöpfen wieder Hoffnung"
+    },
+    {
+      "title": "US-Bank: Trump verklagt JPMorgan Chase auf 5 Milliarden Dollar Schadensersatz",
       "teaser": "Donald Trump hat die größte US-Bank und ihren Chef verklagt. Man habe Konten von ihm und seinen Hotelbetrieben aus politisch motivierten Gründen schließen lassen.",
       "url": "https://www.zeit.de/politik/ausland/2026-01/trump-klage-jp-morgan-schadensersatz",
       "image_url": "https://img.zeit.de/politik/ausland/2026-01/dimon-2/super__430x287",
       "image_title": "US-Bank: Der Chef von JP Morgan Chase, James Dimon (Bild vom Dezember 2025)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"German Guilt\": Und was war mit Oma in der Nazi-Zeit?",
-      "teaser": "Thilo Mischke forscht in einer Doku mit Katja Riemann und Ronja von Rönne nach, was ihre Ahnen in der NS-Zeit taten. Und plötzlich tun sich noch ganz andere Abgründe auf.",
-      "url": "https://www.zeit.de/kultur/film/2026-01/german-guilt-zdf-miniserie-ns-vergangenheit-familie-thilo-mischke",
-      "image_url": "https://img.zeit.de/kultur/2026-01/german-guilt-zdf-miniserie-ns-vergangenheit-familie-thilo-mischke-bild-03/wide__892x502",
-      "image_title": "\"German Guilt\": \"German Guilt\": Reporter Thilo Mischke geht in den Arolsen Archives, dem größten Archiv über Opfer und Überlebende des Nationalsozialismus, an Aktenschränken vorbei."
-    },
-    {
-      "title": "Oscar-Nominierung: Vampir-Horrorfilm \"Blood & Sinners\" erhält 16 Oscar-Nominierungen",
-      "teaser": "Noch nie zuvor wurde ein Film so oft für den Oscar nominiert wie \"Blood & Sinners\". Das deutsche Drama \"In die Sonne schauen\" ging trotz guter Kritiken leer aus.",
-      "url": "https://www.zeit.de/kultur/film/2026-01/osacar-nominierungen-2026-film-preisverleihung",
-      "image_url": "https://img.zeit.de/kultur/film/2026-01/blood-sinners-horrorfilm-afroamerikanisch-kultur-geschichte-ryan-coogler-2/super__430x287",
-      "image_title": "Blood & Sinners"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Orchestral Session im Berghain: Fortissimo im Berghain",
-      "teaser": "Im berühmtesten Technoclub der Welt wird's klassisch. Wir stürzen uns auf die Tanzfläche.",
-      "url": "https://www.zeit.de/kultur/musik/2026-01/orchestral-session-berghain-berlin-klassische-musik",
-      "image_url": "https://img.zeit.de/kultur/2026-01/orchestral-session-berghain-berlin-klassische-musik-bild/super__430x287",
-      "image_title": "Orchestral Session im Berghain: Outside Berghain nightclub in Berlin, November 2024. An old power station in the city was reborn as Berghain, a now-infamous club known for debauchery and its embrace of a style of techno, that celebrated its 20th year in December Jelka von Langen and Roman Goebel/The NewYorkTimes/Redux/laif"
-    },
-    {
-      "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "title": "Oxfam-Bericht: Wie gefährlich ist Ungleichheit?",
+      "teaser": "Laut einem Oxfam-Bericht wächst das Vermögen von Milliardären rasant. Auch in Deutschland. Was bedeutet Ungleichheit für unsere Gesellschaft – und für die Demokratie?",
       "url": "https://www.zeit.de/politik/2026-01/oxfam-bericht-milliardaere-ungleichheit-martyna-linartas-was-jetzt-videopodcast",
-      "image_url": "https://img.zeit.de/politik/2026-01/xfam-bericht-milliardaere-ungleichheit-martyna-linartas-was-jetzt-videopodcas-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/politik/2026-01/xfam-bericht-milliardaere-ungleichheit-martyna-linartas-was-jetzt-videopodcas-bild/super__430x287",
       "image_title": "Oxfam-Bericht: Wie gefährlich ist Ungleichheit?"
     },
     {
-      "title": "Luis Bobga und Markus Söder: Generalstaatsanwaltschaft ermittelt gegen Chef der Grünen Jugend",
-      "teaser": "In einem Video bezeichnete Luis Bobga den CSU-Chef indirekt als \"Hurensohn\". Wegen des Anfangsverdachts der Beleidigung laufen nun Ermittlungen gegen ihn.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-01/beleidigung-markus-soeder-ermittlungen-louis-bobga-gruene-jugend",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-01/ermittlungen-generalstaatsanwaltschaft-luis-bobga-gruene-jugend-bild/super__430x287",
-      "image_title": "Luis Bobga und Markus Söder: Generalstaatsanwaltschaft ermittelt gegen Chef der Grünen Jugend"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Erik Marquardt: \"Im Nachhinein war das ein Fehler\"",
-      "teaser": "Mit Stimmen von Grünen und Rechtsextremen: Das EU-Parlament lässt Mercosur rechtlich prüfen. Er würde nicht noch mal so entscheiden, sagt nun der Grüne Erik Marquardt.",
-      "url": "https://www.zeit.de/politik/ausland/2026-01/erik-marquardt-europaparlament-mercosur-eugh-gruene",
-      "image_url": "https://img.zeit.de/politik/2026-01/erik-marquardt-europaparlament-mercosur-eugh-gruene-teaser/super__430x287",
-      "image_title": "Erik Marquardt: Abgeordnete des Europäischen Parlaments stimmen darüber ab, das EU-Freihandelsabkommen mit Ländern des südamerikanischen Staatenbunds Mercosur dem Gerichtshof der Europäischen Union (EuGH) vorzulegen. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Selbstliebe: Ich schenke mir meine volle Aufmerksamkeit",
-      "teaser": "Angeblich leiden immer mehr Menschen unter Einsamkeit. Richtig ist: Nichts ist wichtiger als sich selbst volle Aufmerksamkeit zu schenken. Und das kann man lernen.",
-      "url": "https://www.zeit.de/zeit-wissen/2026/01/selbstliebe-einsamkeit-gefuehle-emotion-verarbeitung-reflektion",
-      "image_url": "https://img.zeit.de/zeit-wissen/2026/01/ich-schenke-mir-meine-volle-aufmerksamkeit-bild-2/super__430x287",
-      "image_title": "Selbstliebe: Ich schenke mir meine volle Aufmerksamkeit"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Cengiz Özdemir: Wie traurig für die, die ihn verpasst haben",
-      "teaser": "Der Hamburger Gastronom Cengiz Özdemir sprühte vor Charme und Energie, jetzt starb er mit 36 Jahren. Ein persönlicher Abschied",
-      "url": "https://www.zeit.de/hamburg/2026-01/cengiz-oezdemir-gastronom-hamburg-ottensen-nachruf",
-      "image_url": "https://img.zeit.de/hamburg/2026-01/cengiz-o-zdemir-gastronom-ottensen-hamburg/super__430x287",
-      "image_title": "Cengiz Özdemir Gastronom Ottensen Hamburg"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rape-Game: Er hat einen Plan, von dem sie nichts ahnt",
-      "teaser": "Eine Frau und ein Mann treffen sich zu gemeinsamen Sexspielen. Sie genießt es, sich ihm zu unterwerfen – und sie fühlt sich sicher. Bis er eines Tages die Regeln bricht.",
-      "url": "https://www.zeit.de/zeit-verbrechen/2025/36/vergewaltigung-konsens-spiel-bdsm-regeln",
-      "image_url": "https://img.zeit.de/zeit-verbrechen/2025/36/kein-spiel-bild-1/super__430x287",
-      "image_title": "Rape-Game: Er hat einen Plan, von dem sie nichts ahnt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ubisoft: Wie viele \"Assassin's-Creed\"-Teile kann man noch verkaufen?",
+      "title": "Ubisoft: Wie viele \"Assassin's-Creed\"-Teile kann man noch verkaufen?",
       "teaser": "Der Videospielhersteller Ubisoft steckt – wie die gesamte Branche – in der Krise. Das Problem: Die Firmen geben viel Geld aus für Dinge, die Gamer immer weniger wollen.",
       "url": "https://www.zeit.de/digital/games/2026-01/ubisoft-videospielbranche-krise-gaming",
-      "image_url": "https://img.zeit.de/digital/games/2026-01/ubisoft-videospielbranche-krise-gaming-bild/square__500x500",
+      "image_url": "https://img.zeit.de/digital/games/2026-01/ubisoft-videospielbranche-krise-gaming-bild/super__430x287",
       "image_title": "Ubisoft: Wie viele \"Assassin's-Creed\"-Teile kann man noch verkaufen?"
-    },
-    {
-      "title": "Europa League, 7. Spieltag: Stuttgart verliert in Rom, Freiburg zieht bereits ins Achtelfinale ein",
-      "teaser": "Der VfB Stuttgart unterliegt gegen den Tabellennachbarn aus Rom. Freiburg gewinnt gegen Tel Aviv und bleibt in der Europa League zu Hause ungeschlagen. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2026-01/europa-league-freiburg-tel-aviv-stuttgart-rom",
-      "image_url": "https://img.zeit.de/sport/2026-01/europa-league-freiburg-tel-aviv-stuttgart-rom-bild/super__430x287",
-      "image_title": "Europa League, 7. Spieltag: Fußball: Europa League, AS Rom - VfB Stuttgart, Stuttgarts Jamie Leweling (r) in Aktion mit Roms Daniele Ghilardi."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Baobab-Käsekuchen: Käsekuchen schließt den Magen",
@@ -356,16 +320,11 @@
       "url": "https://www.zeit.de/politik/ausland/2026-01/usa-minneapolis-jd-vance-proteste-festnahmen-schulkinder"
     },
     {
-      "title": "Erneuerbare Energien: Wind- und Solarkraft übertreffen in der EU fossile Brennstoffe",
-      "teaser": "2025 war der Anteil von Wind- und Solarenergie im EU-Strommix erstmals höher als der fossiler Brennstoffe. Laut der Denkfabrik Ember erreicht Kohlekraft einen Tiefstand.",
-      "url": "https://www.zeit.de/wirtschaft/ausland/2026-01/eu-strom-solarenergie-windenergie-fossile-brennstoffe-2025-denkfabrik-ember-gxe",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-01/eu-erneuerbare-2025-strom/super__430x287",
-      "image_title": "Erneuerbare Energien: Der Morgenhimmel leuchtet über einem Windenergiepark im östlichen Brandenburg. Das Wetter in Berlin und Brandenburg zeigt sich zum Start in den Dezember von seiner milden Seite. Service +++ dpa-Bildfunk +++ Aufnahmedatum 01.12.2025 Bildnachweis picture alliance/dpa | Patrick Pleul"
-    },
-    {
       "title": "Luis Bobga und Markus Söder: Generalstaatsanwaltschaft ermittelt gegen Chef der Grünen Jugend",
       "teaser": "In einem Video bezeichnete Luis Bobga den CSU-Chef indirekt als \"Hurensohn\". Wegen des Anfangsverdachts der Beleidigung laufen nun Ermittlungen gegen ihn.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-01/beleidigung-markus-soeder-ermittlungen-louis-bobga-gruene-jugend"
+      "url": "https://www.zeit.de/politik/deutschland/2026-01/beleidigung-markus-soeder-ermittlungen-louis-bobga-gruene-jugend",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-01/ermittlungen-generalstaatsanwaltschaft-luis-bobga-gruene-jugend-bild/super__430x287",
+      "image_title": "Luis Bobga und Markus Söder: Generalstaatsanwaltschaft ermittelt gegen Chef der Grünen Jugend"
     },
     {
       "title": "ICE-Razzien: Vance reist nach Minnesota – Schulbehörde meldet Festnahme von Kindern",
@@ -373,18 +332,23 @@
       "url": "https://www.zeit.de/politik/ausland/2026-01/usa-minneapolis-jd-vance-proteste-festnahmen-schulkinder"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Maga-Bewegung: Die neuen Feinde: Wohlhabende weiße Frauen",
-      "teaser": "Nach dem Tod von Renée Good hat die Maga-Bewegung es auf eine ganz neue Zielgruppe abgesehen. Das ist selbst für radikale Rechte ein wilder Rückschritt.",
-      "url": "https://www.zeit.de/kultur/2026-01/maga-bewegung-awful-rene-good-usa-frauen",
-      "image_url": "https://img.zeit.de/kultur/2026-01/maga-bewegung-awful-rene-good-usa/wide__892x502",
-      "image_title": "Maga-Bewegung: Die neuen Feinde: Wohlhabende weiße Frauen"
+      "title": "Davos: Friedrich Merz warnt vor Ära der Großmachtpolitik",
+      "teaser": "Merz warnt vor einem \"radikalen Umbau\" in der US-Außenpolitik und ruft dazu auf, die Nato nicht \"abzuschreiben\". Trumps Kurswechsel bei Grönland sei \"der richtige Weg\".",
+      "url": "https://www.zeit.de/politik/ausland/2026-01/davos-friedrich-merz-usa-groenland-mercosur-gxe"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erbschaftsteuer: Sollen Erben mehr zahlen?",
-      "teaser": "SPD-Generalsekretär Tim Klüssendorf fordert für große Betriebe eine höhere Erbschaftsteuer. Die Unternehmerin Marie-Christine Ostermann sagt: Das kostet Arbeitsplätze.",
-      "url": "https://www.zeit.de/2026/04/erbschaftsteuer-unternehmen-spd-tim-kluessendorf-marie-christine-ostermann",
-      "image_url": "https://img.zeit.de/2026/04/sollen-erben-mehr-zahlen-bild-3/super__430x287",
-      "image_title": "Erbschaftsteuer: Die Unternehmerin Marie-Christine Ostermann (rechts) streitet mit dem SPD-Generalsekretär Tim Klüssendorf (links)"
+      "title": "Z+ (abopflichtiger Inhalt); Erik Marquardt: \"Im Nachhinein war das ein Fehler\"",
+      "teaser": "Mit Stimmen von Grünen und Rechtsextremen: Das EU-Parlament lässt Mercosur rechtlich prüfen. Er würde nicht noch mal so entscheiden, sagt nun der Grüne Erik Marquardt.",
+      "url": "https://www.zeit.de/politik/ausland/2026-01/erik-marquardt-europaparlament-mercosur-eugh-gruene",
+      "image_url": "https://img.zeit.de/politik/2026-01/erik-marquardt-europaparlament-mercosur-eugh-gruene-teaser/wide__892x502",
+      "image_title": "Erik Marquardt: Abgeordnete des Europäischen Parlaments stimmen darüber ab, das EU-Freihandelsabkommen mit Ländern des südamerikanischen Staatenbunds Mercosur dem Gerichtshof der Europäischen Union (EuGH) vorzulegen. +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Donald Trump in Davos: Er bekommt, was er schon hat",
+      "teaser": "Donald Trump kann Grönland nicht übernehmen, und die Zölle gegen die Europäer sind vom Tisch. Warum der US-Präsident sich dennoch auf den Deal einlässt.",
+      "url": "https://www.zeit.de/politik/ausland/2026-01/donald-trump-davos-weltwirtschaftsforum-groenland-nato-strafzoelle",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-01/donald-trump-davos-weltwirtschaftsforum-groenland-nato/super__430x287",
+      "image_title": "Donald Trump in Davos: US President Donald Trump attends the Annual Meeting of the World Economic Forum in Davos, Switzerland, Thursday, Jan. 22, 2026. (AP Photo/Markus Schreiber)"
     },
     {
       "title": "Verlagsangebot: Sieben Lebensmittel für eine antientzündliche Ernährung",
@@ -457,11 +421,11 @@
       "image_title": "Reparaturen im Haushalt: Welche Fehler machen Hobby-Heimwerker?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Identität durch Arbeit: Ende 50, hochqualifiziert und arbeitslos",
-      "teaser": "Die Arbeit war ihr ganzes Leben. Doch dann wurden sie plötzlich entlassen. Zwei Menschen fragen sich zwischen Hunderten Absagen, wer sie eigentlich noch sind.",
-      "url": "https://www.zeit.de/arbeit/2026-01/bedeutung-arbeit-identitaet-arbeitslosigkeit-entlassung",
-      "image_url": "https://img.zeit.de/arbeit/2026-01/bedeutung-arbeit-identitaet-arbeitslosigkeit-entlassung-bild-2/super__430x287",
-      "image_title": "Identität durch Arbeit: Ende 50, hochqualifiziert und arbeitslos"
+      "title": "Z+ (abopflichtiger Inhalt); Enttäuschung beim Berufswechsel: \"Ich bereue meinen Quereinstieg im Nachhinein\"",
+      "teaser": "Sie waren frustriert, wollten Veränderung oder einfach ihrem Traum folgen. Drei Menschen erzählen, wie ihr beruflicher Neustart gescheitert ist – weil sie zu naiv waren.",
+      "url": "https://www.zeit.de/arbeit/2026-01/berufswechsel-enttaeuschung-quereinsteiger-unzufriedenheit-jobwechsel",
+      "image_url": "https://img.zeit.de/arbeit/2026-01/berufswechsel-enttaeuschung-quereinsteiger-unzufriedenheit-jobwechsel-bild/super__430x287",
+      "image_title": "Enttäuschung beim Berufswechsel: \"Ich bereue meinen Quereinstieg im Nachhinein\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erziehung: Süßigkeiten, Glotze, Doomscrolling – alles Teufelszeug",
@@ -583,25 +547,25 @@
       "image_title": "Todesopfer Zugunglücks Spanien Córdoba"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Hamnet\" von Chloé Zhao: Weinen oder Nichtweinen?",
-      "teaser": "Der Film \"Hamnet\" über den Rabenvater William Shakespeare wird mit Lob und Preisen überhäuft. Warum nur wird darin so viel geheult?",
-      "url": "https://www.zeit.de/2026/04/hamnet-chloe-zhao-film-jessie-buckley-maggie-o-farrell",
-      "image_url": "https://img.zeit.de/2026/04/weinen-oder-nichtweinen-bild-1/wide__892x502",
-      "image_title": "\"Hamnet\" von Chloé Zhao: Weinen oder Nichtweinen?"
+      "title": "Z+ (abopflichtiger Inhalt); Orchestral Session im Berghain: Fortissimo im Berghain",
+      "teaser": "Im berühmtesten Technoclub der Welt wird's klassisch. Wir stürzen uns auf die Tanzfläche.",
+      "url": "https://www.zeit.de/kultur/musik/2026-01/orchestral-session-berghain-berlin-klassische-musik",
+      "image_url": "https://img.zeit.de/kultur/2026-01/orchestral-session-berghain-berlin-klassische-musik-bild/wide__892x502",
+      "image_title": "Orchestral Session im Berghain: Outside Berghain nightclub in Berlin, November 2024. An old power station in the city was reborn as Berghain, a now-infamous club known for debauchery and its embrace of a style of techno, that celebrated its 20th year in December Jelka von Langen and Roman Goebel/The NewYorkTimes/Redux/laif"
     },
     {
-      "title": "Deutsches Theater: Früherer Theaterintendant Bernd Wilms gestorben",
-      "teaser": "Unter seiner Leitung wurde das Deutsche Theater 2008 zum \"Theater des Jahres\" gewählt: Nun ist Bernd Wilms mit 85 Jahren gestorben.",
-      "url": "https://www.zeit.de/kultur/2026-01/deutsches-theater-bernd-wilms-tot-gxe",
-      "image_url": "https://img.zeit.de/kultur/2026-01/bernd-wilms/super__430x287",
-      "image_title": "Bernd Wilms"
+      "title": "Z+ (abopflichtiger Inhalt); \"German Guilt\": Und was war mit Oma in der Nazi-Zeit?",
+      "teaser": "Thilo Mischke forscht in einer Doku mit Katja Riemann und Ronja von Rönne nach, was ihre Ahnen in der NS-Zeit taten. Und plötzlich tun sich noch ganz andere Abgründe auf.",
+      "url": "https://www.zeit.de/kultur/film/2026-01/german-guilt-zdf-miniserie-ns-vergangenheit-familie-thilo-mischke",
+      "image_url": "https://img.zeit.de/kultur/2026-01/german-guilt-zdf-miniserie-ns-vergangenheit-familie-thilo-mischke-bild-03/super__430x287",
+      "image_title": "\"German Guilt\": \"German Guilt\": Reporter Thilo Mischke geht in den Arolsen Archives, dem größten Archiv über Opfer und Überlebende des Nationalsozialismus, an Aktenschränken vorbei."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hamburger Bahnhof: Mit Glamour zum Geld",
-      "teaser": "Das Berliner Museum Hamburger Bahnhof kündigt eine jährliche Gala mit internationalen Stars an. Eine glänzende Idee in Zeiten von Sparmaßnahmen",
-      "url": "https://www.zeit.de/2026/04/hamburger-bahnhof-gala-kunst-berlin-maezene-kuerzungen",
-      "image_url": "https://img.zeit.de/2026/04/mit-glamour-zum-geld-bild-2/super__430x287",
-      "image_title": "Hamburger Bahnhof: Auch Cate Blanchett soll für die Veranstaltung nach Berlin reisen. ++++++++++<br /> The Fashion Awards 2025 Presented By Pandora - Arrivals"
+      "title": "Oscar-Nominierung: Vampir-Horrorfilm \"Blood & Sinners\" erhält 16 Oscar-Nominierungen",
+      "teaser": "Noch nie zuvor wurde ein Film so oft für den Oscar nominiert wie \"Blood & Sinners\". Das deutsche Drama \"In die Sonne schauen\" ging trotz guter Kritiken leer aus.",
+      "url": "https://www.zeit.de/kultur/film/2026-01/osacar-nominierungen-2026-film-preisverleihung",
+      "image_url": "https://img.zeit.de/kultur/film/2026-01/blood-sinners-horrorfilm-afroamerikanisch-kultur-geschichte-ryan-coogler-2/super__430x287",
+      "image_title": "Blood & Sinners"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Seilbahn: Flucht nach oben",
@@ -687,11 +651,11 @@
       "image_title": "ADHS-Medikamente: Die ADHS-Pille für alle? Nicht in Deutschland"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zyklusorientiertes Leben: Ein Leben nach dem Zyklus",
-      "teaser": "Gehaltsverhandlungen bitte während des Eisprungs, zur Lutealphase nur dunkle Schokolade: Zyklusorientiertes Leben liegt im Trend. Was die Wissenschaft dazu weiß.",
-      "url": "https://www.zeit.de/gesundheit/2026-01/zyklusorientiertes-leben-arbeit-alltag-wohlbefinden-frauen",
-      "image_url": "https://img.zeit.de/gesundheit/2025-12/zyklusorientiertes-leben-arbeit-alltag-wohlbefinden-frauen-bild/super__430x287",
-      "image_title": "Zyklusorientiertes Leben: Ein Leben nach dem Zyklus"
+      "title": "Krankenstand: Hausärzte wollen telefonische Krankschreibung beibehalten",
+      "teaser": "Der Ärzteverband warnt vor einer Abschaffung der telefonischen Krankschreibung. Äußerungen über angeblichen Missbrauch nennt Verbandschef Beier \"Arbeitgebermärchen\".",
+      "url": "https://www.zeit.de/gesundheit/2026-01/hausaerzte-krankschreibung-telefon-beibehaltung-gxe",
+      "image_url": "https://img.zeit.de/gesundheit/2026-01/telefonische-krankschreibung-bild/super__430x287",
+      "image_title": "Krankenstand: Bei leichten Erkrankungen können sich Arbeitnehmer derzeit telefonisch krankschreiben lassen, statt zum Hausarzt gehen zu müssen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Plan D – Rente : \"Ich habe die Rente innerlich abgeschrieben\"",
@@ -876,11 +840,11 @@
       "image_title": "Bürokratie: In die Bürokratie hineingerutscht wie andere in ihre Midlife-Crisis"
     },
     {
-      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Samin Aghaeihajiagha: \"Lassen wir uns volllaufen und dieses Leben vergessen\"",
@@ -897,64 +861,64 @@
       "image_title": "Menstruationsblut: Die Antwort liegt im Blut"
     },
     {
+      "title": "Europa League, 7. Spieltag: Stuttgart verliert in Rom, Freiburg zieht bereits ins Achtelfinale ein",
+      "teaser": "Der VfB Stuttgart unterliegt gegen den Tabellennachbarn aus Rom. Freiburg gewinnt gegen Tel Aviv und bleibt in der Europa League zu Hause ungeschlagen. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2026-01/europa-league-freiburg-tel-aviv-stuttgart-rom",
+      "image_url": "https://img.zeit.de/sport/2026-01/europa-league-freiburg-tel-aviv-stuttgart-rom-bild/wide__892x502",
+      "image_title": "Europa League, 7. Spieltag: Fußball: Europa League, AS Rom - VfB Stuttgart, Stuttgarts Jamie Leweling (r) in Aktion mit Roms Daniele Ghilardi."
+    },
+    {
       "title": "Handball-EM: Deutschland gewinnt erstes Hauptrundenspiel der EM gegen Portugal",
       "teaser": "Beim EM-Hauptrundenauftakt hat sich Deutschland gegen Portugal durchgesetzt. Das DHB-Team hat damit eine gute Ausgangslage vor den Spielen gegen Dänemark und Frankreich.",
       "url": "https://www.zeit.de/sport/2026-01/handball-em-hauptrunde-deutschland-portugal",
-      "image_url": "https://img.zeit.de/sport/2026-01/handball-em-deutschland-besiegt-portugal-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/sport/2026-01/handball-em-deutschland-besiegt-portugal-bild/super__430x287",
       "image_title": "Handball-EM: Deutschland gewinnt erstes Hauptrundenspiel der EM gegen Portugal"
     },
     {
-      "title": "Iranische Fußballnationalmannschaft: Team Mullah?",
-      "teaser": "Das iranische Fußballnationalteam gilt als Teil der staatlichen Propaganda, doch nun solidarisieren sich Spieler mit den Protesten. Wird Iran an der WM teilnehmen?",
-      "url": "https://www.zeit.de/sport/2026-01/iran-fussball-nationalmannschaft-propaganda-proteste-wm-2026",
-      "image_url": "https://img.zeit.de/sport/2026-01/iran-fussball-nationalmannschaft-protest/super__430x287",
-      "image_title": "Iranische Fußballnationalmannschaft: Russia Soccer Friendly Russia - Iran 9023796 10.10.2025 Iran s Mehdi Taremi is seen during the friendly soccer match between Russia and Iran, in Volgograd, Russia."
+      "title": "Z+ (abopflichtiger Inhalt); Cengiz Özdemir: Wie traurig für die, die ihn verpasst haben",
+      "teaser": "Der Hamburger Gastronom Cengiz Özdemir sprühte vor Charme und Energie, jetzt starb er mit 36 Jahren. Ein persönlicher Abschied",
+      "url": "https://www.zeit.de/hamburg/2026-01/cengiz-oezdemir-gastronom-hamburg-ottensen-nachruf",
+      "image_url": "https://img.zeit.de/hamburg/2026-01/cengiz-o-zdemir-gastronom-ottensen-hamburg/wide__892x502",
+      "image_title": "Cengiz Özdemir Gastronom Ottensen Hamburg"
     },
     {
       "title": "Astrophysik: \"Polarlichter gibt es auch auf Venus und Saturn\"",
       "teaser": "Schimmernde Teilchen im All: Der Astrophysiker Marcus Brüggen erklärt, wie Polarlichter entstehen, wo man sie sieht – und wieso er bei Nachtflügen am Fenster sitzt.",
       "url": "https://www.zeit.de/hamburg/2026-01/astrophysik-polarlichter-hamburg-astronomie-marcus-brueggen",
-      "image_url": "https://img.zeit.de/hamburg/2026-01/astrophysik-polarlichter-hamburg-european-xfel-marcus-brueggen-bild-6/wide__892x502",
+      "image_url": "https://img.zeit.de/hamburg/2026-01/astrophysik-polarlichter-hamburg-european-xfel-marcus-brueggen-bild-6/super__430x287",
       "image_title": "Astrophysik: Polarlichter leuchten am Nachthimmel über der Hansestadt Hamburg."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); KZ-Gedenkstätten: \"Die KI macht NS-Opfer jünger, hübscher, verniedlicht das Leid\"",
-      "teaser": "Im Netz verbreiten sich KI-generierte Holocaustbilder – weil sie gut fürs Geschäft einiger Firmen sind, glaubt Historikerin Iris Groschek. Das zerstöre Vertrauen.",
-      "url": "https://www.zeit.de/hamburg/2026-01/kz-gedenkstaetten-kuenstliche-intelligenz-bilder-fakes-geschichtsverfaelschung-iris-groschek",
-      "image_url": "https://img.zeit.de/hamburg/2026-01/kz-gedenkstaetten-kuenstliche-intelligenz-bilder-fakes-geschichtsverfaelschung-iris-groschek-bilder/super__430x287",
-      "image_title": "KZ-Gedenkstätten: \"Die KI macht NS-Opfer jünger, hübscher, verniedlicht das Leid\""
+      "title": "Unterschätztes Risiko: Fachleute fordern schärfere Promillegrenze für Radfahrer",
+      "url": "https://www.zeit.de/news/2026-01/23/fachleute-fordern-schaerfere-promillegrenze-fuer-radfahrer"
     },
     {
-      "title": "Unglück nach Rekordregen: Erdrutsch in Neuseeland: Suche nach verschütteten Campern",
-      "url": "https://www.zeit.de/news/2026-01/23/erdrutsch-in-neuseeland-suche-nach-verschuetteten-campern"
+      "title": "Gipfeltreffen: Erster deutscher Nordsee-Gipfel in Hamburg",
+      "url": "https://www.zeit.de/news/2026-01/23/erster-deutscher-nordsee-gipfel-in-hamburg"
     },
     {
-      "title": "Weltwirtschaftsforum: Weltpolitik im Alpenort: Fünf Beobachtungen aus Davos",
-      "url": "https://www.zeit.de/news/2026-01/23/weltpolitik-im-alpenort-fuenf-beobachtungen-aus-davos"
+      "title": "Ab Herbst: Ganztag für Erstklässler: Jede vierte Schule sieht Hürden",
+      "url": "https://www.zeit.de/news/2026-01/23/ganztag-fuer-erstklaessler-jede-vierte-schule-sieht-huerden"
     },
     {
-      "title": "Comedian in Klassiker: Bülent Ceylan wagt Rolle in Oper - \"Ein bisschen Revolution\"",
-      "url": "https://www.zeit.de/news/2026-01/23/buelent-ceylan-wagt-rolle-in-oper-ein-bisschen-revolution"
+      "title": "Umfrage: Mehrheit für schärfere Promillegrenze für Radler",
+      "url": "https://www.zeit.de/news/2026-01/23/mehrheit-fuer-schaerfere-promillegrenze-fuer-radler"
     },
     {
-      "title": "Popmusik: Wincent Weiss singt über privates Glück und eine kranke Welt",
-      "url": "https://www.zeit.de/news/2026-01/23/wincent-weiss-singt-ueber-privates-glueck-und-eine-kranke-welt"
+      "title": "Ganztag an Grundschulen: Umfrage: Ganztag für viele Schulleitungen nicht machbar",
+      "url": "https://www.zeit.de/news/2026-01/23/umfrage-ganztag-fuer-viele-schulleitungen-nicht-machbar"
     },
     {
-      "title": "Bahn: Noch wochenlange Beeinträchtigung nach Zugentgleisung",
-      "url": "https://www.zeit.de/news/2026-01/23/noch-wochenlange-beeintraechtigung-nach-zugentgleisung"
+      "title": "Sport: Kölns OB: Olympia-Bewerbung von NRW braucht klare Mehrheit",
+      "url": "https://www.zeit.de/news/2026-01/23/koelns-ob-olympia-bewerbung-von-nrw-braucht-klare-mehrheit"
     },
     {
-      "title": "Regierungskonsulationen: Merz mit zehn Ministern bei Meloni",
-      "url": "https://www.zeit.de/news/2026-01/23/merz-mit-zehn-ministern-bei-meloni"
+      "title": "Hafenstrategie: Mehr als 140 Millionen Euro für Häfen in Schleswig-Holstein",
+      "url": "https://www.zeit.de/news/2026-01/23/mehr-als-140-millionen-euro-fuer-haefen-in-schleswig-holstein"
     },
     {
-      "title": "Video-App: Nach Hängepartie: Neue US-Firma für Tiktok steht",
-      "url": "https://www.zeit.de/news/2026-01/23/nach-haengepartie-neue-us-firma-fuer-tiktok-steht"
-    },
-    {
-      "title": "Sozialstaat: Sozialminister Jung: Frühe Kindheit muss in den Fokus",
-      "url": "https://www.zeit.de/news/2026-01/23/sozialminister-jung-fruehe-kindheit-muss-in-den-fokus"
+      "title": "Sachsen-Anhalt: Reiner Haseloff – Landesvater, Lokalpatriot, Krisenmanager",
+      "url": "https://www.zeit.de/news/2026-01/23/reiner-haseloff-landesvater-lokalpatriot-krisenmanager"
     }
   ]
 }
