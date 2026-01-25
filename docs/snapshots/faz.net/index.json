@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T05:20:25",
+  "timestamp": "2026-01-25T06:16:16",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -62,7 +62,7 @@
   ],
   "articles": [
     {
-      "title": "Liveblog USA unter Trump: Mann in Minneapolis erschossen: Was über den Vorfall bekannt ist",
+      "title": "Liveblog USA unter Trump: ICE-Agent erschießt Mann in Minneapolis: Was über den Vorfall bekannt ist",
       "teaser": "Eltern des Getöteten verurteilen „Lügen“ der US-Regierung über Sohn +++ Heimatschutzministerin Noem spricht von „Inlandsterrorismus“ +++ Video aus Minneapolis widerspricht Darstellung von Behörden +++ alle Neuigkeiten im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-ice-einsatz-in-minneapolis-was-ueber-den-toedlichen-vorfall-bekannt-ist-faz-19444916.html"
     },
@@ -222,6 +222,11 @@
       "image_title": "Sandra Kegel"
     },
     {
+      "title": "Wetterdienst warnt: Glatteis-Gefahr verlagert sich in den Osten",
+      "teaser": "Die eine Hälfte Deutschlands kann aufatmen, die andere muss sich zum Start in die neue Woche erneut gegen Schnee und glatte Straßen wappnen. Wo nun Vorsicht geboten ist.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/glatteis-gefahr-verlagert-sich-in-den-osten-accg-200471894.html"
+    },
+    {
       "title": "Demos gegen Premier Rama: Ausschreitungen bei regierungskritischen Protesten in Albanien",
       "teaser": "In der albanischen Hauptstadt Tirana demonstrieren Tausende gegen die Regierung von Premier Edi Rama. Es kommt zu schweren Ausschreitungen.",
       "url": "https://www.faz.net/aktuell/politik/ausland/albanien-ausschreitungen-bei-regierungskritischen-protesten-accg-200471803.html"
@@ -235,11 +240,6 @@
       "title": "US-Präsident: Trump will Super Bowl fernbleiben – und kritisiert Musik-Acts",
       "teaser": "In einem Interview äußert sich Donald Trump zum bevorstehenden Football-Spektakel mit der berühmten Halftime-Show. Die Künstler finde er „schrecklich“. Sie seien aber nicht der Grund, warum er nicht zum Super Bowl reisen wolle.",
       "url": "https://www.faz.net/aktuell/sport/mehr-sport/donald-trump-will-super-bowl-fernbleiben-und-kritisiert-bad-bunny-und-green-day-200471472.html"
-    },
-    {
-      "title": "Ende der Panda-Diplomatie: Xiao Xiao und Lei Lei müssen Japan verlassen, weil China es so will",
-      "teaser": "Seit 1972 verleiht China Riesenpandas nach Japan. Jetzt soll die Panda-Diplomatie vorbei sein – und die beiden letzten Riesenpandas den Zoo in Tokio verlassen. Die Menschen stehen Schlange, um sie noch einmal zu sehen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/tiere/tokio-die-letzten-riesenpandas-muessen-zurueck-nach-china-110824324.html"
     },
     {
       "title": "BVB nutzt Bayern-Patzer: Dortmund siegt mit Entschlossenheit und Emotion",
@@ -294,18 +294,18 @@
       "image_title": "Kanadas Premierminister Mark Carney"
     },
     {
-      "title": "FAZ+Weltwirtschaftsforum: Die NATO ist nicht tot",
-      "teaser": "Am Ende eines denkwürdigen Tages verzichtet Donald Trump auf eine Konfrontation mit der NATO in der Grönlandfrage. Trumps Amerika bleibt jedoch ein erratischer Partner, daher muss Europa stärker an Souveränität denken und auf andere Mittelmächte zugehen.",
-      "url": "https://www.faz.net/pro/weltwirtschaft/weltwissen/die-nato-ist-nicht-tot-trump-erschuettert-in-davos-die-weltordnung-200461232.html",
-      "image_url": "https://media0.faz.net/image/w730/41d6d1f0ef38/w2667h1500x167y0/202601/43601.0.1689281918/nato-generalsekretaer-mark.webp",
-      "image_title": "NATO-Generalsekretär Mark Rutte (l) und US-Präsident Donald Trump während eines Treffens am Rande des Weltwirtschaftsforums in Davos."
-    },
-    {
       "title": "FAZ+Deutschland und USA: Abhängigkeiten vom F-35 bis zur Amazon-Cloud",
       "teaser": "Ob Rüstungsgüter, Software oder Bezahldienste: Deutschland ist in vielen Bereichen abhängig von den Vereinigten Staaten. Politik und Wirtschaft sind sich einig: Das sollte sich schnell ändern.",
       "url": "https://www.faz.net/aktuell/wirtschaft/de-risking-von-trump-warum-deutschland-so-abhaengig-ist-von-den-usa-110824612.html",
       "image_url": "https://media0.faz.net/image/w730/1bc08756ce9c/w3000h1687x0y156/202511/43601.0.1494878400/ein-f-35-kampfflugzeug-bei.webp",
       "image_title": "Ein F-35-Kampfflugzeug bei einer Militärshow in Dubai."
+    },
+    {
+      "title": "FAZ+Interview mit Maximilian Krah: „Der Begriff der Remigration ist ein Problem“",
+      "teaser": "Der AfD-Politiker Maximilian Krah will Migranten gewinnen und seiner Partei den Remigrationsbegriff austreiben. Warum diese neuen Töne? Ein Gespräch.",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-maximilian-krah-wendet-sich-gegen-remigrationsbegriff-accg-110823963.html",
+      "image_url": "https://media0.faz.net/image/w730/341347acaa79/w3000h1688x0y281/012026/1.10823959/afd-politiker-krah-mit-plakat.webp",
+      "image_title": "AfD-Politiker Krah mit Plakat in seinem Berliner Büro"
     },
     {
       "title": "FAZ+Zukunftsforscher warnt: „Den Studenten fehlt es an fundamentalen Fähigkeiten“",
@@ -558,10 +558,17 @@
       "image_title": "Ästhetik und Funktionalität gehen bei ihren Möbeln Hand in Hand: Fermob-Chef Baptiste Reybier (links) und sein Vater Bernard Reybier."
     },
     {
+      "title": "Ende der Panda-Diplomatie: Xiao Xiao und Lei Lei müssen Japan verlassen, weil China es so will",
+      "teaser": "Seit 1972 verleiht China Riesenpandas nach Japan. Jetzt soll die Panda-Diplomatie vorbei sein – und die beiden letzten Riesenpandas den Zoo in Tokio verlassen. Die Menschen stehen Schlange, um sie noch einmal zu sehen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/tiere/tokio-die-letzten-riesenpandas-muessen-zurueck-nach-china-110824324.html",
+      "image_url": "https://media0.faz.net/image/w1200/8969f7848739/w2999h1687x0y173/122025/1.10824323/lei-lei-im-ueno-zoo.webp",
+      "image_title": "Lei Lei im Ueno-Zoo"
+    },
+    {
       "title": "Starker Wintersturm: Lufthansa streicht Flüge in die USA",
       "teaser": "Die USA werden von einem der heftigsten Winterstürme der vergangenen Jahre getroffen. Das hat nun auch Auswirkungen auf den transatlantischen Flugverkehr.",
       "url": "https://www.faz.net/aktuell/gesellschaft/usa-wintersturm-lufthansa-streicht-fluege-200471459.html",
-      "image_url": "https://media0.faz.net/image/w1200/cdf624b7bb72/w3000h1687x0y222/202601/43601.0.1697655312/passagiermaschinen-warten-auf.webp",
+      "image_url": "https://media0.faz.net/image/w730/cdf624b7bb72/w3000h1687x0y222/202601/43601.0.1697655312/passagiermaschinen-warten-auf.webp",
       "image_title": "Passagiermaschinen warten auf dem Flughafen Frankfurt auf ihre Startfreigabe."
     },
     {
@@ -579,13 +586,6 @@
       "image_title": "Ein 17-Jähriger ist in der Berliner U-Bahn-Station Deutsche Oper bei dem Versuch, seine E-Zigarette aus dem Gleisbett zu fischen, von einem Stromschlag getötet worden."
     },
     {
-      "title": "Vermehrt Angriffe: Zwölfjähriger stirbt Tage nach Haiattacke in Australien",
-      "teaser": "Eine Woche kämpfte der Junge in einem Krankenhaus in Sydney um sein Leben. Nun erlag er seinen schweren Verletzungen. Vermehrte Haiangriffe versetzen die Menschen in Australien in Alarmbereitschaft.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/zwoelfjaehriger-stirbt-tage-nach-haiattacke-in-australien-accg-200470771.html",
-      "image_url": "https://media0.faz.net/image/w730/c4eb707b3f98/w3000h1687x0y156/202601/43601.0.1697179974/spaziergaenger-an-einem-strand.webp",
-      "image_title": "Spaziergänger an einem Strand von Sydney"
-    },
-    {
       "title": "Helen Schneider im Stil-Fragebogen: Was ich tue, obwohl es unvernünftig ist? Im kalten Norden Deutschlands wohnen!",
       "teaser": "Helen Schneider ging mit Udo Lindenberg auf Tournee, spielte im Theater und in Musicals – nun wird sie im „Tatort“ zu sehen sein. Hier spricht die Sängerin über ihre Wahlheimat sowie Essens- und Musikvorlieben.",
       "url": "https://www.faz.net/aktuell/stil/trends-nischen/schauspielerin-helen-schneider-im-stil-fragebogen-ueber-heimat-200377061.html",
@@ -600,10 +600,17 @@
       "image_title": "In Deutschland zu Unrecht unbeliebt: selbst gekochte Gerichte mit ganzen Fischen"
     },
     {
+      "title": "Entgiftung von Zellen: Wie ein Protein Parkinson auslösen könnte",
+      "teaser": "Die Parkinson-Krankheit könnte durch Störungen im körpereigenen Recyclingsystem ausgelöst werden. Erkenntnisse von Darmstädter Forschern eröffnen womöglich neue Wege zu einer Therapie.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/parkinson-funktion-von-protein-entschluesselt-accg-200453108.html",
+      "image_url": "https://media0.faz.net/image/w1200/a42471207be2/w2623h1475x650y74/202505/43601.0.1019818851/parkinson-wird-durch-die.webp",
+      "image_title": "Parkinson wird durch die Schädigung von Nervenzellen im Gehirn verursacht."
+    },
+    {
       "title": "Frankfurt: Kurden und Iraner demonstrieren friedlich",
       "teaser": "Für die Freiheit in Rojava und Iran. Dafür sind mehrere tausend Menschen am Samstag in Frankfurt auf die Straße gegangen. Außerdem wurde eine Lichterkette am Mainufer gebildet.",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-kurden-und-iraner-demonstrieren-friedlich-200471468.html",
-      "image_url": "https://media0.faz.net/image/w1200/7a8c84884c35/w3000h1687x0y173/202601/43601.0.1698030872/protest-zwei-demonstrantinnen.webp",
+      "image_url": "https://media0.faz.net/image/w730/7a8c84884c35/w3000h1687x0y173/202601/43601.0.1698030872/protest-zwei-demonstrantinnen.webp",
       "image_title": "Protest: Zwei Demonstrantinnen halten Plakate auf der prokurdischen Demo hoch."
     },
     {
@@ -619,13 +626,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/huenstetten-frau-stirbt-bei-frontalzusammenstoss-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
       "image_url": "https://media0.faz.net/image/w730/c515a61f38ab/w3000h1687x0y94/202601/43601.0.1674078470/jede-hilfe-zu-spaet-kam-fuer.webp",
       "image_title": "Jede Hilfe zu spät kam für eine 41 Jahre alte Autofahrerin nach einem Frontalzusammenstoß bei Hünstetten."
-    },
-    {
-      "title": "Landesparteitag in Marburg: Grüne Versprechen in düsteren Zeiten",
-      "teaser": "Hessens Grüne starten in den Kommunalwahlkampf, aber die internationale Politik dringt bei den Reden auf dem Parteitag in Marburg immer wieder durch.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessische-gruene-stimmen-sich-in-marburg-auf-kommunalwahl-2026-ein-accg-200471116.html",
-      "image_url": "https://media0.faz.net/image/w730/9bf4657cbdcf/w3000h1687x0y0/202601/43601.0.1697267096/felix-banaszak-co.webp",
-      "image_title": "Felix Banaszak, Co-Bundesvorsitzender Bündnis 90/Die Grünen, gehörte zu den Rednern beim Landesparteitag der hessischen Grünen Hessen in Marburg."
     },
     {
       "title": "FAZ+Ausbau der Ladeinfrastruktur: Deutschlands Weg aus der Ladewüste",
