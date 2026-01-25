@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-25T12:19:23",
+  "timestamp": "2026-01-25T13:25:21",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "USA: Die Architektur der Abschiebung und Palantirs Rolle im neuen ICE-System",
+      "url": "https://www.heise.de/hintergrund/USA-Die-Architektur-der-Abschiebung-und-Palantirs-Rolle-im-neuen-ICE-System-11152960.html"
+    },
+    {
+      "title": "DLR-Satellit BIROS verglüht – das Aus für die Feuerwache im All",
+      "url": "https://www.heise.de/news/Aus-fuer-Infrarot-Feuerwache-DLR-Satellit-BIROS-in-der-Atmosphaere-verglueht-11153033.html"
+    },
     {
       "title": "Programmiersprache Kotlin: Noch Tickets für die Online-Konferenz sichern",
       "url": "https://www.heise.de/news/Programmiersprache-Kotlin-Noch-Tickets-fuer-die-Online-Konferenz-sichern-11151402.html"
@@ -62,23 +70,16 @@
       "url": "https://www.heise.de/news/Kondensstreifen-Warum-ein-paar-Nachtfluege-im-Winter-die-Klimabilanz-ruinieren-11152923.html"
     },
     {
-      "title": "Unfälle: Verkehrssicherheitsrat fordert KI-Überwachung des Handy-Verbots",
-      "url": "https://www.heise.de/news/Unfaelle-Verkehrssicherheitsrat-fordert-KI-Ueberwachung-des-Handy-Verbots-11152909.html"
-    },
-    {
-      "title": "Meta schaltet KI-Charaktere für Teenager ab, zumindest vorerst",
-      "url": "https://www.heise.de/news/Meta-schaltet-KI-Charaktere-fuer-Teenager-ab-zumindest-vorerst-11152831.html"
-    },
-    {
       "title": "Missing LinkVor 50 Jahren startete die Concorde in den Liniendienst",
       "teaser": "Das Überschallflugzeug galt als „Königin der Lüfte“. Vor 50 Jahren eröffneten Air France und British Airways den Liniendienst.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Vor-50-Jahren-startete-die-Concorde-in-den-Liniendienst-11148417.html",
       "image_title": "Startende Concorde"
     },
     {
-      "title": "Wi-Fi-HaLow-Router von GL.iNetWLAN mit 1 Kilometer Reichweite",
-      "teaser": "Der HaLowLink 2 arbeitet zwischen 750 und 950 MHz. In Europa gibt es jedoch erhebliche Einschränkungen.",
-      "url": "https://www.heise.de/news/WLAN-mit-1-Kilometer-Reichweite-Neuer-Wi-Fi-HaLow-Router-von-GL-iNet-11152889.html"
+      "title": "Mit Palantir & Co.Wie ICE die Abschiebungen in den USA digitalisiert",
+      "teaser": "Die US-Einwanderungsbehörde ICE digitalisiert die Abschiebung mit Palantir, Penlink, Datenbrokern und KI.",
+      "url": "https://www.heise.de/hintergrund/USA-Die-Architektur-der-Abschiebung-und-Palantirs-Rolle-im-neuen-ICE-System-11152960.html",
+      "image_title": "Palantir-Logo"
     },
     {
       "title": "ÜberblickKI-Coding-Assistenten für die Softwareentwicklung",
@@ -87,10 +88,9 @@
       "image_title": ","
     },
     {
-      "title": "Strategiewechsel der TelekomGlasfaser: Auf dem Land ist die Action",
-      "teaser": "Auf dem Land ist die Action, sagt der neue Telekom-Deutschlandchef. Dazu gehört auch der Überbau.",
-      "url": "https://www.heise.de/news/Glasfaser-Strategiewechsel-der-Telekom-Auf-dem-Land-ist-die-Action-11152650.html",
-      "image_title": "Deutschlandschef Rodrigo Diehl auf dem „Netzetag“ der Telekom am Donnerstag in Berlin"
+      "title": "Wi-Fi-HaLow-Router von GL.iNetWLAN mit 1 Kilometer Reichweite",
+      "teaser": "Der HaLowLink 2 arbeitet zwischen 750 und 950 MHz. In Europa gibt es jedoch erhebliche Einschränkungen.",
+      "url": "https://www.heise.de/news/WLAN-mit-1-Kilometer-Reichweite-Neuer-Wi-Fi-HaLow-Router-von-GL-iNet-11152889.html"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -192,21 +192,26 @@
       "image_title": "Satelliten"
     },
     {
+      "title": "DLR-Satellit BIROS verglüht – das Aus für die Feuerwache im All",
+      "teaser": "Fast 10 Jahre lieferte der Kleinsatellit BIROS Daten über Waldbrände und Vulkanausbrüche aus dem All. Nun endete die Mission des Berliner Feuervogels planmäßig.",
+      "url": "https://www.heise.de/news/Aus-fuer-Infrarot-Feuerwache-DLR-Satellit-BIROS-in-der-Atmosphaere-verglueht-11153033.html"
+    },
+    {
       "title": "Programmiersprache Kotlin: Noch Tickets für die Online-Konferenz sichern",
       "teaser": "Die Online-Konferenz betterCode() Kotlin bietet zwei einzeln buchbare Tage zu Kotlin für die Android- und Multiplattform-Entwicklung sowie fürs Backend.",
       "url": "https://www.heise.de/news/Programmiersprache-Kotlin-Noch-Tickets-fuer-die-Online-Konferenz-sichern-11151402.html",
       "image_title": "Leuchtturm, Meer, Kotlin"
     },
     {
+      "title": "Beim Internet bleiben die größten Städte zurück",
+      "teaser": "Eine Analyse von mehr als 100 Städten zeigt: Die höchsten Geschwindigkeiten für Festnetzanschlüsse gibt es nicht in den größten Ballungsräumen, sondern in Zentren mit 30.000 bis 110.000 Einwohnern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7165479068&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "BitLocker: Microsoft gibt Schlüssel an Strafverfolger heraus",
       "teaser": "Microsoft hinterlegt den Schlüssel der Festplattenverschlüsselung standardmäßig im Online-Account von Kunden. Dort ist er mit richterlichem Beschluss abrufbar.",
       "url": "https://www.heise.de/news/Microsoft-gibt-BitLocker-Schluessel-an-Strafverfolgungsbehoerden-11152988.html",
       "image_title": "Ransomware auf einem Rechner"
-    },
-    {
-      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
-      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "So bauen Sie den erfolgreichen norwegischen Pensionsfonds nach",
@@ -236,11 +241,6 @@
       "teaser": "Der Verkehrssicherheitsrat will eine Reform des Verkehrsrechts, die von flächendeckender Monocam-Überwachung bis zu neuen Promillegrenzen für Radfahrer reicht.",
       "url": "https://www.heise.de/news/Unfaelle-Verkehrssicherheitsrat-fordert-KI-Ueberwachung-des-Handy-Verbots-11152909.html",
       "image_title": "Mann telefoniert um einen Autounfall mit zwei Fahrzeugen zu melden."
-    },
-    {
-      "title": "Meta schaltet KI-Charaktere für Teenager ab, zumindest vorerst",
-      "teaser": "Teenager sollen in den kommenden Wochen in den Meta-Apps keinen Zugriff auf KI-Charaktere bekommen. Der Konzert steht vor gerichtlichen Auseinandersetzungen.",
-      "url": "https://www.heise.de/news/Meta-schaltet-KI-Charaktere-fuer-Teenager-ab-zumindest-vorerst-11152831.html"
     },
     {
       "title": "Heizkosten senkenSmarte Thermostate mit Home Assistant ausreizen",
@@ -334,6 +334,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Meta schaltet KI-Charaktere für Teenager ab, zumindest vorerst",
+      "teaser": "Teenager sollen in den kommenden Wochen in den Meta-Apps keinen Zugriff auf KI-Charaktere bekommen. Der Konzert steht vor gerichtlichen Auseinandersetzungen.",
+      "url": "https://www.heise.de/news/Meta-schaltet-KI-Charaktere-fuer-Teenager-ab-zumindest-vorerst-11152831.html"
+    },
+    {
       "title": "Biometrische Passfotos per App selbst erstellen",
       "teaser": "Biometrische Passbilder mal eben schnell zu knipsen, klingt einfach – hat aber Hürden. Wir zeigen, was erlaubt ist und wie es ganz einfach per App funktioniert.",
       "url": "https://www.heise.de/ratgeber/Biometrische-Passfotos-per-App-selbst-erstellen-11151745.html"
@@ -399,15 +404,15 @@
       "image_title": "Strukturierte Kreise über eine Weltkarte"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu React Native Windows, JetBrains, Qt, PyTorch, Myrlyn, Rust, Swift und GitHub.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11149235.html",
       "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Digitale Souveränität muss kein Wunschtraum bleiben",
-      "teaser": "Viele deutsche Unternehmen sind von ausländischer IT abhängig. Ein Webcast zeigt Ihnen, wie Sie das Steuer auf dem Weg in die digitale Zukunft in die eigene Hand nehmen können.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/ihre-it-ihre-regeln-souveraene-strategien-und-technologien-fuer-hybrid-it-compliance-und-datenhoheit-4992/?source=hbsad-ersatz"
     },
     {
       "title": "Nikon klagt, Fuji fragt und die KI übernimmt – die Fotonews der Woche 3/2026",
@@ -442,6 +447,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fitness-tracker-im-test-gute-pulsuhren-schon-unter-100-euro/nh3k090?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Glasfaser-Strategiewechsel der Telekom: Auf dem Land ist die Action",
+      "teaser": "Mit einem Strategiewechsel will die Telekom bei Glasfaser angreifen. Auf dem Land ist die Action, sagt der neue Deutschlandchef. Dazu gehört auch der Überbau.",
+      "url": "https://www.heise.de/news/Glasfaser-Strategiewechsel-der-Telekom-Auf-dem-Land-ist-die-Action-11152650.html",
+      "image_title": "Deutschlandschef Rodrigo Diehl auf dem „Netzetag“ der Telekom am Donnerstag in Berlin"
+    },
+    {
       "title": "CES 2026: Wenn Humanoide Roboter laufen, greifen und fühlen lernen",
       "teaser": "Der Knoten ist geplatzt: Humanoide Roboter können mittlerweile wie selbstverständlich laufen und mit Objekten interagieren. Die Industrie setzt sie bereits ein.",
       "url": "https://www.heise.de/hintergrund/CES-2026-Wenn-Humanoide-Roboter-laufen-greifen-und-fuehlen-lernen-11141936.html"
@@ -454,13 +465,11 @@
     },
     {
       "title": "Weitere AMD Ryzen 7 9800X3D fallen aus",
-      "teaser": "In den vergangenen Wochen häuften sich defekte Ryzen 7 9800X3D auf Asus-Mainboards. Der Hersteller startet eine Untersuchung.",
       "url": "https://www.heise.de/news/Weitere-AMD-Ryzen-7-9800X3D-fallen-aus-11152556.html",
       "image_title": "Nahaufnahme eines AMD Ryzen 7 9800X3D"
     },
     {
       "title": "Warum Microsoft auf Anthropic setzt: Tausende Mitarbeiter testen Claude Code",
-      "teaser": "Microsoft testet intensiv das KI-Entwicklungs-Tool Claude Code von Anthropic. Tausende Mitarbeiter nutzen es, auch für Produkte wie Windows und Microsoft 365.",
       "url": "https://www.heise.de/news/Microsofts-ungewoehnlicher-Test-Claude-Code-von-Anthropic-im-Fokus-11152560.html",
       "image_title": "Microsoft-Logo an einem Bürogebäude"
     },
@@ -468,16 +477,6 @@
       "title": "Neue Macs im Anflug: Apple lädt zur „Apple Experience“ nach Los Angeles",
       "url": "https://www.heise.de/news/Apple-veranstaltet-Creator-Event-Apple-Experience-mit-neuen-Macs-in-L-A-11151904.html",
       "image_title": "Auszug aus Apple-Einladung"
-    },
-    {
-      "title": "Ganz ohne Cloud und Internet: Raspi 5 wird zum DIY-KI-Sprachassistenten",
-      "url": "https://www.heise.de/news/Ganz-ohne-Cloud-und-Internet-Raspi-5-wird-zum-DIY-KI-Sprachassistenten-11150389.html",
-      "image_title": "Hand hält ein Raspi-Gagdet hoch"
-    },
-    {
-      "title": "Galaxy Watch 5 macht den Anfang: Samsung rollt Januar-Sicherheitspatch aus",
-      "url": "https://www.heise.de/news/Galaxy-Watch-5-zuerst-Samsung-liefert-Januar-Update-fuer-seine-Smartwatches-aus-11151567.html",
-      "image_title": "Samsung Galaxy Watch 5 auf Holztisch"
     },
     {
       "title": "Weltraumschrott: Seismometer können Absturz fast in Echtzeit nachverfolgen",
@@ -494,6 +493,11 @@
       "url": "https://www.heise.de/news/Eiskaltes-Haendchen-Roboterhand-laeuft-selbststaendig-los-und-sammelt-Gegenstaende-11152113.html"
     },
     {
+      "title": "Galaxy Watch 5 macht den Anfang: Samsung rollt Januar-Sicherheitspatch aus",
+      "url": "https://www.heise.de/news/Galaxy-Watch-5-zuerst-Samsung-liefert-Januar-Update-fuer-seine-Smartwatches-aus-11151567.html",
+      "image_title": "Samsung Galaxy Watch 5 auf Holztisch"
+    },
+    {
       "title": "Teslas Robotaxis fahren in Texas autonom, Musk verspricht weiten US-Ausbau 2026",
       "url": "https://www.heise.de/news/Teslas-Robotaxis-fahren-in-Texas-autonom-Musk-verspricht-weiten-US-Ausbau-2026-11151340.html",
       "image_title": "Robotaxi von Tesla fährt auf Straße im Sonnenuntergang"
@@ -502,11 +506,6 @@
       "title": "Fertiger Luxshare: Ransomware-Gruppe will Apple-Daten erbeutet haben",
       "url": "https://www.heise.de/news/Fertiger-Luxshare-Ransomware-Gruppe-will-Apple-Daten-erbeutet-haben-11151231.html",
       "image_title": "Ein Gebäude von Luxshare ICT"
-    },
-    {
-      "title": "Produktvorschau: Diese Hardware plant Apple wohl für 2026",
-      "url": "https://www.heise.de/news/Produktvorschau-Diese-Hardware-plant-Apple-wohl-fuer-2026-11126883.html",
-      "image_title": "Apple-Chef Tim Cook"
     },
     {
       "title": "Klötzchenspaß neu gedacht: „Hytale“ will „Minecraft“ übertreffen",
@@ -640,14 +639,14 @@
       "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-3-2026-Glasfaser-starten-oder-warten-11152849.html"
     },
     {
-      "title": "PDF-Formulare im Griff: Daten auslesen und verarbeiten",
-      "teaser": "PDF-Formulare versprechen digitale Abläufe, die aber allzu oft in Medienbrüchen enden. Mit Open-Source-Tools lassen sich die Daten automatisiert auslesen.",
-      "url": "https://www.heise.de/ratgeber/PDF-Formulare-im-Griff-Daten-auslesen-und-verarbeiten-11080661.html"
+      "title": "Starke Bilder im Kino: Die Technik des Dolby Cinema",
+      "teaser": "Kinos mit Dolby Cinema liefern beeindruckende Bilder und super Klang. Kann das wirklich Zuschauer vom Sofa an die Kinokasse locken? Wir fragen in Hannover nach.",
+      "url": "https://www.heise.de/hintergrund/Starke-Bilder-im-Kino-Die-Technik-des-Dolby-Cinema-11137688.html"
     },
     {
-      "title": "Was Wi-Fi 7 kann | c’t uplink",
-      "teaser": "In dieser Folge des c’t uplink gehts um den Funkstandard Wi-Fi 7, auch bekannt als 802.11be.",
-      "url": "https://www.heise.de/news/Was-Wi-Fi-7-kann-c-t-uplink-11150363.html"
+      "title": "c't 3003Ein echter Roboter für 343 Euro",
+      "teaser": "Er kann sehen, hören und sich bewegen: Wir haben den Open-Source-Roboter Reachy Mini getestet.",
+      "url": "https://www.heise.de/news/Reachy-Mini-Der-343-Euro-Roboter-11152242.html"
     },
     {
       "title": "iPhone-PraxisBiometrisches Passbild per iPhone erzeugen",
@@ -674,16 +673,21 @@
       "image_title": "WLAN Router OpenWrt One von vorn"
     },
     {
+      "title": "Ganz ohne Cloud und InternetRaspi 5 wird zum DIY-KI-Sprachassistenten",
+      "teaser": "Einen tragbaren KI-Sprachassistenten, der komplett ohne Cloud oder WLAN funktioniert, hat ein Maker aus Hongkong gebaut.",
+      "url": "https://www.heise.de/news/Ganz-ohne-Cloud-und-Internet-Raspi-5-wird-zum-DIY-KI-Sprachassistenten-11150389.html",
+      "image_title": "Hand hält ein Raspi-Gagdet hoch"
+    },
+    {
       "title": "Espressif stellt Funk-Co-Prozessor mit RISC-V vor",
       "teaser": "Mit dem ESP32-E22 stellt Espressif einen Funk-Co-Prozessor vor, der WLAN und Bluetooth komplett übernimmt und Host-CPUs entlastet.",
       "url": "https://www.heise.de/news/Espressif-stellt-Funk-Co-Prozessor-mit-RISC-V-vor-11147975.html",
       "image_title": "Zu sehen ist ein Marketing-Bild. Es ist ein futuristisch dargestellter Chip zu sehen, auf dem ESP32-E22 steht."
     },
     {
-      "title": "Zank im Maker-Lager: SparkFun vs. Adafruit",
-      "teaser": "Adafruit und SparkFun beharken sich seit einiger Zeit, nun ist die Situation mit der Beendigung der Geschäftsbeziehungen seitens SparkFun eskaliert.",
-      "url": "https://www.heise.de/news/Zank-im-Maker-Lager-SparkFun-vs-Adafruit-11147330.html",
-      "image_title": "Zwei Raben streiten sich um ein Teensy Board"
+      "title": "Biometrische Passfotos per App selbst erstellen",
+      "teaser": "Biometrische Passbilder mal eben schnell zu knipsen, klingt einfach – hat aber Hürden. Wir zeigen, was erlaubt ist und wie es ganz einfach per App funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Biometrische-Passfotos-per-App-selbst-erstellen-11151745.html"
     },
     {
       "title": "Foto-Workflow mit System: Wie Sie entspannter fotografieren",
@@ -701,12 +705,6 @@
       "teaser": "In der Nacht zu Dienstag hat ein heftiger Sonnensturm für Polarlichter bis weit in den Süden gesorgt.",
       "url": "https://www.heise.de/news/Heftiger-Sonnensturm-perfektes-Wetter-Polarlichter-ueber-ganz-Deutschland-11146765.html",
       "image_title": "Bunt erleuchteter Nachthimmel"
-    },
-    {
-      "title": "Kultur und Community 2026: # 54 Click Boom Flash von Fotofreuden für Fotofreunde",
-      "teaser": "„Dem kuratorischen Gespür des c|o Berlin kann man immer gut vertrauen“, sagt Redakteur Hendrik Vatheuer in unserer neuen Podcast-Folge.",
-      "url": "https://www.heise.de/news/Kultur-und-Community-2026-54-Click-Boom-Flash-von-Fotofreuden-fuer-Fotofreunde-11144166.html",
-      "image_title": "Frau in einer Bildergalerie"
     },
     {
       "title": "ÜberblickKI-Coding-Assistenten für die Softwareentwicklung",
@@ -733,12 +731,6 @@
       "image_title": "CFMoto 800 MT-X"
     },
     {
-      "title": "Noch hinken sie hinterherKommentar zu Autos aus China",
-      "teaser": "Derzeit sind viele Autos aus China nur eingeschränkt konkurrenzfähig. Sich darauf auch nur mittelfristig zu verlassen, wäre töricht, kommentiert Martin Franz.",
-      "url": "https://www.heise.de/meinung/Kommentar-Chinesische-Autohersteller-hinken-hinterher-noch-11144189.html",
-      "image_title": "GWM 03"
-    },
-    {
       "title": "Zahlen zur sozialen KomponenteNeuauflage der E-Auto-Förderung",
       "teaser": "Nach Zahlen des Statistikamts sind E-Autos meist in Händen von Haushalten mit hohem Einkommen. Die Förderung soll weniger bemittelten den Einstieg erleichtern.",
       "url": "https://www.heise.de/news/Elektroauto-Foerderung-Zahlen-des-Statistikamts-hinter-der-sozialen-Komponente-11150118.html",
@@ -751,22 +743,26 @@
       "image_title": "Drohne von Turgis Gaillard"
     },
     {
-      "title": "Steht Deutschland still, wenn Trump den Stecker zieht?",
-      "teaser": "Trump könnte Deutschland mit einem Federstrich lahmlegen. Warum Europa jetzt digitale Souveränität braucht. Ein Leitartikel.",
-      "url": "https://www.heise.de/-11152374",
-      "image_title": "Deutschland-Fahne mit lauter kryptischen Computercode."
+      "title": "Zurück mit Macht – und AutomatikReiseenduro KTM 1390 Super Adventure S Evo",
+      "teaser": "Das Komfortplus der Super Adventure dank Automatik und Assistenzsystemen passt besser zu SUV-Mode und weißbärtigen Kunden als zum KTM-Slogan \"Ready to Race\".",
+      "url": "https://www.heise.de/news/Reiseenduro-KTM-1390-Super-Adventure-S-Evo-Zurueck-mit-Macht-und-Automatik-11139858.html",
+      "image_title": "KTM 1390 Super Adventure S Evo"
     },
     {
-      "title": "DGAP-Analyse: Wie Deutschland mit der Energiedominanz der USA umgehen kann",
-      "teaser": "Die USA setzen fossile Energie zunehmend als Waffe ein – und Deutschland steckt in einer gefährlichen neuen Abhängigkeit.",
-      "url": "https://www.heise.de/-11151945",
-      "image_title": "Grafik eines LNG-Tankers aus den USA auf dem Weg nach Europa. Symbol einer neuen Abhängigkeit."
+      "title": "Deutschlands E-Auto-Markt sortiert sich politisch",
+      "teaser": "Wer ein E-Auto kauft, entscheidet weniger nach Einkommen als nach Wahlpräferenz – mit drastischen Folgen für einen Hersteller.",
+      "url": "https://www.heise.de/-11151109",
+      "image_title": "Ein Elektroauto wird gerade aufgeladen."
     },
     {
-      "title": "Bürgerräte: Das antike Experiment der Moderne",
-      "teaser": "Bürgerräte erleben einen Boom. Durch Auslosung sollen sie repräsentativer sein als offene Formate. Wie viel Einfluss haben sie wirklich?",
-      "url": "https://www.heise.de/-11151499",
-      "image_title": "Lupe über einer Deutschland-Karte in Schwarz-Rot-Gold"
+      "title": "Rundfunkbeitrag: Wenn Prognosen in sich zusammenfallen",
+      "teaser": "Der Rundfunkbeitrag soll weniger steigen als geplant. KEF korrigiert ihre Prognose drastisch nach unten. Was steckt hinter dieser überraschenden Kehrtwende?",
+      "url": "https://www.heise.de/-11152073"
+    },
+    {
+      "title": "Wie die CIA den Traum von Demokratie im Iran zerstörte",
+      "teaser": "1953 stürzte die CIA den demokratisch gewählten Premier Mossadegh – und ebnete so den Weg für die spätere Mullah-Herrschaft.",
+      "url": "https://www.heise.de/-11149939"
     },
     {
       "title": "Ecosia-CEO: „In drei Monaten sind wir die größte KI-App Europas”",
