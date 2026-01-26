@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T08:17:40",
+  "timestamp": "2026-01-26T09:23:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,16 +26,16 @@
   ],
   "articles": [
     {
-      "title": "AlertFortinetAngreifer umgehen offenbar Sicherheitspatch",
-      "teaser": "Berichten zufolge ist ein Sicherheitspatch für diverse Fortinet-Produkte defekt. Admins können Instanzen trotzdem schützen.",
-      "url": "https://www.heise.de/news/Jetzt-handeln-Angreifer-umgehen-offenbar-Fortinet-Sicherheitspatch-11149777.html",
-      "image_title": "Warndreieck"
+      "title": "Windows UpdatesNeue Boot-Zertifikate, Fehlerkorrekturen und neue Probleme",
+      "teaser": "Microsoft hat am Wochenende ungeplante Updates nachgelegt. Sie korrigieren Fehler der Januar-Patches und bringen neue Boot-Zertifikate.",
+      "url": "https://www.heise.de/news/Windows-Updates-Neue-Boot-Zertifikate-Fehlerkorrekturen-und-neue-Probleme-11153454.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
-      "title": "FehlermeldungenWeitere Probleme mit Windows Updates aus dem Januar",
-      "teaser": "Microsoft hat weitere Probleme mit den Januar-Sicherheitsupdates für Windows eingeräumt. Anwendungen können einfrieren.",
-      "url": "https://www.heise.de/news/Weitere-Probleme-mit-Windows-Updates-aus-dem-Januar-11149001.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+      "title": "BitLockerMicrosoft gibt Schlüssel an Strafverfolger heraus",
+      "teaser": "Microsoft hinterlegt den Schlüssel standardmäßig im Online-Account von Kunden. Dort ist er per Beschluss abrufbar.",
+      "url": "https://www.heise.de/news/Microsoft-gibt-BitLocker-Schluessel-an-Strafverfolgungsbehoerden-11152988.html",
+      "image_title": "Ransomware auf einem Rechner"
     },
     {
       "title": "AlertSicherheitsupdate GitLab: Angreifer können Zwei-Faktor-Authentifizierung umgehen",
@@ -53,12 +53,6 @@
     {
       "title": "Jetzt Blind-Bird Tickets sichern!heise security Tour 2026",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
-    },
-    {
-      "title": "BitLocker: Microsoft gibt Schlüssel an Strafverfolger heraus",
-      "teaser": "Microsoft hinterlegt den Schlüssel der Festplattenverschlüsselung standardmäßig im Online-Account von Kunden. Dort ist er mit richterlichem Beschluss abrufbar.",
-      "url": "https://www.heise.de/news/Microsoft-gibt-BitLocker-Schluessel-an-Strafverfolgungsbehoerden-11152988.html",
-      "image_title": "Ransomware auf einem Rechner"
     },
     {
       "title": "KI und Security: Zero-Day-Exploits durch KI sind bereits Realität",
@@ -115,6 +109,12 @@
       "image_title": "view of Cisco company logo with selective focus."
     },
     {
+      "title": "AlertJetzt handeln! Angreifer umgehen offenbar Fortinet-Sicherheitspatch",
+      "teaser": "Medienberichten zufolge ist ein Sicherheitspatch für diverse Fortinet-Produkte defekt. Admins können Instanzen aber trotzdem schützen.",
+      "url": "https://www.heise.de/news/Jetzt-handeln-Angreifer-umgehen-offenbar-Fortinet-Sicherheitspatch-11149777.html",
+      "image_title": "Warndreieck"
+    },
+    {
       "title": "AlertSicherheitspatches: Atlassian sichert Confluence & Co. gegen mögliche Attacken",
       "teaser": "Unter anderem Atlassian Bamboo und Jira Data Center und Server sind für verschiedene Attacken empfänglich.",
       "url": "https://www.heise.de/news/Sicherheitspatches-Atlassian-sichert-Confluence-Co-gegen-moegliche-Attacken-11149011.html",
@@ -125,6 +125,12 @@
       "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11137359.html",
       "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
+      "title": "Weitere Probleme mit Windows Updates aus dem Januar",
+      "teaser": "Microsoft hat weitere Probleme mit den Januar-Sicherheitsupdates für Windows eingeräumt. Anwendungen können nicht mehr reagieren.",
+      "url": "https://www.heise.de/news/Weitere-Probleme-mit-Windows-Updates-aus-dem-Januar-11149001.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
       "title": "Projekt Aegis: Niedersächsicher Cyberschutzschild basiert auf US-Technologie",
@@ -144,11 +150,6 @@
       "url": "https://www.heise.de/ratgeber/OSINT-Subdomains-mit-Subfinder-finden-11098987.html"
     },
     {
-      "title": "AlertSicherheitslücken: Nvidia CUDA Toolkit lässt Schadcode passieren",
-      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in Nvidia CUDA Toolkit.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Nvidia-CUDA-Toolkit-laesst-Schadcode-passieren-11148301.html"
-    },
-    {
       "title": "Workshop | 02. – 04.02.2026Cyberabwehr mit Microsoft Defender XDR – Roll-out, Konfiguration, Nutzung",
       "teaser": "Der Workshop zeigt, wie Microsoft XDR wirksam in Unternehmensinfrastrukturen integriert und passgenau angepasst wird.",
       "url": "https://heise-academy.de/Workshops/cyberabwehr?wt_mc=intern.conf.ix.ws_cyberabwehr.security_buehne_2.teaser.teaser"
@@ -159,14 +160,14 @@
       "url": "https://heise-academy.de/classrooms/ethical-hacking226?wt_mc=intern.academy.academy.cr_ethical-hacking.security_buehne_2.teaser.teaser&utm_campaign=298392774-ha_2026_01-12_classrooms&utm_source=heise&utm_medium=buehne_ho&utm_content=buehne_ho-security_2&utm_term=cr_ethical-hacking"
     },
     {
-      "title": "Webinar | 05.03.2026Passkeys verstehen und im digitalen Alltag nutzen",
-      "teaser": "Erfahren Sie, was Passkeys sind, wie sie funktionieren und vor allem, wie man sie im Alltag einsetzt.",
-      "url": "https://heise-academy.de/webinare/passkeys?wt_mc=intern.conf.ct.web_passkeys.security_buehne_2.teaser.teaser"
-    },
-    {
       "title": "Kongressmesse | 18. – 19.03.2026secIT by heise",
       "teaser": "Kongressmesse für IT-Sicherheitsbeauftragte, Rechenzentrumsleiter, Netzwerkadministratoren und Entscheider in Sicherheitsfragen. Jetzt kostenfrei anmelden!",
       "url": "https://secit-heise.de/?wt_mc=intern.sales.events.konf_secit.https%3A%2F%2Fsecit-heise.de%2F%3Fwt_mc=intern.sales.events.konf_secit.security_buehne_2.teaser.teaser"
+    },
+    {
+      "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
+      "teaser": "Dieser Workshop zeigt, warum man IT-Infrastrukturen auch physisch gegen Eindringlinge schützen muss.",
+      "url": "https://heise-academy.de/Workshops/physische-it-sicherheit?wt_mc=intern.conf.ct.ws_physische_it-sicherheit.security_buehne_2.teaser.teaser"
     },
     {
       "title": "6-Tage- und IP-Zertifikate für alle",
