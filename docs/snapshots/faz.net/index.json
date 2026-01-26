@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-26T18:18:54",
+  "timestamp": "2026-01-26T19:15:41",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -62,9 +68,40 @@
   ],
   "articles": [
     {
+      "title": "Debatte um Arbeit: Die CDU steckt in der Teilzeitfalle",
+      "teaser": "Der Wirtschaftsflügel will den Rechtsanspruch auf Teilzeit beschränken und löst damit eine hitzige Debatte aus. Ökonomen sagen: Das geht am Kern des Problems vorbei.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/debatte-um-arbeit-die-cdu-steckt-in-der-teilzeitfalle-110825816.html"
+    },
+    {
+      "title": "Teilzeit-Vorstoß: Lifestyle-Politik",
+      "teaser": "Der Wirtschaftsflügel der CDU will den „Rechtsanspruch auf Lifestyle-Teilzeit“ abschaffen. Das Arbeiten in Teilzeit ist aber nicht wegen des Rechtsanspruchs so populär.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/lifestyle-politik-110825627.html"
+    },
+    {
       "title": "Minneapolis: Auch Republikaner haben Fragen",
       "teaser": "Trump verspricht, die tödlichen Schüsse von Minneapolis prüfen zu lassen. Zuvor hatten einige Republikaner im Kongress eine unabhängige Untersuchung gefordert.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/minneapolis-republikaner-gehen-auf-distanz-zu-trump-110825792.html"
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/minneapolis-republikaner-gehen-auf-distanz-zu-trump-110825792.html",
+      "image_url": "https://media0.faz.net/image/w920/bfb753266be9/w3000h1688x0y156/012026/1.10825787/bundesbeamte-setzen-am-sonntag.webp",
+      "image_title": "Bundesbeamte setzen am Sonntag in Minneapolis Tränengas gegen Demonstranten ein."
+    },
+    {
+      "title": "Liveblog USA unter Trump: Merz: „Dieses Ausmaß an Gewalt in den USA finde ich besonders, um es ⁠mal so zu sagen“",
+      "teaser": "US-Präsident berichtet von konstruktivem Gespräch mit Gouverneur Walz zur Lage in Minnesota +++ Clinton wirft Verantwortlichen Lügen vor, Obama ruft Amerikaner zu friedlichem Protest auf +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-pruefen-alles-und-werden-zu-entscheidung-kommen-faz-19444916.html",
+      "image_url": "https://media0.faz.net/image/w730/10dc3000ca51/w1863h1047x595y116/202601/43601.0.1688489341/merz-und-trump-im-oktober-in.webp",
+      "image_title": "Merz und Trump im Oktober in Scharm El Scheich"
+    },
+    {
+      "title": "Liveblog USA unter Trump: Merz: „Dieses Ausmaß an Gewalt in den USA finde ich besonders, um es ⁠mal so zu sagen“",
+      "teaser": "US-Präsident berichtet von konstruktivem Gespräch mit Gouverneur Walz zur Lage in Minnesota +++ Clinton wirft Verantwortlichen Lügen vor, Obama ruft Amerikaner zu friedlichem Protest auf +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-pruefen-alles-und-werden-zu-entscheidung-kommen-faz-19444916.html"
+    },
+    {
+      "title": "ICE-Einsatz in Minneapolis: Die Momente vor den Schüssen auf Alex Pretti",
+      "teaser": "US-Bundesbeamte haben am Samstag einen Mann erschossen. Videos des Vorfalls zeigen, wie die Situation offenbar binnen Sekunden eskalierte. Eine Rekonstruktion.",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/ice-beamte-erschiessen-alex-pretti-die-momente-vor-den-schuessen-accg-200475368.html",
+      "image_url": "https://media0.faz.net/image/w730/b032723f98fd/w8256h4644x0y430/202601/43601.0.1702070409/personen-stehen-am-sonntag-in.webp",
+      "image_title": "Personen stehen am Sonntag in Minneapolis vor einem Ort zum Gedenken an Alex Pretti."
     },
     {
       "title": "ICE-Einsatz in Minneapolis: Die Momente vor den Schüssen auf Alex Pretti",
@@ -72,16 +109,18 @@
       "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/ice-beamte-erschiessen-alex-pretti-die-momente-vor-den-schuessen-accg-200475368.html"
     },
     {
-      "title": "Liveblog USA unter Trump: Trump entsendet Grenzschutzbeauftragten Homan nach Minnesota",
-      "teaser": "US-Präsident berichtet von konstruktivem Gespräch mit Gouverneur Walz +++ Clinton wirft Verantwortlichen Lügen vor, Obama ruft Amerikaner zu friedlichem Protest auf +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-pruefen-alles-und-werden-zu-entscheidung-kommen-faz-19444916.html"
+      "title": "Verlorene Wähler in NRW: Wo die SPD am Boden ist, passt sie ihren Kurs an",
+      "teaser": "Nach einer Serie von Wahlniederlagen verspricht die NRW-SPD die „größte Kurskorrektur der letzten Jahre“ – und wagt Schritte, die sich die Bundespartei noch nicht traut. Wohin soll die Reise gehen?",
+      "url": "https://www.faz.net/aktuell/politik/inland/spd-nrw-korrigiert-den-kurs-mehr-innere-sicherheit-wagen-200476970.html",
+      "image_url": "https://media0.faz.net/image/w730/57e89acf4bef/w3000h1687x0y69/202601/43601.0.1703712593/jochen-ott-mitte-designierter.webp",
+      "image_title": "Jochen Ott (Mitte), designierter Spitzenkandidat der SPD, erläutert neben den beiden Landesvorsitzenden Sarah Philipp und Achim Post, wie die Partei wieder mehr Wähler gewinnen will."
     },
     {
-      "title": "FAZ+Welt im Goldrausch: Was den Gold-Rekord befeuert und Anleger jetzt wissen müssen",
-      "teaser": "Souverän hat der Goldpreis die 5000-Dollar-Marke übersprungen. Geht das so weiter oder ist der Punkt zum Verkaufen gekommen? Noch hält das Fieber an: Ein Händler berichtet von Wartezeiten für Goldbarren.",
-      "url": "https://www.faz.net/aktuell/finanzen/gold-ueber-5000-dollar-was-anleger-ueber-den-rekord-wissen-muessen-accg-200474227.html",
-      "image_url": "https://media0.faz.net/image/w730/318d7a00be25/w7576h4261x0y505/202601/43601.0.1702304111/goldbarren-sind-derzeit-so.webp",
-      "image_title": "Goldbarren sind derzeit so wertvoll wie nie."
+      "title": "FAZ+Neuer Dokumentarfilm: Amazons Millionenwette auf „Melania“",
+      "teaser": "Der Onlinehändler gibt viel Geld für einen Dokumentarfilm über die amerikanische First Lady aus. Dahinter stecken womöglich nicht nur betriebswirtschaftliche Überlegungen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kinofilm-ueber-first-lady-amazons-millionenwette-auf-melania-110825705.html",
+      "image_url": "https://media0.faz.net/image/w730/c32970f79161/w6000h3375x0y313/202601/43601.0.1691924441/plakat-zum-dokumentarfilm.webp",
+      "image_title": "Plakat zum Dokumentarfilm „Melania“, hier aufgenommen in der spanischen Hauptstadt"
     },
     {
       "title": "Nach MeToo-Artikel: Galerist Johann König verklagt „Zeit“ auf 1,2 Millionen Euro",
@@ -89,13 +128,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/galerist-johann-koenig-verklagt-zeit-auf-1-2-millionen-euro-110825734.html",
       "image_url": "https://media0.faz.net/image/w730/dc65d33e917d/w3000h1688x0y127/012026/1.10825840/verklagt-den-zeit-verlag-der.webp",
       "image_title": "Verklagt den Zeit-Verlag: der Galerist Johann König."
-    },
-    {
-      "title": "Verlorene Wähler in NRW: Wo die SPD am Boden ist, passt sie ihren Kurs an",
-      "teaser": "Nach einer Serie von Wahlniederlagen verspricht die NRW-SPD die „größte Kurskorrektur der letzten Jahre“ – und geht Schritte, die sich die Bundespartei noch nicht traut. Wohin soll die Reise gehen?",
-      "url": "https://www.faz.net/aktuell/politik/inland/spd-nrw-korrigiert-den-kurs-mehr-innere-sicherheit-wagen-200476970.html",
-      "image_url": "https://media0.faz.net/image/w730/57e89acf4bef/w3000h1687x0y69/202601/43601.0.1703712593/jochen-ott-mitte-designierter.webp",
-      "image_title": "Jochen Ott (Mitte), designierter Spitzenkandidat der SPD, erläutert neben den beiden Landesvorsitzenden Sarah Philipp und Achim Post, wie die Partei wieder mehr Wähler gewinnen will."
     },
     {
       "title": "Trennung vom Sportchef: Hamburger SV nennt neue Details zum Fall Stefan Kuntz",
@@ -117,6 +149,13 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/macht-reichtum-wirklich-gluecklich-accg-110824216.html",
       "image_url": "https://media0.faz.net/image/w730/d4695ca9e70d/w6000h3375x0y313/202106/43600.0.217730997/reichtum-braucht-bodenhaftung.webp",
       "image_title": "Reichtum braucht Bodenhaftung: Goethestraße in der Frankfurter Innenstadt"
+    },
+    {
+      "title": "Labour: Starmer spielt ein riskantes Spiel",
+      "teaser": "Der britische Premierminister hat seinem ärgsten Konkurrenten den Weg nach London versperrt. Das könnte ein Fehler gewesen sein.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/labour-starmer-spielt-ein-riskantes-spiel-110825757.html",
+      "image_url": "https://media0.faz.net/image/w100/c709ddbc3461/w388h388x323y125/201703/1.4948672/tatjana-heid.webp",
+      "image_title": "Tatjana Heid"
     },
     {
       "title": "Mindestalter im Netz: Sozialer ohne Social Media",
@@ -189,26 +228,19 @@
       "image_title": "Reinhard Müller"
     },
     {
-      "title": "Minneapolis: Amerika im Notstand?",
-      "teaser": "Nach den tödlichen Schüssen in Minneapolis geht die Angst um, die Proteste gegen den Einsatz der Einwanderungspolizei ICE könnten eskalieren. Trump klingt so, als suche er nur einen Vorwand, um das Militär einzusetzen.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/toedliche-schuesse-in-minneapolis-amerika-im-notstand-110825410.html",
-      "image_url": "https://media0.faz.net/image/w100/6f093c65e1b7/w516h516x301y97/201108/1.1126541/majid-sattar.webp",
-      "image_title": "Majid Sattar, Washington"
-    },
-    {
       "title": "Torwart bei Handball-EM: Wie viel Furcht flößt dieser Wolff ein?",
       "teaser": "Gegen Norwegen gewinnt das DHB-Team, weil Andreas Wolff in die Köpfe der Gegner eindringt. Doch es spricht einiges dagegen, dass sich der nächste EM-Gegner Dänemark von ihm auch einschüchtern lässt.",
       "url": "https://www.faz.net/aktuell/sport/handball-em/andreas-wolff-daenemark-wartet-auf-dhb-torwart-bei-handball-em-110825327.html"
     },
     {
-      "title": "Debatte um WM-Boykott: „Aus meiner Sicht ist das jetzt völlig fehl am Platze“",
-      "teaser": "Die Frage nach einem Boykott der Fußball-WM 2026 in den USA sorgt für öffentliche Aufmerksamkeit. Beim Neujahrsempfang der Deutschen Fußball Liga ist sie auch Thema. Die Fußball-Bosse äußern sich.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-wm-2026-boykott-dfl-praesident-hans-joachim-watzke-reagiert-200476966.html"
+      "title": "Nach kritischer Reportage: DW-Korrespondent in Niger festgenommen",
+      "teaser": "Ein Korrespondent der Deutschen Welle wurde in Niamey, der Hauptstadt Nigers, inhaftiert. Ein Bericht über Inlandsflüchtlinge soll der Grund dafür sein.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/dw-korrespondent-in-niger-festgenommen-110825732.html"
     },
     {
-      "title": "Im Gazastreifen: Israel findet die letzte tote Geisel",
-      "teaser": "Israels Armee hat lange nach den sterblichen Überresten von Ran Gvili gesucht, der am 7. Oktober getötet worden war. Nun könnte der Rafah-Übergang wiedereröffnet werden.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israel-findet-letzte-vermisste-leiche-im-gazastreifen-110825772.html"
+      "title": "Unter Sanktionen: Iranischer Pleitebanker besitzt deutsche Hilton-Hotels",
+      "teaser": "Der wegen Verbindungen zur Revolutionsgarde sanktionierte Ali Ansari besitzt in Europa ein riesiges Immobilien­vermögen. Dazu gehören Hotels in Frankfurt, Kitzbühel und auf Mallorca.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/iranischer-pleitebanker-besitzt-deutsche-hilton-hotels-110825807.html"
     },
     {
       "title": "Vielerorts Verkehrschaos: Hunderte Unfälle wegen Schnee und Glatteis auf deutschen Straßen",
@@ -216,11 +248,11 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/schnee-und-glatteis-hunderte-unfaelle-auf-strassen-in-deutschland-accg-200474252.html"
     },
     {
-      "title": "FAZ+Elektroauto Xpeng G9: Chinese im Stromrausch",
-      "teaser": "Der elektrische G9 von Xpeng mit irrer Ladeleistung, feiner Ausstattung und gutem Infotainment.",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/xpeng-g9-ueberzeugt-im-test-mit-hoher-ladeleistung-accg-110821133.html",
-      "image_url": "https://media0.faz.net/image/w920/7e2a356abec6/w2049h1153x473y520/082025/1.10821130/fein-verarbeitet-viel-auto.webp",
-      "image_title": "Fein verarbeitet, viel Auto fürs Geld: Der G9 von Xpeng"
+      "title": "Ölsardinen-Kochbuch: Delikatessen aus der Dose",
+      "teaser": "Die Ölsardinen der Marke Nuri werden noch immer in traditioneller Handarbeit hergestellt. Jetzt gibt es ein fabelhaftes Kochbuch mit mehr als 50 originellen Rezepten mit den Premiumkonserven.",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/rezepte/delikatessen-aus-der-dose-das-nuri-oelsardinen-kochbuch-200450768.html",
+      "image_url": "https://media0.faz.net/image/w920/01912b8a7fdc/w3757h2113x730y946/202601/30d88a91-a7e6-4493-860b-1a2d696f94e2/delikatesse-aus-porto-die.webp",
+      "image_title": "Delikatesse aus Porto: Die Sardinen der Marke Nuri sind bei Feinschmeckern in aller Welt beliebt."
     },
     {
       "title": "Oper Frankfurt: Vielfach wirken die Pfeile des Amors",
@@ -344,6 +376,13 @@
       "image_title": "Am Flughafen Köln/Bonn schnüffelte 2018 ein Vierbeiner: Ein Drogenspürhund in Aktion"
     },
     {
+      "title": "Krieg in der Ukraine: EU-Staaten beschließen endgültigen Verzicht auf russisches Gas",
+      "teaser": "Vollständiger Importstopp ab spätestens Ende 2027 +++ Pistorius fordert Verbündete zu mehr Ukraine-Unterstützung bei der Luftabwehr auf +++ Wadephul prangert fehlende Kompromissbereitschaft Russlands an +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-eu-staaten-beschliessen-endgueltigen-verzicht-auf-russisches-gas-faz-110683325.html",
+      "image_url": "https://media0.faz.net/image/w730/3975c3847d39/w5472h3078x0y548/202507/43601.0.1148683424/mitarbeiter-einer-gaazprom.webp",
+      "image_title": "Mitarbeiter einer Gaazprom-Pipeline in Sibirien"
+    },
+    {
       "title": "Niedersachsen: Geschichte als Wahlfach?",
       "teaser": "Das niedersächsische Kultusministerium will Geschichtsunterricht in der Einführungsphase der gymnasialen Oberstufe zur Disposition stellen. Die Geschichtslehrer sind besorgt.",
       "url": "https://www.faz.net/aktuell/politik/inland/niedersachsen-kritik-an-plaenen-fuer-geschichtsunterricht-110825828.html",
@@ -351,17 +390,17 @@
       "image_title": "Ein Schüler blättert durch seinen Geschichtsordner."
     },
     {
-      "title": "Social-Media-Verbot: „Das Gehirn unserer Kinder ist nicht käuflich“",
-      "teaser": "Erst Australien, bald auch Frankreich? In Deutschlands Nachbarland könnte es noch in diesem Jahr eine Altersgrenze für soziale Medien geben.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-diskutiert-ueber-verbot-von-social-media-110825613.html",
-      "image_url": "https://media0.faz.net/image/w730/11fe1923629e/w3634h2044x0y40/202601/43601.0.1664947762/keine-handys-im-unterricht-das.webp",
-      "image_title": "Keine Handys im Unterricht: Das Verbot soll nicht pauschal alle sozialen Netzwerke betreffen."
+      "title": "„Deutsches Starlink“: Goldgräberstimmung in der Weltraumindustrie",
+      "teaser": "Deutschland will massiv in den Weltraum investieren. Die Akteure laufen sich warm. Teilweise bilden sich auch neue Allianzen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsches-starlink-goldgraeberstimmung-im-satellitenbau-110825862.html",
+      "image_url": "https://media0.faz.net/image/w1200/bd8a4a2f2408/w3000h1688x0y191/012026/1.10825861/letzter-check-vor-dem-start.webp",
+      "image_title": "Letzter Check vor dem Start: Dieser Satellit vom Projekt SATCOMBw, für Kommunikationssatelliten der Bundeswehr, wurde schon 2009 ins All geschossen."
     },
     {
       "title": "Fnac Darty: Křetínský setzt seine Einkaufstour in Frankreich fort",
       "teaser": "Der schillernde Unternehmer plant die Übernahme der Handelskette Fnac Darty – wie reagiert Ceconomy?",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/uebernahmeplaene-ketinsky-schielt-auf-fnac-darty-110825678.html",
-      "image_url": "https://media0.faz.net/image/w1200/f15ea40a0f4b/w3000h1688x0y208/102023/1.10825675/milliardaer-daniel-k-et-nsk.webp",
+      "image_url": "https://media0.faz.net/image/w730/f15ea40a0f4b/w3000h1688x0y208/102023/1.10825675/milliardaer-daniel-k-et-nsk.webp",
       "image_title": "Milliardär Daniel Křetínský spricht fließend Französisch."
     },
     {
@@ -377,12 +416,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz-kann-neue-technologie-den-menschen-die-arbeit-rauben-accg-110820769.html",
       "image_url": "https://media0.faz.net/image/w730/9fd2ec08ece5/w2124h1195x0y87/012026/1.10820767/gespenst-einer-menschenleeren.webp",
       "image_title": "Gespenst einer menschenleeren Fabrik: Roboter in der Halle 54 von Volkswagen Anfang der 1980er-Jahre"
-    },
-    {
-      "title": "FAZ+F.A.Z. Serie Schneller Schlau: Führerschein? Vielleicht später!",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/warum-junge-leute-immer-seltener-den-fuehrerschein-machen-200461357.html",
-      "image_url": "https://media0.faz.net/image/w730/ac1accdc654b/w2247h1264x2y0/202601/91452125-10ac-4d10-a411-a58a8e2a1e7d/cvwyljz6mhw0.webp"
     },
     {
       "title": "FAZ+Arbeitsmarkt: Warum KI im Job für mehr menschliche Konkurrenz sorgt",
@@ -427,10 +460,24 @@
       "image_title": "Überall sieht man Siegertypen – dabei scheitern wir doch alle mal. (Symbolbild)"
     },
     {
+      "title": "Deutsche-Bank-Aktie: Der Kurs der Deutschen Bank wirkt ausgereizt",
+      "teaser": "Vor Bekanntgabe der Geschäftszahlen empfehlen auffällig viele Analysten nach einem starkem Kursanstieg den Verkauf. Immerhin konnte die Deutsche Bank zu Wettbewerbern wie Goldman Sachs und Barclays aufholen. Doch weitere Aufwärtsphantasie fehlt.",
+      "url": "https://www.faz.net/aktuell/finanzen/deutsche-bank-aktie-rueckt-goldman-und-barclays-naeher-110825646.html",
+      "image_url": "https://media0.faz.net/image/w1200/a634c5dae2e9/w3000h1687x0y159/202507/43601.0.1171594569/christian-sewing-vorsitzender.webp",
+      "image_title": "Christian Sewing, Vorsitzender des Vorstands der Deutschen Bank, wird am 29. Januar die Geschäftszahlen für das Jahr 2025 vorstellen."
+    },
+    {
+      "title": "FAZ+Welt im Goldrausch: Was den Gold-Rekord befeuert und Anleger jetzt wissen müssen",
+      "teaser": "Souverän hat der Goldpreis die 5000-Dollar-Marke übersprungen. Geht das so weiter oder ist der Punkt zum Verkaufen gekommen? Noch hält das Fieber an: Ein Händler berichtet von Wartezeiten für Goldbarren.",
+      "url": "https://www.faz.net/aktuell/finanzen/gold-ueber-5000-dollar-was-anleger-ueber-den-rekord-wissen-muessen-accg-200474227.html",
+      "image_url": "https://media0.faz.net/image/w730/318d7a00be25/w7576h4261x0y505/202601/43601.0.1702304111/goldbarren-sind-derzeit-so.webp",
+      "image_title": "Goldbarren sind derzeit so wertvoll wie nie."
+    },
+    {
       "title": "Aktienmarkt: Was Anleger diese Woche an der Börse erwartet",
       "teaser": "Die Anleger am deutschen Aktienmarkt bleiben zum Wochenstart vorsichtig. Mit Spannung erwartet werden der Zinsentscheid der US-Notenbank und die Zahlen großer Unternehmen.",
       "url": "https://www.faz.net/aktuell/finanzen/dax-was-anleger-diese-woche-erwartet-accg-110825643.html",
-      "image_url": "https://media0.faz.net/image/w1200/0780be6a2669/w4223h2375x0y220/202504/43601.0.952103388/auch-die-haendler-an-der.webp",
+      "image_url": "https://media0.faz.net/image/w730/0780be6a2669/w4223h2375x0y220/202504/43601.0.952103388/auch-die-haendler-an-der.webp",
       "image_title": "Auch die Händler an der Börse in Frankfurt blicken diese Woche gepannt auf die Entscheidung der Fed."
     },
     {
@@ -439,20 +486,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/etf-tricks-wie-sie-die-steuer-senken-accg-110824134.html",
       "image_url": "https://media0.faz.net/image/w730/80cb527b9772/w6770h3808x1057y784/202410/43601.0.629514274/wer-ein-etf-besitzt-sollte.webp",
       "image_title": "Wer ein ETF besitzt, sollte auch die Vorabpauschale im Blick haben."
-    },
-    {
-      "title": "FAZ+Kasse warnt vor Konkurrenz: Böser Brief von der Krankenkasse",
-      "teaser": "Viele Versicherte wechseln zur günstigen Krankenkasse BKK Firmus. Die Konkurrenz reagiert mit fragwürdigen Methoden.",
-      "url": "https://www.faz.net/aktuell/finanzen/reaktion-auf-bkk-firmus-boeser-brief-von-der-krankenkasse-accg-110820541.html",
-      "image_url": "https://media0.faz.net/image/w730/e59f1a44f09c/w5830h3279x0y306/202309/43600.0.2032854137/die-zusatzbeitraege-fuer-die.webp",
-      "image_title": "Die Zusatzbeiträge für die Krankenkasse steigen immer weiter"
-    },
-    {
-      "title": "Chancen 2026: Jetzt den Hauskauf wagen",
-      "teaser": "Der Markt für Wohnimmobilien befindet sich gerade in einer Atempause. Kaufinteressenten brauchen jetzt vor allem zwei Dinge.",
-      "url": "https://www.faz.net/aktuell/finanzen/jetzt-den-hauskauf-wagen-110824604.html",
-      "image_url": "https://media0.faz.net/image/w730/8601d143fd25/w3000h1687x0y0/202209/43600.0.1138204410/wer-sich-ein-eigenheim.webp",
-      "image_title": "Wer sich ein Eigenheim wünscht, sollte nicht zu lange zögern"
     },
     {
       "title": "Marian Goodman gestorben: Transatlantikerin der Kunst",
@@ -503,10 +536,17 @@
       "image_title": "Wie geht's weiter? Kündigungsschutzverfahren enden häufig durch einen gerichtlichen Vergleich."
     },
     {
+      "title": "Debatte um WM-Boykott: „Aus meiner Sicht ist das jetzt völlig fehl am Platze“",
+      "teaser": "Die Frage nach einem Boykott der Fußball-WM 2026 in den USA sorgt für öffentliche Aufmerksamkeit. Beim Neujahrsempfang der Deutschen Fußball Liga ist sie auch Thema. Die Fußball-Bosse äußern sich.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-wm-2026-boykott-dfl-praesident-hans-joachim-watzke-reagiert-200476966.html",
+      "image_url": "https://media0.faz.net/image/w920/25b0483bab58/w3000h1285x0y188/202601/43601.0.1704251620/ich-glaube-nicht-dass-momentan.webp",
+      "image_title": "„Ich glaube nicht, dass momentan die Zeit reif ist, über so etwas zu diskutieren“: Hans-Joachim Watzke"
+    },
+    {
       "title": "DHB-Coach Simon Overkamp: Der Athletiktrainer, der die Handballer strahlen lässt",
       "teaser": "Simon Overkamp ist für die deutsche Handball-Nationalmannschaft weit mehr als ein akribischer Athletiktrainer – und bei den Spielern äußerst beliebt. Auch weil er auf die Kraft des genussvollen Essens setzt.",
       "url": "https://www.faz.net/aktuell/sport/handball-em/handball-em-2026-wie-dhb-athletiktrainer-simon-overkamp-arbeitet-110825146.html",
-      "image_url": "https://media0.faz.net/image/w920/069dc0d56962/w3000h1285x0y110/012026/1.10825145/die-handball-em-ist-sein.webp",
+      "image_url": "https://media0.faz.net/image/w730/1f0629363104/w2479h1395x209y67/012026/1.10825145/die-handball-em-ist-sein.webp",
       "image_title": "Die Handball-EM ist sein fünftes Turnier mit der A-Nationalmannschaft: Simon Overkamp"
     },
     {
@@ -515,13 +555,6 @@
       "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/kommentar-zur-eintracht-frankfurt-krise-das-chaos-im-kopf-200472717.html",
       "image_url": "https://media0.faz.net/image/w730/9fffa68744ba/w8256h4644x0y765/202601/43601.0.1697712623/auf-der-suche-nach-einem.webp",
       "image_title": "Auf der Suche nach einem Detektiv: Markus Krösche will schon bald einen neuen Trainer vorstellen."
-    },
-    {
-      "title": "Sterne des Sports: Steinmeier will „über das Reden hinauskommen“",
-      "teaser": "Bundespräsident Frank-Walter Steinmeier zeichnet die Kampagne „Vereinshelden“ der TG Herford aus. Bei der Preisverleihung herrscht weitgehend Einigkeit, was das Engagement im Ehrenamt zu sehr aufhält.",
-      "url": "https://www.faz.net/aktuell/sport/sportpolitik/sterne-des-sports-frank-walter-steinmeier-will-ehrenamt-foerdern-110825726.html",
-      "image_url": "https://media0.faz.net/image/w730/7e099b40f478/w2727h1535x163y350/012026/1.10825725/bundespraesident-frank-walter.webp",
-      "image_title": "Bundespräsident Frank-Walter Steinmeier wünscht sich wieder mehr „Orte der Begegnung“."
     },
     {
       "title": "Streit um Kinder: Noch eine Tochter von Christina Block sagt nicht aus",
@@ -594,17 +627,17 @@
       "image_title": "Im Schlosspark in Wiesbaden-Biebrich erinnern Kreuze an den ermordeten 86 Jahre alten Mann."
     },
     {
+      "title": "FAZ+Elektroauto Xpeng G9: Chinese im Stromrausch",
+      "teaser": "Der elektrische G9 von Xpeng mit irrer Ladeleistung, feiner Ausstattung und gutem Infotainment.",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/xpeng-g9-ueberzeugt-im-test-mit-hoher-ladeleistung-accg-110821133.html",
+      "image_url": "https://media0.faz.net/image/w730/7e2a356abec6/w2049h1153x473y520/082025/1.10821130/fein-verarbeitet-viel-auto.webp",
+      "image_title": "Fein verarbeitet, viel Auto fürs Geld: Der G9 von Xpeng"
+    },
+    {
       "title": "Der F.A.Z.-Autoticker: Fahrtenschreiber",
       "teaser": "Diesel und Benziner auf dem Rückzug ++ Deutsche Premium-Automarken hoch im Kurs ++ Volvo EX60 fürs Gröbere ++ ADAC testet Elektro-Reichweite im Winter",
       "url": "https://www.faz.net/aktuell/technik-motor/auto-liveticker-comeback-fuer-den-renault-twingo-faz-18137164.html",
       "image_url": "https://media0.faz.net/image/w730/6a3620dffed8/w1600h900x0y0/202204/1.7951806/pp-1-7951806.webp"
-    },
-    {
-      "title": "FAZ+Modellflugmuseum: Kleine Flieger, große Liebe",
-      "teaser": "Ein einzigartiges Schweizer Privatmuseum zeigt die Geschichte des Modellflugs. Wir würden uns eine ganze Nacht lang darin einschließen lassen.",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/besuch-im-schweizer-modellflugmuseum-accg-110816281.html",
-      "image_url": "https://media0.faz.net/image/w730/7c39a2003ce4/w2535h1426x93y0/112025/1.10816275/das-erste-serienmaessige.webp",
-      "image_title": "Das erste serienmäßige Elektroflugmodell: Silentius von Graupner"
     },
     {
       "title": "Aby Warburg und Max Nonne: Wollte kein Zola sich für diesen Fall einsetzen?",
@@ -732,22 +765,22 @@
       "image_title": "Windpark an der Nordsee"
     },
     {
+      "title": "FAZ+F.A.Z. Serie Schneller Schlau: Führerschein? Vielleicht später!",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/warum-junge-leute-immer-seltener-den-fuehrerschein-machen-200461357.html",
+      "image_url": "https://media0.faz.net/image/w920/5475ab459f26/w2250h964x0y150/202601/91452125-10ac-4d10-a411-a58a8e2a1e7d/cvwyljz6mhw0.webp"
+    },
+    {
       "title": "FAZ+F.A.Z.-Rechner: Wie lange muss ich für ein Haus sparen?",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/finanzen/wieviel-sparen-fuer-das-haus-so-lange-brauchen-sie-bis-sie-genug-eigenkapital-zusammen-haben-200336683.html",
-      "image_url": "https://media0.faz.net/image/w920/48ad6c4d6240/w3403h1458x0y81/202601/c80925e4-17ac-408e-92cc-dc8c16ba1f82/yby3jrnr-lc8.webp"
+      "image_url": "https://media0.faz.net/image/w730/4fdd0f31e751/w2884h1622x260y0/202601/c80925e4-17ac-408e-92cc-dc8c16ba1f82/yby3jrnr-lc8.webp"
     },
     {
       "title": "FAZ+Ausbau der Ladeinfrastruktur: Deutschlands Weg aus der Ladewüste",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/ladesaeulen-fuer-e-autos-wo-der-ausbau-schnell-geht-und-wo-es-hinkt-200457425.html",
       "image_url": "https://media0.faz.net/image/w730/23c4a0d4eced/w1865h1049x168y0/202601/694a805e-4158-463b-bf21-ddbc472956f6/balyfrdx22bo.webp"
-    },
-    {
-      "title": "FAZ+So wohnt Deutschland: Ohayō gozaimasu",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/so-wohnt-deutschland-ohayo-gozaimasu-200459957.html",
-      "image_url": "https://media0.faz.net/image/w730/af895482d712/w6610h3717x0y683/202512/43601.0.1608004017/4360101608004017.webp"
     },
     {
       "title": "Mauretanien: Sackgasse auf dem Weg nach Europa",
