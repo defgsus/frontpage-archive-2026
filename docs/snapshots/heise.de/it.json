@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T11:14:21",
+  "timestamp": "2026-01-27T12:22:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Apple bastelt an KI-Browser – Projektstatus unklar",
+      "teaser": "Apples macOS-, iPadOS- und iOS-Browser Safari hat keine nennenswerten KI-Funktionen. Intern soll es laut einem Bericht aber ein Projekt geben.",
+      "url": "https://www.heise.de/news/Apple-bastelt-an-KI-Browser-Projektstatus-unklar-11154972.html",
+      "image_title": "Safari-Icon auf einem iPad"
+    },
+    {
+      "title": "Nvidia veröffentlicht drei Open-Source-KI-Modelle für die Wettervorhersage",
+      "teaser": "Nvidia hat drei neue KI-Modelle für Wettervorhersagen angekündigt. Sie sollen schneller und energieeffizienter sein als herkömmliche Supercomputer.",
+      "url": "https://www.heise.de/news/Nvidia-veroeffentlicht-drei-Open-Source-KI-Modelle-fuer-die-Wettervorhersage-11155403.html",
+      "image_title": "KI-generierte Wettervorhersage mit einem der Nvidia-Modelle"
+    },
+    {
+      "title": "AlertTelnet-Sicherheitslücke: Wegen kritischen Risikos patchen",
+      "teaser": "Eine kritische Sicherheitslücke in telnetd der GNU InetUtils erheischt derzeit Aufmerksamkeit. Admins sollten patchen.",
+      "url": "https://www.heise.de/news/Kritische-telnetd-Luecke-Patchen-aber-Panik-ist-unbegruendet-11155419.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+    },
+    {
       "title": "data2day 2026: Konferenz für Data-Fachleute sucht Vorträge und Workshops",
       "teaser": "Der Call for Proposals für die 13. Ausgabe der Data-Science-Konferenz ist eröffnet. Bis zum 15. April können Expertinnen und Experten ihre Beiträge einreichen.",
       "url": "https://www.heise.de/news/data2day-2026-Konferenz-fuer-Data-Fachleute-sucht-Vortraege-und-Workshops-11150871.html",
       "image_title": "data2day 2026: Vorträge zur dreizehnten Ausgabe der Data-Science-Konferenz gesucht"
-    },
-    {
-      "title": "SoundCloud-Hack: 30 Millionen Accounts betroffen, Daten nun in HIBP-Datenbank",
-      "teaser": "Beim Have-I-Been-Pwned-Dienst können Nutzer nun prüfen, ob sie von der Cyberattacke auf SoundCloud von Ende 2025 betroffen sind.",
-      "url": "https://www.heise.de/news/SoundCloud-Hack-30-Millionen-Accounts-betroffen-Daten-nun-in-HIBP-Datenbank-11155319.html"
-    },
-    {
-      "title": "Microsoft Entra aktiviert im März Passkey-Profile für alle",
-      "teaser": "Microsoft kündigt an, im März beim Entra-ID-Dienst automatisch Passkey-Profile zu aktivieren. Die Konfiguration soll einfach sein.",
-      "url": "https://www.heise.de/news/Microsoft-Entra-Automatische-Aktivierung-von-Passkey-Profilen-im-Maerz-11155279.html",
-      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
-    },
-    {
-      "title": "SouveränitätFrankreich sagt Microsoft Teams und Zoom den Kampf an",
-      "teaser": "Mit Visio führt Frankreich seine Open-Source-Videokonferenzen für Behörden ein. Bis 2027 sollen 200.000 Beamte unabhängig von US-Anbietern arbeiten können.",
-      "url": "https://www.heise.de/news/Frankreich-ersetzt-MS-Teams-und-Zoom-durch-eigene-Videokonferenzsoftware-11155120.html",
-      "image_title": "Screenshot von Visio, vier Personen in Videokonferenz"
     },
     {
       "title": "TestsiCloud sichern: Parachute Backup für Mac, iPhone und iPad im Test",
@@ -61,6 +62,23 @@
       "title": "RatgeberSicherheitsprozesse und Alerts mit Shuffle automatisieren",
       "url": "https://www.heise.de/ratgeber/Sicherheitsprozesse-und-Alerts-mit-Shuffle-automatisieren-11094029.html",
       "image_title": ","
+    },
+    {
+      "title": "SoundCloud-Hack: HIBP-Datenbank nimmt Daten von 30 Millionen Accounts auf",
+      "teaser": "Beim Have-I-Been-Pwned-Dienst können Nutzer nun prüfen, ob sie von der Cyberattacke auf SoundCloud von Ende 2025 betroffen sind.",
+      "url": "https://www.heise.de/news/SoundCloud-Hack-30-Millionen-Accounts-betroffen-Daten-nun-in-HIBP-Datenbank-11155319.html"
+    },
+    {
+      "title": "Microsoft Entra aktiviert im März Passkey-Profile für alle",
+      "teaser": "Microsoft kündigt an, im März beim Entra-ID-Dienst automatisch Passkey-Profile zu aktivieren. Die Konfiguration soll einfach sein.",
+      "url": "https://www.heise.de/news/Microsoft-Entra-Automatische-Aktivierung-von-Passkey-Profilen-im-Maerz-11155279.html",
+      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
+    },
+    {
+      "title": "Frankreich sagt Microsoft Teams und Zoom den Kampf an",
+      "teaser": "Mit Visio führt Frankreich seine Open-Source-Videokonferenzen für Behörden ein. Bis 2027 sollen 200.000 Beamte unabhängig von US-Anbietern arbeiten können.",
+      "url": "https://www.heise.de/news/Frankreich-ersetzt-MS-Teams-und-Zoom-durch-eigene-Videokonferenzsoftware-11155120.html",
+      "image_title": "Screenshot von Visio, vier Personen in Videokonferenz"
     },
     {
       "title": "„Wollen nicht perfekt, gut genug reicht“: KI soll US-Verkehrsregeln verfassen",
@@ -132,23 +150,6 @@
       "teaser": "Für Zusatzfunktionen auf Facebook, Instagram und WhatsApp plant Meta kostenpflichtige Abos. Details sind noch unbekannt und stehen wohl auch nicht fest.",
       "url": "https://www.heise.de/news/Meta-plant-kostenpflichtige-Premiumabos-fuer-Facebook-Instagram-und-WhatsApp-11154998.html",
       "image_title": "Die Apps von Facebook, WhatsApp, dem Facebook Messenger und Instagram auf einem Smartphone"
-    },
-    {
-      "title": "Die Technik von 40-Terabyte-Magnetbändern nach LTO-10",
-      "teaser": "Rechenzentren sichern Datenmassen weiterhin auf Magnetband alias Tape. Die jüngste LTO-10-Technik packt satte 40 TByte in jede Kassette.",
-      "url": "https://www.heise.de/hintergrund/Die-Technik-von-40-Terabyte-Magnetbaendern-nach-LTO-10-10512484.html"
-    },
-    {
-      "title": "Vernetzte Fernseher vor Gericht: Open Source Code muss nicht installierbar sein",
-      "teaser": "Seit Jahren versucht eine Stiftung zwei Open-Source-Lizenzen gegen eine Walmart-Tochter durchzusetzen. Es gibt Erfolge und eine Merkwürdigkeit.",
-      "url": "https://www.heise.de/hintergrund/TV-Software-Gericht-stiftet-Verwirrung-um-Open-Source-11153843.html",
-      "image_title": "Pinguin, gerade aus dem Wasser auf einen Felsen gehüpft, streckt seine Flügel aus"
-    },
-    {
-      "title": "AlertNotfall-Update gegen Zeroday in Microsoft Office",
-      "teaser": "Außer der Reihe veröffentlicht Microsoft Updates nur, wenn es brennt. Das tut es bei Office sowie Microsoft 365 Apps for Enterprise.",
-      "url": "https://www.heise.de/news/Notfall-Update-gegen-Zeroday-in-Microsoft-Office-11154976.html",
-      "image_title": "Gelbes Warndreieck schwebt vor Quelltext auf dunkelblauem Hintergrund"
     },
     {
       "title": "NewsWLAN mit 1 Kilometer Reichweite: Neuer Wi-Fi-HaLow-Router von GL.iNet",
