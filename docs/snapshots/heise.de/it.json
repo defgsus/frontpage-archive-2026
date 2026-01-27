@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T09:21:36",
+  "timestamp": "2026-01-27T10:15:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Entra: Automatische Aktivierung von Passkey-Profilen im März",
+      "teaser": "Microsoft kündigt an, im März beim Entra-ID-Dienst automatisch Passkey-Profile zu aktivieren. Die Konfiguration soll einfach sein.",
+      "url": "https://www.heise.de/news/Microsoft-Entra-Automatische-Aktivierung-von-Passkey-Profilen-im-Maerz-11155279.html",
+      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
+    },
+    {
+      "title": "SouveränitätFrankreich sagt Microsoft Teams und Zoom den Kampf an",
+      "teaser": "Mit Visio führt Frankreich seine Open-Source-Videokonferenzen für Behörden ein. Bis 2027 sollen 200.000 Beamte unabhängig von US-Anbietern arbeiten können.",
+      "url": "https://www.heise.de/news/Frankreich-ersetzt-MS-Teams-und-Zoom-durch-eigene-Videokonferenzsoftware-11155120.html",
+      "image_title": "Screenshot von Visio, vier Personen in Videokonferenz"
+    },
+    {
+      "title": "„Wollen nicht perfekt, gut genug reicht“: KI soll US-Verkehrsregeln verfassen",
+      "teaser": "Neue Regeln für die Verkehrssicherheit brauchen Monate oder Jahre. Die US-Regierung will den Prozess nun enorm beschleunigen – mithilfe einer KI von Google.",
+      "url": "https://www.heise.de/news/Wollen-nicht-perfekt-gut-genug-reicht-KI-soll-US-Verkehrsregeln-verfassen-11155186.html",
+      "image_title": "Eine Roboterhand auf einer Tastatur"
+    },
+    {
       "title": "AlertApache Hadoop: Fehler im HDFS-Native-Client lässt Schadcode passieren",
       "teaser": "Das Framework Apache Hadoop ist verwundbar. Attacken können im Kontext des HDFS-Dateisystems geschehen. Ein Sicherheitspatch ist verfügbar.",
       "url": "https://www.heise.de/news/Apache-Hadoop-Fehler-im-HDFS-Native-Client-laesst-Schadcode-passieren-11155241.html",
       "image_title": "Ein symbolisches Schild mit einer Updateerinnerung."
+    },
+    {
+      "title": "TestsiCloud sichern: Parachute Backup für Mac, iPhone und iPad im Test",
+      "url": "https://www.heise.de/tests/iCloud-sichern-Parachute-Backup-fuer-Mac-iPhone-und-iPad-im-Test-11146362.html",
+      "image_title": "Parachute Backup"
+    },
+    {
+      "title": "HintergrundStreit um Post-Quantum-TLS: Ist die IETF-Standardisierung leicht zu kapern?",
+      "url": "https://www.heise.de/hintergrund/Streit-um-Post-Quantum-TLS-Ist-die-IETF-Standardisierung-leicht-zu-kapern-11101399.html"
+    },
+    {
+      "title": "RatgeberSicherheitsprozesse und Alerts mit Shuffle automatisieren",
+      "url": "https://www.heise.de/ratgeber/Sicherheitsprozesse-und-Alerts-mit-Shuffle-automatisieren-11094029.html",
+      "image_title": ","
     },
     {
       "title": "Python für Umsteiger – Einstieg in die KI-Sprache für Entwickler in 5 Sessions",
@@ -47,20 +79,6 @@
       "teaser": "Mit den richtigen Tools lassen sich beliebig viele Signale von unterschiedlichen Quellen – etwa anderen Apps – auf einen virtuellen Audio-Ausgang mischen.",
       "url": "https://www.heise.de/ratgeber/Tipp-Mehrere-Audiosignale-in-einer-Videokonferenz-am-Mac-nutzen-6196464.html",
       "image_title": "Amplifier"
-    },
-    {
-      "title": "TestsiCloud sichern: Parachute Backup für Mac, iPhone und iPad im Test",
-      "url": "https://www.heise.de/tests/iCloud-sichern-Parachute-Backup-fuer-Mac-iPhone-und-iPad-im-Test-11146362.html",
-      "image_title": "Parachute Backup"
-    },
-    {
-      "title": "HintergrundStreit um Post-Quantum-TLS: Ist die IETF-Standardisierung leicht zu kapern?",
-      "url": "https://www.heise.de/hintergrund/Streit-um-Post-Quantum-TLS-Ist-die-IETF-Standardisierung-leicht-zu-kapern-11101399.html"
-    },
-    {
-      "title": "RatgeberSicherheitsprozesse und Alerts mit Shuffle automatisieren",
-      "url": "https://www.heise.de/ratgeber/Sicherheitsprozesse-und-Alerts-mit-Shuffle-automatisieren-11094029.html",
-      "image_title": ","
     },
     {
       "title": "Automatisierte Accessibility-Prüfung im Web: Möglichkeiten und Grenzen",
@@ -131,23 +149,6 @@
       "teaser": "Sie wollen statt Tracking, Profiling und Werbung lieber gute Suchergebnisse? Mit Searxng setzen Sie eine starke, datenschutzfreundliche Metasuche per Raspi auf.",
       "url": "https://www.heise.de/ratgeber/Websuche-ohne-US-Datenkraken-So-hosten-Sie-Ihren-eigenen-Suchdienst-per-Raspi-11154174.html",
       "image_title": "Die datenschutzfreundliche Metasuchmaschine Searxng aggregiert Suchergebnisse von verschiedenen Suchmaschinen."
-    },
-    {
-      "title": "UpdateWie Sie den Empfang von Paketen optimal steuern",
-      "teaser": "Pakete online umzuleiten benötigt nur wenige Klicks. Doch es gibt Tücken, wenn etwas abhandenkommt oder kaputtgeht. Wir haben die Möglichkeiten genauer geprüft.",
-      "url": "https://www.heise.de/hintergrund/Wie-Sie-den-Empfang-von-Paketen-optimal-steuern-11077878.html"
-    },
-    {
-      "title": "Zutrittskontrollsysteme: dormakaba behebt teils kritische Sicherheitslücken",
-      "teaser": "Die gut zwanzig Lücken finden sich im Access Manager, der Registriereinheit und im Exos-Server für Unternehmens-Schließsysteme. Der Meldeprozess dauerte Jahre.",
-      "url": "https://www.heise.de/news/Zutrittskontrollsysteme-dormakaba-behebt-teils-kritische-Sicherheitsluecken-11138394.html",
-      "image_title": "Türschloss mit Codeinegabe - darauf die Aufschrift „Code 1, 2, 3, 4“"
-    },
-    {
-      "title": "Microsoft Azure: KI-Beschleuniger Maia 200 soll Google TPU v7 übertrumpfen",
-      "teaser": "Der KI-Inferenzbeschleuniger Maia 200 der Microsoft-Cloudsparte Azure soll mit 10 Pflops FP4-Rechenleistung Google TPU v7 und AWS Inferentia überholen.",
-      "url": "https://www.heise.de/news/Microsoft-Azure-KI-Beschleuniger-Maia-200-soll-Google-TPU-v7-uebertrumpfen-11152444.html",
-      "image_title": "KI-Beschleuniger Microsoft Azure Maia 200"
     },
     {
       "title": "NewsWLAN mit 1 Kilometer Reichweite: Neuer Wi-Fi-HaLow-Router von GL.iNet",

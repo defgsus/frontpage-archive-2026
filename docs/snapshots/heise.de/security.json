@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-27T09:21:40",
+  "timestamp": "2026-01-27T10:15:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,16 +26,16 @@
   ],
   "articles": [
     {
-      "title": "Windows UpdatesNeue Boot-Zertifikate, Fehlerkorrekturen und neue Probleme",
-      "teaser": "Microsoft hat am Wochenende ungeplante Updates nachgelegt. Sie korrigieren Fehler und bringen neue Boot-Zertifikate.",
-      "url": "https://www.heise.de/news/Windows-Updates-Neue-Boot-Zertifikate-Fehlerkorrekturen-und-neue-Probleme-11153454.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+      "title": "AlertVeraltete VersionenBSI warnt vor vielen verwundbaren VMware-ESXi-Servern im Netz",
+      "teaser": "Das CERT-Bund des BSI warnt vor rund 2500 aus dem Internet erreichbaren Management-Interfaces von VMware-ESXi-Servern mit Sicherheitslecks.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-vielen-verwundbaren-VMware-ESXi-Servern-im-Netz-11155196.html",
+      "image_title": "Graph prozentuelle Anteile verwundbarer VMware ESXi Managementinterfaces im Netz"
     },
     {
-      "title": "KI und SecurityZero-Day-Exploits durch KI sind bereits Realität",
-      "teaser": "KIs können komplexe Zero-Day-Exploits entwickeln – die Suche nach Sicherheitslücken wird industrialisiert.",
-      "url": "https://www.heise.de/hintergrund/KI-und-Security-Zero-Day-Exploits-durch-KI-sind-bereits-Realitaet-11151838.html",
-      "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
+      "title": "AlertSicherheitslückeNotfall-Update gegen Zeroday in Microsoft Office",
+      "teaser": "Außer der Reihe veröffentlicht Microsoft Updates nur, wenn es brennt. Das tut es bei Office sowie Microsoft 365 Apps for Enterprise.",
+      "url": "https://www.heise.de/news/Notfall-Update-gegen-Zeroday-in-Microsoft-Office-11154976.html",
+      "image_title": "Gelbes Warndreieck schwebt vor Quelltext auf dunkelblauem Hintergrund"
     },
     {
       "title": "AlertApache Hadoop: Fehler im HDFS-Native-Client lässt Schadcode passieren",
@@ -55,22 +55,22 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
+      "title": "Microsoft Entra: Automatische Aktivierung von Passkey-Profilen im März",
+      "teaser": "Microsoft kündigt an, im März beim Entra-ID-Dienst automatisch Passkey-Profile zu aktivieren. Die Konfiguration soll einfach sein.",
+      "url": "https://www.heise.de/news/Microsoft-Entra-Automatische-Aktivierung-von-Passkey-Profilen-im-Maerz-11155279.html",
+      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
+    },
+    {
+      "title": "Frankreich sagt Microsoft Teams und Zoom den Kampf an",
+      "teaser": "Mit Visio führt Frankreich seine Open-Source-Videokonferenzen für Behörden ein. Bis 2027 sollen 200.000 Beamte unabhängig von US-Anbietern arbeiten können.",
+      "url": "https://www.heise.de/news/Frankreich-ersetzt-MS-Teams-und-Zoom-durch-eigene-Videokonferenzsoftware-11155120.html",
+      "image_title": "Screenshot von Visio, vier Personen in Videokonferenz"
+    },
+    {
       "title": "AlertApache Hadoop: Fehler im HDFS-Native-Client lässt Schadcode passieren",
       "teaser": "Das Framework Apache Hadoop ist verwundbar. Attacken können im Kontext des HDFS-Dateisystems geschehen. Ein Sicherheitspatch ist verfügbar.",
       "url": "https://www.heise.de/news/Apache-Hadoop-Fehler-im-HDFS-Native-Client-laesst-Schadcode-passieren-11155241.html",
       "image_title": "Ein symbolisches Schild mit einer Updateerinnerung."
-    },
-    {
-      "title": "AlertBSI warnt vor vielen verwundbaren VMware-ESXi-Servern im Netz",
-      "teaser": "Das CERT-Bund des BSI warnt vor rund 2500 aus dem Internet erreichbaren Management-Interfaces von VMware-ESXi-Servern mit Sicherheitslecks.",
-      "url": "https://www.heise.de/news/BSI-warnt-vor-vielen-verwundbaren-VMware-ESXi-Servern-im-Netz-11155196.html",
-      "image_title": "Graph prozentuelle Anteile verwundbarer VMware ESXi Managementinterfaces im Netz"
-    },
-    {
-      "title": "AlertNotfall-Update gegen Zeroday in Microsoft Office",
-      "teaser": "Außer der Reihe veröffentlicht Microsoft Updates nur, wenn es brennt. Das tut es bei Office sowie Microsoft 365 Apps for Enterprise.",
-      "url": "https://www.heise.de/news/Notfall-Update-gegen-Zeroday-in-Microsoft-Office-11154976.html",
-      "image_title": "Gelbes Warndreieck schwebt vor Quelltext auf dunkelblauem Hintergrund"
     },
     {
       "title": "Nike prüft möglichen Cyberangriff",
@@ -120,10 +120,22 @@
       "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
+      "title": "Windows Updates: Neue Boot-Zertifikate, Fehlerkorrekturen und neue Probleme",
+      "teaser": "Microsoft hat am Wochenende ungeplante Updates nachgelegt. Sie korrigieren Fehler der Januar-Patches und bringen neue Boot-Zertifikate.",
+      "url": "https://www.heise.de/news/Windows-Updates-Neue-Boot-Zertifikate-Fehlerkorrekturen-und-neue-Probleme-11153454.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+    },
+    {
       "title": "BitLocker: Microsoft gibt Schlüssel an Strafverfolger heraus",
       "teaser": "Microsoft hinterlegt den Schlüssel der Festplattenverschlüsselung standardmäßig im Online-Account von Kunden. Dort ist er mit richterlichem Beschluss abrufbar.",
       "url": "https://www.heise.de/news/Microsoft-gibt-BitLocker-Schluessel-an-Strafverfolgungsbehoerden-11152988.html",
       "image_title": "Ransomware auf einem Rechner"
+    },
+    {
+      "title": "KI und Security: Zero-Day-Exploits durch KI sind bereits Realität",
+      "teaser": "Eine Studie zeigt: KIs können komplexe Zero-Day-Exploits erstellen. Die Folge: Die Suche nach Sicherheitslücken wird erfolgreich industrialisiert und skaliert.",
+      "url": "https://www.heise.de/hintergrund/KI-und-Security-Zero-Day-Exploits-durch-KI-sind-bereits-Realitaet-11151838.html",
+      "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
     },
     {
       "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
@@ -136,18 +148,6 @@
       "teaser": "Die Softwareentwicklungsumgebung GitLab ist über mehrere Sicherheitslücken attackierbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-GitLab-Angreifer-koennen-Zwei-Faktor-Authentifizierung-umgehen-11151728.html",
       "image_title": "Ein sich füllender Updatebalken."
-    },
-    {
-      "title": "Galaxy Watch 5 macht den Anfang: Samsung rollt Januar-Sicherheitspatch aus",
-      "teaser": "Samsung liefert ein Software-Update für die Wi-Fi-Variante der Galaxy Watch 5 aus. Es enthält den Sicherheitspatch von Januar 2026.",
-      "url": "https://www.heise.de/news/Galaxy-Watch-5-zuerst-Samsung-liefert-Januar-Update-fuer-seine-Smartwatches-aus-11151567.html",
-      "image_title": "Samsung Galaxy Watch 5 auf Holztisch"
-    },
-    {
-      "title": "AlertVideokonferenzsoftware: Zoom Node möglicher Ansatzpunkt für Schadcode-Attacken",
-      "teaser": "Ein Sicherheitsupdate schließt eine kritische Schwachstelle in Zoom Node.",
-      "url": "https://www.heise.de/news/Videokonferenzsoftware-Zoom-Node-moeglicher-Ansatzpunkt-fuer-Schadcode-Attacken-11151434.html",
-      "image_title": "Eine symbolische Updateerinnerung."
     },
     {
       "title": "Classroom | 10.02. – 10.03.2026Ethical Hacking für Admins – Pentesting für eine sichere IT",
