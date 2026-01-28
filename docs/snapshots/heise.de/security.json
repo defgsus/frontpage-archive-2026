@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T10:16:55",
+  "timestamp": "2026-01-28T11:14:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
-      "title": "AlertVeraltete VersionenBSI warnt vor vielen verwundbaren VMware-ESXi-Servern im Netz",
-      "teaser": "Das CERT-Bund des BSI warnt vor rund 2500 aus dem Internet erreichbaren Management-Interfaces von VMware-ESXi-Servern mit Sicherheitslecks.",
-      "url": "https://www.heise.de/news/BSI-warnt-vor-vielen-verwundbaren-VMware-ESXi-Servern-im-Netz-11155196.html",
-      "image_title": "Graph prozentuelle Anteile verwundbarer VMware ESXi Managementinterfaces im Netz"
-    },
-    {
-      "title": "AlertSicherheitslückeNotfall-Update gegen Zeroday in Microsoft Office",
-      "teaser": "Außer der Reihe veröffentlicht Microsoft Updates nur, wenn es brennt. Das tut es bei Office sowie Microsoft 365 Apps for Enterprise.",
-      "url": "https://www.heise.de/news/Notfall-Update-gegen-Zeroday-in-Microsoft-Office-11154976.html",
-      "image_title": "Gelbes Warndreieck schwebt vor Quelltext auf dunkelblauem Hintergrund"
-    },
-    {
-      "title": "AlertFortinet kämpft weiter gegen laufende SSO-Admin-Attacken",
+      "title": "AlertWarten auf SicherheitspatchFortinet kämpft weiter gegen laufende SSO-Admin-Attacken",
+      "teaser": "Angreifer attackieren schon länger diverse Fortinet-Produkte. Ein funktionierendes Sicherheitsupdate fehlt nach wie vor. Ein temporärer Schutz soll helfen.",
       "url": "https://www.heise.de/news/Fortinet-kaempft-weiter-gegen-laufende-SSO-Admin-Attacken-11156437.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "Käufer wurden zu Telegram umgeleitetIT-Vorfall in Forscherfabrik Schorndorf",
+      "teaser": "Möglicherweise sind bei einem IT-Vorfall der Forscherfabrik Schorndorf Daten von mehr als 19.000 Kundinnen und Kunden abgeflossen.",
+      "url": "https://www.heise.de/news/IT-Vorfall-in-Forscherfabrik-Schorndorf-Kaeufer-wurden-zu-Telegram-umgeleitet-11156345.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
+    },
+    {
+      "title": "AlertNetzwerkmanagementlösung HPE Aruba Fabric Composer ist angreifbar",
+      "url": "https://www.heise.de/news/Netzwerkmanagementloesung-HPE-Aruba-Fabric-Composer-ist-angreifbar-11156836.html",
+      "image_title": "IP-Schriftzug"
     },
     {
       "title": "Webinar am 26. FebruarAuthentifizierung im Active Directory absichern",
@@ -55,10 +55,16 @@
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
-      "title": "AlertFortinet kämpft weiter gegen laufende SSO-Admin-Attacken",
-      "teaser": "Angreifer attackieren schon länger diverse Fortinet-Produkte. Ein funktionierendes Sicherheitsupdate fehlt nach wie vor. Ein temporärer Schutz soll helfen.",
-      "url": "https://www.heise.de/news/Fortinet-kaempft-weiter-gegen-laufende-SSO-Admin-Attacken-11156437.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+      "title": "Sichere Softwareentwicklung: Vorträge für die heise devSec in Marburg gesucht",
+      "teaser": "Der Call for Proposals für die heise devSec im Herbst ist gestartet. Im Mai findet zusätzlich online der Special Day „KI und Security“ statt.",
+      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Vortraege-fuer-die-heise-devSec-in-Marburg-gesucht-11153368.html",
+      "image_title": "Schloss mit Code"
+    },
+    {
+      "title": "AlertNetzwerkmanagementlösung HPE Aruba Fabric Composer ist angreifbar",
+      "teaser": "Angreifer können Systeme mit HPE Aruba Networking Fabric Composer mit Schadcode attackieren.",
+      "url": "https://www.heise.de/news/Netzwerkmanagementloesung-HPE-Aruba-Fabric-Composer-ist-angreifbar-11156836.html",
+      "image_title": "IP-Schriftzug"
     },
     {
       "title": "Meta stärkt WhatsApp-Datenschutz mit neuen „strikten Kontoeinstellungen“",
@@ -76,12 +82,6 @@
       "title": "Das heise-security-Webinar zu NTLM & Kerberos",
       "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
       "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11155968.html"
-    },
-    {
-      "title": "IT-Vorfall in Forscherfabrik Schorndorf: Käufer wurden zu Telegram umgeleitet",
-      "teaser": "Möglicherweise sind bei einem IT-Vorfall der Forscherfabrik Schorndorf Daten von mehr als 19.000 Kundinnen und Kunden abgeflossen.",
-      "url": "https://www.heise.de/news/IT-Vorfall-in-Forscherfabrik-Schorndorf-Kaeufer-wurden-zu-Telegram-umgeleitet-11156345.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
     },
     {
       "title": "Google: EU fordert Öffnung von Android für KI-Konkurrenz binnen sechs Monaten",
@@ -125,6 +125,18 @@
       "image_title": "Ein symbolisches Schild mit einer Updateerinnerung."
     },
     {
+      "title": "AlertBSI warnt vor vielen verwundbaren VMware-ESXi-Servern im Netz",
+      "teaser": "Das CERT-Bund des BSI warnt vor rund 2500 aus dem Internet erreichbaren Management-Interfaces von VMware-ESXi-Servern mit Sicherheitslecks.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-vielen-verwundbaren-VMware-ESXi-Servern-im-Netz-11155196.html",
+      "image_title": "Graph prozentuelle Anteile verwundbarer VMware ESXi Managementinterfaces im Netz"
+    },
+    {
+      "title": "AlertNotfall-Update gegen Zeroday in Microsoft Office",
+      "teaser": "Außer der Reihe veröffentlicht Microsoft Updates nur, wenn es brennt. Das tut es bei Office sowie Microsoft 365 Apps for Enterprise.",
+      "url": "https://www.heise.de/news/Notfall-Update-gegen-Zeroday-in-Microsoft-Office-11154976.html",
+      "image_title": "Gelbes Warndreieck schwebt vor Quelltext auf dunkelblauem Hintergrund"
+    },
+    {
       "title": "Nike prüft möglichen Cyberangriff",
       "teaser": "Eine Ransomware-Bande behauptet, Daten von Nike erbeutet zu haben. Das Unternehmen untersucht den Vorfall. Angeblich wurden auch Designprototypen gestohlen.",
       "url": "https://www.heise.de/news/Nike-prueft-moeglichen-Cyberangriff-11154898.html"
@@ -134,18 +146,6 @@
       "teaser": "Die gut zwanzig Lücken finden sich im Access Manager, der Registriereinheit und im Exos-Server für Unternehmens-Schließsysteme. Der Meldeprozess dauerte Jahre.",
       "url": "https://www.heise.de/news/Zutrittskontrollsysteme-dormakaba-behebt-teils-kritische-Sicherheitsluecken-11138394.html",
       "image_title": "Türschloss mit Codeinegabe - darauf die Aufschrift „Code 1, 2, 3, 4“"
-    },
-    {
-      "title": "Nordkoreanische Cyberkriminelle setzen KI-generierte PowerShell-Backdoor ein",
-      "teaser": "Nordkoreanische Cyberkriminelle nehmen Entwickler mit Zugriff auf Blockchains ins Visier. Eine PowerShell-Backdoor scheint von KI programmiert.",
-      "url": "https://www.heise.de/news/Nordkoreanische-Cyberkriminelle-setzen-KI-generierte-PowerShell-Backdoor-ein-11154421.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "AlertCISA-Warnung vor Angriffen auf VMware vCenter, Zimbra und mehr",
-      "teaser": "Die CISA warnt vor beobachteten Angriffen auf VMware vCenter, Zimbra, Vite Vitejs, Versa Concerto und Prettier.",
-      "url": "https://www.heise.de/news/CISA-Warnung-vor-Angriffen-auf-VMware-vCenter-Zimbra-und-mehr-11154275.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "Classroom | 10.02. – 10.03.2026Ethical Hacking für Admins – Pentesting für eine sichere IT",
