@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T06:19:45",
+  "timestamp": "2026-01-28T07:16:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Das heise-security-Webinar zu NTLM & Kerberos",
+      "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11155968.html"
+    },
+    {
+      "title": "IT-Vorfall in Forscherfabrik Schorndorf: Käufer wurden zu Telegram umgeleitet",
+      "url": "https://www.heise.de/news/IT-Vorfall-in-Forscherfabrik-Schorndorf-Kaeufer-wurden-zu-Telegram-umgeleitet-11156345.html"
+    },
+    {
+      "title": "Sucht-Klage in den USA: Tiktok einigt sich außergerichtlich",
+      "url": "https://www.heise.de/news/Tiktok-geht-in-US-Verfahren-um-Sucht-Vorwurf-Vergleich-ein-11156351.html"
+    },
+    {
+      "title": "Textprojekte gemeinsam stemmen mit Git: So gehen Dokumentationen und mehr",
+      "url": "https://www.heise.de/ratgeber/Textprojekte-gemeinsam-stemmen-mit-Git-So-gehen-Dokumentationen-und-mehr-11138148.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Neu in .NET 10.0 [6]: Generische Erweiterungsblöcke in C# 14.0",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-6-Generische-Erweiterungsbloecke-in-C-14-0-11143426.html"
+    },
+    {
       "title": "THG-Quote 2026: Mehr Geld fürs Elektroauto",
       "url": "https://www.heise.de/hintergrund/THG-Quote-2026-Mehr-Geld-fuers-Elektroauto-11151908.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
@@ -46,28 +68,6 @@
     {
       "title": "So schädlich? Erster Kinder-Prozess gegen Facebook und YouTube läuft in LA an",
       "url": "https://www.heise.de/news/So-schaedlich-Erster-Kinder-Prozess-gegen-Facebook-und-YouTube-laeuft-in-LA-an-11156313.html"
-    },
-    {
-      "title": "Amazon strukturiert Lebensmittelgeschäft um, schließt alle Fresh- und Go-Läden",
-      "url": "https://www.heise.de/news/Amazon-strukturiert-Lebensmittelgeschaeft-um-schliesst-alle-Fresh-und-Go-Laeden-11156325.html"
-    },
-    {
-      "title": "Nicht erlaubt: Microsoft könnte Schulkinder für Werbezwecke verfolgen",
-      "url": "https://www.heise.de/news/Nicht-erlaubt-Microsoft-koennte-Schulkinder-fuer-Werbezwecke-verfolgen-11156243.html"
-    },
-    {
-      "title": "Digitaler „Omnibus”: Europa-Parlament bremst Kommissionspläne für Daten und KI",
-      "url": "https://www.heise.de/news/Digitaler-Omnibus-Europa-Parlament-bremst-Kommissionsplaene-fuer-Daten-und-KI-11156161.html"
-    },
-    {
-      "title": "Stille Naturfotografie aus dem Münsterland – Portfolio Simone Baumeister",
-      "url": "https://www.heise.de/hintergrund/Stille-Naturfotografie-aus-dem-Muensterland-Portfolio-Simone-Baumeister-11147322.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Top 10: Bestes Smartphone bis 400 Euro im Test",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-smartphone-bis-400-euro-im-test-mehr-braucht-es-nicht/22wwybb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "AlertSicherheitslückeNotfall-Update gegen Zeroday in Microsoft Office",
@@ -105,9 +105,9 @@
       "image_title": "Renderbild eines Ryzen-Prozessors vor orange-schwarzem Hintergrund"
     },
     {
-      "title": "Mittelklasse-SmartphoneXiaomi Redmi Note 15 Pro 5G im Test: XXL-Akku und 200 MP",
-      "teaser": "Das Redmi Note 15 Pro 5G bietet einen starken Akku, eine 200-Megapixel-Kamera und ein großes, helles OLED-Display.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-redmi-note-15-pro-5g-im-test-smartphone-mit-xxl-akku-und-200-megapixel/ll62k76?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
+      "title": "Mehr braucht es nichtTop 10: Bestes Smartphone bis 400 Euro im Test",
+      "teaser": "Telelinsen, brillante Displays und flinke Chips – Smartphones bis 400 Euro liefern Ausstattung fast auf Flaggschiff-Niveau.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-smartphone-bis-400-euro-im-test-mehr-braucht-es-nicht/22wwybb?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
       "title": "VorbildlichNorwegischen Pensionsfonds nachbauen",
@@ -193,6 +193,40 @@
       "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
+      "title": "Das heise-security-Webinar zu NTLM & Kerberos",
+      "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
+      "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11155968.html"
+    },
+    {
+      "title": "IT-Vorfall in Forscherfabrik Schorndorf: Käufer wurden zu Telegram umgeleitet",
+      "teaser": "Möglicherweise sind bei einem IT-Vorfall der Forscherfabrik Schorndorf Daten von mehr als 19.000 Kundinnen und Kunden abgeflossen.",
+      "url": "https://www.heise.de/news/IT-Vorfall-in-Forscherfabrik-Schorndorf-Kaeufer-wurden-zu-Telegram-umgeleitet-11156345.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
+    },
+    {
+      "title": "Beim Internet bleiben die größten Städte zurück",
+      "teaser": "Eine Analyse von mehr als 100 Städten zeigt: Die höchsten Geschwindigkeiten für Festnetzanschlüsse gibt es nicht in den größten Ballungsräumen, sondern in Zentren mit 30.000 bis 110.000 Einwohnern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7165479068&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
+      "title": "Sucht-Klage in den USA: Tiktok einigt sich außergerichtlich",
+      "teaser": "Eine Nutzerin wirft Online-Plattformen in einer US-Klage vor, ihre Dienste machten süchtig. Der Prozess könnte massive Folgen haben. Tiktok einigt sich vorher.",
+      "url": "https://www.heise.de/news/Tiktok-geht-in-US-Verfahren-um-Sucht-Vorwurf-Vergleich-ein-11156351.html",
+      "image_title": "Tiktok-App auf Dispaly von Mobiltelefon"
+    },
+    {
+      "title": "Textprojekte gemeinsam stemmen mit Git: So gehen Dokumentationen und mehr",
+      "teaser": "Wenn mehrere Personen isoliert an umfangreichen Texten arbeiten, führen Versionskonflikte und verlorene Änderungen schnell zu Problemen. So hilft Ihnen Git.",
+      "url": "https://www.heise.de/ratgeber/Textprojekte-gemeinsam-stemmen-mit-Git-So-gehen-Dokumentationen-und-mehr-11138148.html",
+      "image_title": ", KI-generiert mit Midjourney"
+    },
+    {
+      "title": "Neu in .NET 10.0 [6]: Generische Erweiterungsblöcke in C# 14.0",
+      "teaser": "Die Erweiterungsblöcke in C# 14.0 dürfen auch generische Typparameter enthalten.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-6-Generische-Erweiterungsbloecke-in-C-14-0-11143426.html",
+      "image_title": "C# als Zeichen"
+    },
+    {
       "title": "THG-Quote 2026: Mehr Geld fürs Elektroauto",
       "teaser": "In diesem Jahr steigt die THG-Quote an. Für Besitzer von Elektroautos heißt das, sie bekommen deutlich mehr Geld als im Vorjahr.",
       "url": "https://www.heise.de/hintergrund/THG-Quote-2026-Mehr-Geld-fuers-Elektroauto-11151908.html",
@@ -205,45 +239,10 @@
       "image_title": "Mini Countryman SE"
     },
     {
-      "title": "Bezahlbare Cyber-Sicherheit für den Mittelstand",
-      "teaser": "Begrenzte Ressourcen, aber raffiniertere Bedrohungen – mit dem Einsatz von KI können sich Unternehmen effektiv schützen. Denn beim digitalen Wettrüsten ist KI ein Angriffs- und Verteidigungswerkzeug.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7195670840&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Mittwoch: Aus für Amazon Go und Fresh, Kinder-Prozess gegen Facebook und YouTube",
       "teaser": "Amazon schließt Supermärkte + Leid durch Soziale Netze + Cookies für Schulkinder untersagt + Kritik am digitalen Omnibus + Bit-Rauschen zu Intels Panther Lake",
       "url": "https://www.heise.de/news/Mittwoch-Aus-fuer-Amazon-Go-und-Fresh-Kinder-Prozess-gegen-Facebook-und-YouTube-11156337.html",
       "image_title": "Katze lugt aus Amazon-Schachtel; Mittwoch: Amazon-Schließungen, Social-Media-Folgen, Schulkinder-Cookies, EU-Omnibus-Widerstand & Bit-Rauschen"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Intel Core Ultra 300, der große Wurf?",
-      "teaser": "Der Core Ultra 300 „Panther Lake“ ist für Intel enorm wichtig. Was er leistet und ob er die hohen Erwartungen erfüllt: Folge 2026/2 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Intel-Core-Ultra-300-der-grosse-Wurf-11148655.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "So schädlich? Erster Kinder-Prozess gegen Facebook und YouTube läuft in LA an",
-      "teaser": "Tausende Kinder-Klagen sind gegen Soziale Netze anhängig. Der erste US-Prozess geht los. Snap und Tiktok zahlen, Facebook und YouTube hoffen auf Geschworene.",
-      "url": "https://www.heise.de/news/So-schaedlich-Erster-Kinder-Prozess-gegen-Facebook-und-YouTube-laeuft-in-LA-an-11156313.html",
-      "image_title": "Kinder am Smartphone"
-    },
-    {
-      "title": "Amazon strukturiert Lebensmittelgeschäft um, schließt alle Fresh- und Go-Läden",
-      "teaser": "Lebensmittel gibt es bei Amazon künftig nur noch online und in den Whole-Foods-Supermärkten. Alle Amazon Fresh und Amazon Go werden kurzfristig geschlossen.",
-      "url": "https://www.heise.de/news/Amazon-strukturiert-Lebensmittelgeschaeft-um-schliesst-alle-Fresh-und-Go-Laeden-11156325.html",
-      "image_title": "Lieferant mit Prime-Tüten auf Treppe zur Eingangstür eines Hauses"
-    },
-    {
-      "title": "Nicht erlaubt: Microsoft könnte Schulkinder für Werbezwecke verfolgen",
-      "teaser": "Österreichische Schulen zahlen für Schüler Microsoft-Software. Ohne Wissen der Schulen oder Kinder platziert Microsoft Cookies. Eine Beschwerde hat Erfolg.",
-      "url": "https://www.heise.de/news/Nicht-erlaubt-Microsoft-koennte-Schulkinder-fuer-Werbezwecke-verfolgen-11156243.html",
-      "image_title": "Auf einem Tablet liegen zwei Kekse. Der Bildschirm zeigt das Wort \"Einwilligung\"."
-    },
-    {
-      "title": "Digitaler „Omnibus”: Europa-Parlament bremst Kommissionspläne für Daten und KI",
-      "teaser": "Die Pläne der EU-Kommission möchte verschiedene Datengesetze und KI-Regelungen unter einen Hut bringen. Das stößt im Parlament auf Widerstand.",
-      "url": "https://www.heise.de/news/Digitaler-Omnibus-Europa-Parlament-bremst-Kommissionsplaene-fuer-Daten-und-KI-11156161.html",
-      "image_title": "Ein Teil der Fassade des Gebäudes des Europäischen Parlaments"
     },
     {
       "title": "Heizkosten senkenSmarte Thermostate mit Home Assistant ausreizen",
@@ -337,15 +336,40 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: Intel Core Ultra 300, der große Wurf?",
+      "teaser": "Der Core Ultra 300 „Panther Lake“ ist für Intel enorm wichtig. Was er leistet und ob er die hohen Erwartungen erfüllt: Folge 2026/2 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Intel-Core-Ultra-300-der-grosse-Wurf-11148655.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
+    },
+    {
+      "title": "So schädlich? Erster Kinder-Prozess gegen Facebook und YouTube läuft in LA an",
+      "teaser": "Tausende Kinder-Klagen sind gegen Soziale Netze anhängig. Der erste US-Prozess geht los. Snap und Tiktok zahlen, Facebook und YouTube hoffen auf Geschworene.",
+      "url": "https://www.heise.de/news/So-schaedlich-Erster-Kinder-Prozess-gegen-Facebook-und-YouTube-laeuft-in-LA-an-11156313.html",
+      "image_title": "Kinder am Smartphone"
+    },
+    {
+      "title": "Amazon strukturiert Lebensmittelgeschäft um, schließt alle Fresh- und Go-Läden",
+      "teaser": "Lebensmittel gibt es bei Amazon künftig nur noch online und in den Whole-Foods-Supermärkten. Alle Amazon Fresh und Amazon Go werden kurzfristig geschlossen.",
+      "url": "https://www.heise.de/news/Amazon-strukturiert-Lebensmittelgeschaeft-um-schliesst-alle-Fresh-und-Go-Laeden-11156325.html",
+      "image_title": "Lieferant mit Prime-Tüten auf Treppe zur Eingangstür eines Hauses"
+    },
+    {
+      "title": "Nicht erlaubt: Microsoft könnte Schulkinder für Werbezwecke verfolgen",
+      "teaser": "Österreichische Schulen zahlen für Schüler Microsoft-Software. Ohne Wissen der Schulen oder Kinder platziert Microsoft Cookies. Eine Beschwerde hat Erfolg.",
+      "url": "https://www.heise.de/news/Nicht-erlaubt-Microsoft-koennte-Schulkinder-fuer-Werbezwecke-verfolgen-11156243.html",
+      "image_title": "Auf einem Tablet liegen zwei Kekse. Der Bildschirm zeigt das Wort \"Einwilligung\"."
+    },
+    {
+      "title": "Digitaler „Omnibus”: Europa-Parlament bremst Kommissionspläne für Daten und KI",
+      "teaser": "Die Pläne der EU-Kommission möchte verschiedene Datengesetze und KI-Regelungen unter einen Hut bringen. Das stößt im Parlament auf Widerstand.",
+      "url": "https://www.heise.de/news/Digitaler-Omnibus-Europa-Parlament-bremst-Kommissionsplaene-fuer-Daten-und-KI-11156161.html",
+      "image_title": "Ein Teil der Fassade des Gebäudes des Europäischen Parlaments"
+    },
+    {
       "title": "Stille Naturfotografie aus dem Münsterland – Portfolio Simone Baumeister",
       "teaser": "Mit Geduld, Technik und Achtsamkeit gelingen der Fotografin selbst in scheinbar unspektakulären Landschaften poetische Naturaufnahmen.",
       "url": "https://www.heise.de/hintergrund/Stille-Naturfotografie-aus-dem-Muensterland-Portfolio-Simone-Baumeister-11147322.html",
       "image_title": ", Alle Bilder: Simone Baumeister"
-    },
-    {
-      "title": "Top 10: Bestes Smartphone bis 400 Euro im Test",
-      "teaser": "Telelinsen, brillante Displays und flinke Chips – Smartphones bis 400 Euro liefern Ausstattung fast auf Flaggschiff-Niveau.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-smartphone-bis-400-euro-im-test-mehr-braucht-es-nicht/22wwybb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Signal: Messenger erobert finnischen Play Store",
@@ -389,6 +413,12 @@
       "image_title": "Offshore-Windräder im Sonnenuntergang"
     },
     {
+      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
+      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
       "title": "Sicherheit zuerst: Schwarz-Rot will Transparenzpflichten bei Kritis einschränken",
       "teaser": "CDU/CSU und SPD fordern Vorrang für Sabotageschutz vor Info-Rechten. Ein Antrag zum Kritis-Dachgesetz sieht auch schnellere Warnwege und mehr Kontrollen vor.",
       "url": "https://www.heise.de/news/Sicherheit-zuerst-Schwarz-Rot-will-Transparenzpflichten-bei-Kritis-einschraenken-11156002.html",
@@ -412,11 +442,6 @@
       "image_title": "Expo Display Case von Nanoleaf"
     },
     {
-      "title": "Mit KI mehr Sicherheit und Effizienz im SOC",
-      "teaser": "Security Operations Centers (SOC) kämpfen bei begrenzten Ressourcen und Budgets mit immer komplexeren Bedrohungen. Erfahren Sie, wie KI helfen kann, dieses Dilemma zu lösen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-wachsende-rolle-von-ki-fuer-mehr-automatisierung-und-effizienz-im-soc-5003/?source=nat_teas"
-    },
-    {
       "title": "Digitale Unabhängigkeit: Berlin will europäischen Bezahldienst Wero einführen",
       "teaser": "Der Digitalausschuss im Berliner Abgeordnetenhaus hat die Einführung des europäischen Bezahlsystems Wero beschlossen. Das Abgeordnetenhaus muss noch zustimmen.",
       "url": "https://www.heise.de/news/Digitale-Unabhaengigkeit-Berlin-will-europaeischen-Bezahldienst-Wero-einfuehren-11155950.html",
@@ -427,6 +452,11 @@
       "teaser": "Das Primärarztsystem soll mithilfe telemedizinischer Tools Patienten steuern. Der Kampf um die Aufgabenverteilung ist vorprogrammiert.",
       "url": "https://www.heise.de/news/116117-Termin-Backend-Patientenakte-Co-Streit-um-Aufgabenverteilung-beginnt-11155725.html",
       "image_title": "Wartezimmer einer Arztpraxis"
+    },
+    {
+      "title": "Xiaomi Redmi Note 15 Pro 5G im Test: XXL-Akku und 200 MP",
+      "teaser": "Das Redmi Note 15 Pro 5G bietet einen starken Akku, eine 200-Megapixel-Kamera und ein großes, helles OLED-Display.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-redmi-note-15-pro-5g-im-test-smartphone-mit-xxl-akku-und-200-megapixel/ll62k76?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "App Store: Apple zeigt ab März mehr Anzeigen in Suchergebnissen an",
@@ -444,36 +474,6 @@
       "teaser": "Mit der portablen Hardware Flexbox konfiguriert man neutrale Transceiver passend für mehrere Hersteller und Geräte flexibel und kostensenkend um.",
       "url": "https://www.heise.de/tests/Transceiver-flexibel-konfigurieren-Flexbox-5-im-Test-11128612.html",
       "image_title": ","
-    },
-    {
-      "title": "Google: EU fordert Öffnung von Android für KI-Konkurrenz binnen sechs Monaten",
-      "teaser": "EU fordert Google auf, Android für KI-Konkurrenz zu öffnen und Suchdaten zugänglich zu machen. Frist: sechs Monate.",
-      "url": "https://www.heise.de/news/Google-EU-fordert-Oeffnung-von-Android-fuer-KI-Konkurrenz-binnen-sechs-Monaten-11155741.html",
-      "image_title": "Android-Logo auf Smartphone vor verschwommenem Hintergrund"
-    },
-    {
-      "title": "l+f: WhisperPair – Bluetooth-Attacke auf Fast-Pairing",
-      "teaser": "IT-Forscher haben fehlerhafte Umsetzungen des FastPair-Protokolls von Google gefunden. BT-Geräte können dadurch zu Wanzen werden.",
-      "url": "https://www.heise.de/news/l-f-WhisperPair-Bluetooth-Attacke-auf-Fast-Pairing-11155629.html",
-      "image_title": "Bluetooth-Logo mit Achtung-Schild vor Matrix-Regen"
-    },
-    {
-      "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
-      "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-11147618.html",
-      "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
-    },
-    {
-      "title": "Die PubMed-Falle: Deutschlands gefährlicher Datenpoker in der Medizin",
-      "teaser": "Die Regierung verspricht digitale Souveränität und stellt Millionen bereit, doch hinter den Kulissen tobt ein Streit um die Sicherung wichtiger Forschungsdaten.",
-      "url": "https://www.heise.de/news/Die-PubMed-Falle-Deutschlands-gefaehrlicher-Datenpoker-in-der-Medizin-11155637.html",
-      "image_title": "Medizinische Forschung in einem Labor"
-    },
-    {
-      "title": "Zahlen, bitte! Bis 12 zählen auf Grönländisch",
-      "teaser": "Während manch Präsident meint, dass Grönland nur ein großes Stück Eis sei, zeigt es sich beim genaueren Hinsehen kulturell vielfältig, inklusive eigener Zahlen.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Bis-12-zaehlen-auf-Groenlaendisch-11155334.html",
-      "image_title": "Aufmacherbild Zahlen, bitte"
     },
     {
       "title": "Umfrage: 79 Prozent fordern Schutz vor Nicht-EU-Übernahmen in Schlüsselbranchen",
@@ -501,9 +501,9 @@
       "image_title": "Darstellung der Orion-Kapsel im All"
     },
     {
-      "title": "Neustart fürs Gehirn: Darum ist man nach dem Mittagsschlaf wieder aufnahmefähig",
-      "url": "https://www.heise.de/news/Neustart-fuers-Gehirn-Darum-ist-man-nach-dem-Mittagsschlaf-wieder-aufnahmefaehig-11154508.html",
-      "image_title": "The,Cat,Lies,On,A,Heating,Radiator,Against,The,Background"
+      "title": "Die PubMed-Falle: Deutschlands gefährlicher Datenpoker in der Medizin",
+      "url": "https://www.heise.de/news/Die-PubMed-Falle-Deutschlands-gefaehrlicher-Datenpoker-in-der-Medizin-11155637.html",
+      "image_title": "Medizinische Forschung in einem Labor"
     },
     {
       "title": "Falsche Aktivierung des Assistant: Google zahlt Klägern 68 Millionen US-Dollar",
@@ -569,13 +569,14 @@
       "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm, dazu Text: DIENSTAG WhatsApp, Vorratsdatenspeicherung, Datenschutzklage, Cyberangriff & TV-Software"
     },
     {
+      "title": "Zahlen, bitte! Bis 12 zählen auf Grönländisch",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Bis-12-zaehlen-auf-Groenlaendisch-11155334.html",
+      "image_title": "Aufmacherbild Zahlen, bitte"
+    },
+    {
       "title": "Sparkassen stellen Passwort-Manager S-Trust ein",
       "url": "https://www.heise.de/news/Sparkassen-stellen-Passwort-Manager-S-Trust-ein-11153815.html",
       "image_title": "Ankündigung auf S-Trust-Webseite"
-    },
-    {
-      "title": "Kondensstreifen: Warum ein paar Nachtflüge im Winter die Klimabilanz ruinieren",
-      "url": "https://www.heise.de/news/Kondensstreifen-Warum-ein-paar-Nachtfluege-im-Winter-die-Klimabilanz-ruinieren-11152923.html"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -644,9 +645,10 @@
       "url": "https://www.heise.de/en/news/3-5-Billion-Accounts-Complete-WhatsApp-Directory-Retrieved-and-Evaluated-11083244.html"
     },
     {
-      "title": "Die Technik von 40-Terabyte-Magnetbändern nach LTO-10",
-      "teaser": "Rechenzentren sichern Datenmassen weiterhin auf Magnetband alias Tape. Die jüngste LTO-10-Technik packt satte 40 TByte in jede Kassette.",
-      "url": "https://www.heise.de/hintergrund/Die-Technik-von-40-Terabyte-Magnetbaendern-nach-LTO-10-10512484.html"
+      "title": "Bit-Rauschen, der Prozessor-Podcast: Intel Core Ultra 300, der große Wurf?",
+      "teaser": "Der Core Ultra 300 „Panther Lake“ ist für Intel enorm wichtig. Was er leistet und ob er die hohen Erwartungen erfüllt: Folge 2026/2 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Intel-Core-Ultra-300-der-grosse-Wurf-11148655.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
     },
     {
       "title": "Biwin Mini SSD im Test: Schneller Flash-Speicher im Kleinstformat",
@@ -672,10 +674,10 @@
       "image_title": ", Montage mac & i"
     },
     {
-      "title": "Übersicht aufmotzenMit diesen Tools wird die Quick Look von macOS besser",
-      "teaser": "Wenn die \"Übersicht\" ein Dokumentformat nicht darstellen kann, lässt sich die Unterstützung mit Apps nachrüsten. Wir stellen wichtige vor und geben Tipps.",
-      "url": "https://www.heise.de/ratgeber/Quick-Look-aufmotzen-MIt-diesen-Tools-wird-die-macOS-Uebersicht-besser-11146357.html",
-      "image_title": "Icons für Quick Look"
+      "title": "So gehen Dokumentationen und mehrTextprojekte gemeinsam stemmen mit Git",
+      "teaser": "Wenn mehrere Personen isoliert an umfangreichen Texten arbeiten, führen Versionskonflikte und verlorene Änderungen schnell zu Problemen. So hilft Ihnen Git.",
+      "url": "https://www.heise.de/ratgeber/Textprojekte-gemeinsam-stemmen-mit-Git-So-gehen-Dokumentationen-und-mehr-11138148.html",
+      "image_title": ", KI-generiert mit Midjourney"
     },
     {
       "title": "DJ-Bühne auf Rädern: So entstand das Jungle Art Car",
@@ -759,10 +761,10 @@
       "url": "https://www.heise.de/news/CO-Jahresbilanz-2025-der-Autohersteller-Knapp-daneben-und-trotzdem-straffrei-11153688.html"
     },
     {
-      "title": "Merz fordert Überstunden – während Manager die Industrie vor die Wand fahren",
-      "teaser": "Managementfehler bei Software, Batterien und Rohstoffen bremsen die Industrie – doch die Regierung setzt auf längere Arbeitszeiten.",
-      "url": "https://www.heise.de/-11151625",
-      "image_title": "Manager-Hand stößt Dominosteine an. Dahinter Arbeiter"
+      "title": "Silberpreis knackt 100-Dollar-Marke: Warum der Markt jetzt wild schwankt",
+      "teaser": "Silber durchbricht erstmals die 100-Dollar-Schwelle. Unsicherheit, Dollar-Schwäche und physische Knappheit treiben den Preis. Doch die Volatilität nimmt zu.",
+      "url": "https://www.heise.de/-11155755",
+      "image_title": "Silberbarren auf schwarzem Hintergrund und einem Börsenchart"
     },
     {
       "title": "\"Na, das ist doch fachmännisch!\": Spongebob und die Intelligenzberufe",
@@ -771,10 +773,10 @@
       "image_title": "Eine Krabbenfigur auf Steinen"
     },
     {
-      "title": "Zinsen steigen weltweit: Wie Japans Anleihekrise die Märkte erschüttert",
-      "teaser": "Ein Beben am japanischen Anleihenmarkt treibt die Zinsen global nach oben. Was in Tokio geschah und warum es deutsche Sparer betrifft.",
-      "url": "https://www.heise.de/-11154789",
-      "image_title": "Diagramm mit Prozent-Zeichen und noch rechts immer größer werdenden Pfeilen: Symbol für steigende Zinsen."
+      "title": "Afrika: Der unterschätzte Kontinent mit enormem Potenzial",
+      "teaser": "Während Europa Afrika noch immer als Krisenregion wahrnimmt, boomt dort die Autoproduktion – und setzt direkt auf E-Mobilität.",
+      "url": "https://www.heise.de/-11150170",
+      "image_title": "Autoräder mit Afrika-Umriss auf den Radkappen"
     },
     {
       "title": "Mitarbeiter an KI heranführen: Wie Sipgate die Technik intern etabliert",
@@ -792,9 +794,9 @@
       "url": "https://t3n.de/news/abhaengig-von-elon-musk-darum-ist-starlink-fuer-die-ukraine-unverzichtbar-1726024/"
     },
     {
-      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
-      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
-      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
+      "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2026 im Vergleich",
+      "teaser": "Wo gibt es den meisten Gratis-Speicher, wo den besten Datenschutz? Wir Cloud-Anbieter getestet und erklären, worauf bei der Auswahl zu achten ist.",
+      "url": "https://www.heise.de/download/specials/Die-10-besten-Cloud-Speicher-3149052"
     },
     {
       "title": "Desinfec't",

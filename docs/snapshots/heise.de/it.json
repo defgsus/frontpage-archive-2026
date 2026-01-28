@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T06:19:49",
+  "timestamp": "2026-01-28T07:17:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,9 +26,41 @@
   ],
   "articles": [
     {
-      "title": "Post-Exploitation-Framework Empire: Tool für Penetrationstests und Red Teaming",
-      "teaser": "Als Open-Source-Framework ist Empire ein wichtiges Werkzeug für Penetrationstests und Red Teaming. So funktioniert der Einsatz von Version 6.1.2.",
+      "title": "Das heise-security-Webinar zu NTLM & Kerberos",
+      "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
+      "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11155968.html"
+    },
+    {
+      "title": "Mit Markdown strukturiert texten: Was Sie wissen müssen",
+      "teaser": "Markdown unterstützt Sie beim fokussierten Arbeiten mit allem, was Text enthält. Wie Sie daraus schöne PDFs und HTML-Dokumente machen, zeigt dieser Workshop.",
+      "url": "https://www.heise.de/ratgeber/Mit-Markdown-strukturiert-texten-Was-Sie-wissen-muessen-11146380.html",
+      "image_title": "Markdown macht Spaß"
+    },
+    {
+      "title": "IT-Vorfall in Forscherfabrik Schorndorf: Käufer wurden zu Telegram umgeleitet",
+      "teaser": "Möglicherweise sind bei einem IT-Vorfall der Forscherfabrik Schorndorf Daten von mehr als 19.000 Kundinnen und Kunden abgeflossen.",
+      "url": "https://www.heise.de/news/IT-Vorfall-in-Forscherfabrik-Schorndorf-Kaeufer-wurden-zu-Telegram-umgeleitet-11156345.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
+    },
+    {
+      "title": "Neu in .NET 10.0 [6]: Generische Erweiterungsblöcke in C# 14.0",
+      "teaser": "Die Erweiterungsblöcke in C# 14.0 dürfen auch generische Typparameter enthalten.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-6-Generische-Erweiterungsbloecke-in-C-14-0-11143426.html",
+      "image_title": "C# als Zeichen"
+    },
+    {
+      "title": "RatgeberMit Markdown strukturiert texten: Was Sie wissen müssen",
+      "url": "https://www.heise.de/ratgeber/Mit-Markdown-strukturiert-texten-Was-Sie-wissen-muessen-11146380.html",
+      "image_title": "Markdown macht Spaß"
+    },
+    {
+      "title": "HintergrundPost-Exploitation-Framework Empire: Tool für Penetrationstests und Red Teaming",
       "url": "https://www.heise.de/hintergrund/Post-Exploitation-Framework-Empire-Tool-fuer-Penetrationstests-und-Red-Teaming-11095450.html"
+    },
+    {
+      "title": "TestsiCloud sichern: Parachute Backup für Mac, iPhone und iPad im Test",
+      "url": "https://www.heise.de/tests/iCloud-sichern-Parachute-Backup-fuer-Mac-iPhone-und-iPad-im-Test-11146362.html",
+      "image_title": "Parachute Backup"
     },
     {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Intel Core Ultra 300, der große Wurf?",
@@ -47,19 +79,6 @@
       "teaser": "Der auf Sicherheit und Datenschutz setzende Messengerdienst Signal wächst rasant. Das zeigen Downloadcharts mehrerer Länder.",
       "url": "https://www.heise.de/news/Signal-Sicherer-Messenger-fuehrt-Finnlands-Downloadcharts-an-11156137.html",
       "image_title": "Signal-App auf einem Smartphone"
-    },
-    {
-      "title": "HintergrundPost-Exploitation-Framework Empire: Tool für Penetrationstests und Red Teaming",
-      "url": "https://www.heise.de/hintergrund/Post-Exploitation-Framework-Empire-Tool-fuer-Penetrationstests-und-Red-Teaming-11095450.html"
-    },
-    {
-      "title": "TestsiCloud sichern: Parachute Backup für Mac, iPhone und iPad im Test",
-      "url": "https://www.heise.de/tests/iCloud-sichern-Parachute-Backup-fuer-Mac-iPhone-und-iPad-im-Test-11146362.html",
-      "image_title": "Parachute Backup"
-    },
-    {
-      "title": "HintergrundStreit um Post-Quantum-TLS: Ist die IETF-Standardisierung leicht zu kapern?",
-      "url": "https://www.heise.de/hintergrund/Streit-um-Post-Quantum-TLS-Ist-die-IETF-Standardisierung-leicht-zu-kapern-11101399.html"
     },
     {
       "title": "Mobilitätsdaten: Deutsche Carsharing-Anbieter fürchten um ihre Existenz",
@@ -132,23 +151,6 @@
       "teaser": "Eine kritische Sicherheitslücke in telnetd der GNU InetUtils erheischt derzeit Aufmerksamkeit. Admins sollten patchen.",
       "url": "https://www.heise.de/news/Kritische-telnetd-Luecke-Patchen-aber-Panik-ist-unbegruendet-11155419.html",
       "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
-      "title": "data2day 2026: Konferenz für Data-Fachleute sucht Vorträge und Workshops",
-      "teaser": "Der Call for Proposals für die 13. Ausgabe der Data-Science-Konferenz ist eröffnet. Bis zum 15. April können Expertinnen und Experten ihre Beiträge einreichen.",
-      "url": "https://www.heise.de/news/data2day-2026-Konferenz-fuer-Data-Fachleute-sucht-Vortraege-und-Workshops-11150871.html",
-      "image_title": "data2day 2026: Vorträge zur dreizehnten Ausgabe der Data-Science-Konferenz gesucht"
-    },
-    {
-      "title": "SoundCloud-Hack: HIBP-Datenbank nimmt Daten von 30 Millionen Accounts auf",
-      "teaser": "Beim Have-I-Been-Pwned-Dienst können Nutzer nun prüfen, ob sie von der Cyberattacke auf SoundCloud von Ende 2025 betroffen sind.",
-      "url": "https://www.heise.de/news/SoundCloud-Hack-30-Millionen-Accounts-betroffen-Daten-nun-in-HIBP-Datenbank-11155319.html"
-    },
-    {
-      "title": "Microsoft Entra aktiviert im März Passkey-Profile für alle",
-      "teaser": "Microsoft kündigt an, im März beim Entra-ID-Dienst automatisch Passkey-Profile zu aktivieren. Die Konfiguration soll einfach sein.",
-      "url": "https://www.heise.de/news/Microsoft-Entra-Automatische-Aktivierung-von-Passkey-Profilen-im-Maerz-11155279.html",
-      "image_title": "Digitale Identitäten auf einem Tablet, darüber ein Schloss in dem ein Gesicht steckt (Symbolbild)"
     },
     {
       "title": "NewsWLAN mit 1 Kilometer Reichweite: Neuer Wi-Fi-HaLow-Router von GL.iNet",
