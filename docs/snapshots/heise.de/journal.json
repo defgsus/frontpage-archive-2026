@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T04:03:30",
+  "timestamp": "2026-01-28T05:19:57",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Mittwoch: Aus für Amazon Go und Fresh, Kinder-Prozess gegen Facebook und YouTube",
+      "teaser": "Amazon schließt Supermärkte + Leid durch Soziale Netze + Cookies für Schulkinder untersagt + Kritik am digitalen Omnibus + Bit-Rauschen zu Intels Panther Lake",
+      "url": "https://www.heise.de/news/Mittwoch-Aus-fuer-Amazon-Go-und-Fresh-Kinder-Prozess-gegen-Facebook-und-YouTube-11156337.html",
+      "image_title": "Katze lugt aus Amazon-Schachtel; Mittwoch: Amazon-Schließungen, Social-Media-Folgen, Schulkinder-Cookies, EU-Omnibus-Widerstand & Bit-Rauschen"
+    },
+    {
       "title": "Zahlen, bitte! Bis 12 zählen auf Grönländisch",
       "teaser": "Während manch Präsident meint, dass Grönland nur ein großes Stück Eis sei, zeigt es sich beim genaueren Hinsehen kulturell vielfältig, inklusive eigener Zahlen.",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Bis-12-zaehlen-auf-Groenlaendisch-11155334.html",
@@ -44,12 +50,6 @@
       "image_title": "Software Testing: KI-gestützte Testfallermittlung"
     },
     {
-      "title": "Virtual TerminalsEpochaler Wandel bei Textkonsolen von Linux im Werden",
-      "teaser": "Bessere Sicherheit, weniger Altlasten und neue Features: Das verspricht ein Wechsel bei der Technik für Virtual Terminals (VTs).",
-      "url": "https://www.heise.de/news/Epochaler-Wandel-bei-Textkonsolen-von-Linux-im-Werden-11155044.html",
-      "image_title": "Neue Kmscon vor Tux"
-    },
-    {
       "title": "RatgeberSolaranlagen im Winter: Warum Kälte gut und Schnee oft kein Problem ist",
       "url": "https://www.heise.de/ratgeber/Solaranlagen-im-Winter-Warum-Kaelte-gut-und-Schnee-oft-kein-Problem-ist-11135628.html",
       "image_title": "Solarzellen im Winter"
@@ -62,6 +62,12 @@
     {
       "title": "RatgeberWärmepumpe mit einem Klick: Was hinter Angeboten von Ikea, Obi und Toom steckt",
       "url": "https://www.heise.de/ratgeber/Waermepumpe-mit-einem-Klick-Was-hinter-Angeboten-von-Ikea-Obi-und-Toom-steckt-11141632.html"
+    },
+    {
+      "title": "Epochaler Wandel bei Textkonsolen von Linux im Werden",
+      "teaser": "Bessere Sicherheit, Altlasten loswerden und neue Features: Das verspricht ein sich anbahnender Wechsel bei der Technik für Virtual Terminals (VTs) von Linux.",
+      "url": "https://www.heise.de/news/Epochaler-Wandel-bei-Textkonsolen-von-Linux-im-Werden-11155044.html",
+      "image_title": "Neue Kmscon vor Tux"
     },
     {
       "title": "Dienstag: EU stuft WhatsApp neu ein, CCC kritisiert Bundesjustizministerium",
@@ -142,19 +148,13 @@
       "image_title": "Fertigungsmitarbeiter hält Prozessor in der Hand; Freitag: Intel-Verluste, TikTok-Verkauf, Tesla-Robotaxis, Kernfusion-Investoren & Datenschutz-Podcast"
     },
     {
-      "title": "Auslegungssache 151: Datenschutz vor Gericht",
-      "teaser": "Im c't-Datenschutz-Podcast erklärt Verwaltungsrichterin Kristin Benedikt, wie Datenschutz am Gericht eingehalten wird, und wo Probleme in der Praxis entstehen.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-151-Datenschutz-vor-Gericht-11150700.html",
-      "image_title": "Kristin Benedikt (links), Joerg Heidrich (rechts), Holger Bleich (unten)"
-    },
-    {
       "title": "NewsWLAN mit 1 Kilometer Reichweite: Neuer Wi-Fi-HaLow-Router von GL.iNet",
       "url": "https://www.heise.de/news/WLAN-mit-1-Kilometer-Reichweite-Neuer-Wi-Fi-HaLow-Router-von-GL-iNet-11152889.html"
     },
     {
-      "title": "NewsGlasfaser-Strategiewechsel der Telekom: Auf dem Land ist die Action",
-      "url": "https://www.heise.de/news/Glasfaser-Strategiewechsel-der-Telekom-Auf-dem-Land-ist-die-Action-11152650.html",
-      "image_title": "Deutschlandschef Rodrigo Diehl auf dem „Netzetag“ der Telekom am Donnerstag in Berlin"
+      "title": "AlertNewsNotfall-Update gegen Zeroday in Microsoft Office",
+      "url": "https://www.heise.de/news/Notfall-Update-gegen-Zeroday-in-Microsoft-Office-11154976.html",
+      "image_title": "Gelbes Warndreieck schwebt vor Quelltext auf dunkelblauem Hintergrund"
     },
     {
       "title": "NewsBombardier Global 8000: Schnellster ziviler Jet erhält europäische Zulassung",
@@ -162,13 +162,18 @@
       "image_title": "Bombardier Global 8000 in der Luft."
     },
     {
-      "title": "NewsBitLocker: Microsoft gibt Schlüssel an Strafverfolger heraus",
-      "url": "https://www.heise.de/news/Microsoft-gibt-BitLocker-Schluessel-an-Strafverfolgungsbehoerden-11152988.html",
-      "image_title": "Ransomware auf einem Rechner"
+      "title": "HintergrundVernetzte Fernseher vor Gericht: Open Source Code muss nicht installierbar sein",
+      "url": "https://www.heise.de/hintergrund/TV-Software-Gericht-stiftet-Verwirrung-um-Open-Source-11153843.html",
+      "image_title": "Pinguin, gerade aus dem Wasser auf einen Felsen gehüpft, streckt seine Flügel aus"
     },
     {
       "title": "RatgeberTschüss Big Tech: Acht sichere E-Mail-Alternativen aus Europa im Vergleich",
       "url": "https://www.heise.de/ratgeber/Tschuess-Big-Tech-Acht-sichere-E-Mail-Alternativen-aus-Europa-im-Vergleich-10750420.html"
+    },
+    {
+      "title": "RatgeberSo bauen Sie den erfolgreichen norwegischen Pensionsfonds nach",
+      "url": "https://www.heise.de/ratgeber/So-bauen-Sie-den-erfolgreichen-norwegischen-Pensionsfonds-nach-11058760.html",
+      "image_title": "Dinge, die man mit Norwegen in Verbindung bringt"
     },
     {
       "title": "TestsStart Skoda Enyaq RS Dauertest: Wie es ein E-SUV in den Fuhrpark geschafft hat",
@@ -176,14 +181,9 @@
       "image_title": "Skoda Enyaq RS"
     },
     {
-      "title": "HintergrundÜberblick: Aktuelle KI-Coding-Assistenten für die Softwareentwicklung einsetzen",
-      "url": "https://www.heise.de/hintergrund/Ueberblick-Aktuelle-KI-Coding-Assistenten-fuer-die-Softwareentwicklung-einsetzen-11135999.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberSo bauen Sie den erfolgreichen norwegischen Pensionsfonds nach",
-      "url": "https://www.heise.de/ratgeber/So-bauen-Sie-den-erfolgreichen-norwegischen-Pensionsfonds-nach-11058760.html",
-      "image_title": "Dinge, die man mit Norwegen in Verbindung bringt"
+      "title": "HintergrundSmart Meter: Warum die Probleme oft erst nach der Installation beginnen",
+      "url": "https://www.heise.de/hintergrund/Smart-Meter-Warum-die-Probleme-oft-erst-nach-der-Installation-beginnen-11139456.html",
+      "image_title": "Smart-Meter-Einbau"
     }
   ]
 }
