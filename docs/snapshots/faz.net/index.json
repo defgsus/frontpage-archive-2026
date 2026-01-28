@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-28T14:20:16",
+  "timestamp": "2026-01-28T15:21:47",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -49,6 +49,12 @@
     },
     {
       "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
@@ -62,9 +68,21 @@
   ],
   "articles": [
     {
-      "title": "FAZ+Doomsday Clock 2026: Nur noch 85 Sekunden bis Mitternacht",
-      "teaser": "Weil die Großmächte immer aggressiver und nationalistischer werden, sehen Forscher die Welt einer Katastrophe so nah wie nie zuvor. Welche Ereignisse haben sie zu dieser Warnung veranlasst? Und gibt es überhaupt noch Hoffnung?",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/doomsday-clock-warum-forscher-die-welt-so-nah-an-der-katastrophe-sehen-wie-nie-zuvor-200461826.html"
+      "title": "Autobranche: 30 Modelle gegen den Abstieg",
+      "teaser": "Mit einer Flut neuer Autos will der VW-Konzern in der Volksrepublik wieder mehr Kunden gewinnen - darunter auch eine Limousine für umgerechnet nur 14.000 Euro. Aber eine schnelle Erfolgswende ist nicht in Sicht.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/volkswagen-kaempft-mit-30-neuen-modellen-um-marktanteile-in-china-110826790.html",
+      "image_url": "https://media0.faz.net/image/w1200/10f9ce6bf0f7/w3000h1687x0y156/202512/43601.0.1583511331/der-neue-preisbrecher-von-vw.webp",
+      "image_title": "Der neue Preisbrecher von VW in China: Das Modell ID.Aura soll in der Preisklasse um 14.000 Euro antreten"
+    },
+    {
+      "title": "FAZ+Konkurrenz mit China: Darum verzichtet Brüssel bei chinesischen E-Autos auf Zölle",
+      "teaser": "Die EU und China haben einen Kompromiss gefunden, um Zölle zu vermeiden, ohne die eigenen Automobilindustrien zu schwächen. Ein Wegbereiter für die Chinesen war ausgerechnet Volkswagen.",
+      "url": "https://www.faz.net/pro/weltwirtschaft/weltwissen/wieso-die-eu-bei-chinesischen-e-autos-auf-zoelle-verzichtet-accg-200457832.html"
+    },
+    {
+      "title": "Autonomes Fahren: Wie Hamburg zur Hauptstadt für Robotaxis werden will",
+      "teaser": "Die Hansestadt startet ein weiteres Projekt zum autonomen Fahren. Die Hoffnungen sind groß, gleichzeitig gibt es viele offene Fragen – von der Datensicherheit bis zur Weltpolitik.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-hamburg-zur-hauptstadt-fuer-robotaxis-werden-will-accg-110826209.html"
     },
     {
       "title": "Ministerpräsident der CDU: Chemnitzer Universität erkennt Mario Voigt den Doktorgrad ab",
@@ -74,11 +92,25 @@
       "image_title": "Mario Voigt im Dezember 2025"
     },
     {
-      "title": "Verdacht der Geldwäsche: BKA durchsucht Zentrale der Deutschen Bank in Frankfurt",
-      "teaser": "Das Bundeskriminalamt hat am Mittwoch die Geschäftsräume des größten deutschen Geldinstituts durchsucht. Es geht um den Verdacht der Geldwäsche.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/verdacht-der-geldwaesche-bka-durchsucht-zentrale-der-deutschen-bank-in-frankfurt-200483336.html",
-      "image_url": "https://media0.faz.net/image/w730/a43a8162554a/w6851h3854x0y0/202601/43601.0.1710594457/zentrale-der-deutschen-bank.webp",
-      "image_title": "Zentrale der Deutschen Bank Ende Januar in Frankfurt"
+      "title": "Blutbad In Iran: Dann drangen Regimekräfte in das Krankenhaus ein",
+      "teaser": "Ein Teheraner Arzt berichtet über Festnahmen in seiner Klinik. Viele Mediziner in Iran haben Demonstranten anonym behandelt. Dafür sollen sie jetzt bestraft werden.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/proteste-aerzte-in-iran-geraten-ins-visier-der-justiz-110826218.html",
+      "image_url": "https://media0.faz.net/image/w730/d876537919c2/w3000h1687x0y31/012026/1.10826217/iraner-am-9-januar-bei-einem.webp",
+      "image_title": "Iraner am 9. Januar bei einem Protest gegen die Regierung in Teheran"
+    },
+    {
+      "title": "Niederlande: Manchmal will Jetten auch rechte Mehrheiten finden",
+      "teaser": "In den Niederlanden haben sich drei Parteien auf eine Minderheitsregierung verständigt. Für Gesetze braucht sie weitere Partner. Einer bietet sich schon an.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/niederlande-jetten-will-mit-wechselnden-mehrheiten-regieren-110826768.html",
+      "image_url": "https://media0.faz.net/image/w730/bd9ee548cb40/w3000h1688x0y156/012026/1.10826767/einig-in-den-haag-der-cda-chef.webp",
+      "image_title": "Einig in Den Haag: Der CDA-Chef Henri Bontenbal , die VVD-Vorsitzende Dilan Yeşilgöz-Zegerius und D66-Chef Rob Jetten"
+    },
+    {
+      "title": "Randale in Magdeburg: Mit Gullydeckel und Gehwegplatten auf Polizisten",
+      "teaser": "70 Polizisten sollen bei den Ausschreitungen rund um das Zweitligaspiel zwischen Magdeburg und Dresden verletzt worden sein. Die Deutsche Polizeigewerkschaft fordert nun „mindestens ein Jahr“ Geisterspiele in Magdeburg und Dresden.",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/stadionverbot-nach-ausschreitungen-bei-fussballspiel-in-magdeburg-gefordert-110826774.html",
+      "image_url": "https://media0.faz.net/image/w730/7477b2334c93/w3000h1688x0y156/012026/1.10826773/gewaltausbruch-im-stadion.webp",
+      "image_title": "Gewaltausbruch: Im Stadion beginnt die Lage zu eskalieren"
     },
     {
       "title": "World Gold Council: Rekordnachfrage bei deutschen Anlegern nach Gold",
@@ -88,32 +120,17 @@
       "image_title": "Gold bleibt begehrt."
     },
     {
-      "title": "Boomendes Nachbarland: Zieht Polen an Frankreich vorbei?",
-      "teaser": "Polens Wirtschaft boomt und wird für Deutschland immer wichtiger. Alte Handelspartner haben das Nachsehen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/boomendes-nachbarland-zieht-polen-an-frankreich-vorbei-110826235.html",
-      "image_url": "https://media0.faz.net/image/w730/1b3f5035694e/w3000h1688x0y244/012026/1.10826232/aufstrebendes-warschau-polens.webp",
-      "image_title": "Aufstrebendes Warschau: Polens Wirtschaftsleistung wächst und wächst."
+      "title": "FAZ+Doomsday Clock 2026: Nur noch 85 Sekunden bis Mitternacht",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/doomsday-clock-warum-forscher-die-welt-so-nah-an-der-katastrophe-sehen-wie-nie-zuvor-200461826.html",
+      "image_url": "https://media0.faz.net/image/w730/637dba206cf3/w2135h1201x399y0/202601/67c09063-878e-4972-8f75-0d185411b1ee/v5wufhmdd5vi.webp"
     },
     {
-      "title": "FAZ+Datev im Interview: „ChatGPT löst sogar hochkomplexe Steuerberaterprüfungen“",
-      "teaser": "Die KI-Akzeptanz in der Steuerberatung steigt schnell. DATEV-Chef Robert Mayr spricht im Interview über das Ende des Buchhalters, die neue Rolle des Steuerberaters – und warum das komplexe Steuerrecht die KI ausbremst.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/chatgpt-und-datev-robert-mayr-ueber-ki-in-der-steuerberatung-accg-200479638.html",
-      "image_url": "https://media0.faz.net/image/w730/daa66151718c/w5734h3225x0y600/202601/43601.0.1701400397/robert-mayr-datev-eg-spricht.webp",
-      "image_title": "Robert Mayr (DATEV eG) spricht über KI in der Steuerberatung im Januar 2026 in Nürnberg."
-    },
-    {
-      "title": "Krisenvorsorge: Vorbereitet sein für den Ernstfall",
-      "teaser": "Was würde im eigenen Unternehmen los sein, wenn wir eines Tages im Krieg wären? Man mag sich das gar nicht vorstellen. Aber es wäre gut, das Bewusstsein zu schärfen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/krisenvorsorge-fuer-unternehmen-sollte-auch-den-kriegsfall-umfassen-110818888.html",
-      "image_url": "https://media0.faz.net/image/w730/47a3480a8bbf/w6454h3630x0y665/202503/43601.0.933907342/angetretene-rekruten-auf-einer.webp",
-      "image_title": "Angetretene Rekruten auf einer Kaserne der Bundeswehr: Zur Krisenvorsorge gehört auch die Auseinandersetzung mit Kriegsszenarien."
-    },
-    {
-      "title": "FAZ+Washington will Regimewechsel: Nächster Stopp: Havanna",
-      "teaser": "Washington schneidet Kuba vom Erdöl ab und bringt den Inselstaat an seine Belastungsgrenze. Die Trump-Regierung setzt auf einen Regimewechsel – wohl binnen eines Jahres.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/nach-venezuela-washington-will-fuehrungswechsel-auf-kuba-accg-110826665.html",
-      "image_url": "https://media0.faz.net/image/w920/12992fe83e7e/w3000h1688x0y71/012026/1.10826663/die-kubanische-fuehrung-in-der.webp",
-      "image_title": "Die kubanische Führung, in der Mitte Präsident Miguel Díaz-Canel, am Dienstag bei einem Fackelmarsch in Havanna"
+      "title": "Fake-News-Vorwurf: Fico will Trump doch nicht „gefährlich“ finden",
+      "teaser": "Der slowakische Regierungschef soll sich nach einem Treffen mit Trump „erschüttert“ über dessen „psychischen Zustand“ gezeigt haben. Fico dementiert den Bericht.",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/fico-nach-trump-besuch-politico-luegt-110826731.html",
+      "image_url": "https://media0.faz.net/image/w920/01a76e0eb927/w2726h1534x28y227/012026/1.10826730/ist-empoert-ueber-politico.webp",
+      "image_title": "Ist empört über Politico-Bericht: der slowakische Ministerpräsident Robert Fico"
     },
     {
       "title": "Doku über Melania Trump: Die First Lady lässt eiskalt bitten",
@@ -138,6 +155,13 @@
       "title": "Liveblog USA unter Trump: Trump droht Iran: Der nächste Angriff wird viel schlimmer sein",
       "teaser": "US-Präsident: Eine größere Flotte auf dem Weg nach Iran als im Fall von Venezuela +++ Carney widerspricht Washington: Habe Aussagen nicht zurückgenommen +++ Trump nennt Tod Prettis „unglücklichen Vorfall“+++ alle Neuigkeiten im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveblog-usa-unter-trump-trump-droht-iran-der-naechste-angriff-wird-viel-schlimmer-sein-faz-19444916.html"
+    },
+    {
+      "title": "Krisenvorsorge: Vorbereitet sein für den Ernstfall",
+      "teaser": "Was würde im eigenen Unternehmen los sein, wenn wir eines Tages im Krieg wären? Man mag sich das gar nicht vorstellen. Aber es wäre gut, das Bewusstsein zu schärfen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/krisenvorsorge-fuer-unternehmen-sollte-auch-den-kriegsfall-umfassen-110818888.html",
+      "image_url": "https://media0.faz.net/image/w100/85ef7c9c9e0e/w445h445x293y85/201801/1.5348347/susanne-preuss.webp",
+      "image_title": "Susanne Preuß, Hamburg"
     },
     {
       "title": "Sachsen-Anhalt: Schulze auf dem sinkenden Schiff",
@@ -203,16 +227,9 @@
       "image_title": "Dietrich Creutzburg"
     },
     {
-      "title": "ICE-Einsatz in Minneapolis: Trump beugt sich der Stimmung",
-      "teaser": "Der Rückzieher des Präsidenten in Minneapolis zeigt, dass seine autoritäre Politik durchaus Grenzen hat. Die öffentliche Debatte bleibt ein Korrektiv, ebenso wie Wahlen.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/in-minneapolis-beugt-sich-trump-der-stimmung-110826327.html",
-      "image_url": "https://media0.faz.net/image/w100/be1bd9113910/w328h328x419y144/201905/1.6185113/nikolas-busse.webp",
-      "image_title": "Nikolas Busse"
-    },
-    {
-      "title": "Krieg in der Ukraine: Kreml-Berater: Lehnen Treffen zwischen Selenskyj und Putin nicht grundsätzlich ab",
-      "teaser": "Trump will wohl direkte Gespräche zwischen Kiew und Moskau +++ Gespräche zwischen Russland, der Ukraine und den USA werden am Sonntag fortgesetzt +++Vier Tote nach russischem Drohnenangriff auf Passagierzug in Charkiw +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-offenbar-zu-treffen-mit-putin-bereit-faz-110683325.html"
+      "title": "Verdacht der Geldwäsche: BKA durchsucht Zentrale der Deutschen Bank in Frankfurt",
+      "teaser": "Das Bundeskriminalamt hat am Mittwoch die Geschäftsräume des größten deutschen Geldinstituts durchsucht. Es geht um den Verdacht der Geldwäsche.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/verdacht-der-geldwaesche-bka-durchsucht-zentrale-der-deutschen-bank-in-frankfurt-200483336.html"
     },
     {
       "title": "Cold Case in Düsseldorf: Tatverdächtiger im Fall Deborah Sassen im Fokus der Ermittler",
@@ -225,9 +242,9 @@
       "url": "https://www.faz.net/aktuell/politik/inland/deutschland-blog-tova-friedman-jetzt-ist-ihre-chance-ihr-land-zurueckzugewinnen-faz-110093143.html"
     },
     {
-      "title": "Tödliche ICE-Einsätze: „Wir sprechen hier von Morden“",
-      "teaser": "Die französischen NBA-Profis Victor Wembanyama und Guerschon Yabusele halten sich nicht an die Vorgaben der PR-Abteilung. Sie äußern sich schockiert über die tödlichen ICE-Einsätze in den USA.",
-      "url": "https://www.faz.net/aktuell/sport/sportpolitik/nba-star-wembanyama-ueber-ice-einsaetze-wir-sprechen-von-morden-200483244.html"
+      "title": "Prozess in Halle: Partnerin angezündet – Mann zu sieben Jahren und sechs Monaten Haft verurteilt",
+      "teaser": "Die Frau war wenige Tage nach der Tat an ihren schweren Verletzungen gestorben. Das Gericht sah es als erwiesen an, dass der 45-Jährige seine Frau „in der körperlichen Unversehrtheit“ verletzen wollte.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/halle-partnerin-angezuendet-mann-zu-haft-verurteilt-200483782.html"
     },
     {
       "title": "Frankfurt gegen Tottenham: Kolo Muani und ein Wiedersehen ohne Freude",
@@ -237,30 +254,30 @@
       "image_title": "In England bisher glücklos: Randal Kolo Muani trifft für Tottenham, steht aber im Abseits."
     },
     {
-      "title": "Der Drink meines Lebens: Ein eiskalter Schluck Freiheit",
-      "teaser": "Es braucht nur einen Schluck, dann ist unsere Autorin wieder im Jahr 2016 und auf den unendlichen Highways in Neuseeland: Frozen Coke schmeckt für sie nach Feierabend – und dem Gefühl, endlich erwachsen zu sein.",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/der-drink-meines-lebens-frozen-coke-in-neuseeland-200431499.html",
-      "image_url": "https://media0.faz.net/image/w920/33473f9b620b/w4789h2694x0y250/202601/43601.0.1666590489/der-highway-80-mit-blick-auf.webp",
-      "image_title": "Der Highway 80 mit Blick auf den Mount Cook"
+      "title": "BH-Girlande über Hollywood-„H“: Sydney Sweeney will noch mehr Aufmerksamkeit (und Geld)",
+      "teaser": "Mit viel Haut erregt Schauspielerin Sydney Sweeney auf dem roten Teppich routiniert Aufmerksamkeit. Nun spannt sie für eine Guerilla-Werbeaction den Hollywood-Schriftzug ein. Das gefiel nicht jedem.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sydney-sweeney-will-noch-mehr-aufmerksamkeit-und-geld-110826726.html",
+      "image_url": "https://media0.faz.net/image/w920/340190be1bb1/w536h302x27y56/012026/1.10826723/werbe-stunt-sydney-sweeney.webp",
+      "image_title": "Werbe-Stunt: Sydney Sweeney bringt eine BH-Girlande überm Hollywood-Sign an."
     },
     {
-      "title": "FAZ+Von Clawdbot zu Moltbot: Moltbot: Der Assistent, der nie schläft",
-      "teaser": "Ein Wiener Entwickler baut einen KI-Agenten, der auf dem eigenen Rechner läuft. Dann zwingen ihn Anthropics Anwälte zur Umbenennung. Krypto-Betrüger schlagen zu. Und Sicherheitsforscher finden Hunderte offene Instanzen.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/von-clawdbot-zu-moltbot-der-assistent-der-nie-schlaeft-accg-200479136.html",
-      "image_url": "https://media0.faz.net/image/w920/fc341e1c088e/w697h392x198y0/202601/43601.0.1707503122/moltbot-vormals-clawdbot-zeigt.webp",
-      "image_title": "Moltbot (vormals Clawdbot) zeigt, warum lokale KI-Assistenten zur nächsten Plattformentscheidung werden."
+      "title": "FAZ+Gadget: NotebookLM und Gemini: Die persönliche KI-Wissenszentrale",
+      "teaser": "NotebookLM entwickelt sich im Duo mit Gemini zum Universalwerkzeug, um mit KI eigene Wissenssammlungen zu verarbeiten. Das sind die neuen Funktionen.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/gadgets/notebooklm-und-gemini-die-persoenliche-ki-wissenszentrale-accg-200476807.html",
+      "image_url": "https://media0.faz.net/image/w920/db7c4e56905e/w6000h3375x0y1/202601/43601.0.1704375244/google-hat-seine-ki.webp",
+      "image_title": "Google hat seine KI-Anwendungen durch weitere Funktionen ergänzt."
     },
     {
-      "title": "FAZ+ExKlusiv: Digitaler Jobmonitor: Nachfrage nach KI-Jobs beschleunigt sich",
-      "teaser": "Die Stellenausschreibungen für Digitalexperten laufen seit 2023 auseinander. KI-Profile explodieren, während Robotik und Industrie 4.0 zurückfallen.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/stellenausschreibung-ki-jobs-boomen-in-deutschland-accg-200480195.html",
-      "image_url": "https://media0.faz.net/image/w730/977d9d2963ff/w5619h3161x0y374/202601/43601.0.1707200723/waehrend-das-team-im-buero.webp",
-      "image_title": "Während das Team im Büro noch über Strategie spricht, hat der Stellenmarkt die Entscheidung längst zugunsten der KI getroffen."
+      "title": "FAZ+Datev im Interview: „ChatGPT löst sogar hochkomplexe Steuerberaterprüfungen“",
+      "teaser": "Die KI-Akzeptanz in der Steuerberatung steigt schnell. DATEV-Chef Robert Mayr spricht im Interview über das Ende des Buchhalters, die neue Rolle des Steuerberaters – und warum das komplexe Steuerrecht die KI ausbremst.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/chatgpt-und-datev-robert-mayr-ueber-ki-in-der-steuerberatung-accg-200479638.html",
+      "image_url": "https://media0.faz.net/image/w730/daa66151718c/w5734h3225x0y600/202601/43601.0.1701400397/robert-mayr-datev-eg-spricht.webp",
+      "image_title": "Robert Mayr (DATEV eG) spricht über KI in der Steuerberatung im Januar 2026 in Nürnberg."
     },
     {
-      "title": "FAZ+ExKlusiv: Digitaler Jobmonitor: Nachfrage nach KI-Jobs beschleunigt sich",
-      "teaser": "Die Stellenausschreibungen für Digitalexperten laufen seit 2023 auseinander. KI-Profile explodieren, während Robotik und Industrie 4.0 zurückfallen.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/stellenausschreibung-ki-jobs-boomen-in-deutschland-accg-200480195.html"
+      "title": "FAZ+Datev im Interview: „ChatGPT löst sogar hochkomplexe Steuerberaterprüfungen“",
+      "teaser": "Die KI-Akzeptanz in der Steuerberatung steigt schnell. DATEV-Chef Robert Mayr spricht im Interview über das Ende des Buchhalters, die neue Rolle des Steuerberaters – und warum das komplexe Steuerrecht die KI ausbremst.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/chatgpt-und-datev-robert-mayr-ueber-ki-in-der-steuerberatung-accg-200479638.html"
     },
     {
       "title": "Das Quanten-Dilemma: Bitcoin steht vor einer kulturellen Zerreißprobe",
@@ -322,10 +339,17 @@
       "image_title": "AP"
     },
     {
+      "title": "FAZ+F.A.Z. Einspruch Podcast: Millionenurteil im Streit zwischen Bushido und Arafat Abou-Chaker",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-einspruch-podcast/millionenurteil-im-streit-zwischen-bushido-und-arafat-abou-chaker-200482939.html",
+      "image_url": "https://media0.faz.net/image/w920/8705760d4d7a/w1514h648x0y218/202601/43601.0.1687302007/damals-noch-unzertrennlich.webp",
+      "image_title": "Damals noch unzertrennlich: Rapper Bushido mit seinem Freund und Geschäftspartner Arafat Abou-Chaker bei der Premiere seines Films „Zeiten ändern dich“"
+    },
+    {
       "title": "FAZ+F.A.Z. Frühdenker: Wächst die deutsche Wirtschaft doch weniger als erwartet?",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/warum-deutschlands-wirtschaft-nicht-so-stark-waechst-wie-erwartet-faz-fruehdenker-200481181.html",
-      "image_url": "https://media0.faz.net/image/w920/5594ca20bc51/w3000h1285x0y119/202601/43601.0.1705790857/container-liegen-im-hafen-von.webp",
+      "image_url": "https://media0.faz.net/image/w730/e16a818f43b5/w3000h1687x0y63/202601/43601.0.1705790857/container-liegen-im-hafen-von.webp",
       "image_title": "Container liegen im Hafen von Bremen."
     },
     {
@@ -333,13 +357,6 @@
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/nato-am-wendepunkt-carlo-masala-ueber-neue-weltordnung-200480463.html",
       "image_url": "https://media0.faz.net/image/w730/c76b0e2fbc94/w2556h1438x0y145/202601/43601.0.1707137737/4360101707137737.webp"
-    },
-    {
-      "title": "Rhein-Main-Feierabendbriefing: Ausbildung von Psychotherapeuten in Gefahr",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/psychotherapeuten-regel-zur-weiterbildung-schreckt-nachwuchs-ab-200480595.html",
-      "image_url": "https://media0.faz.net/image/w730/98be71f38c87/w3000h1687x0y117/202412/43601.0.764056385/hier-warten-viele-auf-termine.webp",
-      "image_title": "Hier warten viele auf Termine: Eingangsschild einer Therapie-Praxis"
     },
     {
       "title": "Wahl im Landtag: Sven Schulze ist Sachsen-Anhalts neuer Ministerpräsident",
@@ -370,11 +387,25 @@
       "image_title": "Aufnahme des ukrainischen Katastrophenschutzes: Löscharbeiten am Passagierzug"
     },
     {
+      "title": "Kunden brauchen Chipmaschinen: KI-Boom beschert ASML rekordhohe Aufträge",
+      "teaser": "Der Hersteller von Chipmaschinen erhält so viel Aufträge wie nie. Hauptgrund: die Künstliche Intelligenz. Trotz aller Rekorde trennt sich ASML von Führungskräften. Sie hindern Ingenieure an der Arbeit.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-orderbuch-quillt-ueber-bei-asml-110826733.html",
+      "image_url": "https://media0.faz.net/image/w1200/1481efbbf396/w3000h1687x0y156/202601/43601.0.1709163660/asml-logo-an-der-zentrale-in.webp",
+      "image_title": "ASML-Logo an der Zentrale in Veldhoven"
+    },
+    {
       "title": "Chemiekrise: Wacker Chemie weist Rekordverlust aus",
       "teaser": "Vorstandschef Hartel fordert von der Politik niedrigere Energiepreise und einen konsequenten Bürokratieabbau. Das Unternehmen streicht fast jeden zehnten Arbeitsplatz.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wacker-chemie-weist-rekordverlust-aus-110826721.html",
-      "image_url": "https://media0.faz.net/image/w1200/7e8cc816e95b/w3000h1687x0y139/202601/43601.0.1709072164/eine-schautafel-mit-der.webp",
+      "image_url": "https://media0.faz.net/image/w730/7e8cc816e95b/w3000h1687x0y139/202601/43601.0.1709072164/eine-schautafel-mit-der.webp",
       "image_title": "Eine Schautafel mit der Aufschrift „Wacker“ steht vor einer Anlage auf dem Gelände der Wacker Chemie Nünchritz."
+    },
+    {
+      "title": "Boomendes Nachbarland: Zieht Polen an Frankreich vorbei?",
+      "teaser": "Polens Wirtschaft boomt und wird für Deutschland immer wichtiger. Alte Handelspartner haben das Nachsehen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/boomendes-nachbarland-zieht-polen-an-frankreich-vorbei-110826235.html",
+      "image_url": "https://media0.faz.net/image/w730/1b3f5035694e/w3000h1688x0y244/012026/1.10826232/aufstrebendes-warschau-polens.webp",
+      "image_title": "Aufstrebendes Warschau: Polens Wirtschaftsleistung wächst und wächst."
     },
     {
       "title": "Höchstrichterliches Urteil: Bundesgerichtshof untersagt Untervermietung mit Gewinn",
@@ -384,20 +415,6 @@
       "image_title": "Begehrtes Gut: bezugsfertige Wohnräume in Frankfurt am Main"
     },
     {
-      "title": "Fokus auf KI: Amazon streicht weitere 16.000 Stellen",
-      "teaser": "Innerhalb von nur drei Monaten kündigt Amazon eine zweite Entlassungswelle an: 16.000 Stellen sollen in der Verwaltung gestrichen werden. Der Konzern begründet das auch mit KI.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/ki-amazon-streicht-weitere-16-000-stellen-accg-200483144.html",
-      "image_url": "https://media0.faz.net/image/w730/0709ca41a4b2/w3000h1687x0y211/202512/43601.0.1570766201/das-logo-von-amazon-ist-am.webp",
-      "image_title": "Das Logo von Amazon ist am Verwaltungssitz in München zu sehen."
-    },
-    {
-      "title": "ÖPNV und Logistik am Limit: Immer mehr Fahrer für Lastwagen und Busse fehlen",
-      "teaser": "Jeder dritte Lenker von Lkw oder Bussen ist schon älter als 55 Jahre. Die Logistikbranche warnt vor noch gravierenderen Engpässen. Kann die Digitalisierung helfen - etwa in der Ausbildung neuer Fahrer?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/verbaende-schlagen-alarm-durch-fahrermangel-drohen-gravierende-engpaesse-accg-110826668.html",
-      "image_url": "https://media0.faz.net/image/w730/954884e65cb4/w3000h1687x0y137/202410/43601.0.655859564/nicht-nur-lastwagenfahrer.webp",
-      "image_title": "Nicht nur Lastwagenfahrer fehlen, auch Busfahrer finden sich zu wenig."
-    },
-    {
       "title": "FAZ+Pinterest: Von jungen Frauen geliebt, von KI optimiert",
       "teaser": "Pinterest gewinnt weltweit Nutzer, KI optimiert Werbung und Suche. Die Plattform wird zur Verkaufsmaschine – gleichzeitig müssen knapp 15 Prozent der Belegschaft gehen.",
       "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/pinterest-von-jungen-frauen-geliebt-von-ki-optimiert-200482123.html",
@@ -405,24 +422,31 @@
       "image_title": "Knapp 30 Prozent der Vierzehn- bis Neunundzwanzigjährigen in Deutschland nutzen Pinterest regelmäßig."
     },
     {
-      "title": "FAZ+Aus der KI-Praxis: KI definiert die Ökonomie der Industrie neu",
-      "teaser": "In der Industrie verschiebt KI die Grenze dessen, was möglich ist. Unternehmen simulieren Prozesse, bevor eine Maschine gebaut wird und entdecken Materialkombinationen, die Menschen kaum systematisch durchrechnen können.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/siemens-und-maschinenbau-wie-ki-prozesse-revolutioniert-accg-200479820.html",
-      "image_url": "https://media0.faz.net/image/w730/fcca207bbcea/w8256h4644x0y430/202410/43601.0.646895544/in-der-produktion.webp",
-      "image_title": "In der Produktion"
+      "title": "FAZ+Von Clawdbot zu Moltbot: Moltbot: Der Assistent, der nie schläft",
+      "teaser": "Ein Wiener Entwickler baut einen KI-Agenten, der auf dem eigenen Rechner läuft. Dann zwingen ihn Anthropics Anwälte zur Umbenennung. Krypto-Betrüger schlagen zu. Und Sicherheitsforscher finden Hunderte offene Instanzen.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/von-clawdbot-zu-moltbot-der-assistent-der-nie-schlaeft-accg-200479136.html",
+      "image_url": "https://media0.faz.net/image/w730/fc341e1c088e/w697h392x198y0/202601/43601.0.1707503122/moltbot-vormals-clawdbot-zeigt.webp",
+      "image_title": "Moltbot (vormals Clawdbot) zeigt, warum lokale KI-Assistenten zur nächsten Plattformentscheidung werden."
     },
     {
-      "title": "FAZ+Digitale Lücke: Zahl der KI-Nutzer am Arbeitsplatz erreicht Plateau",
-      "teaser": "Künstliche Intelligenz wird im Arbeitsalltag von den Profis immer intensiver genutzt, aber sie dringt nicht automatisch in die Breite vor. Nach drei Jahren rasantem Wachstum scheint ein Plateau erreicht zu sein. Die Folge könnte eine doppelte digitale Lücke sein.",
-      "url": "https://www.faz.net/pro/digitalwirtschaft/kuenstliche-intelligenz/kuenstliche-intelligenz-am-arbeitsplatz-nutzung-stagniert-accg-200479237.html",
-      "image_url": "https://media0.faz.net/image/w730/db671a9fbd09/w5287h2973x0y545/202310/43600.0.2096656097/hinter-der-glaesernen-fassade.webp",
-      "image_title": "Hinter der gläsernen Fassade bleibt KI für viele Beschäftigte noch Schaufenster statt Werkzeug."
+      "title": "FAZ+ExKlusiv: Digitaler Jobmonitor: Nachfrage nach KI-Jobs beschleunigt sich",
+      "teaser": "Die Stellenausschreibungen für Digitalexperten laufen seit 2023 auseinander. KI-Profile explodieren, während Robotik und Industrie 4.0 zurückfallen.",
+      "url": "https://www.faz.net/pro/digitalwirtschaft/zukunft-der-arbeit/stellenausschreibung-ki-jobs-boomen-in-deutschland-accg-200480195.html",
+      "image_url": "https://media0.faz.net/image/w730/977d9d2963ff/w5619h3161x0y374/202601/43601.0.1707200723/waehrend-das-team-im-buero.webp",
+      "image_title": "Während das Team im Büro noch über Strategie spricht, hat der Stellenmarkt die Entscheidung längst zugunsten der KI getroffen."
+    },
+    {
+      "title": "Der Drink meines Lebens: Ein eiskalter Schluck Freiheit",
+      "teaser": "Es braucht nur einen Schluck, dann ist unsere Autorin wieder im Jahr 2016 und auf den unendlichen Highways in Neuseeland: Frozen Coke schmeckt für sie nach Feierabend – und dem Gefühl, endlich erwachsen zu sein.",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/der-drink-meines-lebens-frozen-coke-in-neuseeland-200431499.html",
+      "image_url": "https://media0.faz.net/image/w920/0e0e54d00a9e/w4789h2052x0y570/202601/43601.0.1666590489/der-highway-80-mit-blick-auf.webp",
+      "image_title": "Der Highway 80 mit Blick auf den Mount Cook"
     },
     {
       "title": "FAZ+Einstieg bei der Bundeswehr: So viel verdienen Soldaten",
       "teaser": "Die Bundeswehr zahlt Einsteigern gutes Geld im Vergleich zur freien Wirtschaft. Später wird es weniger attraktiv, in den Streitkräften zu dienen.",
       "url": "https://www.faz.net/aktuell/karriere-hochschule/einstieg-bei-der-bundeswehr-so-viel-verdienen-soldaten-accg-110823410.html",
-      "image_url": "https://media0.faz.net/image/w920/654af2cbfae8/w3000h1285x0y187/202601/43601.0.1704214459/wie-attraktiv-ist-eine.webp",
+      "image_url": "https://media0.faz.net/image/w730/9c57123d0bae/w2951h1660x24y0/202601/43601.0.1704214459/wie-attraktiv-ist-eine.webp",
       "image_title": "Wie attraktiv ist eine Karriere bei der Bundeswehr finanziell?"
     },
     {
@@ -431,13 +455,6 @@
       "url": "https://www.faz.net/aktuell/stil/trends-nischen/dschungelcamp-kolumne-bei-ibes-fragt-ariel-bin-ich-die-einzige-normale-hier-accg-200482165.html",
       "image_url": "https://media0.faz.net/image/w730/b03c2b6e1f72/w1920h1080x0y0/202601/759be927-cf83-4564-8335-3cfa08dfe7a5/ariel-im-dschungeltelefon.webp",
       "image_title": "Ariel im Dschungeltelefon"
-    },
-    {
-      "title": "FAZ+Lehrerin in Rente erzählt: „Aus Sicht vieler Eltern müssten Lehrer dankbar sein, Schüler unterrichten zu dürfen“",
-      "teaser": "40 Jahre hat Luitgard Richter-Eisenberg als Lehrerin gearbeitet. Sie sagt: Heute neigten Eltern dazu, die Schuld bei der Schule zu suchen, wenn etwas nicht laufe – nicht bei den Kindern. Und trotzdem gebe es Fehler im System.",
-      "url": "https://www.faz.net/aktuell/stil/eltern-familie/schulen-in-deutschland-lehrerin-in-rente-kritisiert-wahrnehmung-von-eltern-accg-110823434.html",
-      "image_url": "https://media0.faz.net/image/w730/8eebfa882755/w3000h1687x0y285/202510/43601.0.1384842064/heute-suchen-die-eltern-wenn.webp",
-      "image_title": "„Heute suchen die Eltern, wenn irgendwas nicht läuft, die Schuld bei der Schule“, erzählt die pensionierte Lehrerin Luitgard Richter-Eisenberg (Symbolbild)."
     },
     {
       "title": "US-Notenbank: Wird ein Blackrock-Manager neuer Fed-Chef?",
@@ -454,6 +471,13 @@
       "image_title": "In Großstädten wie Frankfurt ist der Wohnungsmarkt besonders angespannt."
     },
     {
+      "title": "Eurokurs bei 1,20: Dollar fällt auf mehrjähriges Tief",
+      "teaser": "Dem schwachen Dollar gegenüber zeigt sich Trump gleichgültig. Das schwächte die Währung und ließ den Euro die 1,20-Dollar-Marke knacken. Analysten sehen weniger Raum für eine weitere Abwertung.",
+      "url": "https://www.faz.net/aktuell/finanzen/euro-bei-1-20-dollar-welche-auswirkungen-der-schwache-dollar-hat-110826953.html",
+      "image_url": "https://media0.faz.net/image/w730/678aaf56342f/w3000h1687x0y156/202504/43601.0.984294848/der-schwache-dollar-liess-den.webp",
+      "image_title": "Der schwache Dollar ließ den Euro die 1,20-Marke steigen."
+    },
+    {
       "title": "Positioniert in allen Megatrends: Südkorea überholt die deutsche Börse",
       "teaser": "KI, Roboter, Speicherchips – die großen Konzerne in Südkorea mischen in allen wichtigen Zukunftsbranchen mit. Das sorgt für einen beispiellosen Börsenboom. Analysten sehen noch Luft nach oben.",
       "url": "https://www.faz.net/aktuell/finanzen/ki-boom-suedkorea-ueberholt-erstmals-die-deutsche-boerse-200482002.html",
@@ -461,17 +485,17 @@
       "image_title": "Die Präsentation des Roboters „Atlas“ in Las Vegas hat den Kurs von Hyundai Motor angetrieben."
     },
     {
-      "title": "Goldgouverneur Glapiński: So treibt Warschaus Notenbank den Goldpreis",
-      "teaser": "Polens Notenbank ist der größte Goldkäufer der Welt. Unbeirrt von den Preissprüngen hat der Vorstand ein neues Kaufprogramm für das Edelmetall beschlossen.",
-      "url": "https://www.faz.net/aktuell/finanzen/gold-polens-notenbank-ist-der-groesste-goldkaeufer-der-welt-110826220.html",
-      "image_url": "https://media0.faz.net/image/w730/9da84de482bb/w5504h3096x0y347/202601/43601.0.1707212005/adam-glapi-ski-polens.webp",
-      "image_title": "Adam Glapiński, Polens Notenbankgouverneur"
+      "title": "FAZ+Mozartwoche Salzburg: Was erlaubt sich Villazón?",
+      "teaser": "Seit 2019 leitet der Tenor Rolando Villazón erfolgreich die Mozartwoche in Salzburg, aber seine Neuinszenierung der „Zauberflöte“ markiert künstlerisch einen Tiefstand.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/rolando-villazon-inszeniert-zauberfloete-in-salzburg-110826801.html",
+      "image_url": "https://media0.faz.net/image/w1200/eeadebc58415/w3000h1688x0y271/012026/1.10826799/tamino-magnus-dietrich-stuermt.webp",
+      "image_title": "Tamino (Magnus Dietrich) stürmt mit der Flöte voran, Mozart (Vitus Denifl) und Sohn Carl Thomas folgen."
     },
     {
       "title": "FAZ+Richard Beirach gestorben: In der Pandemie wurde er zum Youtube-Professor",
       "teaser": "Er spielte mit den Großen, wurde Solokünstler, Bandleader und Professor: Jetzt ist Richard Beirach, der lange in Leipzig Jazzpiano lehrte, im Alter von 78 Jahren gestorben.",
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/der-jazz-professor-zum-tod-des-pianisten-richard-beirach-110826713.html",
-      "image_url": "https://media0.faz.net/image/w1200/7d3c24da7192/w2438h1371x0y247/202601/0f082ba2-f5e9-4ccf-ba92-8f4704014249/richard-beirach-bei-einem.webp",
+      "image_url": "https://media0.faz.net/image/w730/7d3c24da7192/w2438h1371x0y247/202601/0f082ba2-f5e9-4ccf-ba92-8f4704014249/richard-beirach-bei-einem.webp",
       "image_title": "Richard Beirach bei einem Auftritt in Essen, 2016"
     },
     {
@@ -487,13 +511,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/cezannes-spaetwerk-bei-beyeler-in-basel-zeigt-wie-er-im-alleingang-die-abstraktion-erfand-110825143.html",
       "image_url": "https://media0.faz.net/image/w730/3afc1b301de3/w3147h1770x0y286/202601/574fad8a-8349-4c8b-a6b9-76b0be833a98/zwei-sehr-verschiedene-augen.webp",
       "image_title": "Zwei sehr verschiedene Augen blicken auf die Welt: Cézannes „Portrait de l'artiste à la palette (Selbstbildnis mit Palette)“, um 1890"
-    },
-    {
-      "title": "Film von Simon Verhoeven: Ist es besser, stabile oder seltsame Eltern zu haben?",
-      "teaser": "Die Leiden des jungen Joachim: Simon Verhoeven bringt Meyerhoffs Bestseller „Ach, diese Lücke, diese entsetzliche Lücke“ ins Kino. Mit dabei: seine Mutter Senta Berger.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/ach-diese-luecke-diese-entsetzliche-luecke-simon-verhoeven-bringt-meyerhoff-bestseller-ins-kino-110823996.html",
-      "image_url": "https://media0.faz.net/image/w730/97361cd64c8e/w3000h1688x0y184/042025/1.10823992/bruno-alexander-spielt-den.webp",
-      "image_title": "Bruno Alexander spielt den jungen Mann als ein Rätsel für sich selbst, Senta Berger die Mitbewohnerin: Szene aus „Ach, diese Lücke, diese entsetzliche Lücke“"
     },
     {
       "title": "FAZ+Arbeitszeitgesetz: Wie viel dürfen Anwälte in Großkanzleien arbeiten?",
@@ -516,11 +533,11 @@
       "image_title": "Im Schnitt arbeiten die Deutschen 1,6 Tage in der Woche im Homeoffice"
     },
     {
-      "title": "Spielmacher Juri Knorr: Das Raketen-Rätsel der deutschen Handballer",
-      "teaser": "Juri Knorr sollte das Spiel der Handball-Nationalmannschaft bei der EM gestalten. Doch „gezündet“ haben vor dem wichtigen Spiel gegen Frankreich nur die Kollegen, wenn es darauf ankam. Woran liegt es?",
-      "url": "https://www.faz.net/aktuell/sport/handball-em/juri-knorr-mit-sorgen-vor-frankreich-spiel-bei-handball-em-2026-accg-110826266.html",
-      "image_url": "https://media0.faz.net/image/w1200/098c651683e4/w2254h1268x87y317/012026/1.10826265/vor-dem-wichtigen-spiel-gegen.webp",
-      "image_title": "Vor dem wichtigen Spiel gegen Frankreich versuchen die Kollegen, einen Weg zu finden, damit ihr Spielmacher Juri Knorr nicht allzu geknickt ist."
+      "title": "Tödliche ICE-Einsätze: „Wir sprechen hier von Morden“",
+      "teaser": "Die französischen NBA-Profis Victor Wembanyama und Guerschon Yabusele halten sich nicht an die Vorgaben der PR-Abteilung. Sie äußern sich schockiert über die tödlichen ICE-Einsätze in den USA.",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/nba-star-wembanyama-ueber-ice-einsaetze-wir-sprechen-von-morden-200483244.html",
+      "image_url": "https://media0.faz.net/image/w1200/a2661664e4fa/w6048h3402x0y0/202601/43601.0.1709772853/bezieht-stellung-nba-star.webp",
+      "image_title": "Bezieht Stellung: NBA-Star Victor Wembanyama"
     },
     {
       "title": "„Er war der bessere Spieler“: Djokovic im Halbfinale – dank der Verletzung des Gegners",
@@ -530,6 +547,13 @@
       "image_title": "Trost ist bitter nötig: Lorenzo Musetti (rechts) verpasst das Halbfinale der Australian Open wohl aufgrund einer Verletzung."
     },
     {
+      "title": "Spielmacher Juri Knorr: Das Raketen-Rätsel der deutschen Handballer",
+      "teaser": "Juri Knorr sollte das Spiel der Handball-Nationalmannschaft bei der EM gestalten. Doch „gezündet“ haben vor dem wichtigen Spiel gegen Frankreich nur die Kollegen, wenn es darauf ankam. Woran liegt es?",
+      "url": "https://www.faz.net/aktuell/sport/handball-em/juri-knorr-mit-sorgen-vor-frankreich-spiel-bei-handball-em-2026-accg-110826266.html",
+      "image_url": "https://media0.faz.net/image/w730/098c651683e4/w2254h1268x87y317/012026/1.10826265/vor-dem-wichtigen-spiel-gegen.webp",
+      "image_title": "Vor dem wichtigen Spiel gegen Frankreich versuchen die Kollegen, einen Weg zu finden, damit ihr Spielmacher Juri Knorr nicht allzu geknickt ist."
+    },
+    {
       "title": "Malaysias Fußballverband: Erst ein Einbürgerungsskandal, nun ein geschlossener Rücktritt",
       "teaser": "Nach einer Kontroverse um gefälschte Dokumente gibt es Konsequenzen: Der Vorstand des malaysischen Fußballverbandes tritt zurück. Die FIFA hatte bereits sieben im Ausland geborene Spieler gesperrt.",
       "url": "https://www.faz.net/aktuell/sport/sportpolitik/nach-einbuergerungsskandal-ruecktritte-in-malaysias-fussball-accg-200482061.html",
@@ -537,31 +561,10 @@
       "image_title": "Und tschüss: Kamarudin Hassan (rechts, mit Sporttasche) verabschiedet sich aus der Zentrale des malaysischen Fußballverbandes in Kuala Lumpur."
     },
     {
-      "title": "Unverzichtbarer Klebstoff: „Handball ohne Harz wäre wie Skispringen ohne Ski“",
-      "teaser": "Handballer können nicht ohne es, Hausmeistern in Sporthallen ist es ein Dorn im Auge: Harz. Immer wieder wird über Alternativen diskutiert. Für DHB-Spieler gibt es trotzdem nur ein wahres Haftmittel.",
-      "url": "https://www.faz.net/aktuell/sport/handball-em/handball-em-2026-warum-dhb-spieler-nicht-ohne-harz-auskommen-accg-110825781.html",
-      "image_url": "https://media0.faz.net/image/w730/3847cb8ac5ba/w3201h1801x624y275/202601/43601.0.1706297638/ich-bin-ein-harzjunkie-vor.webp",
-      "image_title": "„Ich bin ein Harzjunkie“: Vor allem die Kreisläufer sind auf das Haftmittel angewiesen."
-    },
-    {
-      "title": "BH-Girlande über Hollywood-„H“: Sydney Sweeney will noch mehr Aufmerksamkeit (und Geld)",
-      "teaser": "Mit viel Haut erregt Schauspielerin Sydney Sweeney auf dem roten Teppich routiniert Aufmerksamkeit. Nun spannt sie für eine Guerilla-Werbeaction den Hollywood-Schriftzug ein. Das gefiel nicht jedem.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sydney-sweeney-will-noch-mehr-aufmerksamkeit-und-geld-110826726.html",
-      "image_url": "https://media0.faz.net/image/w1200/340190be1bb1/w536h302x27y56/012026/1.10826723/werbe-stunt-sydney-sweeney.webp",
-      "image_title": "Werbe-Stunt: Sydney Sweeney bringt eine BH-Girlande überm Hollywood-Sign an."
-    },
-    {
-      "title": "Prozess in Halle: Partnerin angezündet – Mann zu sieben Jahren und sechs Monaten Haft verurteilt",
-      "teaser": "Die Frau war wenige Tage nach der Tat an ihren schweren Verletzungen gestorben. Das Gericht sah es als erwiesen an, dass der 45-Jährige seine Frau „in der körperlichen Unversehrtheit“ verletzen wollte.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/halle-partnerin-angezuendet-mann-zu-haft-verurteilt-200483782.html",
-      "image_url": "https://media0.faz.net/image/w730/889724dd22a5/w3000h1687x0y171/202601/43601.0.1709739013/der-eingang-zum-landgericht.webp",
-      "image_title": "Der Eingang zum Landgericht Halle"
-    },
-    {
       "title": "Neues von den Promis: Nicola Peltz bekommt angeblich eine Million Dollar monatlich von ihrem Vater",
       "teaser": "Über Geld scheint sich die Schauspielerin und Ehefrau von Brooklyn Peltz Beckham keine Sorgen machen zu müssen. Wie durch einen Podcast bekannt wurde, erhält sie von ihrem Vater ein großzügiges Taschengeld.",
       "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/so-viel-taschengeld-bekommt-nicola-peltz-angeblich-von-ihrem-vater-accg-200482908.html",
-      "image_url": "https://media0.faz.net/image/w730/5f680884d988/w4200h2362x0y18/202601/43601.0.1682704731/brooklyn-peltz-beckham-und.webp",
+      "image_url": "https://media0.faz.net/image/w1200/5f680884d988/w4200h2362x0y18/202601/43601.0.1682704731/brooklyn-peltz-beckham-und.webp",
       "image_title": "Brooklyn Peltz Beckham und seine Ehefrau Nicola Peltz"
     },
     {
@@ -572,6 +575,27 @@
       "image_title": "Model Heidi Klum und ihr Vater Günther bei der Bambi-Verleihung am 12.11.2015 in Berlin"
     },
     {
+      "title": "Mehrere Verletzte: Schüsse auf SEK bei Verfolgungsjagd in Mittelfranken",
+      "teaser": "Zwei Männer widersetzen sich einer Festnahme und flüchten mit dem Auto. Auf der Flucht schießen sie auf die Beamten, die sie schließlich stoppen konnten.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schuesse-auf-sek-bei-verfolgungsjagd-in-oberfranken-200481316.html",
+      "image_url": "https://media0.faz.net/image/w730/f49bfbc6564b/w3000h1687x0y77/202601/43601.0.1708002129/insgesamt-sind-fuenf-personen.webp",
+      "image_title": "Insgesamt sind fünf Personen verletzt worden, wie die Polizei mitteilte."
+    },
+    {
+      "title": "Crans-Montana: Gemeindechef bedauert fehlende Entschuldigung",
+      "teaser": "Nach der verpassten Entschuldigung infolge des Brandunglücks in Crans-Montana räumt nun der Gemeindepräsident einen Fehler ein. Seinen Rücktritt schließt er dennoch aus.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/crans-montana-gemeindechef-bedauert-fehlende-entschuldigung-200480966.html",
+      "image_url": "https://media0.faz.net/image/w730/131466782e4f/w3000h1687x0y0/202601/43601.0.1707042760/nicolas-feraud-buergermeister.webp",
+      "image_title": "Nicolas Feraud, Bürgermeister von Crans-Montana"
+    },
+    {
+      "title": "FAZ+Lehrerin in Rente erzählt: „Aus Sicht vieler Eltern müssten Lehrer dankbar sein, Schüler unterrichten zu dürfen“",
+      "teaser": "40 Jahre hat Luitgard Richter-Eisenberg als Lehrerin gearbeitet. Sie sagt: Heute neigten Eltern dazu, die Schuld bei der Schule zu suchen, wenn etwas nicht laufe – nicht bei den Kindern. Und trotzdem gebe es Fehler im System.",
+      "url": "https://www.faz.net/aktuell/stil/eltern-familie/schulen-in-deutschland-lehrerin-in-rente-kritisiert-wahrnehmung-von-eltern-accg-110823434.html",
+      "image_url": "https://media0.faz.net/image/w730/8eebfa882755/w3000h1687x0y285/202510/43601.0.1384842064/heute-suchen-die-eltern-wenn.webp",
+      "image_title": "„Heute suchen die Eltern, wenn irgendwas nicht läuft, die Schuld bei der Schule“, erzählt die pensionierte Lehrerin Luitgard Richter-Eisenberg (Symbolbild)."
+    },
+    {
       "title": "FAZ+Gaja Alteni di Brassica: Mit dem Sauvignon Blanc Richtung Zukunft",
       "teaser": "Das für Barbaresco und Barolo bekannte Weingut Gaja aus dem Piemont überzeugt auch mit seinen Weißweinen: Der Alteni di Brassica ist ein besonderer Sauvignon blanc, weil sich in ihm die Zukunft dieser Weine zeigt.",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/so-schmeckt-der-sauvignon-blanc-alteni-di-brassica-von-gaja-200457361.html",
@@ -579,17 +603,24 @@
       "image_title": "Der neue Weinberg von Gaja liegt auf etwa 650 Meter Höhe in Alta Langa."
     },
     {
-      "title": "Besuch bei Lukas Rönninger: Warum er sein Risotto nicht mit Reis kocht",
-      "teaser": "In seinem Restaurant im fränkischen Iphofen bereitet Lukas Rönniger in einer winzigen Küche 40 Menüs zu – und verrät uns die bayerische Version eines italienischen Klassikers, die auch zuhause gut gelingt.",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/rezepte/99er-kulinarium-in-iphofen-koch-lukas-roenninger-verraet-sein-rezept-fuer-waldpilz-gerstenrisotto-110815551.html",
-      "image_url": "https://media0.faz.net/image/w730/5016014e46c9/w3000h1688x0y156/102025/1.10815540/reh-waldpilz-gerstenrisotto.webp",
-      "image_title": "Reh, Waldpilz-Gerstenrisotto, Feigen, Speckbohnen"
+      "title": "Nach Konzert in Frankfurt: Polizei sucht Slipknot-Fans, um Vergewaltigung aufzuklären",
+      "teaser": "Zwei Unbekannte sollen vor einigen Monaten in Frankfurt eine Frau vergewaltigt haben. Fotos von einem Paar, das auf dem gleichen Konzert war wie das spätere Opfer, könnten helfen, sie zu finden.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-frau-am-bahnhof-messe-vergewaltigt-polizei-sucht-zeugen-200483843.html",
+      "image_url": "https://media0.faz.net/image/w1200/739ee2cb557a/w3601h2026x0y0/202402/43601.0.79318855/die-silhouette-einer-passantin.webp",
+      "image_title": "Die Silhouette einer Passantin auf dem Bahnsteig der S-Bahn-Station Messe in Frankfurt (Symbolbild)."
+    },
+    {
+      "title": "FDP mit Klage erfolgreich: Kommunales Wahlrecht verfassungswidrig",
+      "teaser": "Der hessische Staatsgerichtshof hat die vorgesehene Berechnung der Sitze am 15. März wegen der dadurch bewirkten Verzerrung des Ergebnisses für nichtig erklärt.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hessen-kommunalwahlrecht-verfassungswidrig-200483429.html",
+      "image_url": "https://media0.faz.net/image/w730/a56af1043c10/w3710h2087x0y242/202103/43600.0.653802013/demokratie-in-zeiten-von.webp",
+      "image_title": "Demokratie in Zeiten von Corona: Auszählung bei der Kommunalwahl 2021 in Frankfurt"
     },
     {
       "title": "ÖPNV in Wiesbaden: Busfahrer melden Hunderte Falschparker",
       "teaser": "In Wiesbaden machen Busfahrer Fotos von Parksündern auf Busspuren, damit diese bestraft werden können. Das soll letztlich die Pünktlichkeit im Nahverkehr verbessern.",
       "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/wiesbaden-busfahrer-melden-viele-falschparker-200482179.html",
-      "image_url": "https://media0.faz.net/image/w1200/2aa844e6dfc9/w2000h1125x0y188/202601/d9a35ad1-450a-40ff-8432-d5fa3910ac4d/ertappt-und-dokumentiert-ein.webp",
+      "image_url": "https://media0.faz.net/image/w730/2aa844e6dfc9/w2000h1125x0y188/202601/d9a35ad1-450a-40ff-8432-d5fa3910ac4d/ertappt-und-dokumentiert-ein.webp",
       "image_title": "Ertappt und dokumentiert: Ein Falschparker auf einer Wiesbadener Busspur, der vom Busfahrer fotografiert wurde"
     },
     {
@@ -598,20 +629,6 @@
       "url": "https://www.faz.net/aktuell/rhein-main/ermittlungen-bei-heraeus-wurde-offenbar-edelmetall-unterschlagen-200479496.html",
       "image_url": "https://media0.faz.net/image/w730/51c45af9696b/w4156h2338x0y433/202303/43600.0.1552326327/eine-anlage-von-heraeus-in.webp",
       "image_title": "Eine Anlage von Heraeus in Hanau, mit der Edelmetalle recycelt werden"
-    },
-    {
-      "title": "Rhein-Main-Liveblog: Sturzbetrunkener Fahrer scheitert an Überholmanöver",
-      "teaser": "Überfall auf Spielothek in Bad Hersfeld +++ Nässe und Glätte in Hessen +++ A4 wegen Lkw-Brand gesperrt +++ Ehepaar nach Hausbrand verletzt +++ Liveblog zu Rhein-Main und Hessen",
-      "url": "https://www.faz.net/aktuell/rhein-main/unfall-mit-schwerlaster-in-darmstadt-fahrer-hat-3-15-promille-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-      "image_url": "https://media0.faz.net/image/w730/d9639e2b0e3f/w2740h1541x0y0/202601/43601.0.1707236582/weithin-sichtbar-polizeiauto.webp",
-      "image_title": "Weithin sichtbar: Polizeiauto an einer Unfallstelle"
-    },
-    {
-      "title": "Mehrere Bundesländer: Razzia gegen Schwarzarbeit im Baugewerbe",
-      "teaser": "Mit 800 Beamten sind Zoll und Staatsanwaltschaft am Mittwoch gegen eine multinationale Gruppierung vorgegangen. Sie soll Schwarzarbeit im Baugewerbe im großen Stil organisiert haben. Drei Männer wurden verhaftet.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/razzia-gegen-schwarzarbeit-im-bau-in-mehreren-bundeslaendern-accg-200482665.html",
-      "image_url": "https://media0.faz.net/image/w730/420f0cfefb29/w3000h1687x0y59/202511/43601.0.1505720112/in-mehreren-bundeslaendern-hat.webp",
-      "image_title": "In mehreren Bundesländern hat der Zoll am Mittwoch Wohnungen und Geschäftsräume durchsucht."
     },
     {
       "title": "FAZ+Smartwatch: Bändchen wechsel dich",
@@ -683,11 +700,11 @@
       "image_title": "Hervorragend: Mehr Überhang erlaubt das niederländische Baurecht nicht."
     },
     {
-      "title": "Ölsardinen-Kochbuch: Delikatessen aus der Dose",
-      "teaser": "Die Ölsardinen der Marke Nuri werden noch immer in traditioneller Handarbeit hergestellt. Jetzt gibt es ein fabelhaftes Kochbuch mit mehr als 50 originellen Rezepten mit den Premiumkonserven.",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/rezepte/delikatessen-aus-der-dose-das-nuri-oelsardinen-kochbuch-200450768.html",
-      "image_url": "https://media0.faz.net/image/w1200/01912b8a7fdc/w3757h2113x730y946/202601/30d88a91-a7e6-4493-860b-1a2d696f94e2/delikatesse-aus-porto-die.webp",
-      "image_title": "Delikatesse aus Porto: Die Sardinen der Marke Nuri sind bei Feinschmeckern in aller Welt beliebt."
+      "title": "Besuch bei Lukas Rönninger: Warum er sein Risotto nicht mit Reis kocht",
+      "teaser": "In seinem Restaurant im fränkischen Iphofen bereitet Lukas Rönniger in einer winzigen Küche 40 Menüs zu – und verrät uns die bayerische Version eines italienischen Klassikers, die auch zuhause gut gelingt.",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/rezepte/99er-kulinarium-in-iphofen-koch-lukas-roenninger-verraet-sein-rezept-fuer-waldpilz-gerstenrisotto-110815551.html",
+      "image_url": "https://media0.faz.net/image/w1200/5016014e46c9/w3000h1688x0y156/102025/1.10815540/reh-waldpilz-gerstenrisotto.webp",
+      "image_title": "Reh, Waldpilz-Gerstenrisotto, Feigen, Speckbohnen"
     },
     {
       "title": "FAZ+Eltern am Handy: Ja, ich bin eine Smartphone-Mutter. Wie soll es denn anders gehen?",
