@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T06:33:16",
+  "timestamp": "2026-01-30T07:32:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,33 @@
   ],
   "articles": [
     {
+      "title": "Infrastructure-as-Code: formae bietet Multi-Cloud-Support und Entwickler-SDK",
+      "teaser": "formae erweitert IaC-Plattform um Support für GCP, Azure, OCI und OVHcloud. Neues Plug-in-SDK ermöglicht Entwicklern schnelle, schema-sichere Erweiterungen.",
+      "url": "https://www.heise.de/news/Infrastructure-as-Code-formae-bietet-Multi-Cloud-Support-und-Entwickler-SDK-11159103.html",
+      "image_title": "Infrastruktur für Cloud Computing"
+    },
+    {
+      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11147782.html",
+      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
+    },
+    {
+      "title": "Maker-Projekt: 3-Cent-Mikrocontroller programmieren, Teil 1",
+      "teaser": "Die Chips des Herstellers Padauk sind für Massenprodukte entwickelt, bei denen jeder Cent zählt. Aber auch Maker-Projekte kann man mit ihnen günstig umsetzen.",
+      "url": "https://www.heise.de/ratgeber/Maker-Projekt-3-Cent-Mikrocontroller-programmieren-Teil-1-11151755.html",
+      "image_title": ","
+    },
+    {
       "title": "Rückgrat der KI-Ära: Moderne Vektordatenbanken im Marktüberblick",
       "teaser": "Neue Player, hybride Suchansätze und ZeroOps-Architekturen mischen den Markt der Vektordatenbanken auf und stellen bisherige Datenbanklogiken infrage.",
       "url": "https://www.heise.de/hintergrund/Rueckgrat-der-KI-Aera-Moderne-Vektordatenbanken-im-Marktueberblick-11130571.html",
       "image_title": ","
     },
     {
-      "title": "USABehörden müssen nicht mehr prüfen, was in ihrer Software drin ist",
-      "teaser": "Behördlich eingesetzte Software sollte sicher sein. Das beginnt bei der Programmierung. US-Behörden müssen darauf nicht mehr achten.",
-      "url": "https://www.heise.de/news/US-Behoerden-muessen-nicht-mehr-pruefen-was-in-ihrer-Software-drin-ist-11159569.html",
-      "image_title": "Eine US-Fahne hängt lahm am unteren Ende einer Fahnenstange und somit im nassen Erdreich"
-    },
-    {
-      "title": "Apple pocht auf Provision: Alle Patreon-Creator werden auf Abos umgestellt",
-      "teaser": "Bis November werden sämtliche Creator von der Crowdfunding-Plattform auf Abos umgesattelt, damit Apple mitverdienen kann. iOS-Nutzer zahlen drauf.",
-      "url": "https://www.heise.de/news/Apple-pocht-auf-Provision-Alle-Patreon-Creator-werden-auf-Abos-umgestellt-11159479.html",
-      "image_title": "Ein in der Hand gehaltenes iPhone zeigt den Homescreen mit Apps"
-    },
-    {
-      "title": "Russische Drohnen mit Starlink-AntennenUkraine nennt SpaceX Lösungsvorschläge",
-      "teaser": "In der Ukraine setzt Russland inzwischen Drohnen ein, die dank Starlink aus der Ferne gesteuert werden können.",
-      "url": "https://www.heise.de/news/Russische-Drohnen-mit-Starlink-Antennen-Ukraine-nennt-SpaceX-Loesungsvorschlaege-11159371.html",
-      "image_title": "Schatten von Soldaten vor russischer und ukrainischer Flagge"
+      "title": "RatgeberMaker-Projekt: 3-Cent-Mikrocontroller programmieren, Teil 1",
+      "url": "https://www.heise.de/ratgeber/Maker-Projekt-3-Cent-Mikrocontroller-programmieren-Teil-1-11151755.html",
+      "image_title": ","
     },
     {
       "title": "HintergrundRückgrat der KI-Ära: Moderne Vektordatenbanken im Marktüberblick",
@@ -60,9 +65,22 @@
       "image_title": "Shure MXA902 im Test"
     },
     {
-      "title": "HintergrundGrafik-Turbo Metal 4: So nutzen Sie Apples API mit KI, Games und mehr",
-      "url": "https://www.heise.de/hintergrund/Grafik-Turbo-Metal-4-So-nutzen-Sie-Apples-API-mit-KI-Games-und-mehr-11157831.html",
-      "image_title": "Metal 4: Apple legt den Turbo ein"
+      "title": "US-Behörden müssen nicht mehr prüfen, was in ihrer Software drin ist",
+      "teaser": "Behördlich eingesetzte Software sollte möglichst sicher sein. Das beginnt bei der Programmierung. US-Behörden müssen darauf aber nicht mehr achten.",
+      "url": "https://www.heise.de/news/US-Behoerden-muessen-nicht-mehr-pruefen-was-in-ihrer-Software-drin-ist-11159569.html",
+      "image_title": "Eine US-Fahne hängt lahm am unteren Ende einer Fahnenstange und somit im nassen Erdreich"
+    },
+    {
+      "title": "Apple pocht auf Provision: Alle Patreon-Creator werden auf Abos umgestellt",
+      "teaser": "Bis November werden sämtliche Creator von der Crowdfunding-Plattform auf Abos umgesattelt, damit Apple mitverdienen kann. iOS-Nutzer zahlen drauf.",
+      "url": "https://www.heise.de/news/Apple-pocht-auf-Provision-Alle-Patreon-Creator-werden-auf-Abos-umgestellt-11159479.html",
+      "image_title": "Ein in der Hand gehaltenes iPhone zeigt den Homescreen mit Apps"
+    },
+    {
+      "title": "Russische Drohnen mit Starlink-Antennen: Ukraine nennt SpaceX Lösungsvorschläge",
+      "teaser": "In der Ukraine setzt Russland inzwischen Drohnen ein, die dank Starlink aus der Ferne gesteuert werden können. SpaceX arbeitet mit der Ukraine an einer Lösung.",
+      "url": "https://www.heise.de/news/Russische-Drohnen-mit-Starlink-Antennen-Ukraine-nennt-SpaceX-Loesungsvorschlaege-11159371.html",
+      "image_title": "Schatten von Soldaten vor russischer und ukrainischer Flagge"
     },
     {
       "title": "FritzOS 8.20/8.21: Updates für drei Fritzbox-Router",
@@ -135,24 +153,6 @@
       "teaser": "Apple macht seinen Kommunikationsdienst iMessage nach wie vor nur auf eigenen Geräten zugänglich. Das Open-Source-Vorhaben BlueBubbles will das ändern.",
       "url": "https://www.heise.de/news/BlueBubbles-Serverloesung-leitet-iMessages-an-Android-weiter-11156237.html",
       "image_title": "BlueBubbles auf Android und Windows"
-    },
-    {
-      "title": "Creator Studio: Apple verwirrt mit doppelten Apps",
-      "teaser": "Pages, Numbers und Keynote – aber auch Final Cut Pro, Logic Pro und Co. – gibt es jetzt gleich mehrfach. Die Hintergründe zum Creator-Studio-App-Store-Chaos.",
-      "url": "https://www.heise.de/news/Creator-Studio-Apple-verwirrt-mit-doppelten-Apps-11158663.html",
-      "image_title": "Mehrere Pages-Icons"
-    },
-    {
-      "title": "Zuckerberg kündigt neue KI-Modelle und Produkte an",
-      "teaser": "Shopping, Agenten, neue KI-Modelle: Zuckerberg setzt im neuen Jahr auf Funktionen, die auf \"persönlichen Erfahrungen\" beruhen.",
-      "url": "https://www.heise.de/news/Zuckerberg-kuendigt-neue-KI-Modelle-und-Produkte-an-11158453.html",
-      "image_title": "Jemand tippt auf ein Smartphone, es erscheint ein Roboter und ein Einkaufswagen."
-    },
-    {
-      "title": "OpenAI plant angeblich soziales Netzwerk mit biometrischer Bot-Erkennung",
-      "teaser": "OpenAI plant angeblich ein eigenes soziales Netzwerk, das Bots mithilfe biometrischer Verfahren fernhalten soll. Dies wirft jedoch Datenschutzfragen auf.",
-      "url": "https://www.heise.de/news/OpenAI-plant-angeblich-soziales-Netzwerk-mit-biometrischer-Bot-Erkennung-11158655.html",
-      "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
     },
     {
       "title": "AlertNewsNotfall-Update gegen Zeroday in Microsoft Office",
