@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-30T12:27:59",
+  "timestamp": "2026-01-30T13:46:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,16 +26,16 @@
   ],
   "articles": [
     {
+      "title": "USABehörden müssen nicht mehr prüfen, was in ihrer Software drin ist",
+      "teaser": "Behördlich eingesetzte Software sollte sicher sein. Das beginnt bei der Programmierung. US-Behörden müssen darauf nicht mehr achten.",
+      "url": "https://www.heise.de/news/US-Behoerden-muessen-nicht-mehr-pruefen-was-in-ihrer-Software-drin-ist-11159569.html",
+      "image_title": "Eine US-Fahne hängt lahm am unteren Ende einer Fahnenstange und somit im nassen Erdreich"
+    },
+    {
       "title": "CybercrimeGoogle zieht Millionen Geräte aus IPIDEA-Residential-Proxy-Netz",
       "teaser": "Google hat dem Residential-Proxy-Netz IPIDEA einen empfindlichen Schlag versetzt. Es wird etwa von Kriminellen genutzt.",
       "url": "https://www.heise.de/news/Google-zieht-Millionen-Geraete-aus-IPIDEA-Residential-Proxy-Netz-11158935.html",
       "image_title": "Cyber,Security,Red,World,Map"
-    },
-    {
-      "title": "AlertWarten auf SicherheitspatchFortinet kämpft weiter gegen laufende SSO-Admin-Attacken",
-      "teaser": "Angreifer attackieren schon länger diverse Fortinet-Produkte. Ein funktionierendes Sicherheitsupdate fehlt nach wie vor. Ein temporärer Schutz soll helfen.",
-      "url": "https://www.heise.de/news/Fortinet-kaempft-weiter-gegen-laufende-SSO-Admin-Attacken-11156437.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "AlertSicherheitsupdates: Angreifer können Schadcode auf Lexmark-Drucker schieben",
@@ -52,6 +52,12 @@
     {
       "title": "Jetzt Blind-Bird Tickets sichern!heise security Tour 2026",
       "url": "https://security-tour.heise.de/?wt_mc=intern.academy.security.konf_sectour.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "FAQ: BitLocker-Verschlüsselung und Alternativen dazu",
+      "teaser": "Bei der in Windows eingebauten SSD-Verschlüsselung BitLocker kann der Wiederherstellungsschlüssel bei Microsoft landen. Wir erklären Details und Alternativen.",
+      "url": "https://www.heise.de/ratgeber/FAQ-BitLocker-Verschluesselung-und-Alternativen-dazu-11159284.html",
+      "image_title": "Symbolbild SSD"
     },
     {
       "title": "AlertSicherheitsupdates: Angreifer können Schadcode auf Lexmark-Drucker schieben",
@@ -74,12 +80,6 @@
       "title": "AlertUpdaten! Attackierte Lücke in Ivanti Endpoint Manager Mobile",
       "teaser": "In Ivantis Endpoint Manager Mobile klaffen zwei kritische Sicherheitslecks. Angriffe laufen, Admins sollten schnell updaten.",
       "url": "https://www.heise.de/news/Updaten-Attackierte-Luecke-in-Ivanti-Endpoint-Manager-Mobile-11159651.html"
-    },
-    {
-      "title": "US-Behörden müssen nicht mehr prüfen, was in ihrer Software drin ist",
-      "teaser": "Behördlich eingesetzte Software sollte möglichst sicher sein. Das beginnt bei der Programmierung. US-Behörden müssen darauf aber nicht mehr achten.",
-      "url": "https://www.heise.de/news/US-Behoerden-muessen-nicht-mehr-pruefen-was-in-ihrer-Software-drin-ist-11159569.html",
-      "image_title": "Eine US-Fahne hängt lahm am unteren Ende einer Fahnenstange und somit im nassen Erdreich"
     },
     {
       "title": "AlertNvidia Sicherheitslücken: Attacken auf GPU-Treiber können zu Abstürzen führen",
@@ -130,6 +130,12 @@
       "image_title": "IP-Schriftzug"
     },
     {
+      "title": "AlertFortinet kämpft weiter gegen laufende SSO-Admin-Attacken",
+      "teaser": "Angreifer attackieren schon länger diverse Fortinet-Produkte. Ein funktionierendes Sicherheitsupdate fehlt nach wie vor. Ein temporärer Schutz soll helfen.",
+      "url": "https://www.heise.de/news/Fortinet-kaempft-weiter-gegen-laufende-SSO-Admin-Attacken-11156437.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
       "title": "Meta stärkt WhatsApp-Datenschutz mit neuen „strikten Kontoeinstellungen“",
       "teaser": "WhatsApp integriert eine neue Funktion namens „strikte Kontoeinstellungen“, die erweiterte Datenschutz- und Sicherheitsfunktionen mit einem Klick aktiviert.",
       "url": "https://www.heise.de/news/WhatsApp-fuehrt-strikte-Kontoeinstellungen-fuer-mehr-Sicherheit-ein-11156397.html",
@@ -140,11 +146,6 @@
       "teaser": "Für diverse Protokolle hat Microsoft in Exchange Online Basic Authentication bereits rausgeworfen. Für SMTP verschiebt sich der Zeitplan.",
       "url": "https://www.heise.de/news/Exchange-Online-Microsoft-aktualisiert-Zeitplan-fuer-SMTP-Auth-Basic-Ende-11156383.html",
       "image_title": "Aktuelle Spam-Mails verteilen Ransomware im Namen des BSI"
-    },
-    {
-      "title": "Das heise-security-Webinar zu NTLM & Kerberos",
-      "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
-      "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11155968.html"
     },
     {
       "title": "Classroom | 10.02. – 10.03.2026Ethical Hacking für Admins – Pentesting für eine sichere IT",
