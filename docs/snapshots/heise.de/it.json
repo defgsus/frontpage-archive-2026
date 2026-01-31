@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-31T11:10:59",
+  "timestamp": "2026-01-31T12:21:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,18 @@
   ],
   "articles": [
     {
-      "title": "Windows-XP-Nachbau ReactOS wird 30",
-      "teaser": "Das ReactOS-Projekt, das ein Windows-XP-kompatibles Betriebssystem entwickelt, feiert seinen 30. Geburtstag.",
+      "title": "Softwareentwicklung: Online-Konferenz zum Spannungsfeld zwischen KI und Security",
+      "teaser": "Am 11. Mai zeigt eine Online-Konferenz, wie man sich gegen Angriffe auf KI-Anwendungen schützt und wie KI-Tools bei sicherer Softwareentwicklung helfen.",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Online-Konferenz-zum-Spannungsfeld-zwischen-KI-und-Security-11156752.html"
+    },
+    {
+      "title": "c’t 3003Die gefährlichste Software der Welt?",
+      "teaser": "OpenClaw ist jeden Token wert: Das Tool ist extrem gefährlich, aber auch extrem interessant.",
+      "url": "https://www.heise.de/news/OpenClaw-ausprobiert-Die-gefaehrlichste-Software-der-Welt-11161203.html"
+    },
+    {
+      "title": "Windows-XP-NachbauReactOS ist 30 Jahre alt",
+      "teaser": "Das ReactOS-Projekt feiert seinen 30. Geburtstag. Der XP-Nachbau wird ständig weiterentwickelt.",
       "url": "https://www.heise.de/news/Windows-XP-Nachbau-ReactOS-wird-30-11161219.html",
       "image_title": "Desktop von ReactOS 0.4.15"
     },
@@ -36,18 +46,6 @@
       "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11147844.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, Rolldown, Godot, Laravel, GPT, Arrow, GStreamer, GitHub, gettext und RISC-V.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11156481.html",
-      "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Die vier Apokalyptischen Reiter der Aufwandsschätzung von Cloud-Legacy-Projekten",
-      "teaser": "Die Bewertung von vier Haupttreibern ermöglicht eine solide Kalkulation des Aufwands für die Überführung von Softwarealtlasten in die Cloud.",
-      "url": "https://www.heise.de/hintergrund/Die-vier-Apokalyptischen-Reiter-der-Aufwandsschaetzung-von-Cloud-Legacy-Projekten-11154634.html",
-      "image_title": "Rechner und Softwaresysteme mit Verbindungen in die Wolken"
     },
     {
       "title": "TestsMeta Ray-Ban Display im Test: Smartglasses mit Mini-Anzeige und Gestensteuerung",
@@ -62,6 +60,18 @@
       "title": "RatgeberMaker-Projekt: 3-Cent-Mikrocontroller programmieren, Teil 1",
       "url": "https://www.heise.de/ratgeber/Maker-Projekt-3-Cent-Mikrocontroller-programmieren-Teil-1-11151755.html",
       "image_title": ","
+    },
+    {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, Rolldown, Godot, Laravel, GPT, Arrow, GStreamer, GitHub, gettext und RISC-V.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11156481.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Die vier Apokalyptischen Reiter der Aufwandsschätzung von Cloud-Legacy-Projekten",
+      "teaser": "Die Bewertung von vier Haupttreibern ermöglicht eine solide Kalkulation des Aufwands für die Überführung von Softwarealtlasten in die Cloud.",
+      "url": "https://www.heise.de/hintergrund/Die-vier-Apokalyptischen-Reiter-der-Aufwandsschaetzung-von-Cloud-Legacy-Projekten-11154634.html",
+      "image_title": "Rechner und Softwaresysteme mit Verbindungen in die Wolken"
     },
     {
       "title": "Top 10: Der beste höhenverstellbare Schreibtisch",
@@ -138,18 +148,6 @@
       "teaser": "Wer Online-Abos abschließt, stößt oft auf technische Hürden bei der Identifizierung und bei Zahlungen für Dritte. Wir klären, was rechtlich zulässig ist.",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Identitaetspruefung-fuer-Online-Abos-11160225.html",
       "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich vermutlich ein Smartphone."
-    },
-    {
-      "title": "Telemedizin in Salzwedel: Die Praxis ohne Arzt",
-      "teaser": "Augenuntersuchung ohne Arzt vor Ort: In Salzwedel übernimmt das Praxisteam die Messungen, die Auswertung erfolgt digital aus der Ferne.",
-      "url": "https://www.heise.de/news/Telemedizin-in-Salzwedel-Die-Augenarztpraxis-ohne-Arzt-11160352.html",
-      "image_title": "Frau wird mit Instrument das Auge vermessen"
-    },
-    {
-      "title": "KI-Fehler vor Gericht: Unternehmen können sich gegen falsche Google-Infos wehren",
-      "teaser": "Das Landgericht Frankfurt stuft KI-Fehler als potenzielle Wettbewerbsbehinderung ein. Firmen können sich so mit dem Kartellrecht gegen falsche KI-Texte wehren.",
-      "url": "https://www.heise.de/news/Klage-gegen-Google-KI-Falsche-Such-Infos-koennen-Unterlassung-rechtfertigen-11160308.html",
-      "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
     },
     {
       "title": "NewsRussische Drohnen mit Starlink-Antennen: Ukraine nennt SpaceX Lösungsvorschläge",
