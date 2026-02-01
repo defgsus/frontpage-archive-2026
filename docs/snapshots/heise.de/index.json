@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-01T07:29:34",
+  "timestamp": "2026-02-01T08:18:45",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Missing Link: 100 Jahre Fernsehen – von der drehenden Scheibe zum Streaming",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-100-Jahre-Fernsehen-von-der-drehenden-Scheibe-zum-Streaming-11161098.html"
+    },
     {
       "title": "Nina, Katwarn, Nora: Was die wichtigsten Warn- und Notruf-Apps leisten",
       "url": "https://www.heise.de/hintergrund/Nina-Katwarn-Nora-Was-die-wichtigsten-Warn-und-Notruf-Apps-leisten-11147641.html",
@@ -64,10 +68,6 @@
     {
       "title": "iPhone: Apple-Modem soll genauen Standort vor Mobilfunkern verbergen",
       "url": "https://www.heise.de/news/iPhone-Apple-Modem-soll-genauen-Standort-vor-Mobilfunkern-verbergen-11161088.html"
-    },
-    {
-      "title": "Nächster Rückschlag für die Eurobike: Shimano sagt Teilnahme 2026 ab",
-      "url": "https://www.heise.de/news/Naechster-Rueckschlag-fuer-die-Eurobike-Shimano-sagt-Teilnahme-2026-ab-11161328.html"
     },
     {
       "title": "Kündigungsbutton & TransparenzKlatsche für Microsoft und Starlink vor Gericht",
@@ -190,20 +190,25 @@
       "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich vermutlich ein Smartphone."
     },
     {
+      "title": "Missing Link: 100 Jahre Fernsehen – von der drehenden Scheibe zum Streaming",
+      "teaser": "Was wir heute als Fernsehen kennen, begann mit einem schwitzenden Assistenten. Obwohl sich nicht genau festlegen lässt, wann die Bilder laufen lernten.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-100-Jahre-Fernsehen-von-der-drehenden-Scheibe-zum-Streaming-11161098.html"
+    },
+    {
       "title": "Nina, Katwarn, Nora: Was die wichtigsten Warn- und Notruf-Apps leisten",
       "teaser": "Unwetter, Überschwemmungen, Orkane, Bombenfunde, Brandrauch. Wie alarmiert das Smartphone seinen Anwender im Notfall?",
       "url": "https://www.heise.de/hintergrund/Nina-Katwarn-Nora-Was-die-wichtigsten-Warn-und-Notruf-Apps-leisten-11147641.html"
+    },
+    {
+      "title": "Bezahlbare Cyber-Sicherheit für den Mittelstand",
+      "teaser": "Begrenzte Ressourcen, aber raffiniertere Bedrohungen – mit dem Einsatz von KI können sich Unternehmen effektiv schützen. Denn beim digitalen Wettrüsten ist KI ein Angriffs- und Verteidigungswerkzeug.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7195670840&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Ändere dein Passwort-Tag: Nutzloser Wiedergänger",
       "teaser": "Jedes Jahr am 1. Februar findet der „Ändere dein Passwort“-Tag statt. Der Tipp ist jedoch ausgelutscht und kontraproduktiv.",
       "url": "https://www.heise.de/news/Aendere-dein-Passwort-Tag-Nutzloser-Wiedergaenger-11159667.html",
       "image_title": "Hände am Handy, um ein Passwort zurückzusetzen"
-    },
-    {
-      "title": "Beim Internet bleiben die größten Städte zurück",
-      "teaser": "Eine Analyse von mehr als 100 Städten zeigt: Die höchsten Geschwindigkeiten für Festnetzanschlüsse gibt es nicht in den größten Ballungsräumen, sondern in Zentren mit 30.000 bis 110.000 Einwohnern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7165479068&iu=%2F6514%2FClicktracking%2Ftextlink"
     },
     {
       "title": "Top 10: Die beste Android-Box fürs Auto im Test",
@@ -229,11 +234,6 @@
       "title": "Razer Blackwidow V4 Pro 75 im Test: gut – aber zu teuer",
       "teaser": "Die Razer Blackwidow V4 Pro 75 überzeugt beim Schreiben und beim Zocken. Allerdings bremst der Preis die Freude etwas aus.",
       "url": "https://www.heise.de/bestenlisten/testbericht/razer-blackwidow-v4-pro-75-im-test-richtig-gute-gaming-tastatur-aber-zu-teuer/12f5x1k?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Nächster Rückschlag für die Eurobike: Shimano sagt Teilnahme 2026 ab",
-      "teaser": "Der Status Leitmesse bröckelt: Nach Bosch, Riese & Müller und ZIV sagt auch Shimano seine Eurobike-Teilnahme ab und will sich auf eigene Events konzentrieren.",
-      "url": "https://www.heise.de/news/Naechster-Rueckschlag-fuer-die-Eurobike-Shimano-sagt-Teilnahme-2026-ab-11161328.html"
     },
     {
       "title": "EnergiewendeSmart Meter: Warum die Probleme oft erst nach der Installation beginnen",
@@ -327,6 +327,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Nächster Rückschlag für die Eurobike: Shimano sagt Teilnahme 2026 ab",
+      "teaser": "Der Status Leitmesse bröckelt: Nach Bosch, Riese & Müller und ZIV sagt auch Shimano seine Eurobike-Teilnahme ab und will sich auf eigene Events konzentrieren.",
+      "url": "https://www.heise.de/news/Naechster-Rueckschlag-fuer-die-Eurobike-Shimano-sagt-Teilnahme-2026-ab-11161328.html"
+    },
+    {
       "title": "Bluesky: Erster Transparenzbericht zeigt starkes Wachstum und mehr Moderation",
       "teaser": "Mehr Nutzer, mehr Probleme: Bluesky legt Zahlen zu Moderation, rechtlichen Anfragen und dem Kampf gegen Spam und politische Beeinflussung vor.",
       "url": "https://www.heise.de/news/Bluesky-Erster-Transparenzbericht-zeigt-starkes-Wachstum-und-mehr-Moderation-11161302.html",
@@ -393,14 +398,15 @@
       "image_title": "Zwei Hände, die auf einer virtuellen Oberflächentastatur tippen."
     },
     {
+      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
+      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
       "title": "Farbe, Form, Fernweh: Die Bilder der Woche 5",
       "teaser": "Von urbaner Abstraktion bis Naturmoment: Die Bilder dieser Woche zeigen das breite Spektrum an Gegensätzen.",
       "url": "https://www.heise.de/news/Farbe-Form-Fernweh-Die-Bilder-der-Woche-5-11160946.html"
-    },
-    {
-      "title": "Mit KI mehr Sicherheit und Effizienz im SOC",
-      "teaser": "Security Operations Centers (SOC) kämpfen bei begrenzten Ressourcen und Budgets mit immer komplexeren Bedrohungen. Erfahren Sie, wie KI helfen kann, dieses Dilemma zu lösen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-wachsende-rolle-von-ki-fuer-mehr-automatisierung-und-effizienz-im-soc-5003/?source=nat_teas"
     },
     {
       "title": "E-Autos für jeden Bedarf: Modelle für schwere Anhänger, Langstrecke und mehr",
@@ -452,12 +458,6 @@
       "url": "https://www.heise.de/news/E-Evidence-Bundestag-erleichtert-internationalen-Zugriff-auf-Daten-in-der-Cloud-11161014.html"
     },
     {
-      "title": "UpdateNach 3G-Abschaltung: In Bern lief es bei Leihrädern zeitweise nicht mehr rund",
-      "teaser": "In der Schweiz wird seit dem Jahreswechsel das 3G-Netz der Swisscom abgeschaltet. Ein Leihfahrrad-Anbieter hoffte vergeblich darauf, dass sich dies hinzieht.",
-      "url": "https://www.heise.de/news/Nach-3G-Abschaltung-In-Bern-laeuft-es-bei-Leihraedern-nicht-mehr-rund-11160894.html",
-      "image_title": "Ein Leihfahrrad von Publibike wird mit der App aufgeschlossen"
-    },
-    {
       "title": "Ikea-USB-Schnelllader bis 20 Watt für 4 Euro – Schnäppchen oder Schund?",
       "url": "https://www.heise.de/tests/Ikea-USB-Schnelllader-bis-20-Watt-fuer-4-Euro-Schnaeppchen-oder-Schund-11158941.html"
     },
@@ -487,6 +487,11 @@
       "image_title": "Humanoider Roboter Optimus von Tesla"
     },
     {
+      "title": "UpdateNach 3G-Abschaltung: In Bern lief es bei Leihrädern zeitweise nicht mehr rund",
+      "url": "https://www.heise.de/news/Nach-3G-Abschaltung-In-Bern-laeuft-es-bei-Leihraedern-nicht-mehr-rund-11160894.html",
+      "image_title": "Ein Leihfahrrad von Publibike wird mit der App aufgeschlossen"
+    },
+    {
       "title": "AirTags 2 im Teardown: Mehr Veränderungen als von Apple erwähnt",
       "url": "https://www.heise.de/news/AirTags-2-im-Teardown-Mehr-Veraenderungen-als-von-Apple-erwaehnt-11157694.html",
       "image_title": "AirTags 2 von Apple, hier mit neuen Anhängern"
@@ -495,11 +500,6 @@
       "title": "Apple pocht auf Provision: Alle Patreon-Creator werden auf Abos umgestellt",
       "url": "https://www.heise.de/news/Apple-pocht-auf-Provision-Alle-Patreon-Creator-werden-auf-Abos-umgestellt-11159479.html",
       "image_title": "Ein in der Hand gehaltenes iPhone zeigt den Homescreen mit Apps"
-    },
-    {
-      "title": "Nothing Phone (3) bleibt Flaggschiff für 2026 – Fokus auf KI und Mittelklasse",
-      "url": "https://www.heise.de/news/Fokus-auf-die-Mittelklasse-Nothing-Phone-4-kommt-2026-nicht-11160648.html",
-      "image_title": "Nothing-Mitgründer Carl Pei sagt „Kein Phone (4) in diesem Jahr.“"
     },
     {
       "title": "Neue VR-Spiele im Februar 2026: Weltkriegsflugsimulator „Aces of Thunder“",
@@ -629,20 +629,21 @@
       "url": "https://www.heise.de/en/news/Native-Instruments-files-for-insolvency-11156667.html"
     },
     {
-      "title": "Vorsicht, Kunde: Identitätsprüfung für Online-Abos",
-      "teaser": "Wer Online-Abos abschließt, stößt oft auf technische Hürden bei der Identifizierung und bei Zahlungen für Dritte. Wir klären, was rechtlich zulässig ist.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Identitaetspruefung-fuer-Online-Abos-11160225.html",
-      "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich vermutlich ein Smartphone."
-    },
-    {
-      "title": "KommentarSchluss mit Widerstand gegen Glasfaseranschlüsse",
-      "teaser": "Viele Kunden verweigern den Umstieg auf einen Glasfaseranschluss. Unser Redakteur Urs Mansmann plädiert für einen schnellen Wechsel.",
-      "url": "https://www.heise.de/meinung/Kommentar-Widerstand-gegen-Glasfaseranschluesse-11135666.html"
+      "title": "Was Sie wissen müssenBitLocker-Verschlüsselung und Alternativen dazu",
+      "teaser": "Bei der in Windows eingebauten SSD-Verschlüsselung BitLocker kann der Wiederherstellungsschlüssel bei Microsoft landen. Wir erklären Details und Alternativen.",
+      "url": "https://www.heise.de/ratgeber/FAQ-BitLocker-Verschluesselung-und-Alternativen-dazu-11159284.html",
+      "image_title": "Symbolbild SSD"
     },
     {
       "title": "c’t 3003Die gefährlichste Software der Welt?",
       "teaser": "OpenClaw ist jeden Token wert: Das Tool ist extrem gefährlich, aber auch extrem interessant.",
       "url": "https://www.heise.de/news/OpenClaw-ausprobiert-Die-gefaehrlichste-Software-der-Welt-11161203.html"
+    },
+    {
+      "title": "Vorsicht, Kunde: Identitätsprüfung für Online-Abos",
+      "teaser": "Wer Online-Abos abschließt, stößt oft auf technische Hürden bei der Identifizierung und bei Zahlungen für Dritte. Wir klären, was rechtlich zulässig ist.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Identitaetspruefung-fuer-Online-Abos-11160225.html",
+      "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich vermutlich ein Smartphone."
     },
     {
       "title": "Einsteiger-WorkshopMit Markdown strukturiert texten",
@@ -651,16 +652,16 @@
       "image_title": "Markdown macht Spaß"
     },
     {
+      "title": "Für Mac, iPhone und iPadiCloud sichern: Parachute Backup im Test",
+      "teaser": "Für alle, die sich nicht auf Apples Server verlassen wollen: Parachute Backup sichert Dateien und Fotos, die im iCloud-Speicher lagern.",
+      "url": "https://www.heise.de/tests/iCloud-sichern-Parachute-Backup-fuer-Mac-iPhone-und-iPad-im-Test-11146362.html",
+      "image_title": "Parachute Backup"
+    },
+    {
       "title": "Übersicht aufmotzenMit diesen Tools wird die Quick Look von macOS besser",
       "teaser": "Wenn die \"Übersicht\" ein Dokumentformat nicht darstellen kann, lässt sich die Unterstützung mit Apps nachrüsten. Wir stellen wichtige vor und geben Tipps.",
       "url": "https://www.heise.de/ratgeber/Quick-Look-aufmotzen-MIt-diesen-Tools-wird-die-macOS-Uebersicht-besser-11146357.html",
       "image_title": "Icons für Quick Look"
-    },
-    {
-      "title": "So gehen Dokumentationen und mehrTextprojekte gemeinsam stemmen mit Git",
-      "teaser": "Wenn mehrere Personen isoliert an umfangreichen Texten arbeiten, führen Versionskonflikte und verlorene Änderungen schnell zu Problemen. So hilft Ihnen Git.",
-      "url": "https://www.heise.de/ratgeber/Textprojekte-gemeinsam-stemmen-mit-Git-So-gehen-Dokumentationen-und-mehr-11138148.html",
-      "image_title": ", KI-generiert mit Midjourney"
     },
     {
       "title": "Maker-Projekt: 3-Cent-Mikrocontroller programmieren, Teil 1",
@@ -744,21 +745,22 @@
       "image_title": "Leapmotor C10 REEV"
     },
     {
-      "title": "Neustrelitz: Schloss weg, Hauptstadt auch – krasse Planstadt",
-      "teaser": "Gegründet aus Trotz. Gewachsen im Schatten größerer Nachbarn. Und fast vergessen zwischen DDR und Demokratiegeschichte. Doch genau darin liegt ihr Reiz.",
-      "url": "https://www.heise.de/-11159913"
-    },
-    {
-      "title": "Rojava-Kollaps: Ankaras Sieg wird zum innenpolitischen Risiko",
-      "teaser": "Der Zusammenbruch der kurdischen Selbstverwaltung in Syrien verschiebt das Machtgefüge – und könnte Erdoğans Friedenskurs gefährden.",
-      "url": "https://www.heise.de/-11158602",
-      "image_title": "Mond aus türkischer Flagge balanciert Stern aus kurdischer Flagge"
+      "title": "Islamische Nato? Was sich in Westasien gerade zusammenbraut",
+      "teaser": "Saudi-Arabien, Pakistan und die Türkei auf der einen Seite – auf der anderen ein Bündnis, das kaum jemand erwartet hätte. Eine Analyse.",
+      "url": "https://www.heise.de/-11159158",
+      "image_title": "Satellitenbild mit Saudi-Arabien im Zentrum"
     },
     {
       "title": "BVerwG-Urteil: Warum die Bundesregierung jetzt mehr Klimaschutz liefern muss",
       "teaser": "Das Bundesverwaltungsgericht bestätigt: Die Regierung muss nachbessern – eine Lücke von 200 Millionen Tonnen droht bis 2030.",
       "url": "https://www.heise.de/-11159503",
       "image_title": "Logo des Bundesverwaltungsgerichts."
+    },
+    {
+      "title": "Der Rhein als Müllkippe: 5.000 Tonnen pro Jahr auf dem Weg ins Meer",
+      "teaser": "Der Rhein transportiert jährlich 5.000 Tonnen Müll. Eine Studie enthüllt das erschreckende Ausmaß der Verschmutzung. Was bedeutet das für unsere Flüsse?",
+      "url": "https://www.heise.de/-11156129",
+      "image_title": "Eine Stadt an einem Fluss"
     },
     {
       "title": "Videoschnitt für die Hosentasche: Diese 3 Freemium-Apps machen Capcut Konkurrenz",
