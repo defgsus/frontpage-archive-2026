@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-02T16:23:03",
+  "timestamp": "2026-02-02T17:29:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "Windows mit NTLM: Das Ende des Albtraums – vielleicht demnächst",
+      "url": "https://www.heise.de/news/Windows-Microsoft-konkretisiert-NTLM-Aus-nennt-aber-immer-noch-kein-Datum-11162674.html"
+    },
+    {
+      "title": "Die OWASP Top Ten 2025 vorgestellt",
+      "url": "https://www.heise.de/hintergrund/Die-OWASP-Top-Ten-2025-vorgestellt-11103707.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im Februar 2026",
+      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-Februar-2026-11162642.html"
+    },
     {
       "title": "Milliardenauftrag: BMW kauft langfristig weiterentwickelte ZF 8-Gang-Automaten",
       "url": "https://www.heise.de/news/Milliardenauftrag-BMW-kauft-langfristig-weiterentwickelte-ZF-8-Gang-Automaten-11162656.html"
@@ -54,18 +68,6 @@
     {
       "title": "Wie Deutschland die Digitalisierung seiner Gesundheits‑IT selbst ausbremst",
       "url": "https://www.heise.de/hintergrund/Interview-Digitalisierung-im-Gesundheitswesen-scheitert-nicht-an-der-IT-11161966.html"
-    },
-    {
-      "title": "Relativitätstheorie vs. Tatooine: Enge Exoplaneten um Doppelsterne sind instabil",
-      "url": "https://www.heise.de/news/Relativitaetstheorie-vs-Tatooine-Enge-Exoplaneten-um-Doppelsterne-sind-instabil-11162298.html"
-    },
-    {
-      "title": "60.000 Kündigungen: ADAC-Verkehrspräsident tritt ab",
-      "url": "https://www.heise.de/news/Nach-60-000-Kuendigungen-ADAC-Verkehrspraesident-Hillebrand-tritt-ab-11162318.html"
-    },
-    {
-      "title": "Dell Unity: Angreifer können Schadcode mit Root-Rechten ausführen",
-      "url": "https://www.heise.de/news/Dell-Unity-Angreifer-koennen-Schadcode-mit-Root-Rechten-ausfuehren-11162412.html"
     },
     {
       "title": "Angriff auf Notepad++Updater-Übernahme durch staatliche Akteure",
@@ -113,21 +115,21 @@
       "url": "https://www.heise.de/tests/Collabora-Office-LibreOffice-light-im-Test-11118860.html"
     },
     {
+      "title": "Lautstark lokalisiertAirTag 2 im Test",
+      "teaser": "Die zweite Generation Airtags tönt lauter, bringt Änderungen bei den Funkverbindungen. Was taugen sie?",
+      "url": "https://www.heise.de/tests/Lautstark-lokalisiert-AirTag-2-im-Test-11160732.html",
+      "image_title": ", Andreas Wodrich / heise medien"
+    },
+    {
       "title": "VorbildlichNorwegischen Pensionsfonds nachbauen",
       "teaser": "Der norwegische Pensionsfonds gilt als Vorbild, wenn es um die Altersvorsorge geht.",
       "url": "https://www.heise.de/ratgeber/So-bauen-Sie-den-erfolgreichen-norwegischen-Pensionsfonds-nach-11058760.html",
       "image_title": "Dinge, die man mit Norwegen in Verbindung bringt"
     },
     {
-      "title": "Meta Ray-Ban Display im TestSmartglasses mit Mini-Anzeige und Gestensteuerung",
+      "title": "Meta Ray-Ban Display im TestSmartglasses mit Mini-Anzeige & Gestensteuerung",
       "teaser": "KI und Nachrichten direkt im Blickfeld, gesteuert über ein neuronales Armband. Wir testen die Meta Ray-Ban Display.",
       "url": "https://www.heise.de/tests/Meta-Ray-Ban-Display-im-Test-Smartglasses-mit-Mini-Anzeige-und-Gestensteuerung-11142776.html"
-    },
-    {
-      "title": "Lautstark lokalisiertAirTag 2 im Test",
-      "teaser": "Die zweite Generation Airtags tönt lauter, bringt Änderungen bei den Funkverbindungen. Was taugen sie?",
-      "url": "https://www.heise.de/tests/Lautstark-lokalisiert-AirTag-2-im-Test-11160732.html",
-      "image_title": ", Andreas Wodrich / heise medien"
     },
     {
       "title": "MoltbookKI-Agenten drehen frei auf Reddit-Klon",
@@ -188,8 +190,31 @@
       "image_title": "Wimmelbild, wie die ITSG arbeitet"
     },
     {
+      "title": "Windows mit NTLM: Das Ende des Albtraums – vielleicht demnächst",
+      "teaser": "Microsoft will das unsichere NTLM-Protokoll mit der nächsten Windows Server-Version standardmäßig deaktivieren. Dessen Erscheinungstermin bleibt jedoch offen.",
+      "url": "https://www.heise.de/news/Windows-Microsoft-konkretisiert-NTLM-Aus-nennt-aber-immer-noch-kein-Datum-11162674.html",
+      "image_title": "Laptop mit Windows 11"
+    },
+    {
+      "title": "Die OWASP Top Ten 2025 vorgestellt",
+      "teaser": "Das Open Worldwide Application Security Project hat auf seiner Veranstaltung OWASP Global AppSec den Release Candidate 1 der neuen OWASP Top Ten vorgestellt.",
+      "url": "https://www.heise.de/hintergrund/Die-OWASP-Top-Ten-2025-vorgestellt-11103707.html",
+      "image_title": ","
+    },
+    {
+      "title": "Bezahlbare Cyber-Sicherheit für den Mittelstand",
+      "teaser": "Begrenzte Ressourcen, aber raffiniertere Bedrohungen – mit dem Einsatz von KI können sich Unternehmen effektiv schützen. Denn beim digitalen Wettrüsten ist KI ein Angriffs- und Verteidigungswerkzeug.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7195670840&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im Februar 2026",
+      "teaser": "Im Februar zeigt Netflix alle Staffeln von \"Stargate SG-1\". Bei Amazon Prime ist \"The Life Of Chuck\" im Programm und bei Disney+ läuft \"Inglourious Basterds\".",
+      "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-Februar-2026-11162642.html",
+      "image_title": "Screenshot zeigt ein Promobild der Serie Stargate SG-1"
+    },
+    {
       "title": "Milliardenauftrag: BMW kauft langfristig weiterentwickelte ZF 8-Gang-Automaten",
-      "teaser": "BMW bestellt bei ZF Weiterentwicklung der bewährten 8-Stufen-Wandlerautomatik. Das Vertragsvolumen sind mehrere Milliarden Euro bis in die späten 2030er-Jahre.",
+      "teaser": "BMW bestellt bei ZF Weiterentwicklung der bewährten 8-Stufen-Wandlerautomatik. Das Vertragsvolumen ist mehrere Milliarden Euro bis in die späten 2030er-Jahre.",
       "url": "https://www.heise.de/news/Milliardenauftrag-BMW-kauft-langfristig-weiterentwickelte-ZF-8-Gang-Automaten-11162656.html",
       "image_title": "ZF 8HP evo"
     },
@@ -198,11 +223,6 @@
       "teaser": "Kein Jobkiller-Effekt durch Algorithmen: Die Regierung sieht die Ursachen für die Flaute am IT-Arbeitsmarkt primär in der schwachen Konjunktur – nicht bei KI.",
       "url": "https://www.heise.de/news/Bundesregierung-KI-gefaehrdet-IT-Berufseinstieg-bislang-nicht-11162652.html",
       "image_title": "Ein Hand mit einem Stift unterzeichnet einen Vertrag"
-    },
-    {
-      "title": "Bezahlbare Cyber-Sicherheit für den Mittelstand",
-      "teaser": "Begrenzte Ressourcen, aber raffiniertere Bedrohungen – mit dem Einsatz von KI können sich Unternehmen effektiv schützen. Denn beim digitalen Wettrüsten ist KI ein Angriffs- und Verteidigungswerkzeug.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7195670840&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Kleines DAB+-Radio mit ASA-Warnfunktion & Akku",
@@ -220,24 +240,6 @@
       "teaser": "Wer Vertrauliches unerlaubt ausposaunt, kann Persönlichkeitsrechte verletzen und sich sogar strafbar machen. Schützt das Gesetz auch vertrauliche Chatpostings?",
       "url": "https://www.heise.de/hintergrund/Vertrauliche-Chatkommunikation-Die-Rechtslage-11082267.html",
       "image_title": "Wie schützt das Gesetz vertrauliche Chatkommunikation?"
-    },
-    {
-      "title": "AlertDell Unity: Angreifer können Schadcode mit Root-Rechten ausführen",
-      "teaser": "Admins sollten zeitnah ein wichtiges Sicherheitsupdate für Dell Unity Operating Environment installieren.",
-      "url": "https://www.heise.de/news/Dell-Unity-Angreifer-koennen-Schadcode-mit-Root-Rechten-ausfuehren-11162412.html",
-      "image_title": "Notfall im Rechenzentrum"
-    },
-    {
-      "title": "AlertAnonymisierendes Linux: Notfall-Update Tails 7.4.1 erschienen",
-      "teaser": "Die auf Anonymität im Netz ausgerichtete Linux-Distribution Tails ist in Version 7.4.1 erschienen – ein Notfall-Update.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Notfall-Update-Tails-7-4-1-erschienen-11162314.html",
-      "image_title": "Desktop von Tails auf einem Notebook"
-    },
-    {
-      "title": "Genregulation verstehen: Google Deepmind eröffnet laut Studie neue Möglichkeiten",
-      "teaser": "Das KI-Modell AlphaGenome soll das Verständnis verbessern, wie Gene Prozesse im Körper steuern. Es liefert ein größeres und höher aufgelöstes Bild als bisher.",
-      "url": "https://www.heise.de/news/Genregulation-verstehen-Google-Deepmind-eroeffnet-laut-Studie-neue-Moeglichkeiten-11162342.html",
-      "image_title": "Medicine,Doctor,Touching,Electronic,Medical,Record,On,Tablet.,Dna.,Digital"
     },
     {
       "title": "EnergiewendeSmart Meter: Warum die Probleme oft erst nach der Installation beginnen",
@@ -330,6 +332,24 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "AlertDell Unity: Angreifer können Schadcode mit Root-Rechten ausführen",
+      "teaser": "Admins sollten zeitnah ein wichtiges Sicherheitsupdate für Dell Unity Operating Environment installieren.",
+      "url": "https://www.heise.de/news/Dell-Unity-Angreifer-koennen-Schadcode-mit-Root-Rechten-ausfuehren-11162412.html",
+      "image_title": "Notfall im Rechenzentrum"
+    },
+    {
+      "title": "AlertAnonymisierendes Linux: Notfall-Update Tails 7.4.1 erschienen",
+      "teaser": "Die auf Anonymität im Netz ausgerichtete Linux-Distribution Tails ist in Version 7.4.1 erschienen – ein Notfall-Update.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Notfall-Update-Tails-7-4-1-erschienen-11162314.html",
+      "image_title": "Desktop von Tails auf einem Notebook"
+    },
+    {
+      "title": "Genregulation verstehen: Google Deepmind eröffnet laut Studie neue Möglichkeiten",
+      "teaser": "Das KI-Modell AlphaGenome soll das Verständnis verbessern, wie Gene Prozesse im Körper steuern. Es liefert ein größeres und höher aufgelöstes Bild als bisher.",
+      "url": "https://www.heise.de/news/Genregulation-verstehen-Google-Deepmind-eroeffnet-laut-Studie-neue-Moeglichkeiten-11162342.html",
+      "image_title": "Medicine,Doctor,Touching,Electronic,Medical,Record,On,Tablet.,Dna.,Digital"
+    },
+    {
       "title": "iX-Workshop: SW-Architektur – CPSA Foundation Level mit iSAQB-Zertifizierung",
       "teaser": "Werden Sie zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-SW-Architektur-CPSA-Foundation-Level-mit-iSAQB-Zertifizierung-11153404.html",
@@ -389,6 +409,11 @@
       "image_title": "OpenClaw-Logo"
     },
     {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
+    },
+    {
       "title": "Neue Zahlen zur Versionsverteilung: Android 16 mit 7,5 Prozent Marktanteil",
       "teaser": "Google hat in Android Studio Zahlen zur Android-Versionsverteilung veröffentlicht: Die meisten Geräte laufen demnach auf Android 15.",
       "url": "https://www.heise.de/news/Neue-Zahlen-zur-Versionsverteilung-Android-16-mit-7-5-Prozent-Marktanteil-11161849.html",
@@ -401,15 +426,10 @@
       "image_title": "Dexory V2 Roboter scannt bei Stellantis im Lager die Regale."
     },
     {
-      "title": "„Flip-Phone“: Nach dem Foldable erwägt Apple weiteren quadratischen Formfaktor",
-      "teaser": "Einem Bericht zufolge erwägt Apple nach seinem ersten faltbaren iPhone auch ein Modell im Motorola-Razr-Stil – und würde damit Samsung & Co. folgen.",
+      "title": "„Flip-Phone“: Nach dem Foldable erwägt Apple weiteren Formfaktor,",
+      "teaser": "Einem Bericht zufolge denkt Apple nach seinem ersten faltbaren iPhone auch an ein Modell im Motorola-Razr-Stil – und würde damit Samsung & Co. folgen.",
       "url": "https://www.heise.de/news/Apple-geflippt-Nach-dem-Foldable-koennte-Apple-ein-Klapp-iPhone-bringen-11161990.html",
       "image_title": "Flip-Gerät, hier von Samsung"
-    },
-    {
-      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
-      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
     },
     {
       "title": "Large Hadron Collider: Kühlwasser versorgt Wohngegend mit Wärme",
@@ -450,24 +470,6 @@
       "teaser": "Energie aus erneuerbaren Energien lässt sich in einem Wärmesandspeicher speichern. Besonders effektiv soll das ein Speicher mit zirkulierendem Sand können.",
       "url": "https://www.heise.de/news/Waermespeicher-mit-zirkulierendem-Sand-senkt-Energiekosten-und-CO-Ausstoss-11161751.html",
       "image_title": "Ein Sandspeicher"
-    },
-    {
-      "title": "AlertSicherheitspatches: Root-Attacken auf IBM Db2 möglich",
-      "teaser": "Mehrere Sicherheitslücken gefährden IBMs Datenbankmanagementsystem Db2. Primär können Instanzen abstürzen.",
-      "url": "https://www.heise.de/news/Sicherheitspatches-Root-Attacken-auf-IBM-Db2-moeglich-11161723.html",
-      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
-      "title": "Rückgrat der KI-Ära: Moderne Vektordatenbanken im Marktüberblick",
-      "teaser": "Neue Player, hybride Suchansätze und ZeroOps-Architekturen mischen den Markt der Vektordatenbanken auf und stellen bisherige Datenbanklogiken infrage.",
-      "url": "https://www.heise.de/hintergrund/Rueckgrat-der-KI-Aera-Moderne-Vektordatenbanken-im-Marktueberblick-11130571.html",
-      "image_title": ","
-    },
-    {
-      "title": "Google gibt Fitbit-Nutzern mehr Zeit für Kontoumstellung",
-      "teaser": "Google verschiebt die Google-Kontopflicht für Fitbit-Nutzer erneut – dieses Mal nur um ein paar Monate. Die neue Frist endet am 19. Mai 2026.",
-      "url": "https://www.heise.de/news/Google-verschiebt-Google-Kontopflicht-fuer-Fitbit-Nutzer-erneut-11161759.html",
-      "image_title": "Fitbit-Logo an Wand"
     },
     {
       "title": "Frankreich legt Veto gegen Verkauf von Eutelsat-Bodenantennen ein",
@@ -638,6 +640,12 @@
       "url": "https://www.heise.de/en/news/Artemis-2-Cold-snap-delays-dress-rehearsal-11161277.html"
     },
     {
+      "title": "Bit-Rauschen: Intel zittert weiter, Musk streitet mit OpenAI, RAM-Boom",
+      "teaser": "Intel rettete sich über das Jahr 2025, wartet aber auf echten Aufschwung. Musk will hunderte Milliarden von OpenAI. RAM-Hersteller verdienen sich goldene Nasen.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Intel-zittert-weiter-Musk-streitet-mit-OpenAI-RAM-Boom-11074551.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
       "title": "Sortieralgorithmen: Was Timsort so schnell macht",
       "teaser": "Beim Aufruf von sort() kümmerte sich von Python Version 2.3 bis 3.11 Timsort darum, Elemente einer Liste in die korrekte Reihenfolge zu manövrieren.",
       "url": "https://www.heise.de/hintergrund/Sortieralgorithmen-Was-Timsort-so-schnell-macht-11129587.html"
@@ -647,12 +655,6 @@
       "teaser": "Die Berliner kontert das anstehende Rückvergütungsverbot der EU durch eine eigene Plattform.",
       "url": "https://www.heise.de/news/Trade-Republic-erhaelt-Lizenz-fuer-eigenen-Handelsplatz-11161586.html",
       "image_title": "Trade-Republic-App auf einem Smartphone"
-    },
-    {
-      "title": "Frankreich legt Veto gegen Verkauf von Eutelsat-Bodenantennen ein",
-      "teaser": "Die französische Regierung hat aus Sicherheitsgründen ein Ersuchen des Investors EQT abgelehnt, die Antennen des Satellitensystems Eutelsat zu erwerben.",
-      "url": "https://www.heise.de/news/Frankreich-legt-Veto-gegen-Verkauf-von-Eutelsat-Bodenantennen-ein-11161607.html",
-      "image_title": "Eutelsat-Sitz in Frankreich"
     },
     {
       "title": "Einsteiger-WorkshopMit Markdown strukturiert texten",
@@ -751,22 +753,22 @@
       "image_title": "Tesla,Logo,On,Steering,Wheel,Of,The,Electric,Vehicle,By"
     },
     {
-      "title": "Robo-Blüten: Brauchen wir bald keine Bienen mehr?",
-      "teaser": "Forscher verändern Blüten per Gen-Schere so, dass Roboter sie bestäuben können. Doch die Technik birgt ungeahnte Risiken.",
-      "url": "https://www.heise.de/-11158030",
-      "image_title": "Bleistift mit Schaft aus Doppelhelix zeichnet Blüte, die von Roboterarm bestäubt wird"
-    },
-    {
-      "title": "Iran soll die Bombe bekommen? Den Regimewechsel zu versuchen, könnte helfen",
-      "teaser": "Trump scheint zu einem weiteren Krieg gegen Teheran entschlossen — mit noch größeren Risiken für regionales Chaos und nukleare Proliferation. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/-11161314",
-      "image_title": "Großer Flottenverband mit Flugzeugträger an der Spitze"
-    },
-    {
       "title": "Zahnlücken für die Armen – der neue Plan der CDU",
       "teaser": "Der CDU-Wirtschaftsrat fordert einen radikalen Umbau der Krankenversicherung. Sogar die eigene Partei läuft Sturm gegen den Vorstoß.",
       "url": "https://www.heise.de/-11162288",
       "image_title": "Zahnarzt, der eine Zahnbürste ins Bild hält"
+    },
+    {
+      "title": "Chips aus China: Wie ein Faden dünner als ein Haar zum Computer wird",
+      "teaser": "Ein Faden dünner als ein Haar kann rechnen wie ein Chip – und überlebt sogar die Waschmaschine. Jetzt wird Kleidung wirklich smart.",
+      "url": "https://www.heise.de/-11162777",
+      "image_title": "Flexibler Faserchip mit Transistoren auf Fingerkuppe verknotet – Fudan-Universität zeigt biegsame Mikroelektronik für smarte Textilien"
+    },
+    {
+      "title": "Mehrwertsteuer-Erhöhung: Russlands kleine Unternehmen in der Zwickmühle",
+      "teaser": "Russland erhöht die Mehrwertsteuer auf 22 Prozent. Kleine Unternehmen sind besonders betroffen. Droht dem Land eine Rezession?",
+      "url": "https://www.heise.de/-11162030",
+      "image_title": "Personen in einem Supermarkt"
     },
     {
       "title": "Videoschnitt für die Hosentasche: Diese 3 Freemium-Apps machen Capcut Konkurrenz",
