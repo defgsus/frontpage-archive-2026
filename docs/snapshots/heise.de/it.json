@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-03T09:28:22",
+  "timestamp": "2026-02-03T10:28:09",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Apple baut Shopping-Website um – schlechtere Preisübersicht beim Mac",
+      "teaser": "Bislang hatte Apple stets einige Mac-Grundmodelle samt Preis auf einer Übersichtsseite dargestellt. Nun müssen sich User erst Konfigurationen zusammenklicken.",
+      "url": "https://www.heise.de/news/Apple-baut-Shopping-Website-um-schlechtere-Preisuebersicht-beim-Mac-11162948.html",
+      "image_title": "Apple Online Store: Was man sieht, wenn man einen Mac konfigurieren will"
+    },
+    {
+      "title": "Tipps für Microsofts Sysinternals-Werkzeuge",
+      "teaser": "Die Sysinternals-Suite ist bekannt als Sammlung mächtiger System-Utilities für Windows. Weniger bekannt: Sie können die Werkzeuge sehr flexibel starten.",
+      "url": "https://www.heise.de/ratgeber/Tipps-fuer-Microsofts-Sysinternals-Werkzeuge-11134686.html"
+    },
+    {
       "title": "Schlank statt aufgebläht: Was Aggregate und Read Models wirklich sind",
       "teaser": "DDD, CQRS und Event Sourcing versprechen Flexibilität, doch viele Teams landen bei CRUD mit Extra-Schritten. Der Grund? Ein falsches Verständnis.",
       "url": "https://www.heise.de/blog/Schlank-statt-aufgeblaeht-Was-Aggregate-und-Read-Models-wirklich-sind-11157678.html",
       "image_title": "Blick auf einen Schreibtisch mit verschiedenen Dokumenten und bunten Klebezetteln."
     },
     {
-      "title": "WebAssembly: Wasmer 7.0 bringt experimentellen Async-Support für Python",
+      "title": "Wasmer 7.0 bringt experimentelle Async-API für Python",
       "teaser": "Die Runtime bietet neue Features für Python: eine experimentelle Async-API und Zugriff auf viele native Python-Libraries wie NumPy.",
       "url": "https://www.heise.de/news/WebAssembly-Wasmer-7-0-bringt-experimentellen-Async-Support-fuer-Python-11163234.html",
       "image_title": "Laptop, umgeben von Nullen und Einsen"
-    },
-    {
-      "title": "AlertSicherheitsupdate: Unbefugte Zugriffe auf WatchGuard Firebox vorstellbar",
-      "teaser": "Angreifer können auf Firebox-Firewalls von WatchGuard zugreifen. Reparierte Fireware-OS-Version stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Unbefugte-Zugriffe-auf-WatchGuard-Firebox-vorstellbar-11163128.html",
-      "image_title": "Oberhalb der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
-    },
-    {
-      "title": "Tipp: Safari lädt bestimmte Seiten auf iPhone, iPad oder Mac nicht",
-      "teaser": "Sollte der Apple-Browser Webseiten nicht länger richtig öffnen und anzeigen, kann es helfen, den Cache gezielt zu löschen.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Safari-laedt-bestimmte-Seiten-auf-iPhone-iPad-oder-Mac-nicht-4998186.html",
-      "image_title": "Cookies (Symbolbild)"
     },
     {
       "title": "TestsKurztests: Keysmart-Schloss, Elgato 4K S, Mac-mini-Case, Mac-mini-Hub & Stand",
@@ -63,6 +62,23 @@
       "title": "RatgeberLinux: Systemd-Services verstehen und so eigene Dienste steuern",
       "url": "https://www.heise.de/ratgeber/Linux-Systemd-Services-verstehen-und-so-eigene-Dienste-steuern-11091823.html",
       "image_title": "Comic-Zeichnung von einem Pinguin, der wie an einer Tafel steht, da ist aber ein Terminal was den Inhalt einer Systemd-Unit-Datei anzeigt."
+    },
+    {
+      "title": "Dyson Pencilvac: Extrem schmaler und leichter Akku-Staubsauger im Test",
+      "teaser": "Dyson bringt mit dem Pencilvac Fluffycones einen extrem schlanken Akku-Staubsauger auf den Markt. Wir haben das Nischenprodukt getestet.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/dyson-pencilvac-extrem-schmaler-und-leichter-akku-staubsauger-im-test/4z9xtg8?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "AlertSicherheitsupdate: Unbefugte Zugriffe auf WatchGuard Firebox vorstellbar",
+      "teaser": "Angreifer können auf Firebox-Firewalls von WatchGuard zugreifen. Reparierte Fireware-OS-Version stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Unbefugte-Zugriffe-auf-WatchGuard-Firebox-vorstellbar-11163128.html",
+      "image_title": "Oberhalb der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
+    },
+    {
+      "title": "Tipp: Safari lädt bestimmte Seiten auf iPhone, iPad oder Mac nicht",
+      "teaser": "Sollte der Apple-Browser Webseiten nicht länger richtig öffnen und anzeigen, kann es helfen, den Cache gezielt zu löschen.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Safari-laedt-bestimmte-Seiten-auf-iPhone-iPad-oder-Mac-nicht-4998186.html",
+      "image_title": "Cookies (Symbolbild)"
     },
     {
       "title": "Software Testing: Testen und Qualitätssicherung bei Start-ups",
@@ -134,24 +150,6 @@
       "teaser": "Fritz bereitet die Markteinführung des Wi-Fi-7-Routers Fritzbox 4630 vor. Sie ist für Glasfaseranschlüsse mit separatem Modem gedacht.",
       "url": "https://www.heise.de/news/Einsteiger-Fritzbox-4630-kommt-fuer-169-Euro-11162634.html",
       "image_title": "Fritzbox auf einem Holztisch in einem Wohnzimmer"
-    },
-    {
-      "title": "AlertDell Unity: Angreifer können Schadcode mit Root-Rechten ausführen",
-      "teaser": "Admins sollten zeitnah ein wichtiges Sicherheitsupdate für Dell Unity Operating Environment installieren.",
-      "url": "https://www.heise.de/news/Dell-Unity-Angreifer-koennen-Schadcode-mit-Root-Rechten-ausfuehren-11162412.html",
-      "image_title": "Notfall im Rechenzentrum"
-    },
-    {
-      "title": "Raspi-Preise steigen: 16-GByte-Version nähert sich 300 Euro",
-      "teaser": "Der Raspi-Hersteller erhöht wegen des teuren Speichers noch mal die Preise. Das Topmodell Raspberry Pi 5 steigt auf über 200 Euro.",
-      "url": "https://www.heise.de/news/Fast-alle-Raspberry-Pis-werden-teurer-11162382.html",
-      "image_title": "Bild aus der Raspi-Produktion"
-    },
-    {
-      "title": "AlertAnonymisierendes Linux: Notfall-Update Tails 7.4.1 erschienen",
-      "teaser": "Die auf Anonymität im Netz ausgerichtete Linux-Distribution Tails ist in Version 7.4.1 erschienen – ein Notfall-Update.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Notfall-Update-Tails-7-4-1-erschienen-11162314.html",
-      "image_title": "Desktop von Tails auf einem Notebook"
     },
     {
       "title": "NewsOpenClaw ausprobiert: Die gefährlichste Software der Welt?",
