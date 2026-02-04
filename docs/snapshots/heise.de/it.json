@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-04T07:36:47",
+  "timestamp": "2026-02-04T08:26:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,44 @@
   ],
   "articles": [
     {
+      "title": "Kommentar: Apple leakt sich diesmal selbst",
+      "teaser": "Zum Jahreswechsel wurden diverse interne Informationen von Apple bekannt. Was bedeutet das für das Produktjahr 2026?",
+      "url": "https://www.heise.de/meinung/Kommentar-Apple-leakt-sich-diesmal-selbst-11163920.html",
+      "image_title": "Apple-Logo als Geschenk"
+    },
+    {
+      "title": "„Passwort“ Folge 50: Jubiläum mit Feedback, Cloudflare und Bluetooth-Lücke",
+      "teaser": "Im Security-Podcast geht es um Festplattenverschlüsselungen, fragwürdige Matrix-Server, KI-Teststrings, Bluetooth-Lücken – und um das reichliche Hörer-Feedback.",
+      "url": "https://www.heise.de/news/Passwort-Folge-50-Jubilaeum-mit-Feedback-Cloudflare-und-Bluetooth-Luecke-11164108.html",
+      "image_title": "Logo des Passwort-Podcasts"
+    },
+    {
+      "title": "30 Jahre Java – Interview mit Community-Vertretern (Teil 4)",
+      "teaser": "Java wurde 2025 schon 30 Jahre alt. Das ist ein guter Zeitpunkt, zurück, aber auch nach vorn zu blicken.",
+      "url": "https://www.heise.de/blog/30-Jahre-Java-Interview-mit-Community-Vertretern-Teil-4-11122817.html",
+      "image_title": "Zahl 30 steht auf Kaffeetasse"
+    },
+    {
+      "title": "AlertAngriffe auf Solarwinds Web Help Desk, FreePBX und Gitlab beobachtet",
+      "teaser": "Die CISA warnt vor jüngst beobachteten Angriffen auf Sicherheitslücken in Solarwinds Web Help Desk, FreePBX und Gitlab.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Solarwinds-Web-Help-Desk-FreePBX-und-Gitlab-beobachtet-11164498.html",
+      "image_title": "Mann drückt auf holografischen Bildschirm mit Warnsymbol"
+    },
+    {
+      "title": "HintergrundApples KI-Motoren: Das können die aktuellen M-Chips bei lokalen LLMs & Co.",
+      "url": "https://www.heise.de/hintergrund/Apples-KI-Motoren-Das-koennen-die-aktuellen-M-Chips-bei-lokalen-LLMs-Co-11154327.html",
+      "image_title": ", Madlen Grunert / KI / heise medien"
+    },
+    {
+      "title": "HintergrundBSI-Report 2025: Keine Entwarnung für den Mittelstand",
+      "url": "https://www.heise.de/hintergrund/BSI-Report-2025-Keine-Entwarnung-fuer-den-Mittelstand-11139712.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundWie man mit Spectre Cloud-Systeme angreift",
+      "url": "https://www.heise.de/hintergrund/Wie-man-mit-Spectre-Cloud-Systeme-angreift-11139612.html"
+    },
+    {
       "title": "Musk kann SEC-Klage zu Twitter-Übernahme nicht abweisen lassen",
       "teaser": "Elon Musk meldete beim Twitter-Kauf zu spät das Überschreiten einer wichtigen Beteiligungsmarke. Die Börsenaufsicht erringt nun einen juristischen Etappensieg.",
       "url": "https://www.heise.de/news/Musk-kann-SEC-Klage-zu-Twitter-Uebernahme-nicht-abweisen-lassen-11164482.html",
@@ -47,20 +85,6 @@
       "title": "secIT 2026: Interaktive Cyberattacke zum Mitmachen – was würden Sie tun?",
       "teaser": "Cloud-Sicherheit, Ransomware-Abwehr und KI für Verteidiger: Das und vieles mehr bietet die IT-Security-Konferenzmesse secIT im März in Hannover.",
       "url": "https://www.heise.de/news/secIT-2026-Interaktive-Cyberattacke-zum-Mitmachen-was-wuerden-Sie-tun-11158318.html"
-    },
-    {
-      "title": "HintergrundApples KI-Motoren: Das können die aktuellen M-Chips bei lokalen LLMs & Co.",
-      "url": "https://www.heise.de/hintergrund/Apples-KI-Motoren-Das-koennen-die-aktuellen-M-Chips-bei-lokalen-LLMs-Co-11154327.html",
-      "image_title": ", Madlen Grunert / KI / heise medien"
-    },
-    {
-      "title": "HintergrundBSI-Report 2025: Keine Entwarnung für den Mittelstand",
-      "url": "https://www.heise.de/hintergrund/BSI-Report-2025-Keine-Entwarnung-fuer-den-Mittelstand-11139712.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundWie man mit Spectre Cloud-Systeme angreift",
-      "url": "https://www.heise.de/hintergrund/Wie-man-mit-Spectre-Cloud-Systeme-angreift-11139612.html"
     },
     {
       "title": "Kommentar: Nein, doch, oh! Bitlocker ist unsicher",
@@ -121,30 +145,6 @@
       "title": "Mini-Notfall-Powerbank für den Schlüsselbund: Vonmählen Evergreen Go im Test",
       "teaser": "Die Vonmählen Evergreen Go ist eine ultrakompakte Notfall-Powerbank für den Schlüsselbund. Reichen 1000 mAh und 5 W im Alltag?",
       "url": "https://www.heise.de/bestenlisten/testbericht/mini-notfall-powerbank-fuer-den-schluesselbund-vonmaehlen-evergreen-go-im-test/snybhmq?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Effizientes C++: Die versteckten Kosten des Rückgabedatentyps auto",
-      "teaser": "Wer die Dauer eines Compiler-Durchlaufs optimieren möchte, muss auf viele Details achten, darunter das Sprachelement auto.",
-      "url": "https://www.heise.de/blog/Effizientes-C-Die-versteckten-Kosten-des-Rueckgabedatentyps-auto-11157548.html",
-      "image_title": "Schraubenschlüssel mit zwei Zahnrädern"
-    },
-    {
-      "title": "IT-Altgeräte: Spenden und Weitergabe statt Müll dominieren in deutschen Firmen",
-      "teaser": "Laut einer Bitkom-Studie entsorgen drei Viertel der deutschen Firmen ausgediente Geräte fachgerecht. Viele spenden an Schulen oder verkaufen sie an Mitarbeiter.",
-      "url": "https://www.heise.de/news/Drei-Viertel-der-Unternehmen-entsorgen-ausrangierte-IT-Geraete-fachgerecht-11163930.html",
-      "image_title": "Baum mit grünen Leiterbahnen"
-    },
-    {
-      "title": "AI Safety Report 2026: Bestehende KI-Sicherheitspraktiken reichen nicht aus",
-      "teaser": "Der kürzlich veröffentlichte AI Safety Report untersucht die Risiken allgemeiner KI. Dem Bericht zufolge sind bisherige Sicherheitsmaßnahmen unzulänglich.",
-      "url": "https://www.heise.de/news/AI-Safety-Report-2026-Bestehende-KI-Sicherheitspraktiken-reichen-nicht-aus-11163912.html",
-      "image_title": "Ein Screenshot des Internationals AI Safety Reports 2026."
-    },
-    {
-      "title": "OpenAI mag Nvidias Inferenz-Beschleuniger angeblich nicht",
-      "teaser": "Nvidia-Chef Jensen Huang mag OpenAIs Geschäftsstrategie angeblich nicht. OpenAI soll nach Alternativen suchen. Nvidias Aktie rutscht.",
-      "url": "https://www.heise.de/news/Zoff-zwischen-Nvidia-und-OpenAI-11163902.html",
-      "image_title": "Nvidia-Chef Jensen Huang auf einer Bühne mit Blackwell-Beschleunigern"
     },
     {
       "title": "NewsMilliardenauftrag: BMW kauft langfristig weiterentwickelte ZF 8-Gang-Automaten",
