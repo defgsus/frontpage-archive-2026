@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-04T10:27:54",
+  "timestamp": "2026-02-04T11:25:09",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,15 +26,72 @@
   ],
   "articles": [
     {
+      "title": "Mehrere KI-Agenten orchestrieren mit der Codex-App von OpenAI",
+      "teaser": "Multitasking statt sequenzielles Abarbeiten von Aufgaben: Mit der Codex-App lassen sich mehrere KI-Agenten gleichzeitig ausführen und zentral steuern.",
+      "url": "https://www.heise.de/news/Mehrere-KI-Agenten-orchestrieren-mit-der-Codex-App-von-OpenAI-11164965.html",
+      "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
+    },
+    {
+      "title": "Google und Microsoft starten plattformübergreifende Videokonferenzen",
+      "teaser": "Die Videokonferenz-Hardware von Google und Microsoft ist fortan interoperabel. Auf einige Funktionen müssen Nutzer jedoch verzichten.",
+      "url": "https://www.heise.de/news/Google-und-Microsoft-starten-plattformuebergreifende-Videokonferenzen-11164634.html",
+      "image_title": "Konferenzraum mit Teilnehmern am Tisch sitzend, Bildschirm an der Wand mit weiteren zugeschalteten Teilnehmern"
+    },
+    {
+      "title": "Online-Konferenz betterCode() ABAP 2026: Cloud-Entwicklung und KI im Fokus",
+      "teaser": "Das Event am 29. April 2026 behandelt Themen wie ABAP Cloud, das ABAP RESTful Application Programming Model und den Einsatz von SAP Joule for Developers.",
+      "url": "https://www.heise.de/news/Online-Konferenz-betterCode-ABAP-2026-Cloud-Entwicklung-und-KI-im-Fokus-11158534.html",
+      "image_title": "betterCode() ABAP 2026 Logo und Titel"
+    },
+    {
+      "title": "Vision Language Model: Wie FastVLM hochauflösende Bilder im Browser analysiert",
+      "teaser": "Hochauflösende Bilder gelten als Leistungsbremse. Doch neue Ansätze versprechen Abhilfe. FastVLM zeigt, warum die Effizienz nicht bei der Auflösung enden muss.",
+      "url": "https://www.heise.de/hintergrund/Vision-Language-Model-Wie-FastVLM-hochaufloesende-Bilder-im-Browser-analysiert-11156884.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundVision Language Model: Wie FastVLM hochauflösende Bilder im Browser analysiert",
+      "url": "https://www.heise.de/hintergrund/Vision-Language-Model-Wie-FastVLM-hochaufloesende-Bilder-im-Browser-analysiert-11156884.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundLawinenrettung: Wie Hightech Risiken verringern soll",
+      "url": "https://www.heise.de/hintergrund/Lawinenrettung-Wie-Hightech-Risiken-verringern-soll-11128910.html"
+    },
+    {
+      "title": "HintergrundApples KI-Motoren: Das können die aktuellen M-Chips bei lokalen LLMs & Co.",
+      "url": "https://www.heise.de/hintergrund/Apples-KI-Motoren-Das-koennen-die-aktuellen-M-Chips-bei-lokalen-LLMs-Co-11154327.html",
+      "image_title": ", Madlen Grunert / KI / heise medien"
+    },
+    {
+      "title": "Indien: Apple kommt um „Steuerfalle“ bei Fertigung herum",
+      "teaser": "Nach entsprechender Lobbyarbeit hat es Apple geschafft: Der Konzern darf Maschinen für seine Lieferanten in Indien kaufen – ohne riesige Steuerrechnung.",
+      "url": "https://www.heise.de/news/Indien-Apple-kommt-um-Steuerfalle-bei-Fertigung-herum-11164350.html",
+      "image_title": "Apple-Fähnchen auf Karte mit Indien"
+    },
+    {
+      "title": "Aus für SharePoint und OneDrive: Microsoft zwingt Nutzer in teure Suites",
+      "teaser": "Microsoft beendet den Verkauf eigenständiger SharePoint- und OneDrive-Lizenzen. Bis 2029 sollen Kunden auf teure M365-Suites umsteigen.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-Standalone-Lizenzen-fuer-SharePoint-und-OneDrive-ein-11164790.html",
+      "image_title": "Microsoft 365"
+    },
+    {
+      "title": "Windows-PC fürs Wohnzimmer: AMD stellt nächsten Xbox-Prozessor 2027 fertig",
+      "teaser": "AMD-Chefin Lisa Su höchstpersönlich spricht über Microsofts nächste Xbox-Konsole. Der Semi-Custom-Prozessor ist nächstes Jahr fertig.",
+      "url": "https://www.heise.de/news/AMD-Bereit-fuer-eine-neue-Xbox-im-Jahr-2027-11164926.html",
+      "image_title": "Microsofts Spielkonsolen Xbox Series X und S"
+    },
+    {
+      "title": "AlertSchadcode-Lücken in IBM WebSphere Application Server Liberty und Netcool/OMNIbus",
+      "teaser": "Angreifer können IBMs Anwendungsserver WebSphere Application Server Liberty und die Netzwerkmonitoringlösung Tivoli Netcool/OMNIbus attackieren.",
+      "url": "https://www.heise.de/news/Schadcode-Luecken-in-IBM-WebSphere-Application-Server-Liberty-und-Netcool-OMNIbus-11164596.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
       "title": "Native Sysmon-Integration in Windows rückt näher",
       "teaser": "Microsoft hat Windows-Insider-Vorschauen veröffentlicht, die das mächtige Sysmon-Protokollierungstool als Windows-Feature mitbringen.",
       "url": "https://www.heise.de/news/Native-Sysmon-Integration-in-Windows-rueckt-naeher-11164696.html",
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Lawinenrettung: Wie Hightech Risiken verringern soll",
-      "teaser": "Lawinen sind das größte Risiko winterlichen Alpensports. Verschiedene technische Errungenschaften sollen fatale Folgen verhindern.",
-      "url": "https://www.heise.de/hintergrund/Lawinenrettung-Wie-Hightech-Risiken-verringern-soll-11128910.html"
     },
     {
       "title": "KI-Boom hilft Infineon durch schwache Märkte, Kauf eines Teils von ams Osram",
@@ -47,20 +104,6 @@
       "teaser": "Google hat Chrome OS intern ein Ablaufdatum verpasst. Der Ersatz, das auf Android-basierende Aluminium OS soll zudem in diesem Jahr noch nicht abheben.",
       "url": "https://www.heise.de/news/Chrome-OS-Google-hat-intern-ein-Ablaufdatum-11164638.html",
       "image_title": "Rückseite eines Chromebooks mit dem Logo, im Hintergrund das unscharfe Gesicht eines Kindes"
-    },
-    {
-      "title": "HintergrundLawinenrettung: Wie Hightech Risiken verringern soll",
-      "url": "https://www.heise.de/hintergrund/Lawinenrettung-Wie-Hightech-Risiken-verringern-soll-11128910.html"
-    },
-    {
-      "title": "HintergrundApples KI-Motoren: Das können die aktuellen M-Chips bei lokalen LLMs & Co.",
-      "url": "https://www.heise.de/hintergrund/Apples-KI-Motoren-Das-koennen-die-aktuellen-M-Chips-bei-lokalen-LLMs-Co-11154327.html",
-      "image_title": ", Madlen Grunert / KI / heise medien"
-    },
-    {
-      "title": "HintergrundBSI-Report 2025: Keine Entwarnung für den Mittelstand",
-      "url": "https://www.heise.de/hintergrund/BSI-Report-2025-Keine-Entwarnung-fuer-den-Mittelstand-11139712.html",
-      "image_title": ","
     },
     {
       "title": "iX-Workshop: Backstage für Admins – IDP im Unternehmen aufbauen und betreiben",
@@ -109,43 +152,6 @@
       "teaser": "Elon Musk meldete beim Twitter-Kauf zu spät das Überschreiten einer wichtigen Beteiligungsmarke. Die Börsenaufsicht erringt nun einen juristischen Etappensieg.",
       "url": "https://www.heise.de/news/Musk-kann-SEC-Klage-zu-Twitter-Uebernahme-nicht-abweisen-lassen-11164482.html",
       "image_title": "Paris,,France,,October,8.,2022:,Portrait,Of,Business,Magnate,And"
-    },
-    {
-      "title": "„Fallout Season 2“: Pointen, bis der Kopf platzt",
-      "teaser": "Hinter dem Ende gibt es noch etwas zu lachen. Auch in Staffel 2 ist „Fallout“ dann am besten, wenn es gemeine Witze macht.",
-      "url": "https://www.heise.de/tests/Fallout-Season-2-Pointen-bis-der-Kopf-platzt-11163892.html",
-      "image_title": "Screenshot aus Staffel 2 von Fallout"
-    },
-    {
-      "title": "programmier.bar: Coding Agents mit Julia Kordick",
-      "teaser": "Zwischen Hype und Realität: Was AI Coding Agents im Entwicklungsalltag tatsächlich leisten, erklärt Julia Kordick von Microsoft.",
-      "url": "https://www.heise.de/blog/programmier-bar-Coding-Agents-mit-Julia-Kordick-11156565.html",
-      "image_title": "programmier.bar: Coding Agents mit Julia Kordick"
-    },
-    {
-      "title": "secIT 2026: Interaktive Cyberattacke zum Mitmachen – was würden Sie tun?",
-      "teaser": "Cloud-Sicherheit, Ransomware-Abwehr und KI für Verteidiger: Das und vieles mehr bietet die IT-Security-Konferenzmesse secIT im März in Hannover.",
-      "url": "https://www.heise.de/news/secIT-2026-Interaktive-Cyberattacke-zum-Mitmachen-was-wuerden-Sie-tun-11158318.html"
-    },
-    {
-      "title": "Wie man mit Spectre Cloud-Systeme angreift",
-      "teaser": "Ein Vortrag auf dem 39C3 demonstriert eindrucksvoll, dass CPU-Schwachstellen wie Spectre immer noch eine höchst relevante Gefahr darstellen.",
-      "url": "https://www.heise.de/hintergrund/Wie-man-mit-Spectre-Cloud-Systeme-angreift-11139612.html"
-    },
-    {
-      "title": "Kommentar: Nein, doch, oh! Bitlocker ist unsicher",
-      "teaser": "Dass Microsoft dem FBI Wiederherstellungsschlüssel übergibt, kriegen viele in den falschen Hals, meint Peter Siering. Das Problem ist die Erwartungshaltung.",
-      "url": "https://www.heise.de/meinung/Kommentar-Nein-doch-oh-Bitlocker-ist-unsicher-11160052.html"
-    },
-    {
-      "title": "Tipps für den richtigen Drucker für Familie und Homeoffice",
-      "teaser": "Suchen Sie einen Drucker für Ihren PC-Arbeitsplatz zu Hause? Unsere Tipps für Wenig- und Vieldrucker helfen bei der Auswahl und ersparen Fehlkäufe.",
-      "url": "https://www.heise.de/ratgeber/Tipps-fuer-den-richtigen-Drucker-fuer-Familie-und-Homeoffice-11153332.html"
-    },
-    {
-      "title": "Neun Drucker mit Tinte oder Toner im Test",
-      "teaser": "Brauchen Sie einen günstigen Heimdrucker oder ein Tintentankmodell für die Familie? Unsere c’t-getestete Druckerauswahl hilft bei der Entscheidung.",
-      "url": "https://www.heise.de/tests/Neun-Drucker-mit-Tinte-oder-Toner-im-Test-11133329.html"
     },
     {
       "title": "NewsMilliardenauftrag: BMW kauft langfristig weiterentwickelte ZF 8-Gang-Automaten",
