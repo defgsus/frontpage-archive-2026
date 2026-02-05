@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T08:28:59",
+  "timestamp": "2026-02-05T09:32:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,27 +26,31 @@
   ],
   "articles": [
     {
-      "title": "Neun Drucker mit Tinte oder Toner im Test",
-      "teaser": "Brauchen Sie einen günstigen Heimdrucker oder ein Tintentankmodell für die Familie? Unsere c’t-getestete Druckerauswahl hilft bei der Entscheidung.",
-      "url": "https://www.heise.de/tests/Neun-Drucker-mit-Tinte-oder-Toner-im-Test-11133329.html"
+      "title": "Wie man mit Spectre Cloud-Systeme angreift",
+      "teaser": "Ein Vortrag auf dem 39C3 demonstriert eindrucksvoll, dass CPU-Schwachstellen wie Spectre immer noch eine höchst relevante Gefahr darstellen.",
+      "url": "https://www.heise.de/hintergrund/Wie-man-mit-Spectre-Cloud-Systeme-angreift-11139612.html"
     },
     {
-      "title": "AlertAutomatisierungstool n8n: Aufräumen von Sicherheitslücken",
-      "teaser": "Im Automatisierungstool n8n haben die Entwickler weitere Sicherheitslücken gestopft. Ein Update auf die jüngste Fassung ist empfehlenswert.",
-      "url": "https://www.heise.de/news/Automatisierungstool-n8n-Weitere-kritische-Luecken-gestopft-11165845.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+      "title": "Git 2.53 macht große Repositories handlicher",
+      "teaser": "Die Versionsverwaltung erleichtert in Version 2.53 die Arbeit mit großen Repositorys, beschleunigt das Repacking und geht gezielter mit Commit‑Signaturen um.",
+      "url": "https://www.heise.de/news/Git-2-53-macht-grosse-Repositories-handlicher-11165863.html",
+      "image_title": "Pakete auf einem Fließband"
     },
     {
-      "title": "Grenzenlos andocken: DockThings für macOS im Test",
-      "teaser": "Ein Dock auf dem Mac ist nicht genug: DockThings sammelt Apps, Links, Ordner und Dokumente in zusätzlichen Schubladen.",
-      "url": "https://www.heise.de/tests/Grenzenlos-andocken-DockThings-fuer-macOS-im-Test-11154337.html",
-      "image_title": "Look wie früher: DockThings"
+      "title": "Deno Deploy ist allgemein verfügbar",
+      "teaser": "Mit Deno Deploy können Developer JavaScript- und TypeScript-Anwendungen ins Web deployen. Für erhöhte Sicherheit steht die neue Deno Sandbox bereit.",
+      "url": "https://www.heise.de/news/Deno-Deploy-ist-allgemein-verfuegbar-11165515.html",
+      "image_title": "Schriftzug Java Scirpt vor Code"
     },
     {
-      "title": "iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)",
-      "teaser": "Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-11153478.html",
-      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
+      "title": "1&1 füllt Vodafones Kassen: Wie der Wettbewerber zum Umsatzplus beiträgt",
+      "teaser": "Nach starken Einbußen stabilisiert Vodafone Deutschland sein Geschäft. Grund sind Mietzahlungen vom Wettbewerber 1&1.",
+      "url": "https://www.heise.de/news/Vodafone-bekommt-dank-Konkurrent-1-1-mehr-Geld-in-die-Kasse-11165959.html",
+      "image_title": "Vodafone-Schild an Laden"
+    },
+    {
+      "title": "RatgeberSmart Home: Alles, was Einsteiger über Home Assistant wissen müssen",
+      "url": "https://www.heise.de/ratgeber/Smart-Home-Alles-was-Einsteiger-ueber-Home-Assistant-wissen-muessen-11145685.html"
     },
     {
       "title": "TestsGrenzenlos andocken: DockThings für macOS im Test",
@@ -59,7 +63,26 @@
       "image_title": "c't-Web-Tipp: VHS-Lernportal"
     },
     {
-      "title": "RatgeberMehr Sicherheit für LLM-Apps",
+      "title": "Tipp: Absendername in Apple Mail ändern",
+      "teaser": "Etwas versteckt lässt sich in Apple Mail der Absendername für E-Mails ändern sowohl auf dem Mac als auch auf iPhone und iPad.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Absendername-in-Apple-Mail-aendern-4995600.html",
+      "image_title": "Apple Mail auf einem iPhone"
+    },
+    {
+      "title": "AlertAutomatisierungstool n8n: Aufräumen von Sicherheitslücken",
+      "teaser": "Im Automatisierungstool n8n haben die Entwickler weitere Sicherheitslücken gestopft. Ein Update auf die jüngste Fassung ist empfehlenswert.",
+      "url": "https://www.heise.de/news/Automatisierungstool-n8n-Weitere-kritische-Luecken-gestopft-11165845.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
+      "title": "iX-Workshop: Einführung in die SAP Business Technology Platform (BTP)",
+      "teaser": "Lernen Sie, wie Sie mit SAP BTP Anwendungen entwickeln, Schnittstellen integrieren und Geschäftsprozesse optimieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Einfuehrung-in-die-SAP-Business-Technology-Platform-BTP-11153478.html",
+      "image_title": "iX-Workshop: Einfuehrung SAP S/4 HANA"
+    },
+    {
+      "title": "Mehr Sicherheit für LLM-Apps",
+      "teaser": "Große Sprachmodelle haben Schwachstellen, weshalb man sie in kritischen Bereichen nicht sorglos einsetzen kann. Gezielte Maßnahmen helfen, LLM-Apps abzusichern.",
       "url": "https://www.heise.de/ratgeber/Mehr-Sicherheit-fuer-LLM-Apps-11119282.html",
       "image_title": ","
     },
@@ -126,30 +149,6 @@
       "teaser": "Meta will ein neues Tool zur Leistungsbewertung seiner Belegschaft einführen. Das soll die Nutzung von KI besonders belohnen.",
       "url": "https://www.heise.de/news/Meta-knuepft-Mitarbeiterleistung-an-KI-Nutzung-11165199.html",
       "image_title": "Meta-Logo auf Schild vor der Zentrale"
-    },
-    {
-      "title": "Phishing: Falsche Cloud-Speicher-Warnung nachverfolgt",
-      "teaser": "Phishing-Mails zielen nicht nur direkt auf Zugangsdaten ab, sondern bringen Opfer öfter zu Affiliate-Marketing-Seiten.",
-      "url": "https://www.heise.de/news/Phishing-Falsche-Cloud-Speicher-Warnung-nachverfolgt-11164973.html",
-      "image_title": "Betrügerische Mail oder SMS mit Angelhaken auf einem Smartphone."
-    },
-    {
-      "title": "OpenAI stellt mit der Codex-App eine Kommandozentrale für KI-Workflows vor",
-      "teaser": "Multitasking statt sequenzielles Abarbeiten von Aufgaben: Mit der Codex-App lassen sich mehrere KI-Agenten gleichzeitig ausführen und zentral steuern.",
-      "url": "https://www.heise.de/news/Mehrere-KI-Agenten-orchestrieren-mit-der-Codex-App-von-OpenAI-11164965.html",
-      "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
-    },
-    {
-      "title": "Google und Microsoft starten plattformübergreifende Videokonferenzen",
-      "teaser": "Die Videokonferenz-Hardware von Google und Microsoft ist fortan interoperabel. Auf einige Funktionen müssen Nutzer jedoch verzichten.",
-      "url": "https://www.heise.de/news/Google-und-Microsoft-starten-plattformuebergreifende-Videokonferenzen-11164634.html",
-      "image_title": "Konferenzraum mit Teilnehmern am Tisch sitzend, Bildschirm an der Wand mit weiteren zugeschalteten Teilnehmern"
-    },
-    {
-      "title": "Online-Konferenz betterCode() ABAP 2026: Cloud-Entwicklung und KI im Fokus",
-      "teaser": "Das Event am 29. April 2026 behandelt Themen wie ABAP Cloud, das ABAP RESTful Application Programming Model und den Einsatz von SAP Joule for Developers.",
-      "url": "https://www.heise.de/news/Online-Konferenz-betterCode-ABAP-2026-Cloud-Entwicklung-und-KI-im-Fokus-11158534.html",
-      "image_title": "betterCode() ABAP 2026 Logo und Titel"
     },
     {
       "title": "NewsMilliardenauftrag: BMW kauft langfristig weiterentwickelte ZF 8-Gang-Automaten",
