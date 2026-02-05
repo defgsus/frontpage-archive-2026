@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-05T01:01:45",
+  "timestamp": "2026-02-05T04:03:04",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Alphabet: Gewaltige KI-Investitionen beim Google-Konzern",
+      "teaser": "Google will mit Gemini KI-Konkurrenten wie ChatGPT übertreffen. Für die nötigen Rechenzentren gibt der Mutterkonzern Alphabet 2026 rund 150 Milliarden Euro aus.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/alphabet-investiert-milliarden-in-gemini-ki-von-google-accg-200508185.html"
+    },
+    {
       "title": "Förderbank: KfW vereinfacht die Förderung für Wohnraum",
       "teaser": "Künftig soll es nur noch zwei statt sechs Programme geben. Das Bauministerium bejubelt steigende Baugenehmigungszahlen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/kfw-vereinfacht-die-foerderung-fuer-wohnraum-110831101.html"
+      "url": "https://www.faz.net/aktuell/wirtschaft/kfw-vereinfacht-die-foerderung-fuer-wohnraum-110831101.html",
+      "image_url": "https://media0.faz.net/image/w730/a42886c5e0ae/w3000h1687x0y221/202601/43601.0.1684177295/neubau-in-niedersachsen.webp",
+      "image_title": "Neubau in Niedersachsen"
     },
     {
       "title": "Lufthansa-Geschichte: „Ein Unternehmen des Nationalsozialismus“",
@@ -88,13 +95,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/playmobil-produktion-in-dietenhofen-endet-200507370.html",
       "image_url": "https://media0.faz.net/image/w730/2d29577cf80c/w3895h2191x0y378/202602/43601.0.1731818254/bald-nicht-mehr-aus.webp",
       "image_title": "Bald nicht mehr aus Dietenhofen: eine Playmobilfigur in einem Spielzeugladen"
-    },
-    {
-      "title": "Streit mit Washington: EU-Parlament beendet Blockade von Zolldeal mit Trump",
-      "teaser": "Wegen des Streits um Grönland hatte das Parlament in Straßburg die Handelsvereinbarung mit Washington auf Eis gelegt. Nun geht der Prozess zwar weiter. Aber die Sozialdemokraten wollen den Deal mit einem Verfallsdatum versehen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-parlament-beendet-blockade-von-zolldeal-mit-trump-200506363.html",
-      "image_url": "https://media0.faz.net/image/w730/5b3442edb0b3/w7053h3967x0y367/202602/43601.0.1732854440/donald-trump-beansprucht.webp",
-      "image_title": "Donald Trump beansprucht Grönland für die Vereinigten Staaten."
     },
     {
       "title": "Regierung in Niederlanden: Poldern statt poltern",
@@ -165,18 +165,18 @@
       "image_title": "Sarah Huemer"
     },
     {
+      "title": "Streit mit Washington: EU-Parlament beendet Blockade von Zolldeal mit Trump",
+      "teaser": "Wegen des Streits um Grönland hatte das Parlament in Straßburg die Handelsvereinbarung mit Washington auf Eis gelegt. Nun geht der Prozess zwar weiter. Aber die Sozialdemokraten wollen den Deal mit einem Verfallsdatum versehen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-parlament-beendet-blockade-von-zolldeal-mit-trump-200506363.html",
+      "image_url": "https://media0.faz.net/image/w920/5b3442edb0b3/w7053h3967x0y367/202602/43601.0.1732854440/donald-trump-beansprucht.webp",
+      "image_title": "Donald Trump beansprucht Grönland für die Vereinigten Staaten."
+    },
+    {
       "title": "Ehemalige Konzernmanager: Das große Stühlerücken im Aufsichtsrat der Bahn",
       "teaser": "Der einstige DB-Manager Christoph Franz ging damals im Unfrieden. Jetzt soll er 2027 nach F.A.Z.-Informationen Werner Gatzer an der Spitze des Aufsichtsrates ablösen. Was hinter dem großen Stühlerücken steckt.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/neue-kontrolleure-fuer-die-bahn-110831323.html",
       "image_url": "https://media0.faz.net/image/w920/08e11f86a443/w5048h2840x1060y1340/202601/43601.0.1716961613/ein-ice-der-deutschen-bahn.webp",
       "image_title": "Ein ICE der Deutschen Bahn fährt durch Wuppertal."
-    },
-    {
-      "title": "Erneuerbare Energien: RWE beendet Windenergie auf See in Frankreich",
-      "teaser": "Der Energiekonzern RWE war schon länger skeptisch, ob es sich noch lohnt, Windräder vor Frankreichs Küste aufzustellen. Jetzt zieht er einen Schlussstrich.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rwe-beendet-offshore-windenergie-in-frankreich-200506955.html",
-      "image_url": "https://media0.faz.net/image/w920/cb8afe7d3db8/w4961h2791x0y258/202601/43601.0.1667431719/zweifel-an-projekten-diese.webp",
-      "image_title": "Zweifel an Projekten: Diese Windräder drehen sich in der deutschen Nordsee; in Frankreich treibt RWE seine Aktivitäten nicht länger voran"
     },
     {
       "title": "FAZ+Rettet den Teilzeit-Lifestyle: Fünf Regeln für den frühen Feierabend",
@@ -269,10 +269,17 @@
       "image_url": "https://media0.faz.net/image/w730/1ba51d0f7ce8/w1200h675x300y0/202511/43601.0.1484531168/4360101484531168.webp"
     },
     {
+      "title": "Erneuerbare Energien: RWE beendet Windenergie auf See in Frankreich",
+      "teaser": "Der Energiekonzern RWE war schon länger skeptisch, ob es sich noch lohnt, Windräder vor Frankreichs Küste aufzustellen. Jetzt zieht er einen Schlussstrich.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rwe-beendet-offshore-windenergie-in-frankreich-200506955.html",
+      "image_url": "https://media0.faz.net/image/w920/9af5c1566eaf/w4961h2126x0y590/202601/43601.0.1667431719/zweifel-an-projekten-diese.webp",
+      "image_title": "Zweifel an Projekten: Diese Windräder drehen sich in der deutschen Nordsee; in Frankreich treibt RWE seine Aktivitäten nicht länger voran"
+    },
+    {
       "title": "Integration der Credit Suisse: Schweizer UBS streicht Tausende Stellen",
       "teaser": "Die Integration des Rivalen Credit Suisse verläuft weitgehend pannenfrei und wird in Kürze abgeschlossen. Danach müssen viele Mitarbeiter trotz erfolgreicher Arbeit das Feld räumen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ubs-streicht-stellen-credit-suisse-integration-abgeschlossen-110831099.html",
-      "image_url": "https://media0.faz.net/image/w920/40532eb92c11/w2000h857x0y440/032024/1.10831098/auf-stein-gebaut.webp",
+      "image_url": "https://media0.faz.net/image/w730/64f9f7d7505b/w2000h1125x0y0/032024/1.10831098/auf-stein-gebaut.webp",
       "image_title": "Auf Stein gebaut: Deutschlandzentrale der UBS in Frankfurt"
     },
     {
@@ -281,13 +288,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/erste-chemie-tarifrunde-keine-einigung-nach-gespraechen-200506709.html",
       "image_url": "https://media0.faz.net/image/w730/88ed6534d634/w4252h2392x0y222/202602/43601.0.1733819942/branche-in-der-krise.webp",
       "image_title": "Branche in der Krise: Mitarbeiter gehen in den frühen Morgenstunden vor dem Chemiepark Marl zur Arbeit."
-    },
-    {
-      "title": "Renk-Chef Sagel: „Russland wird nicht warten, bis wir aufgerüstet sind“",
-      "teaser": "Alexander Sagel ist Vorstandsvorsitzender des Panzergetriebeherstellers Renk. Im Gespräch fordert er mehr militärische Eigenständigkeit für Europa. Dafür nimmt er auch seine Branche in die Pflicht.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/renk-chef-sagel-zum-ukraine-krieg-russland-wartet-nicht-bis-europa-aufgeruestet-ist-accg-110830280.html",
-      "image_url": "https://media0.faz.net/image/w730/528824dbc152/w4049h2278x0y44/202405/43601.0.358213420/bei-der-uebung-quadriga-2024.webp",
-      "image_title": "Bei der Übung Quadriga 2024 auf dem Truppenübungsplatz Pabradė in Litauen zeigen Bundeswehrsoldaten zeigen auf dem Panzer Leopard 2 ihre Fähigkeiten zur Verteidigung ."
     },
     {
       "title": "Bauen auf Mallorca: Für den Ruhestand im Paradies ist Geduld gefragt",
