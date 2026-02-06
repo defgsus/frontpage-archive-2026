@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T09:31:30",
+  "timestamp": "2026-02-06T10:28:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,34 @@
   ],
   "articles": [
     {
+      "title": "Debian: Projektleiter warnt vor stillem Rückzug von Entwicklern",
+      "url": "https://www.heise.de/news/Debian-Projektleiter-warnt-vor-stillem-Rueckzug-von-Entwicklern-11167741.html"
+    },
+    {
+      "title": "HomePod 2: Unschönes Jubiläum",
+      "url": "https://www.heise.de/news/HomePod-2-Unschoenes-Jubilaeum-11166607.html"
+    },
+    {
+      "title": "Fahrassistenz: Hyundai entwickelt „Vision Pulse“-Sensorfusion mit Lidar und UWB",
+      "url": "https://www.heise.de/news/Fahrassistenz-Hyundai-entwickelt-Vision-Pulse-Sensorfusion-mit-Lidar-und-UWB-11166942.html"
+    },
+    {
+      "title": "Tesla arbeitet angeblich weiter an Apple CarPlay-Integration",
+      "url": "https://www.heise.de/news/Tesla-arbeitet-angeblich-weiter-an-Apple-CarPlay-Integration-11167801.html"
+    },
+    {
+      "title": "Klimaforschung: Wissenschaftler tracken Eisberg-Lebenszyklus mit KI",
+      "url": "https://www.heise.de/news/Klimaforschung-Wissenschaftler-tracken-Eisberg-Lebenszyklus-mit-KI-11167700.html"
+    },
+    {
+      "title": "Indien: Apple bringt Fabrikarbeitern Swift bei",
+      "url": "https://www.heise.de/news/Indien-Apple-bringt-Fabrikarbeitern-Swift-bei-11166611.html"
+    },
+    {
+      "title": "Teilchenbeschleuniger FAIR: Großbrand verzögert die Inbetriebnahme am Jahresende",
+      "url": "https://www.heise.de/news/Teilchenbeschleuniger-FAIR-Start-des-Probebetriebs-nach-Grossbrand-verschoben-11167646.html"
+    },
+    {
       "title": "KI-Security: Mehr Sicherheit für LLM-Apps umsetzen",
       "url": "https://www.heise.de/ratgeber/Mehr-Sicherheit-fuer-LLM-Apps-11119282.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
@@ -40,36 +68,8 @@
       "url": "https://www.heise.de/news/HBO-will-die-Geschichte-von-Baldur-s-Gate-3-als-Serie-fortsetzen-11167568.html"
     },
     {
-      "title": "iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Infrastrukturen-mit-OpenTofu-aufbauen-und-verwalten-11154210.html"
-    },
-    {
-      "title": "„Katastrophe“ für Russland: SpaceX deaktiviert unautorisierte Starlink-Antennen",
-      "url": "https://www.heise.de/news/Katastrophe-fuer-Russland-SpaceX-deaktiviert-unautorisierte-Starlink-Antennen-11167546.html"
-    },
-    {
-      "title": "Sicherheitsupdates F5 BIG-IP: Angreifer können Datenverkehr lahmlegen",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-F5-BIG-IP-Angreifer-koennen-Datenverkehr-lahmlegen-11167422.html"
-    },
-    {
-      "title": "Wegen Vibe Coding: Open Source nun noch gegen Geld?",
-      "url": "https://www.heise.de/news/Vibe-Coding-gefaehrdet-die-materielle-Basis-fuer-Open-Source-Projekte-11167506.html"
-    },
-    {
-      "title": "GPT-5.3-Codex: OpenAI stellt neues Coding-Modell vor",
-      "url": "https://www.heise.de/news/GPT-5-3-Codex-OpenAI-stellt-neues-Coding-Modell-vor-11167502.html"
-    },
-    {
-      "title": "Filmförderung: Amazon, Disney und Netflix sollen in Deutschland investieren",
-      "url": "https://www.heise.de/news/Filmfoerderung-Amazon-Disney-und-Netflix-sollen-in-Deutschland-investieren-11167488.html"
-    },
-    {
-      "title": "Datenleck bei Substack: Datensatz mit knapp 700.000 Einträgen im Netz",
-      "url": "https://www.heise.de/news/Datenleck-bei-Substack-Datensatz-mit-knapp-700-000-Eintraegen-im-Netz-11167482.html"
-    },
-    {
-      "title": "„Katastrophe“ für Russland: SpaceX deaktiviert unautorisierte Starlink-Antennen",
-      "teaser": "Nur knapp eine Woche nachdem die Ukraine gewarnt hat, dass Russland Starlink für Drohnenangriffe benutzt, zeigen die Gegenmaßnahmen Wirkung. Und was für eine.",
+      "title": "„Katastrophe“ für RusslandSpaceX deaktiviert unautorisierte Starlink-Antennen",
+      "teaser": "Nachdem die Ukraine gewarnt hat, dass Russland Starlink für Drohnenangriffe benutzt, zeigen Gegenmaßnahmen Wirkung. Und was für eine.",
       "url": "https://www.heise.de/news/Katastrophe-fuer-Russland-SpaceX-deaktiviert-unautorisierte-Starlink-Antennen-11167546.html",
       "image_title": "Starlink-Antenne im Schnee"
     },
@@ -188,56 +188,57 @@
       "image_title": "Microsoft 365"
     },
     {
+      "title": "Debian: Projektleiter warnt vor stillem Rückzug von Entwicklern",
+      "teaser": "Debian-Projektleiter Andreas Tille prangert ein strukturelles Problem an: Entwickler verschwinden ohne Rückmeldung – mit Folgen für Sicherheit und Wartung.",
+      "url": "https://www.heise.de/news/Debian-Projektleiter-warnt-vor-stillem-Rueckzug-von-Entwicklern-11167741.html",
+      "image_title": "Debian-Logo und Schriftzug, rosa Hintergrund"
+    },
+    {
+      "title": "HomePod 2: Unschönes Jubiläum",
+      "teaser": "Schon den HomePod der ersten Generation hatte Apple verstauben lassen. Bei Generation 2 sieht es ähnlich aus.",
+      "url": "https://www.heise.de/news/HomePod-2-Unschoenes-Jubilaeum-11166607.html",
+      "image_title": "Apple HomePod 2"
+    },
+    {
+      "title": "Beim Internet bleiben die größten Städte zurück",
+      "teaser": "Eine Analyse von mehr als 100 Städten zeigt: Die höchsten Geschwindigkeiten für Festnetzanschlüsse gibt es nicht in den größten Ballungsräumen, sondern in Zentren mit 30.000 bis 110.000 Einwohnern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7165479068&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
+      "title": "Fahrassistenz: Hyundai entwickelt „Vision Pulse“-Sensorfusion mit Lidar und UWB",
+      "teaser": "Der Hyundai-Konzern mit seiner Automarke Kia arbeitet an der Perfektionierung des assistierten Fahrens und stellt sein System namens „Vision Pulse“ vor.",
+      "url": "https://www.heise.de/news/Fahrassistenz-Hyundai-entwickelt-Vision-Pulse-Sensorfusion-mit-Lidar-und-UWB-11166942.html",
+      "image_title": "Hyundai und Kia arbeiten an Vision Pulse"
+    },
+    {
+      "title": "Tesla arbeitet angeblich weiter an Apple CarPlay-Integration",
+      "teaser": "Tesla arbeitet laut einem Medienbericht weiterhin an der Integration von Apple CarPlay. Das könnte ein Versuch sein, sinkende Verkaufszahlen zu kompensieren.",
+      "url": "https://www.heise.de/news/Tesla-arbeitet-angeblich-weiter-an-Apple-CarPlay-Integration-11167801.html",
+      "image_title": "CarPlay im Auto"
+    },
+    {
+      "title": "Klimaforschung: Wissenschaftler tracken Eisberg-Lebenszyklus mit KI",
+      "teaser": "Das Abschmelzen sowie Abbrüche von Eisbergen können Einfluss auf das Klima haben. Deshalb tracken Forscher sie mit KI, um Daten für Vorhersagen zu erhalten.",
+      "url": "https://www.heise.de/news/Klimaforschung-Wissenschaftler-tracken-Eisberg-Lebenszyklus-mit-KI-11167700.html",
+      "image_title": "Eisberg im Wasser"
+    },
+    {
+      "title": "Indien: Apple bringt Fabrikarbeitern Swift bei",
+      "teaser": "25 Prozent aller iPhones sollen mittlerweile in Indien hergestellt werden. Apple startet nun dort eine Trainingskampagne – auch mit Swift und Robotik.",
+      "url": "https://www.heise.de/news/Indien-Apple-bringt-Fabrikarbeitern-Swift-bei-11166611.html",
+      "image_title": "Fertigung bei einem Lieferanten von Apple in Indien"
+    },
+    {
+      "title": "Teilchenbeschleuniger FAIR: Großbrand verzögert die Inbetriebnahme am Jahresende",
+      "teaser": "In Darmstadt entsteht mit FAIR eine der weltweit größten Anlagen physikalischer Grundlagenforschung. Am Donnerstag ist dort ein Großbrand ausgebrochen.",
+      "url": "https://www.heise.de/news/Teilchenbeschleuniger-FAIR-Start-des-Probebetriebs-nach-Grossbrand-verschoben-11167646.html",
+      "image_title": "Front eines Feuerwehrfahrzeugs"
+    },
+    {
       "title": "KI-Security: Mehr Sicherheit für LLM-Apps umsetzen",
       "teaser": "Große Sprachmodelle haben Schwachstellen, weshalb man sie in kritischen Bereichen nicht sorglos einsetzen kann. Gezielte Maßnahmen helfen, LLM-Apps abzusichern.",
       "url": "https://www.heise.de/ratgeber/Mehr-Sicherheit-fuer-LLM-Apps-11119282.html",
       "image_title": ","
-    },
-    {
-      "title": "Mac-Tool macht MagSafe-Kabel zum Sicherheitsschalter",
-      "teaser": "Ein Entwickler hat ein Werkzeug vorgestellt, mit dem man seinen Mac durch simples Abziehen der MagSafe-Verbindung in einen geschützten Zustand versetzen kann.",
-      "url": "https://www.heise.de/news/Mac-Tool-macht-MagSafe-Kabel-zum-Sicherheitsschalter-11167259.html"
-    },
-    {
-      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
-      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
-    },
-    {
-      "title": "HBO will die Geschichte von „Baldur’s Gate 3“ als Serie fortsetzen",
-      "teaser": "HBO produziert eine D&D-Serie mit Figuren aus „Baldur’s Gate 3“. Serienschöpfer Craig Mazin hat den Rollenspiel-Hit fast 1000 Stunden lang gespielt.",
-      "url": "https://www.heise.de/news/HBO-will-die-Geschichte-von-Baldur-s-Gate-3-als-Serie-fortsetzen-11167568.html",
-      "image_title": "Werbebild für Baldur's Gate 3"
-    },
-    {
-      "title": "iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten",
-      "teaser": "Erfahren Sie, wie Sie mit OpenTofu die IT-Infrastruktur im Unternehmen als Code definieren, bereitstellen und administrieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Infrastrukturen-mit-OpenTofu-aufbauen-und-verwalten-11154210.html",
-      "image_title": "iX-Workshop: OpenTofu Fundamentals: Infrastructure as Code aufbauen und verwalten"
-    },
-    {
-      "title": "AlertSicherheitsupdates F5 BIG-IP: Angreifer können Datenverkehr lahmlegen",
-      "teaser": "Mehrere Sicherheitslücken gefährden verschiedene BIG-IP-Appliances von F5.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-F5-BIG-IP-Angreifer-koennen-Datenverkehr-lahmlegen-11167422.html",
-      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Wegen Vibe Coding: Open Source nun noch gegen Geld?",
-      "teaser": "Angesichts des Vibe-Coding-Booms empfiehlt eine Studie einen drastischen Schritt: Open-Source-Software soll es nur noch gegen Bezahlung geben.",
-      "url": "https://www.heise.de/news/Vibe-Coding-gefaehrdet-die-materielle-Basis-fuer-Open-Source-Projekte-11167506.html",
-      "image_title": "Eine Frau hält ein Handy, auf dessen Bildschirm ein Bezahlvorgang für einen Online-Einkauf zu sehen ist."
-    },
-    {
-      "title": "GPT-5.3-Codex: OpenAI stellt neues Coding-Modell vor",
-      "teaser": "OpenAI hat mit GPT-5.3-Codex ein neues Coding-Modell veröffentlicht, das laut Entwickler-Team maßgeblich an seiner eigenen Entwicklung beteiligt war.",
-      "url": "https://www.heise.de/news/GPT-5-3-Codex-OpenAI-stellt-neues-Coding-Modell-vor-11167502.html",
-      "image_title": "ChatGPT-App auf einem Smartphone"
-    },
-    {
-      "title": "Filmförderung: Amazon, Disney und Netflix sollen in Deutschland investieren",
-      "teaser": "Die Bundesregierung will die Produktion von Filmen in Deutschland unterstützen. Auch Netflix und andere Streaming-Dienste werden in die Pflicht genommen.",
-      "url": "https://www.heise.de/news/Filmfoerderung-Amazon-Disney-und-Netflix-sollen-in-Deutschland-investieren-11167488.html",
-      "image_title": "Netflix-Logo auf Handy"
     },
     {
       "title": "Was Sie wissen müssenBitLocker-Verschlüsselung und Alternativen dazu",
@@ -330,6 +331,47 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Mac-Tool macht MagSafe-Kabel zum Sicherheitsschalter",
+      "teaser": "Ein Entwickler hat ein Werkzeug vorgestellt, mit dem man seinen Mac durch simples Abziehen der MagSafe-Verbindung in einen geschützten Zustand versetzen kann.",
+      "url": "https://www.heise.de/news/Mac-Tool-macht-MagSafe-Kabel-zum-Sicherheitsschalter-11167259.html"
+    },
+    {
+      "title": "HBO will die Geschichte von „Baldur’s Gate 3“ als Serie fortsetzen",
+      "teaser": "HBO produziert eine D&D-Serie mit Figuren aus „Baldur’s Gate 3“. Serienschöpfer Craig Mazin hat den Rollenspiel-Hit fast 1000 Stunden lang gespielt.",
+      "url": "https://www.heise.de/news/HBO-will-die-Geschichte-von-Baldur-s-Gate-3-als-Serie-fortsetzen-11167568.html",
+      "image_title": "Werbebild für Baldur's Gate 3"
+    },
+    {
+      "title": "iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten",
+      "teaser": "Erfahren Sie, wie Sie mit OpenTofu die IT-Infrastruktur im Unternehmen als Code definieren, bereitstellen und administrieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Infrastrukturen-mit-OpenTofu-aufbauen-und-verwalten-11154210.html",
+      "image_title": "iX-Workshop: OpenTofu Fundamentals: Infrastructure as Code aufbauen und verwalten"
+    },
+    {
+      "title": "AlertSicherheitsupdates F5 BIG-IP: Angreifer können Datenverkehr lahmlegen",
+      "teaser": "Mehrere Sicherheitslücken gefährden verschiedene BIG-IP-Appliances von F5.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-F5-BIG-IP-Angreifer-koennen-Datenverkehr-lahmlegen-11167422.html",
+      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Wegen Vibe Coding: Open Source nur noch gegen Geld?",
+      "teaser": "Angesichts des Vibe-Coding-Booms empfiehlt eine Studie einen drastischen Schritt: Open-Source-Software soll es nur noch gegen Bezahlung geben.",
+      "url": "https://www.heise.de/news/Vibe-Coding-gefaehrdet-die-materielle-Basis-fuer-Open-Source-Projekte-11167506.html",
+      "image_title": "Eine Frau hält ein Handy, auf dessen Bildschirm ein Bezahlvorgang für einen Online-Einkauf zu sehen ist."
+    },
+    {
+      "title": "GPT-5.3-Codex: OpenAI stellt neues Coding-Modell vor",
+      "teaser": "OpenAI hat mit GPT-5.3-Codex ein neues Coding-Modell veröffentlicht, das laut Entwickler-Team maßgeblich an seiner eigenen Entwicklung beteiligt war.",
+      "url": "https://www.heise.de/news/GPT-5-3-Codex-OpenAI-stellt-neues-Coding-Modell-vor-11167502.html",
+      "image_title": "ChatGPT-App auf einem Smartphone"
+    },
+    {
+      "title": "Filmförderung: Amazon, Disney und Netflix sollen in Deutschland investieren",
+      "teaser": "Die Bundesregierung will die Produktion von Filmen in Deutschland unterstützen. Auch Netflix und andere Streaming-Dienste werden in die Pflicht genommen.",
+      "url": "https://www.heise.de/news/Filmfoerderung-Amazon-Disney-und-Netflix-sollen-in-Deutschland-investieren-11167488.html",
+      "image_title": "Netflix-Logo auf Handy"
+    },
+    {
       "title": "Datenleck bei Substack: Datensatz mit knapp 700.000 Einträgen im Netz",
       "teaser": "Cyberkriminelle haben Daten bei Substack abgezogen. Der Datensatz umfasst rund 700.000 Einträge und ist im Netz verfügbar.",
       "url": "https://www.heise.de/news/Datenleck-bei-Substack-Datensatz-mit-knapp-700-000-Eintraegen-im-Netz-11167482.html",
@@ -363,6 +405,11 @@
       "teaser": "Mit Rust und dem Crux-Framework lassen sich Cross-Plattform-Apps mit klarem Core, UI-Trennung und plattformspezifischen Effekten umsetzen.",
       "url": "https://www.heise.de/hintergrund/Cross-Plattform-Applikationen-mit-Rust-2-Crux-im-Einsatz-11163186.html",
       "image_title": "Rust-Logo, Bleistift, Zirkel"
+    },
+    {
+      "title": "Erneuerung der PC-Flotte: 5 Kriterien für die optimale Beschaffung",
+      "teaser": "Das Supportende von Windows 10 und die Verbreitung von KI machen in vielen Unternehmen eine Neuanschaffung von Endgeräten notwendig. Diese Aspekte sind für eine zukunftssichere Entscheidung zu berücksichtigen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/erneuerung-der-pc-flotte-5-kriterien-fuer-die-optimale-beschaffung/?source=hbsadersatz"
     },
     {
       "title": "Zalando-Betriebsrat: Alternativen zur Schließung prüfen",
@@ -405,11 +452,6 @@
       "image_title": "Person im Weißkittel guckt in ein Heft. Hinter ihr Gesundheitsicons."
     },
     {
-      "title": "8K, 3D, KI: Wie sich Medien-Workflows beschleunigen lassen",
-      "teaser": "8K-Videos, 3D-Formate und der Einsatz von KI machen die Medienproduktion immer anspruchsvoller. Kreative benötigen deshalb leistungsfähige Hardware, die sie bei ihrer Arbeit optimal unterstützt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/8k-3d-ki-wie-sich-medien-workflows-beschleunigen-lassen/?source=hbsadersatz"
-    },
-    {
       "title": "Warum Meta Platforms Datensammlung illegal ist",
       "teaser": "Erstmals steht rechtskräftig fest, dass Meta Platforms nach deutschem Recht illegal Daten auf fremden Webseiten erntet. Ein Blick auf juristische Eckpunkte.",
       "url": "https://www.heise.de/hintergrund/Warum-Meta-Platforms-Datensammlung-illegal-ist-11166490.html",
@@ -426,46 +468,6 @@
       "teaser": "In einem Antrag für den Bundesparteitag der CDU fordert der Landesverband Schleswig-Holstein ein Social-Media-Verbot für Kinder unter 16 Jahren.",
       "url": "https://www.heise.de/news/CDU-Vorstoss-fuer-Social-Media-Verbot-unter-16-Jahren-11167139.html",
       "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
-    },
-    {
-      "title": "Lawinenrettung: Wie Hightech Risiken verringern soll",
-      "teaser": "Lawinen sind das größte Risiko winterlichen Alpensports. Verschiedene technische Errungenschaften sollen fatale Folgen verhindern.",
-      "url": "https://www.heise.de/hintergrund/Lawinenrettung-Wie-Hightech-Risiken-verringern-soll-11128910.html"
-    },
-    {
-      "title": "Apple Intelligence braucht Gemini-Hilfe: Google freut sich über Apple-Deal",
-      "teaser": "Apple Intelligence und Siri basieren bald auf Google Gemini. Unter iPhone-Nutzern sorgt für Unruhe, dass der Deal auch Google-Cloud-Dienste umfasst.",
-      "url": "https://www.heise.de/news/Nach-Gemini-Siri-Deal-Google-nun-Apples-bevorzugter-Cloud-Anbieter-11166990.html",
-      "image_title": "Apple Intelligence auf dem iPhone"
-    },
-    {
-      "title": "Unterseekabel: EU investiert 347 Millionen Euro in Sicherheit",
-      "teaser": "Die EU-Kommission rüstet mit einem neuen strategischen Werkzeugkasten und Investitionen gegen Sabotage und Spionage an zentralen Datenadern der Weltmeere auf.",
-      "url": "https://www.heise.de/news/Souveraenitaet-EU-investiert-347-Millionen-Euro-in-Sicherheit-von-Seekabeln-11167026.html",
-      "image_title": "Schiff zur Inspektion von Unterwasserkabeln"
-    },
-    {
-      "title": "Motorrad-Fahrbericht Kawasaki Z 1100 SE: Zurück im Streetfighter-Stil",
-      "teaser": "Die Kawasaki Z ist zurück, im Streetfighter-Stil und mehr Hubraum. Fahrwerk, Bremse und der stets verfügbare Druck des Vierzylinders bringen ungetrübte Freude.",
-      "url": "https://www.heise.de/tests/Motorrad-Fahrbericht-Kawasaki-Z-1100-SE-Zurueck-im-Streetfighter-Stil-11164126.html",
-      "image_title": "Kawasaki Z 1100 SE"
-    },
-    {
-      "title": "Anthropic stichelt mit Super-Bowl-Werbung gegen OpenAI – und trifft einen Nerv",
-      "teaser": "Anthropic will beim Super Bowl damit werben, dass die hauseigene KI Claude keine Werbung einblendet. OpenAI-Chef Sam Altman reagiert angefasst.",
-      "url": "https://www.heise.de/news/Anthropic-stichelt-mit-Super-Bowl-Werbung-gegen-OpenAI-und-trifft-einen-Nerv-11166860.html",
-      "image_title": "Screenshot aus der Werbung mit dem Text: \"Ads are coming to AI. But not to Claude\""
-    },
-    {
-      "title": "Gaming-Tastatur Asus ROG Azoth 96 HE im Test",
-      "teaser": "Dank eines ausgeklügelten Stromsparmodus kommt die Asus ROG Azoth 96 HE problemlos tagelang mit nur einer Akkuladung aus.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/rog-azoth-96-he-im-test-gaming-tastatur-mit-akku-der-die-apokalypse-ueberdauert/xn78jde?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Zu unbedeutend: Apple Maps und Apple Ads keine Gatekeeper in der EU",
-      "teaser": "Für Apples Kartendienst und Werbeplattform sollen in der EU keine verschärften Wettbewerbsregeln gelten – zumindest fürs Erste.",
-      "url": "https://www.heise.de/news/Zu-unbedeutend-Apple-Maps-und-Apple-Ads-keine-Gatekeeper-in-der-EU-11166888.html",
-      "image_title": "iPhone-Homescreen mit Karten-Widget"
     },
     {
       "title": "Google: Medienwächter warnen vor KI-Zusammenfassungen",
@@ -638,9 +640,10 @@
       "url": "https://www.heise.de/en/news/Steam-Machine-Valve-postpones-announcement-of-price-and-release-date-11165946.html"
     },
     {
-      "title": "Abofalle AutoWie Autohersteller Folgekosten für digitale Dienste verschleiern",
-      "teaser": "Im Neuwagen sind alle Konnektivitätsdienste gratis nutzbar. Das ändert sich jedoch nach ein paar Jahren. Wir wollten wissen, was welche Funktionen genau kosten.",
-      "url": "https://www.heise.de/tests/Abofalle-Auto-Wie-Autohersteller-Folgekosten-fuer-digitale-Dienste-verschleiern-10640179.html"
+      "title": "Als Pornos noch Kunst warenBoogie Nights im 4K-Heimkinotest",
+      "teaser": "In den 70er Jahren startete die Pornofilmindustrie durch. Boogie Nights verfolgt den Aufstieg und Fall der Stars.",
+      "url": "https://www.heise.de/tests/Als-Pornos-noch-Kunst-waren-Boogie-Nights-im-4K-Heimkinotest-11166880.html",
+      "image_title": "Boogie Nights"
     },
     {
       "title": "Digitale Verwaltung: Für Schriftform soll bald meistens eine Mail genügen",
@@ -648,10 +651,9 @@
       "url": "https://www.heise.de/hintergrund/Digitale-Verwaltung-Statt-Schriftform-soll-bald-meistens-eine-Mail-genuegen-11127166.html"
     },
     {
-      "title": "RISC-V-Einplatinencomputer mit RVA23-Chip für neue Linux-Distributionen",
-      "teaser": "SpacemiT liefert einen der ersten RISC-V-Prozessoren mit RVA23-Technik. Der Achtkerner K3 verspricht ordentliche Leistung, kostet aber mehr als ein Raspi 5.",
-      "url": "https://www.heise.de/news/RISC-V-Einplatinencomputer-mit-RVA23-Chip-fuer-neue-Linux-Distributionen-11167085.html",
-      "image_title": "Entwicklerboard mit dem RVA23-kompatiblen RISC-V-SoC SpacemiT K3."
+      "title": "Abofalle AutoWie Autohersteller Folgekosten für digitale Dienste verschleiern",
+      "teaser": "Im Neuwagen sind alle Konnektivitätsdienste gratis nutzbar. Das ändert sich jedoch nach ein paar Jahren. Wir wollten wissen, was welche Funktionen genau kosten.",
+      "url": "https://www.heise.de/tests/Abofalle-Auto-Wie-Autohersteller-Folgekosten-fuer-digitale-Dienste-verschleiern-10640179.html"
     },
     {
       "title": "Lautstark lokalisiertAirTag 2 im Test",
@@ -754,22 +756,22 @@
       "image_title": "Kawasaki Z 1100 SE"
     },
     {
-      "title": "KI im Klassenzimmer: EU und OECD treiben die Wende voran",
-      "teaser": "EU und OECD wollen KI fest im Unterricht verankern – doch der Erfolg hängt von einer entscheidenden Bedingung ab.",
-      "url": "https://www.heise.de/-11165773",
-      "image_title": "Lehrer erklärt zwei Schülern an Laptops die Grundlagen des AI Prompting, Tafel mit KI-Begriffen im Hintergrund"
+      "title": "Gold statt Gas: Wie Moskau seine Haushaltslöcher stopft",
+      "teaser": "Russlands Goldreserven stiegen im Wert um 130 Milliarden Dollar – genug, um eingefrorene Vermögen wettzumachen und den Krieg zu finanzieren.",
+      "url": "https://www.heise.de/-11162042",
+      "image_title": "Russlandflagge nach unten gepfeilt mit Ölfass und nach oben mit Goldbarren"
     },
     {
-      "title": "Sanktionen unter Druck: Russland und Indien umgehen den Dollar systematisch",
-      "teaser": "Superjet und Su-57 werden in Rupien verhandelt. Aus den Luftfahrtdeals wächst ein Finanznetz, das Swift umgeht und westliche Sanktionen unter Druck setzt.",
-      "url": "https://www.heise.de/-11165919",
-      "image_title": "Sukhoi Superjet 100 im Himmel über der Küste Italiens vor San Remo."
+      "title": "Denken wird ineffizient: Warum selbst Forscher die Kontrolle an KI abgeben",
+      "teaser": "Selbst Spitzenforscher geben das Denken auf – nicht aus Faulheit, sondern aus Kalkül. Was in der Schule beginnt, endet hier. Ein Leitartikel.",
+      "url": "https://www.heise.de/-11166565",
+      "image_title": "Mann blickt auf leuchtendes KI-Gehirnnetzwerk über Bangkok – Symbol für die Ablösung menschlichen Denkens durch Künstliche Intelligenz"
     },
     {
-      "title": "E-Zigarette: Weniger schädlich ist nicht harmlos",
-      "teaser": "Auch ohne Verbrennung entstehen beim Erhitzen giftige Stoffe. Eine Anses-Studie zeigt: E-Zigaretten bergen eigene Gesundheitsrisiken.",
-      "url": "https://www.heise.de/-11165254",
-      "image_title": "Junger Mann mit Zigarette und Dampfgerät"
+      "title": "USA vs. EU: Der Kampf um die Deutungshoheit im Netz",
+      "teaser": "Die USA und die EU streiten um Meinungsfreiheit im Netz. Ein US-Ausschuss wirft Brüssel Zensur vor. Wer hat Recht?",
+      "url": "https://www.heise.de/-11167454",
+      "image_title": "Foto einer Gruppe von Männern an einem Tisch mit US-Flagge zeigt den Kongressabgeordneten Jim Jordan, den Vorsitzenden des parlamentarischen Justizausschusses."
     },
     {
       "title": "Das Ende der Tastatur: Was, wenn der SAP-Chef wirklich recht hat?",
