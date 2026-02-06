@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T12:30:14",
+  "timestamp": "2026-02-06T13:53:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,42 @@
   ],
   "articles": [
     {
+      "title": "Angriff per Signal: BfV und BSI warnen Politiker, Militärs und Diplomaten",
+      "teaser": "Ein vergangene Woche bekannt gewordener Angriff auf Nutzer des Messengers Signal zielt auf Bundestagsabgeordnete und andere wichtige Personen ab.",
+      "url": "https://www.heise.de/news/Angriff-per-Signal-BfV-und-BSI-warnen-Politiker-Militaers-und-Diplomaten-11168254.html",
+      "image_title": "Signal-App auf einem Smartphone, darüber eine Fignerspitze"
+    },
+    {
+      "title": "iX-Workshop Keycloak: Die Grundlagen für effizientes IAM und SSO",
+      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11153512.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Digitale Souveränität: Stackit-Geschäftsführer Michael Brenzel im Interview",
+      "teaser": "Die Schwarz-Gruppe verspricht ein souveränes Office – ausgerechnet mithilfe von Google. Damit löst sie auch intern Microsoft Office ab. Wir haben nachgehakt.",
+      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Stackit-Geschaeftsfuehrer-Michael-Brenzel-im-Interview-11146991.html",
+      "image_title": "Michael Brenzel, Stackit"
+    },
+    {
       "title": "Privatsphäre: Apple will bei Mietpaket Creator Studio mehr Daten",
       "teaser": "Apple verlangt von Entwicklern sogenannte Privacy Nutrion Labels, damit Nutzer Datensammeleien verstehen. Beim Creator Studio offenbaren sie Auffälliges.",
       "url": "https://www.heise.de/news/Privatsphaere-Apple-will-bei-Mietpaket-Creator-Studio-mehr-Daten-11161207.html",
       "image_title": "Apple Creator Studio"
+    },
+    {
+      "title": "HintergrundDigitale Souveränität: Stackit-Geschäftsführer Michael Brenzel im Interview",
+      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Stackit-Geschaeftsfuehrer-Michael-Brenzel-im-Interview-11146991.html",
+      "image_title": "Michael Brenzel, Stackit"
+    },
+    {
+      "title": "RatgeberOrcaSlicer: Der Fast-alles-Könner für den 3D-Druck vorgestellt",
+      "url": "https://www.heise.de/ratgeber/OrcaSlicer-Der-Fast-alles-Koenner-fuer-den-3D-Druck-vorgestellt-11154379.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberWinPEAS und LinPEAS: Skripte für die Rechteausweitung vorgestellt",
+      "url": "https://www.heise.de/ratgeber/WinPEAS-und-LinPEAS-Skripte-fuer-die-Rechteausweitung-vorgestellt-11140967.html"
     },
     {
       "title": "Microsoft löst .NET Framework 3.5 aus Windows heraus",
@@ -48,19 +80,6 @@
       "teaser": "Mit Tools können User Ordnung in die Icons in der macOS-Menüleistung bringen. Die App Bartender 6 macht seit Monaten Probleme unter macOS 26.",
       "url": "https://www.heise.de/news/macOS-26-Lag-und-anderer-Aerger-mit-Menueleistenwerkzeug-Bartender-6-11158880.html",
       "image_title": "Bartender-Version 6"
-    },
-    {
-      "title": "RatgeberOrcaSlicer: Der Fast-alles-Könner für den 3D-Druck vorgestellt",
-      "url": "https://www.heise.de/ratgeber/OrcaSlicer-Der-Fast-alles-Koenner-fuer-den-3D-Druck-vorgestellt-11154379.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberWinPEAS und LinPEAS: Skripte für die Rechteausweitung vorgestellt",
-      "url": "https://www.heise.de/ratgeber/WinPEAS-und-LinPEAS-Skripte-fuer-die-Rechteausweitung-vorgestellt-11140967.html"
-    },
-    {
-      "title": "RatgeberLinux und macOS: Kommandozeile mit Lernspielen meistern",
-      "url": "https://www.heise.de/ratgeber/Linux-und-macOS-Kommandozeile-mit-Lernspielen-meistern-11164870.html"
     },
     {
       "title": "Grafikkarten: Spielern könnte eine jahrelange Durststrecke bevorstehen",
@@ -133,22 +152,6 @@
       "teaser": "Cyberkriminelle haben Daten bei Substack abgezogen. Der Datensatz umfasst rund 700.000 Einträge und ist im Netz verfügbar.",
       "url": "https://www.heise.de/news/Datenleck-bei-Substack-Datensatz-mit-knapp-700-000-Eintraegen-im-Netz-11167482.html",
       "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
-    },
-    {
-      "title": "Large Language Models: Die Mathematik hinter Transformers",
-      "teaser": "Die Transformer-Architektur findet sich heute in allen Large Language Models. Aber wie genau funktioniert sie? Der Artikel klärt die mathematischen Hintergründe",
-      "url": "https://www.heise.de/blog/Large-Language-Models-Die-Mathematik-hinter-Transformers-11070751.html"
-    },
-    {
-      "title": "AlertTeamViewer: Lücke erlaubt Zugriffe ohne vorherige Bestätigung",
-      "teaser": "In TeamViewer können Angreifer Zugriffskontrollen umgehen und dadurch zugreifen, ohne dass zuvor eine Bestätigung erfolgte.",
-      "url": "https://www.heise.de/news/TeamViewer-Luecke-erlaubt-Zugriffe-ohne-vorherige-Bestaetigung-11167398.html"
-    },
-    {
-      "title": "Cross-Plattform-Applikationen mit Rust 2: Crux-Architektur in der Praxis",
-      "teaser": "Mit Rust und dem Crux-Framework lassen sich Cross-Plattform-Apps mit klarem Core, UI-Trennung und plattformspezifischen Effekten umsetzen.",
-      "url": "https://www.heise.de/hintergrund/Cross-Plattform-Applikationen-mit-Rust-2-Crux-im-Einsatz-11163186.html",
-      "image_title": "Rust-Logo, Bleistift, Zirkel"
     },
     {
       "title": "UpdateNewsKaspersky: Entweder das BSI streicht seine Warnung, oder…",
