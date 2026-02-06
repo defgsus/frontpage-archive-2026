@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T03:30:29",
+  "timestamp": "2026-02-06T05:09:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Amazon mit ungebremstem Wachstum und extremen KI-Investitionen, aber Aktie fällt",
+      "url": "https://www.heise.de/news/Amazon-mit-ungebremstem-Wachstum-und-extremen-KI-Investitionen-aber-Aktie-faellt-11167295.html"
+    },
     {
       "title": "Metas Datensammlung: Auch Sachsen-Anhalt wechselt die Seite",
       "url": "https://www.heise.de/news/Metas-Datensammlung-Auch-Sachsen-Anhalt-wechselt-die-Seite-11167273.html"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/hintergrund/Lawinenrettung-Wie-Hightech-Risiken-verringern-soll-11128910.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Apple Intelligence braucht Gemini-Hilfe: Google freut sich über Apple-Deal",
-      "url": "https://www.heise.de/news/Nach-Gemini-Siri-Deal-Google-nun-Apples-bevorzugter-Cloud-Anbieter-11166990.html"
     },
     {
       "title": "UpdateKursrutsch ohne EndePreis des Bitcoin fällt unter 70.000 US-Dollar",
@@ -189,21 +189,27 @@
       "image_title": "Ein Satellit umkreist die Erde"
     },
     {
+      "title": "Amazon mit ungebremstem Wachstum und extremen KI-Investitionen, aber Aktie fällt",
+      "teaser": "Auch Amazon investiert Rekordsummen in KI, nachdem Handelsgeschäft und Cloud-Business weiter wachsen. Doch der Gewinn pro Aktie ist niedriger als erwartet.",
+      "url": "https://www.heise.de/news/Amazon-mit-ungebremstem-Wachstum-und-extremen-KI-Investitionen-aber-Aktie-faellt-11167295.html",
+      "image_title": "Bürogebäude mit Amazon-Schriftzug"
+    },
+    {
       "title": "Metas Datensammlung: Auch Sachsen-Anhalt wechselt die Seite",
       "teaser": "Meta Platforms' Datensammlung auf fremden Webseiten und Apps ist unzulässig. Auch das Oberlandesgericht Naumburg entscheidet auf vierstelligen Schadenersatz.",
       "url": "https://www.heise.de/news/Metas-Datensammlung-Auch-Sachsen-Anhalt-wechselt-die-Seite-11167273.html",
       "image_title": "Statue einer Justitia, im Hintergrund ein unscharfes Facebook-Logo"
     },
     {
+      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
+      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Digital Health: Erwartungen zum geplanten Digitalgesetz",
       "teaser": "Ein weiteres Digitalgesetz für das Gesundheitswesen ist in Arbeit. Anwender wollen nutzerfreundliche Systeme, die Industrie einen besseren Datenzugang.",
       "url": "https://www.heise.de/news/Digital-Health-Erwartungen-zum-geplanten-Digitalgesetz-11166117.html",
       "image_title": "Person im Weißkittel guckt in ein Heft. Hinter ihr Gesundheitsicons."
-    },
-    {
-      "title": "Bezahlbare Cyber-Sicherheit für den Mittelstand",
-      "teaser": "Begrenzte Ressourcen, aber raffiniertere Bedrohungen – mit dem Einsatz von KI können sich Unternehmen effektiv schützen. Denn beim digitalen Wettrüsten ist KI ein Angriffs- und Verteidigungswerkzeug.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7195670840&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Funkstörungen & Co: Bundesnetzagentur zieht Millionen Geräte aus dem Verkehr",
@@ -233,12 +239,6 @@
       "teaser": "SpacemiT liefert einen der ersten RISC-V-Prozessoren mit RVA23-Technik. Der Achtkerner K3 verspricht ordentliche Leistung, kostet aber mehr als ein Raspi 5.",
       "url": "https://www.heise.de/news/RISC-V-Einplatinencomputer-mit-RVA23-Chip-fuer-neue-Linux-Distributionen-11167085.html",
       "image_title": "Entwicklerboard mit dem RVA23-kompatiblen RISC-V-SoC SpacemiT K3."
-    },
-    {
-      "title": "CDU-Vorstoß für Social-Media-Verbot unter 16 Jahren",
-      "teaser": "In einem Antrag für den Bundesparteitag der CDU fordert der Landesverband Schleswig-Holstein ein Social-Media-Verbot für Kinder unter 16 Jahren.",
-      "url": "https://www.heise.de/news/CDU-Vorstoss-fuer-Social-Media-Verbot-unter-16-Jahren-11167139.html",
-      "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
     },
     {
       "title": "Was Sie wissen müssenBitLocker-Verschlüsselung und Alternativen dazu",
@@ -275,14 +275,14 @@
       "url": "https://www.heise.de/ratgeber/Tschuess-Big-Tech-Acht-sichere-E-Mail-Alternativen-aus-Europa-im-Vergleich-10750420.html"
     },
     {
-      "title": "So bauen Sie den erfolgreichen norwegischen Pensionsfonds nach",
-      "url": "https://www.heise.de/ratgeber/So-bauen-Sie-den-erfolgreichen-norwegischen-Pensionsfonds-nach-11058760.html",
+      "title": "ChatGPT und Gemini im Vergleich: Duell der KI-Titanen",
+      "url": "https://www.heise.de/tests/ChatGPT-und-Gemini-im-Vergleich-Duell-der-KI-Titanen-11154303.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "FAQ: BitLocker-Verschlüsselung und Alternativen dazu",
-      "url": "https://www.heise.de/ratgeber/FAQ-BitLocker-Verschluesselung-und-Alternativen-dazu-11159284.html",
+      "title": "So bauen Sie den erfolgreichen norwegischen Pensionsfonds nach",
+      "url": "https://www.heise.de/ratgeber/So-bauen-Sie-den-erfolgreichen-norwegischen-Pensionsfonds-nach-11058760.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -329,6 +329,12 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 7 Monate für 7 € pro Monat lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=33097&wt_mc=intern.abo.plus.hp_2026_jubilaeum.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "CDU-Vorstoß für Social-Media-Verbot unter 16 Jahren",
+      "teaser": "In einem Antrag für den Bundesparteitag der CDU fordert der Landesverband Schleswig-Holstein ein Social-Media-Verbot für Kinder unter 16 Jahren.",
+      "url": "https://www.heise.de/news/CDU-Vorstoss-fuer-Social-Media-Verbot-unter-16-Jahren-11167139.html",
+      "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
     },
     {
       "title": "Lawinenrettung: Wie Hightech Risiken verringern soll",
@@ -400,15 +406,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Sicherheitsluecke-bedroht-Cisco-Meeting-Management-11166713.html"
     },
     {
+      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
+      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
+      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
+    },
+    {
       "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
       "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11153508.html",
       "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
-    },
-    {
-      "title": "Mit KI mehr Sicherheit und Effizienz im SOC",
-      "teaser": "Security Operations Centers (SOC) kämpfen bei begrenzten Ressourcen und Budgets mit immer komplexeren Bedrohungen. Erfahren Sie, wie KI helfen kann, dieses Dilemma zu lösen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-wachsende-rolle-von-ki-fuer-mehr-automatisierung-und-effizienz-im-soc-5003/?source=nat_teas"
     },
     {
       "title": "Neue M5-Chips in Apple-Release-Candidate aufgetaucht – macOS 26.3 im Anflug",
@@ -465,29 +472,24 @@
       "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
     },
     {
-      "title": "Vision Language Model: Wie FastVLM hochauflösende Bilder im Browser analysiert",
-      "teaser": "Hochauflösende Bilder gelten als Leistungsbremse. Doch neue Ansätze versprechen Abhilfe. FastVLM zeigt, warum die Effizienz nicht bei der Auflösung enden muss.",
-      "url": "https://www.heise.de/hintergrund/Vision-Language-Model-Wie-FastVLM-hochaufloesende-Bilder-im-Browser-analysiert-11156884.html",
-      "image_title": ","
+      "title": "Umsatz hoch, Aktie kracht runter: AMD meldet mehrere Rekorde",
+      "url": "https://www.heise.de/news/AMD-knackt-erstmals-10-Milliarden-US-Dollar-Quartalsumsatz-11165445.html",
+      "image_title": "Ryzen 9 9950X3D in einem Mainboard mit blauem und rotem Licht"
     },
     {
-      "title": "Kommentar: Apple leakt sich diesmal selbst",
-      "url": "https://www.heise.de/meinung/Kommentar-Apple-leakt-sich-diesmal-selbst-11163920.html",
-      "image_title": "Apple-Logo als Geschenk"
+      "title": "LibreOffice 26.2: Schneller, Markdown-Support und bessere Office-Kompatibilität",
+      "url": "https://www.heise.de/news/LibreOffice-26-2-Schneller-Markdown-Support-und-bessere-Office-Kompatibilitaet-11165413.html",
+      "image_title": "Schriftzug LibreOffice 26.2, grüner Hintergrund"
     },
     {
-      "title": "Kommentar: Nein, doch, oh! Bitlocker ist unsicher",
-      "url": "https://www.heise.de/meinung/Kommentar-Nein-doch-oh-Bitlocker-ist-unsicher-11160052.html"
+      "title": "LiteBox: Microsoft stellt neues Library OS vor",
+      "url": "https://www.heise.de/news/Microsoft-veroeffentlicht-LiteBox-Rust-basiertes-Sandboxing-Library-OS-11165951.html",
+      "image_title": "Symbol mit tanzendem Pinguin, Schriftzug Open Source, lila Hintergrund"
     },
     {
-      "title": "Speicherkrise: Preise sollen noch stärker steigen als befürchtet",
-      "url": "https://www.heise.de/news/Speicherkrise-Preise-sollen-noch-staerker-steigen-als-befuerchtet-11164159.html",
-      "image_title": "Schwarze RAM-Riegel in einem Mainboard"
-    },
-    {
-      "title": "UpdateWider den USB-Kabelsalat: Treedix TRX5-0816 Kabeltester",
-      "url": "https://www.heise.de/news/Wider-den-USB-Kabelsalat-Treedix-TRX5-0816-Kabeltester-11163487.html",
-      "image_title": "Treedix Kabeltester"
+      "title": "Ultradünnes Retina-Implantat nutzt Nahinfrarot zur Netzhaut-Stimulation",
+      "url": "https://www.heise.de/news/Ultraduennes-Retina-Implantat-nutzt-Nahinfrarot-zur-Netzhaut-Stimulation-11152701.html",
+      "image_title": "Querschnittbild der Nanoanordnung unter dem Rasterelektronenmikroskop"
     },
     {
       "title": "ESA: Flugzeug soll Verglühen zweier Satelliten vor Ort beobachten",
@@ -495,38 +497,38 @@
       "image_title": "Runde Satelliten über der Erde"
     },
     {
-      "title": "ESA-Satellitendaten: Kontinentalplatten sind deutlich weniger starr als gedacht",
-      "url": "https://www.heise.de/news/ESA-Satellitendaten-Kontinentalplatten-sind-deutlich-weniger-starr-als-gedacht-11161974.html",
-      "image_title": "Karte des Hochlands von Tibet mit farbigen Markierungen"
+      "title": "MIT-Forscher 3D-drucken strukturelle Häuserbauteile aus recyceltem Kunststoff",
+      "url": "https://www.heise.de/news/MIT-Forscher-3D-drucken-strukturelle-Haeuserbauteile-aus-recyceltem-Kunststoff-11165941.html",
+      "image_title": "Tragende Grundkonstruktion für den Häuserbau aus recyceltem Kunststoff."
     },
     {
-      "title": "5 Jahre Updates: Welche Smartphone-Hersteller sich daran halten",
-      "url": "https://www.heise.de/news/5-Jahre-Updates-Welche-Smartphone-Hersteller-sich-daran-halten-11162620.html",
-      "image_title": "Android-Smartphone mit Hinweis auf dem Bildschirm: Ein Softwareupdate ist verfügbar."
+      "title": "Kommentar: Apple leakt sich diesmal selbst",
+      "url": "https://www.heise.de/meinung/Kommentar-Apple-leakt-sich-diesmal-selbst-11163920.html",
+      "image_title": "Apple-Logo als Geschenk"
     },
     {
-      "title": "Funktion übernommen: Camo-Entwickler verklagt Apple wegen „Sherlocking“",
-      "url": "https://www.heise.de/news/Funktion-uebernommen-Camo-Entwickler-verklagt-Apple-wegen-Sherlocking-11164832.html",
-      "image_title": "Bildschirmfoto von Camo"
+      "title": "Pixel 10a: Google zeigt das neue Modell im Teaser und nennt Vorstellungstermin",
+      "url": "https://www.heise.de/news/Pixel-10a-Google-zeigt-das-neue-Modell-im-Teaser-und-nennt-Vorstellungstermin-11165859.html",
+      "image_title": "Pixel 10a Teaserbild"
     },
     {
-      "title": "iPhone-Foldable: Diverse Hardware-Details aus China-Leak",
-      "url": "https://www.heise.de/news/iPhone-Foldable-Diverse-Hardware-Details-aus-China-Leak-11164374.html",
-      "image_title": "iPhone-Verpackungen"
+      "title": "1&1 füllt Vodafones Kassen: Wie der Wettbewerber zum Umsatzplus beiträgt",
+      "url": "https://www.heise.de/news/Vodafone-bekommt-dank-Konkurrent-1-1-mehr-Geld-in-die-Kasse-11165959.html",
+      "image_title": "Vodafone-Schild an Laden"
     },
     {
       "title": "OpenClaw ausprobiert: Die gefährlichste Software der Welt?",
       "url": "https://www.heise.de/news/OpenClaw-ausprobiert-Die-gefaehrlichste-Software-der-Welt-11161203.html"
     },
     {
+      "title": "Baustelle Steam Machine: Valve kann weiterhin keinen Preis nennen",
+      "url": "https://www.heise.de/news/Steam-Machine-Valve-verschiebt-Ankuendigung-von-Preis-und-Release-Datum-11165871.html",
+      "image_title": "Steam Machine von Valve"
+    },
+    {
       "title": "Opel Astra Facelift: Kein Schaltgetriebe mehr zu haben",
       "url": "https://www.heise.de/news/Opel-Astra-Facelift-Kein-Schaltgetriebe-mehr-zu-haben-11163710.html",
       "image_title": "Opel Astra Facelift"
-    },
-    {
-      "title": "„Borderlands 4“: Gearbox stampft Switch-2-Version ein",
-      "url": "https://www.heise.de/news/Borderlands-4-Gearbox-stampft-Switch-2-Version-ein-11164580.html",
-      "image_title": "Screenshot aus \"Borderlands 4\""
     },
     {
       "title": "Humanoider Roboter Unitree G1 stapft bei -47,4 °C durch Eis und Schnee",
@@ -539,9 +541,14 @@
       "image_title": "Rote Handelskurve, die nach unten zeigt"
     },
     {
-      "title": "Umsatz hoch, Aktie kracht runter: AMD meldet mehrere Rekorde",
-      "url": "https://www.heise.de/news/AMD-knackt-erstmals-10-Milliarden-US-Dollar-Quartalsumsatz-11165445.html",
-      "image_title": "Ryzen 9 9950X3D in einem Mainboard mit blauem und rotem Licht"
+      "title": "„Made in Europe“: Volkswagen und Stellantis schlagen Label für E-Autos vor",
+      "url": "https://www.heise.de/news/Made-in-Europe-Volkswagen-und-Stellantis-schlagen-Label-fuer-E-Autos-vor-11165829.html",
+      "image_title": "Opel Grandland Electric"
+    },
+    {
+      "title": "Gerichtsverfahren: xAI soll laut OpenAI Beweismittel vernichtet haben",
+      "url": "https://www.heise.de/news/Gerichtsverfahren-xAI-soll-laut-OpenAI-Beweismittel-vernichtet-haben-11165651.html",
+      "image_title": "Das Logo von xAI, im Hintergrund die Silhouette von Elon Musk"
     },
     {
       "title": "Schallgeräte bei Demonstrationen: Wie LRAD-Systeme funktionieren",
@@ -549,14 +556,9 @@
       "image_title": "Amerikanische Polizisten und ein Humvee mit LRAD"
     },
     {
-      "title": "Operation Souveränität: Bundestag plant Befreiungsschlag von Microsoft & Co.",
-      "url": "https://www.heise.de/news/Operation-Souveraenitaet-Bundestag-plant-Befreiungsschlag-von-Microsoft-Co-11162849.html",
-      "image_title": "Panoramabild vom Bundestag"
-    },
-    {
-      "title": "EU nimmt staatliches Satellitenkommunikationssystem Govsatcom in Betrieb",
-      "url": "https://www.heise.de/news/EU-hat-Govsatcom-gestartet-Sichere-Satellitenkommunikation-fuer-Regierungen-11162883.html",
-      "image_title": "Ein Satellit umkreist die Erde"
+      "title": "Spanien will Verbot sozialer Medien für Jugendliche, Elon Musk wird ausfallend",
+      "url": "https://www.heise.de/news/Auch-Spanien-will-Verbot-sozialer-Medien-fuer-Jugendliche-11164430.html",
+      "image_title": "Jugendliche mit Smartphones"
     },
     {
       "title": "Auch Windows 10 von Problemen mit Herunterfahren betroffen",
@@ -564,14 +566,14 @@
       "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
+      "title": "Donnerstag: Meta-Schadenersatz wegen Datensammlung, Googles Investitionen in KI",
+      "url": "https://www.heise.de/news/Donnerstag-Meta-Schadenersatz-wegen-Datensammlung-Googles-Investitionen-in-KI-11165811.html",
+      "image_title": "Symbole zum Datenschutz um ein in der Hand gehaltenes Notebook; Donnerstag: Meta-Datensammlung, KI-Milliardeninvestitionen, Spionage-Satelliten, Retina-Implantat & #heiseshow"
+    },
+    {
       "title": "Native Sysmon-Integration in Windows rückt näher",
       "url": "https://www.heise.de/news/Native-Sysmon-Integration-in-Windows-rueckt-naeher-11164696.html",
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Mittwoch: Amazons langsamer Satellitennetzaufbau, Turbulenzen bei Paypal und HP",
-      "url": "https://www.heise.de/news/Mittwoch-Amazons-langsamer-Satellitennetzaufbau-Turbulenzen-bei-Paypal-und-HP-11164406.html",
-      "image_title": "Symbolisches Netz über nächtlich beleuchteter Erde; Mittwoch: Amazon-Satellitennetz, Paypal-Turbulenzen, Verfassungsschutz-Umbau, Stromnetz-Förderung & Türgriff-Sicherheit"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -623,21 +625,27 @@
       "image_title": "Red trading curve pointing downwards"
     },
     {
-      "title": "Commentary: Apple is leaking itself this time",
-      "url": "https://www.heise.de/en/opinion/Commentary-Apple-is-leaking-itself-this-time-11164445.html",
-      "image_title": "Apple logo as a gift"
-    },
-    {
-      "title": "OpenSSL: 12 security gaps, one allows malicious code execution and is critical",
-      "url": "https://www.heise.de/en/news/OpenSSL-12-security-gaps-one-allows-malicious-code-execution-and-is-critical-11161961.html"
+      "title": "Munich makes digital sovereignty measurable with its own score",
+      "url": "https://www.heise.de/en/news/Munich-makes-digital-sovereignty-measurable-with-its-own-score-11164230.html",
+      "image_title": "Germany map via smartphone"
     },
     {
       "title": "UpdateNotepad++: Updater takeover by state actors",
       "url": "https://www.heise.de/en/news/Notepad-Updater-takeover-by-state-actors-11162248.html"
     },
     {
-      "title": "Notepad++ updater installed malware",
-      "url": "https://www.heise.de/en/news/Notepad-updater-installed-malware-11109726.html"
+      "title": "OpenSSL: 12 security gaps, one allows malicious code execution and is critical",
+      "url": "https://www.heise.de/en/news/OpenSSL-12-security-gaps-one-allows-malicious-code-execution-and-is-critical-11161961.html"
+    },
+    {
+      "title": "Steam Machine: Valve postpones announcement of price and release date",
+      "url": "https://www.heise.de/en/news/Steam-Machine-Valve-postpones-announcement-of-price-and-release-date-11165946.html"
+    },
+    {
+      "title": "Android für Audi: Nachrüstbox für Android Auto und Apple CarPlay im Test",
+      "teaser": "Nachrüstboxen machen Apple CarPlay und Android Audio auch in älteren Fahrzeugen möglich. Wir testen eine solche Box und erklären, wie der Einbau gelingt.",
+      "url": "https://www.heise.de/ratgeber/Android-fuer-Audi-Nachruestbox-fuer-Android-Auto-und-Apple-CarPlay-im-Test-11153925.html",
+      "image_title": ", Martina Bruns / KI / heise medien"
     },
     {
       "title": "RISC-V-Einplatinencomputer mit RVA23-Chip für neue Linux-Distributionen",
@@ -646,15 +654,9 @@
       "image_title": "Entwicklerboard mit dem RVA23-kompatiblen RISC-V-SoC SpacemiT K3."
     },
     {
-      "title": "RISC-V single-board computer with RVA23 chip for new Linux distributions",
-      "teaser": "SpacemiT delivers one of the first RISC-V processors with RVA23 technology. The eight-core K3 promises decent performance but costs more than a Raspberry Pi 5.",
-      "url": "https://www.heise.de/en/news/RISC-V-single-board-computer-with-RVA23-chip-for-new-Linux-distributions-11167158.html",
-      "image_title": "Development board with the RVA23-compatible RISC-V SoC SpacemiT K3."
-    },
-    {
-      "title": "Abofalle AutoWie Autohersteller Folgekosten für digitale Dienste verschleiern",
-      "teaser": "Im Neuwagen sind alle Konnektivitätsdienste gratis nutzbar. Das ändert sich jedoch nach ein paar Jahren. Wir wollten wissen, was welche Funktionen genau kosten.",
-      "url": "https://www.heise.de/tests/Abofalle-Auto-Wie-Autohersteller-Folgekosten-fuer-digitale-Dienste-verschleiern-10640179.html"
+      "title": "Digitale Verwaltung: Statt Schriftform soll bald meistens eine Mail genügen",
+      "teaser": "Schriftformerfordernisse sind ein Endgegner für die Digitalisierung. Nun wagt die Politik einen Befreiungsschlag: Behörden sollen normale Mails akzeptieren.",
+      "url": "https://www.heise.de/hintergrund/Digitale-Verwaltung-Statt-Schriftform-soll-bald-meistens-eine-Mail-genuegen-11127166.html"
     },
     {
       "title": "Lautstark lokalisiertAirTag 2 im Test",
@@ -681,16 +683,16 @@
       "image_title": "Besucher der Maker Faire Heilbronn beugen sich interessiert über einen 3D-Drucker."
     },
     {
+      "title": "UpdateWider den USB-KabelsalatTreedix TRX5-0816 Kabeltester",
+      "teaser": "USB ist überall. Aber das Smartphone lädt schon seit Stunden. Habe ich mal wieder ein schlechtes Kabel erwischt?",
+      "url": "https://www.heise.de/news/Wider-den-USB-Kabelsalat-Treedix-TRX5-0816-Kabeltester-11163487.html",
+      "image_title": "Treedix Kabeltester"
+    },
+    {
       "title": "Raspi-Preise steigen16-GByte-Version nähert sich 300 Euro",
       "teaser": "Der Raspi-Hersteller erhöht wegen des teuren Speichers noch mal die Preise. Das Topmodell Raspberry Pi 5 steigt auf über 200 Euro.",
       "url": "https://www.heise.de/news/Fast-alle-Raspberry-Pis-werden-teurer-11162382.html",
       "image_title": "Bild aus der Raspi-Produktion"
-    },
-    {
-      "title": "Wie Sie Platinen mit CNC-Fräse und FlatCam fertigen",
-      "teaser": "Ein- und zweilagige Platinen lassen sich schnell und mit hoher Präzision sogar auf günstigen CNC-Fräsen an einem Abend herstellen. So geht's.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-Platinen-mit-CNC-Fraese-und-FlatCam-fertigen-11148837.html",
-      "image_title": ","
     },
     {
       "title": "c’t Analoge Fotografie 2026: Entwickeln, Scannen und große Kameraklassiker",
@@ -740,16 +742,16 @@
       "image_title": "ADAC"
     },
     {
-      "title": "Staatliche Fördergelder und weniger Vorgaben beim KlimaschutzVolkswagen und Stellantis schlagen „Made in Europe“-Label vor",
-      "teaser": "Volkswagen und Stellantis fordern unter dem Label „Made in Europe“ Fördergelder für die europäische Autoindustrie und eine Lockerung von EU-Klimaregeln.",
-      "url": "https://www.heise.de/news/Made-in-Europe-Volkswagen-und-Stellantis-schlagen-Label-fuer-E-Autos-vor-11165829.html",
-      "image_title": "Opel Grandland Electric"
-    },
-    {
       "title": "Ausblick weniger pessimistisch als zuletztAutoindustrie: Europäische Nachfrage macht Hoffnung",
       "teaser": "Der Geschäftsklimaindex steigt leicht an. Treiber sind derzeit vor allem Exporterwartungen in Europa. Die Lage ist aber weiter angespannt.",
       "url": "https://www.heise.de/news/Autoindustrie-Europaeische-Nachfrage-macht-Hoffnung-11165336.html",
       "image_title": "VW Tiguan"
+    },
+    {
+      "title": "Zurück im Streetfighter-StilKawasaki Z 1100 SE im Fahrbericht",
+      "teaser": "Die Kawasaki Z ist zurück, im Streetfighter-Stil und mehr Hubraum. Fahrwerk, Bremse und der stets verfügbare Druck des Vierzylinders bringen ungetrübte Freude.",
+      "url": "https://www.heise.de/tests/Motorrad-Fahrbericht-Kawasaki-Z-1100-SE-Zurueck-im-Streetfighter-Stil-11164126.html",
+      "image_title": "Kawasaki Z 1100 SE"
     },
     {
       "title": "Mehr öffentliche Ladepunkte auch 2025Ladeinfrastruktur wächst weiter",
@@ -758,22 +760,22 @@
       "image_title": "BMW iX3"
     },
     {
-      "title": "Alter und Muskeln: Warum Regeneration länger dauert",
-      "teaser": "Muskelstammzellen setzen im Alter auf Überleben statt schnelle Reparatur. Das verzögert die Heilung nach Verletzungen erheblich.",
-      "url": "https://www.heise.de/-11165519",
-      "image_title": "Älterer Mann in Sportkleidung fasst sich schmerzverzerrt an beide Schultern nach dem Training – Muskelheilung dauert im Alter länger"
-    },
-    {
-      "title": "Generalprobe gescheitert: Mondmission startet frühestens im März",
-      "teaser": "Die NASA verschiebt die Mondmission Artemis II auf März. Wasserstofflecks und technische Probleme zwangen zur Verschiebung. Ein Überblick.",
-      "url": "https://www.heise.de/-11164987",
-      "image_title": "Eine Rakete bei Nacht vor dem Mond"
-    },
-    {
       "title": "New-Start-Vertrag läuft aus: Das Ende der atomaren Rüstungskontrolle",
       "teaser": "Ab Februar 2026 gibt es keine Obergrenzen mehr für US- und russische Atomsprengköpfe. Beide könnten ihre Arsenale binnen Monaten verdoppeln.",
       "url": "https://www.heise.de/-11163409",
       "image_title": "Raketen vor russischer und US-Flagge"
+    },
+    {
+      "title": "Denken wird ineffizient: Warum selbst Forscher die Kontrolle an KI abgeben",
+      "teaser": "Selbst Spitzenforscher geben das Denken auf – nicht aus Faulheit, sondern aus Kalkül. Was in der Schule beginnt, endet hier. Ein Leitartikel.",
+      "url": "https://www.heise.de/-11166565",
+      "image_title": "Mann blickt auf leuchtendes KI-Gehirnnetzwerk über Bangkok – Symbol für die Ablösung menschlichen Denkens durch Künstliche Intelligenz"
+    },
+    {
+      "title": "Russland-Sanktionen gegen Journalisten: Die stille Erosion der Pressefreiheit",
+      "teaser": "Russland-Sanktionen treffen Journalisten hart. EU setzt erstmals Deutsche auf die Liste. Welche Folgen hat das für die Pressefreiheit?",
+      "url": "https://www.heise.de/-11166077",
+      "image_title": "Eine zugeschnürte Hand hält einen Stift"
     },
     {
       "title": "Das Ende der Tastatur: Was, wenn der SAP-Chef wirklich recht hat?",
