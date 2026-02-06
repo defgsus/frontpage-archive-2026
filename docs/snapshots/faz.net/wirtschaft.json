@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-06T00:59:33",
+  "timestamp": "2026-02-06T03:30:36",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "US-Fahrdienstleister: Uber zu Millionenzahlung wegen sexuellen Übergriffs durch Fahrer verurteilt",
+      "teaser": "Die Geschworenen befanden, das Unternehmen sei für die Handlungen seiner Fahrer verantwortlich. Es ist das erste von tausenden ähnlichen Verfahren gegen den Fahrdienstvermittler.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/us-fahrdienstleister-uber-zu-millionenzahlung-wegen-sexuellen-uebergriffs-durch-fahrer-verurteilt-accg-200512219.html"
+    },
+    {
       "title": "Trotz Mehr UMSATZ: Amazon-Aktie verliert acht Prozent",
       "teaser": "Der Umsatz wächst, die Geschäfte laufen gut – und trotzdem sackt der Kurse der Amazon-Aktie ab. Der Grund: Investitionen von 200 Milliarden Dollar.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-aktie-stuerzt-ab-milliarden-investitionen-in-ki-200512078.html"
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-aktie-stuerzt-ab-milliarden-investitionen-in-ki-200512078.html",
+      "image_url": "https://media0.faz.net/image/w730/d3589fd4c063/w6048h3402x0y315/202512/43601.0.1553703076/ein-techniker-arbeitet-an.webp",
+      "image_title": "Ein Techniker arbeitet an einem Amazon-Server in Texas."
     },
     {
       "title": "Erdbeben in der Türkei: Die Frauen von Antakya",
@@ -88,13 +95,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/polnische-firmen-kaufen-immer-mehr-deutsche-betriebe-110831671.html",
       "image_url": "https://media0.faz.net/image/w730/5122f6f43b58/w3000h1687x0y88/202602/943baeaf-db30-41c9-855b-976a42c994d2/ein-werk-von-heiterblick-der.webp",
       "image_title": "Ein Werk von Heiterblick: Der Straßenbahnhersteller ist mittlerweile in polnischer Hand."
-    },
-    {
-      "title": "Importe nach Europa: EuGH stärkt Sanktionsregime der EU gegen Russland",
-      "teaser": "Ein Privatkäufer wollte einen Mercedes aus Russland nach Deutschland importieren. Der deutsche Zoll untersagte die Einfuhr. Zu Recht, wie nun der Europäische Gerichtshof geurteilt hat.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/einfuhrverbot-rechtens-110832104.html",
-      "image_url": "https://media0.faz.net/image/w730/29bf06b2893f/w6000h3375x0y118/202602/43601.0.1737096207/achtung-kontrolle-ein.webp",
-      "image_title": "Achtung, Kontrolle: ein Zollbeamter in Niedersachsen (Symbolbild)"
     },
     {
       "title": "beben an der Börse: Die Folgen der KI-Disruption",
@@ -165,18 +165,18 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/kevin-warsh-als-neuen-fed-chef-was-fuer-und-was-gegen-seine-nominierung-spricht-110829254.html"
     },
     {
+      "title": "Importe nach Europa: EuGH stärkt Sanktionsregime der EU gegen Russland",
+      "teaser": "Ein Privatkäufer wollte einen Mercedes aus Russland nach Deutschland importieren. Der deutsche Zoll untersagte die Einfuhr. Zu Recht, wie nun der Europäische Gerichtshof geurteilt hat.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/einfuhrverbot-rechtens-110832104.html",
+      "image_url": "https://media0.faz.net/image/w920/29bf06b2893f/w6000h3375x0y118/202602/43601.0.1737096207/achtung-kontrolle-ein.webp",
+      "image_title": "Achtung, Kontrolle: ein Zollbeamter in Niedersachsen (Symbolbild)"
+    },
+    {
       "title": "FAZ+Rational: Weltmarktführer in der Großküche",
       "teaser": "Nach einem weiteren Rekordjahr erwartet der Rational-Vorstand eine Fortsetzung des Wachstums. Die Künstliche Intelligenz heißt in Landsberg „Gar-Intelligenz“.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rational-wachstum-mit-grosskueche-110831625.html",
       "image_url": "https://media0.faz.net/image/w920/b92f5f491681/w4724h2657x0y247/202602/aa11b12f-b969-4f95-b8c0-b0dd791a12dc/blick-in-die-montagehallen-der.webp",
       "image_title": "Blick in die Montagehallen der Rational AG"
-    },
-    {
-      "title": "FAZ+Epstein-Akten: Enthüllungen belasten auch Topjuristen",
-      "teaser": "Die US-Großkanzlei Paul Weiss tauscht plötzlich ihre Spitze aus. Und auch gegen die einflussreiche Chefjuristin von Goldman Sachs bestehen Verdachtsmomente.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/epstein-akten-enthuellungen-belasten-auch-topjuristen-110831992.html",
-      "image_url": "https://media0.faz.net/image/w920/348f1ad1f0c6/w3000h1688x0y11/102023/1.10831994/zu-nah-dran-an-epstein-nach-18.webp",
-      "image_title": "Zu nah dran an Epstein: Nach 18 Jahren tritt Brad Karp als geschäftsführender Partner von Paul Weiss zurück."
     },
     {
       "title": "FAZ+Rettet den Teilzeit-Lifestyle: Fünf Regeln für den frühen Feierabend",
@@ -270,10 +270,17 @@
       "image_title": "Mensch oder Agent? Moltbook soll explizit nur von KI-Agenten genutzt werden."
     },
     {
+      "title": "FAZ+Epstein-Akten: Enthüllungen belasten auch Topjuristen",
+      "teaser": "Die US-Großkanzlei Paul Weiss tauscht plötzlich ihre Spitze aus. Und auch gegen die einflussreiche Chefjuristin von Goldman Sachs bestehen Verdachtsmomente.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/epstein-akten-enthuellungen-belasten-auch-topjuristen-110831992.html",
+      "image_url": "https://media0.faz.net/image/w920/99fe05e2ccdf/w3000h1285x0y192/102023/1.10831994/zu-nah-dran-an-epstein-nach-18.webp",
+      "image_title": "Zu nah dran an Epstein: Nach 18 Jahren tritt Brad Karp als geschäftsführender Partner von Paul Weiss zurück."
+    },
+    {
       "title": "Verbraucherklage gescheitert: Wer „Nachbar“ ist, darf vage bleiben",
       "teaser": "Wenn Empfänger von Paketen nicht da sind, gibt sie DHL oft beim Nachbarn ab. Verbraucherschützer hatten moniert, es sei unklar, wer genau als „Nachbar“ gilt.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/paketzustellung-an-nachbarn-dhl-tochter-post-mit-gerichts-erfolg-110831701.html",
-      "image_url": "https://media0.faz.net/image/w920/b2bb2a7f8dd2/w3000h1285x0y362/202502/43601.0.864757713/alternative-zur-abgabe-beim.webp",
+      "image_url": "https://media0.faz.net/image/w730/ed00c4926025/w3000h1687x0y161/202502/43601.0.864757713/alternative-zur-abgabe-beim.webp",
       "image_title": "Alternative zur Abgabe beim Nachbarn: Ablageort vereinbaren"
     },
     {
@@ -282,13 +289,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/amazon-und-das-kartellamt-streit-um-preisgestaltung-accg-110831597.html",
       "image_url": "https://media0.faz.net/image/w730/a3d7ea35815c/w3000h1687x0y1/202602/37a29190-b278-4b1c-af96-d7cc7a418c76/viel-zu-tun-ein-mitarbeiter.webp",
       "image_title": "Viel zu tun: Ein Mitarbeiter des Amazon-Lieferdienstes unterwegs in Berlin"
-    },
-    {
-      "title": "Karriere einer Billigmarke: Wie Dacia vom Billigimage wegkommen will",
-      "teaser": "Was Ikea-Regale daheim sind, will die zweite Marke des Renault-Konzerns auf der Straße sein. Die Chefin erklärt, wie sie Dacia als günstig, aber dennoch innovativ positionieren will.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-dacia-vom-billigimage-wegkommen-will-accg-110831186.html",
-      "image_url": "https://media0.faz.net/image/w730/a7a84a8997ae/w6048h3402x0y373/202602/43601.0.1734208404/hoffnungstraeger-fuer-dacia.webp",
-      "image_title": "Hoffnungsträger für Dacia und Konsumenten: Der neue Dacia Bigster, mit dem die Marke in das Segment der Mittelklasse-SUV vordringt, zum halben Preis der Konkurrenten."
     },
     {
       "title": "Wohnen in Deutschland: Preise für Immobilien steigen kaum noch",
