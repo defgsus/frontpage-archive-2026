@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-08T12:22:19",
+  "timestamp": "2026-02-08T13:36:25",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,16 @@
     }
   ],
   "articles": [
+    {
+      "title": "Tipps für Microsofts Sysinternals-Werkzeuge",
+      "url": "https://www.heise.de/ratgeber/Tipps-fuer-Microsofts-Sysinternals-Werkzeuge-11134686.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "DoS- und Schadcode-Attacken auf IBM App Connect Enterprise möglich",
+      "url": "https://www.heise.de/news/DoS-und-Schadcode-Attacken-auf-IBM-App-Connect-Enterprise-moeglich-11169213.html"
+    },
     {
       "title": "enterJS Integrate AI: So bringt KI echten Mehrwert in Webanwendungen",
       "url": "https://www.heise.de/news/enterJS-Integrate-AI-So-bringt-KI-echten-Mehrwert-in-Webanwendungen-11163946.html"
@@ -58,16 +68,6 @@
     {
       "title": "Meta im Umbruch: Wie aus Oculus VR eine fehlgeleitete Metaverse-Vision entstand",
       "url": "https://www.heise.de/hintergrund/Der-Aufstieg-und-Fall-von-Oculus-Wie-Metas-VR-Ambitionen-einst-begannen-11155759.html"
-    },
-    {
-      "title": "Smartphone‑Teleaufsätze im Praxistest: Was die Technik kann – und was nicht",
-      "url": "https://www.heise.de/tests/Smartphone-Teleaufsaetze-im-Praxistest-Was-die-Technik-kann-und-was-nicht-11149747.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Top 10: Die beste Mini-Powerbank fürs Handy im Test",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-mini-powerbank-fuers-handy-guenstig-und-kompakt-bis-10000-mah/53wmw43?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Missing LinkDer Aufstieg und Fall von Oculus",
@@ -191,6 +191,22 @@
       "url": "https://www.heise.de/news/Eigene-Passkeys-ohne-US-Cloud-c-t-3003-11166984.html"
     },
     {
+      "title": "Tipps für Microsofts Sysinternals-Werkzeuge",
+      "teaser": "Die Sysinternals-Suite ist bekannt als Sammlung mächtiger System-Utilities für Windows. Weniger bekannt: Sie können die Werkzeuge sehr flexibel starten.",
+      "url": "https://www.heise.de/ratgeber/Tipps-fuer-Microsofts-Sysinternals-Werkzeuge-11134686.html"
+    },
+    {
+      "title": "AlertDoS- und Schadcode-Attacken auf IBM App Connect Enterprise möglich",
+      "teaser": "Mehrere Softwareschwachstellen bedrohen Systeme mit IBM App Connect Enterprise oder WebSphere Service Registry and Repository Studio.",
+      "url": "https://www.heise.de/news/DoS-und-Schadcode-Attacken-auf-IBM-App-Connect-Enterprise-moeglich-11169213.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "Beim Internet bleiben die größten Städte zurück",
+      "teaser": "Eine Analyse von mehr als 100 Städten zeigt: Die höchsten Geschwindigkeiten für Festnetzanschlüsse gibt es nicht in den größten Ballungsräumen, sondern in Zentren mit 30.000 bis 110.000 Einwohnern.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7165479068&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "enterJS Integrate AI: So bringt KI echten Mehrwert in Webanwendungen",
       "teaser": "Die Online-Konferenz am 28. April zeigt, wie Web Developer in ihren Produkten künstliche Intelligenz so anbieten können, dass sie echten Mehrwert bringt.",
       "url": "https://www.heise.de/news/enterJS-Integrate-AI-So-bringt-KI-echten-Mehrwert-in-Webanwendungen-11163946.html",
@@ -200,11 +216,6 @@
       "title": "Weniger Enkeltrick-Anrufe und betrügerische Paket-SMS",
       "teaser": "Betrugsversuche per Telefon bleiben ein Problem – auch wenn die Zahlen rückläufig sind, und Warnsysteme der Provider offenbar greifen.",
       "url": "https://www.heise.de/news/Weniger-Enkeltrick-Anrufe-und-betruegerische-Paket-SMS-11169197.html"
-    },
-    {
-      "title": "Die wichtigsten Faktoren für die richtige PC-Flotte",
-      "teaser": "Steigende Kosten, mehr Cyberrisiken und die Erwartungen der Mitarbeiter erfüllen – IT-Teams müssen vielen Anforderungen gerecht werden. Mit der richtigen PC-Plattform lässt sich das aber bewältigen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7196902762&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "AlertZyxel-Firewalls: Angreifer können System-Befehle ausführen",
@@ -228,17 +239,6 @@
       "teaser": "Angreifer hätten an Schwachstellen in Azure Arc, Azure Function oder Azure Front Door ansetzen können.",
       "url": "https://www.heise.de/news/Microsoft-kuemmert-sich-um-kritische-Sicherheitsluecke-im-Azure-Umfeld-11169145.html",
       "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
-    },
-    {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11153552.html",
-      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
-    },
-    {
-      "title": "Smartphone‑Teleaufsätze im Praxistest: Was die Technik kann – und was nicht",
-      "teaser": "Mehr Brennweite per Aufsatz klingt großartig. Doch was bleibt übrig, wenn Optik, Software und Physik aufeinandertreffen? Unser Test von Oppo und Vivo zeigt’s.",
-      "url": "https://www.heise.de/tests/Smartphone-Teleaufsaetze-im-Praxistest-Was-die-Technik-kann-und-was-nicht-11149747.html"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -306,7 +306,7 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-klapprad-e-bike-im-test-engwe-vor-brompton-und-fiido/pv04tgj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Testsieger Dyson verteidigt Platz 1Top 10: Der beste Akku-Staubsauger im Test",
+      "title": "Dyson ist TestsiegerTop 10: Der beste Akku-Staubsauger im Test",
       "teaser": "Der beste Akku-Staubsauger ist auch der teuerste – doch selbst günstigere Modelle überzeugen, wie unsere Bestenliste zeigt.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-akku-staubsauger-im-test-testsieger-dyson-verteidigt-platz-1/4lep6zm?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
@@ -331,6 +331,17 @@
       "teaser": "Sichern Sie sich unser exklusives Aktionsangebot: heise+ 7 Monate für 7 € pro Monat lesen und zusätzlich zu allen Inhalten auf heise online unsere Magazin-Inhalte entdecken. Nur für kurze Zeit!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=33097&wt_mc=intern.abo.plus.hp_2026_jubilaeum.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
+      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11153552.html",
+      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
+      "title": "Smartphone‑Teleaufsätze im Praxistest: Was die Technik kann – und was nicht",
+      "teaser": "Mehr Brennweite per Aufsatz klingt großartig. Doch was bleibt übrig, wenn Optik, Software und Physik aufeinandertreffen? Unser Test von Oppo und Vivo zeigt’s.",
+      "url": "https://www.heise.de/tests/Smartphone-Teleaufsaetze-im-Praxistest-Was-die-Technik-kann-und-was-nicht-11149747.html"
     },
     {
       "title": "Freiwillige Chatkontrolle: EU-Parlament plant nächste Frist-Verlängerung",
@@ -391,6 +402,11 @@
       "url": "https://www.heise.de/tests/Breezy-Weather-im-Test-Mehrere-Wetterdienste-in-einer-schicken-Android-App-11160266.html"
     },
     {
+      "title": "Mit KI mehr Sicherheit und Effizienz im SOC",
+      "teaser": "Security Operations Centers (SOC) kämpfen bei begrenzten Ressourcen und Budgets mit immer komplexeren Bedrohungen. Erfahren Sie, wie KI helfen kann, dieses Dilemma zu lösen.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-wachsende-rolle-von-ki-fuer-mehr-automatisierung-und-effizienz-im-soc-5003/?source=nat_teas"
+    },
+    {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-11153540.html",
@@ -401,11 +417,6 @@
       "teaser": "Zu viele Teams diskutieren über Technologien statt über Probleme. Es ist an der Zeit, den Fokus wieder auf die Fachlichkeit zu richten.",
       "url": "https://www.heise.de/blog/Software-ist-ein-Werkzeug-kein-Selbstzweck-Plaedoyer-fuer-mehr-Fachlichkeit-11162596.html",
       "image_title": "Post-its auf Holzwand"
-    },
-    {
-      "title": "Autonome Agenten: Wie KI die Prozessautomatisierung revolutioniert",
-      "teaser": "KI-Agenten planen und lösen komplexe Aufgaben selbständig und systemübergreifend. In der Prozessautomatisierung bringen sie aber auch neue Risiken und höhere Anforderungen an die IT-Infrastruktur mit sich.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/autonome-agenten-wie-ki-die-prozessautomatisierung-revolutioniert/?source=hbsadersatz"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
@@ -452,15 +463,8 @@
     },
     {
       "title": "Speicherkrise: PC-Hersteller erwägen chinesischen Speicher",
-      "teaser": "HP, Dell, Acer und Asus sollen teilweise schon DRAM aus China zertifizieren, um den Liefermangel möglicherweise abzufedern.",
       "url": "https://www.heise.de/news/Speicherkrise-PC-Hersteller-erwaegen-chinesischen-Speicher-11168713.html",
       "image_title": "Mensch setzt einen Speicherriegel in ein offenes Notebook ein"
-    },
-    {
-      "title": "Bahn beginnt fünfmonatige Vollsperrung auf zwei wichtigen Korridoren",
-      "teaser": "Die Deutsche Bahn hat am 6. Februar zwei Generalsanierungen gestartet. Bis Juli sind die Korridore Hagen–Köln und Nürnberg–Regensburg gesperrt.",
-      "url": "https://www.heise.de/news/Deutsche-Bahn-startet-Generalsanierung-auf-zwei-Bahnkorridoren-parallel-11168689.html",
-      "image_title": "Auftakt zur Generalsanierung einer Bahnstrecke in Bayern"
     },
     {
       "title": "Angriff per Signal: BfV und BSI warnen Politiker, Militärs und Diplomaten",
@@ -471,11 +475,6 @@
       "title": "Nextcloud schaltet den ADA-Turbo: Deutliche Performance-Verbesserungen kommen",
       "url": "https://www.heise.de/news/Nextcloud-stellt-ADA-Engine-fuer-massive-Performance-Verbesserungen-vor-11168248.html",
       "image_title": "Drehregler bis 11"
-    },
-    {
-      "title": "Debian: Projektleiter warnt vor stillem Rückzug von Entwicklern",
-      "url": "https://www.heise.de/news/Debian-Projektleiter-warnt-vor-stillem-Rueckzug-von-Entwicklern-11167741.html",
-      "image_title": "Debian-Logo und Schriftzug, rosa Hintergrund"
     },
     {
       "title": "Artemis-2-Mission: Astronauten dürfen iPhones mitnehmen",
@@ -550,6 +549,11 @@
       "image_title": "Das Logo von xAI, im Hintergrund die Silhouette von Elon Musk"
     },
     {
+      "title": "Bahn beginnt fünfmonatige Vollsperrung auf zwei wichtigen Korridoren",
+      "url": "https://www.heise.de/news/Deutsche-Bahn-startet-Generalsanierung-auf-zwei-Bahnkorridoren-parallel-11168689.html",
+      "image_title": "Auftakt zur Generalsanierung einer Bahnstrecke in Bayern"
+    },
+    {
       "title": "Zalando-Betriebsrat: Alternativen zur Schließung prüfen",
       "url": "https://www.heise.de/news/Zalando-Betriebsrat-Alternativen-zur-Schliessung-pruefen-11167378.html",
       "image_title": "Zalando-Logo auf blauem Mosaik-Hintergrund"
@@ -558,11 +562,6 @@
       "title": "c’t-Story: RAL",
       "url": "https://www.heise.de/hintergrund/c-t-Story-RAL-11080928.html",
       "image_title": "c’t-Story: RAL von Thomas Frick"
-    },
-    {
-      "title": "Strato: Störungen beim E-Mail-Abruf",
-      "url": "https://www.heise.de/news/Strato-Stoerungen-beim-E-Mail-Abruf-11166510.html",
-      "image_title": "Verzerrtes Strato-Logo mit Achtung-Schild vor MAtrix-Regen-Hintergrund"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -631,20 +630,20 @@
       "url": "https://www.heise.de/en/news/iOS-26-2-1-Problem-reports-on-crashes-and-fast-battery-drain-11166469.html"
     },
     {
-      "title": "c't 3003Eigene Passkeys ohne US-Cloud",
-      "teaser": "Passkeys sind sicherer, aber Apple und Google sperren sie ins eigene Ökosystem. c't 3003 zeigt, wie man sie selbst hostet.",
-      "url": "https://www.heise.de/news/Eigene-Passkeys-ohne-US-Cloud-c-t-3003-11166984.html"
-    },
-    {
-      "title": "Die Sicherheitsrisiken von KI-Assistenten wie OpenClaw",
-      "teaser": "Das Projekt OpenClaw zeigt beeindruckend, was KI kann, wenn man sie lässt – und es zeigt, welch vielfältige Risiken damit einhergehen.",
-      "url": "https://www.heise.de/hintergrund/Die-Sicherheitsrisiken-von-KI-Assistenten-wie-OpenClaw-11164056.html"
+      "title": "Smarte Thermostate von Aqara, Bosch, Homematic IP, SwitchBot, Tado, TP-Link",
+      "teaser": "Komfortabler und billiger heizen: Das gelingt mit digitaler Heiztechnik, wozu nicht nur smarte Thermostate gehören, sondern auch weitere Gehilfen.",
+      "url": "https://www.heise.de/news/Smarte-Thermostate-von-Aqara-Bosch-Homematic-IP-SwitchBot-Tado-TP-Link-11167737.html"
     },
     {
       "title": "Android für AudiNachrüstbox für Android Auto und Apple CarPlay im Test",
       "teaser": "Nachrüstboxen machen Apple CarPlay und Android Audio auch in älteren Fahrzeugen möglich. Wir testen eine solche Box.",
       "url": "https://www.heise.de/ratgeber/Android-fuer-Audi-Nachruestbox-fuer-Android-Auto-und-Apple-CarPlay-im-Test-11153925.html",
       "image_title": ", Martina Bruns / KI / heise medien"
+    },
+    {
+      "title": "Die Sicherheitsrisiken von KI-Assistenten wie OpenClaw",
+      "teaser": "Das Projekt OpenClaw zeigt beeindruckend, was KI kann, wenn man sie lässt – und es zeigt, welch vielfältige Risiken damit einhergehen.",
+      "url": "https://www.heise.de/hintergrund/Die-Sicherheitsrisiken-von-KI-Assistenten-wie-OpenClaw-11164056.html"
     },
     {
       "title": "Lautstark lokalisiertAirTag 2 im Test",
@@ -683,26 +682,26 @@
       "image_title": "Entwicklerboard mit dem RVA23-kompatiblen RISC-V-SoC SpacemiT K3."
     },
     {
-      "title": "Smartphone‑Teleaufsätze im Praxistest: Was die Technik kann – und was nicht",
-      "teaser": "Mehr Brennweite per Aufsatz klingt großartig. Doch was bleibt übrig, wenn Optik, Software und Physik aufeinandertreffen? Unser Test von Oppo und Vivo zeigt’s.",
-      "url": "https://www.heise.de/tests/Smartphone-Teleaufsaetze-im-Praxistest-Was-die-Technik-kann-und-was-nicht-11149747.html"
-    },
-    {
       "title": "c’t Analoge Fotografie 2026: Entwickeln, Scannen und große Kameraklassiker",
       "teaser": "Das neue Sonderheft erklärt die analoge Fotografie von Entwicklung und Scanen bis zu Kameraklassikern – praxisnah, technisch fundiert und verständlich.",
       "url": "https://www.heise.de/news/c-t-Analoge-Fotografie-2026-Entwickeln-Scannen-und-grosse-Kameraklassiker-11164658.html"
-    },
-    {
-      "title": "Fotografieren im Deutschen Meeresmuseum Stralsund: Abtauchen mit der Kamera",
-      "teaser": "Ozeaneum und Meeresmuseum erfordern Technik und Geduld. Wie Licht, Glas und Bewegung die Aquariumfotografie prägen – mit Motiven von Pinguinen bis Quallen.",
-      "url": "https://www.heise.de/ratgeber/Fotografieren-im-Deutschen-Meeresmuseum-Stralsund-Abtauchen-mit-der-Kamera-11158256.html",
-      "image_title": "Fischschwärme zum Greifen nah, Alle Bilder: Sandra Petrowitz"
     },
     {
       "title": "Lieblingsmotive zum Anfassen: Click Boom Flash # 55 „Fotoprodukte“",
       "teaser": "„Man kriegt alles. Vom Türvorleger bis zur Weihnachtskugel“, sagt c’t Fotografie Redakteurin Christine Bruns über die Vielfalt moderner Fotoprodukte.",
       "url": "https://www.heise.de/news/Lieblingsmotive-zum-Anfassen-Click-Boom-Flash-55-Fotoprodukte-11159055.html",
       "image_title": "Hände bauen Leinwand"
+    },
+    {
+      "title": "Mit der Kamera hoch hinaus: Profikletterer Klaus Fengler im Gespräch",
+      "teaser": "Klaus Fengler erklärt die verschiedenen Kletterarten und was es braucht, um Bilder in der Wand hinzubekommen, ohne die Sicherheit aus den Augen zu lassen.",
+      "url": "https://www.heise.de/hintergrund/Mit-der-Kamera-hoch-hinaus-Profikletterer-Klaus-Fengler-im-Gespraech-11157932.html",
+      "image_title": "Profikletterer Klaus Fengler erklärt die verschiedenen Kletterarten und was es braucht, um gelungene Bilder in der Wand hinzubekommen, ohne die Sicherheit aus den Augen zu lassen.Guyana: Mount Roraima (2723 m) mit der \"The Prow\", Holger Heuber und Kurt Albert steigen an den Fixseilen zum letzten Standplatz., Alle Bilder: Klaus Fengler"
+    },
+    {
+      "title": "Der rote Punkt auf dem Preisschild – Die Fotonews der Woche 4/2026",
+      "teaser": "Manchmal plätschern die Nachrichten im Fotobereich so vor sich hin, doch dann gibt es Wochen, da fällt ein Felsbrocken in den Teich und schlägt hohe Wellen.",
+      "url": "https://www.heise.de/news/Der-rote-Punkt-auf-dem-Preisschild-Die-Fotonews-der-Woche-4-2026-11160770.html"
     },
     {
       "title": "ÜberblickKI-Coding-Assistenten für die Softwareentwicklung",
@@ -747,22 +746,22 @@
       "image_title": "CarPlay im Auto"
     },
     {
-      "title": "USS John F. Kennedy: Flugzeugträger ohne militärische Zukunft",
-      "teaser": "Militärisch verwundbar, politisch unersetzlich. Die US-Navy reagiert mit neuer Doktrin. Der Flugzeugträger bleibt als Zeremonialwaffe.",
-      "url": "https://www.heise.de/-11169135",
-      "image_title": "ine 3D-Grafik des Flugzeugträgers John F. Kennedy"
+      "title": "Könnte bessere Krebsprävention die Kosten des Gesundheitssystems senken?",
+      "teaser": "Die Kosten des deutschen Gesundheitssystems laufen aus dem Ruder. Menschen werden älter, kümmern sich aber wenig um ihre Gesundheit. Wie lässt sich das ändern?",
+      "url": "https://www.heise.de/-11165397",
+      "image_title": "Krebszellen unter Lupe"
     },
     {
-      "title": "US-Spionagesatellit: Geheimprogramm \"Jumpseat\" nach Jahrzehnten enthüllt",
-      "teaser": "Die US-Behörden haben Details zu einem Satellitenprogramm freigegeben, das 35 Jahre lang sowjetische Militärkommunikation abfing. Erstmals gibt es Bilder.",
-      "url": "https://www.heise.de/-11162755",
-      "image_title": "Satellit in einer Halle"
+      "title": "Kein Streusalz auf Straßen und Gehwegen!",
+      "teaser": "Streusalz schadet Böden, Pflanzen, Gewässern, Tieren, Autos und Brücken. Trotz Verbot oft genutzt. Umweltfreundlichere Alternativen gibt es.",
+      "url": "https://www.heise.de/-11167640",
+      "image_title": "Schild \"Rutschgefahr\" und Streugut-Kiste"
     },
     {
-      "title": "Schloss Krieblowitz: Wo \"General Vorwärts\" seinen letzten Frieden fand",
-      "teaser": "Der berühmte Feldherr, General Blücher, besiegte Napoleon – und fand sein Grab in Schlesien. Doch seit 1945 ist sein Leichnam spurlos verschwunden.",
-      "url": "https://www.heise.de/-11166450",
-      "image_title": "Ansichten von Schloss Krieblowitz"
+      "title": "UpdateBetrifft auch X und TikTok: USA werfen EU \"Zensurfeldzug\" vor",
+      "teaser": "Ein US-Kongressbericht enthüllt brisante interne Dokumente von Google – und die EU reagiert mit scharfer Zurückweisung.",
+      "url": "https://www.heise.de/-11167454",
+      "image_title": "Foto einer Gruppe von Männern an einem Tisch mit US-Flagge zeigt den Kongressabgeordneten Jim Jordan, den Vorsitzenden des parlamentarischen Justizausschusses."
     },
     {
       "title": "Umstieg von Microsoft 365? Mit diesen 5 Alternativen kann der Wechsel gelingen",
