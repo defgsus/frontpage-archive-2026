@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T14:06:11",
+  "timestamp": "2026-02-09T15:42:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Web-Tipp: Alltagswissen leicht gelernt",
-      "teaser": "Verbraucherrecht, Medienkompetenz, Grundlegendes am Computer: Das VHS-Lernportal liefert kostenlos niedrigschwelligen Lernstoff zu vielerlei Themen.",
-      "url": "https://www.heise.de/hintergrund/Web-Tipp-Alltagswissen-leicht-gelernt-11125650.html",
-      "image_title": "c't-Web-Tipp: VHS-Lernportal"
+      "title": "XPipe 21.0: Terminal-Docking für Windows und Cisco-Switch-Integration",
+      "teaser": "Das Open-Source-Tool XPipe kann jetzt Terminal-Fenster direkt einbetten und bietet Unterstützung für Cisco-Switches. Zudem gibt es Verbesserungen bei Proxmox.",
+      "url": "https://www.heise.de/news/XPipe-21-0-Terminal-Docking-fuer-Windows-und-Cisco-Switch-Integration-11170332.html",
+      "image_title": "Windows Terminal in XPipe"
+    },
+    {
+      "title": "Bericht: Samsung beginnt vorzeitig Serienfertigung von HBM4",
+      "teaser": "Noch im Februar soll Samsung die Massenproduktion von HBM4-Stapeln aufnehmen. Hauptkunde ist Nvidia für KI-Systeme.",
+      "url": "https://www.heise.de/news/Bericht-Samsung-beginnt-vorzeitig-Serienfertigung-von-HBM4-11170346.html",
+      "image_title": "Renderbild von Samsungs HBM3e-Speicherbausteinen"
+    },
+    {
+      "title": "Europäische HalbleiterforschungImec erhält High-NA-EUV-System für 350 Millionen Euro",
+      "teaser": "Europäische Forscher und Firmen erhalten Zugriff auf das modernste Lithografie-System. Das Imec weiht einen passenden Reinraum ein.",
+      "url": "https://www.heise.de/news/Chipforschung-Europas-Imec-bekommt-High-NA-EUV-System-11170288.html",
+      "image_title": "Silizium-Wafer in der Produktion"
     },
     {
       "title": "AlertSchadcode-Lücke in FortiClient EMS kann PCs kompromittieren",
       "teaser": "Ein wichtiges Update schließt eine kritische Sicherheitslücke in FortiClient Endpoint Management Server (EMS).",
       "url": "https://www.heise.de/news/Schadcode-kann-durch-FortiClient-EMS-Schwachstelle-schluepfen-11170228.html",
       "image_title": "Eine symbolisches Schild mit einer Updateerinnerung."
-    },
-    {
-      "title": "Bastel-Projekt: Wie man ein Raspi-basiertes RC-Auto über das Internet steuert",
-      "teaser": "SignalRC macht aus einem RC-Auto ein vollständig über das Internet gesteuertes Fahrzeug. Damit kann man zu Hause oder im Garten spektakulär Rennen fahren.",
-      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Wie-man-ein-Raspi-basiertes-RC-Auto-ueber-das-Internet-steuert-11152192.html",
-      "image_title": ","
-    },
-    {
-      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
-      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11160626.html",
-      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "RatgeberBastel-Projekt: Wie man ein Raspi-basiertes RC-Auto über das Internet steuert",
@@ -62,6 +62,17 @@
     {
       "title": "RatgeberFAQ: Der Bausatz des c’t-Notfall-Windows 2026",
       "url": "https://www.heise.de/ratgeber/FAQ-Der-Bausatz-des-c-t-Notfall-Windows-2026-11150565.html"
+    },
+    {
+      "title": "Balkonkraftwerk-Speicher nachrüsten: Hoymiles Hi Battery 1920 AC im Test",
+      "teaser": "Dank AC-Koppelung ist der Hoymiles Hi Battery 1920 AC eine ideale Nachrüstlösung für Balkonkraftwerke. Wie gut er in der Praxis funktioniert, zeigt der Test",
+      "url": "https://www.heise.de/bestenlisten/testbericht/balkonkraftwerk-speicher-nachruesten-hoymiles-hi-battery-1920-ac-im-test/l5cmr82?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
+      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11160626.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
       "title": "Bericht: Neue MacBooks, iPads und iPhones in den kommenden Wochen",
@@ -139,18 +150,6 @@
       "teaser": "Mit einem kleinen Trick lassen sich E-Mails in der Inbox von Apple Mail ganz nach oben stellen – zumindest in macOS.",
       "url": "https://www.heise.de/ratgeber/Tipp-E-Mails-in-Apple-Mail-oben-anpinnen-4987168.html",
       "image_title": "Apple Mail"
-    },
-    {
-      "title": "API-Konferenz von heise: Know-how zu Konzepten, Sicherheit und KI-Schnittstellen",
-      "teaser": "Die Onlinekonferenz von heise bietet zwei Tage lang Vorträge zu Design, Testing, Management und Vermarktung von APIs. Zwei Workshops vertiefen das Wissen.",
-      "url": "https://www.heise.de/news/API-Konferenz-von-heise-Know-how-zu-Konzepten-Sicherheit-und-KI-Schnittstellen-11165455.html",
-      "image_title": "Aufmacher betterCode() API"
-    },
-    {
-      "title": "iPhone, Mac, iPad: So geht KI auch „for free“",
-      "teaser": "Von Text über Bild bis zu Transkription: So nutzen Sie KI mit clever optimierten Bordmitteln und geschicktem App-Einsatz kostenlos auf Apple-Hardware.",
-      "url": "https://www.heise.de/ratgeber/iPhone-Mac-iPad-So-geht-KI-auch-for-free-11162420.html",
-      "image_title": "iPhone mit KI-Apps"
     },
     {
       "title": "News„Katastrophe“ für Russland: SpaceX deaktiviert unautorisierte Starlink-Antennen",
