@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-09T15:42:40",
+  "timestamp": "2026-02-09T17:41:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Cisco AI Summit: Nach dem KI-Durchbruch 2025 kommt der KI-Durchbruch 2026",
+      "teaser": "Die Investitionen in KI sind hoch, die Rendite noch unklar. Laut Branchengrößen mangelt es für den ganz großen Durchbruch noch an Infrastruktur.",
+      "url": "https://www.heise.de/news/Cisco-AI-Summit-Nach-dem-KI-Durchbruch-2025-kommt-der-KI-Durchbruch-2026-11170452.html",
+      "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
+    },
+    {
+      "title": "AOK Bayern löscht versehentlich tausende elektronische Patientenakten",
+      "teaser": "Nach einer Systemumstellung schloss die AOK Bayern tausende elektronische Patientenakten fälschlicherweise \"aufgrund [...] eingereichten Widerspruchs\".",
+      "url": "https://www.heise.de/news/Technischer-Fehler-AOK-Bayern-schliesst-tausende-elektronische-Patientenakten-11170408.html",
+      "image_title": "Die AOK Bayern informiert ihre Kunden über die Schließung ihres Aktenkontos. Grund sei ein Widerspruch, das ist jedoch ein Fehler."
+    },
+    {
       "title": "XPipe 21.0: Terminal-Docking für Windows und Cisco-Switch-Integration",
       "teaser": "Das Open-Source-Tool XPipe kann jetzt Terminal-Fenster direkt einbetten und bietet Unterstützung für Cisco-Switches. Zudem gibt es Verbesserungen bei Proxmox.",
       "url": "https://www.heise.de/news/XPipe-21-0-Terminal-Docking-fuer-Windows-und-Cisco-Switch-Integration-11170332.html",
@@ -36,18 +48,6 @@
       "teaser": "Noch im Februar soll Samsung die Massenproduktion von HBM4-Stapeln aufnehmen. Hauptkunde ist Nvidia für KI-Systeme.",
       "url": "https://www.heise.de/news/Bericht-Samsung-beginnt-vorzeitig-Serienfertigung-von-HBM4-11170346.html",
       "image_title": "Renderbild von Samsungs HBM3e-Speicherbausteinen"
-    },
-    {
-      "title": "Europäische HalbleiterforschungImec erhält High-NA-EUV-System für 350 Millionen Euro",
-      "teaser": "Europäische Forscher und Firmen erhalten Zugriff auf das modernste Lithografie-System. Das Imec weiht einen passenden Reinraum ein.",
-      "url": "https://www.heise.de/news/Chipforschung-Europas-Imec-bekommt-High-NA-EUV-System-11170288.html",
-      "image_title": "Silizium-Wafer in der Produktion"
-    },
-    {
-      "title": "AlertSchadcode-Lücke in FortiClient EMS kann PCs kompromittieren",
-      "teaser": "Ein wichtiges Update schließt eine kritische Sicherheitslücke in FortiClient Endpoint Management Server (EMS).",
-      "url": "https://www.heise.de/news/Schadcode-kann-durch-FortiClient-EMS-Schwachstelle-schluepfen-11170228.html",
-      "image_title": "Eine symbolisches Schild mit einer Updateerinnerung."
     },
     {
       "title": "RatgeberBastel-Projekt: Wie man ein Raspi-basiertes RC-Auto über das Internet steuert",
@@ -64,9 +64,21 @@
       "url": "https://www.heise.de/ratgeber/FAQ-Der-Bausatz-des-c-t-Notfall-Windows-2026-11150565.html"
     },
     {
-      "title": "Balkonkraftwerk-Speicher nachrüsten: Hoymiles Hi Battery 1920 AC im Test",
-      "teaser": "Dank AC-Koppelung ist der Hoymiles Hi Battery 1920 AC eine ideale Nachrüstlösung für Balkonkraftwerke. Wie gut er in der Praxis funktioniert, zeigt der Test",
+      "title": "Balkonkraftwerk-Speicher Hoymiles Hi Battery 1920 AC im Test",
+      "teaser": "Dank AC-Kopplung ist der Hoymiles Hi Battery 1920 AC eine ideale Nachrüstlösung für Balkonkraftwerke, wie unser Test zeigt.",
       "url": "https://www.heise.de/bestenlisten/testbericht/balkonkraftwerk-speicher-nachruesten-hoymiles-hi-battery-1920-ac-im-test/l5cmr82?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Imec erhält High-NA-EUV-System für 350 Millionen Euro",
+      "teaser": "Europäische Forscher und Unternehmen bekommen Zugriff auf das modernste Lithografie-System der Welt. Das Imec weiht einen passenden Reinraum ein.",
+      "url": "https://www.heise.de/news/Chipforschung-Europas-Imec-bekommt-High-NA-EUV-System-11170288.html",
+      "image_title": "Silizium-Wafer in der Produktion"
+    },
+    {
+      "title": "AlertSchadcode-Lücke in FortiClient EMS kann PCs kompromittieren",
+      "teaser": "Ein wichtiges Update schließt eine kritische Sicherheitslücke in FortiClient Endpoint Management Server (EMS).",
+      "url": "https://www.heise.de/news/Schadcode-kann-durch-FortiClient-EMS-Schwachstelle-schluepfen-11170228.html",
+      "image_title": "Eine symbolisches Schild mit einer Updateerinnerung."
     },
     {
       "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
@@ -138,18 +150,6 @@
       "teaser": "OpenAI und Anthropic haben ihre Rivalität in teure Werbespots beim Super Bowl getragen. Anthropic stichelte gegen Werbung in KI-Software.",
       "url": "https://www.heise.de/news/KI-Firmen-duellieren-sich-bei-Super-Bowl-Werbung-11169438.html",
       "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
-    },
-    {
-      "title": "LineageOS 23.2: Material 3 Expressive und halbjährliche Updates",
-      "teaser": "Das Custom-ROM LineageOS 23.2 ist verfügbar. Es bringt optische Neuerungen mit sich. Wegen Google ändern die Entwickler ihren Veröffentlichungsrhythmus.",
-      "url": "https://www.heise.de/news/LineageOS-23-2-bringt-Material-3-Expressive-und-neuen-Release-Rhythmus-11169536.html",
-      "image_title": "LineageOS 23 Grafik"
-    },
-    {
-      "title": "Tipp: E-Mails in Apple Mail unter macOS oben anpinnen",
-      "teaser": "Mit einem kleinen Trick lassen sich E-Mails in der Inbox von Apple Mail ganz nach oben stellen – zumindest in macOS.",
-      "url": "https://www.heise.de/ratgeber/Tipp-E-Mails-in-Apple-Mail-oben-anpinnen-4987168.html",
-      "image_title": "Apple Mail"
     },
     {
       "title": "News„Katastrophe“ für Russland: SpaceX deaktiviert unautorisierte Starlink-Antennen",
