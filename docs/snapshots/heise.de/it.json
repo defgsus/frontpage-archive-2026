@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T12:38:34",
+  "timestamp": "2026-02-11T14:07:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,46 @@
   ],
   "articles": [
     {
-      "title": "Von München nach Düsseldorf: Sushi Bikes hat einen neuen Besitzer",
+      "title": "eBPF: Wie der Kernel programmierbar wurde",
+      "teaser": "eBPF macht den Linux-Kernel sicher programmierbar, was neue Möglichkeiten in den Bereichen Networking, Security und Observability eröffnet hat.",
+      "url": "https://www.heise.de/hintergrund/eBPF-Wie-der-Kernel-programmierbar-wurde-10627880.html"
+    },
+    {
+      "title": "iX-Workshop: Fit für die Zukunft – Software im laufenden Betrieb modernisieren",
+      "teaser": "Lernen Sie, wie Sie bestehende Anwendungen schrittweise modernisieren und zukunftsfähig machen, ohne deren Betrieb zu beeinträchtigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Fit-fuer-die-Zukunft-Software-im-laufenden-Betrieb-modernisieren-11160750.html",
+      "image_title": "iX-Workshop Software-Modernisierung – Refactoring, Reengineering, Rewriting"
+    },
+    {
+      "title": "E-Bike-Hersteller Sushi Bikes gerettet: Düsseldorfer Holding übernimmt",
       "teaser": "Nach der Insolvenz im November 2025 hat der E-Bike-Hersteller Sushi Bikes einen neuen Besitzer. Der Gründer Andy Weinzierl bleibt an Bord.",
       "url": "https://www.heise.de/news/Von-Muenchen-nach-Duesseldorf-Sushi-Bikes-hat-einen-neuen-Besitzer-11173040.html",
       "image_title": "Sushi E-Bikes mit Radfahrerin"
+    },
+    {
+      "title": "MicrosoftWindows 11 erhält Runtime-Integritätsschutz und Zustimmungsabfragen",
+      "teaser": "Microsoft kündigt mehr Sicherheit für Windows an: Baseline Security Mode und User Transparency and Consent sollen Nutzer besser schützen.",
+      "url": "https://www.heise.de/news/Signierte-Anwendungen-und-Zustimmungs-Abfrage-So-soll-Windows-sicherer-werden-11172890.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "HintergrundeBPF: Wie der Kernel programmierbar wurde",
+      "url": "https://www.heise.de/hintergrund/eBPF-Wie-der-Kernel-programmierbar-wurde-10627880.html"
+    },
+    {
+      "title": "HintergrundSo funktioniert Käuferschutz auf Onlinemarktplätzen",
+      "url": "https://www.heise.de/hintergrund/So-funktioniert-Kaeuferschutz-auf-Onlinemarktplaetzen-11137477.html"
+    },
+    {
+      "title": "HintergrundKubernetes: Der Weg von der Ingress API zur Gateway API",
+      "url": "https://www.heise.de/hintergrund/Kubernetes-Der-Weg-von-der-Ingress-API-zur-Gateway-API-11164468.html",
+      "image_title": ","
+    },
+    {
+      "title": "Elektronische Patientenakte soll App für alles werden",
+      "teaser": "Die „ePA für alle\" gilt der Gesundheitsministerin zufolge als Herzstück der Digitalisierung. Deren Finanzierung und die TI-Stabilität bleiben eine Baustelle.",
+      "url": "https://www.heise.de/news/Gesundheitsministerin-Elektronische-Patientenakte-bleibt-zentrales-Element-11172848.html",
+      "image_title": "2026 in blauen Zahlen. Die Null ist ein Herz."
     },
     {
       "title": "M5Stack AI Pyramid-Pro: 24 TOPS Edge-KI im Kompaktformat",
@@ -42,31 +78,6 @@
       "teaser": "Das Bundesamt fordert, klassische asymmetrische Verschlüsselungsverfahren ab 2032 nur noch in Kombination mit Post-Quanten-Kryptographie einzusetzen.",
       "url": "https://www.heise.de/news/Neue-Verschluesselungs-Empfehlungen-des-BSI-Das-Ende-fuer-RSA-und-ECC-naht-11172624.html",
       "image_title": "BSI-Schild"
-    },
-    {
-      "title": "So funktioniert Käuferschutz auf Onlinemarktplätzen",
-      "teaser": "Gibt es ein Problem mit Käufen auf einem Onlinemarktplatz, können Sie oft ein Käuferschutzverfahren starten. Wir erklären die Bedingungen und die Verfahren.",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-Kaeuferschutz-auf-Onlinemarktplaetzen-11137477.html"
-    },
-    {
-      "title": "HintergrundSo funktioniert Käuferschutz auf Onlinemarktplätzen",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-Kaeuferschutz-auf-Onlinemarktplaetzen-11137477.html"
-    },
-    {
-      "title": "HintergrundKubernetes: Der Weg von der Ingress API zur Gateway API",
-      "url": "https://www.heise.de/hintergrund/Kubernetes-Der-Weg-von-der-Ingress-API-zur-Gateway-API-11164468.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundKI zu Befehl: So kontrollieren Sie mit Künstlicher Intelligenz Ihren Mac",
-      "url": "https://www.heise.de/hintergrund/KI-zu-Befehl-So-kontrollieren-Sie-mit-Kuenstlicher-Intelligenz-Ihren-Mac-11162430.html",
-      "image_title": "Roboter hilft beim Tippen"
-    },
-    {
-      "title": "Signierte Anwendungen und Zustimmungs-Abfrage: So soll Windows sicherer werden",
-      "teaser": "Microsoft kündigt zwei neue Sicherheitsinitiativen für Windows an: Baseline Security Mode und User Transparency and Consent sollen Nutzer besser schützen.",
-      "url": "https://www.heise.de/news/Signierte-Anwendungen-und-Zustimmungs-Abfrage-So-soll-Windows-sicherer-werden-11172890.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
       "title": "Go 1.26 bringt flexiblere Syntax und schnelleren Garbage Collector",
@@ -137,18 +148,6 @@
       "teaser": "Der Flaschenhals in der Softwareentwicklung war nie das Programmieren, sondern das Verstehen des Problems. Über den unterschätzten ROI von Verständnis.",
       "url": "https://www.heise.de/blog/Der-wahre-Engpass-Warum-schnelleres-Coden-Projekte-nicht-beschleunigt-11162879.html",
       "image_title": "Gruppe von Menschen aus verschiedenen Ländern, die gemeinsam in einem Coworking-Space arbeiten."
-    },
-    {
-      "title": "Neues JetBrains-Tool: Databao bringt semantische KI-Analytics in Unternehmen",
-      "teaser": "JetBrains startet mit Databao eine KI-Analytics-Plattform, die mit einer semantischen Datenschicht für konsistente und nachvollziehbare Abfragen sorgt.",
-      "url": "https://www.heise.de/news/JetBrains-Databao-Kontrollierte-KI-Analysen-statt-Datenblindflug-11172368.html",
-      "image_title": "Lupe, unter der sich ein Warndreieck befindet."
-    },
-    {
-      "title": "Tipp: Systemeinstellungen am Mac per Tastatur bedienen",
-      "teaser": "Apple sieht mehrere Wege vor, auch die Systemeinstellungen von macOS per Tastatur zu bedienen.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Systemeinstellungen-am-Mac-per-Tastatur-bedienen-4973312.html",
-      "image_title": "Mac mini mit Apple-Tastatur"
     },
     {
       "title": "NewsAOK Bayern löscht versehentlich tausende elektronische Patientenakten",
