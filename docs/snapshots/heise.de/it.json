@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T07:44:53",
+  "timestamp": "2026-02-11T08:34:11",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,27 @@
   ],
   "articles": [
     {
+      "title": "Tipp: Systemeinstellungen am Mac per Tastatur bedienen",
+      "teaser": "Apple sieht mehrere Wege vor, auch die Systemeinstellungen von macOS per Tastatur zu bedienen.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Systemeinstellungen-am-Mac-per-Tastatur-bedienen-4973312.html",
+      "image_title": "Mac mini mit Apple-Tastatur"
+    },
+    {
+      "title": "AlertUpdatePatchday Microsoft: Angreifer nutzen Windows- und Word-Lücken aus",
+      "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem Exchange Server, Hyper-V, Office und Windows erschienen. Es gibt bereits Attacken.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-Windows-und-Word-Luecken-aus-11172316.html",
+      "image_title": "Ein Finger zeigt auf den Windows-11-Startbildschirm."
+    },
+    {
+      "title": "„Passwort“ Bonusfolge 50a: DEPRECATED - DO NOT USE THIS LOG LIST.",
+      "teaser": "Eine Extrafolge zu einer fast unauslöschlichen Liste von Google, unauslöschlichen Smart-Contracts für Ransomware und ausgelöschten Bug-Bounties.",
+      "url": "https://www.heise.de/news/Passwort-Bonusfolge-50a-DEPRECATED-DO-NOT-USE-THIS-LOG-LIST-11159411.html"
+    },
+    {
       "title": "Galaxy S26: Samsung kündigt Unpacked-Event an",
       "teaser": "Samsung stellt am 25. Februar die Galaxy-S26-Serie vor. Bei der neuen Generation scheint vor allem die Software mit mehr KI im Mittelpunkt zu stehen.",
       "url": "https://www.heise.de/news/Galaxy-S26-Samsung-kuendigt-Unpacked-Event-an-11172342.html",
       "image_title": "Screenshot Galaxy Unpacked"
-    },
-    {
-      "title": "programmier.bar: CTO-Special mit Barbara Wittenberg von 1KOMMA5°",
-      "teaser": "Virtuelle Kraftwerke zu Hause – zu komplex? Welche technischen Lösungen es brauchte, um sie heute zu ermöglichen, erklärt Barbara Wittenberg, CTO von 1KOMMA5°.",
-      "url": "https://www.heise.de/blog/programmier-bar-CTO-Special-mit-Barbara-Wittenberg-von-1KOMMA5-11167450.html",
-      "image_title": "programmier.bar: Barbara Wittenberg von 1KOMMA5°"
-    },
-    {
-      "title": "Kubernetes: Der Weg von der Ingress API zur Gateway API",
-      "teaser": "Mit der Gateway-API gibt es einen Nachfolger der Ingress-API, der diese sowohl bei Funktionstiefe, Komplexität und Enterprise-Tauglichkeit übertrifft.",
-      "url": "https://www.heise.de/hintergrund/Kubernetes-Der-Weg-von-der-Ingress-API-zur-Gateway-API-11164468.html",
-      "image_title": ","
-    },
-    {
-      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
-      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-11163778.html",
-      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
     },
     {
       "title": "HintergrundKubernetes: Der Weg von der Ingress API zur Gateway API",
@@ -63,6 +62,18 @@
       "title": "RatgeberWissen schnell wiederfinden: Mächtige Suche und smarte Lesezeichen in Obsidian",
       "url": "https://www.heise.de/ratgeber/Wissen-schnell-wiederfinden-Maechtige-Suche-und-smarte-Lesezeichen-in-Obsidian-11067087.html",
       "image_title": "Obsidian-Fenster mit einem Beispielvault. Rechts ist ein Dekobild und eine eingebundene Suche zu sehen. Links die Ordnerstruktur wie im Artikel beschrieben."
+    },
+    {
+      "title": "programmier.bar: CTO-Special mit Barbara Wittenberg von 1KOMMA5°",
+      "teaser": "Virtuelle Kraftwerke zu Hause – zu komplex? Welche technischen Lösungen es brauchte, um sie heute zu ermöglichen, erklärt Barbara Wittenberg, CTO von 1KOMMA5°.",
+      "url": "https://www.heise.de/blog/programmier-bar-CTO-Special-mit-Barbara-Wittenberg-von-1KOMMA5-11167450.html",
+      "image_title": "programmier.bar: Barbara Wittenberg von 1KOMMA5°"
+    },
+    {
+      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-11163778.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
     },
     {
       "title": "Digitale Geiselhaft: Warum Europa den Stecker zu den USA kaum ziehen kann",
@@ -140,18 +151,6 @@
       "teaser": "Apple und Google haben in Großbritannien Zugeständnisse an die Regulierer gemacht. Der Dialog soll konstruktiver sein als mit der EU.",
       "url": "https://www.heise.de/news/Grossbritannien-Apple-und-Google-sagen-App-Store-Oeffnung-zu-11171669.html",
       "image_title": "Flagge Großbritanniens auf einer Europakarte"
-    },
-    {
-      "title": "Open Telekom Cloud heißt künftig T Cloud Public",
-      "teaser": "Nach zehn Jahren bekommt die Open Telekom Cloud einen neuen Namen: T Cloud Public. Mit ihr will die Telekom AWS, Azure und Google in der EU Paroli bieten.",
-      "url": "https://www.heise.de/news/Open-Telekom-Cloud-heisst-kuenftig-T-Cloud-Public-11171470.html",
-      "image_title": "Telekom-Logo auf Hauswand"
-    },
-    {
-      "title": "Ziel oder Regeln: Benchmark testet Verhalten von KI-Agenten",
-      "teaser": "Ein neuer Benchmark soll testen, ob autonome KI-Agenten sich über Sicherheitsmaßnahmen hinwegsetzen, um ihr vorgegebenes Ziel zu erreichen.",
-      "url": "https://www.heise.de/news/Ziel-oder-Regeln-Benchmark-testet-Verhalten-von-KI-Agenten-11171033.html",
-      "image_title": "Die Buchstaben AI umfliegen Haken und Warndreiecke."
     },
     {
       "title": "NewsAOK Bayern löscht versehentlich tausende elektronische Patientenakten",
