@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-11T15:47:13",
+  "timestamp": "2026-02-11T16:50:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Kommentar: Nutzergängelei ist auch bei Windows der falsche Weg",
-      "teaser": "Microsoft kündigt deutlich verschärfte Sicherheitsmaßnahmen für Windows an – die wenigstens zweifelhaft bis kontraproduktiv sind, analysiert Moritz Förster.",
+      "title": "Video: Coolify macht Homeserver einfacher!",
+      "teaser": "Mit Coolify installiert ihr spielend einfach Software auf eurem Server. Wie das genau funktioniert, zeigen wir im Video.",
+      "url": "https://www.heise.de/news/Video-Coolify-macht-Homeserver-einfacher-11172049.html"
+    },
+    {
+      "title": "Warum der ehemalige GitHub-Chef eine Entwicklerplattform für KI-Agenten aufbaut",
+      "teaser": "Nach dem Abschied von GitHub will Thomas Dohmke mit Entire eine Plattform schaffen, auf der Entwickler und KI-Agenten gemeinsam Code schreiben und verwalten.",
+      "url": "https://www.heise.de/news/Warum-der-ehemalige-GitHub-Chef-eine-Entwicklerplattform-fuer-KI-Agenten-aufbaut-11173304.html",
+      "image_title": "Person am Laptop"
+    },
+    {
+      "title": "KommentarNeue Windows-Regeln – fraglich für die Sicherheit, nervig für Nutzer",
+      "teaser": "Microsoft will die Windows-Sicherheit erhöhen – mit zweifelhaft bis kontraproduktiven Maßnahmen, analysiert Moritz Förster.",
       "url": "https://www.heise.de/meinung/Kommentar-Nutzergaengelei-ist-auch-bei-Windows-der-falsche-Weg-11173252.html",
       "image_title": "Zerbrochenes Windows-Logo"
     },
@@ -36,17 +47,6 @@
       "teaser": "Cisco stellt den Silicon One G300 vor – einen Ethernet-Switch-Chip mit 102,4 Tbit/s Bandbreite, der speziell für KI-Cluster im Gigawatt-Maßstab ausgelegt ist.",
       "url": "https://www.heise.de/news/Cisco-Neuer-102-4-Tbit-s-Switching-Chip-Silicon-One-G300-fuer-KI-Rechenzentren-11173218.html",
       "image_title": "Cisco-Manager Jeetu Patel zeigt einen Chip"
-    },
-    {
-      "title": "Einfache Glasfaser-Verlegung: Huaweis Fiber to the Room jetzt für alle verfügbar",
-      "teaser": "Das FTTR-System verteilt Glasfaser in jeden gewünschten Raum. Händler verkaufen jetzt alle nötigen Komponenten.",
-      "url": "https://www.heise.de/news/Huaweis-Fiber-to-the-Room-jetzt-fuer-alle-verfuegbar-11173224.html",
-      "image_title": "FTTR-Hauptgerät von Huawei vor weißem Hintergrund"
-    },
-    {
-      "title": "KI lokal auf dem PC: Der c’t-Bauvorschlag 2026 als künstlicher Schlauberger",
-      "teaser": "Viele KI-Anwendungen laufen auf flotten PCs gut genug. Wir probieren aus, was der c’t-Bauvorschlag mit AMD Ryzen, 32 GByte RAM und 16-GByte-GPU schafft.",
-      "url": "https://www.heise.de/ratgeber/KI-lokal-auf-dem-PC-Der-c-t-Bauvorschlag-2026-als-kuenstlicher-Schlauberger-11114052.html"
     },
     {
       "title": "RatgeberKI lokal auf dem PC: Der c’t-Bauvorschlag 2026 als künstlicher Schlauberger",
@@ -61,9 +61,20 @@
       "url": "https://www.heise.de/hintergrund/So-funktioniert-Kaeuferschutz-auf-Onlinemarktplaetzen-11137477.html"
     },
     {
+      "title": "Gaming-Maus Steelseries Aerox 3 Wireless im Test: IP54 trotz löchriger Optik",
+      "teaser": "Die Gaming-Maus Steelseries Aerox 3 Wireless fällt durch ihr löchriges Design auf, mit dem sie trotz der vielen Öffnungen eine IP54-Zertifizierung hat.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/gaming-maus-steelseries-aerox-3-wireless-im-test-ip54-trotz-loechriger-optik/46zpym4?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
       "title": "Fußbodenheizung: Shelly Linkedgo ST1820 – funktioniert auch unter Home Assistant",
       "teaser": "Das smarte Thermostat Linkedgo ST1820 kann per Shelly-App und mit Home Assistant gesteuert werden. Wie gut es in der Praxis funktioniert, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/fussbodenheizung-shelly-linkedgo-st1820-funktioniert-auch-unter-home-assistant/h2s75w1?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Einfache Glasfaser-Verlegung: Huaweis Fiber to the Room jetzt für alle verfügbar",
+      "teaser": "Das FTTR-System verteilt Glasfaser in jeden gewünschten Raum. Händler verkaufen jetzt alle nötigen Komponenten.",
+      "url": "https://www.heise.de/news/Huaweis-Fiber-to-the-Room-jetzt-fuer-alle-verfuegbar-11173224.html",
+      "image_title": "FTTR-Hauptgerät von Huawei vor weißem Hintergrund"
     },
     {
       "title": "UpdateElektronische Patientenakte soll App für alles werden",
@@ -135,17 +146,6 @@
       "teaser": "Am Patchday im Februar kümmert sich SAP um mehrere Sicherheitsprobleme in seinem Softwareportfolio.",
       "url": "https://www.heise.de/news/Patchday-SAP-CRM-S-4HANA-Angreifer-koennen-Datenbanken-beschaedigen-11172596.html",
       "image_title": "SAP-Schriftzug"
-    },
-    {
-      "title": "Autonome Agenten: Wie KI die Prozessautomatisierung revolutioniert",
-      "teaser": "KI-Agenten lösen komplexe Aufgaben selbständig und systemübergreifend. In der Prozessautomatisierung bringen sie aber auch neue Risiken mit sich.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/autonome-agenten-wie-ki-die-prozessautomatisierung-revolutioniert/"
-    },
-    {
-      "title": "Facebook wird bunter: Meta AI animiert Profilbilder und Posts",
-      "teaser": "Facebook führt KI-Animationen für Profilbilder und Posts ein, um die Plattform für jüngere Nutzer attraktiver zu machen. Der Rollout erfolgt schrittweise.",
-      "url": "https://www.heise.de/news/Facebook-wird-bunter-Meta-AI-animiert-Profilbilder-und-Posts-11172636.html",
-      "image_title": "Eine Lupe zeigt auf das Facebook-Logo"
     },
     {
       "title": "NewsAOK Bayern löscht versehentlich tausende elektronische Patientenakten",
