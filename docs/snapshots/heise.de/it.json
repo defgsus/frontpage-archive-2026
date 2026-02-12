@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T07:43:03",
+  "timestamp": "2026-02-12T08:32:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Microsoft startet mit den Previews zu .NET 11.0",
-      "teaser": "Zwei Monate nach dem Release von .NET 10.0 startet Microsoft den Preview-Reigen für Version 11, vor allem mit Neuerungen beim Webfrontend-Framework Blazor.",
+      "title": "Redis 8.6 beschleunigt Durchsatz um das Fünffache",
+      "teaser": "Die neue Version der In-Memory-Datenbank bietet auf ARM-Systemen mehr als fünffachen Durchsatz und erweiterte Features für Streams und Time-Series.",
+      "url": "https://www.heise.de/news/Redis-8-6-beschleunigt-Durchsatz-um-das-Fuenffache-11173803.html",
+      "image_title": "Datenbank-Symbol vor Gitter"
+    },
+    {
+      "title": "KI lokal auf dem PC: Der c’t-Bauvorschlag 2026 als künstlicher Schlauberger",
+      "teaser": "Viele KI-Anwendungen laufen auf flotten PCs gut genug. Wir probieren aus, was der c’t-Bauvorschlag mit AMD Ryzen, 32 GByte RAM und 16-GByte-GPU schafft.",
+      "url": "https://www.heise.de/ratgeber/KI-lokal-auf-dem-PC-Der-c-t-Bauvorschlag-2026-als-kuenstlicher-Schlauberger-11114052.html"
+    },
+    {
+      "title": ".NETMicrosoft startet mit den Previews zu .NET 11.0",
+      "teaser": "Drei Monate nach dem Release von .NET 10.0 startet Microsoft den Preview-Reigen für Version 11, vor allem mit Neuerungen beim Webfrontend-Framework Blazor.",
       "url": "https://www.heise.de/news/Microsoft-startet-mit-den-Previews-zu-NET-11-0-11173204.html",
       "image_title": "Verkehrsschild mit Aufschrift .NET"
     },
@@ -36,17 +47,6 @@
       "teaser": "Google schließt mehrere wichtige Sicherheitslücken in Chrome 145. Parallel kehrt der JPEG-XL-Support nach drei Jahren zurück.",
       "url": "https://www.heise.de/news/Chrome-145-bringt-JPEG-XL-zurueck-11173753.html",
       "image_title": "Chrome Logo, Maus, gelbe und blaue Farben"
-    },
-    {
-      "title": "KI in der Cybersecurity – Sicherheit trotz Coding-Agenten, LLMs und Deepfakes",
-      "teaser": "Künstliche Intelligenz verändert die IT-Sicherheit und schafft neue Herausforderungen. Sie bietet neue Angriffsflächen, aber auch Möglichkeiten.",
-      "url": "https://www.heise.de/news/KI-in-der-Cybersecurity-Sicherheit-trotz-Coding-Agenten-LLMs-und-Deepfakes-11168518.html"
-    },
-    {
-      "title": "Schutz bis zum Patch: Cisco Live Protect für Netzwerk-Switches im Test",
-      "teaser": "Live Protect erkennt per eBPF-Agent verdächtiges Verhalten auf Netzhardware mit ungepatchtem Betriebssystem und blockiert Exploits, bevor sie Schaden anrichten.",
-      "url": "https://www.heise.de/tests/Schutz-bis-zum-Patch-Cisco-Live-Protect-fuer-Netzwerk-Switches-im-Test-11166318.html",
-      "image_title": ","
     },
     {
       "title": "TestsSchutz bis zum Patch: Cisco Live Protect für Netzwerk-Switches im Test",
@@ -61,6 +61,11 @@
     {
       "title": "TestsObsbot Tiny 3 im Test: 4K-Webcam mit KI-Tracking",
       "url": "https://www.heise.de/tests/Obsbot-Tiny-3-im-Test-4K-Webcam-mit-KI-Tracking-11157387.html"
+    },
+    {
+      "title": "KI in der Cybersecurity – Sicherheit trotz Coding-Agenten, LLMs und Deepfakes",
+      "teaser": "Künstliche Intelligenz verändert die IT-Sicherheit und schafft neue Herausforderungen. Sie bietet neue Angriffsflächen, aber auch Möglichkeiten.",
+      "url": "https://www.heise.de/news/KI-in-der-Cybersecurity-Sicherheit-trotz-Coding-Agenten-LLMs-und-Deepfakes-11168518.html"
     },
     {
       "title": "Mosseri vor Gericht: Instagram macht nicht „klinisch süchtig“",
@@ -137,11 +142,6 @@
       "title": "KI lokal auf dem PC: Der c’t-Bauvorschlag 2026 als künstlicher Schlauberger",
       "teaser": "Viele KI-Anwendungen laufen auf flotten PCs gut genug. Wir probieren aus, was der c’t-Bauvorschlag mit AMD Ryzen, 32 GByte RAM und 16-GByte-GPU schafft.",
       "url": "https://www.heise.de/ratgeber/KI-lokal-auf-dem-PC-Der-c-t-Bauvorschlag-2026-als-kuenstlicher-Schlauberger-11114052.html"
-    },
-    {
-      "title": "eBPF: Wie der Kernel programmierbar wurde",
-      "teaser": "eBPF macht den Linux-Kernel sicher programmierbar, was neue Möglichkeiten in den Bereichen Networking, Security und Observability eröffnet hat.",
-      "url": "https://www.heise.de/hintergrund/eBPF-Wie-der-Kernel-programmierbar-wurde-10627880.html"
     },
     {
       "title": "NewsDurchbruch im Treppenhaus: VDE-Leitlinie für Glasfaserausbau in Gebäuden",
