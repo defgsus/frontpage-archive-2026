@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-12T08:32:46",
+  "timestamp": "2026-02-12T09:36:31",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -30,6 +30,12 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
       "id": null,
@@ -37,7 +43,7 @@
     },
     {
       "type": "module",
-      "src": "https://www.faz.net/_nuxt/CIurARpZ.js",
+      "src": "https://www.faz.net/_nuxt/BSlXg1iH.js",
       "id": null,
       "text": null
     },
@@ -56,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "Alkoholkonsum: Weniger Alkohol ist gut, kein Alkohol ist besser",
+      "teaser": "Alkohol schadet Herz, Hirn und dem Rest des Körpers. Und er macht süchtig. Die meisten Menschen wissen das. Nun müssen sie nur die Finger davon lassen.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/deutschland-trinkt-weniger-alkohol-und-setzt-auf-eigenverantwortung-110835670.html"
+    },
+    {
       "title": "FAZ+So gut tun Haustiere: Was denken Katzen wirklich?",
       "teaser": "Sind wir für Katzen wirklich nur Dosenöffner? Offenbar nicht. Forscher zeigen, was die Bindung zu den Samtpfoten ausmacht. Und warum sie gut für unsere Psyche sein können.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/katzen-was-denken-sie-wirklich-110831762.html"
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/katzen-was-denken-sie-wirklich-110831762.html",
+      "image_url": "https://media0.faz.net/image/w730/6a72fe6ef70a/w5081h2858x1324y559/202602/fc3d613e-e814-4dab-bf66-7acd1d6bd18e/die-beziehung-zwischen-mensch.webp",
+      "image_title": "Die Beziehung zwischen Mensch und Katze findet auf Augenhöhe statt."
     },
     {
       "title": "FAZ+Chatbots und Gesundheit: Wenn Dr. ChatGPT an echten Patienten scheitert",
@@ -66,6 +79,13 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/oxford-studie-zu-gesundheit-und-ki-chatbots-versagen-bei-medizin-fragen-110834599.html",
       "image_url": "https://media0.faz.net/image/w730/30e8b1e9b5a9/w6720h3780x0y54/202602/43601.0.1757207333/chatbots-bestehen-koennen.webp",
       "image_title": "Chatbots bestehen können inzwischen Fragen aus Arztexamen beantworten, aber am Dialog mit Patienten scheitern sie."
+    },
+    {
+      "title": "FAZ+Wearables: Bluthochdruck früher erkennen",
+      "teaser": "Hoher Blutdruck ist ein stiller, unbemerkter Killer. Smartwatches können davor warnen. Wie gut sind diese Messungen?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/hypertonie-bluthochdruck-mit-smartwach-frueher-erkennen-110834597.html",
+      "image_url": "https://media0.faz.net/image/w730/cc7d0158e26a/w3000h1687x0y102/201711/431.0.22528127/zu-hoher-blutdruck-ist-eine.webp",
+      "image_title": "Zu hoher Blutdruck ist eine häufig unterschätzte Gefahr."
     },
     {
       "title": "FAZ+Kolumne „Gesundheitsmythen“: „Man kann eigentlich gar nicht zu lange schlafen“",
@@ -87,20 +107,6 @@
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/musikgeschmack-zu-kritisieren-ist-unmodern-geworden-accg-110832556.html",
       "image_url": "https://media0.faz.net/image/w730/d51dea74197b/w3000h1687x0y156/202510/43601.0.1373341207/dann-schon-lieber-heavy-metal.webp",
       "image_title": "Dann schon lieber Heavy Metal: Salonmusiker André Rieu ist unter Klassikfreunden tatsächlich umstritten."
-    },
-    {
-      "title": "FAZ+Gelenkschmerzen: So lässt sich Rheuma verhindern",
-      "teaser": "Ärzte wollen den Verlauf der rheumatoiden Arthritis mit speziellen Medikamenten verlangsamen. Dabei kann man auch vorbeugen – mit dem richtigen Lebensstil.",
-      "url": "https://www.faz.net/aktuell/wissen/lebensstil-wie-sich-rheuma-verhindern-laesst-accg-110830238.html",
-      "image_url": "https://media0.faz.net/image/w730/050e715c0c49/w3000h1687x0y275/202510/43601.0.1357825583/rheuma-geht-haeufig-mit.webp",
-      "image_title": "Rheuma geht häufig mit Schmerzen in den Gelenken einher."
-    },
-    {
-      "title": "FAZ+extrasolare Trümmerscheiben: Die turbulente Jugend ferner Welten",
-      "teaser": "Das Radioteleskop ALMA hat zahlreiche Trümmerscheiben um junge Sterne abgelichtet. Die Vielfalt der Strukturen verrät, wie dynamisch sich auch unser Planetensystem entwickelt hat.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/alma-enthuellt-chaotische-jugend-von-planetensystemen-accg-110830248.html",
-      "image_url": "https://media0.faz.net/image/w730/4560fe48b03f/w2423h1362x0y0/022026/1.10829857/die-von-alma-abgelichteten.webp",
-      "image_title": "Die von ALMA abgelichteten Trümmerscheiben junger Sonnensysteme zeigen eine große Formenvielfalt. Die orange eingefärbten Bereiche markieren den Staub in den 24 Scheiben, die blauen Gebiete die Verteilung und Konzentration von Kohlenmonoxid in sechs gasreichen Systemen."
     },
     {
       "title": "FAZ+Vererbte Lebenserwartung?: Die Gene, dein Freund und Henker",
@@ -173,23 +179,24 @@
       "image_title": "Ulf von Rauchhaupt"
     },
     {
-      "title": "FAZ+Agenten im Arztkittel: Die erfundene Epidemie",
-      "teaser": "Zwei polnische Ärzte täuschten einen Fleckfieber-Ausbruch vor und retteten damit Menschen vor den Nazis. Ihre Geschichte zeigt, wie Wissenschaftler autoritäre Systeme unterlaufen können.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/erfundene-epidemie-wie-zwei-polnische-aerzte-die-nazis-taeuschten-accg-110832479.html",
-      "image_url": "https://media0.faz.net/image/w920/51e9a1f47ea7/w2473h1391x148y527/022026/1.10832477/geheimnisse-unter-eheleuten.webp",
-      "image_title": "Geheimnisse unter Eheleuten: Eugeniusz Łazowski und seine Frau Maria (links) und Stanisław Matulewicz mit seiner Frau Jadwiga (rechts). Nicht mal die Ehefrauen kannten die Pläne."
+      "title": "FAZ+Gelenkschmerzen: So lässt sich Rheuma verhindern",
+      "teaser": "Ärzte wollen den Verlauf der rheumatoiden Arthritis mit speziellen Medikamenten verlangsamen. Dabei kann man auch vorbeugen – mit dem richtigen Lebensstil.",
+      "url": "https://www.faz.net/aktuell/wissen/lebensstil-wie-sich-rheuma-verhindern-laesst-accg-110830238.html",
+      "image_url": "https://media0.faz.net/image/w920/050e715c0c49/w3000h1687x0y275/202510/43601.0.1357825583/rheuma-geht-haeufig-mit.webp",
+      "image_title": "Rheuma geht häufig mit Schmerzen in den Gelenken einher."
     },
     {
-      "title": "Netzrätsel: Was die Handschrift über den Charakter verrät",
-      "teaser": "Es gibt so gut wie nichts, was es nicht gibt im Netz der Netze: Geniales, Kurioses, Nostalgisches und liebevoll Zweckfreies. Diesmal: Graphologie für Anfänger.",
-      "url": "https://www.faz.net/aktuell/wissen/netzraetsel/was-die-handschrift-ueber-den-charakter-verraet-accg-110832557.html",
-      "image_url": "https://media0.faz.net/image/w920/b3a6d2889f1e/w1500h844x0y56/202602/6a40132b-a985-493c-8253-d61e18011416/4ricwp77nmtu.webp"
+      "title": "FAZ+extrasolare Trümmerscheiben: Die turbulente Jugend ferner Welten",
+      "teaser": "Das Radioteleskop ALMA hat zahlreiche Trümmerscheiben um junge Sterne abgelichtet. Die Vielfalt der Strukturen verrät, wie dynamisch sich auch unser Planetensystem entwickelt hat.",
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/alma-enthuellt-chaotische-jugend-von-planetensystemen-accg-110830248.html",
+      "image_url": "https://media0.faz.net/image/w920/4560fe48b03f/w2423h1362x0y0/022026/1.10829857/die-von-alma-abgelichteten.webp",
+      "image_title": "Die von ALMA abgelichteten Trümmerscheiben junger Sonnensysteme zeigen eine große Formenvielfalt. Die orange eingefärbten Bereiche markieren den Staub in den 24 Scheiben, die blauen Gebiete die Verteilung und Konzentration von Kohlenmonoxid in sechs gasreichen Systemen."
     },
     {
       "title": "FAZ+Neue Daten: Warum die Autismus-Diagnosen vor allem bei Mädchen steigen",
       "teaser": "In Schweden hat sich in den vergangenen 35 Jahren die Zahl der Menschen mit einer Autismus-Diagnose verzehnfacht. Dieser Trend zeigt sich auch in anderen Ländern.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/maedchen-haben-genauso-haeufig-autismus-wie-jungen-accg-200509759.html",
-      "image_url": "https://media0.faz.net/image/w920/c5311a9111ba/w3000h1285x0y355/202601/43601.0.1669150748/haeufig-ueberlagern-bei.webp",
+      "image_url": "https://media0.faz.net/image/w1200/5314575e4d8f/w3000h1687x0y84/202601/43601.0.1669150748/haeufig-ueberlagern-bei.webp",
       "image_title": "Häufig überlagern bei Mädchen Angststörungen oder Depressionen die Symptome für Autismus."
     },
     {
@@ -200,6 +207,13 @@
       "image_title": "Eine nahezu leere Packung Statin-Tabletten."
     },
     {
+      "title": "FAZ+Agenten im Arztkittel: Die erfundene Epidemie",
+      "teaser": "Zwei polnische Ärzte täuschten einen Fleckfieber-Ausbruch vor und retteten damit Menschen vor den Nazis. Ihre Geschichte zeigt, wie Wissenschaftler autoritäre Systeme unterlaufen können.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/erfundene-epidemie-wie-zwei-polnische-aerzte-die-nazis-taeuschten-accg-110832479.html",
+      "image_url": "https://media0.faz.net/image/w730/51e9a1f47ea7/w2473h1391x148y527/022026/1.10832477/geheimnisse-unter-eheleuten.webp",
+      "image_title": "Geheimnisse unter Eheleuten: Eugeniusz Łazowski und seine Frau Maria (links) und Stanisław Matulewicz mit seiner Frau Jadwiga (rechts). Nicht mal die Ehefrauen kannten die Pläne."
+    },
+    {
       "title": "FAZ+Psychologie: Hilfe, mein Kind schlägt mich!",
       "teaser": "Es kommt gar nicht so selten vor, dass Teenager ihre Eltern ohrfeigen oder verprügeln. Zurückschlagen ist keine Lösung. Totschweigen auch nicht.",
       "url": "https://www.faz.net/aktuell/wissen/mein-kind-schlaegt-mich-accg-110832555.html",
@@ -207,11 +221,11 @@
       "image_title": "Am häufigsten werden Jugendliche und junge Erwachsene gewalttätig gegen ihre Eltern."
     },
     {
-      "title": "FAZ+Wearables: Bluthochdruck früher erkennen",
-      "teaser": "Hoher Blutdruck ist ein stiller, unbemerkter Killer. Smartwatches können davor warnen. Wie gut sind diese Messungen?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/hypertonie-bluthochdruck-frueher-erkennen-110834597.html",
-      "image_url": "https://media0.faz.net/image/w920/e8b8e7eb07fe/w3000h1285x0y303/201711/431.0.22528127/zu-hoher-blutdruck-ist-eine.webp",
-      "image_title": "Zu hoher Blutdruck ist eine häufig unterschätzte Gefahr."
+      "title": "FAZ+Agenten im Arztkittel: Die erfundene Epidemie",
+      "teaser": "Zwei polnische Ärzte täuschten einen Fleckfieber-Ausbruch vor und retteten damit Menschen vor den Nazis. Ihre Geschichte zeigt, wie Wissenschaftler autoritäre Systeme unterlaufen können.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/erfundene-epidemie-wie-zwei-polnische-aerzte-die-nazis-taeuschten-accg-110832479.html",
+      "image_url": "https://media0.faz.net/image/w920/a7dcf62c6c39/w2720h1165x0y719/022026/1.10832477/geheimnisse-unter-eheleuten.webp",
+      "image_title": "Geheimnisse unter Eheleuten: Eugeniusz Łazowski und seine Frau Maria (links) und Stanisław Matulewicz mit seiner Frau Jadwiga (rechts). Nicht mal die Ehefrauen kannten die Pläne."
     },
     {
       "title": "FAZ+Neue Daten: Warum die Autismus-Diagnosen vor allem bei Mädchen steigen",
