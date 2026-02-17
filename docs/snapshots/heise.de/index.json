@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T05:49:40",
+  "timestamp": "2026-02-17T06:42:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,16 @@
     }
   ],
   "articles": [
+    {
+      "title": "Desktop-RSS-Reader mit dem Pimoroni Presto selbst bauen",
+      "url": "https://www.heise.de/ratgeber/Desktop-RSS-Reader-mit-dem-Pimoroni-Presto-selbst-bauen-11134698.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Sicherheitsbedenken: EU-Parlament deaktiviert KI-Tools auf Diensthandys",
+      "url": "https://www.heise.de/news/Sicherheitsbedenken-EU-Parlament-deaktiviert-KI-Tools-auf-Diensthandys-11179064.html"
+    },
     {
       "title": "Mercedes CLA 250+ im Test: Verbraucht wenig, kommt weit, lädt schnell",
       "url": "https://www.heise.de/tests/Mercedes-CLA-250-im-Test-Elektrische-Limousine-fuer-die-Fernreise-11168047.html",
@@ -58,16 +68,6 @@
     {
       "title": "Neue Tarifmodelle für Starlink in Deutschland",
       "url": "https://www.heise.de/news/Neue-Tarifmodelle-fuer-Starlink-in-Deutschland-11178948.html"
-    },
-    {
-      "title": "OrcaSlicer: Der Fast-alles-Könner für den 3D-Druck vorgestellt",
-      "url": "https://www.heise.de/ratgeber/OrcaSlicer-Der-Fast-alles-Koenner-fuer-den-3D-Druck-vorgestellt-11154379.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "WD und Seagate bestätigen: Festplatten fürs Jahr 2026 ausverkauft",
-      "url": "https://www.heise.de/news/WD-und-Seagate-bestaetigen-Festplatten-fuers-Jahr-2026-ausverkauft-11178815.html"
     },
     {
       "title": "Deutschland-StackOpen-Source-Bündnis warnt vor „Souveränitäts-Washing“",
@@ -131,10 +131,10 @@
       "url": "https://www.heise.de/ratgeber/Plattenspieler-Kaufberatung-Worauf-Sie-achten-sollten-11150489.html"
     },
     {
-      "title": "Kommentar zu SPD-VorschlagSocial-Media-Regeln auch für Erwachsene",
-      "teaser": "LinkedIn-Angeberei und AI Slop sind für Erwachsene fast genauso problematisch wie für Jugendliche, meint Eva-Maria Weiß.",
-      "url": "https://www.heise.de/meinung/SPD-Vorschlag-Social-Media-Regeln-auch-fuer-Erwachsene-11177615.html",
-      "image_title": "Mann im Wartezimmer am Handy auf einem gelben Sofa."
+      "title": "SicherheitsbedenkenEU-Parlament deaktiviert KI-Tools auf Diensthandys",
+      "teaser": "EU-Abgeordnete und ihre Angestellte können auf dienstlichen Smartphones und Tablets keine KI-Funktionen mehr nutzen.",
+      "url": "https://www.heise.de/news/Sicherheitsbedenken-EU-Parlament-deaktiviert-KI-Tools-auf-Diensthandys-11179064.html",
+      "image_title": "EU-Gebäude"
     },
     {
       "title": "KIOpenClaw im Selbstversuch: Erste Schritte mit dem Super-KI-Agenten",
@@ -153,15 +153,15 @@
       "url": "https://www.heise.de/hintergrund/Missing-Link-Gasversorgung-Zwischen-echten-Problemen-und-Panikmache-11176697.html"
     },
     {
+      "title": "SatelliteninternetNeue Tarifmodelle für Starlink in Deutschland",
+      "teaser": "Starlink führt in Deutschland drei neue Tarife für Privatkunden ein. Die Zugänge gibt es weiterhin ab 29 Euro im Monat.",
+      "url": "https://www.heise.de/news/Neue-Tarifmodelle-fuer-Starlink-in-Deutschland-11178948.html",
+      "image_title": "Starlink-Antenne"
+    },
+    {
       "title": "Gleichstrom-ElektromotorYouTuber baut simplen Elektromotor aus Klemmbausteinen",
       "teaser": "YouTuber Jamie hat einen Elektromotor aus Klemmbausteinen gebaut. Nur wenige Zusatzteile sind nötig.",
       "url": "https://www.heise.de/news/YouTuber-baut-simplen-Elektromotor-aus-Klemmbausteinen-11177345.html"
-    },
-    {
-      "title": "KI-Bot OpenClawOpenAI nimmt den KI-Entwickler der Stunde unter Vertrag",
-      "teaser": "Peter Steinberger hat OpenClaw entwickelt, einen mächtigen KI-Agenten für die eigene Hardware. Nun arbeitet er für OpenAI.",
-      "url": "https://www.heise.de/news/KI-Hype-OpenClaw-OpenAI-nimmt-oesterreichischen-Entwickler-unter-Vertrag-11177214.html",
-      "image_title": "Screenshot der Internetseite von OpenClaw"
     },
     {
       "title": "Autark im ErnstfallNotfallradios mit Kurbel- und Solarladung",
@@ -181,10 +181,16 @@
       "image_title": "Mittlerer Ring"
     },
     {
-      "title": "Sparprogramm bei Volkswagen60-Milliarden-Plan zur Kostensenkung",
-      "teaser": "Volkswagen will laut Medienbericht mit einem 60-Milliarden-Euro-Sparprogramm bis 2028 Kosten senken. Der Betriebsrat will keine Werksschließungen akzeptieren.",
-      "url": "https://www.heise.de/news/Volkswagen-plant-offenbar-60-Milliarden-Euro-Sparprogramm-11178819.html",
-      "image_title": "Volkswagen_Werk_Kassel"
+      "title": "KI-Bot OpenClawOpenAI nimmt den KI-Entwickler der Stunde unter Vertrag",
+      "teaser": "Peter Steinberger hat OpenClaw entwickelt, einen mächtigen KI-Agenten für die eigene Hardware. Nun arbeitet er für OpenAI.",
+      "url": "https://www.heise.de/news/KI-Hype-OpenClaw-OpenAI-nimmt-oesterreichischen-Entwickler-unter-Vertrag-11177214.html",
+      "image_title": "Screenshot der Internetseite von OpenClaw"
+    },
+    {
+      "title": "Desktop-RSS-Reader mit dem Pimoroni Presto selbst bauen",
+      "teaser": "In diesem Artikel bauen wir Schritt für Schritt einen eigenen RSS-Reader auf Basis des Pimoroni Presto, der Feeds abruft, auswertet und übersichtlich darstellt.",
+      "url": "https://www.heise.de/ratgeber/Desktop-RSS-Reader-mit-dem-Pimoroni-Presto-selbst-bauen-11134698.html",
+      "image_title": ","
     },
     {
       "title": "Mercedes CLA 250+ im Test: Verbraucht wenig, kommt weit, lädt schnell",
@@ -193,15 +199,15 @@
       "image_title": "Mercedes CLA 250+"
     },
     {
+      "title": "Als WiFi-Dienstleister zur eigenen Marke werden",
+      "teaser": "Wer im WiFi-Bereich Drittprodukte vertreibt, macht sich vergleichbar und steht ständig im Preiskampf. Ein eigenes Branding kann dagegen die Kundenloyalität stärken und für bessere Margen sorgen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7214705506&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "Dienstag: Verfahren gegen X in Irland, Starlink erhält Genehmigung in Vietnam",
       "teaser": "Deep Fakes von Grok + Starlink mit Betriebslizenz in Vietnam + SPD: Forderung nach Social-Media-Verbot + Kommentar zum SPD-Vorschlag + Open-Source-Bündnis warnt",
       "url": "https://www.heise.de/news/Dienstag-Verfahren-gegen-X-in-Irland-Starlink-erhaelt-Genehmigung-in-Vietnam-11179056.html",
       "image_title": "Zwei Finger tippen auf einem Smartphone auf die Grok-App, dazu Text: DIENSTAG Grok-Deep-Fakes, Satelliten-Internet, SPD für Social-Media-Verbot & Open Source"
-    },
-    {
-      "title": "Bezahlbare Cyber-Sicherheit für den Mittelstand",
-      "teaser": "Begrenzte Ressourcen, aber raffiniertere Bedrohungen – mit dem Einsatz von KI können sich Unternehmen effektiv schützen. Denn beim digitalen Wettrüsten ist KI ein Angriffs- und Verteidigungswerkzeug.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7195670840&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Satelliten-Internet: Starlink erhält Betriebsgenehmigung in Vietnam",
@@ -225,12 +231,6 @@
       "title": "Top 10: Die beste Gaming-Maus im Test – Testsieger Logitech vor Asus ROG & Razer",
       "teaser": "Gaming-Mäuse müssen unterschiedliche Zwecke erfüllen. Für Shooter sollten sie besonders leicht und präzise sein. Wir zeigen die besten unter ihnen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-gaming-maus-im-test-testsieger-logitech-vor-asus-rog-und-razer/116hh77?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Neue Tarifmodelle für Starlink in Deutschland",
-      "teaser": "Starlink führt in Deutschland drei neue Tarife für Privatkunden ein. Die Satelliteninternetzugänge gibt es weiterhin ab 29 Euro im Monat.",
-      "url": "https://www.heise.de/news/Neue-Tarifmodelle-fuer-Starlink-in-Deutschland-11178948.html",
-      "image_title": "Starlink-Antenne"
     },
     {
       "title": "OrcaSlicer: Der Fast-alles-Könner für den 3D-Druck vorgestellt",
@@ -337,6 +337,12 @@
       "image_title": "Tesla-Logo auf rotem Auto"
     },
     {
+      "title": "Volkswagen plant offenbar 60-Milliarden-Euro-Sparprogramm",
+      "teaser": "Volkswagen will laut Medienbericht mit einem 60-Milliarden-Euro-Sparprogramm bis 2028 Kosten senken. Der Betriebsrat will keine Werksschließungen akzeptieren.",
+      "url": "https://www.heise.de/news/Volkswagen-plant-offenbar-60-Milliarden-Euro-Sparprogramm-11178819.html",
+      "image_title": "Volkswagen_Werk_Kassel"
+    },
+    {
       "title": "Cisco: Mit Nutanix zur VMware-Alternative",
       "teaser": "Cisco integriert Nutanix, stellt Unified Edge vor und blickt mit Projekt Edison in die Zukunft der Energieverteilung für KI-Hardware.",
       "url": "https://www.heise.de/news/Cisco-Mit-Nutanix-zur-VMware-Alternative-11177706.html",
@@ -402,15 +408,15 @@
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
     },
     {
+      "title": "Mit KI mehr Sicherheit und Effizienz im SOC",
+      "teaser": "Security Operations Centers (SOC) kämpfen bei begrenzten Ressourcen und Budgets mit immer komplexeren Bedrohungen. Erfahren Sie, wie KI helfen kann, dieses Dilemma zu lösen.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-wachsende-rolle-von-ki-fuer-mehr-automatisierung-und-effizienz-im-soc-5003/?source=nat_teas"
+    },
+    {
       "title": "Googles WebMCP macht Websites zu strukturierten Datenquellen für KI-Agenten",
       "teaser": "Google hat WebMCP vorgestellt. Die JavaScript-API macht Websites zu MCP-Servern und ermöglicht KI-Agenten strukturierte Interaktionen mit der Website.",
       "url": "https://www.heise.de/news/Googles-WebMCP-macht-Websites-zu-strukturierten-Datenquellen-fuer-KI-Agenten-11177824.html",
       "image_title": "Roboter neben Laptop und Tastatur, lila Hintergrund"
-    },
-    {
-      "title": "Mit KI mehr Sicherheit und Effizienz im SOC",
-      "teaser": "Security Operations Centers (SOC) kämpfen bei begrenzten Ressourcen und Budgets mit immer komplexeren Bedrohungen. Erfahren Sie, wie KI helfen kann, dieses Dilemma zu lösen.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/die-wachsende-rolle-von-ki-fuer-mehr-automatisierung-und-effizienz-im-soc-5003/?source=nat_teas"
     },
     {
       "title": "Warum KI-Slop mit bestehenden Gesetzen kaum zu bremsen ist",
@@ -428,6 +434,12 @@
       "teaser": "Mehr als Ein-Finger-Suchsystem: Es gibt die erste externe Softwaretastatur für visionOS. Allerdings mit technischen Einschränkungen.",
       "url": "https://www.heise.de/news/AirKeyboard-Pro-All-Finger-Tastatur-fuer-die-Vision-Pro-11173863.html",
       "image_title": "AirKeyboard Pro in Aktion"
+    },
+    {
+      "title": "Kommentar zum SPD-Vorschlag: Social-Media-Regeln auch für Erwachsene",
+      "teaser": "LinkedIn-Angeberei und AI Slop sind für Erwachsene fast genauso problematisch wie für Jugendliche, meint Eva-Maria Weiß.",
+      "url": "https://www.heise.de/meinung/SPD-Vorschlag-Social-Media-Regeln-auch-fuer-Erwachsene-11177615.html",
+      "image_title": "Mann im Wartezimmer am Handy auf einem gelben Sofa."
     },
     {
       "title": "Bieterstreit: Neues Paramount-Angebot bringt Warner ins Grübeln",
@@ -457,17 +469,6 @@
       "teaser": "Strafverfolger wollen Chatkontrollen zur Strafverfolgung nutzen. Sicherheitsexperten befürchten Nutzerüberwachung, außerdem sind Erkennungsverfahren angreifbar.",
       "url": "https://www.heise.de/hintergrund/Chatkontrolle-Sicherheitsrisiken-beim-Client-Side-Scanning-11169484.html",
       "image_title": ","
-    },
-    {
-      "title": "Apple kauft Datenbankfirma Kuzu aus Kanada",
-      "teaser": "Schnelle, flexible Graph-Datenbanken ließen sich mit Kuzu erstellen. Das Unternehmen wurde ohne große Ankündigung von Apple geschluckt.",
-      "url": "https://www.heise.de/news/Apple-kauft-Datenbankfirma-Kuzu-aus-Kanada-11175223.html",
-      "image_title": "Apple-Logo auf einer Geräterückseite"
-    },
-    {
-      "title": "ClickFix-Attacken nutzen Schadcode in DNS-Antworten",
-      "teaser": "Microsoft hat eine neue Variante der Malware-Verteilung in ClickFix-Angriffen entdeckt. Die Angreifer liefern Schadcode mittels DNS aus.",
-      "url": "https://www.heise.de/news/ClickFix-Attacken-nutzen-Schadcode-in-DNS-Antworten-11177592.html"
     },
     {
       "title": "Disney geht nach KI-generierten Star-Wars- und Marvel-Clips gegen Bytedance vor",
@@ -533,12 +534,13 @@
       "image_title": "Young,Woman,Picked,Out,By,Face,Detection,Or,Facial,Recognition"
     },
     {
-      "title": "Palantir will Gegendarstellung von Schweizer Magazin gerichtlich durchsetzen",
-      "url": "https://www.heise.de/news/Palantir-gegen-die-Republik-US-Analysefirma-geht-gegen-Magazin-vor-Gericht-11176503.html"
+      "title": "Apple kauft Datenbankfirma Kuzu aus Kanada",
+      "url": "https://www.heise.de/news/Apple-kauft-Datenbankfirma-Kuzu-aus-Kanada-11175223.html",
+      "image_title": "Apple-Logo auf einer Geräterückseite"
     },
     {
-      "title": "GVG Glasfaser erhält frisches Geld für neue FTTH-Netze",
-      "url": "https://www.heise.de/news/GVG-Glasfaser-erhaelt-frisches-Geld-fuer-neue-FTTH-Netze-11177069.html"
+      "title": "Palantir will Gegendarstellung von Schweizer Magazin gerichtlich durchsetzen",
+      "url": "https://www.heise.de/news/Palantir-gegen-die-Republik-US-Analysefirma-geht-gegen-Magazin-vor-Gericht-11176503.html"
     },
     {
       "title": "Expertenforderung: OpenDesk sollte für Unis gratis sein",
@@ -634,15 +636,14 @@
       "url": "https://www.heise.de/en/news/iPhone-17e-These-features-could-come-11178727.html"
     },
     {
-      "title": "LaTeX: Professionelle Briefe ohne Layoutstress erstellen",
-      "teaser": "Ansehnliche Briefe, jedes Mal aufs Neue, ohne mühseliges Gefrickel – LaTeX machts möglich. Wir zeigen, wie Sie Ihre Korrespondenz auf ein neues Niveau heben.",
-      "url": "https://www.heise.de/ratgeber/LaTeX-Professionelle-Briefe-ohne-Layoutstress-erstellen-11102025.html"
+      "title": "Backblaze-StatistikAusfallraten von Festplatten sinken weiter",
+      "teaser": "Backblaze zeigt in seinem Jahresbericht, welche Festplatten zuverlässig sind und wie sich Ausfälle entwickeln.",
+      "url": "https://www.heise.de/news/Backblaze-Ausfallraten-von-Festplatten-sinken-weiter-11176969.html"
     },
     {
-      "title": "Windows 11: Wissenswertes zu Startmenü und Taskleiste",
-      "teaser": "Startmenü und Taskleiste von Windows 11 haben einen miesen Ruf: Sie sind unübersichtlich und voller Werbung. Mit ein paar Handgriffen werden beide effizienter.",
-      "url": "https://www.heise.de/ratgeber/Windows-11-Wissenswertes-zu-Startmenue-und-Taskleiste-11084668.html",
-      "image_title": "Das Aufmacherbild ist im Comicstil gehalten. Es zeigt ein Hochbeet in einem Garten. Im Beet sind Pflanzen im Raster angeordnert, sodass es ans Winodws-Startmenü erinnert."
+      "title": "PCIe 6.0: Micron startet die Massenfertigung der ersten SSD",
+      "teaser": "PCIe 6.0 ist im Serverbereich noch nicht wirklich angekommen, bei Desktops wird es noch Jahre dauern. Doch die ersten SSDs kommen bald.",
+      "url": "https://www.heise.de/news/PCIe-6-0-Micron-startet-die-Massenfertigung-der-ersten-SSD-11176889.html"
     },
     {
       "title": "Festplatten-Forschung: Dicke der Beschichtung sinkt unter 1 Nanometer",
@@ -668,6 +669,12 @@
       "image_title": "Wallper unter macOS"
     },
     {
+      "title": "Desktop-RSS-Reader mit dem Pimoroni Presto selbst bauen",
+      "teaser": "In diesem Artikel bauen wir Schritt für Schritt einen eigenen RSS-Reader auf Basis des Pimoroni Presto, der Feeds abruft, auswertet und übersichtlich darstellt.",
+      "url": "https://www.heise.de/ratgeber/Desktop-RSS-Reader-mit-dem-Pimoroni-Presto-selbst-bauen-11134698.html",
+      "image_title": ","
+    },
+    {
       "title": "Jetzt in der Make 1/26: Konservendose als Radonsensor",
       "teaser": "Hat man Radon erst in seinem Haus entdeckt, sollte man als Nächstes die Belastung prüfen. Wir zeigen, wie man dafür ein Messgerät baut.",
       "url": "https://www.heise.de/news/Jetzt-in-der-Make-1-26-Konservendose-als-Radonsensor-11174826.html"
@@ -677,11 +684,6 @@
       "teaser": "Um die Konzentration von Radon zu messen, bedarf es eines feineren Messverfahrens. Die vorgestellte Ionenkammer lässt sich mit Maker-Mitteln verwirklichen.",
       "url": "https://www.heise.de/ratgeber/Radonsensor-im-Selbstbau-Messgeraet-aus-Konservendose-11135474.html",
       "image_title": ","
-    },
-    {
-      "title": "Gitarre neu gedacht„Schwebende“ Gitarrensaiten von 250-kg-Magnet gehalten",
-      "teaser": "Ein Musiker und YouTuber hat mithilfe eines starken Magneten eine Gitarre gebaut, bei der die Saiten am Korpus frei schweben.",
-      "url": "https://www.heise.de/news/Gitarre-neu-gedacht-Schwebende-Gitarrensaiten-von-250-kg-Magnet-gehalten-11174151.html"
     },
     {
       "title": "Fotonews der Woche 7/26Googles KI-Blamage und frisches Blut für MFT",
@@ -695,16 +697,16 @@
       "url": "https://www.heise.de/news/Mond-Nebel-Bewegung-Die-Bilder-der-Woche-7-11175422.html"
     },
     {
-      "title": "Mallorca fotografieren: Die besten Fotospots an der Küste und im Hinterland",
-      "teaser": "Die Insel ist ein Traumziel für Landschaftsfotografen. Sie bietet natürliche Schönheit, reiche Kultur und ideale Lichtverhältnisse für spektakuläre Aufnahmen.",
-      "url": "https://www.heise.de/ratgeber/Mallorca-fotografieren-Die-besten-Fotospots-an-der-Kueste-und-im-Hinterland-11164670.html",
-      "image_title": ", Radekcho / stock.adobe.com; alle anderen Fotos: Bastian Werner"
-    },
-    {
       "title": "Slow Photography: Mit Ruhe, Technik und Blick fürs Detail zu besseren Bildern",
       "teaser": "Slow Photography entschleunigt bewusst. Mit weniger Ausrüstung, manuellem Fokussieren und klaren Kompositionen zu mehr Freude an der Fotografie.",
       "url": "https://www.heise.de/ratgeber/Slow-Photography-Mit-Ruhe-Technik-und-Blick-fuers-Detail-zu-besseren-Bildern-11157892.html",
       "image_title": "In Udine war ich zum ersten Mal bewusst mit der Kamera in dieser Stadt unterwegs. Deshalb habe ich mich für das 20–40 Millimeter entschieden, um flexibel zu bleiben. Spiegelungen sind zum Fotografieren immer reizvoll und ermöglichen DSGVO-gerechte Aufnahmen. , Alle Bilder: Bernd Grosseck"
+    },
+    {
+      "title": "Fotonews der Woche 6/2026Kameramarkt wächst, Giganten schwächeln",
+      "teaser": "Zum ersten Mal seit fast 20 Jahren vermeldet die Kamerabranche zwei Jahre in Folge Wachstum.",
+      "url": "https://www.heise.de/news/Der-Kameramarkt-waechst-die-Giganten-schwaecheln-die-Fotonews-der-Woche-6-2026-11168564.html",
+      "image_title": "Diverse Kameras auf einem Holztisch vor Pflanzen"
     },
     {
       "title": "ÜberblickKI-Coding-Assistenten für die Softwareentwicklung",
@@ -749,22 +751,22 @@
       "image_title": "Waymo-Robotaxi fährt als Zeekr-Minivan auf Straße neben Palmen"
     },
     {
-      "title": "(Fast) kein Patent auf menschliche embryonale Stammzellen",
-      "teaser": "Der Europäische Gerichtshof hat in der Patentfrage restriktiv entschieden, lässt aber auch Freiräume für die Patentierbarkeit von ES-Zellen offen",
-      "url": "https://www.heise.de/-3391706",
-      "image_url": "https://www.heise.de/icons/svg/icons/svg/comments_outline_grey_light.svg"
+      "title": "Schul-Digitalisierung in Brandenburg: Bringt Technik bessere Leistungen?",
+      "teaser": "Millionen für Tablets und KI an Schulen – doch Studien zeigen: Ohne Konzept kann Digitalisierung Lernen und Konzentration verschlechtern. (Teil 2 und Schluss)",
+      "url": "https://www.heise.de/-11176841",
+      "image_title": "Ein Computerkabinett in einer Schule. Auf jedem Tisch steht ein Monitor."
     },
     {
-      "title": "Invasion der Waschbären – wie die wendigen Vierbeiner die Städte erobern",
-      "teaser": "Waschbären breiten sich in Städten rasant aus. Sie plündern Mülleimer, dringen in Gärten und Häuser ein. Wie gehen wir mit ihnen um?",
-      "url": "https://www.heise.de/-11172570",
-      "image_title": "Waschbär hinteer nächtlicher Stadtsilhouette"
+      "title": "Karneval – Das Spiel mit fremden Federn: Die Wahrheit über Scheinindianer",
+      "teaser": "Hollywood hat den \"Indianer\" erfunden – und reale Kulturen überdeckt. Warum das Möchtegern-Indianer-Spiel bis heute politisch wirkt.",
+      "url": "https://www.heise.de/-11176921",
+      "image_title": "Als Indianer verkleideter Mann"
     },
     {
-      "title": "Wie China den Iran mit Radar, Satelliten und Geheimdiensten aufrüstet",
-      "teaser": "Peking liefert Frühwarnung, Radar und Daten statt Bomben. Das verschiebt das militärische Gleichgewicht im Nahen Osten grundlegend. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11176574",
-      "image_title": "Küstenmeer mit Kriegsschiffen, Militärflugzeugen und Satelliten"
+      "title": "München: Europa inszeniert Stärke, während Washington Unterordnung fordert",
+      "teaser": "Auf der Münchner Sicherheitskonferenz offenbarten sich tiefe Risse zwischen Europa und den USA. Warum freundliche Worte keinen Konsens schaffen. Eine Analyse.",
+      "url": "https://www.heise.de/-11177828",
+      "image_title": "US-Außenminister Marco Rubio"
     },
     {
       "title": "Alternativen zu Google Drive, iCloud & Co.: Hier bleiben eure Daten in Europa",
