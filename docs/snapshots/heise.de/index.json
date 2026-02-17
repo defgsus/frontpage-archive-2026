@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-17T19:39:02",
+  "timestamp": "2026-02-17T20:23:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Cloud-Ernüchterung: Zwei Drittel suchen neue Desktop-Virtualisierung",
+      "url": "https://www.heise.de/news/Studie-94-Prozent-der-IT-Leiter-fuerchten-Vendor-Lock-in-bei-Cloud-Diensten-11180055.html"
+    },
     {
       "title": "Neues 3D-Druckverfahren ist schnell und präzise",
       "url": "https://www.heise.de/news/Volumetrisches-3D-Druckverfahren-ermoeglicht-schnelles-und-praezises-Drucken-11180287.html"
@@ -62,10 +66,6 @@
     {
       "title": "„Pflege-Tinder“ und „Pflege-Kompass“ sollen pflegenden Angehörigen helfen",
       "url": "https://www.heise.de/news/Pflege-Tinder-und-Pflege-Kompass-sollen-pflegenden-Angehoerigen-helfen-11142780.html"
-    },
-    {
-      "title": "Cisco rüstet Security-Portfolio für autonome KI-Agenten auf",
-      "url": "https://www.heise.de/news/Cisco-ruestet-Security-Portfolio-fuer-autonome-KI-Agenten-auf-11180045.html"
     },
     {
       "title": "ZDFBeitrag mit gefälschtem KI-Video im „heute journal“",
@@ -187,21 +187,27 @@
       "image_title": "Starlink-Antenne"
     },
     {
+      "title": "Cloud-Ernüchterung: Zwei Drittel suchen neue Desktop-Virtualisierung",
+      "teaser": "Eine aktuelle Befragung von IT-Profis zeigt massive Bedenken vor Herstellerabhängigkeit. Zwei Drittel suchen aktiv nach Alternativen zu ihrer DaaS/VDI-Lösung.",
+      "url": "https://www.heise.de/news/Studie-94-Prozent-der-IT-Leiter-fuerchten-Vendor-Lock-in-bei-Cloud-Diensten-11180055.html",
+      "image_title": "Computer-Chip mit Wirbelsturm aus 0ern und 1ern, blauer Hintergrund"
+    },
+    {
       "title": "Neues 3D-Druckverfahren ist schnell und präzise",
       "teaser": "Ein neues, volumetrisches 3D-Druckverfahren baut Objekte komplett auf, und das sehr schnell: Ein millimetergroßes Objekt entsteht in weniger als einer Sekunde.",
       "url": "https://www.heise.de/news/Volumetrisches-3D-Druckverfahren-ermoeglicht-schnelles-und-praezises-Drucken-11180287.html",
       "image_title": "3D-gedrucktes Objekt aus Resin"
     },
     {
+      "title": "Als WiFi-Dienstleister zur eigenen Marke werden",
+      "teaser": "Wer im WiFi-Bereich Drittprodukte vertreibt, macht sich vergleichbar und steht ständig im Preiskampf. Ein eigenes Branding kann dagegen die Kundenloyalität stärken und für bessere Margen sorgen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7214705506&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "Nach Druck aus Hollywood: ByteDance setzt Seedance 2.0 Grenzen",
       "teaser": "Der TikTok-Eigentümer ByteDance will Änderungen an seinem KI-Videogenerator Seedance 2.0 vornehmen. Zuvor hatte Hollywood erheblichen Druck ausgeübt.",
       "url": "https://www.heise.de/news/Nach-Druck-aus-Hollywood-ByteDance-setzt-Seedance-2-0-Grenzen-11180095.html",
       "image_title": "TikTok-Logo an Firmengebäude in Kalifornien"
-    },
-    {
-      "title": "Als WiFi-Dienstleister zur eigenen Marke werden",
-      "teaser": "Wer im WiFi-Bereich Drittprodukte vertreibt, macht sich vergleichbar und steht ständig im Preiskampf. Ein eigenes Branding kann dagegen die Kundenloyalität stärken und für bessere Margen sorgen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7214705506&iu=%2F6514%2FClicktracking%2Ftextlink"
     },
     {
       "title": "Russland verabschiedet Gesetz zur Mobilfunkabschaltung",
@@ -231,12 +237,6 @@
       "title": "Minibrennstoffzelle für tragbare Geräte",
       "teaser": "Forscher in Japan haben eine handliche Brennstoffzelle entwickelt. Innen verbrennt Wasserstoff bei 600 Grad Celsius, außen erreicht das Gehäuse kaum 20 Grad.",
       "url": "https://www.heise.de/hintergrund/Minibrennstoffzelle-fuer-tragbare-Geraete-11154528.html"
-    },
-    {
-      "title": "„Pflege-Tinder“ und „Pflege-Kompass“ sollen pflegenden Angehörigen helfen",
-      "teaser": "Der „Pflege-Kompass“ von Nui Care soll Gutachten verständlich machen, ein „Pflege-Tinder“ Angehörige lokal vernetzen. Das soll die häusliche Pflege entlasten.",
-      "url": "https://www.heise.de/news/Pflege-Tinder-und-Pflege-Kompass-sollen-pflegenden-Angehoerigen-helfen-11142780.html",
-      "image_title": "Ältere Dame und Pflegerin"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -330,6 +330,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "„Pflege-Tinder“ und „Pflege-Kompass“ sollen pflegenden Angehörigen helfen",
+      "teaser": "Der „Pflege-Kompass“ von Nui Care soll Gutachten verständlich machen, ein „Pflege-Tinder“ Angehörige lokal vernetzen. Das soll die häusliche Pflege entlasten.",
+      "url": "https://www.heise.de/news/Pflege-Tinder-und-Pflege-Kompass-sollen-pflegenden-Angehoerigen-helfen-11142780.html",
+      "image_title": "Ältere Dame und Pflegerin"
+    },
+    {
       "title": "Cisco rüstet Security-Portfolio für autonome KI-Agenten auf",
       "teaser": "Wer KI-Agenten einsetzen will, braucht auch die passenden Sicherheitsmaßnahmen – findet Cisco und baut sein Angebot entsprechend aus.",
       "url": "https://www.heise.de/news/Cisco-ruestet-Security-Portfolio-fuer-autonome-KI-Agenten-auf-11180045.html",
@@ -401,16 +407,15 @@
       "image_title": "KDE Plasma 6.6 Desktop auf Notebook"
     },
     {
+      "title": "Mit proaktivem Security-Management Schaden verhindern",
+      "teaser": "Beim Schutz Ihrer IT vor Angriffen spielt Zeit eine wichtige Rolle. Wie Sie, anstatt nur zu reagieren, proaktiv Angriffe abwehren können, erfahren Sie in unserer Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/mit-proaktivem-security-management-schaden-verhindern-4989/?source=hbsadersatz"
+    },
+    {
       "title": "Agentic AI: Warum sich die Business-Hoffnungen kaum erfüllen",
       "teaser": "Die Anbieter für KI-Agenten zitieren gern Erfolgsgeschichten für deren Einsatz in Unternehmen. Doch dabei fehlen zentrale Aspekte, analysiert Harald Weiss.",
       "url": "https://www.heise.de/meinung/Agentic-AI-Warum-sich-die-Business-Hoffnungen-kaum-erfuellen-11179654.html",
       "image_title": "Gehirn von oben, zwischen den beiden Hirnhälften das Wort \"AI\""
-    },
-    {
-      "title": "KI-Modelloptimierung mit Paiton – leistungsstark, aber genügsam",
-      "teaser": "Der KI-Boom soll den Strombedarf in Rechenzentren bis 2030 verdoppeln. Kernel-Optimierungen wie Paiton können die Effizienz von KI-Modellen deutlich steigern und so den Ressourcenverbrauch begrenzen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/ki-modelloptimierung-mit-paiton-leistungsstark-aber-genuegsam/?source=hbsadersatz",
-      "image_title": "KI für KMU: Erfolgreiche Integration und rechtliche Compliance in der Cloud-Ära"
     },
     {
       "title": "iX-Workshop Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
@@ -465,12 +470,6 @@
       "teaser": "Die EU-Kommission hat eine formale Untersuchung gegen den chinesischen Onlinehändler Shein eingeleitet. Der Anbieter könnte seine Pflichten verletzt haben.",
       "url": "https://www.heise.de/news/EU-Kommission-Shein-unterschaetzt-eigene-Risiken-11179646.html",
       "image_title": "Shein-App im Google Play Store auf einem Smartphone"
-    },
-    {
-      "title": "Unity AI: Unity-Chef verspricht Casual Games auf Textbefehl",
-      "teaser": "Der Chef von Unity rührt die Werbetrommel für KI-Funktionen: Bald soll eine Version von Unity AI vorgestellt werden, die Spiele per Prompt erstellt.",
-      "url": "https://www.heise.de/news/Unity-AI-Unity-Chef-verspricht-Casual-Games-auf-Textbefehl-11179501.html",
-      "image_title": "Unity-Logo auf Handy"
     },
     {
       "title": "KI-Hype OpenClaw: OpenAI nimmt österreichischen Entwickler unter Vertrag",
@@ -639,6 +638,12 @@
       "url": "https://www.heise.de/en/news/iPhone-17e-These-features-could-come-11178727.html"
     },
     {
+      "title": "Windows 11: Die wichtigsten Handgriffe für besseren Datenschutz",
+      "teaser": "Wer Windows 11 benutzt, sollte einen Blick in die Datenschutzoptionen werfen – um sie zu verbessern, aber auch um zu verstehen, was alles einstellbar ist.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Die-wichtigsten-Handgriffe-fuer-besseren-Datenschutz-11084714.html",
+      "image_title": "Das Aufmacherbild ist im Comic-Stil gehalten und zeigt, wie ein einfacher, kleiner Gartenzaun Brett für Brett durch einen wesentlich höheren ersetzt wird."
+    },
+    {
       "title": "LaTeX: Professionelle Briefe ohne Layoutstress erstellen",
       "teaser": "Ansehnliche Briefe, jedes Mal aufs Neue, ohne mühseliges Gefrickel – LaTeX machts möglich. Wir zeigen, wie Sie Ihre Korrespondenz auf ein neues Niveau heben.",
       "url": "https://www.heise.de/ratgeber/LaTeX-Professionelle-Briefe-ohne-Layoutstress-erstellen-11102025.html"
@@ -648,12 +653,6 @@
       "teaser": "Das Institut für Werkstoffwissenschaft und Werkstofftechnologie der TU Wien hat nun einen eigenen Eintrag im Guiness-Buch der Rekorde für den kleinsten QR-Code.",
       "url": "https://www.heise.de/news/Kleinster-QR-Code-der-Welt-misst-nur-knapp-2-Quadratmikrometer-11179974.html",
       "image_title": "Ein Forschungsteam prüft einen QR-Code an einem Monitor"
-    },
-    {
-      "title": "Windows 11: Die wichtigsten Handgriffe für besseren Datenschutz",
-      "teaser": "Wer Windows 11 benutzt, sollte einen Blick in die Datenschutzoptionen werfen – um sie zu verbessern, aber auch um zu verstehen, was alles einstellbar ist.",
-      "url": "https://www.heise.de/ratgeber/Windows-11-Die-wichtigsten-Handgriffe-fuer-besseren-Datenschutz-11084714.html",
-      "image_title": "Das Aufmacherbild ist im Comic-Stil gehalten und zeigt, wie ein einfacher, kleiner Gartenzaun Brett für Brett durch einen wesentlich höheren ersetzt wird."
     },
     {
       "title": "KI zu Befehl:Wie man den Mac per KI steuert",
@@ -755,22 +754,22 @@
       "image_title": "Passagiere am Bremer Hauptbahnhof"
     },
     {
+      "title": "München: Europa inszeniert Stärke, während Washington Unterordnung fordert",
+      "teaser": "Auf der Münchner Sicherheitskonferenz offenbarten sich tiefe Risse zwischen Europa und den USA. Warum freundliche Worte keinen Konsens schaffen. Eine Analyse.",
+      "url": "https://www.heise.de/-11177828",
+      "image_title": "US-Außenminister Marco Rubio"
+    },
+    {
+      "title": "Wasserstoff-Hochlauf: Warum Milliarden-Förderung nicht reicht",
+      "teaser": "Eine BDEW-Studie deckt auf, warum Wasserstoff-Projekte trotz Förderzusagen scheitern. Die Risiken sind zu groß – und sie verstärken sich gegenseitig.",
+      "url": "https://www.heise.de/-11179738",
+      "image_title": "Die Wasserstoffenergieerzeugung, die Industrieanlage betreibt H2-Speichertanks und -Pipelines und unterstützt so die Verarbeitung sauberer Brennstoffe, die Integration erneuerbarer Energien und eine nachhaltige Energieinfrastruktur. 3D-Bild"
+    },
+    {
       "title": "UpdateDigitale Bildung: Warum kommen Brandenburgs Schulen nicht voran",
       "teaser": "Zwischen Glasfaser und 200-Mbit-Leitung liegen Welten – obwohl beide im selben Bundesland liegen. Ein Blick hinter die Kulissen. ( Teil 1)",
       "url": "https://www.heise.de/-11176837",
       "image_title": "Eine Gruppe von Kindern sitzt in der Schule vor Computern."
-    },
-    {
-      "title": "Insolvenzen: Tausende Jobs betroffen, keine Trendwende in Sicht",
-      "teaser": "Die Zahl der Firmenpleiten bleibt hoch. Im Januar waren fast 17.000 Arbeitsplätze bei Großinsolvenzen betroffen. Was das für Beschäftigte bedeutet.",
-      "url": "https://www.heise.de/-11178692",
-      "image_title": "Kompass mit Pfeil, der auf Insolvenz zeigt (für: Insolvenz) zwischen Symbolen als Konzept (3D-Darstellung)"
-    },
-    {
-      "title": "Ist ein Social-Media-Verbot für Jugendliche demokratisch?",
-      "teaser": "Neue Verbote sind schnell beschlossen. Werden sie fair ausgehandelt? Die Debatte um Altersgrenzen für Instagram & Co zeigt: Entscheidend ist, wer die Macht hat.",
-      "url": "https://www.heise.de/-11179575",
-      "image_title": "Ein Teenager vor einem Stehpult im Hintergrund Männer in Anzügen im Schatten und links von ihm ebenfalls ein erwachsener Mann im Anzug"
     },
     {
       "title": "KI-Inhalte erkennen: Was Detektoren können – und was nicht",
