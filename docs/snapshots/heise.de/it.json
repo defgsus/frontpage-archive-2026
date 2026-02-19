@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-19T14:01:03",
+  "timestamp": "2026-02-19T15:36:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,16 @@
   ],
   "articles": [
     {
+      "title": "Blick ins Heft c’t 5/2026: Windows 11 produktiv einrichten",
+      "teaser": "Heute geht es um die Bedienung von Windows 11, um die Frage, wer oder was eigentlich Schrödingers Katze ist, und wie KI-Müll das Internet vergiftet.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-5-2026-Windows-11-produktiv-einrichten-11182593.html"
+    },
+    {
+      "title": "Deutsche KI-Start-ups im Spannungsfeld von Milliardeninvestitionen und KI-Blase",
+      "teaser": "Ungeachtet der viel diskutierten KI-Blase investieren Unternehmen und Fonds weiterhin in KI-Start-ups – verstärkt auch in Europa. Kann das gutgehen?",
+      "url": "https://www.heise.de/hintergrund/Deutsche-KI-Start-ups-im-Spannungsfeld-von-Milliardeninvestitionen-und-KI-Blase-11098245.html"
+    },
+    {
       "title": "Betrugsmasche: Falsche „Gemini“-Chatbots verkaufen falschen „Google Coin“",
       "teaser": "Eine neue Betrugsmasche beruht auf angepassten KI-Chatbots. Diese drängen Opfer dazu, wertlose Kryptowährungen zu kaufen.",
       "url": "https://www.heise.de/news/Betrugsmasche-Falsche-Gemini-Chatbots-verkaufen-falschen-Google-Coin-11182685.html",
@@ -36,18 +46,6 @@
       "teaser": "Googles Pixel-Smartphones sollen künftig eine bessere Gesichtsentsperrung erhalten, die denen des iPhone ähnelt – und auch bei Dunkelheit funktioniert.",
       "url": "https://www.heise.de/news/Fuers-Pixel-11-Google-arbeitet-an-besserer-Gesichtsentsperrung-wie-bei-iPhones-11182727.html",
       "image_title": "Pixel 4 mit Face Unlock"
-    },
-    {
-      "title": "iX-Workshop: Active Directory hacken und schützen",
-      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11168874.html",
-      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
-    },
-    {
-      "title": "Interne E-Mail des ChefsRing-Kameras sollten nie nur verlorene Hunde finden",
-      "teaser": "KI-gestützt sollen Ring-Kameras nach verlorenen Hunden suchen. Eine interne E-Mail scheint zu bestätigen, dass das nur der Anfang ist.",
-      "url": "https://www.heise.de/news/Kriminalitaet-auf-Null-reduzieren-Ring-Kameras-sollten-nie-nur-Hunde-finden-11182627.html",
-      "image_title": "Foto aus der Perspektive einer Türklingel, mit grünem Rahmen ist ein vorbeilaufender Hund markiert"
     },
     {
       "title": "HintergrundArbeitsagentur: Wenn die Anmeldung zur Arbeitslosigkeit am System scheitert",
@@ -62,6 +60,23 @@
       "title": "HintergrundLokale Windows Server mit Azure Arc überwachen",
       "url": "https://www.heise.de/hintergrund/Lokale-Windows-Server-mit-Azure-Arc-ueberwachen-11166101.html",
       "image_title": ","
+    },
+    {
+      "title": "Smartes Thermostat für Fußbodenheizung: Homematic IP BWTH im Test",
+      "teaser": "Das smarte Thermostat Homematic IP BWTH lässt sich per App, Drehregler und über Home Assistant steuern. Wie gut es funktioniert, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/smartes-thermostat-fuer-fussbodenheizung-homematic-ip-bwth-im-test/b0rzrtp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Active Directory hacken und schützen",
+      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11168874.html",
+      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
+    },
+    {
+      "title": "„Kriminalität auf Null reduzieren“: Ring-Kameras sollten nie nur Hunde finden",
+      "teaser": "KI-gestützt sollen Ring-Kameras in der Nachbarschaft nach verlorenen Hunden suchen. Eine interne E-Mail scheint nun zu bestätigen, dass das nur der Anfang ist.",
+      "url": "https://www.heise.de/news/Kriminalitaet-auf-Null-reduzieren-Ring-Kameras-sollten-nie-nur-Hunde-finden-11182627.html",
+      "image_title": "Foto aus der Perspektive einer Türklingel, mit grünem Rahmen ist ein vorbeilaufender Hund markiert"
     },
     {
       "title": "Nur noch zwei Wochen: 29.000 Unternehmen müssen sich beim BSI registrieren",
@@ -133,23 +148,6 @@
       "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
       "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11168870.html",
       "image_title": "Workshop Mobile Device Management mit Intune"
-    },
-    {
-      "title": "Microsoft startet Vorschau auf Security Dashboard for AI",
-      "teaser": "Microsoft hat die Vorschau vom Security Dashboard for AI veröffentlicht. Das liefert eine Übersicht über KI-Risiken im Unternehmen.",
-      "url": "https://www.heise.de/news/Microsoft-startet-Vorschau-auf-Security-Dashboard-for-AI-11182077.html",
-      "image_title": "Ansicht des Security Dashboard for AI im Webbrowser"
-    },
-    {
-      "title": "AlertNotepad++: Sicherheitsupdate gegen Codeschmuggel-Lücke",
-      "teaser": "Notepad++ verbessert Sicherheitsmechanismen und stopft eine neue Lücke, die Angreifern das Ausführen von Schadcode erlaubt.",
-      "url": "https://www.heise.de/news/Notepad-Sicherheitsupdate-gegen-Codeschmuggel-Luecke-11181850.html",
-      "image_title": "Notepad++-Logo neben Achtung-Schild"
-    },
-    {
-      "title": "Vorsicht, Kunde: Ausgebremst bei der Deutschen Glasfaser",
-      "teaser": "Wer einen Tarif mit versprochenen 1000 Mbit/s bezahlt, kann erwarten, dass er diese Bandbreite auch erhält. Bei der DG ist das nicht selbstverständlich.",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Ausgebremst-bei-der-Deutschen-Glasfaser-11140534.html"
     },
     {
       "title": "NewsWD und Seagate bestätigen: Festplatten fürs Jahr 2026 ausverkauft",
