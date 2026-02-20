@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T08:28:05",
+  "timestamp": "2026-02-20T09:30:01",
   "url": "https://www.faz.net/aktuell/feuilleton/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "Projekt „Freedom.gov“: Der nächste US-Angriff auf Europa",
+      "teaser": "Mit „freedom.gov“ plant die Trump-Regierung angeblich eine Plattform zur Umgehung europäischer Digitalgesetze. Das wäre der nächste unverhohlene Angriff auf Demokratie und Grundrechte.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/us-projekt-freedom-gov-angriff-auf-europa-110840569.html"
+    },
+    {
       "title": "Künstlerförderin Ida Dehmel: „Nur nichts Laues!“, lautete ihre Parole",
       "teaser": "Die von den Nationalsozialisten in den Tod getriebene Ida Dehmel wird in der Berliner Matthäi-Kirche gewürdigt. Ihr Engagement als Kunstförderin und Frauenrechtlerin wirkt bis heute.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/kunstfoerderin-ida-dehmel-in-der-berliner-matthaei-kirche-accg-110839427.html"
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/kunstfoerderin-ida-dehmel-in-der-berliner-matthaei-kirche-accg-110839427.html",
+      "image_url": "https://media0.faz.net/image/w730/d534a3dcbef5/w1881h1057x453y446/022026/1.10839426/ida-dehmel-maezenatin.webp",
+      "image_title": "Ida Dehmel, Mäzenatin, Nachlassbewahrerin und Frauenrechtlerin"
     },
     {
       "title": "FAZ+Russlands Rekruten: Diese Soldaten dienen als lebende Köder",
@@ -95,13 +102,6 @@
       "image_title": "Maybrit Illner diskutiert mit ihren Gästen."
     },
     {
-      "title": "Mythen über Talkshows: Was bekommen die Gäste eigentlich als Honorar?",
-      "teaser": "Die Sessel der Nation: Um die Entstehung und den Ablauf von Talkshows ranken sich viele Mythen. Hier erfahren Sie, was wirklich hinter den Kulissen passiert.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/was-bekommen-talkshow-gaeste-als-honorar-200551183.html",
-      "image_url": "https://media0.faz.net/image/w730/d215cbc4da36/w5908h3323x0y402/202510/43601.0.1415056443/vor-der-ausstrahlung-einer.webp",
-      "image_title": "Vor der Ausstrahlung einer Talkshow wie „hart aber fair“ stehen Recherche, Themenfindung und jede Menge organisatorische Notwendigkeiten."
-    },
-    {
       "title": "Zukunft der Filmfestspiele: Die Berlinale muss sich verwandeln",
       "teaser": "Die Berliner Filmfestspiele sind längst nicht so schlecht wie ihr Ruf. Aber ihre Zukunft liegt nicht am Potsdamer Platz. Deshalb sollte sich Wolfram Weimer etwas einfallen lassen.",
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/zukunft-der-filmfestspiele-die-berlinale-muss-sich-verwandeln-110840514.html",
@@ -132,7 +132,7 @@
     {
       "title": "Panne im „heute journal“: Der KI-Fake im ZDF schlägt ins Kontor",
       "teaser": "Dem ZDF unterläuft im „heute journal“ eine KI-Panne. Es sei ein technischer Fehler gewesen, heißt es. Aber das kann nicht die ganze Geschichte sein.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/der-ki-fake-im-zdf-heute-journal-110839735.html",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/zdf-skandal-ki-fake-im-heute-journal-schockiert-110839735.html",
       "image_url": "https://media0.faz.net/image/w100/b0a2a04968a9/w1830h1830x598y194/201311/1.2906553/michael-hanfeld.webp",
       "image_title": "Michael Hanfeld"
     },
@@ -203,18 +203,18 @@
       "url": "https://www.faz.net/podcasts/f-a-z-buecher-podcast/buecher-podcast-die-essays-von-fritz-rudolf-fries-200470987.html"
     },
     {
+      "title": "Mythen über Talkshows: Was bekommen die Gäste eigentlich als Honorar?",
+      "teaser": "Die Sessel der Nation: Um die Entstehung und den Ablauf von Talkshows ranken sich viele Mythen. Hier erfahren Sie, was wirklich hinter den Kulissen passiert.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/was-bekommen-talkshow-gaeste-als-honorar-200551183.html",
+      "image_url": "https://media0.faz.net/image/w920/d215cbc4da36/w5908h3323x0y402/202510/43601.0.1415056443/vor-der-ausstrahlung-einer.webp",
+      "image_title": "Vor der Ausstrahlung einer Talkshow wie „hart aber fair“ stehen Recherche, Themenfindung und jede Menge organisatorische Notwendigkeiten."
+    },
+    {
       "title": "Polittalk im Fernsehen: Warum wir es lieben, Talkshows zu hassen",
       "teaser": "Von der Gästeauswahl bis zum Diskussionsverlauf ist in politischen Talkshows das allermeiste vorherbestimmt. Trotzdem leistet das Format etwas, das selbst Bundestagsdebatten nur selten können.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/politische-talkshows-warum-wir-es-lieben-sie-zu-hassen-110839491.html",
       "image_url": "https://media0.faz.net/image/w920/ebf23e2a34dd/w3000h1688x0y121/012026/1.10839488/die-talkshow-wg-bei-maybrit.webp",
       "image_title": "Die Talkshow-WG bei Maybrit Illner: Carlo Masala, Norbert Röttgen, Omid Nouripour, Melanie Amann"
-    },
-    {
-      "title": "„Koha Ditore“: Flaggschiff des freien Journalismus im Kosovo in Not",
-      "teaser": "Die Zeitung „Koha Ditore“ ist das wichtigste unabhängige Medium im Kosovo. Das Blatt hat sich immer wieder mit den Mächtigen angelegt. Jetzt steht „Koha“ vor der Pleite und bittet die Leser um Unterstützung.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/koha-ditore-zeitung-im-kosovo-in-existenzkrise-110839733.html",
-      "image_url": "https://media0.faz.net/image/w920/89839515e29a/w3000h1688x0y150/022026/1.10839995/die-kosovarische-zeitung-koha.webp",
-      "image_title": "Die kosovarische Zeitung „Koha Ditore“ bitte ihre Leser um Unterstützung."
     },
     {
       "title": "FAZ+Brückenbau: Wie Straßenbau Landschaft zerstört",
@@ -287,10 +287,17 @@
       "image_title": "Amy Coney Barrett wurde am 26. September 2020 von Donald Trump als Richterin des Obersten Obersten Gerichtshofes der USA nominiert."
     },
     {
+      "title": "„Koha Ditore“: Flaggschiff des freien Journalismus im Kosovo in Not",
+      "teaser": "Die Zeitung „Koha Ditore“ ist das wichtigste unabhängige Medium im Kosovo. Das Blatt hat sich immer wieder mit den Mächtigen angelegt. Jetzt steht „Koha“ vor der Pleite und bittet die Leser um Unterstützung.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/koha-ditore-zeitung-im-kosovo-in-existenzkrise-110839733.html",
+      "image_url": "https://media0.faz.net/image/w920/6e8e1ad5e920/w3000h1285x0y344/022026/1.10839995/die-kosovarische-zeitung-koha.webp",
+      "image_title": "Die kosovarische Zeitung „Koha Ditore“ bitte ihre Leser um Unterstützung."
+    },
+    {
       "title": "Kunden angeblich nicht betroffen: Hacker erbeuten Daten von 27.000 Mitarbeitern der RTL Group",
       "teaser": "Datensätze mit persönlichen Angaben von 27.000 Mitarbeitern der RTL Group werden im Darknet angeboten. Daten von Kunden seien nicht betroffen, heißt es.",
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/hacker-erbeuten-27-000-datensaetze-bei-der-rtl-group-110840820.html",
-      "image_url": "https://media0.faz.net/image/w920/377b6c91fa4b/w3000h1285x0y277/022026/1.10840819/die-firmenzentrale-der-rtl.webp",
+      "image_url": "https://media0.faz.net/image/w730/19f1a4b364ad/w2727h1535x148y222/022026/1.10840819/die-firmenzentrale-der-rtl.webp",
       "image_title": "Die Firmenzentrale der RTL Group in Luxemburg."
     },
     {
@@ -299,13 +306,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/journalisten-spekulanten-zahlen-berlin-3-1-millionen-euro-zurueck-110840567.html",
       "image_url": "https://media0.faz.net/image/w730/27175e94f58c/w3000h1688x0y127/022026/1.10840772/spekulationsobjekt-das-haus-in.webp",
       "image_title": "Spekulationsobjekt: das Haus in der Oranienstraße in Berlin, für das Journalisten vom Land Fördergeld bezogen."
-    },
-    {
-      "title": "„freedom.gov“: USA planen angeblich Portal, das EU-Digitalgesetze umgeht",
-      "teaser": "Insider berichten, die Regierung Trump bereite einen digitalen Schlag gegen Europa und andere Länder vor. Unter „freedom.gov“ könnte künftig zu finden sein, was in der EU als Hass und Propaganda gilt und gesperrt wird.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bericht-usa-wollen-mit-portal-eu-gesetze-umgehen-110840058.html",
-      "image_url": "https://media0.faz.net/image/w730/d3da2b1fd927/w2105h1185x236y39/022026/1.10840057/noch-ist-auf-freedom-gov-nicht.webp",
-      "image_title": "Noch ist auf „freedom.gov“ nicht viel zu sehen, doch das soll sich angeblich bald ändern."
     },
     {
       "title": "Botschafter Belgiens: Opernsänger José Van Dam ist tot",

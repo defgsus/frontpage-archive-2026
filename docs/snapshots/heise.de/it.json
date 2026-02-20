@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-20T08:27:55",
+  "timestamp": "2026-02-20T09:29:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,51 @@
   ],
   "articles": [
     {
-      "title": "CEL-Policies in Kyverno 1.17 produktionsreif, Legacy-APIs abgekündigt",
+      "title": "Neu in .NET 10.0 [11]: Vereinfachungen bei Lambda-Ausdrücken in C# 14.0",
+      "teaser": "In C# 14.0 lassen sich Parameter-Modifizierer in Lambda-Ausdrücken verwenden, ohne dabei den Datentyp benennen zu müssen.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-11-Vereinfachungen-bei-Lambda-Ausdruecken-in-C-14-0-11181531.html",
+      "image_title": "Straßenschild mit C#"
+    },
+    {
+      "title": "Google bringt Gemini 3.1 Pro heraus",
+      "teaser": "Neuer Tag, neues Modell: Google legt mit Gemini 3.1 Pro nach – für komplexe Aufgaben und besser als der Vorgänger.",
+      "url": "https://www.heise.de/news/Google-bringt-Gemini-3-1-Pro-heraus-11183594.html",
+      "image_title": "Google Gemini 3.1 Pro Logo"
+    },
+    {
+      "title": "AlertAtlassian-Sicherheitsupdates: Bamboo und Confluence sind verwundbar",
+      "teaser": "Angreifer können Systeme mit Atlassian-Anwendungen im schlimmsten Fall mit Schadcode attackieren.",
+      "url": "https://www.heise.de/news/Atlassian-Sicherheitsupdates-Bamboo-und-Confluence-sind-verwundbar-11183534.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "Microsofts Silica: Glas speichert Daten für 10.000 Jahre",
+      "teaser": "Langlebige Glasspeicher könnten die Datenspeicherung revolutionieren. Die Herstellung sei nun günstiger und die Schreibgeschwindigkeit schneller als zuvor.",
+      "url": "https://www.heise.de/hintergrund/Microsofts-Silica-Glas-speichert-Daten-fuer-10-000-Jahre-11180117.html",
+      "image_title": "Silica von Microsoft Research"
+    },
+    {
+      "title": "HintergrundMicrosofts Silica: Glas speichert Daten für 10.000 Jahre",
+      "url": "https://www.heise.de/hintergrund/Microsofts-Silica-Glas-speichert-Daten-fuer-10-000-Jahre-11180117.html",
+      "image_title": "Silica von Microsoft Research"
+    },
+    {
+      "title": "TestsPixelmator Pro: Neue Version für Apple Creator Studio im Test",
+      "url": "https://www.heise.de/tests/Pixelmator-Pro-Neue-Version-fuer-Apple-Creator-Studio-im-Test-11183248.html",
+      "image_title": ", Apple Creator Studio / KI / heise medien"
+    },
+    {
+      "title": "HintergrundVertraulich: Eigene Verschlüsselungskeys für die Azure-Cloud verwalten",
+      "url": "https://www.heise.de/hintergrund/Vertraulich-Eigene-Verschluesselungskeys-fuer-die-Azure-Cloud-verwalten-11165507.html"
+    },
+    {
+      "title": "c’t-Webinar: Photovoltaik kompakt",
+      "teaser": "Solarstrom selbst zu produzieren lohnt sich. Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage liefert das Webinar.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-kompakt-11151848.html",
+      "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
+    },
+    {
+      "title": "Kyverno 1.17 wird einige APIs zugunsten von CEL-Policies entfernen",
       "teaser": "Die Kubernetes-Policy-Engine Kyverno beendet die Beta-Phase für CEL-basierte Policy-Typen und leitet den Abschied von Legacy-APIs ein.",
       "url": "https://www.heise.de/news/CEL-Policies-in-Kyverno-1-17-produktionsreif-Legacy-APIs-abgekuendigt-11182117.html",
       "image_title": "Prismen"
@@ -50,20 +94,6 @@
       "image_title": "Samsung Bixby Logo auf Smartphone-Bildschirm"
     },
     {
-      "title": "TestsPixelmator Pro: Neue Version für Apple Creator Studio im Test",
-      "url": "https://www.heise.de/tests/Pixelmator-Pro-Neue-Version-fuer-Apple-Creator-Studio-im-Test-11183248.html",
-      "image_title": ", Apple Creator Studio / KI / heise medien"
-    },
-    {
-      "title": "HintergrundVertraulich: Eigene Verschlüsselungskeys für die Azure-Cloud verwalten",
-      "url": "https://www.heise.de/hintergrund/Vertraulich-Eigene-Verschluesselungskeys-fuer-die-Azure-Cloud-verwalten-11165507.html"
-    },
-    {
-      "title": "Ratgebermise: Versionsmanager für Programmiersprachen vorgestellt",
-      "url": "https://www.heise.de/ratgeber/mise-Versionsmanager-fuer-Programmiersprachen-vorgestellt-11158741.html",
-      "image_title": ","
-    },
-    {
       "title": "Drei Fragen und Antworten: Verschlüsselung in der Azure Cloud meistern",
       "teaser": "Speichert man Firmendaten bei einem Cloud-Anbieter, regelt der meist die Verschlüsselung. Bei vertraulichen Daten sollte man aber auf eigene Schlüssel setzen.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Verschluesselung-in-der-Azure-Cloud-meistern-11182487.html",
@@ -85,6 +115,12 @@
       "title": "Backup: Nicht am falschen Ende sparen!",
       "teaser": "Allen Preissteigerungen zum Trotz: Wer bei der Datensicherung auf die falsche Hardware setzt, steht am Ende unter Umständen ohne Daten da.",
       "url": "https://www.heise.de/meinung/Backup-Nicht-am-falschen-Ende-sparen-11155372.html"
+    },
+    {
+      "title": "mise: Versionsmanager für Programmiersprachen vorgestellt",
+      "teaser": "Der Versionsmanager mise hilft beim Set-up Zeit zu sparen und Versionskonflikte zu vermeiden. Er ersetzt Tools wie pyenv, rbenv und nvm.",
+      "url": "https://www.heise.de/ratgeber/mise-Versionsmanager-fuer-Programmiersprachen-vorgestellt-11158741.html",
+      "image_title": ","
     },
     {
       "title": "Love-Scam: Liebesbetrug-Masche wegen KI immer erfolgreicher",
@@ -113,41 +149,6 @@
       "teaser": "Ein paar tausend Ärzte und Apotheker müssen jetzt stark sein. Ihre elektronischen Heilberufsausweise von Januar 2026 werden wieder getauscht.",
       "url": "https://www.heise.de/news/Fehlkonfiguration-Weiter-Chaos-bei-elektronischen-Heilberufsausweisen-11183015.html",
       "image_title": "Gestresste Person an einem Schreibtisch"
-    },
-    {
-      "title": "IT-Milliarde für die Arbeitsagentur: KI-Offensive und Cloud-Ausbau in Nürnberg",
-      "teaser": "Die BA investiert 2026 fast eine Milliarde Euro in Digitalisierung. Die SAP-Cloud und 32 KI-Tools prägen den Alltag. Ein Job-Projekt bremst das Budget aber aus.",
-      "url": "https://www.heise.de/news/IT-Milliarde-fuer-die-Arbeitsagentur-KI-Offensive-und-Cloud-Ausbau-in-Nuernberg-11183166.html",
-      "image_title": "Arbeitsagentur, Bundesagentur für Arbeit, Arbeitsamt"
-    },
-    {
-      "title": "Bericht: USA haben Finanzierung von Technik für Internetfreiheit eingestellt",
-      "teaser": "Mit mehr als 500 Millionen US-Dollar haben die USA laut einem Bericht in zehn Jahren IT-Projekte zum Schutz der Internetfreiheit unterstützt. Damit ist Schluss.",
-      "url": "https://www.heise.de/news/Bericht-USA-haben-Finanzierung-von-Technik-gegen-Internetblockaden-eingestellt-11182963.html",
-      "image_title": "Digitall verzerrte US-Flagge"
-    },
-    {
-      "title": "Mehr Speicher: Samsung und SK Hynix beschleunigen offenbar Werkbau",
-      "teaser": "Die beiden Speicher-Weltmarktführer Samsung und SK Hynix könnten neue Werke früher fertigstellen als gedacht. Bis dahin dauert es aber trotzdem.",
-      "url": "https://www.heise.de/news/Mehr-Speicher-Samsung-und-SK-Hynix-beschleunigen-offenbar-Werkbau-11183099.html",
-      "image_title": "Hand hält Speicherriegel wie Spielkarten"
-    },
-    {
-      "title": "macOS 27: Intel-Apps sagen zum Abschied leise Servus",
-      "teaser": "Mit macOS 26.4 gibt es weitere deutliche Hinweise auf das Ende des Supports für Intel-Anwendungen. Von heute auf morgen geht es aber nicht.",
-      "url": "https://www.heise.de/news/macOS-27-Intel-Apps-sagen-zum-Abschied-leise-Servus-11182896.html",
-      "image_title": "Blaues Intel-Schild vor einem Gebäude mit einer Glasfront"
-    },
-    {
-      "title": "Amazon stellt Packroboter Blue Jay nach wenigen Monaten außer Dienst",
-      "teaser": "Amazon hat einen Roboter für den Einsatz im Warenlager nach wenigen Monaten wieder abgebaut. Die Technologie soll aber weiterentwickelt werden.",
-      "url": "https://www.heise.de/news/Amazon-stellt-Packroboter-Blue-Jay-nach-wenigen-Monaten-ausser-Dienst-11183053.html",
-      "image_title": "Amazons Roboter Blue Jay im Einsatz"
-    },
-    {
-      "title": "Homematic IP BWTH im Test: Smartes Thermostat für Fußbodenheizung",
-      "teaser": "Das smarte Thermostat Homematic IP BWTH lässt sich per App, Drehregler und über Home Assistant steuern. Wie gut es funktioniert, zeigt der Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/smartes-thermostat-fuer-fussbodenheizung-homematic-ip-bwth-im-test/b0rzrtp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsWD und Seagate bestätigen: Festplatten fürs Jahr 2026 ausverkauft",
