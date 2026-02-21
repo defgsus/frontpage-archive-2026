@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T11:12:32",
+  "timestamp": "2026-02-21T12:21:22",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Das heise-security-Webinar zu NTLM & Kerberos",
+      "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11181623.html"
+    },
     {
       "title": "Algorithmen auf Streife: Bremens Straßenbahnen werden zur KI-Überwachungszone",
       "url": "https://www.heise.de/news/Algorithmen-auf-Streife-Bremens-Strassenbahnen-werden-zur-KI-Ueberwachungszone-11185075.html"
@@ -62,10 +66,6 @@
     {
       "title": "Gas Town: Mad-Max-inspiriertes Framework für Coding-Agenten",
       "url": "https://www.heise.de/hintergrund/Volle-Kontrolle-Gas-Town-orchestriert-zehn-und-mehr-Coding-Agenten-11177514.html"
-    },
-    {
-      "title": "Kühles Blau trifft feuriges Rot: Die Bilder der Woche 8",
-      "url": "https://www.heise.de/news/Kuehles-Blau-trifft-feuriges-Rot-Die-Bilder-der-Woche-8-11184222.html"
     },
     {
       "title": "Xbox-BebenPhil Spencer und Sarah Bond gehen",
@@ -184,21 +184,26 @@
       "url": "https://www.heise.de/news/heiseshow-Social-Media-Verbot-Spotifys-KI-Entwicklung-Smart-Meter-Pflicht-11181689.html"
     },
     {
+      "title": "Das heise-security-Webinar zu NTLM & Kerberos",
+      "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
+      "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11181623.html"
+    },
+    {
       "title": "Algorithmen auf Streife: Bremens Straßenbahnen werden zur KI-Überwachungszone",
       "teaser": "Mit AI-Watch führt die BSAG eine Echtzeit-Analyse von Fahrgästen ein. Was als Sicherheitsgewinn verkauft wird, markiert eine neue Stufe der Videoüberwachung.",
       "url": "https://www.heise.de/news/Algorithmen-auf-Streife-Bremens-Strassenbahnen-werden-zur-KI-Ueberwachungszone-11185075.html",
       "image_title": "Unscharfes Bild von Menschen in öffentlichem Raum; darübe sind bunte vierecke gelegt, die Gesichtserkennung symbolisieren; oben einige statistische Auswertungen"
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "KI-Inferenz in Silizium gegossen: Taalas kündigt HC1-Chip an",
       "teaser": "Das Startup Taalas will mit dem HC1 ein fest verdrahtetes Llama 3.1 8B mit knapp 17.000 Token/s liefern – fast 10-mal schneller als bisherige Lösungen.",
       "url": "https://www.heise.de/news/KI-Inferenz-in-Silizium-gegossen-Taalas-kuendigt-HC1-Chip-an-11185021.html",
       "image_title": "Eine blaue Leiterplatte mit einem großen Chip in der Mitte und mehreren kleineren Komponenten."
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Windows 11: Die wichtigsten Handgriffe für besseren Datenschutz",
@@ -228,12 +233,6 @@
       "teaser": "Natürlich sind nicht alle ITler introvertierte, stille Techies. Aber wie sollten Führungskräfte mit den Mitarbeitern umgehen, die genau das sind?",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Was-Fuehrungskraefte-fuer-die-stillen-Techies-tun-koennen-11184774.html",
       "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Hop, Interop, Rust, Gemini, OpenObserve, KDE, GitHub, Kotlin und Rugix.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11181195.html",
-      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -327,6 +326,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Hop, Interop, Rust, Gemini, OpenObserve, KDE, GitHub, Kotlin und Rugix.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11181195.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Gas Town: Mad-Max-inspiriertes Framework für Coding-Agenten",
       "teaser": "Viele gleichzeitig agierende Agenten richten oft mehr Chaos an, als sie Nutzen bringen. Das Tool Gas Town orchestriert im Stil von Mad Max.",
       "url": "https://www.heise.de/hintergrund/Volle-Kontrolle-Gas-Town-orchestriert-zehn-und-mehr-Coding-Agenten-11177514.html",
@@ -395,15 +400,15 @@
       "image_title": "Dacia Duster"
     },
     {
+      "title": "Mit proaktivem Security-Management Schaden verhindern",
+      "teaser": "Beim Schutz Ihrer IT vor Angriffen spielt Zeit eine wichtige Rolle. Wie Sie, anstatt nur zu reagieren, proaktiv Angriffe abwehren können, erfahren Sie in unserer Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/mit-proaktivem-security-management-schaden-verhindern-4989/?source=hbsadersatz"
+    },
+    {
       "title": "SAP-Anwender: Hybride Szenarien dominieren den HR-Alltag auch weiterhin",
       "teaser": "Die Modernisierung der Personalmanagement-Software schreitet in SAP-Anwenderbetrieben voran. Beim Wechsel auf Cloud-Services lassen sich die Anwender aber Zeit.",
       "url": "https://www.heise.de/news/SAP-Anwender-Hybride-Szenarien-dominieren-den-HR-Alltag-auch-weiterhin-11184534.html",
       "image_title": "SAP-Buchstaben an einem Glasgebäude"
-    },
-    {
-      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
-      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
     },
     {
       "title": "KI-Update kompakt: AI Impact Summit, Security Dashboard, Ring-Kameras, KI-Bremse",
@@ -456,12 +461,6 @@
       "title": "Warum lebende Hirnzellen das Energieproblem der KI lösen könnten",
       "teaser": "Organoide aus menschlichen Neuronen reagieren lernfähig und benötigen nur ein Tausendstel der Energie von KI-Modellen. Man kann sie bereits ausprobieren.",
       "url": "https://www.heise.de/hintergrund/Warum-lebende-Hirnzellen-das-Energieproblem-der-KI-loesen-koennten-11080277.html"
-    },
-    {
-      "title": "AlertZahlreiche Kernel-Lücken in Dell PowerProtect Data Manager geschlossen",
-      "teaser": "Dells Backuplösung PowerProtect Data Manager ist unter anderem für Schadcode-Attacken anfällig. Sicherheitspatches stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/Zahlreiche-Kernel-Luecken-in-Dell-PowerProtect-Data-Manager-geschlossen-11184164.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "Bericht: USA haben Finanzierung von Technik für Internetfreiheit eingestellt",
@@ -634,20 +633,20 @@
       "url": "https://www.heise.de/en/news/Can-MySQL-still-be-saved-Open-letter-to-Oracle-11181146.html"
     },
     {
-      "title": "Im Funkloch: Wie Smart Meter auch ohne LTE-Empfang online gehen",
-      "teaser": "Der Smart-Meter-Einbau scheitert häufig am schlechten LTE-Empfang. Doch es gibt Alternativen: vorhandene private Internetzugänge, Powerline und LTE450.",
-      "url": "https://www.heise.de/hintergrund/Im-Funkloch-Wie-Smart-Meter-auch-ohne-LTE-Empfang-online-gehen-11162416.html"
-    },
-    {
-      "title": "Die Gewalt, die wir sehen wollenBlue Velvet im 4K-Heimkinotest",
-      "teaser": "David Lynch macht das Publikum zum Komplizen. Die neue 4K‑Edition auf UHD schärft nicht nur das Bild, sondern auch das Unbehagen.",
-      "url": "https://www.heise.de/tests/Blue-Velvet-im-4K-Heimkinotest-Die-Gewalt-die-wir-sehen-wollen-11182417.html",
-      "image_title": "Blue Velvet"
+      "title": "Microsofts Silica: Glas speichert Daten für 10.000 Jahre",
+      "teaser": "Langlebige Glasspeicher könnten die Datenspeicherung revolutionieren. Die Herstellung sei nun günstiger und die Schreibgeschwindigkeit schneller als zuvor.",
+      "url": "https://www.heise.de/hintergrund/Microsofts-Silica-Glas-speichert-Daten-fuer-10-000-Jahre-11180117.html",
+      "image_title": "Silica von Microsoft Research"
     },
     {
       "title": "c't 3003Ich hasse meinen Fernseher",
       "teaser": "Streaming-Clients wie die Amazon Fire TV Sticks machen smarte Oberflächen auch für alte Fernseher und Monitore möglich.",
       "url": "https://www.heise.de/news/Streaming-Clients-im-Test-Google-Amazon-Apple-oder-Raspi-11182262.html"
+    },
+    {
+      "title": "Im Funkloch: Wie Smart Meter auch ohne LTE-Empfang online gehen",
+      "teaser": "Der Smart-Meter-Einbau scheitert häufig am schlechten LTE-Empfang. Doch es gibt Alternativen: vorhandene private Internetzugänge, Powerline und LTE450.",
+      "url": "https://www.heise.de/hintergrund/Im-Funkloch-Wie-Smart-Meter-auch-ohne-LTE-Empfang-online-gehen-11162416.html"
     },
     {
       "title": "Kreativ-AboFür wen sich das Apple Creator Studio lohnt",
@@ -749,22 +748,22 @@
       "image_title": "Ducati Monster"
     },
     {
-      "title": "Echte Knochen im Klassenzimmer: Wo endet die Totenruhe?",
-      "teaser": "Echte Knochen im Biologieunterricht werfen ethische Fragen auf. Oft fehlt die Einwilligung der Verstorbenen. Doch wie sieht es bei Körperwelten aus?",
-      "url": "https://www.heise.de/-11183554",
-      "image_title": "Auschnitt eines menschlichen Skeletts, Kopf, Hals und Schulter"
+      "title": "Strategische Vorausschau: Wie Deutschland lernt, die Zukunft zu lesen",
+      "teaser": "Vorausschauende Politikgestaltung gilt in Zeiten globaler Unsicherheit als Gebot der Stunde. Doch wie gelingt der Blick in die Zukunft?",
+      "url": "https://www.heise.de/-11174629",
+      "image_title": "Fernglas auf Schaltpult"
     },
     {
-      "title": "Erdöl-Engpass durch Iran-Krieg – müssen Autofahrer bald das Doppelte zahlen?",
-      "teaser": "Ein US-Angriff auf den Iran könnte in Tagen beginnen – und das Nadelöhr im Persischen Golf den globalen Ölmarkt ins Chaos stürzen.",
-      "url": "https://www.heise.de/-11181741",
-      "image_title": "Kartenausschnitt der Straße von Hormuz"
+      "title": "Trump kündigt Freigabe von UFO- und Alien-Akten an",
+      "teaser": "Nachdem Barack Obama Aussage über \"reale Aliens\" für Schlagzeilen gesorgt hatte, kündigt Trump nun an, Regierungsakten zum Thema freigeben zu lassen.",
+      "url": "https://www.heise.de/-11184800",
+      "image_title": "Donald Trump mit einer Akte vor einem UFO"
     },
     {
-      "title": "Plug-in-Hybride: Was Fahrdaten über den echten Verbrauch verraten",
-      "teaser": "Plug-in-Hybride verbrauchen auf der Straße deutlich mehr als versprochen – das zeigt jetzt eine Studie mit einer Million Fahrzeugen.",
-      "url": "https://www.heise.de/-11183192",
-      "image_title": "OTOR SHOW, International Car Fair: Toyota Prius PHV Plug-in-Hybrid"
+      "title": "Trumps digitaler Frontalangriff auf Europa",
+      "teaser": "Mit freedom.gov will Washington Netzsperren umgehen. Kritiker sprechen von einem Angriff auf europäisches Recht und die Medienordnung.",
+      "url": "https://www.heise.de/-11184490",
+      "image_title": "Trump vor einem Telefon"
     },
     {
       "title": "Ein Crashkurs in Atmosphärenphysik erklärt unser eisiges Wetter",
