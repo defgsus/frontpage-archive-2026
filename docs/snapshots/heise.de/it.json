@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T12:21:25",
+  "timestamp": "2026-02-21T13:34:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Effizienz steigernWindows 11: Wissenswertes zu Startmenü und Taskleiste",
+      "teaser": "Startmenü und Taskleiste von Windows 11 haben einen miesen Ruf: Sie sind unübersichtlich und voller Werbung. Mit ein paar Handgriffen werden beide effizienter.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Wissenswertes-zu-Startmenue-und-Taskleiste-11084668.html",
+      "image_title": "Das Aufmacherbild ist im Comicstil gehalten. Es zeigt ein Hochbeet in einem Garten. Im Beet sind Pflanzen im Raster angeordnert, sodass es ans Winodws-Startmenü erinnert."
+    },
+    {
+      "title": "Apple erwägt chinesische Speicherchips für iPhones – wohl für China",
+      "teaser": "Apple könnte in künftige iPhones Speicherchips der chinesischen Hersteller CXMT und YMTC einbauen lassen, zunächst wohl für den chinesischen Markt.",
+      "url": "https://www.heise.de/news/Apple-erwaegt-chinesische-Speicherchips-fuer-iPhones-wohl-fuer-China-11185131.html",
+      "image_title": "Apples iPhone 17 Pro"
+    },
+    {
       "title": "Das heise-security-Webinar zu NTLM & Kerberos",
       "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
       "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11181623.html"
@@ -35,18 +47,6 @@
       "teaser": "Das Startup Taalas will mit dem HC1 ein fest verdrahtetes Llama 3.1 8B mit knapp 17.000 Token/s liefern – fast 10-mal schneller als bisherige Lösungen.",
       "url": "https://www.heise.de/news/KI-Inferenz-in-Silizium-gegossen-Taalas-kuendigt-HC1-Chip-an-11185021.html",
       "image_title": "Eine blaue Leiterplatte mit einem großen Chip in der Mitte und mehreren kleineren Komponenten."
-    },
-    {
-      "title": "OpenAI: Erstes KI-Gadget wird angeblich ein Smart Speaker für 200 bis 300 Dollar",
-      "teaser": "Die erste KI-Hardware von OpenAI wird ein Smart Speaker mit Kamera, der Nutzer beobachtet und proaktiv unterstützt, heißt es in einem Bericht.",
-      "url": "https://www.heise.de/news/OpenAI-Erstes-KI-Gadget-wird-angeblich-ein-Smart-Speaker-fuer-200-bis-300-Dollar-11185071.html",
-      "image_title": "Jony Ive hinter einem OpenAI-Logo"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11168886.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "RatgeberStrom weg, was nun? Vorsorge treffen für kleine und größere Stromausfälle",
@@ -60,6 +60,23 @@
     {
       "title": "HintergrundNach Deepseek: So geht es mit der chinesischen Open-Source-KI weiter",
       "url": "https://www.heise.de/hintergrund/Nach-Deepseek-So-geht-es-mit-der-chinesischen-Open-Source-KI-weiter-11182677.html"
+    },
+    {
+      "title": "Thermostat für Fußbodenheizung: Tado X im Test – viele Funktionen nur mit Abo",
+      "teaser": "Das Tado X für Fußbodenheizungen funkt mit Thread und wird mit Batterien betrieben. Wie gut es im Alltag funktioniert, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/thermostat-fuer-fussbodenheizung-tado-x-im-test-viele-funktionen-nur-mit-abo/wlhe05y?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "OpenAI: Erstes KI-Gadget wird angeblich ein Smart Speaker für 200 bis 300 Dollar",
+      "teaser": "Die erste KI-Hardware von OpenAI wird ein Smart Speaker mit Kamera, der Nutzer beobachtet und proaktiv unterstützt, heißt es in einem Bericht.",
+      "url": "https://www.heise.de/news/OpenAI-Erstes-KI-Gadget-wird-angeblich-ein-Smart-Speaker-fuer-200-bis-300-Dollar-11185071.html",
+      "image_title": "Jony Ive hinter einem OpenAI-Logo"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11168886.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
@@ -129,24 +146,6 @@
       "teaser": "Immer mehr Open-Source-Projekte leiden unter der Flut oft wertloser KI-Beiträge über GitHub. Der Betreiber hat nun erste Maßnahmen dagegen angekündigt.",
       "url": "https://www.heise.de/news/AI-Slop-verstopft-Open-Source-GitHub-kuendigt-Massnahmen-an-11184036.html",
       "image_title": "Wolke mit KI-Aufschrift über Kopf"
-    },
-    {
-      "title": "Externe Festplatten: Sandisk Professional firmiert künftig allein unter G-Drive",
-      "teaser": "Western Digital und Sandisk schreiten bei ihrer Trennung voran. WD holt nun externe Festplatten der G-Drive-Marke zu sich zurück.",
-      "url": "https://www.heise.de/news/Externe-Festplatten-Sandisk-Professional-firmiert-kuenftig-allein-unter-G-Drive-11184050.html",
-      "image_title": "USB-Festplatte auf einem Holzschreibtisch neben einem Mac"
-    },
-    {
-      "title": "AlertZahlreiche Kernel-Lücken in Dell PowerProtect Data Manager geschlossen",
-      "teaser": "Dells Backuplösung PowerProtect Data Manager ist unter anderem für Schadcode-Attacken anfällig. Sicherheitspatches stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/Zahlreiche-Kernel-Luecken-in-Dell-PowerProtect-Data-Manager-geschlossen-11184164.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Eigenstrom für Rechenzentren: Deutschland zieht nach – aber anders",
-      "teaser": "In den USA werden Rechenzentren mit eigener Stromversorgung gebaut. In Deutschland ist das schwerlich möglich. Untätig bleiben Investoren aber auch nicht.",
-      "url": "https://www.heise.de/news/KI-Boom-und-Strom-Warum-Deutschland-nicht-Texas-ist-11184122.html",
-      "image_title": "Rauchender Schornstein eines Gaskraftwerks"
     },
     {
       "title": "News„Wenn das jemand baut, sterben alle“ – Debatte über Super-KI",
