@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T17:15:59",
+  "timestamp": "2026-02-21T18:17:55",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Vibe Coding auf der Nase: Entwickler steuert OpenClaw über Smart Glasses",
+      "url": "https://www.heise.de/news/Vibe-Coding-auf-der-Nase-Entwickler-steuert-OpenClaw-ueber-Smart-Glasses-11185194.html"
+    },
     {
       "title": "Neue Xbox-Chefin verspricht „Rückkehr der Xbox“ ohne KI-Müll",
       "url": "https://www.heise.de/news/Neue-Xbox-Chefin-verspricht-Rueckkehr-der-Xbox-ohne-KI-Muell-11185220.html"
@@ -62,10 +66,6 @@
     {
       "title": "Algorithmen auf Streife: Bremens Straßenbahnen werden zur KI-Überwachungszone",
       "url": "https://www.heise.de/news/Algorithmen-auf-Streife-Bremens-Strassenbahnen-werden-zur-KI-Ueberwachungszone-11185075.html"
-    },
-    {
-      "title": "KI-Inferenz in Silizium gegossen: Taalas kündigt HC1-Chip an",
-      "url": "https://www.heise.de/news/KI-Inferenz-in-Silizium-gegossen-Taalas-kuendigt-HC1-Chip-an-11185021.html"
     },
     {
       "title": "ParteitagCDU: Social Media ab 14, keine Klarnamenpflicht",
@@ -184,20 +184,26 @@
       "url": "https://www.heise.de/news/heiseshow-Social-Media-Verbot-Spotifys-KI-Entwicklung-Smart-Meter-Pflicht-11181689.html"
     },
     {
+      "title": "Vibe Coding auf der Nase: Entwickler steuert OpenClaw über Smart Glasses",
+      "teaser": "Ein Entwickler gibt dem KI-Agenten OpenClaw über seine Smart Glasses Programmieranweisungen und hat dessen Fortschritt dank Display stets im Blickfeld.",
+      "url": "https://www.heise.de/news/Vibe-Coding-auf-der-Nase-Entwickler-steuert-OpenClaw-ueber-Smart-Glasses-11185194.html",
+      "image_title": "Bild der rechten Linse der Meta Ray-Ban Display mit Chat-Anzeige."
+    },
+    {
       "title": "Neue Xbox-Chefin verspricht „Rückkehr der Xbox“ ohne KI-Müll",
       "teaser": "In einem internen Memo stellt Asha Sharma nach dem Abgang von Phil Spencer ihre Strategie für Spiele und Hardware bei Microsoft vor.",
       "url": "https://www.heise.de/news/Neue-Xbox-Chefin-verspricht-Rueckkehr-der-Xbox-ohne-KI-Muell-11185220.html"
+    },
+    {
+      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
+      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "Anthropic launcht Claude Code Security – Cybersecurity-Aktien verlieren",
       "teaser": "Das KI-Tool Claude Code Security von Anthropic analysiert Code kontextbasiert statt regelbasiert. Die Börse reagiert nervös, Aktienkurse geben nach.",
       "url": "https://www.heise.de/news/Anthropic-launcht-Claude-Code-Security-Cybersecurity-Aktien-verlieren-11185198.html",
       "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Erfahrungsbericht: Hindernislauf beim Umzug von Amazon AWS in EU-Cloud",
@@ -227,12 +233,6 @@
       "teaser": "Mit AI-Watch führt die BSAG eine Echtzeit-Analyse von Fahrgästen ein. Was als Sicherheitsgewinn verkauft wird, markiert eine neue Stufe der Videoüberwachung.",
       "url": "https://www.heise.de/news/Algorithmen-auf-Streife-Bremens-Strassenbahnen-werden-zur-KI-Ueberwachungszone-11185075.html",
       "image_title": "Unscharfes Bild von Menschen in öffentlichem Raum; darübe sind bunte vierecke gelegt, die Gesichtserkennung symbolisieren; oben einige statistische Auswertungen"
-    },
-    {
-      "title": "KI-Inferenz in Silizium gegossen: Taalas kündigt HC1-Chip an",
-      "teaser": "Das Startup Taalas will mit dem HC1 ein fest verdrahtetes Llama 3.1 8B mit knapp 17.000 Token/s liefern – fast 10-mal schneller als bisherige Lösungen.",
-      "url": "https://www.heise.de/news/KI-Inferenz-in-Silizium-gegossen-Taalas-kuendigt-HC1-Chip-an-11185021.html",
-      "image_title": "Eine blaue Leiterplatte mit einem großen Chip in der Mitte und mehreren kleineren Komponenten."
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -326,6 +326,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "KI-Inferenz in Silizium gegossen: Taalas kündigt HC1-Chip an",
+      "teaser": "Das Startup Taalas will mit dem HC1 ein fest verdrahtetes Llama 3.1 8B mit knapp 17.000 Token/s liefern – fast 10-mal schneller als bisherige Lösungen.",
+      "url": "https://www.heise.de/news/KI-Inferenz-in-Silizium-gegossen-Taalas-kuendigt-HC1-Chip-an-11185021.html",
+      "image_title": "Eine blaue Leiterplatte mit einem großen Chip in der Mitte und mehreren kleineren Komponenten."
+    },
+    {
       "title": "Windows 11: Die wichtigsten Handgriffe für besseren Datenschutz",
       "teaser": "Wer Windows 11 benutzt, sollte einen Blick in die Datenschutzoptionen werfen – um sie zu verbessern, aber auch um zu verstehen, was alles einstellbar ist.",
       "url": "https://www.heise.de/ratgeber/Windows-11-Die-wichtigsten-Handgriffe-fuer-besseren-Datenschutz-11084714.html",
@@ -395,15 +401,15 @@
       "url": "https://www.heise.de/hintergrund/Arbeitsagentur-Wenn-die-Anmeldung-zur-Arbeitslosigkeit-am-System-scheitert-11172670.html"
     },
     {
+      "title": "Self-driving Networks – Realität oder Zukunft?",
+      "teaser": "Self-driving Networks gelten als nächster Evolutionsschritt moderner Netzwerkarchitekturen. Durch den Einsatz von künstlicher Intelligenz und Machine Learning sollen Netzwerke nicht nur überwacht, sondern aktiv analysiert, optimiert und in Teilen autonom betrieben werden.",
+      "url": "https://business-services.heise.de/netze/netzwerk-management/beitrag/self-driving-networks-realitaet-oder-zukunft-5017?source=hbsad_ersatz"
+    },
+    {
       "title": "Experten warnen: Klarnamenpflicht gefährdet Demokratie und trifft die Falschen",
       "teaser": "Der Kanzler fordert das „offene Visier“. Doch Fachleute und Opposition sehen darin einen gefährlichen Populismus, der die Ursachen von Hass im Netz ignoriert.",
       "url": "https://www.heise.de/news/Abrissbirne-fuer-Meinungsfreiheit-Viel-Kritik-an-Merz-Anti-Anonymitaets-Kurs-11184838.html",
       "image_title": "Bundeskanzler Friedrich Merz spricht bei einer Pressekonfrenz."
-    },
-    {
-      "title": "Ein sicherer Browser vor Cybergefahren",
-      "teaser": "Browser gehören zu unserem Alltag. Doch kaum jemand macht sich Gedanken darüber, dass der Browser selbst gegen Sicherheitsvorfälle geschützt werden sollte. In einem Webcast zeigen wir Ihnen, wie Sie sich eine sichere Arbeitsumgebung direkt im Browser schaffen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/enterprise-browser-das-fehlende-puzzleteil-in-ihrer-cybersecurity-strategie-5016/?source=hbsad-ersatz"
     },
     {
       "title": "Strom weg, was nun? Vorsorge treffen für kleine und größere Stromausfälle",
@@ -455,12 +461,6 @@
       "teaser": "Berater, die bei Accenture hoch hinaus wollen, sollen laut einem Bericht KI nutzen. Bei einigen Mitarbeitern werden demnach auch Logins in den Tools getrackt.",
       "url": "https://www.heise.de/news/Accenture-Aufstieg-in-hoechste-Ebenen-nur-mit-KI-Nutzung-11184464.html",
       "image_title": "In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet."
-    },
-    {
-      "title": "Post zum Freitag: Windows zähmen, Hirnzellen rechnen lassen, Casio smart machen",
-      "teaser": "Windows 11 braucht Datenschutz-Nachhilfe, KI-Start-ups boomen, Kultarmbanduhr wird smart. Dies und mehr in der Post zum Freitag.",
-      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Windows-zaehmen-Hirnzellen-rechnen-lassen-Casio-smart-machen-11183404.html",
-      "image_title": "heise+ Update Volker Zota"
     },
     {
       "title": "Bericht: USA haben Finanzierung von Technik für Internetfreiheit eingestellt",
@@ -562,9 +562,9 @@
       "image_title": "Person mit Smartphone in der Hand am Laptop; Freitag: Messenger-Schließung, Waymo-Rückschlag, Digital-Euro-Kosten, Spielstudio-Aus & Datenschutz-Podcast"
     },
     {
-      "title": "Auslegungssache 153: Minderjährige - schutzlos im Netz?",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-153-Minderjaehrige-schutzlos-im-Netz-11182723.html",
-      "image_title": "Maria Christina Rost (links), Holger Bleich (rechts), Joerg Heidrich (unten)"
+      "title": "Post zum Freitag: Windows zähmen, Hirnzellen rechnen lassen, Casio smart machen",
+      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Windows-zaehmen-Hirnzellen-rechnen-lassen-Casio-smart-machen-11183404.html",
+      "image_title": "heise+ Update Volker Zota"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -633,21 +633,21 @@
       "url": "https://www.heise.de/en/news/Can-MySQL-still-be-saved-Open-letter-to-Oracle-11181146.html"
     },
     {
+      "title": "Im Funkloch: Wie Smart Meter auch ohne LTE-Empfang online gehen",
+      "teaser": "Der Smart-Meter-Einbau scheitert häufig am schlechten LTE-Empfang. Doch es gibt Alternativen: vorhandene private Internetzugänge, Powerline und LTE450.",
+      "url": "https://www.heise.de/hintergrund/Im-Funkloch-Wie-Smart-Meter-auch-ohne-LTE-Empfang-online-gehen-11162416.html"
+    },
+    {
       "title": "Apple erwägt chinesische Speicherchips für iPhones – wohl für China",
       "teaser": "Apple könnte in künftige iPhones Speicherchips der chinesischen Hersteller CXMT und YMTC einbauen lassen, zunächst wohl für den chinesischen Markt.",
       "url": "https://www.heise.de/news/Apple-erwaegt-chinesische-Speicherchips-fuer-iPhones-wohl-fuer-China-11185131.html",
       "image_title": "Apples iPhone 17 Pro"
     },
     {
-      "title": "Erfahrungsbericht: Hindernislauf beim Umzug von Amazon AWS in EU-Cloud",
-      "teaser": "Eine Online-Handelsplattform mit Sitz in Spanien wechselt von AWS auf hiesige Cloud-Dienstleister: Ein Entwickler benennt konkrete Probleme.",
-      "url": "https://www.heise.de/news/Erfahrungsbericht-Hindernislauf-beim-Umzug-von-Amazon-AWS-in-EU-Cloud-11185081.html",
-      "image_title": "Stilisiertes Bild: Eine Wolke mit EU-Flagge darin, vor Serverracks im Hintergrund"
-    },
-    {
-      "title": "Im Funkloch: Wie Smart Meter auch ohne LTE-Empfang online gehen",
-      "teaser": "Der Smart-Meter-Einbau scheitert häufig am schlechten LTE-Empfang. Doch es gibt Alternativen: vorhandene private Internetzugänge, Powerline und LTE450.",
-      "url": "https://www.heise.de/hintergrund/Im-Funkloch-Wie-Smart-Meter-auch-ohne-LTE-Empfang-online-gehen-11162416.html"
+      "title": "Die Gewalt, die wir sehen wollenBlue Velvet im 4K-Heimkinotest",
+      "teaser": "David Lynch macht das Publikum zum Komplizen. Die neue 4K‑Edition auf UHD schärft nicht nur das Bild, sondern auch das Unbehagen.",
+      "url": "https://www.heise.de/tests/Blue-Velvet-im-4K-Heimkinotest-Die-Gewalt-die-wir-sehen-wollen-11182417.html",
+      "image_title": "Blue Velvet"
     },
     {
       "title": "Kreativ-AboFür wen sich das Apple Creator Studio lohnt",
@@ -743,22 +743,22 @@
       "image_title": "OB Dieter Reiter"
     },
     {
-      "title": "Holt sie die Monsteristi zurück?Ducati Monster im Fahrbericht",
-      "teaser": "Die Monster ist Ducatis erfolgreichstes Bike. 2021 verschreckte ein radikaler Bruch bei Design und Technik viele Fans. Ein Facelift soll das jetzt richten.",
-      "url": "https://www.heise.de/tests/Ducati-Monster-im-Fahrbericht-holt-sie-die-Monsteristi-zurueck-11179245.html",
-      "image_title": "Ducati Monster"
+      "title": "Ein KommentarPlug-in-Hybrid unter Beschuss - mit alten Argumenten",
+      "teaser": "Wieder deckt eine Studie eine Abweichung von Praxis- und WLTP-Verbrauch beim PHEV auf. Das ist ein sehr alter Hut, dabei böte sich Kritik an anderer Stelle an.",
+      "url": "https://www.heise.de/meinung/Kommentar-Plug-in-Hybrid-unter-Beschuss-mit-alten-Argumenten-11181553.html",
+      "image_title": "BMW 520e Ladeanschluss"
     },
     {
-      "title": "\"Selbst schuld!\": Warum Krankheit in Deutschland als persönliches Versagen gilt",
-      "teaser": "Stress, Überlastung, schlechte Ernährung – statt Strukturen zu ändern, moralisiert das Gesundheitswesen individuelles Verhalten.",
-      "url": "https://www.heise.de/-11181983",
-      "image_title": "Erschöpfter Arbeiter"
+      "title": "Betriebsräte unerwünscht: Wenn Manager zu illegalen Mitteln greifen",
+      "teaser": "Spezialisierte Kanzleien haben Hochkonjunktur – ihr Auftrag: Betriebsräte aus dem Unternehmen entfernen. Doch die Methoden sind oft grenzwertig.",
+      "url": "https://www.heise.de/-11175553",
+      "image_title": "Zugeklebte Wahlurne mit Aufschrift \"Betriebsrat\""
     },
     {
-      "title": "Robustheit statt Effizienz: Was Unternehmen von Pflanzen lernen können",
-      "teaser": "Pflanzen verschwenden absichtlich Energie – und überleben gerade deshalb. Ein Biologe erklärt, warum das auch für Firmen gilt.",
-      "url": "https://www.heise.de/-11182751",
-      "image_title": "Zwei Männer vor einem Computer mit einem netzartigen Systembild auf dem Screen"
+      "title": "Trumps Friedensrat für Gaza: Was der neue Plan für die Region bedeutet",
+      "teaser": "Donald Trump glaubt, den Gazakonflikt lösen zu können – während Israels Extremisten erstarken, die Hamas verklärt wird und der Konflikt den Westen spaltet.",
+      "url": "https://www.heise.de/-11185039",
+      "image_title": "Trump an einem Sprecherpult in Davos, wo der den Friedensrat vorstellt"
     },
     {
       "title": "Kuba: \"Eine Belagerung, die jeden Aspekt des Völkerrechts verletzt\"",
