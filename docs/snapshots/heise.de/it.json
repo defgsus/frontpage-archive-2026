@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-21T09:18:34",
+  "timestamp": "2026-02-21T10:14:09",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "Windows 11: Die wichtigsten Handgriffe für besseren Datenschutz",
+      "teaser": "Wer Windows 11 benutzt, sollte einen Blick in die Datenschutzoptionen werfen – um sie zu verbessern, aber auch um zu verstehen, was alles einstellbar ist.",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Die-wichtigsten-Handgriffe-fuer-besseren-Datenschutz-11084714.html",
+      "image_title": "Das Aufmacherbild ist im Comic-Stil gehalten und zeigt, wie ein einfacher, kleiner Gartenzaun Brett für Brett durch einen wesentlich höheren ersetzt wird."
+    },
+    {
+      "title": "OpenAI: Erstes KI-Gadget wird angeblich ein Smart Speaker für 200 bis 300 Dollar",
+      "teaser": "Die erste KI-Hardware von OpenAI wird ein Smart Speaker mit Kamera, der Nutzer beobachtet und proaktiv unterstützt, heißt es in einem Bericht.",
+      "url": "https://www.heise.de/news/OpenAI-Erstes-KI-Gadget-wird-angeblich-ein-Smart-Speaker-fuer-200-bis-300-Dollar-11185071.html",
+      "image_title": "Jony Ive hinter einem OpenAI-Logo"
+    },
+    {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11168886.html",
@@ -36,18 +48,6 @@
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, Hop, Interop, Rust, Gemini, OpenObserve, KDE, GitHub, Kotlin und Rugix.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11181195.html",
       "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Gas Town: Mad-Max-inspiriertes Framework für Coding-Agenten",
-      "teaser": "Viele gleichzeitig agierende Agenten richten oft mehr Chaos an, als sie Nutzen bringen. Das Tool Gas Town orchestriert im Stil von Mad Max.",
-      "url": "https://www.heise.de/hintergrund/Volle-Kontrolle-Gas-Town-orchestriert-zehn-und-mehr-Coding-Agenten-11177514.html",
-      "image_title": "Industrieanlage mit einem Rohr auf dem \"Methane\" steht"
-    },
-    {
-      "title": "ZDF zieht nach KI-Fiasko Korrespondentin ab",
-      "teaser": "Das KI-Material in einem Bericht „heute journal“ hat nun Konsequenzen für die New Yorker Korrespondentin. Doch es bleiben Fragen offen.",
-      "url": "https://www.heise.de/news/ZDF-zieht-nach-KI-Fiasko-Korrespondentin-ab-11184878.html",
-      "image_title": "Screenshot aus der ZDF-Mediathek"
     },
     {
       "title": "RatgeberStrom weg, was nun? Vorsorge treffen für kleine und größere Stromausfälle",
@@ -61,6 +61,18 @@
     {
       "title": "HintergrundNach Deepseek: So geht es mit der chinesischen Open-Source-KI weiter",
       "url": "https://www.heise.de/hintergrund/Nach-Deepseek-So-geht-es-mit-der-chinesischen-Open-Source-KI-weiter-11182677.html"
+    },
+    {
+      "title": "Gas Town: Mad-Max-inspiriertes Framework für Coding-Agenten",
+      "teaser": "Viele gleichzeitig agierende Agenten richten oft mehr Chaos an, als sie Nutzen bringen. Das Tool Gas Town orchestriert im Stil von Mad Max.",
+      "url": "https://www.heise.de/hintergrund/Volle-Kontrolle-Gas-Town-orchestriert-zehn-und-mehr-Coding-Agenten-11177514.html",
+      "image_title": "Industrieanlage mit einem Rohr auf dem \"Methane\" steht"
+    },
+    {
+      "title": "ZDF zieht nach KI-Fiasko Korrespondentin ab",
+      "teaser": "Das KI-Material in einem Bericht „heute journal“ hat nun Konsequenzen für die New Yorker Korrespondentin. Doch es bleiben Fragen offen.",
+      "url": "https://www.heise.de/news/ZDF-zieht-nach-KI-Fiasko-Korrespondentin-ab-11184878.html",
+      "image_title": "Screenshot aus der ZDF-Mediathek"
     },
     {
       "title": "Experten warnen: Klarnamenpflicht gefährdet Demokratie und trifft die Falschen",
@@ -136,18 +148,6 @@
       "teaser": "Jürgen Schmidt sprach sich lange Zeit gegen offensive Cyber-Aktionen aus. Russlands Sabotage-Angriff auf Polens Energieversorgung hat seine Meinung geändert.",
       "url": "https://www.heise.de/meinung/Kommentar-Keine-Hackbacks-aber-offensive-Cyber-Aktionen-11183881.html",
       "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
-    },
-    {
-      "title": "„Wirtschaftlich bedeutsam“ – KI sorgt für Produktivität",
-      "teaser": "KI steigert die Produktivität in Unternehmen und sorgt für höhere Gehälter. Arbeitsplätze bleiben wohl erhalten. Doch davon profitieren nicht alle.",
-      "url": "https://www.heise.de/news/Wirtschaftlich-bedeutsam-KI-sorgt-fuer-Produktivitaet-11183966.html",
-      "image_title": "Person mit Kopfhörern sitzt an Arbeitsplatz. Auf dem Computerbildschirm ist läuft ein Videoanruf"
-    },
-    {
-      "title": "Adidas bezieht Stellung zu möglichem Datenleck bei externem Dienstleister",
-      "teaser": "Die Cybergang Lapsus$ behauptet in einem Untergrundforum, Daten von Adidas bei einem externen Dienstleister kopiert zu haben.",
-      "url": "https://www.heise.de/news/Adidas-bezieht-Stellung-zu-moeglichem-Datenleck-bei-externem-Dienstleister-11184064.html",
-      "image_title": "Untergrund-Forum-Ankündigung eines Datenlecks beim Adidas-Extranet"
     },
     {
       "title": "News„Wenn das jemand baut, sterben alle“ – Debatte über Super-KI",
