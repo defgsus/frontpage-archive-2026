@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-22T16:14:58",
+  "timestamp": "2026-02-22T17:16:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Apples KI-Accessoires sollen dem iPhone angeblich Augen verleihen",
+      "url": "https://www.heise.de/news/Apples-KI-Accessoires-sollen-dem-iPhone-angeblich-Augen-verleihen-11185428.html"
+    },
     {
       "title": "Russische Truppen geortet: Ukrainische Hacker nutzten angeblich Starlink-Sperre",
       "url": "https://www.heise.de/news/Starlink-Sperre-und-Hacker-Falle-Russlands-digitale-Front-broeckelt-11185406.html"
@@ -64,10 +68,6 @@
     {
       "title": "iX-Workshop Exchange Migration: Ende des Supports für Exchange Server 2016/2019",
       "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-Ende-des-Supports-fuer-Exchange-Server-2016-2019-11168890.html"
-    },
-    {
-      "title": "Missing Link: Digitaler Neustart des Sozialstaats soll Zettelwirtschaft beenden",
-      "url": "https://www.heise.de/news/Missing-Link-Digitaler-Neustart-des-Sozialstaats-soll-Zettelwirtschaft-beenden-11185249.html"
     },
     {
       "title": "Missing LinkDigitaler Neustart des Sozialstaats statt Zettelwirtschaft",
@@ -191,20 +191,26 @@
       "url": "https://www.heise.de/news/heiseshow-Social-Media-Verbot-Spotifys-KI-Entwicklung-Smart-Meter-Pflicht-11181689.html"
     },
     {
+      "title": "Apples KI-Accessoires sollen dem iPhone angeblich Augen verleihen",
+      "teaser": "Die kommenden KI-Produkte des Konzerns sollen einem Bericht zufolge mit Kameras die Umgebung erfassen und so als bequemes Eingabegerät für die Apple-KI dienen.",
+      "url": "https://www.heise.de/news/Apples-KI-Accessoires-sollen-dem-iPhone-angeblich-Augen-verleihen-11185428.html",
+      "image_title": "Kamerasysteme mehrere iPhones"
+    },
+    {
       "title": "Russische Truppen geortet: Ukrainische Hacker nutzten angeblich Starlink-Sperre",
       "teaser": "Starlink wird für Moskau zum Verhängnis: Die Armee kaschiert Kommunikationsprobleme zwar, doch ukrainische Hacker nutzen gesperrte Terminals offenbar als Köder.",
       "url": "https://www.heise.de/news/Starlink-Sperre-und-Hacker-Falle-Russlands-digitale-Front-broeckelt-11185406.html",
       "image_title": "Brant,,Canada,-,June,21,,2021:,A,Spacex,Starlink,Satellite"
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "Mini-PC mit Ryzen 7, 32 GB RAM & USB4: GMKtec Nucbox K12 im Test",
       "teaser": "Gute Ausstattung mit Ryzen 7, USB4 und Oculink zum fairen Preis: Das bietet der Mini-PC Nucbox K12 von GMKtec – die Barebone-Version schon ab 279 Euro.",
       "url": "https://www.heise.de/bestenlisten/testbericht/starker-mini-pc-mit-ryzen-7-32-gb-ram-und-usb4-gmktec-nucbox-k12-im-test/6d9fq1l?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
-      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "GitLab 18.9: Eigene KI-Modelle und KI-gestützte Sicherheitsfeatures",
@@ -233,12 +239,6 @@
       "title": "Ollee Watch im Test: Casio-Uhr zur Smartwatch aufrüsten",
       "teaser": "Die Casio-Armbanduhr mit Digitalanzeige ist feinster Retro-Kult. Ein Aufrüstkit von Ollee Watch fügt ihr smarte Funktionen hinzu.",
       "url": "https://www.heise.de/tests/Ollee-Watch-im-Test-Casio-Uhr-zur-Smartwatch-aufruesten-11133743.html"
-    },
-    {
-      "title": "iX-Workshop Exchange Migration: Ende des Supports für Exchange Server 2016/2019",
-      "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
-      "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-Ende-des-Supports-fuer-Exchange-Server-2016-2019-11168890.html",
-      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -332,6 +332,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "iX-Workshop Exchange Migration: Ende des Supports für Exchange Server 2016/2019",
+      "teaser": "So migrieren Sie Ihren Exchange Server 2016 oder 2019 zu Exchange Online – eine Schritt-für-Schritt-Anleitung.",
+      "url": "https://www.heise.de/news/iX-Workshop-Exchange-Migration-Ende-des-Supports-fuer-Exchange-Server-2016-2019-11168890.html",
+      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
+    },
+    {
       "title": "Im Funkloch: Wie Smart Meter auch ohne LTE-Empfang online gehen",
       "teaser": "Der Smart-Meter-Einbau scheitert häufig am schlechten LTE-Empfang. Doch es gibt Alternativen: vorhandene private Internetzugänge, Powerline und LTE450.",
       "url": "https://www.heise.de/hintergrund/Im-Funkloch-Wie-Smart-Meter-auch-ohne-LTE-Empfang-online-gehen-11162416.html"
@@ -400,15 +406,15 @@
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
+      "title": "Ein sicherer Browser vor Cybergefahren",
+      "teaser": "Browser gehören zu unserem Alltag. Doch kaum jemand macht sich Gedanken darüber, dass der Browser selbst gegen Sicherheitsvorfälle geschützt werden sollte. In einem Webcast zeigen wir Ihnen, wie Sie sich eine sichere Arbeitsumgebung direkt im Browser schaffen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/enterprise-browser-das-fehlende-puzzleteil-in-ihrer-cybersecurity-strategie-5016/?source=hbsad-ersatz"
+    },
+    {
       "title": "Drei Fragen und Antworten: Was Führungskräfte für die stillen Techies tun können",
       "teaser": "Natürlich sind nicht alle ITler introvertierte, stille Techies. Aber wie sollten Führungskräfte mit den Mitarbeitern umgehen, die genau das sind?",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Was-Fuehrungskraefte-fuer-die-stillen-Techies-tun-koennen-11184774.html",
       "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
-    },
-    {
-      "title": "Digitale Souveränität oder Cloud-Abhängigkeit?",
-      "teaser": "Auch bei der Verwaltung von Endgeräten muss klar geregelt sein, wer auf Daten und Infrastrukturen zugreifen kann („souveräne Kontrolle“). Genau darum geht es in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/digitale-souveraenitaet-oder-cloud-abhaengigkeit-uem-zwischen-cloud-act-dsgvo-5020/?source=hbsad-ersatz"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
@@ -461,12 +467,6 @@
       "teaser": "Der Kanzler fordert das „offene Visier“. Doch Fachleute und Opposition sehen darin einen gefährlichen Populismus, der die Ursachen von Hass im Netz ignoriert.",
       "url": "https://www.heise.de/news/Abrissbirne-fuer-Meinungsfreiheit-Viel-Kritik-an-Merz-Anti-Anonymitaets-Kurs-11184838.html",
       "image_title": "Bundeskanzler Friedrich Merz spricht bei einer Pressekonfrenz."
-    },
-    {
-      "title": "Strom weg, was nun? Vorsorge treffen für kleine und größere Stromausfälle",
-      "teaser": "Stromausfälle sind hierzulande selten, doch die Infrastruktur ist nicht unfehlbar. Um im Notfall noch Energie fürs Nötigste zu haben, kann man vorsorgen.",
-      "url": "https://www.heise.de/ratgeber/Strom-weg-was-nun-Vorsorge-treffen-fuer-kleine-und-groessere-Stromausfaelle-11183962.html",
-      "image_title": "Electric,Power,Outage,At,Home,Or,Blackout,,Concept,Image.,Electrical"
     },
     {
       "title": "AlertBSI-Warnung: Ivanti-EPMM-Lücke wird verbreitet missbraucht",
@@ -638,11 +638,6 @@
       "url": "https://www.heise.de/en/news/Meta-Quest-embarks-on-a-new-beginning-with-Horizon-OS-2-11175109.html"
     },
     {
-      "title": "c't 3003Ich hasse meinen Fernseher",
-      "teaser": "Streaming-Clients wie die Amazon Fire TV Sticks machen smarte Oberflächen auch für alte Fernseher und Monitore möglich.",
-      "url": "https://www.heise.de/news/Streaming-Clients-im-Test-Google-Amazon-Apple-oder-Raspi-11182262.html"
-    },
-    {
       "title": "Apple erwägt chinesische Speicherchips für iPhones – wohl für China",
       "teaser": "Apple könnte in künftige iPhones Speicherchips der chinesischen Hersteller CXMT und YMTC einbauen lassen, zunächst wohl für den chinesischen Markt.",
       "url": "https://www.heise.de/news/Apple-erwaegt-chinesische-Speicherchips-fuer-iPhones-wohl-fuer-China-11185131.html",
@@ -653,6 +648,12 @@
       "teaser": "An online trading platform based in Spain is switching from AWS to local cloud service providers: A developer names specific problems.",
       "url": "https://www.heise.de/en/news/Experience-report-Obstacle-course-when-migrating-from-Amazon-AWS-to-EU-cloud-11185185.html",
       "image_title": "Stylized image: A cloud with an EU flag in it, in front of server racks in the background"
+    },
+    {
+      "title": "Erfahrungsbericht: Hindernislauf beim Umzug von Amazon AWS in EU-Cloud",
+      "teaser": "Eine Online-Handelsplattform mit Sitz in Spanien wechselt von AWS auf hiesige Cloud-Dienstleister: Ein Entwickler benennt konkrete Probleme.",
+      "url": "https://www.heise.de/news/Erfahrungsbericht-Hindernislauf-beim-Umzug-von-Amazon-AWS-in-EU-Cloud-11185081.html",
+      "image_title": "Stilisiertes Bild: Eine Wolke mit EU-Flagge darin, vor Serverracks im Hintergrund"
     },
     {
       "title": "Kreativ-AboFür wen sich das Apple Creator Studio lohnt",
@@ -688,12 +689,6 @@
       "url": "https://www.heise.de/news/Fuer-Bambulab-Drucker-Studio-Version-2-5-0-66-11179515.html"
     },
     {
-      "title": "Sony FE 100 mm F2.8 Makro GM OSS im Test: Highend-Optik für extreme Nahaufnahmen",
-      "teaser": "Das neue Sony Makro überzeugt mit enormer Vergrößerung, schnellem Autofokus und starker Schärfe. Wir zeigen, wie gut es im Labor abschneidet.",
-      "url": "https://www.heise.de/tests/Sony-FE-100-mm-F2-8-Makro-GM-OSS-im-Test-Highend-Optik-fuer-extreme-Nahaufnahmen-11174045.html",
-      "image_title": ", Sony"
-    },
-    {
       "title": "Kraftpaket für Foto und FilmCanon EOS R6 Mark III im Test",
       "teaser": "Neuer Sensor, hohe Serienbildrate und starkes Raw‑Video. Die spiegellose Vollformatkamera im Praxistest.",
       "url": "https://www.heise.de/tests/Canon-EOS-R6-Mark-III-im-Test-Kraftpaket-fuer-Foto-und-Film-11174081.html",
@@ -710,6 +705,11 @@
       "teaser": "Google straft einen Fotografen für gute Arbeit ab: Ein echtes Bild soll KI sein.",
       "url": "https://www.heise.de/news/Googles-KI-Blamage-und-frisches-Blut-fuer-MFT-die-Fotonews-der-Woche-7-26-11176117.html",
       "image_title": "Ein Kopf bildet sich aus kleinen Teilchen."
+    },
+    {
+      "title": "Mond, Nebel, Bewegung: Die Bilder der Woche 7",
+      "teaser": "Zwischen Stille und Tempo: Sieben Fotos spielen mit Licht, Linien und starken Kontrasten.",
+      "url": "https://www.heise.de/news/Mond-Nebel-Bewegung-Die-Bilder-der-Woche-7-11175422.html"
     },
     {
       "title": "ÜberblickKI-Coding-Assistenten für die Softwareentwicklung",
@@ -754,22 +754,22 @@
       "image_title": "Ducati Monster"
     },
     {
+      "title": "Das grüne Jahrzehnt ist vorbei – und niemand hat es bemerkt",
+      "teaser": "Klimaschutz galt als Megathema der 2010er. Doch seit Corona und Ukraine-Krieg verschwand er aus dem Fokus – mit fatalen Folgen.",
+      "url": "https://www.heise.de/-11181262",
+      "image_title": "Scheinwerfer leuchtet von roter Erde mit Thermometer weg"
+    },
+    {
+      "title": "Ukraine-Krieg: Russlands Antwort auf das Starlink-Problem heißt Barrage-1",
+      "teaser": "Nach der Starlink-Abschaltung setzen russische Streitkräfte auf Stratosphärenballons – ohne Triebwerk, ohne Flügel, mit niedriger Latenz. Eine Einschätzung.",
+      "url": "https://www.heise.de/-11185333",
+      "image_title": "Ballon über eine Front. Panzer, die beschossen werden."
+    },
+    {
       "title": "Griechenland zeigt, wie Kontrolle wichtiger wird als Freiheit",
       "teaser": "Athen plant Alterskontrolle über Sprache und Geodaten – und muss dafür alle Bürger überwachen, nicht nur Jugendliche.",
       "url": "https://www.heise.de/-11179239",
       "image_title": "Drei verbundene Samrtphones mit Socialmediaprofilen und Samrtphone mit Kinderprofilbild abgekoppelt"
-    },
-    {
-      "title": "Psychische Experimente an indigenen Kindern in Kanada aufgedeckt",
-      "teaser": "Psychische Experimente an indigenen Kindern in Kanada aufgedeckt. Studie von 1943 dokumentiert ESP-Tests in Internat. Ein Überblick.",
-      "url": "https://www.heise.de/-11177923",
-      "image_title": "Eine Schülergruppe vor einer Schule"
-    },
-    {
-      "title": "Strategische Vorausschau: Wie Deutschland lernt, die Zukunft zu lesen",
-      "teaser": "Vorausschauende Politikgestaltung gilt in Zeiten globaler Unsicherheit als Gebot der Stunde. Doch wie gelingt der Blick in die Zukunft?",
-      "url": "https://www.heise.de/-11174629",
-      "image_title": "Fernglas auf Schaltpult"
     },
     {
       "title": "Ein Crashkurs in Atmosphärenphysik erklärt unser eisiges Wetter",
