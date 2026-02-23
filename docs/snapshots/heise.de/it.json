@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T04:10:52",
+  "timestamp": "2026-02-23T05:57:44",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,20 @@
   ],
   "articles": [
     {
-      "title": "Verriegelter 12V-2x6-Stecker in Dell-PC entdeckt",
-      "teaser": "Ein Test eines japanischen Fertig-PCs von Dell zeigt eine neue Konstruktion für den fehleranfälligen Stromanschluss moderner Grafikkarten.",
+      "title": "Montag: Russland in ukrainischer Starlink-Falle, X-Einspruch gegen DSA-Strafe",
+      "teaser": "Starlink-Scam russischer Truppen + X gegen EU-Millionenstrafe + Dell mit besserem GPU-Stromkabel + Sozialstaat vor digitalem Neustart + Altman zu Servern im All",
+      "url": "https://www.heise.de/news/Montag-Russland-in-ukrainischer-Starlink-Falle-X-Einspruch-gegen-DSA-Strafe-11185495.html",
+      "image_title": "Eine runde Dishy-Antenne für Starlink steht in einer Wiese; Montag: Starlink-Falle, DSA-Einspruch, GPU-Kabelneuheit, Sozialstaat-Digitalisierung & Weltraum-Server"
+    },
+    {
+      "title": "Aus für POP-Import in GmailGoogle verlängert Gnadenfrist",
+      "teaser": "Die POP-Abfrage anderer Accounts und Gmailify wollte Gmail schon im Januar absägen. Nun gibt es mehr Zeit für den Absprung.",
+      "url": "https://www.heise.de/news/Aus-fuer-POP-Import-in-Gmail-Google-verlaengert-Gnadenfrist-11185448.html",
+      "image_title": "Das Gmail-Logo auf einem Smartphone, hier mit 5590 Benachrichtigungen"
+    },
+    {
+      "title": "GrafikkartenVerriegelter 12V-2x6-Stecker in Dell-PC entdeckt",
+      "teaser": "Ein Test eines japanischen Fertig-PCs zeigt eine neue Konstruktion für den fehleranfälligen Stromanschluss moderner Grafikkarten.",
       "url": "https://www.heise.de/news/Dell-PC-mit-verriegeltem-12V-2x6-Stecker-fuer-die-Grafikkarte-11185432.html"
     },
     {
@@ -35,17 +47,6 @@
       "teaser": "Die kommenden KI-Produkte des Konzerns sollen einem Bericht zufolge mit Kameras die Umgebung erfassen und so als bequemes Eingabegerät für die Apple-KI dienen.",
       "url": "https://www.heise.de/news/Apples-KI-Accessoires-sollen-dem-iPhone-angeblich-Augen-verleihen-11185428.html",
       "image_title": "Kamerasysteme mehrere iPhones"
-    },
-    {
-      "title": "GitLab 18.9: Eigene KI-Modelle und KI-gestützte Sicherheitsfeatures",
-      "teaser": "Die DevSecOps-Plattform führt Möglichkeiten ein, selbst gehostete KI-Modelle anzubinden, und bietet mehr Sicherheitsfunktionen für Schwachstellenmanagement.",
-      "url": "https://www.heise.de/news/GitLab-18-9-Eigene-KI-Modelle-und-KI-gestuetzte-Sicherheitsfeatures-11185242.html"
-    },
-    {
-      "title": "Sam Altman: „Rechenzentren im All sind lächerlich“",
-      "teaser": "Auf dem KI-Gipfel in Indien hat der OpenAI-Chef Rechenzentren im All eine Absage erteilt. Er verglich auch die Kosten eines Menschen gegenüber einer KI.",
-      "url": "https://www.heise.de/news/Sam-Altman-Rechenzentren-im-All-sind-laecherlich-11185375.html",
-      "image_title": "Openai,Ceo,Sam,Altman,Attends,The,Artificial,Intelligence(ai),Revolution,Forum, SamAltman"
     },
     {
       "title": "RatgeberStrom weg, was nun? Vorsorge treffen für kleine und größere Stromausfälle",
@@ -69,6 +70,17 @@
       "title": "Mini-PC mit Ryzen 7, 32 GB RAM & USB4: GMKtec Nucbox K12 im Test",
       "teaser": "Gute Ausstattung mit Ryzen 7, USB4 und Oculink zum fairen Preis: Das bietet der Mini-PC Nucbox K12 von GMKtec – die Barebone-Version schon ab 279 Euro.",
       "url": "https://www.heise.de/bestenlisten/testbericht/starker-mini-pc-mit-ryzen-7-32-gb-ram-und-usb4-gmktec-nucbox-k12-im-test/6d9fq1l?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "GitLab 18.9: Eigene KI-Modelle und KI-gestützte Sicherheitsfeatures",
+      "teaser": "Die DevSecOps-Plattform führt Möglichkeiten ein, selbst gehostete KI-Modelle anzubinden, und bietet mehr Sicherheitsfunktionen für Schwachstellenmanagement.",
+      "url": "https://www.heise.de/news/GitLab-18-9-Eigene-KI-Modelle-und-KI-gestuetzte-Sicherheitsfeatures-11185242.html"
+    },
+    {
+      "title": "Sam Altman: „Rechenzentren im All sind lächerlich“",
+      "teaser": "Auf dem KI-Gipfel in Indien hat der OpenAI-Chef Rechenzentren im All eine Absage erteilt. Er verglich auch die Kosten eines Menschen gegenüber einer KI.",
+      "url": "https://www.heise.de/news/Sam-Altman-Rechenzentren-im-All-sind-laecherlich-11185375.html",
+      "image_title": "Openai,Ceo,Sam,Altman,Attends,The,Artificial,Intelligence(ai),Revolution,Forum, SamAltman"
     },
     {
       "title": "LLMs im Unternehmen: Noch Frühbuchertickets für die Online-Konferenz sichern",
@@ -131,18 +143,6 @@
       "title": "Das heise-security-Webinar zu NTLM & Kerberos",
       "teaser": "Microsofts Active Directory setzt auf veraltete, unsichere Technik. Dessen Admins müssen deshalb Sicherheitslücken in NTLM und Kerberos verstehen und schließen.",
       "url": "https://www.heise.de/news/Das-heise-security-Webinar-zu-NTLM-Kerberos-11181623.html"
-    },
-    {
-      "title": "KI-Inferenz in Silizium gegossen: Taalas kündigt HC1-Chip an",
-      "teaser": "Das Startup Taalas will mit dem HC1 ein fest verdrahtetes Llama 3.1 8B mit knapp 17.000 Token/s liefern – fast 10-mal schneller als bisherige Lösungen.",
-      "url": "https://www.heise.de/news/KI-Inferenz-in-Silizium-gegossen-Taalas-kuendigt-HC1-Chip-an-11185021.html",
-      "image_title": "Eine blaue Leiterplatte mit einem großen Chip in der Mitte und mehreren kleineren Komponenten."
-    },
-    {
-      "title": "OpenAI: Erstes KI-Gadget wird angeblich ein Smart Speaker für 200 bis 300 Dollar",
-      "teaser": "Die erste KI-Hardware von OpenAI wird ein Smart Speaker mit Kamera, der Nutzer beobachtet und proaktiv unterstützt, heißt es in einem Bericht.",
-      "url": "https://www.heise.de/news/OpenAI-Erstes-KI-Gadget-wird-angeblich-ein-Smart-Speaker-fuer-200-bis-300-Dollar-11185071.html",
-      "image_title": "Jony Ive hinter einem OpenAI-Logo"
     },
     {
       "title": "NewsKI-Rechenzentren: In den USA immer mehr Stromerzeugung ohne Anschluss ans Netz",
