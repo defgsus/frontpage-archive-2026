@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T01:03:31",
+  "timestamp": "2026-02-23T04:10:48",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Elon Musks X geht gegen Millionenstrafe der EU wegen DSA-Verstößen vor",
+      "url": "https://www.heise.de/news/Elon-Musks-X-geht-gegen-Millionenstrafe-der-EU-wegen-DSA-Verstoessen-vor-11185485.html"
+    },
     {
       "title": "Top 7: Das beste WLAN-Mesh-System mit Wifi 7",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-7-das-beste-wlan-mesh-system-mit-wifi-7-asus-vor-unifi-xiaomi-und-fritzbox/7wxtcpe?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
     {
       "title": "LLMs im Unternehmen: Noch Frühbuchertickets für die Online-Konferenz sichern",
       "url": "https://www.heise.de/news/LLMs-im-Unternehmen-Noch-Fruehbuchertickets-fuer-die-Online-Konferenz-sichern-11181959.html"
-    },
-    {
-      "title": "Hunderttausende Links: Wikipedia verbannt Archive.today nach Cyberangriff",
-      "url": "https://www.heise.de/news/Hunderttausende-Links-Wikipedia-verbannt-Archive-today-nach-Cyberangriff-11185323.html"
     },
     {
       "title": "Missing LinkDigitaler Neustart des Sozialstaats statt Zettelwirtschaft",
@@ -189,19 +189,25 @@
       "url": "https://www.heise.de/news/heiseshow-Social-Media-Verbot-Spotifys-KI-Entwicklung-Smart-Meter-Pflicht-11181689.html"
     },
     {
+      "title": "Elon Musks X geht gegen Millionenstrafe der EU wegen DSA-Verstößen vor",
+      "teaser": "Die EU hat eine Millionenstrafe gegen X wegen Verstößen gegen den Digital Services Act verhängt. Jetzt wehrt sich der Kurznachrichtendienst von Elon Musk.",
+      "url": "https://www.heise.de/news/Elon-Musks-X-geht-gegen-Millionenstrafe-der-EU-wegen-DSA-Verstoessen-vor-11185485.html",
+      "image_title": "Silhouette Elon Musks vor dem Logo von X"
+    },
+    {
       "title": "Top 7: Das beste WLAN-Mesh-System mit Wifi 7",
       "teaser": "Mesh-Systeme eignen sich ideal für einen flächendeckenden und unterbrechungsfreien WLAN-Empfang. Wir zeigen die besten Modelle ab 150 Euro.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-7-das-beste-wlan-mesh-system-mit-wifi-7-asus-vor-unifi-xiaomi-und-fritzbox/7wxtcpe?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "Verriegelter 12V-2x6-Stecker in Dell-PC entdeckt",
       "teaser": "Ein Test eines japanischen Fertig-PCs von Dell zeigt eine neue Konstruktion für den fehleranfälligen Stromanschluss moderner Grafikkarten.",
       "url": "https://www.heise.de/news/Dell-PC-mit-verriegeltem-12V-2x6-Stecker-fuer-die-Grafikkarte-11185432.html"
-    },
-    {
-      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
-      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "Apples KI-Accessoires sollen dem iPhone angeblich Augen verleihen",
@@ -230,12 +236,6 @@
       "teaser": "Systemhärtung und Auditierung sind Grundpfeiler einer sicheren Infrastruktur. Lynis sorgt dabei für die notwendige Softwareunterstützung.",
       "url": "https://www.heise.de/hintergrund/Linux-Systemhaertung-mit-Lynis-11081185.html",
       "image_title": ","
-    },
-    {
-      "title": "Sam Altman: „Rechenzentren im All sind lächerlich“",
-      "teaser": "Auf dem KI-Gipfel in Indien hat der OpenAI-Chef Rechenzentren im All eine Absage erteilt. Er verglich auch die Kosten eines Menschen gegenüber einer KI.",
-      "url": "https://www.heise.de/news/Sam-Altman-Rechenzentren-im-All-sind-laecherlich-11185375.html",
-      "image_title": "Openai,Ceo,Sam,Altman,Attends,The,Artificial,Intelligence(ai),Revolution,Forum, SamAltman"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -267,19 +267,18 @@
       "url": "https://www.heise.de/news/Wenn-das-jemand-baut-sterben-alle-Debatte-ueber-Super-KI-11180647.html"
     },
     {
-      "title": "USB-C: Warum Sie eigentlich immer das falsche Kabel anschließen",
-      "url": "https://www.heise.de/hintergrund/USB-C-Warum-Sie-eigentlich-immer-das-falsche-Kabel-anschliessen-11162436.html",
-      "image_title": ", Copyxspace, stock.adobe.com / heise medien"
+      "title": "Wärmepumpe und Legionellen: Strategien für hygienisches Warmwasser",
+      "url": "https://www.heise.de/ratgeber/Waermepumpe-und-Legionellen-Strategien-fuer-hygienisches-Warmwasser-11177776.html"
     },
     {
-      "title": "Wärmepumpe und Legionellen: Strategien für hygienisches Warmwasser",
-      "url": "https://www.heise.de/ratgeber/Waermepumpe-und-Legionellen-Strategien-fuer-hygienisches-Warmwasser-11177776.html",
+      "title": "Windows 11: Wissenswertes zu Startmenü und Taskleiste",
+      "url": "https://www.heise.de/ratgeber/Windows-11-Wissenswertes-zu-Startmenue-und-Taskleiste-11084668.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "Notstrom an die Gastherme: Wie es sicher geht und welche Fallstricke es gibt",
-      "url": "https://www.heise.de/ratgeber/Notstrom-an-die-Gastherme-Wie-es-sicher-geht-und-welche-Fallstricke-es-gibt-11149765.html",
+      "title": "USB-C: Warum Sie eigentlich immer das falsche Kabel anschließen",
+      "url": "https://www.heise.de/hintergrund/USB-C-Warum-Sie-eigentlich-immer-das-falsche-Kabel-anschliessen-11162436.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -327,6 +326,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Sam Altman: „Rechenzentren im All sind lächerlich“",
+      "teaser": "Auf dem KI-Gipfel in Indien hat der OpenAI-Chef Rechenzentren im All eine Absage erteilt. Er verglich auch die Kosten eines Menschen gegenüber einer KI.",
+      "url": "https://www.heise.de/news/Sam-Altman-Rechenzentren-im-All-sind-laecherlich-11185375.html",
+      "image_title": "Openai,Ceo,Sam,Altman,Attends,The,Artificial,Intelligence(ai),Revolution,Forum, SamAltman"
     },
     {
       "title": "LLMs im Unternehmen: Noch Frühbuchertickets für die Online-Konferenz sichern",
@@ -397,15 +402,15 @@
       "image_title": "Eine blaue Leiterplatte mit einem großen Chip in der Mitte und mehreren kleineren Komponenten."
     },
     {
+      "title": "Mit proaktivem Security-Management Schaden verhindern",
+      "teaser": "Beim Schutz Ihrer IT vor Angriffen spielt Zeit eine wichtige Rolle. Wie Sie, anstatt nur zu reagieren, proaktiv Angriffe abwehren können, erfahren Sie in unserer Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/mit-proaktivem-security-management-schaden-verhindern-4989/?source=hbsadersatz"
+    },
+    {
       "title": "Windows 11: Die wichtigsten Handgriffe für besseren Datenschutz",
       "teaser": "Wer Windows 11 benutzt, sollte einen Blick in die Datenschutzoptionen werfen – um sie zu verbessern, aber auch um zu verstehen, was alles einstellbar ist.",
       "url": "https://www.heise.de/ratgeber/Windows-11-Die-wichtigsten-Handgriffe-fuer-besseren-Datenschutz-11084714.html",
       "image_title": "Das Aufmacherbild ist im Comic-Stil gehalten und zeigt, wie ein einfacher, kleiner Gartenzaun Brett für Brett durch einen wesentlich höheren ersetzt wird."
-    },
-    {
-      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
-      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
     },
     {
       "title": "Heisse Technik, coole Bilder: Die Foto-News der Woche 8/26",
@@ -460,25 +465,19 @@
       "image_title": "Eine Roboterhand auf einer Tastatur"
     },
     {
-      "title": "Neue PC-Spiele im März 2026: „Death Stranding 2: On The Beach“",
-      "teaser": "Im März kommt „Death Stranding 2: On The Beach“ für den PC. Außerdem werden „Crimson Desert“ und „John Carpenter's Toxic Commando“ veröffentlicht.",
-      "url": "https://www.heise.de/news/Neue-PC-Spiele-im-Maerz-2026-Death-Stranding-2-On-The-Beach-11184718.html",
-      "image_title": "Artwork aus dem Action-Adventure Death Stranding 2: On The Beach"
-    },
-    {
       "title": "AlertBSI-Warnung: Ivanti-EPMM-Lücke wird verbreitet missbraucht",
       "url": "https://www.heise.de/news/BSI-Warnung-Ivanti-EPMM-Luecke-wird-verbreitet-missbraucht-11183520.html",
       "image_title": "Roter Totenkopf auf schwarzem Hintergrund"
     },
     {
-      "title": "Amazon stellt Packroboter Blue Jay nach wenigen Monaten außer Dienst",
-      "url": "https://www.heise.de/news/Amazon-stellt-Packroboter-Blue-Jay-nach-wenigen-Monaten-ausser-Dienst-11183053.html",
-      "image_title": "Amazons Roboter Blue Jay im Einsatz"
-    },
-    {
       "title": "AI Slop verstopft Open Source: GitHub kündigt Maßnahmen an",
       "url": "https://www.heise.de/news/AI-Slop-verstopft-Open-Source-GitHub-kuendigt-Massnahmen-an-11184036.html",
       "image_title": "Wolke mit KI-Aufschrift über Kopf"
+    },
+    {
+      "title": "Apple-Klage gegen YouTuber Jon Prosser: Kooperation statt Widerstand",
+      "url": "https://www.heise.de/news/Apple-Klage-gegen-YouTuber-Jon-Prosser-Kooperation-statt-Widerstand-11184784.html",
+      "image_title": "Jon Prosser in dem beanstandeten Video, in dem er das Liquid-Glass-Design vorab publik machte"
     },
     {
       "title": "Forscher finden Spuren von Raumfahrt in der Atmosphäre",
@@ -496,14 +495,14 @@
       "image_title": "Schiffspropeller in einer Hand."
     },
     {
-      "title": "Apple-Klage gegen YouTuber Jon Prosser: Kooperation statt Widerstand",
-      "url": "https://www.heise.de/news/Apple-Klage-gegen-YouTuber-Jon-Prosser-Kooperation-statt-Widerstand-11184784.html",
-      "image_title": "Jon Prosser in dem beanstandeten Video, in dem er das Liquid-Glass-Design vorab publik machte"
-    },
-    {
       "title": "Übersicht: Interessante Kleinigkeiten in iOS 26.4",
       "url": "https://www.heise.de/news/iOS-26-4-KI-im-Auto-verbesserte-Gesundheits-App-und-mehr-11181774.html",
       "image_title": "iOS 26: Übersicht von Apple"
+    },
+    {
+      "title": "Einsteiger-MacBook: Erste Infos zu Farben, Preis und Chip",
+      "url": "https://www.heise.de/news/Einsteiger-MacBook-Erste-Infos-zu-Farben-Preis-und-Chip-11182311.html",
+      "image_title": "MacBook – hier ein Air"
     },
     {
       "title": "„Seit Jahren nichts dagegen gemacht“: US-Bundesstaat verklagt Apple wegen CSAM",
@@ -525,19 +524,23 @@
       "image_title": "BBM Motorcycles Hiro"
     },
     {
+      "title": "Neue Tarifmodelle für Starlink in Deutschland",
+      "url": "https://www.heise.de/news/Neue-Tarifmodelle-fuer-Starlink-in-Deutschland-11178948.html",
+      "image_title": "Starlink-Antenne"
+    },
+    {
       "title": "Allrad plus Autogas für Dacia Duster und Bigster: Hybrid-G 150 4x4",
       "url": "https://www.heise.de/news/Allrad-plus-Autogas-fuer-Dacia-Duster-und-Bigster-Hybrid-G-150-4x4-11184346.html",
       "image_title": "Dacia Duster"
     },
     {
-      "title": "Illegale Zölle: US-Gerichtshof stoppt Trumps Handelspolitik",
-      "url": "https://www.heise.de/news/Oberster-US-Gerichtshof-erklaert-US-Zoelle-fuer-illegal-11184858.html",
-      "image_title": "Donald Trump gehend und klatschend; im Hintergrund eine enorme US-Fahne, dahinter rostbraune Container"
+      "title": "Accenture: Aufstieg in höchste Ebenen nur mit KI-Nutzung",
+      "url": "https://www.heise.de/news/Accenture-Aufstieg-in-hoechste-Ebenen-nur-mit-KI-Nutzung-11184464.html",
+      "image_title": "In dunklen Farben gehaltenes Bild, auf dem ein künstliches Gehirn zu sehen ist, das sich auf einem Microchip befindet."
     },
     {
-      "title": "Bericht: USA haben Finanzierung von Technik für Internetfreiheit eingestellt",
-      "url": "https://www.heise.de/news/Bericht-USA-haben-Finanzierung-von-Technik-gegen-Internetblockaden-eingestellt-11182963.html",
-      "image_title": "Digitall verzerrte US-Flagge"
+      "title": "OpenClaw ausprobiert: Die gefährlichste Software der Welt?",
+      "url": "https://www.heise.de/news/OpenClaw-ausprobiert-Die-gefaehrlichste-Software-der-Welt-11161203.html"
     },
     {
       "title": "Experten warnen: Klarnamenpflicht gefährdet Demokratie und trifft die Falschen",
@@ -545,13 +548,9 @@
       "image_title": "Bundeskanzler Friedrich Merz spricht bei einer Pressekonfrenz."
     },
     {
-      "title": "Neuer Konflikt: USA will europäische Plattformgesetze aushebeln",
-      "url": "https://www.heise.de/news/Freedom-gov-US-Aussenministerium-plant-VPN-Portal-fuer-Europa-11182385.html",
-      "image_title": "Die Ankündigungsseite von freedom.gov"
-    },
-    {
-      "title": "OpenClaw ausprobiert: Die gefährlichste Software der Welt?",
-      "url": "https://www.heise.de/news/OpenClaw-ausprobiert-Die-gefaehrlichste-Software-der-Welt-11161203.html"
+      "title": "Flucht aus dem System: Pornhub macht Schluss mit britischen Alterskontrollen",
+      "url": "https://www.heise.de/news/Flucht-aus-dem-System-Pornhub-macht-Schluss-mit-britischen-Alterskontrollen-11157662.html",
+      "image_title": "Blick auf Pornhub"
     },
     {
       "title": "3D-gedruckte Pfeifen gegen ICE: Maker mobilisieren in den USA",
@@ -559,14 +558,14 @@
       "image_title": "ICE-Einsatzkräfte halten einen Protestanten am Boden fest (Broadview, Illinois, USA – 26.09.2025)"
     },
     {
-      "title": "Post zum Freitag: Windows zähmen, Hirnzellen rechnen lassen, Casio smart machen",
-      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Windows-zaehmen-Hirnzellen-rechnen-lassen-Casio-smart-machen-11183404.html",
-      "image_title": "heise+ Update Volker Zota"
-    },
-    {
       "title": "Freitag: Meta streicht Messenger-Plattform, Robotaxis in New York ausgebremst",
       "url": "https://www.heise.de/news/Freitag-Meta-streicht-Messenger-Plattform-Robotaxis-in-New-York-ausgebremst-11183446.html",
       "image_title": "Person mit Smartphone in der Hand am Laptop; Freitag: Messenger-Schließung, Waymo-Rückschlag, Digital-Euro-Kosten, Spielstudio-Aus & Datenschutz-Podcast"
+    },
+    {
+      "title": "Bundeswehr setzt auf Google-Cloud",
+      "url": "https://www.heise.de/news/Bundeswehr-setzt-auf-Google-Cloud-10397414.html",
+      "image_title": "Vertragsunterzeichnung von BWI GmbH und Google"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -613,9 +612,9 @@
       "url": "https://www.heise.de/news/Unerwartet-interessant-Moderne-Drucker-c-t-uplink-11176038.html"
     },
     {
-      "title": "Major investor Berkshire Hathaway sells Apple shares again",
-      "url": "https://www.heise.de/en/news/Major-investor-Berkshire-Hathaway-sells-Apple-shares-again-11183942.html",
-      "image_title": "Warren Buffett"
+      "title": "More memory: Samsung and SK Hynix are apparently accelerating plant construction",
+      "url": "https://www.heise.de/en/news/More-memory-Samsung-and-SK-Hynix-are-apparently-accelerating-plant-construction-11183175.html",
+      "image_title": "Hand holds memory modules like playing cards"
     },
     {
       "title": "WD and Seagate confirm: Hard drives for 2026 sold out",
@@ -623,16 +622,21 @@
       "image_title": "Numerous open hard drives side by side"
     },
     {
-      "title": "Anthropic launches Claude Code Security – Cybersecurity stocks lose value",
-      "url": "https://www.heise.de/en/news/Anthropic-launches-Claude-Code-Security-Cybersecurity-stocks-lose-value-11185215.html"
+      "title": "Major investor Berkshire Hathaway sells Apple shares again",
+      "url": "https://www.heise.de/en/news/Major-investor-Berkshire-Hathaway-sells-Apple-shares-again-11183942.html"
     },
     {
-      "title": "Skilled worker shortage in Germany eases, but structural problems remain",
-      "url": "https://www.heise.de/en/news/Skilled-worker-shortage-in-Germany-eases-but-structural-problems-remain-11181168.html"
+      "title": "AI inference cast in silicon: Taalas announces HC1 chip",
+      "url": "https://www.heise.de/en/news/AI-inference-cast-in-silicon-Taalas-announces-HC1-chip-11185112.html"
     },
     {
-      "title": "Meta Quest embarks on a new beginning with \"Horizon OS 2\"",
-      "url": "https://www.heise.de/en/news/Meta-Quest-embarks-on-a-new-beginning-with-Horizon-OS-2-11175109.html"
+      "title": "Apple considers Chinese memory chips for iPhones – likely for China",
+      "url": "https://www.heise.de/en/news/Apple-considers-Chinese-memory-chips-for-iPhones-likely-for-China-11185155.html"
+    },
+    {
+      "title": "c't 3003Ich hasse meinen Fernseher",
+      "teaser": "Streaming-Clients wie die Amazon Fire TV Sticks machen smarte Oberflächen auch für alte Fernseher und Monitore möglich.",
+      "url": "https://www.heise.de/news/Streaming-Clients-im-Test-Google-Amazon-Apple-oder-Raspi-11182262.html"
     },
     {
       "title": "Erfahrungsbericht: Hindernislauf beim Umzug von Amazon AWS in EU-Cloud",
@@ -647,26 +651,22 @@
       "image_title": "Stylized image: A cloud with an EU flag in it, in front of server racks in the background"
     },
     {
-      "title": "c't 3003Ich hasse meinen Fernseher",
-      "teaser": "Streaming-Clients wie die Amazon Fire TV Sticks machen smarte Oberflächen auch für alte Fernseher und Monitore möglich.",
-      "url": "https://www.heise.de/news/Streaming-Clients-im-Test-Google-Amazon-Apple-oder-Raspi-11182262.html"
-    },
-    {
       "title": "Kreativ-AboFür wen sich das Apple Creator Studio lohnt",
       "teaser": "Apple Creator Studio bündelt Final Cut, Logic, Pixelmator sowie Pages & Co. in einem Abo. Wir klären, ob es sich grundsätzlich lohnt – oder der Einmalkauf.",
       "url": "https://www.heise.de/tests/Kreativ-Abo-Fuer-wen-sich-das-Apple-Creator-Studio-lohnt-11176231.html",
       "image_title": "Apple Creator Studio"
     },
     {
+      "title": "Logic Pro & MainStage: Das können die neuen Versionen",
+      "teaser": "Seit Jahrzehnten gehört Logic zu den besten und umfangreichsten Musikproduktions-Apps. Im Rahmen des Apple Creator Studio wurden sie aufgemotzt. Ein Test.",
+      "url": "https://www.heise.de/tests/Logic-Pro-MainStage-Das-koennen-die-neuen-Versionen-11180081.html",
+      "image_title": "Icons von Logic Pro und MainStage"
+    },
+    {
       "title": "KI zu Befehl:Wie man den Mac per KI steuert",
       "teaser": "Ein Überblick, wie sich der Mac schon jetzt mit KI-Tools bedienen lässt.",
       "url": "https://www.heise.de/hintergrund/KI-zu-Befehl-So-kontrollieren-Sie-mit-Kuenstlicher-Intelligenz-Ihren-Mac-11162430.html",
       "image_title": "Roboter hilft beim Tippen"
-    },
-    {
-      "title": "Smartphone‑Teleaufsätze im Praxistest: Was die Technik kann – und was nicht",
-      "teaser": "Mehr Brennweite per Aufsatz klingt großartig. Doch was bleibt übrig, wenn Optik, Software und Physik aufeinandertreffen? Unser Test von Oppo und Vivo zeigt’s.",
-      "url": "https://www.heise.de/tests/Smartphone-Teleaufsaetze-im-Praxistest-Was-die-Technik-kann-und-was-nicht-11149747.html"
     },
     {
       "title": "Eine Radarkontrolle fürs Büro selber bauen",
@@ -751,22 +751,21 @@
       "image_title": "Ducati Monster"
     },
     {
-      "title": "Kernenergie unter Druck: Frankreichs Stromüberschuss treibt Kosten hoch",
-      "teaser": "Zu viel Strom aus Solar- und Windkraft belastet Frankreichs Atomreaktoren. EDF warnt vor steigenden Kosten. Die Regierung bremst nun die Energiewende.",
-      "url": "https://www.heise.de/-11183903",
-      "image_title": "Solarpaneele, Windturbinen und Kernkraftwerk unter französischer Flagge. 3D-Abbildung."
+      "title": "Elektroautos sollen kommen",
+      "teaser": "Das Thema bringt die Grünen und E.on zusammen,",
+      "url": "https://www.heise.de/-10523221"
     },
     {
-      "title": "Trumps Friedensrat für Gaza: Was der neue Plan für die Region bedeutet",
-      "teaser": "Donald Trump glaubt, den Gazakonflikt lösen zu können – während Israels Extremisten erstarken, die Hamas verklärt wird und der Konflikt den Westen spaltet.",
-      "url": "https://www.heise.de/-11185039",
-      "image_title": "Trump an einem Sprecherpult in Davos, wo der den Friedensrat vorstellt"
+      "title": "Greenwashing im Wintersport: Wie Konzerne Schnee zum Schmelzen bringen",
+      "teaser": "Eni und andere Ölriesen sponsern die Winterspiele – doch ihre Emissionen schmelzen genau den Schnee, auf dem Athleten um Medaillen kämpfen.",
+      "url": "https://www.heise.de/-11184140",
+      "image_title": "Olympische Ringe mit Kopf des feuerspeienden 6-beinigen Agiphunds und als Kreislaufpfeile"
     },
     {
-      "title": "Trumps digitaler Frontalangriff auf Europa",
-      "teaser": "Mit freedom.gov will Washington Netzsperren umgehen. Kritiker sprechen von einem Angriff auf europäisches Recht und die Medienordnung.",
-      "url": "https://www.heise.de/-11184490",
-      "image_title": "Trump vor einem Telefon"
+      "title": "Rubios MSC-Rede analysiert: Warum die USA ihren Imperialismus bis heute leugnen",
+      "teaser": "Ein US-Außenminister beklagt westliche Naivität – doch ein entscheidender Teil der Geschichte fehlt in seiner Analyse.",
+      "url": "https://www.heise.de/-11183560",
+      "image_title": "Marco Rubio"
     },
     {
       "title": "Ein Crashkurs in Atmosphärenphysik erklärt unser eisiges Wetter",
