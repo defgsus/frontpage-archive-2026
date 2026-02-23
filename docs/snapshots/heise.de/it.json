@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-23T14:47:23",
+  "timestamp": "2026-02-23T15:36:18",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,28 @@
   ],
   "articles": [
     {
+      "title": "Lokale KIs mit OpenClaw nutzen: Agenten und Bildgenerierung auf eigener Hardware",
+      "teaser": "Wer Ollama und ComfyUI in OpenClaw einbindet, kann Aufgaben lokal auslagern und so API-Kosten für die teuren Cloud-Modelle senken. So gelingt die Einrichtung.",
+      "url": "https://www.heise.de/ratgeber/Lokale-KIs-mit-OpenClaw-nutzen-Agenten-und-Bildgenerierung-auf-lokaler-Hardware-11184278.html",
+      "image_title": "OpenClaw-Maskottchen spawnt auf Grafikkarte: Auch lokale LLMs laufen auf OpenClaw."
+    },
+    {
+      "title": "Autonomes Fahren: BMW streicht Level 3 aus 7er-Reihe",
+      "teaser": "BMW wird automatisiertes Fahren nach Level 3 beim Facelift der 7er-Reihe nicht mehr anbieten. Damit folgen die Bayern Mercedes.",
+      "url": "https://www.heise.de/news/Autonomes-Fahren-BMW-streicht-Level-3-aus-7er-Reihe-11186428.html",
+      "image_title": "Fahrer sitzt ohne Hände am Steuer im 7er BMW"
+    },
+    {
+      "title": "GeForce RTX 5090 Ti oder Titan Blackwell soll im Sommer erscheinen",
+      "teaser": "Nvidia denkt offenbar über ein neues Grafikkarten-Topmodell nach. Mehrleistung soll vor allem über eine höhere Leistungsaufnahme entstehen.",
+      "url": "https://www.heise.de/news/GeForce-RTX-5090-Ti-oder-Titan-Blackwell-soll-im-Sommer-erscheinen-11186442.html",
+      "image_title": "GeForce RTX 5090 vor schwarz-grünem Hintergrund"
+    },
+    {
       "title": "Türkei: Restriktionen für Instagram, YouTube und Co. geplant",
       "teaser": "Der Zugang zu Social-Media-Plattformen könnte in der Türkei bald stärker reguliert werden. Aktuell prüft der Staat Dienste wie Instagram und YouTube.",
       "url": "https://www.heise.de/news/Tuerkei-Restriktionen-fuer-Instagram-YouTube-und-Co-geplant-11186290.html",
       "image_title": "Stoppschild und Verkehrspylon vor verschwommenem Handy"
-    },
-    {
-      "title": "mise: Versionsmanager für Programmiersprachen vorgestellt",
-      "teaser": "Der Versionsmanager mise hilft beim Set-up Zeit zu sparen und Versionskonflikte zu vermeiden. Er ersetzt Tools wie pyenv, rbenv und nvm.",
-      "url": "https://www.heise.de/ratgeber/mise-Versionsmanager-fuer-Programmiersprachen-vorgestellt-11158741.html",
-      "image_title": ","
-    },
-    {
-      "title": "Mit ChatGPT erstellte Passwörter sind nicht sicher",
-      "teaser": "Wer KI-Chatbots auffordert, starke Passwörter zu erstellen, erhält zwar sicher erscheinende Ergebnisse, jedoch sind die Passwörter leicht zu knacken.",
-      "url": "https://www.heise.de/news/Mit-ChatGPT-erstellte-Passwoerter-sind-nicht-sicher-11185918.html",
-      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
-    },
-    {
-      "title": "Linux: Torvalds startet Entwicklung von Kernel 7.0",
-      "teaser": "Linus Torvalds hat zwei Wochen nach Release von Kernel 6.19 jetzt den RC1 von Kernel 7.0 veröffentlicht. Der soll stabil werden.",
-      "url": "https://www.heise.de/news/Linux-Torvalds-startet-Entwicklung-von-Kernel-7-0-11186156.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
     {
       "title": "RatgeberLokale KIs mit OpenClaw nutzen: Agenten und Bildgenerierung auf eigener Hardware",
@@ -65,6 +65,18 @@
       "image_title": ","
     },
     {
+      "title": "Mit ChatGPT erstellte Passwörter sind nicht sicher",
+      "teaser": "Wer KI-Chatbots auffordert, starke Passwörter zu erstellen, erhält zwar sicher erscheinende Ergebnisse, jedoch sind die Passwörter leicht zu knacken.",
+      "url": "https://www.heise.de/news/Mit-ChatGPT-erstellte-Passwoerter-sind-nicht-sicher-11185918.html",
+      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
+    },
+    {
+      "title": "Linux: Torvalds startet Entwicklung von Kernel 7.0",
+      "teaser": "Linus Torvalds hat zwei Wochen nach Release von Kernel 6.19 jetzt den RC1 von Kernel 7.0 veröffentlicht. Der soll stabil werden.",
+      "url": "https://www.heise.de/news/Linux-Torvalds-startet-Entwicklung-von-Kernel-7-0-11186156.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
+    },
+    {
       "title": "iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten",
       "teaser": "Erfahren Sie, wie Sie mit OpenTofu die IT-Infrastruktur im Unternehmen als Code definieren, bereitstellen und administrieren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Infrastrukturen-mit-OpenTofu-aufbauen-und-verwalten-11179313.html",
@@ -72,7 +84,7 @@
     },
     {
       "title": "Amoklauf in Kanada: OpenAI hatte Hinweise auf mögliche Gefahr durch Täterin",
-      "teaser": "In Kanada hat eine Transfrau acht Menschen getötet. Monate davor hat sie alarmierende Anfragen an ChatGPT gestellt, die bei OpenAI diskutiert wurden.",
+      "teaser": "Monate vor einem Amoklauf in Kanada hat die Täterin alarmierende Anfragen an ChatGPT gestellt. Die wurden bei OpenAI diskutiert, hatten aber keine Folgen.",
       "url": "https://www.heise.de/news/Amoklauf-in-Kanada-OpenAI-hatte-Hinweise-auf-moegliche-Gefahr-durch-Taeterin-11185895.html",
       "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
@@ -140,18 +152,6 @@
       "teaser": "Nächste Woche ist es soweit: Apple wird wohl an mehreren Tagen hintereinander neue Produkte vorstellen. Es gibt neue Details.",
       "url": "https://www.heise.de/news/Bericht-Mindestens-fuenf-neue-Apple-Produkte-zur-Apple-Experience-11185727.html",
       "image_title": "Tim Cook bei einer früheren Apple-Präsentation"
-    },
-    {
-      "title": "Pi-hole: Update schließt Sicherheitslücken und liefert mehr Performance",
-      "teaser": "Die Pi-hole-Programmierer haben dem DNS-Werbefilter Sicherheitslücken ausgetrieben und die Software verschlankt.",
-      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-Sicherheitsluecken-und-liefert-mehr-Performance-11185637.html",
-      "image_title": "pihole-Dashboard auf blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "Samsung Galaxy S26: Perplexity erhält eigenes Hotword „Hey Plex“",
-      "teaser": "Samsung setzt künftig auf ein „Multi-Agenten-KI-Ökosystem“ und integriert neben Bixby und Gemini auch Perplexity. Der Chatbot erhält sogar ein eigenes Hotword.",
-      "url": "https://www.heise.de/news/Samsung-Galaxy-S26-Perplexity-erhaelt-eigenes-Hotword-Hey-Plex-11185629.html",
-      "image_title": "Schriftzug: Hey Plex"
     },
     {
       "title": "NewsKI-Rechenzentren: In den USA immer mehr Stromerzeugung ohne Anschluss ans Netz",
