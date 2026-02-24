@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T11:31:52",
+  "timestamp": "2026-02-24T12:35:26",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,32 @@
   ],
   "articles": [
     {
+      "title": "Linux: Systemd-Services verstehen und so eigene Dienste steuern",
+      "url": "https://www.heise.de/ratgeber/Linux-Systemd-Services-verstehen-und-so-eigene-Dienste-steuern-11091823.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Linux-Distribution KaOS: Weg von KDE Plasma",
+      "url": "https://www.heise.de/news/Linux-Distribution-KaOS-Weg-von-KDE-Plasma-11187397.html"
+    },
+    {
+      "title": "Deutsch-finnischer Quantencomputerhersteller IQM plant Börsengang",
+      "url": "https://www.heise.de/news/Deutsch-finnischer-Quantencomputerhersteller-IQM-plant-Boersengang-11187470.html"
+    },
+    {
+      "title": "Tesla verklagt kalifornische Behörde wegen Falschwerbe-Urteil zu FSD",
+      "url": "https://www.heise.de/news/Tesla-verklagt-kalifornische-Behoerde-wegen-Falschwerbe-Urteil-zu-FSD-11187416.html"
+    },
+    {
+      "title": "Neue „Wo ist?“-Karten für den Geldbeutel von Nomad",
+      "url": "https://www.heise.de/news/Neue-Wo-ist-Karten-fuer-den-Geldbeutel-von-Nomad-11186268.html"
+    },
+    {
+      "title": "macOS-Klangverwaltung: Soundsource 6 steuert App-Output",
+      "url": "https://www.heise.de/news/macOS-Klangverwaltung-Soundsource-6-steuert-App-Output-11186278.html"
+    },
+    {
       "title": "Elecrow ThinkNode M6: Solarbetriebener Meshtastic-Knoten für Außeneinsatz",
       "url": "https://www.heise.de/news/Elecrow-ThinkNode-M6-Solarbetriebener-Meshtastic-Knoten-fuer-Ausseneinsatz-11187337.html"
     },
@@ -42,32 +68,6 @@
     {
       "title": "Bitkom: Jedes elfte Tech-Startup befürchtet Insolvenz",
       "url": "https://www.heise.de/news/Bitkom-Jedes-elfte-Tech-Startup-befuerchtet-Insolvenz-11187229.html"
-    },
-    {
-      "title": "iOS 26.4 Beta 2: Apple testet RCS-Verschlüsselung mit Android",
-      "url": "https://www.heise.de/news/iOS-26-4-Beta-2-Apple-testet-RCS-Verschluesselung-mit-Android-11187043.html"
-    },
-    {
-      "title": "Microsoft beendet Unterstützung für Windows-Versionen aus 2016",
-      "url": "https://www.heise.de/news/Microsoft-beendet-Unterstuetzung-fuer-Windows-Versionen-aus-2016-11187147.html"
-    },
-    {
-      "title": "Skoda Elroq RS im Test: Wie schlägt sich der Bestseller im Winter?",
-      "url": "https://www.heise.de/tests/Skoda-Elroq-RS-im-Test-Wie-schlaegt-sich-der-Bestseller-im-Winter-11155942.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Außergewöhnliche Supernova soll bei der Auflösung der „Hubble-Spannung“ helfen",
-      "url": "https://www.heise.de/news/Aussergewoehnliche-Supernova-soll-bei-der-Aufloesung-der-Hubble-Spannung-helfen-11187121.html"
-    },
-    {
-      "title": "Institut der deutschen Wirtschaft: „China-Schock“ trifft vor allem Autoindustrie",
-      "url": "https://www.heise.de/news/Institut-der-deutschen-Wirtschaft-China-Schock-trifft-vor-allem-Autoindustrie-11187169.html"
-    },
-    {
-      "title": "In einem Thüringer „Tante Emma“-Laden verkauft ausschließlich ein Roboter",
-      "url": "https://www.heise.de/news/In-einem-Thueringer-Tante-Emma-Laden-verkauft-ausschliesslich-ein-Roboter-11187135.html"
     },
     {
       "title": "Modernisierung von COBOL-SystemenClaude Code beschert IBM-Aktie einen schwarzen Tag",
@@ -190,6 +190,47 @@
       "image_title": "Viele Bitcoin-Münzen"
     },
     {
+      "title": "Linux: Systemd-Services verstehen und so eigene Dienste steuern",
+      "teaser": "Auf modernen Linux-Systemen läuft ohne Systemd-Services nichts. Wir zeigen, wie Sie eigene Unit-Dateien erstellen und Systemd-Services optimal für sich nutzen.",
+      "url": "https://www.heise.de/ratgeber/Linux-Systemd-Services-verstehen-und-so-eigene-Dienste-steuern-11091823.html",
+      "image_title": "Comic-Zeichnung von einem Pinguin, der wie an einer Tafel steht, da ist aber ein Terminal was den Inhalt einer Systemd-Unit-Datei anzeigt."
+    },
+    {
+      "title": "Linux-Distribution KaOS: Weg von KDE Plasma",
+      "teaser": "Die Linux-Distribution KaOS hat bislang stets auf aktuelles KDE Plasma für den Desktop gesetzt. Das ändert sich nun.",
+      "url": "https://www.heise.de/news/Linux-Distribution-KaOS-Weg-von-KDE-Plasma-11187397.html",
+      "image_title": "Desktop von KaOS 2026.02 auf Notebook auf Tisch"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Deutsch-finnischer Quantencomputerhersteller IQM plant Börsengang",
+      "teaser": "IQM ist einer der erfolgreichsten europäischen Quantencomputerhersteller. Das Unternehmen will im Sommer in den USA an die Börse gehen.",
+      "url": "https://www.heise.de/news/Deutsch-finnischer-Quantencomputerhersteller-IQM-plant-Boersengang-11187470.html",
+      "image_title": "Quantencomputer von IQM"
+    },
+    {
+      "title": "Tesla verklagt kalifornische Behörde wegen Falschwerbe-Urteil zu FSD",
+      "teaser": "Tesla will ein Urteil kippen, das ihm Falschwerbung bei Autopilot und Full-Self-Driving vorwirft. Das Unternehmen hat das Marketing inzwischen geändert.",
+      "url": "https://www.heise.de/news/Tesla-verklagt-kalifornische-Behoerde-wegen-Falschwerbe-Urteil-zu-FSD-11187416.html",
+      "image_title": "Tesla-Logo im Gegenlicht"
+    },
+    {
+      "title": "Neue „Wo ist?“-Karten für den Geldbeutel von Nomad",
+      "teaser": "AirTags sind zu dick für die Börse. Nomad hat nun zwei neue Kartenvarianten im Angebot – die eine besonders dünn, die andere besonders „premium“.",
+      "url": "https://www.heise.de/news/Neue-Wo-ist-Karten-fuer-den-Geldbeutel-von-Nomad-11186268.html",
+      "image_title": "Tracking Card Pro (links) und Air"
+    },
+    {
+      "title": "macOS-Klangverwaltung: Soundsource 6 steuert App-Output",
+      "teaser": "Rogue Amoeba hat eine neue Hauptversion seines Tools Soundsource parat. Damit leitet man Klänge auf dem Mac gezielt um oder verfeinert sie.",
+      "url": "https://www.heise.de/news/macOS-Klangverwaltung-Soundsource-6-steuert-App-Output-11186278.html",
+      "image_title": "Soundsource 6 auf dem Mac"
+    },
+    {
       "title": "Elecrow ThinkNode M6: Solarbetriebener Meshtastic-Knoten für Außeneinsatz",
       "teaser": "Der ThinkNode M6 soll als wetterfester Meshtastic-Knoten das LoRa-Mesh-Netz erweitern. In einem Kurztest haben wir Licht und Schatten gefunden.",
       "url": "https://www.heise.de/news/Elecrow-ThinkNode-M6-Solarbetriebener-Meshtastic-Knoten-fuer-Ausseneinsatz-11187337.html",
@@ -200,46 +241,6 @@
       "teaser": "Auf der Konferenz in Köln zeigen Vorträge und Workshops vom 4. bis 6. Mai wie zeitgemäßes Produktmanagement geht – von User Research über Strategie bis KI.",
       "url": "https://www.heise.de/news/Product-Owner-Days-2026-Drei-Workshops-und-mehr-als-20-Talks-in-Koeln-11183007.html",
       "image_title": "Product Owner Days 2026 in Köln"
-    },
-    {
-      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
-      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
-    },
-    {
-      "title": "Präsentieren mit Keynote: So halten Sie eindrucksvolle Vorträge",
-      "teaser": "Mit Apples kostenloser Keynote-App können Sie Präsentationen erstellen, die auf Ihr Publikum wirken – alleine oder im Team. Wir zeigen, wie das geht.",
-      "url": "https://www.heise.de/ratgeber/Praesentieren-mit-Keynote-So-halten-Sie-eindrucksvolle-Vortraege-11177489.html",
-      "image_title": ", Jacob Lund, stock.adobe.com"
-    },
-    {
-      "title": "Bitkom: Jedes elfte Tech-Startup befürchtet Insolvenz",
-      "teaser": "Der Bitkom zeigt ein gemischtes Bild der deutschen Startups: Während ein Drittel Fortschritte meldet, fürchtet jedes elfte Tech-Startup um seine Existenz.",
-      "url": "https://www.heise.de/news/Bitkom-Jedes-elfte-Tech-Startup-befuerchtet-Insolvenz-11187229.html",
-      "image_title": "Münzenstapel und Taschenrechner"
-    },
-    {
-      "title": "iOS 26.4 Beta 2: Apple testet RCS-Verschlüsselung mit Android",
-      "teaser": "Apple hat eine neue Entwicklerbeta fürs iPhone freigegeben. Damit lassen sich erstmals verschlüsselte RCS-Gespräche in Richtung Android testen – und mehr.",
-      "url": "https://www.heise.de/news/iOS-26-4-Beta-2-Apple-testet-RCS-Verschluesselung-mit-Android-11187043.html",
-      "image_title": "iOS 26: Apple reicht nach wie vor neue Features nach"
-    },
-    {
-      "title": "Microsoft beendet Unterstützung für Windows-Versionen aus 2016",
-      "teaser": "Windows-Versionen aus 2016 erhalten in Kürze keinen Support mehr. Erweiterte Sicherheits-Updates (ESU) sind jedoch in Planung.",
-      "url": "https://www.heise.de/news/Microsoft-beendet-Unterstuetzung-fuer-Windows-Versionen-aus-2016-11187147.html",
-      "image_title": "Windows-10-Desktophintergrund auf Notebook"
-    },
-    {
-      "title": "Skoda Elroq RS im Test: Wie schlägt sich der Bestseller im Winter?",
-      "teaser": "Skodas RS-Linien sind weniger sportlich, als sie klingen, dafür aber top ausgestattet und sehr alltagstauglich. Wir testen den Elroq RS im tiefsten Winter.",
-      "url": "https://www.heise.de/tests/Skoda-Elroq-RS-im-Test-Wie-schlaegt-sich-der-Bestseller-im-Winter-11155942.html"
-    },
-    {
-      "title": "Institut der deutschen Wirtschaft: „China-Schock“ trifft vor allem Autoindustrie",
-      "teaser": "Die Wertschöpfung der deutschen Industrie sinkt beim Export nach China, während die Konkurrenz von dort steigt. Das DIW sieht Autobranche besonders betroffen.",
-      "url": "https://www.heise.de/news/Institut-der-deutschen-Wirtschaft-China-Schock-trifft-vor-allem-Autoindustrie-11187169.html",
-      "image_title": "Am Autoterminal von BLG Logistics in Bremerhaven werden jährlich mehr als zwei Millionen Fahrzeuge umgeschlagen, viele davon werden exportiert."
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -332,6 +333,41 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Präsentieren mit Keynote: So halten Sie eindrucksvolle Vorträge",
+      "teaser": "Mit Apples kostenloser Keynote-App können Sie Präsentationen erstellen, die auf Ihr Publikum wirken – alleine oder im Team. Wir zeigen, wie das geht.",
+      "url": "https://www.heise.de/ratgeber/Praesentieren-mit-Keynote-So-halten-Sie-eindrucksvolle-Vortraege-11177489.html",
+      "image_title": ", Jacob Lund, stock.adobe.com"
+    },
+    {
+      "title": "Bitkom: Jedes elfte Tech-Startup befürchtet Insolvenz",
+      "teaser": "Der Bitkom zeigt ein gemischtes Bild der deutschen Startups: Während ein Drittel Fortschritte meldet, fürchtet jedes elfte Tech-Startup um seine Existenz.",
+      "url": "https://www.heise.de/news/Bitkom-Jedes-elfte-Tech-Startup-befuerchtet-Insolvenz-11187229.html",
+      "image_title": "Münzenstapel und Taschenrechner"
+    },
+    {
+      "title": "iOS 26.4 Beta 2: Apple testet RCS-Verschlüsselung mit Android",
+      "teaser": "Apple hat eine neue Entwicklerbeta fürs iPhone freigegeben. Damit lassen sich erstmals verschlüsselte RCS-Gespräche in Richtung Android testen – und mehr.",
+      "url": "https://www.heise.de/news/iOS-26-4-Beta-2-Apple-testet-RCS-Verschluesselung-mit-Android-11187043.html",
+      "image_title": "iOS 26: Apple reicht nach wie vor neue Features nach"
+    },
+    {
+      "title": "Microsoft beendet Unterstützung für Windows-Versionen aus 2016",
+      "teaser": "Windows-Versionen aus 2016 erhalten in Kürze keinen Support mehr. Erweiterte Sicherheits-Updates (ESU) sind jedoch in Planung.",
+      "url": "https://www.heise.de/news/Microsoft-beendet-Unterstuetzung-fuer-Windows-Versionen-aus-2016-11187147.html",
+      "image_title": "Windows-10-Desktophintergrund auf Notebook"
+    },
+    {
+      "title": "Skoda Elroq RS im Test: Wie schlägt sich der Bestseller im Winter?",
+      "teaser": "Skodas RS-Linien sind weniger sportlich, als sie klingen, dafür aber top ausgestattet und sehr alltagstauglich. Wir testen den Elroq RS im tiefsten Winter.",
+      "url": "https://www.heise.de/tests/Skoda-Elroq-RS-im-Test-Wie-schlaegt-sich-der-Bestseller-im-Winter-11155942.html"
+    },
+    {
+      "title": "Institut der deutschen Wirtschaft: „China-Schock“ trifft vor allem Autoindustrie",
+      "teaser": "Die Wertschöpfung der deutschen Industrie sinkt beim Export nach China, während die Konkurrenz von dort steigt. Das DIW sieht Autobranche besonders betroffen.",
+      "url": "https://www.heise.de/news/Institut-der-deutschen-Wirtschaft-China-Schock-trifft-vor-allem-Autoindustrie-11187169.html",
+      "image_title": "Am Autoterminal von BLG Logistics in Bremerhaven werden jährlich mehr als zwei Millionen Fahrzeuge umgeschlagen, viele davon werden exportiert."
+    },
+    {
       "title": "Ladybird-Browser integriert Rust mit Hilfe von KI",
       "teaser": "Das unabhängige Browser-Projekt Ladybird hat seine JavaScript-Engine LibJS von C++ nach Rust portiert. KI-Werkzeuge beschleunigten die Übersetzung erheblich.",
       "url": "https://www.heise.de/news/Ladybird-Browser-integriert-Rust-mit-Hilfe-von-KI-11187029.html",
@@ -373,6 +409,11 @@
       "image_title": "Volvo EX30"
     },
     {
+      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
+      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
+    },
+    {
       "title": "Asynchrone Programmierung – Teil 3: Parallelität in C++ mit Qt6",
       "teaser": "Qt6 ist ein weit verbreitetes kommerzielles Framework für C++ mit eigenständigen Mechanismen zur asynchronen Ablaufsteuerung.",
       "url": "https://www.heise.de/hintergrund/Asynchrone-Programmierung-Teil-3-Parallelitaet-in-C-mit-Qt6-11186888.html",
@@ -408,11 +449,6 @@
       "image_title": ","
     },
     {
-      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
-      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
-    },
-    {
       "title": "Software Testing: KI‑generierte Testfälle im regulierten Umfeld",
       "teaser": "In dieser Episode sprechen Richard Seidl und Alexander Frenzel über KI-gestützte Testfallerzeugung im streng regulierten Umfeld.",
       "url": "https://www.heise.de/blog/Software-Testing-KI-generierte-Testfaelle-im-regulierten-Umfeld-11185741.html",
@@ -435,41 +471,6 @@
       "teaser": "Vorwurf der Destillation + SPD positioniert sich + Austausch von Biometriedaten mit den USA + Operation gegen Cybercrime in Afrika + BMW streicht Level 3",
       "url": "https://www.heise.de/news/Dienstag-Anthropic-gegen-chinesische-KI-Firmen-SPD-will-Palantir-blockieren-11186828.html",
       "image_title": "Umriss eines menschlichen Kopfes auf orangem Hintergrund; im Kopf Gekritzel, dazu Text: DIENSTAG Anthropic, Überwachungssoftware, Biometriedaten, Cybercrime & Autonomes Fahren"
-    },
-    {
-      "title": "Streitpunkt KI-Synchronisationen: Mexiko als Vorreiter",
-      "teaser": "Bei Synchronisationen kommt verstärkt KI zum Einsatz und bedroht Kreative. Mexiko will als erstes Land der Welt die Stimme als künstlerisches Werkzeug schützen.",
-      "url": "https://www.heise.de/news/Streitpunkt-KI-Synchronisationen-Mexiko-als-Vorreiter-11186771.html"
-    },
-    {
-      "title": "Anthropic wirft chinesischen Unternehmen unlautere Praktiken vor",
-      "teaser": "Nach OpenAI beschuldigt nun auch Anthropic DeepSeek und andere chinesische Firmen, zur Verbesserung ihrer KI-Modelle „Destillation” einzusetzen.",
-      "url": "https://www.heise.de/news/Anthropic-wirft-chinesischen-Unternehmen-unlautere-Praktiken-vor-11186816.html",
-      "image_title": "Verschiedene Icons von Chatbot-Anwendungen auf einem iOS-Gerät"
-    },
-    {
-      "title": "„Red Card 2.0“: Großangelegte Razzia gegen Cyberkriminalität in Afrika",
-      "teaser": "Eine in vielen Ländern Afrikas durchgeführte Operation gegen Cybercrime-Netzwerke führt zu Hunderten Festnahmen und der Sicherstellung von Millionen US-Dollar.",
-      "url": "https://www.heise.de/news/Red-Card-2-0-Grossangelegte-Razzia-gegen-Cybercriminalitaet-in-Afrika-11186757.html",
-      "image_title": "Interpol-Logo"
-    },
-    {
-      "title": "Tesla darf Cybercabs drahtlos laden",
-      "teaser": "Tesla will einen Taxidienst aufbauen, der ohne jeglichen menschlichen Eingriff auskommt. Die US-Regulierungsbehörde FCC hat eine wichtige Genehmigung erteilt.",
-      "url": "https://www.heise.de/news/Tesla-darf-Cybercabs-drahtlos-laden-11186593.html",
-      "image_title": "Tesla Cybercab"
-    },
-    {
-      "title": "Überwachungssoftware: SPD will Palantir auf Bundesebene blockieren",
-      "teaser": "Nach monatelangem Druck der Zivilgesellschaft verspricht die SPD, sich gegen den bundesweiten Einsatz von Palantir starkzumachen.",
-      "url": "https://www.heise.de/news/Ueberwachungssoftware-SPD-will-Palantir-auf-Bundesebene-blockieren-11186673.html",
-      "image_title": "Auge"
-    },
-    {
-      "title": "US-Algorithmen als Grenzhüter: Automatisierte Urteile über EU-Reisende möglich",
-      "teaser": "Ein Entwurf zum Austausch von Biometriedaten mit den USA lässt zu, dass Software bald allein über die Einreise entscheidet – trotz massiver Datenschutzbedenken.",
-      "url": "https://www.heise.de/news/US-Algorithmen-als-Grenzhueter-Automatisierte-Urteile-ueber-EU-Reisende-moeglich-11186633.html",
-      "image_title": "Flughafen, Passkontrolle mit biomatrischen Merkmalen"
     },
     {
       "title": "Pi-hole: Update schließt Sicherheitslücken und liefert mehr Performance",
@@ -638,14 +639,15 @@
       "url": "https://www.heise.de/en/news/AI-inference-cast-in-silicon-Taalas-announces-HC1-chip-11185112.html"
     },
     {
-      "title": "Ionos Nextcloud Workspace: Microsoft-365-Alternative im Test",
-      "teaser": "Kann ein gehostetes Nextcloud eine Alternative zu Microsoft 365 sein? Der Webhoster Ionos hat ein Online-Office geschnürt, das dieses Versprechen einlösen soll.",
-      "url": "https://www.heise.de/tests/Ionos-Nextcloud-Workspace-Microsoft-365-Alternative-im-Test-11116815.html"
-    },
-    {
       "title": "Alles im Blick: Android-Smartphone Vivo X300 Pro mit Zeiss-Kamera im Test",
       "teaser": "Starker Prozessor, tolle Kamera und ungewöhnliches Zubehör – das X300 Pro von Vivo hakt viele Punkte im Pflichtenheft eines guten Smartphones ab.",
       "url": "https://www.heise.de/tests/Alles-im-Blick-Android-Smartphone-Vivo-X300-Pro-mit-Zeiss-Kamera-im-Test-11155219.html"
+    },
+    {
+      "title": "Nach Sonys TV-SparteChinesischer TV-Spezialist steigt bei Panasonic ein",
+      "teaser": "Sony hat es vorgemacht, nun holt sich Panasonic Unterstützung bei seinen Smart-TVs und AV-Produkten. Die kommt von Skyworth.",
+      "url": "https://www.heise.de/news/Weitere-Uebernahme-Chinesischer-TV-Spezialist-steigt-bei-Panasonic-ein-11186637.html",
+      "image_title": "Panasonic-Fernseher der 2026er-Produktlinie"
     },
     {
       "title": "KI-Müll flutet das Internet | c’t uplink",
@@ -735,6 +737,12 @@
       "image_title": "ADAC Sommerreifentest 2026"
     },
     {
+      "title": "Freigabe vom StaatTesla darf Cybercabs drahtlos laden",
+      "teaser": "Tesla will einen Taxidienst aufbauen, der ohne jeglichen menschlichen Eingriff auskommt. Die US-Regulierungsbehörde FCC hat eine wichtige Genehmigung erteilt.",
+      "url": "https://www.heise.de/news/Tesla-darf-Cybercabs-drahtlos-laden-11186593.html",
+      "image_title": "Tesla Cybercab"
+    },
+    {
       "title": "Elektrotransporter-EntwicklerRenault übernimmt Flexis",
       "teaser": "Renault übernimmt die Anteile von Volvo und CMA CGM an Flexis, einem Entwicklungsunternehmen für E-Transporter.",
       "url": "https://www.heise.de/news/Renault-uebernimmt-Elektrotransporter-Entwickler-Flexis-11186176.html",
@@ -747,28 +755,22 @@
       "image_title": "Skoda Enyaq"
     },
     {
-      "title": "Hommage an die legendäre 750 Super SportRetro-Bike Ducati Formula 73 vorgestellt",
-      "teaser": "Die Formula 73 ist eine Hommage an die legendäre Ducati 750 Super Sport von 1973, eine der wichtigsten Maschinen der heute genau 100-jährigen Markenhistorie.",
-      "url": "https://www.heise.de/news/Ducati-Formula-73-Hommage-an-die-legendaere-750-Super-Sport-11178740.html",
-      "image_title": "Ducati Formula 73"
+      "title": "ZDF unter Druck: Wie Arroganz und Intransparenz den ÖRR beschädigen",
+      "teaser": "Der Umgang des ZDF mit Kritik, Presseanfragen und Wahrheit ist ein Systemversagen des öffentlich-rechtlichen Rundfunks. Ein Kommentar.",
+      "url": "https://www.heise.de/-11185565",
+      "image_title": "ZDF-Mikrophon in einer kalten Luft"
     },
     {
-      "title": "Warum Indien seinen Nordosten unter die Erde verlegt",
-      "teaser": "Ein schmaler Landstreifen ist Indiens Schwachstelle. Jetzt setzt Neu-Delhi auf eine radikale Lösung – 20 Meter unter der Erde.",
-      "url": "https://www.heise.de/-11176665",
-      "image_title": "Landkarte Indien, Bangladesch, Nepal, Bhutan, China"
+      "title": "Integrationskurse gestrichen: Warum Hamburg den Bund attackiert",
+      "teaser": "Der Bund streicht Kurse für 130.000 Menschen – doch die Rechnung geht nicht auf. Drei Senatorinnen sprechen von Zynismus.",
+      "url": "https://www.heise.de/-11183666",
+      "image_title": "Euromünze mit Sprechblase hindert Puzzleteil am Einsetzen in ein in ein Puzzle in BRD-Farben"
     },
     {
-      "title": "Irans neue Luftabwehr: Warum ein US-Angriff heute ganz anders aussehen würde",
-      "teaser": "Nach dem 12-Tage-Krieg baut Teheran seine Luftabwehr radikal um – weg von großen Radaren, hin zu autonomen Launchern und Drohnen. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11186910",
-      "image_title": "KI-Illustration zeigt Flugzeuge und luftabwehrssysteme in einer Landschaft"
-    },
-    {
-      "title": "Klimawandel macht Landwirtschaft zum Glücksspiel",
-      "teaser": "Bis zu 50 Prozent der weltweiten Weideflächen könnten verschwinden – und Afrika trifft es besonders hart. 1,6 Milliarden Tiere betroffen.",
-      "url": "https://www.heise.de/-11182279",
-      "image_title": "Rind, Schaf und Ziege auf grünem Streifen über Weltkarte"
+      "title": "Multipolarität: Hoffnung oder Illusion?",
+      "teaser": "Der Westen bekommt global Konkurrenz. Das eröffnet Chancen für Entwicklungsländer, verschärft aber auch die Kriegsgefahr. Gibt es eine Alternative?",
+      "url": "https://www.heise.de/-11175842",
+      "image_title": "Mehrere Fäuste in Länderflaggen vor einer Weltkarte"
     },
     {
       "title": "Warum ich 100 Mail-Adressen habe – und dir das auch empfehle",
