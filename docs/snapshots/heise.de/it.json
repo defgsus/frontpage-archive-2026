@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T09:39:38",
+  "timestamp": "2026-02-24T10:36:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,13 +26,50 @@
   ],
   "articles": [
     {
-      "title": "AI.duino: Wie die integrierte KI für Arduino funktioniert",
-      "teaser": "Eine KI kann schon sehr hilfreich sein. Der Umweg über den Browser schreckt aber viele Einsteiger ab. AI.duino soll hier Abhilfe schaffen.",
-      "url": "https://www.heise.de/ratgeber/AI-duino-Wie-die-integrierte-KI-fuer-Arduino-funktioniert-11149113.html",
+      "title": "Microsoft beendet Unterstützung für Windows-Versionen aus 2016",
+      "teaser": "Windows-Versionen aus 2016 erhalten in Kürze keinen Support mehr. Erweiterte Sicherheits-Updates (ESU) sind jedoch in Planung.",
+      "url": "https://www.heise.de/news/Microsoft-beendet-Unterstuetzung-fuer-Windows-Versionen-aus-2016-11187147.html",
+      "image_title": "Windows-10-Desktophintergrund auf Notebook"
+    },
+    {
+      "title": "Ladybird-Browser integriert Rust mit Hilfe von KI",
+      "teaser": "Das unabhängige Browser-Projekt Ladybird hat seine JavaScript-Engine LibJS von C++ nach Rust portiert. KI-Werkzeuge beschleunigten die Übersetzung erheblich.",
+      "url": "https://www.heise.de/news/Ladybird-Browser-integriert-Rust-mit-Hilfe-von-KI-11187029.html",
+      "image_title": "Globus mit Netzwerkverbindungen, gelber Hintergrund"
+    },
+    {
+      "title": "Dank Foxconn: Mac mini künftig (auch) „made in Texas“",
+      "teaser": "Nach Druck durch die Trump-Regierung, mehr Apple-Produkte in der Heimat herstellen zu lassen, kommt nun auch der Mac mini in die USA. Das erledigt Foxconn.",
+      "url": "https://www.heise.de/news/Dank-Foxconn-Mac-mini-kuenftig-auch-made-in-Texas-11187081.html",
+      "image_title": "Mac mini M4 mit Zubehör"
+    },
+    {
+      "title": "Fahrzeugdaten in Home Assistant darstellen per OBD2-Dongle",
+      "teaser": "Tankfüllstand, Drehzahl, Fahrtdaten: Mit einem OBD2-Dongle lassen sich umfangreiche Autodaten in Home Assistant anzeigen.",
+      "url": "https://www.heise.de/ratgeber/Fahrzeugdaten-in-Home-Assistant-darstellen-per-OBD2-Dongle-11149741.html"
+    },
+    {
+      "title": "RatgeberFahrzeugdaten in Home Assistant darstellen per OBD2-Dongle",
+      "url": "https://www.heise.de/ratgeber/Fahrzeugdaten-in-Home-Assistant-darstellen-per-OBD2-Dongle-11149741.html"
+    },
+    {
+      "title": "RatgeberSecurity Operations mit n8n automatisieren",
+      "url": "https://www.heise.de/ratgeber/Security-Operations-mit-n8n-automatisieren-11167335.html",
       "image_title": ","
     },
     {
-      "title": "ModConf 2026: Das Programm der Medizintechnik-Konferenz steht",
+      "title": "TestsKurztests: Loop-Tracker, iPad-Magnetlader, TechWoven-Case, „Wo ist?”-Klingel",
+      "url": "https://www.heise.de/tests/Kurztests-Loop-Tracker-iPad-Magnetlader-TechWoven-Case-Wo-ist-Klingel-11162408.html",
+      "image_title": "Apple-Peripherie im Kurztest"
+    },
+    {
+      "title": "Alert40 Sicherheitslücken in ImageMagick geschlossen",
+      "teaser": "Die Bildbearbeitungssoftware ImageMagick ist an mehreren Stellen verwundbar. Sicherheitspatches stehen zur Installation bereit.",
+      "url": "https://www.heise.de/news/40-Sicherheitsluecken-in-ImageMagick-geschlossen-11186935.html",
+      "image_title": "Ein Finger drückt einen symbolischen Updateknopf."
+    },
+    {
+      "title": "MedConf 2026: Das Programm der Medizintechnik-Konferenz steht",
       "teaser": "Die MedConf by heise ist die wichtigste deutschsprachige Konferenz zur Entwicklung von Medizintechnik. Der Branchentreff findet im Mai in München statt.",
       "url": "https://www.heise.de/news/ModConf-2026-Das-Programm-der-Medizintechnik-Konferenz-steht-11182349.html"
     },
@@ -47,20 +84,6 @@
       "teaser": "Sprachbegabte Beos stammen ursprünglich aus Asien. In einer Plattdeutsch-App hilft ein Beo aber nun auch beim Erlernen des Niederdeutschen.",
       "url": "https://www.heise.de/news/Kiek-mol-Plattdeutsch-mit-Sprachlern-App-Platt-mit-Beo-lernen-11187009.html",
       "image_title": "Screenshot aus der App Platt mit Beo, Startbildschirm"
-    },
-    {
-      "title": "RatgeberSecurity Operations mit n8n automatisieren",
-      "url": "https://www.heise.de/ratgeber/Security-Operations-mit-n8n-automatisieren-11167335.html",
-      "image_title": ","
-    },
-    {
-      "title": "TestsKurztests: Loop-Tracker, iPad-Magnetlader, TechWoven-Case, „Wo ist?”-Klingel",
-      "url": "https://www.heise.de/tests/Kurztests-Loop-Tracker-iPad-Magnetlader-TechWoven-Case-Wo-ist-Klingel-11162408.html",
-      "image_title": "Apple-Peripherie im Kurztest"
-    },
-    {
-      "title": "TestsIonos Nextcloud Workspace: Microsoft-365-Alternative im Test",
-      "url": "https://www.heise.de/tests/Ionos-Nextcloud-Workspace-Microsoft-365-Alternative-im-Test-11116815.html"
     },
     {
       "title": "Movie2k.to: Milliarden aus Bitcoins – Prozess um Streamingportal startet",
@@ -104,6 +127,11 @@
       "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
+      "title": "Ionos Nextcloud Workspace: Microsoft-365-Alternative im Test",
+      "teaser": "Kann ein gehostetes Nextcloud eine Alternative zu Microsoft 365 sein? Der Webhoster Ionos hat ein Online-Office geschnürt, das dieses Versprechen einlösen soll.",
+      "url": "https://www.heise.de/tests/Ionos-Nextcloud-Workspace-Microsoft-365-Alternative-im-Test-11116815.html"
+    },
+    {
       "title": "Claude Code für Modernisierung von COBOL-Systemen: Schwarzer Tag für IBM-Aktie",
       "teaser": "Nachdem Anthropic ein Werkzeug für die Automatisierung der zeitaufwendigen COBOL-Modernisierung vorgestellt hat, ist die IBM-Aktie über 13 Prozent abgestürzt.",
       "url": "https://www.heise.de/news/KI-soll-bei-Modernisierung-von-COBOL-Systemen-helfen-IBM-Aktie-stuerzt-ab-11186838.html",
@@ -119,35 +147,6 @@
       "teaser": "Nach OpenAI beschuldigt nun auch Anthropic DeepSeek und andere chinesische Firmen, zur Verbesserung ihrer KI-Modelle „Destillation” einzusetzen.",
       "url": "https://www.heise.de/news/Anthropic-wirft-chinesischen-Unternehmen-unlautere-Praktiken-vor-11186816.html",
       "image_title": "Verschiedene Icons von Chatbot-Anwendungen auf einem iOS-Gerät"
-    },
-    {
-      "title": "Weitere Übernahme: Chinesischer TV-Spezialist steigt bei Panasonic ein",
-      "teaser": "Sony hat es vorgemacht, nun braucht auch Panasonic Unterstützung bei seinen Smart-TVs und AV-Produkten. Die bekommt es von Skyworth Display Technology Co Ltd.",
-      "url": "https://www.heise.de/news/Weitere-Uebernahme-Chinesischer-TV-Spezialist-steigt-bei-Panasonic-ein-11186637.html",
-      "image_title": "Panasonic-Fernseher der 2026er-Produktlinie"
-    },
-    {
-      "title": "Heizkörperventilator Ecocalm im Test: Bläst warme Luft nach oben oder vorn",
-      "teaser": "Der Ecocalm Heizkörperventilator kostet nur 35 bis 50 Euro und verspricht schnellere Wärmeverteilung – auch vertikal.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/heizkoerperventilator-ecocalm-im-test-blaest-warme-luft-nach-oben-oder-vorn/t6830l9?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Autonomes Fahren: BMW streicht Level 3 aus 7er-Reihe",
-      "teaser": "BMW wird automatisiertes Fahren nach Level 3 beim Facelift der 7er-Reihe nicht mehr anbieten. Damit folgen die Bayern Mercedes.",
-      "url": "https://www.heise.de/news/Autonomes-Fahren-BMW-streicht-Level-3-aus-7er-Reihe-11186428.html",
-      "image_title": "Fahrer sitzt ohne Hände am Steuer im 7er BMW"
-    },
-    {
-      "title": "GeForce RTX 5090 Ti oder Titan Blackwell soll im Sommer erscheinen",
-      "teaser": "Nvidia denkt offenbar über ein neues Grafikkarten-Topmodell nach. Mehrleistung soll vor allem über eine hohe Leistungsaufnahme entstehen.",
-      "url": "https://www.heise.de/news/GeForce-RTX-5090-Ti-oder-Titan-Blackwell-soll-im-Sommer-erscheinen-11186442.html",
-      "image_title": "GeForce RTX 5090 vor schwarz-grünem Hintergrund"
-    },
-    {
-      "title": "Mit ChatGPT erstellte Passwörter sind nicht sicher",
-      "teaser": "Wer KI-Chatbots auffordert, starke Passwörter zu erstellen, erhält zwar sicher erscheinende Ergebnisse, jedoch sind die Passwörter leicht zu knacken.",
-      "url": "https://www.heise.de/news/Mit-ChatGPT-erstellte-Passwoerter-sind-nicht-sicher-11185918.html",
-      "image_title": "Verschiedene Icons zum Thema Datenschutz. In der Mitte ein Sicherheitsschloss, links daneben ein digitaler Personalausweis, rechts daneben ein Fingerabdruck. Dahinter steht eine Person, die beide Hände geöffnet hat, sodass es scheint, als ob die Sicherheitssymbole darüber schweben."
     },
     {
       "title": "NewsRussische Truppen geortet: Ukrainische Hacker nutzten angeblich Starlink-Sperre",
