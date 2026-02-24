@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T19:42:00",
+  "timestamp": "2026-02-24T20:22:02",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "DJI klagt gegen das US-Importverbot für seine neuen Modelle",
+      "url": "https://www.heise.de/news/DJI-klagt-gegen-das-US-Importverbot-fuer-seine-neuen-Modelle-11188343.html"
+    },
     {
       "title": "Top 10: Die beste Smartwatch für Damen im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-fuer-damen-im-test-apple-garmin-samsung-und-co/776dwe5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
     {
       "title": "Nubert Nupro AS-2500 im Test: Soundbar mit Fokus auf klaren Sound und TV",
       "url": "https://www.heise.de/bestenlisten/testbericht/nubert-nupro-as-2500-im-test-soundbar-mit-fokus-auf-klaren-sound-und-tv/brwl2te?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Apples Zulieferer: So verhindert der Konzern Software-Leaks",
-      "url": "https://www.heise.de/news/Apples-Zulieferer-So-verhindert-der-Konzern-Software-Leaks-11187828.html"
     },
     {
       "title": "Nervöse BörsenGedankenexperiment über KI lässt Techaktien sacken",
@@ -188,20 +188,26 @@
       "image_title": "Laden Tante Zukunft"
     },
     {
+      "title": "DJI klagt gegen das US-Importverbot für seine neuen Modelle",
+      "teaser": "Der chinesische Drohnenhersteller DJI wirft der FCC Überschreitung ihrer Befugnisse vor und bemängelt „schweren Schaden“ durch das verhängte US-Einfuhrverbot.",
+      "url": "https://www.heise.de/news/DJI-klagt-gegen-das-US-Importverbot-fuer-seine-neuen-Modelle-11188343.html",
+      "image_title": "Mehrere ausgestellte Drohnen vor DJI-Logo"
+    },
+    {
       "title": "Top 10: Die beste Smartwatch für Damen im Test",
       "teaser": "Viele Hersteller bieten Smartwatches speziell für Frauen – mit eigenem Design, angepasster Technik. Wir zeigen die Besten.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-fuer-damen-im-test-apple-garmin-samsung-und-co/776dwe5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Als WiFi-Dienstleister zur eigenen Marke werden",
+      "teaser": "Wer im WiFi-Bereich Drittprodukte vertreibt, macht sich vergleichbar und steht ständig im Preiskampf. Ein eigenes Branding kann dagegen die Kundenloyalität stärken und für bessere Margen sorgen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7214705506&iu=%2F6514%2FClicktracking%2Ftextlink"
     },
     {
       "title": "EU streicht Lieferkettengesetz massiv zusammen",
       "teaser": "Mit dem „Omnibus I“-Paket der EU-Rat final die bürokratischen Hürden und schont den Mittelstand durch höhere Schwellenwerte und weniger Berichtspflichten.",
       "url": "https://www.heise.de/news/Kurskorrektur-in-Bruessel-EU-stutzt-Lieferkettengesetz-massiv-11188313.html",
       "image_title": "Glasfasse des Paul-Henri-Spaak-Gebäudes des Europäischen Parlamentsgebäudes in Brüssel mit 5 konzentrischen Ringen und dem Bild einer EU-Flagge"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Meta investiert Milliarden in AMD-GPUs mit Option auf Firmenanteile",
@@ -232,12 +238,6 @@
       "teaser": "Mit Version 148 erweitert Mozilla seinen Browser um eine zentrale Verwaltung für KI-Features und neue Sicherheits-APIs für Webentwickler.",
       "url": "https://www.heise.de/news/Firefox-148-bringt-zentrale-KI-Kontrolle-und-neue-Web-Standards-11188046.html",
       "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
-    },
-    {
-      "title": "swiftDialog 3.0: Moderne Benachrichtigungen für macOS-Admins",
-      "teaser": "Das freie Tool swiftDialog erreicht Version 3.0 und bringt einen Inspect-Modus zur Dateisystemüberwachung. Ältere macOS-Versionen werden nicht mehr unterstützt.",
-      "url": "https://www.heise.de/news/swiftDialog-3-0-Moderne-Benachrichtigungen-fuer-macOS-Admins-11187734.html",
-      "image_title": "Screenshot von swiftDialog 3.0"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -330,6 +330,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "swiftDialog 3.0: Moderne Benachrichtigungen für macOS-Admins",
+      "teaser": "Das freie Tool swiftDialog erreicht Version 3.0 und bringt einen Inspect-Modus zur Dateisystemüberwachung. Ältere macOS-Versionen werden nicht mehr unterstützt.",
+      "url": "https://www.heise.de/news/swiftDialog-3-0-Moderne-Benachrichtigungen-fuer-macOS-Admins-11187734.html",
+      "image_title": "Screenshot von swiftDialog 3.0"
+    },
+    {
       "title": "Nubert Nupro AS-2500 im Test: Soundbar mit Fokus auf klaren Sound und TV",
       "teaser": "Die AS-2500 von Nubert ist flach und liefert saubere Stereo-Abstimmung für TV und Musik. Was sie sonst noch kann, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/nubert-nupro-as-2500-im-test-soundbar-mit-fokus-auf-klaren-sound-und-tv/brwl2te?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -400,15 +406,15 @@
       "image_title": "Soundsource 6 auf dem Mac"
     },
     {
+      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
+      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
+    },
+    {
       "title": "Elecrow ThinkNode M6: Solarbetriebener Meshtastic-Knoten für Außeneinsatz",
       "teaser": "Der ThinkNode M6 soll als wetterfester Meshtastic-Knoten das LoRa-Mesh-Netz erweitern. In einem Kurztest haben wir Licht und Schatten gefunden.",
       "url": "https://www.heise.de/news/Elecrow-ThinkNode-M6-Solarbetriebener-Meshtastic-Knoten-fuer-Ausseneinsatz-11187337.html",
       "image_title": "Thinknode M6 Ansichten"
-    },
-    {
-      "title": "Von Training bis Inferenz: Hardware-Empfehlungen für KI-Workflows",
-      "teaser": "Die Entwicklung und Nutzung von KI-Modellen lässt sich mehrere Phasen unterteilen. Lesen Sie, wie sich die jeweiligen Anforderungen unterscheiden und welche Auswirkungen das auf die Wahl der Hardware hat.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/von-training-bis-inferenz-hardware-empfehlungen-fuer-ki-workflows/?source=hbsadersatz"
     },
     {
       "title": "Product Owner Days 2026: Drei Workshops und mehr als 20 Talks in Köln",
@@ -462,12 +468,6 @@
       "teaser": "Das unabhängige Browser-Projekt Ladybird hat seine JavaScript-Engine LibJS von C++ nach Rust portiert. KI-Werkzeuge beschleunigten die Übersetzung erheblich.",
       "url": "https://www.heise.de/news/Ladybird-Browser-integriert-Rust-mit-Hilfe-von-KI-11187029.html",
       "image_title": "Globus mit Netzwerkverbindungen, gelber Hintergrund"
-    },
-    {
-      "title": "UpdateDank Foxconn: Mac mini künftig (auch) „made in Texas“",
-      "teaser": "Nach Druck durch die Trump-Regierung, mehr Apple-Produkte in der Heimat herstellen zu lassen, kommt nun auch der Mac mini in die USA. Das erledigt Foxconn.",
-      "url": "https://www.heise.de/news/Dank-Foxconn-Mac-mini-kuenftig-auch-made-in-Texas-11187081.html",
-      "image_title": "Mac mini M4 mit Zubehör"
     },
     {
       "title": "Pi-hole: Update schließt Sicherheitslücken und liefert mehr Performance",
@@ -636,30 +636,25 @@
       "url": "https://www.heise.de/en/news/AI-inference-cast-in-silicon-Taalas-announces-HC1-chip-11185112.html"
     },
     {
-      "title": "Hirnstimulations-Headset gegen Depressionen in den USA auf Rezept",
-      "teaser": "Ein Headset stimuliert den präfrontalen Kortex mit Gleichstrom als Alternative zu Antidepressiva. In den USA ist die Technik nun rezeptpflichtig zugelassen.",
-      "url": "https://www.heise.de/hintergrund/Hirnstimulations-Headset-gegen-Depressionen-in-den-USA-auf-Rezept-11169304.html"
-    },
-    {
       "title": "Ionos Nextcloud Workspace: Microsoft-365-Alternative im Test",
       "teaser": "Kann ein gehostetes Nextcloud eine Alternative zu Microsoft 365 sein? Der Webhoster Ionos hat ein Online-Office geschnürt, das dieses Versprechen einlösen soll.",
       "url": "https://www.heise.de/tests/Ionos-Nextcloud-Workspace-Microsoft-365-Alternative-im-Test-11116815.html"
     },
     {
-      "title": "KI-Müll flutet das Internet | c’t uplink",
-      "teaser": "Man kann KI-generierten Inhalten kaum ausweichen. Wir sprechen darüber, wie man sie eindämmen könnte und warum der KI-Müll nervt und manchmal gefährlich ist.",
-      "url": "https://www.heise.de/news/KI-Muell-flutet-das-Internet-c-t-uplink-11183867.html"
+      "title": "Nach Sonys TV-SparteChinesischer TV-Spezialist steigt bei Panasonic ein",
+      "teaser": "Sony hat es vorgemacht, nun holt sich Panasonic Unterstützung bei seinen Smart-TVs und AV-Produkten. Die kommt von Skyworth.",
+      "url": "https://www.heise.de/news/Weitere-Uebernahme-Chinesischer-TV-Spezialist-steigt-bei-Panasonic-ein-11186637.html",
+      "image_title": "Panasonic-Fernseher der 2026er-Produktlinie"
+    },
+    {
+      "title": "Alles im Blick: Android-Smartphone Vivo X300 Pro mit Zeiss-Kamera im Test",
+      "teaser": "Starker Prozessor, tolle Kamera und ungewöhnliches Zubehör – das X300 Pro von Vivo hakt viele Punkte im Pflichtenheft eines guten Smartphones ab.",
+      "url": "https://www.heise.de/tests/Alles-im-Blick-Android-Smartphone-Vivo-X300-Pro-mit-Zeiss-Kamera-im-Test-11155219.html"
     },
     {
       "title": "USB-CWarum Sie immer das falsche Kabel anschließen",
       "teaser": "Das richtige Kabel für USB-C-Verbindungen zu finden, ist ein Glücksspiel. Was tun?",
       "url": "https://www.heise.de/hintergrund/USB-C-Warum-Sie-eigentlich-immer-das-falsche-Kabel-anschliessen-11162436.html"
-    },
-    {
-      "title": "Apples BildbearbeitungPixelmator Pro im Test",
-      "teaser": "Die beliebte Bildbearbeitung für Macs kommt erstmals auch aufs iPad. Version 4 bringt ein paar neue Features, aber es gibt sie nur noch im Abo.",
-      "url": "https://www.heise.de/tests/Pixelmator-Pro-Neue-Version-fuer-Apple-Creator-Studio-im-Test-11183248.html",
-      "image_title": ", Apple Creator Studio / KI / heise medien"
     },
     {
       "title": "Das kann Apples MusikproduktionLogic Pro & MainStage im Test",
@@ -668,10 +663,9 @@
       "image_title": "Icons von Logic Pro und MainStage"
     },
     {
-      "title": "AI.duino: Wie die integrierte KI für Arduino funktioniert",
-      "teaser": "Eine KI kann schon sehr hilfreich sein. Der Umweg über den Browser schreckt aber viele Einsteiger ab. AI.duino soll hier Abhilfe schaffen.",
-      "url": "https://www.heise.de/ratgeber/AI-duino-Wie-die-integrierte-KI-fuer-Arduino-funktioniert-11149113.html",
-      "image_title": ","
+      "title": "Smartphone‑Teleaufsätze im Praxistest: Was die Technik kann – und was nicht",
+      "teaser": "Mehr Brennweite per Aufsatz klingt großartig. Doch was bleibt übrig, wenn Optik, Software und Physik aufeinandertreffen? Unser Test von Oppo und Vivo zeigt’s.",
+      "url": "https://www.heise.de/tests/Smartphone-Teleaufsaetze-im-Praxistest-Was-die-Technik-kann-und-was-nicht-11149747.html"
     },
     {
       "title": "Maker mobilisieren in den USA3D-gedruckte Pfeifen gegen ICE",
@@ -684,6 +678,11 @@
       "teaser": "Der Dual-Core-RISC-V-SoC mit 400 MHz und 32 MB PSRAM bringt Multimedia-Funktionen ins Mikrocontroller-Umfeld.",
       "url": "https://www.heise.de/news/Open-Source-Hardware-mit-HDMI-ESP32-P4-PC-angekuendigt-11181268.html",
       "image_title": "Rotes Entwicklungsboard „ESP32-P4-PC“ von Olimex in Schrägansicht, mit deutlich sichtbaren USB‑Buchsen, Ethernet‑Port, HDMI‑Anschluss, Micro‑SD‑Slot und weiteren Steckleisten sowie SMD‑Bauteilen auf der Oberseite, vor neutral grauem Hintergrund."
+    },
+    {
+      "title": "Für Bambulab Drucker: Studio Version 2.5.0.66",
+      "teaser": "Auch in den kleinen Versionsschritten versteckt Bambulab gerne mal spannende und experimentelle Features ihres Slicers für die hauseigenen 3D-Drucker.",
+      "url": "https://www.heise.de/news/Fuer-Bambulab-Drucker-Studio-Version-2-5-0-66-11179515.html"
     },
     {
       "title": "Heisse Technik, coole Bilder: Die Foto-News der Woche 8/26",
@@ -751,22 +750,22 @@
       "image_title": "Tesla Cybercab"
     },
     {
-      "title": "Warum Indien seinen Nordosten unter die Erde verlegt",
-      "teaser": "Ein schmaler Landstreifen ist Indiens Schwachstelle. Jetzt setzt Neu-Delhi auf eine radikale Lösung – 20 Meter unter der Erde.",
-      "url": "https://www.heise.de/-11176665",
-      "image_title": "Landkarte Indien, Bangladesch, Nepal, Bhutan, China"
+      "title": "Baden-Württemberg: Wenn das industrielle Herz zu schlagen aufhört",
+      "teaser": "Der Automobilstandort verliert Tausende Jobs – doch was Familien im Alltag wirklich trifft, zeigt sich an ganz anderer Stelle.",
+      "url": "https://www.heise.de/-11187195",
+      "image_title": "Hauptsitz von Porsche in Stuttgart - Porsche ist ein deutscher Automobilhersteller, der sich auf Luxus-Sportwagen mit hoher Performance spezialisiert hat"
     },
     {
-      "title": "Ukraine-Krieg: Russlands Antwort auf das Starlink-Problem heißt Barrage-1",
-      "teaser": "Nach der Starlink-Abschaltung setzen russische Streitkräfte auf Stratosphärenballons – ohne Triebwerk, ohne Flügel, mit niedriger Latenz. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11185333",
-      "image_title": "Ballon über eine Front. Panzer, die beschossen werden."
+      "title": "Psychische Experimente an indigenen Kindern in Kanada aufgedeckt",
+      "teaser": "Psychische Experimente an indigenen Kindern in Kanada aufgedeckt. Studie von 1943 dokumentiert ESP-Tests in Internat. Ein Überblick.",
+      "url": "https://www.heise.de/-11177923",
+      "image_title": "Eine Schülergruppe vor einer Schule"
     },
     {
-      "title": "Scout AI zeigt: KI-Agenten führen jetzt eigenständig Militäreinsätze durch",
-      "teaser": "Das US-Startup nutzt große Sprachmodelle, um Fahrzeuge und Drohnen zu steuern – bis zur autonomen Zerstörung von Zielen.",
-      "url": "https://www.heise.de/-11188050",
-      "image_title": "Transporter wird von einer KI-gesteuerten Drohne autonom aufgespürt, angegriffen und zerstört."
+      "title": "Pyrimidon: Das Molekül, das Solarenergie über Jahre speichert",
+      "teaser": "Ein chemischer Trick macht möglich, was Solarthermieanlagen bisher nicht können: Wärme verlustfrei über Jahre konservieren.",
+      "url": "https://www.heise.de/-11186669",
+      "image_title": "Ultra-realistische Nahaufnahme der Sonne mit feurigen Sonneneruptionen, Prominenzen und leuchtender Korona"
     },
     {
       "title": "Hate Aid: Wie die NGO mit den Zensur-Vorwürfen der Trump-Regierung umgeht",
