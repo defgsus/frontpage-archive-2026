@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T12:35:30",
+  "timestamp": "2026-02-24T14:02:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Linux: Systemd-Services verstehen und so eigene Dienste steuern",
-      "teaser": "Auf modernen Linux-Systemen läuft ohne Systemd-Services nichts. Wir zeigen, wie Sie eigene Unit-Dateien erstellen und Systemd-Services optimal für sich nutzen.",
-      "url": "https://www.heise.de/ratgeber/Linux-Systemd-Services-verstehen-und-so-eigene-Dienste-steuern-11091823.html",
-      "image_title": "Comic-Zeichnung von einem Pinguin, der wie an einer Tafel steht, da ist aber ein Terminal was den Inhalt einer Systemd-Unit-Datei anzeigt."
+      "title": "Microsoft-Anleitung für Secure-Boot-Zertifikate von Windows Servern",
+      "teaser": "Microsofts Secure-Boot-Zertifikate laufen im Juni aus und müssen ersetzt werden. Microsoft gibt Server-Admins eine Handreichung.",
+      "url": "https://www.heise.de/news/Microsoft-Anleitung-fuer-Secure-Boot-Zertifikate-von-Windows-Servern-11187588.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
-      "title": "Linux-Distribution KaOS: Weg von KDE Plasma",
+      "title": "iX-Workshop: Aufgaben eines Informationssicherheitsbeauftragten",
+      "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
+      "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-11179416.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "EUV-Lithografie: ASML beschießt Zinntropfen künftig 300.000-mal pro Sekunde",
+      "teaser": "Belichtungssysteme von ASML sollen 2030 rund 50 Prozent mehr Wafer belichten können als bisher. Das erfordert komplexe Technik.",
+      "url": "https://www.heise.de/news/EUV-Lithografie-ASML-beschiesst-Zinntropfen-kuenftig-300-000-mal-pro-Sekunde-11187506.html",
+      "image_title": "Renderbild eines offenen Lithografie-Systems von ASML"
+    },
+    {
+      "title": "Linux-Distribution KaOS wirft KDE Plasma raus",
       "teaser": "Die Linux-Distribution KaOS hat bislang stets auf aktuelles KDE Plasma für den Desktop gesetzt. Das ändert sich nun.",
       "url": "https://www.heise.de/news/Linux-Distribution-KaOS-Weg-von-KDE-Plasma-11187397.html",
       "image_title": "Desktop von KaOS 2026.02 auf Notebook auf Tisch"
-    },
-    {
-      "title": "Deutsch-finnischer Quantencomputerhersteller IQM plant Börsengang",
-      "teaser": "IQM ist einer der erfolgreichsten europäischen Quantencomputerhersteller. Das Unternehmen will im Sommer in den USA an die Börse gehen.",
-      "url": "https://www.heise.de/news/Deutsch-finnischer-Quantencomputerhersteller-IQM-plant-Boersengang-11187470.html",
-      "image_title": "Quantencomputer von IQM"
-    },
-    {
-      "title": "Tesla verklagt kalifornische Behörde wegen Falschwerbe-Urteil zu FSD",
-      "teaser": "Tesla will ein Urteil kippen, das ihm Falschwerbung bei Autopilot und Full-Self-Driving vorwirft. Das Unternehmen hat das Marketing inzwischen geändert.",
-      "url": "https://www.heise.de/news/Tesla-verklagt-kalifornische-Behoerde-wegen-Falschwerbe-Urteil-zu-FSD-11187416.html",
-      "image_title": "Tesla-Logo im Gegenlicht"
     },
     {
       "title": "RatgeberFahrzeugdaten in Home Assistant darstellen per OBD2-Dongle",
@@ -62,6 +62,18 @@
       "title": "TestsKurztests: Loop-Tracker, iPad-Magnetlader, TechWoven-Case, „Wo ist?”-Klingel",
       "url": "https://www.heise.de/tests/Kurztests-Loop-Tracker-iPad-Magnetlader-TechWoven-Case-Wo-ist-Klingel-11162408.html",
       "image_title": "Apple-Peripherie im Kurztest"
+    },
+    {
+      "title": "Deutsch-finnischer Quantencomputerhersteller IQM plant Börsengang",
+      "teaser": "IQM ist einer der erfolgreichsten europäischen Quantencomputerhersteller. Das Unternehmen will im Sommer in den USA an die Börse gehen.",
+      "url": "https://www.heise.de/news/Deutsch-finnischer-Quantencomputerhersteller-IQM-plant-Boersengang-11187470.html",
+      "image_title": "Quantencomputer von IQM"
+    },
+    {
+      "title": "Tesla verklagt kalifornische Behörde wegen Falschwerbe-Urteil zu FSD",
+      "teaser": "Tesla will ein Urteil kippen, das ihm Falschwerbung bei Autopilot und Full-Self-Driving vorwirft. Das Unternehmen hat das Marketing inzwischen geändert.",
+      "url": "https://www.heise.de/news/Tesla-verklagt-kalifornische-Behoerde-wegen-Falschwerbe-Urteil-zu-FSD-11187416.html",
+      "image_title": "Tesla-Logo im Gegenlicht"
     },
     {
       "title": "macOS-Klangverwaltung: Soundsource 6 steuert App-Output",
@@ -139,17 +151,6 @@
       "teaser": "Aktuell macht eine Meldung die Runde: Microsoft Edge Secure Network ist gar kein VPN. Es macht jedoch das, was angekündigt war.",
       "url": "https://www.heise.de/news/Microsoft-Edge-Tumult-um-VPN-Funktion-11186880.html",
       "image_title": "Großes Edge-Logo auf Notebook-Display"
-    },
-    {
-      "title": "Urteil: Freunde-Finder-Funktion von Facebook rechtswidrig",
-      "teaser": "Facebook darf keine Daten von Nichtmitgliedern verarbeiten. Die Verbraucherzentrale sieht in der Gerichtsentscheidung ein wichtiges Signal.",
-      "url": "https://www.heise.de/news/Urteil-Freunde-Finder-Funktion-von-Facebook-rechtswidrig-11186874.html"
-    },
-    {
-      "title": "Software Testing: KI‑generierte Testfälle im regulierten Umfeld",
-      "teaser": "In dieser Episode sprechen Richard Seidl und Alexander Frenzel über KI-gestützte Testfallerzeugung im streng regulierten Umfeld.",
-      "url": "https://www.heise.de/blog/Software-Testing-KI-generierte-Testfaelle-im-regulierten-Umfeld-11185741.html",
-      "image_title": "Software Testing: KI‑generierte Testfälle im regulierten Umfeld"
     },
     {
       "title": "NewsRussische Truppen geortet: Ukrainische Hacker nutzten angeblich Starlink-Sperre",
