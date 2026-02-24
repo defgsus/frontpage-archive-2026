@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-24T17:48:48",
+  "timestamp": "2026-02-24T18:43:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "EU streicht Lieferkettengesetz massiv zusammen",
+      "url": "https://www.heise.de/news/Kurskorrektur-in-Bruessel-EU-stutzt-Lieferkettengesetz-massiv-11188313.html"
+    },
     {
       "title": "Meta investiert Milliarden in AMD-GPUs mit Option auf Firmenanteile",
       "url": "https://www.heise.de/news/Auf-OpenAI-folgt-Meta-AMD-verkauft-GPUs-fuer-Milliarden-von-US-Dollar-11188239.html"
@@ -62,12 +66,6 @@
     {
       "title": "Nervöse Börsen: Gedankenexperiment über KI lässt Techaktien sacken",
       "url": "https://www.heise.de/news/Nervoese-Boersen-Gedankenexperiment-ueber-KI-laesst-Techaktien-sacken-11187688.html"
-    },
-    {
-      "title": "Hirnstimulations-Headset gegen Depressionen in den USA auf Rezept",
-      "url": "https://www.heise.de/hintergrund/Hirnstimulations-Headset-gegen-Depressionen-in-den-USA-auf-Rezept-11169304.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
     },
     {
       "title": "Nervöse BörsenGedankenexperiment über KI lässt Techaktien sacken",
@@ -190,21 +188,27 @@
       "image_title": "Laden Tante Zukunft"
     },
     {
+      "title": "EU streicht Lieferkettengesetz massiv zusammen",
+      "teaser": "Mit dem „Omnibus I“-Paket der EU-Rat final die bürokratischen Hürden und schont den Mittelstand durch höhere Schwellenwerte und weniger Berichtspflichten.",
+      "url": "https://www.heise.de/news/Kurskorrektur-in-Bruessel-EU-stutzt-Lieferkettengesetz-massiv-11188313.html",
+      "image_title": "Glasfasse des Paul-Henri-Spaak-Gebäudes des Europäischen Parlamentsgebäudes in Brüssel mit 5 konzentrischen Ringen und dem Bild einer EU-Flagge"
+    },
+    {
       "title": "Meta investiert Milliarden in AMD-GPUs mit Option auf Firmenanteile",
       "teaser": "Meta sichert sich über Jahre hinweg mehrere Millionen KI-Beschleuniger von AMD. Der Deal ist beinahe eine 1:1-Kopie vom OpenAI-Abkommen.",
       "url": "https://www.heise.de/news/Auf-OpenAI-folgt-Meta-AMD-verkauft-GPUs-fuer-Milliarden-von-US-Dollar-11188239.html",
       "image_title": "Schriftzüge von AMD und Meta vor einem Server"
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "Microsofts Silica: Glas speichert Daten für 10.000 Jahre",
       "teaser": "Langlebige Glasspeicher könnten die Datenspeicherung revolutionieren. Die Herstellung sei nun günstiger und die Schreibgeschwindigkeit schneller als zuvor.",
       "url": "https://www.heise.de/hintergrund/Microsofts-Silica-Glas-speichert-Daten-fuer-10-000-Jahre-11180117.html",
       "image_title": "Silica von Microsoft Research"
-    },
-    {
-      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
-      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "Kunststoffe werden mithilfe von Sonnenlicht zu Essigsäure recycelt",
@@ -234,12 +238,6 @@
       "title": "Nubert Nupro AS-2500 im Test: Soundbar mit Fokus auf klaren Sound und TV",
       "teaser": "Die AS-2500 von Nubert ist flach und liefert saubere Stereo-Abstimmung für TV und Musik. Was sie sonst noch kann, zeigt der Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/nubert-nupro-as-2500-im-test-soundbar-mit-fokus-auf-klaren-sound-und-tv/brwl2te?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Apples Zulieferer: So verhindert der Konzern Software-Leaks",
-      "teaser": "Trotz Tausender Mitarbeiter bei Apples Zulieferern in China sickert selten Software nach außen. Ein umfassendes Sicherheitskonzept macht dies möglich.",
-      "url": "https://www.heise.de/news/Apples-Zulieferer-So-verhindert-der-Konzern-Software-Leaks-11187828.html",
-      "image_title": "Apple-Logo mit einem Schloss"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -332,6 +330,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Apples Zulieferer: So verhindert der Konzern Software-Leaks",
+      "teaser": "Trotz Tausender Mitarbeiter bei Apples Zulieferern in China sickert selten Software nach außen. Ein umfassendes Sicherheitskonzept macht dies möglich.",
+      "url": "https://www.heise.de/news/Apples-Zulieferer-So-verhindert-der-Konzern-Software-Leaks-11187828.html",
+      "image_title": "Apple-Logo mit einem Schloss"
+    },
+    {
       "title": "Hirnstimulations-Headset gegen Depressionen in den USA auf Rezept",
       "teaser": "Ein Headset stimuliert den präfrontalen Kortex mit Gleichstrom als Alternative zu Antidepressiva. In den USA ist die Technik nun rezeptpflichtig zugelassen.",
       "url": "https://www.heise.de/hintergrund/Hirnstimulations-Headset-gegen-Depressionen-in-den-USA-auf-Rezept-11169304.html"
@@ -403,15 +407,15 @@
       "image_title": "Product Owner Days 2026 in Köln"
     },
     {
+      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
+      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
+    },
+    {
       "title": "Präsentieren mit Keynote: So halten Sie eindrucksvolle Vorträge",
       "teaser": "Mit Apples kostenloser Keynote-App können Sie Präsentationen erstellen, die auf Ihr Publikum wirken – alleine oder im Team. Wir zeigen, wie das geht.",
       "url": "https://www.heise.de/ratgeber/Praesentieren-mit-Keynote-So-halten-Sie-eindrucksvolle-Vortraege-11177489.html",
       "image_title": ", Jacob Lund, stock.adobe.com"
-    },
-    {
-      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
-      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
     },
     {
       "title": "Bitkom: Jedes elfte Tech-Startup befürchtet Insolvenz",
@@ -465,12 +469,6 @@
       "teaser": "Die Bildbearbeitungssoftware ImageMagick ist an mehreren Stellen verwundbar. Sicherheitspatches stehen zur Installation bereit.",
       "url": "https://www.heise.de/news/40-Sicherheitsluecken-in-ImageMagick-geschlossen-11186935.html",
       "image_title": "Ein Finger drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "AI.duino: Wie die integrierte KI für Arduino funktioniert",
-      "teaser": "Eine KI kann schon sehr hilfreich sein. Der Umweg über den Browser schreckt aber viele Einsteiger ab. AI.duino soll hier Abhilfe schaffen.",
-      "url": "https://www.heise.de/ratgeber/AI-duino-Wie-die-integrierte-KI-fuer-Arduino-funktioniert-11149113.html",
-      "image_title": ","
     },
     {
       "title": "Pi-hole: Update schließt Sicherheitslücken und liefert mehr Performance",
@@ -639,15 +637,15 @@
       "url": "https://www.heise.de/en/news/AI-inference-cast-in-silicon-Taalas-announces-HC1-chip-11185112.html"
     },
     {
-      "title": "Ionos Nextcloud Workspace: Microsoft-365-Alternative im Test",
-      "teaser": "Kann ein gehostetes Nextcloud eine Alternative zu Microsoft 365 sein? Der Webhoster Ionos hat ein Online-Office geschnürt, das dieses Versprechen einlösen soll.",
-      "url": "https://www.heise.de/tests/Ionos-Nextcloud-Workspace-Microsoft-365-Alternative-im-Test-11116815.html"
-    },
-    {
       "title": "Nach Sonys TV-SparteChinesischer TV-Spezialist steigt bei Panasonic ein",
       "teaser": "Sony hat es vorgemacht, nun holt sich Panasonic Unterstützung bei seinen Smart-TVs und AV-Produkten. Die kommt von Skyworth.",
       "url": "https://www.heise.de/news/Weitere-Uebernahme-Chinesischer-TV-Spezialist-steigt-bei-Panasonic-ein-11186637.html",
       "image_title": "Panasonic-Fernseher der 2026er-Produktlinie"
+    },
+    {
+      "title": "Hirnstimulations-Headset gegen Depressionen in den USA auf Rezept",
+      "teaser": "Ein Headset stimuliert den präfrontalen Kortex mit Gleichstrom als Alternative zu Antidepressiva. In den USA ist die Technik nun rezeptpflichtig zugelassen.",
+      "url": "https://www.heise.de/hintergrund/Hirnstimulations-Headset-gegen-Depressionen-in-den-USA-auf-Rezept-11169304.html"
     },
     {
       "title": "KI-Müll flutet das Internet | c’t uplink",
@@ -755,22 +753,22 @@
       "image_title": "Tesla Cybercab"
     },
     {
-      "title": "EU-Strategie: Von der Wirtschafts- zur Rüstungsunion",
-      "teaser": "EU plant mit EDIS und EDIP Umbau zur Kriegswirtschaft. Milliarden fließen in Rüstung, zivile Produktion weicht. Doch wohin mit der Konsumgüterindustrie?",
-      "url": "https://www.heise.de/-11179559",
-      "image_title": "Ein Panzer auf der EU-Flagge"
+      "title": "Irans neue Luftabwehr: Warum ein US-Angriff heute ganz anders aussehen würde",
+      "teaser": "Nach dem 12-Tage-Krieg baut Teheran seine Luftabwehr radikal um – weg von großen Radaren, hin zu autonomen Launchern und Drohnen. Eine Einschätzung.",
+      "url": "https://www.heise.de/-11186910",
+      "image_title": "KI-Illustration zeigt Flugzeuge und luftabwehrssysteme in einer Landschaft"
     },
     {
-      "title": "Ukraine-Krieg: Russlands Antwort auf das Starlink-Problem heißt Barrage-1",
-      "teaser": "Nach der Starlink-Abschaltung setzen russische Streitkräfte auf Stratosphärenballons – ohne Triebwerk, ohne Flügel, mit niedriger Latenz. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11185333",
-      "image_title": "Ballon über eine Front. Panzer, die beschossen werden."
+      "title": "Rundfunkbeitrag: 28 Cent mehr – und trotzdem keine Einigung in Sicht?",
+      "teaser": "Die neue KEF-Empfehlung könnte den gesamten Streit um den Rundfunkbeitrag kippen – allerdings ganz anders, als ARD und ZDF es sich erhofft hatten.",
+      "url": "https://www.heise.de/-11187660",
+      "image_title": "Geldscheine und Münzen beim Briefkopf \"Rundfunkbeitrag\""
     },
     {
-      "title": "Die OAZ ist da – und der Westen dreht durch",
-      "teaser": "Die Kritik an der OAZ verrät mehr über die Kritiker als über die Zeitung. Es geht um Deutungshoheit, nicht um Inhalte. Ein Leitartikel.",
-      "url": "https://www.heise.de/-11186236",
-      "image_title": "Ausschnitt der ersten Ausgabe der Ostdeutschen Allgemeinen Zeitung."
+      "title": "Integrationskurse gestrichen: Warum Hamburg den Bund attackiert",
+      "teaser": "Der Bund streicht Kurse für 130.000 Menschen – doch die Rechnung geht nicht auf. Drei Senatorinnen sprechen von Zynismus.",
+      "url": "https://www.heise.de/-11183666",
+      "image_title": "Euromünze mit Sprechblase hindert Puzzleteil am Einsetzen in ein in ein Puzzle in BRD-Farben"
     },
     {
       "title": "Hate Aid: Wie die NGO mit den Zensur-Vorwürfen der Trump-Regierung umgeht",
