@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-25T22:19:34",
+  "timestamp": "2026-02-25T23:19:02",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Nvidia übertrumpft seinen Rekord noch mal um 20 Prozent",
+      "url": "https://www.heise.de/news/Nvidia-uebertrumpft-seinen-Rekord-noch-mal-um-20-Prozent-11190414.html"
+    },
     {
       "title": "Claude: KI-Chatbot für Cyberangriff auf mexikanische Regierung genutzt",
       "url": "https://www.heise.de/news/Claude-KI-Chatbot-fuer-Cyberangriff-auf-mexikanische-Regierung-genutzt-11190396.html"
@@ -60,10 +64,6 @@
     {
       "title": "Apple übernimmt Photonik-Startup invrs.io",
       "url": "https://www.heise.de/news/Apple-uebernimmt-Photonik-Startup-invrs-io-11189687.html"
-    },
-    {
-      "title": "Robotaxi-Unternehmen Wayve nimmt 1,2 Milliarden US-Dollar ein",
-      "url": "https://www.heise.de/news/Robotaxi-Unternehmen-Wayve-nimmt-1-2-Milliarden-US-Dollar-ein-11190202.html"
     },
     {
       "title": "Galaxy S26, S26+ und S26 UltraSamsungs neue Galaxy-Klasse: Software schlägt Hardware",
@@ -186,20 +186,26 @@
       "image_title": "Renderbild eines offenen Lithografie-Systems von ASML"
     },
     {
+      "title": "Nvidia übertrumpft seinen Rekord noch mal um 20 Prozent",
+      "teaser": "Die weltweiten Finanzmärkte atmen auf: Nvidia liefert ab. Der Quartalsumsatz steigt auf 68 Milliarden US-Dollar.",
+      "url": "https://www.heise.de/news/Nvidia-uebertrumpft-seinen-Rekord-noch-mal-um-20-Prozent-11190414.html",
+      "image_title": "Nvidia-Chef Jensen Huang auf einer Bühne mit Serverboards in den Armen"
+    },
+    {
       "title": "Claude: KI-Chatbot für Cyberangriff auf mexikanische Regierung genutzt",
       "teaser": "Ein unbekannter Cyberkrimineller dringt mittels des KI-Chatbots von Anthropic in mexikanische Behördennetzwerke ein. Das folgt einem besorgniserregenden Trend.",
       "url": "https://www.heise.de/news/Claude-KI-Chatbot-fuer-Cyberangriff-auf-mexikanische-Regierung-genutzt-11190396.html"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Bericht: US-Regierung verstärkt Bekämpfung von Initiativen zur Datenhoheit",
       "teaser": "Washington wählt im Vorgehen gegen Datenschutzregulierungen anderer Länder einen konfrontativeren Ansatz. Der US-Außenminister versendet eine interne Depesche.",
       "url": "https://www.heise.de/news/Bericht-US-Regierung-verstaerkt-Bekaempfung-von-Initiativen-zur-Datenhoheit-11190346.html",
       "image_title": "Marco Rubio"
-    },
-    {
-      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
-      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "Top 10: Der beste Akku-Staubsauger – Testsieger Dyson vor Samsung & Xiaomi",
@@ -229,12 +235,6 @@
       "teaser": "Apple hat ein Start-up übernommen, das Werkzeuge für den Entwurf optischer Bauteile entwickelt. Das Wissen könnte in VR-Brillen und Smart Glasses fließen.",
       "url": "https://www.heise.de/news/Apple-uebernimmt-Photonik-Startup-invrs-io-11189687.html",
       "image_title": "Apple-Logo aus weißem Leuchtzeichen hinter Glasfassade eines Stores."
-    },
-    {
-      "title": "Robotaxi-Unternehmen Wayve nimmt 1,2 Milliarden US-Dollar ein",
-      "teaser": "Wayve hat über 1 Milliarde US-Dollar in einer Finanzierungsrunde bekommen. Damit will das Unternehmen den Start seiner Robotaxis in London finanzieren.",
-      "url": "https://www.heise.de/news/Robotaxi-Unternehmen-Wayve-nimmt-1-2-Milliarden-US-Dollar-ein-11190202.html",
-      "image_title": "Autonom fahrender Elektro-Mustang"
     },
     {
       "title": "Privates WissensarchivAnleitungen und Co. mit lokaler KI durchsuchen",
@@ -327,6 +327,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Robotaxi-Unternehmen Wayve nimmt 1,2 Milliarden US-Dollar ein",
+      "teaser": "Wayve hat über 1 Milliarde US-Dollar in einer Finanzierungsrunde bekommen. Damit will das Unternehmen den Start seiner Robotaxis in London finanzieren.",
+      "url": "https://www.heise.de/news/Robotaxi-Unternehmen-Wayve-nimmt-1-2-Milliarden-US-Dollar-ein-11190202.html",
+      "image_title": "Autonom fahrender Elektro-Mustang"
+    },
+    {
       "title": "Bist du über 18? Apple beginnt in ersten Ländern mit iPhone-Altersprüfung",
       "teaser": "In ersten Ländern blockiert Apple App-Downloads, wenn sich Nutzer nicht als über 18 ausweisen können. Geprüft wird das offensichtlich auf Systemebene.",
       "url": "https://www.heise.de/news/Bist-du-ueber-18-Apple-beginnt-in-ersten-Laendern-mit-iPhone-Alterspruefung-11190050.html",
@@ -397,15 +403,15 @@
       "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "Ray-Ban Meta: Preisfrage sorgt offenbar für Spannungen",
       "teaser": "Meta und Brillenpartner EssilorLuxottica sind Marktführer bei Smart Glasses. Hinter den Kulissen wird angeblich über den Preis der Produkte gerungen.",
       "url": "https://www.heise.de/news/Ray-Ban-Meta-Preisfrage-sorgt-offenbar-fuer-Spannungen-11189603.html",
       "image_title": "Ray-Ban Meta Smart Glasses im Store-Display mit Demo-Tablet, Produktinfos und Werbeslogan „Just ask your AI glasses“."
-    },
-    {
-      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
-      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
     },
     {
       "title": "Manager bei Rüstungskonzern: 87 Monate Gefängnis für den Verkauf von Zero-Days",
@@ -460,12 +466,6 @@
       "teaser": "Vier kritische Sicherheitslecks stopft Solarwinds mit dem aktuellen Serv-U-Update. Angreifer können betroffene Systeme kompromittieren.",
       "url": "https://www.heise.de/news/Solarwinds-Serv-U-Update-stopft-vier-kritische-Sicherheitsluecken-11189063.html",
       "image_title": "Finger tippt auf Update-Button"
-    },
-    {
-      "title": "Deutsches Drohnenabwehr-Start-up sammelt 30 Millionen Euro ein",
-      "teaser": "Tytan Technologies hat über 30 Millionen Euro an Kapital einsammeln können. Damit soll die Serienfertigung von Abfangdrohnen finanziert werden.",
-      "url": "https://www.heise.de/news/Deutsches-Drohnenabwehr-Start-up-sammelt-30-Millionen-Euro-ein-11189049.html",
-      "image_title": "Zwei Soldaten bei der Erprobung einer Drohne."
     },
     {
       "title": "Claude Code für Modernisierung von COBOL-Systemen: Schwarzer Tag für IBM-Aktie",
@@ -638,14 +638,15 @@
       "url": "https://www.heise.de/en/news/New-Studio-Displays-from-Apple-Same-design-better-internals-11186109.html"
     },
     {
-      "title": "Quantencomputer: RSA-2048 mit weniger Qubits knacken – aber warum?",
-      "teaser": "Quantencomputer könnten RSA-Verschlüsselung früher brechen als gedacht. Wie Quantencomputer das machen, erklärt das neue c't Sonderheft.",
-      "url": "https://www.heise.de/news/Quantencomputer-RSA-2048-womoeglich-frueher-in-Gefahr-als-gedacht-aber-warum-11186477.html"
-    },
-    {
       "title": "Ionos Nextcloud Workspace: Microsoft-365-Alternative im Test",
       "teaser": "Kann ein gehostetes Nextcloud eine Alternative zu Microsoft 365 sein? Der Webhoster Ionos hat ein Online-Office geschnürt, das dieses Versprechen einlösen soll.",
       "url": "https://www.heise.de/tests/Ionos-Nextcloud-Workspace-Microsoft-365-Alternative-im-Test-11116815.html"
+    },
+    {
+      "title": "Galaxy S26, S26+ und S26 UltraSamsungs neue Galaxy-Klasse: Software schlägt Hardware",
+      "teaser": "Mit der Galaxy-S26-Serie zeigt sich Samsung konservativ und ändert nur wenig. Das neue Privacy Display hat nur das S26 Ultra.",
+      "url": "https://www.heise.de/news/Samsung-Galaxy-S26-S26-und-S26-Ultra-Software-schlaegt-Hardware-11187914.html",
+      "image_title": "Samsung Galaxy S26 Ultra, S26+ und S26"
     },
     {
       "title": "Displays von 27 bis 40 Zoll bis 6K-Auflösung im Vergleich",
@@ -676,16 +677,16 @@
       "image_title": "Thinknode M6 Ansichten"
     },
     {
+      "title": "AI.duino: Wie die integrierte KI für Arduino funktioniert",
+      "teaser": "Eine KI kann schon sehr hilfreich sein. Der Umweg über den Browser schreckt aber viele Einsteiger ab. AI.duino soll hier Abhilfe schaffen.",
+      "url": "https://www.heise.de/ratgeber/AI-duino-Wie-die-integrierte-KI-fuer-Arduino-funktioniert-11149113.html",
+      "image_title": ","
+    },
+    {
       "title": "Maker mobilisieren in den USA3D-gedruckte Pfeifen gegen ICE",
       "teaser": "Mit 3D-Druckern, Meshnetzen und Hackerspaces unterstützt die Maker-Szene in den USA zivilen Widerstand gegen ICE-Razzien.",
       "url": "https://www.heise.de/news/3D-gedruckte-Pfeifen-gegen-ICE-Maker-mobilisieren-in-den-USA-11182503.html",
       "image_title": "ICE-Einsatzkräfte halten einen Protestanten am Boden fest (Broadview, Illinois, USA – 26.09.2025)"
-    },
-    {
-      "title": "Open-Source-Hardware mit HDMI: ESP32-P4-PC angekündigt",
-      "teaser": "Der Dual-Core-RISC-V-SoC mit 400 MHz und 32 MB PSRAM bringt Multimedia-Funktionen ins Mikrocontroller-Umfeld.",
-      "url": "https://www.heise.de/news/Open-Source-Hardware-mit-HDMI-ESP32-P4-PC-angekuendigt-11181268.html",
-      "image_title": "Rotes Entwicklungsboard „ESP32-P4-PC“ von Olimex in Schrägansicht, mit deutlich sichtbaren USB‑Buchsen, Ethernet‑Port, HDMI‑Anschluss, Micro‑SD‑Slot und weiteren Steckleisten sowie SMD‑Bauteilen auf der Oberseite, vor neutral grauem Hintergrund."
     },
     {
       "title": "Sony Alpha7 V im Test: Smarter Autofokus und starke Video-Features",
@@ -753,22 +754,22 @@
       "image_title": "Tesla-Logo im Gegenlicht"
     },
     {
-      "title": "Rundfunkbeitrag: 28 Cent mehr – und trotzdem keine Einigung in Sicht?",
-      "teaser": "Die neue KEF-Empfehlung könnte den gesamten Streit um den Rundfunkbeitrag kippen – allerdings ganz anders, als ARD und ZDF es sich erhofft hatten.",
-      "url": "https://www.heise.de/-11187660",
-      "image_title": "Geldscheine und Münzen beim Briefkopf \"Rundfunkbeitrag\""
+      "title": "Diplomatie unter Druck: Die Uhr tickt für den Iran",
+      "teaser": "Atomdeal oder Atomkrieg? In Genf verhandeln Washington und Teheran, während Drohgebärden eskalieren. Doch was, wenn die Diplomatie scheitert?",
+      "url": "https://www.heise.de/-11187049",
+      "image_title": "US-Soldaten auf dem Weg zu einem Sch"
     },
     {
-      "title": "Frist bis Freitag: Anthropic soll sich dem Militär beugen",
-      "teaser": "Das Pentagon droht mit Maßnahmen, die bisher nur gegen ausländische Firmen aus feindlichen Staaten eingesetzt wurden.",
-      "url": "https://www.heise.de/-11188371",
-      "image_title": "Anthropic: AI Sicherheitsfirma entwickelt Claude Sprachmodelle. Gegründet von ehemaligen OpenAI-Mitgliedern, die sich auf sichere KI-Systeme konzentrieren."
+      "title": "Mittelstand klagt an: Wenn Lobbyisten selbstgemachte Probleme ignorieren",
+      "teaser": "Statt Zukunftskonzepte entwickeln Firmen oft chaotische Strukturen – und schieben die Schuld auf Politik und Beschäftigte.",
+      "url": "https://www.heise.de/-11185960",
+      "image_title": "Manager mit dunkler Glühbirne als Kopf und Angestellter der Generator kurbelt"
     },
     {
-      "title": "Irans neue Luftabwehr: Warum ein US-Angriff heute ganz anders aussehen würde",
-      "teaser": "Nach dem 12-Tage-Krieg baut Teheran seine Luftabwehr radikal um – weg von großen Radaren, hin zu autonomen Launchern und Drohnen. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11186910",
-      "image_title": "KI-Illustration zeigt Flugzeuge und luftabwehrssysteme in einer Landschaft"
+      "title": "Huawei trotzt US-Sanktionen und überholt Apple in China",
+      "teaser": "Huawei steigert seinen Umsatz 2025 auf 127 Milliarden US-Dollar und erobert die Smartphone-Spitze in China zurück. Apple hat das Nachsehen.",
+      "url": "https://www.heise.de/-11190174",
+      "image_title": "Huawei-Logo und -Schriftzug auf einem Bürohaus."
     },
     {
       "title": "Hate Aid: Wie die NGO mit den Zensur-Vorwürfen der Trump-Regierung umgeht",
