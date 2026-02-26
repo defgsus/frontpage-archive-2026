@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-26T08:32:24",
+  "timestamp": "2026-02-26T09:36:20",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,50 @@
   ],
   "articles": [
     {
-      "title": "Microsoft Authenticator bekommt Jailbreak- und Root-Erkennung",
+      "title": "Smart Home auf Schwedisch im Test: Das leisten smarte Geräte von Ikea",
+      "teaser": "Ikea hat seine Smart-Home-Sparte neu aufgestellt. Neue Sensoren und Lampen arbeiten via Matter in Apple Home. Was taugen sie?",
+      "url": "https://www.heise.de/tests/Smart-Home-auf-Schwedisch-im-Test-Das-leisten-smarte-Geraete-von-Ikea-11187432.html",
+      "image_title": ", Apple / Ikea / heise medien"
+    },
+    {
+      "title": "iX-Workshop: Datenbankmigration in die Cloud – Strategien und Praxis",
+      "teaser": "Von On-Prem zu Cloud: Lernen Sie, Datenbanken strategisch zu planen, sauber zu migrieren und den Betrieb nachhaltig abzusichern.",
+      "url": "https://www.heise.de/news/iX-Workshop-Datenbankmigration-in-die-Cloud-Strategien-und-Praxis-11180875.html",
+      "image_title": "Datenbankmigration in die Cloud: Strategien entwerfen, Daten übertragen, Betrieb sichern"
+    },
+    {
+      "title": "Dumbphones chancenlos: KI-Funktionen treiben Smartphone-Nutzung voran",
+      "teaser": "Das Smartphone ist aus dem Alltag nicht mehr wegzudenken. Und auch die Nutzung von KI darauf spielt eine immer größere Rolle, wie eine Bitkom-Umfrage zeigt.",
+      "url": "https://www.heise.de/news/KI-im-Smartphone-Mehr-als-ein-Drittel-nutzt-KI-Funktionen-regelmaessig-11190618.html",
+      "image_title": "Gemini-App auf einem Smartphone."
+    },
+    {
+      "title": "Microsoft kündigt neues SharePoint mit KI an",
+      "teaser": "Microsoft arbeitet an einer grundlegend überarbeiteten SharePoint-Version. Die Preview startet im März 2026, der offizielle Start soll im April beginnen.",
+      "url": "https://www.heise.de/news/Microsoft-kuendigt-neues-SharePoint-mit-KI-an-11190544.html",
+      "image_title": "Finger zeigt auf Display mit Icon der Sharepoint-App."
+    },
+    {
+      "title": "RatgeberGut verbunden: FAQ zu Ikeas neuen Smart-Home-Geräten mit Thread und Matter",
+      "url": "https://www.heise.de/ratgeber/Gut-verbunden-FAQ-zu-Ikeas-neuen-Smart-Home-Geraeten-mit-Thread-und-Matter-11189805.html",
+      "image_title": "Andreas Wodrich / heise medien"
+    },
+    {
+      "title": "HintergrundLinux: Fehlende Bibliotheken bei Programmen ergänzen",
+      "url": "https://www.heise.de/hintergrund/Linux-Fehlende-Bibliotheken-bei-Programmen-ergaenzen-11166039.html"
+    },
+    {
+      "title": "RatgeberCustom-ROM GrapheneOS im Test: sicher, privat und trotzdem komfortabel",
+      "url": "https://www.heise.de/ratgeber/Custom-ROM-GrapheneOS-im-Test-sicher-privat-und-trotzdem-komfortabel-11149283.html"
+    },
+    {
+      "title": "Lieferketten-Wurm mit eigenem MCP-Server verbreitet sich über GitHub",
+      "teaser": "Im npm-Ökosystem kursiert eine neue Malware, die Anmeldedaten und CI-Secrets stiehlt und sich selbstständig weiterverbreitet.",
+      "url": "https://www.heise.de/news/Lieferketten-Wurm-mit-eigenem-MCP-Server-verbreitet-sich-ueber-GitHub-11190554.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
+      "title": "Microsoft Authenticator stellt Funktion bei erkanntem Jailbreak/Root-Zugriff ein",
       "teaser": "Microsoft kündigt an, dass die Authenticator-App Jailbreaks und Rootzugang erkennen soll. Entra-Zugänge sollen dann gelöscht werden.",
       "url": "https://www.heise.de/news/Microsoft-Authenticator-bekommt-Jailbreak-und-Root-Erkennung-11190598.html",
       "image_title": "Meldungen von erkannten Jailbreaks und root von Microsofts Authenticator"
@@ -46,19 +89,6 @@
       "title": "AlertAutomatisierungs-Tool n8n: Angreifer können Schadcode einschleusen",
       "teaser": "Im Automatisierungs-Tool n8n klaffen elf Sicherheitslücken. Davon gelten drei als kritisches Risiko. Admins sollten rasch aktualisieren.",
       "url": "https://www.heise.de/news/Automatisierungs-Tool-n8n-Updates-stopfen-Codeschmuggel-Lecks-11190464.html"
-    },
-    {
-      "title": "RatgeberGut verbunden: FAQ zu Ikeas neuen Smart-Home-Geräten mit Thread und Matter",
-      "url": "https://www.heise.de/ratgeber/Gut-verbunden-FAQ-zu-Ikeas-neuen-Smart-Home-Geraeten-mit-Thread-und-Matter-11189805.html",
-      "image_title": "Andreas Wodrich / heise medien"
-    },
-    {
-      "title": "HintergrundLinux: Fehlende Bibliotheken bei Programmen ergänzen",
-      "url": "https://www.heise.de/hintergrund/Linux-Fehlende-Bibliotheken-bei-Programmen-ergaenzen-11166039.html"
-    },
-    {
-      "title": "RatgeberCustom-ROM GrapheneOS im Test: sicher, privat und trotzdem komfortabel",
-      "url": "https://www.heise.de/ratgeber/Custom-ROM-GrapheneOS-im-Test-sicher-privat-und-trotzdem-komfortabel-11149283.html"
     },
     {
       "title": "Umfrage: Deutsche Ministerien sind digital unsouverän",
@@ -115,33 +145,6 @@
       "title": "Erinnerungsfotos in Videos verwandeln: Wenn KI die Vergangenheit zurückbringt",
       "teaser": "Mit lokaler KI erwachen alte Fotos zu neuem Leben. Das kostenlose Modell LTX-2 verwandelt Bilder im Handumdrehen in realistische, vertonte Videos.",
       "url": "https://www.heise.de/ratgeber/Erinnerungsfotos-in-Videos-verwandeln-Wenn-KI-die-Vergangenheit-zurueckbringt-10986603.html"
-    },
-    {
-      "title": "Verkaufsstopp bei Acer und Asus: Was es mit dem Patentstreit auf sich hat",
-      "teaser": "Aktuell dürfen Acer und Asus hierzulande keine Notebooks und Komplett-PCs verkaufen. Wie kam es dazu, und welche Auswirkungen hat das für Nutzer?",
-      "url": "https://www.heise.de/hintergrund/Verkaufsstopp-bei-Acer-und-Asus-Was-es-mit-dem-Patentstreit-auf-sich-hat-11186102.html"
-    },
-    {
-      "title": "Web-Tipp: PDF-Dokumente online schnell und einfach frisieren",
-      "teaser": "Unterschreiben, Seiten entfernen, schwärzen, Dateiformate ändern: Der Onlinedienst PDF24 erledigt vieles kostenlos, wofür Adobe, Foxit & Co. Geld verlangen.",
-      "url": "https://www.heise.de/hintergrund/Web-Tipp-PDF-Dokumente-online-schnell-und-einfach-frisieren-11149251.html"
-    },
-    {
-      "title": "Mova Z60 Ultra Roller SA im Test: Guter Saugroboter",
-      "teaser": "Der Z60 Ultra Roller SA sieht aus wie das Topmodell des Herstellers und hat viele Gemeinsamkeiten, ist aber günstiger.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mova-z60-ultra-roller-sa-im-test-guter-saugroboter-mit-station-und-wischwalze/fvnex2y?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "PocketBeagle 2 Industrial: Kompaktes Board für harte Industrieeinsätze",
-      "teaser": "Vier Cortex-A53-Kerne, PRUs und zusätzliche MCU: Der PocketBeagle 2 Industrial richtet sich an anspruchsvolle Echtzeit- und Industrieprojekte.",
-      "url": "https://www.heise.de/news/PocketBeagle-2-Industrial-Kompaktes-Board-fuer-harte-Industrieeinsaetze-11189659.html",
-      "image_title": "Nahaufnahme eines PocketBeagle 2 Industrial, eines kleinen roten Einplatinencomputers mit zwei Reihen schwarzer Stiftleistenbuchsen, einem weißen Anschluss für UART und klar erkennbaren Leiterbahnen und Bauteilen auf der Oberseite."
-    },
-    {
-      "title": "Der Fritz-Repeater 6700 Pro wird Fritz' schnellster Repeater",
-      "teaser": "Fritz nutzt die Mobilgeräte-Messe MWC zur Ankündigung eines neuen Routers und seines bislang schnellsten Repeaters.",
-      "url": "https://www.heise.de/news/Fritz-Repeater-6700-Pro-kommt-mit-Wi-Fi-7-Triband-11189737.html",
-      "image_title": "Fritz-Repeater 6700 Pro vor weißem Hintergrund"
     },
     {
       "title": "NewsRussische Truppen geortet: Ukrainische Hacker nutzten angeblich Starlink-Sperre",
