@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-26T12:35:30",
+  "timestamp": "2026-02-26T14:03:22",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,9 +26,41 @@
   ],
   "articles": [
     {
-      "title": "Suchmaschinenmarkt im Überblick: Viele Dienste, zwei echte Machtzentren",
-      "teaser": "Auch KI-Systeme sind ohne Websuche blind. Doch der Suchmarkt ist extrem konzentriert – mit Folgen für Wettbewerb und Souveränität.",
-      "url": "https://www.heise.de/hintergrund/Suchmaschinenmarkt-im-Ueberblick-Viele-Dienste-zwei-echte-Machtzentren-11106109.html"
+      "title": "Linux-Systemhärtung mit Lynis",
+      "teaser": "Systemhärtung und Auditierung sind Grundpfeiler einer sicheren Infrastruktur. Lynis sorgt dabei für die notwendige Softwareunterstützung.",
+      "url": "https://www.heise.de/hintergrund/Linux-Systemhaertung-mit-Lynis-11081185.html",
+      "image_title": ","
+    },
+    {
+      "title": "Wayland-Referenz-Compositor Weston 15 mit Lua-Shell und Vulkan-Renderer",
+      "teaser": "Der Wayland-Referenz-Compositor Weston ist in Version 15 erschienen. Sie bringt einen Vulkan-Renderer und eine Lua-Shell mit.",
+      "url": "https://www.heise.de/news/Wayland-Referenz-Compositor-Weston-15-mit-Lua-Shell-und-Vulkan-Renderer-11191304.html",
+      "image_title": "Wayland-Logo auf blauem Moasik-Hintergrund"
+    },
+    {
+      "title": "Smart-Home-Standard Aliro: Türschlösser mit jedem Smartphone öffnen",
+      "teaser": "Der neue Smart-Home-Standard Aliro vereinheitlicht das Öffnen vernetzter Türschlösser durch digitale Schlüssel in Wallet-Apps.",
+      "url": "https://www.heise.de/news/Aliro-oeffnet-Smart-Locks-mit-Smartphones-von-Apple-Google-und-Samsung-11190784.html",
+      "image_title": "Hand hält Handy an Türschloss"
+    },
+    {
+      "title": "iX-Workshop Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
+      "teaser": "Lernen Sie, wie Sie Honeypots in Netzwerken und Clouds einrichten, um Angreifer zu täuschen und Ihre IT effektiv zu schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cyber-Deception-Angreifer-mit-Honeypots-gezielt-in-die-Falle-locken-11187746.html",
+      "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
+    },
+    {
+      "title": "RatgeberAnytype statt Notion: Persönliches Wissen sicher speichern – auch ohne Cloud",
+      "url": "https://www.heise.de/ratgeber/Anytype-statt-Notion-Persoenliches-Wissen-sicher-speichern-auch-ohne-Cloud-11187514.html"
+    },
+    {
+      "title": "RatgeberGut verbunden: FAQ zu Ikeas neuen Smart-Home-Geräten mit Thread und Matter",
+      "url": "https://www.heise.de/ratgeber/Gut-verbunden-FAQ-zu-Ikeas-neuen-Smart-Home-Geraeten-mit-Thread-und-Matter-11189805.html",
+      "image_title": "Andreas Wodrich / heise medien"
+    },
+    {
+      "title": "HintergrundLinux: Fehlende Bibliotheken bei Programmen ergänzen",
+      "url": "https://www.heise.de/hintergrund/Linux-Fehlende-Bibliotheken-bei-Programmen-ergaenzen-11166039.html"
     },
     {
       "title": "Perplexity AI: Agentische KI in der Sandbox mit 19 Modellen",
@@ -47,19 +79,6 @@
       "teaser": "Im Kontext moderner Softwareentwicklung geht Eberhard Wolff der These von Peter Naurs nach, dass Programmieren das Entwickeln einer Theorie bedeutet.",
       "url": "https://www.heise.de/news/software-architektur-tv-Programmierung-als-Theoriebildung-11190754.html",
       "image_title": "Logo software-architektur.tv: Programmierung als Theoriebildung"
-    },
-    {
-      "title": "RatgeberAnytype statt Notion: Persönliches Wissen sicher speichern – auch ohne Cloud",
-      "url": "https://www.heise.de/ratgeber/Anytype-statt-Notion-Persoenliches-Wissen-sicher-speichern-auch-ohne-Cloud-11187514.html"
-    },
-    {
-      "title": "RatgeberGut verbunden: FAQ zu Ikeas neuen Smart-Home-Geräten mit Thread und Matter",
-      "url": "https://www.heise.de/ratgeber/Gut-verbunden-FAQ-zu-Ikeas-neuen-Smart-Home-Geraeten-mit-Thread-und-Matter-11189805.html",
-      "image_title": "Andreas Wodrich / heise medien"
-    },
-    {
-      "title": "HintergrundLinux: Fehlende Bibliotheken bei Programmen ergänzen",
-      "url": "https://www.heise.de/hintergrund/Linux-Fehlende-Bibliotheken-bei-Programmen-ergaenzen-11166039.html"
     },
     {
       "title": "Bundeswehr-Satellitensystem „Spock“: Kostenexplosion von fast 600 Millionen Euro",
@@ -131,22 +150,6 @@
       "title": "AlertCisco: Angreifer dringen seit drei Jahren über Sicherheitslücke in Netzwerke ein",
       "teaser": "Angreifer nutzen eine kritische Schwachstelle in Cisco Catalyst SD-WAN Controller aus. Cisco patcht noch weitere Produkte wie Nexus 9000.",
       "url": "https://www.heise.de/news/Cisco-Angreifer-dringen-seit-drei-Jahren-ueber-Sicherheitsluecke-in-Netzwerke-ein-11190480.html"
-    },
-    {
-      "title": "AlertAutomatisierungs-Tool n8n: Angreifer können Schadcode einschleusen",
-      "teaser": "Im Automatisierungs-Tool n8n klaffen elf Sicherheitslücken. Davon gelten drei als kritisches Risiko. Admins sollten rasch aktualisieren.",
-      "url": "https://www.heise.de/news/Automatisierungs-Tool-n8n-Updates-stopfen-Codeschmuggel-Lecks-11190464.html"
-    },
-    {
-      "title": "Umfrage: Deutsche Ministerien sind digital unsouverän",
-      "teaser": "Deutsche Ministerien nutzen vornehmlich US-amerikanische Software und Plattformen im Netz. Das ist das Ergebnis einer Befragung der Suchmaschine Ecosia.",
-      "url": "https://www.heise.de/news/Umfrage-Deutsche-Ministerien-sind-digital-umsouveraen-11189884.html",
-      "image_title": "Gebäude des Europäischen Parlaments in Brüssel mit Europaflaggen davor"
-    },
-    {
-      "title": "Custom-ROM GrapheneOS im Test: sicher, privat und trotzdem komfortabel",
-      "teaser": "GrapheneOS lässt sich auf Pixel-Smartphones besonders datensparsam betreiben. Auf Wunsch bietet es auch Google-Dienste, legt die aber an die kurze Leine.",
-      "url": "https://www.heise.de/ratgeber/Custom-ROM-GrapheneOS-im-Test-sicher-privat-und-trotzdem-komfortabel-11149283.html"
     },
     {
       "title": "NewsRussische Truppen geortet: Ukrainische Hacker nutzten angeblich Starlink-Sperre",
