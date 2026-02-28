@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-28T07:17:55",
+  "timestamp": "2026-02-28T08:15:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Schweiz: Die E-ID kommt später",
+      "url": "https://www.heise.de/news/Schweiz-Die-E-ID-kommt-spaeter-11193694.html"
+    },
     {
       "title": "Linien, Licht und leise Töne: Die Bilder der Woche 9",
       "url": "https://www.heise.de/news/Linien-Licht-und-leise-Toene-Die-Bilder-der-Woche-9-11193216.html"
@@ -64,10 +68,6 @@
       "url": "https://www.heise.de/hintergrund/ExfilState-Interview-mit-Fabian-Thomas-ueber-Seitenkanalangriffe-auf-ARM-Chips-11169928.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Nvidia-Konkurrenz: Google will sein TPU-Geschäft angeblich groß aufziehen",
-      "url": "https://www.heise.de/news/Nvidia-Konkurrenz-Google-will-sein-TPU-Geschaeft-angeblich-gross-aufziehen-11193578.html"
     },
     {
       "title": "FlyTrapAutonome Zielverfolgungsdrohnen mit Regenschirm ausgeschaltet",
@@ -190,20 +190,26 @@
       "image_title": "Katamaran auf dem Wasser."
     },
     {
+      "title": "Schweiz: Die E-ID kommt später",
+      "teaser": "Die Einführung der elektronischen Identitätskarte in der Schweiz verschiebt sich vom Sommer auf voraussichtlich Ende des Jahres 2026. Sicherheit soll vorgehen.",
+      "url": "https://www.heise.de/news/Schweiz-Die-E-ID-kommt-spaeter-11193694.html",
+      "image_title": "Projektion einer digitalen Identität auf einer Karte, die von einer Hand gehalten wird. In der anderen Hand der Person befindet sich vermutlich ein Smartphone."
+    },
+    {
       "title": "Linien, Licht und leise Töne: Die Bilder der Woche 9",
       "teaser": "Von Winterwald bis Treppenhaus – starke Formen und feines Licht prägen unsere Auswahl.",
       "url": "https://www.heise.de/news/Linien-Licht-und-leise-Toene-Die-Bilder-der-Woche-9-11193216.html",
       "image_title": "Blick ins Treppenhaus"
     },
     {
-      "title": "Wie Sie den richtigen Aufstellort für Ihre Wärmepumpe finden",
-      "teaser": "Der Aufstellort einer Wärmepumpe ist keine Nebensache. Er entscheidet über Effizienz und Nachbarschaftsfrieden. So vermeiden Sie Fehler und Nachbesserungen.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-den-richtigen-Aufstellort-fuer-Ihre-Waermepumpe-finden-11057087.html"
-    },
-    {
       "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
       "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Wie Sie den richtigen Aufstellort für Ihre Wärmepumpe finden",
+      "teaser": "Der Aufstellort einer Wärmepumpe ist keine Nebensache. Er entscheidet über Effizienz und Nachbarschaftsfrieden. So vermeiden Sie Fehler und Nachbesserungen.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-den-richtigen-Aufstellort-fuer-Ihre-Waermepumpe-finden-11057087.html"
     },
     {
       "title": "Zurechtfinden in Windows 11 – nicht nur für Windows-10-Umsteiger | c’t uplink",
@@ -233,11 +239,6 @@
       "teaser": "Nach einer Schlappe für Joyn in München bestätigt nun das Oberlandesgericht Köln: Private Streaming-Portale dürfen ARD-Inhalte nicht direkt ungefragt einbetten.",
       "url": "https://www.heise.de/news/Streaming-Streit-Oberlandesgericht-Koeln-verbietet-Uebernahme-der-ARD-Mediathek-11193616.html",
       "image_title": "ARD-Mikrofon"
-    },
-    {
-      "title": "ExfilState: Interview mit Fabian Thomas über Seitenkanalangriffe auf ARM-Chips",
-      "teaser": "Wir haben mit dem Sicherheitsforscher Fabian Thomas über neue Wege gesprochen, wie man Seitenkanalangriffe auf ARM-CPUs durchführen kann.",
-      "url": "https://www.heise.de/hintergrund/ExfilState-Interview-mit-Fabian-Thomas-ueber-Seitenkanalangriffe-auf-ARM-Chips-11169928.html"
     },
     {
       "title": "Worauf Sie achten solltenPlattenspieler-Kaufberatung",
@@ -330,6 +331,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "ExfilState: Interview mit Fabian Thomas über Seitenkanalangriffe auf ARM-Chips",
+      "teaser": "Wir haben mit dem Sicherheitsforscher Fabian Thomas über neue Wege gesprochen, wie man Seitenkanalangriffe auf ARM-CPUs durchführen kann.",
+      "url": "https://www.heise.de/hintergrund/ExfilState-Interview-mit-Fabian-Thomas-ueber-Seitenkanalangriffe-auf-ARM-Chips-11169928.html"
+    },
+    {
       "title": "Nvidia-Konkurrenz: Google will sein TPU-Geschäft angeblich groß aufziehen",
       "teaser": "Google und Meta sollen bereits einen Milliarden-Deal für KI-Chips abgeschlossen haben. Neue Joint-Ventures könnten zudem TPUs leasen.",
       "url": "https://www.heise.de/news/Nvidia-Konkurrenz-Google-will-sein-TPU-Geschaeft-angeblich-gross-aufziehen-11193578.html",
@@ -399,15 +405,15 @@
       "image_title": "Person, die eine Apple Vision Pro trägt"
     },
     {
+      "title": "Von der Idee zur Umsetzung: KI-Projekte richtig planen und skalieren",
+      "teaser": "Künstliche Intelligenz bietet Unternehmen immense Potenziale – doch der Erfolg hängt von der richtigen Architektur ab. Im Live-Webcast am 3.3. erfahren Sie, wie Sie KI-Projekte effizient, skalierbar und nachhaltig umsetzen können.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/von-der-idee-zur-umsetzung-ki-projekte-richtig-planen-und-skalieren-5021/?source=hbsad-ersatz"
+    },
+    {
       "title": "HPE Juniper Networking stellt neue PTX-Router für KI-Rechenzentren vor",
       "teaser": "Mit zwei neuen Router-Familien auf Basis des Express-5-Siliziums will HPE Juniper vor allem in Rechenzentren von Providern und Hyperscalern punkten.",
       "url": "https://www.heise.de/news/HPE-Juniper-Networking-stellt-neue-PTX-Router-fuer-KI-Rechenzentren-vor-11192886.html",
       "image_title": "Admin arbeitet an einem Juniper-Router"
-    },
-    {
-      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
-      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Azure OpenAI – Schritt für Schritt zur sicheren KI-Anwendung",
@@ -461,12 +467,6 @@
       "teaser": "Mit einem neuen Anzeigenformat auf seinen Smart-TVs will Samsung den Startbildschirm weiter monetarisieren.",
       "url": "https://www.heise.de/news/Samsung-bringt-rotierende-Werbekacheln-auf-Smart-TV-Startbildschirme-11192952.html",
       "image_title": "Hand hält Samsung-Fernbedienung vor Smart-TV-Homescreen."
-    },
-    {
-      "title": "Apple Music: Neuer Profidienst Connect – KI für Android",
-      "teaser": "Apple hat einen Dienst eingeführt, der Plattenfirmen und Vertrieben bei der Nutzung von Apple Music helfen soll. In der Android-App gibt es auch Neuigkeiten.",
-      "url": "https://www.heise.de/news/Apple-Music-Neuer-Profidienst-Connect-KI-fuer-Android-11186240.html",
-      "image_title": "Apple Music Connect"
     },
     {
       "title": "rentahuman.ai: Wenn KI wen braucht, der das Gras anfasst",
@@ -644,16 +644,15 @@
       "url": "https://www.heise.de/news/Zurechtfinden-in-Windows-11-nicht-nur-fuer-Windows-10-Umsteiger-c-t-uplink-11193384.html"
     },
     {
+      "title": "Neuer Schufa-Score: Mehr Transparenz, Kernprobleme bleiben",
+      "teaser": "Mitte März geht der neue, einfachere Schufa-Score online. Wir erklären, wo er Verbrauchern nützt und wo vor allem ärmere Menschen benachteiligt bleiben.",
+      "url": "https://www.heise.de/hintergrund/Neuer-Schufa-Score-Mehr-Transparenz-Kernprobleme-bleiben-11137495.html"
+    },
+    {
       "title": "Predictive Policing in 4K„Minority Report“ im Heimkinotest",
       "teaser": "Disneys restaurierte UHD verspricht mehr Details. Schärft 4K den Film oder entlarvt es seine CGI-Schwächen? Unser Vergleich zeigt es.",
       "url": "https://www.heise.de/tests/Minority-Report-im-Heimkinotest-Predictive-Policing-in-4K-11190977.html",
       "image_title": "Vorsicht Giftpflanzen"
-    },
-    {
-      "title": "Umfrage: Deutsche Ministerien sind digital unsouverän",
-      "teaser": "Deutsche Ministerien nutzen vornehmlich US-amerikanische Software und Plattformen im Netz. Das ist das Ergebnis einer Befragung der Suchmaschine Ecosia.",
-      "url": "https://www.heise.de/news/Umfrage-Deutsche-Ministerien-sind-digital-umsouveraen-11189884.html",
-      "image_title": "Gebäude des Europäischen Parlaments in Brüssel mit Europaflaggen davor"
     },
     {
       "title": "Dirigera, Kajplats & Co. im TestDas leisten die neuen Smart-Home-Geräte von Ikea",
@@ -744,34 +743,34 @@
       "image_title": "Volvo XC70"
     },
     {
+      "title": "Wer haftet wann?Verantwortung beim Autonomen Fahren",
+      "teaser": "Im zweiten Teil unserer Reihe zur Fahrautomatisierung kümmern wir uns um die Fragen der Haftung und des Versicherungsschutzes",
+      "url": "https://www.heise.de/hintergrund/Autonomes-Fahren-Wer-haftet-wann-11179834.html",
+      "image_title": "Mercedes E-Klasse beim Notbremstest"
+    },
+    {
       "title": "Beschleunigung für Verkehrsprojekte„Infrastruktur-Zukunftsgesetz“",
       "teaser": "Die Infrastruktur soll mit Milliardensummen ertüchtigt werden. Damit die geplanten Mittel fristgerecht abgerufen werden, sollen Gesetze geändert werden.",
       "url": "https://www.heise.de/news/Infrastruktur-Zukunftsgesetz-soll-Verkehrsprojekte-beschleunigen-11191834.html",
       "image_title": "Straßenbaustelle von oben"
     },
     {
-      "title": "Trumps E-Auto-KursStellantis fährt 22 Milliarden Euro Minus ein",
-      "teaser": "US-Präsident Trump ändert den E-Auto-Kurs – und der Vielmarkenkonzern Stellantis spürt die Folgen. Der neue Chef will gegensteuern.",
-      "url": "https://www.heise.de/news/Opel-Mutter-Stellantis-faehrt-22-Milliarden-Euro-Minus-ein-11190947.html",
-      "image_title": "Opel Corsa-e"
+      "title": "US-Krieg mit dem Iran: Wovor arabische Staaten sich fürchten",
+      "teaser": "Die arabischen Nachbarn sehen den militärischen Aufmarsch wohl wissend, dass Bombardierungen und Regimewechsel geopolitische Folgen haben können.",
+      "url": "https://www.heise.de/-11187496",
+      "image_title": "Landkarte des Iran mit Nachbarländern"
     },
     {
-      "title": "Pakistan erklärt Afghanistan den \"offenen Krieg\"",
-      "teaser": "Pakistanische Luftangriffe treffen Taliban-Regierungsziele in Kabul, Kandahar und Paktia. Beide Seiten melden schwere Verluste. Ein Überblick.",
-      "url": "https://www.heise.de/-11192599",
-      "image_title": "Ein Soldat auf einem Fahrzeug"
+      "title": "Können Stuttgarter Forscher das größte Umweltgift unserer Zeit besiegen?",
+      "teaser": "Fraunhofer-Forscher haben eine Methode entwickelt, die PFAS nicht nur filtert, sondern komplett zerstört – mit ionisiertem Gas.",
+      "url": "https://www.heise.de/-11185361",
+      "image_title": "Bratpfanne mit zerstörter Beschichtung"
     },
     {
-      "title": "Dunkelfeldstudie: Die unsichtbare Gewalt in Deutschland",
-      "teaser": "Gewalt ist weiter verbreitet, als offizielle Zahlen vermuten lassen. Eine neue Studie zeigt das tatsächliche Ausmaß – und wo Schutz verbessert werden muss.",
-      "url": "https://www.heise.de/-11191168",
-      "image_title": "Eine verzweifelte Person vor einer stilisierten Hand"
-    },
-    {
-      "title": "Plastik kostet uns Lebensjahre – und die Rechnung wächst",
-      "teaser": "Plastik schadet nicht nur der Umwelt: Eine neue Studie zeigt, wie viele Lebensjahre jeder Mensch dadurch verlieren könnte.",
-      "url": "https://www.heise.de/-11180637",
-      "image_title": "Zerbröselnde Plastikflache über Acker mit Plastikpartikeln"
+      "title": "Ukraine-Krieg: Russlands Molniya-Drohne als Waffe der Erschöpfung",
+      "teaser": "Billig, skalierbar, schwer zu stoppen – die Molniya steht für eine Kriegsführung, die auf Dauerbelastung statt Perfektion setzt. Eine Einschätzung.",
+      "url": "https://www.heise.de/-11192315",
+      "image_title": "Drohne über einem Schlachtfeld"
     },
     {
       "title": "Big Tech unter Zugzwang: Wie viele Wachstumstricks stecken im KI-Boom?",
