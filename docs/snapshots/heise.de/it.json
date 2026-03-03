@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-03T10:27:10",
+  "timestamp": "2026-03-03T11:23:16",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,50 @@
   ],
   "articles": [
     {
+      "title": "Vorurteile bremsen Frauen in deutschen IT-Abteilungen aus",
+      "teaser": "Trotz Fachkräftemangel halten viele Unternehmen Männer für besser geeignet in Tech-Berufen. Eine Studie beleuchtet die Vorurteile.",
+      "url": "https://www.heise.de/news/Vorurteile-bremsen-Frauen-in-deutschen-IT-Abteilungen-aus-11197029.html",
+      "image_title": "Szene in einem farbenarmen Büro: 2 Männer und 1 Frau, alle mit dunklerem Teint, sind vor einem Schreibtisch mit Bildschirm versammelt; die Frau (Mitte) zeigt auf den Bildschirm."
+    },
+    {
+      "title": "Stromausfall in Aachen legt Verwaltungen in NRW lahm",
+      "teaser": "Ein Stromausfall in Aachen sorgt für eine Störung beim IT-Dienstleister „regio IT“. Das hat Folgen, die weit über die Stadt Aachen hinausgehen.",
+      "url": "https://www.heise.de/news/Stromausfall-in-Aachen-legt-Verwaltungen-in-NRW-lahm-11196992.html",
+      "image_title": "Ein Papierstapel"
+    },
+    {
+      "title": "iX-Workshop: Mit Kubernetes zur effizienten Container-Orchestrierung",
+      "teaser": "Von der Automatisierung bis zur Wartung – ein praxisorientierter Einstieg in die Container-Orchestrierung mit Kubernetes.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Kubernetes-zur-effizienten-Container-Orchestrierung-11185575.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Statt Private Cloud Compute: Siri auf Googles-Servern",
+      "teaser": "Eigentlich sind Apples KI-Server nicht ausgelastet. Doch die neue, Gemini-basierte Siri läuft dort wohl nicht. Nun gibt es Diskussionen mit Google Cloud.",
+      "url": "https://www.heise.de/news/Siri-koennte-in-die-Google-Cloud-zu-Apples-Bedingungen-11196314.html",
+      "image_title": "Siri-Logo vor Google Gemini"
+    },
+    {
+      "title": "HintergrundVom KI-Pionier zum Schlusslicht: Warum Apple Intelligence da steht, wo es steht",
+      "url": "https://www.heise.de/hintergrund/Vom-KI-Pionier-zum-Schlusslicht-Warum-Apple-Intelligence-da-steht-wo-es-steht-11186699.html",
+      "image_title": ", Madlen Grunert, Sebastian Trepesch / KI / heise medien"
+    },
+    {
+      "title": "RatgeberErweiterungen für SAP: ABAP für die Cloud",
+      "url": "https://www.heise.de/ratgeber/Erweiterungen-fuer-SAP-ABAP-fuer-die-Cloud-11194903.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundStromsparen bei großen Festplatten-Arrays",
+      "url": "https://www.heise.de/hintergrund/Stromsparen-bei-grossen-Festplatten-Arrays-11110786.html"
+    },
+    {
+      "title": "Gram: Komplett KI-freier Coding-Editor",
+      "teaser": "Der neue Coding-Editor Gram basiert auf Zed, verzichtet aber auf viele Funktionen wie Coding-Assistent, Nach-Hause-Telefonieren und automatische Updates.",
+      "url": "https://www.heise.de/news/Gram-Komplett-KI-freier-Coding-Editor-11196724.html",
+      "image_title": "Screenshot Gram"
+    },
+    {
       "title": "GitHub-Store 1.6.0: Plattformübergreifender App-Store für Open-Source",
       "teaser": "Der Open-Source-App-Store GitHub-Store ist in Version 1.6.0 erschienen. Sie bringt besseren Linux-Support und viele Komfortfunktionen.",
       "url": "https://www.heise.de/news/GitHub-Store-1-6-0-Plattformuebergreifender-App-Store-fuer-Open-Source-11196528.html",
@@ -48,20 +92,6 @@
       "teaser": "HPE warnt vor einer gravierenden Sicherheitslücke im HPE AutoPass Lizenzserver (APLS). Die Authentifizierung lässt sich umgehen.",
       "url": "https://www.heise.de/news/HPE-AutoPass-License-Server-erlaubt-Umgehung-der-Authentifizierung-11196562.html",
       "image_title": "Orang leuchtendes Warndreieck auf bläulichem Hintergrund"
-    },
-    {
-      "title": "HintergrundVom KI-Pionier zum Schlusslicht: Warum Apple Intelligence da steht, wo es steht",
-      "url": "https://www.heise.de/hintergrund/Vom-KI-Pionier-zum-Schlusslicht-Warum-Apple-Intelligence-da-steht-wo-es-steht-11186699.html",
-      "image_title": ", Madlen Grunert, Sebastian Trepesch / KI / heise medien"
-    },
-    {
-      "title": "RatgeberErweiterungen für SAP: ABAP für die Cloud",
-      "url": "https://www.heise.de/ratgeber/Erweiterungen-fuer-SAP-ABAP-fuer-die-Cloud-11194903.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundStromsparen bei großen Festplatten-Arrays",
-      "url": "https://www.heise.de/hintergrund/Stromsparen-bei-grossen-Festplatten-Arrays-11110786.html"
     },
     {
       "title": "Dezentralität als Hürde: Mastodon bietet jetzt Share-Button für Websites an",
@@ -120,35 +150,6 @@
       "teaser": "Strom für Rechenzentren müsse subventioniert werden, wenn die EU ihre Ziele für eine sauberere Industrie erreichen will, folgert ein Gutachten für den Bitkom.",
       "url": "https://www.heise.de/news/Bitkom-Ohne-Stromsubvention-fuer-Rechenzentren-keine-saubere-Industrie-11196184.html",
       "image_title": "Cloud, Rechenzentrum,"
-    },
-    {
-      "title": "Google lässt saubere Stromerzeugungsanlagen und Riesenstromspeicher bauen",
-      "teaser": "Google setzt nicht nur auf Atomkraft: Für ein Rechenzentrum gibt der Konzern Sonnen- und Windkraftanlagen sowie einen der größten Stromspeicher in Auftrag.",
-      "url": "https://www.heise.de/news/Google-laesst-saubere-Stromerzeugungsanlagen-und-Riesenstromspeicher-bauen-11196163.html",
-      "image_title": "Google-Rechenzentrum in Delfzijl, Niederlande"
-    },
-    {
-      "title": "Verwaltung am Limit: Warum billige IT-Sparpläne den Staat teuer zu stehen kommen",
-      "teaser": "Kostendruck und Personalnot zwingen die Ämter zum Handeln. Doch kurzfristige Kürzungen und bloße KI-Pflaster drohen die digitale Transformation zu ersticken.",
-      "url": "https://www.heise.de/news/Verwaltung-am-Limit-Warum-billige-IT-Sparplaene-den-Staat-teuer-zu-stehen-kommen-11196169.html",
-      "image_title": "Mann mit Arztkittel zeigt auf verschiedene Icons zur Digitalisierung im Gesundheitswesen"
-    },
-    {
-      "title": "Protoarc EC200 im Test: Ergonomischer Bürostuhl mit Lordosenstütze für 170 Euro",
-      "teaser": "Der Protoarc EC200 bietet für 170 Euro eine erstaunlich gute Ergonomie mit verstellbarer Lordosenstütze, Sitztiefenverstellung und vielseitiger Kopfstütze.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/protoarc-ec200-im-test-ergonomischer-buerostuhl-mit-lordosenstuetze-fuer-170-euro/fnwxgvv?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Neue OnlyOffice-Version: Über 30 Features für Dokumente und Tabellen",
-      "teaser": "Die Office-Suite OnlyOffice Docs erhält in Version 9.3 erweiterte PDF-Funktionen, Dynamic Arrays für Tabellen und mehr als 500 Bugfixes.",
-      "url": "https://www.heise.de/news/OnlyOffice-Docs-9-3-bringt-erweiterte-PDF-Signaturen-und-Dynamic-Arrays-11195870.html",
-      "image_title": "Schriftzug OnlyOffice Docs 9.3"
-    },
-    {
-      "title": "iPad Air M4: Neuer Chip, mehr RAM, besserer Funk",
-      "teaser": "Auf M3 folgt M4: Apple hat sein populäres Mittelklasse-Tablet auf aktuellen Stand gebracht. Beim Speicherplatz bleibt der Hersteller knausrig.",
-      "url": "https://www.heise.de/news/iPad-Air-M4-Neuer-Chip-mehr-RAM-besserer-Funk-11195987.html",
-      "image_title": "iPad Air M4"
     },
     {
       "title": "NewsBericht: US-Verteidigungsministerium will Chinas Infrastruktur mit KI abklopfen",
