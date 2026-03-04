@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T03:56:39",
+  "timestamp": "2026-03-04T05:04:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Google verkürzt Versionszyklus des Chrome-Browsers von vier auf zwei Wochen",
+      "url": "https://www.heise.de/news/Google-verkuerzt-Versionszyklus-des-Chrome-Browsers-von-vier-auf-zwei-Wochen-11198019.html"
+    },
     {
       "title": "Milliarden-Deal: Accenture übernimmt Netzwerkanalyse-Spezialisten Ookla",
       "url": "https://www.heise.de/news/Milliarden-Deal-Accenture-uebernimmt-Netzwerkanalyse-Spezialisten-Ookla-11197995.html"
@@ -62,10 +66,6 @@
     {
       "title": "React-Umfrage: Beliebtheit von TanStack Query bleibt ungebrochen",
       "url": "https://www.heise.de/news/React-Entwicklung-Beliebtheit-von-TanStack-Query-bleibt-ungebrochen-11196676.html"
-    },
-    {
-      "title": "Recycling: Neues Verfahren kann schwarzen Kunststoff erkennen",
-      "url": "https://www.heise.de/news/Recycling-Neues-Verfahren-kann-schwarzen-Kunststoff-erkennen-11197622.html"
     },
     {
       "title": "UpdateMacBooks mit M5Mehr Leistung, mehr Speicher, mehr Kosten",
@@ -209,20 +209,26 @@
       "image_title": "Drohnenaufnahme eines Containerhafens bei Nacht"
     },
     {
+      "title": "Google verkürzt Versionszyklus des Chrome-Browsers von vier auf zwei Wochen",
+      "teaser": "Ab September wird Googles Webbrowser zweiwöchentlich neue Versionen erhalten. Chrome soll damit schneller Leistungsverbesserungen und neue Funktionen bekommen.",
+      "url": "https://www.heise.de/news/Google-verkuerzt-Versionszyklus-des-Chrome-Browsers-von-vier-auf-zwei-Wochen-11198019.html",
+      "image_title": "Chrome-Logo auf Laptop-Bildschirm"
+    },
+    {
       "title": "Milliarden-Deal: Accenture übernimmt Netzwerkanalyse-Spezialisten Ookla",
       "teaser": "Mit dem Kauf der Connectivity-Sparte des Medienhauses Ziff Davis setzt Accenture seine strategische Expansion fort und erweitert das eigene Portfolio.",
       "url": "https://www.heise.de/news/Milliarden-Deal-Accenture-uebernimmt-Netzwerkanalyse-Spezialisten-Ookla-11197995.html"
+    },
+    {
+      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
+      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "Investor Elliott: Eine Milliarde US-Dollar für Pinterest",
       "teaser": "Der Hedgefonds Elliott vergrößert seinen Anteil an der Online-Pinnwand. Pinterest will das Kapital für den milliardenschweren Rückkauf von Aktien verwenden.",
       "url": "https://www.heise.de/news/Investor-Elliott-Eine-Milliarde-US-Dollar-fuer-Pinterest-11197955.html",
       "image_title": "Pinterest-Schild am Eingang des Sitzes in San Francisco."
-    },
-    {
-      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
-      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
       "title": "Seagate Mozaic 4+: Neue Festplatten mit 44 TByte und HAMR-Technologie",
@@ -251,12 +257,6 @@
       "teaser": "Erneut hat TanStack Query den ersten Platz als beliebteste Library ergattert, während das React-Feature Server Components nicht überzeugen kann.",
       "url": "https://www.heise.de/news/React-Entwicklung-Beliebtheit-von-TanStack-Query-bleibt-ungebrochen-11196676.html",
       "image_title": "JavaScript-Bibliothek React"
-    },
-    {
-      "title": "Recycling: Neues Verfahren kann schwarzen Kunststoff erkennen",
-      "teaser": "Sortieranlagen im Recycling erkennen schwarzen Kunststoff meist nicht, weshalb dieser aussortiert statt recycelt wird. Ein neues Verfahren soll das ändern.",
-      "url": "https://www.heise.de/news/Recycling-Neues-Verfahren-kann-schwarzen-Kunststoff-erkennen-11197622.html",
-      "image_title": "Schwarzer und andersfarbiger Kunststoffmüll"
     },
     {
       "title": "Tschüss Big TechSichere E-Mail-Alternativen aus Europa",
@@ -288,8 +288,8 @@
       "url": "https://www.heise.de/meinung/Kommentar-Digitale-Souveraenitaet-Haben-wir-schon-uns-fehlt-nur-der-Mut-11192309.html"
     },
     {
-      "title": "Fahrzeugdaten in Home Assistant darstellen per OBD2-Dongle",
-      "url": "https://www.heise.de/ratgeber/Fahrzeugdaten-in-Home-Assistant-darstellen-per-OBD2-Dongle-11149741.html"
+      "title": "Anytype statt Notion: Persönliches Wissen sicher speichern – auch ohne Cloud",
+      "url": "https://www.heise.de/ratgeber/Anytype-statt-Notion-Persoenliches-Wissen-sicher-speichern-auch-ohne-Cloud-11187514.html"
     },
     {
       "title": "Jetzt kaufen oder warten? So lange könnte die Speicherkrise anhalten",
@@ -298,8 +298,8 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Anytype statt Notion: Persönliches Wissen sicher speichern – auch ohne Cloud",
-      "url": "https://www.heise.de/ratgeber/Anytype-statt-Notion-Persoenliches-Wissen-sicher-speichern-auch-ohne-Cloud-11187514.html",
+      "title": "Fahrzeugdaten in Home Assistant darstellen per OBD2-Dongle",
+      "url": "https://www.heise.de/ratgeber/Fahrzeugdaten-in-Home-Assistant-darstellen-per-OBD2-Dongle-11149741.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -346,6 +346,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Recycling: Neues Verfahren kann schwarzen Kunststoff erkennen",
+      "teaser": "Sortieranlagen im Recycling erkennen schwarzen Kunststoff meist nicht, weshalb dieser aussortiert statt recycelt wird. Ein neues Verfahren soll das ändern.",
+      "url": "https://www.heise.de/news/Recycling-Neues-Verfahren-kann-schwarzen-Kunststoff-erkennen-11197622.html",
+      "image_title": "Schwarzer und andersfarbiger Kunststoffmüll"
     },
     {
       "title": "Instar IN-9808 4K im Test: Flexible Überwachungskamera ohne Cloud",
@@ -417,14 +423,14 @@
       "url": "https://www.heise.de/news/Einsteigerwebinar-zu-Wazuh-Erste-Schritte-mit-dem-SIEM-ohne-Cloudzwang-11194797.html"
     },
     {
+      "title": "Von Training bis Inferenz: Hardware-Empfehlungen für KI-Workflows",
+      "teaser": "Die Entwicklung und Nutzung von KI-Modellen lässt sich mehrere Phasen unterteilen. Lesen Sie, wie sich die jeweiligen Anforderungen unterscheiden und welche Auswirkungen das auf die Wahl der Hardware hat.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/von-training-bis-inferenz-hardware-empfehlungen-fuer-ki-workflows/?source=hbsadersatz"
+    },
+    {
       "title": "Zahlen, bitte! 5,9 Kilo Funk für teilautonome Fahrzeuge der Auto-Pionierzeit",
       "teaser": "Autonome Fahrzeuge werden langsam Realität. Ferngesteuerte, teilautonome Fahrzeuge gibt es hingegen schon über 100 Jahre. Ein Blick zurück.",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-5-9-Kilo-Funk-fuer-teilautonome-Fahrzeuge-der-Auto-Pionierzeit-11196752.html"
-    },
-    {
-      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
-      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
     },
     {
       "title": "Raus aus der Updatefalle: Wie Lineage und iodé alte Smartphones retten",
@@ -480,10 +486,14 @@
       "image_title": ","
     },
     {
-      "title": "Tricorder-Technik: Vodafone nutzt 5G-Antennen zur Objekterkennung",
-      "teaser": "Nicht erst mit 6G: Vodafone und Tiami Networks zeigen auf dem MWC, wie 5G-Netze durch ISAC zu hochpräzisen Sensoren werden können.",
-      "url": "https://www.heise.de/news/Mobilfunk-als-Fledermaus-Radar-Vodafone-zeigt-ISAC-Potenzial-im-5G-Netz-11196962.html",
-      "image_title": "Techniker klettert an einem Antennenmast mit Mobilfunkantennen hoch."
+      "title": "Google lässt saubere Stromerzeugungsanlagen und Riesenstromspeicher bauen",
+      "url": "https://www.heise.de/news/Google-laesst-saubere-Stromerzeugungsanlagen-und-Riesenstromspeicher-bauen-11196163.html",
+      "image_title": "Google-Rechenzentrum in Delfzijl, Niederlande"
+    },
+    {
+      "title": "Verwaltung am Limit: Warum billige IT-Sparpläne den Staat teuer zu stehen kommen",
+      "url": "https://www.heise.de/news/Verwaltung-am-Limit-Warum-billige-IT-Sparplaene-den-Staat-teuer-zu-stehen-kommen-11196169.html",
+      "image_title": "Mann mit Arztkittel zeigt auf verschiedene Icons zur Digitalisierung im Gesundheitswesen"
     },
     {
       "title": "Bericht: Apple-Läden bereiten sich auf „großen Ansturm“ vor",
@@ -491,19 +501,8 @@
       "image_title": "Apple Store in China"
     },
     {
-      "title": "AWS-Störung im Nahen Osten: Rechenzentrum „von Objekten getroffen“",
-      "url": "https://www.heise.de/news/AWS-Stoerung-im-Nahen-Osten-Rechenzentrum-von-Objekten-getroffen-11194441.html",
-      "image_title": "AWS-Schriftzug (Amazon Web Services)"
-    },
-    {
-      "title": "Bosch schaltet Kameras in smarten Kühlschränken ab",
-      "url": "https://www.heise.de/news/Bosch-Smarte-Kuehlschraenke-verlieren-Kamerafunktion-11193144.html",
-      "image_title": "Bilder aus der Home-Connect-App, Gefüllter Kühlschrank, App gibt Anweisungen zur Lagerung der Lebensmittel"
-    },
-    {
-      "title": "Rubin Observatory findet 800.000 Veränderungen am Nachthimmel – in einer Nacht",
-      "url": "https://www.heise.de/news/Entdeckungsmaschine-Rubin-Observatory-800-000-Alerts-in-der-ersten-Nacht-11192505.html",
-      "image_title": "Zeichnung des Teleskops unter dem Sternenhimmel, an dem überall kleine Punkte mit der Beschriftung \"Data Alert\""
+      "title": "MIT-Forscher machen aus flachen Strukturen 3D-Objekte",
+      "url": "https://www.heise.de/news/MIT-Forscher-machen-aus-flachen-Strukturen-3D-Objekte-11196582.html"
     },
     {
       "title": "Brite baut Bike, das auf einer Kugel rollt",
@@ -511,23 +510,33 @@
       "image_title": "James Bruton auf dem Omni-Directional One-Ball Bike"
     },
     {
-      "title": "Podcast Die Hupe: Wunderakku von Donut Labs und Dinge, die zu gut klingen",
-      "url": "https://www.heise.de/meinung/Podcast-Die-Hupe-Wunderakku-von-Donut-Labs-und-Dinge-die-zu-gut-klingen-11193612.html",
-      "image_title": "Skoda Elroq RS"
+      "title": "Rubin Observatory findet 800.000 Veränderungen am Nachthimmel – in einer Nacht",
+      "url": "https://www.heise.de/news/Entdeckungsmaschine-Rubin-Observatory-800-000-Alerts-in-der-ersten-Nacht-11192505.html",
+      "image_title": "Zeichnung des Teleskops unter dem Sternenhimmel, an dem überall kleine Punkte mit der Beschriftung \"Data Alert\""
     },
     {
-      "title": "Samsung erklärt Verzicht auf Magnete für Qi-Laden bei Galaxy-Smartphones",
-      "url": "https://www.heise.de/news/Warum-Samsung-bei-Galaxy-Smartphones-auf-Magnete-fuer-Qi-Laden-verzichtet-11194419.html",
-      "image_title": "Rückseite des in der Hand gehaltenen Samsung Galaxy S26"
+      "title": "Neue Apple-Mobilgeräte: Interessante Kleinigkeiten zu iPhone 17e und iPad Air M4",
+      "url": "https://www.heise.de/news/Neue-Apple-Mobilgeraete-Interessante-Kleinigkeiten-zu-iPhone-17e-und-iPad-Air-M4-11196550.html",
+      "image_title": "iPad Air M4 und iPhone 17e"
     },
     {
-      "title": "Motorola und GrapheneOS arbeiten für sichere Android-Smartphones zusammen",
-      "url": "https://www.heise.de/news/Motorola-und-GrapheneOS-arbeiten-fuer-sichere-Android-Smartphones-zusammen-11194164.html",
-      "image_title": "Motorola-Smartphone mit GrapheneOS-Logo auf der Rückseite"
+      "title": "iPad Air M4: Neuer Chip, mehr RAM, besserer Funk",
+      "url": "https://www.heise.de/news/iPad-Air-M4-Neuer-Chip-mehr-RAM-besserer-Funk-11195987.html",
+      "image_title": "iPad Air M4"
     },
     {
-      "title": "Razr Fold: Erstes großes Foldable von Motorola",
-      "url": "https://www.heise.de/news/Razr-Fold-Erstes-grosses-Foldable-von-Motorola-11194322.html"
+      "title": "Gegen Überwachung: Android-App spürt nahe Smart Glasses auf",
+      "url": "https://www.heise.de/news/Gegen-Ueberwachung-Android-App-spuert-nahe-Smart-Glasses-auf-11196123.html",
+      "image_title": "Frau mit Meta Ray-Ban Display, daneben ein Warnhinweis der App \"Nearby Glasses\"."
+    },
+    {
+      "title": "Microsoft: Kampagne jubelt Opfern Malware als angebliche Spiele-Tools unter",
+      "url": "https://www.heise.de/news/Microsoft-warnt-vor-Malware-Kampagne-mit-Spiele-Tools-11196452.html"
+    },
+    {
+      "title": "Sony will Singleplayer-Spiele offenbar nicht mehr auf PC bringen",
+      "url": "https://www.heise.de/news/Sony-will-Singleplayer-Spiele-offenbar-nicht-mehr-auf-PC-bringen-11196490.html",
+      "image_title": "Screenshot aus Sonys Wolverine"
     },
     {
       "title": "Ende der Netflix-Dominanz auf dem Streaming-Markt",
@@ -535,36 +544,22 @@
       "image_title": "Nahaufnahme eines Smartphone-Displays mit den Apps verschiedener Streaming-Dienste."
     },
     {
-      "title": "Jetzt können wirklich alle programmieren",
-      "url": "https://www.heise.de/news/Jetzt-koennen-wirklich-alle-programmieren-11193749.html"
-    },
-    {
-      "title": "RTL meldet Sky-Deutschland-Übernahme bei EU-Kommission an",
-      "url": "https://www.heise.de/news/RTL-meldet-Sky-Deutschland-Uebernahme-bei-EU-Kommission-an-11193940.html"
-    },
-    {
       "title": "Cimline P5: Spezialfahrzeug repariert Schlaglöcher in etwa zwei Minuten",
       "url": "https://www.heise.de/news/Cimline-P5-stopft-Schlagloecher-in-rund-zwei-Minuten-11194499.html",
       "image_title": "Cimline P5 repariert Schlagloch"
-    },
-    {
-      "title": "Rat der Europäischen Union: Eichpflicht bei abgeschnittenen Ladekabeln soll weg",
-      "url": "https://www.heise.de/news/Rat-der-Europaeischen-Union-Eichpflicht-bei-abgeschnittenen-Ladekabeln-soll-weg-11194178.html",
-      "image_title": "Symbol für ein Elektroauto"
-    },
-    {
-      "title": "Erneuter Rückruf: BMW warnt vor Brandgefahr bei Hunderttausenden Autos",
-      "url": "https://www.heise.de/news/Erneuter-Rueckruf-BMW-warnt-vor-Brandgefahr-bei-Hunderttausenden-Autos-11194198.html",
-      "image_title": "BMW i7 Montage im Werk Dingolfing"
     },
     {
       "title": "Anthropic-CEO nennt Vorgehen des Pentagons „vergeltend und strafend“",
       "url": "https://www.heise.de/news/Anthropic-CEO-nennt-Vorgehen-des-Pentagons-vergeltend-und-strafend-11193909.html"
     },
     {
-      "title": "Missing Link: Letzte Schule Berlins hat Glasfaseranschluss – und nun?",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Letzte-Schule-Berlins-hat-Glasfaseranschluss-und-nun-11193622.html",
-      "image_title": "zwei Schüler zeigen einer erwachsenen Frau etwas auf ihrem Notebook, ein smartes Lego-System liegt neben ihnen. Im Hintergrund weitere gutgelaunte Erwachsene"
+      "title": "Sprit- und Heizölpreise steigen deutlich an",
+      "url": "https://www.heise.de/news/Sprit-und-Heizoelpreise-steigen-deutlich-an-11196864.html",
+      "image_title": "Auto an der Tankstelle tankt Diesel"
+    },
+    {
+      "title": "Jetzt können wirklich alle programmieren",
+      "url": "https://www.heise.de/news/Jetzt-koennen-wirklich-alle-programmieren-11193749.html"
     },
     {
       "title": "Deutsche nutzen Social Media vergleichsweise wenig",
@@ -572,19 +567,23 @@
       "image_title": "Man im Bett hält Smartphone in der Hand, das verdeckt das Gesicht"
     },
     {
-      "title": "Montag: Samsungs Gründe für Magnetverzicht, Motorolas erstes großes Foldable",
-      "url": "https://www.heise.de/news/Montag-Samsungs-Gruende-fuer-Magnetverzicht-Motorolas-erstes-grosses-Foldable-11194431.html",
-      "image_title": "iPhone und Samsung-Gerät nebeneinander, zu sehen ist die Rückseite; Montag: Samsung-Magnete, Razr-Fold, GrapheneOS-Motorola, Nvidia-Preiserhöhung, Ryzen-Notebooks & ThinkPad-Farbwahl"
+      "title": "OpenClaw ausprobiert: Die gefährlichste Software der Welt?",
+      "url": "https://www.heise.de/news/OpenClaw-ausprobiert-Die-gefaehrlichste-Software-der-Welt-11161203.html"
     },
     {
-      "title": "Zwischen Unsicherheit und Urlaubsspaß: Click Boom Flash #57 „Smartglasses\"",
-      "url": "https://www.heise.de/news/Zwischen-Unsicherheit-und-Urlaubsspass-Click-Boom-Flash-57-Smartglasses-11189801.html",
-      "image_title": "Smartglasses"
+      "title": "Urheberrechtsstreit um KI-generierte Kunst: US Supreme Court winkt ab",
+      "url": "https://www.heise.de/news/Urheberrechtsstreit-um-KI-generierte-Kunst-US-Supreme-Court-winkt-ab-11196318.html",
+      "image_title": "Klassizistisches Gebäude, davor Springbrunnen"
     },
     {
-      "title": "Nach Bruch mit Anthropic: Pentagon schließt KI-Deal offenbar mit OpenAI",
-      "url": "https://www.heise.de/news/OpenAI-erhaelt-wohl-Pentagon-Auftrag-nach-Bruch-mit-Anthropic-11193881.html",
-      "image_title": "Das Logo von OpenAI an einer Glasfassade"
+      "title": "Konkurrenz für Netflix: Paramount+ und HBO Max könnten fusionieren",
+      "url": "https://www.heise.de/news/Konkurrenz-fuer-Netflix-Paramount-und-HBO-Max-koennten-fusionieren-11196292.html",
+      "image_title": "Nahaufnahme eines Smartphone-Displays mit den Apps verschiedener Streaming-Dienste."
+    },
+    {
+      "title": "Dienstag: Paramount mit großen Plänen, Copyright-Streit um KI-generierte Kunst",
+      "url": "https://www.heise.de/news/Dienstag-Paramount-mit-grossen-Plaenen-Copyright-Streit-um-KI-generierte-Kunst-11196332.html",
+      "image_title": "Hand mit Fernbedienung, dazu Text: DIENSTAG Streaming-Dienste, Urheberrechtsstreit, Smart Glasses, Stromsubvention & IT-Sparpläne"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -631,26 +630,31 @@
       "url": "https://www.heise.de/news/Zurechtfinden-in-Windows-11-nicht-nur-fuer-Windows-10-Umsteiger-c-t-uplink-11193384.html"
     },
     {
-      "title": "AWS outage in the Middle East: Data center \"hit by objects\"",
-      "url": "https://www.heise.de/en/news/AWS-outage-in-the-Middle-East-Data-center-hit-by-objects-11194454.html",
-      "image_title": "AWS logo (Amazon Web Services)"
-    },
-    {
-      "title": "Motorola and GrapheneOS collaborate for secure Android smartphones",
-      "url": "https://www.heise.de/en/news/Motorola-and-GrapheneOS-collaborate-for-secure-Android-smartphones-11194299.html",
-      "image_title": "Motorola smartphone with GrapheneOS logo on the back"
+      "title": "Setback for the Commission: EU MEPs let chat control fail",
+      "url": "https://www.heise.de/en/news/Setback-for-the-Commission-EU-MEPs-let-chat-control-fail-11197237.html",
+      "image_title": "A smartphone with an open messaging app in a human hand, with a blurred chat visible on the screen."
     },
     {
       "title": "Android XR: Briefly tried out Google's smart glasses with integrated display",
-      "url": "https://www.heise.de/en/news/Android-XR-Briefly-tried-out-Google-s-smart-glasses-with-integrated-display-11195341.html"
+      "url": "https://www.heise.de/en/news/Android-XR-Briefly-tried-out-Google-s-smart-glasses-with-integrated-display-11195341.html",
+      "image_title": "Android figure with white glasses"
     },
     {
-      "title": "Luxury phone with a red dot: Leica introduces the Leitzphone",
-      "url": "https://www.heise.de/en/news/Luxury-phone-with-a-red-dot-Leica-introduces-the-Leitzphone-11193967.html"
+      "title": "First Touchscreen Mac: Apple is not planning a \"Touch-first\" approach",
+      "url": "https://www.heise.de/en/news/First-Touchscreen-Mac-Apple-is-not-planning-a-Touch-first-approach-11197173.html"
     },
     {
-      "title": "Checkmk: Highly risky cross-site scripting flaw in network monitoring software",
-      "url": "https://www.heise.de/en/news/Checkmk-Highly-risky-cross-site-scripting-flaw-in-network-monitoring-software-11194518.html"
+      "title": "AWS outage in the Middle East: Data center \"hit by objects\"",
+      "url": "https://www.heise.de/en/news/AWS-outage-in-the-Middle-East-Data-center-hit-by-objects-11194454.html"
+    },
+    {
+      "title": "Motorola and GrapheneOS collaborate for secure Android smartphones",
+      "url": "https://www.heise.de/en/news/Motorola-and-GrapheneOS-collaborate-for-secure-Android-smartphones-11194299.html"
+    },
+    {
+      "title": "Social-Media-Verbot per EU-WalletWarum der SPD-Plan kaum umsetzbar wäre",
+      "teaser": "SPD und CDU fordern harte Altersgrenzen für soziale Medien. Doch ihre Vorschläge kollidieren mit EU-Recht und technischer Realität.",
+      "url": "https://www.heise.de/hintergrund/Social-Media-Verbot-per-EU-Wallet-Was-der-SPD-Plan-bedeuten-wuerde-11183974.html"
     },
     {
       "title": "Kosmische StrahlungEin Myonendetektor zum Selberbauen",
@@ -659,15 +663,10 @@
       "image_title": "Künstlerische Impression Myonendetektor"
     },
     {
-      "title": "Razr Fold: Erstes großes Foldable von Motorola",
-      "teaser": "Mit dem Razr Fold steigt Motorola in den Bereich der großen Foldables ein. Das Smartphone kommt mit starken Eckdaten und in einer Fußball-WM-Edition.",
-      "url": "https://www.heise.de/news/Razr-Fold-Erstes-grosses-Foldable-von-Motorola-11194322.html"
-    },
-    {
-      "title": "Seagate Mozaic 4+: Neue Festplatten mit 44 TByte und HAMR-Technologie",
-      "teaser": "Seagate kommt bereits mit der zweiten Generation seiner HAMR-Festplatten. Eine einzelne Scheiben fasst 4 TByte, mit SMR-Aufzeichnung sogar 4,4.",
-      "url": "https://www.heise.de/news/Seagate-Mozaic-4-Neue-Festplatten-mit-44-TByte-und-HAMR-Technologie-11197692.html",
-      "image_title": "Explosionsdarstellung einer Festplatte"
+      "title": "Xiaomi Vision Gran TurismoDas Hypercar als Konzeptfahrzeug",
+      "teaser": "Auf dem MWC 2026 in Barcelona zeigt Xiaomi das Concept Car „Vision Gran Turismo“.",
+      "url": "https://www.heise.de/news/Xiaomi-Vision-Gran-Turismo-Das-Hypercar-als-Konzeptfahrzeug-11195470.html",
+      "image_title": "Xiaomi Vision Gran Turismo"
     },
     {
       "title": "Dirigera, Kajplats & Co. im TestDas leisten die neuen Smart-Home-Geräte von Ikea",
@@ -706,6 +705,12 @@
       "image_title": "Nahaufnahme eines PocketBeagle 2 Industrial, eines kleinen roten Einplatinencomputers mit zwei Reihen schwarzer Stiftleistenbuchsen, einem weißen Anschluss für UART und klar erkennbaren Leiterbahnen und Bauteilen auf der Oberseite."
     },
     {
+      "title": "Zwischen Unsicherheit und Urlaubsspaß: Click Boom Flash #57 „Smartglasses\"",
+      "teaser": "„Ein Griff zum Pearl-Katalog genügt, um eine Kugelschreiberkamera zu finden\", sagt c't-Redakteur Nico Jurran über die Angst vor Smartglasses als Spionagetool.",
+      "url": "https://www.heise.de/news/Zwischen-Unsicherheit-und-Urlaubsspass-Click-Boom-Flash-57-Smartglasses-11189801.html",
+      "image_title": "Smartglasses"
+    },
+    {
       "title": "Lebendige Naturfotos durch Unschärfe: c't Fotografie 2/26",
       "teaser": "Der Naturfotograf Radomir Jakubowski verrät, wie Sie durch Unschärfe und Vordergrundelemente aus einfachen Motiven Meisterwerke schaffen.",
       "url": "https://www.heise.de/news/Lebendige-Naturfotos-durch-Unschaerfe-c-t-Fotografie-2-26-11186422.html"
@@ -721,12 +726,6 @@
       "teaser": "Von Winterwald bis Treppenhaus – starke Formen und feines Licht prägen unsere Auswahl.",
       "url": "https://www.heise.de/news/Linien-Licht-und-leise-Toene-Die-Bilder-der-Woche-9-11193216.html",
       "image_title": "Blick ins Treppenhaus"
-    },
-    {
-      "title": "Alle in einer ReiheWie Sie heute die Planetenparade beobachten",
-      "teaser": "Bloß nicht verpassen: Die Planeten unseres Sonnensystems zeigen derzeit eine besondere Konstellation.",
-      "url": "https://www.heise.de/hintergrund/Alle-in-einer-Reihe-Wie-Sie-die-Planetenparade-Ende-Februar-beobachten-11189585.html",
-      "image_title": "Planetenkonstellation Ende Februar 2026 als Grafik"
     },
     {
       "title": "Ein ÜberblickMicrosoft-Dienste eigenständig ohne Cloud betreiben",
@@ -753,12 +752,6 @@
       "image_title": "Ein Audi auf einer Straße"
     },
     {
-      "title": "Konflikt im Nahen OstenSprit- und Heizölpreise steigen",
-      "teaser": "Der Konflikt im Nahen Osten lässt die Preise für Sprit und Heizöl stark ansteigen. Insbesondere Diesel ist inzwischen erheblich teurer als im Februar.",
-      "url": "https://www.heise.de/news/Sprit-und-Heizoelpreise-steigen-deutlich-an-11196864.html",
-      "image_title": "Auto an der Tankstelle tankt Diesel"
-    },
-    {
       "title": "Autonomes FahrenAssistiert gegen autonom - Die Grenzen verschwimmen",
       "teaser": "Immer mehr Assistenzsysteme kommen in Zukunft an die Grenzen zwischen assistiertem und autonomem Fahren, man nennt das Level 2++. Was muss der Fahrer hier tun?",
       "url": "https://www.heise.de/hintergrund/Autonomes-Fahren-Assistiert-gegen-autonom-Die-Grenzen-verschwimmen-11182824.html",
@@ -771,10 +764,16 @@
       "image_title": "Hudson eBuddy"
     },
     {
-      "title": "Reifensensoren als Spionage-Werkzeug: Forscher warnen vor Überwachungsrisiko",
-      "teaser": "Reifendrucksensoren senden unverschlüsselt eindeutige IDs. Forscher trackten so 20.000 Autos mit 100-Dollar-Technik. Hersteller zu Änderungen aufgefordert.",
-      "url": "https://www.heise.de/-11195274",
-      "image_title": "Ein Display in einem Auto"
+      "title": "Nie wieder FunklochSatelliten-Telefonie für Autos kommt",
+      "teaser": "Harman und Viasat ermöglichen Sprachtelefonie über Satellitenverbindungen im Auto. Damit sind Notruf und Pannenhilfe auch in Funklöchern erreichbar.",
+      "url": "https://www.heise.de/news/Harman-und-Viasat-bringen-Satelliten-Telefonie-ins-Auto-11195908.html",
+      "image_title": "Darstellung der Kommunikation zwischen Auto und Satellit"
+    },
+    {
+      "title": "Macht vor Recht: Wie sich Europa vom Völkerrecht verabschiedet hat",
+      "teaser": "Europa stellt einen Blankoscheck für Angriffskriege aus. Statt Völkerrecht gilt nun die Macht des Stärkeren. Was bedeutet das für die Ukraine? Ein Gastbeitrag.",
+      "url": "https://www.heise.de/-11197158",
+      "image_title": "Vier Männer in Anzug"
     },
     {
       "title": "Google KI-Übersicht kostet deutsche Websites 265 Millionen Klicks",
@@ -783,10 +782,10 @@
       "image_title": "Google-Logo auf einem Gebäude"
     },
     {
-      "title": "Helsing HX-2: Deutsche KI-Drohne greift Russlands militärisches Hinterland an",
-      "teaser": "Die Helsing HX-2 trifft offenbar Ziele im rückwärtigen Raum der russischen Armee. Doch technische Probleme werfen Fragen auf. Was kann die Drohne wirklich?",
-      "url": "https://www.heise.de/-11196910",
-      "image_title": "Soldaten mit einer Helsing-HX-2-Drohne"
+      "title": "Batterien aus Europa: 500 Euro Aufpreis als Preis der Unabhängigkeit",
+      "teaser": "EU-Batterien kosten fast doppelt so viel wie chinesische. Eine neue Analyse zeigt: Bis 2030 könnte die Lücke schrumpfen – wenn die Politik mitzieht.",
+      "url": "https://www.heise.de/-11197269",
+      "image_title": "Elektroauto wird aufgeladen."
     },
     {
       "title": "„Alle Preise werden steigen“: Was die Speicherkrise für Smartphones bedeutet",
