@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-04T10:23:51",
+  "timestamp": "2026-03-04T11:21:21",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,16 +26,10 @@
   ],
   "articles": [
     {
-      "title": "6G: Kommunikation, KI und Sensing als große Themen",
-      "teaser": "6G soll vor allem drei große Änderungen bieten. Über den Nutzen für den durchschnittlichen Smartphone-Nutzer lässt sich diskutieren.",
-      "url": "https://www.heise.de/news/6G-Kommunikation-KI-und-Sensing-als-grosse-Themen-11198470.html",
-      "image_title": "6G-Logo"
-    },
-    {
-      "title": "Nach Streit mit Pentagon – Claude überholt ChatGPT in App Store",
-      "teaser": "Der Chatbot Claude verzeichnet deutlich erhöhte Download-Zahlen. Die KI-Firma Anthropic hatte zuvor Streit mit dem Pentagon.",
-      "url": "https://www.heise.de/news/Nach-Streit-mit-Pentagon-Claude-ueberholt-ChatGPT-in-App-Store-11197563.html",
-      "image_title": "App-Store-Icon vor wolkigem Hintergrund"
+      "title": "c’t-Workshop: DHCP-Automatisierung mit Kea und Stork",
+      "teaser": "Admins und DevOps-Teams lernen, Kea-DHCP als API-gesteuertes System aufzusetzen, hochverfügbar zu betreiben und in bestehende Monitoring-Workflows einzubinden.",
+      "url": "https://www.heise.de/news/c-t-Workshop-DHCP-Automatisierung-mit-Kea-und-Stork-11194828.html",
+      "image_title": "Zwei bunte Vögel sitzen auf zwei übereinander gestapelten Servern vor orangefarbenem Hintergrund"
     },
     {
       "title": "Neue Studio-Displays: Kein Intel-Support – und ein 120-Hertz-Problem",
@@ -44,10 +38,16 @@
       "image_title": "Personen mit zwei neuen Studio-Displays"
     },
     {
-      "title": "Googles „Mein Gerät finden“ sucht nun verlorenes Gepäck bei Airlines",
-      "teaser": "Das „Mein Gerät finden“-Netzwerk von Google bekommt jetzt auch eine Gepäckfinder-Funktion. Zehn Airlines machen bereits mit.",
-      "url": "https://www.heise.de/news/Google-erweitert-Mein-Geraet-finden-um-Suche-nach-verlorenem-Gepaeck-11198255.html",
-      "image_title": "Grafik zu \"Mein Gerät finden\" mit Gepäck und Flugzeug"
+      "title": "Android Studio Panda 2: KI-Agent erstellt neue Android-Apps",
+      "teaser": "Der KI-Agent in Android Studio kann nun komplette neue Anwendungen erstellen. Auch die Dependency-Verwaltung bestehender Apps soll die KI erledigen können.",
+      "url": "https://www.heise.de/news/Android-Studio-Panda-2-KI-Agent-erstellt-neue-Android-Apps-11198132.html",
+      "image_title": "Android-Maskottchen vor einem Bildschirm mit Android Studio"
+    },
+    {
+      "title": "6G: Was die nächste Mobilfunkgeneration wirklich verändern wird",
+      "teaser": "6G soll vor allem drei große Änderungen bieten. Über den Nutzen für den durchschnittlichen Smartphone-Nutzer lässt sich diskutieren.",
+      "url": "https://www.heise.de/news/6G-Kommunikation-KI-und-Sensing-als-grosse-Themen-11198470.html",
+      "image_title": "6G-Logo"
     },
     {
       "title": "TestsBesser tippen: ClickClack für macOS im Test",
@@ -62,6 +62,18 @@
     {
       "title": "RatgeberDokumente mit KI verwalten: paperless-ngx mit einem Sprachmodell verbinden",
       "url": "https://www.heise.de/ratgeber/Dokumente-mit-KI-verwalten-paperless-ngx-mit-einem-Sprachmodell-verbinden-11166892.html"
+    },
+    {
+      "title": "Claude überholt nach Streit mit dem Pentagon ChatGPT im App Store",
+      "teaser": "Der Chatbot Claude verzeichnet deutlich erhöhte Download-Zahlen. Die KI-Firma Anthropic hatte zuvor Streit mit dem Pentagon.",
+      "url": "https://www.heise.de/news/Nach-Streit-mit-Pentagon-Claude-ueberholt-ChatGPT-in-App-Store-11197563.html",
+      "image_title": "App-Store-Icon vor wolkigem Hintergrund"
+    },
+    {
+      "title": "Googles „Mein Gerät finden“ sucht nun verlorenes Gepäck bei Airlines",
+      "teaser": "Das „Mein Gerät finden“-Netzwerk von Google bekommt jetzt auch eine Gepäckfinder-Funktion. Zehn Airlines machen bereits mit.",
+      "url": "https://www.heise.de/news/Google-erweitert-Mein-Geraet-finden-um-Suche-nach-verlorenem-Gepaeck-11198255.html",
+      "image_title": "Grafik zu \"Mein Gerät finden\" mit Gepäck und Flugzeug"
     },
     {
       "title": "Softwareentwicklung: Abstraktion ist überbewertet",
@@ -139,17 +151,6 @@
       "teaser": "Apple vereinheitlicht seine Monitore. 120 Hz gibt es aber nur beim teuren, plötzlich kleineren XDR-Modell – mit 5K statt 6K-Auflösung.",
       "url": "https://www.heise.de/news/Neue-Apple-Monitore-Studio-Display-2-und-Studio-Display-XDR-11197630.html",
       "image_title": "Studio Display und Studio Display XDR"
-    },
-    {
-      "title": "Instar IN-9808 4K im Test: Flexible Überwachungskamera ohne Cloud",
-      "teaser": "Die Überwachungskamera IN-9808 4K des deutschen Herstellers Instar bietet 4K-Auflösung bei 25 fps sowie zahlreiche Integrationsmöglichkeiten wie MQTT und Onvif.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/instar-in-9808-4k-im-test-flexible-ueberwachungskamera-ohne-cloud/qf4m7ge?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Speicherkrise soll jetzt mit voller Wucht SSDs treffen",
-      "teaser": "Die Preise für NAND-Flash-Chips könnten sich im ersten Quartal beinahe verdoppeln. Hersteller ändern die Spielregeln.",
-      "url": "https://www.heise.de/news/Speicherkrise-soll-jetzt-mit-voller-Wucht-SSDs-treffen-11197379.html",
-      "image_title": "Mehrere SSDs und Festplatten nebeneinander"
     },
     {
       "title": "NewsZwei AWS-Rechenzentren direkt von Drohnen getroffen: Reparatur wird dauern",
