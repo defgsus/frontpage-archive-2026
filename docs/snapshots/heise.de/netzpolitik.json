@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T11:19:08",
+  "timestamp": "2026-03-06T12:28:03",
   "url": "https://www.heise.de/newsticker/netzpolitik/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "LibreOffice kritisiert EU-Kommission wegen proprietärer XLSX-Formate",
+      "teaser": "Die Document Foundation kritisiert die EU-Kommission für die ausschließliche Nutzung von Microsofts XLSX-Format bei der Cyber-Resilience-Act-Konsultation.",
+      "url": "https://www.heise.de/news/LibreOffice-kritisiert-EU-Kommission-wegen-proprietaerer-XLSX-Formate-11201717.html",
+      "image_title": "EU-Flagge im Hintergrund, Polizist, Frau mit Laptop, Bücher, Smartphone, Security-Symbole"
+    },
+    {
+      "title": "Streit von Anthropic und DODSeinen Standpunkt muss man sich leisten können",
+      "teaser": "Im Streit mit dem Department of Defense konnte sich Anthropic seinen Standpunkt bisher leisten, kommentiert Philipp Steevens.",
+      "url": "https://www.heise.de/meinung/Streit-von-Anthropic-und-DOD-Seinen-Standpunkt-muss-man-sich-leisten-koennen-11201332.html",
+      "image_title": "US-Flagge in den Händen von US-Soldaten"
+    },
+    {
       "title": "Ab jetzt Bußgelder möglichStichtag für NIS2-Registrierungspflicht",
       "teaser": "Die Frist zur Registrierung für Firmen, die unter die NIS2-Regeln fallen, endet. Viel zu geringe Zahlen lösen politische Irritationen aus.",
       "url": "https://www.heise.de/news/Ab-jetzt-Bussgelder-moeglich-Stichtag-fuer-NIS2-Registrierungspflicht-11201817.html",
@@ -36,18 +48,6 @@
       "teaser": "Meta öffnet WhatsApp für KI-Chatbots der Konkurrenz. Doch eine neue Gebühr wirft Zweifel an Metas Kompromissbereitschaft auf.",
       "url": "https://www.heise.de/news/Nach-EU-Druck-Meta-laesst-KI-Chatbots-auf-WhatsApp-zu-aber-nur-gegen-Gebuehr-11201711.html",
       "image_title": "WhatsApp-Chat auf einem Smartphone"
-    },
-    {
-      "title": "KI-Streit eskaliert: Pentagon setzt Anthropic auf die schwarze Liste",
-      "teaser": "Wegen Einschränkungen bei der KI-Nutzung für Überwachung und Waffen stuft das US-Militär den Claude-Entwickler Anthropic nun als Sicherheitsrisiko ein.",
-      "url": "https://www.heise.de/news/Nach-Streit-Pentagon-stuft-Anthropic-als-Risiko-ein-11201725.html",
-      "image_title": "US-Flagge in den Händen von US-Soldaten"
-    },
-    {
-      "title": "Digitale Gewalt: Bundesregierung will Schutzlücken im Strafrecht schließen",
-      "teaser": "Deepfakes, Doxxing, Cyberstalking: Die Bundesregierung plant strengere Regeln, um digitale Gewalt zu bekämpfen. Was Justizministerin Stefanie Hubig vorschlägt.",
-      "url": "https://www.heise.de/news/Gesetz-gegen-digitale-Gewalt-Jede-fuenfte-Frau-betroffen-11201647.html",
-      "image_title": "Mädchen versteckt Kopf in den Armen und hält Smartphone."
     },
     {
       "title": "HintergrundSocial-Media-Verbot per EU-Wallet: Warum der SPD-Plan kaum umsetzbar wäre",
@@ -63,10 +63,16 @@
       "url": "https://www.heise.de/ratgeber/KI-Slop-Wie-Plattformen-das-dreckige-Geschaeft-mit-der-Muellproduktion-anheizen-11139154.html"
     },
     {
-      "title": "Streit von Anthropic und DOD: Seinen Standpunkt muss man sich leisten können",
-      "teaser": "Im Streit mit dem Department of Defense konnte sich Anthropic seinen Standpunkt bisher leisten, kommentiert Philipp Steevens. Fraglich ist, ob das so bleibt.",
-      "url": "https://www.heise.de/meinung/Streit-von-Anthropic-und-DOD-Seinen-Standpunkt-muss-man-sich-leisten-koennen-11201332.html",
+      "title": "KI-Streit eskaliert: Pentagon setzt Anthropic auf die schwarze Liste",
+      "teaser": "Wegen Einschränkungen bei der KI-Nutzung für Überwachung und Waffen stuft das US-Militär den Claude-Entwickler Anthropic nun als Sicherheitsrisiko ein.",
+      "url": "https://www.heise.de/news/Nach-Streit-Pentagon-stuft-Anthropic-als-Risiko-ein-11201725.html",
       "image_title": "US-Flagge in den Händen von US-Soldaten"
+    },
+    {
+      "title": "Digitale Gewalt: Bundesregierung will Schutzlücken im Strafrecht schließen",
+      "teaser": "Deepfakes, Doxxing, Cyberstalking: Die Bundesregierung plant strengere Regeln, um digitale Gewalt zu bekämpfen. Was Justizministerin Stefanie Hubig vorschlägt.",
+      "url": "https://www.heise.de/news/Gesetz-gegen-digitale-Gewalt-Jede-fuenfte-Frau-betroffen-11201647.html",
+      "image_title": "Mädchen versteckt Kopf in den Armen und hält Smartphone."
     },
     {
       "title": "Russland stuft Werbung auf Telegram als illegal ein",
@@ -145,11 +151,6 @@
       "teaser": "Geld verdienen mit Kinderfotos? SPD und Grüne fordern klare Vorgaben für Eltern, die ihr Familienleben im Internet kommerziell zur Schau stellen.",
       "url": "https://www.heise.de/news/Landtag-diskutiert-ueber-Regeln-fuer-Familien-Influencer-11198102.html",
       "image_title": "Hands,Using,Smartphone,And,Laptop,With,Video,Play,Icons,,Concept"
-    },
-    {
-      "title": "Milliarden-Deal: Accenture übernimmt Netzwerkanalyse-Spezialisten Ookla",
-      "teaser": "Mit dem Kauf der Connectivity-Sparte des Medienhauses Ziff Davis setzt Accenture seine strategische Expansion fort und erweitert das eigene Portfolio.",
-      "url": "https://www.heise.de/news/Milliarden-Deal-Accenture-uebernimmt-Netzwerkanalyse-Spezialisten-Ookla-11197995.html"
     },
     {
       "title": "NewsZwei AWS-Rechenzentren direkt von Drohnen getroffen: Reparatur wird dauern",
