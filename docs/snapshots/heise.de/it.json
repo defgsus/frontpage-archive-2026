@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-06T06:33:06",
+  "timestamp": "2026-03-06T07:30:58",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Kommentar: Alle reden von Post-Quanten-Krypto, kaum jemand verschlüsselt",
-      "teaser": "Das BSI setzt in der Post-Quanten-Kryptografie auf hybride Verfahren. Ist das ein wenig zuviel PQC-Hype oder doch berechtigt, fragt sich Klaus Schmeh.",
+      "title": "IT-Sicherheitstag Mainz: Risiken in digitalen Lieferketten im Blick",
+      "teaser": "Am 6. Mai diskutieren Fachleute in Mainz, wie Unternehmen ihre IT in vernetzten Wertschöpfungsketten besser absichern können.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Risiken-in-digitalen-Lieferketten-im-Blick-11198444.html"
+    },
+    {
+      "title": "Schlag gegen Kryptomixer – Millionen-Geldwäsche im Visier",
+      "teaser": "140 Millionen US-Dollar in Ethereum verschleiert: 29-Jähriger aus Stuttgart betrieb Kryptomixer. Taskforce ermittelt.",
+      "url": "https://www.heise.de/news/Schlag-gegen-Kryptomixer-Millionen-Geldwaesche-im-Visier-11201326.html",
+      "image_title": "Fiktive Münzen von Kryptowährungen liegen in einem Kreis auf grüner Oberfläche"
+    },
+    {
+      "title": "KommentarAlle reden von Post-Quanten-Krypto, kaum jemand verschlüsselt",
+      "teaser": "Das BSI setzt in der Post-Quanten-Kryptografie auf hybride Verfahren. Ist das zu viel Hype oder berechtigt, fragt sich Klaus Schmeh.",
       "url": "https://www.heise.de/meinung/Kommentar-Alle-reden-von-Post-Quanten-Krypto-kaum-jemand-verschluesselt-11200926.html",
       "image_title": "Teile eines Quantencomputers"
     },
@@ -36,18 +47,6 @@
       "teaser": "Wer sich OpenSSL-Befehle auf der Kommandozeile ersparen will, greift zum grafischen Tool XCA und speichert den privaten Schlüssel im TPM-Chip des Computers.",
       "url": "https://www.heise.de/ratgeber/Security-Die-eigene-CA-mit-TPM-Chip-einrichten-11191296.html",
       "image_title": ","
-    },
-    {
-      "title": "Freitag: GPT-5.4 als KI für alle Fälle, erste Details zu WhatsApp-Premiumabo",
-      "teaser": "GPT-5.4 vereint KI-Modelle + WhatsApp Plus mit Zusatzfunktionen + Xbox für PC-Spiele angekündigt + KI-Rechenzentren mit Windkraft im Ozean + Datenschutz-Podcast",
-      "url": "https://www.heise.de/news/Freitag-GPT-5-4-als-KI-fuer-alle-Faelle-erste-Details-zu-WhatsApp-Premiumabo-11201266.html",
-      "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole; Freitag: OpenAI-Verbesserungen, WhatsApp-Bezahlabo, Microsoft-Konsolenneuheit, KI-Standort-Alternative & Datenschutz-Podcast"
-    },
-    {
-      "title": "GPT-5.4 ist daNative Computer-Steuerung und bessere Effizienz für Profis",
-      "teaser": "OpenAI veröffentlicht GPT-5.4, das Reasoning, Coding und Computer-Steuerung in einem Modell vereint und Konkurrenten übertrifft.",
-      "url": "https://www.heise.de/news/GPT-5-4-OpenAI-vereint-Reasoning-und-Coding-mit-Computer-Steuerung-11201169.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
       "title": "RatgeberSecurity: Die eigene CA mit TPM-Chip einrichten",
@@ -68,6 +67,12 @@
       "teaser": "Eine staatliche iranische Nachrichtenagentur behauptet, dass die Drohnenangriffe auf AWS Absicht waren. Die Reparaturen dauern derweil weiter an.",
       "url": "https://www.heise.de/news/Iran-Drohnenangriffe-auf-AWS-in-den-VAE-und-Bahrain-waren-angeblich-Absicht-11201280.html",
       "image_title": "AWS-Statusseite"
+    },
+    {
+      "title": "GPT-5.4 ist da: Native Computer-Steuerung und bessere Effizienz für Profis",
+      "teaser": "OpenAI veröffentlicht GPT-5.4, das Reasoning, Coding und Computer-Steuerung in einem Modell vereint und Konkurrenten übertrifft.",
+      "url": "https://www.heise.de/news/GPT-5-4-OpenAI-vereint-Reasoning-und-Coding-mit-Computer-Steuerung-11201169.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
     },
     {
       "title": "Der Ozean als Standort für KI-Rechenzentren",
@@ -143,12 +148,6 @@
       "teaser": "Mit einer Mini-Aktualisierung versorgt Apple die Besitzer von iPhones, iPads und Macs. Sie passt sich an neue Hardware an.",
       "url": "https://www.heise.de/news/Geraete-Kompatibilitaet-Kleinere-Updates-fuer-iOS-iPadOS-und-macOS-11200370.html",
       "image_title": "macOS 26 Tahoe auf verschiedenen Macs"
-    },
-    {
-      "title": "GrapheneOS: Microsoft Authenticator unterstützt sicheres Android-OS nicht",
-      "teaser": "Microsofts Authenticator soll Entra-Zugänge von gerooteten und gejailbreakten Geräten löschen. GrapheneOS könnte betroffen sein.",
-      "url": "https://www.heise.de/news/GrapheneOS-Microsoft-Authenticator-unterstuetzt-sicheres-Android-OS-nicht-11200269.html",
-      "image_title": "Meldungen von erkannten Jailbreaks und root von Microsofts Authenticator"
     },
     {
       "title": "NewsZwei AWS-Rechenzentren direkt von Drohnen getroffen: Reparatur wird dauern",
