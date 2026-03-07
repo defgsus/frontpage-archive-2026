@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-07T15:11:58",
+  "timestamp": "2026-03-07T16:13:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Beschleunigte Erderwärmung: Das 1,5-Grad-Ziel rückt in gefährliche Nähe",
+      "url": "https://www.heise.de/news/Beschleunigte-Erderwaermung-Das-1-5-Grad-Ziel-rueckt-in-gefaehrliche-Naehe-11203039.html"
+    },
     {
       "title": "Alliwava GH8 mit Ryzen 9 im Test: Mini-PC mit guter Verarbeitung, 2x LAN & USB4",
       "url": "https://www.heise.de/bestenlisten/testbericht/alliwava-gh8-mit-ryzen-9-im-test-mini-pc-mit-guter-verarbeitung-2x-lan-und-usb4/8t7y79z?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -64,10 +68,6 @@
       "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
-      "url": "https://www.heise.de/news/Neue-LG-Fernseher-Neben-OLEDs-nun-auch-TVs-mit-Micro-RGB-LEDs-11202900.html"
     },
     {
       "title": "Sprit teurer – Preisbremse überwiegend abgelehnt",
@@ -185,20 +185,25 @@
       "image_title": "Scheibe einer Festplatte"
     },
     {
+      "title": "Beschleunigte Erderwärmung: Das 1,5-Grad-Ziel rückt in gefährliche Nähe",
+      "teaser": "Eine Studie des Potsdamer Klima-Instituts belegt eine signifikante Zunahme der Erwärmungsrate seit 2015 und warnt vor dem raschen Reißen der Pariser Klimaziele.",
+      "url": "https://www.heise.de/news/Beschleunigte-Erderwaermung-Das-1-5-Grad-Ziel-rueckt-in-gefaehrliche-Naehe-11203039.html"
+    },
+    {
       "title": "Alliwava GH8 mit Ryzen 9 im Test: Mini-PC mit guter Verarbeitung, 2x LAN & USB4",
       "teaser": "Der Mini-PC Alliwava GH8 kommt mit guter Verarbeitung, satten 32 GB DDR5-RAM und einer 1 TB SSD sowie zwei LAN-Ports und USB4.",
       "url": "https://www.heise.de/bestenlisten/testbericht/alliwava-gh8-mit-ryzen-9-im-test-mini-pc-mit-guter-verarbeitung-2x-lan-und-usb4/8t7y79z?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Amazon, Google und Microsoft stärken Anthropic den Rücken",
       "teaser": "Für zivile Projekte könnte man Claude und Co. weiter verwenden, meinen Tech-Giganten.",
       "url": "https://www.heise.de/news/Amazon-Google-und-Microsoft-staerken-Anthropic-den-Ruecken-11203033.html",
       "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "SATCOMBw: Jetzt will auch Airbus ein Konsortium mit Rheinmetall und OHB",
@@ -226,11 +231,6 @@
       "title": "Schnellladesäulen an Autobahnen: Ausschreibung notwendig",
       "teaser": "Konkurrenz statt Exklusivrechte: Warum Tankstellenbetreiber an Autobahnen nicht einfach Schnelllader bauen dürfen.",
       "url": "https://www.heise.de/news/Schnellladesaeulen-an-Autobahnen-Ausschreibung-notwendig-11202972.html"
-    },
-    {
-      "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
-      "teaser": "Keepass speichert Passwörter sicher und kostenlos. Wir führen Schritt für Schritt durch Installation, Datenbankverwaltung und sinnvolle Sicherheitsstrategien.",
-      "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html"
     },
     {
       "title": "Tschüss Big TechSichere E-Mail-Alternativen aus Europa",
@@ -323,6 +323,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
+      "teaser": "Keepass speichert Passwörter sicher und kostenlos. Wir führen Schritt für Schritt durch Installation, Datenbankverwaltung und sinnvolle Sicherheitsstrategien.",
+      "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html"
+    },
+    {
       "title": "Nikon gegen die Welt – Fujifilm fragt nach: Die Fotonews der Woche 10/26",
       "teaser": "Nikon verklagt chinesische Objektivhersteller und Z-Mount-Objektive verschwinden aus Shops. Fujifilm lässt abstimmen, welche Objektive gebaut werden sollen.",
       "url": "https://www.heise.de/news/Nikon-gegen-die-Welt-Fujifilm-fragt-nach-Die-Fotonews-der-Woche-10-26-11201871.html",
@@ -393,14 +398,14 @@
       "url": "https://www.heise.de/news/KI-im-Auto-SoundHound-AI-zeigt-Agentic-AI-fuer-komplexe-Aufgaben-11202252.html"
     },
     {
+      "title": "Von der Cloud zum KI-PC – wie sich KI-Modelle portieren lassen",
+      "teaser": "KI-Modelle, die in der Cloud trainiert wurden, lassen sich oft nur schwer in lokale IT-Umgebungen integrieren. Doch es gibt einen Weg, diese Hürden zu überwinden und KI plattformübergreifend einzusetzen!",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/von-der-cloud-zum-ki-pc-wie-sich-ki-modelle-portieren-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "Fehlplanung im Heimnetz: Warnung vorm Multimediaverteiler",
       "teaser": "Im Multimediaverteiler soll Netzwerkhardware ein dezentes Zuhause finden. Doch in der Praxis erweist er sich als zu eng. Eine Kultur- und Architekturkritik.",
       "url": "https://www.heise.de/tests/Fehlplanung-im-Heimnetz-Warnung-vorm-Multimediaverteiler-11199632.html"
-    },
-    {
-      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
-      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
     },
     {
       "title": "Merz lässt bei Rabatt auf Sprit eine Entscheidung offen",
@@ -453,11 +458,6 @@
       "teaser": "Apple gilt für Serienmachen eigentlich als ruhiger Hafen: Mag der Konzern etwas, wird nachbestellt. Bei „Palm Royale“ aber nicht. Nach Plot Twist ist Schluss.",
       "url": "https://www.heise.de/news/Apple-TV-cancelt-Dramedy-Palm-Royale-und-Nutzer-sind-sauer-11197403.html",
       "image_title": "„Palm Royale“: Wie es weitergeht, bleibt offen"
-    },
-    {
-      "title": "KI und Urheberrechte: EU-Abgeordnete wollen Abkürzung nehmen",
-      "teaser": "Das Urheberrecht wegen der Probleme mit KI-Anbietern anzufassen, hat für die EU-Kommission nicht die größte Eile. Das Europaparlament will nun drängeln.",
-      "url": "https://www.heise.de/news/KI-und-Urheberrechte-EU-Abgeordnete-wollen-Abkuerzung-nehmen-11202275.html"
     },
     {
       "title": "GPT-5.4 ist da: Native Computer-Steuerung und bessere Effizienz für Profis",
@@ -630,9 +630,10 @@
       "url": "https://www.heise.de/en/news/Project-Helix-New-Xbox-plays-PC-and-console-games-11201183.html"
     },
     {
-      "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
-      "teaser": "OLED-Spezialist LG hat seine neuen TVs gezeigt, organische Display bekommen bessere Bildqualität, die meisten LCD-TVs werden billiger, eine Gruppe fällt raus.",
-      "url": "https://www.heise.de/news/Neue-LG-Fernseher-Neben-OLEDs-nun-auch-TVs-mit-Micro-RGB-LEDs-11202900.html"
+      "title": "c’t-Webinar: Photovoltaik für Einsteiger",
+      "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11198578.html",
+      "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
     },
     {
       "title": "c't 3003Nextcloud im Praxistest: BESSER als Teams?",
@@ -640,10 +641,9 @@
       "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
     },
     {
-      "title": "c’t-Webinar: Photovoltaik für Einsteiger",
-      "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11198578.html",
-      "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
+      "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
+      "teaser": "OLED-Spezialist LG hat seine neuen TVs gezeigt, organische Display bekommen bessere Bildqualität, die meisten LCD-TVs werden billiger, eine Gruppe fällt raus.",
+      "url": "https://www.heise.de/news/Neue-LG-Fernseher-Neben-OLEDs-nun-auch-TVs-mit-Micro-RGB-LEDs-11202900.html"
     },
     {
       "title": "Dirigera, Kajplats & Co. im TestDas leisten die neuen Smart-Home-Geräte von Ikea",
@@ -697,10 +697,10 @@
       "url": "https://www.heise.de/news/DxO-PureRaw-6-Fototool-reduziert-Bildrauschen-und-entfernt-Staubflecken-11182603.html"
     },
     {
-      "title": "Zwischen Unsicherheit und Urlaubsspaß: Click Boom Flash #57 „Smartglasses\"",
-      "teaser": "„Ein Griff zum Pearl-Katalog genügt, um eine Kugelschreiberkamera zu finden\", sagt c't-Redakteur Nico Jurran über die Angst vor Smartglasses als Spionagetool.",
-      "url": "https://www.heise.de/news/Zwischen-Unsicherheit-und-Urlaubsspass-Click-Boom-Flash-57-Smartglasses-11189801.html",
-      "image_title": "Smartglasses"
+      "title": "Bokeh gezielt einsetzen: So gelingen Naturfotos mit Tiefe und Atmosphäre",
+      "teaser": "Erfahren Sie, wie Sie mit Vordergrund, langen Brennweiten und gezielter Lichtführung kreatives Bokeh gestalten – von Makro bis Wildlife.",
+      "url": "https://www.heise.de/ratgeber/Bokeh-gezielt-einsetzen-So-gelingen-Naturfotos-mit-Tiefe-und-Atmosphaere-11188481.html",
+      "image_title": ", Alle Bilder: Radomir Jakubowski"
     },
     {
       "title": "Ein ÜberblickMicrosoft-Dienste eigenständig ohne Cloud betreiben",
@@ -745,22 +745,21 @@
       "image_title": "Aprilia RS 660 Factory"
     },
     {
-      "title": "DRAM-Chips werden knapp: Der Iran-Krieg trifft die Tech-Branche ins Mark",
-      "teaser": "Der Krieg gegen den Iran kappt die Helium-Versorgung. Warum das die globale Chipproduktion ins Wanken bringen könnte.",
-      "url": "https://www.heise.de/-11200348",
-      "image_title": "DDR4-DRAM-Speichermodule. Computer-RAM-Chip, Nahaufnahme auf weiß bei grünem Licht."
+      "title": "Generika unter Druck: Kläranlagen-Ausbau bedroht günstige Arzneimittel",
+      "teaser": "Wer künftig die Rechnung für sauberes Wasser zahlt, könnte den Zugang zu wichtigen Medikamenten grundlegend verändern.",
+      "url": "https://www.heise.de/-11196568",
+      "image_title": "Pille über WC und Pille mit Euro-Zeichen inPfeil nach oben über Abwasserleitung"
     },
     {
-      "title": "Ramses und Ḫattušili: Diplomatie statt Dauerkrieg",
-      "teaser": "Frieden im Nahen Osten ist möglich. Großmächte können Kriege um die Vormacht beenden. Heiraten ist besser als kämpfen. Ein Lehrstück aus der Geschichte.",
-      "url": "https://www.heise.de/-11195474",
-      "image_title": "Eine Steinmauer mit Hyroglyphenschrift"
+      "title": "Iran-Krieg trifft Dubai: Der gefährliche Moment für die Golfstaaten",
+      "teaser": "Angriffe auf Flughäfen und Hotels zeigen: Die Golfstaaten sind verwundbar. Nun stellt sich die Frage: neutral bleiben oder Kriegspartei werden?",
+      "url": "https://www.heise.de/-11199808",
+      "image_title": "Skyline von Dubai"
     },
     {
-      "title": "Kuba: \"Vorbild für viele Länder, die unter der US-Hegemonie leiden\"",
-      "teaser": "Die US-Energieblockade gegen Kuba hält weiter an. Linken-Politiker Pellmann fordert im Telepolis-Interview klare Kante von der Bundesregierung.",
-      "url": "https://www.heise.de/-11200354",
-      "image_title": "Ein Fahrradfahrer auf einer leeren Straße"
+      "title": "Deutschlands ÖPNV und die Bahn: Verfall mit Methode",
+      "teaser": "Marode Gleise, leere Versprechen, volle Busse: Der deutsche Nahverkehr kollabiert – und die Politik schaut weg. Warum der Wahnsinn Methode hat.",
+      "url": "https://www.heise.de/-11200277"
     },
     {
       "title": "„Schmerzhaft mitanzusehen“: Wie KI das Go-Spiel radikal verändert hat",
