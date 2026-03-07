@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-07T12:21:20",
+  "timestamp": "2026-03-07T13:31:11",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "c’t-Webinar: Photovoltaik für Einsteiger",
       "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11198578.html"
@@ -62,10 +68,6 @@
     {
       "title": "KI als Spiegel: Fehlende Bedeutung in Code und Architektur",
       "url": "https://www.heise.de/hintergrund/KI-als-Spiegel-Fehlende-Bedeutung-in-Code-und-Architektur-11202267.html"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11201342.html"
     },
     {
       "title": "Lithografie-SystemeChinesische Chipgrößen fordern „chinesisches ASML“",
@@ -184,20 +186,25 @@
       "image_title": "Scheibe einer Festplatte"
     },
     {
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
+    },
+    {
       "title": "c’t-Webinar: Photovoltaik für Einsteiger",
       "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
       "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11198578.html",
       "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
     },
     {
-      "title": "Deutsche Bahn liegt weiter hinter Pünktlichkeitszielen",
-      "teaser": "Im Februar erreichten nur 59,4 Prozent der Fernverkehrszüge der Deutschen Bahn ihr Ziel pünktlich. Die DB bleibt damit weiter hinter ihren Zielen.",
-      "url": "https://www.heise.de/news/Bahn-Puenktlichkeit-im-Fernverkehr-weiter-unter-60-Prozent-11202993.html"
-    },
-    {
       "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
       "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
       "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
+    },
+    {
+      "title": "Deutsche Bahn liegt weiter hinter Pünktlichkeitszielen",
+      "teaser": "Im Februar erreichten nur 59,4 Prozent der Fernverkehrszüge der Deutschen Bahn ihr Ziel pünktlich. Die DB bleibt damit weiter hinter ihren Zielen.",
+      "url": "https://www.heise.de/news/Bahn-Puenktlichkeit-im-Fernverkehr-weiter-unter-60-Prozent-11202993.html"
     },
     {
       "title": "Sprit immer teurer – Preisbremse überwiegend abgelehnt",
@@ -225,12 +232,6 @@
       "teaser": "Routineaufgaben mit robotergestützter Prozessautomatisierung von Bots eigenständig erledigen lassen und so Workflows effizienter gestalten.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Automation-Anywhere-von-manuellen-Ablaeufen-zu-smarten-Workflows-11185659.html",
       "image_title": "iX-Workshop RPA mit Automation Anywhere: Bots bauen, Dokumente automatisieren, KI nutzen"
-    },
-    {
-      "title": "KI als Spiegel: Fehlende Bedeutung in Code und Architektur",
-      "teaser": "Code und Architektur gelingt es oft nicht, Bedeutung verständlich zu vermitteln. An den Folgen scheitern nicht nur Menschen, sondern auch KI-Modelle.",
-      "url": "https://www.heise.de/hintergrund/KI-als-Spiegel-Fehlende-Bedeutung-in-Code-und-Architektur-11202267.html",
-      "image_title": "Menschliche Hand und digitale Hand berühren sich"
     },
     {
       "title": "Tschüss Big TechSichere E-Mail-Alternativen aus Europa",
@@ -292,7 +293,7 @@
     },
     {
       "title": "Testsieger misst BlutdruckTop 10: Die beste Smartwatch mit EKG im Test",
-      "teaser": "Vorhofflimmern bleibt häufig unbemerkt. Smartwatches mit EKG-Funktion helfen, Herzrhythmusstörungen frühzeitig zu erkennen.",
+      "teaser": "Vorhofflimmern bleibt häufig unbemerkt. Smartwatches mit EKG können Herzrhythmusstörungen frühzeitig erkennen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
@@ -321,6 +322,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "KI als Spiegel: Fehlende Bedeutung in Code und Architektur",
+      "teaser": "Code und Architektur gelingt es oft nicht, Bedeutung verständlich zu vermitteln. An den Folgen scheitern nicht nur Menschen, sondern auch KI-Modelle.",
+      "url": "https://www.heise.de/hintergrund/KI-als-Spiegel-Fehlende-Bedeutung-in-Code-und-Architektur-11202267.html",
+      "image_title": "Menschliche Hand und digitale Hand berühren sich"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
@@ -392,15 +399,15 @@
       "image_title": "Netflix-Logo auf einem Fernseher vor einer Oberfläche mit Film- und Serienkacheln des Streamingdienstes."
     },
     {
+      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
+      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
+    },
+    {
       "title": "„Spaßig und freundlich“: Warum das MacBook Neo so heißt wie es heißt",
       "teaser": "Apple begibt sich mit dem MacBook Neo in neue Marktbereiche. Das ist erklärungsbedürftig – der Konzern schickt eine Marketingdirektorin vor.",
       "url": "https://www.heise.de/news/Spassig-und-freundlich-Warum-das-MacBook-Neo-so-heisst-wie-es-heisst-11201246.html",
       "image_title": "MacBook Neo in Benutzung"
-    },
-    {
-      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
-      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
     },
     {
       "title": "KI-Update: Google Beam, GPT-5.4, Wahnbeziehung zu Gemini, KI-Fazit vom MWC",
@@ -451,12 +458,6 @@
       "title": "Luma: KI-Agent erzeugt Audio, Videos und Bilder",
       "teaser": "Die Web-App Luma erstellt Audio-, Bild- und Videoprojekte mithilfe von KI-Agenten – vom Brainstorming über die Planung bis hin zur Auslieferung.",
       "url": "https://www.heise.de/news/Luma-KI-Agenten-fuer-kreative-Projekte-von-Audio-ueber-Video-bis-Print-11202261.html"
-    },
-    {
-      "title": "ScanSnap-Scanner erhalten erstmals native Apple-Silicon-App",
-      "teaser": "Hersteller Ricoh, vormals Fujitsu, hat ein Update für seine Scanner-Software publiziert. Darin erfolgt ein lange erwarteter Architekturwechsel.",
-      "url": "https://www.heise.de/news/Besser-spaet-als-nie-ScanSnap-Home-App-von-Ricoh-Fujitsu-nun-fuer-Apple-Silicon-11197437.html",
-      "image_title": "ScanSnap-Home-Updater"
     },
     {
       "title": "GPT-5.4 ist da: Native Computer-Steuerung und bessere Effizienz für Profis",
@@ -629,20 +630,19 @@
       "url": "https://www.heise.de/en/news/Project-Helix-New-Xbox-plays-PC-and-console-games-11201183.html"
     },
     {
-      "title": "c’t uplinkWetterballon im Selbstbau",
-      "teaser": "In dieser Folge des c’t uplink: Wie baut man einen Wetterballon, was kommt da rein und was muss man beachten?",
-      "url": "https://www.heise.de/news/Wetterballon-im-Selbstbau-c-t-uplink-11201154.html"
-    },
-    {
       "title": "c't 3003Nextcloud im Praxistest: BESSER als Teams?",
       "teaser": "Mit Nextcloud gibt es eine deutsche Alternative zu Dropbox, Teams, Slack und anderen US-Anbietern. c't 3003 hat sie ausprobiert.",
       "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
     },
     {
-      "title": "Predator: Badlands im 4K-HeimkinotestDisney zähmt seinen gefährlichsten Jäger",
-      "teaser": "Disney verwandelt seine außerirdische Kampf-Maschine in ein zahmes Teenie-Franchise. Kann die 4K-UHD wenigstens technisch überzeugen?",
-      "url": "https://www.heise.de/tests/Predator-Badlands-im-4K-Heimkinotest-Monster-Hunter-statt-Schwarzenegger-11201078.html",
-      "image_title": "Predator: Badlands"
+      "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
+      "teaser": "OLED-Spezialist LG hat seine neuen TVs gezeigt, organische Display bekommen bessere Bildqualität, die meisten LCD-TVs werden billiger, eine Gruppe fällt raus.",
+      "url": "https://www.heise.de/news/Neue-LG-Fernseher-Neben-OLEDs-nun-auch-TVs-mit-Micro-RGB-LEDs-11202900.html"
+    },
+    {
+      "title": "c’t uplinkWetterballon im Selbstbau",
+      "teaser": "In dieser Folge des c’t uplink: Wie baut man einen Wetterballon, was kommt da rein und was muss man beachten?",
+      "url": "https://www.heise.de/news/Wetterballon-im-Selbstbau-c-t-uplink-11201154.html"
     },
     {
       "title": "Dirigera, Kajplats & Co. im TestDas leisten die neuen Smart-Home-Geräte von Ikea",
@@ -663,6 +663,11 @@
       "image_title": ", Madlen Grunert, Sebastian Trepesch / KI / heise medien"
     },
     {
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
+    },
+    {
       "title": "Matter Discovery Bundle von Arduino für Maker",
       "teaser": "Arduino bringt ein Entwicklerpaket für Matter heraus. Das Bundle kombiniert Nano-Mikrocontroller, Sensoren und Lernmaterial für erste Smart-Home-Projekte.",
       "url": "https://www.heise.de/news/Matter-Discovery-Bundle-von-Arduino-fuer-Maker-11198815.html",
@@ -672,12 +677,6 @@
       "title": "Do it yourselfEnergiemonitor für Balkonkraftwerk bauen und auswerten",
       "teaser": "Unser Energiemonitor überwacht Verbräuche und Lasten, damit Sie den Strom eines Balkonkraftwerks möglichst gut nutzen können.",
       "url": "https://www.heise.de/ratgeber/Energiemonitor-fuer-Balkonkraftwerk-bauen-und-auswerten-11140405.html"
-    },
-    {
-      "title": "Die Makey: Lab-Plattform",
-      "teaser": "Mit Makey:Lab erscheint in Kürze eine Plattform für IoT-Technik. Es richtet sich an junge Menschen, die Technik nicht nur nutzen, sondern auch verstehen wollen.",
-      "url": "https://www.heise.de/ratgeber/Die-Makey-Lab-Plattform-11153763.html",
-      "image_title": "IoT verstehen statt nur nutzen: Mit Makey:Lab stellen Make und der Umwelt-Campus Birkenfeld eine neue Plattform für eigene Technikprojekte vor.,"
     },
     {
       "title": "Mehr Reichweite für wenig GeldTeleobjektiv fürs Smartphone",
@@ -745,22 +744,21 @@
       "image_title": "Aprilia RS 660 Factory"
     },
     {
-      "title": "Ramses und Ḫattušili: Diplomatie statt Dauerkrieg",
-      "teaser": "Frieden im Nahen Osten ist möglich. Großmächte können Kriege um die Vormacht beenden. Heiraten ist besser als kämpfen. Ein Lehrstück aus der Geschichte.",
-      "url": "https://www.heise.de/-11195474",
-      "image_title": "Eine Steinmauer mit Hyroglyphenschrift"
+      "title": "Iran-Krieg trifft Dubai: Der gefährliche Moment für die Golfstaaten",
+      "teaser": "Angriffe auf Flughäfen und Hotels zeigen: Die Golfstaaten sind verwundbar. Nun stellt sich die Frage: neutral bleiben oder Kriegspartei werden?",
+      "url": "https://www.heise.de/-11199808",
+      "image_title": "Skyline von Dubai"
     },
     {
-      "title": "Kuba: \"Vorbild für viele Länder, die unter der US-Hegemonie leiden\"",
-      "teaser": "Die US-Energieblockade gegen Kuba hält weiter an. Linken-Politiker Pellmann fordert im Telepolis-Interview klare Kante von der Bundesregierung.",
-      "url": "https://www.heise.de/-11200354",
-      "image_title": "Ein Fahrradfahrer auf einer leeren Straße"
+      "title": "Sigmund Jähn: Der erste Deutsche im All, den Deutschland vergaß",
+      "teaser": "Der erste Deutsche im All wurde zum DDR-Helden – doch nach der Wende ignorierte ihn die Bundesregierung jahrzehntelang fast vollständig.",
+      "url": "https://www.heise.de/-11195270",
+      "image_title": "Sigmund Jähn"
     },
     {
-      "title": "Magnesium statt Lithium: Neue Batterie verspricht mehr Leistung",
-      "teaser": "Japanische Forscher entwickeln eine Magnesium-Luft-Batterie mit Graphen-Kathode. Sie ist günstiger, sicherer und leistungsstärker als bisherige Systeme.",
-      "url": "https://www.heise.de/-11200700",
-      "image_title": "Bald veraltet: Lithium-NMC-Batterie für Elektrofahrzeuge zur Energiespeicherung von Elektrofahrzeugen."
+      "title": "Von Zypern bis Baku: Der Flächenbrand ist da",
+      "teaser": "Kurden, Krise, Konfrontation – Teheran taumelt. Das Netz um den Iran zieht sich zu, während im Libanon eine neue Front entsteht. Eine Momentaufnahme.",
+      "url": "https://www.heise.de/-11201595"
     },
     {
       "title": "„Schmerzhaft mitanzusehen“: Wie KI das Go-Spiel radikal verändert hat",
