@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-08T01:02:57",
+  "timestamp": "2026-03-08T03:59:52",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -273,18 +279,18 @@
       "image_title": "Ehe im Ruhestand: \"Ich hatte einen Mann, der frustriert rumhing\""
     },
     {
-      "title": "CDU: Friedrich Merz will Rente an Lebensarbeitszeit koppeln",
-      "teaser": "Über die Höhe der Rente soll künftig nach Vorstellungen des Kanzlers nicht mehr ein fixes Eintrittsalter entscheiden. Wichtiger sei, wie lange jemand gearbeitet habe.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-03/friedrich-merz-rente-sozialpolitik-wahl-baden-wuerttemberg",
-      "image_url": "https://img.zeit.de/politik/2026-03/merz-rente-lebensarbeitszeit-bild/super__430x287",
-      "image_title": "CDU: German Chancellor Friedrich Merz speaks during the final election campaign event of Baden-Wuerttemberg's Christian Democratic Union (CDU) top candidate Manuel Hagel in Ravensburg, Germany March 6, 2026. REUTERS/Michaela Stache"
+      "title": "KI-Technologie: OpenAI-Managerin kündigt wegen Pentagon-Auftrag",
+      "teaser": "Caitlin Kalinowski, Leiterin für Robotik und Hardware bei OpenAI, hat Sicherheitsbedenken beim KI-Einsatz im Militär. Sie bezeichnet die Zustimmung als überstürzt.",
+      "url": "https://www.zeit.de/politik/ausland/2026-03/ki-anthropic-openai-pentagon-sicherheit-caitlin-kalinowski",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-03/ki-anthropic-openai-pentagon-sicherheit-caitlin-kalinowski-bild/super__430x287",
+      "image_title": "KI-Technologie: Logo von OpenAI: Nicht alle unterstützen den schnellen Deal mit dem Pentagon."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reform der Riesterrente: Wer profitiert wirklich vom Altersvorsorge-Depot?",
-      "teaser": "Der Staat will privates Sparen fürs Alter weiter fördern – und die Riesterrente reformieren. Wem das tatsächlich was bringt – und warum es für Jüngere teuer wird.",
-      "url": "https://www.zeit.de/geld/2026-03/reform-riester-rente-altersvorsorge-depot-finanzen",
-      "image_url": "https://img.zeit.de/geld/2026-03/reform-riester-rente-altersvorsorge-depot-finanzen-bild/super__430x287",
-      "image_title": "Reform der Riesterrente: Wer profitiert wirklich vom Altersvorsorge-Depot?"
+      "title": "Halbierungsinitiative: Schweiz entscheidet über Abgabe für öffentlich-rechtlichen Rundfunk",
+      "teaser": "Schweizerinnen und Schweizer stimmen über eine Halbierung der Haushaltsabgabe für den öffentlich-rechtlichen Rundfunk ab. Es wird mit einem knappen Ergebnis gerechnet.",
+      "url": "https://www.zeit.de/politik/ausland/2026-03/schweiz-rundfunk-abgabe-abstimmung-halbierung-ergebnis",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-03/schweizer-entscheiden-ueber-rundfunkbeitrag-bild/super__430x287",
+      "image_title": "Halbierungsinitiative: Equipment beim Schweizer Radio und Fernsehen (SRF): Eine Abstimmung entscheidet über die Zukunft des öffentlich-rechtlichen Rundfunks in der Schweiz."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Akzeptanz: \"Und plötzlich ist da wieder Ruhe im Kopf\"",
@@ -308,11 +314,18 @@
       "image_title": "Spaß: Kann ich Spaß lernen?"
     },
     {
-      "title": "Halbierungsinitiative: Schweiz entscheidet über Abgabe für öffentlich-rechtlichen Rundfunk",
-      "teaser": "Schweizerinnen und Schweizer stimmen über eine Halbierung der Haushaltsabgabe für den öffentlich-rechtlichen Rundfunk ab. Es wird mit einem knappen Ergebnis gerechnet.",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/schweiz-rundfunk-abgabe-abstimmung-halbierung-ergebnis",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-03/schweizer-entscheiden-ueber-rundfunkbeitrag-bild/super__430x287",
-      "image_title": "Halbierungsinitiative: Equipment beim Schweizer Radio und Fernsehen (SRF): Eine Abstimmung entscheidet über die Zukunft des öffentlich-rechtlichen Rundfunks in der Schweiz."
+      "title": "CDU: Friedrich Merz will Rente an Lebensarbeitszeit koppeln",
+      "teaser": "Über die Höhe der Rente soll künftig nach Vorstellungen des Kanzlers nicht mehr ein fixes Eintrittsalter entscheiden. Wichtiger sei, wie lange jemand gearbeitet habe.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-03/friedrich-merz-rente-sozialpolitik-wahl-baden-wuerttemberg",
+      "image_url": "https://img.zeit.de/politik/2026-03/merz-rente-lebensarbeitszeit-bild/super__430x287",
+      "image_title": "CDU: German Chancellor Friedrich Merz speaks during the final election campaign event of Baden-Wuerttemberg's Christian Democratic Union (CDU) top candidate Manuel Hagel in Ravensburg, Germany March 6, 2026. REUTERS/Michaela Stache"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Reform der Riesterrente: Wer profitiert wirklich vom Altersvorsorge-Depot?",
+      "teaser": "Der Staat will privates Sparen fürs Alter weiter fördern – und die Riesterrente reformieren. Wem das tatsächlich was bringt – und warum es für Jüngere teuer wird.",
+      "url": "https://www.zeit.de/geld/2026-03/reform-riester-rente-altersvorsorge-depot-finanzen",
+      "image_url": "https://img.zeit.de/geld/2026-03/reform-riester-rente-altersvorsorge-depot-finanzen-bild/super__430x287",
+      "image_title": "Reform der Riesterrente: Wer profitiert wirklich vom Altersvorsorge-Depot?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Drogenkartelle in Sinaloa: Sonntags beginnt das Morden erst nach elf. Meistens",
@@ -913,9 +926,9 @@
     },
     {
       "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
       "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__430x286__desktop",
       "image_title": "Welcher Beruf passt zu mir?"
     },
     {
@@ -982,36 +995,36 @@
       "image_title": "Hapag-Lloyd: Hapag-Lloyd and other shipping containers stacked up in the port of Jebel Ali on the 29th of December 2024 in Dubai United Arab Emirates. Jebel Ali is run by DP World and is the world's ninth busiest port, the largest man-made harbour, and the biggest and by far the busiest port in the Middle-East."
     },
     {
-      "title": "Nahost: Erneut Angriffe in Saudi-Arabien und Kuwait",
-      "url": "https://www.zeit.de/news/2026-03/08/erneut-angriffe-in-saudi-arabien-und-kuwait"
+      "title": "Notfälle auf Nord- und Ostsee: Brände löschen, Verletzte bergen – Wie geht das auf See?",
+      "url": "https://www.zeit.de/news/2026-03/08/braende-loeschen-verletzte-bergen-wie-geht-das-auf-see"
     },
     {
-      "title": "Leute: Haftbefehls Frau nach Einbruch: \"Es steckt noch tief in mir\"",
-      "url": "https://www.zeit.de/news/2026-03/08/haftbefehls-frau-nach-einbruch-es-steckt-noch-tief-in-mir"
+      "title": "Gerichte: Prozess nach tödlicher Messerattacke im Supermarkt startet",
+      "url": "https://www.zeit.de/news/2026-03/08/prozess-nach-toedlicher-messerattacke-im-supermarkt-startet"
     },
     {
-      "title": "In Alaska: Größtes Schlittenhunderennen der Welt offiziell gestartet",
-      "url": "https://www.zeit.de/news/2026-03/08/groesstes-schlittenhunderennen-der-welt-offiziell-gestartet"
+      "title": "Imbiss-Gerichte: Trotz hoher Preise: Döner bleibt bei Kunden gefragt",
+      "url": "https://www.zeit.de/news/2026-03/08/trotz-hoher-preise-doener-bleibt-bei-kunden-gefragt"
     },
     {
-      "title": "Wetter: DWD: Nochmal teils milchig-trübes Licht wegen Saharastaub",
-      "url": "https://www.zeit.de/news/2026-03/08/dwd-nochmal-teils-milchig-truebes-licht-wegen-saharastaub"
+      "title": "Gesellschaft: Antifeminismus in Deutschland - \"Müssen jetzt wütend sein\"",
+      "url": "https://www.zeit.de/news/2026-03/08/antifeminismus-in-deutschland-muessen-jetzt-wuetend-sein"
     },
     {
-      "title": "Fußball: Ein \"geiler Typ\": Max Kruse feiert Debüt in Dassendorf",
-      "url": "https://www.zeit.de/news/2026-03/08/ein-geiler-typ-max-kruse-feiert-debuet-in-dassendorf"
+      "title": "Heizen in Berlin: Grüne: Keine neuen Gasheizungen in landeseigenen Wohnungen",
+      "url": "https://www.zeit.de/news/2026-03/08/gruene-keine-neuen-gasheizungen-in-landeseigenen-wohnungen"
     },
     {
-      "title": "Kalenderblatt: Was geschah am 8. März?",
-      "url": "https://www.zeit.de/news/2026-03/07/was-geschah-am-8-maerz"
+      "title": "Internationaler Frauentag: Frauenstreiks in Rheinland-Pfalz: \"Frauen eine Stimme geben\"",
+      "url": "https://www.zeit.de/news/2026-03/08/frauenstreiks-in-rheinland-pfalz-frauen-eine-stimme-geben"
     },
     {
-      "title": "Auszeichnung: Streamerin Rose Mondy ist \"Miss Germany\"",
-      "url": "https://www.zeit.de/news/2026-03/07/wer-wird-miss-germany"
+      "title": "Preise am Imbissstand: Döner in Berlin wieder günstiger - zumindest punktuell",
+      "url": "https://www.zeit.de/news/2026-03/08/doener-in-berlin-wieder-guenstiger-zumindest-punktuell"
     },
     {
-      "title": "Naher und Mittlerer Osten: Bundesregierung zieht Personal der Botschaft in Teheran ab",
-      "url": "https://www.zeit.de/news/2026-03/07/bundesregierung-zieht-personal-der-botschaft-in-teheran-ab"
+      "title": "Tiere im Frühling: Frühlingsgefühle im Wildpark – nur Eule Sven macht nicht mit",
+      "url": "https://www.zeit.de/news/2026-03/08/fruehlingsgefuehle-im-wildpark-nur-eule-sven-macht-nicht-mit"
     }
   ]
 }
