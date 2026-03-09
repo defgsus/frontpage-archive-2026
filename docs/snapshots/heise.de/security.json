@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T07:42:35",
+  "timestamp": "2026-03-09T08:30:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
-      "title": "AlertVirenschutzAvira mit hochriskanten Sicherheitslücken",
-      "teaser": "Drei hochriskante Sicherheitslücken in Avira Antimalware ermöglichen Angreifern etwa das Ausführen von Code mit Systemrechten.",
-      "url": "https://www.heise.de/news/Avira-Virenschutz-ermoeglicht-Codeschmuggel-11201482.html",
-      "image_title": "Avira-Logo neben Achtung-Schild vor Matrix-Hintergrund"
+      "title": "AlertNextcloud: Codeschmuggel durch Lücke in Flow möglich",
+      "teaser": "In Nextcloud Flow können Angreifer eine Sicherheitslücke missbrauchen, um die Instanz zu kompromittieren. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/Nextcloud-Codeschmuggel-durch-Luecke-in-Flow-moeglich-11203404.html",
+      "image_title": "Nextcloud-Logo mit Achtung-Schild vor Matrix-Hintergrund"
     },
     {
-      "title": "AlertCISA warntAngriffe auf Hikvision, Rockwell Automation und Apple-Produkte",
-      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor aktuellen Angriffen auf Hikvision, Rockwell Automation und Apple-Produkte.",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Hikvision-Rockwell-Automation-und-Apple-Produkte-11201384.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+      "title": "Microsoft Teams bekommt Bot-Erkennung",
+      "teaser": "Microsoft hat auf der Teams-Roadmap eine Bot-Erkennung hinzugefügt. Nachrichten über in Kürze ablaufende Aufzeichnungen entfallen.",
+      "url": "https://www.heise.de/news/Microsoft-Teams-bekommt-Bot-Erkennung-11203470.html",
+      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
     },
     {
-      "title": "AlertAcronis warnt vor zig Sicherheitslücken in Cyber Protect",
-      "url": "https://www.heise.de/news/Acronis-Cyber-Protect-Zig-Schwachstellen-gefaehrden-Unternehmenssoftware-11201761.html",
-      "image_title": "Finger tippt auf Update-Button"
+      "title": "AlertNextcloud: Codeschmuggel durch Lücke in Flow möglich",
+      "url": "https://www.heise.de/news/Nextcloud-Codeschmuggel-durch-Luecke-in-Flow-moeglich-11203404.html",
+      "image_title": "Nextcloud-Logo mit Achtung-Schild vor Matrix-Hintergrund"
     },
     {
       "title": "Webinar am 11. MärzEinführung in das Opensource-SIEM Wazuh",
@@ -114,10 +114,22 @@
       "image_title": "Eine Europa-Karte mit einem Schloss mit EU-Flagge"
     },
     {
+      "title": "AlertAvira-Virenschutz mit hochriskanten Sicherheitslücken",
+      "teaser": "Drei hochriskante Sicherheitslücken in Avira Antimalware ermöglichen Angreifern etwa das Ausführen von Code mit Systemrechten.",
+      "url": "https://www.heise.de/news/Avira-Virenschutz-ermoeglicht-Codeschmuggel-11201482.html",
+      "image_title": "Avira-Logo neben Achtung-Schild vor Matrix-Hintergrund"
+    },
+    {
       "title": "iX-Workshop Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
       "teaser": "Lernen Sie, wie Sie Honeypots in Netzwerken und Clouds einrichten, um Angreifer zu täuschen und Ihre IT effektiv zu schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Cyber-Deception-Angreifer-mit-Honeypots-gezielt-in-die-Falle-locken-11185619.html",
       "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
+    },
+    {
+      "title": "AlertCISA warnt vor Angriffen auf Hikvision, Rockwell Automation und Apple-Produkte",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor aktuellen Angriffen auf Hikvision, Rockwell Automation und Apple-Produkte.",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Hikvision-Rockwell-Automation-und-Apple-Produkte-11201384.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "Schlag gegen Kryptomixer – Millionen-Geldwäsche im Visier",
@@ -138,26 +150,14 @@
       "image_title": "Heft mit der Aufschrift Cyber Security Report 2026"
     },
     {
-      "title": "Cyberangriffe im Jahr 2026: Der Login als Waffe",
-      "teaser": "Auch bei Cyberkriminellen muss das Kostenverhältnis stimmen, stellt Cloudflare in seinem Threat Report 2026 fest. Gestohlene Zugangsdaten stehen hoch im Kurs.",
-      "url": "https://www.heise.de/news/Cyberangriffe-im-Jahr-2026-Der-Login-als-Waffe-11200132.html",
-      "image_title": "Cybersecurity, abstrakte Darstellung"
-    },
-    {
-      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
-      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
-      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11185613.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Workshop | 23. – 25.03.2026Identity & Access Management (IDM/IAM) und SSO mit Keycloak",
-      "teaser": "Der Workshop zeigt, wie sie Keycloak einrichten, in externe Dienste integrieren und SSO für Web-Anwendungen konfigurieren.",
-      "url": "https://heise-academy.de/Workshops/keycloak?wt_mc=intern.conf.ix.ws_keycloak.developer_buehne_2.teaser.teaser"
-    },
-    {
       "title": "Kongressmesse | 18. – 19.03.2026secIT by heise",
       "teaser": "Kongressmesse für IT-Sicherheitsbeauftragte, Rechenzentrumsleiter, Netzwerkadministratoren und Entscheider in Sicherheitsfragen. Jetzt kostenfrei anmelden!",
       "url": "https://secit-heise.de/?wt_mc=intern.sales.events.konf_secit.https%3A%2F%2Fsecit-heise.de%2F%3Fwt_mc=intern.sales.events.konf_secit.security_buehne_2.teaser.teaser"
+    },
+    {
+      "title": "Workshop | 25. – 27.03.2026Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
+      "teaser": "Im Workshop lernen Administratoren, Angreifer zu verstehen und mit gängigen Tools eigene IT-Schwachstellen aufzudecken.",
+      "url": "https://heise-academy.de/Workshops/sichselbsthacken?wt_mc=intern.conf.ix.ws_opensource.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Konferenz | 06.05.2026IT-Sicherheitstag in Mainz",
@@ -165,9 +165,9 @@
       "url": "https://it-sicherheitstage.de/mainz/?wt_mc=intern.conf.conf.konf_it-si_mainz.heisec_de.teaser.teaser"
     },
     {
-      "title": "Classroom | 16.04. – 12.05.2026KI in der Cybersecurity",
-      "teaser": "Angriff und Verteidigung im Zeitalter von LLMs und Deepfakes: Wer die neuen Angriffsflächen – und Möglichkeiten – nicht kennt, verliert den Anschluss.",
-      "url": "https://heise-academy.de/classrooms/ki-security426?LPID=35198&wt_mc=intern.academy.academy.cr_ki-cybersecurity.security_buehne_2.teaser.teaser&utm_campaign=298392774-ha_2026_01-12_classrooms&utm_source=heise&utm_medium=buehne_ho&utm_content=buehne_ho-security_2&utm_term=cr_ki-cybersecurity"
+      "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
+      "teaser": "Dieser Workshop zeigt, warum man IT-Infrastrukturen auch physisch gegen Eindringlinge schützen muss.",
+      "url": "https://heise-academy.de/Workshops/physische-it-sicherheit?wt_mc=intern.conf.ct.ws_physische_it-sicherheit.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Nutzeridentifizierung durch FBI bringt Schweizer Datenschutz ins Wanken",
