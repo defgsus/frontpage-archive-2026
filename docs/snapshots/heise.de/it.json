@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T12:32:24",
+  "timestamp": "2026-03-09T13:56:53",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Security: Die eigene CA mit TPM-Chip einrichten",
-      "teaser": "Wer sich OpenSSL-Befehle auf der Kommandozeile ersparen will, greift zum grafischen Tool XCA und speichert den privaten Schlüssel im TPM-Chip des Computers.",
-      "url": "https://www.heise.de/ratgeber/Security-Die-eigene-CA-mit-TPM-Chip-einrichten-11191296.html",
-      "image_title": ","
+      "title": "Gmail, Docs und Calendar per Terminal steuern: Google startet CLI-Tool",
+      "teaser": "Google hat ein Open-Source-Tool vorgestellt, das Zugriff auf Workspace-Dienste via Kommandozeile ermöglicht. Es unterstützt KI-Agenten und nutzt das MCP.",
+      "url": "https://www.heise.de/news/Gmail-Docs-und-Calendar-per-Terminal-steuern-Google-startet-CLI-Tool-11204118.html",
+      "image_title": "Google-Schriftzug an weißer Wand"
+    },
+    {
+      "title": "Node.js-Aktualisierung leicht gemacht: OpenJS bietet Support für Unternehmen",
+      "teaser": "Die OpenJS Foundation hat ein neues Programm gestartet, um Unternehmen beim Umstieg auf aktuelle Node.js-Versionen zu unterstützen.",
+      "url": "https://www.heise.de/news/Node-js-Aktualisierung-leicht-gemacht-OpenJS-bietet-Support-fuer-Unternehmen-11203970.html",
+      "image_title": "Update-Knopf auf Tastatur"
+    },
+    {
+      "title": "iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten",
+      "teaser": "Erfahren Sie, wie Sie mit OpenTofu die IT-Infrastruktur im Unternehmen als Code definieren, bereitstellen und administrieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Infrastrukturen-mit-OpenTofu-aufbauen-und-verwalten-11194645.html",
+      "image_title": "iX-Workshop: OpenTofu Fundamentals: Infrastructure as Code aufbauen und verwalten"
     },
     {
       "title": "Bezahlen ohne Google: Neues Konsortium will Custom-ROM-Hürden beseitigen",
       "teaser": "Die Nutzung von Banking- und Bezahl-Apps auf Android-Smartphones mit Custom-ROMs ist ein Problem: Das will ein europäisches Industriekonsortium nun ändern.",
       "url": "https://www.heise.de/news/Bezahlen-ohne-Google-Neues-Konsortium-will-Custom-ROM-Huerden-beseitigen-11204008.html",
       "image_title": "Frau bezahlt mit Smartphne im Supermarkt"
-    },
-    {
-      "title": "Rust Coreutils 0.7: Turbo für die Kommandozeile",
-      "teaser": "Die Rust-Neuimplementierung klassischer Unix-Tools erreicht Version 0.7 mit zahlreichen Performance-Verbesserungen und Build-Fixes für NetBSD und PowerPC.",
-      "url": "https://www.heise.de/news/Rust-Coreutils-0-7-Turbo-fuer-die-Kommandozeile-11203708.html",
-      "image_title": "Logo mit Schriftzug \"Open Source\", lila Hintergrund"
-    },
-    {
-      "title": "OpenAI startet Vorschau auf KI-Schwachstellenscanner Codex Security",
-      "teaser": "Während Claude bereits mehr als 100 Lücken in Firefox findet, kündigt OpenAI mit Codex Security einen KI-Sicherheitslückenscanner an.",
-      "url": "https://www.heise.de/news/OpenAI-startet-Vorschau-auf-KI-Schwachstellenscanner-Codex-Security-11203826.html",
-      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
     {
       "title": "RatgeberSo funktioniert die Vektorsuche in einer lokalen MongoDB",
@@ -61,6 +61,18 @@
     {
       "title": "TestsFehlplanung im Heimnetz: Warnung vorm Multimediaverteiler",
       "url": "https://www.heise.de/tests/Fehlplanung-im-Heimnetz-Warnung-vorm-Multimediaverteiler-11199632.html"
+    },
+    {
+      "title": "Rust Coreutils 0.7: Turbo für die Kommandozeile",
+      "teaser": "Die Rust-Neuimplementierung klassischer Unix-Tools erreicht Version 0.7 mit zahlreichen Performance-Verbesserungen und Build-Fixes für NetBSD und PowerPC.",
+      "url": "https://www.heise.de/news/Rust-Coreutils-0-7-Turbo-fuer-die-Kommandozeile-11203708.html",
+      "image_title": "Logo mit Schriftzug \"Open Source\", lila Hintergrund"
+    },
+    {
+      "title": "OpenAI startet Vorschau auf KI-Schwachstellenscanner Codex Security",
+      "teaser": "Während Claude bereits mehr als 100 Lücken in Firefox findet, kündigt OpenAI mit Codex Security einen KI-Sicherheitslückenscanner an.",
+      "url": "https://www.heise.de/news/OpenAI-startet-Vorschau-auf-KI-Schwachstellenscanner-Codex-Security-11203826.html",
+      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
     },
     {
       "title": "Ubitium UB410: Rekonfigurierbarer Universalprozessor mit RISC-V-Technik",
@@ -137,17 +149,6 @@
       "teaser": "Braucht die IT eine Frauenquote? Katrin Rabow über Sichtbarkeit, Vorurteile und mehr Chancengleichheit auf Konferenzen.",
       "url": "https://www.heise.de/news/Drei-Fragen-drei-Antworten-Mehr-Sichtbarkeit-fuer-Frauen-auf-IT-Konferenzen-11199796.html",
       "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
-    },
-    {
-      "title": "Homematic IP guckt mit eigenen WLAN-Kameras und leuchtet mit smarten Glühbirnen",
-      "teaser": "Erste Sicherheitskameras und LED-Birnen, neues Smart Lock, Touch-Wanddisplays und mehr: Homematic IP baut das Smart-Home-System mit über 20 neuen Produkten aus.",
-      "url": "https://www.heise.de/news/Homematic-IP-guckt-mit-eigenen-WLAN-Kameras-und-leuchtet-mit-smarten-Gluehbirnen-11202641.html"
-    },
-    {
-      "title": "Missing Link: Auf der Spree schwimmt eine Infrastrukturschutz-Ente",
-      "teaser": "Berlins Landesregierung hat endlich raus, wie sich Infrastruktur wirksam schützen lässt: mit Videoüberwachung in der Badeanstalt und mehr Intransparenz.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Auf-der-Spree-schwimmt-eine-Infrastrukturschutz-Ente-11202843.html",
-      "image_title": "Berlin: Blick aufs Rote Rathaus und auf den Dom"
     },
     {
       "title": "News600-MW-Druckluftspeicheranlage nimmt Betrieb vollständig auf",
