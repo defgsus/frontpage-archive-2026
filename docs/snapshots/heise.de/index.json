@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T08:30:27",
+  "timestamp": "2026-03-09T09:35:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,24 @@
   ],
   "articles": [
     {
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Warum die Schweizer gegen Halbierung der Medienabgabe gestimmt haben",
+      "url": "https://www.heise.de/hintergrund/Warum-die-Schweizer-gegen-Halbierung-der-Medienabgabe-gestimmt-haben-11203668.html"
+    },
+    {
+      "title": "iX-Workshop: KI für eigene Daten: RAG in der Praxis mit LangChain.js",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-11160908.html"
+    },
+    {
+      "title": "Tankstellenbetreiber kritisieren Spritpreise als „Raubtierkapitalismus“",
+      "url": "https://www.heise.de/news/Tankstellenbetreiber-kritisieren-Spritpreise-als-Raubtierkapitalismus-11203492.html"
+    },
+    {
       "title": "Steam Machine: Valve ist unsicher, ob ein Release dieses Jahr machbar ist",
       "url": "https://www.heise.de/news/Steam-Machine-Valve-ist-unsicher-ob-ein-Release-dieses-Jahr-machbar-ist-11203444.html"
     },
@@ -50,24 +68,6 @@
     {
       "title": "Schweiz: Volksabstimmung lehnt Senkung der Rundfunkgebühren ab",
       "url": "https://www.heise.de/news/Kuerzung-von-Rundfunkbeitrag-in-der-Schweiz-gescheitert-11203408.html"
-    },
-    {
-      "title": "secIT 2026: Ein LKA-Cyberermittler plaudert aus dem Nähkästchen",
-      "url": "https://www.heise.de/news/secIT-2026-Ein-LKA-Cyberermittler-plaudert-aus-dem-Naehkaestchen-11200294.html"
-    },
-    {
-      "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
-      "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Feuerball über Westdeutschland: Meteorit abgestürzt und in Haus gekracht",
-      "url": "https://www.heise.de/news/Spektakulaerer-Feuerball-Meteorit-abgestuerzt-und-in-Koblenzer-Haus-gekracht-11203318.html"
-    },
-    {
-      "title": "Experten: Ohne mehr Klimaschutz drohen höhere Staatsschulden",
-      "url": "https://www.heise.de/news/Experten-Ohne-mehr-Klimaschutz-drohen-hoehere-Staatsschulden-11203328.html"
     },
     {
       "title": "Feuerball über WestdeutschlandMeteorit abgestürzt und in Koblenzer Haus gekracht",
@@ -99,14 +99,15 @@
       "image_title": "Jacke mit FBI-Schriftzug"
     },
     {
-      "title": "ÖlpreisSprit teurer – Preisbremse überwiegend abgelehnt",
-      "teaser": "Die Diskussion um einen Tankrabatt hält weiter an – mit deutlichen Stimmen dagegen.",
-      "url": "https://www.heise.de/news/Sprit-immer-teurer-Preisbremse-ueberwiegend-abgelehnt-11202982.html"
+      "title": "Bessere KontrolleMicrosoft Teams bekommt Bot-Erkennung",
+      "teaser": "Microsoft hat auf der Teams-Roadmap eine Bot-Erkennung hinzugefügt. Nachrichten über in Kürze ablaufende Aufzeichnungen entfallen.",
+      "url": "https://www.heise.de/news/Microsoft-Teams-bekommt-Bot-Erkennung-11203470.html",
+      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
     },
     {
-      "title": "CO₂, Schadstoffe & Schimmel im BlickTop 10: Der beste Luftgütesensor im Test",
-      "teaser": "Smarte Luftgütesensoren messen Feuchtigkeit, Temperatur, CO₂, CO, VOC, Ozon, Feinstaub, Radon und mehr.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-luftguetesensor-im-test-co-schadstoffe-und-schimmel-im-blick/h3jrv81?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
+      "title": "Minisforum vor Geekom & AsusTop 10: Der beste Mini-PC mit Windows 11 im Test",
+      "teaser": "Mini-PCs sind kompakt, sparsam und leistungsstark – ideal für Office bis Gaming. Wir zeigen die besten Modelle aus 80 Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-minisforum-vor-geekom-und-asus/6cybv8w?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
       "title": "Per OBD2-DongleFahrzeugdaten in Home Assistant darstellen",
@@ -131,9 +132,10 @@
       "image_title": "Ladekurve"
     },
     {
-      "title": "FinanzüberwachungWie die EU-Geldwäsche-Regeln Grundrechte bedrohen",
-      "teaser": "Ein EU-Maßnahmenpaket zur Geldwäschebekämpfung verschiebt die Fahndung in den privaten Sektor – mit Folgen für Bürger und NGOs.",
-      "url": "https://www.heise.de/news/Finanzueberwachung-Wie-die-EU-Geldwaesche-Regeln-Grundrechte-bedrohen-11203140.html"
+      "title": "AlertNextcloudCodeschmuggel durch Lücke in Flow möglich",
+      "teaser": "In Nextcloud Flow können Angreifer eine Sicherheitslücke missbrauchen, um die Instanz zu kompromittieren. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/Nextcloud-Codeschmuggel-durch-Luecke-in-Flow-moeglich-11203404.html",
+      "image_title": "Nextcloud-Logo mit Achtung-Schild vor Matrix-Hintergrund"
     },
     {
       "title": "Im TestMähroboter von Segway und Mammotion mit Lidar-Navigation",
@@ -152,9 +154,20 @@
       "image_title": "Berlin: Blick aufs Rote Rathaus und auf den Dom"
     },
     {
+      "title": "Nuki und TedeeSmart-Lock-Technik direkt in Elektro-Türen eingebaut",
+      "teaser": "Smart Doors: Nuki ersetzt klobiges Motorgehäuse, Tedees Griffstange mit Fingerabdruckscanner erhält ein sichtbares Lesefeld.",
+      "url": "https://www.heise.de/news/Nuki-und-Tedee-bauen-Smart-Lock-Technik-direkt-in-Elektro-Tueren-ein-11203364.html",
+      "image_title": "Nuki-Smart-Module"
+    },
+    {
       "title": "Neue ProdukteHomematic IP guckt mit WLAN-Kameras und leuchtet mit smarten Glühbirnen",
       "teaser": "Erste Sicherheitskameras und LED-Birnen, neues Smart Lock, Touch-Wanddisplays und mehr: Homematic IP baut das Smart-Home-System aus.",
       "url": "https://www.heise.de/news/Homematic-IP-guckt-mit-eigenen-WLAN-Kameras-und-leuchtet-mit-smarten-Gluehbirnen-11202641.html"
+    },
+    {
+      "title": "Worauf Sie achten solltenPlattenspieler-Kaufberatung",
+      "teaser": "Musik auf Vinyl liegt im Trend und die Auswahl an Plattenspielern steigt. Worauf Sie achten müssen.",
+      "url": "https://www.heise.de/ratgeber/Plattenspieler-Kaufberatung-Worauf-Sie-achten-sollten-11150489.html"
     },
     {
       "title": "China600-MW-Druckluftspeicheranlage nimmt Betrieb vollständig auf",
@@ -163,20 +176,9 @@
       "image_title": "CAES-Kraftwerk aus der Luft."
     },
     {
-      "title": "Worauf Sie achten solltenPlattenspieler-Kaufberatung",
-      "teaser": "Musik auf Vinyl liegt im Trend und die Auswahl an Plattenspielern steigt. Worauf Sie achten müssen.",
-      "url": "https://www.heise.de/ratgeber/Plattenspieler-Kaufberatung-Worauf-Sie-achten-sollten-11150489.html"
-    },
-    {
-      "title": "AppleMacBook Neo: Die Nachteile im Detail",
-      "teaser": "Um den Preis beim MacBook Neo zu drücken, ist Apple an einigen Stellen kreativ geworden. Ein Überblick.",
-      "url": "https://www.heise.de/news/MacBook-Neo-Die-Nachteile-im-Detail-11200364.html",
-      "image_title": "MacBook Neo im Farbton „Zitrus“"
-    },
-    {
-      "title": "c't 3003Nextcloud im Praxistest: BESSER als Teams?",
-      "teaser": "Mit Nextcloud gibt es eine deutsche Alternative zu Dropbox, Teams, Slack und anderen US-Anbietern. c't 3003 hat sie ausprobiert.",
-      "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
+      "title": "ÖlpreisSprit teurer – Preisbremse überwiegend abgelehnt",
+      "teaser": "Die Diskussion um einen Tankrabatt hält weiter an – mit deutlichen Stimmen dagegen.",
+      "url": "https://www.heise.de/news/Sprit-immer-teurer-Preisbremse-ueberwiegend-abgelehnt-11202982.html"
     },
     {
       "title": "ISS-Betrieb vielleicht längerNASA unter Druck wegen privater Raumstation",
@@ -185,16 +187,15 @@
       "image_title": "ISS im Orbit über der Erde"
     },
     {
-      "title": "Steam Machine: Valve ist unsicher, ob ein Release dieses Jahr machbar ist",
-      "teaser": "Valve bereitet Nutzer auf weitere Enttäuschungen bei der Steam Machine vor: Aus einem Release im Frühjahr wird wegen der Speicherkrise \"hoffentlich 2026\".",
-      "url": "https://www.heise.de/news/Steam-Machine-Valve-ist-unsicher-ob-ein-Release-dieses-Jahr-machbar-ist-11203444.html",
-      "image_title": "Steam Machine vor beigem Hintergrund"
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
     },
     {
-      "title": "Microsoft Teams bekommt Bot-Erkennung",
-      "teaser": "Microsoft hat auf der Teams-Roadmap eine Bot-Erkennung hinzugefügt. Nachrichten über in Kürze ablaufende Aufzeichnungen entfallen.",
-      "url": "https://www.heise.de/news/Microsoft-Teams-bekommt-Bot-Erkennung-11203470.html",
-      "image_title": "Ein Laptop steht auf einem Tisch und zeigt das Microsoft Teams Logo an."
+      "title": "Warum die Schweizer gegen Halbierung der Medienabgabe gestimmt haben",
+      "teaser": "Das Schweizer Stimmvolk hat die Volksinitiative „200 Franken sind genug!“ mit 61,9 Prozent abgelehnt. Damit bleibt die Finanzierung der SRG SSR vorerst stabil.",
+      "url": "https://www.heise.de/hintergrund/Warum-die-Schweizer-gegen-Halbierung-der-Medienabgabe-gestimmt-haben-11203668.html",
+      "image_title": "Aufnahme aus Rundfunkstudio"
     },
     {
       "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
@@ -202,21 +203,27 @@
       "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
     },
     {
-      "title": "Nuki und Tedee bauen Smart-Lock-Technik direkt in Elektro-Türen ein",
-      "teaser": "Für Smart Doors im Neubau: Verdeckte Steuereinheit von Nuki ersetzt klobiges Motorgehäuse, Tedees Griffstange mit Fingerabdruckscanner ein sichtbares Lesefeld.",
-      "url": "https://www.heise.de/news/Nuki-und-Tedee-bauen-Smart-Lock-Technik-direkt-in-Elektro-Tueren-ein-11203364.html",
-      "image_title": "Nuki-Smart-Module"
+      "title": "iX-Workshop: KI für eigene Daten: RAG in der Praxis mit LangChain.js",
+      "teaser": "Erfahren Sie, wie Sie mit Retrieval Augmented Generation (RAG) und LangChain.js maßgeschneiderte KI-Lösungen entwickeln und implementieren können.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-11160908.html",
+      "image_title": "iX-Workshop IT-Governance planen und implementieren"
+    },
+    {
+      "title": "Tankstellenbetreiber kritisieren Spritpreise als „Raubtierkapitalismus“",
+      "teaser": "Tankstellenpächtern sind die Spritpreise zu hoch. Ein Tankrabatt wie 2022 würde die Konzern-Übergewinne bezuschussen und das Kartellamt sei keine Hilfe.",
+      "url": "https://www.heise.de/news/Tankstellenbetreiber-kritisieren-Spritpreise-als-Raubtierkapitalismus-11203492.html",
+      "image_title": "Tankstelle bei Dunkelheit"
+    },
+    {
+      "title": "Steam Machine: Valve ist unsicher, ob ein Release dieses Jahr machbar ist",
+      "teaser": "Valve bereitet Nutzer auf weitere Enttäuschungen bei der Steam Machine vor: Aus einem Release im Frühjahr wird wegen der Speicherkrise \"hoffentlich 2026\".",
+      "url": "https://www.heise.de/news/Steam-Machine-Valve-ist-unsicher-ob-ein-Release-dieses-Jahr-machbar-ist-11203444.html",
+      "image_title": "Steam Machine vor beigem Hintergrund"
     },
     {
       "title": "Aufstellort Solar-Batteriespeicher: Was bei Lebensdauer und Sicherheit zählt",
       "teaser": "Ein Heimspeicher brennt nicht häufiger als ein Trockner. Doch der Aufstellort entscheidet mit über Lebensdauer, Sicherheit und Leistung.",
       "url": "https://www.heise.de/ratgeber/Aufstellort-Solar-Batteriespeicher-Was-bei-Lebensdauer-und-Sicherheitheit-zaehlt-11149787.html"
-    },
-    {
-      "title": "AlertNextcloud: Codeschmuggel durch Lücke in Flow möglich",
-      "teaser": "In Nextcloud Flow können Angreifer eine Sicherheitslücke missbrauchen, um die Instanz zu kompromittieren. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/Nextcloud-Codeschmuggel-durch-Luecke-in-Flow-moeglich-11203404.html",
-      "image_title": "Nextcloud-Logo mit Achtung-Schild vor Matrix-Hintergrund"
     },
     {
       "title": "Schweiz: Volksabstimmung lehnt Senkung der Rundfunkgebühren ab",
@@ -228,11 +235,6 @@
       "title": "secIT 2026: Ein LKA-Cyberermittler plaudert aus dem Nähkästchen",
       "teaser": "Der Start der IT-Security-Kongressmesse secIT 2026 steht kurz bevor. Letzte Chance, sich noch einen der begehrten Workshopplätze zu sichern.",
       "url": "https://www.heise.de/news/secIT-2026-Ein-LKA-Cyberermittler-plaudert-aus-dem-Naehkaestchen-11200294.html"
-    },
-    {
-      "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
-      "teaser": "Keepass speichert Passwörter sicher und kostenlos. Wir führen Schritt für Schritt durch Installation, Datenbankverwaltung und sinnvolle Sicherheitsstrategien.",
-      "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html"
     },
     {
       "title": "Tschüss Big TechSichere E-Mail-Alternativen aus Europa",
@@ -292,9 +294,9 @@
       "url": "https://www.heise.de/news/Buntes-MacBook-Neo-Apple-will-den-Laptop-Markt-aufwirbeln-11198917.html"
     },
     {
-      "title": "Warnmeldung im NotfallTop 10: Das beste Digitalradio mit DAB+ und ASA im Test",
-      "teaser": "Radios mit ASA (Automatic Safety Alert) warnen die Bevölkerung im Katastrophenfall per digitalem Rundfunk (DAB+ und DRM).",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-digitalradio-mit-dab-und-asa-im-test-warnmeldung-im-notfall/gqqg34b?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+      "title": "CO₂, Schadstoffe & Schimmel im BlickTop 10: Der beste Luftgütesensor im Test",
+      "teaser": "Smarte Luftgütesensoren messen Feuchtigkeit, Temperatur, CO₂, CO, VOC, Ozon, Feinstaub, Radon und mehr.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-luftguetesensor-im-test-co-schadstoffe-und-schimmel-im-blick/h3jrv81?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
       "title": "Testsieger misst BlutdruckTop 10: Die beste Smartwatch mit EKG im Test",
@@ -307,9 +309,9 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ergonomische-buerostuhl-im-test-ab-170-euro-richtig-gut/6le25ss?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Nachtsicht, Beamer & Co.Top 10: Das beste Outdoor-Handy im Test",
-      "teaser": "Nachtsicht, Wärmebildkamera oder Monster-Akku: Outdoor-Handys sind nicht nur stabil und wasserdicht. Das sind die Besten.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-outdoor-handy-im-test-robust-mit-beamer-nachtsicht-und-co/l7bnxjv?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+      "title": "Warnmeldung im NotfallTop 10: Das beste Digitalradio mit DAB+ und ASA im Test",
+      "teaser": "Radios mit ASA (Automatic Safety Alert) warnen die Bevölkerung im Katastrophenfall per digitalem Rundfunk (DAB+ und DRM).",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-digitalradio-mit-dab-und-asa-im-test-warnmeldung-im-notfall/gqqg34b?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -324,6 +326,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
+      "teaser": "Keepass speichert Passwörter sicher und kostenlos. Wir führen Schritt für Schritt durch Installation, Datenbankverwaltung und sinnvolle Sicherheitsstrategien.",
+      "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html"
+    },
+    {
       "title": "Experten: Ohne mehr Klimaschutz drohen höhere Staatsschulden",
       "teaser": "Dürren, Hitze, Überschwemmungen – die Folgen des Klimawandels kosten. Experten: Ohne mehr Investitionen wird es für Deutschland noch teurer.",
       "url": "https://www.heise.de/news/Experten-Ohne-mehr-Klimaschutz-drohen-hoehere-Staatsschulden-11203328.html",
@@ -334,11 +341,6 @@
       "teaser": "Suche nach ModRetro-Investoren + US-Senat drängt NASA + OpenAI-Kündigung wegen Pentagon-Deal + Proton-Anonymität mit Grenzen + Homematic IP baut Smart Home aus",
       "url": "https://www.heise.de/news/Montag-Retro-Konsolen-als-Milliardengeschaeft-NASA-Zeitplan-neuer-Raumstation-11203302.html",
       "image_title": "Althergebrachte Arcade-Maschinen in einem dunklen Raum; Montag: Retro-Geschäfte, Raumstation-Zeitplan, OpenAI-Pentagon-Folgen, Proton-Anonymität & Homematic-Neuheiten"
-    },
-    {
-      "title": "Top 10: Der beste Mini-PC mit Windows 11 im Test – Minisforum vor Geekom & Asus",
-      "teaser": "Mini-PCs sind kompakt, sparsam und leistungsstark – ideal für Office bis Gaming. Wir zeigen die besten Modelle aus über 80 Tests über alle Preisbereiche hinweg.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-minisforum-vor-geekom-und-asus/6cybv8w?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Over-Ear-Kopfhörer Nothing Headphone A: Rekord-Akku & tolles ANC für 159 Euro",
@@ -361,6 +363,11 @@
       "teaser": "Am 17. März zeigt die inside Agile Impact 2026, wie Organisationen Wirkung entfalten und Strukturen zukunftsfähig gestalten können.",
       "url": "https://www.heise.de/news/Last-Call-zur-inside-Agile-Impact-2026-Organisationen-wirksam-gestalten-11200206.html",
       "image_title": "gestapelte Holzblöcke"
+    },
+    {
+      "title": "Finanzüberwachung: Wie die EU-Geldwäsche-Regeln Grundrechte bedrohen",
+      "teaser": "Ein neues EU-Maßnahmenpaket zur Geldwäschebekämpfung verschiebt die Fahndung immer weiter in den privaten Sektor – mit drastischen Folgen für Bürger und NGOs.",
+      "url": "https://www.heise.de/news/Finanzueberwachung-Wie-die-EU-Geldwaesche-Regeln-Grundrechte-bedrohen-11203140.html"
     },
     {
       "title": "Nexperia: Streit um Nutzerkonten chinesischer Beschäftigter",
@@ -391,15 +398,15 @@
       "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
     },
     {
+      "title": "Video: Wie sich ONNX-Runtime-Anwendungen lokal bereitstellen lassen",
+      "teaser": "Das Open Neural Network Exchange (ONNX)-Format ermöglicht es, KI-Anwendungen von einem Framework auf ein anderes zu portieren. Dieses Video zeigt, wie sich ONNX-Runtime-Anwendungen mithilfe der Ryzen AI-Software lokal nutzen lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/video-wie-sich-onnx-runtime-anwendungen-lokal-bereitstellen-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "Petra‑AI: KI soll Frauen in der Perimenopause unterstützen",
       "teaser": "Am Fraunhofer IESE wird derzeit Petra‑AI entwickelt, eine KI‑gestützte App für Frauen in der Perimenopause.",
       "url": "https://www.heise.de/hintergrund/Petra-AI-KI-soll-Frauen-in-der-Perimenopause-unterstuetzen-11200042.html",
       "image_title": "Frauenhand an Smartphone"
-    },
-    {
-      "title": "Von Training bis Inferenz: Hardware-Empfehlungen für KI-Workflows",
-      "teaser": "Die Entwicklung und Nutzung von KI-Modellen lässt sich mehrere Phasen unterteilen. Lesen Sie, wie sich die jeweiligen Anforderungen unterscheiden und welche Auswirkungen das auf die Wahl der Hardware hat.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/von-training-bis-inferenz-hardware-empfehlungen-fuer-ki-workflows/?source=hbsadersatz"
     },
     {
       "title": "Thunderbird optimieren: E-Mails effizient organisieren und filtern",
@@ -450,11 +457,6 @@
       "url": "https://www.heise.de/news/Schnellladesaeulen-an-Autobahnen-Ausschreibung-notwendig-11202972.html"
     },
     {
-      "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
-      "teaser": "Keepass speichert Passwörter sicher und kostenlos. Wir führen Schritt für Schritt durch Installation, Datenbankverwaltung und sinnvolle Sicherheitsstrategien.",
-      "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html"
-    },
-    {
       "title": "KI Claude findet in zwei Wochen über 100 Firefox-Bugs",
       "url": "https://www.heise.de/news/KI-Modell-Claude-findet-Firefox-Bugs-schneller-als-die-Community-11202759.html",
       "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
@@ -465,9 +467,8 @@
       "image_title": "Negativbild eines Wafers während der Belichtung"
     },
     {
-      "title": "KI als Spiegel: Fehlende Bedeutung in Code und Architektur",
-      "url": "https://www.heise.de/hintergrund/KI-als-Spiegel-Fehlende-Bedeutung-in-Code-und-Architektur-11202267.html",
-      "image_title": "Menschliche Hand und digitale Hand berühren sich"
+      "title": "Nextcloud im Praxistest: BESSER als Teams? | c't 3003",
+      "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
     },
     {
       "title": "10 Prozent des beobachtbaren Universums: Größter Galaxien-Katalog fertig",
@@ -485,6 +486,11 @@
       "image_title": "Eine Wärmepumpe"
     },
     {
+      "title": "MacBook Neo: Die Nachteile im Detail",
+      "url": "https://www.heise.de/news/MacBook-Neo-Die-Nachteile-im-Detail-11200364.html",
+      "image_title": "MacBook Neo im Farbton „Zitrus“"
+    },
+    {
       "title": "Epic-Chef Tim Sweeney darf Google bis 2032 nicht mehr kritisieren",
       "url": "https://www.heise.de/news/Epic-Chef-Tim-Sweeney-darf-Google-bis-2032-nicht-mehr-kritisieren-11201599.html",
       "image_title": "Tim Sweeney auf der Gamescom 2017"
@@ -493,11 +499,6 @@
       "title": "Always-on-Display unter iOS 26: So wird man das unscharfe Bild los",
       "url": "https://www.heise.de/news/Always-on-Display-unter-iOS-26-So-wird-man-das-unscharfe-Bild-los-11197399.html",
       "image_title": "iOS 26"
-    },
-    {
-      "title": "Erste Benchmarks zum MacBook Neo und MacBook Pro 2026",
-      "url": "https://www.heise.de/news/Erste-Benchmarks-zum-MacBook-Neo-und-MacBook-Pro-2026-11201863.html",
-      "image_title": "Hand hält ein aufgeklapptes MacBook Neo hoch"
     },
     {
       "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
@@ -549,13 +550,12 @@
       "image_title": "Scheibe einer Festplatte"
     },
     {
-      "title": "Wetterballon im Selbstbau | c’t uplink",
-      "url": "https://www.heise.de/news/Wetterballon-im-Selbstbau-c-t-uplink-11201154.html"
+      "title": "Aufstellort Solar-Batteriespeicher: Was bei Lebensdauer und Sicherheit zählt",
+      "url": "https://www.heise.de/ratgeber/Aufstellort-Solar-Batteriespeicher-Was-bei-Lebensdauer-und-Sicherheitheit-zaehlt-11149787.html"
     },
     {
-      "title": "Stromspeicher-Inspektion 2026: Große Unterschiede bei Effizienz und Garantie",
-      "url": "https://www.heise.de/news/Stromspeicher-Inspektion-2026-Grosse-Unterschiede-bei-Effizienz-und-Garantie-11199982.html",
-      "image_title": "Nachhaltiges Haus mit Solarpanelen."
+      "title": "Wetterballon im Selbstbau | c’t uplink",
+      "url": "https://www.heise.de/news/Wetterballon-im-Selbstbau-c-t-uplink-11201154.html"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -624,15 +624,14 @@
       "url": "https://www.heise.de/en/news/SATCOMBw-Now-Airbus-also-wants-a-consortium-with-Rheinmetall-and-OHB-11203054.html"
     },
     {
-      "title": "c't 3003Nextcloud im Praxistest: BESSER als Teams?",
-      "teaser": "Mit Nextcloud gibt es eine deutsche Alternative zu Dropbox, Teams, Slack und anderen US-Anbietern. c't 3003 hat sie ausprobiert.",
-      "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
+      "title": "Quantencomputing unter Druck: Was bleibt vom Quantenvorteil im KI-Zeitalter?",
+      "teaser": "Quantencomputer sollten Netze optimieren und Moleküle simulieren. KI kann das schon heute – und wirft die Frage auf, wofür wir Quantenrechner noch brauchen.",
+      "url": "https://www.heise.de/hintergrund/Quantencomputing-unter-Druck-Was-bleibt-vom-Quantenvorteil-im-KI-Zeitalter-11102037.html"
     },
     {
-      "title": "c’t-Webinar: Photovoltaik für Einsteiger",
-      "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11198578.html",
-      "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
+      "title": "Mini-PC-Barebone Asrock DeskMini B860 mit Thunderbolt im Test",
+      "teaser": "Der kompakte Barebone für aktuelle Intel-CPUs treibt vier digitale Displays an. Wir prüfen, ob er so sparsam arbeitet wie Mini-PCs mit Mobilprozessor.",
+      "url": "https://www.heise.de/tests/Mini-PC-Barebone-Asrock-DeskMini-B860-mit-Thunderbolt-im-Test-11162109.html"
     },
     {
       "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
@@ -738,22 +737,22 @@
       "image_title": "Opel Mokka Electric"
     },
     {
-      "title": "Abstimmen per Smartphone: Wie Zypern politische Teilhabe neu denkt",
-      "teaser": "Ein Youtuber lässt seine Anhänger per App über sein Stimmverhalten im Parlament entscheiden – doch Datenschützer schlagen Alarm.",
-      "url": "https://www.heise.de/-11197365",
-      "image_title": "Handy mit Agorà-App vor zypriotischer Flagge mit Einsen und Nullen statt einem Olivenbaum-Zweig"
+      "title": "Tiertransporte in der EU: Was Unfälle und Kontrollen enthüllen",
+      "teaser": "Bei jedem zweiten Transport gibt es Verstöße – doch die wahren Zustände zeigen sich erst, wenn etwas schiefgeht.",
+      "url": "https://www.heise.de/-11201559",
+      "image_title": "LKW mit Käfigen als Nutzlast"
     },
     {
-      "title": "Pakistan: Die Taliban-Rechnung kommt spät, aber sie kommt",
-      "teaser": "Jahrzehntelang pflegte Islamabad die Taliban wie ein zartes US-Pflänzchen im geopolitischen Treibhaus. Nun hagelt es Raketen auf Kabul — der Bruch hat Gründe.",
-      "url": "https://www.heise.de/-11202535",
-      "image_title": "Ein Mann vor einem schneebedeckten Berg"
+      "title": "Katar stoppt Erdgas-Exporte und warnt vor monatelangen Ausfällen",
+      "teaser": "Katars Energieminister warnt vor \"Wochen bis Monaten\" Ausfall – doch das eigentliche Problem liegt woanders als gedacht.",
+      "url": "https://www.heise.de/-11202200",
+      "image_title": "LNG TANKER - Schilf auf Dünen Küste und rotes Schiff"
     },
     {
-      "title": "Irankrieg: Krieg als Geschäftsmodell der USA?",
-      "teaser": "Thomas Piketty sieht im Irankrieg den Versuch, militärische Macht ökonomisch zu verwerten. Doch Ölpreisschock und Inflation könnten die Rechnung zerstören.",
-      "url": "https://www.heise.de/-11203212",
-      "image_title": "US-Kampfjets mit US-Flagge im Hintergrund"
+      "title": "Spritpreise über zwei Euro: Politiker werfen Ölkonzernen Abzocke vor",
+      "teaser": "Der Krieg gegen Iran treibt die Ölpreise nach oben. Doch an deutschen Tankstellen steigen Benzin und Diesel noch stärker – ein bekanntes Muster.",
+      "url": "https://www.heise.de/-11203029",
+      "image_title": "Anzeige an der Tankstelle mit Spritpreisen"
     },
     {
       "title": "„Schmerzhaft mitanzusehen“: Wie KI das Go-Spiel radikal verändert hat",
@@ -771,9 +770,9 @@
       "url": "https://t3n.de/news/ki-fakes-irankrieg-schaut-endlich-genauer-hin-1732642/"
     },
     {
-      "title": "VPN-Test 2026: Die besten VPN-Anbieter im Vergleich",
-      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2026 vor.",
-      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
+      "title": "Hostinger Business E-Mail im Test: Profi-E-Mail mit KI",
+      "teaser": "Ein E-Mail-Konto mit professionellem Erscheinungsbild, viel Speicher und KI-Unterstützung: Überzeugt Hostinger mit seinem Business-E-Mail-Paket im Test?",
+      "url": "https://www.heise.de/download/specials/Hostinger-Business-E-Mail-im-Test-Profi-E-Mail-mit-KI-11200114"
     },
     {
       "title": "Desinfec't",
