@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-09T10:33:13",
+  "timestamp": "2026-03-09T11:26:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,6 +26,32 @@
   ],
   "articles": [
     {
+      "title": "Rust Coreutils 0.7: Turbo für die Kommandozeile",
+      "url": "https://www.heise.de/news/Rust-Coreutils-0-7-Turbo-fuer-die-Kommandozeile-11203708.html"
+    },
+    {
+      "title": "OpenAI startet Vorschau auf KI-Schwachstellenscanner Codex Security",
+      "url": "https://www.heise.de/news/OpenAI-startet-Vorschau-auf-KI-Schwachstellenscanner-Codex-Security-11203826.html"
+    },
+    {
+      "title": "Ubitium UB410: Rekonfigurierbarer Universalprozessor mit RISC-V-Technik",
+      "url": "https://www.heise.de/news/Ubitium-UB410-Rekonfigurierbarer-Universalprozessor-mit-RISC-V-Technik-11203757.html"
+    },
+    {
+      "title": "Product Owner Days 2026: Wirksamkeit in der Produktrolle erzielen",
+      "url": "https://www.heise.de/news/Product-Owner-Days-2026-Wirksamkeit-in-der-Produktrolle-erzielen-11201318.html"
+    },
+    {
+      "title": "KI für mehr Effizienz? Forscher warnt vor Wissensverlust in Unternehmen",
+      "url": "https://www.heise.de/hintergrund/KI-fuer-mehr-Effizienz-Forscher-warnt-vor-Wissensverlust-in-Unternehmen-11199856.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "USB-Stick, externe SSD & Co.: macOS-Verschlüsselung erfolgt schrittweise",
+      "url": "https://www.heise.de/news/FileVault-fuer-externe-Medien-macOS-verschluesselt-im-Hintergrund-11203231.html"
+    },
+    {
       "title": "Google Telefon-App: Update bringt Anrufaufzeichnung und „Anruferansichten“",
       "url": "https://www.heise.de/news/Google-Telefon-App-Update-bringt-Anrufaufzeichnung-und-Anruferansichten-11203652.html"
     },
@@ -42,30 +68,6 @@
       "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Warum die Schweizer gegen Halbierung der Medienabgabe gestimmt haben",
-      "url": "https://www.heise.de/hintergrund/Warum-die-Schweizer-gegen-Halbierung-der-Medienabgabe-gestimmt-haben-11203668.html"
-    },
-    {
-      "title": "iX-Workshop: KI für eigene Daten: RAG in der Praxis mit LangChain.js",
-      "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-11160908.html"
-    },
-    {
-      "title": "Tankstellenbetreiber kritisieren Spritpreise als „Raubtierkapitalismus“",
-      "url": "https://www.heise.de/news/Tankstellenbetreiber-kritisieren-Spritpreise-als-Raubtierkapitalismus-11203492.html"
-    },
-    {
-      "title": "Steam Machine: Valve ist unsicher, ob ein Release dieses Jahr machbar ist",
-      "url": "https://www.heise.de/news/Steam-Machine-Valve-ist-unsicher-ob-ein-Release-dieses-Jahr-machbar-ist-11203444.html"
-    },
-    {
-      "title": "Microsoft Teams bekommt Bot-Erkennung",
-      "url": "https://www.heise.de/news/Microsoft-Teams-bekommt-Bot-Erkennung-11203470.html"
-    },
-    {
-      "title": "Nuki und Tedee bauen Smart-Lock-Technik direkt in Elektro-Türen ein",
-      "url": "https://www.heise.de/news/Nuki-und-Tedee-bauen-Smart-Lock-Technik-direkt-in-Elektro-Tueren-ein-11203364.html"
     },
     {
       "title": "Feuerball über WestdeutschlandMeteorit abgestürzt und in Koblenzer Haus gekracht",
@@ -187,6 +189,46 @@
       "image_title": "ISS im Orbit über der Erde"
     },
     {
+      "title": "Rust Coreutils 0.7: Turbo für die Kommandozeile",
+      "teaser": "Die Rust-Neuimplementierung klassischer Unix-Tools erreicht Version 0.7 mit zahlreichen Performance-Verbesserungen und Build-Fixes für NetBSD und PowerPC.",
+      "url": "https://www.heise.de/news/Rust-Coreutils-0-7-Turbo-fuer-die-Kommandozeile-11203708.html",
+      "image_title": "Logo mit Schriftzug \"Open Source\", lila Hintergrund"
+    },
+    {
+      "title": "OpenAI startet Vorschau auf KI-Schwachstellenscanner Codex Security",
+      "teaser": "Während Claude bereits mehr als 100 Lücken in Firefox findet, kündigt OpenAI mit Codex Security einen KI-Sicherheitslückenscanner an.",
+      "url": "https://www.heise.de/news/OpenAI-startet-Vorschau-auf-KI-Schwachstellenscanner-Codex-Security-11203826.html",
+      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
+    },
+    {
+      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
+      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
+    },
+    {
+      "title": "Ubitium UB410: Rekonfigurierbarer Universalprozessor mit RISC-V-Technik",
+      "teaser": "Das deutsche Start-up Ubitium meldet das Tape-Out eines CGRA-Prozessors, der sich für Allzweckberechnungen ebenso eignen soll wie für KI und Signalverarbeitung.",
+      "url": "https://www.heise.de/news/Ubitium-UB410-Rekonfigurierbarer-Universalprozessor-mit-RISC-V-Technik-11203757.html",
+      "image_title": "Chipstrukturen auf Silizium-Wafer"
+    },
+    {
+      "title": "Product Owner Days 2026: Wirksamkeit in der Produktrolle erzielen",
+      "teaser": "Auf der Konferenz am 5. und 6. Mai 2026 behandeln Expertinnen und Experten die neuesten Methoden rund um Themen wie Product Ownership, KI und User Research.",
+      "url": "https://www.heise.de/news/Product-Owner-Days-2026-Wirksamkeit-in-der-Produktrolle-erzielen-11201318.html",
+      "image_title": "Product Owner Days 2026 in Köln"
+    },
+    {
+      "title": "KI für mehr Effizienz? Forscher warnt vor Wissensverlust in Unternehmen",
+      "teaser": "In einem Interview erklärt Prof. Jin Gerlach, warum das Versprechen von KI-Tools einer radikalen Effizienzsteigerung fatale Folgen haben könnte.",
+      "url": "https://www.heise.de/hintergrund/KI-fuer-mehr-Effizienz-Forscher-warnt-vor-Wissensverlust-in-Unternehmen-11199856.html"
+    },
+    {
+      "title": "USB-Stick, externe SSD & Co.: macOS-Verschlüsselung erfolgt schrittweise",
+      "teaser": "Mit dem Finder lässt sich aus einem APFS-Medium mit einem Klick eine abgesicherte FileVault-Variante machen. Das braucht aber Stunden, ohne dass man es sieht.",
+      "url": "https://www.heise.de/news/FileVault-fuer-externe-Medien-macOS-verschluesselt-im-Hintergrund-11203231.html",
+      "image_title": "Externe SSD, hier von Sandisk"
+    },
+    {
       "title": "Google Telefon-App: Update bringt Anrufaufzeichnung und „Anruferansichten“",
       "teaser": "Google bringt Anrufmitschnitte in seine Telefon-App. Zudem erhalten Nutzer der App iOS-ähnliche Kontaktposter für ausgehende Anrufe.",
       "url": "https://www.heise.de/news/Google-Telefon-App-Update-bringt-Anrufaufzeichnung-und-Anruferansichten-11203652.html",
@@ -197,45 +239,6 @@
       "teaser": "Die gezielte Kollision einer Weltraumsonde mit einem Asteroidenmond kann die Bahn des Hauptasteroiden um die Sonne ändern. Das hat das Dart-Experiment gezeigt.",
       "url": "https://www.heise.de/news/NASA-Sonde-Dart-Kollision-hat-auch-Sonnenorbit-der-Doppelasteroiden-veraendert-11203500.html",
       "image_title": "Unscharfe Bilder zweier Himmelskörper, der kleiner unten ist von einer Staubwolke umgeben."
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
-    },
-    {
-      "title": "Teuer und mit Touch: Apple arbeitet angeblich am „MacBook Ultra“ für dieses Jahr",
-      "teaser": "Nach dem Neo ist vor dem Ultra: Apple wird Bloomberg zufolge bis Herbst ein Nobel-Notebook auf den Markt bringen. Das Marketing steht vor einem Umbau.",
-      "url": "https://www.heise.de/news/Bericht-Touchscreen-Mac-mit-OLED-koennte-MacBook-Ultra-heissen-11203288.html",
-      "image_title": "Aufgeklapptes MacBook"
-    },
-    {
-      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
-      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
-      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
-    },
-    {
-      "title": "Warum die Schweizer gegen Halbierung der Medienabgabe gestimmt haben",
-      "teaser": "Das Schweizer Stimmvolk hat die Volksinitiative „200 Franken sind genug!“ mit 61,9 Prozent abgelehnt. Damit bleibt die Finanzierung der SRG SSR vorerst stabil.",
-      "url": "https://www.heise.de/hintergrund/Warum-die-Schweizer-gegen-Halbierung-der-Medienabgabe-gestimmt-haben-11203668.html",
-      "image_title": "Aufnahme aus Rundfunkstudio"
-    },
-    {
-      "title": "iX-Workshop: KI für eigene Daten: RAG in der Praxis mit LangChain.js",
-      "teaser": "Erfahren Sie, wie Sie mit Retrieval Augmented Generation (RAG) und LangChain.js maßgeschneiderte KI-Lösungen entwickeln und implementieren können.",
-      "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-11160908.html",
-      "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "Aufstellort Solar-Batteriespeicher: Was bei Lebensdauer und Sicherheit zählt",
-      "teaser": "Ein Heimspeicher brennt nicht häufiger als ein Trockner. Doch der Aufstellort entscheidet mit über Lebensdauer, Sicherheit und Leistung.",
-      "url": "https://www.heise.de/ratgeber/Aufstellort-Solar-Batteriespeicher-Was-bei-Lebensdauer-und-Sicherheitheit-zaehlt-11149787.html"
-    },
-    {
-      "title": "Schweiz: Volksabstimmung lehnt Senkung der Rundfunkgebühren ab",
-      "teaser": "Weniger zahlen und private Anbieter stärken – mit diesem Argument wollten Befürworter den Rundfunkbeitrag in der Schweiz drastisch kürzen. Es kam anders.",
-      "url": "https://www.heise.de/news/Kuerzung-von-Rundfunkbeitrag-in-der-Schweiz-gescheitert-11203408.html",
-      "image_title": "Schriftzug: SRG SSR (Schweizer Radio und Fernsehen) am Gebäude"
     },
     {
       "title": "Tschüss Big TechSichere E-Mail-Alternativen aus Europa",
@@ -295,7 +298,7 @@
       "url": "https://www.heise.de/news/Buntes-MacBook-Neo-Apple-will-den-Laptop-Markt-aufwirbeln-11198917.html"
     },
     {
-      "title": "CO₂, Schadstoffe & Schimmel im BlickTop 10: Der beste Luftgütesensor im Test",
+      "title": "CO₂, Schadstoffe & SchimmelTop 10: Der beste Luftgütesensor im Test",
       "teaser": "Smarte Luftgütesensoren messen Feuchtigkeit, Temperatur, CO₂, CO, VOC, Ozon, Feinstaub, Radon und mehr.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-luftguetesensor-im-test-co-schadstoffe-und-schimmel-im-blick/h3jrv81?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
@@ -325,6 +328,40 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Teuer und mit Touch: Apple arbeitet angeblich am „MacBook Ultra“ für dieses Jahr",
+      "teaser": "Nach dem Neo ist vor dem Ultra: Apple wird Bloomberg zufolge bis Herbst ein Nobel-Notebook auf den Markt bringen. Das Marketing steht vor einem Umbau.",
+      "url": "https://www.heise.de/news/Bericht-Touchscreen-Mac-mit-OLED-koennte-MacBook-Ultra-heissen-11203288.html",
+      "image_title": "Aufgeklapptes MacBook"
+    },
+    {
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
+    },
+    {
+      "title": "Warum die Schweizer gegen Halbierung der Medienabgabe gestimmt haben",
+      "teaser": "Das Schweizer Stimmvolk hat die Volksinitiative „200 Franken sind genug!“ mit 61,9 Prozent abgelehnt. Damit bleibt die Finanzierung der SRG SSR vorerst stabil.",
+      "url": "https://www.heise.de/hintergrund/Warum-die-Schweizer-gegen-Halbierung-der-Medienabgabe-gestimmt-haben-11203668.html",
+      "image_title": "Aufnahme aus Rundfunkstudio"
+    },
+    {
+      "title": "iX-Workshop: KI für eigene Daten: RAG in der Praxis mit LangChain.js",
+      "teaser": "Erfahren Sie, wie Sie mit Retrieval Augmented Generation (RAG) und LangChain.js maßgeschneiderte KI-Lösungen entwickeln und implementieren können.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-fuer-eigene-Daten-RAG-in-der-Praxis-mit-LangChain-js-11160908.html",
+      "image_title": "iX-Workshop IT-Governance planen und implementieren"
+    },
+    {
+      "title": "Aufstellort Solar-Batteriespeicher: Was bei Lebensdauer und Sicherheit zählt",
+      "teaser": "Ein Heimspeicher brennt nicht häufiger als ein Trockner. Doch der Aufstellort entscheidet mit über Lebensdauer, Sicherheit und Leistung.",
+      "url": "https://www.heise.de/ratgeber/Aufstellort-Solar-Batteriespeicher-Was-bei-Lebensdauer-und-Sicherheitheit-zaehlt-11149787.html"
+    },
+    {
+      "title": "Schweiz: Volksabstimmung lehnt Senkung der Rundfunkgebühren ab",
+      "teaser": "Weniger zahlen und private Anbieter stärken – mit diesem Argument wollten Befürworter den Rundfunkbeitrag in der Schweiz drastisch kürzen. Es kam anders.",
+      "url": "https://www.heise.de/news/Kuerzung-von-Rundfunkbeitrag-in-der-Schweiz-gescheitert-11203408.html",
+      "image_title": "Schriftzug: SRG SSR (Schweizer Radio und Fernsehen) am Gebäude"
     },
     {
       "title": "secIT 2026: Ein LKA-Cyberermittler plaudert aus dem Nähkästchen",
@@ -365,6 +402,11 @@
       "url": "https://www.heise.de/tests/Fuenf-Open-Clip-Kopfhoerer-im-Test-11134100.html"
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "Last Call zur inside Agile Impact 2026: Organisationen wirksam gestalten",
       "teaser": "Am 17. März zeigt die inside Agile Impact 2026, wie Organisationen Wirkung entfalten und Strukturen zukunftsfähig gestalten können.",
       "url": "https://www.heise.de/news/Last-Call-zur-inside-Agile-Impact-2026-Organisationen-wirksam-gestalten-11200206.html",
@@ -398,11 +440,6 @@
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
     },
     {
-      "title": "Self-driving Networks – Realität oder Zukunft?",
-      "teaser": "Self-driving Networks gelten als nächster Evolutionsschritt moderner Netzwerkarchitekturen. Durch den Einsatz von künstlicher Intelligenz und Machine Learning sollen Netzwerke nicht nur überwacht, sondern aktiv analysiert, optimiert und in Teilen autonom betrieben werden.",
-      "url": "https://business-services.heise.de/netze/netzwerk-management/beitrag/self-driving-networks-realitaet-oder-zukunft-5017?source=hbsad_ersatz"
-    },
-    {
       "title": "Drei Fragen, drei Antworten: Mehr Sichtbarkeit für Frauen auf IT-Konferenzen",
       "teaser": "Braucht die IT eine Frauenquote? Katrin Rabow über Sichtbarkeit, Vorurteile und mehr Chancengleichheit auf Konferenzen.",
       "url": "https://www.heise.de/news/Drei-Fragen-drei-Antworten-Mehr-Sichtbarkeit-fuer-Frauen-auf-IT-Konferenzen-11199796.html",
@@ -425,39 +462,6 @@
       "url": "https://www.heise.de/ratgeber/Thunderbird-optimieren-E-Mails-effizient-organisieren-und-filtern-11198736.html"
     },
     {
-      "title": "Beschleunigte Erderwärmung: Das 1,5-Grad-Ziel rückt in gefährliche Nähe",
-      "teaser": "Eine Studie des Potsdamer Klima-Instituts belegt eine signifikante Zunahme der Erwärmungsrate seit 2015 und warnt vor dem raschen Reißen der Pariser Klimaziele.",
-      "url": "https://www.heise.de/news/Beschleunigte-Erderwaermung-Das-1-5-Grad-Ziel-rueckt-in-gefaehrliche-Naehe-11203039.html"
-    },
-    {
-      "title": "Alliwava GH8 mit Ryzen 9 im Test: Mini-PC mit guter Verarbeitung, 2x LAN & USB4",
-      "teaser": "Der Mini-PC Alliwava GH8 kommt mit guter Verarbeitung, satten 32 GB DDR5-RAM und einer 1 TB SSD sowie zwei LAN-Ports und USB4.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/alliwava-gh8-mit-ryzen-9-im-test-mini-pc-mit-guter-verarbeitung-2x-lan-und-usb4/8t7y79z?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Amazon, Google und Microsoft stärken Anthropic den Rücken",
-      "teaser": "Für zivile Projekte könnte man Claude und Co. weiter verwenden, meinen Tech-Giganten.",
-      "url": "https://www.heise.de/news/Amazon-Google-und-Microsoft-staerken-Anthropic-den-Ruecken-11203033.html",
-      "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
-    },
-    {
-      "title": "SATCOMBw: Jetzt will auch Airbus ein Konsortium mit Rheinmetall und OHB",
-      "teaser": "Zuvor wollten bereits OHB und Rheinmetall kooperieren, nun will auch Airbus dazustoßen. Das Projekt soll dann schneller fertig werden, könnte aber mehr kosten.",
-      "url": "https://www.heise.de/news/SATCOMBw-Jetzt-will-auch-Airbus-ein-Konsortium-mit-Rheinmetall-und-OHB-11203023.html",
-      "image_title": "Viele Satelliten"
-    },
-    {
-      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
-      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
-      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
-    },
-    {
-      "title": "c’t-Webinar: Photovoltaik für Einsteiger",
-      "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11198578.html",
-      "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
-    },
-    {
       "title": "KI Claude findet in zwei Wochen über 100 Firefox-Bugs",
       "url": "https://www.heise.de/news/KI-Modell-Claude-findet-Firefox-Bugs-schneller-als-die-Community-11202759.html",
       "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
@@ -468,8 +472,9 @@
       "image_title": "Negativbild eines Wafers während der Belichtung"
     },
     {
-      "title": "Nextcloud im Praxistest: BESSER als Teams? | c't 3003",
-      "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
+      "title": "Amazon, Google und Microsoft stärken Anthropic den Rücken",
+      "url": "https://www.heise.de/news/Amazon-Google-und-Microsoft-staerken-Anthropic-den-Ruecken-11203033.html",
+      "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
     },
     {
       "title": "10 Prozent des beobachtbaren Universums: Größter Galaxien-Katalog fertig",
@@ -502,6 +507,10 @@
       "image_title": "iOS 26"
     },
     {
+      "title": "Nextcloud im Praxistest: BESSER als Teams? | c't 3003",
+      "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
+    },
+    {
       "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
       "url": "https://www.heise.de/news/Neue-LG-Fernseher-Neben-OLEDs-nun-auch-TVs-mit-Micro-RGB-LEDs-11202900.html"
     },
@@ -509,11 +518,6 @@
       "title": "Nikon gegen die Welt – Fujifilm fragt nach: Die Fotonews der Woche 10/26",
       "url": "https://www.heise.de/news/Nikon-gegen-die-Welt-Fujifilm-fragt-nach-Die-Fotonews-der-Woche-10-26-11201871.html",
       "image_title": "KI-generierte Straße"
-    },
-    {
-      "title": "Apple TV cancelt Dramedy „Palm Royale“ – und Nutzer sind sauer",
-      "url": "https://www.heise.de/news/Apple-TV-cancelt-Dramedy-Palm-Royale-und-Nutzer-sind-sauer-11197403.html",
-      "image_title": "„Palm Royale“: Wie es weitergeht, bleibt offen"
     },
     {
       "title": "Standortrisiko Klimaziel: EU-Autobauer fordern Kurskorrektur bei Verbrenner-Aus",
@@ -525,9 +529,9 @@
       "url": "https://www.heise.de/news/Schnellladesaeulen-an-Autobahnen-Ausschreibung-notwendig-11202972.html"
     },
     {
-      "title": "Großbritannien verbrennt so wenig Kohle wie zuletzt zu Lebzeiten von Shakespeare",
-      "url": "https://www.heise.de/news/Grossbritannien-verbrennt-so-wenig-Kohle-wie-zuletzt-zu-Lebzeiten-von-Shakespeare-11201783.html",
-      "image_title": "Rauchende Schornsteine"
+      "title": "Apple TV cancelt Dramedy „Palm Royale“ – und Nutzer sind sauer",
+      "url": "https://www.heise.de/news/Apple-TV-cancelt-Dramedy-Palm-Royale-und-Nutzer-sind-sauer-11197403.html",
+      "image_title": "„Palm Royale“: Wie es weitergeht, bleibt offen"
     },
     {
       "title": "LibreOffice kritisiert EU-Kommission wegen proprietärer XLSX-Formate",
@@ -545,6 +549,10 @@
       "image_title": "Bronzestatue eines Paparazzo"
     },
     {
+      "title": "Beschleunigte Erderwärmung: Das 1,5-Grad-Ziel rückt in gefährliche Nähe",
+      "url": "https://www.heise.de/news/Beschleunigte-Erderwaermung-Das-1-5-Grad-Ziel-rueckt-in-gefaehrliche-Naehe-11203039.html"
+    },
+    {
       "title": "#TGIQF: Das Quiz um Festplatten, SSDs und Co.",
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-um-Festplatten-SSDs-und-Co-11202144.html",
       "image_title": "Scheibe einer Festplatte"
@@ -552,10 +560,6 @@
     {
       "title": "Aufstellort Solar-Batteriespeicher: Was bei Lebensdauer und Sicherheit zählt",
       "url": "https://www.heise.de/ratgeber/Aufstellort-Solar-Batteriespeicher-Was-bei-Lebensdauer-und-Sicherheitheit-zaehlt-11149787.html"
-    },
-    {
-      "title": "Wetterballon im Selbstbau | c’t uplink",
-      "url": "https://www.heise.de/news/Wetterballon-im-Selbstbau-c-t-uplink-11201154.html"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -624,19 +628,19 @@
       "url": "https://www.heise.de/en/news/SATCOMBw-Now-Airbus-also-wants-a-consortium-with-Rheinmetall-and-OHB-11203054.html"
     },
     {
+      "title": "c't-VideoreiheWir basteln unseren Wetterballon zusammen (Teil 2)",
+      "teaser": "Vom Basteltisch bis in die Stratosphäre: Im zweiten Teil unserer Videoreihe bauen wir die Messgeräte für unseren Wetterballon.",
+      "url": "https://www.heise.de/news/c-t-Videoreihe-Wir-basteln-unseren-Wetterballon-zusammen-Teil-2-11200245.html"
+    },
+    {
       "title": "Quantencomputing unter Druck: Was bleibt vom Quantenvorteil im KI-Zeitalter?",
       "teaser": "Quantencomputer sollten Netze optimieren und Moleküle simulieren. KI kann das schon heute – und wirft die Frage auf, wofür wir Quantenrechner noch brauchen.",
       "url": "https://www.heise.de/hintergrund/Quantencomputing-unter-Druck-Was-bleibt-vom-Quantenvorteil-im-KI-Zeitalter-11102037.html"
     },
     {
-      "title": "Neue LG-Fernseher: Neben OLEDs nun auch TVs mit Micro-RGB-LEDs",
-      "teaser": "OLED-Spezialist LG hat seine neuen TVs gezeigt, organische Display bekommen bessere Bildqualität, die meisten LCD-TVs werden billiger, eine Gruppe fällt raus.",
-      "url": "https://www.heise.de/news/Neue-LG-Fernseher-Neben-OLEDs-nun-auch-TVs-mit-Micro-RGB-LEDs-11202900.html"
-    },
-    {
-      "title": "c't-VideoreiheWir basteln unseren Wetterballon zusammen (Teil 2)",
-      "teaser": "Vom Basteltisch bis in die Stratosphäre: Im zweiten Teil unserer Videoreihe bauen wir die Messgeräte für unseren Wetterballon.",
-      "url": "https://www.heise.de/news/c-t-Videoreihe-Wir-basteln-unseren-Wetterballon-zusammen-Teil-2-11200245.html"
+      "title": "c't 3003Nextcloud im Praxistest: BESSER als Teams?",
+      "teaser": "Mit Nextcloud gibt es eine deutsche Alternative zu Dropbox, Teams, Slack und anderen US-Anbietern. c't 3003 hat sie ausprobiert.",
+      "url": "https://www.heise.de/news/Nextcloud-im-Praxistest-BESSER-als-Teams-c-t-3003-11201042.html"
     },
     {
       "title": "AppleVom KI-Pionier zum Schlusslicht",
@@ -736,22 +740,21 @@
       "image_title": "Mazda MX5"
     },
     {
-      "title": "RBB kämpft um Vertrauen – und ums Geld",
-      "teaser": "Millionen sparen, Programme prüfen, Strukturen umbauen: Beim RBB treffen Reformrhetorik und harte Sparrealität aufeinander.",
-      "url": "https://www.heise.de/-11202311",
-      "image_title": "Großes rotes RBB-Schild vor dem Gelände des Senders"
-    },
-    {
-      "title": "Klimawandel: Wenn Versicherungen kapitulieren",
-      "teaser": "Versicherer warnen: Klimaschäden werden unbezahlbar. Zwei Drittel der Betroffenen zahlen bereits selbst. Wer trägt künftig die Billionen-Risiken?",
-      "url": "https://www.heise.de/-11197355",
-      "image_title": "Häuser an einer Küste von oben"
-    },
-    {
       "title": "BYD Blade-Batterie 2.0: Von 10 auf 70 Prozent in fünf Minuten",
       "teaser": "Der chinesische Hersteller hat eine Batterie vorgestellt, die E-Autos fast so schnell lädt wie Verbrenner tanken – allerdings nur unter einer Bedingung.",
       "url": "https://www.heise.de/-11202450",
       "image_title": "Detail der Heckleuchte eines modernen Elektroautos des chinesischen Automobilherstellers BYD."
+    },
+    {
+      "title": "Ramses und Ḫattušili: Diplomatie statt Dauerkrieg",
+      "teaser": "Frieden im Nahen Osten ist möglich. Großmächte können Kriege um die Vormacht beenden. Heiraten ist besser als kämpfen. Ein Lehrstück aus der Geschichte.",
+      "url": "https://www.heise.de/-11195474",
+      "image_title": "Eine Steinmauer mit Hyroglyphenschrift"
+    },
+    {
+      "title": "K-förmige Globalisierung: Wenn sich die Welt in zwei Richtungen entwickelt",
+      "teaser": "Deloitte-Studie untersucht globale Wirtschaftstrends. Globaler Süden als Wirtschaftstreiber, Westen auf dem Rückzug. Europa und Unternehmen müssen klug agieren.",
+      "url": "https://www.heise.de/-11201751"
     },
     {
       "title": "„Schmerzhaft mitanzusehen“: Wie KI das Go-Spiel radikal verändert hat",
