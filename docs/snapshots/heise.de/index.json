@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T17:37:16",
+  "timestamp": "2026-03-10T18:32:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Raspberry Pi: Mini-Tower-Gehäuse bekommt Touchscreen",
+      "url": "https://www.heise.de/news/Raspberry-Pi-Mini-Tower-Gehaeuse-bekommt-Touchscreen-11206365.html"
+    },
+    {
+      "title": "Vorstellung Mercedes VLE und VLS: Ausweichen nach oben",
+      "url": "https://www.heise.de/news/Vorstellung-Mercedes-VLE-und-VLS-Ausweichen-nach-oben-11206187.html"
+    },
+    {
+      "title": "FreeBSD 14.4 läuft deutlich besser in der Cloud und auf Notebooks",
+      "url": "https://www.heise.de/news/FreeBSD-14-4-laeuft-deutlich-besser-in-der-Cloud-und-auf-Notebooks-11206199.html"
+    },
     {
       "title": "Weltmodell statt LLM: Start-up von Yann LeCun erhält 890 Millionen Euro",
       "url": "https://www.heise.de/news/Weltmodell-statt-LLM-Start-up-von-Yann-LeCun-erhaelt-890-Millionen-Euro-11206213.html"
@@ -54,18 +66,6 @@
     {
       "title": "Vorwerk schaltet Neato-Cloud ab: Tausende Nutzer fordern Open-Source-Lösung",
       "url": "https://www.heise.de/news/Vorwerk-schaltet-Neato-Cloud-ab-Tausende-Nutzer-fordern-Open-Source-Loesung-11206147.html"
-    },
-    {
-      "title": "Smart-Home-Zentrale Homey Pro (2026) im Test: Lokal und ohne Cloud-Zwang",
-      "url": "https://www.heise.de/bestenlisten/testbericht/smart-home-zentrale-homey-pro-2026-im-test-lokal-und-ohne-cloud-zwang/z6ylsf5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Apps per Sprache erstellen: Samsung erwägt Vibe-Coding für Galaxy-Smartphones",
-      "url": "https://www.heise.de/news/Galaxy-AI-Samsung-denkt-ueber-App-Erstellung-per-Vibe-Coding-nach-11205908.html"
-    },
-    {
-      "title": "VW-Chef Blume kündigt radikale Kostensenkungen an",
-      "url": "https://www.heise.de/news/Neuer-VW-Transformationsplan-Werden-jeden-Stein-umdrehen-11205849.html"
     },
     {
       "title": "Abgeschaltete CloudNeato-Nutzer fordern Open-Source-Lösung",
@@ -189,6 +189,29 @@
       "image_title": "Apple-Laden in Shanghai"
     },
     {
+      "title": "Raspberry Pi: Mini-Tower-Gehäuse bekommt Touchscreen",
+      "teaser": "Das Raspi-Gehäuse Pironman 5 bekommt weitere Funktionen. Die Pro-Version erscheint mit Display, Kamera, Mikrofon und Lautsprechern.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-Mini-Tower-Gehaeuse-bekommt-Touchscreen-11206365.html",
+      "image_title": "Raspi-Gehäuse vor weißem Hintergrund"
+    },
+    {
+      "title": "Vorstellung Mercedes VLE und VLS: Ausweichen nach oben",
+      "teaser": "Mercedes unternimmt einen weiteren Versuch, das Van- und Kleinbus-Segment nach oben zu erweitern. VLE und VLS werden auch mit E-Antrieb angeboten.",
+      "url": "https://www.heise.de/news/Vorstellung-Mercedes-VLE-und-VLS-Ausweichen-nach-oben-11206187.html",
+      "image_title": "Mercedes VLE"
+    },
+    {
+      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
+      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
+    },
+    {
+      "title": "FreeBSD 14.4 läuft deutlich besser in der Cloud und auf Notebooks",
+      "teaser": "FreeBSD 14.4 vereinfacht mit WLAN-Firmware im Installer den Notebooks-Einsatz, lässt sich leichter in die Cloud integrieren und bereitet auf FreeBSD 15 vor.",
+      "url": "https://www.heise.de/news/FreeBSD-14-4-laeuft-deutlich-besser-in-der-Cloud-und-auf-Notebooks-11206199.html",
+      "image_title": "Schriftzug FreeBSD"
+    },
+    {
       "title": "Weltmodell statt LLM: Start-up von Yann LeCun erhält 890 Millionen Euro",
       "teaser": "Das von Yann LeCun gegründete Start-up AMI Labs hat rund 1 Milliarde US-Dollar eingesammelt. Es entwickelt KI-Weltmodelle, die die reale Welt verstehen sollen.",
       "url": "https://www.heise.de/news/Weltmodell-statt-LLM-Start-up-von-Yann-LeCun-erhaelt-890-Millionen-Euro-11206213.html",
@@ -198,11 +221,6 @@
       "title": "Quantencomputing unter Druck: Was bleibt vom Quantenvorteil im KI-Zeitalter?",
       "teaser": "Quantencomputer sollten Netze optimieren und Moleküle simulieren. KI kann das schon heute – und wirft die Frage auf, wofür wir Quantenrechner noch brauchen.",
       "url": "https://www.heise.de/hintergrund/Quantencomputing-unter-Druck-Was-bleibt-vom-Quantenvorteil-im-KI-Zeitalter-11102037.html"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "KI-Agenten unter sich: Meta schluckt Moltbook-Plattform",
@@ -220,23 +238,6 @@
       "title": "Smart-Home-Zentrale Homey Pro (2026) im Test: Lokal und ohne Cloud-Zwang",
       "teaser": "Mehr Arbeitsspeicher, viele Funkstandards, kein Cloud-Zwang: Der neue Homey Pro (2026) bietet große Kompatibilität, kann aber weiterhin nicht alles.",
       "url": "https://www.heise.de/bestenlisten/testbericht/smart-home-zentrale-homey-pro-2026-im-test-lokal-und-ohne-cloud-zwang/z6ylsf5?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Apps per Sprache erstellen: Samsung erwägt Vibe-Coding für Galaxy-Smartphones",
-      "teaser": "Samsung denkt über Vibe-Coding auf seinen Galaxy-Smartphones nach, um den Geräten in gewisser Weise noch mehr KI und Individualisierungsoptionen zu verpassen.",
-      "url": "https://www.heise.de/news/Galaxy-AI-Samsung-denkt-ueber-App-Erstellung-per-Vibe-Coding-nach-11205908.html",
-      "image_title": "Samsung Galaxy S26 Serie"
-    },
-    {
-      "title": "VW-Chef Blume kündigt radikale Kostensenkungen an",
-      "teaser": "VW will mit einem neuen Transformationsplan bis 2030 auf die veränderten Rahmenbedingungen reagieren. Auch erneute Kostensenkungen sind geplant.",
-      "url": "https://www.heise.de/news/Neuer-VW-Transformationsplan-Werden-jeden-Stein-umdrehen-11205849.html",
-      "image_title": "Volkswagen-Werk mit VW-Schriftzug"
-    },
-    {
-      "title": "Mini-PC-Barebone Asrock DeskMini B860 mit Thunderbolt im Test",
-      "teaser": "Der kompakte Barebone für aktuelle Intel-CPUs treibt vier digitale Displays an. Wir prüfen, ob er so sparsam arbeitet wie Mini-PCs mit Mobilprozessor.",
-      "url": "https://www.heise.de/tests/Mini-PC-Barebone-Asrock-DeskMini-B860-mit-Thunderbolt-im-Test-11162109.html"
     },
     {
       "title": "Budget‑Mac mit Smartphone‑HerzDas MacBook Neo im Test",
@@ -329,6 +330,23 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Apps per Sprache erstellen: Samsung erwägt Vibe-Coding für Galaxy-Smartphones",
+      "teaser": "Samsung denkt über Vibe-Coding auf seinen Galaxy-Smartphones nach, um den Geräten in gewisser Weise noch mehr KI und Individualisierungsoptionen zu verpassen.",
+      "url": "https://www.heise.de/news/Galaxy-AI-Samsung-denkt-ueber-App-Erstellung-per-Vibe-Coding-nach-11205908.html",
+      "image_title": "Samsung Galaxy S26 Serie"
+    },
+    {
+      "title": "VW-Chef Blume kündigt radikale Kostensenkungen an",
+      "teaser": "VW will mit einem neuen Transformationsplan bis 2030 auf die veränderten Rahmenbedingungen reagieren. Auch erneute Kostensenkungen sind geplant.",
+      "url": "https://www.heise.de/news/Neuer-VW-Transformationsplan-Werden-jeden-Stein-umdrehen-11205849.html",
+      "image_title": "Volkswagen-Werk mit VW-Schriftzug"
+    },
+    {
+      "title": "Mini-PC-Barebone Asrock DeskMini B860 mit Thunderbolt im Test",
+      "teaser": "Der kompakte Barebone für aktuelle Intel-CPUs treibt vier digitale Displays an. Wir prüfen, ob er so sparsam arbeitet wie Mini-PCs mit Mobilprozessor.",
+      "url": "https://www.heise.de/tests/Mini-PC-Barebone-Asrock-DeskMini-B860-mit-Thunderbolt-im-Test-11162109.html"
+    },
+    {
       "title": "Sonos Play: Dritter Sonos-Lautsprecher will draußen spielen",
       "teaser": "Sonos schließt mit Outdoor-Speaker Play die Lücke zwischen Roam und Move und bringt mit dem Era 100 SL eine neue Variante des Indoor-Lautsprechers.",
       "url": "https://www.heise.de/news/Sonos-Play-Dritter-Sonos-Lautsprecher-will-draussen-spielen-11205857.html",
@@ -387,6 +405,11 @@
       "image_title": "Porsche Cayenne S"
     },
     {
+      "title": "Überleben im neuen Zeitalter automatisierter Cyberangriffe",
+      "teaser": "Künstliche Intelligenz ermöglicht völlig neue und hochgefährliche Cyber-Bedrohungen. Erfahren Sie im Live-Webcast am 12.3. um 11 Uhr, wie diese Angriffe funktionieren und wie Sie Ihr Unternehmen schützen können.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/ueberleben-im-neuen-zeitalter-automatisierter-cyberangriffe-5023/?source=hbsadersatz"
+    },
+    {
       "title": "Mikromobilität erreicht Haushalte: 1,4 Millionen E-Tretroller in Privatbesitz",
       "teaser": "Längst nicht mehr jeder elektrifizierte Tretroller gehört zu einer öffentlichen Flotte. Die Haushalte ziehen weiter kräftig nach und kaufen eifrig E-Scooter.",
       "url": "https://www.heise.de/news/Mikromobilitaet-erreicht-Haushalte-1-4-Millionen-E-Tretroller-in-Privatbesitz-11205094.html",
@@ -403,11 +426,6 @@
       "teaser": "Die US-Luftfahrtbehörde FAA hat großangelegte Tests von Flugtaxis angekündigt. Das Pilotprogramm soll bis im Sommer starten.",
       "url": "https://www.heise.de/news/Flugtaxis-USA-starten-bald-Tests-in-26-Bundesstaaten-11205510.html",
       "image_title": "Elektrisches Flugtaxi mit mehreren Rotoren steht auf einem Rollfeld, daneben läuft eine Person."
-    },
-    {
-      "title": "Von der Cloud zum KI-PC – wie sich KI-Modelle portieren lassen",
-      "teaser": "KI-Modelle, die in der Cloud trainiert wurden, lassen sich oft nur schwer in lokale IT-Umgebungen integrieren. Doch es gibt einen Weg, diese Hürden zu überwinden und KI plattformübergreifend einzusetzen!",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/von-der-cloud-zum-ki-pc-wie-sich-ki-modelle-portieren-lassen/?source=hbsadersatz"
     },
     {
       "title": "Einschlagsort unklar: NASA-Forschungssonde kurz vor unkontrolliertem Absturz",
@@ -449,24 +467,6 @@
       "teaser": "Apples Einsteiger-Notebook kostet maximal 799 Euro. Dafür wurde auch Apple Zusatzschutz verbilligt – aber weniger, als man gehofft hätte.",
       "url": "https://www.heise.de/news/AppleCare-Apple-verbilligt-Geraeteversicherung-fuer-MacBook-Neo-11204709.html",
       "image_title": "MacBook Neo in Benutzung"
-    },
-    {
-      "title": "Microsoft 365 E7: Das bietet das neue KI-Paket",
-      "teaser": "Microsoft erweitert Copilot um Anthropics Claude-Technologie und führt mit Agent 365 eine zentrale Verwaltungsplattform für KI-Agenten ein.",
-      "url": "https://www.heise.de/news/Microsoft-365-E7-Das-bietet-das-neue-KI-Paket-11205054.html",
-      "image_title": "Excel-Fenster, grüner Hintergrund"
-    },
-    {
-      "title": "Signal: Nehmen Bedrohung durch gezielte Phishing-Angriffe sehr ernst",
-      "teaser": "Signal hat sich zu den russischen Phishing-Attacken etwa auf Regierungsbeamte geäußert. Man nehme die Vorfälle sehr ernst.",
-      "url": "https://www.heise.de/news/Signal-Nehmen-Bedrohung-durch-gezielte-Phishing-Angriffe-sehr-ernst-11205178.html",
-      "image_title": "Signal-App auf einem Smartphone"
-    },
-    {
-      "title": "Mac-Pipeline noch nicht durch: Diese weiteren Rechner plant Apple für 2026",
-      "teaser": "Apple hat zwar in der letzten Woche ein Produktfeuerwerk abgebrannt, doch gibt es noch Aktualisierungslücken. Ein Überblick.",
-      "url": "https://www.heise.de/news/Mac-Pipeline-noch-nicht-durch-Diese-weiteren-Rechner-plant-Apple-fuer-2026-11204713.html",
-      "image_title": "Einige Macs von Apple"
     },
     {
       "title": "Bericht: Palmer Luckey hält Retro-Konsolen für milliardenschwer",
@@ -638,6 +638,11 @@
       "url": "https://www.heise.de/en/news/BMW-Recall-Defective-Starter-Can-Cause-Fire-11173309.html"
     },
     {
+      "title": "Günstiges MacBookWie das MacBook Neo den Notebookmarkt umkrempelt",
+      "teaser": "Apples MacBook Neo erschließt mit Preisen ab 700 Euro einen neuen Markt. Andere Hersteller bekommen das Zittern.",
+      "url": "https://www.heise.de/hintergrund/Wie-das-MacBook-Neo-den-Notebookmarkt-umkrempelt-11199890.html"
+    },
+    {
       "title": "Trend für Industrie und Haushalt: Digitale Sicherungen und FI-Schutzschalter",
       "teaser": "Auf der „Light + Building“ sind die Trends der Gebäudeautomation zu sehen. Eine der Neuerungen: Sicherungsautomaten und FI-Schutzschalter werden fernsteuerbar.",
       "url": "https://www.heise.de/news/Light-Building-2026-Vernetzung-und-Ueberwachung-im-Zaehlerschrank-11203284.html"
@@ -647,17 +652,6 @@
       "teaser": "LG hat seine neuen OLED-TVs vorgestellt. Wir haben im Hands-on erste Messungen durchgeführt und merkliche Verbesserungen bei der Bildqualität festgestellt.",
       "url": "https://www.heise.de/news/LGs-neue-OLED-TVs-Die-helle-Generation-11204697.html",
       "image_title": "Im Test drei OLEDs und ein LCD-TV (rechts)"
-    },
-    {
-      "title": "„Der Astronaut“Beste Science-Fiction seit „Interstellar“ und „Der Marsianer“",
-      "teaser": "Andy Weirs verfilmter Roman verwandelt eine globale Katastrophe in eine intime Geschichte über eine unwahrscheinliche Freundschaft.",
-      "url": "https://www.heise.de/meinung/Filmkritik-Der-Astronaut-Project-Hail-Mary-Mein-Freund-der-Stein-11205124.html",
-      "image_title": "Ryan Gosling als Ryland Grace in DER ASTRONAUT - PROJECT HAIL MARY, von Amazon MGM Studios"
-    },
-    {
-      "title": "Günstiges MacBookWie das MacBook Neo den Notebookmarkt umkrempelt",
-      "teaser": "Apples MacBook Neo erschließt mit Preisen ab 700 Euro einen neuen Markt. Andere Hersteller bekommen das Zittern.",
-      "url": "https://www.heise.de/hintergrund/Wie-das-MacBook-Neo-den-Notebookmarkt-umkrempelt-11199890.html"
     },
     {
       "title": "AppleVom KI-Pionier zum Schlusslicht",
@@ -672,26 +666,26 @@
       "image_title": "ClickClack in Aktion"
     },
     {
+      "title": "Dirigera, Kajplats & Co. im TestDas leisten die neuen Smart-Home-Geräte von Ikea",
+      "teaser": "Ikea hat seine Smart-Home-Sparte neu aufgestellt. Neue Sensoren und Lampen arbeiten via Matter in Apple Home. Was taugen sie?",
+      "url": "https://www.heise.de/tests/Smart-Home-auf-Schwedisch-im-Test-Das-leisten-smarte-Geraete-von-Ikea-11187432.html",
+      "image_title": ", Apple / Ikea / heise medien"
+    },
+    {
       "title": "Aufstellort Solar-Batteriespeicher: Was bei Lebensdauer und Sicherheit zählt",
       "teaser": "Ein Heimspeicher brennt nicht häufiger als ein Trockner. Doch der Aufstellort entscheidet mit über Lebensdauer, Sicherheit und Leistung.",
       "url": "https://www.heise.de/ratgeber/Aufstellort-Solar-Batteriespeicher-Was-bei-Lebensdauer-und-Sicherheitheit-zaehlt-11149787.html"
+    },
+    {
+      "title": "Verschleißmelder für Maschinen mit ESP32 selber bauen",
+      "teaser": "Lockere Schrauben, Unwucht oder verschlissene Lager kündigen sich lange an. Mit wenig Hardware und etwas Mathematik können Sie Maschinenzustände überwachen.",
+      "url": "https://www.heise.de/ratgeber/Verschleissmelder-fuer-Maschinen-mit-ESP32-selber-bauen-11145535.html"
     },
     {
       "title": "Matter Discovery Bundle von Arduino für Maker",
       "teaser": "Arduino bringt ein Entwicklerpaket für Matter heraus. Das Bundle kombiniert Nano-Mikrocontroller, Sensoren und Lernmaterial für erste Smart-Home-Projekte.",
       "url": "https://www.heise.de/news/Matter-Discovery-Bundle-von-Arduino-fuer-Maker-11198815.html",
       "image_title": "Fünf Leiterplatten aus dem Arduino Matter Discovery Bundle vor weißem Hintergrund: oben links ein Arduino-Board mit zwei schwarzen Steckleisten und USB-C-Anschluss, oben rechts ein schmales Mikrocontroller-Board mit integrierter Funk-Einheit und Stiftleisten; unten drei blaue Sensor- und Aktor-Module mit Befestigungslöchern – links ein rund angeordnetes Sensormodul, in der Mitte ein Relaismodul mit schwarzem Relaisblock und Schraubklemmen, rechts ein weiteres Sensormodul mit kleinem Chip und I²C-Anschlüssen."
-    },
-    {
-      "title": "Do it yourselfEnergiemonitor für Balkonkraftwerk bauen und auswerten",
-      "teaser": "Unser Energiemonitor überwacht Verbräuche und Lasten, damit Sie den Strom eines Balkonkraftwerks möglichst gut nutzen können.",
-      "url": "https://www.heise.de/ratgeber/Energiemonitor-fuer-Balkonkraftwerk-bauen-und-auswerten-11140405.html"
-    },
-    {
-      "title": "Reprofotografie in 240 MP: Digitalisierung eines wiederentdeckten Kunstwerks",
-      "teaser": "Aus einem wiederentdeckten Entwurf des Expressionisten Ernst Ludwig Kirchner soll eine VR-Installation entstehen. Dabei hilft professionelle Reprofotografie.",
-      "url": "https://www.heise.de/ratgeber/Reprofotografie-in-240-MP-Digitalisierung-eines-wiederentdeckten-Kunstwerks-11197461.html",
-      "image_title": ", Alle Bilder: Tilo Gockel"
     },
     {
       "title": "WeltfrauentagDie schönsten Aufnahmen von Fotografinnen der c’t Fotogalerie",
@@ -709,6 +703,12 @@
       "teaser": "Große Aussichten und stille Momente prägen unsere Bildauswahl dieser Woche.",
       "url": "https://www.heise.de/news/Still-und-monumental-Die-Bilder-der-Woche-10-11201805.html",
       "image_title": "Blick auf ein Gebirge"
+    },
+    {
+      "title": "Mehr Reichweite für wenig GeldTeleobjektiv fürs Smartphone",
+      "teaser": "Externe Teleoptiken versprechen mehr Brennweite als der Digitalzoom. Ein Praxistest.",
+      "url": "https://www.heise.de/tests/Teleobjektiv-fuers-Smartphone-Mehr-Reichweite-fuer-wenig-Geld-11188742.html",
+      "image_title": ", Alle Bilder: Peter Mein"
     },
     {
       "title": "Ein ÜberblickMicrosoft-Dienste eigenständig ohne Cloud betreiben",
@@ -753,22 +753,22 @@
       "image_title": "Garage"
     },
     {
-      "title": "Erdöl-Krise: Spritpreise könnten auf 2,50 Euro und mehr steigen",
-      "teaser": "Analysten warnen: Solange die Straße von Hormus blockiert bleibt, könnte der Ölpreis erneut stark steigen – mit direkten Folgen an der Zapfsäule.",
-      "url": "https://www.heise.de/-11205574",
-      "image_title": "Öltropfen und im Hintergrund Bohrtürme"
+      "title": "Tiertransporte in der EU: Was Unfälle und Kontrollen enthüllen",
+      "teaser": "Bei jedem zweiten Transport gibt es Verstöße – doch die wahren Zustände zeigen sich erst, wenn etwas schiefgeht. Ein Blick auf die Praxis.",
+      "url": "https://www.heise.de/-11201559",
+      "image_title": "LKW mit Käfigen als Nutzlast"
     },
     {
-      "title": "VW in der Todesspirale: Zu groß, um zu scheitern – zu langsam, um zu gewinnen",
-      "teaser": "VW-Gewinn halbiert sich auf 6,9 Milliarden Euro. 50.000 Stellen fallen in Deutschland weg – mehr als geplant. Doch die größte Gefahr lauert woanders.",
-      "url": "https://www.heise.de/-11205239",
-      "image_title": "Volkswagen-Werk in einer Luftaufnahme"
+      "title": "Klimawandel: Wenn Versicherungen kapitulieren",
+      "teaser": "Versicherer warnen: Klimaschäden werden unbezahlbar. Zwei Drittel der Betroffenen zahlen bereits selbst. Wer trägt künftig die Billionen-Risiken?",
+      "url": "https://www.heise.de/-11197355",
+      "image_title": "Häuser an einer Küste von oben"
     },
     {
-      "title": "KI enttarnt anonyme Social-Media-Konten in Minuten",
-      "teaser": "Eine neue Studie zeigt: Künstliche Intelligenz kann pseudonyme Nutzer auf Social Media mit hoher Trefferquote identifizieren. Was bedeutet das für Dich?",
-      "url": "https://www.heise.de/-11204681",
-      "image_title": "Person in Kapuze am Schreibtisch mit digitalen Sprechblasen überlagert, leuchtende Symbole auf dunklem Hintergrund, Konzept der anonymen Online-Kommunikation"
+      "title": "Meteorit über Westdeutschland: Bruchstück beschädigt Wohnhaus in Koblenz",
+      "teaser": "Ein Meteorit hat am Sonntagabend weite Teile Westdeutschlands in Aufruhr versetzt. In Koblenz schlug ein Bruchstück ein fußballgroßes Loch in ein Hausdach.",
+      "url": "https://www.heise.de/-11204438",
+      "image_title": "ein Himmelskörper tritt in die Erdatmosphäre ein"
     },
     {
       "title": "Von Agentforce bis Openclaw: War 2025 wirklich das Jahr der KI-Agenten?",
