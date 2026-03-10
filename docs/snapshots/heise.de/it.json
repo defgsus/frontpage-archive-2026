@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-10T12:32:23",
+  "timestamp": "2026-03-10T13:53:33",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,20 @@
   ],
   "articles": [
     {
-      "title": "Bericht: KI-Coding-Tools verursachten Ausfälle bei Amazon",
-      "teaser": "Nach Ausfällen im März führt Amazon strengere Kontrollen für KI-generierten Code ein. Interne Berichte sehen mangelnde Sicherheitsmechanismen als Ursache.",
+      "title": "digiKam: Version 9.0.0 mit moderner Oberfläche und mehr unterstützten Kameras",
+      "teaser": "Der quelloffene Bildverwalter digiKam modernisiert die Oberfläche in Version 9.0.0. Es beherrscht Raw-Formate von mehr Kameras.",
+      "url": "https://www.heise.de/news/digiKam-Version-9-0-0-mit-moderner-Oberflaeche-und-mehr-unterstuetzten-Kameras-11205738.html",
+      "image_title": "digiKam Survey-Oberfläche"
+    },
+    {
+      "title": "Langzeitarchivierung: DNA-Speicher auf dem Weg in Rechenzentren",
+      "teaser": "Der französische Hersteller Biomemory will noch in diesem Jahr einen ersten funktionsfähigen DNA-Speicher für Rechenzentren vorstellen.",
+      "url": "https://www.heise.de/news/Langzeitarchivierung-DNA-Speicher-auf-dem-Weg-in-Rechenzentren-11205600.html",
+      "image_title": "Drei DNA-Stränge im Dunkeln"
+    },
+    {
+      "title": "BerichtKI-Coding-Tools verursachten Ausfälle bei Amazon",
+      "teaser": "Nach Ausfällen führt Amazon strengere Kontrollen für KI-generierten Code ein. Intern ist von mangelnden Sicherheitsmechanismen die Rede.",
       "url": "https://www.heise.de/news/Bericht-KI-Coding-Tools-verursachten-Ausfaelle-bei-Amazon-11205724.html",
       "image_title": "AWS-Logo an einer Glasfassade"
     },
@@ -36,18 +48,6 @@
       "teaser": "Immer noch gibt es neue Berichte von Phishing-Nachrichten kurz nach Buchung bei Best Western Hotels. Ursache seien anhaltende Cyberangriffe.",
       "url": "https://www.heise.de/news/Best-Western-Hotels-Weltweite-Cyberangriffe-auf-touristische-Buchungssysteme-11205460.html",
       "image_title": "Best Western Hotel in Texas, Corpus Christi"
-    },
-    {
-      "title": "Flugtaxis: USA starten bald Tests in 26 Bundesstaaten",
-      "teaser": "Die US-Luftfahrtbehörde FAA hat großangelegte Tests von Flugtaxis angekündigt. Das Pilotprogramm soll bis im Sommer starten.",
-      "url": "https://www.heise.de/news/Flugtaxis-USA-starten-bald-Tests-in-26-Bundesstaaten-11205510.html",
-      "image_title": "Elektrisches Flugtaxi mit mehreren Rotoren steht auf einem Rollfeld, daneben läuft eine Person."
-    },
-    {
-      "title": "Ghostty 1.3.0: Terminal-Emulator wird Non-Profit-Projekt",
-      "teaser": "Der Terminal-Emulator Ghostty ist in Version 1.3.0 erschienen. Die Entwickler haben einige der am häufigsten gewünschten Features implementiert.",
-      "url": "https://www.heise.de/news/Ghostty-1-3-0-Terminal-Emulator-mit-Scrollback-Suche-11205273.html",
-      "image_title": "Saxophon-Spieler mit Geistern, lila Hintergrund"
     },
     {
       "title": "HintergrundDark Factory: Von der vernetzten zur autonomen Produktion in der Industrie",
@@ -61,6 +61,18 @@
       "title": "TestsStudio Display 2026 im Test: 5K-Mattscheibe mit Thunderbolt 5",
       "url": "https://www.heise.de/tests/Studio-Display-2026-im-Test-5K-Mattscheibe-mit-Thunderbolt-5-11204379.html",
       "image_title": "Studio Display in zweiter Generation"
+    },
+    {
+      "title": "Flugtaxis: USA starten bald Tests in 26 Bundesstaaten",
+      "teaser": "Die US-Luftfahrtbehörde FAA hat großangelegte Tests von Flugtaxis angekündigt. Das Pilotprogramm soll bis im Sommer starten.",
+      "url": "https://www.heise.de/news/Flugtaxis-USA-starten-bald-Tests-in-26-Bundesstaaten-11205510.html",
+      "image_title": "Elektrisches Flugtaxi mit mehreren Rotoren steht auf einem Rollfeld, daneben läuft eine Person."
+    },
+    {
+      "title": "Ghostty 1.3.0: Terminal-Emulator wird Non-Profit-Projekt",
+      "teaser": "Der Terminal-Emulator Ghostty ist in Version 1.3.0 erschienen. Die Entwickler haben einige der am häufigsten gewünschten Features implementiert.",
+      "url": "https://www.heise.de/news/Ghostty-1-3-0-Terminal-Emulator-mit-Scrollback-Suche-11205273.html",
+      "image_title": "Saxophon-Spieler mit Geistern, lila Hintergrund"
     },
     {
       "title": "Apple räumt auf: Über ein Dutzend Produkte eingestellt",
@@ -138,17 +150,6 @@
       "teaser": "Rust-Developer sind mit dem Tempo zufrieden, in dem sich die Sprache weiterentwickelt. Die Entwickler-Community treiben allerdings drei große Sorgen um.",
       "url": "https://www.heise.de/news/Rust-Entwickler-kritisieren-Komplexitaet-und-mangelnde-Unterstuetzung-11204050.html",
       "image_title": "Illustration Krabbe mit Bildschirm"
-    },
-    {
-      "title": "AlertAngriffswarnung für Ivanti Endpoint Manager, SolarWinds Web Help Desk und mehr",
-      "teaser": "Die CISA warnt vor Angriffen auf Sicherheitslücken in Ivanti Endpoint Manager, SolarWinds Web Help Desk und weiterer Software.",
-      "url": "https://www.heise.de/news/Angriffswarnung-fuer-Ivanti-Endpoint-Manager-SolarWinds-Web-Help-Desk-und-mehr-11204908.html"
-    },
-    {
-      "title": "Bluesky: CEO Jay Graber tritt ab, Kapitalgeber soll Suche nach Nachfolge leiten",
-      "teaser": "Jay Graber ist das Gesicht von Bluesky, sie leitet das soziale Netz seit 2021. Jetzt tritt sie ab, ein Interims-CEO soll die Suche nach einer Nachfolge leiten.",
-      "url": "https://www.heise.de/news/Bluesky-CEO-Jay-Graber-tritt-ab-Kapitalgeber-soll-Suche-nach-Nachfolge-leiten-11204888.html",
-      "image_title": "Bluesky-Startbildschirm auf einem Smartphone"
     },
     {
       "title": "NewsProton: Nutzeridentifizierung durchs FBI bringt Schweizer Datenschutz ins Wanken",
