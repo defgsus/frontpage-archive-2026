@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T07:35:44",
+  "timestamp": "2026-03-11T08:26:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,41 @@
   ],
   "articles": [
     {
+      "title": "So funktioniert die Vektorsuche in einer lokalen MongoDB",
+      "teaser": "MongoDB Version 8.2 bietet erstmals eine Public Preview für Vektor- und Volltextsuche womit der Betrieb separater Vektordatenbanken überflüssig werden könnte.",
+      "url": "https://www.heise.de/ratgeber/So-funktioniert-die-Vektorsuche-in-einer-lokalen-MongoDB-11195972.html",
+      "image_title": ", KI / iX"
+    },
+    {
+      "title": "Slow is smooth and smooth is fast: Was Softwareteams von den Navy SEALs lernen",
+      "teaser": "Wer sich Zeit nimmt, ein Problem zu verstehen, bevor er es löst, ist am Ende schneller. Ein Erfahrungsbericht über einen kontraintuitiven Entwicklungsprozess.",
+      "url": "https://www.heise.de/blog/Slow-is-smooth-and-smooth-is-fast-Was-Softwareteams-von-den-Navy-SEALs-lernen-11175199.html",
+      "image_title": "Speedometer"
+    },
+    {
+      "title": "AlertMicrosoft Patchday: Zwei Zero-Days und insgesamt 83 neue Lücken gestopft",
+      "teaser": "Am März-Patchday hat Microsoft 83 neue Schwachstellen ausgebessert. Zwei sind Zero-Day-Lücken. Attackiert wurde wohl noch keine.",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zero-Days-und-insgesamt-83-neue-Luecken-gestopft-11206553.html",
+      "image_title": "Microsoft- und Windows-Logo sowie MS-Office-Icons neben Achtung-Schild auf Matrix-Regen-Hintergrund"
+    },
+    {
       "title": "Windows Server 2025: Die neue Relevanz von dMSA und Geräteidentitäten",
       "teaser": "dMSA soll die Migration von Dienstkonten vereinfachen und Angriffsflächen reduzieren, stellt aber Anforderungen an die Infrastruktur. Ein praktischer Einstieg.",
       "url": "https://www.heise.de/ratgeber/Windows-Server-2025-Die-neue-Relevanz-von-dMSA-und-Geraeteidentitaeten-11198118.html",
       "image_title": ","
+    },
+    {
+      "title": "RatgeberWindows Server 2025: Die neue Relevanz von dMSA und Geräteidentitäten",
+      "url": "https://www.heise.de/ratgeber/Windows-Server-2025-Die-neue-Relevanz-von-dMSA-und-Geraeteidentitaeten-11198118.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundDark Factory: Von der vernetzten zur autonomen Produktion in der Industrie",
+      "url": "https://www.heise.de/hintergrund/Dark-Factory-Von-der-vernetzten-zur-autonomen-Produktion-in-der-Industrie-11187393.html"
+    },
+    {
+      "title": "TestsGrafikkarten mit reichlich RAM: Vorsicht vor vermeintlichen Schnäppchen",
+      "url": "https://www.heise.de/tests/Grafikkarten-mit-reichlich-RAM-Vorsicht-vor-vermeintlichen-Schnaeppchen-11171359.html"
     },
     {
       "title": "Linux: Wie Kmscon virtuelle Textkonsolen modernisiert",
@@ -47,19 +78,6 @@
       "title": "Bericht: Finanzinvestor EQT erwägt Verkauf von SUSE Linux",
       "teaser": "Investor EQT könnte den Linux-Pionier SUSE verkaufen und dafür bis zu sechs Milliarden US-Dollar einstreichen. SUSE gilt als möglicher Gewinner des KI-Booms.",
       "url": "https://www.heise.de/news/Bericht-Finanzinvestor-EQT-erwaegt-Verkauf-von-SUSE-Linux-11206435.html"
-    },
-    {
-      "title": "RatgeberWindows Server 2025: Die neue Relevanz von dMSA und Geräteidentitäten",
-      "url": "https://www.heise.de/ratgeber/Windows-Server-2025-Die-neue-Relevanz-von-dMSA-und-Geraeteidentitaeten-11198118.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundDark Factory: Von der vernetzten zur autonomen Produktion in der Industrie",
-      "url": "https://www.heise.de/hintergrund/Dark-Factory-Von-der-vernetzten-zur-autonomen-Produktion-in-der-Industrie-11187393.html"
-    },
-    {
-      "title": "TestsGrafikkarten mit reichlich RAM: Vorsicht vor vermeintlichen Schnäppchen",
-      "url": "https://www.heise.de/tests/Grafikkarten-mit-reichlich-RAM-Vorsicht-vor-vermeintlichen-Schnaeppchen-11171359.html"
     },
     {
       "title": "Überwachung in Berlin: Wenn die KI das „Umhergehen ohne Anlass“ meldet",
@@ -131,24 +149,6 @@
       "teaser": "Der französische Hersteller Biomemory will noch in diesem Jahr einen ersten funktionsfähigen DNA-Speicher für Rechenzentren vorstellen.",
       "url": "https://www.heise.de/news/Langzeitarchivierung-DNA-Speicher-auf-dem-Weg-in-Rechenzentren-11205600.html",
       "image_title": "Drei DNA-Stränge im Dunkeln"
-    },
-    {
-      "title": "Bericht: KI-Coding-Tools verursachten Ausfälle bei Amazon",
-      "teaser": "Nach Ausfällen im März führt Amazon strengere Kontrollen für KI-generierten Code ein. Interne Berichte sehen mangelnde Sicherheitsmechanismen als Ursache.",
-      "url": "https://www.heise.de/news/Bericht-KI-Coding-Tools-verursachten-Ausfaelle-bei-Amazon-11205724.html",
-      "image_title": "AWS-Logo an einer Glasfassade"
-    },
-    {
-      "title": "Best Western Hotels: Weltweite Cyberangriffe auf touristische Buchungssysteme",
-      "teaser": "Immer noch gibt es neue Berichte von Phishing-Nachrichten kurz nach Buchung bei Best Western Hotels. Ursache seien anhaltende Cyberangriffe.",
-      "url": "https://www.heise.de/news/Best-Western-Hotels-Weltweite-Cyberangriffe-auf-touristische-Buchungssysteme-11205460.html",
-      "image_title": "Best Western Hotel in Texas, Corpus Christi"
-    },
-    {
-      "title": "Flugtaxis: USA starten bald Tests in 26 Bundesstaaten",
-      "teaser": "Die US-Luftfahrtbehörde FAA hat großangelegte Tests von Flugtaxis angekündigt. Das Pilotprogramm soll bis im Sommer starten.",
-      "url": "https://www.heise.de/news/Flugtaxis-USA-starten-bald-Tests-in-26-Bundesstaaten-11205510.html",
-      "image_title": "Elektrisches Flugtaxi mit mehreren Rotoren steht auf einem Rollfeld, daneben läuft eine Person."
     },
     {
       "title": "NewsNiederländische Dienste warnen: Russland „knackt“ Signal- und WhatsApp-Konten",
