@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-11T08:26:52",
+  "timestamp": "2026-03-11T09:31:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
-      "title": "Gezielte Phishing-AngriffeSignal: Nehmen Bedrohung sehr ernst",
-      "teaser": "Signal hat sich zu den russischen Phishing-Attacken etwa auf Regierungsbeamte geäußert. Man nehme die Vorfälle sehr ernst.",
-      "url": "https://www.heise.de/news/Signal-Nehmen-Bedrohung-durch-gezielte-Phishing-Angriffe-sehr-ernst-11205178.html",
-      "image_title": "Signal-App auf einem Smartphone"
-    },
-    {
-      "title": "secIT 2026Ein LKA-Cyberermittler plaudert aus dem Nähkästchen",
-      "teaser": "Der Start der IT-Security-Kongressmesse secIT 2026 steht kurz bevor. Letzte Chance, sich noch einen der begehrten Workshopplätze zu sichern.",
-      "url": "https://www.heise.de/news/secIT-2026-Ein-LKA-Cyberermittler-plaudert-aus-dem-Naehkaestchen-11200294.html"
-    },
-    {
-      "title": "AlertMicrosoft Patchday: Zwei Zero-Days und insgesamt 83 neue Lücken gestopft",
+      "title": "AlertMicrosoft PatchdayZwei Zero-Days und insgesamt 83 neue Lücken gestopft",
+      "teaser": "Am März-Patchday hat Microsoft 83 neue Schwachstellen ausgebessert. Zwei sind Zero-Day-Lücken. Attackiert wurde wohl noch keine.",
       "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zero-Days-und-insgesamt-83-neue-Luecken-gestopft-11206553.html",
       "image_title": "Microsoft- und Windows-Logo sowie MS-Office-Icons neben Achtung-Schild auf Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "AlertAdobe PatchdaySchadcodeschmuggel in Reader, Illustrator und weiteren möglich",
+      "teaser": "Der März-Patchday von Adobe bringt Updates zum Schließen von Codeschmuggel-Lücken in Illustrator, Reader und weiteren Programmen.",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Schadcodeschmuggel-in-Reader-Illustrator-und-weiteren-moeglich-11206633.html",
+      "image_title": "Achtung-Schild neben Adobe-Logo, vor MAtrix-Regen-Hintergrund"
+    },
+    {
+      "title": "AlertAdobe PatchdaySchadcodeschmuggel in Reader, Illustrator und weiteren möglich",
+      "url": "https://www.heise.de/news/Adobe-Patchday-Schadcodeschmuggel-in-Reader-Illustrator-und-weiteren-moeglich-11206633.html",
+      "image_title": "Achtung-Schild neben Adobe-Logo, vor MAtrix-Regen-Hintergrund"
     },
     {
       "title": "Webinar am 11. MärzEinführung in das Opensource-SIEM Wazuh",
@@ -54,10 +55,10 @@
       "url": "https://shop.heise.de/microsofts-cloud-security-luecken-und-fehler-mit-scuba-selbst-finden-und-beheben?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertMicrosoft Patchday: Zwei Zero-Days und insgesamt 83 neue Lücken gestopft",
-      "teaser": "Am März-Patchday hat Microsoft 83 neue Schwachstellen ausgebessert. Zwei sind Zero-Day-Lücken. Attackiert wurde wohl noch keine.",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Zwei-Zero-Days-und-insgesamt-83-neue-Luecken-gestopft-11206553.html",
-      "image_title": "Microsoft- und Windows-Logo sowie MS-Office-Icons neben Achtung-Schild auf Matrix-Regen-Hintergrund"
+      "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
+      "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive Abschlussprüfung und Zertifizierung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Zusaetzliche-Pruefverfahrenskompetenz-fuer-8a-BSIG-11194669.html",
+      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
     },
     {
       "title": "Überwachung in Berlin: Wenn die KI das „Umhergehen ohne Anlass“ meldet",
@@ -84,7 +85,13 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
-      "title": "SAP-Patchday: NetWeaver-Lücke ermöglicht Einschleusen von Schadcode",
+      "title": "Signal: Nehmen Bedrohung durch gezielte Phishing-Angriffe sehr ernst",
+      "teaser": "Signal hat sich zu den russischen Phishing-Attacken etwa auf Regierungsbeamte geäußert. Man nehme die Vorfälle sehr ernst.",
+      "url": "https://www.heise.de/news/Signal-Nehmen-Bedrohung-durch-gezielte-Phishing-Angriffe-sehr-ernst-11205178.html",
+      "image_title": "Signal-App auf einem Smartphone"
+    },
+    {
+      "title": "AlertSAP-Patchday: NetWeaver-Lücke ermöglicht Einschleusen von Schadcode",
       "teaser": "Im März behandelt SAP in 15 Sicherheitsmitteilungen teils kritische Sicherheitslücken in diversen Produkten. Admins müssen handeln.",
       "url": "https://www.heise.de/news/SAP-Patchday-NetWeaver-Luecke-ermoeglicht-Einschleusen-von-Schadcode-11205008.html",
       "image_title": "SAP-Logo neben \"Achtung\"-Schild"
@@ -137,16 +144,9 @@
       "image_title": "Nextcloud-Logo mit Achtung-Schild vor Matrix-Hintergrund"
     },
     {
-      "title": "Proton: Nutzeridentifizierung durchs FBI bringt Schweizer Datenschutz ins Wanken",
-      "teaser": "Dank Rechtshilfe gelangten US-Ermittler an Zahlungsdaten eines anonym geglaubten Proton-Accounts. Der Dienst verweist auf die strikte Schweizer Rechtslage.",
-      "url": "https://www.heise.de/news/Proton-Nutzeridentifizierung-durchs-FBI-bringt-Schweizer-Datenschutz-ins-Wanken-11203065.html",
-      "image_title": "Jacke mit FBI-Schriftzug"
-    },
-    {
-      "title": "KI Claude findet in zwei Wochen über 100 Firefox-Bugs",
-      "teaser": "In einem internen Test fand Anthropics KI Claude Opus 4.6 binnen zwei Wochen mehr Schwachstellen im Browser Firefox als die Community in zwei Monaten.",
-      "url": "https://www.heise.de/news/KI-Modell-Claude-findet-Firefox-Bugs-schneller-als-die-Community-11202759.html",
-      "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
+      "title": "secIT 2026: Ein LKA-Cyberermittler plaudert aus dem Nähkästchen",
+      "teaser": "Der Start der IT-Security-Kongressmesse secIT 2026 steht kurz bevor. Letzte Chance, sich noch einen der begehrten Workshopplätze zu sichern.",
+      "url": "https://www.heise.de/news/secIT-2026-Ein-LKA-Cyberermittler-plaudert-aus-dem-Naehkaestchen-11200294.html"
     },
     {
       "title": "Kongressmesse | 18. – 19.03.2026secIT by heise",
