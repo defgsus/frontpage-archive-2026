@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-12T15:44:38",
+  "timestamp": "2026-03-12T16:45:51",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -26,27 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Marktforschung: YouTube löst Disney als weltgrößten Medienkonzern ab",
+      "title": "Metas KI-Beschleuniger sollen 2027 Nvidia & Co. überholen",
+      "teaser": "Vier KI-Beschleuniger in zwei Jahren, so lautet Metas Ziel. 2027 kommt der MTIA 500 mit 1700 Watt elektrischer Leistungsaufnahme.",
+      "url": "https://www.heise.de/news/Metas-KI-Beschleuniger-sollen-2027-Nvidia-Co-ueberholen-11209305.html",
+      "image_title": "Meta-Beschleuniger auf einem neutralen Untergrund"
+    },
+    {
+      "title": "Interview: Wie Hirnstimulation Depressionen lindert",
+      "teaser": "Die transkranielle Gleichstromstimulation ist seit Jahren im Einsatz. Wie das Headset „Flow\" das Nischendasein beenden soll.",
+      "url": "https://www.heise.de/hintergrund/Interview-Wie-Hirnstimulation-Depressionen-lindern-soll-11208942.html",
+      "image_title": "Flow-Headset auf der Stirn."
+    },
+    {
+      "title": "Meta Quest: Neuer Algorithmus macht VR-Spiele flüssiger",
+      "teaser": "Meta bringt mit „FrameSync“ eine verbesserte Bildsynchronisierungstechnik für Meta Quest. Sie kann Ruckler beseitigen und damit Motion Sickness eindämmen.",
+      "url": "https://www.heise.de/news/Meta-Quest-Neuer-Algorithmus-macht-VR-Spiele-fluessiger-11208312.html",
+      "image_title": "Blick auf die Innenseite der Meta Quest 3S mit Linsen und Gesichtspolsterung."
+    },
+    {
+      "title": "Weltgrößter Medienkonzern: YouTube stößt Disney von Platz Eins",
       "teaser": "YouTube stößt Disney von Platz Eins der größten Medienkonzerne. Ein großer Teil ihrer Umsätze kommt dabei 2025 von Werbung.",
       "url": "https://www.heise.de/news/Marktforschung-YouTube-loest-Disney-als-weltgroessten-Medienkonzern-ab-11209156.html",
       "image_title": "YouTube-Logo an einer Gebäudefront"
-    },
-    {
-      "title": "Kulturstaatsminister: Streaming-Fairness soll an rundem Tisch kommen",
-      "teaser": "Wie können Musiker von ihrer Arbeit leben? Ein runder Tisch mit Plattformen, Labels und Künstlern soll Lösungen für das seit Jahren diskutierte Problem finden.",
-      "url": "https://www.heise.de/news/Kulturstaatsminister-Streaming-Fairness-soll-an-rundem-Tisch-kommen-11209178.html"
-    },
-    {
-      "title": "ToughBook 56: Panasonic zeigt robustes Notebook mit RS-232 und 10-Gbit-LAN",
-      "teaser": "Pansonics neues ToughBook 56 verpackt sein Innenleben stoß-, wasser- und staubgeschützt. Mit Wechselmodulen lassen sich die Schnittstellen individualisieren.",
-      "url": "https://www.heise.de/news/ToughBook-56-Panasonic-zeigt-robustes-Notebook-mit-RS-232-und-10-Gbit-LAN-11208729.html",
-      "image_title": "Mann nutzt ein Notebook im Außeneinsatz"
-    },
-    {
-      "title": "EU-Parlament will Lkw-Herstellern CO₂-Gutschriften ermöglichen",
-      "teaser": "Das EU-Parlament hat für Lkw-Hersteller die Möglichkeit geschaffen, Gutschriften bei den CO₂-Regeln zu erreichen. Das könnte Strafzahlungen vermeiden.",
-      "url": "https://www.heise.de/news/EU-Parlament-will-Lkw-Herstellern-CO-Gutschriften-ermoeglichen-11209094.html",
-      "image_title": "Lkw von Iveco"
     },
     {
       "title": "HintergrundDigitaler Euro soll 2029 kommen: Das ist der aktuelle Stand",
@@ -60,6 +61,17 @@
       "title": "HintergrundAutonomes Fahren: Assistiert gegen autonom - Die Grenzen verschwimmen",
       "url": "https://www.heise.de/hintergrund/Autonomes-Fahren-Assistiert-gegen-autonom-Die-Grenzen-verschwimmen-11182824.html",
       "image_title": "Mercedes CLA mit Level 2++"
+    },
+    {
+      "title": "Kulturstaatsminister: Streaming-Fairness soll an rundem Tisch kommen",
+      "teaser": "Wie können Musiker von ihrer Arbeit leben? Ein runder Tisch mit Plattformen, Labels und Künstlern soll Lösungen für das seit Jahren diskutierte Problem finden.",
+      "url": "https://www.heise.de/news/Kulturstaatsminister-Streaming-Fairness-soll-an-rundem-Tisch-kommen-11209178.html"
+    },
+    {
+      "title": "EU-Parlament will Lkw-Herstellern CO₂-Gutschriften ermöglichen",
+      "teaser": "Das EU-Parlament hat für Lkw-Hersteller die Möglichkeit geschaffen, Gutschriften bei den CO₂-Regeln zu erreichen. Das könnte Strafzahlungen vermeiden.",
+      "url": "https://www.heise.de/news/EU-Parlament-will-Lkw-Herstellern-CO-Gutschriften-ermoeglichen-11209094.html",
+      "image_title": "Lkw von Iveco"
     },
     {
       "title": "Kartellamt begrüßt Preisbremse für Tankstellen",
@@ -138,18 +150,6 @@
       "teaser": "Der TikTok-Verkauf an ein US-Konsortium ist durch. Eine Art Geoblocking verhindert nun für amerikanische Bürger den Download chinesischer Apps.",
       "url": "https://www.heise.de/news/ByteDance-Apps-aus-China-in-den-USA-nur-noch-per-VPN-zugaenglich-11205594.html",
       "image_title": "Smartphone mit TikTok-Logo vor chinesischer Flagge"
-    },
-    {
-      "title": "Apple-Hardwarechef zu CEO-Spekulationen: „Liebe den Job, den ich habe“",
-      "teaser": "Im Rahmen der Vorstellung des MacBook Neo gab Apples oberster Hardware-Verantwortlicher auch ein Interview. Zu einer zentralen Frage blieb er wortkarg.",
-      "url": "https://www.heise.de/news/Apple-Hardwarechef-zu-CEO-Spekulationen-Liebe-den-Job-den-ich-habe-11205590.html",
-      "image_title": "John Ternus bei der iPhone-17-Keynote"
-    },
-    {
-      "title": "Bitkom-Umfrage: Unternehmen oft von KI-Kosten überrascht",
-      "teaser": "Unternehmenschefs in Deutschland setzen verstärkt auf Künstliche Intelligenz, zeigt eine Umfrage des Digitalverbands Bitkom. Doch das Bild ist gemischt.",
-      "url": "https://www.heise.de/news/Bitkom-Umfrage-Unternehmen-oft-von-KI-Kosten-ueberrascht-11206985.html",
-      "image_title": "Business,People,Group,Meeting,Shot,From,Top,View,In,Office"
     },
     {
       "title": "NewsNiederländische Dienste warnen: Russland „knackt“ Signal- und WhatsApp-Konten",
