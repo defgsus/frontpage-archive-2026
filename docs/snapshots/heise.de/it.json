@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-13T07:36:35",
+  "timestamp": "2026-03-13T08:26:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,13 +26,49 @@
   ],
   "articles": [
     {
+      "title": "AlertSicherheitslücke in „Ally“ WordPress Plugin gefährdet 400.000 Websites",
+      "teaser": "Angreifer können über eine Schwachstelle im WordPress-Plugin „Ally“ eigene Befehle ausführen. Admins sollten den Sicherheitspatch installieren.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Ally-WordPress-Plugin-gefaehrdet-400-000-Websites-11209892.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Perplexity baut „Personal Computer“ auf Mac-mini-Basis",
+      "teaser": "Perplexity Computer nennt sich Perplexitys persönlicher Assistent. Der soll im OpenClaw-Stil nun auf den Mac kommen. Derzeit gibt es eine Warteliste.",
+      "url": "https://www.heise.de/news/Perplexity-baut-Personal-Computer-auf-Mac-mini-Basis-11209166.html",
+      "image_title": "Perplexity Personal Computer"
+    },
+    {
+      "title": "Weltgrößtes Unterseekabelsystem: Fertigstellung im Persischen Golf gestoppt",
+      "teaser": "Das weltgrößte Unterseekabelsystem soll unter anderem Afrika mit Asien verbinden. Im Persischen Golf mussten die abschließenden Arbeiten jetzt gestoppt werden.",
+      "url": "https://www.heise.de/news/Unterseekabelsystem-2Africa-Arbeit-im-Persischen-Golf-wegen-Irankrieg-gestoppt-11209652.html",
+      "image_title": "Ein Schiff auf dem Wasser"
+    },
+    {
       "title": "Stellantis sucht in China Partner für Europa-Geschäft",
       "teaser": "Stellantis soll in China nach finanzkräftigen Partnern für sein schwächelndes Europa-Geschäft suchen. Gespräche gab es mit XPeng und Xiaomi.",
       "url": "https://www.heise.de/news/Stellantis-sucht-in-China-Partner-fuer-Europa-Geschaeft-11209664.html",
       "image_title": "Fiat Grande Panda Elektro"
     },
     {
-      "title": "Vorsicht, Kunde: So reklamieren Sie defekte Ware zielgerichtet",
+      "title": "HintergrundUnified Endpoint Management im Marktüberblick",
+      "url": "https://www.heise.de/hintergrund/Unified-Endpoint-Management-im-Marktueberblick-11204233.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberHome Assistant: Sicheren Remote-Zugriff kostenlos mit Tailscale einrichten",
+      "url": "https://www.heise.de/ratgeber/Home-Assistant-Sicheren-Remote-Zugriff-kostenlos-mit-Tailscale-einrichten-11196636.html"
+    },
+    {
+      "title": "TestsDxO PureRaw 6 im Test: KI entfernt Bildrauschen und retuschiert Staubflecken",
+      "url": "https://www.heise.de/tests/DxO-PureRaw-6-im-Test-KI-entfernt-Bildrauschen-und-retuschiert-Staubflecken-11205522.html"
+    },
+    {
+      "title": "Stryker: IT-Systeme nach Cyberangriff vermutlich iranischer Akteure gelöscht",
+      "teaser": "Der Medizingerätehersteller Stryker räumt einen gravierenden IT-Vorfall ein. Die iranische Cybergang Handala behauptet, dahinterzustecken.",
+      "url": "https://www.heise.de/news/Stryker-IT-Systeme-nach-Cyberangriff-vermutlich-iranischer-Akteure-geloescht-11209682.html"
+    },
+    {
+      "title": "Vorsicht, Kunde: So gelingt die Reklamation auch bei sperrigen Händlern",
       "teaser": "Ist ein neues Gerät defekt, können Kunden den Kauf widerrufen oder das Gerät reklamieren. Entscheidend sind Fristen, Beweislast und der richtige Ansprechpartner",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-So-reklamieren-Sie-defekte-Ware-zielgerichtet-11209536.html",
       "image_title": "Ein Mann hockt vor einem Kardanadapater und schraubt daran"
@@ -48,19 +84,6 @@
       "teaser": "Im Zuge des KI-Booms sind die Preise für Speicher explodiert, ein Ende ist nicht in Sicht. Ein Gespräch darüber, wie Mittelständler darauf reagieren.",
       "url": "https://www.heise.de/news/Interview-zur-Speicherkrise-Die-Hardwarebeschaffung-ist-zur-Lotterie-geworden-11209190.html",
       "image_title": "Mensch baut RAM in ein Notebook ein"
-    },
-    {
-      "title": "HintergrundUnified Endpoint Management im Marktüberblick",
-      "url": "https://www.heise.de/hintergrund/Unified-Endpoint-Management-im-Marktueberblick-11204233.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberHome Assistant: Sicheren Remote-Zugriff kostenlos mit Tailscale einrichten",
-      "url": "https://www.heise.de/ratgeber/Home-Assistant-Sicheren-Remote-Zugriff-kostenlos-mit-Tailscale-einrichten-11196636.html"
-    },
-    {
-      "title": "TestsDxO PureRaw 6 im Test: KI entfernt Bildrauschen und retuschiert Staubflecken",
-      "url": "https://www.heise.de/tests/DxO-PureRaw-6-im-Test-KI-entfernt-Bildrauschen-und-retuschiert-Staubflecken-11205522.html"
     },
     {
       "title": "Unzufrieden mit Performance: Meta verschiebt angeblich Freigabe von KI-Modell",
@@ -125,29 +148,6 @@
       "teaser": "Google erweitert Gemini in Docs, Sheets, Slides und Drive um zahlreiche Funktionen – von KI-Entwürfen über Tabellenoptimierung bis zur semantischen Suche.",
       "url": "https://www.heise.de/news/Google-baut-Gemini-in-Docs-Sheets-Slides-und-Drive-aus-11208094.html",
       "image_title": "Dokumente mit Comic-Symbolen, blauer Hintergrund"
-    },
-    {
-      "title": "AlertHP-PCs: Angreifer können sich höhere Rechte über UEFI-Lücken verschaffen",
-      "teaser": "Computer von HP sind über mehrere Schwachstellen im UEFI und Device Manager angreifbar.",
-      "url": "https://www.heise.de/news/HP-PCs-Angreifer-koennen-sich-hoehere-Rechte-ueber-UEFI-Luecken-verschaffen-11208417.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "MacBook Neo 2: Zweite Generation in Planung",
-      "teaser": "Apples Einsteiger-Notebook ist seit Mittwoch auf dem Markt. Die zweite Generation soll mit Defiziten aufräumen, meint ein Analyst. Ein Feature dürfte fehlen.",
-      "url": "https://www.heise.de/news/Analyst-Apple-arbeitet-bereits-am-MacBook-Neo-2-11207835.html",
-      "image_title": "MacBook Neo in Benutzung"
-    },
-    {
-      "title": "US-Tech-Riesen: 100 Milliarden Dollar Ersparnis durch Netzeffizienz",
-      "teaser": "Eine Koalition um Google und Tesla will durch bessere Auslastung der Stromnetze Milliarden sparen – und erhofft sich rasche Netzanschlüsse für Rechenzentren.",
-      "url": "https://www.heise.de/news/Koalition-aus-Google-Tesla-und-Carrier-will-US-Stromkosten-senken-11208677.html",
-      "image_title": "Pylon"
-    },
-    {
-      "title": "Von der Cloud zum KI-PC - wie sich KI-Modelle portieren lassen",
-      "teaser": "KI-Modelle, die in der Cloud trainiert wurden, lassen sich oft nur schwer in lokale IT-Umgebungen integrieren. Doch es gibt Wege, diese Hürden zu überwinden.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/von-der-cloud-zum-ki-pc-wie-sich-ki-modelle-portieren-lassen/?source=bwt"
     },
     {
       "title": "NewsNiederländische Dienste warnen: Russland „knackt“ Signal- und WhatsApp-Konten",
