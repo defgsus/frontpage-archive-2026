@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T08:20:56",
+  "timestamp": "2026-03-14T09:21:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,26 +26,27 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
+      "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11194753.html",
+      "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
+    },
+    {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu TypeScript, VS Code, Qt, TensorFlow, ReSharper, Typia, rustup, WordPress, Spring und Agent Health.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11208344.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Qwen3.5-Familie: Feuerwerk neuer LLMs von Alibaba",
       "teaser": "Kurz vor dem chinesischen Neujahr sind neue Qwen-Modelle in unterschiedlichen Größen erschienen, die alle multimodal sind.",
       "url": "https://www.heise.de/hintergrund/Qwen3-5-Familie-Feuerwerk-neuer-LLMs-von-Alibaba-11209718.html"
     },
     {
-      "title": "AlertJetzt aktualisieren! Chrome-Notfall-Update für Notfall-Update",
+      "title": "AlertGoogle ChromeErster Fix unzureichend, neues Notfall-Update veröffentlicht",
       "teaser": "Nachdem Google bereits am Freitag ein Notfall-Update für Chrome veröffentlicht hat, legt der Hersteller in der Nacht zum Samstag nach.",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Chrome-Notfall-Update-fuer-Notfall-Update-11211109.html",
       "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
-    },
-    {
-      "title": "20 Jahre Amazon S3: Der goldene Käfig der Cloud-Ära",
-      "teaser": "Am 14. März 2006 startete Amazon S3 mit zwei Operationen. Heute speichert der Dienst 500 Billionen Objekte und ist Industriestandard – den AWS kontrolliert.",
-      "url": "https://www.heise.de/meinung/20-Jahre-Amazon-S3-Der-goldene-Kaefig-der-Cloud-Aera-11210784.html",
-      "image_title": "Festplatte mit Wolken drauf"
-    },
-    {
-      "title": "GrapheneOS & Co.: Mit Custom-ROMs mehr Datenschutz für Android | c’t uplink",
-      "teaser": "Das eigene Smartphone soll keine Petze mehr sein? Wie man den Datenschutz von Android mit und ohne Custom-ROMs verbessert, erklären wir in c’t uplink.",
-      "url": "https://www.heise.de/news/GrapheneOS-Co-Mit-Custom-ROMs-mehr-Datenschutz-fuer-Android-c-t-uplink-11210085.html"
     },
     {
       "title": "RatgeberPräsentationen mit KI-Videos: Komplexe Inhalte effizient vermitteln",
@@ -60,6 +61,17 @@
     {
       "title": "RatgeberKI vs. Mensch: Günstige Flugtickets finden",
       "url": "https://www.heise.de/ratgeber/KI-vs-Mensch-Guenstige-Flugtickets-finden-11189866.html"
+    },
+    {
+      "title": "20 Jahre Amazon S3: Der goldene Käfig der Cloud-Ära",
+      "teaser": "Am 14. März 2006 startete Amazon S3 mit zwei Operationen. Heute speichert der Dienst 500 Billionen Objekte und ist Industriestandard – den AWS kontrolliert.",
+      "url": "https://www.heise.de/meinung/20-Jahre-Amazon-S3-Der-goldene-Kaefig-der-Cloud-Aera-11210784.html",
+      "image_title": "Festplatte mit Wolken drauf"
+    },
+    {
+      "title": "GrapheneOS & Co.: Mit Custom-ROMs mehr Datenschutz für Android | c’t uplink",
+      "teaser": "Das eigene Smartphone soll keine Petze mehr sein? Wie man den Datenschutz von Android mit und ohne Custom-ROMs verbessert, erklären wir in c’t uplink.",
+      "url": "https://www.heise.de/news/GrapheneOS-Co-Mit-Custom-ROMs-mehr-Datenschutz-fuer-Android-c-t-uplink-11210085.html"
     },
     {
       "title": "iPhone Fold Leak: Apple spart sich wohl iPad‑Multitasking",
@@ -135,18 +147,6 @@
       "teaser": "Mit dem Flash-Speicher im Studio Display können Nutzer eigentlich wenig anfangen. Trotzdem wurde er jetzt verdoppelt – aus einem bestimmten Grund.",
       "url": "https://www.heise.de/news/Studio-Display-2026-und-XDR-Vergroessertes-NAND-Modul-eingebaut-11208835.html",
       "image_title": "Studio Display XDR am Mac"
-    },
-    {
-      "title": "„Operation Lightning“: Schlag gegen Proxy-Botnet aus über 369.000 Geräten",
-      "teaser": "Internationale Strafverfolger haben dem Proxy-Botnet „SocksEscort“ aus mehr als 369.000 kompromittierten Geräten einen Schlag versetzt.",
-      "url": "https://www.heise.de/news/Operation-Lightning-Schlag-gegen-Proxy-Botnet-aus-ueber-369-000-Geraeten-11210107.html",
-      "image_title": "Beschlagnahme-Hinweis auf SocksEscort-Seite"
-    },
-    {
-      "title": "Neu in .NET 10.0 [14]: Starten einzelner C#-Dateien unter Linux und macOS",
-      "teaser": "Nicht nur unter Windows kann man seit .NET 10.0 einzelne C#-Dateien direkt übersetzen und starten, sondern auch unter Linux und macOS.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-14-Starten-einzelner-C-Dateien-unter-Linux-und-macOS-11209692.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
     },
     {
       "title": "NewsAsus: Apples MacBook Neo schockt den gesamten Markt",
