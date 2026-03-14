@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T14:17:38",
+  "timestamp": "2026-03-14T15:16:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "21-Tage-Challenge gegen Onlinesucht: App „freii“ jetzt kostenlos verfügbar",
+      "url": "https://www.heise.de/news/21-Tage-Challenge-gegen-Onlinesucht-App-freii-jetzt-kostenlos-verfuegbar-11211049.html"
+    },
+    {
+      "title": "Palantir-Chef Karp: „Wir unterstützen Kriegsführung und wir sind stolz darauf“",
+      "url": "https://www.heise.de/news/Palantir-Chef-Karp-Wir-unterstuetzen-Kriegsfuehrung-und-wir-sind-stolz-darauf-11211101.html"
+    },
+    {
+      "title": "Motorola Signature im Test: Dünnes Top-Smartphone mit hervorragender Kamera",
+      "url": "https://www.heise.de/bestenlisten/testbericht/motorola-signature-im-test-duennes-top-smartphone-mit-hervorragender-kamera/72z22n3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
     {
       "title": "Grafikkarten mit reichlich RAM: Vorsicht vor vermeintlichen Schnäppchen",
       "url": "https://www.heise.de/tests/Grafikkarten-mit-reichlich-RAM-Vorsicht-vor-vermeintlichen-Schnaeppchen-11171359.html",
@@ -56,18 +68,6 @@
     {
       "title": "Ausverkauf und die Rettung des schönen Bildes – die Fotonews der Woche 11/26",
       "url": "https://www.heise.de/news/Ausverkauf-und-die-Rettung-des-schoenen-Bildes-die-Fotonews-der-Woche-11-26-11210712.html"
-    },
-    {
-      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
-      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11194753.html"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11208344.html"
-    },
-    {
-      "title": "Qwen3.5-Familie: Feuerwerk neuer LLMs von Alibaba",
-      "url": "https://www.heise.de/hintergrund/Qwen3-5-Familie-Feuerwerk-neuer-LLMs-von-Alibaba-11209718.html"
     },
     {
       "title": "AlertGoogle ChromeErster Fix unzureichend, neues Notfall-Update veröffentlicht",
@@ -185,6 +185,28 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Nerdquiz-um-den-Ig-Nobelpreis-11210337.html"
     },
     {
+      "title": "21-Tage-Challenge gegen Onlinesucht: App „freii“ jetzt kostenlos verfügbar",
+      "teaser": "Die kostenlose App „freii“ soll 11- bis 15-Jährige mit einer 21-Tage-Challenge zu weniger Bildschirmzeit motivieren.",
+      "url": "https://www.heise.de/news/21-Tage-Challenge-gegen-Onlinesucht-App-freii-jetzt-kostenlos-verfuegbar-11211049.html",
+      "image_title": "Drei Ansichten der freii-App auf einem Smartphone"
+    },
+    {
+      "title": "Palantir-Chef Karp: „Wir unterstützen Kriegsführung und wir sind stolz darauf“",
+      "teaser": "„There are no secrets“, so das Motto von Palantirs Konferenz, auf der die Software als Wunderwaffe inszeniert wird – vor allem für Militär und Gesundheitswesen.",
+      "url": "https://www.heise.de/news/Palantir-Chef-Karp-Wir-unterstuetzen-Kriegsfuehrung-und-wir-sind-stolz-darauf-11211101.html",
+      "image_title": "AIPCon-Schriftzug mit Ringen im Hintergrund"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Motorola Signature im Test: Dünnes Top-Smartphone mit hervorragender Kamera",
+      "teaser": "Top-Kamera, dünn und trotzdem ausdauernd: Das Motorola Signature ist vielleicht die zarteste Versuchung, seit es Smartphones gibt.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/motorola-signature-im-test-duennes-top-smartphone-mit-hervorragender-kamera/72z22n3?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Grafikkarten mit reichlich RAM: Vorsicht vor vermeintlichen Schnäppchen",
       "teaser": "Grafikkarten mit großem Speicher sind zuletzt viel teurer geworden, manche um mehr als die Hälfte. Wir prüfen, was vermeintliche Spartipps wirklich taugen.",
       "url": "https://www.heise.de/tests/Grafikkarten-mit-reichlich-RAM-Vorsicht-vor-vermeintlichen-Schnaeppchen-11171359.html"
@@ -193,11 +215,6 @@
       "title": "Versteckte Kündigungsgebühren enden für Adobe mit Millionenstrafe",
       "teaser": "Adobe legt einen Rechtsstreit über versteckte Kündigungsgebühren mit einer Geldstrafe bei, streitet aber ein Fehlverhalten ab.",
       "url": "https://www.heise.de/news/Versteckte-Kuendigungsgebuehren-Millionenstrafe-fuer-Adobe-11211180.html"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "betterCode() Testing 2026: Programm und Online-Workshops stehen fest",
@@ -215,23 +232,6 @@
       "title": "Digitale Souveränität auf dem Smartphone: Custom-ROMs im Überblick",
       "teaser": "Das Smartphone ist integraler Bestandteil unseres Alltags – und damit auch Big Tech. Wir zeigen, wie Sie Google & Co. aussperren.",
       "url": "https://www.heise.de/ratgeber/Digitale-Souveraenitaet-auf-dem-Smartphone-Custom-ROMs-im-Ueberblick-11149275.html"
-    },
-    {
-      "title": "Internetblockade im Iran geht in die dritte Woche",
-      "teaser": "Seit drei Wochen ist das Internet im Iran fast vollständig blockiert. Während die Bevölkerung isoliert wird, nutzt der Machtapparat privilegierte Zugänge.",
-      "url": "https://www.heise.de/news/Internetblockade-im-Iran-geht-in-die-dritte-Woche-11211157.html",
-      "image_title": "Tehran,iran-april,28,2019:,Skyscrapers,In,Tehran,,Iran"
-    },
-    {
-      "title": "Ausverkauf und die Rettung des schönen Bildes – die Fotonews der Woche 11/26",
-      "teaser": "Ein britischer Landkreis verscherbelt ein bedeutendes Fotoarchiv, Streit über Technik versus Kunst, und der Markt belohnt ausgerechnet das Unperfekte.",
-      "url": "https://www.heise.de/news/Ausverkauf-und-die-Rettung-des-schoenen-Bildes-die-Fotonews-der-Woche-11-26-11210712.html"
-    },
-    {
-      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
-      "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11194753.html",
-      "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
     },
     {
       "title": "Perfekte Wanderroute?Komoot mit ChatGPT ausprobiert: Wie KI bei der Wanderplanung unterstützt",
@@ -325,6 +325,23 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Internetblockade im Iran geht in die dritte Woche",
+      "teaser": "Seit drei Wochen ist das Internet im Iran fast vollständig blockiert. Während die Bevölkerung isoliert wird, nutzt der Machtapparat privilegierte Zugänge.",
+      "url": "https://www.heise.de/news/Internetblockade-im-Iran-geht-in-die-dritte-Woche-11211157.html",
+      "image_title": "Tehran,iran-april,28,2019:,Skyscrapers,In,Tehran,,Iran"
+    },
+    {
+      "title": "Ausverkauf und die Rettung des schönen Bildes – die Fotonews der Woche 11/26",
+      "teaser": "Ein britischer Landkreis verscherbelt ein bedeutendes Fotoarchiv, Streit über Technik versus Kunst, und der Markt belohnt ausgerechnet das Unperfekte.",
+      "url": "https://www.heise.de/news/Ausverkauf-und-die-Rettung-des-schoenen-Bildes-die-Fotonews-der-Woche-11-26-11210712.html"
+    },
+    {
+      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
+      "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11194753.html",
+      "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
+    },
+    {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu TypeScript, VS Code, Qt, TensorFlow, ReSharper, Typia, rustup, WordPress, Spring und Agent Health.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11208344.html",
@@ -381,6 +398,11 @@
       "image_title": "Artwork aus dem Action-Adventure Pragmata"
     },
     {
+      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
+      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
+    },
+    {
       "title": "Gericht: YouTube-Werbung muss klarer gekennzeichnet werden",
       "teaser": "Ein 10-Sekunden-Hinweis reicht nicht: Ein Gericht urteilt über nicht klar gekennzeichnete Werbung in gesponserten Videos. Wie YouTube reagiert, ist noch offen.",
       "url": "https://www.heise.de/news/Gericht-YouTube-Werbung-muss-klarer-gekennzeichnet-werden-11210716.html",
@@ -396,11 +418,6 @@
       "teaser": "Die AWS European Sovereign Cloud hat SOC-2- und C5-Berichte sowie sieben ISO-Zertifizierungen erhalten. Die Nachweise decken 69 Services ab.",
       "url": "https://www.heise.de/news/AWS-European-Sovereign-Cloud-erhaelt-erste-Compliance-Zertifizierungen-11210680.html",
       "image_title": "AWS-Logo mit Schildern und Wolken, blauer Hintergrund"
-    },
-    {
-      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
-      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
     },
     {
       "title": "XPO-Formfaktor: Neue Optikmodule von Arista mit bis zu 12,8 Tbit/s",
@@ -443,24 +460,6 @@
       "teaser": "Apples MacBook Neo mischt den Einsteigermarkt auf, Lego digitalisiert Klemmbausteine, eigene Wissensdatenbanken. Dies und weitere Themen in der Post zum Freitag",
       "url": "https://www.heise.de/meinung/Post-zum-Freitag-Apple-bringt-Neo-Schnaeppchenfallen-Filmtipp-fuers-Wochenende-11209552.html",
       "image_title": "heise+ Update Volker Zota"
-    },
-    {
-      "title": "Bemannte Mondmission der NASA: Artemis-2 soll jetzt am 1. April starten",
-      "teaser": "Im April soll es jetzt so weit sein: Zum ersten Mal seit mehr als einem halben Jahrhundert sollen wieder Menschen zum Mond fliegen.",
-      "url": "https://www.heise.de/news/Bemannte-Mondmission-der-NASA-Artemis-2-soll-jetzt-am-1-April-starten-11210327.html",
-      "image_title": "Im Vordergrund Teile der Rakete, im Hintergrund der Mond"
-    },
-    {
-      "title": "Marktforscher: Speicherkrise hält bis mindestens Ende 2027 an",
-      "teaser": "Marktforscher sehen keine Abhilfe bei der aktuellen Speicherkrise. Immerhin: Der Iran-Krieg soll zunächst keine großen Auswirkungen haben.",
-      "url": "https://www.heise.de/news/Kein-Szenario-in-dem-sich-Speicherpreise-in-der-2-Jahreshaelfte-korrigieren-11210426.html",
-      "image_title": "Schwarze RAM-Riegel in einem Mainboard"
-    },
-    {
-      "title": "iX-Workshops: Backup und Recovery mit Proxmox",
-      "teaser": "Lernen Sie, wie Sie Ihre bisherigen Backup-Lösungen optimieren oder auf eine moderne, deduplizierte Backup-Infrastruktur umsteigen.",
-      "url": "https://www.heise.de/news/iX-Workshops-Backup-und-Recovery-mit-Proxmox-11197670.html",
-      "image_title": "iX-Workshop: Backup und Recovery mit Proxmox: Daten automatisiert sichern und nach Ausfällen wiederherstellen"
     },
     {
       "title": "Interview zur Speicherkrise: „Solche Preissteigerungen kann niemand auffangen“",
@@ -633,20 +632,20 @@
       "url": "https://www.heise.de/en/news/Perplexity-builds-Personal-Computer-based-on-Mac-mini-11209925.html"
     },
     {
-      "title": "c’t uplinkGrapheneOS & Co.: Mit Custom-ROMs mehr Datenschutz für Android",
-      "teaser": "Das eigene Smartphone soll keine Petze mehr sein? Wie man den Datenschutz von Android mit und ohne Custom-ROMs verbessert, erklären wir in c’t uplink.",
-      "url": "https://www.heise.de/news/GrapheneOS-Co-Mit-Custom-ROMs-mehr-Datenschutz-fuer-Android-c-t-uplink-11210085.html"
+      "title": "„They Talk Tech“„Freitag auf dem Sofa rechnet man nicht unbedingt mit einer Zero-Day-Lücke\"",
+      "teaser": "Eine Studentin hat die massive SharePoint-Sicherheitslücke 2025 entdeckt. Im c't-Podcast „They Talk Tech“ spricht sie erstmals öffentlich darüber.",
+      "url": "https://www.heise.de/news/Freitag-auf-dem-Sofa-rechnet-man-nicht-unbedingt-mit-einer-Zero-Day-Luecke-11210181.html",
+      "image_title": "Logo von They Talk Tech"
+    },
+    {
+      "title": "c't 3003Fühlt sich einfach gut an: Pop!_OS ausprobiert",
+      "teaser": "Pop!_OS läuft flott und sieht schick aus — doch der Desktop ist nicht nur schön, sondern bringt auch frische Ideen mit.",
+      "url": "https://www.heise.de/news/Fuehlt-sich-einfach-gut-an-Pop-OS-ausprobiert-c-t-3003-11208143.html"
     },
     {
       "title": "Mit Privacy DisplayGalaxy S26 Ultra im Test",
       "teaser": "Samsung schraubt behutsam an der Hardware und setzt stattdessen voll auf Software.",
       "url": "https://www.heise.de/tests/Galaxy-S26-Ultra-im-Test-Samsungs-Gratwanderung-mit-Privacy-Display-11130613.html"
-    },
-    {
-      "title": "„They Talk Tech“„Freitag auf dem Sofa rechnet man nicht unbedingt mit einer Zero-Day-Lücke\"",
-      "teaser": "Eine Studentin hat die massive SharePoint-Sicherheitslücke 2025 entdeckt. Im c't-Podcast „They Talk Tech“ spricht sie erstmals öffentlich darüber.",
-      "url": "https://www.heise.de/news/Freitag-auf-dem-Sofa-rechnet-man-nicht-unbedingt-mit-einer-Zero-Day-Luecke-11210181.html",
-      "image_title": "Logo von They Talk Tech"
     },
     {
       "title": "Lautlos, leicht, leistungsstarkDas MacBook Air M5 im Test",
@@ -749,10 +748,10 @@
       "image_title": "Aral Zapfpistole"
     },
     {
-      "title": "Licht statt Strom: Computer könnten 1.000-mal schneller werden",
-      "teaser": "\"Unsichtbare Magnete\" und Lichtimpulse könnten Computer radikal beschleunigen. Ein deutsch-japanisches Team zeigt, wie.",
-      "url": "https://www.heise.de/-11208797",
-      "image_title": "Abstrakter digitaler Hintergrund mit fallendem Binärcode und leuchtenden Lichtstrahlen."
+      "title": "Speicher-Krise: Warum PCs und Tablets jetzt deutlich teurer werden",
+      "teaser": "DRAM-Mangel treibt die Preise für Computer und Tablets in die Höhe. Marktforscher erwarten keine Entspannung vor 2028. Was Käufer jetzt wissen müssen.",
+      "url": "https://www.heise.de/-11209858",
+      "image_title": "Hintergründe zu Speicherkonzepten mit hoher Bandbreite. 3D-Darstellung"
     },
     {
       "title": "Paramount kauft Warner Bros.: Der Streaming-Markt wird neu verteilt",
@@ -761,10 +760,10 @@
       "image_title": "Der Kampf zwischen Paramount und Netflix mit zwei Superhelden-Figuren illustriertf zweiter"
     },
     {
-      "title": "Mini-Gehirn aus der Petrischale lernt virtuellen Stab zu balancieren",
-      "teaser": "Ein winziges Stück Hirngewebe lernte, einen Stab zu balancieren – und schaffte es in fast jedem zweiten Versuch.",
-      "url": "https://www.heise.de/-11210213",
-      "image_title": "Gehirnorganoide oder Mini-Gehirne mit biotechnologischer Ästhetik"
+      "title": "Das nächste Trainingsprogramm: Charisma",
+      "teaser": "Resilienzkurse sollten Beschäftigte belastbarer machen. Nun soll auch Charisma erlernbar sein – als Werkzeug für Führungskräfte und höhere Umsätze.",
+      "url": "https://www.heise.de/-11210454",
+      "image_title": "Hand mit einem Magneten. Auf einem Tische stehen gesichtslose Figuren im Magnetfeld."
     },
     {
       "title": "New Work: Geschäftsführerin über ihr größtes Learning",
