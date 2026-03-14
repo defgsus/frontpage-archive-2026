@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-14T10:16:03",
+  "timestamp": "2026-03-14T11:14:34",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutsche fahren trotz teurem Sprit nicht weniger Auto",
+      "url": "https://www.heise.de/news/Deutsche-fahren-trotz-teurem-Sprit-nicht-weniger-Auto-11211161.html"
+    },
     {
       "title": "Digitale Souveränität auf dem Smartphone: Custom-ROMs im Überblick",
       "url": "https://www.heise.de/ratgeber/Digitale-Souveraenitaet-auf-dem-Smartphone-Custom-ROMs-im-Ueberblick-11149275.html",
@@ -66,10 +70,6 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "20 Jahre Amazon S3: Der goldene Käfig der Cloud-Ära",
-      "url": "https://www.heise.de/meinung/20-Jahre-Amazon-S3-Der-goldene-Kaefig-der-Cloud-Aera-11210784.html"
-    },
-    {
       "title": "AlertGoogle ChromeErster Fix unzureichend, neues Notfall-Update veröffentlicht",
       "teaser": "Nachdem Google bereits am Freitag ein Notfall-Update für Chrome veröffentlicht hat, legt der Hersteller in der Nacht zum Samstag nach.",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Chrome-Notfall-Update-fuer-Notfall-Update-11211109.html",
@@ -82,7 +82,7 @@
     },
     {
       "title": "Cloud-SicherheitsfirmaGrößte Übernahme in Googles Geschichte – 32 Milliarden US-Dollar für Wiz",
-      "teaser": "Die Alphabet-Tochter Google hat für 32 Milliarden US-Dollar die Cloud-Sicherheitsfirma Wiz übernommen. Es ist der größte Kauf in der Konzerngeschichte.",
+      "teaser": "Google hat für 32 Milliarden US-Dollar die Cloud-Sicherheitsfirma Wiz übernommen. Es ist der größte Kauf in der Konzerngeschichte.",
       "url": "https://www.heise.de/news/32-Milliarden-US-Dollar-fuer-Wiz-Google-schliesst-groesste-Uebernahme-ab-11210091.html",
       "image_title": "Bunt leuchtendes Neon-Zeochen von Google"
     },
@@ -186,20 +186,26 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Nerdquiz-um-den-Ig-Nobelpreis-11210337.html"
     },
     {
+      "title": "Deutsche fahren trotz teurem Sprit nicht weniger Auto",
+      "teaser": "Das zeigt eine Auswertung von Verkehrsdaten. Bei der Bahn verzeichnet man allerdings eine gestiegene Nachfrage im Fernverkehr.",
+      "url": "https://www.heise.de/news/Deutsche-fahren-trotz-teurem-Sprit-nicht-weniger-Auto-11211161.html",
+      "image_title": "Autobahn, Pkw-Maut"
+    },
+    {
       "title": "Digitale Souveränität auf dem Smartphone: Custom-ROMs im Überblick",
       "teaser": "Das Smartphone ist integraler Bestandteil unseres Alltags – und damit auch Big Tech. Wir zeigen, wie Sie Google & Co. aussperren.",
       "url": "https://www.heise.de/ratgeber/Digitale-Souveraenitaet-auf-dem-Smartphone-Custom-ROMs-im-Ueberblick-11149275.html"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Internetblockade im Iran geht in die dritte Woche",
       "teaser": "Seit drei Wochen ist das Internet im Iran fast vollständig blockiert. Während die Bevölkerung isoliert wird, nutzt der Machtapparat privilegierte Zugänge.",
       "url": "https://www.heise.de/news/Internetblockade-im-Iran-geht-in-die-dritte-Woche-11211157.html",
       "image_title": "Tehran,iran-april,28,2019:,Skyscrapers,In,Tehran,,Iran"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Ausverkauf und die Rettung des schönen Bildes – die Fotonews der Woche 11/26",
@@ -227,11 +233,6 @@
       "title": "Licht, Linien, leise Momente: Die Bilder der Woche 11",
       "teaser": "Polarlicht, Eisstrukturen und stilles Wasser: Diese Auswahl zeigt, wie Fotografie aus Licht, Form und Timing eindrucksvolle Bildgeschichten formt.",
       "url": "https://www.heise.de/news/Licht-Linien-leise-Momente-Die-Bilder-der-Woche-11-11210752.html"
-    },
-    {
-      "title": "KI vs. Mensch: Günstige Flugtickets finden",
-      "teaser": "Mit den passenden Suchmaschinen lassen sich mitunter günstigere Tickets als über die Seiten der Fluggesellschaften buchen. Kann KI das noch toppen?",
-      "url": "https://www.heise.de/ratgeber/KI-vs-Mensch-Guenstige-Flugtickets-finden-11189866.html"
     },
     {
       "title": "Perfekte Wanderroute?Komoot mit ChatGPT ausprobiert: Wie KI bei der Wanderplanung unterstützt",
@@ -280,16 +281,17 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Sprit immer teurer – Preisbremse überwiegend abgelehnt",
-      "url": "https://www.heise.de/news/Sprit-immer-teurer-Preisbremse-ueberwiegend-abgelehnt-11202982.html"
-    },
-    {
       "title": "Asus: Apples MacBook Neo schockt den gesamten Markt",
-      "url": "https://www.heise.de/news/Asus-Apples-MacBook-Neo-schockt-den-gesamten-Markt-11207367.html"
+      "url": "https://www.heise.de/news/Asus-Apples-MacBook-Neo-schockt-den-gesamten-Markt-11207367.html",
+      "image_title": "Offenes MacBook Neo vor buntem Hintergrund"
     },
     {
       "title": "Tankstellenbetreiber kritisieren Spritpreise als „Raubtierkapitalismus“",
       "url": "https://www.heise.de/news/Tankstellenbetreiber-kritisieren-Spritpreise-als-Raubtierkapitalismus-11203492.html"
+    },
+    {
+      "title": "Von der Leyen: Weniger Atomkraft rückblickend „strategischer Fehler“",
+      "url": "https://www.heise.de/news/Von-der-Leyen-Weniger-Atomkraft-rueckblickend-strategischer-Fehler-11205718.html"
     },
     {
       "title": "Minisforum vor Geekom & AsusTop 10: Der beste Mini-PC mit Windows 11 im Test",
@@ -322,6 +324,11 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "KI vs. Mensch: Günstige Flugtickets finden",
+      "teaser": "Mit den passenden Suchmaschinen lassen sich mitunter günstigere Tickets als über die Seiten der Fluggesellschaften buchen. Kann KI das noch toppen?",
+      "url": "https://www.heise.de/ratgeber/KI-vs-Mensch-Guenstige-Flugtickets-finden-11189866.html"
     },
     {
       "title": "20 Jahre Amazon S3: Der goldene Käfig der Cloud-Ära",
@@ -393,15 +400,15 @@
       "image_title": "KI-Update-Logo"
     },
     {
+      "title": "Video: Wie sich ONNX-Runtime-Anwendungen lokal bereitstellen lassen",
+      "teaser": "Das Open Neural Network Exchange (ONNX)-Format ermöglicht es, KI-Anwendungen von einem Framework auf ein anderes zu portieren. Dieses Video zeigt, wie sich ONNX-Runtime-Anwendungen mithilfe der Ryzen AI-Software lokal nutzen lassen.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/video-wie-sich-onnx-runtime-anwendungen-lokal-bereitstellen-lassen/?source=hbsadersatz"
+    },
+    {
       "title": "Streetfotografie: Rahmen, Strukturen und Muster erkennen",
       "teaser": "Die Stadt steckt voller grafischer Elemente. Wer sie bewusst nutzt, fotografiert nicht zufällig, sondern bringt Orientierung ins urbane Chaos.",
       "url": "https://www.heise.de/ratgeber/Streetfotografie-Rahmen-Strukturen-und-Muster-erkennen-11197511.html",
       "image_title": "Ein Boden mit einem so klaren Muster lädt dazu ein, daraus eine interessante Komposition zu gestalten., Alle Bilder: Pia Parolin"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Android 17: Google geht strenger gegen Missbrauch von Barrierefreiheits-API vor",
@@ -455,12 +462,6 @@
       "teaser": "Google will mit dem Projekt Groundsource die Vorhersage von Überschwemmungen verbessern. Dazu wertet eine KI Nachrichtenartikel in über 80 Sprachen aus.",
       "url": "https://www.heise.de/news/Groundsource-Google-nutzt-KI-fuer-bessere-Flutvorhersagen-11210285.html",
       "image_title": "Weltkarte mit Flutereignissen, die Google ausgewertet hat"
-    },
-    {
-      "title": "Furcht vor Regulierung: Apple senkt in China freiwillig die App-Store-Provision",
-      "teaser": "Noch vor einem möglichen Eingriff durch die chinesische Marktaufsicht hat Apple seinen App-Store-Vertriebspreis leicht gesenkt. Zuvor gab es Druck aus Peking.",
-      "url": "https://www.heise.de/news/Furcht-vor-Regulierung-Apple-senkt-in-China-freiwillig-die-App-Store-Provision-11210249.html",
-      "image_title": "Der App Store auf dem iPhone"
     },
     {
       "title": "Interview zur Speicherkrise: „Solche Preissteigerungen kann niemand auffangen“",
@@ -633,10 +634,9 @@
       "url": "https://www.heise.de/en/news/Perplexity-builds-Personal-Computer-based-on-Mac-mini-11209925.html"
     },
     {
-      "title": "Oscars 2026 in der AnalyseAcademy zwingt Juroren erstmals zum Filmschauen",
-      "teaser": "Zwischen Streamingkrieg, Diversitätsdebatten und neuen Abstimmungsregeln sucht Hollywood nach einem neuen Selbstbild.",
-      "url": "https://www.heise.de/tests/Oscars-2026-in-der-Analyse-Academy-zwingt-Juroren-erstmals-zum-Filmschauen-11186092.html",
-      "image_title": "Amy Madigan, Weapons"
+      "title": "Mit Privacy DisplayGalaxy S26 Ultra im Test",
+      "teaser": "Samsung schraubt behutsam an der Hardware und setzt stattdessen voll auf Software.",
+      "url": "https://www.heise.de/tests/Galaxy-S26-Ultra-im-Test-Samsungs-Gratwanderung-mit-Privacy-Display-11130613.html"
     },
     {
       "title": "c’t uplinkGrapheneOS & Co.: Mit Custom-ROMs mehr Datenschutz für Android",
@@ -750,22 +750,22 @@
       "image_title": "Aral Zapfpistole"
     },
     {
-      "title": "Darpas X-76: Wenn der Hubschrauber zum Jet wird",
-      "teaser": "Die Darpa baut mit Bell den X-76, der Senkrechtstart mit Jet-Tempo vereint. Das Fluggerät klappt seine Rotoren im Flug einfach weg. Jetzt startet die Fertigung.",
-      "url": "https://www.heise.de/-11208276",
-      "image_title": "Ein Flugobjekt in der Luft (künstlerisch stilisiert)"
+      "title": "Licht statt Strom: Computer könnten 1.000-mal schneller werden",
+      "teaser": "\"Unsichtbare Magnete\" und Lichtimpulse könnten Computer radikal beschleunigen. Ein deutsch-japanisches Team zeigt, wie.",
+      "url": "https://www.heise.de/-11208797",
+      "image_title": "Abstrakter digitaler Hintergrund mit fallendem Binärcode und leuchtenden Lichtstrahlen."
     },
     {
-      "title": "Chinas Carbonfaser-Coup: Stärker als Stahl, leichter als je zuvor",
-      "teaser": "Ein Seil aus dieser Faser könnte einen voll besetzten Reisebus ziehen – und China stellt sie jetzt massenhaft her.",
-      "url": "https://www.heise.de/-11210577",
-      "image_title": "Rollen mit verschiedenen echten gewebten Kohlefaser-Durchsetzung Rohstoff-Tuch."
+      "title": "Ölsanktionen gegen Russland: Trumps planloser Weg zum Frieden",
+      "teaser": "Die Trump-Regierung lockert die Ölsanktionen gegen Russland wegen steigender Energiepreise. Warum Trumps Diplomatie erneut versagt. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/-11207703",
+      "image_title": "Eine Erdölpumpe vor russischer Flagge"
     },
     {
-      "title": "Iran erklärt Cloud-Infrastruktur von Nvidia, Microsoft und Co. zum Ziel",
-      "teaser": "Der Iran nimmt Rechenzentren von US-Tech-Konzernen im Nahen Osten ins Visier. AWS-Anlagen wurden bereits getroffen. Was das für die Cloud-Welt heißt.",
-      "url": "https://www.heise.de/-11208068",
-      "image_title": "Server im großen Rechenzentrum bietet Hardware-Daten-Netzwerk-Host-Room-Storage-System-Technologie. 3D-Rendering"
+      "title": "Warum Mexikos Drogenbosse moderner kämpfen als viele Streitkräfte",
+      "teaser": "Mexikos Kartelle bauen Drohnen-Kampfeinheiten – ohne Staat, ohne Budget, nur nach Marktlogik. Das verändert Kriege weltweit.",
+      "url": "https://www.heise.de/-11209732",
+      "image_title": "Drohne mit Bomben fliegt über Küstenlandschaft, während weitere Drohnen, bewaffnete Fahrzeuge und Explosionen an Land zu sehen sind. Im Vordergrund sieht amn ein halbgetauchtes U-Boot."
     },
     {
       "title": "New Work: Geschäftsführerin über ihr größtes Learning",
