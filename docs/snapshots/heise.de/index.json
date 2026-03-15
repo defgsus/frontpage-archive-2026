@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-15T13:38:26",
+  "timestamp": "2026-03-15T14:20:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Vernetzte Fabriken im Visier: Cyberangriffe kosten Autobranche Milliarden",
+      "url": "https://www.heise.de/news/Vernetzte-Fabriken-im-Visier-Cyberangriffe-kosten-Autobranche-Milliarden-11211531.html"
+    },
     {
       "title": "c’t-Story: Fehleinschätzung",
       "url": "https://www.heise.de/hintergrund/c-t-Story-Fehleinschaetzung-11148919.html",
@@ -64,10 +68,6 @@
     {
       "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
       "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11194761.html"
-    },
-    {
-      "title": "c't-Videoreihe: Wir verfolgen unseren Wetterballon! (Teil 3)",
-      "url": "https://www.heise.de/news/c-t-Videoreihe-Wir-verfolgen-unseren-Wetterballon-Teil-3-11208785.html"
     },
     {
       "title": "Missing LinkFünf Trends Digitaler Gesundheit und was sie bedeuten",
@@ -190,21 +190,27 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Nerdquiz-um-den-Ig-Nobelpreis-11210337.html"
     },
     {
+      "title": "Vernetzte Fabriken im Visier: Cyberangriffe kosten Autobranche Milliarden",
+      "teaser": "Ein Weißbuch der Denkfabrik CAM und von Cisco zeigt: Die Schadenskosten sind explodiert, wobei vor allem die Zulieferer als schwächstes Glied der Kette gelten.",
+      "url": "https://www.heise.de/news/Vernetzte-Fabriken-im-Visier-Cyberangriffe-kosten-Autobranche-Milliarden-11211531.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
       "title": "c’t-Story: Fehleinschätzung",
       "teaser": "Ein mysteriöses Artefakt am Rand des Sonnensystems und eine Crew beim Erstkontakt: Wie man fatal missverstehen kann, was in alten Science-Fiction-Filmen steckt",
       "url": "https://www.heise.de/hintergrund/c-t-Story-Fehleinschaetzung-11148919.html",
       "image_title": "c’t-Story: Fehleinschätzung, von Volker Dornemann"
     },
     {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
       "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
       "teaser": "Funktionierende Treiber, Software per Mausklick – und das mit Linux. Das Webinar zeigt, wie der Umstieg gelingt, ganz ohne Kommandozeilen-Trauma.",
       "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html",
       "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Klagen von Passagieren wegen Flugverspätungen fordern Justiz heraus",
@@ -235,12 +241,6 @@
       "teaser": "Das Update der freien Bildbearbeitungssoftware bringt neue nicht-destruktive Ebenentypen, Vektor-Export und diverse Verbesserungen für Designer und Künstler.",
       "url": "https://www.heise.de/news/Gimp-3-2-erschienen-Das-aendert-sich-fuer-Designer-und-Pixel-Kuenstler-11211404.html",
       "image_title": "Gimp 3.2 Splashscreen"
-    },
-    {
-      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
-      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
-      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11194761.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "Perfekte Wanderroute?Komoot mit ChatGPT ausprobiert: Wie KI bei der Wanderplanung unterstützt",
@@ -334,6 +334,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11194761.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
       "title": "Mac als lokales KI-System: So geht's",
       "teaser": "Wer Aufgaben an Chatbots wie ChatGPT & Co. delegiert, muss den Betreibern oft sensible Daten anvertrauen. Mit dem Open-Source-Projekt Ollama geht das lokal.",
       "url": "https://www.heise.de/ratgeber/Mac-als-lokales-KI-System-So-geht-s-11019113.html",
@@ -399,15 +405,15 @@
       "url": "https://www.heise.de/news/Ausverkauf-und-die-Rettung-des-schoenen-Bildes-die-Fotonews-der-Woche-11-26-11210712.html"
     },
     {
+      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
+      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
       "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11194753.html",
       "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
-    },
-    {
-      "title": "KI im Rechenzentrum: So planen Sie eine erfolgreiche Integrationsstrategie",
-      "teaser": "Nach anfänglicher Skepsis ist KI in der deutschen Wirtschaft mittlerweile weit verbreitet. Laut einer Bitkom-Studie nutzen 36 Prozent der deutschen Unternehmen KI, 47 Prozent planen den Einsatz.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-im-rechenzentrum-so-planen-sie-eine-erfolgreiche-integrationsstrategie/?source=hbsadersatz"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
@@ -458,12 +464,6 @@
       "title": "KeePass-Grundlagen: Passwörter endlich effektiv schützen",
       "teaser": "Keepass speichert Passwörter sicher und kostenlos. Wir führen Schritt für Schritt durch Installation, Datenbankverwaltung und sinnvolle Sicherheitsstrategien.",
       "url": "https://www.heise.de/ratgeber/KeePass-Grundlagen-Passwoerter-endlich-effektiv-schuetzen-11187694.html"
-    },
-    {
-      "title": "Internetgeschwindigkeit messen: Neues Interaktives Tool der Bundesnetzagentur",
-      "teaser": "Mit einer neuen interaktiven Karte können Haushalte ab sofort kontrollieren, ob ihr Internetanschluss den gesetzlichen Mindestvorgaben von 15 Mbit/s entspricht.",
-      "url": "https://www.heise.de/news/Breitband-Mindestversorgung-Bundesnetzagentur-startet-Pruef-Tool-fuer-Buerger-11210862.html",
-      "image_title": "Zahlreiche Kabeltrommeln für Internetleitungen"
     },
     {
       "title": "Claude: Anthropic führt interaktive Diagramme und Visualisierungen ein",
@@ -540,6 +540,11 @@
       "image_title": "Ein Schiff auf dem Wasser"
     },
     {
+      "title": "Internetgeschwindigkeit messen: Neues Interaktives Tool der Bundesnetzagentur",
+      "url": "https://www.heise.de/news/Breitband-Mindestversorgung-Bundesnetzagentur-startet-Pruef-Tool-fuer-Buerger-11210862.html",
+      "image_title": "Zahlreiche Kabeltrommeln für Internetleitungen"
+    },
+    {
       "title": "EuGH stellt klar: Sonderkündigungsrecht bei Anpassung von Nulltarif-Verträgen",
       "url": "https://www.heise.de/news/EuGH-staerkt-Verbraucherrechte-Kostenloses-Kuendigungsrecht-bei-Nulltarif-Ende-11209445.html",
       "image_title": "Nachdenkliche Frau mit braunen Haaren und Brille, über ein Sofapolster gelehnt und ein Handy in der linken Hand haltend."
@@ -548,11 +553,6 @@
       "title": "DFA: Nächstes EU-Gesetzeswerk vor dem Kippen?",
       "url": "https://www.heise.de/news/DFA-Naechstes-EU-Gesetzeswerk-vor-dem-Kippen-11210123.html",
       "image_title": "Person hält Kreditkarte in einer und Smartphone in der anderen Hand. Im Hintergrund ein Computermonitor."
-    },
-    {
-      "title": "Blauer Haken: Elon Musks Plattform X reagiert auf EU-Strafandrohung",
-      "url": "https://www.heise.de/news/DSA-X-lenkt-bei-ersten-EU-Forderungen-ein-11210483.html",
-      "image_title": "X-Logo auf einem Smartphone"
     },
     {
       "title": "Weltweiter Interpol-Schlag gegen Cybercrime: 45.000 IP-Adressen offline",
@@ -641,15 +641,15 @@
       "url": "https://www.heise.de/news/c-t-Videoreihe-Wir-verfolgen-unseren-Wetterballon-Teil-3-11208785.html"
     },
     {
-      "title": "TV-Preise: Wie Sie am Besten vom Preisverfall bei Fernsehern profitieren",
-      "teaser": "Im Frühsommer kommen neue TV-Geräte in den Handel. Die sind meist teurer als die Vorjahresmodelle der gleichen Serie. Für wen lohnt sich die Mehrausgabe?",
-      "url": "https://www.heise.de/tests/TV-Preise-Wie-Sie-am-Besten-vom-Preisverfall-bei-Fernsehern-profitieren-11203773.html",
-      "image_title": "OLED-TVs nebeneinander aufgereiht"
+      "title": "c't 3003Fühlt sich einfach gut an: Pop!_OS ausprobiert",
+      "teaser": "Pop!_OS läuft flott und sieht schick aus — doch der Desktop ist nicht nur schön, sondern bringt auch frische Ideen mit.",
+      "url": "https://www.heise.de/news/Fuehlt-sich-einfach-gut-an-Pop-OS-ausprobiert-c-t-3003-11208143.html"
     },
     {
-      "title": "c’t uplinkGrapheneOS & Co.: Mit Custom-ROMs mehr Datenschutz für Android",
-      "teaser": "Das eigene Smartphone soll keine Petze mehr sein? Wie man den Datenschutz von Android mit und ohne Custom-ROMs verbessert, erklären wir in c’t uplink.",
-      "url": "https://www.heise.de/news/GrapheneOS-Co-Mit-Custom-ROMs-mehr-Datenschutz-fuer-Android-c-t-uplink-11210085.html"
+      "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
+      "teaser": "Funktionierende Treiber, Software per Mausklick – und das mit Linux. Das Webinar zeigt, wie der Umstieg gelingt, ganz ohne Kommandozeilen-Trauma.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html",
+      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
     },
     {
       "title": "Günstiges MacBookWie das MacBook Neo den Notebookmarkt umkrempelt",
@@ -758,16 +758,16 @@
       "image_title": "Hände drehen Atomzeichen in Ziffernblatt zurück"
     },
     {
-      "title": "Speicher-Krise: Warum PCs und Tablets jetzt deutlich teurer werden",
-      "teaser": "DRAM-Mangel treibt die Preise für Computer und Tablets in die Höhe. Marktforscher erwarten keine Entspannung vor 2028. Was Käufer jetzt wissen müssen.",
-      "url": "https://www.heise.de/-11209858",
-      "image_title": "Hintergründe zu Speicherkonzepten mit hoher Bandbreite. 3D-Darstellung"
+      "title": "New Work: Mitbestimmung endet dort, wo Eigentum beginnt",
+      "teaser": "Selbstorganisation klingt modern – doch solange Eigentümer das letzte Wort haben, bleibt Mitbestimmung im Betrieb eine Illusion.",
+      "url": "https://www.heise.de/-11208233",
+      "image_title": "Inbus-Satz mit Bleistift und Leiste mit Wahlzettel"
     },
     {
-      "title": "KI-Agenten kapern den demokratischen Diskurs",
-      "teaser": "KI-Agenten täuschen echte Bürgerbewegungen vor und beeinflussen Wahlen – und Social-Media-Plattformen haben einen Grund, nicht dagegen vorzugehen.",
-      "url": "https://www.heise.de/-11211478",
-      "image_title": "Nächtliche Aufnahme des Reichstagsgebäudes in Berlin, aus dessen Glaskuppel ein leuchtender, chaotischer Sturm aus blauen und roten Datenpartikeln, Social-Media-Logos (Facebook, X) und \"FAKE NEWS\"-Schriftzügen emporsteigt."
+      "title": "Mini-Gehirn aus der Petrischale lernt virtuellen Stab zu balancieren",
+      "teaser": "Ein winziges Stück Hirngewebe lernte, einen Stab zu balancieren – und schaffte es in fast jedem zweiten Versuch.",
+      "url": "https://www.heise.de/-11210213",
+      "image_title": "Gehirnorganoide oder Mini-Gehirne mit biotechnologischer Ästhetik"
     },
     {
       "title": "New Work: Geschäftsführerin über ihr größtes Learning",
