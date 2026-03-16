@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T01:10:49",
+  "timestamp": "2026-03-16T04:29:08",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "FBI sucht Opfer infizierter Steam-Spiele für eigene Ermittlungen",
+      "url": "https://www.heise.de/news/FBI-sucht-Opfer-infizierter-Steam-Spiele-fuer-eigene-Ermittlungen-11211660.html"
+    },
     {
       "title": "Top 10: Die besten Smart-Home-Systeme im Test – Home Assistant überragt alle",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test-home-assistant-ueberragt-alle/mr3xkgr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/hintergrund/c-t-Story-Fehleinschaetzung-11148919.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
-      "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html"
     },
     {
       "title": "Missing LinkFünf Trends Digitaler Gesundheit und was sie bedeuten",
@@ -187,20 +187,26 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Nerdquiz-um-den-Ig-Nobelpreis-11210337.html"
     },
     {
+      "title": "FBI sucht Opfer infizierter Steam-Spiele für eigene Ermittlungen",
+      "teaser": "Das FBI ruft Nutzer von acht bei Steam angebotenen, aber infizierten Games zu Hilfe. Durch ein Formular sollen Spieler die Ermittlungen unterstützen.",
+      "url": "https://www.heise.de/news/FBI-sucht-Opfer-infizierter-Steam-Spiele-fuer-eigene-Ermittlungen-11211660.html",
+      "image_title": "Mann schaut auf Laptop mit Steam"
+    },
+    {
       "title": "Top 10: Die besten Smart-Home-Systeme im Test – Home Assistant überragt alle",
       "teaser": "Das perfekte Steuergerät fürs intelligente Zuhause? Fehlanzeige. Doch es gibt Lösungen, die dem Ideal durch Offenheit und Vielseitigkeit sehr nahekommen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test-home-assistant-ueberragt-alle/mr3xkgr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Warum komplexe Passwörter kontraproduktiv sein können",
+      "teaser": "Strikte Passwortregeln schützen kaum vor dem eigentlichen Risiko – gestohlenen Zugangsdaten. Wirksamer ist dagegen eine Strategie, die kompromittierte Passwörter erkennt und blockiert.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7162445909&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Synchronsprecherin lehnt Netflix-Auftrag wegen KI-Klauseln ab",
       "teaser": "Die deutschen Synchronstimmen von Jennifer Lopez bis Tom Cruise im KI-Streit: Die Künstler warnen vor Datenmissbrauch und fordern Schutz vor Kopien.",
       "url": "https://www.heise.de/news/Synchronsprecher-sorgen-sich-wegen-KI-um-ihre-Rechte-11211599.html",
       "image_title": "Mikrofon auf Stimmwellen"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Pentagon vergibt 20-Milliarden-Auftrag an Anduril",
@@ -229,12 +235,6 @@
       "teaser": "Ein Weißbuch der Denkfabrik CAM und von Cisco zeigt: Die Schadenskosten sind explodiert, wobei vor allem die Zulieferer als schwächstes Glied der Kette gelten.",
       "url": "https://www.heise.de/news/Vernetzte-Fabriken-im-Visier-Cyberangriffe-kosten-Autobranche-Milliarden-11211531.html",
       "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "c’t-Story: Fehleinschätzung",
-      "teaser": "Ein mysteriöses Artefakt am Rand des Sonnensystems und eine Crew beim Erstkontakt: Wie man fatal missverstehen kann, was in alten Science-Fiction-Filmen steckt",
-      "url": "https://www.heise.de/hintergrund/c-t-Story-Fehleinschaetzung-11148919.html",
-      "image_title": "c’t-Story: Fehleinschätzung, von Volker Dornemann"
     },
     {
       "title": "Perfekte Wanderroute?Komoot mit ChatGPT ausprobiert: Wie KI bei der Wanderplanung unterstützt",
@@ -328,6 +328,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "c’t-Story: Fehleinschätzung",
+      "teaser": "Ein mysteriöses Artefakt am Rand des Sonnensystems und eine Crew beim Erstkontakt: Wie man fatal missverstehen kann, was in alten Science-Fiction-Filmen steckt",
+      "url": "https://www.heise.de/hintergrund/c-t-Story-Fehleinschaetzung-11148919.html",
+      "image_title": "c’t-Story: Fehleinschätzung, von Volker Dornemann"
+    },
+    {
       "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
       "teaser": "Funktionierende Treiber, Software per Mausklick – und das mit Linux. Das Webinar zeigt, wie der Umstieg gelingt, ganz ohne Kommandozeilen-Trauma.",
       "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html",
@@ -396,14 +402,14 @@
       "url": "https://www.heise.de/tests/Grafikkarten-mit-reichlich-RAM-Vorsicht-vor-vermeintlichen-Schnaeppchen-11171359.html"
     },
     {
+      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
+      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
+    },
+    {
       "title": "Versteckte Kündigungsgebühren enden für Adobe mit Millionenstrafe",
       "teaser": "Adobe legt einen Rechtsstreit über versteckte Kündigungsgebühren mit einer Geldstrafe bei, streitet aber ein Fehlverhalten ab.",
       "url": "https://www.heise.de/news/Versteckte-Kuendigungsgebuehren-Millionenstrafe-fuer-Adobe-11211180.html"
-    },
-    {
-      "title": "Video: Wie sich ONNX-Runtime-Anwendungen lokal bereitstellen lassen",
-      "teaser": "Das Open Neural Network Exchange (ONNX)-Format ermöglicht es, KI-Anwendungen von einem Framework auf ein anderes zu portieren. Dieses Video zeigt, wie sich ONNX-Runtime-Anwendungen mithilfe der Ryzen AI-Software lokal nutzen lassen.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/video-wie-sich-onnx-runtime-anwendungen-lokal-bereitstellen-lassen/?source=hbsadersatz"
     },
     {
       "title": "betterCode() Testing 2026: Programm und Online-Workshops stehen fest",
@@ -457,28 +463,19 @@
       "url": "https://www.heise.de/news/Licht-Linien-leise-Momente-Die-Bilder-der-Woche-11-11210752.html"
     },
     {
-      "title": "KI vs. Mensch: Günstige Flugtickets finden",
-      "teaser": "Mit den passenden Suchmaschinen lassen sich mitunter günstigere Tickets als über die Seiten der Fluggesellschaften buchen. Kann KI das noch toppen?",
-      "url": "https://www.heise.de/ratgeber/KI-vs-Mensch-Guenstige-Flugtickets-finden-11189866.html"
-    },
-    {
       "title": "Größte Übernahme in Googles Geschichte – 32 Milliarden US-Dollar für Wiz",
       "url": "https://www.heise.de/news/32-Milliarden-US-Dollar-fuer-Wiz-Google-schliesst-groesste-Uebernahme-ab-11210091.html",
       "image_title": "Bunt leuchtendes Neon-Zeochen von Google"
     },
     {
-      "title": "Claude: Anthropic führt interaktive Diagramme und Visualisierungen ein",
-      "url": "https://www.heise.de/news/Claude-Anthropic-fuehrt-interaktive-Diagramme-und-Visualisierungen-ein-11210565.html",
-      "image_title": "Periodensystem in Claude"
+      "title": "Interview zur Speicherkrise: „Solche Preissteigerungen kann niemand auffangen“",
+      "url": "https://www.heise.de/news/Interview-zur-Speicherkrise-Die-Hardwarebeschaffung-ist-zur-Lotterie-geworden-11209190.html",
+      "image_title": "Mensch baut RAM in ein Notebook ein"
     },
     {
-      "title": "Stryker: IT-Systeme nach Cyberangriff vermutlich iranischer Akteure gelöscht",
-      "url": "https://www.heise.de/news/Stryker-IT-Systeme-nach-Cyberangriff-vermutlich-iranischer-Akteure-geloescht-11209682.html"
-    },
-    {
-      "title": "„Verrückte“ Lichtkurve: Wohl Kollision zweier Exoplaneten in Echtzeit beobachtet",
-      "url": "https://www.heise.de/news/Verrueckte-Lichtkurve-Wohl-Kollision-zweier-Exoplaneten-in-Echtzeit-beobachtet-11208771.html",
-      "image_title": "Ein Stern, daneben zwei miteinander kollidierende Planeten"
+      "title": "Weltgrößtes Unterseekabelsystem: Fertigstellung im Persischen Golf gestoppt",
+      "url": "https://www.heise.de/news/Unterseekabelsystem-2Africa-Arbeit-im-Persischen-Golf-wegen-Irankrieg-gestoppt-11209652.html",
+      "image_title": "Ein Schiff auf dem Wasser"
     },
     {
       "title": "Hinter der Milchstraße versteckt: Supercluster Vela deutlich größer als gedacht",
@@ -486,9 +483,14 @@
       "image_title": "Mehrere Flecken mit Beschriftungen wie Vela und Shapley"
     },
     {
-      "title": "Seit 3,6 Millionen Jahren beispiellos: Klimawandel verlängert unsere Tage",
-      "url": "https://www.heise.de/news/Seit-3-6-Millionen-Jahren-beispiellos-Klimawandel-verlaengert-unsere-Tage-11209942.html",
-      "image_title": "Sonne hinter der Erdkugel"
+      "title": "„Verrückte“ Lichtkurve: Wohl Kollision zweier Exoplaneten in Echtzeit beobachtet",
+      "url": "https://www.heise.de/news/Verrueckte-Lichtkurve-Wohl-Kollision-zweier-Exoplaneten-in-Echtzeit-beobachtet-11208771.html",
+      "image_title": "Ein Stern, daneben zwei miteinander kollidierende Planeten"
+    },
+    {
+      "title": "„Wenn das jemand baut, sterben alle“ – Debatte über Super-KI",
+      "url": "https://www.heise.de/news/Wenn-das-jemand-baut-sterben-alle-Debatte-ueber-Super-KI-11180647.html",
+      "image_title": "Terminator-Statue mit rot leuchtenden Augen"
     },
     {
       "title": "Kommentar: Beim MacBook Neo muss man erstaunlich wenig Kompromisse machen",
@@ -506,6 +508,11 @@
       "image_title": "iPadOS 26 mit Fenstermodus"
     },
     {
+      "title": "Vorstellung Suzuki GSX-R 1000 R: Die neue Alte mit weniger Leistung",
+      "url": "https://www.heise.de/news/Vorstellung-Suzuki-GSX-R-1000-R-Die-neue-Alte-mit-weniger-Leistung-11199225.html",
+      "image_title": "Suzuki GSX-R 1000 R"
+    },
+    {
       "title": "VR hat laut Meta mehr Nutzer denn je – aber das Problem liegt woanders",
       "url": "https://www.heise.de/hintergrund/Meta-Virtual-Reality-und-das-Prinzip-Hoffnung-11210037.html",
       "image_title": "Meta Quest 3 auf Ladestation in Wohnzimmerumgebung."
@@ -514,11 +521,6 @@
       "title": "„Esoteric Ebb“ angespielt: Als hätte Terry Pratchett „Disco Elysium“ geschrieben",
       "url": "https://www.heise.de/tests/Esoteric-Ebb-angespielt-Als-haette-Terry-Pratchett-Disco-Elysium-geschrieben-11209556.html",
       "image_title": "Screenshot aus Esoteric Ebb"
-    },
-    {
-      "title": "Neue PC-Spiele im April 2026: „Pragmata“",
-      "url": "https://www.heise.de/news/Neue-PC-Spiele-im-April-2026-Pragmata-11210448.html",
-      "image_title": "Artwork aus dem Action-Adventure Pragmata"
     },
     {
       "title": "Atlassian-Chef: KI ersetzt bei uns keine Menschen, aber wir feuern sie trotzdem",
@@ -531,19 +533,9 @@
       "image_title": "Festplatte mit Wolken drauf"
     },
     {
-      "title": "Interview zur Speicherkrise: „Solche Preissteigerungen kann niemand auffangen“",
-      "url": "https://www.heise.de/news/Interview-zur-Speicherkrise-Die-Hardwarebeschaffung-ist-zur-Lotterie-geworden-11209190.html",
-      "image_title": "Mensch baut RAM in ein Notebook ein"
-    },
-    {
-      "title": "Internetgeschwindigkeit messen: Neues Interaktives Tool der Bundesnetzagentur",
-      "url": "https://www.heise.de/news/Breitband-Mindestversorgung-Bundesnetzagentur-startet-Pruef-Tool-fuer-Buerger-11210862.html",
-      "image_title": "Zahlreiche Kabeltrommeln für Internetleitungen"
-    },
-    {
-      "title": "EuGH stellt klar: Sonderkündigungsrecht bei Anpassung von Nulltarif-Verträgen",
-      "url": "https://www.heise.de/news/EuGH-staerkt-Verbraucherrechte-Kostenloses-Kuendigungsrecht-bei-Nulltarif-Ende-11209445.html",
-      "image_title": "Nachdenkliche Frau mit braunen Haaren und Brille, über ein Sofapolster gelehnt und ein Handy in der linken Hand haltend."
+      "title": "Interview: Wie Hirnstimulation Depressionen lindert",
+      "url": "https://www.heise.de/hintergrund/Interview-Wie-Hirnstimulation-Depressionen-lindern-soll-11208942.html",
+      "image_title": "Flow-Headset auf der Stirn."
     },
     {
       "title": "DFA: Nächstes EU-Gesetzeswerk vor dem Kippen?",
@@ -551,19 +543,29 @@
       "image_title": "Person hält Kreditkarte in einer und Smartphone in der anderen Hand. Im Hintergrund ein Computermonitor."
     },
     {
+      "title": "Internetgeschwindigkeit messen: Neues Interaktives Tool der Bundesnetzagentur",
+      "url": "https://www.heise.de/news/Breitband-Mindestversorgung-Bundesnetzagentur-startet-Pruef-Tool-fuer-Buerger-11210862.html",
+      "image_title": "Zahlreiche Kabeltrommeln für Internetleitungen"
+    },
+    {
+      "title": "Blauer Haken: Elon Musks Plattform X reagiert auf EU-Strafandrohung",
+      "url": "https://www.heise.de/news/DSA-X-lenkt-bei-ersten-EU-Forderungen-ein-11210483.html",
+      "image_title": "X-Logo auf einem Smartphone"
+    },
+    {
       "title": "Weltweiter Interpol-Schlag gegen Cybercrime: 45.000 IP-Adressen offline",
       "url": "https://www.heise.de/news/Weltweiter-Interpol-Schlag-gegen-Cybercrime-45-000-IP-Adressen-offline-11210559.html",
       "image_title": "Interpol-Logo"
     },
     {
+      "title": "c’t-Story: Fehleinschätzung",
+      "url": "https://www.heise.de/hintergrund/c-t-Story-Fehleinschaetzung-11148919.html",
+      "image_title": "c’t-Story: Fehleinschätzung, von Volker Dornemann"
+    },
+    {
       "title": "KI-Bilder ohne Kennzeichnung: ZDF reagiert mit Fünf-Punkte-Programm",
       "url": "https://www.heise.de/news/ZDF-will-nach-Fehlern-mit-KI-Bildern-Ablaeufe-verbessern-11210319.html",
       "image_title": "ZDF-Studio in Berlin"
-    },
-    {
-      "title": "Post zum Freitag: Apple bringt Neo, Schnäppchenfallen, Filmtipp fürs Wochenende",
-      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Apple-bringt-Neo-Schnaeppchenfallen-Filmtipp-fuers-Wochenende-11209552.html",
-      "image_title": "heise+ Update Volker Zota"
     },
     {
       "title": "Warum die Gehälter auf dem IT-Arbeitsmarkt stagnieren",
@@ -615,38 +617,37 @@
       "image_title": "AIPCon lettering with rings in the background"
     },
     {
-      "title": "Proton: FBI user identification shakes Swiss data protection",
-      "url": "https://www.heise.de/en/news/Proton-FBI-user-identification-shakes-Swiss-data-protection-11203086.html",
-      "image_title": "Jacket with FBI lettering"
+      "title": "Suzuki GSX-R 1000 R: The new old one with less power",
+      "url": "https://www.heise.de/en/news/Suzuki-GSX-R-1000-R-The-new-old-one-with-less-power-11205167.html",
+      "image_title": "Suzuki GSX-R 1000 R"
     },
     {
-      "title": "Perplexity builds \"Personal Computer\" based on Mac mini",
-      "url": "https://www.heise.de/en/news/Perplexity-builds-Personal-Computer-based-on-Mac-mini-11209925.html"
+      "title": "Atlassian CEO: AI doesn't replace people here, but we're firing them anyway",
+      "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
+    },
+    {
+      "title": "Proton: FBI user identification shakes Swiss data protection",
+      "url": "https://www.heise.de/en/news/Proton-FBI-user-identification-shakes-Swiss-data-protection-11203086.html"
     },
     {
       "title": "Paying without Google: New consortium wants to remove custom ROM hurdles",
       "url": "https://www.heise.de/en/news/Paying-without-Google-New-consortium-wants-to-remove-custom-ROM-hurdles-11204037.html"
     },
     {
-      "title": "Android 17: Google cracks down on Accessibility API abuse",
-      "url": "https://www.heise.de/en/news/Android-17-Google-cracks-down-on-Accessibility-API-abuse-11210703.html"
+      "title": "PassboltEuropäischen Open-Source-Passwortmanager selbst hosten",
+      "teaser": "Wir zeigen, wie man Passbolt auf eigener Hardware aus dem Heimnetz betreibt.",
+      "url": "https://www.heise.de/ratgeber/Passbolt-Den-europaeischen-Open-Source-Passwortmanager-selbst-hosten-11172920.html"
     },
     {
-      "title": "EU-Vorschrift für Cybersicherheit zwingt Embedded-Systems-Branche zu Änderungen",
-      "teaser": "Der Cyber Resilience Act (CRA) verlangt Änderungen an Industriecomputern, Medizinelektronik, Robotern und sonstigen Embedded Systems – mit Nebenwirkungen.",
-      "url": "https://www.heise.de/news/EU-Vorgaben-fuer-Cybersicherheit-zwingt-Embedded-Systems-Branche-zu-Veraenderungen-11208242.html",
-      "image_title": "Symbolbild EU Cyber Resilience Act (CRA)"
+      "title": "Oscars 2026 in der AnalyseAcademy zwingt Juroren erstmals zum Filmschauen",
+      "teaser": "Zwischen Streamingkrieg, Diversitätsdebatten und neuen Abstimmungsregeln sucht Hollywood nach einem neuen Selbstbild.",
+      "url": "https://www.heise.de/tests/Oscars-2026-in-der-Analyse-Academy-zwingt-Juroren-erstmals-zum-Filmschauen-11186092.html",
+      "image_title": "Amy Madigan, Weapons"
     },
     {
-      "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
-      "teaser": "Funktionierende Treiber, Software per Mausklick – und das mit Linux. Das Webinar zeigt, wie der Umstieg gelingt, ganz ohne Kommandozeilen-Trauma.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html",
-      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
-    },
-    {
-      "title": "c’t uplinkGrapheneOS & Co.: Mit Custom-ROMs mehr Datenschutz für Android",
-      "teaser": "Das eigene Smartphone soll keine Petze mehr sein? Wie man den Datenschutz von Android mit und ohne Custom-ROMs verbessert, erklären wir in c’t uplink.",
-      "url": "https://www.heise.de/news/GrapheneOS-Co-Mit-Custom-ROMs-mehr-Datenschutz-fuer-Android-c-t-uplink-11210085.html"
+      "title": "c't-VideoreiheWir verfolgen unseren Wetterballon! (Teil 3)",
+      "teaser": "Vom Basteltisch bis in die Stratosphäre: Im dritten Teil unserer Videoreihe starten wir den Wetterballon und jagen ihm hinterher.",
+      "url": "https://www.heise.de/news/c-t-Videoreihe-Wir-verfolgen-unseren-Wetterballon-Teil-3-11208785.html"
     },
     {
       "title": "Günstiges MacBookWie das MacBook Neo den Notebookmarkt umkrempelt",
@@ -749,22 +750,22 @@
       "image_title": "Elektroauto, E-Auto, Laden"
     },
     {
-      "title": "Speicher-Krise: Warum PCs und Tablets jetzt deutlich teurer werden",
-      "teaser": "DRAM-Mangel treibt die Preise für Computer und Tablets in die Höhe. Marktforscher erwarten keine Entspannung vor 2028. Was Käufer jetzt wissen müssen.",
-      "url": "https://www.heise.de/-11209858",
-      "image_title": "Hintergründe zu Speicherkonzepten mit hoher Bandbreite. 3D-Darstellung"
+      "title": "Klimawandel macht unsere Tage länger – messbar",
+      "teaser": "Schmelzendes Eis bremst die Erde – in einem Tempo, das Forscher so in Millionen Jahren nicht nachweisen konnten.",
+      "url": "https://www.heise.de/-11211167",
+      "image_title": "Blick aus dem Weltraum des Sonnenaufgangs über den Planeten Erde."
     },
     {
-      "title": "Mini-Gehirn aus der Petrischale lernt virtuellen Stab zu balancieren",
-      "teaser": "Ein winziges Stück Hirngewebe lernte, einen Stab zu balancieren – und schaffte es in fast jedem zweiten Versuch.",
-      "url": "https://www.heise.de/-11210213",
-      "image_title": "Gehirnorganoide oder Mini-Gehirne mit biotechnologischer Ästhetik"
+      "title": "Warum Mexikos Drogenbosse moderner kämpfen als viele Streitkräfte",
+      "teaser": "Mexikos Kartelle bauen Drohnen-Kampfeinheiten – ohne Staat, ohne Budget, nur nach Marktlogik. Das verändert Kriege weltweit.",
+      "url": "https://www.heise.de/-11209732",
+      "image_title": "Drohne mit Bomben fliegt über Küstenlandschaft, während weitere Drohnen, bewaffnete Fahrzeuge und Explosionen an Land zu sehen sind. Im Vordergrund sieht amn ein halbgetauchtes U-Boot."
     },
     {
-      "title": "US-Tankflugzeug über dem Irak abgestürzt",
-      "teaser": "Ein US-Tankflugzeug stürzte über dem Irak ab. Sechs Personen an Bord. Ob sie überlebten, ist unklar. Über die Ursache gibt es widersprüchliche Angaben.",
-      "url": "https://www.heise.de/-11210025",
-      "image_title": "Ein graues Flugzeug auf einer US-Militärbasis"
+      "title": "Eskalation ohne Ende: Der Nahe Osten im strategischen Vakuum",
+      "teaser": "Krieg ohne Plan: Im Nahen Osten eskaliert ein Konflikt ohne Exit-Strategie. Teheran kämpft weiter – und hält einen gefährlichen Joker in der Hand. Eine Analyse.",
+      "url": "https://www.heise.de/-11207735",
+      "image_title": "Karte des Nahen Ostens, der Iran rot hervorgehoben"
     },
     {
       "title": "New Work: Geschäftsführerin über ihr größtes Learning",
