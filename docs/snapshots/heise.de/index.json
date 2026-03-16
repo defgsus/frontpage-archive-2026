@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-16T20:25:39",
+  "timestamp": "2026-03-16T21:27:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "EU-Einigung scheitert: „Freiwillige Chatkontrolle“ endet",
+      "url": "https://www.heise.de/news/EU-Einigung-scheitert-Freiwillige-Chatkontrolle-endet-11213002.html"
+    },
     {
       "title": "Neural Rendering: Nvidia DLSS 5 soll Videospiele fotorealistisch machen",
       "url": "https://www.heise.de/news/Neural-Rendering-Nvidia-DLSS-5-macht-Videospiele-fotorealistisch-11212965.html"
@@ -62,10 +66,6 @@
     {
       "title": "Taste Profile: Spotify-Nutzer dürfen ihren Algorithmus selbst anpassen",
       "url": "https://www.heise.de/news/Taste-Profile-Spotify-Nutzer-duerfen-ihren-Algorithmus-selbst-anpassen-11212648.html"
-    },
-    {
-      "title": "Rheinmetall und TankE wollen Ladebordsteine in die Städte bringen",
-      "url": "https://www.heise.de/news/Rheinmetall-und-TankE-wollen-Ladebordsteine-in-die-Staedte-bringen-11212658.html"
     },
     {
       "title": "Neural RenderingNvidia DLSS 5 soll Videospiele fotorealistisch machen",
@@ -187,20 +187,26 @@
       "image_title": "Gimp 3.2 Splashscreen"
     },
     {
+      "title": "EU-Einigung scheitert: „Freiwillige Chatkontrolle“ endet",
+      "teaser": "Messenger durchsuchen Chats, um Kindesmissbrauch zu bekämpfen. Die dafür nötige Ausnahme von EU-Recht endet jetzt – eine erneute Verlängerung ist gescheitert.",
+      "url": "https://www.heise.de/news/EU-Einigung-scheitert-Freiwillige-Chatkontrolle-endet-11213002.html",
+      "image_title": "Die Symbole verschiedener Chat-Anwendungen auf dem Bildschirm eines Smartphones."
+    },
+    {
       "title": "Top 10: Das beste Smartphone 2026 im Test",
       "teaser": "High-End-Smartphones lassen kaum Wünsche offen – doch welches ist das Beste? Wir zeigen die besten Handys aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-2026-im-test-samsung-xiaomi-apple-und-co/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Chinas zweitgrößter Chipfertiger startet angeblich 7-Nanometer-Produktion",
       "teaser": "Die chinesische Hua-Hong-Gruppe soll 7-nm-Chips herstellen können. 2026 ist allerdings keine hohe Fertigungskapazität zu erwarten.",
       "url": "https://www.heise.de/news/Chinas-zweitgroesster-Chipfertiger-startet-angeblich-7-Nanometer-Produktion-11212865.html",
       "image_title": "Silizium-Wafer"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Apple kauft MotionVFX: Anbieter für Video-Effekte und Plug-ins",
@@ -229,12 +235,6 @@
       "title": "Wie kann dieser E-Scooter legal sein? Iscooter IX7 Pro mit 2 Motoren & 1600 Watt",
       "teaser": "Der E-Scooter Iscooter IX7 Pro mit zwei Motoren mit 1600 Watt Spitzenleistung glänzt mit brachialer Kraft und guter Federung – zeigt aber auch klare Schwächen.",
       "url": "https://www.heise.de/bestenlisten/testbericht/wie-kann-dieser-e-scooter-legal-sein-iscooter-ix7-pro-mit-2-motoren-und-1600-watt/semgwdr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "didacta 2026: Smartphonefrei, vollautomatisch, belastungssensibel?",
-      "teaser": "Laufende Verbotsdebatten haben Digitalisierungsskeptikern mehr Platz verschafft. Digital ist zwar nun selbstverständlich, aber die gezogene Handbremse auch.",
-      "url": "https://www.heise.de/hintergrund/didacta-2026-Smartphonefrei-vollautomatisch-belastungssensibel-11212380.html",
-      "image_title": "Gesprächsrunde auf einer Messe"
     },
     {
       "title": "Perfekte Wanderroute?Komoot mit ChatGPT ausprobiert: Wie KI bei der Wanderplanung unterstützt",
@@ -328,6 +328,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "didacta 2026: Smartphonefrei, vollautomatisch, belastungssensibel?",
+      "teaser": "Laufende Verbotsdebatten haben Digitalisierungsskeptikern mehr Platz verschafft. Digital ist zwar nun selbstverständlich, aber die gezogene Handbremse auch.",
+      "url": "https://www.heise.de/hintergrund/didacta-2026-Smartphonefrei-vollautomatisch-belastungssensibel-11212380.html",
+      "image_title": "Gesprächsrunde auf einer Messe"
+    },
+    {
       "title": "UpdateAirPods Max 2: Richtiges Chip-Update für Apples Over-Ears",
       "teaser": "Apples kabellose Bügelkopfhörer haben ihr erstes richtiges Upgrade erhalten: Der H2-Chip liefert Funktionen, die bei den AirPods Pro längst gängig sind.",
       "url": "https://www.heise.de/news/AirPods-Max-2-Apples-Over-Ears-schliessen-zu-den-AirPods-Pro-auf-11212588.html",
@@ -398,15 +404,15 @@
       "image_title": ","
     },
     {
+      "title": "Digitale Innovationen: So sichern CIOs die Zukunftsfähigkeit ihres Unternehmens",
+      "teaser": "IT-Verantwortliche spielen eine entscheidende Rolle, wenn es um die Wettbewerbsfähigkeit von Unternehmen geht. In diesem Webcast diskutieren Vik Iyer und Rahul Tikoo von AMD darüber, was das für CIOs bedeutet.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitale-innovationen-so-sichern-cios-die-zukunftsfaehigkeit-ihres-unternehmens/?source=hbsadersatz"
+    },
+    {
       "title": "Termix 2.0.0: Vom SSH-Client zum Remote-Desktop-Allrounder",
       "teaser": "Der Open-Source-SSH-Client Termix erweitert sich in Version 2.0.0 um Remote-Desktop-Protokolle. Zudem behebt das Release kritische Fehler unter Linux.",
       "url": "https://www.heise.de/news/Termix-2-0-0-SSH-Client-unterstuetzt-jetzt-RDP-VNC-und-Telnet-11212358.html",
       "image_title": "Termix-Client mit Schriftzug TERMIX"
-    },
-    {
-      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
-      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
     },
     {
       "title": "Omnibus AI Act: Fristverlängerung und Deepfake-Verbot",
@@ -461,12 +467,6 @@
       "teaser": "Ikea hat seine Smart-Home-Sparte neu aufgestellt. Neue Sensoren und Lampen arbeiten via Matter in Apple Home. Was taugen sie?",
       "url": "https://www.heise.de/tests/Smart-Home-auf-Schwedisch-im-Test-Das-leisten-smarte-Geraete-von-Ikea-11187432.html",
       "image_title": ", Apple / Ikea / heise medien"
-    },
-    {
-      "title": "Google: 17,1 Millionen US-Dollar im Bug-Bounty-Programm 2025 ausgezahlt",
-      "teaser": "Google hat beim Bug-Bounty-Programm „VRP“ im Jahr 2025 mehr als 17 Millionen US-Dollar Belohnung an IT-Forscher ausgezahlt.",
-      "url": "https://www.heise.de/news/Google-17-1-Millionen-US-Dollar-im-Bug-Bounty-Programm-2025-ausgezahlt-11211996.html",
-      "image_title": "Google-Logo über einem Gebäudeeingang"
     },
     {
       "title": "Windows 11 mit Hotpatch: Update außer der Reihe",
@@ -634,20 +634,20 @@
       "url": "https://www.heise.de/en/news/Paying-without-Google-New-consortium-wants-to-remove-custom-ROM-hurdles-11204037.html"
     },
     {
-      "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
-      "teaser": "Funktionierende Treiber, Software per Mausklick – und das mit Linux. Das Webinar zeigt, wie der Umstieg gelingt, ganz ohne Kommandozeilen-Trauma.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html",
-      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
-    },
-    {
-      "title": "Der Sound von Supertramp: E-Piano Wurlitzer 200A als Plug-in im Test",
-      "teaser": "Das berühmte E-Piano prägt seit 1974 Soul, Funk und Pop. Im Test muss das erste offizielle Plug-in beweisen, ob es den Sound der alten Tage reproduzieren kann.",
-      "url": "https://www.heise.de/tests/Der-Sound-von-Supertramp-E-Piano-Wurlitzer-200A-als-Plug-in-im-Test-11203842.html"
+      "title": "Bit-Rauschen: Wer liefern kann, ist klar im Vorteil",
+      "teaser": "Apple will ein größeres Stück vom Notebookmarkt. Pläne für Weltraumrechenzentren zerpflückt ein Experte als „Wahnsinn“. Google kauft mehr Ökostrom.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Wer-liefern-kann-ist-klar-im-Vorteil-11138004.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
     },
     {
       "title": "Passwortmanager: Gute Gründe für europäische Clouds oder Self Hosting",
       "teaser": "Einen Passwortmanager sollte jeder nutzen. Die bekanntesten sind jedoch aus Gründen nicht unbedingt die beste Wahl.",
       "url": "https://www.heise.de/ratgeber/Passwortmanager-Gute-Gruende-fuer-europaeische-Clouds-oder-Self-Hosting-11172904.html"
+    },
+    {
+      "title": "Der Sound von Supertramp: E-Piano Wurlitzer 200A als Plug-in im Test",
+      "teaser": "Das berühmte E-Piano prägt seit 1974 Soul, Funk und Pop. Im Test muss das erste offizielle Plug-in beweisen, ob es den Sound der alten Tage reproduzieren kann.",
+      "url": "https://www.heise.de/tests/Der-Sound-von-Supertramp-E-Piano-Wurlitzer-200A-als-Plug-in-im-Test-11203842.html"
     },
     {
       "title": "Günstiges MacBookWie das MacBook Neo den Notebookmarkt umkrempelt",
@@ -701,10 +701,9 @@
       "url": "https://www.heise.de/news/Licht-Linien-leise-Momente-Die-Bilder-der-Woche-11-11210752.html"
     },
     {
-      "title": "Streetfotografie: Rahmen, Strukturen und Muster erkennen",
-      "teaser": "Die Stadt steckt voller grafischer Elemente. Wer sie bewusst nutzt, fotografiert nicht zufällig, sondern bringt Orientierung ins urbane Chaos.",
-      "url": "https://www.heise.de/ratgeber/Streetfotografie-Rahmen-Strukturen-und-Muster-erkennen-11197511.html",
-      "image_title": "Ein Boden mit einem so klaren Muster lädt dazu ein, daraus eine interessante Komposition zu gestalten., Alle Bilder: Pia Parolin"
+      "title": "Fujifilm Instax Mini Evo Cinema im Test: Sofortbildkamera, die auch Video kann",
+      "teaser": "Fujifilm experimentiert mit ungewöhnlicher Mischung aus Sofortbild, Smartphone und Videotagebuch. Unser Test zeigt, ob das Konzept mehr ist als kreativer Gag.",
+      "url": "https://www.heise.de/tests/Fujifilm-Instax-Mini-Evo-Cinema-im-Test-Sofortbildkamera-die-auch-Video-kann-11209972.html"
     },
     {
       "title": "Ein ÜberblickMicrosoft-Dienste eigenständig ohne Cloud betreiben",
@@ -749,22 +748,22 @@
       "image_title": "Alfa Romeo Giulia und Stelvio Quadrifoglio"
     },
     {
-      "title": "Hanf statt Baumwolle: Die vergessene Superfaser",
-      "teaser": "Baumwolle frisst Wasser, Hanf wächst fast von selbst. Doch die Superfaser war jahrzehntelang verboten. Was steckt dahinter?",
-      "url": "https://www.heise.de/-11195552",
-      "image_title": "Ein Traktor mit Erntegerät auf einem Hanfffeld"
+      "title": "Jürgen Habermas: Der Denker unserer Zukunft",
+      "teaser": "Vertrauen in den öffentlichen Vernunftgebrauch. Zum Tod des bedeutendsten deutschen Philosophen der letzten 50 Jahre.",
+      "url": "https://www.heise.de/-11211482",
+      "image_title": "Porträt Jürgen Habermas am Pult"
+    },
+    {
+      "title": "Klimawandel macht unsere Tage länger – messbar",
+      "teaser": "Schmelzendes Eis bremst die Erde – in einem Tempo, das Forscher so in Millionen Jahren nicht nachweisen konnten.",
+      "url": "https://www.heise.de/-11211167",
+      "image_title": "Blick aus dem Weltraum des Sonnenaufgangs über den Planeten Erde."
     },
     {
       "title": "New Work: Mitbestimmung endet dort, wo Eigentum beginnt",
       "teaser": "Selbstorganisation klingt modern – doch solange Eigentümer das letzte Wort haben, bleibt Mitbestimmung im Betrieb eine Illusion.",
       "url": "https://www.heise.de/-11208233",
       "image_title": "Inbus-Satz mit Bleistift und Leiste mit Wahlzettel"
-    },
-    {
-      "title": "WM 2026: Fußball im Schatten des Krieges",
-      "teaser": "Pässe, Profit, Propaganda: Mit dem Turnier in den USA, Kanada und Mexiko steht ein sportliches Großereignis vor der Tür – wer gewinnt bei dieser WM wirklich?",
-      "url": "https://www.heise.de/-11212094",
-      "image_title": "Jahreszahl 2026 mit einem Fußball im Vordergrund in einem Stadion"
     },
     {
       "title": "Robomobbing: Wenn Mitarbeitende KI bewusst blockieren",
@@ -782,9 +781,9 @@
       "url": "https://t3n.de/magazin/leadership-professorin-warnt-der-trend-geht-klar-in-richtung-top-down-und-druckkulturen-1730570/"
     },
     {
-      "title": "NordLayer im Test: VPN für Unternehmen",
-      "teaser": "Bedrohungsschutz, Compliance-Regelungen und mehr: Das Firmen-VPN NordLayer verspricht umfassende Sicherheitsfunktionen für Unternehmen. Was kann der Dienst?",
-      "url": "https://www.heise.de/download/specials/Nordlayer-im-Test-Sicherheit-Compliance-Bedrohungserkennung-11200022"
+      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
+      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
+      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
     },
     {
       "title": "Desinfec't",
