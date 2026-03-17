@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-17T06:48:50",
+  "timestamp": "2026-03-17T07:45:18",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -26,7 +26,23 @@
   ],
   "articles": [
     {
-      "title": "Tüv: Zahlreiche Aufzüge nicht gegen Cyberangriffe geschützt",
+      "title": "Schuldaten im Darknet veröffentlicht: Betroffener reicht Beschwerde ein",
+      "url": "https://www.heise.de/news/Schuldaten-im-Darknet-veroeffentlicht-Betroffener-reicht-Beschwerde-ein-11203688.html"
+    },
+    {
+      "title": "München: Tempo 30 am Ring bleibt vorerst",
+      "url": "https://www.heise.de/news/Muenchen-Tempo-30-am-Ring-bleibt-vorerst-11213154.html"
+    },
+    {
+      "title": "Mercedes C EQ: Wie fährt sich die elektrische C-Klasse?",
+      "url": "https://www.heise.de/news/Mercedes-C-EQ-Wie-faehrt-sich-die-elektrische-C-Klasse-11212544.html"
+    },
+    {
+      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
+      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11206291.html"
+    },
+    {
+      "title": "Gefahr im Schacht: Viele Aufzüge ohne Schutz gegen Hacker",
       "url": "https://www.heise.de/news/Tuev-Zahlreiche-Aufzuege-nicht-gegen-Cyberangriffe-geschuetzt-11213144.html"
     },
     {
@@ -50,22 +66,6 @@
     {
       "title": "Dienstag: Chinas fährt Chipfertigung hoch, „Freiwillige Chatkontrolle“ endet",
       "url": "https://www.heise.de/news/Dienstag-Chinas-faehrt-Chipfertigung-hoch-Freiwillige-Chatkontrolle-endet-11213090.html"
-    },
-    {
-      "title": "Kyber-Rack: Nvidia zeigt Rubin-Ultra-Boards",
-      "url": "https://www.heise.de/news/Kyber-Rack-Nvidia-zeigt-Rubin-Ultra-Boards-11213070.html"
-    },
-    {
-      "title": "Urheberrecht: Encyclopaedia Britannica verklagt OpenAI wegen KI-Training",
-      "url": "https://www.heise.de/news/Urheberrecht-Encyclopaedia-Britannica-verklagt-OpenAI-wegen-KI-Training-11213022.html"
-    },
-    {
-      "title": "EU-Einigung scheitert: „Freiwillige Chatkontrolle“ endet",
-      "url": "https://www.heise.de/news/EU-Einigung-scheitert-Freiwillige-Chatkontrolle-endet-11213002.html"
-    },
-    {
-      "title": "Neural Rendering: Nvidia DLSS 5 soll Videospiele fotorealistisch machen",
-      "url": "https://www.heise.de/news/Neural-Rendering-Nvidia-DLSS-5-macht-Videospiele-fotorealistisch-11212965.html"
     },
     {
       "title": "Neural RenderingNvidia DLSS 5 soll Videospiele fotorealistisch machen",
@@ -102,9 +102,9 @@
       "image_title": "Ein Techniker installiert neue Hardware in einem Server-Rack."
     },
     {
-      "title": "Letzte Chance auf Top-AngeboteAmazon Spring Deals im Preis-Check",
-      "teaser": "Wir zeigen Top-Rabatte auf Smartphones, Luftreiniger, Saug- und Mähroboter bei den Amazon Spring Deals – nur noch heute.",
-      "url": "https://www.heise.de/bestenlisten/deals/amazon-spring-deals-im-preis-check-die-besten-angebote-im-ueberblick/srgndnl?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
+      "title": "Samsung, Xiaomi, Apple und Co.Top 10: Das beste Smartphone 2026 im Test",
+      "teaser": "High-End-Smartphones lassen kaum Wünsche offen – doch welches ist das Beste? Wir zeigen die besten Handys aus unseren Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-2026-im-test-samsung-xiaomi-apple-und-co/5qx1bd1?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
       "title": "Budget‑MacDas MacBook Neo im Test",
@@ -187,7 +187,36 @@
       "image_title": "Gimp 3.2 Splashscreen"
     },
     {
-      "title": "Tüv: Zahlreiche Aufzüge nicht gegen Cyberangriffe geschützt",
+      "title": "Schuldaten im Darknet veröffentlicht: Betroffener reicht Beschwerde ein",
+      "teaser": "Bereits Anfang 2025 haben Kriminelle mittels der Ransomware Lockbit Daten von über 40 Schulen in Rheinland-Pfalz abgegriffen. Diese sind nun öffentlich.",
+      "url": "https://www.heise.de/news/Schuldaten-im-Darknet-veroeffentlicht-Betroffener-reicht-Beschwerde-ein-11203688.html",
+      "image_title": "Mensch vor einem Laptop, auf dessen Bildschirm die Aufforderung nach einer Ransomware-Zahlung zu sehen ist"
+    },
+    {
+      "title": "München: Tempo 30 am Ring bleibt vorerst",
+      "teaser": "München hat die Eil-Beschwerde gegen Tempo 30 am Mittleren Ring zurückgenommen. Das Thema ist aber juristisch keineswegs beendet.",
+      "url": "https://www.heise.de/news/Muenchen-Tempo-30-am-Ring-bleibt-vorerst-11213154.html",
+      "image_title": "Dieter Reiter"
+    },
+    {
+      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
+      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Mercedes C EQ: Wie fährt sich die elektrische C-Klasse?",
+      "teaser": "Komfort und Dynamik gelingen der elektrischen C-Klasse ausgezeichnet. Mit hoher Ladeleistung und Reichweite addieren sie sich zu einem konkurrenzfähigen E-Auto.",
+      "url": "https://www.heise.de/news/Mercedes-C-EQ-Wie-faehrt-sich-die-elektrische-C-Klasse-11212544.html",
+      "image_title": "Mercedes-Benz C-Klasse EQ"
+    },
+    {
+      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
+      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
+      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11206291.html",
+      "image_title": "Workshop Mobile Device Management mit Intune"
+    },
+    {
+      "title": "Gefahr im Schacht: Viele Aufzüge ohne Schutz gegen Hacker",
       "teaser": "Die Zahl der vom Tüv festgestellten Mängel an Aufzügen ist 2025 deutlich gestiegen. Wesentlicher Grund dafür sind Defizite beim Thema Cybersicherheit.",
       "url": "https://www.heise.de/news/Tuev-Zahlreiche-Aufzuege-nicht-gegen-Cyberangriffe-geschuetzt-11213144.html",
       "image_title": "Finger auf Knöpfen eines Aufzugs"
@@ -197,11 +226,6 @@
       "teaser": "Der Kia EV4 Fastback ist auf den ersten Blick geradezu provokant gestaltet. Technisch ragt er nicht heraus, was für den Alltag mehr Vor- als Nachteile hat.",
       "url": "https://www.heise.de/tests/Kia-EV4-Fastback-im-Test-Provokation-auf-sanften-Pfoten-11199874.html",
       "image_title": "Kia EV4 Fastback"
-    },
-    {
-      "title": "Bleiben oder wechseln? Wann sich VMware & VCF 9 wirklich lohnen",
-      "teaser": "Die strategische Neuausrichtung von VMware durch Broadcom wirft wichtige Fragen auf. Im Live-Webcast am 19.3. um 11 Uhr erfahren Sie, welche Perspektiven VMware Cloud Foundation 9 bietet und ob sich eine Investition für Ihr Unternehmen lohnt.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/bleiben-oder-wechseln-wann-sich-vmware-vcf-9-wirklich-lohnen-5024/?source=hbsad_ersatz"
     },
     {
       "title": "Meta Ray-Ban Display: Update bringt Widgets, Reels und neue Spotify-Funktionen",
@@ -214,30 +238,6 @@
       "teaser": "Der Verfassungsschutz soll vom Datensammler zu einem aktiven Geheimdienst werden. Dazu muss der Informationsaustausch mit anderen Behörden verbessert werden.",
       "url": "https://www.heise.de/news/Echter-Geheimdienst-Verfassungsschutz-soll-mehr-Informationen-austauschen-11213112.html",
       "image_title": "Dienstgebäude des Bundesamt für Verfassungsschutz in Köln."
-    },
-    {
-      "title": "Dienstag: Chinas fährt Chipfertigung hoch, „Freiwillige Chatkontrolle“ endet",
-      "teaser": "7-nm-Chipproduktion von Hua Hong + EU-Einigung gescheitert + Streit um KI-Training + KI-Modell bastelt fotorealistische Grafik + Altersverifikation für Nutzer",
-      "url": "https://www.heise.de/news/Dienstag-Chinas-faehrt-Chipfertigung-hoch-Freiwillige-Chatkontrolle-endet-11213090.html",
-      "image_title": "Nahaufnahme einer Maschine, die Chips von einem Silizium-Wafer entnimmt und auf ein Substrat aufbringt, dazu Text: DIENSTAG Chipherstellung, Chatkontrolle, Urheberrecht, Neural Rendering & Linux"
-    },
-    {
-      "title": "Kyber-Rack: Nvidia zeigt Rubin-Ultra-Boards",
-      "teaser": "Nvidias nächster KI-Beschleuniger Rubin Ultra bekommt eine neue Serverplattform ohne Kabel. Bis zu 144 kommen in ein System.",
-      "url": "https://www.heise.de/news/Kyber-Rack-Nvidia-zeigt-Rubin-Ultra-Boards-11213070.html",
-      "image_title": "Nvidia-Chef Jensen Huang zeigt Rubin Ultra auf einer Bühne"
-    },
-    {
-      "title": "Urheberrecht: Encyclopaedia Britannica verklagt OpenAI wegen KI-Training",
-      "teaser": "Die berühmte Online-Enzyklopädie wirft dem ChatGPT-Entwickler Urheberrechts- und Markenverletzungen vor und verklagt ihn auf Entschädigung und Unterlassung.",
-      "url": "https://www.heise.de/news/Urheberrecht-Encyclopaedia-Britannica-verklagt-OpenAI-wegen-KI-Training-11213022.html",
-      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
-    },
-    {
-      "title": "EU-Einigung scheitert: „Freiwillige Chatkontrolle“ endet",
-      "teaser": "Messenger durchsuchen Chats, um Kindesmissbrauch zu bekämpfen. Die dafür nötige Ausnahme von EU-Recht endet jetzt – eine erneute Verlängerung ist gescheitert.",
-      "url": "https://www.heise.de/news/EU-Einigung-scheitert-Freiwillige-Chatkontrolle-endet-11213002.html",
-      "image_title": "Die Symbole verschiedener Chat-Anwendungen auf dem Bildschirm eines Smartphones."
     },
     {
       "title": "Perfekte Wanderroute?Komoot mit ChatGPT ausprobiert: Wie KI bei der Wanderplanung unterstützt",
@@ -299,6 +299,16 @@
       "url": "https://www.heise.de/news/Deutsche-fahren-trotz-teurem-Sprit-nicht-weniger-Auto-11211161.html"
     },
     {
+      "title": "Home Assistant überragt alleTop 10: Die besten Smart-Home-Systeme im Test",
+      "teaser": "Das perfekte Steuergerät fürs intelligente Zuhause? Fehlanzeige. Doch es gibt Lösungen, die dem Ideal sehr nahekommen.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test-home-assistant-ueberragt-alle/mr3xkgr?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "iPhone kabellos nutzenTop 10: Die besten Wireless-Adapter für Carplay im Test",
+      "teaser": "Ein Wireless-Carplay-Adapter verbindet das iPhone kabellos mit dem Auto, wenn das Infotainment-System das nicht unterstützt.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-wirelessadapter-fuer-carplay-im-test-iphone-kabellos-nutzen/wwqt5v6?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+    },
+    {
       "title": "Testsieger mit 100 Watt für 39 EuroTop 10: Das beste Mehrfach-USB-Ladegerät",
       "teaser": "USB-Ladegeräte mit mehreren Anschlüssen laden Laptop, Handy oder Konsole gleichzeitig und benötigen nur eine Steckdose.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-mehrfach-usb-ladegeraet-testsieger-mit-100-watt-fuer-39-euro/m0p9tk4?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
@@ -307,16 +317,6 @@
       "title": "Testsieger misst BlutdruckTop 10: Die beste Smartwatch mit EKG im Test",
       "teaser": "Vorhofflimmern bleibt häufig unbemerkt. Smartwatches mit EKG können Herzrhythmusstörungen frühzeitig erkennen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-im-test-testsieger-misst-blutdruck/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "iPhone kabellos nutzenTop 10: Die besten Wireless-Adapter für Carplay im Test",
-      "teaser": "Ein Wireless-Carplay-Adapter verbindet das iPhone kabellos mit dem Auto, wenn das Infotainment-System das nicht unterstützt.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-wirelessadapter-fuer-carplay-im-test-iphone-kabellos-nutzen/wwqt5v6?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Home Assistant überragt alleTop 10: Die besten Smart-Home-Systeme im Test",
-      "teaser": "Das perfekte Steuergerät fürs intelligente Zuhause? Fehlanzeige. Doch es gibt Lösungen, die dem Ideal sehr nahekommen.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-smart-home-systeme-im-test-home-assistant-ueberragt-alle/mr3xkgr?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
@@ -331,9 +331,28 @@
       "image_title": "heise+ Jahresabo"
     },
     {
-      "title": "Top 10: Das beste Smartphone 2026 im Test",
-      "teaser": "High-End-Smartphones lassen kaum Wünsche offen – doch welches ist das Beste? Wir zeigen die besten Handys aus unseren Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smartphone-2026-im-test-samsung-xiaomi-apple-und-co/5qx1bd1?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+      "title": "Dienstag: Chinas fährt Chipfertigung hoch, „Freiwillige Chatkontrolle“ endet",
+      "teaser": "7-nm-Chipproduktion von Hua Hong + EU-Einigung gescheitert + Streit um KI-Training + KI-Modell bastelt fotorealistische Grafik + Altersverifikation für Nutzer",
+      "url": "https://www.heise.de/news/Dienstag-Chinas-faehrt-Chipfertigung-hoch-Freiwillige-Chatkontrolle-endet-11213090.html",
+      "image_title": "Nahaufnahme einer Maschine, die Chips von einem Silizium-Wafer entnimmt und auf ein Substrat aufbringt, dazu Text: DIENSTAG Chipherstellung, Chatkontrolle, Urheberrecht, Neural Rendering & Linux"
+    },
+    {
+      "title": "Kyber-Rack: Nvidia zeigt Rubin-Ultra-Boards",
+      "teaser": "Nvidias nächster KI-Beschleuniger Rubin Ultra bekommt eine neue Serverplattform ohne Kabel. Bis zu 144 kommen in ein System.",
+      "url": "https://www.heise.de/news/Kyber-Rack-Nvidia-zeigt-Rubin-Ultra-Boards-11213070.html",
+      "image_title": "Nvidia-Chef Jensen Huang zeigt Rubin Ultra auf einer Bühne"
+    },
+    {
+      "title": "Urheberrecht: Encyclopaedia Britannica verklagt OpenAI wegen KI-Training",
+      "teaser": "Die berühmte Online-Enzyklopädie wirft dem ChatGPT-Entwickler Urheberrechts- und Markenverletzungen vor und verklagt ihn auf Entschädigung und Unterlassung.",
+      "url": "https://www.heise.de/news/Urheberrecht-Encyclopaedia-Britannica-verklagt-OpenAI-wegen-KI-Training-11213022.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
+    },
+    {
+      "title": "EU-Einigung scheitert: „Freiwillige Chatkontrolle“ endet",
+      "teaser": "Messenger durchsuchen Chats, um Kindesmissbrauch zu bekämpfen. Die dafür nötige Ausnahme von EU-Recht endet jetzt – eine erneute Verlängerung ist gescheitert.",
+      "url": "https://www.heise.de/news/EU-Einigung-scheitert-Freiwillige-Chatkontrolle-endet-11213002.html",
+      "image_title": "Die Symbole verschiedener Chat-Anwendungen auf dem Bildschirm eines Smartphones."
     },
     {
       "title": "Chinas zweitgrößter Chipfertiger startet angeblich 7-Nanometer-Produktion",
@@ -388,6 +407,11 @@
       "image_title": "Kia EV2 Heck"
     },
     {
+      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
+      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
+    },
+    {
       "title": "KI-Update kompakt: AI Act, Groundsource, NemoClaw, Perplexity Computer",
       "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-AI-Act-Groundsource-NemoClaw-Perplexity-Computer-11212269.html",
@@ -403,11 +427,6 @@
       "teaser": "Amazon S3 erlaubt jetzt kontogebundene Bucket-Namen. Das beendet Bucketsquatting bei neuen Buckets und vereinfacht die Namensvergabe in Multi-Account-Setups.",
       "url": "https://www.heise.de/news/AWS-S3-Account-Regional-Namespaces-machen-Bucketsquatting-den-Garaus-11212376.html",
       "image_title": "Oranges AWS-Logo mit Eimern und Wolken, blauer Hintergrund"
-    },
-    {
-      "title": "Digitale Souveränität oder Cloud-Abhängigkeit?",
-      "teaser": "Auch bei der Verwaltung von Endgeräten muss klar geregelt sein, wer auf Daten und Infrastrukturen zugreifen kann („souveräne Kontrolle“). Genau darum geht es in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/digitale-souveraenitaet-oder-cloud-abhaengigkeit-uem-zwischen-cloud-act-dsgvo-5020/?source=hbsad-ersatz"
     },
     {
       "title": "Fairphone 6: Android-16-Update startet früher als geplant",
@@ -451,24 +470,6 @@
       "image_title": ","
     },
     {
-      "title": "Termix 2.0.0: Vom SSH-Client zum Remote-Desktop-Allrounder",
-      "teaser": "Der Open-Source-SSH-Client Termix erweitert sich in Version 2.0.0 um Remote-Desktop-Protokolle. Zudem behebt das Release kritische Fehler unter Linux.",
-      "url": "https://www.heise.de/news/Termix-2-0-0-SSH-Client-unterstuetzt-jetzt-RDP-VNC-und-Telnet-11212358.html",
-      "image_title": "Termix-Client mit Schriftzug TERMIX"
-    },
-    {
-      "title": "Omnibus AI Act: Fristverlängerung und Deepfake-Verbot",
-      "teaser": "Hochrisiko-KI-Systeme sollen in der EU erst später verboten werden. Neu geplant ist ein Verbot für bestimmte Deepfakes.",
-      "url": "https://www.heise.de/news/Omnibus-AI-Act-Fristverlaengerung-und-Deepfake-Verbot-11211968.html",
-      "image_title": "Justizia"
-    },
-    {
-      "title": "Einfach aufgebauter Fahrradroboter zeigt Sprünge und Tricks",
-      "teaser": "Mountainbiker fahren auf zwei Rädern elegant auch durch rumpeliges Gelände. Das sollte doch auch für einen Roboter machbar sein.",
-      "url": "https://www.heise.de/news/Einfach-aufgebauter-Fahrradroboter-zeigt-Spruenge-und-Tricks-11212082.html",
-      "image_title": "Das UMV legt Sprünge hin, kann auf dem Hinterrad und in unwegsamen Gelände fahren."
-    },
-    {
       "title": "Relativ gewichtiges MacBook Neo: Teardown verrät den Hintergrund",
       "url": "https://www.heise.de/news/MacBook-Neo-Warum-Apples-Einsteiger-Notebook-vergleichsweise-schwer-ist-11211410.html",
       "image_title": "Trackpad des MacBook Neo auf der Waage"
@@ -479,8 +480,9 @@
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
-      "title": "Qwen3.5-Familie: Feuerwerk neuer LLMs von Alibaba",
-      "url": "https://www.heise.de/hintergrund/Qwen3-5-Familie-Feuerwerk-neuer-LLMs-von-Alibaba-11209718.html"
+      "title": "Termix 2.0.0: Vom SSH-Client zum Remote-Desktop-Allrounder",
+      "url": "https://www.heise.de/news/Termix-2-0-0-SSH-Client-unterstuetzt-jetzt-RDP-VNC-und-Telnet-11212358.html",
+      "image_title": "Termix-Client mit Schriftzug TERMIX"
     },
     {
       "title": "Transrapid 2.0: Bundesverkehrsministerium plant Comeback für den ÖPNV",
@@ -488,14 +490,14 @@
       "image_title": "Magnetschwebebahn, Hochgeschwindigkeitszug und Flugzeug"
     },
     {
+      "title": "Einfach aufgebauter Fahrradroboter zeigt Sprünge und Tricks",
+      "url": "https://www.heise.de/news/Einfach-aufgebauter-Fahrradroboter-zeigt-Spruenge-und-Tricks-11212082.html",
+      "image_title": "Das UMV legt Sprünge hin, kann auf dem Hinterrad und in unwegsamen Gelände fahren."
+    },
+    {
       "title": "Hinter der Milchstraße versteckt: Supercluster Vela deutlich größer als gedacht",
       "url": "https://www.heise.de/news/Von-der-Milchstrasse-verdeckt-Supercluster-Vela-deutlich-groesser-als-gedacht-11209210.html",
       "image_title": "Mehrere Flecken mit Beschriftungen wie Vela und Shapley"
-    },
-    {
-      "title": "Australische 100-kW-Laserwaffe wehrt 20 Drohnen pro Minute ab",
-      "url": "https://www.heise.de/news/Australische-100-kW-Laserwaffe-wehrt-20-Drohnen-pro-Minute-ab-10516272.html",
-      "image_title": "Hochenergielaser-System auf einem Lkw."
     },
     {
       "title": "iOS 27: Keine großen Veränderungen bei Liquid Glass zu erwarten",
@@ -636,21 +638,21 @@
       "url": "https://www.heise.de/en/news/Perplexity-builds-Personal-Computer-based-on-Mac-mini-11209925.html"
     },
     {
+      "title": "Passwortmanager: Gute Gründe für europäische Clouds oder Self Hosting",
+      "teaser": "Einen Passwortmanager sollte jeder nutzen. Die bekanntesten sind jedoch aus Gründen nicht unbedingt die beste Wahl.",
+      "url": "https://www.heise.de/ratgeber/Passwortmanager-Gute-Gruende-fuer-europaeische-Clouds-oder-Self-Hosting-11172904.html"
+    },
+    {
+      "title": "Wurlitzer E-Pianos: Kultmarke kommt zurück nach Deutschland",
+      "teaser": "Nach Jahren im Besitz großer Konzerne liegt die Marke wieder bei der Familie. Ein Gespräch über Plug ins, Markenstrategie und neue Instrumente.",
+      "url": "https://www.heise.de/hintergrund/Wurlitzer-E-Pianos-Kultmarke-kommt-zurueck-nach-Deutschland-11203858.html",
+      "image_title": "Wurlitzer"
+    },
+    {
       "title": "c’t-Webinar: Linux für Ein- und Umsteiger – Installation, Praxis, Alltag",
       "teaser": "Funktionierende Treiber, Software per Mausklick – und das mit Linux. Das Webinar zeigt, wie der Umstieg gelingt, ganz ohne Kommandozeilen-Trauma.",
       "url": "https://www.heise.de/news/c-t-Webinar-Linux-fuer-Ein-und-Umsteiger-Installation-Praxis-Alltag-11207371.html",
       "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
-    },
-    {
-      "title": "Bit-Rauschen: Wer liefern kann, ist klar im Vorteil",
-      "teaser": "Apple will ein größeres Stück vom Notebookmarkt. Pläne für Weltraumrechenzentren zerpflückt ein Experte als „Wahnsinn“. Google kauft mehr Ökostrom.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Wer-liefern-kann-ist-klar-im-Vorteil-11138004.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
-    },
-    {
-      "title": "Passwortmanager: Gute Gründe für europäische Clouds oder Self Hosting",
-      "teaser": "Einen Passwortmanager sollte jeder nutzen. Die bekanntesten sind jedoch aus Gründen nicht unbedingt die beste Wahl.",
-      "url": "https://www.heise.de/ratgeber/Passwortmanager-Gute-Gruende-fuer-europaeische-Clouds-oder-Self-Hosting-11172904.html"
     },
     {
       "title": "Lautlos, leicht, leistungsstarkDas MacBook Air M5 im Test",
@@ -750,22 +752,22 @@
       "image_title": "Blue,Luxury,Suv,Car,Fueling,At,Gas,Station.,Refuel,Fill"
     },
     {
-      "title": "Wolf ins Jagdgesetz: Ein Streit, der noch lange nicht endet",
-      "teaser": "Naturschützer warnen: Weniger Wölfe könnten die Zahl der Nutztierrisse sogar erhöhen – und das neue Gesetz ist rechtlich umstritten.",
-      "url": "https://www.heise.de/-11207477",
-      "image_title": "Wolf im Fadenkreuz"
-    },
-    {
-      "title": "New Work: Mitbestimmung endet dort, wo Eigentum beginnt",
-      "teaser": "Selbstorganisation klingt modern – doch solange Eigentümer das letzte Wort haben, bleibt Mitbestimmung im Betrieb eine Illusion.",
-      "url": "https://www.heise.de/-11208233",
-      "image_title": "Inbus-Satz mit Bleistift und Leiste mit Wahlzettel"
+      "title": "Deutschland und sein Elend mit der Atomkraft",
+      "teaser": "Mehrheit der Deutschen hält den Atomausstieg für einen Fehler – doch die wahren Kosten der Kernkraft-Renaissance werden kaum diskutiert.",
+      "url": "https://www.heise.de/-11210177",
+      "image_title": "Hände drehen Atomzeichen in Ziffernblatt zurück"
     },
     {
       "title": "Kharg Island: USA greifen Irans Öl-Drehkreuz an",
       "teaser": "Die USA bombardieren militärische Ziele auf Kharg Island. Trump droht mit Angriffen auf die Ölinfrastruktur. Der Iran warnt vor Vergeltung.",
       "url": "https://www.heise.de/-11211184",
       "image_title": "Flagge der USA und des Irans auf einer Betonwand mit Flugschatten"
+    },
+    {
+      "title": "Krieg ohne Ziel: Trumps gefährlichste Strategie",
+      "teaser": "Trump fährt Angriffe ohne Ziel – ein alarmierender Trend seit dem \"Krieg gegen den Terror\". Taktik ersetzt bei ihm Strategie. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/-11212310",
+      "image_title": "Eine Stadt mit dramatischer Beleuchtung"
     },
     {
       "title": "Robomobbing: Wenn Mitarbeitende KI bewusst blockieren",
