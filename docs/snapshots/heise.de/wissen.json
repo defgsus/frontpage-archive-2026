@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T10:39:10",
+  "timestamp": "2026-03-18T11:36:15",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,6 +26,18 @@
   ],
   "articles": [
     {
+      "title": "RWTH baut Testzentrum für Drohnen in Aldenhoven",
+      "teaser": "Bisher arbeiten die Wissenschaftler im Drohnentestzentrum in Aldenhoven. Am Dienstag erfolgte der erste Spatenstich für den Bau von festen Gebäuden.",
+      "url": "https://www.heise.de/news/RWTH-baut-Testzentrum-fuer-Drohnen-in-Aldenhoven-11215634.html",
+      "image_title": "Drohne mit Operator im Hintergrund"
+    },
+    {
+      "title": "Asteroidensonde Hera der ESA absolviert größtes Manöver auf dem Weg zu Didymos",
+      "teaser": "Hera soll bei Didymos und seinem Begleiter Dimorphos ermitteln, welche Folgen der Einschlag der Dart-Sonde hatte. Jetzt hat die ESA-Sonde final Kurs gesetzt.",
+      "url": "https://www.heise.de/news/Asteroidensonde-Hera-der-ESA-absolviert-groesstes-Manoever-auf-dem-Weg-zu-Didymos-11215264.html",
+      "image_title": "Künstlerische Darstellung von Hera, zwei mitgeführten Cubesats und einem Asteroiden"
+    },
+    {
       "title": "Studie: Wie sich Wärmebildkameras in autonomen Fahrzeugen austricksen lassen",
       "teaser": "Schwachstellen in der Bildverarbeitung von Wärmebildkameras können autonomen Fahrzeugen und Drohnen Hindernisse vorgaukeln, wo keine sind. Es gibt aber Abhilfe.",
       "url": "https://www.heise.de/news/Studie-Wie-sich-Waermebildkameras-in-autonomen-Fahrzeugen-austricksen-lassen-11215070.html",
@@ -36,18 +48,6 @@
       "teaser": "Ein prinzipielles Ja oder Nein zu einer Organspende nach dem Tod kann man auf Papier festhalten – oder elektronisch. Wie wird das inzwischen genutzt?",
       "url": "https://www.heise.de/news/Digitales-Organspende-Register-Bereits-ueber-500-000-Eintraege-11215140.html",
       "image_title": "Laptop auf dem Tisch; die Webseite des Organspenderegisters ist offen; in der Hand ein Smartphone mit der Ausweis-App"
-    },
-    {
-      "title": "AnalyseWeshalb die Forderung nach der Rückkehr der Atomenergie Unsinn ist",
-      "teaser": "Ursula von der Leyen hat den Atomausstieg als Fehler bezeichnet und hohe Strompreise kritisiert. AKWs würden diese steigern.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Weshalb-die-Forderung-nach-der-Rueckkehr-der-Atomenergie-Unsinn-ist-11214643.html",
-      "image_title": "Stillgelegtes Atomkraftwerk in Stade"
-    },
-    {
-      "title": "CERNAufgerüsteter LHCb-Detektor entdeckt schweres Proton-Pendant",
-      "teaser": "Das LHCb-Experiment hat das Ξcc⁺ nachgewiesen – ein protonenähnliches Teilchen mit zwei Charm-Quarks und vierfacher Protonenmasse.",
-      "url": "https://www.heise.de/news/CERN-Aufgeruesteter-LHCb-Detektor-entdeckt-schweres-Proton-Pendant-11214835.html",
-      "image_title": "Drei Quarks, zwei mit 'c' und eines mit 'd', innerhalb einer roten Hülle."
     },
     {
       "title": "HintergrundWie vor 25 Jahren eine „illegale“ Primzahl entstand",
@@ -61,6 +61,18 @@
     {
       "title": "HintergrundQuantencomputing unter Druck: Was bleibt vom Quantenvorteil im KI-Zeitalter?",
       "url": "https://www.heise.de/hintergrund/Quantencomputing-unter-Druck-Was-bleibt-vom-Quantenvorteil-im-KI-Zeitalter-11102037.html"
+    },
+    {
+      "title": "Analyse: Weshalb die Forderung nach der Rückkehr der Atomenergie Unsinn ist",
+      "teaser": "Ursula von der Leyen hat den Atomausstieg als Fehler bezeichnet und hohe Strompreise kritisiert. Mit Atomkraft werden diese steigen, analysiert Werner Pluta.",
+      "url": "https://www.heise.de/hintergrund/Analyse-Weshalb-die-Forderung-nach-der-Rueckkehr-der-Atomenergie-Unsinn-ist-11214643.html",
+      "image_title": "Stillgelegtes Atomkraftwerk in Stade"
+    },
+    {
+      "title": "CERN: Aufgerüsteter LHCb-Detektor entdeckt schweres Proton-Pendant",
+      "teaser": "Das LHCb-Experiment am CERN hat das Ξcc⁺ nachgewiesen – ein protonenähnliches Teilchen mit zwei Charm-Quarks und vierfacher Protonenmasse.",
+      "url": "https://www.heise.de/news/CERN-Aufgeruesteter-LHCb-Detektor-entdeckt-schweres-Proton-Pendant-11214835.html",
+      "image_title": "Drei Quarks, zwei mit 'c' und eines mit 'd', innerhalb einer roten Hülle."
     },
     {
       "title": "Menschliche Blähungen: Forscher messen deutlich mehr „Ereignisse“ als gedacht",
@@ -136,17 +148,6 @@
       "teaser": "Mit einer Reform der Förderrichtlinien will Schnieder die Magnettechnologie als moderne und hocheffiziente Alternative zu U-Bahnen im Nahverkehr etablieren.",
       "url": "https://www.heise.de/news/Magnetschwebebahn-Verkehrsminister-Schnieder-plant-das-Comeback-auf-Stelzen-11211284.html",
       "image_title": "Magnetschwebebahn, Hochgeschwindigkeitszug und Flugzeug"
-    },
-    {
-      "title": "KI-Update Deep-Dive: KI im Recruiting zwischen Effizienz und Risiko",
-      "teaser": "Künstliche Intelligenz verspricht, den Bewerbungsprozess zu beschleunigen. Doch es gibt hohe rechtliche Hürden und die Gefahr der Diskriminierung.",
-      "url": "https://www.heise.de/news/KI-Update-Deep-Dive-KI-im-Recruiting-zwischen-Effizienz-und-Risiko-11205300.html",
-      "image_title": "KI-Update-Logo"
-    },
-    {
-      "title": "#TGIQF: Das Nerdquiz um den Ig-Nobelpreis",
-      "teaser": "Der alternative Ig-Nobelpreis beherrschte in dieser Woche nicht nur die Schlagzeilen, sondern führt im Nerdquiz auch durchs Wochenende. Knobeln Sie mit!",
-      "url": "https://www.heise.de/news/TGIQF-Das-Nerdquiz-um-den-Ig-Nobelpreis-11210337.html"
     },
     {
       "title": "NewsPentagon vergibt 20-Milliarden-Auftrag an Anduril",

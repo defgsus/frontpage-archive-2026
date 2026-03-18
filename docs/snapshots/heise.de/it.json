@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-18T10:39:09",
+  "timestamp": "2026-03-18T11:36:14",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Vorsicht, versteckte Kosten: Wenn Software nur technisch gedacht wird",
+      "title": "enterJS Integrate AI: KI‑Workflows in der Webentwicklung souverän einsetzen",
+      "teaser": "Die Online-Konferenz am 28. April zeigt Web Developern, wie sie KI sinnvoll in ihre Produkte integrieren. Ein Workshop behandelt KI-Workflows in der Praxis.",
+      "url": "https://www.heise.de/news/enterJS-Integrate-AI-KI-Workflows-in-der-Webentwicklung-souveraen-einsetzen-11213254.html",
+      "image_title": "enterJS Integrate AI"
+    },
+    {
+      "title": "AlertTelnet: Kritische Lücke erlaubt Einschleusen von Schadcode aus dem Netz",
+      "teaser": "Eine Lücke im telnetd der GNU Inetutils ermöglicht Angreifern aus dem Netz das Einschleusen von Schadcode – ohne vorherige Anmeldung.",
+      "url": "https://www.heise.de/news/Telnet-Kritische-Luecke-erlaubt-Einschleusen-von-Schadcode-aus-dem-Netz-11215518.html",
+      "image_title": "Security Alert"
+    },
+    {
+      "title": "EntwicklungskostenVorsicht, versteckte Kosten: Wenn Software nur technisch gedacht wird",
       "teaser": "Wer bei Software an der Fachlichkeit spart, zahlt am Ende drauf. Über die teuerste Entscheidung, die in Softwareprojekten kaum jemand als solche erkennt.",
       "url": "https://www.heise.de/blog/Vorsicht-versteckte-Kosten-Wenn-Software-nur-technisch-gedacht-wird-11209668.html",
       "image_title": "Geldscheine im Reisswolf"
@@ -36,18 +48,6 @@
       "teaser": "Auf der AI World in Frankfurt präsentierte Oracle Pläne für eine verteilte, souveräne und KI-fähige Cloud-Infrastruktur.",
       "url": "https://www.heise.de/news/Oracle-Souveraenitaetsversprechen-zwischen-Anspruch-und-Wirklichkeit-11215428.html",
       "image_title": "Oracle-Logo vor Firmengebäude"
-    },
-    {
-      "title": "Microsoft ergänzt Passkey-Option in Entra-ID-Registrierungskampagnen",
-      "teaser": "Ab April dieses Jahres will Microsoft Passkey-Unterstützung zu Entra-ID-Registrierungskampagnen hinzufügen.",
-      "url": "https://www.heise.de/news/Microsoft-ergaenzt-Passkey-Option-in-Entra-ID-Registrierungskampagnen-11215078.html",
-      "image_title": "Handy-Anmeldung vor Rechner-Bildschirm"
-    },
-    {
-      "title": "MozillaFirefox bekommt Maskottchen Kit und kostenloses VPN",
-      "teaser": "Mozilla gibt Firefox ein handgezeichnetes Maskottchen namens Kit. Zudem bringt Version 149 ein integriertes VPN und Split View.",
-      "url": "https://www.heise.de/news/Firefox-bekommt-Maskottchen-Kit-und-kostenloses-VPN-11215226.html",
-      "image_title": "Gesichtsausdrücke von Kit, Maskottchen von Mozilla Firefox"
     },
     {
       "title": "TestsSoftwareentwicklung: Aktuelle Features in C++26 im Test",
@@ -61,6 +61,24 @@
     {
       "title": "HintergrundWindows-Treiber löst Bremsen von PCIe-SSDs",
       "url": "https://www.heise.de/hintergrund/Windows-Treiber-loest-Bremsen-von-PCIe-SSDs-11151814.html"
+    },
+    {
+      "title": "Schwer zu finden: Apple spielt Background-Security-Improvement-Update aus",
+      "teaser": "Apple will mit sogenannten BSIs schneller Geräte aktualisieren, wenn es um kleinere Fixes geht. Das Problem: Die verstecken sich tief in den Einstellungen.",
+      "url": "https://www.heise.de/news/Schwer-zu-finden-Apple-spielt-Background-Security-Improvement-Update-aus-11215220.html",
+      "image_title": "Ub der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
+    },
+    {
+      "title": "Microsoft ergänzt Passkey-Option in Entra-ID-Registrierungskampagnen",
+      "teaser": "Ab April dieses Jahres will Microsoft Passkey-Unterstützung zu Entra-ID-Registrierungskampagnen hinzufügen.",
+      "url": "https://www.heise.de/news/Microsoft-ergaenzt-Passkey-Option-in-Entra-ID-Registrierungskampagnen-11215078.html",
+      "image_title": "Handy-Anmeldung vor Rechner-Bildschirm"
+    },
+    {
+      "title": "Firefox bekommt Maskottchen Kit und kostenloses VPN",
+      "teaser": "Mozilla gibt Firefox ein handgezeichnetes Maskottchen namens Kit. Zudem bringt Version 149 ein integriertes VPN und Split View.",
+      "url": "https://www.heise.de/news/Firefox-bekommt-Maskottchen-Kit-und-kostenloses-VPN-11215226.html",
+      "image_title": "Gesichtsausdrücke von Kit, Maskottchen von Mozilla Firefox"
     },
     {
       "title": "KI-Boom in Deutschland, Flaute in den USA: Neue Zahlen",
@@ -132,24 +150,6 @@
       "teaser": "Open-Source-Projekte leiden unter einer Flut von KI-generierten Änderungswünschen für den Code. Mit Geld aus der KI-Branche will die Linux Foundation helfen.",
       "url": "https://www.heise.de/news/KI-Slop-vs-Open-Source-KI-Branche-will-mit-12-5-Millionen-US-Dollar-helfen-11214917.html",
       "image_title": "Mehrere übereinandergelegte Bildschirme mit buntem Quellcode"
-    },
-    {
-      "title": "Nvidia attackiert mit dem ARM-Serverprozessor Vera auch AMD und Intel",
-      "teaser": "Server-Racks mit bis zu 22.528 CPU-Kernen: Nvidias Vera-CPU mit Olympus-Kernen kommt nicht nur im Gespann mit KI-Beschleunigern auf den Markt.",
-      "url": "https://www.heise.de/news/Nvidia-attackiert-mit-dem-ARM-Serverprozessor-Vera-auch-AMD-und-Intel-11214715.html",
-      "image_title": "Rack mit Servern mit Nvidia-CPU Vera"
-    },
-    {
-      "title": "Apple erfindet sich Neo | Mac & i-Podcast",
-      "teaser": "Das MacBook Neo schickt sich an, den PC-Markt aufzuwirbeln und signalisiert auch einen Umbruch bei Apple. Wir ordnen ein.",
-      "url": "https://www.heise.de/news/Apple-erfindet-sich-Neo-Mac-i-Podcast-11214669.html",
-      "image_title": "Apple erfindet sich Neo Mac & i-Podcast"
-    },
-    {
-      "title": "Bolt setzt für Robotaxis auf Nvidia-Technik",
-      "teaser": "Bolt hat eine Partnerschaft mit Nvidia angekündigt. Dessen Plattform für autonomes Fahren soll den Einsatz von Robotaxis in Europa beschleunigen.",
-      "url": "https://www.heise.de/news/Bolt-setzt-fuer-Robotaxis-auf-Nvidia-Technik-11214514.html",
-      "image_title": "Rückansicht eines Autos auf leerer Straße bei Nacht, darüber Logos von Bolt und Nvidia."
     },
     {
       "title": "NewsPentagon vergibt 20-Milliarden-Auftrag an Anduril",
