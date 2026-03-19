@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T19:38:39",
+  "timestamp": "2026-03-19T20:24:57",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,6 +25,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Integration in Codex: OpenAI übernimmt das Start-up Astral",
+      "url": "https://www.heise.de/news/Integration-in-Codex-OpenAI-uebernimmt-das-Start-up-Astral-11218568.html"
+    },
     {
       "title": "Top 10: Der beste Adapter für Android Auto Wireless",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-adapter-fuer-android-auto-wireless-handy-kabellos-verbinden/nv5rxl9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/tests/iPad-Air-M4-im-Test-Das-kann-Apples-neues-Tablet-11215722.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Alibaba Cloud erhöht Preise um bis zu 34 Prozent",
-      "url": "https://www.heise.de/news/Alibaba-Cloud-erhoeht-Preise-um-bis-zu-34-Prozent-11218284.html"
     },
     {
       "title": "War Opa bei den Nazis?16 Millionen NSDAP-Karten jetzt frei im Netz",
@@ -185,20 +185,26 @@
       "image_title": "Die Solardrohne von Luke Maximo Bell im Schwebeflug."
     },
     {
+      "title": "Integration in Codex: OpenAI übernimmt das Start-up Astral",
+      "teaser": "OpenAI baut mit der Übernahme des Python-Tool-Entwicklers Astral das Engagement im Bereich Coding weiter aus und will seine Codex-Plattform weiterentwickeln.",
+      "url": "https://www.heise.de/news/Integration-in-Codex-OpenAI-uebernimmt-das-Start-up-Astral-11218568.html",
+      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
+    },
+    {
       "title": "Top 10: Der beste Adapter für Android Auto Wireless",
       "teaser": "Wer das Android-Smartphone drahtlos mit dem Auto verbinden will, kann das Feature nachrüsten. Wir zeigen die besten Adapter.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-adapter-fuer-android-auto-wireless-handy-kabellos-verbinden/nv5rxl9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Astronomie: Braune Zwerge rotieren langsamer als riesige Gasplaneten",
       "teaser": "Zwar ähneln sich Braune Zwerge und riesige Gasplaneten sehr, deshalb ist die Abgrenzung schwierig. Nun wurde wohl ein entscheidender Unterschied gefunden.",
       "url": "https://www.heise.de/news/Astronomie-Braune-Zwerge-rotieren-langsamer-als-riesige-Gasplaneten-11218298.html",
       "image_title": "Staubring um einen schwach leuchtenden Himmelskörper"
-    },
-    {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Transform 2026: Was tun gegen den Transformation Overload?",
@@ -229,12 +235,6 @@
       "teaser": "Das US-Unternehmen Deep Fission will Atomkraftwerke tief unter der Erde bauen. Eine erste Probebohrung dient der Überprüfung des Konzepts.",
       "url": "https://www.heise.de/news/Deep-Fission-bohrt-fuer-unterirdische-Atomkraftwerke-11218356.html",
       "image_title": "Bohrstelle von Deep Fission in Parsons, Kansas"
-    },
-    {
-      "title": "Microsoft arbeitet an \"Medical Superintelligence\"",
-      "teaser": "Microsoft startet mit Copilot Health einen KI-Assistenten, der möglichst alle Gesundheitsdaten bündelt und analysiert – zunächst in den USA.",
-      "url": "https://www.heise.de/news/Zunaechst-in-den-USA-Microsoft-will-Weg-fuer-Medical-Superintelligence-ebnen-11217566.html",
-      "image_title": "Röntgenaufnahme von einem Fuß, Rezepte und andere Dateien und Vitaldaten in einem Werbevideo von Microsoft."
     },
     {
       "title": "Tschüss Big TechSichere E-Mail-Alternativen aus Europa",
@@ -328,6 +328,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Microsoft arbeitet an \"Medical Superintelligence\"",
+      "teaser": "Microsoft startet mit Copilot Health einen KI-Assistenten, der möglichst alle Gesundheitsdaten bündelt und analysiert – zunächst in den USA.",
+      "url": "https://www.heise.de/news/Zunaechst-in-den-USA-Microsoft-will-Weg-fuer-Medical-Superintelligence-ebnen-11217566.html",
+      "image_title": "Röntgenaufnahme von einem Fuß, Rezepte und andere Dateien und Vitaldaten in einem Werbevideo von Microsoft."
+    },
+    {
       "title": "iPad Air M4 im Test: Das kann Apples neues Tablet",
       "teaser": "Das iPad Air ist für Pro-Leistung ohne Pro-Preise bekannt. Apple hat es mit neueren Chips aufgewertet. Wir klären in diesem Test, was M4 und Wi-Fi 7 bringen.",
       "url": "https://www.heise.de/tests/iPad-Air-M4-im-Test-Das-kann-Apples-neues-Tablet-11215722.html",
@@ -399,15 +405,15 @@
       "image_title": "Brief"
     },
     {
+      "title": "Servermodernisierung bei Swisscom: mehr Leistung, weniger Verbrauch",
+      "teaser": "Telekommunikationsunternehmen stellen hohe Anforderungen an ihre IT-Infrastruktur. Dabei spielt die Wahl der Server-Hardware eine wichtige Rolle, wie diese Fallstudie zeigt.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/servermodernisierung-bei-swisscom-mehr-leistung-weniger-verbrauch/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
       "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11203412.html",
       "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
-    },
-    {
-      "title": "KI im Rechenzentrum: So planen Sie eine erfolgreiche Integrationsstrategie",
-      "teaser": "Nach anfänglicher Skepsis ist KI in der deutschen Wirtschaft mittlerweile weit verbreitet. Laut einer Bitkom-Studie nutzen 36 Prozent der deutschen Unternehmen KI, 47 Prozent planen den Einsatz.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/ki/ki-im-rechenzentrum-so-planen-sie-eine-erfolgreiche-integrationsstrategie/?source=hbsadersatz"
     },
     {
       "title": "Volkswagen: Prämie für Tarifbeschäftigte",
@@ -462,12 +468,6 @@
       "teaser": "Perseverance erforscht ausgetrocknete Flüsse auf dem Mars. Tief im Boden hat der Rover Hinweise auf Vorgänger gefunden.",
       "url": "https://www.heise.de/news/Perseverance-findet-Hinweise-auf-uraltes-Flusssystem-im-Marsboden-11217632.html",
       "image_title": "Ausgetrocknetes Flussdelta im Marskrater Jezero"
-    },
-    {
-      "title": "Richtig skalieren: Vom Monitoring Stack zur Observability-Plattform",
-      "teaser": "Wie der Weg vom simplen Monitoring zur skalierbaren Observability-Plattform gelingt, zeigt Dominik Schmidle in seinem Talk auf der Mastering Observability 2025.",
-      "url": "https://www.heise.de/hintergrund/Richtig-skalieren-Vom-Monitoring-Stack-zur-Observability-Plattform-11216684.html",
-      "image_title": "Systemadmin vor Überwachungsmonitoren"
     },
     {
       "title": "Google Maps zeigt künftig deutschlandweit Echtzeitdaten zum Nahverkehr",
@@ -651,9 +651,10 @@
       "url": "https://www.heise.de/hintergrund/Windows-Treiber-loest-Bremsen-von-PCIe-SSDs-11151814.html"
     },
     {
-      "title": "Internet per Glasfaser: Seine enorme Reserve und unerwartete Effekte",
-      "teaser": "Glasfaser hat Reserven für sehr lange Zeit: 100 Gbit/s zu Hause wären kein Problem. Paradoxerweise wird das Internet nach dem Wechsel manchmal sogar langsamer.",
-      "url": "https://www.heise.de/hintergrund/Internet-per-Glasfaser-Seine-enorme-Reserve-und-unerwartete-Effekte-11200072.html"
+      "title": "Microsoft AzureDeutsches Riesen-Rechenzentrum kann 520 Megawatt verheizen",
+      "teaser": "Microsoft investiert unter anderem in einen Rechenzentren-Cluster in NRW. Dafür steht ein halbes Gigawatt Leistung bereit.",
+      "url": "https://www.heise.de/news/Deutsches-Riesen-Rechenzentrum-von-Microsoft-Azure-kann-520-Megawatt-verheizen-11216718.html",
+      "image_title": "Erster Spatenstich für die Microsoft-Rechenzentren bei Bergheim/NRW."
     },
     {
       "title": "Budget‑MacDas MacBook Neo im Test",
@@ -691,28 +692,26 @@
       "image_title": "Cover von Buch The next Level"
     },
     {
-      "title": "So gelingen magische Landschaftsfotos: Niederlande im Nebel",
-      "teaser": "Flaches Land, viel Wasser, perfektes Licht: Warum die Niederlande ideal für Nebelfotos sind – mit Tipps zur Planung, Technik und Motiven.",
-      "url": "https://www.heise.de/ratgeber/So-gelingen-magische-Landschaftsfotos-Niederlande-im-Nebel-11213826.html",
-      "image_title": ", Alle Bilder: Albert Dros"
-    },
-    {
       "title": "Nikon Z5II, Z6III und ZR – Qualitätsmängel in Bauteilen erfordern Reparatur",
       "teaser": "Fehlerhafte Bauteile sorgen bei Nikon wieder einmal für Ärger. Die drei Kameras Z5II, Z6III und ZR sind betroffen, aber einige Nutzer können aufatmen.",
       "url": "https://www.heise.de/news/Erneuter-Nikon-Rueckruf-Reparaturen-an-Z5II-Z6III-und-ZR-noetig-11214597.html",
       "image_title": "Digitalkameras von Nikon"
     },
     {
-      "title": "Eigene KI‑Bildmaschine: So läuft Flux lokal auf dem PC",
-      "teaser": "Kein Abo, keine Cloud: Wir zeigen, wie Sie mit Flux und Pinokio einen KI‑Bildgenerator lokal installieren – und welche Hardware dafür nötig ist.",
-      "url": "https://www.heise.de/ratgeber/Eigene-KI-Bildmaschine-So-laeuft-Flux-lokal-auf-dem-PC-11206629.html",
-      "image_title": ", Alle Bilder: Tilo Gockel"
-    },
-    {
       "title": "Vom Tag in die Nacht gleiten: Click Boom Flash # 58 „Zeitraffer-Fotografie\"",
       "teaser": "„Nordlichter leben von Bewegung\", sagt Zeitraffer-Spezialist Gunther Wegner.",
       "url": "https://www.heise.de/news/Vom-Tag-in-die-Nacht-gleiten-Click-Boom-Flash-58-Zeitraffer-Fotografie-11207297.html",
       "image_title": "Zeitraffer"
+    },
+    {
+      "title": "Versteckte Kündigungsgebühren enden für Adobe mit Millionenstrafe",
+      "teaser": "Adobe legt einen Rechtsstreit über versteckte Kündigungsgebühren mit einer Geldstrafe bei, streitet aber ein Fehlverhalten ab.",
+      "url": "https://www.heise.de/news/Versteckte-Kuendigungsgebuehren-Millionenstrafe-fuer-Adobe-11211180.html"
+    },
+    {
+      "title": "Ausverkauf und die Rettung des schönen Bildes – die Fotonews der Woche 11/26",
+      "teaser": "Ein britischer Landkreis verscherbelt ein bedeutendes Fotoarchiv, Streit über Technik versus Kunst, und der Markt belohnt ausgerechnet das Unperfekte.",
+      "url": "https://www.heise.de/news/Ausverkauf-und-die-Rettung-des-schoenen-Bildes-die-Fotonews-der-Woche-11-26-11210712.html"
     },
     {
       "title": "Ein ÜberblickMicrosoft-Dienste eigenständig ohne Cloud betreiben",
@@ -757,22 +756,22 @@
       "image_title": "Rückansicht eines Autos auf leerer Straße bei Nacht, darüber Logos von Bolt und Nvidia."
     },
     {
-      "title": "USA: Wenn der Gegner zum moralischen Feind wird",
-      "teaser": "Eine Mehrheit der US-Amerikaner hält ihre Mitbürger für moralisch schlecht – ein globaler Ausreißer und ein Zeichen, wie politischer Streit in Verachtung kippt.",
-      "url": "https://www.heise.de/-11216107",
-      "image_title": "Schild eines Morales-Laden mit einem Hamburger"
+      "title": "Schwerer Proton-Bruder nach 50 Jahren nachgewiesen",
+      "teaser": "Am Teilchenbeschleuniger LHC am CERN wurde das sogenannte Ξcc⁺-Teilchen nachgewiesen – ein protonenähnliches Baryon mit vierfacher Protonenmasse.",
+      "url": "https://www.heise.de/-11215370",
+      "image_title": "ein schweres Proton"
     },
     {
-      "title": "Gegen Drohnen hilft wieder Blei: Die neue Logik moderner Luftabwehr",
-      "teaser": "Raketen sind zu teuer, Störsender zu unsicher: Systeme wie C-RAM setzen wieder auf Kanonenfeuer – und treiben mit Abfangdrohnen ein globales Wettrüsten an.",
-      "url": "https://www.heise.de/-11217065",
-      "image_title": "Grafik zeigt eine Abwehrkanone mit Gefechtsfeuer und Drohnen am Himmel"
+      "title": "Irans nukleare Schwelle: Wie nah ist Teheran tatsächlich an der Bombe?",
+      "teaser": "Der Konflikt um Irans Atomprogramm: Steht Teheran an der nuklearen Schwelle, ohne den letzten Schritt zu gehen? Eine Analyse der Unsicherheit.",
+      "url": "https://www.heise.de/-11211858",
+      "image_title": "Periodensystem-Symbol für Uran 235 mit verschiedenen Gelbflächen-Anteilen und iranische Atombombe"
     },
     {
-      "title": "Bundeswehr meldet deutlichen Bewerbungs-Anstieg",
-      "teaser": "Die Bundeswehr verzeichnet 2026 deutlich mehr Bewerbungen und Einstellungen. Trotz des Wachstums klafft eine Lücke zum Ziel. Reicht das für Freiwilligkeit?",
-      "url": "https://www.heise.de/-11215538",
-      "image_title": "Menschen gehen in einen Hubschrauber"
+      "title": "Wer KI verweigert, riskiert seine Karriere",
+      "teaser": "KI wird zur Karrierebedingung – ein Konzern überwacht bereits Login-Daten, um Beschäftigte zu identifizieren, die KI nicht nutzen.",
+      "url": "https://www.heise.de/-11212534",
+      "image_title": "Tastatur mit K, I, learn, help, work usw."
     },
     {
       "title": "Verbraucherschützer gegen Big Tech: Wie ein kleiner Verein Milliarden einklagt",
