@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T11:26:05",
+  "timestamp": "2026-03-19T12:34:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,8 +26,20 @@
   ],
   "articles": [
     {
-      "title": "Richtig skalieren: Vom Monitoring Stack zur Observability-Plattform",
-      "teaser": "Wie der Weg vom simplen Monitoring zur skalierbaren Observability-Plattform gelingt, zeigt Dominik Schmidle in seinem Talk auf der Mastering Observability 2025.",
+      "title": "20 Tage offline: Internetsperre im Iran jetzt die längste der Landesgeschichte",
+      "teaser": "Erst im Januar hat die Islamische Republik das Internet länger gesperrt als je zuvor. Nun wurde dieser Rekord gebrochen – mit dramatischen Folgen.",
+      "url": "https://www.heise.de/news/20-Tage-offline-Internetsperre-im-Iran-jetzt-die-laengste-der-Landesgeschichte-11217436.html",
+      "image_title": "Verzerrter Schriftzug \"Offline\""
+    },
+    {
+      "title": "Perplexitys KI-Browser Comet schlägt auf iOS ein",
+      "teaser": "Mit Verzögerung kommt Comet auf iPhones und iPads. Die KI soll sich für den Nutzer durchs Web klicken, greift dafür aber offenbar tief in die Trickkiste.",
+      "url": "https://www.heise.de/news/Perplexitys-KI-Browser-Comet-schlaegt-auf-iOS-ein-11217579.html",
+      "image_title": "Ein iPad mit Perplexity"
+    },
+    {
+      "title": "Richtig skalierenVom Monitoring Stack zur Observability-Plattform",
+      "teaser": "Den Weg vom simplen Monitoring zur skalierbaren Observability-Plattform zeigt Dominik Schmidle auf der Mastering Observability 2025.",
       "url": "https://www.heise.de/hintergrund/Richtig-skalieren-Vom-Monitoring-Stack-zur-Observability-Plattform-11216684.html",
       "image_title": "Systemadmin vor Überwachungsmonitoren"
     },
@@ -36,18 +48,6 @@
       "teaser": "Für die Digitalisierung von Niedersachsens Schulen gibt das Land den Städten und Landkreisen künftig mehr Geld. Darauf hat sich die Landesregierung geeinigt.",
       "url": "https://www.heise.de/news/Niedersachsen-Mehr-Geld-fuer-Schul-IT-Land-einigt-sich-mit-Kommunen-11217540.html",
       "image_title": "Online,Education.,Books,And,Tablet,On,The,Desktop,On,Blackboard"
-    },
-    {
-      "title": "Fake-Entwickler aus Pjöngjang: Wie Nordkorea westliche Unternehmen unterwandert",
-      "teaser": "Gefälschte Profile und KI-Gesichter: Nordkorea schleust laut US-Behörden IT-Arbeiter in westliche Firmen ein, um deren Gehälter für sein Atomprogramm zu nutzen.",
-      "url": "https://www.heise.de/news/Nordkorea-schleust-IT-Arbeiter-in-westliche-Firmen-ein-USA-verhaengen-Sanktionen-11217484.html",
-      "image_title": "Flagge Nordkoreas"
-    },
-    {
-      "title": "Last Call: MCP verstehen und KI-Agenten im Alltag nutzen – c’t-Webinar",
-      "teaser": "KI-Agenten übernehmen weit mehr als Textarbeit. Im Webinar erfahren Sie, wie MCP funktioniert, welche Chancen es bietet und wo Vorsicht geboten ist.",
-      "url": "https://www.heise.de/news/Last-Call-MCP-verstehen-und-KI-Agenten-im-Alltag-nutzen-c-t-Webinar-11211708.html",
-      "image_title": "Roboter hält geöffneten Laptop, der ein Flugzeugsymbol und einen grünen Haken zeigt"
     },
     {
       "title": "TestsUSB-Ladegerät für bis zu zehn Geräte für 33 Euro im Test",
@@ -61,6 +61,18 @@
     {
       "title": "HintergrundDie SIEM-Metamorphose: Architekturfallen und die Kosten der Cloud",
       "url": "https://www.heise.de/hintergrund/Die-SIEM-Metamorphose-Architekturfallen-und-die-Kosten-der-Cloud-11207419.html"
+    },
+    {
+      "title": "Fake-Entwickler aus Pjöngjang: Wie Nordkorea westliche Unternehmen unterwandert",
+      "teaser": "Gefälschte Profile und KI-Gesichter: Nordkorea schleust laut US-Behörden IT-Arbeiter in westliche Firmen ein, um deren Gehälter für sein Atomprogramm zu nutzen.",
+      "url": "https://www.heise.de/news/Nordkorea-schleust-IT-Arbeiter-in-westliche-Firmen-ein-USA-verhaengen-Sanktionen-11217484.html",
+      "image_title": "Flagge Nordkoreas"
+    },
+    {
+      "title": "Last Call: MCP verstehen und KI-Agenten im Alltag nutzen – c’t-Webinar",
+      "teaser": "KI-Agenten übernehmen weit mehr als Textarbeit. Im Webinar erfahren Sie, wie MCP funktioniert, welche Chancen es bietet und wo Vorsicht geboten ist.",
+      "url": "https://www.heise.de/news/Last-Call-MCP-verstehen-und-KI-Agenten-im-Alltag-nutzen-c-t-Webinar-11211708.html",
+      "image_title": "Roboter hält geöffneten Laptop, der ein Flugzeugsymbol und einen grünen Haken zeigt"
     },
     {
       "title": "Firmen investieren kräftig in KI – und sind oft ernüchtert",
@@ -135,16 +147,6 @@
       "teaser": "Wer eine XDR-Strategie aufbaut, benötigt ein Fundament aus Säulen. Zwei davon sind: Absicherung und Härtung von Endpoints und der Schutz der Identitäten im AD.",
       "url": "https://www.heise.de/ratgeber/Mit-Defender-XDR-AD-und-lokale-Endpunkte-sichern-11196628.html",
       "image_title": ","
-    },
-    {
-      "title": "Klebeglasfaser: Schnelles Internet in allen Räumen oder unnützer Pfusch?",
-      "teaser": "Fiber to the Room bringt schnelles Internet mittels „unsichtbarer“ Glasfasern bis in jeden Raum. Wir haben zwei Systeme ausprobiert.",
-      "url": "https://www.heise.de/ratgeber/Klebeglasfaser-Schnelles-Internet-in-allen-Raeumen-oder-unnuetzer-Pfusch-11153648.html"
-    },
-    {
-      "title": "#heiseshow: Microsoft und KI, Magnetschwebebahn, Ladebordsteine",
-      "teaser": "In der #heiseshow: Microsoft bremst bei Windows-KI, der Transrapid feiert Comeback-Pläne im ÖPNV und es soll landesweit Ladebordsteine geben.",
-      "url": "https://www.heise.de/news/heiseshow-Microsoft-und-KI-Magnetschwebebahn-Ladebordsteine-11216750.html"
     },
     {
       "title": "NewsNach nur drei Monaten: Samsung stellt Verkauf des Galaxy Z TriFold ein",
