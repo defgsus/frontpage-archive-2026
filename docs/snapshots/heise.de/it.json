@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-19T14:00:27",
+  "timestamp": "2026-03-19T15:40:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,28 @@
   ],
   "articles": [
     {
+      "title": "KI-Nutzung: Claude-Nutzer offenbaren ihre Hoffnungen und Ängste",
+      "teaser": "Der KI-Entwickler Anthropic hat 80.508 Nutzer des Sprachmodells Claude befragt. Die Ergebnisse zeigen eine tiefe Spaltung zwischen Hoffnungen und Ängsten.",
+      "url": "https://www.heise.de/news/KI-Nutzung-Claude-Nutzer-offenbaren-ihre-Hoffnungen-und-Aengste-11218166.html",
+      "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
+    },
+    {
+      "title": "Endkunden gebeuteltMicron macht so viel Umsatz wie AMD und Intel zusammen",
+      "teaser": "Micron verbucht Rekorde an allen Fronten. Der Umsatz explodiert um den Faktor 3. Ein Ende ist nicht in Sicht.",
+      "url": "https://www.heise.de/news/Speicherkrise-Micron-macht-so-viel-Umsatz-wie-AMD-und-Intel-zusammen-11218044.html",
+      "image_title": "Renderbild von DRAM-Chips auf einer Platine"
+    },
+    {
       "title": "DSGVO: EuGH schiebt systematischen Auskunftsmissbräuchen Riegel vor",
       "teaser": "Wer Auskunftsansprüche nur nutzt, um später künstlich Schadenersatzforderungen zu konstruieren, geht künftig leer aus. Das hat der EuGH jetzt entschieden.",
       "url": "https://www.heise.de/news/DSGVO-EuGH-schiebt-systematischen-Auskunftsmissbraeuchen-Riegel-vor-11217908.html",
       "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
     },
     {
-      "title": "Beispiellose Malware-Angriffe auf iPhones: Apple mahnt zum Update",
-      "teaser": "Angreifer setzten komplexe Exploits ein, um iPhones bei Aufruf einer Webseite zu knacken. Apple-Patches liegen vor, Nutzer sollten sie dringend installieren.",
+      "title": "iPhonesApple mahnt nach beispiellosen Malware-Angriffen zum Update",
+      "teaser": "Angreifer setzten komplexe Exploits ein, um iPhones bei Aufruf einer Webseite zu knacken. Apple-Patches liegen vor.",
       "url": "https://www.heise.de/news/Beispiellose-Malware-Angriffe-auf-iPhones-Apple-mahnt-zum-Update-11217842.html",
       "image_title": "Rückseite eines iPhones das auf der Verpackung liegt"
-    },
-    {
-      "title": "Webmailer Roundcube: Kritische Lücken erlauben Dateimanipulation und mehr",
-      "teaser": "Angreifer hätten beliebige Dateien auf den Webserver schreiben, Skriptcode einschleusen und Inhaltsfilter umgehen können.",
-      "url": "https://www.heise.de/news/Webmailer-Roundcube-Kritische-Luecken-erlauben-Dateimanipulation-und-mehr-11217824.html",
-      "image_title": "Brief"
-    },
-    {
-      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
-      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11203412.html",
-      "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
     },
     {
       "title": "TestsUSB-Ladegerät für bis zu zehn Geräte für 33 Euro im Test",
@@ -61,6 +61,18 @@
     {
       "title": "HintergrundDie SIEM-Metamorphose: Architekturfallen und die Kosten der Cloud",
       "url": "https://www.heise.de/hintergrund/Die-SIEM-Metamorphose-Architekturfallen-und-die-Kosten-der-Cloud-11207419.html"
+    },
+    {
+      "title": "AlertWebmailer Roundcube: Kritische Lücken erlauben Dateimanipulation und mehr",
+      "teaser": "Angreifer hätten beliebige Dateien auf den Webserver schreiben, Skriptcode einschleusen und Inhaltsfilter umgehen können.",
+      "url": "https://www.heise.de/news/Webmailer-Roundcube-Kritische-Luecken-erlauben-Dateimanipulation-und-mehr-11217824.html",
+      "image_title": "Brief"
+    },
+    {
+      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
+      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11203412.html",
+      "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
     },
     {
       "title": "20 Tage offline: Internetsperre im Iran jetzt die längste der Landesgeschichte",
@@ -138,18 +150,6 @@
       "teaser": "Cyberkriminelle greifen derzeit Schwachstellen in Cisco FMC, SharePoint und Zimbra an. Updates zum Schließen der Lücken stehen bereit.",
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-FMC-SharePoint-und-Zimbra-11217003.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Nach 13 Jahren: Xbox One gehackt",
-      "teaser": "Ein Hardwareangriff auf die Xbox One umgeht erstmals die Boot-ROM-Sicherheit – mit präzisem Voltage Glitching.",
-      "url": "https://www.heise.de/news/Nach-13-Jahren-Xbox-One-gehackt-11216859.html",
-      "image_title": "Eine Xbox One von vorn."
-    },
-    {
-      "title": "notebooksbilliger.de klagt DSGVO-Bußgeld von 10,4 Mio. auf 900.000 Euro herunter",
-      "teaser": "Das OLG Celle hat nach rund fünf Jahren ein Bußgeld wegen unrechtmäßiger Videoüberwachung gegen den Elektronikhändler notebooksbilliger.de erheblich reduziert.",
-      "url": "https://www.heise.de/news/notebooksbilliger-de-klagt-DSGVO-Bussgeld-von-10-4-Mio-auf-900-000-Euro-herunter-11216644.html",
-      "image_title": "Niederlassung von notebooksbilliger.de in Laatzen"
     },
     {
       "title": "NewsNach nur drei Monaten: Samsung stellt Verkauf des Galaxy Z TriFold ein",
