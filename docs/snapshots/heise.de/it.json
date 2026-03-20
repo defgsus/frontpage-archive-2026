@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T11:21:48",
+  "timestamp": "2026-03-20T12:30:38",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,40 @@
   ],
   "articles": [
     {
+      "title": "Mit Defender XDR AD und lokale Endpunkte sichern",
+      "teaser": "Wer eine XDR-Strategie aufbaut, benötigt ein Fundament aus Säulen. Zwei davon sind: Absicherung und Härtung von Endpoints und der Schutz der Identitäten im AD.",
+      "url": "https://www.heise.de/ratgeber/Mit-Defender-XDR-AD-und-lokale-Endpunkte-sichern-11196628.html",
+      "image_title": ","
+    },
+    {
+      "title": "IR-Leseköpfe in Home Assistant: Digitalen Stromzähler einfach auslesen",
+      "teaser": "Wer seinen Stromverbrauch digital überwachen möchte, kann mit einem IR-Lesekopf und Home Assistant bequem alle Daten erfassen – so gehts.",
+      "url": "https://www.heise.de/ratgeber/IR-Lesekoepfe-in-Home-Assistant-Digitalen-Stromzaehler-einfach-auslesen-11196666.html"
+    },
+    {
+      "title": "AlertDiverse Attacken auf Dell Secure Connect Gateway Policy Manager möglich",
+      "teaser": "Mehrere Sicherheitslücken gefährden Systeme mit Dell Secure Connect Gateway Policy Manager. Eine reparierte Version steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Diverse-Attacken-auf-Dell-Secure-Connect-Gateway-Policy-Manager-moeglich-11219110.html",
+      "image_title": "Ein symbolisches Schold mit einer Updateerinnerung."
+    },
+    {
       "title": "OpenAI: \"Super-App\" soll ChatGPT und andere KI-Funktionen zusammenführen",
       "teaser": "OpenAI plant eine „Super-App“, die ChatGPT und andere Produkte des KI-Konzerns verbinden soll. Auch agentische Funktionen soll sie beinhalten.",
       "url": "https://www.heise.de/news/OpenAI-Super-App-soll-ChatGPT-und-andere-KI-Funktionen-zusammenfuehren-11219286.html",
       "image_title": "OpenAI-Schriftzug und Umrisse von Personen, die an einem Tisch sitzen, wobei eine Person am Kopf des Tisches sitzt und eine steht."
+    },
+    {
+      "title": "RatgeberIR-Leseköpfe in Home Assistant: Digitalen Stromzähler einfach auslesen",
+      "url": "https://www.heise.de/ratgeber/IR-Lesekoepfe-in-Home-Assistant-Digitalen-Stromzaehler-einfach-auslesen-11196666.html"
+    },
+    {
+      "title": "RatgeberDer Cloud-SIEM-Markt im Überblick: Von Hyperscalern und Legacy-Riesen",
+      "url": "https://www.heise.de/ratgeber/Der-Cloud-SIEM-Markt-im-Ueberblick-Von-Hyperscalern-und-Legacy-Riesen-11207623.html"
+    },
+    {
+      "title": "RatgeberRadonbelastung senken: DIY-Lüfter für den Keller im Eigenbau",
+      "url": "https://www.heise.de/ratgeber/Radonbelastung-senken-DIY-Luefter-fuer-den-Keller-im-Eigenbau-11205480.html",
+      "image_title": ","
     },
     {
       "title": "AlertOpenWrt: Service-Releases schließen kritische Sicherheitslücken",
@@ -43,23 +73,10 @@
       "url": "https://www.heise.de/news/Die-OOP-Konferenz-kommt-direkt-ins-Home-Office-Die-neue-Live-Webinar-Reihe-11217099.html"
     },
     {
-      "title": "React-FrameworkNext.js 16.2 bringt Updates für die Nutzung von KI-Agenten",
+      "title": "Next.js 16.2 bringt Updates für die Nutzung von KI-Agenten",
       "teaser": "Das React-Framework weist über 200 Änderungen für den Bundler Turbopack auf und zielt darauf ab, den Einsatz von KI-Agenten effizienter zu machen.",
       "url": "https://www.heise.de/news/Next-js-16-2-bringt-Updates-fuer-Performance-KI-Agenten-und-Turbopack-11218804.html",
       "image_title": "Person tippt auf Laptop, Overlay eines Gesichtsprofils mit Schaltkreisen"
-    },
-    {
-      "title": "RatgeberDer Cloud-SIEM-Markt im Überblick: Von Hyperscalern und Legacy-Riesen",
-      "url": "https://www.heise.de/ratgeber/Der-Cloud-SIEM-Markt-im-Ueberblick-Von-Hyperscalern-und-Legacy-Riesen-11207623.html"
-    },
-    {
-      "title": "RatgeberRadonbelastung senken: DIY-Lüfter für den Keller im Eigenbau",
-      "url": "https://www.heise.de/ratgeber/Radonbelastung-senken-DIY-Luefter-fuer-den-Keller-im-Eigenbau-11205480.html",
-      "image_title": ","
-    },
-    {
-      "title": "TestsUSB-Ladegerät für bis zu zehn Geräte für 33 Euro im Test",
-      "url": "https://www.heise.de/tests/USB-Ladegeraet-fuer-bis-zu-zehn-Geraete-fuer-33-Euro-im-Test-11197140.html"
     },
     {
       "title": "Thunderbird baut Exchange-Support aus",
@@ -131,24 +148,6 @@
       "teaser": "Über drei Millionen infizierte IT-Geräte wurden zuletzt für besonders mächtige DDoS-Attacken benutzt. Nun gab es angeblich eine Aktion gegen die Infrastruktur.",
       "url": "https://www.heise.de/news/Aisuru-KimWolf-Co-Laenderuebergreifende-Aktion-gegen-vier-gefaehrliche-Botnets-11218668.html",
       "image_title": "Netzwerkverkabelung"
-    },
-    {
-      "title": "Integration in Codex: OpenAI übernimmt das Start-up Astral",
-      "teaser": "OpenAI baut mit der Übernahme des Python-Tool-Entwicklers Astral das Engagement im Bereich Coding weiter aus und will seine Codex-Plattform weiterentwickeln.",
-      "url": "https://www.heise.de/news/Integration-in-Codex-OpenAI-uebernimmt-das-Start-up-Astral-11218568.html",
-      "image_title": "Logo und Name von OpenAI auf einem Smartphone, im Hintergrund enorm vergrößtere rote Pixel"
-    },
-    {
-      "title": "Transform 2026: Was tun gegen den Transformation Overload?",
-      "teaser": "Auf der Konferenz ging es um die rasanten Veränderungen durch KI - und die Schwierigkeiten von Unternehmen, mit der Entwicklung Schritt zu halten.",
-      "url": "https://www.heise.de/news/Transform-2026-Was-tun-gegen-den-Transformation-Overload-11218430.html",
-      "image_title": "Redner bei der Konferenz Transform 2026"
-    },
-    {
-      "title": "Microsoft arbeitet an \"Medical Superintelligence\"",
-      "teaser": "Microsoft startet mit Copilot Health einen KI-Assistenten, der möglichst alle Gesundheitsdaten bündelt und analysiert – zunächst in den USA.",
-      "url": "https://www.heise.de/news/Zunaechst-in-den-USA-Microsoft-will-Weg-fuer-Medical-Superintelligence-ebnen-11217566.html",
-      "image_title": "Röntgenaufnahme von einem Fuß, Rezepte und andere Dateien und Vitaldaten in einem Werbevideo von Microsoft."
     },
     {
       "title": "NewsNach nur drei Monaten: Samsung stellt Verkauf des Galaxy Z TriFold ein",
