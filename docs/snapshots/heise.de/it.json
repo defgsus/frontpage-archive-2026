@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T07:37:58",
+  "timestamp": "2026-03-20T08:27:44",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,7 +26,18 @@
   ],
   "articles": [
     {
-      "title": "AlertChrome: Update stopft drei kritische Sicherheitslücken",
+      "title": "AlertOracle Identity Manager: Update außer der Reihe gegen Codeschmuggel-Lücke",
+      "teaser": "Oracle hat ein Notfall-Update für Identity Manager und Web Services Manager zum Schließen einer Codeschmuggel-Lücke herausgegeben.",
+      "url": "https://www.heise.de/news/Oracle-Identity-Manager-Update-ausser-der-Reihe-gegen-Codeschmuggel-Luecke-11218792.html",
+      "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "Klebeglasfaser: Schnelles Internet in allen Räumen oder unnützer Pfusch?",
+      "teaser": "Fiber to the Room bringt schnelles Internet mittels „unsichtbarer“ Glasfasern bis in jeden Raum. Wir haben zwei Systeme ausprobiert.",
+      "url": "https://www.heise.de/ratgeber/Klebeglasfaser-Schnelles-Internet-in-allen-Raeumen-oder-unnuetzer-Pfusch-11153648.html"
+    },
+    {
+      "title": "AlertChrome: Google schließt 26 Sicherheitslücken im Webbrowser",
       "teaser": "Das in der Nacht zum Donnerstag veröffentlichte Chrome-Update schließt 26 Sicherheitslücken, darunter drei kritische.",
       "url": "https://www.heise.de/news/Chrome-Update-stopft-drei-kritische-Sicherheitsluecken-11218696.html",
       "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
@@ -36,18 +47,6 @@
       "teaser": "In den USA wurde eine Anklage gegen Manager von Super Micro Computer öffentlich gemacht. Die sollen US-Exportkontrollgesetze für Nvidia-GPUs umgangen haben.",
       "url": "https://www.heise.de/news/Nvidia-GPUs-nach-China-geschmuggelt-Anklage-gegen-Fuehrungskraefte-von-Supermicro-11218692.html",
       "image_title": "Firmenschild von Supermicro"
-    },
-    {
-      "title": "iX-Workshop: Mit Automation Anywhere von manuellen Abläufen zu smarten Workflows",
-      "teaser": "Routineaufgaben mit robotergestützter Prozessautomatisierung von Bots eigenständig erledigen lassen und so Workflows effizienter gestalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mit-Automation-Anywhere-von-manuellen-Ablaeufen-zu-smarten-Workflows-11203420.html",
-      "image_title": "iX-Workshop RPA mit Automation Anywhere: Bots bauen, Dokumente automatisieren, KI nutzen"
-    },
-    {
-      "title": "Aisuru, KimWolf & Co.: Behörden „stören“ vier gefährliche Botnets",
-      "teaser": "Über drei Millionen infizierte IT-Geräte wurden zuletzt für besonders mächtige DDoS-Attacken benutzt. Nun gab es angeblich eine Aktion gegen die Infrastruktur.",
-      "url": "https://www.heise.de/news/Aisuru-KimWolf-Co-Laenderuebergreifende-Aktion-gegen-vier-gefaehrliche-Botnets-11218668.html",
-      "image_title": "Netzwerkverkabelung"
     },
     {
       "title": "RatgeberDer Cloud-SIEM-Markt im Überblick: Von Hyperscalern und Legacy-Riesen",
@@ -61,6 +60,18 @@
     {
       "title": "TestsUSB-Ladegerät für bis zu zehn Geräte für 33 Euro im Test",
       "url": "https://www.heise.de/tests/USB-Ladegeraet-fuer-bis-zu-zehn-Geraete-fuer-33-Euro-im-Test-11197140.html"
+    },
+    {
+      "title": "iX-Workshop: Mit Automation Anywhere von manuellen Abläufen zu smarten Workflows",
+      "teaser": "Routineaufgaben mit robotergestützter Prozessautomatisierung von Bots eigenständig erledigen lassen und so Workflows effizienter gestalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Automation-Anywhere-von-manuellen-Ablaeufen-zu-smarten-Workflows-11203420.html",
+      "image_title": "iX-Workshop RPA mit Automation Anywhere: Bots bauen, Dokumente automatisieren, KI nutzen"
+    },
+    {
+      "title": "Aisuru, KimWolf & Co.: Behörden „stören“ vier gefährliche Botnets",
+      "teaser": "Über drei Millionen infizierte IT-Geräte wurden zuletzt für besonders mächtige DDoS-Attacken benutzt. Nun gab es angeblich eine Aktion gegen die Infrastruktur.",
+      "url": "https://www.heise.de/news/Aisuru-KimWolf-Co-Laenderuebergreifende-Aktion-gegen-vier-gefaehrliche-Botnets-11218668.html",
+      "image_title": "Netzwerkverkabelung"
     },
     {
       "title": "Integration in Codex: OpenAI übernimmt das Start-up Astral",
@@ -139,18 +150,6 @@
       "teaser": "Mit Verzögerung kommt Comet auf iPhones und iPads. Die KI soll sich für den Nutzer durchs Web klicken, greift dafür aber offenbar tief in die Trickkiste.",
       "url": "https://www.heise.de/news/Perplexitys-KI-Browser-Comet-schlaegt-auf-iOS-ein-11217579.html",
       "image_title": "Ein iPad mit Perplexity"
-    },
-    {
-      "title": "Richtig skalieren: Vom Monitoring Stack zur Observability-Plattform",
-      "teaser": "Wie der Weg vom simplen Monitoring zur skalierbaren Observability-Plattform gelingt, zeigt Dominik Schmidle in seinem Talk auf der Mastering Observability 2025.",
-      "url": "https://www.heise.de/hintergrund/Richtig-skalieren-Vom-Monitoring-Stack-zur-Observability-Plattform-11216684.html",
-      "image_title": "Systemadmin vor Überwachungsmonitoren"
-    },
-    {
-      "title": "Niedersachsen: Land übernimmt dauerhaft Kosten für digitale Endgeräte in Schulen",
-      "teaser": "Für die Digitalisierung von Niedersachsens Schulen gibt das Land den Städten und Landkreisen künftig mehr Geld. Darauf hat sich die Landesregierung geeinigt.",
-      "url": "https://www.heise.de/news/Niedersachsen-Mehr-Geld-fuer-Schul-IT-Land-einigt-sich-mit-Kommunen-11217540.html",
-      "image_title": "Online,Education.,Books,And,Tablet,On,The,Desktop,On,Blackboard"
     },
     {
       "title": "NewsNach nur drei Monaten: Samsung stellt Verkauf des Galaxy Z TriFold ein",
