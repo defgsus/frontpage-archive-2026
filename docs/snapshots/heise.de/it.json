@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T13:52:06",
+  "timestamp": "2026-03-20T14:34:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,10 +26,39 @@
   ],
   "articles": [
     {
+      "title": "MacBook Neo: Neuer Ansatz soll Nutzer vor Webcam-Spionage schützen",
+      "teaser": "Damit Angreifer Webcam und Mikrofon nicht unbemerkt aktivieren, greift Apple zu verschiedenen Techniken. Das Neo setzt auf eine neue Variante.",
+      "url": "https://www.heise.de/news/MacBook-Neo-Neuer-Ansatz-soll-Nutzer-vor-Webcam-Spionage-schuetzen-11219765.html",
+      "image_title": "MacBook Neo in verschiedenen Farben auf einem Tisch"
+    },
+    {
+      "title": "Memory Integrity Enforcement: Wie Apple Malware-Angriffe im Keim ersticken will",
+      "teaser": "Eine neue Sicherheitstechnik auf Apple-Silicon-Ebene soll selbst komplexeste Exploit-Ketten ins Leere laufen lassen. So funktioniert es auf dem iPhone.",
+      "url": "https://www.heise.de/hintergrund/Memory-Integrity-Enforcement-Wie-Apple-kuenftig-seine-Hardware-absichert-11196113.html",
+      "image_title": "A19 Pro von Apple"
+    },
+    {
+      "title": "Project Genie ausprobiert: Googles Weltmodell, das Gaming-Aktien purzeln lässt",
+      "teaser": "Project Genie erschafft interaktive Welten aus einem einfachen Prompt oder Foto. Wir testen, ob Googles KI-Tool echten Spielen gefährlich werden könnte.",
+      "url": "https://www.heise.de/tests/Project-Genie-ausprobiert-Googles-Weltmodell-das-Gaming-Aktien-purzeln-laesst-11190146.html"
+    },
+    {
       "title": "Verwaltung: Open Source wird zum Standard",
       "teaser": "Der IT-Planungsrat hat acht EVB-IT-Musterverträge überarbeitet. Bei neuer Software wird Open Source zum Standard, inklusive Bereitstellung auf OpenCoDE.",
       "url": "https://www.heise.de/news/Verwaltung-Open-Source-wird-zum-Standard-11219607.html",
       "image_title": "Ein Einkaufswagen voller Pakete steht neben einem Computer und einer offenen Kiste mit Tablets."
+    },
+    {
+      "title": "TestsProject Genie ausprobiert: Googles Weltmodell, das Gaming-Aktien purzeln lässt",
+      "url": "https://www.heise.de/tests/Project-Genie-ausprobiert-Googles-Weltmodell-das-Gaming-Aktien-purzeln-laesst-11190146.html"
+    },
+    {
+      "title": "RatgeberIR-Leseköpfe in Home Assistant: Digitalen Stromzähler einfach auslesen",
+      "url": "https://www.heise.de/ratgeber/IR-Lesekoepfe-in-Home-Assistant-Digitalen-Stromzaehler-einfach-auslesen-11196666.html"
+    },
+    {
+      "title": "RatgeberDer Cloud-SIEM-Markt im Überblick: Von Hyperscalern und Legacy-Riesen",
+      "url": "https://www.heise.de/ratgeber/Der-Cloud-SIEM-Markt-im-Ueberblick-Von-Hyperscalern-und-Legacy-Riesen-11207623.html"
     },
     {
       "title": "iX-Workshop: Industrial Security nach IEC 62443 – Ein Praxisleitfaden",
@@ -42,24 +71,6 @@
       "teaser": "Ein Mann aus North Carolina hat gestanden, mit KI-generierten Songs und Bot-Accounts Millionen von Streaminganbietern erbeutet zu haben. Nun droht ihm Haft.",
       "url": "https://www.heise.de/news/KI-Streaming-Betrug-Einem-US-Amerikaner-drohen-nach-Gestaendnis-fuenf-Jahre-Haft-11219496.html",
       "image_title": "Übereinandergestapelte MIDI-Keyboards"
-    },
-    {
-      "title": "IR-Leseköpfe in Home Assistant: Digitalen Stromzähler einfach auslesen",
-      "teaser": "Wer seinen Stromverbrauch digital überwachen möchte, kann mit einem IR-Lesekopf und Home Assistant bequem alle Daten erfassen – so gehts.",
-      "url": "https://www.heise.de/ratgeber/IR-Lesekoepfe-in-Home-Assistant-Digitalen-Stromzaehler-einfach-auslesen-11196666.html"
-    },
-    {
-      "title": "RatgeberIR-Leseköpfe in Home Assistant: Digitalen Stromzähler einfach auslesen",
-      "url": "https://www.heise.de/ratgeber/IR-Lesekoepfe-in-Home-Assistant-Digitalen-Stromzaehler-einfach-auslesen-11196666.html"
-    },
-    {
-      "title": "RatgeberDer Cloud-SIEM-Markt im Überblick: Von Hyperscalern und Legacy-Riesen",
-      "url": "https://www.heise.de/ratgeber/Der-Cloud-SIEM-Markt-im-Ueberblick-Von-Hyperscalern-und-Legacy-Riesen-11207623.html"
-    },
-    {
-      "title": "RatgeberRadonbelastung senken: DIY-Lüfter für den Keller im Eigenbau",
-      "url": "https://www.heise.de/ratgeber/Radonbelastung-senken-DIY-Luefter-fuer-den-Keller-im-Eigenbau-11205480.html",
-      "image_title": ","
     },
     {
       "title": "AlertDiverse Attacken auf Dell Secure Connect Gateway Policy Manager möglich",
@@ -136,18 +147,6 @@
       "teaser": "Oracle hat ein Notfall-Update für Identity Manager und Web Services Manager zum Schließen einer Codeschmuggel-Lücke herausgegeben.",
       "url": "https://www.heise.de/news/Oracle-Identity-Manager-Update-ausser-der-Reihe-gegen-Codeschmuggel-Luecke-11218792.html",
       "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertChrome: Google schließt 26 Sicherheitslücken im Webbrowser",
-      "teaser": "Das in der Nacht zum Donnerstag veröffentlichte Chrome-Update schließt 26 Sicherheitslücken, darunter drei kritische.",
-      "url": "https://www.heise.de/news/Chrome-Update-stopft-drei-kritische-Sicherheitsluecken-11218696.html",
-      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
-    },
-    {
-      "title": "Nvidia-GPUs nach China geschmuggelt: Anklage gegen Führungskräfte von Supermicro",
-      "teaser": "In den USA wurde eine Anklage gegen Manager von Super Micro Computer öffentlich gemacht. Die sollen US-Exportkontrollgesetze für Nvidia-GPUs umgangen haben.",
-      "url": "https://www.heise.de/news/Nvidia-GPUs-nach-China-geschmuggelt-Anklage-gegen-Fuehrungskraefte-von-Supermicro-11218692.html",
-      "image_title": "Firmenschild von Supermicro"
     },
     {
       "title": "NewsNach nur drei Monaten: Samsung stellt Verkauf des Galaxy Z TriFold ein",
