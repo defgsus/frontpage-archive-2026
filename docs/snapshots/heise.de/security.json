@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-20T08:27:48",
+  "timestamp": "2026-03-20T09:29:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -26,21 +26,21 @@
   ],
   "articles": [
     {
-      "title": "AlertUbiquiti UniFi Network ApplicationKritische Lücke erlaubt unbefugten Zugang",
-      "teaser": "In Ubiquitis UniFi Network Application klafft eine kritische Lücke, durch die Angreifer unbefugt Zugang zu Konten erlangen können.",
-      "url": "https://www.heise.de/news/Ubiquiti-UniFi-Network-Application-Kritische-Luecke-erlaubt-unbefugten-Zugang-11217047.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "AlertCisco FMC, SharePoint und ZimbraWarnung vor laufenden Angriffen",
-      "teaser": "Kriminelle greifen derzeit Schwachstellen in Cisco FMC, SharePoint und Zimbra an. Updates zum Schließen der Lücken stehen bereit.",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-FMC-SharePoint-und-Zimbra-11217003.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "AlertOracle Identity Manager: Update außer der Reihe gegen Codeschmuggel-Lücke",
+      "title": "AlertOracle Identity ManagerUpdate außer der Reihe gegen Codeschmuggel-Lücke",
+      "teaser": "Oracle hat ein Notfall-Update für Identity Manager und Web Services Manager zum Schließen einer Codeschmuggel-Lücke herausgegeben.",
       "url": "https://www.heise.de/news/Oracle-Identity-Manager-Update-ausser-der-Reihe-gegen-Codeschmuggel-Luecke-11218792.html",
       "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "AlertGoogle Chrome26 Sicherheitslücken im Webbrowser geschlossen",
+      "teaser": "Das in der Nacht zum Donnerstag veröffentlichte Chrome-Update schließt 26 Sicherheitslücken, darunter drei kritische.",
+      "url": "https://www.heise.de/news/Chrome-Update-stopft-drei-kritische-Sicherheitsluecken-11218696.html",
+      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
+    },
+    {
+      "title": "AlertIBM QRadar SIEM: SSH-Sessions kompromittierbar",
+      "url": "https://www.heise.de/news/IBM-QRadar-SIEM-SSH-Sessions-kompromittierbar-11218798.html",
+      "image_title": "Ein symbolischer Updateknopf."
     },
     {
       "title": "Jetzt Blind-Bird Tickets sichern!heise security Tour 2026",
@@ -55,16 +55,21 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertOracle Identity Manager: Update außer der Reihe gegen Codeschmuggel-Lücke",
-      "teaser": "Oracle hat ein Notfall-Update für Identity Manager und Web Services Manager zum Schließen einer Codeschmuggel-Lücke herausgegeben.",
-      "url": "https://www.heise.de/news/Oracle-Identity-Manager-Update-ausser-der-Reihe-gegen-Codeschmuggel-Luecke-11218792.html",
-      "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+      "title": "Lücke in CampusNet: Adressen von über einer Million Studierenden standen im Netz",
+      "teaser": "Über geschickte Suchfilter hätten Angreifer die Adressen aller Studierenden zusammenpuzzeln können. Hersteller und Hochschulen reagierten prompt.",
+      "url": "https://www.heise.de/news/Luecke-in-CampusNet-Adressen-von-ueber-eine-Million-Studierenden-standen-im-Netz-11218738.html"
     },
     {
-      "title": "AlertChrome: Google schließt 26 Sicherheitslücken im Webbrowser",
-      "teaser": "Das in der Nacht zum Donnerstag veröffentlichte Chrome-Update schließt 26 Sicherheitslücken, darunter drei kritische.",
-      "url": "https://www.heise.de/news/Chrome-Update-stopft-drei-kritische-Sicherheitsluecken-11218696.html",
-      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
+      "title": "Windows-Update-Probleme: Login in private Microsoft-Konten schlägt fehl",
+      "teaser": "Microsoft führt eine seit kurzem bekannte Störung von Apps und Diensten mit Privatkonten auf die Windows-Updates vom März-Patchday zurück.",
+      "url": "https://www.heise.de/news/Windows-Update-Probleme-Login-in-private-Microsoft-Konten-schlaegt-fehl-11218896.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+    },
+    {
+      "title": "AlertIBM QRadar SIEM: SSH-Sessions kompromittierbar",
+      "teaser": "Es sind wichtige Sicherheitsupdates für IBM App Connect Enterprise und QRadar SIEM erschienen.",
+      "url": "https://www.heise.de/news/IBM-QRadar-SIEM-SSH-Sessions-kompromittierbar-11218798.html",
+      "image_title": "Ein symbolischer Updateknopf."
     },
     {
       "title": "Aisuru, KimWolf & Co.: Behörden „stören“ vier gefährliche Botnets",
@@ -127,26 +132,21 @@
       "image_title": "Finger tippt auf Update-Button"
     },
     {
+      "title": "AlertUbiquiti UniFi Network Application: Kritische Lücke erlaubt unbefugten Zugang",
+      "teaser": "In Ubiquitis UniFi Network Application klafft eine kritische Lücke, durch die Angreifer unbefugt Zugang zu Konten erlangen können.",
+      "url": "https://www.heise.de/news/Ubiquiti-UniFi-Network-Application-Kritische-Luecke-erlaubt-unbefugten-Zugang-11217047.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
       "title": "heise security Tour 2026: Das Programm steht – jetzt Frühbucherpreis sichern!",
       "teaser": "Die heise security Tour 2026 fokussiert auf Lieferketten-Sicherheit, Identitäts-Management und KI. Sichern Sie sich jetzt Frühbucher-Tickets!",
       "url": "https://www.heise.de/news/heise-security-Tour-2026-Das-Programm-steht-jetzt-Fruehbucherpreis-sichern-11212053.html"
     },
     {
-      "title": "Attacke auf Charlie Hebdo: EU sanktioniert iranische Staatshacker",
-      "teaser": "Die EU-Staaten frieren Vermögenswerte eines Unternehmens aus dem Iran ein. Auch chinesische Gruppen nehmen sie wegen Angriffe auf vernetzte Geräte ins Visier.",
-      "url": "https://www.heise.de/news/Attacke-auf-Charlie-Hebdo-EU-sanktioniert-iranische-Staatshacker-11216800.html",
-      "image_title": "Europakarte, über die ein Mesh gelegt ist"
-    },
-    {
-      "title": "DarkSword: Zweite mächtige iPhone-Spyware in freier Wildbahn gesichtet",
-      "teaser": "Staatliche Zero-Day-Exploits sickern auf den Schwarzmarkt durch und dienen für breit gestreuten Datenraub, warnen Sicherheitsforscher. iOS 18 ist betroffen.",
-      "url": "https://www.heise.de/news/DarkSword-Zweite-maechtige-iPhone-Spyware-in-freier-Wildbahn-gesichtet-11216618.html"
-    },
-    {
-      "title": "AlertUbuntu: root-Lücke durch snapd",
-      "teaser": "Eine Schwachstelle im Zusammenspiel von snapd und systemd unter Ubuntu ermöglicht Angreifern, root-Zugriff zu erlangen.",
-      "url": "https://www.heise.de/news/Ubuntu-root-Luecke-durch-snapd-11216189.html",
-      "image_title": "Oranges Achtung-Schild vor blauem Hintergrund"
+      "title": "AlertWarnung vor Angriffen auf Cisco FMC, SharePoint und Zimbra",
+      "teaser": "Cyberkriminelle greifen derzeit Schwachstellen in Cisco FMC, SharePoint und Zimbra an. Updates zum Schließen der Lücken stehen bereit.",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-FMC-SharePoint-und-Zimbra-11217003.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
       "title": "Videokurs | Cloud-TechnologienEntra ID – Neuerungen in Q4/2025",
