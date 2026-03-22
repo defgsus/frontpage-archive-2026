@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-22T15:15:22",
+  "timestamp": "2026-03-22T16:15:44",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "Krebsmedizin: Die Biohacker in meinem Leib",
+      "teaser": "Krebszellen sind noch „schlauer“ als gedacht. Sie kapern offenbar Nerven, kommunizieren mit dem Gehirn und bremsen über ihre Netzwerke das Immunsystem. Das ist fatal und könnte doch zu neuen Therapien führen.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/nerven-und-tumorzellen-die-biohacker-in-meinem-leib-accg-110854510.html"
+    },
+    {
       "title": "Biophysik: Spechte und Tennisspieler haben etwas gemeinsam",
       "teaser": "Derzeit hämmern die Vögel ihre Nisthöhlen. Den dabei entstehenden Kräften trotzen sie durch eine spezielle Anatomie – und die richtige Technik.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/was-spechte-mit-tennisspielern-gemeinsam-haben-110854939.html"
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/was-spechte-mit-tennisspielern-gemeinsam-haben-110854939.html",
+      "image_url": "https://media0.faz.net/image/w730/3aa982b79289/w3000h1688x0y156/032026/1.10854935/ein-schwarzspecht-guckt-aus.webp",
+      "image_title": "Ein Schwarzspecht guckt aus seiner Baumhöhle."
     },
     {
       "title": "Netzrätsel: Auf diesen Straßen sollten Sie bauen",
@@ -99,13 +106,6 @@
       "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/gerd-faltings-erhaelt-den-abelpreis-fuer-bahnbrechende-arbeiten-in-der-mathematik-accg-200650594.html",
       "image_url": "https://media0.faz.net/image/w730/bb12ccdbda0f/w1240h697x0y0/202603/a0e9ea16-2381-11f1-a194-7d89aea5d8f3/der-doyen-der-arithmetischen.webp",
       "image_title": "Der Doyen der arithmetischen Geometrie: Gerd Faltings"
-    },
-    {
-      "title": "Takt und Töne: Wie Musik heilt",
-      "teaser": "Durch das Singen von Liedern können Patienten nach einem Schlaganfall wieder sprechen lernen. Alzheimerpatienten fühlen sich besser, Schizophrene finden zu ihren Emotionen. Ist Musik Medizin?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-musik-therapie-bei-schlaganfall-und-depressionen-helfen-kann-110852679.html",
-      "image_url": "https://media0.faz.net/image/w730/946b8e6cadfb/w2254h1268x395y732/032026/1.10852675/musik-aktiviert-verschiedene.webp",
-      "image_title": "Musik aktiviert verschiedene Hirnregionen."
     },
     {
       "title": "FAZ+Astrobiologie: Asteroiden – Lieferanten des Lebens?",
@@ -178,18 +178,18 @@
       "image_title": "Joachim Müller-Jung"
     },
     {
+      "title": "Takt und Töne: Wie Musik heilt",
+      "teaser": "Durch das Singen von Liedern können Patienten nach einem Schlaganfall wieder sprechen lernen. Alzheimerpatienten fühlen sich besser, Schizophrene finden zu ihren Emotionen. Ist Musik Medizin?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-musik-therapie-bei-schlaganfall-und-depressionen-helfen-kann-110852679.html",
+      "image_url": "https://media0.faz.net/image/w920/946b8e6cadfb/w2254h1268x395y732/032026/1.10852675/musik-aktiviert-verschiedene.webp",
+      "image_title": "Musik aktiviert verschiedene Hirnregionen."
+    },
+    {
       "title": "Polarforscher: „Akutaq zum Dessert“",
       "teaser": "Hajo Eicken ist der neue Chef des Alfred-Wegener-Instituts. Im Interview erzählt er, wie er die Polarforschung verbessern will, wie die US-Regierung diese beeinträchtigt – und ob er lieber Labskaus oder Inuit-Eiscreme isst.",
       "url": "https://www.faz.net/aktuell/wissen/erde-klima/neuer-awi-chef-wie-hajo-eicken-die-forschung-veraendern-will-accg-200652695.html",
       "image_url": "https://media0.faz.net/image/w920/cecca15f43f4/w4488h2524x0y233/202603/43601.0.1900398795/meereis-wird-immer-seltener-es.webp",
       "image_title": "Meereis wird immer seltener. Es ist ein Forschungsschwerpunkt des neuen Chefs des Alfred-Wegener-Instituts."
-    },
-    {
-      "title": "Besiedelung südamerikas: Forscher liegen Jahrtausende daneben",
-      "teaser": "Siedlungsspuren im Süden Chiles gelten als der sicherste Beleg für eine frühe Ausbreitung des Menschen über den amerikanischen Kontinent. Neue Analysen zeigen, dass sie offenbar falsch datiert wurden.",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/wurde-amerika-spaeter-besiedelt-als-gedacht-200649225.html",
-      "image_url": "https://media0.faz.net/image/w920/0fff1d3be7ec/w4659h2621x0y165/202603/43601.0.1896930082/vom-sumpf-vor-dem-verotten.webp",
-      "image_title": "Vom Sumpf vor dem Verotten geschützt: Hölzerne Behausungsreste der Fundstelle Monte Verde II in Chile"
     },
     {
       "title": "FAZ+Experiment zu Schulleistungen: Warum manche Schüler mehr leisten als andere",
@@ -219,11 +219,11 @@
       "image_title": "Der halluzinogene Stoff Psilocybin wird von Pilzen produziert"
     },
     {
-      "title": "Krebsmedizin: Die Biohacker in meinem Leib",
-      "teaser": "Krebszellen sind noch „schlauer“ als gedacht. Sie kapern offenbar Nerven, kommunizieren mit dem Gehirn und bremsen über ihre Netzwerke das Immunsystem. Das ist fatal und könnte doch zu neuen Therapien führen.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/nerven-und-tumorzellen-die-biohacker-in-meinem-leib-accg-110854510.html",
-      "image_url": "https://media0.faz.net/image/w730/aaeb5a398745/w1648h927x0y0/032026/1.10854617/nerven-tumor-netzwerk-unter.webp",
-      "image_title": "Nerven-Tumor-Netzwerk unter dem Mikroskop: In Magenta/Weiß markiert sind die Tumorzellen, in Grün die Nervenzellen, die direkt mit den Tumorzellen verbunden sind. Foto"
+      "title": "Psychische Erkrankungen: „Konsum von medizinischem Cannabis könnte mehr schaden als nützen“",
+      "teaser": "Viele Menschen bekommen Cannabis auf Rezept. Doch bei psychischen Leiden wie Depressionen und Angststörungen hilft das nicht, zeigt eine aktuelle Studie.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/medizinisches-cannabis-hilft-laut-studie-nicht-bei-depressionen-koennte-mehr-schaden-als-nuetzen-110855115.html",
+      "image_url": "https://media0.faz.net/image/w730/ce3932497d13/w2727h1534x273y445/202501/43601.0.816035820/medizinal-cannabis-wird.webp",
+      "image_title": "Medizinal-Cannabis wird häufig über Telemedizin-Plattformen verordnet."
     },
     {
       "title": "FAZ+Neue Magen-Darm-Therapien: Wie die KI dem Krebsarzt helfen kann",
@@ -349,10 +349,17 @@
       "image_title": "Trump und Clinton bei einer Debatte am 9. Oktober 2016: Welche Rolle spielte gezielte Wahlunterdrückung bei Facebook?"
     },
     {
+      "title": "Besiedelung südamerikas: Forscher liegen Jahrtausende daneben",
+      "teaser": "Siedlungsspuren im Süden Chiles gelten als der sicherste Beleg für eine frühe Ausbreitung des Menschen über den amerikanischen Kontinent. Neue Analysen zeigen, dass sie offenbar falsch datiert wurden.",
+      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/wurde-amerika-spaeter-besiedelt-als-gedacht-200649225.html",
+      "image_url": "https://media0.faz.net/image/w920/0dbd79497dd4/w4659h1996x0y477/202603/43601.0.1896930082/vom-sumpf-vor-dem-verotten.webp",
+      "image_title": "Vom Sumpf vor dem Verotten geschützt: Hölzerne Behausungsreste der Fundstelle Monte Verde II in Chile"
+    },
+    {
       "title": "FAZ+Sex im Neandertal: Wer mit wem in der Eiszeit",
       "teaser": "Neandertaler und anatomisch moderne Menschen hatten Kinder miteinander. Nun stellt sich heraus: Die Väter waren dann zumeist Neandertaler.",
       "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/neandertaler-maenner-bevorzugten-frauen-des-homo-sapiens-accg-110845412.html",
-      "image_url": "https://media0.faz.net/image/w920/c3ace0b3e18f/w3000h1285x0y401/202408/43601.0.530958337/ein-romeo-der-alsteinzeit.webp",
+      "image_url": "https://media0.faz.net/image/w730/02c5469c3df3/w3000h1687x0y200/202408/43601.0.530958337/ein-romeo-der-alsteinzeit.webp",
       "image_title": "Ein Romeo der Alsteinzeit? Nachbildung eines Neandertalers im LVR-Landesmuseum Bonn."
     },
     {
@@ -361,13 +368,6 @@
       "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/in-der-eiszeit-gab-es-bereits-zeichensysteme-die-information-tragen-konnten-accg-110842968.html",
       "image_url": "https://media0.faz.net/image/w730/17d25fb1f8df/w3148h1771x0y0/201706/431.0.24354327/zeichen-ihrer-zeit.webp",
       "image_title": "Zeichen ihrer Zeit: kreuzförmige Markierungen auf der Darstellung eines Mammuts aus Elfenbein. Das Stück wurde 1931 in der Höhle Vogelherd auf der Schwäbischen Alb gefunden."
-    },
-    {
-      "title": "FAZ+Imperialismus vor 5000 Jahren: Wer ist der Herr im Kupferland?",
-      "teaser": "Eine Inschrift dokumentiert die frühen Vorstöße der Ägypter auf den Sinai. Und sie macht deutlich, warum die ersten Pharaonen die wüstenhafte Halbinsel unter ihre Kontrolle bringen wollten.",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/inschrift-dokumentiert-fruehen-aegyptischen-imperialismus-200498948.html",
-      "image_url": "https://media0.faz.net/image/w730/142306834241/w982h552x0y11/202602/43601.0.1728864655/fruehdynastische-aegyptische.webp",
-      "image_title": "Frühdynastische ägyptische Propaganda im Wadi Chamila. Die fünf Zeichen über der Figur in Siegerpose bilden eine Inschrift in frühen Hieroglyphen, die jetzt entziffert wurde."
     },
     {
       "title": "FAZ+Politik ohne Wissen: Intervention aus Ignoranz",
