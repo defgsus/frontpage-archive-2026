@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-23T11:35:33",
+  "timestamp": "2026-03-23T12:37:21",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,28 +26,27 @@
   ],
   "articles": [
     {
-      "title": "Microsoft will den Speicherhunger von Windows 11 bändigen",
+      "title": "Jetzt auch für Windows: Terminal-Multiplexer Zellij 0.44.0 erschienen",
+      "teaser": "Der Terminal-Multiplexer Zellij erscheint in Version 0.44.0 mit nativem Windows-Support, Remote-Sessions über HTTPS und erweiterten CLI-Befehlen.",
+      "url": "https://www.heise.de/news/Jetzt-auch-fuer-Windows-Terminal-Multiplexer-Zellij-0-44-0-erschienen-11221335.html",
+      "image_title": "Ein Terminal-Fenster zeigt einen Layout-Manager mit einer Liste von Sitzungen, Fenstern und Tabs."
+    },
+    {
+      "title": "Vim spielerisch lernen: Fünf Spiele für den sicheren Umgang mit dem Texteditor",
+      "teaser": "Der berühmt-berüchtigte Texteditor vim gilt als besonders schwierig zu bedienen. Fünf Spiele üben seine Finger-verknotenden Tastaturbefehle kurzweilig ein.",
+      "url": "https://www.heise.de/ratgeber/Vim-spielerisch-lernen-Fuenf-Spiele-fuer-den-sicheren-Umgang-mit-dem-Texteditor-11174558.html"
+    },
+    {
+      "title": "Infotainment mit neuer Hardware, Basis mit LFP-BatterieSkoda aktualisiert Enyaq und Elroq",
+      "teaser": "Skoda befasst sich intensiv mit den E-SUVs Elroq und Enyaq. Antrieb und Infotainment bekommen ein großes Update – nicht immer zum Vorteil des Kunden.",
+      "url": "https://www.heise.de/news/Skoda-aktualisiert-Enyaq-und-Elroq-Infotainment-mit-neuer-Hardware-11221321.html",
+      "image_title": "Skoda Enyaq und Elroq Modelljahr 2027"
+    },
+    {
+      "title": "Weniger RAM-BelegungMicrosoft will den Speicherhunger von Windows 11 bändigen",
       "teaser": "Windows-11-Rechner sollen bis zum Jahresende weniger RAM benötigen. Gleichzeitig will Microsoft die Schwuppdizität erhöhen.",
       "url": "https://www.heise.de/news/Microsoft-will-den-Speicherhunger-von-Windows-11-baendigen-11221165.html",
       "image_title": "Laptop mit Windows 11"
-    },
-    {
-      "title": "UpdateExklusives HintergrundgesprächApple im Interview: Warum die neuen M5-Kerne mehr als nur Marketing sind",
-      "teaser": "Im Hintergrundgespräch mit Mac & i verraten Apple-Manager, was wirklich hinter den Super-, Performance- und Effizienz-Kernen in den neuen M5-Chips steckt.",
-      "url": "https://www.heise.de/hintergrund/Apple-im-Interview-Warum-die-neuen-M5-Kerne-mehr-als-nur-Marketing-sind-11219792.html",
-      "image_title": ","
-    },
-    {
-      "title": "c't-Webinar: KI-Schreibwerkzeuge im Praxiseinsatz",
-      "teaser": "Das c't-Webinar hilft Ihnen, im KI-Dickicht zu Ihren Anforderungen passende Anwendungen zu entdecken, sie souverän zu beurteilen und zielführend einzusetzen.",
-      "url": "https://www.heise.de/news/c-t-Webinar-KI-Schreibwerkzeuge-im-Praxiseinsatz-11213752.html",
-      "image_title": "Illustration eines Roboters, der auf einen Computerbildschirm mit Text und Chatblasen zeigt"
-    },
-    {
-      "title": "Xiaomis neues KI-Modell: Nahe an der Konkurrenz, aber deutlich günstiger",
-      "teaser": "Xiaomi MiMo-V2 ist eine Familie von KI-Modellen für agentische Systeme. Das Topmodell konkurriert mit Branchenführern, ist über die API aber deutlich günstiger.",
-      "url": "https://www.heise.de/news/Xiaomis-neues-KI-Modell-Nahe-an-der-Konkurrenz-aber-deutlich-guenstiger-11221086.html",
-      "image_title": "Xiaomi-Logo an Gebäudefassade"
     },
     {
       "title": "HintergrundMalware-Analyse: Ein kostenloses Profi-Tool spart Zeit und Arbeit",
@@ -63,6 +62,18 @@
       "title": "HintergrundKaltstart eines Rechenzentrums: Die Vorarbeiten",
       "url": "https://www.heise.de/hintergrund/Kaltstart-eines-Rechenzentrums-Die-Vorarbeiten-11206131.html",
       "image_title": ","
+    },
+    {
+      "title": "c't-Webinar: KI-Schreibwerkzeuge im Praxiseinsatz",
+      "teaser": "Das c't-Webinar hilft Ihnen, im KI-Dickicht zu Ihren Anforderungen passende Anwendungen zu entdecken, sie souverän zu beurteilen und zielführend einzusetzen.",
+      "url": "https://www.heise.de/news/c-t-Webinar-KI-Schreibwerkzeuge-im-Praxiseinsatz-11213752.html",
+      "image_title": "Illustration eines Roboters, der auf einen Computerbildschirm mit Text und Chatblasen zeigt"
+    },
+    {
+      "title": "Xiaomis neues KI-Modell: Nahe an der Konkurrenz, aber deutlich günstiger",
+      "teaser": "Xiaomi MiMo-V2 ist eine Familie von KI-Modellen für agentische Systeme. Das Topmodell konkurriert mit Branchenführern, ist über die API aber deutlich günstiger.",
+      "url": "https://www.heise.de/news/Xiaomis-neues-KI-Modell-Nahe-an-der-Konkurrenz-aber-deutlich-guenstiger-11221086.html",
+      "image_title": "Xiaomi-Logo an Gebäudefassade"
     },
     {
       "title": "Google schiebt die Gaming-Umgebung Agones in die CNCF",
@@ -137,16 +148,6 @@
       "title": "Apple MacBook Neo im Test: schick, rasant – und günstig",
       "teaser": "Das MacBook Neo hat einen Smartphone-Prozessor, fährt aber trotzdem Kreise um Windows-Notebooks mit x86-CPUs: Im Mainstream sind neue Zeiten angebrochen.",
       "url": "https://www.heise.de/tests/Apple-MacBook-Neo-im-Test-schick-rasant-und-guenstig-11168637.html"
-    },
-    {
-      "title": "Offene Testplattform für PC-Bastler: Streacom BC1 V2 auf dem Prüfstand",
-      "teaser": "Wer oft am PC herumschraubt, will statt eines PC-Gehäuse einen Benchtable. Wir haben geprüft, wie sich Version 2 des BC1 im Laboralltag schlägt.",
-      "url": "https://www.heise.de/tests/Offene-Testplattform-fuer-PC-Bastler-Streacom-BC1-V2-auf-dem-Pruefstand-11146545.html"
-    },
-    {
-      "title": "1 Terawatt an KI-Chips – Elon Musk will größte Chipfabrik bauen",
-      "teaser": "Mehr KI-Rechenleistung, vorwiegend im All, soll die Terafab bereitstellen. Sie soll fast alle Schritte der Halbleiterfertigung vereinen.",
-      "url": "https://www.heise.de/news/1-Terawatt-an-KI-Chips-Elon-Musk-will-groesste-Chipfabrik-bauen-11220594.html"
     },
     {
       "title": "NewsEuropäische Cloudanbieter: „Broadcom setzt zum Todesstoß an“",
