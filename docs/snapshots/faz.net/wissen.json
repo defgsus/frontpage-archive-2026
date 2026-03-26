@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-26T12:45:09",
+  "timestamp": "2026-03-26T14:18:35",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "Insomnie: Schlaflos im Cyberspace",
+      "teaser": "Im Internet finden Menschen zueinander, die kein Auge zubekommen. Das ist auch hier nicht hilfreich.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/schlaflose-treffen-sich-im-cyberspace-accg-200653201.html"
+    },
+    {
       "title": "FAZ+Faulheit im Kopf: So beeinflusst KI heimlich unser Denken",
       "teaser": "Manche Menschen fragen bei jeder Kleinigkeit ChatGPT. Macht das dumm? Klar ist: Es verändert etwas in unserem Kopf.",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/macht-chatgpt-dumm-so-beeinflusst-ki-heimlich-unser-denken-200651750.html"
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/macht-chatgpt-dumm-so-beeinflusst-ki-heimlich-unser-denken-200651750.html",
+      "image_url": "https://media0.faz.net/image/w730/491b3bd15882/w7200h4050x0y375/202603/43601.0.1916051383/alle-gleichgeschaltet-durch-ki.webp",
+      "image_title": "Alle gleichgeschaltet durch KI? (3D-Visualisierung)"
     },
     {
       "title": "In niederländischer Kirche: Mutmaßliches Skelett von Musketier D'Artagnan entdeckt",
@@ -100,13 +107,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/die-neuen-therapien-sind-tueroeffner-es-war-falsch-das-hirn-als-isoliertes-organ-zu-sehen-accg-200663430.html",
       "image_url": "https://media0.faz.net/image/w730/233576216922/w4604h2590x0y0/202603/43601.0.1915231908/zu-viele-informationen-in-zu.webp",
       "image_title": "Zu viele Informationen in zu kurzer Zeit: Die Evolution hat das menschliche Gehirn nicht auf die Geschwindigkeit von Social Media vorbereitet."
-    },
-    {
-      "title": "Jared Isaacman verkündet: NASA plant dauerhafte Besiedlung des Mondes",
-      "teaser": "NASA-Chef Jared Isaacman ändert die Pläne für Mond und Mars: Das Projekt „Gateway“ stellt er zurück. Bereits 2028 wolle die US-Raumfahrtbehörde „das fast Unmögliche“ erreichen.",
-      "url": "https://www.faz.net/aktuell/wissen/nasa-chef-jared-isaacman-menschen-sollen-dauerhaft-den-mond-besiedeln-koennen-200667309.html",
-      "image_url": "https://media0.faz.net/image/w730/c7f2e4e6ed77/w2510h1412x0y197/202603/43601.0.1851620548/die-nasa-hat-neue-plaene-auf.webp",
-      "image_title": "Die NASA hat neue Pläne: Auf dem Mond sollen sich Menschen dauerhaft aufhalten können (Archivbild)."
     },
     {
       "title": "FAZ+Astrobiologie: Asteroiden – Lieferanten des Lebens?",
@@ -179,18 +179,18 @@
       "image_title": "Joachim Müller-Jung"
     },
     {
+      "title": "Jared Isaacman verkündet: NASA plant dauerhafte Besiedlung des Mondes",
+      "teaser": "NASA-Chef Jared Isaacman ändert die Pläne für Mond und Mars: Das Projekt „Gateway“ stellt er zurück. Bereits 2028 wolle die US-Raumfahrtbehörde „das fast Unmögliche“ erreichen.",
+      "url": "https://www.faz.net/aktuell/wissen/nasa-chef-jared-isaacman-menschen-sollen-dauerhaft-den-mond-besiedeln-koennen-200667309.html",
+      "image_url": "https://media0.faz.net/image/w920/c7f2e4e6ed77/w2510h1412x0y197/202603/43601.0.1851620548/die-nasa-hat-neue-plaene-auf.webp",
+      "image_title": "Die NASA hat neue Pläne: Auf dem Mond sollen sich Menschen dauerhaft aufhalten können (Archivbild)."
+    },
+    {
       "title": "Botanik-Kolumne: Welche Blätter von Gemüsepflanzen man essen kann",
       "teaser": "Das Grünzeug vom Gemüse landet in der Biotonne, dabei ist vieles gesund und lecker. Manchmal wird es jedoch giftig.",
       "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/welche-gemueseblaetter-essbar-sind-und-welche-giftig-200653203.html",
       "image_url": "https://media0.faz.net/image/w920/5bcf32f266eb/w7952h4473x0y416/202603/43601.0.1915488860/die-blaetter-vom.webp",
       "image_title": "Die Blätter vom Knollensellerie sind herber als die des Stangenselleries."
-    },
-    {
-      "title": "Namensforschung: Warum heißen Leute nur so?",
-      "teaser": "Wissenschaftler in Mainz haben sich viel vorgenommen: Über insgesamt 24 Jahre forschen sie an Entstehungsgeschichten von Familiennamen. Die Ergebnisse sind für jedermann einsehbar.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/mainzer-namensforscher-ergruenden-familiennamen-accg-200665368.html",
-      "image_url": "https://media0.faz.net/image/w920/4f6a3d33c711/w4912h2763x0y251/202603/43601.0.1915714574/so-etwas-kommt-auch-vor.webp",
-      "image_title": "So etwas kommt auch vor. Namensschild an einem deutschen Wohnhaus. -"
     },
     {
       "title": "Suche nach Evidenz: Wie schädlich ist Alkohol denn nun?",
@@ -360,10 +360,17 @@
       "image_title": "Zeichen ihrer Zeit: kreuzförmige Markierungen auf der Darstellung eines Mammuts aus Elfenbein. Das Stück wurde 1931 in der Höhle Vogelherd auf der Schwäbischen Alb gefunden."
     },
     {
+      "title": "Namensforschung: Warum heißen Leute nur so?",
+      "teaser": "Wissenschaftler in Mainz haben sich viel vorgenommen: Über insgesamt 24 Jahre forschen sie an Entstehungsgeschichten von Familiennamen. Die Ergebnisse sind für jedermann einsehbar.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/mainzer-namensforscher-ergruenden-familiennamen-accg-200665368.html",
+      "image_url": "https://media0.faz.net/image/w920/449ad397e024/w4912h2105x0y579/202603/43601.0.1915714574/so-etwas-kommt-auch-vor.webp",
+      "image_title": "So etwas kommt auch vor. Namensschild an einem deutschen Wohnhaus. -"
+    },
+    {
       "title": "Sexismus im Netz: Woher kommt der Frauenhass?",
       "teaser": "Über soziale Medien, Songtexte und Videospiele verbreiten sich frauenverachtende Inhalte. Das wirkt sogar auf Frauen.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/medien-foerdern-frauenfeindlichkeit-bei-maenner-und-frauen-accg-200650287.html",
-      "image_url": "https://media0.faz.net/image/w920/2892936b6991/w1896h812x12y20/202603/43601.0.1901241626/ein-ausschnitt-aus-dem-noch.webp",
+      "image_url": "https://media0.faz.net/image/w730/2ab4e88bbd9c/w1516h853x202y0/202603/43601.0.1901241626/ein-ausschnitt-aus-dem-noch.webp",
       "image_title": "Ein Ausschnitt aus dem noch nicht erschienenen Videospiel Grand Theft Auto VI"
     },
     {
@@ -372,13 +379,6 @@
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/politik-ohne-wissen-am-beispiel-somalias-zeigt-sich-die-gefahr-mangelnder-expertise-accg-110844643.html",
       "image_url": "https://media0.faz.net/image/w730/db6873344e94/w3000h1688x0y143/022026/1.10844634/soldaten-der-bundeswehr-beim.webp",
       "image_title": "Soldaten der Bundeswehr beim Einsatz in Somalia am 23.08.1993"
-    },
-    {
-      "title": "FAZ+Impostor-Syndrom: Hilfe, ich bin ein Hochstapler!",
-      "teaser": "Auch erfolgreiche Menschen wie Emma Watson, Tom Hanks, Michelle Obama zweifeln an ihren Fähigkeiten. Was gegen das Impostor-Syndrom hilft.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/impostor-syndrom-wenn-man-sich-als-hochstapler-fuehlt-accg-110848569.html",
-      "image_url": "https://media0.faz.net/image/w730/b608cdb5768b/w2249h1265x0y1333/032026/1.10848567/bin-ich-gut-genug-wer-sich.webp",
-      "image_title": "Bin ich gut genug? Wer sich diese Frage zu häufig stellt, könnte unter dem Impostor-Syndrom leiden."
     },
     {
       "title": "FAZ+Experiment zu Schulleistungen: Warum manche Schüler mehr leisten als andere",
