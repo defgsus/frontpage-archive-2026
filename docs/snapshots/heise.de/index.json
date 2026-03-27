@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-27T19:33:57",
+  "timestamp": "2026-03-27T20:23:55",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gehirn-Computer-Schnittstellen: Zwischen Durchbruch und ethischem Dilemma",
+      "url": "https://www.heise.de/news/Brain-Computer-Interface-zunehmender-Einsatz-Risiken-lueckenhafte-Rechtslage-11226529.html"
+    },
     {
       "title": "Top 10: Die beste Wärmebildkamera im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-waermebildkamera-im-test-gut-fuer-heim-und-hobby-ab-149-euro/3y515sj?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-6-hikmicro-eco-lite"
@@ -58,10 +62,6 @@
     {
       "title": "Angriffe übers Terminal: Apple verhindert Kommando-Ausführung",
       "url": "https://www.heise.de/news/Angriffe-uebers-Terminal-Apple-verhindert-Kommando-Ausfuehrung-11226507.html"
-    },
-    {
-      "title": "Q-Day näher als gedacht? Google drückt bei der Quantensicherheit aufs Tempo",
-      "url": "https://www.heise.de/news/Q-Day-naeher-als-gedacht-Google-drueckt-bei-der-Quantensicherheit-aufs-Tempo-11228038.html"
     },
     {
       "title": "Microsoft-AlternativeNextcloud und Ionos entwickeln quelloffenes „Euro-Office“",
@@ -186,20 +186,26 @@
       "image_title": "Interieur des VW ID.Polo mit echten Knöpfen"
     },
     {
+      "title": "Gehirn-Computer-Schnittstellen: Zwischen Durchbruch und ethischem Dilemma",
+      "teaser": "BCIs können helfen, motorische Fähigkeiten und Kommunikation wieder zu ermöglichen. Das Potenzial ist enorm, Rechtslage und Ethik noch weitgehend ungeklärt.",
+      "url": "https://www.heise.de/news/Brain-Computer-Interface-zunehmender-Einsatz-Risiken-lueckenhafte-Rechtslage-11226529.html",
+      "image_title": "Jochen Lennerz"
+    },
+    {
       "title": "Top 10: Die beste Wärmebildkamera im Test",
       "teaser": "Wärmebildkameras helfen, Wärmebrücken und versteckte Tiere aufzuspüren. Wir zeigen günstige Modelle für den Heimgebrauch.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-waermebildkamera-im-test-gut-fuer-heim-und-hobby-ab-149-euro/3y515sj?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-6-hikmicro-eco-lite"
+    },
+    {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Aus für Chatkontrolle: Brüssel macht Tempo für Dauerlösung",
       "teaser": "Nach dem das EU-Parlament die Ausnahmeregelung für die Chatkontrolle endgültig beerdigt hat, setzen Kommission und Länder jetzt auf eine Dauerlösung.",
       "url": "https://www.heise.de/news/Aus-fuer-Chatkontrolle-Bruessel-macht-Tempo-fuer-Dauerloesung-11228406.html",
       "image_title": "Die Symbole verschiedener Chat-Anwendungen auf dem Bildschirm eines Smartphones."
-    },
-    {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Tankrechnung drücken: So sparen sie Sprit und bezahlen weniger an der Tankstelle",
@@ -229,12 +235,6 @@
       "teaser": "Die Open-Source-Aufgabenverwaltung bringt in Version 18.0 ein regelbasiertes Automationssystem, Deadline-Filter und Sicherheitsverbesserungen in Electron.",
       "url": "https://www.heise.de/news/Super-Productivity-18-0-Aufgaben-automatisieren-Deadlines-filtern-11228048.html",
       "image_title": "Eine Aufgabenliste mit geschätzter verbleibender Zeit und Kalender- und Issue-Provider-Optionen."
-    },
-    {
-      "title": "Rossmann testet ersten humanoiden Roboter in der Logistik",
-      "teaser": "Die Drogeriekette Rossmann testet einen humanoiden Roboter an ihrem Logistikstandort nahe Hannover. Der Roboter kann eigenständig seine Batterien wechseln.",
-      "url": "https://www.heise.de/news/Rossmann-testet-ersten-humanoiden-Roboter-in-der-Logistik-11227830.html",
-      "image_title": "Walker-S2-Roboter beim Akkutausch"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -327,6 +327,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Rossmann testet ersten humanoiden Roboter in der Logistik",
+      "teaser": "Die Drogeriekette Rossmann testet einen humanoiden Roboter an ihrem Logistikstandort nahe Hannover. Der Roboter kann eigenständig seine Batterien wechseln.",
+      "url": "https://www.heise.de/news/Rossmann-testet-ersten-humanoiden-Roboter-in-der-Logistik-11227830.html",
+      "image_title": "Walker-S2-Roboter beim Akkutausch"
+    },
+    {
       "title": "Angriffe übers Terminal: Apple verhindert Kommando-Ausführung",
       "teaser": "Mehr und mehr Malware wird auch über Terminal-Kommandos verbreitet, die Nutzer willig eingeben. In macOS gibt es hierfür nun eine Vorsichtsmaßnahme.",
       "url": "https://www.heise.de/news/Angriffe-uebers-Terminal-Apple-verhindert-Kommando-Ausfuehrung-11226507.html",
@@ -397,15 +403,15 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
+      "title": "Digitale Souveränität oder Cloud-Abhängigkeit?",
+      "teaser": "Auch bei der Verwaltung von Endgeräten muss klar geregelt sein, wer auf Daten und Infrastrukturen zugreifen kann („souveräne Kontrolle“). Genau darum geht es in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/digitale-souveraenitaet-oder-cloud-abhaengigkeit-uem-zwischen-cloud-act-dsgvo-5020/?source=hbsad-ersatz"
+    },
+    {
       "title": "Apple Studio Display XDR im Test: Referenz mit doppeltem Hertzschlag",
       "teaser": "Das neue Studio Display XDR ist Apples neues Referenzdisplay. Im Vergleich zum Vorgänger bietet es eine geringere Auflösung, dafür höhere Bildwiederholrate.",
       "url": "https://www.heise.de/tests/Apple-Studio-Display-XDR-im-Test-Referenz-mit-doppeltem-Hertzschlag-11227427.html",
       "image_title": ", Andreas Wodrich / heise medien"
-    },
-    {
-      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
-      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
     },
     {
       "title": "Linux fürs Smartphone: Ubuntu Touch auf dem Volla Phone Quintus im Test",
@@ -456,12 +462,6 @@
       "title": "AlertAngreifer können Cisco-Firewalls und WLAN-Controller lahmlegen",
       "teaser": "Cisco hat wichtige Sicherheitsupdates für verschiedene Netzwerkprodukte veröffentlicht. Primär sind DoS-Attacken möglich.",
       "url": "https://www.heise.de/news/Angreifer-koennen-Cisco-Firewalls-und-WLAN-Controller-lahmlegen-11227041.html"
-    },
-    {
-      "title": "Vor Zeitumstellung am Wochenende: EU hält weiter an Plan zur Abschaffung fest",
-      "teaser": "Verlässlich wird zweimal im Jahr an den Uhren gedreht, um zwischen Sommer- und Winterzeit zu wechseln. Daran hat die ebenso verlässliche Kritik nichts geändert.",
-      "url": "https://www.heise.de/news/Sommerzeit-steht-an-Die-Uhren-werden-am-Wochenende-vorgestellt-11227273.html",
-      "image_title": "Frau dreht an der Uhr"
     },
     {
       "title": "Update„Das ist übel“: DarkSword-Malware auf GitHub, iPhones sofort patchen",
@@ -634,11 +634,6 @@
       "url": "https://www.heise.de/en/news/Isar-Aerospace-aborts-second-launch-of-Spectrum-rocket-11225439.html"
     },
     {
-      "title": "Taugt ein Arcade-Automat für 350 Euro mit Raspberry Pi und Batocera? | c't 3003",
-      "teaser": "Spielhallen-Feeling für 350 Euro: Der Iconic Arcade kommt mit Raspi 4 und emuliert Tausende Spiele. Klingt zu gut? c't 3003 hat's ausprobiert.",
-      "url": "https://www.heise.de/news/Ein-kompletter-Arcade-Automat-fuer-350-Euro-c-t-3003-11227265.html"
-    },
-    {
       "title": "SpeicherkriseDer Festplattenbetrug hört nicht auf",
       "teaser": "Datenrettungsunternehmen benötigen Ersatzeile. Aber auch sie können beim Kauf auf Ebay & Co. auf Betrüger hereinfallen.",
       "url": "https://www.heise.de/news/Kein-Ende-in-Sicht-Betrug-mit-gebrauchten-Festplatten-haelt-an-11227660.html",
@@ -649,6 +644,11 @@
       "teaser": "Nextcloud und Ionos stellen eine moderne, quelloffene Office-Suite in Aussicht. Dafür haben sie OnlyOffice geforkt.",
       "url": "https://www.heise.de/news/Microsoft-Alternative-Nextcloud-und-Ionos-entwickeln-quelloffenes-Euro-Office-11227544.html",
       "image_title": "Screenshot aus Nextcloud Hub"
+    },
+    {
+      "title": "Taugt ein Arcade-Automat für 350 Euro mit Raspberry Pi und Batocera? | c't 3003",
+      "teaser": "Spielhallen-Feeling für 350 Euro: Der Iconic Arcade kommt mit Raspi 4 und emuliert Tausende Spiele. Klingt zu gut? c't 3003 hat's ausprobiert.",
+      "url": "https://www.heise.de/news/Ein-kompletter-Arcade-Automat-fuer-350-Euro-c-t-3003-11227265.html"
     },
     {
       "title": "UpdateExklusives HintergrundgesprächWarum Apples neue M5-Kerne mehr als nur Marketing sind",
@@ -697,16 +697,15 @@
       "url": "https://www.heise.de/tests/DJI-Avata-360-FPV-Drohne-mit-optionalem-Rundumblick-im-Praxistest-11210357.html"
     },
     {
-      "title": "Fotografieren am Klöntalersee in der Schweiz: Farben, Nebel und tolle Fotospots",
-      "teaser": "Spiegelungen, Nebel und Sternenhimmel: So nutzen Sie den See für beeindruckende Astro- und Landschaftsfotografie.",
-      "url": "https://www.heise.de/ratgeber/Fotografieren-am-Kloentalersee-in-der-Schweiz-Farben-Nebel-und-tolle-Fotospots-11213862.html",
-      "image_title": ", Alle Bilder: Katja Seidel"
-    },
-    {
       "title": "Astrofotografie: Mehr Details durch Filter und Modifikation",
       "teaser": "Bereits mit normalen Kameras können starke Sternbilder gelingen. Wir zeigen, wie Sie mit Astromodifikationen noch mehr aus dem Nachthimmel holen.",
       "url": "https://www.heise.de/ratgeber/Astrofotografie-Mehr-Details-durch-Filter-und-Modifikation-11213441.html",
       "image_title": "Ob in der Astrolandschafts- oder Deep-Sky-Fotografie: Eine Astromodifikation der Kamera kann Phänomene sichtbar machen, die dem menschlichen Auge sonst verborgen bleiben., Alle Bilder: Katja Seidel"
+    },
+    {
+      "title": "Canon zögert und APS-C will nach oben – die Fotonews der Woche 12/26",
+      "teaser": "Canon nähert sich dem Kompaktkamera-Boom mit angezogener Handbremse, Fujifilm erklärt den Spaß zur Unternehmensmission, und Vollformat ist überbewertet.",
+      "url": "https://www.heise.de/news/Canon-zoegert-und-APS-C-will-nach-oben-die-Fotonews-der-Woche-12-26-11219557.html"
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -751,22 +750,22 @@
       "image_title": "Vespa Primavera 2026"
     },
     {
-      "title": "Ostafrika baut Schienen – und China bleibt der Taktgeber",
-      "teaser": "Neue Bahnprojekte verbinden Häfen, Rohstoffe und Märkte. Hinter dem Infrastrukturboom wächst ein geopolitischer Wettbewerb, in dem Europa kaum vorkommt.",
-      "url": "https://www.heise.de/-11223426",
-      "image_title": "Zugwaggons an einem Bahnhof in Afrika."
-    },
-    {
-      "title": "Russland macht ernst: Telegram vor dem Aus",
-      "teaser": "Russland blockiert Telegram, vorgeblich aus Sicherheitsgründen. Kritiker sehen weiteren Schritt zu staatlich kontrolliertem Internet. Ein Überblick.",
-      "url": "https://www.heise.de/-11225871",
-      "image_title": "Eine Frau schaut auf ihr Handy, im Hintergrund der Rote Platz"
-    },
-    {
       "title": "Ölkrise spitzt sich zu: Globale Versorgung wird immer knapper",
       "teaser": "Infrastrukturschäden in Golfstaaten und jetzt Russland: Die Welt steht vor der schwersten Versorgungskrise seit Jahrzehnten – und ein Ende ist nicht in Sicht.",
       "url": "https://www.heise.de/-11225276",
       "image_title": "Erdölpreis vor Ölpumpe"
+    },
+    {
+      "title": "Zentrifugen zwischen Trümmern: Hat Iran eine nukleare Zukunft?",
+      "teaser": "Iran könnte nach Kriegsende erneut Uran anreichern. Aber wird das Land daran festhalten und wird es internationale Inspektionen zulassen?",
+      "url": "https://www.heise.de/-11221082",
+      "image_title": "Stoppuhr mit Pfeil für Uran 235, der iranische Atombombe zeigt"
+    },
+    {
+      "title": "Das Iran-Dilemma? Die Anstalt zwischen Profit, Propaganda und Pro-Imperialismus",
+      "teaser": "Satire trifft Iran-Krieg – doch Die Anstalt lieferte zuletzt Propaganda statt Analyse. Die Leerstellen der Sendung lassen aufhorchen. Eine Replik.",
+      "url": "https://www.heise.de/-11226096",
+      "image_title": "Logo der Anstalt in der Iranfolge"
     },
     {
       "title": "Rechtsberatung mit ChatGPT: Für welche juristischen Fragen sich KI eignet",
