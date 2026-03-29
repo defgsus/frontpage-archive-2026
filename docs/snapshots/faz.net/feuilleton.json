@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-29T18:24:50",
+  "timestamp": "2026-03-29T19:23:58",
   "url": "https://www.faz.net/aktuell/feuilleton/",
   "response": {
     "status": 200
@@ -56,9 +56,23 @@
   ],
   "articles": [
     {
+      "title": "FAZ+„Lohengrin“ in Baden-Baden: Da sitzen sie und zerstören ihre Zukunft",
+      "teaser": "Ein orchestrales Lichtwunder: Die Osterfestspiele in Baden-Baden eröffnen mit Richard Wagners Oper „Lohengrin“ in Regie von Johannes Erath.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/osterfestspiele-in-baden-baden-wagners-lohengrin-200683204.html"
+    },
+    {
+      "title": "FAZ+„Was ihr wollt“ in Magdeburg: Domestizierungsversuche in der illyrischen Hofreitschule",
+      "teaser": "Hippodramatik im Hippodrom: Das künftige Leipziger Intendantenteam-Trio inszeniert im Theater Magdeburg Shakespeares „Was ihr wollt“.",
+      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/hippodrama-shakespeares-was-ihr-wollt-in-magdeburg-200683097.html",
+      "image_url": "https://media0.faz.net/image/w730/ce6d2be3b04d/w6048h3402x0y147/202603/e74e9c0f-3826-4d79-9f9d-52f5fa8293ee/boeses-erwachen-an-der-kueste.webp",
+      "image_title": "Böses Erwachen an der Küste von Illyrien: Luise Hart als Viola vor der Phalanx ihrer neun Mitspieler"
+    },
+    {
       "title": "„Polizeiruf 110“ aus Potsdam: Ermittler auf der Therapiematte",
       "teaser": "Außer Kokain in der Kaffeedose bietet der „Polizeiruf“ aus Potsdam wenig Überraschendes. Die Kommissare latschen als Gender-Klischees durch die Stadt und bearbeiten einen Fall nach Lehrplan. Wieso muss der RBB sein Publikum so unterschätzen?",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/der-polizeiruf-110-goldraub-aus-potsdam-200678259.html"
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/fernsehfilm/der-polizeiruf-110-goldraub-aus-potsdam-200678259.html",
+      "image_url": "https://media0.faz.net/image/w730/895257318cb2/w2727h1535x116y310/202603/284f3ed8-29cd-11f1-b8bf-9a30c1c40e8a/kriminalkommissar-vincent-ross.webp",
+      "image_title": "Kriminalkommissar Vincent Ross (André Kaczmarczyk, li.) und sein Kollege Karl Rogov (Frank Leo Schröder) ermitteln zu einem Überfall auf einen Potsdamer Juwelierladen."
     },
     {
       "title": "Kunstraub in Italien: Matisse, Renoir, Cézanne im Wert von mehreren Millionen Euro gestohlen",
@@ -87,20 +101,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-roman-die-riesinnen-von-hannah-haeffner-200677579.html",
       "image_url": "https://media0.faz.net/image/w730/5ed4db7a5123/w5067h2850x249y386/202603/e43cb72e-2798-11f1-94a7-51cc5ca97acb/hannah-haeffner-im-unteren.webp",
       "image_title": "Hannah Häffner im Unteren Schlossgarten in Stuttgart"
-    },
-    {
-      "title": "F.A.Z. Exklusiv: Miosga und NDR: Ulmens Anwalt: „Das Fernsehgericht tagt“",
-      "teaser": "Bei Caren Miosga treten Collien Fernandes, die gegen ihren Ex Christian Ulmen schwere Vorwürfe erhebt, und Justizministerin Stefanie Hubig auf. Ulmens Anwalt hält das angesichts laufender Ermittlungen für „eklatant rechtswidrig“. Miosgas Redaktion widerspricht vehement.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ulmens-anwalt-das-fernsehgericht-tagt-accg-200682565.html",
-      "image_url": "https://media0.faz.net/image/w730/df553aa4f17d/w6144h3456x0y0/202603/43601.0.1927896860/christian-ulmen-und-collien.webp",
-      "image_title": "Christian Ulmen und Collien Fernandes, aufgenommen im April 2024 beim Bundespresseball in Berlin."
-    },
-    {
-      "title": "„Drawing Now“ in Paris: Zeichnen kann man jetzt auch mit den Augen",
-      "teaser": "Längst nicht mehr bloß Übungen mit Stift oder Pinsel auf Papier: Die Messe „Drawing Now“ in Paris zeigt, wie Zeichnungen von Gegenwartskünstlern in den digitalen oder realen Raum hinein führen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/messe-drawing-now-in-paris-accg-200679386.html",
-      "image_url": "https://media0.faz.net/image/w730/a076b5601822/w1293h727x0y883/202603/8e9da726-42c3-484a-a31f-488e96fa37b3/der-mann-schaut-nicht-nur-er.webp",
-      "image_title": "Der Mann schaut nicht nur, er zeichnet: Michel Paysant mit der Digitalbrille, die seine Augenbewegung trackt. Ein Roboter fertigt auf Grundlage der Daten anschließend Bilder."
     },
     {
       "title": "Verirrter Meeressäuger: Der Wal ist motiviert!",
@@ -200,17 +200,18 @@
       "url": "https://www.faz.net/podcasts/f-a-z-buecher-podcast/madita-oeming-erklaert-die-folgen-von-smartphones-fuer-kinder-200622359.html"
     },
     {
-      "title": "Claus Bury wird 80: Heiter Raum um Raum beschreiten",
-      "teaser": "Er möbiliert die Innenstädte mit Brücken, Toren, Wolkenkratzern: Dem architektonischen Bildhauer und skulpturalen Architekten Claus Bury zum Achtzigsten.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/claus-bury-zum-achtzigsten-accg-200679207.html",
-      "image_url": "https://media0.faz.net/image/w920/54bbb6f1941c/w3456h1944x0y180/200702/431.0.66946882/der-bitterfelder-bogen-von.webp",
-      "image_title": "Der „Bitterfelder Bogen“ von Claus Bury, der heute seinen achtzigsten Geburtstag feiert."
+      "title": "F.A.Z. Exklusiv: Miosga und NDR: Ulmens Anwalt: „Das Fernsehgericht tagt“",
+      "teaser": "Bei Caren Miosga treten Collien Fernandes, die gegen ihren Ex Christian Ulmen schwere Vorwürfe erhebt, und Justizministerin Stefanie Hubig auf. Ulmens Anwalt hält das angesichts laufender Ermittlungen für „eklatant rechtswidrig“. Miosgas Redaktion widerspricht vehement.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ulmens-anwalt-das-fernsehgericht-tagt-accg-200682565.html",
+      "image_url": "https://media0.faz.net/image/w920/df553aa4f17d/w6144h3456x0y0/202603/43601.0.1927896860/christian-ulmen-und-collien.webp",
+      "image_title": "Christian Ulmen und Collien Fernandes, aufgenommen im April 2024 beim Bundespresseball in Berlin."
     },
     {
-      "title": "FAZ+High-Speed-Politiker Trump und Hitler: Gestern Venezuela, heute Iran, morgen Kuba?",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/der-historiker-goetz-aly-ueber-die-high-speed-politiker-trump-und-hitler-accg-200677591.html",
-      "image_url": "https://media0.faz.net/image/w920/60282387a722/w2309h1299x1019y323/202603/43601.0.1857172012/hyperaktivitaet-ist-bei-donald.webp",
-      "image_title": "Hyperaktivität ist bei Donald Trump Prinzip."
+      "title": "„Drawing Now“ in Paris: Zeichnen kann man jetzt auch mit den Augen",
+      "teaser": "Längst nicht mehr bloß Übungen mit Stift oder Pinsel auf Papier: Die Messe „Drawing Now“ in Paris zeigt, wie Zeichnungen von Gegenwartskünstlern in den digitalen oder realen Raum hinein führen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/messe-drawing-now-in-paris-accg-200679386.html",
+      "image_url": "https://media0.faz.net/image/w920/a076b5601822/w1293h727x0y883/202603/8e9da726-42c3-484a-a31f-488e96fa37b3/der-mann-schaut-nicht-nur-er.webp",
+      "image_title": "Der Mann schaut nicht nur, er zeichnet: Michel Paysant mit der Digitalbrille, die seine Augenbewegung trackt. Ein Roboter fertigt auf Grundlage der Daten anschließend Bilder."
     },
     {
       "title": "FAZ+Besuch bei Philip Manow: „Die Populisten sind nicht das eigentliche Problem der Demokratie“",
@@ -226,6 +227,12 @@
       "image_title": "Grenzverkehr der Gewalt: eine Kämpferin der iranischen Khabat im Irak. Das Quartier der kurdischen Gruppierung in Erbil war von Iran angegriffen worden."
     },
     {
+      "title": "FAZ+High-Speed-Politiker Trump und Hitler: Gestern Venezuela, heute Iran, morgen Kuba?",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/der-historiker-goetz-aly-ueber-die-high-speed-politiker-trump-und-hitler-accg-200677591.html",
+      "image_url": "https://media0.faz.net/image/w730/60282387a722/w2309h1299x1019y323/202603/43601.0.1857172012/hyperaktivitaet-ist-bei-donald.webp",
+      "image_title": "Hyperaktivität ist bei Donald Trump Prinzip."
+    },
+    {
       "title": "FAZ+Psychologie-Expertin: So hilft uns das Konzept „Reisegruppe“ gegen Einsamkeit",
       "teaser": "Einsamkeit kann krank und radikal machen. Sie kann die Demokratie gefährden und kostet Milliarden. Darum geht sie uns alle an, sagt Expertin Maike Luhmann. Ein Gespräch.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/einsamkeit-so-hilft-uns-das-konzept-reisegruppe-accg-200638378.html",
@@ -233,17 +240,16 @@
       "image_title": "Laut einer Studie der Techniker-Krankenkasse fühlen sich 68 Prozent der jungen Menschen einsam."
     },
     {
-      "title": "FAZ+Deutschland und der Holocaust: Was wussten die Deutschen?",
-      "teaser": "Eine verstörende Ausstellung in der Berliner Topographie des Terrors geht der Frage nach, was die Deutschen über den nationalsozialistischen Massenmord an den europäischen Juden wussten.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/holocaust-was-wussten-die-deutschen-200674331.html",
-      "image_url": "https://media0.faz.net/image/w730/0ac2d728b2ef/w2144h1206x0y12/202603/cd303cad-92ae-44ae-ad97-c56bfb8cade5/versteigerung-juedischen.webp",
-      "image_title": "Versteigerung jüdischen Eigentums in der Gegend von Hanau, 1942."
+      "title": "FAZ+High-Speed-Politiker Trump und Hitler: Gestern Venezuela, heute Iran, morgen Kuba?",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/der-historiker-goetz-aly-ueber-die-high-speed-politiker-trump-und-hitler-accg-200677591.html",
+      "image_url": "https://media0.faz.net/image/w920/f0d60f87b5f4/w3073h1317x538y302/202603/43601.0.1857172012/hyperaktivitaet-ist-bei-donald.webp",
+      "image_title": "Hyperaktivität ist bei Donald Trump Prinzip."
     },
     {
       "title": "Deepfake-Gesetzesentwurf: Sperrt die Accounts!",
       "teaser": "Die Bundesregierung will das Gesetz zum Schutz vor digitaler Gewalt verbessern. Aber gegen die Verbreitung von Fake-Aufnahmen hilft eine Verschärfung des Strafrechts alleine nicht. Einschätzungen von einer Juristin.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/schutz-vor-sexueller-gewalt-im-netz-sperrt-die-accounts-accg-200677597.html",
-      "image_url": "https://media0.faz.net/image/w920/503c9f6511f0/w5777h2475x0y1094/202603/43601.0.1862238996/pornographie-im-internet.webp",
+      "image_url": "https://media0.faz.net/image/w730/2e56199b6c1d/w5777h3250x0y586/202603/43601.0.1862238996/pornographie-im-internet.webp",
       "image_title": "Pornographie im Internet (gestellte Szene)"
     },
     {
@@ -252,13 +258,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/matthias-matschke-den-deutschen-mangelt-es-an-selbstironie-200679361.html",
       "image_url": "https://media0.faz.net/image/w730/8eb52dffbb1a/w7404h4165x0y0/202603/43601.0.1926884032/sandra-kegel-im-gespraech-mit.webp",
       "image_title": "Sandra Kegel im Gespräch mit dem Schauspieler Matthias Matschke zum Thema „Komik in ernsten Zeiten“ beim Kongress „Zukunft gestalten“ der Frankfurter Allgemeinen Zeitung am 27.03.2026."
-    },
-    {
-      "title": "Individuelles Risiko: Mit besseren Daten gegen die Demenz",
-      "teaser": "Wenn nichts passiert, könnten im Jahr 2050 mehr als 2,5 Millionen Menschen in Deutschland an Demenz leiden. Forscher wollen nun individuelle Risikoprofile erstellen, um die Prävention zu verbessern.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/mit-besseren-daten-gegen-die-demenz-200678335.html",
-      "image_url": "https://media0.faz.net/image/w730/6a74f732590a/w6600h3712x0y476/202603/43601.0.1926076035/mit-ki-und-datenanalyse-laesst.webp",
-      "image_title": "Mit KI und Datenanalyse lässt sich das Gehirn völlig neu erforschen."
     },
     {
       "title": "Literarisch kinderlos: Geschlechterpolitik in der Weltliteratur",
@@ -324,10 +323,17 @@
       "image_title": "Sir Paul McCartney auf der Bühne des Co-op Live in Manchester während seiner Got Back Tour 2024. Im Mai erscheint nach über fünf Jahren wieder ein neues Album des Ex-Beatles."
     },
     {
+      "title": "Claus Bury wird 80: Heiter Raum um Raum beschreiten",
+      "teaser": "Er möbiliert die Innenstädte mit Brücken, Toren, Wolkenkratzern: Dem architektonischen Bildhauer und skulpturalen Architekten Claus Bury zum Achtzigsten.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/claus-bury-zum-achtzigsten-accg-200679207.html",
+      "image_url": "https://media0.faz.net/image/w920/b8339aecaa0d/w3456h1481x0y411/200702/431.0.66946882/der-bitterfelder-bogen-von.webp",
+      "image_title": "Der „Bitterfelder Bogen“ von Claus Bury, der heute seinen achtzigsten Geburtstag feiert."
+    },
+    {
       "title": "Kunstkatastrophenschutz: Wer schützt Deutschlands Kulturgüter im Krieg?",
       "teaser": "In der Ukraine sind inzwischen 37 Museen verwüstet, dort wird aber viel für die Sicherung von Kunst getan. Deutsche Museen sind dagegen kaum auf den Ernstfall vorbereitet.",
       "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/wer-schuetzt-bei-uns-kulturgueter-im-krieg-200674845.html",
-      "image_url": "https://media0.faz.net/image/w920/d8fce9f99df2/w6172h2645x0y324/202603/f4656568-2902-11f1-8f0e-b493ea373cd2/krieg-trifft-alles-kiews.webp",
+      "image_url": "https://media0.faz.net/image/w730/d60f373f34b9/w5828h3278x172y8/202603/f4656568-2902-11f1-8f0e-b493ea373cd2/krieg-trifft-alles-kiews.webp",
       "image_title": "Krieg trifft alles: Kiews Khanenko Museum ist vorbereitet."
     },
     {
@@ -336,13 +342,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/ausstellung-in-baden-baden-zeigt-60-jahre-fotorealismus-200670443.html",
       "image_url": "https://media0.faz.net/image/w730/b264d9c71668/w2939h1653x0y235/202603/b1118388-282a-11f1-b209-0020b1b42ad4/da-waren-volkswagen-noch.webp",
       "image_title": "Da waren Volkswagen noch schimmernde Ikonen: Don Eddys „Private Parking III“ aus dem Jahr 1971"
-    },
-    {
-      "title": "Lost and Found: Der Hirsch fährt zur Venedig Biennale",
-      "teaser": "Der Origami-Hirsch von Zhanna Kadyrova stand früher auf einem Sockel in der Ukraine. Als die Russen kamen, wurde er weggeschafft. Jetzt tourt er durch Europa und wird auf der Venedig Biennale die Ukraine repräsentieren.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/gegen-den-krieg-der-origami-hirsch-von-zhanna-kadyrova-accg-200675574.html",
-      "image_url": "https://media0.faz.net/image/w730/2cbeb830a06c/w2250h1266x0y727/202603/1f413574-279a-11f1-94a7-51cc5ca97acb/der-origami-hirsch-von-zhanna.webp",
-      "image_title": "Der Origami-Hirsch von Zhanna Kadyrova in Paris. In Venedig wird er auf der Biennale die Ukraine repräsentieren."
     },
     {
       "title": "Art-Basel-Messe in China: Limbo tanzen mit der Krise",
