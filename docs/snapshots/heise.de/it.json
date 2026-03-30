@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T04:34:49",
+  "timestamp": "2026-03-30T06:22:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,60 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshops: Backup-Strategien für Proxmox-Umgebungen",
+      "teaser": "Lernen Sie, wie Sie Ihre bisherigen Backup-Lösungen optimieren oder auf eine moderne, deduplizierte Backup-Infrastruktur umsteigen.",
+      "url": "https://www.heise.de/news/iX-Workshops-Backup-und-Recovery-mit-Proxmox-11212098.html",
+      "image_title": "iX-Workshop: Backup und Recovery mit Proxmox: Daten automatisiert sichern und nach Ausfällen wiederherstellen"
+    },
+    {
+      "title": "50 Jahre Apple: Menschen, die den Mac- und iPhone-Hersteller präg(t)en",
+      "teaser": "Apple wird am 1. April 50 Jahre alt. Anlässlich des Jubiläums nennen wir einige der wichtigsten Personen, die den Konzern prägten – und ihre zentralen Rollen.",
+      "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-Menschen-die-den-Mac-und-iPhone-Hersteller-praeg-t-en-11211316.html",
+      "image_title": "Visitenkarte von Steve Jobs, zirka 1979"
+    },
+    {
+      "title": "LED-Wasserwaage 2.0 im Selbstbau: Bug behoben",
+      "teaser": "LED-Wasserwaage korrigiert: Herausgekommen sind eine zuverlässigere, leichtere Wasserwaage und einige Einsichten über die Eigenheiten des MPU-6050-Sensors.",
+      "url": "https://www.heise.de/ratgeber/LED-Wasserwaage-2-0-im-Selbstbau-Bug-behoben-11214168.html",
+      "image_title": ","
+    },
+    {
+      "title": "Bit-Rauschen: KI entwickelt KI-Chips",
+      "teaser": "KI soll helfen, KI-Chips schneller und billiger zu entwickeln. Nvidia attackiert AMD und Intel. EU-Vorgaben nerven Embedded-Systems-Entwickler.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-KI-entwickelt-KI-Chips-11138025.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "Hintergrund50 Jahre Apple: Menschen, die den Mac- und iPhone-Hersteller präg(t)en",
+      "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-Menschen-die-den-Mac-und-iPhone-Hersteller-praeg-t-en-11211316.html",
+      "image_title": "Visitenkarte von Steve Jobs, zirka 1979"
+    },
+    {
+      "title": "RatgeberLED-Wasserwaage 2.0 im Selbstbau: Bug behoben",
+      "url": "https://www.heise.de/ratgeber/LED-Wasserwaage-2-0-im-Selbstbau-Bug-behoben-11214168.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundBit-Rauschen: KI entwickelt KI-Chips",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-KI-entwickelt-KI-Chips-11138025.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "OpenAI-API-Nachfolger: Open Responses im Überblick",
+      "teaser": "Open Responses ist der Nachfolger der Chat-Completions-API von OpenAI, des Quasistandards bei der Kommunikation mit großen LLMs. Es gibt einige Änderungen.",
+      "url": "https://www.heise.de/tests/OpenAI-API-Nachfolger-Open-Responses-im-Ueberblick-11225835.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
       "title": "Google erleichtert Wechsel von ChatGPT & Co. zu Gemini mit neuer Importfunktion",
       "teaser": "Von einem KI-Chatbot zum anderen: Googles neue Funktion für den Datentransfer von Erinnerungen und Chatverläufen soll Nutzer zum Wechsel zu Gemini animieren.",
       "url": "https://www.heise.de/news/Google-erleichtert-Wechsel-von-ChatGPT-Co-zu-Gemini-mit-neuer-Importfunktion-11229022.html",
       "image_title": "Googles Gemini-Logo umringt von Chat-Symbolen"
+    },
+    {
+      "title": "Top 10: Das beste Handy-Ladegerät ab 4 Euro im Test",
+      "teaser": "Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben USB-Netzteile unter 65 W auf ihre Leistung getestet.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-handy-ladegeraet-im-test-fuer-iphone-samsung-und-co-ab-4-euro/y3c3lpe?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "SAP greift nach Reltio – Unternehmensdaten sollen KI-bereit werden",
@@ -32,35 +82,16 @@
       "image_title": "SAP-Buchstaben an einem Glasgebäude"
     },
     {
-      "title": "AndroidSideloading-Regeln sollen bei Gerätewechsel erfüllt bleiben",
+      "title": "Android: Neue Sideloading-Regeln sollen bei Gerätewechsel weiter erfüllt bleiben",
       "teaser": "Die einmalige 24-Stunden-Frist beim Android-Sideloading sorgt für viel Frust. Bei einem Gerätewechsel will Google es etwas leichter machen.",
       "url": "https://www.heise.de/news/Android-Neue-Sideloading-Regeln-sollen-bei-Geraetewechsel-weiter-erfuellt-bleiben-11228841.html",
       "image_title": "Grüner Android Bugdroid vor Smartphone"
     },
     {
-      "title": "UpdateSpeicherkriseSony stoppt Auslieferung von Speicherkarten",
+      "title": "UpdateSony stoppt Auslieferung von Speicherkarten",
       "teaser": "Wegen der Speicherkrise kann auch Sony manche Produkte nicht mehr liefern. Nun sind SD- und CF-Express-Karten betroffen.",
       "url": "https://www.heise.de/news/Sony-stoppt-Auslieferung-von-Speicherkarten-11228880.html",
       "image_title": "Drei Speicherkarten, der Größe nach sortiert: CF Express Typ A, SDXC, CF Express Typ B."
-    },
-    {
-      "title": "Hintergrund50 Jahre Apple: Die Rückschau",
-      "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-Die-Rueckschau-11211292.html",
-      "image_title": "50 Jahre Apple"
-    },
-    {
-      "title": "TestsDas iPhone als Schlüssel: Apple Home Key mit Nuki Keypad 2 NFC gegen Aqara U200",
-      "url": "https://www.heise.de/tests/Das-iPhone-als-Schluessel-Apple-Home-Key-mit-Nuki-Keypad-2-NFC-gegen-Aqara-U200-11226909.html",
-      "image_title": "Nukis Keypad 2 NFC neben dem Keypad des Aqara U200"
-    },
-    {
-      "title": "RatgeberPersönliches Wissensmanagement: Die besten Tools und Techniken für Einsteiger",
-      "url": "https://www.heise.de/ratgeber/Persoenliches-Wissensmanagement-Die-besten-Tools-und-Techniken-fuer-Einsteiger-11225813.html"
-    },
-    {
-      "title": "Top 10: Das beste Handy-Ladegerät ab 4 Euro im Test",
-      "teaser": "Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben über zehn USB-Netzteile unter 65 W auf ihre Leistung getestet und zeigen die besten.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-handy-ladegeraet-im-test-fuer-iphone-samsung-und-co-ab-4-euro/y3c3lpe?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Fensterputzroboter Hutt 10 im Test: fast streifenfrei dank Trockentuch",
@@ -96,8 +127,8 @@
       "url": "https://www.heise.de/news/Video-Glasfaserausbau-So-verlaengert-ihr-euren-Anschluss-11227896.html"
     },
     {
-      "title": "Top 10: Das beste Smart Lock im Test",
-      "teaser": "Mit unserem neuen Testsieger kann man die Haustür per Gesicht öffnen. Andere Varianten bieten einen Fingerabdruckscanner.",
+      "title": "Top 10: Das beste Smart Lock im Test – Switchbot mit Gesichtserkennung vor Nuki",
+      "teaser": "Mit unserem neuen Testsieger kann man die Haustür per Gesicht öffnen. Andere Varianten bieten „nur“ einen Fingerabdruckscanner. Wir zeigen die besten Lösungen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smart-lock-im-test-switchbot-mit-gesichtserkennung-vor-nuki/8nlt4e6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
@@ -110,36 +141,6 @@
       "teaser": "Die Europäische Kommission ist Opfer eines Cyberangriffes geworden. Ein mutmaßlicher Angreifer meldete sich bei der Presse.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Cloud-der-EU-Kommission-11228549.html",
       "image_title": "Europäisches Parlament"
-    },
-    {
-      "title": "Berichte über Cyberangriff auf FBI-Direktor Kash Patel durch Iran-Hacker",
-      "teaser": "Cyberkriminelle veröffentlichen private Mails des FBI-Direktors Kash Patel, wie Medien berichten. Die mutmaßliche Tätergruppe ist den USA bekannt.",
-      "url": "https://www.heise.de/news/Berichte-Cyberkriminelle-knacken-Mailfach-des-FBI-Chefs-Patel-11228637.html",
-      "image_title": "Jacke mit FBI-Schriftzug"
-    },
-    {
-      "title": "Telefónica Deutschland: Vorstandsressort vor möglichem Umbau",
-      "teaser": "Insgesamt zwei Ressorts kamen im Oktober auf dem Prüfstand, eines steht Insidern zufolge jetzt vor der Neuaufteilung.",
-      "url": "https://www.heise.de/news/Medienbericht-Vorstandsumbau-bei-Telefonica-wahrscheinlich-11228553.html",
-      "image_title": "Detail der Glasfassade mit Unternehmens-Logo am Hauptquartier des Telefónica-Konzerns in Madrid."
-    },
-    {
-      "title": "Moderne Java-Entwicklung: Online-Konferenz mit Deep-Dive-Vorträgen zu Spring",
-      "teaser": "Die Online-Konferenz am 27. April zeigt Themen von Spring Boot Hacks bis zu KI in Spring-Anwendungen. Noch bis zum 6. April gilt der Frühbucherrabatt.",
-      "url": "https://www.heise.de/news/Moderne-Java-Entwicklung-Noch-Fruehbuchertickets-fuer-betterCode-Spring-sichern-11226822.html",
-      "image_title": "Blättersprösslinge im Frühling"
-    },
-    {
-      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
-      "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11211784.html",
-      "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Qt Framework, VS Code, NativePHP, Node.js, JetBrains, BED-Con, Azul, Tekton, Fluid und KubeVirt.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11225016.html",
-      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "NewsHeruntergeladene Songs: Spotify fordert 300 Millionen Dollar von Anna's Archive",
@@ -177,9 +178,8 @@
       "image_title": "Iranische Ölquellen"
     },
     {
-      "title": "TestsApple Studio Display XDR im Test: Referenz mit doppeltem Hertzschlag",
-      "url": "https://www.heise.de/tests/Apple-Studio-Display-XDR-im-Test-Referenz-mit-doppeltem-Hertzschlag-11227427.html",
-      "image_title": ", Andreas Wodrich / heise medien"
+      "title": "RatgeberPersönliches Wissensmanagement: Die besten Tools und Techniken für Einsteiger",
+      "url": "https://www.heise.de/ratgeber/Persoenliches-Wissensmanagement-Die-besten-Tools-und-Techniken-fuer-Einsteiger-11225813.html"
     }
   ]
 }
