@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-30T08:14:35",
+  "timestamp": "2026-03-30T10:04:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,15 +20,70 @@
   ],
   "articles": [
     {
+      "title": "Mastering GitOps: Praxiswissen von Argo-CD-Fallstricken bis OCI-Patterns",
+      "teaser": "Die Online-Konferenz am 25. Juni präsentiert praxisrelevante GitOps-Themen rund um Platform Engineering, ArgoCD, den Flux Operator und Manifest-Pattern.",
+      "url": "https://www.heise.de/news/Mastering-GitOps-Praxiswissen-von-Argo-CD-Fallstricken-bis-OCI-Patterns-11225280.html",
+      "image_title": "Mastering GitOps 2026"
+    },
+    {
+      "title": "E-Mail-Dienste im Überblick: Von Freemailer bis Hosting",
+      "teaser": "Die E-Mail zählt zu den wichtigsten Kommunikationsmitteln, unverzichtbar für Unternehmen und praktisch eine Bürger-ID für Privatpersonen. Eine Marktübersicht.",
+      "url": "https://www.heise.de/hintergrund/E-Mail-Dienste-im-Ueberblick-Von-Freemailer-bis-Hosting-11223863.html",
+      "image_title": ", Vanessa Bahr / iX"
+    },
+    {
+      "title": "XPipe 22.0: Passwortmanager werden zum SSH-Schlüsselbund",
+      "teaser": "XPipe 22.0 bietet flexiblere Authentifizierung, eine erweiterte Integration von Passwordmanagern und Verbesserungen bei Containern.",
+      "url": "https://www.heise.de/news/XPipe-22-0-Flexiblere-Authentifizierung-und-Passwordmanager-mit-SSH-Agenten-11229414.html",
+      "image_title": "Eine Benutzeroberfläche zur Verwaltung von Serververbindungen, Skripten und Identitäten."
+    },
+    {
+      "title": "CorelDraw 2026 im Test: KI-Tools für Bildgenerierung und Remix",
+      "teaser": "CorelDraw 2026 bringt KI-Werkzeuge, die Bilder generieren, freistellen und mit Vektorgrafik kombinieren. Wir haben sie im Workflow getestet.",
+      "url": "https://www.heise.de/tests/CorelDraw-2026-im-Test-KI-Tools-fuer-Bildgenerierung-und-Remix-11208431.html"
+    },
+    {
+      "title": "TestsCorelDraw 2026 im Test: KI-Tools für Bildgenerierung und Remix",
+      "url": "https://www.heise.de/tests/CorelDraw-2026-im-Test-KI-Tools-fuer-Bildgenerierung-und-Remix-11208431.html"
+    },
+    {
+      "title": "TestsCustom-ROM aus Deutschland: VollaOS im Test",
+      "url": "https://www.heise.de/tests/Custom-ROM-aus-Deutschland-VollaOS-im-Test-11199960.html"
+    },
+    {
+      "title": "Hintergrund50 Jahre Apple: Menschen, die den Mac- und iPhone-Hersteller präg(t)en",
+      "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-Menschen-die-den-Mac-und-iPhone-Hersteller-praeg-t-en-11211316.html",
+      "image_title": "Visitenkarte von Steve Jobs, zirka 1979"
+    },
+    {
+      "title": "Bluesky stellt KI-Assistenten „Attie“ für eigene Social-Feeds vor",
+      "teaser": "Mit \"Attie\" testet Bluesky KI als Werkzeug für mehr Nutzerkontrolle und rückt zugleich sein offenes Protokoll in den Fokus.",
+      "url": "https://www.heise.de/news/Bluesky-stellt-KI-Assistenten-Attie-fuer-eigene-Social-Feeds-vor-11229482.html",
+      "image_title": "Person hält Handy in der Hand mit Bluesky-Logo"
+    },
+    {
+      "title": "Nervige Installation passé: Parallels Desktop erleichtert Bezug von Windows 11",
+      "teaser": "Bislang musste man sich 25H2 mit einigen Kniffen selbst besorgen, nun liefert der Installer in Parallels Desktop auf dem Mac das aktuelle Windows 11.",
+      "url": "https://www.heise.de/news/Parallels-Desktop-fuer-Mac-Update-liefert-nun-aktuellen-Windows-11-Build-11226513.html",
+      "image_title": "Parallels Desktop"
+    },
+    {
+      "title": "Kommentar: Warum das MacBook Neo die Krönung von macOS ist",
+      "teaser": "Apples Mac-OS-X-Betriebssystem feiert einen runden Geburtstag. Es passt gut, dass ausgerechnet jetzt das MacBook Neo auf den Markt kam, meint Johannes Schuster.",
+      "url": "https://www.heise.de/meinung/Kommentar-Warum-das-MacBook-Neo-die-Kroenung-von-macOS-ist-11228865.html",
+      "image_title": "Frühlingserwachen mit dem MacBook Neo"
+    },
+    {
+      "title": "PowerToys 0.98.1 bringen „wichtige“ Stabilitätsverbesserungen",
+      "teaser": "Microsofts Entwickler haben die Hotfix-Version 0.98.1 der PowerToys veröffentlicht. Sie soll Stabilitätsprobleme beseitigen.",
+      "url": "https://www.heise.de/news/PowerToys-0-98-1-bringen-wichtige-Stabilitaetsverbesserungen-11229258.html",
+      "image_title": "Werkzeuge und Oszilloskop/Multimeter um Windows-11-Laptop"
+    },
+    {
       "title": "c’t-Webinar: Windows 11 verstehen statt erdulden",
       "teaser": "Windows 10 mausert sich zum Sicherheitsrisiko. Im Webinar erfahren Sie wie Sie den Umstieg auf Windows 11 sicher meistern und überraschungsfrei weiterarbeiten.",
       "url": "https://www.heise.de/news/c-t-Webinar-Windows-11-verstehen-statt-erdulden-11221078.html",
       "image_title": "Fenster mit vier Scheiben vor orangefarbenem Hintergrund, durch das stilisierte blaue Wellen sichtbar sind, im Vordergrund ein Blumentopf mit grünem Häkchen aus Pflanzen"
-    },
-    {
-      "title": "Custom-ROM aus Deutschland: VollaOS im Test",
-      "teaser": "Auch unter Custom-ROMs ist VollaOS ein Exot. Es hat ein einzigartiges, ablenkungsfreies Bedienkonzept und wartet mit einer Dual-Boot-Funktion auf.",
-      "url": "https://www.heise.de/tests/Custom-ROM-aus-Deutschland-VollaOS-im-Test-11199960.html"
     },
     {
       "title": "AlertJetzt updaten! Angriffe auf F5 BIG-IP Access Policy Manager beobachtet",
@@ -41,20 +96,6 @@
       "teaser": "Die interaktive Shell fish 4.6.0 bringt verbesserte Emoji-Darstellung, neue Prompt-Optionen und eine Bash-kompatible Pipe-Syntax.",
       "url": "https://www.heise.de/news/fish-4-6-0-Shell-mit-besserer-Emoji-Darstellung-Bash-Pipes-11229136.html",
       "image_title": "Ein Abzeichen mit Bergen, einem Fluss und einem globalen Netzwerk-Symbol auf lila Hintergrund mit Sternen und einem Gitter."
-    },
-    {
-      "title": "TestsCustom-ROM aus Deutschland: VollaOS im Test",
-      "url": "https://www.heise.de/tests/Custom-ROM-aus-Deutschland-VollaOS-im-Test-11199960.html"
-    },
-    {
-      "title": "Hintergrund50 Jahre Apple: Menschen, die den Mac- und iPhone-Hersteller präg(t)en",
-      "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-Menschen-die-den-Mac-und-iPhone-Hersteller-praeg-t-en-11211316.html",
-      "image_title": "Visitenkarte von Steve Jobs, zirka 1979"
-    },
-    {
-      "title": "RatgeberLED-Wasserwaage 2.0 im Selbstbau: Bug behoben",
-      "url": "https://www.heise.de/ratgeber/LED-Wasserwaage-2-0-im-Selbstbau-Bug-behoben-11214168.html",
-      "image_title": ","
     },
     {
       "title": "Tipp: Was zu tun ist, wenn die Fritzbox keine Mails mehr verschickt",
@@ -73,6 +114,12 @@
       "teaser": "Lernen Sie, wie Sie Ihre bisherigen Backup-Lösungen optimieren oder auf eine moderne, deduplizierte Backup-Infrastruktur umsteigen.",
       "url": "https://www.heise.de/news/iX-Workshops-Backup-und-Recovery-mit-Proxmox-11212098.html",
       "image_title": "iX-Workshop: Backup und Recovery mit Proxmox: Daten automatisiert sichern und nach Ausfällen wiederherstellen"
+    },
+    {
+      "title": "LED-Wasserwaage 2.0 im Selbstbau: Bug behoben",
+      "teaser": "LED-Wasserwaage korrigiert: Herausgekommen sind eine zuverlässigere, leichtere Wasserwaage und einige Einsichten über die Eigenheiten des MPU-6050-Sensors.",
+      "url": "https://www.heise.de/ratgeber/LED-Wasserwaage-2-0-im-Selbstbau-Bug-behoben-11214168.html",
+      "image_title": ","
     },
     {
       "title": "Bit-Rauschen: KI entwickelt KI-Chips",
@@ -96,52 +143,6 @@
       "title": "Top 10: Das beste Handy-Ladegerät ab 4 Euro im Test",
       "teaser": "Um Handys zu laden, benötigt man kein teures Ladegerät. Wir haben USB-Netzteile unter 65 W auf ihre Leistung getestet.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-handy-ladegeraet-im-test-fuer-iphone-samsung-und-co-ab-4-euro/y3c3lpe?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "SAP greift nach Reltio – Unternehmensdaten sollen KI-bereit werden",
-      "teaser": "SAP will mit der Übernahme von Reltio SAP- und Nicht-SAP-Daten vereinheitlichen und so seine KI-Plattform stärken.",
-      "url": "https://www.heise.de/news/SAP-greift-nach-Reltio-Unternehmensdaten-sollen-KI-bereit-werden-11228920.html",
-      "image_title": "SAP-Buchstaben an einem Glasgebäude"
-    },
-    {
-      "title": "Android: Neue Sideloading-Regeln sollen bei Gerätewechsel weiter erfüllt bleiben",
-      "teaser": "Die einmalige 24-Stunden-Frist beim Android-Sideloading sorgt für viel Frust. Bei einem Gerätewechsel will Google es etwas leichter machen.",
-      "url": "https://www.heise.de/news/Android-Neue-Sideloading-Regeln-sollen-bei-Geraetewechsel-weiter-erfuellt-bleiben-11228841.html",
-      "image_title": "Grüner Android Bugdroid vor Smartphone"
-    },
-    {
-      "title": "UpdateSony stoppt Auslieferung von Speicherkarten",
-      "teaser": "Wegen der Speicherkrise kann auch Sony manche Produkte nicht mehr liefern. Nun sind SD- und CF-Express-Karten betroffen.",
-      "url": "https://www.heise.de/news/Sony-stoppt-Auslieferung-von-Speicherkarten-11228880.html",
-      "image_title": "Drei Speicherkarten, der Größe nach sortiert: CF Express Typ A, SDXC, CF Express Typ B."
-    },
-    {
-      "title": "Fensterputzroboter Hutt 10 im Test: fast streifenfrei dank Trockentuch",
-      "teaser": "Der Fensterputzroboter Hutt 10 überrascht mit einem ungewöhnlichen Zwei-Tuch-System und erstaunlich guten Wischergebnissen.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/fensterputzroboter-hutt-10-im-test-fast-streifenfrei-dank-trockentuch/3p4k3be?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "KI-Turbo im Betrieb: Zwischen Job-Angst und Effizienzrausch",
-      "teaser": "Eine neue Weizenbaum-Studie zeigt große Dynamik beim KI-Einsatz in Firmen. Doch ob die Belegschaft mitzieht, entscheidet oft der Einbezug der Betriebsräte.",
-      "url": "https://www.heise.de/news/KI-Turbo-im-Betrieb-Zwischen-Job-Angst-und-Effizienzrausch-11228806.html",
-      "image_title": "Person arbeitet an einem Schreibtisch mit zwei Monitoren, auf denen komplexe Software- und Netzwerkdiagramme angezeigt werden."
-    },
-    {
-      "title": "iX-Workshop: ISO 27001 als Admin im Unternehmen praktisch umsetzen",
-      "teaser": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-11219233.html",
-      "image_title": "iX-Workshop ISO 27001 für Admins – ISMS praktisch umsetzen"
-    },
-    {
-      "title": "Windows 11: Verteilung der Update-Vorschau gestoppt",
-      "teaser": "Microsoft verteilte seit der Nacht zum Freitag die Update-Vorschauen für Windows 11. Nun gibt es eine Zwangspause im Rollout.",
-      "url": "https://www.heise.de/news/Windows-11-Verteilung-der-Update-Vorschau-gestoppt-11228710.html",
-      "image_title": "Windows Updates sind fehlgeschlagen"
-    },
-    {
-      "title": "Mac & i 2/2026: Apple Creator Studio, MacBook Air im Test, Sport-Apps",
-      "teaser": "Für wen lohnt sich das Abo von Apple Creator Studio mit Final Cut, Pixelmator, Pages und Numbers? In der Mac & i #2 liefern wir Beispielrechnungen und Tests.",
-      "url": "https://www.heise.de/news/Mac-i-2-2026-Apple-Creator-Studio-MacBook-Air-im-Test-Sport-Apps-11222487.html"
     },
     {
       "title": "NewsHeruntergeladene Songs: Spotify fordert 300 Millionen Dollar von Anna's Archive",
