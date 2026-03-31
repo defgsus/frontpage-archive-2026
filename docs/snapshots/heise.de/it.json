@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-03-31T10:42:28",
+  "timestamp": "2026-03-31T11:38:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,28 @@
   ],
   "articles": [
     {
+      "title": "Fotonegative digitalisieren: Scanner-Software für hochauflösende Bilder",
+      "teaser": "Mit einem RasPi und der RasPi-HQ-Kamera lassen sich Fotonegative in digitale Fotos umwandeln. Meine Spezialsoftware sorgt für die richtige Qualität.",
+      "url": "https://www.heise.de/ratgeber/Fotonegative-digitalisieren-Scanner-Software-fuer-hochaufloesende-Bilder-11207409.html",
+      "image_title": ", Via ChatGPT"
+    },
+    {
+      "title": "Neovim 0.12 mit nativem Plugin-Manager",
+      "teaser": "Neovim 0.12 bringt einen nativen Plugin-Manager und macht Schluss mit „Press ENTER“. Ziel ist ein Out-of-the-box-Editor.",
+      "url": "https://www.heise.de/news/Neovim-0-12-mit-nativem-Plugin-Manager-11241207.html",
+      "image_title": "Fliegende Toaster mit Flügeln und Toastbrot, auf deren Displays Buchstaben und Zeichen zu sehen sind."
+    },
+    {
       "title": "c’t-Workshop: Kubernetes im Blick: Observability mit Grafana LGTM meistern",
       "teaser": "Der Workshop vermittelt, wie Sie Monitoring, Analyse und Alarmierung effizient kombinieren und somit für mehr Stabilität im Betrieb sorgen.",
       "url": "https://www.heise.de/news/c-t-Workshop-Kubernetes-im-Blick-Observability-mit-Grafana-LGTM-meistern-11224166.html",
       "image_title": "Figur mit Matrosenhut hält Steuerrad und Fernrohr vor gelbem Hintergrund"
     },
     {
-      "title": "Digitalisierung: Wie ein privates Unternehmen den Amateurbasketball kaperte",
-      "teaser": "Ein spanisches Unternehmen verwaltet die gesamten Daten des Amateurbasketballs in Deutschland. Wer an seine eigenen Statistiken rankommen möchte, muss zahlen.",
-      "url": "https://www.heise.de/hintergrund/Digitalisierung-Wie-ein-privates-Unternehmen-den-Amateurbasketball-kaperte-11098255.html"
-    },
-    {
       "title": "Apple Intelligence: Fehlstart in China, neue Siri doch erst mit iOS 27?",
       "teaser": "Die erste Beta von iOS 26.5 ist da, von einer verbesserten Sprachassistenz zeigt sich aber weiter nichts. In China ging Apple unterdessen zu forsch vor.",
       "url": "https://www.heise.de/news/Apple-Intelligence-Fehlstart-in-China-neue-Siri-doch-erst-mit-iOS-27-11241315.html",
       "image_title": "Siri auf verschiedenen Geräten"
-    },
-    {
-      "title": "Google veröffentlicht ADK 1.0 für Java",
-      "teaser": "Google veröffentlicht ADK 1.0 für Java und erweitert sein Framework für KI-Agenten um Tools, Plugin-System und Zusammenarbeit zwischen Agenten.",
-      "url": "https://www.heise.de/news/ADK-1-0-fuer-Java-erschienen-Google-erweitert-Framework-fuer-KI-Agenten-11241104.html",
-      "image_title": "Kleiner, niedlicher Roboter"
     },
     {
       "title": "RatgeberRasante WordPress-Seiten mit Vinyl Cache",
@@ -55,6 +56,12 @@
       "title": "Hintergrund50 Jahre Apple: 15 Tops, 15 Flops",
       "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-15-Tops-15-Flops-11211302.html",
       "image_title": "Apple-Logo auf einem Mac"
+    },
+    {
+      "title": "Google veröffentlicht ADK 1.0 für Java",
+      "teaser": "Google veröffentlicht ADK 1.0 für Java und erweitert sein Framework für KI-Agenten um Tools, Plugin-System und Zusammenarbeit zwischen Agenten.",
+      "url": "https://www.heise.de/news/ADK-1-0-fuer-Java-erschienen-Google-erweitert-Framework-fuer-KI-Agenten-11241104.html",
+      "image_title": "Kleiner, niedlicher Roboter"
     },
     {
       "title": "„Euro-Office“: OnlyOffice wirft Projekt Lizenzverletzungen vor",
@@ -135,12 +142,6 @@
       "teaser": "Ubuntu plant, ntpd-rs als Standard für die Zeitsynchronisierung einzuführen. Die Rust-Implementierung soll chrony und weitere Tools ersetzen.",
       "url": "https://www.heise.de/news/Ubuntu-setzt-auf-ntpd-rs-Rust-fuer-praezise-Zeitsynchronisierung-11240439.html",
       "image_title": "Hochgenaue Uhrensynchronisation in Netzwerken"
-    },
-    {
-      "title": "Erste SSD: Samsung wechselt von ARM auf RISC-V",
-      "teaser": "Samsung kündigt eine erste SSD an, in deren Controller RISC-V-Kerne sitzen. Der Hersteller verspricht eine höhere Effizienz.",
-      "url": "https://www.heise.de/news/Erste-SSD-Samsung-wechselt-von-ARM-auf-RISC-V-11240405.html",
-      "image_title": "SSDs als M.2-Kärtchen"
     },
     {
       "title": "NewsFestplattenbetrug hört nicht auf",
