@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-01T08:07:13",
+  "timestamp": "2026-04-01T09:56:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,48 @@
   ],
   "articles": [
     {
+      "title": "OpenAI sichert sich 122 Milliarden in einer der größten Finanzierungsrunden",
+      "teaser": "Mit 122 Milliarden US-Dollar schließt OpenAI eine der größten Finanzierungsrunden der Geschichte ab und verschafft sich finanziellen Spielraum im KI-Wettlauf.",
+      "url": "https://www.heise.de/news/Rekord-Finanzierung-OpenAI-sichert-sich-122-Milliarden-US-Dollar-fuer-KI-Ausbau-11242967.html",
+      "image_title": "Sam Altman vor Leinwand mit OpenAI-Schriftzug."
+    },
+    {
+      "title": "App-Sideloading: Was Googles Einschränkungen für Nutzer und Entwickler bedeuten",
+      "teaser": "Künftig erlaubt Android nur noch die Installation von Apps registrierter Entwickler. Wir analysieren, was das für Nutzer und Entwickler bedeutet.",
+      "url": "https://www.heise.de/hintergrund/App-Sideloading-Was-Googles-Einschraenkungen-fuer-Nutzer-und-Entwickler-bedeuten-11226292.html"
+    },
+    {
+      "title": "AlertMalware auf npm: HTTP-Client axios lädt Backdoor für Windows, macOS und Linux",
+      "teaser": "Der Maintainer-Account für das Paket axios auf npm wurde geknackt, um einen Remote-Access-Trojaner für Windows, macOS und Linux einzuschleusen.",
+      "url": "https://www.heise.de/news/Malware-auf-npm-HTTP-Client-axios-laedt-Backdoor-fuer-Windows-macOS-und-Linux-11242675.html",
+      "image_title": "screen mit attack successful"
+    },
+    {
+      "title": "50 Jahre Apple: So alt wird sonst kein Apfel | Mac & i-Podcast",
+      "teaser": "Wir blicken zurück auf Apples bewegte Geschichte und diskutieren, wodurch sich die Firma vom Rest der Branche abheben konnte – und was davon geblieben ist.",
+      "url": "https://www.heise.de/news/50-Jahre-Apple-So-alt-wird-sonst-kein-Apfel-Mac-i-Podcast-11242903.html",
+      "image_title": "Mac & i-Podcast"
+    },
+    {
+      "title": "HintergrundApp-Sideloading: Was Googles Einschränkungen für Nutzer und Entwickler bedeuten",
+      "url": "https://www.heise.de/hintergrund/App-Sideloading-Was-Googles-Einschraenkungen-fuer-Nutzer-und-Entwickler-bedeuten-11226292.html"
+    },
+    {
+      "title": "HintergrundPromptware: Wie weit Malware für KI-Systeme schon ist",
+      "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
+    },
+    {
+      "title": "HintergrundAktive Cyberabwehr: Neue Befugnisse mit alten Problemen",
+      "url": "https://www.heise.de/hintergrund/Aktive-Cyberabwehr-Neue-Befugnisse-mit-alten-Problemen-11229490.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Windows-Update-Vorschau jetzt als Update außer der Reihe verfügbar",
+      "teaser": "Am Wochenende hat Microsoft die Verteilung der Windows-Update-Vorschauen gestoppt. Nun stehen sie als ungeplantes Update bereit.",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-jetzt-als-Update-ausser-der-Reihe-verfuegbar-11242781.html",
+      "image_title": "Update außer der Reihe für die optionale Update-Vorschau verfügbar"
+    },
+    {
       "title": "Drei Fragen und Antworten: Warum ABAP-Entwickler jetzt umdenken müssen",
       "teaser": "Der Wechsel von Dynpro zu SAP Fiori Elements fordert ABAP-Entwickler heraus. Marian Zeis erklärt, worauf es beim Umstieg ankommt.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Warum-ABAP-Entwickler-jetzt-umdenken-muessen-11241139.html",
@@ -32,27 +74,9 @@
       "image_title": "Das Gmail-Logo auf einem Smartphone, hier mit 5590 Benachrichtigungen"
     },
     {
-      "title": "Promptware: Wie weit Malware für KI-Systeme schon ist",
-      "teaser": "Attacken auf große Sprachmodelle gehen mittlerweile weit über reine Prompt-Injections hinaus. Zeit für eine Bestandsaufnahme.",
-      "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
-    },
-    {
       "title": "„Passwort“ Folge 54: Alte Bugs, neue Angriffe und zukünftige PKI",
       "teaser": "Im Podcast geht es um kürzlich entdeckte Lücken in uraltem Unix, aktuelle Angriffe auf Apple-Geräte, quantensichere Zertifikate fürs Web und einiges mehr.",
       "url": "https://www.heise.de/news/Passwort-Folge-54-Alte-Bugs-neue-Angriffe-und-zukuenftige-PKI-11208348.html"
-    },
-    {
-      "title": "HintergrundPromptware: Wie weit Malware für KI-Systeme schon ist",
-      "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
-    },
-    {
-      "title": "HintergrundAktive Cyberabwehr: Neue Befugnisse mit alten Problemen",
-      "url": "https://www.heise.de/hintergrund/Aktive-Cyberabwehr-Neue-Befugnisse-mit-alten-Problemen-11229490.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "RatgeberGebrauchte PCs als Spar-Alternative: Eine Kaufberatung",
-      "url": "https://www.heise.de/ratgeber/Gebrauchte-PCs-als-Spar-Alternative-Eine-Kaufberatung-11154243.html"
     },
     {
       "title": "AlertJetzt aktualisieren! Chrome-Sicherheitslücke wird angegriffen",
@@ -76,6 +100,11 @@
       "teaser": "Die Open-Source-Datenbank RxDB 17 synchronisiert Daten jetzt direkt über Google Drive oder OneDrive – ein eigenes Backend brauchen Entwickler nicht mehr.",
       "url": "https://www.heise.de/news/RxDB-17-Sync-ohne-Server-Zugang-fuer-KI-Agenten-11242237.html",
       "image_title": "Eine Person sitzt am Laptop. Davor ein Symbol für einen offenen Ordner. Drumherum verschiedene Dateien, ebenfalls als Symbole."
+    },
+    {
+      "title": "Gebrauchte PCs als Spar-Alternative: Eine Kaufberatung",
+      "teaser": "Hohe Speicherpreise verteuern neue Desktop-PCs. Wir liefern Tipps, worauf Sie beim Kauf von Rechnern aus zweiter Hand als günstige Alternative achten müssen.",
+      "url": "https://www.heise.de/ratgeber/Gebrauchte-PCs-als-Spar-Alternative-Eine-Kaufberatung-11154243.html"
     },
     {
       "title": "Milliarden-Deal: Nvidia steigt bei Marvell ein",
@@ -111,36 +140,6 @@
       "teaser": "Echt aussehende Verpackungen, Gebrauchsanweisungen und SSD-Aufkleber. Käufer müssen genau hinschauen.",
       "url": "https://www.heise.de/news/Fake-Samsung-SSD-zeigt-SSD-Faelschungen-werden-immer-raffinierter-11241838.html",
       "image_title": "SSD in einem Mainboard"
-    },
-    {
-      "title": "archinstall 4.0: Neue Oberfläche, neue Architektur",
-      "teaser": "archinstall 4.0 ersetzt die curses-Oberfläche durch Textual, ergänzt Firewall- und UKI-Support und modernisiert die interne Architektur grundlegend.",
-      "url": "https://www.heise.de/news/I-install-Arch-BTW-mit-dem-neuen-archinstall-4-0-11241611.html",
-      "image_title": "Ein Pinguin mit \"OPEN SOURCE\" Schriftzug auf einem dreieckigen Patch vor Weltraumhintergrund."
-    },
-    {
-      "title": "Europäische KI-Autonomie: Mistral investiert 830 Mio. US-Dollar in Rechenzentrum",
-      "teaser": "Mistral nimmt einen Kredit von 830 Millionen US-Dollar auf, um nahe Paris ein KI-Rechenzentrum mit Nvidia-GPUs zu bauen. Das soll Europas KI-Autonomie stärken.",
-      "url": "https://www.heise.de/news/Europaeische-KI-Autonomie-Mistral-investiert-830-Mio-US-Dollar-in-Rechenzentrum-11241808.html",
-      "image_title": "Smartphone mit Mistral-AI-Logo."
-    },
-    {
-      "title": "Windows-Insider-Vorschauen bringen Schalter für Administratorschutz",
-      "teaser": "Microsoft hat neue Windows-Insider-Vorschauversionen veröffentlicht. Sie bringen etwa Einstellungen für den Administratorschutz.",
-      "url": "https://www.heise.de/news/Windows-Insider-Vorschauen-bringen-Schalter-fuer-Administratorschutz-11241672.html",
-      "image_title": "Laptop mit Windows-11-Hintergrundbild"
-    },
-    {
-      "title": "Telegram: Hickhack um kritische oder hochriskante Sicherheitslücke",
-      "teaser": "IT-Forscher haben eine vermeintlich kritische Zero-Click-Schwachstelle in Telegram ausgemacht. Telegram widerspricht dem.",
-      "url": "https://www.heise.de/news/Telegram-Hickhack-um-kritische-oder-hochriskante-Sicherheitsluecke-11241393.html",
-      "image_title": "Telegram-App"
-    },
-    {
-      "title": "iX-Workshop: Mastering Azure – Administration der Azure Cloud Services",
-      "teaser": "Lernen Sie, die grundlegenden Komponenten der Microsoft Azure Cloud zu administrieren, zu konfigurieren und zu implementieren [--] in Theorie und Praxis.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mastering-Azure-Administration-der-Azure-Cloud-Services-11219181.html",
-      "image_title": "iX-Workshop Kosteneffiziente Cloud-Nutzung"
     },
     {
       "title": "NewsMondumrundung: Artemis-2-Mission kurz vor dem Start",
