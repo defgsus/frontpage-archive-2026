@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T12:42:55",
+  "timestamp": "2026-04-02T14:14:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,48 @@
     }
   ],
   "articles": [
+    {
+      "title": "Open-Source-CMS von Cloudflare: EmDash fordert WordPress heraus",
+      "teaser": "EmDash ist ein neues Content-Management-System mit TypeScript- und Astro-Basis. Plug-ins sollen dort sicher innerhalb einer Sandbox laufen.",
+      "url": "https://www.heise.de/news/Open-Source-CMS-von-Cloudflare-EmDash-fordert-WordPress-heraus-11245022.html",
+      "image_title": "Zwei tippende Hände auf Laptop; dahinter viele DIN-A4-Order"
+    },
+    {
+      "title": "Gehaltsreport: Was IT-Profis und KI-Spezialisten wirklich verdienen",
+      "teaser": "Welches Gehalt bekommen die Kollegen? Wir zeigen, was IT-Profis verdienen – vom Supporter bis zum CIO.",
+      "url": "https://www.heise.de/hintergrund/Gehaltsreport-Was-IT-Profis-und-KI-Spezialisten-wirklich-verdienen-11244447.html"
+    },
+    {
+      "title": "Proton Meet: Ende-zu-Ende verschlüsselte Videokonferenzen",
+      "teaser": "Proton hat Meet vorgestellt, einen Videokonferenzdienst, der alle Gespräche Ende-zu-Ende verschlüsselt. Er ist kostenlos für bis zu 50 Teilnehmer.",
+      "url": "https://www.heise.de/news/Proton-Meet-Ende-zu-Ende-verschluesselte-Videokonferenzen-11244926.html",
+      "image_title": "Eine Videokonferenz mit vier Teilnehmern und einem geteilten Dokument."
+    },
+    {
+      "title": "Manjaro Linux: Community ringt um mehr Mitbestimmung",
+      "teaser": "Beim Manjaro-Projekt knirscht es. Während manche deshalb das Ende der Linux-Distribution herbeireden, sehen es andere als lange überfällige Neuorganisation.",
+      "url": "https://www.heise.de/hintergrund/Manjaro-Linux-Community-ringt-um-mehr-Mitbestimmung-11229698.html",
+      "image_title": "Der Desktop von Manjaro mit KDE Plasma"
+    },
+    {
+      "title": "HintergrundGehaltsreport: Was IT-Profis und KI-Spezialisten wirklich verdienen",
+      "url": "https://www.heise.de/hintergrund/Gehaltsreport-Was-IT-Profis-und-KI-Spezialisten-wirklich-verdienen-11244447.html"
+    },
+    {
+      "title": "HintergrundManjaro Linux: Community ringt um mehr Mitbestimmung",
+      "url": "https://www.heise.de/hintergrund/Manjaro-Linux-Community-ringt-um-mehr-Mitbestimmung-11229698.html",
+      "image_title": "Der Desktop von Manjaro mit KDE Plasma"
+    },
+    {
+      "title": "TestsEnigma Touch: Emulator der Chiffriermaschine vorgestellt",
+      "url": "https://www.heise.de/tests/Enigma-Touch-Emulator-der-Chiffriermaschine-vorgestellt-11212813.html"
+    },
+    {
+      "title": "Wie funktioniert eigentlich ein Open-Source-Projekt – ein Blick in Kubernetes",
+      "teaser": "Kubernetes ist eines der größten Open-Source-Projekte, unterstützt von Tausenden Contributors. Wie der Einstieg gelingen kann, beschreibt Mario Fahlandt.",
+      "url": "https://www.heise.de/hintergrund/Wie-funktioniert-eigentlich-ein-Open-Source-Projekt-ein-Blick-in-Kubernetes-11227313.html",
+      "image_title": "Mehrere Personen nebeneiander sitzend mit Laptops und Tablets auf dem Schoß"
+    },
     {
       "title": "Spielehersteller Hasbro: Einschränkungen nach IT-Vorfall",
       "teaser": "Der Spielehersteller Hasbro, bekannt etwa für Transformers, hat Einschränkungen des Geschäftsbetriebs nach einem IT-Vorfall gemeldet.",
@@ -42,20 +84,6 @@
       "teaser": "Amazon erwägt laut Bericht den Kauf des Satellitenbetreibers Globalstar, um seine Satellitenpläne zu beschleunigen.",
       "url": "https://www.heise.de/news/Satelliteninternet-Amazon-verhandelt-ueber-Globalstar-Uebernahme-11244697.html",
       "image_title": "Amazon-Logo an der Fassade eines Gebäudes aus rotem Backstein mit großen Fenstern darunter."
-    },
-    {
-      "title": "TestsEnigma Touch: Emulator der Chiffriermaschine vorgestellt",
-      "url": "https://www.heise.de/tests/Enigma-Touch-Emulator-der-Chiffriermaschine-vorgestellt-11212813.html"
-    },
-    {
-      "title": "RatgeberSecurity: Mit Defender-XDR Entra ID schützen",
-      "url": "https://www.heise.de/ratgeber/Security-Mit-Defender-XDR-die-Entra-ID-schuetzen-11229756.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "RatgeberNetzwerksicherheit: Raspi als mobiler Schwachstellen-Scanner im Eigenbau",
-      "url": "https://www.heise.de/ratgeber/Netzwerksicherheit-Raspi-als-mobiler-Schwachstellen-Scanner-im-Eigenbau-11216654.html",
-      "image_title": ","
     },
     {
       "title": "AlertXZ Utils 5.8.3: Sicherheitsupdate mit unklarem Risiko",
@@ -115,34 +143,6 @@
       "teaser": "Event Sourcing liefert LLMs den reichhaltigsten Kontext. Das Model Context Protocol macht diesen Kontext über eine Standardschnittstelle zugänglich.",
       "url": "https://www.heise.de/blog/Event-Sourcing-trifft-MCP-Die-ganze-Geschichte-fuer-LLMs-11211648.html",
       "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
-    },
-    {
-      "title": "Tipp: Laufzeitfehler 53 beim Start von Excel und Word beheben",
-      "teaser": "Bei Verwendung von Excel oder Word kann es dazu kommen, dass beim Öffnen von Dateien merkwürdige Fehlermeldungen erscheinen. Das sind die Hintergründe.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Laufzeitfehler-53-beim-Start-von-Excel-und-Word-beheben-11228462.html",
-      "image_title": "Icon von Microsoft Word of einem Mac"
-    },
-    {
-      "title": "Passwortlose Authentifizierung mit Passkeys, FIDO, SSO und mehr",
-      "teaser": "Wie man FIDO2 und SSO in Webdienste integriert: Konzepte, Protokolle und Best Practices für eine sichere Authentifizierung mit und ohne Passwort.",
-      "url": "https://www.heise.de/news/Passwortlose-Authentifizierung-mit-Passkeys-FIDO-SSO-und-mehr-11219217.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "AlertCisco stopft teils kritische Lücken in mehreren Produkten",
-      "teaser": "Am Mittwoch hat Cisco neun Sicherheitswarnungen herausgegeben. Sie behandeln teils kritische Lücken in mehreren Produkten.",
-      "url": "https://www.heise.de/news/Cisco-stopft-teils-kritische-Luecken-in-mehreren-Produkten-11244121.html",
-      "image_title": "Cisco logo near Cisco headquarters campus in Silicon Valley"
-    },
-    {
-      "title": "Günstige Gebraucht-PCs von erfahrenen Anbietern im Test",
-      "teaser": "Ein aufbereiteter Computer ist umweltfreundlich und zurzeit billiger als 32 Gigabyte Arbeitsspeicher. Wir prüfen drei PCs auf ihre Zukunftssicherheit.",
-      "url": "https://www.heise.de/tests/Guenstige-Gebraucht-PCs-von-erfahrenen-Anbietern-im-Test-11156425.html"
-    },
-    {
-      "title": "FAQ: Risiken beim PC-Kauf im chinesischen Onlinehandel",
-      "teaser": "Auf Plattformen wie Amazon Marketplace gibt es günstige Mini-PCs mit aktueller Technik direkt aus China. Doch beim Kauf im Nicht-EU-Ausland lauern Tücken.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Risiken-beim-PC-Kauf-im-chinesischen-Onlinehandel-11092461.html"
     },
     {
       "title": "NewsAnthropics Claude Code: Kompletter Quellcode im Netz",
