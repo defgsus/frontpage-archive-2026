@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-02T10:40:25",
+  "timestamp": "2026-04-02T11:36:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,18 @@
   ],
   "articles": [
     {
-      "title": "AlertXZ Utils 5.8.3: Sicherheitsupdate mit unklarem Risiko",
+      "title": "Promptware: Wie weit Malware für KI-Systeme schon ist",
+      "teaser": "Attacken auf große Sprachmodelle gehen mittlerweile weit über reine Prompt-Injections hinaus. Zeit für eine Bestandsaufnahme.",
+      "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
+    },
+    {
+      "title": "Satelliteninternet: Amazon verhandelt über Globalstar-Übernahme",
+      "teaser": "Amazon erwägt laut Bericht den Kauf des Satellitenbetreibers Globalstar, um seine Satellitenpläne zu beschleunigen.",
+      "url": "https://www.heise.de/news/Satelliteninternet-Amazon-verhandelt-ueber-Globalstar-Uebernahme-11244697.html",
+      "image_title": "Amazon-Logo an der Fassade eines Gebäudes aus rotem Backstein mit großen Fenstern darunter."
+    },
+    {
+      "title": "AlertXZ Utils 5.8.3Sicherheitsupdate mit unklarem Risiko",
       "teaser": "Die Entwickler der weitverbreiteten XZ Utils haben eine aktualisierte Version veröffentlicht, die Sicherheitslücken ausbessert.",
       "url": "https://www.heise.de/news/XZ-Utils-5-8-3-Sicherheitsupdate-mit-unklarem-Risiko-11244419.html",
       "image_title": "Finger tippt auf Update-Button"
@@ -29,18 +40,6 @@
       "title": "Blick ins Heft c’t 08/2026: PC-Schnäppchen und gute Gebrauchte",
       "teaser": "Neue PCs werden immer teurer. Günstig einkaufen kann man auf dem Gebrauchtmarkt. Wir geben Tipps rund um Mindestausstattung, Windows-Lizenzen und Händlerwahl.",
       "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-08-2026-PC-Schnaeppchen-und-gute-Gebrauchte-11243832.html"
-    },
-    {
-      "title": "Apples CloudKit: Entwickler berichten über Probleme",
-      "teaser": "CloudKit, mit dem Apple Entwicklern eine einfache Synchronisation von App-Daten ermöglicht, scheint mit iOS 26.4 nicht mehr rundzulaufen. Fixes fehlen.",
-      "url": "https://www.heise.de/news/Apples-CloudKit-Entwickler-berichten-ueber-Probleme-11244413.html",
-      "image_title": "iCloud-Logo"
-    },
-    {
-      "title": "ZenDiS sucht Kriterien für digitale Souveränität",
-      "teaser": "Das ZenDiS startet einen Konsultationsprozess, um Kriterien für digitale Souveränität in der Verwaltung zu entwickeln.",
-      "url": "https://www.heise.de/news/ZenDiS-sucht-Kriterien-fuer-digitale-Souveraenitaet-11244379.html",
-      "image_title": "Mehrere blaue und weiße Wolken vor einem sternenübersäten Nachthimmel."
     },
     {
       "title": "TestsEnigma Touch: Emulator der Chiffriermaschine vorgestellt",
@@ -55,6 +54,18 @@
       "title": "RatgeberNetzwerksicherheit: Raspi als mobiler Schwachstellen-Scanner im Eigenbau",
       "url": "https://www.heise.de/ratgeber/Netzwerksicherheit-Raspi-als-mobiler-Schwachstellen-Scanner-im-Eigenbau-11216654.html",
       "image_title": ","
+    },
+    {
+      "title": "Apples CloudKit: Entwickler berichten über Probleme",
+      "teaser": "CloudKit, mit dem Apple Entwicklern eine einfache Synchronisation von App-Daten ermöglicht, scheint mit iOS 26.4 nicht mehr rundzulaufen. Fixes fehlen.",
+      "url": "https://www.heise.de/news/Apples-CloudKit-Entwickler-berichten-ueber-Probleme-11244413.html",
+      "image_title": "iCloud-Logo"
+    },
+    {
+      "title": "ZenDiS sucht Kriterien für digitale Souveränität",
+      "teaser": "Das ZenDiS startet einen Konsultationsprozess, um Kriterien für digitale Souveränität in der Verwaltung zu entwickeln.",
+      "url": "https://www.heise.de/news/ZenDiS-sucht-Kriterien-fuer-digitale-Souveraenitaet-11244379.html",
+      "image_title": "Mehrere blaue und weiße Wolken vor einem sternenübersäten Nachthimmel."
     },
     {
       "title": "Claude Code geleakt: Milliarden für KI-Sicherheit, null für Softwarehygiene",
@@ -130,17 +141,6 @@
       "teaser": "Nach der Supply-Chain-Attacke auf LiteLLM konnten Angreifer auf interne Cisco-Daten zugreifen, heißt es. Sourcecode von Cisco und Kunden wurde wohl gestohlen.",
       "url": "https://www.heise.de/news/Bericht-Cyberkriminelle-stehlen-Quellcode-von-Cisco-und-dessen-Kunden-11244097.html",
       "image_title": "Nahaufnahme des Cisco-Logos auf einem Gerät in einem Rechenzentrum."
-    },
-    {
-      "title": "Top 10: Der beste Fensterputzroboter im Test",
-      "teaser": "Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen die besten Modelle und worauf beim Kauf zu achten ist.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-okay-ab-200-euro-gut-ab-300-euro/rwq727q?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Raspberry Pi: Weitere Preiserhöhungen wegen teurem Speicher",
-      "teaser": "Die meisten Varianten des Raspberry Pi 4 und 5 werden teurer. Der Raspi 5 4 GByte etwa steigt auf 100 Euro.",
-      "url": "https://www.heise.de/news/Bis-zu-150-US-Dollar-Raspi-Preise-steigen-erneut-11243864.html",
-      "image_title": "Raspberry Pi 4 auf einer bunten Box"
     },
     {
       "title": "NewsAnthropics Claude Code: Kompletter Quellcode im Netz",
