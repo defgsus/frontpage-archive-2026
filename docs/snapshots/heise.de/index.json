@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-03T09:41:21",
+  "timestamp": "2026-04-03T10:32:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Artemis-2: Outlook bereitet Astronauten Probleme",
+      "url": "https://www.heise.de/news/Artemis-2-Outlook-verursacht-nicht-nur-auf-der-Erde-Probleme-11245530.html"
+    },
     {
       "title": "„The Secret Agent“ im Heimkinotest: Wer hat Angst vorm Pixelbrei?",
       "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
@@ -60,10 +64,6 @@
     {
       "title": "Irankrieg lässt auch Amazons Gebühren steigen",
       "url": "https://www.heise.de/news/Hohe-Treibstoffpreise-Amazon-com-erhoeht-Tarife-fuer-Haendler-11245418.html"
-    },
-    {
-      "title": "KIT testet Carbon Capture im industriellen Maßstab",
-      "url": "https://www.heise.de/news/KIT-testet-Kohlenstoffabscheidung-und-wiederverwendung-in-der-Industrie-11245362.html"
     },
     {
       "title": "Bitcoin-SicherheitQuanten-Angriff effizienter als gedacht",
@@ -186,20 +186,26 @@
       "image_title": "Start der Rakete Falcon Heavy"
     },
     {
+      "title": "Artemis-2: Outlook bereitet Astronauten Probleme",
+      "teaser": "Auf dem Weg zum Mond kann wirklich alles passieren: Zum Beispiel, dass Outlook nicht funktioniert.",
+      "url": "https://www.heise.de/news/Artemis-2-Outlook-verursacht-nicht-nur-auf-der-Erde-Probleme-11245530.html",
+      "image_title": "Künstlerisches Rendering des Mobile Launcher 2 von NASAs Space Launch System"
+    },
+    {
       "title": "„The Secret Agent“ im Heimkinotest: Wer hat Angst vorm Pixelbrei?",
       "teaser": "Trotz zweier Golden Globes und vier Oscar-Nominierungen erscheint das komplexe Drama mit Wagner Moura nur auf DVD. Ist der Stream die bessere Wahl?",
       "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
       "image_title": "The Secret Agent"
     },
     {
-      "title": "Opel Frontera Extended Range im Test: Günstiges E-SUV mit komfortablem Fahrwerk",
-      "teaser": "Der Frontera gehört zu den günstigsten E-SUVs auf dem Markt. Dafür muss der Kunde mit einigen Einschränkungen leben. In einer Hinsicht überrascht er.",
-      "url": "https://www.heise.de/tests/Opel-Frontera-Extended-Range-im-Test-Guenstiges-E-SUV-mit-komfortablem-Fahrwerk-11224549.html"
-    },
-    {
       "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
       "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
       "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
+      "title": "Opel Frontera Extended Range im Test: Günstiges E-SUV mit komfortablem Fahrwerk",
+      "teaser": "Der Frontera gehört zu den günstigsten E-SUVs auf dem Markt. Dafür muss der Kunde mit einigen Einschränkungen leben. In einer Hinsicht überrascht er.",
+      "url": "https://www.heise.de/tests/Opel-Frontera-Extended-Range-im-Test-Guenstiges-E-SUV-mit-komfortablem-Fahrwerk-11224549.html"
     },
     {
       "title": "iX-Workshop: Deep Dive in Helm – Kubernetes-Anwendungen effizient verwalten",
@@ -229,12 +235,6 @@
       "teaser": "Im c't-Datenschutz-Podcast nehmen sich die Hosts mit einem Experten die aktuellen datenschutzrechtlichen Baustellen von Microsoft 365 vor – wieder einmal.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-156-Datenschutz-Dauerbrenner-Microsoft-365-11244970.html",
       "image_title": "Holger Bleich (links oben), Kai Korte (rechts oben), Joerg Heidrich (unten)"
-    },
-    {
-      "title": "Irankrieg lässt auch Amazons Gebühren steigen",
-      "teaser": "Auch Amazon muss kriegsbedingt mehr für Treibstoff bezahlen. Der Konzern hebt die Kosten für die Abwicklung von Bestellungen bei Dritthändlern an.",
-      "url": "https://www.heise.de/news/Hohe-Treibstoffpreise-Amazon-com-erhoeht-Tarife-fuer-Haendler-11245418.html",
-      "image_title": "Ein dunkelgrauer Amazon-Lieferwagen mit Aufdruck \"Prime\" steht auf einem Grasstreifen, dahinter Wohngebäude"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -328,6 +328,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Irankrieg lässt auch Amazons Gebühren steigen",
+      "teaser": "Auch Amazon muss kriegsbedingt mehr für Treibstoff bezahlen. Der Konzern hebt die Kosten für die Abwicklung von Bestellungen bei Dritthändlern an.",
+      "url": "https://www.heise.de/news/Hohe-Treibstoffpreise-Amazon-com-erhoeht-Tarife-fuer-Haendler-11245418.html",
+      "image_title": "Ein dunkelgrauer Amazon-Lieferwagen mit Aufdruck \"Prime\" steht auf einem Grasstreifen, dahinter Wohngebäude"
+    },
+    {
       "title": "KIT testet Carbon Capture im industriellen Maßstab",
       "teaser": "Karlsruher Forscher haben ein Verfahren zur Kohlenstoffabscheidung und -wiederverwendung entwickelt. Es wird in einem Industriebetrieb eingesetzt.",
       "url": "https://www.heise.de/news/KIT-testet-Kohlenstoffabscheidung-und-wiederverwendung-in-der-Industrie-11245362.html",
@@ -396,15 +402,15 @@
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-1-1-Tarifwechsel-mit-Nebenwirkung-11203720.html"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "Wie funktioniert eigentlich ein Open-Source-Projekt – ein Blick in Kubernetes",
       "teaser": "Kubernetes ist eines der größten Open-Source-Projekte, unterstützt von Tausenden Contributors. Wie der Einstieg gelingen kann, beschreibt Mario Fahlandt.",
       "url": "https://www.heise.de/hintergrund/Wie-funktioniert-eigentlich-ein-Open-Source-Projekt-ein-Blick-in-Kubernetes-11227313.html",
       "image_title": "Mehrere Personen nebeneiander sitzend mit Laptops und Tablets auf dem Schoß"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "Apple-Feierlichkeiten zum Fünfzigsten: Paul McCartney, Börsenbimmel, Prototypen",
@@ -460,11 +466,6 @@
       "image_title": "Surfen am See"
     },
     {
-      "title": "Jetzt in der Make 2/26: Pi Zero als Hacking-Tool",
-      "teaser": "Kleine Wikinger und ein virtuelles Haustier aus Raspberry Pi und E-Paper-Display spüren spielerisch versteckte Schwachstellen im (W)LAN auf.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-26-Pi-Zero-als-Hacking-Tool-11228154.html"
-    },
-    {
       "title": "Bund veröffentlicht lizenzfreie KI-Werkzeuge",
       "url": "https://www.heise.de/news/Public-Money-Public-Code-Bund-veroeffentlicht-KI-Module-fuer-die-Verwaltung-11243586.html",
       "image_title": "Person an einer Tastatur"
@@ -485,14 +486,13 @@
       "image_title": "Mehrere hockende Fotografen, im Hintergrund die Rakete"
     },
     {
+      "title": "Jetzt in der Make 2/26: Pi Zero als Hacking-Tool",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-26-Pi-Zero-als-Hacking-Tool-11228154.html"
+    },
+    {
       "title": "Virgin Galactic kündigt neues Raumfahrzeug und weitere Raumflüge an",
       "url": "https://www.heise.de/news/Virgin-Galactic-will-Ende-des-Jahres-wieder-Touristen-ins-All-bringen-11243918.html",
       "image_title": "Das Raumschiff Unity von Virgin Galactic"
-    },
-    {
-      "title": "Mathematiker fordern Verlegung des größten Fachkongresses weg aus den USA",
-      "url": "https://www.heise.de/news/Mathematiker-fordern-Verlegung-des-groessten-Fachkongresses-weg-aus-den-USA-11242267.html",
-      "image_title": "Mathematische Formeln auf einem dunklen Hintergrund"
     },
     {
       "title": "Tipp: In der PayPal-App sofort mit einem Passkey anmelden",
@@ -641,16 +641,16 @@
       "url": "https://www.heise.de/tests/Enigma-Touch-Emulator-der-Chiffriermaschine-vorgestellt-11212813.html"
     },
     {
-      "title": "Manjaro Linux: Community ringt um mehr Mitbestimmung",
-      "teaser": "Beim Manjaro-Projekt knirscht es. Während manche deshalb das Ende der Linux-Distribution herbeireden, sehen es andere als lange überfällige Neuorganisation.",
-      "url": "https://www.heise.de/hintergrund/Manjaro-Linux-Community-ringt-um-mehr-Mitbestimmung-11229698.html",
-      "image_title": "Der Desktop von Manjaro mit KDE Plasma"
-    },
-    {
       "title": "Auslegungssache 156: Datenschutz-Dauerbrenner Microsoft 365",
       "teaser": "Im c't-Datenschutz-Podcast nehmen sich die Hosts mit einem Experten die aktuellen datenschutzrechtlichen Baustellen von Microsoft 365 vor – wieder einmal.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-156-Datenschutz-Dauerbrenner-Microsoft-365-11244970.html",
       "image_title": "Holger Bleich (links oben), Kai Korte (rechts oben), Joerg Heidrich (unten)"
+    },
+    {
+      "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
+      "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
+      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
+      "image_title": "Ein schwarzer Router"
     },
     {
       "title": "Referenz mit doppeltem HertzschlagApple Studio Display XDR im Test",
@@ -754,21 +754,22 @@
       "image_title": "Opel Frontera Electric"
     },
     {
-      "title": "51% der US-Amerikaner zweifeln am Urknall",
-      "teaser": "\"Werte übertrumpfen Wissenschaft.\" Eine Umfrage bestätigt das Primat der politischen und religiösen Anschauung bei der öffentlichen Einschätzung von Wissenschaft",
-      "url": "https://www.heise.de/-10588083"
+      "title": "Russlands Ölsektor: Zwischen Drohnenangriffen und Rekordpreisen",
+      "teaser": "Während der globale Markt ins Wanken gerät, steht Russlands Energiebranche zwischen erheblichen Verlusten und neuen Chancen. Wie passt das zusammen?",
+      "url": "https://www.heise.de/-11241720",
+      "image_title": "Eine Erdölförderanlage in verschneiter Landschaft"
+    },
+    {
+      "title": "Irak: Milizen greifen US-Truppen an, Kurden unter Druck",
+      "teaser": "Bagdad autorisiert Selbstverteidigung schiitischer Milizen und warnt die Kurden, auf Seiten der USA in den Krieg einzutreten. Die GIs räumen Stützpunkte.",
+      "url": "https://www.heise.de/-11229848",
+      "image_title": "Straßenszene mit Plakat, auf dem viele Männer abgebildet sind."
     },
     {
       "title": "Die Legende vom Tal des Goldes: KI, China und der Iran-Krieg",
       "teaser": "Ein virales chinesisches Animationsvideo erzählt Geopolitik als Fabel, verschiebt Machtverhältnisse und stellt westliche Dominanz offen infrage. Ein Essay.",
       "url": "https://www.heise.de/-11244133",
       "image_title": "Abbildung zeigt eine gezeichnete Katze und einen gezeichneten Seeadler mit goldener Krone . Ansonsten ist das Bild schwarz-weiß."
-    },
-    {
-      "title": "Ramstein: Deutschlands stille Kriegsbeteiligung",
-      "teaser": "Ist Deutschland im Iran Kriegspartei? Ein neues Bundestagsgutachten nährt den Verdacht der Beihilfe. Warum der Krieg ohne Ramstein nicht führbar wäre.",
-      "url": "https://www.heise.de/-11242983",
-      "image_title": "US und deutsche Fahne in Militärbasis"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
