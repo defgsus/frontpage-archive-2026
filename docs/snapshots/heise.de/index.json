@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T13:43:26",
+  "timestamp": "2026-04-04T14:23:32",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Top 10: Der beste Wischsauger im Test – Testsieger Dreame vor Roborock & Dyson",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-wischsauger-im-test-testsieger-dreame-vor-roborock-und-dyson/mel3jmn?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
     {
       "title": "Fotonegative digitalisieren: Scanner-Software für hochauflösende Bilder",
       "url": "https://www.heise.de/ratgeber/Fotonegative-digitalisieren-Scanner-Software-fuer-hochaufloesende-Bilder-11207409.html",
@@ -58,10 +62,6 @@
     {
       "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11244789.html"
-    },
-    {
-      "title": "Black Mirror bekommt ein VR-Erlebnis, in dem sich KI als Albtraum entpuppt",
-      "url": "https://www.heise.de/news/Black-Mirror-bekommt-ein-VR-Erlebnis-in-dem-sich-KI-als-Albtraum-entpuppt-11245644.html"
     },
     {
       "title": "Mitten im LivestreamOutlook bereitet Astronauten von Artemis-2 Probleme",
@@ -181,20 +181,25 @@
       "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
     },
     {
+      "title": "Top 10: Der beste Wischsauger im Test – Testsieger Dreame vor Roborock & Dyson",
+      "teaser": "Akku-Wischsauger saugen und wischen Hartböden in einem Schritt – schnell, bequem und gründlich. Wir zeigen die zehn besten Modelle.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-wischsauger-im-test-testsieger-dreame-vor-roborock-und-dyson/mel3jmn?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Fotonegative digitalisieren: Scanner-Software für hochauflösende Bilder",
       "teaser": "Mit einem RasPi und der RasPi-HQ-Kamera lassen sich Fotonegative in digitale Fotos umwandeln. Meine Spezialsoftware sorgt für die richtige Qualität.",
       "url": "https://www.heise.de/ratgeber/Fotonegative-digitalisieren-Scanner-Software-fuer-hochaufloesende-Bilder-11207409.html",
       "image_title": ", Via ChatGPT"
     },
     {
-      "title": "IT-Sicherheitstag Mainz: Risiken in digitalen Lieferketten",
-      "teaser": "Am 6. Mai in Mainz zeigen Fachleute, wie sich IT-Sicherheit entlang vernetzter Wertschöpfungsketten stärken lässt.",
-      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Risiken-in-digitalen-Lieferketten-11241193.html"
-    },
-    {
       "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
       "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
       "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
+      "title": "IT-Sicherheitstag Mainz: Risiken in digitalen Lieferketten",
+      "teaser": "Am 6. Mai in Mainz zeigen Fachleute, wie sich IT-Sicherheit entlang vernetzter Wertschöpfungsketten stärken lässt.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Risiken-in-digitalen-Lieferketten-11241193.html"
     },
     {
       "title": "Sanktionierter Tanker sorgt mutmaßlich für Ölpest vor Schweden",
@@ -225,12 +230,6 @@
       "teaser": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11219253.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Ky, Qt for Python, Android Media3, node.js, Postman, PHP Debugger, RAD Studio, VS Code und Docker.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11244789.html",
-      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -323,6 +322,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Ky, Qt for Python, Android Media3, node.js, Postman, PHP Debugger, RAD Studio, VS Code und Docker.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11244789.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Kreise, Rundungen und Bögen: Die Bilder der Woche 14",
       "teaser": "Ohne Ecken und Kanten erscheinen gerundete Motive besonders weich und harmonisch, und diese Woche gibt es davon besonders viele.",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html",
@@ -390,15 +395,15 @@
       "url": "https://www.heise.de/tests/Opel-Frontera-Extended-Range-im-Test-Guenstiges-E-SUV-mit-komfortablem-Fahrwerk-11224549.html"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Deep Dive in Helm – Kubernetes-Anwendungen effizient verwalten",
       "teaser": "Lernen Sie praxisnah, wie Sie Kubernetes-Applikationen mit Helm in modernen Containerumgebungen effizient verwalten.",
       "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-Helm-Kubernetes-Anwendungen-effizient-verwalten-11219245.html",
       "image_title": "iX-Workshop: Deep Dive in Helm: Anwendungen in Kubernetes bereitstellen, verwalten und versionieren"
-    },
-    {
-      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
-      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
     },
     {
       "title": "„Star Trek: Infection“ angespielt: Kampf gegen Mutationen und die Technik",
@@ -451,12 +456,6 @@
       "teaser": "Eine aktuelle Untersuchung der Stiftung Datenschutz zeigt: Für 90 Prozent der Bürger ist Datenschutz essenziell – und für Firmen wird er zum Wettbewerbsvorteil.",
       "url": "https://www.heise.de/news/Datenschutz-2026-Vom-laestigen-Paragrafendschungel-zum-Standortvorteil-11245274.html",
       "image_title": "Materials,With,Graphs,And,Accessories,For,Women,And,Girls"
-    },
-    {
-      "title": "Metas neues KI-Spitzenteam soll Feed-Algorithmen noch effektiver gestalten",
-      "teaser": "Ein Forschungsteam soll neue KI-Ansätze für Metas Feed-Algorithmen entwickeln, mit dem Ziel, die Verweildauer auf Facebook und Instagram zu erhöhen.",
-      "url": "https://www.heise.de/news/Metas-neues-KI-Spitzenteam-soll-Feed-Algorithmen-noch-effektiver-gestalten-11244749.html",
-      "image_title": "Apps von Threads, Facebook, Instagram, WhatsApp, Messenger und Meta auf einem Smartphone"
     },
     {
       "title": "Bitcoin-Sicherheit: Quanten-Angriff effizienter als gedacht",
@@ -629,20 +628,21 @@
       "url": "https://www.heise.de/en/news/Artemis-Mission-Apple-Immersive-at-launch-to-the-moon-11244600.html"
     },
     {
-      "title": "c’t uplinkSchnelles Heimnetz für Glasfaser & Co.",
-      "teaser": "Für schnelles Internet muss das eigene Netzwerk mit den Übertragungsraten mithalten. Was kauft man da?",
-      "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
+      "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
+      "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
+      "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
+      "image_title": "The Secret Agent"
+    },
+    {
+      "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
+      "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
+      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
+      "image_title": "Ein schwarzer Router"
     },
     {
       "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
       "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
       "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
-    },
-    {
-      "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
-      "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
-      "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
-      "image_title": "The Secret Agent"
     },
     {
       "title": "Jubiläum50 Jahre Apple: Die Rückschau",
@@ -687,12 +687,6 @@
       "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
     },
     {
-      "title": "Wasserfotografie von Ben Thouard: Wellen zwischen Kunst und Technik",
-      "teaser": "Der französische Fotograf verwandelt Wellen in abstrakte Kunst. Mit Licht, Technik und Geduld entstehen Bilder zwischen Dokumentation und Abstraktion.",
-      "url": "https://www.heise.de/hintergrund/Wasserfotografie-von-Ben-Thouard-Wellen-zwischen-Kunst-und-Technik-11213513.html",
-      "image_title": ", Alle Bilder: Ben Thouard"
-    },
-    {
       "title": "Wer braucht was? Click Boom Flash #59 „Die richtige Kamerawahl“",
       "teaser": "„Es erleichtert das Leben ungemein, wenn die Kamera Szenen durchgehend analysiert“, sagt c't-Redakteur Thomas Hoffmann über den KI-Autofokus moderner Kameras.",
       "url": "https://www.heise.de/news/Wer-braucht-was-Click-Boom-Flash-59-Die-richtige-Kamerawahl-11222613.html"
@@ -702,6 +696,11 @@
       "teaser": "Wegen der Speicherkrise kann auch Sony manche Produkte nicht mehr liefern. Nun sind SD- und CF-Express-Karten betroffen.",
       "url": "https://www.heise.de/news/Sony-stoppt-Auslieferung-von-Speicherkarten-11228880.html",
       "image_title": "Drei Speicherkarten, der Größe nach sortiert: CF Express Typ A, SDXC, CF Express Typ B."
+    },
+    {
+      "title": "Fotonews der KW 13/26Sora ist tot und Kamerahersteller sind sich einig",
+      "teaser": "OpenAI beerdigt seinen Videogenerator, Kameramarken ziehen eine rote Linie , und ein Essay fragt, ob Fotografie ein Beruf sein muss.",
+      "url": "https://www.heise.de/news/Sora-ist-tot-und-Kamerahersteller-sind-sich-einig-die-Fotonews-der-KW-13-26-11227756.html"
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -746,22 +745,22 @@
       "image_title": "Aral-Tankstelle"
     },
     {
-      "title": "Chinas Antike: Die vergessene Autobahn",
-      "teaser": "Vor 2200 Jahren baute China eine Straße, die so breit war wie moderne Autobahnen. Archäologen haben nun einen gut erhaltenen Abschnitt gefunden.",
-      "url": "https://www.heise.de/-11244613",
-      "image_title": "Gesamtansicht der Ausgrabung der Terrakotta-Armee des Mausoleums von Qín Shǐhuángdì."
+      "title": "Südkaukasus: Irankrieg als Katalysator?",
+      "teaser": "Der Irankrieg könnte den Südkaukasus zur globalen Schlüsselregion aufsteigen lassen - oder zum Opfer einer umfassenden humanitären Krise machen. Eine Analyse.",
+      "url": "https://www.heise.de/-11244308",
+      "image_title": "Kaukasus Landkarte"
     },
     {
-      "title": "Ukraine-Krieg zeigt: Warum ein US-Bodenkrieg im Iran zum Risiko wird",
-      "teaser": "Während das Pentagon Truppen verlegt, wächst eine strategische Lücke: Iran und Russland setzen auf Drohnen – die USA holen nur langsam auf. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11245488",
-      "image_title": "Szene zeigt, wie mehrere Drohnen über einer Wüstenbasis kreisen und Explosionen auslösen, während im Vordergrund ein Soldat die Angriffe über Monitore steuert."
+      "title": "Artemis-Programm: Nach den Astronauten kommen die Militärs",
+      "teaser": "Mit dem jüngsten Artemis-Start rückt nicht nur die zivile Rückkehr zum Mond näher – auch das US-Militär bereitet sich darauf vor, zum Erdtrabanten vorzurücken.",
+      "url": "https://www.heise.de/-11244633",
+      "image_title": "eine militarisierte Mondbasis"
     },
     {
-      "title": "Ramstein: Deutschlands stille Kriegsbeteiligung",
-      "teaser": "Ist Deutschland im Iran Kriegspartei? Ein neues Bundestagsgutachten nährt den Verdacht der Beihilfe. Warum der Krieg ohne Ramstein nicht führbar wäre.",
-      "url": "https://www.heise.de/-11242983",
-      "image_title": "US und deutsche Fahne in Militärbasis"
+      "title": "Trumps Rede zur Lage im Iran-Krieg: Alle Fragen offen",
+      "teaser": "Trumps Rede zum Iran-Krieg brachte kaum Neues. Analysten sehen keinen Plan – und kurz nach der Ansprache flogen erneut Raketen.",
+      "url": "https://www.heise.de/-11244407",
+      "image_title": "Ein Mann im Anzug vor Publikum"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
