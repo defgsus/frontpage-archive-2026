@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T06:44:05",
+  "timestamp": "2026-04-04T07:40:16",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11244789.html"
+    },
     {
       "title": "Black Mirror bekommt ein VR-Erlebnis, in dem sich KI als Albtraum entpuppt",
       "url": "https://www.heise.de/news/Black-Mirror-bekommt-ein-VR-Erlebnis-in-dem-sich-KI-als-Albtraum-entpuppt-11245644.html"
@@ -58,10 +62,6 @@
       "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
     },
     {
-      "title": "Ultrahuman Ring Air im Test: Guter Smart Ring ohne Pflicht-Abo für rund 300 Euro",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ultrahuman-ring-air-im-test-guter-smart-ring-ohne-pflicht-abo-fuer-rund-300-euro/fte7hrb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Mitten im LivestreamOutlook bereitet Astronauten von Artemis-2 Probleme",
       "teaser": "Auf dem Weg zum Mond kann wirklich alles passieren: Zum Beispiel, dass Outlook nicht funktioniert.",
       "url": "https://www.heise.de/news/Artemis-2-Outlook-verursacht-nicht-nur-auf-der-Erde-Probleme-11245530.html",
@@ -98,7 +98,7 @@
     },
     {
       "title": "Noise Cancelling schon ab 89 EuroTop 10: Der beste In-Ear-Kopfhörer im Test",
-      "teaser": "Wir haben dutzende richtig gute In-Ear-Kopfhörer getestet. In dieser Bestenliste zeigen wir die zehn besten In-Ears.",
+      "teaser": "Wir haben dutzende richtig gute In-Ear-Kopfhörer getestet. In dieser Bestenliste zeigen wir die zehn besten Ohrstöpsel.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-in-ear-kopfhoerer-im-test-noise-cancelling-schon-ab-89-euro/ef5cmyq?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
@@ -182,21 +182,27 @@
       "image_title": "Start der Rakete Falcon Heavy"
     },
     {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Ky, Qt for Python, Android Media3, node.js, Postman, PHP Debugger, RAD Studio, VS Code und Docker.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11244789.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Black Mirror bekommt ein VR-Erlebnis, in dem sich KI als Albtraum entpuppt",
       "teaser": "In Montreal eröffnet demnächst eine VR-Attraktion mit Lizenz der TV-Serie „Black Mirror“. Besucher erleben darin die dunkle Seite der KI-Entwicklung.",
       "url": "https://www.heise.de/news/Black-Mirror-bekommt-ein-VR-Erlebnis-in-dem-sich-KI-als-Albtraum-entpuppt-11245644.html",
       "image_title": "Gruppe betritt helles Portal bei der „Black Mirror Experience“ in dunklem Raum"
     },
     {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
       "title": "Kreise, Rundungen und Bögen: Die Bilder der Woche 14",
       "teaser": "Ohne Ecken und Kanten erscheinen gerundete Motive besonders weich und harmonisch, und diese Woche gibt es davon besonders viele.",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html",
       "image_title": "Istanbul"
-    },
-    {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Tankrechnung drücken: So sparen sie Sprit und bezahlen weniger an der Tankstelle",
@@ -225,11 +231,6 @@
       "title": "Sind OLEDs jetzt komplett unproblematisch? | c't 3003",
       "teaser": "Sind OLED-Monitore jetzt Mainstream? c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
       "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
-    },
-    {
-      "title": "Ultrahuman Ring Air im Test: Guter Smart Ring ohne Pflicht-Abo für rund 300 Euro",
-      "teaser": "Der Ultrahuman Ring Air trackt Schlaf, Herzfrequenz und HRV ohne Abo-Zwang – kompakt, leicht und unauffälliger als eine Smartwatch.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ultrahuman-ring-air-im-test-guter-smart-ring-ohne-pflicht-abo-fuer-rund-300-euro/fte7hrb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -290,6 +291,11 @@
       "url": "https://www.heise.de/news/Hohe-Spritkosten-Haendler-berichten-wachsendes-Interesse-an-E-Autos-11241710.html"
     },
     {
+      "title": "Die besten DealsMähroboter: Top-Modelle zu Ostern besonders günstig",
+      "teaser": "Über Ostern reduziert Mammotion die Preise für zahlreiche Mähroboter. Auch Modelle anderer Hersteller sind im Angebot.",
+      "url": "https://www.heise.de/bestenlisten/deals/maehroboter-top-modelle-zu-ostern-besonders-guenstig/gv0z7e9?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+    },
+    {
       "title": "Hutt vor Ecovacs und DreameTop 10: Der beste Fensterputzroboter im Test",
       "teaser": "Fensterputzroboter versprechen saubere Scheiben ohne Mühe. Wir zeigen die besten Modelle und worauf beim Kauf zu achten ist.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fensterputzroboter-im-test-okay-ab-200-euro-gut-ab-300-euro/rwq727q?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
@@ -305,11 +311,6 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-handy-ladegeraet-im-test-fuer-iphone-samsung-und-co-ab-4-euro/y3c3lpe?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Garmin vor Huawei und PolarTop 10: Die beste Sportuhr im Test",
-      "teaser": "Die besten Sportuhren im Test: GPS, präzise Pulsmessung und lange Akkulaufzeit – wir zeigen die Top-Modelle.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-sportuhr-im-test-garmin-vor-huawei-und-polar/hxd2jx4?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
-    },
-    {
       "title": "heise-ChatbotPersönlicher IT-Experte: Beta-Version des heise-Chatbots für heise+ Abonnenten",
       "teaser": "Unser neuer Chatbot beantwortet ihre IT-Fragen mit Inhalten von heise online und heise+. Den Bot gibt es exklusiv als Betaversion für heise+ Abonnenten.",
       "url": "https://www.heise.de/news/Persoenlicher-IT-Experte-Beta-Version-des-heise-Chatbots-fuer-heise-Abonnenten-9753979.html",
@@ -320,6 +321,11 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Ultrahuman Ring Air im Test: Guter Smart Ring ohne Pflicht-Abo für rund 300 Euro",
+      "teaser": "Der Ultrahuman Ring Air trackt Schlaf, Herzfrequenz und HRV ohne Abo-Zwang – kompakt, leicht und unauffälliger als eine Smartwatch.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/ultrahuman-ring-air-im-test-guter-smart-ring-ohne-pflicht-abo-fuer-rund-300-euro/fte7hrb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "#TGIQF: Das Quiz rund um Artemis 2 und Co.",
@@ -389,15 +395,15 @@
       "url": "https://www.heise.de/tests/Guenstige-Gebraucht-PCs-von-erfahrenen-Anbietern-im-Test-11156425.html"
     },
     {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
       "title": "Auslegungssache 156: Datenschutz-Dauerbrenner Microsoft 365",
       "teaser": "Im c't-Datenschutz-Podcast nehmen sich die Hosts mit einem Experten die aktuellen datenschutzrechtlichen Baustellen von Microsoft 365 vor – wieder einmal.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-156-Datenschutz-Dauerbrenner-Microsoft-365-11244970.html",
       "image_title": "Holger Bleich (links oben), Kai Korte (rechts oben), Joerg Heidrich (unten)"
-    },
-    {
-      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
-      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
     },
     {
       "title": "Irankrieg lässt auch Amazons Gebühren steigen",
@@ -410,11 +416,6 @@
       "teaser": "Karlsruher Forscher haben ein Verfahren zur Kohlenstoffabscheidung und -wiederverwendung entwickelt. Es wird in einem Industriebetrieb eingesetzt.",
       "url": "https://www.heise.de/news/KIT-testet-Kohlenstoffabscheidung-und-wiederverwendung-in-der-Industrie-11245362.html",
       "image_title": "Die NECOC-Versuchsanlage am KIT: ganz viele Metallrohre"
-    },
-    {
-      "title": "Mähroboter: Top-Modelle zu Ostern besonders günstig",
-      "teaser": "Über Ostern reduziert Mammotion die Preise für zahlreiche Mähroboter. Auch Modelle anderer Hersteller sind im Angebot.",
-      "url": "https://www.heise.de/bestenlisten/deals/maehroboter-top-modelle-zu-ostern-besonders-guenstig/gv0z7e9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Solarstrom mit den Nachbarn teilen: Was ab Juni 2026 möglich sein soll",
@@ -627,21 +628,20 @@
       "url": "https://www.heise.de/en/news/Artemis-Mission-Apple-Immersive-at-launch-to-the-moon-11244600.html"
     },
     {
-      "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
-      "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
-      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
-      "image_title": "Ein schwarzer Router"
-    },
-    {
       "title": "Schnelles Heimnetz für Glasfaser & Co. | c’t uplink",
       "teaser": "Um schnelles Internet auch richtig nutzen zu können, muss das eigene Netzwerk mit den Übertragungsraten mithalten. Welche Technik kauft man da am besten?",
       "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
     },
     {
-      "title": "Auslegungssache 156: Datenschutz-Dauerbrenner Microsoft 365",
-      "teaser": "Im c't-Datenschutz-Podcast nehmen sich die Hosts mit einem Experten die aktuellen datenschutzrechtlichen Baustellen von Microsoft 365 vor – wieder einmal.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-156-Datenschutz-Dauerbrenner-Microsoft-365-11244970.html",
-      "image_title": "Holger Bleich (links oben), Kai Korte (rechts oben), Joerg Heidrich (unten)"
+      "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
+      "teaser": "Sind OLED-Monitore jetzt Mainstream? c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
+      "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
+    },
+    {
+      "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
+      "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
+      "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
+      "image_title": "The Secret Agent"
     },
     {
       "title": "Jubiläum50 Jahre Apple: Die Rückschau",
@@ -745,22 +745,22 @@
       "image_title": "Rauchende Schornsteine"
     },
     {
-      "title": "Ukraine-Krieg zeigt: Warum ein US-Bodenkrieg im Iran zum Risiko wird",
-      "teaser": "Während das Pentagon Truppen verlegt, wächst eine strategische Lücke: Iran und Russland setzen auf Drohnen – die USA holen nur langsam auf. Eine Einschätzung.",
-      "url": "https://www.heise.de/-11245488",
-      "image_title": "Szene zeigt, wie mehrere Drohnen über einer Wüstenbasis kreisen und Explosionen auslösen, während im Vordergrund ein Soldat die Angriffe über Monitore steuert."
+      "title": "Südkaukasus: Irankrieg als Katalysator?",
+      "teaser": "Der Irankrieg könnte den Südkaukasus zur globalen Schlüsselregion aufsteigen lassen - oder zum Opfer einer umfassenden humanitären Krise machen. Eine Analyse.",
+      "url": "https://www.heise.de/-11244308",
+      "image_title": "Kaukasus Landkarte"
     },
     {
-      "title": "Süßstoffe: Genuss ohne Reue und Kalorien?",
-      "teaser": "Wissenschaftler sind sich einig: Süßstoffe verändern den Stoffwechsel und bergen möglicherweise Gesundheitsrisiken. Aber helfen sie wenigstens beim Abnehmen?",
-      "url": "https://www.heise.de/-11228772",
-      "image_title": "Symbolbild mit Arzneifläschchen, die mit den 11 zugelassenen Süßstoffnamen beschriftet sind."
+      "title": "Chinas Antike: Die vergessene Autobahn",
+      "teaser": "Vor 2200 Jahren baute China eine Straße, die so breit war wie moderne Autobahnen. Archäologen haben nun einen gut erhaltenen Abschnitt gefunden.",
+      "url": "https://www.heise.de/-11244613",
+      "image_title": "Gesamtansicht der Ausgrabung der Terrakotta-Armee des Mausoleums von Qín Shǐhuángdì."
     },
     {
-      "title": "Iran-Krieg: Das Ende der Freiheit zur See",
-      "teaser": "Indem die USA das Nadelöhr in ihrer eigenen Hemisphäre unter Kontrolle bringen, schwächen sie die Argumente für freie Seefahrt in der Straße von Hormus.",
-      "url": "https://www.heise.de/-11244491",
-      "image_title": "Stallitenbild der Meeresenge zwischen dem Iran und den VAE"
+      "title": "Kein Aprilscherz: Heute fliegen erstmals seit 1972 wieder Menschen zum Mond",
+      "teaser": "Die Nasa steht kurz vor dem Start der ersten bemannten Mondmission seit über 50 Jahren. Vier Astronauten werden den Erdtrabant umrunden. Wann es genau losgeht.",
+      "url": "https://www.heise.de/-11242837",
+      "image_title": "Eine Rakete vor der Erde"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
