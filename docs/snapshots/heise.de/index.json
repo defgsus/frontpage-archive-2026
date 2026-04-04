@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-04T10:21:31",
+  "timestamp": "2026-04-04T11:18:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "IT-Sicherheitstag Mainz: Risiken in digitalen Lieferketten",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Risiken-in-digitalen-Lieferketten-11241193.html"
+    },
     {
       "title": "Sanktionierter Tanker sorgt mutmaßlich für Ölpest vor Schweden",
       "url": "https://www.heise.de/news/Sanktionierter-Tanker-sorgt-mutmasslich-fuer-Oelpest-vor-Schweden-11245782.html"
@@ -56,12 +60,6 @@
     {
       "title": "Kreise, Rundungen und Bögen: Die Bilder der Woche 14",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html"
-    },
-    {
-      "title": "Tankrechnung drücken: So sparen sie Sprit und bezahlen weniger an der Tankstelle",
-      "url": "https://www.heise.de/tests/Tankrechnung-druecken-So-sparen-sie-Sprit-und-bezahlen-weniger-an-der-Tankstelle-11221127.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
     },
     {
       "title": "Mitten im LivestreamOutlook bereitet Astronauten von Artemis-2 Probleme",
@@ -156,7 +154,7 @@
     },
     {
       "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
-      "teaser": "Das Anker Solix Power Dock kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern. Auch vorhandene Balkonkraftwerke erkennt es.",
+      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
       "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
     },
     {
@@ -166,35 +164,41 @@
     },
     {
       "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
-      "teaser": "Sind OLED-Monitore jetzt Mainstream? c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
+      "teaser": "c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
       "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
     },
     {
       "title": "#TGIQFDas Quiz rund um Artemis 2 und Co.",
-      "teaser": "Wir sind wieder auf dem Weg zum Mond! Zur Feier des Vorbeiflugs haben wir für Sie ein Quiz ins lange Osterwochenende vorbereitet zu Artemis, Apollo und Co.",
+      "teaser": "Zur Feier der Mondmission haben wir ein Quiz ins lange Osterwochenende vorbereitet zu Artemis, Apollo und Co.",
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Artemis-2-und-Co-11245599.html",
       "image_title": "Satelliten"
     },
     {
       "title": "c’t uplinkSchnelles Heimnetz für Glasfaser & Co.",
-      "teaser": "Um schnelles Internet auch richtig nutzen zu können, muss das eigene Netzwerk mit den Übertragungsraten mithalten. Welche Technik kauft man da am besten?",
+      "teaser": "Für schnelles Internet muss das eigene Netzwerk mit den Übertragungsraten mithalten. Was kauft man da?",
       "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
+    },
+    {
+      "title": "IT-Sicherheitstag Mainz: Risiken in digitalen Lieferketten",
+      "teaser": "Am 6. Mai in Mainz zeigen Fachleute, wie sich IT-Sicherheit entlang vernetzter Wertschöpfungsketten stärken lässt.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Risiken-in-digitalen-Lieferketten-11241193.html"
     },
     {
       "title": "Sanktionierter Tanker sorgt mutmaßlich für Ölpest vor Schweden",
       "teaser": "Vor Gotland schwimmt ein Ölteppich. Schwedische Behörden haben einen Tanker im Verdacht, der zur russischen Schattenflotte gehören soll. Er wurde festgesetzt.",
-      "url": "https://www.heise.de/news/Sanktionierter-Tanker-sorgt-mutmasslich-fuer-Oelpest-vor-Schweden-11245782.html"
+      "url": "https://www.heise.de/news/Sanktionierter-Tanker-sorgt-mutmasslich-fuer-Oelpest-vor-Schweden-11245782.html",
+      "image_title": "Ein großer, rostiger Tanker an dem gerade zwei stark motorisierte Schlauchboote anlegen. Die Treppe zum Betreten des Tankers wird gerade ausgklappt."
+    },
+    {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Lomo MC-A im Praxis-Test: Wann sich eine moderne Analogkamera lohnt",
       "teaser": "Die Lomo MC-A verbindet klassische Analogfotografie mit moderner Technik. Autofokus, USB-C-Akku und einige Kreativfunktionen heben sie von anderen Modellen ab.",
       "url": "https://www.heise.de/tests/Lomo-MC-A-im-Praxis-Test-Wann-sich-eine-moderne-Analogkamera-lohnt-11243578.html",
       "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
-    },
-    {
-      "title": "Die unbequeme Wahrheit über Cloud-Sicherheit",
-      "teaser": "Wer im Incident nicht belegen kann, welche Konfiguration wann produktiv war, verliert Zeit und Kontrolle. Der Kriterienkatalog C5 des BSI bietet den Rahmen, um im Ernstfall zielgerichtet zu handeln.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7231710364&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Totgesagte leben länger: Lokale Bilder-KI Amuse 3.2.0 erschienen",
@@ -225,12 +229,6 @@
       "teaser": "Ohne Ecken und Kanten erscheinen gerundete Motive besonders weich und harmonisch, und diese Woche gibt es davon besonders viele.",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html",
       "image_title": "Istanbul"
-    },
-    {
-      "title": "Tankrechnung drücken: So sparen sie Sprit und bezahlen weniger an der Tankstelle",
-      "teaser": "Die Benzinpreise explodieren, Autofahren wird rasant teurer. Das können Sie tun, um Benzin zu sparen und weniger fürs Tanken auszugeben.",
-      "url": "https://www.heise.de/tests/Tankrechnung-druecken-So-sparen-sie-Sprit-und-bezahlen-weniger-an-der-Tankstelle-11221127.html",
-      "image_title": "Blue,Luxury,Suv,Car,Fueling,At,Gas,Station.,Refuel,Fill"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -283,12 +281,12 @@
       "image_title": "Blue,Luxury,Suv,Car,Fueling,At,Gas,Station.,Refuel,Fill"
     },
     {
-      "title": "Ulmen wehrt sich gegen Deepfake-Vorwürfe",
-      "url": "https://www.heise.de/news/Ulmen-wehrt-sich-gegen-Deepfake-Vorwuerfe-11228571.html"
-    },
-    {
       "title": "Tempolimits und mehr Homeoffice: Brüssel appelliert an die Mitgliedstaaten",
       "url": "https://www.heise.de/news/Tempolimits-und-mehr-Homeoffice-Bruessel-appelliert-an-die-Mitgliedstaaten-11243493.html"
+    },
+    {
+      "title": "Hohe Spritkosten treiben Nachfrage nach Elektroautos",
+      "url": "https://www.heise.de/news/Hohe-Spritkosten-Haendler-berichten-wachsendes-Interesse-an-E-Autos-11241710.html"
     },
     {
       "title": "Die besten DealsMähroboter: Top-Modelle zu Ostern besonders günstig",
@@ -321,6 +319,12 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Tankrechnung drücken: So sparen sie Sprit und bezahlen weniger an der Tankstelle",
+      "teaser": "Die Benzinpreise explodieren, Autofahren wird rasant teurer. Das können Sie tun, um Benzin zu sparen und weniger fürs Tanken auszugeben.",
+      "url": "https://www.heise.de/tests/Tankrechnung-druecken-So-sparen-sie-Sprit-und-bezahlen-weniger-an-der-Tankstelle-11221127.html",
+      "image_title": "Blue,Luxury,Suv,Car,Fueling,At,Gas,Station.,Refuel,Fill"
     },
     {
       "title": "Raumfahrt aus Jena: Präzisionssensoren leiten Artemis zum Mond",
@@ -390,15 +394,15 @@
       "image_title": "screenshot aus Star Trek Infection"
     },
     {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
       "title": "Google Drive: Ransomware-Erkennung und Dateiwiederherstellung",
       "teaser": "Google Drive erhält zwei neue Sicherheitsfunktionen: eine Ransomware-Erkennung und eine massenhafte Dateiwiederherstellung.",
       "url": "https://www.heise.de/news/Google-Drive-Ransomware-Erkennung-und-Dateiwiederherstellung-11244868.html",
       "image_title": "Google Drive auf einem Smartphone, links daneben ein Laptop und ein Stift"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "Günstige Gebraucht-PCs von erfahrenen Anbietern im Test",
@@ -450,12 +454,6 @@
       "title": "Leser erzählen: Wo und warum sie richtig alte Software noch nutzen",
       "teaser": "Auf unsere Frage nach weiter genutzten Altrechnern bekamen wir spannende Mails. Manche Leute brauchen sie für spezielle oder lieb gewonnene Software.",
       "url": "https://www.heise.de/hintergrund/Leser-erzaehlen-Wo-und-warum-sie-richtig-alte-Software-noch-nutzen-11097111.html"
-    },
-    {
-      "title": "Grafikkartenpreise stabilisieren sich",
-      "teaser": "Der befürchtete Exodus von bezahlbaren Grafikkarten ist bislang ausgeblieben. Zumindest einige Modelle befinden sich nahe an AMDs und Nvidias Preisempfehlungen.",
-      "url": "https://www.heise.de/news/Grafikkartenpreise-stabilisieren-sich-11245231.html",
-      "image_title": "Mehrere Grafikkarten stehend vor blau-orangefarbenem Hintergrund"
     },
     {
       "title": "Bitcoin-Sicherheit: Quanten-Angriff effizienter als gedacht",
@@ -634,15 +632,15 @@
       "image_title": "Ein schwarzer Router"
     },
     {
-      "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
-      "teaser": "Sind OLED-Monitore jetzt Mainstream? c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
-      "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
-    },
-    {
       "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
       "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
       "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
       "image_title": "The Secret Agent"
+    },
+    {
+      "title": "c’t uplinkSchnelles Heimnetz für Glasfaser & Co.",
+      "teaser": "Für schnelles Internet muss das eigene Netzwerk mit den Übertragungsraten mithalten. Was kauft man da?",
+      "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
     },
     {
       "title": "Jubiläum50 Jahre Apple: Die Rückschau",
@@ -651,16 +649,16 @@
       "image_title": "50 Jahre Apple"
     },
     {
-      "title": "Smarte NeuauflageAirPods Max 2 im Test",
-      "teaser": "Neuer Chip, neue Funktionen: Unser Test zeigt, wo die neuen Hörer besser sind.",
-      "url": "https://www.heise.de/tests/Smarte-Neuauflage-AirPods-Max-2-im-Test-11241507.html",
-      "image_title": "AirPods Max 2 mit Nutzerin"
-    },
-    {
       "title": "Referenz mit doppeltem HertzschlagApple Studio Display XDR im Test",
       "teaser": "Das Studio Display XDR ist Apples neues Referenzdisplay. Es kann Adaptive Sync bis 120 Hz.",
       "url": "https://www.heise.de/tests/Apple-Studio-Display-XDR-im-Test-Referenz-mit-doppeltem-Hertzschlag-11227427.html",
       "image_title": ", Andreas Wodrich / heise medien"
+    },
+    {
+      "title": "50 Jahre Apple15 Tops, 15 Flops",
+      "teaser": "In einem halben Jahrhundert Unternehmensgeschichte gab es bei Apple nicht nur Erfolge, sondern auch reichlich Fehlschläge. Unsere Tops- und Flops-Liste.",
+      "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-15-Tops-15-Flops-11211302.html",
+      "image_title": "Apple-Logo auf einem Mac"
     },
     {
       "title": "Netzwerksicherheit: Raspi als mobiler Schwachstellen-Scanner im Eigenbau",
@@ -746,22 +744,21 @@
       "image_title": "Aral-Tankstelle"
     },
     {
-      "title": "Weiterbildung: Unternehmen wollen profitieren, aber nicht investieren",
-      "teaser": "Firmen setzen auf KI, schulen Mitarbeitende aber kaum. Lernzeit? Oft Privatsache. Was das für Beschäftigte bedeutet – ein Weckruf.",
-      "url": "https://www.heise.de/-11244363",
-      "image_title": "Figur unter der Last eines KI-Buchs"
+      "title": "Ausmaß der Katastrophe noch unklar",
+      "teaser": "Japanische Behörden halten sich weiter bedeckt.",
+      "url": "https://www.heise.de/-10585573"
     },
     {
-      "title": "Kein Aprilscherz: Heute fliegen erstmals seit 1972 wieder Menschen zum Mond",
-      "teaser": "Die Nasa steht kurz vor dem Start der ersten bemannten Mondmission seit über 50 Jahren. Vier Astronauten werden den Erdtrabant umrunden. Wann es genau losgeht.",
-      "url": "https://www.heise.de/-11242837",
-      "image_title": "Eine Rakete vor der Erde"
+      "title": "Iran-Krieg: Das Ende der Freiheit zur See",
+      "teaser": "Indem die USA das Nadelöhr in ihrer eigenen Hemisphäre unter Kontrolle bringen, schwächen sie die Argumente für freie Seefahrt in der Straße von Hormus.",
+      "url": "https://www.heise.de/-11244491",
+      "image_title": "Stallitenbild der Meeresenge zwischen dem Iran und den VAE"
     },
     {
-      "title": "Kuba am Limit: Wenn eine Rente für ein Pfund Reis reicht",
-      "teaser": "Kuba wird von der Trump-Regierung politisch bedroht und wirtschaftlich stranguliert. Der akute Mangel an Strom, Benzin und Lebensmitteln hat massive Folgen.",
-      "url": "https://www.heise.de/-11243530",
-      "image_title": "Menschen auf einer Straße mit wenig Verkehr"
+      "title": "Artemis-II hebt ab: So geht die Mondmission jetzt weiter",
+      "teaser": "Vier Astronauten sind gestern an Bord der Orion-Kapsel erfolgreich gestartet. Doch heute entscheidet sich, ob die Reise Richtung Mond gelingt. Ein Überblick.",
+      "url": "https://www.heise.de/-11244685",
+      "image_title": "Orion-Raumschiff, im Hintergrund der Mond"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
