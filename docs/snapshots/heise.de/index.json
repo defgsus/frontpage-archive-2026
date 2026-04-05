@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T10:21:17",
+  "timestamp": "2026-04-05T11:19:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sichere Softwareentwicklung: Jetzt noch Vortrag für die heise devSec einreichen",
+      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Vortrag-fuer-die-heise-devSec-einreichen-11243005.html"
+    },
     {
       "title": "Satellitenbilder-Stopp: Planet Labs folgt Aufforderung der US-Regierung",
       "url": "https://www.heise.de/news/Planet-Labs-haelt-Satellitenbilder-aus-Nahost-zurueck-11246045.html"
@@ -60,10 +64,6 @@
       "url": "https://www.heise.de/ratgeber/Netzwerksicherheit-Raspi-als-mobiler-Schwachstellen-Scanner-im-Eigenbau-11216654.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Googles Waymo wagt den Sprung nach Europa: Robotaxi-Testlauf in London",
-      "url": "https://www.heise.de/news/Waymo-in-London-Der-ultimative-Haertetest-fuers-autonome-Fahren-11245886.html"
     },
     {
       "title": "Missing LinkWir suchen Terroristen (m/w/d)",
@@ -187,20 +187,26 @@
       "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
     },
     {
+      "title": "Sichere Softwareentwicklung: Jetzt noch Vortrag für die heise devSec einreichen",
+      "teaser": "Der Call for Proposals für die heise devSec in Marburg läuft noch bis zum 14. April. Im Mai findet zusätzlich online der Special Day „KI und Security“ statt.",
+      "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Vortrag-fuer-die-heise-devSec-einreichen-11243005.html",
+      "image_title": "Aufmacher devSec mit Schloss"
+    },
+    {
       "title": "Satellitenbilder-Stopp: Planet Labs folgt Aufforderung der US-Regierung",
       "teaser": "Planet Labs stoppt die Veröffentlichung von Satellitenbildern aus Nahost auf Wunsch der US-Regierung – mit Verweis auf den Iran-Krieg.",
       "url": "https://www.heise.de/news/Planet-Labs-haelt-Satellitenbilder-aus-Nahost-zurueck-11246045.html",
       "image_title": "Künstlerische Darstellung eines Teils der Erdkugel mit vielen Satelliten; im Hintergrund ein Sonnenuntergang"
     },
     {
-      "title": "AlertUpdateAdmins müssen D-Trust-Zertifikate tauschen – bis Ostermontag",
-      "teaser": "Die Bundesdruckerei-Tochter D-Trust beschert Administatoren kurzfristige Ostereinsätze: Ihre TLS-Zertifikate müssen bis Ostermontag 17 Uhr getauscht sein.",
-      "url": "https://www.heise.de/news/Fieses-Osterei-D-Trust-verlangt-Zertifikatstausch-bis-Ostermontag-11245930.html"
-    },
-    {
       "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
       "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
       "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
+      "title": "AlertUpdateAdmins müssen D-Trust-Zertifikate tauschen – bis Ostermontag",
+      "teaser": "Die Bundesdruckerei-Tochter D-Trust beschert Administatoren kurzfristige Ostereinsätze: Ihre TLS-Zertifikate müssen bis Ostermontag 17 Uhr getauscht sein.",
+      "url": "https://www.heise.de/news/Fieses-Osterei-D-Trust-verlangt-Zertifikatstausch-bis-Ostermontag-11245930.html"
     },
     {
       "title": "FAQ: Risiken beim PC-Kauf im chinesischen Onlinehandel",
@@ -229,12 +235,6 @@
       "teaser": "Dynamische Gaussian Splats lassen sich jetzt in guter Qualität auf mobile Geräte und VR-Brillen streamen. Volumetrische Videos werden damit massentauglicher.",
       "url": "https://www.heise.de/hintergrund/Volumetrische-Videos-nehmen-eine-wichtige-Huerde-auf-dem-Weg-zum-Mainstream-11224483.html",
       "image_title": "Zwei Bilder eines volumetrischen Videos, das die Songwriterin Amy May von zwei Seiten zeigt."
-    },
-    {
-      "title": "Netzwerksicherheit: Raspi als mobiler Schwachstellen-Scanner im Eigenbau",
-      "teaser": "Hacking und Pentesting: Wir basteln kleine, niedliche Geräte, mit denen man viel über Sicherheit und Lücken in Netzwerken lernen kann.",
-      "url": "https://www.heise.de/ratgeber/Netzwerksicherheit-Raspi-als-mobiler-Schwachstellen-Scanner-im-Eigenbau-11216654.html",
-      "image_title": ","
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -327,6 +327,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Netzwerksicherheit: Raspi als mobiler Schwachstellen-Scanner im Eigenbau",
+      "teaser": "Hacking und Pentesting: Wir basteln kleine, niedliche Geräte, mit denen man viel über Sicherheit und Lücken in Netzwerken lernen kann.",
+      "url": "https://www.heise.de/ratgeber/Netzwerksicherheit-Raspi-als-mobiler-Schwachstellen-Scanner-im-Eigenbau-11216654.html",
+      "image_title": ","
+    },
+    {
       "title": "Googles Waymo wagt den Sprung nach Europa: Robotaxi-Testlauf in London",
       "teaser": "Googles Robotaxi-Tochter Waymo wagt den Sprung nach Europa. Sie lotet im engen Straßendickicht Londons die Grenzen von KI-Systemen sowie der Stadtpolitik aus.",
       "url": "https://www.heise.de/news/Waymo-in-London-Der-ultimative-Haertetest-fuers-autonome-Fahren-11245886.html",
@@ -396,15 +402,15 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-in-ear-kopfhoerer-im-test-noise-cancelling-schon-ab-89-euro/ef5cmyq?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "Raumfahrt aus Jena: Präzisionssensoren leiten Artemis zum Mond",
       "teaser": "Thüringen hat eine lange Tradition bei der Produktion von Weltraumtechnik. Vor allem eine Firma in Jena hat Sensoren für verschiedene Missionen geliefert.",
       "url": "https://www.heise.de/news/Warum-Thueringen-bei-der-Artemis-Mission-zum-Mond-dabei-ist-11245698.html",
       "image_title": "Ein Mann mit einer Schutzbrille hinter einen Instrument aus Metall"
-    },
-    {
-      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
-      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
     },
     {
       "title": "US-Regierung versus Anthropic: Berufung gegen Sanktionsstopp",
@@ -454,12 +460,6 @@
       "title": "Opel Frontera Extended Range im Test: Günstiges E-SUV mit komfortablem Fahrwerk",
       "teaser": "Der Frontera gehört zu den günstigsten E-SUVs auf dem Markt. Dafür muss der Kunde mit einigen Einschränkungen leben. In einer Hinsicht überrascht er.",
       "url": "https://www.heise.de/tests/Opel-Frontera-Extended-Range-im-Test-Guenstiges-E-SUV-mit-komfortablem-Fahrwerk-11224549.html"
-    },
-    {
-      "title": "iX-Workshop: Deep Dive in Helm – Kubernetes-Anwendungen effizient verwalten",
-      "teaser": "Lernen Sie praxisnah, wie Sie Kubernetes-Applikationen mit Helm in modernen Containerumgebungen effizient verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Deep-Dive-in-Helm-Kubernetes-Anwendungen-effizient-verwalten-11219245.html",
-      "image_title": "iX-Workshop: Deep Dive in Helm: Anwendungen in Kubernetes bereitstellen, verwalten und versionieren"
     },
     {
       "title": "Claude Code geleakt: Milliarden für KI-Sicherheit, null für Softwarehygiene",
@@ -632,26 +632,20 @@
       "url": "https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html"
     },
     {
+      "title": "c’t uplinkSchnelles Heimnetz für Glasfaser & Co.",
+      "teaser": "Für schnelles Internet muss das eigene Netzwerk mit den Übertragungsraten mithalten. Was kauft man da?",
+      "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
+    },
+    {
+      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
+      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
+      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
+    },
+    {
       "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
       "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
       "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
       "image_title": "Ein schwarzer Router"
-    },
-    {
-      "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
-      "teaser": "c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
-      "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
-    },
-    {
-      "title": "FAQ: Risiken beim PC-Kauf im chinesischen Onlinehandel",
-      "teaser": "Auf Plattformen wie Amazon Marketplace gibt es günstige Mini-PCs mit aktueller Technik direkt aus China. Doch beim Kauf im Nicht-EU-Ausland lauern Tücken.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Risiken-beim-PC-Kauf-im-chinesischen-Onlinehandel-11092461.html"
-    },
-    {
-      "title": "Smarte NeuauflageAirPods Max 2 im Test",
-      "teaser": "Neuer Chip, neue Funktionen: Unser Test zeigt, wo die neuen Hörer besser sind.",
-      "url": "https://www.heise.de/tests/Smarte-Neuauflage-AirPods-Max-2-im-Test-11241507.html",
-      "image_title": "AirPods Max 2 mit Nutzerin"
     },
     {
       "title": "Jubiläum50 Jahre Apple: Die Rückschau",
@@ -664,6 +658,12 @@
       "teaser": "In einem halben Jahrhundert Unternehmensgeschichte gab es bei Apple nicht nur Erfolge, sondern auch reichlich Fehlschläge. Unsere Tops- und Flops-Liste.",
       "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-15-Tops-15-Flops-11211302.html",
       "image_title": "Apple-Logo auf einem Mac"
+    },
+    {
+      "title": "WLAN to go: Fünf Mobilfunkrouter mit 5G im Test",
+      "teaser": "5G-Mobilfunkrouter benötigen nur Netzempfang und bringen Wi-Fi auf den Campingplatz, ins Hotel, Ferienhaus und in die Laube. Wir haben fünf Modelle getestet.",
+      "url": "https://www.heise.de/tests/WLAN-to-go-Fuenf-Mobilfunkrouter-mit-5G-im-Test-11228466.html",
+      "image_title": "Surfen am See"
     },
     {
       "title": "Netzwerksicherheit: Raspi als mobiler Schwachstellen-Scanner im Eigenbau",
@@ -684,6 +684,12 @@
       "image_title": "Werbegrafik zu Arduino Days 2026 mit mehreren Arduino UNO Q Zubehör- und Carrier-Boards auf weißem Hintergrund, darunter ein Breakout Carrier, ein Media Carrier, ein LED-Matrix-Modul, ein USB-C-Hub, ein USB-C-Netzteil und ein USB-C-Kabel."
     },
     {
+      "title": "Lomo MC-A im Praxis-Test: Wann sich eine moderne Analogkamera lohnt",
+      "teaser": "Die Lomo MC-A verbindet klassische Analogfotografie mit moderner Technik. Autofokus, USB-C-Akku und einige Kreativfunktionen heben sie von anderen Modellen ab.",
+      "url": "https://www.heise.de/tests/Lomo-MC-A-im-Praxis-Test-Wann-sich-eine-moderne-Analogkamera-lohnt-11243578.html",
+      "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
+    },
+    {
       "title": "Wasserfotografie von Ben Thouard: Wellen zwischen Kunst und Technik",
       "teaser": "Der französische Fotograf verwandelt Wellen in abstrakte Kunst. Mit Licht, Technik und Geduld entstehen Bilder zwischen Dokumentation und Abstraktion.",
       "url": "https://www.heise.de/hintergrund/Wasserfotografie-von-Ben-Thouard-Wellen-zwischen-Kunst-und-Technik-11213513.html",
@@ -699,11 +705,6 @@
       "teaser": "Wegen der Speicherkrise kann auch Sony manche Produkte nicht mehr liefern. Nun sind SD- und CF-Express-Karten betroffen.",
       "url": "https://www.heise.de/news/Sony-stoppt-Auslieferung-von-Speicherkarten-11228880.html",
       "image_title": "Drei Speicherkarten, der Größe nach sortiert: CF Express Typ A, SDXC, CF Express Typ B."
-    },
-    {
-      "title": "Fotonews der KW 13/26Sora ist tot und Kamerahersteller sind sich einig",
-      "teaser": "OpenAI beerdigt seinen Videogenerator, Kameramarken ziehen eine rote Linie , und ein Essay fragt, ob Fotografie ein Beruf sein muss.",
-      "url": "https://www.heise.de/news/Sora-ist-tot-und-Kamerahersteller-sind-sich-einig-die-Fotonews-der-KW-13-26-11227756.html"
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -748,22 +749,20 @@
       "image_title": "Aral-Tankstelle"
     },
     {
-      "title": "Chinas Antike: Die vergessene Autobahn",
-      "teaser": "Vor 2200 Jahren baute China eine Straße, die so breit war wie moderne Autobahnen. Archäologen haben nun einen gut erhaltenen Abschnitt gefunden.",
-      "url": "https://www.heise.de/-11244613",
-      "image_title": "Gesamtansicht der Ausgrabung der Terrakotta-Armee des Mausoleums von Qín Shǐhuángdì."
+      "title": "Telepolis-Musikcharts im Februar",
+      "teaser": "Mit Carmageddon als Musikvideo, Konzerteindrücken und Kabarettisten",
+      "url": "https://www.heise.de/-10579118"
     },
     {
-      "title": "Nuklearer Schutzschirm? Wie Sicherheitspolitik mit Sprache täuscht",
-      "teaser": "Vom \"Schutzschirm\" bis zur \"Modernisierung\": Wie verschleiernder Sprachgebrauch nukleare Risiken verharmlost – und die Illusion von Sicherheit erzeugt.",
-      "url": "https://www.heise.de/-11245844",
-      "image_title": "Raketen auf dem Hintergrund einer Weltkarte"
+      "title": "51% der US-Amerikaner zweifeln am Urknall",
+      "teaser": "\"Werte übertrumpfen Wissenschaft.\" Eine Umfrage bestätigt das Primat der politischen und religiösen Anschauung bei der öffentlichen Einschätzung von Wissenschaft",
+      "url": "https://www.heise.de/-10588083"
     },
     {
-      "title": "Südkaukasus: Irankrieg als Katalysator?",
-      "teaser": "Der Irankrieg könnte den Südkaukasus zur globalen Schlüsselregion aufsteigen lassen - oder zum Opfer einer umfassenden humanitären Krise machen. Eine Analyse.",
-      "url": "https://www.heise.de/-11244308",
-      "image_title": "Kaukasus Landkarte"
+      "title": "Kuba am Limit: Wenn eine Rente für ein Pfund Reis reicht",
+      "teaser": "Kuba wird von der Trump-Regierung politisch bedroht und wirtschaftlich stranguliert. Der akute Mangel an Strom, Benzin und Lebensmitteln hat massive Folgen.",
+      "url": "https://www.heise.de/-11243530",
+      "image_title": "Menschen auf einer Straße mit wenig Verkehr"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
