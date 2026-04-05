@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-05T09:28:06",
+  "timestamp": "2026-04-05T10:21:17",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Satellitenbilder-Stopp: Planet Labs folgt Aufforderung der US-Regierung",
+      "url": "https://www.heise.de/news/Planet-Labs-haelt-Satellitenbilder-aus-Nahost-zurueck-11246045.html"
+    },
     {
       "title": "Admins müssen D-Trust-Zertifikate tauschen – bis Ostermontag",
       "url": "https://www.heise.de/news/Fieses-Osterei-D-Trust-verlangt-Zertifikatstausch-bis-Ostermontag-11245930.html"
@@ -60,10 +64,6 @@
     {
       "title": "Googles Waymo wagt den Sprung nach Europa: Robotaxi-Testlauf in London",
       "url": "https://www.heise.de/news/Waymo-in-London-Der-ultimative-Haertetest-fuers-autonome-Fahren-11245886.html"
-    },
-    {
-      "title": "Top 10: Der beste Fitness-Tracker im Test – gute Pulsuhren schon unter 100 Euro",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fitness-tracker-im-test-gute-pulsuhren-schon-unter-100-euro/nh3k090?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Missing LinkWir suchen Terroristen (m/w/d)",
@@ -187,19 +187,25 @@
       "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
     },
     {
+      "title": "Satellitenbilder-Stopp: Planet Labs folgt Aufforderung der US-Regierung",
+      "teaser": "Planet Labs stoppt die Veröffentlichung von Satellitenbildern aus Nahost auf Wunsch der US-Regierung – mit Verweis auf den Iran-Krieg.",
+      "url": "https://www.heise.de/news/Planet-Labs-haelt-Satellitenbilder-aus-Nahost-zurueck-11246045.html",
+      "image_title": "Künstlerische Darstellung eines Teils der Erdkugel mit vielen Satelliten; im Hintergrund ein Sonnenuntergang"
+    },
+    {
       "title": "AlertUpdateAdmins müssen D-Trust-Zertifikate tauschen – bis Ostermontag",
       "teaser": "Die Bundesdruckerei-Tochter D-Trust beschert Administatoren kurzfristige Ostereinsätze: Ihre TLS-Zertifikate müssen bis Ostermontag 17 Uhr getauscht sein.",
       "url": "https://www.heise.de/news/Fieses-Osterei-D-Trust-verlangt-Zertifikatstausch-bis-Ostermontag-11245930.html"
     },
     {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
       "title": "FAQ: Risiken beim PC-Kauf im chinesischen Onlinehandel",
       "teaser": "Auf Plattformen wie Amazon Marketplace gibt es günstige Mini-PCs mit aktueller Technik direkt aus China. Doch beim Kauf im Nicht-EU-Ausland lauern Tücken.",
       "url": "https://www.heise.de/ratgeber/FAQ-Risiken-beim-PC-Kauf-im-chinesischen-Onlinehandel-11092461.html"
-    },
-    {
-      "title": "Identity Governance und die effiziente Verwaltung von Identitäten",
-      "teaser": "Trotz Identity-Managements fehlt in Unternehmen oft die Übersicht über die Zugriffsrechte. Regulatorische Anforderungen erhöhen den Druck – Plattformen für Identity Governance können dann helfen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7240350882&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "AlertJetzt updaten! Kritische FortiClient-EMS-Lücke wird attackiert",
@@ -213,6 +219,12 @@
       "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
+      "title": "10 Jahre HTC Vive: Vom gescheiterten Smartphone-Pionier zum VR-Vorreiter",
+      "teaser": "Vom kriselnden Handyproduzenten zum wichtigen Akteur im VR-Markt: Zum zehnten Geburtstag der HTC Vive blicken wir auf eine ungewöhnliche Partnerschaft zurück.",
+      "url": "https://www.heise.de/hintergrund/10-Jahre-HTC-Vive-Vom-gescheiterten-Smartphone-Pionier-zum-VR-Vorreiter-11244862.html",
+      "image_title": "Eine HTC Vive mit Controllern und Basisstationen in einem Schaukasten."
+    },
+    {
       "title": "Volumetrische Videos nehmen eine wichtige Hürde auf dem Weg zum Mainstream",
       "teaser": "Dynamische Gaussian Splats lassen sich jetzt in guter Qualität auf mobile Geräte und VR-Brillen streamen. Volumetrische Videos werden damit massentauglicher.",
       "url": "https://www.heise.de/hintergrund/Volumetrische-Videos-nehmen-eine-wichtige-Huerde-auf-dem-Weg-zum-Mainstream-11224483.html",
@@ -223,17 +235,6 @@
       "teaser": "Hacking und Pentesting: Wir basteln kleine, niedliche Geräte, mit denen man viel über Sicherheit und Lücken in Netzwerken lernen kann.",
       "url": "https://www.heise.de/ratgeber/Netzwerksicherheit-Raspi-als-mobiler-Schwachstellen-Scanner-im-Eigenbau-11216654.html",
       "image_title": ","
-    },
-    {
-      "title": "Googles Waymo wagt den Sprung nach Europa: Robotaxi-Testlauf in London",
-      "teaser": "Googles Robotaxi-Tochter Waymo wagt den Sprung nach Europa. Sie lotet im engen Straßendickicht Londons die Grenzen von KI-Systemen sowie der Stadtpolitik aus.",
-      "url": "https://www.heise.de/news/Waymo-in-London-Der-ultimative-Haertetest-fuers-autonome-Fahren-11245886.html",
-      "image_title": "Waymo,Jaguar,I-pace,Equipped,With,Self-driving,Technology,Navigates,A,City"
-    },
-    {
-      "title": "Top 10: Der beste Fitness-Tracker im Test – gute Pulsuhren schon unter 100 Euro",
-      "teaser": "Ein Fitness-Armband liefert beim Sport wertvolle Daten zur Herzfrequenz oder zum Kalorienverbrauch. Wir zeigen die zehn besten Fitness-Tracker.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fitness-tracker-im-test-gute-pulsuhren-schon-unter-100-euro/nh3k090?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -326,6 +327,17 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Googles Waymo wagt den Sprung nach Europa: Robotaxi-Testlauf in London",
+      "teaser": "Googles Robotaxi-Tochter Waymo wagt den Sprung nach Europa. Sie lotet im engen Straßendickicht Londons die Grenzen von KI-Systemen sowie der Stadtpolitik aus.",
+      "url": "https://www.heise.de/news/Waymo-in-London-Der-ultimative-Haertetest-fuers-autonome-Fahren-11245886.html",
+      "image_title": "Waymo,Jaguar,I-pace,Equipped,With,Self-driving,Technology,Navigates,A,City"
+    },
+    {
+      "title": "Top 10: Der beste Fitness-Tracker im Test – gute Pulsuhren schon unter 100 Euro",
+      "teaser": "Ein Fitness-Armband liefert beim Sport wertvolle Daten zur Herzfrequenz oder zum Kalorienverbrauch. Wir zeigen die zehn besten Fitness-Tracker.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-fitness-tracker-im-test-gute-pulsuhren-schon-unter-100-euro/nh3k090?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Fotonegative digitalisieren: Scanner-Software für hochauflösende Bilder",
       "teaser": "Mit einem RasPi und der RasPi-HQ-Kamera lassen sich Fotonegative in digitale Fotos umwandeln. Meine Spezialsoftware sorgt für die richtige Qualität.",
       "url": "https://www.heise.de/ratgeber/Fotonegative-digitalisieren-Scanner-Software-fuer-hochaufloesende-Bilder-11207409.html",
@@ -390,6 +402,11 @@
       "image_title": "Ein Mann mit einer Schutzbrille hinter einen Instrument aus Metall"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "US-Regierung versus Anthropic: Berufung gegen Sanktionsstopp",
       "teaser": "KI-Entwickler Anthropic wehrte sich zunächst mit Erfolg gegen Sanktionen der Trump-Regierung. Die setzt nun zum Gegenschlag an.",
       "url": "https://www.heise.de/news/US-Regierung-versus-Anthropic-Berufung-gegen-Sanktionsstopp-11245632.html",
@@ -399,11 +416,6 @@
       "title": "Ultrahuman Ring Air im Test: Guter Smart Ring ohne Pflicht-Abo für rund 300 Euro",
       "teaser": "Der Ultrahuman Ring Air trackt Schlaf, Herzfrequenz und HRV ohne Abo-Zwang – kompakt, leicht und unauffälliger als eine Smartwatch.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ultrahuman-ring-air-im-test-guter-smart-ring-ohne-pflicht-abo-fuer-rund-300-euro/fte7hrb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
-      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
     },
     {
       "title": "Chatkontrolle: Ausnahme für Suche in Privat-Chats endet",
@@ -450,18 +462,6 @@
       "image_title": "iX-Workshop: Deep Dive in Helm: Anwendungen in Kubernetes bereitstellen, verwalten und versionieren"
     },
     {
-      "title": "„Star Trek: Infection“ angespielt: Kampf gegen Mutationen und die Technik",
-      "teaser": "In „Star Trek: Infection“ kämpft der Spieler gegen Wucherungen, wilde Visionen und die Technik. Wir sind mit der VR-Brille über die USS-Lumen geschlichen.",
-      "url": "https://www.heise.de/tests/Star-Trek-Infection-angespielt-Mutierter-Survival-Horror-in-VR-10612776.html",
-      "image_title": "screenshot aus Star Trek Infection"
-    },
-    {
-      "title": "Google Drive: Ransomware-Erkennung und Dateiwiederherstellung",
-      "teaser": "Google Drive erhält zwei neue Sicherheitsfunktionen: eine Ransomware-Erkennung und eine massenhafte Dateiwiederherstellung.",
-      "url": "https://www.heise.de/news/Google-Drive-Ransomware-Erkennung-und-Dateiwiederherstellung-11244868.html",
-      "image_title": "Google Drive auf einem Smartphone, links daneben ein Laptop und ein Stift"
-    },
-    {
       "title": "Claude Code geleakt: Milliarden für KI-Sicherheit, null für Softwarehygiene",
       "url": "https://www.heise.de/meinung/Claude-Code-geleakt-Milliarden-fuer-KI-Sicherheit-null-fuer-Softwarehygiene-11244325.html",
       "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
@@ -506,6 +506,11 @@
       "image_title": "Paypal-App"
     },
     {
+      "title": "„Star Trek: Infection“ angespielt: Kampf gegen Mutationen und die Technik",
+      "url": "https://www.heise.de/tests/Star-Trek-Infection-angespielt-Mutierter-Survival-Horror-in-VR-10612776.html",
+      "image_title": "screenshot aus Star Trek Infection"
+    },
+    {
       "title": "Ducati Superleggera V4 Centenario: Das stärkste und teuerste Serienmotorrad",
       "url": "https://www.heise.de/news/Ducati-Superleggera-V4-Centenario-Das-staerkste-und-teuerste-Serienmotorrad-11227974.html",
       "image_title": "Ducati Superleggera V4 Centenario"
@@ -514,11 +519,6 @@
       "title": "Neue Filme und Serien bei Netflix, Disney+ und Amazon Prime im April 2026",
       "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-April-2026-11243684.html",
       "image_title": "Screenshot zeigt ein Promobild der Serie „Malcolm Mittendrin: Unfair wie immer“"
-    },
-    {
-      "title": "Kindle Scribe Colorsoft: Neues Kindle-Modell ab 8. April in Deutschland",
-      "url": "https://www.heise.de/news/Kindle-Scribe-Colorsoft-Neues-Kindle-Modell-ab-8-April-in-Deutschland-11244437.html",
-      "image_title": "Kindle Scribe Colorsoft auf Tisch"
     },
     {
       "title": "Die inszenierte Anwesenheit: Büropräsenz wichtiger als die Leistung?",
@@ -632,21 +632,20 @@
       "url": "https://www.heise.de/en/news/Quantum-computer-researchers-Bitcoin-encryption-breakable-in-a-few-years-11244911.html"
     },
     {
-      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
-      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
-      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
-    },
-    {
       "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
       "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
       "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
       "image_title": "Ein schwarzer Router"
     },
     {
-      "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
-      "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
-      "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
-      "image_title": "The Secret Agent"
+      "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
+      "teaser": "c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
+      "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
+    },
+    {
+      "title": "FAQ: Risiken beim PC-Kauf im chinesischen Onlinehandel",
+      "teaser": "Auf Plattformen wie Amazon Marketplace gibt es günstige Mini-PCs mit aktueller Technik direkt aus China. Doch beim Kauf im Nicht-EU-Ausland lauern Tücken.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Risiken-beim-PC-Kauf-im-chinesischen-Onlinehandel-11092461.html"
     },
     {
       "title": "Smarte NeuauflageAirPods Max 2 im Test",
@@ -685,12 +684,6 @@
       "image_title": "Werbegrafik zu Arduino Days 2026 mit mehreren Arduino UNO Q Zubehör- und Carrier-Boards auf weißem Hintergrund, darunter ein Breakout Carrier, ein Media Carrier, ein LED-Matrix-Modul, ein USB-C-Hub, ein USB-C-Netzteil und ein USB-C-Kabel."
     },
     {
-      "title": "Lomo MC-A im Praxis-Test: Wann sich eine moderne Analogkamera lohnt",
-      "teaser": "Die Lomo MC-A verbindet klassische Analogfotografie mit moderner Technik. Autofokus, USB-C-Akku und einige Kreativfunktionen heben sie von anderen Modellen ab.",
-      "url": "https://www.heise.de/tests/Lomo-MC-A-im-Praxis-Test-Wann-sich-eine-moderne-Analogkamera-lohnt-11243578.html",
-      "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
-    },
-    {
       "title": "Wasserfotografie von Ben Thouard: Wellen zwischen Kunst und Technik",
       "teaser": "Der französische Fotograf verwandelt Wellen in abstrakte Kunst. Mit Licht, Technik und Geduld entstehen Bilder zwischen Dokumentation und Abstraktion.",
       "url": "https://www.heise.de/hintergrund/Wasserfotografie-von-Ben-Thouard-Wellen-zwischen-Kunst-und-Technik-11213513.html",
@@ -706,6 +699,11 @@
       "teaser": "Wegen der Speicherkrise kann auch Sony manche Produkte nicht mehr liefern. Nun sind SD- und CF-Express-Karten betroffen.",
       "url": "https://www.heise.de/news/Sony-stoppt-Auslieferung-von-Speicherkarten-11228880.html",
       "image_title": "Drei Speicherkarten, der Größe nach sortiert: CF Express Typ A, SDXC, CF Express Typ B."
+    },
+    {
+      "title": "Fotonews der KW 13/26Sora ist tot und Kamerahersteller sind sich einig",
+      "teaser": "OpenAI beerdigt seinen Videogenerator, Kameramarken ziehen eine rote Linie , und ein Essay fragt, ob Fotografie ein Beruf sein muss.",
+      "url": "https://www.heise.de/news/Sora-ist-tot-und-Kamerahersteller-sind-sich-einig-die-Fotonews-der-KW-13-26-11227756.html"
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -750,22 +748,22 @@
       "image_title": "Aral-Tankstelle"
     },
     {
-      "title": "Strom selbst erzeugen – und die Politik links liegen lassen",
-      "teaser": "Immer mehr Bürger erzeugen ihren Strom selbst. Die Politik setzt derweil wieder auf Fossile. Doch selbst öffentliche Wege werden zur Hürde.",
-      "url": "https://www.heise.de/-11241030",
-      "image_title": "Gaskraftwerk mit Isolator und Inseln mit Häusern mit PV-Dach"
-    },
-    {
-      "title": "Artemis-II hebt ab: So geht die Mondmission jetzt weiter",
-      "teaser": "Vier Astronauten sind gestern an Bord der Orion-Kapsel erfolgreich gestartet. Doch heute entscheidet sich, ob die Reise Richtung Mond gelingt. Ein Überblick.",
-      "url": "https://www.heise.de/-11244685",
-      "image_title": "Orion-Raumschiff, im Hintergrund der Mond"
+      "title": "Chinas Antike: Die vergessene Autobahn",
+      "teaser": "Vor 2200 Jahren baute China eine Straße, die so breit war wie moderne Autobahnen. Archäologen haben nun einen gut erhaltenen Abschnitt gefunden.",
+      "url": "https://www.heise.de/-11244613",
+      "image_title": "Gesamtansicht der Ausgrabung der Terrakotta-Armee des Mausoleums von Qín Shǐhuángdì."
     },
     {
       "title": "Nuklearer Schutzschirm? Wie Sicherheitspolitik mit Sprache täuscht",
       "teaser": "Vom \"Schutzschirm\" bis zur \"Modernisierung\": Wie verschleiernder Sprachgebrauch nukleare Risiken verharmlost – und die Illusion von Sicherheit erzeugt.",
       "url": "https://www.heise.de/-11245844",
       "image_title": "Raketen auf dem Hintergrund einer Weltkarte"
+    },
+    {
+      "title": "Südkaukasus: Irankrieg als Katalysator?",
+      "teaser": "Der Irankrieg könnte den Südkaukasus zur globalen Schlüsselregion aufsteigen lassen - oder zum Opfer einer umfassenden humanitären Krise machen. Eine Analyse.",
+      "url": "https://www.heise.de/-11244308",
+      "image_title": "Kaukasus Landkarte"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
