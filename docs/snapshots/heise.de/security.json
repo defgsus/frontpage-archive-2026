@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T12:42:16",
+  "timestamp": "2026-04-06T14:03:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,19 +20,20 @@
   ],
   "articles": [
     {
+      "title": "Fake-Teams-UpdateSo haben Angreifer den axios-Maintainer ausgetrickst",
+      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Derweil gibt es ähnliche Attacken auf weitere Maintainer.",
+      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+    },
+    {
       "title": "AlertJetzt updaten!Kritische FortiClient-EMS-Lücke wird attackiert",
       "teaser": "Fortinet hat Hotfixes bereitgestellt und rät Admins dringend, sie zügig anzuwenden. Sie stopfen ein angegriffenes Codeschmuggel-Leck.",
       "url": "https://www.heise.de/news/FortiClient-EMS-Kritische-Codeschmuggel-Luecke-wird-angegriffen-11246000.html"
     },
     {
-      "title": "AlertUpdateBis OstermontagAdmins müssen D-Trust-Zertifikate tauschen",
-      "teaser": "D-Trust beschert Administatoren kurzfristige Ostereinsätze: Ihre TLS-Zertifikate müssen bis Ostermontag 17 Uhr getauscht sein.",
-      "url": "https://www.heise.de/news/Fieses-Osterei-D-Trust-verlangt-Zertifikatstausch-bis-Ostermontag-11245930.html"
-    },
-    {
-      "title": "AlertSchadcode-Sicherheitslücken in Werbeblocker Pi-hole geschlossen",
-      "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-in-Werbeblocker-Pi-hole-geschlossen-11246221.html",
-      "image_title": "Ein symbolischer Updateknopf."
+      "title": "AlertHCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
+      "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -47,10 +48,16 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Fake-Teams-Update: So haben Angreifer den axios-Maintainer ausgetrickst",
-      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Derweil gibt es ähnliche Attacken auf weitere Maintainer.",
-      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+      "title": "AlertHCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
+      "teaser": "Wichtige Sicherheitspatches schließen zwei Softwareschwachstellen in der Endpoint-Management-Plattform HCL BigFix.",
+      "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Blaulicht-Digitalfunk: Bundesregierung hält trotz Kritik an Tetra-Kurs fest",
+      "teaser": "Einsatzkräfte fordern beim Digitalfunk Breitband und robuste Rückfallebenen. Der Bund setzt vorerst auf die Modernisierung und Evolution des Bestandsnetzes.",
+      "url": "https://www.heise.de/news/Blaulicht-Digitalfunk-Bundesregierung-haelt-trotz-Kritik-an-Tetra-Kurs-fest-11246313.html",
+      "image_title": "Blaulicht, Polizei"
     },
     {
       "title": "AlertSchadcode-Sicherheitslücken in Werbeblocker Pi-hole geschlossen",
@@ -69,6 +76,11 @@
       "teaser": "Der Call for Proposals für die heise devSec in Marburg läuft noch bis zum 14. April. Im Mai findet zusätzlich online der Special Day „KI und Security“ statt.",
       "url": "https://www.heise.de/news/Sichere-Softwareentwicklung-Jetzt-noch-Vortrag-fuer-die-heise-devSec-einreichen-11243005.html",
       "image_title": "Aufmacher devSec mit Schloss"
+    },
+    {
+      "title": "AlertUpdateAdmins müssen D-Trust-Zertifikate tauschen – bis Ostermontag",
+      "teaser": "Die Bundesdruckerei-Tochter D-Trust beschert Administatoren kurzfristige Ostereinsätze: Ihre TLS-Zertifikate müssen bis Ostermontag 17 Uhr getauscht sein.",
+      "url": "https://www.heise.de/news/Fieses-Osterei-D-Trust-verlangt-Zertifikatstausch-bis-Ostermontag-11245930.html"
     },
     {
       "title": "Missing Link: Wir suchen Terroristen (m/w/d)",
@@ -129,18 +141,6 @@
       "teaser": "Die Entwickler der weitverbreiteten XZ Utils haben eine aktualisierte Version veröffentlicht, die Sicherheitslücken ausbessert.",
       "url": "https://www.heise.de/news/XZ-Utils-5-8-3-Sicherheitsupdate-mit-unklarem-Risiko-11244419.html",
       "image_title": "Finger tippt auf Update-Button"
-    },
-    {
-      "title": "WhatsApp-Malware-Kampagne installiert Backdoors",
-      "teaser": "Microsoft warnt vor einer Malware-Kampagne, die über WhatsApp-Nachrichten bösartige Software ausliefert und Systeme kompromittiert.",
-      "url": "https://www.heise.de/news/WhatsApp-Malware-Kampagne-installiert-Backdoors-11244177.html",
-      "image_title": "WHatsApp-Desktop Anzeige eines Chats"
-    },
-    {
-      "title": "AlertCisco stopft teils kritische Lücken in mehreren Produkten",
-      "teaser": "Am Mittwoch hat Cisco neun Sicherheitswarnungen herausgegeben. Sie behandeln teils kritische Lücken in mehreren Produkten.",
-      "url": "https://www.heise.de/news/Cisco-stopft-teils-kritische-Luecken-in-mehreren-Produkten-11244121.html",
-      "image_title": "Cisco logo near Cisco headquarters campus in Silicon Valley"
     },
     {
       "title": "Workshop | 13. – 15.04.2026BCM - Notfallplanung und Notfallübungen",

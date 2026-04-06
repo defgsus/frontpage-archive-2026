@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T12:42:07",
+  "timestamp": "2026-04-06T14:03:19",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "HCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
+      "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html"
+    },
+    {
+      "title": "Blaulicht-Digitalfunk: Bundesregierung hält trotz Kritik an Tetra-Kurs fest",
+      "url": "https://www.heise.de/news/Blaulicht-Digitalfunk-Bundesregierung-haelt-trotz-Kritik-an-Tetra-Kurs-fest-11246313.html"
+    },
+    {
+      "title": "Artemis II: NASA-Livestream zur historischen Mondumrundung ab 19 Uhr",
+      "url": "https://www.heise.de/news/Artemis-II-NASA-Livestream-zur-historischen-Mondumrundung-ab-19-Uhr-11246287.html"
+    },
     {
       "title": "Fake-Teams-Update: So haben Angreifer den axios-Maintainer ausgetrickst",
       "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html"
@@ -52,18 +64,6 @@
       "url": "https://www.heise.de/tests/Wetterstationen-fuer-Garten-und-Balkon-mit-iPhone-Anbindung-im-Test-11212013.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Erste Menschen seit 50 Jahren: Artemis-Astronauten am Etappenziel",
-      "url": "https://www.heise.de/news/Artemis-2-erreicht-Einflusssphaere-des-Mondes-11246179.html"
-    },
-    {
-      "title": "AGENTS.md: Hilfreiches Agentenbriefing oder Tokenfresser?",
-      "url": "https://www.heise.de/hintergrund/AGENTS-md-Hilfreiches-Agentenbriefing-oder-Tokenfresser-11245140.html"
-    },
-    {
-      "title": "Russland sperrt Messenger und VPNs – und seine Banken gleich mit",
-      "url": "https://www.heise.de/news/Russland-sperrt-Messenger-und-VPNs-und-seine-Banken-gleich-mit-11246123.html"
     },
     {
       "title": "NASA-FotoWas „Hello, World“ zeigt und wie es gemacht wurde",
@@ -182,6 +182,29 @@
       "image_title": "Gruppe betritt helles Portal bei der „Black Mirror Experience“ in dunklem Raum"
     },
     {
+      "title": "AlertHCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
+      "teaser": "Wichtige Sicherheitspatches schließen zwei Softwareschwachstellen in der Endpoint-Management-Plattform HCL BigFix.",
+      "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "Blaulicht-Digitalfunk: Bundesregierung hält trotz Kritik an Tetra-Kurs fest",
+      "teaser": "Einsatzkräfte fordern beim Digitalfunk Breitband und robuste Rückfallebenen. Der Bund setzt vorerst auf die Modernisierung und Evolution des Bestandsnetzes.",
+      "url": "https://www.heise.de/news/Blaulicht-Digitalfunk-Bundesregierung-haelt-trotz-Kritik-an-Tetra-Kurs-fest-11246313.html",
+      "image_title": "Blaulicht, Polizei"
+    },
+    {
+      "title": "Die unbequeme Wahrheit über Cloud-Sicherheit",
+      "teaser": "Wer im Incident nicht belegen kann, welche Konfiguration wann produktiv war, verliert Zeit und Kontrolle. Der Kriterienkatalog C5 des BSI bietet den Rahmen, um im Ernstfall zielgerichtet zu handeln.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7231710364&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Artemis II: NASA-Livestream zur historischen Mondumrundung ab 19 Uhr",
+      "teaser": "Die Orion-Kapsel der Artemis-II-Mission fliegt heute am Mond vorbei. Die NASA überträgt das historische Ereignis ab 19 Uhr live.",
+      "url": "https://www.heise.de/news/Artemis-II-NASA-Livestream-zur-historischen-Mondumrundung-ab-19-Uhr-11246287.html",
+      "image_title": "art002e008486"
+    },
+    {
       "title": "Fake-Teams-Update: So haben Angreifer den axios-Maintainer ausgetrickst",
       "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Derweil gibt es ähnliche Attacken auf weitere Maintainer.",
       "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
@@ -192,11 +215,6 @@
       "teaser": "Für den Preis eines Basis-Bigster bekommen Sie bei VW nicht einmal einen vergleichbar motorisierten Polo. Hat so viel Sparsamkeit einen Preis?",
       "url": "https://www.heise.de/tests/Dacia-Bigster-155-Hybrid-im-Test-Wie-viel-Verzicht-fordert-der-Top-Dacia-11200832.html",
       "image_title": "Dacia Bigster"
-    },
-    {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "AlertSchadcode-Sicherheitslücken in Werbeblocker Pi-hole geschlossen",
@@ -213,24 +231,6 @@
       "title": "KI-Bilder lokal generieren: Stable Diffusion auf dem Raspberry Pi einsetzen",
       "teaser": "Das Bildgenerierungsmodell Stable Diffusion lässt sich auf dem Raspberry Pi ausführen. So erhalten Sie KI-Bilder mit minimaler Hardware und ohne Cloud-Zwang.",
       "url": "https://www.heise.de/ratgeber/KI-Bilder-lokal-generieren-Stable-Diffusion-auf-dem-Raspberry-Pi-einsetzen-11196646.html"
-    },
-    {
-      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
-      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Wetterstationen für Garten und Balkon mit iPhone-Anbindung im Test",
-      "teaser": "Eigene Wetterstationen messen Temperatur, Luftfeuchtigkeit und mehr vor Ort und liefern die Werte ans iPhone. Wir haben 7 Stationen mit Außensensor getestet.",
-      "url": "https://www.heise.de/tests/Wetterstationen-fuer-Garten-und-Balkon-mit-iPhone-Anbindung-im-Test-11212013.html",
-      "image_title": "Eigene Wetterstationen liefern lokales Wetter"
-    },
-    {
-      "title": "AGENTS.md: Hilfreiches Agentenbriefing oder Tokenfresser?",
-      "teaser": "Eine AGENTS.md gilt meist als Pflicht für den Einsatz von Coding-Agenten. Doch aus einer gut gemeinten Hilfe kann schnell zusätzlicher Ballast werden.",
-      "url": "https://www.heise.de/hintergrund/AGENTS-md-Hilfreiches-Agentenbriefing-oder-Tokenfresser-11245140.html",
-      "image_title": "Abstrakte Darstellung eines neuronalen Netzes mit verbundenen Kreisen."
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -323,6 +323,24 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "Wetterstationen für Garten und Balkon mit iPhone-Anbindung im Test",
+      "teaser": "Eigene Wetterstationen messen Temperatur, Luftfeuchtigkeit und mehr vor Ort und liefern die Werte ans iPhone. Wir haben 7 Stationen mit Außensensor getestet.",
+      "url": "https://www.heise.de/tests/Wetterstationen-fuer-Garten-und-Balkon-mit-iPhone-Anbindung-im-Test-11212013.html",
+      "image_title": "Eigene Wetterstationen liefern lokales Wetter"
+    },
+    {
+      "title": "AGENTS.md: Hilfreiches Agentenbriefing oder Tokenfresser?",
+      "teaser": "Eine AGENTS.md gilt meist als Pflicht für den Einsatz von Coding-Agenten. Doch aus einer gut gemeinten Hilfe kann schnell zusätzlicher Ballast werden.",
+      "url": "https://www.heise.de/hintergrund/AGENTS-md-Hilfreiches-Agentenbriefing-oder-Tokenfresser-11245140.html",
+      "image_title": "Abstrakte Darstellung eines neuronalen Netzes mit verbundenen Kreisen."
+    },
+    {
       "title": "Top 10: Die beste kabellose Überwachungskamera im Test – Akku, WLAN, LTE & Solar",
       "teaser": "4K-Auflösung, Dual-Objektiv, Akku, Wi-Fi und Laden per Solarmodul: Kabellose Überwachungskameras haben viel zu bieten. Wir zeigen die besten Modelle.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kabellose-ueberwachungskamera-im-test-akku-wlan-lte-und-solar/0spn5e4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -379,6 +397,11 @@
       "url": "https://www.heise.de/ratgeber/FAQ-Risiken-beim-PC-Kauf-im-chinesischen-Onlinehandel-11092461.html"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "AlertJetzt updaten! Kritische FortiClient-EMS-Lücke wird attackiert",
       "teaser": "Fortinet hat Hotfixes bereitgestellt und rät Admins dringend, sie zügig anzuwenden. Sie stopfen ein angegriffenes Codeschmuggel-Leck.",
       "url": "https://www.heise.de/news/FortiClient-EMS-Kritische-Codeschmuggel-Luecke-wird-angegriffen-11246000.html"
@@ -394,11 +417,6 @@
       "teaser": "Das Bundeskriminalamt und der Bundesnachrichtendienst feiern Jubiläen – und fordern zum Geburtstag weitreichende neue Kompetenzen für die digitale Welt.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Wir-suchen-Terroristen-m-w-d-11245201.html",
       "image_title": "Ein dunkler Raum mit einer Wand voller gold umrahmter Schlüsellöcher; durch eines fällt helles Licht ein"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "Volumetrische Videos nehmen eine wichtige Hürde auf dem Weg zum Mainstream",
@@ -440,24 +458,6 @@
       "teaser": "Die Entwicklung an der Bild- und Video-KI Amuse wurde eingestellt, die Quellen als Open Source veröffentlicht. Nun gibt es erste Updates.",
       "url": "https://www.heise.de/news/Totgesagte-leben-laenger-Lokale-Bilder-KI-Amuse-3-2-0-erschienen-11245717.html",
       "image_title": "Bedienoberfläche von Amuse"
-    },
-    {
-      "title": "Apple wird 50 und Nikon trennt sich von Robotern – die Fotonews der Woche 14/26",
-      "teaser": "Apple feiert Jubiläum, bei OM Digital Solutions übernimmt der Chef die ganze Firma, und Nikon stößt seine Robotik-Tochter ab.",
-      "url": "https://www.heise.de/news/Apple-wird-50-und-Nikon-trennt-sich-von-Robotern-die-Fotonews-der-Woche-14-26-11244834.html",
-      "image_title": "Fotoapparate und ein Smartphone vor einem alten Mac"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
-      "teaser": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11219253.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Ky, Qt for Python, Android Media3, node.js, Postman, PHP Debugger, RAD Studio, VS Code und Docker.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11244789.html",
-      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "Schnelles Heimnetz für Glasfaser & Co. | c’t uplink",
@@ -503,6 +503,11 @@
       "image_title": "Paypal-App"
     },
     {
+      "title": "Apple wird 50 und Nikon trennt sich von Robotern – die Fotonews der Woche 14/26",
+      "url": "https://www.heise.de/news/Apple-wird-50-und-Nikon-trennt-sich-von-Robotern-die-Fotonews-der-Woche-14-26-11244834.html",
+      "image_title": "Fotoapparate und ein Smartphone vor einem alten Mac"
+    },
+    {
       "title": "Ducati Superleggera V4 Centenario: Das stärkste und teuerste Serienmotorrad",
       "url": "https://www.heise.de/news/Ducati-Superleggera-V4-Centenario-Das-staerkste-und-teuerste-Serienmotorrad-11227974.html",
       "image_title": "Ducati Superleggera V4 Centenario"
@@ -511,11 +516,6 @@
       "title": "„Star Trek: Infection“ angespielt: Kampf gegen Mutationen und die Technik",
       "url": "https://www.heise.de/tests/Star-Trek-Infection-angespielt-Mutierter-Survival-Horror-in-VR-10612776.html",
       "image_title": "screenshot aus Star Trek Infection"
-    },
-    {
-      "title": "Ego-Shooter: „Return to Castle Wolfenstein“ fliegt vom Index",
-      "url": "https://www.heise.de/news/Return-to-Castle-Wolfenstein-in-Deutschland-nicht-mehr-indiziert-11241040.html",
-      "image_title": "Screenshot aus Return to Castle Wolfenstein"
     },
     {
       "title": "Die inszenierte Anwesenheit: Büropräsenz wichtiger als die Leistung?",
@@ -629,20 +629,21 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
-      "title": "c’t uplinkSchnelles Heimnetz für Glasfaser & Co.",
-      "teaser": "Für schnelles Internet muss das eigene Netzwerk mit den Übertragungsraten mithalten. Was kauft man da?",
-      "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
-    },
-    {
-      "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
-      "teaser": "c't 3003 hat 646 Stunden mit einem aktuellen Modell verbracht. Einbrennen, Helligkeit & Textschärfe im Real-Check!",
-      "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
+      "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
+      "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
+      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
+      "image_title": "Ein schwarzer Router"
     },
     {
       "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
       "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
       "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
       "image_title": "The Secret Agent"
+    },
+    {
+      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
+      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
+      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
     },
     {
       "title": "Smarte NeuauflageAirPods Max 2 im Test",
@@ -745,22 +746,20 @@
       "image_title": "Aral-Tankstelle"
     },
     {
-      "title": "Frauenwahlrecht: Warum unsere Demokratie weniger gerecht ist, als wir glauben",
-      "teaser": "Vom Zensuswahlrecht bis heute: Politische Gleichheit bleibt ein Versprechen – und wird auch in modernen Demokratien immer wieder ausgehöhlt.",
-      "url": "https://www.heise.de/-11240677",
-      "image_title": "Ringe mit goldenem Segment, mit Kreuz als Zeichen für Frauen und mit rotem Edding angekreuzt"
+      "title": "Indien: Einspeisevergütung für Wind und Solar",
+      "teaser": "Während hierzulande eine breite Industriefront das erfolgreiche EEG mit seinem Einspeisevorrang und den garantierten Einspeisevergütungen abschaffen will, kopieren Länder wie Indien, China oder Thailand das deutsche Vorbild",
+      "url": "https://www.heise.de/-10534001"
     },
     {
-      "title": "Nukleare Abschreckung: Ohne Transparenz wird sie zum Risiko",
-      "teaser": "Abschreckung funktioniert nur, wenn man weiß, was der andere hat. Transparenz ist kein Ausdruck von Vertrauen, sondern dessen Ersatz. Eine Analyse.",
-      "url": "https://www.heise.de/-11245820",
-      "image_title": "olivgrün lackierter Sprengkopf mit gelbem Warnsignal \"Strahlung\""
+      "title": "Nuklearer Schutzschirm? Wie Sicherheitspolitik mit Sprache täuscht",
+      "teaser": "Vom \"Schutzschirm\" bis zur \"Modernisierung\": Wie verschleiernder Sprachgebrauch nukleare Risiken verharmlost – und die Illusion von Sicherheit erzeugt.",
+      "url": "https://www.heise.de/-11245844",
+      "image_title": "Raketen auf dem Hintergrund einer Weltkarte"
     },
     {
-      "title": "No Kings: Amerika rebelliert gegen seinen Präsidenten",
-      "teaser": "Der König führt Krieg, die Straße rebelliert: Kann die No-Kings-Bewegung dem Trumpismus gefährlich werden? Eine Analyse.",
-      "url": "https://www.heise.de/-11243566",
-      "image_title": "Demonstranten der No-Kings-Proteste in den USA"
+      "title": "\"Werte Schwule!\"",
+      "teaser": "Der Ex-Gewerkschaftsführer und Ex-Präsident Lech Walesa erklärt den homosexuellen Polen sein Demokratie-Verständnis",
+      "url": "https://www.heise.de/-10523643"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
