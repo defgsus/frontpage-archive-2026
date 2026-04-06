@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T14:03:24",
+  "timestamp": "2026-04-06T15:35:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,11 @@
   ],
   "articles": [
     {
+      "title": "AlertAngreifer können Weboberfläche von WatchGuard Firebox attackieren",
+      "teaser": "WatchGuard-Firewalls der Firebox-Serie und die Produkte Dimension und WebBlockerServer sind verwundbar. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Weboberflaeche-von-WatchGuard-Firebox-attackieren-11246291.html"
+    },
+    {
       "title": "AlertHCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
       "teaser": "Wichtige Sicherheitspatches schließen zwei Softwareschwachstellen in der Endpoint-Management-Plattform HCL BigFix.",
       "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html",
@@ -27,20 +32,15 @@
     },
     {
       "title": "Fake-Teams-UpdateSo haben Angreifer den axios-Maintainer ausgetrickst",
-      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Derweil gibt es ähnliche Attacken auf weitere Maintainer.",
+      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Es gibt ähnliche Attacken.",
       "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
-      "title": "AlertSchadcode-Sicherheitslücken in Werbeblocker Pi-hole geschlossen",
+      "title": "AlertWerbeblockerSchadcode-Sicherheitslücken in Pi-hole geschlossen",
       "teaser": "Es sind wichtige Updates für den Open-Source-Werblocker Pi-hole erschienen. Unter anderem kann Schadcode auf Systeme gelangen.",
       "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-in-Werbeblocker-Pi-hole-geschlossen-11246221.html",
       "image_title": "Ein symbolischer Updateknopf."
-    },
-    {
-      "title": "Zweiteiliges Webinar: Apple-Gerätemanagement gemäß IT-Grundschutz des BSI",
-      "teaser": "Erfahren Sie, wie sich der IT-Grundschutz des BSI für Apple-Geräte im Unternehmen umsetzen lässt, um die Sicherheit und den Schutz der Daten zu gewährleisten.",
-      "url": "https://www.heise.de/news/Zweiteiliges-Webinar-zu-Datenschutz-und-Sicherheit-fuer-verwaltete-Apple-Geraete-11242937.html"
     },
     {
       "title": "RatgeberSmarte Lesehilfe mit einem Raspberry Pi selber bauen",
@@ -57,6 +57,11 @@
       "image_title": "Der Desktop von Manjaro mit KDE Plasma"
     },
     {
+      "title": "Zweiteiliges Webinar: Apple-Gerätemanagement gemäß IT-Grundschutz des BSI",
+      "teaser": "Erfahren Sie, wie sich der IT-Grundschutz des BSI für Apple-Geräte im Unternehmen umsetzen lässt, um die Sicherheit und den Schutz der Daten zu gewährleisten.",
+      "url": "https://www.heise.de/news/Zweiteiliges-Webinar-zu-Datenschutz-und-Sicherheit-fuer-verwaltete-Apple-Geraete-11242937.html"
+    },
+    {
       "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html",
@@ -69,8 +74,8 @@
       "image_title": "Abstrakte Darstellung eines neuronalen Netzes mit verbundenen Kreisen."
     },
     {
-      "title": "Top 10: Die beste kabellose Überwachungskamera im Test – Akku, WLAN, LTE & Solar",
-      "teaser": "4K-Auflösung, Dual-Objektiv, Akku, Wi-Fi und Laden per Solarmodul: Kabellose Überwachungskameras haben viel zu bieten. Wir zeigen die besten Modelle.",
+      "title": "Top 10: Die beste kabellose Überwachungskamera im Test",
+      "teaser": "4K-Auflösung, Dual-Objektiv, Akku, Wi-Fi und Laden per Solarmodul: Kabellose Überwachungskameras haben viel zu bieten.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kabellose-ueberwachungskamera-im-test-akku-wlan-lte-und-solar/0spn5e4?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
@@ -133,12 +138,6 @@
       "title": "Gaming-Maus Glorious Model O3 Wireless im Test: Endlos Zocken dank drei Akkus",
       "teaser": "Die Glorious Model O3 Wireless setzt auf zwei austauschbare sowie einen fest verbauten Akku, um die Gaming-Maus permanent mit Strom zu versorgen.",
       "url": "https://www.heise.de/bestenlisten/testbericht/gaming-maus-glorious-model-o3-wireless-im-test-endlos-zocken-dank-drei-akkus/lg74wbj?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Totgesagte leben länger: Lokale Bilder-KI Amuse 3.2.0 erschienen",
-      "teaser": "Die Entwicklung an der Bild- und Video-KI Amuse wurde eingestellt, die Quellen als Open Source veröffentlicht. Nun gibt es erste Updates.",
-      "url": "https://www.heise.de/news/Totgesagte-leben-laenger-Lokale-Bilder-KI-Amuse-3-2-0-erschienen-11245717.html",
-      "image_title": "Bedienoberfläche von Amuse"
     },
     {
       "title": "NewsArtemis-2: Outlook bereitet Astronauten Probleme",
