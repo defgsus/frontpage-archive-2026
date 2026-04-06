@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-06T08:15:27",
+  "timestamp": "2026-04-06T09:57:52",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "KI-Bilder lokal generieren: Stable Diffusion auf dem Raspberry Pi einsetzen",
+      "url": "https://www.heise.de/ratgeber/KI-Bilder-lokal-generieren-Stable-Diffusion-auf-dem-Raspberry-Pi-einsetzen-11196646.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html"
@@ -56,12 +62,6 @@
     {
       "title": "Anthropic wirft OpenClaw aus seinen Claude-Abos",
       "url": "https://www.heise.de/news/Anthropic-wirft-OpenClaw-aus-seinen-Claude-Abos-11246063.html"
-    },
-    {
-      "title": "iPhone 17e im Test: Sparphone mit Highend-Chip",
-      "url": "https://www.heise.de/tests/iPhone-17e-im-Test-Sparphone-mit-Highend-Chip-11229656.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
     },
     {
       "title": "Missing LinkWir suchen Terroristen (m/w/d)",
@@ -185,21 +185,26 @@
       "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
     },
     {
+      "title": "KI-Bilder lokal generieren: Stable Diffusion auf dem Raspberry Pi einsetzen",
+      "teaser": "Das Bildgenerierungsmodell Stable Diffusion lässt sich auf dem Raspberry Pi ausführen. So erhalten Sie KI-Bilder mit minimaler Hardware und ohne Cloud-Zwang.",
+      "url": "https://www.heise.de/ratgeber/KI-Bilder-lokal-generieren-Stable-Diffusion-auf-dem-Raspberry-Pi-einsetzen-11196646.html"
+    },
+    {
       "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
       "title": "Wetterstationen für Garten und Balkon mit iPhone-Anbindung im Test",
       "teaser": "Eigene Wetterstationen messen Temperatur, Luftfeuchtigkeit und mehr vor Ort und liefern die Werte ans iPhone. Wir haben 7 Stationen mit Außensensor getestet.",
       "url": "https://www.heise.de/tests/Wetterstationen-fuer-Garten-und-Balkon-mit-iPhone-Anbindung-im-Test-11212013.html",
       "image_title": "Eigene Wetterstationen liefern lokales Wetter"
-    },
-    {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Erste Menschen seit 50 Jahren: Artemis-Astronauten am Etappenziel",
@@ -229,11 +234,6 @@
       "teaser": "Nachdem bereits der Landesrekord geknackt wurde, gilt das jetzt auch auf globaler Ebene. Vorher hielt den Rekord ein anderes Land.",
       "url": "https://www.heise.de/news/Internetsperre-im-Iran-ist-jetzt-die-laengste-der-Weltgeschichte-11246101.html",
       "image_title": "Verzerrter Schriftzug \"Offline\""
-    },
-    {
-      "title": "3D-Drucker Elegoo Centauri Carbon 2 im Test: Farbig, günstig, gut",
-      "teaser": "Der Vorgänger ist unser Preis-Leistungs-Sieger, das neue Modell soll alles besser machen und farbig drucken. Ganz so einfach ist es aber offensichtlich nicht.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/3d-drucker-elegoo-centauri-carbon-2-im-test-farbig-guenstig-gut/e457b48?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -326,6 +326,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "3D-Drucker Elegoo Centauri Carbon 2 im Test: Farbig, günstig, gut",
+      "teaser": "Der Vorgänger ist unser Preis-Leistungs-Sieger, das neue Modell soll alles besser machen und farbig drucken. Ganz so einfach ist es aber offensichtlich nicht.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/3d-drucker-elegoo-centauri-carbon-2-im-test-farbig-guenstig-gut/e457b48?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Anthropic wirft OpenClaw aus seinen Claude-Abos",
       "teaser": "Wer ein Claude-Abo nutzt, kann das künftig nicht mehr für den viel gehypten KI-Assistenten OpenClaw – jedenfalls nicht ohne Extrakosten.",
       "url": "https://www.heise.de/news/Anthropic-wirft-OpenClaw-aus-seinen-Claude-Abos-11246063.html",
@@ -394,15 +399,15 @@
       "image_title": ","
     },
     {
+      "title": "Fehlversand von E-Mails und Datenabfluss verhindern",
+      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
+    },
+    {
       "title": "Googles Waymo wagt den Sprung nach Europa: Robotaxi-Testlauf in London",
       "teaser": "Googles Robotaxi-Tochter Waymo wagt den Sprung nach Europa. Sie lotet im engen Straßendickicht Londons die Grenzen von KI-Systemen sowie der Stadtpolitik aus.",
       "url": "https://www.heise.de/news/Waymo-in-London-Der-ultimative-Haertetest-fuers-autonome-Fahren-11245886.html",
       "image_title": "Waymo,Jaguar,I-pace,Equipped,With,Self-driving,Technology,Navigates,A,City"
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "Top 10: Der beste Fitness-Tracker im Test",
@@ -455,12 +460,6 @@
       "teaser": "Ohne Ecken und Kanten erscheinen gerundete Motive besonders weich und harmonisch, und diese Woche gibt es davon besonders viele.",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html",
       "image_title": "Istanbul"
-    },
-    {
-      "title": "Tankrechnung drücken: So sparen sie Sprit und bezahlen weniger an der Tankstelle",
-      "teaser": "Die Benzinpreise explodieren, Autofahren wird rasant teurer. Das können Sie tun, um Benzin zu sparen und weniger fürs Tanken auszugeben.",
-      "url": "https://www.heise.de/tests/Tankrechnung-druecken-So-sparen-sie-Sprit-und-bezahlen-weniger-an-der-Tankstelle-11221127.html",
-      "image_title": "Blue,Luxury,Suv,Car,Fueling,At,Gas,Station.,Refuel,Fill"
     },
     {
       "title": "Claude Code geleakt: Milliarden für KI-Sicherheit, null für Softwarehygiene",
@@ -634,15 +633,10 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
-      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
-      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
-      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
-    },
-    {
-      "title": "Wer hat Angst vorm Pixelbrei?„The Secret Agent“ im Heimkinotest",
-      "teaser": "Trotz Golden Globes und Oscar-Nominierungen erscheint das Drama nur auf DVD. Ist der Stream die bessere Wahl?",
-      "url": "https://www.heise.de/tests/The-Secret-Agent-im-Heimkinotest-Wer-hat-Angst-vorm-Pixelbrei-11245478.html",
-      "image_title": "The Secret Agent"
+      "title": "Desolate FCC-Vorgabe„Freedom Router“ für US-Verbraucher",
+      "teaser": "Ab sofort lassen die USA für Verbraucher nur noch im Inland hergestellte Router zu. Die Vorgaben bringen jedoch Probleme.",
+      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
+      "image_title": "Ein schwarzer Router"
     },
     {
       "title": "c't 3003Sind OLEDs jetzt komplett unproblematisch?",
@@ -650,10 +644,9 @@
       "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
     },
     {
-      "title": "Smarte NeuauflageAirPods Max 2 im Test",
-      "teaser": "Neuer Chip, neue Funktionen: Unser Test zeigt, wo die neuen Hörer besser sind.",
-      "url": "https://www.heise.de/tests/Smarte-Neuauflage-AirPods-Max-2-im-Test-11241507.html",
-      "image_title": "AirPods Max 2 mit Nutzerin"
+      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
+      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
+      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
     },
     {
       "title": "50 Jahre Apple15 Tops, 15 Flops",
@@ -666,6 +659,12 @@
       "teaser": "Am 1. April 1976 gründeten Steve Jobs, Steve Wozniak und Ron Wayne das kalifornische Start-up in einer Garage.",
       "url": "https://www.heise.de/hintergrund/50-Jahre-Apple-Die-Rueckschau-11211292.html",
       "image_title": "50 Jahre Apple"
+    },
+    {
+      "title": "WLAN to go: Fünf Mobilfunkrouter mit 5G im Test",
+      "teaser": "5G-Mobilfunkrouter benötigen nur Netzempfang und bringen Wi-Fi auf den Campingplatz, ins Hotel, Ferienhaus und in die Laube. Wir haben fünf Modelle getestet.",
+      "url": "https://www.heise.de/tests/WLAN-to-go-Fuenf-Mobilfunkrouter-mit-5G-im-Test-11228466.html",
+      "image_title": "Surfen am See"
     },
     {
       "title": "Jetzt in der Make 2/26: Pi Zero als Hacking-Tool",
@@ -690,12 +689,6 @@
       "url": "https://www.heise.de/news/Nebelfotos-zwischen-Muehlen-und-Tulpen-c-t-Fotografie-Fototouren-Europa-II-11222645.html"
     },
     {
-      "title": "Lomo MC-A im Praxis-Test: Wann sich eine moderne Analogkamera lohnt",
-      "teaser": "Die Lomo MC-A verbindet klassische Analogfotografie mit moderner Technik. Autofokus, USB-C-Akku und einige Kreativfunktionen heben sie von anderen Modellen ab.",
-      "url": "https://www.heise.de/tests/Lomo-MC-A-im-Praxis-Test-Wann-sich-eine-moderne-Analogkamera-lohnt-11243578.html",
-      "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
-    },
-    {
       "title": "Wasserfotografie von Ben Thouard: Wellen zwischen Kunst und Technik",
       "teaser": "Der französische Fotograf verwandelt Wellen in abstrakte Kunst. Mit Licht, Technik und Geduld entstehen Bilder zwischen Dokumentation und Abstraktion.",
       "url": "https://www.heise.de/hintergrund/Wasserfotografie-von-Ben-Thouard-Wellen-zwischen-Kunst-und-Technik-11213513.html",
@@ -705,6 +698,12 @@
       "title": "Wer braucht was? Click Boom Flash #59 „Die richtige Kamerawahl“",
       "teaser": "„Es erleichtert das Leben ungemein, wenn die Kamera Szenen durchgehend analysiert“, sagt c't-Redakteur Thomas Hoffmann über den KI-Autofokus moderner Kameras.",
       "url": "https://www.heise.de/news/Wer-braucht-was-Click-Boom-Flash-59-Die-richtige-Kamerawahl-11222613.html"
+    },
+    {
+      "title": "UpdateSpeicherkriseSony stoppt Auslieferung von Speicherkarten",
+      "teaser": "Wegen der Speicherkrise kann auch Sony manche Produkte nicht mehr liefern. Nun sind SD- und CF-Express-Karten betroffen.",
+      "url": "https://www.heise.de/news/Sony-stoppt-Auslieferung-von-Speicherkarten-11228880.html",
+      "image_title": "Drei Speicherkarten, der Größe nach sortiert: CF Express Typ A, SDXC, CF Express Typ B."
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -749,22 +748,22 @@
       "image_title": "Aral-Tankstelle"
     },
     {
-      "title": "Wehrpflicht: Männer müssen Reisen ins Ausland jetzt genehmigen lassen",
-      "teaser": "Seit Januar 2026 gilt: Männer zwischen 17 und 45 brauchen für längere Auslandsaufenthalte eine Genehmigung – kaum jemand weiß davon.",
-      "url": "https://www.heise.de/-11245723",
-      "image_title": "Die Bundeswehr gedenkt der im Einsatz getöteten Soldaten mit einem Gedenkmarsch. Ankunft der Prozession am Bendlerblock."
-    },
-    {
       "title": "Recht auf Reparatur: Was die neue EU-Richtlinie wirklich bringt",
       "teaser": "EU-Recht stärkt das Recht auf Reparatur. Hersteller müssen sieben Jahre Teile liefern. Doch wer bei Temu kauft, könnte leer ausgehen.",
       "url": "https://www.heise.de/-11241756",
       "image_title": "Schraubenzieher und Lötkolben bilden ein Kreuz über Mülltonne"
     },
     {
-      "title": "Nuklearer Schutzschirm? Wie Sicherheitspolitik mit Sprache täuscht",
-      "teaser": "Vom \"Schutzschirm\" bis zur \"Modernisierung\": Wie verschleiernder Sprachgebrauch nukleare Risiken verharmlost – und die Illusion von Sicherheit erzeugt.",
-      "url": "https://www.heise.de/-11245844",
-      "image_title": "Raketen auf dem Hintergrund einer Weltkarte"
+      "title": "No Kings: Amerika rebelliert gegen seinen Präsidenten",
+      "teaser": "Der König führt Krieg, die Straße rebelliert: Kann die No-Kings-Bewegung dem Trumpismus gefährlich werden? Eine Analyse.",
+      "url": "https://www.heise.de/-11243566",
+      "image_title": "Demonstranten der No-Kings-Proteste in den USA"
+    },
+    {
+      "title": "Südkaukasus: Irankrieg als Katalysator?",
+      "teaser": "Der Irankrieg könnte den Südkaukasus zur globalen Schlüsselregion aufsteigen lassen – oder zum Opfer einer umfassenden humanitären Krise machen. Eine Analyse.",
+      "url": "https://www.heise.de/-11244308",
+      "image_title": "Kaukasus Landkarte"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
