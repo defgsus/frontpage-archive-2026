@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T09:56:10",
+  "timestamp": "2026-04-07T10:46:55",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -20,7 +20,17 @@
   ],
   "articles": [
     {
-      "title": "Erstmals eGPU-Treiber für Apple-Silicon-Macs – aber nur für KI",
+      "title": "Aktive Cyberabwehr: Neue Befugnisse mit alten Problemen",
+      "url": "https://www.heise.de/hintergrund/Aktive-Cyberabwehr-Neue-Befugnisse-mit-alten-Problemen-11229490.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
+      "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-11222507.html"
+    },
+    {
+      "title": "KI-eGPU-Anbindung kommt für Apple Silicon: Gamer müssen draußen bleiben",
       "url": "https://www.heise.de/news/Erstmals-eGPU-Treiber-fuer-Apple-Silicon-Macs-aber-nur-fuer-KI-11246850.html"
     },
     {
@@ -54,20 +64,10 @@
       "url": "https://www.heise.de/news/Siri-Kuenftig-mehrere-Befehle-hintereinander-mehr-KI-fuer-Kurzbefehle-11243860.html"
     },
     {
-      "title": "iX-Workshop: Mit Automation Anywhere von manuellen Abläufen zu smarten Workflows",
-      "url": "https://www.heise.de/news/iX-Workshop-Mit-Automation-Anywhere-von-manuellen-Ablaeufen-zu-smarten-Workflows-11229203.html"
-    },
-    {
-      "title": "App-Sideloading: Was Googles Einschränkungen für Nutzer und Entwickler bedeuten",
-      "url": "https://www.heise.de/hintergrund/App-Sideloading-Was-Googles-Einschraenkungen-fuer-Nutzer-und-Entwickler-bedeuten-11226292.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Ab 19 UhrArtemis II: NASA-Livestream zur Mondumrundung",
-      "teaser": "Die Orion-Kapsel der Artemis-II-Mission fliegt heute am Mond vorbei. Die NASA überträgt das historische Ereignis ab 19 Uhr live.",
-      "url": "https://www.heise.de/news/Artemis-II-NASA-Livestream-zur-historischen-Mondumrundung-ab-19-Uhr-11246287.html",
-      "image_title": "art002e008486"
+      "title": "Erste Menschen seit 50 JahrenArtemis-Astronauten am Etappenziel",
+      "teaser": "Seit rund fünf Tagen ist die Crew der Mondmission unterwegs – und hat jetzt eines der wichtigsten Etappenziele erreicht.",
+      "url": "https://www.heise.de/news/Artemis-2-erreicht-Einflusssphaere-des-Mondes-11246179.html",
+      "image_title": "Eine kleine Erde im Fenster der Orion"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -75,10 +75,10 @@
       "url": "https://www.heise.de/hintergrund/Gehaltsreport-Was-IT-Profis-und-KI-Spezialisten-wirklich-verdienen-11244447.html"
     },
     {
-      "title": "Fake-Teams-UpdateSo haben Angreifer den axios-Maintainer ausgetrickst",
-      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Es gibt ähnliche Attacken.",
-      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+      "title": "Mehrphasige WarnstufenUpdate-Status der Secure-Boot-Zertifikate in Windows-Sicherheit-App",
+      "teaser": "Mitte des Jahres laufen die alten Secure-Boot-Zertifikate von Microsoft ab. Die Windows-Sicherheit-App zeigt den Update-Status an.",
+      "url": "https://www.heise.de/news/Update-Status-der-Secure-Boot-Zertifikate-in-Windows-Sicherheit-App-11246648.html",
+      "image_title": "Windows-Sicherheit-App zeigt Secure-Boot-Status"
     },
     {
       "title": "AnalyseProbleme der deutschen Energiewende und wie sie sich lösen ließen",
@@ -92,10 +92,10 @@
       "image_title": "Französische und Russische Flagge vor glühenden Leiterbahnen, darunter SChrift \"Cyber Attack\""
     },
     {
-      "title": "Erste Menschen seit 50 JahrenArtemis-Astronauten am Etappenziel",
-      "teaser": "Seit rund fünf Tagen ist die Crew der Mondmission unterwegs – und hat jetzt eines der wichtigsten Etappenziele erreicht.",
-      "url": "https://www.heise.de/news/Artemis-2-erreicht-Einflusssphaere-des-Mondes-11246179.html",
-      "image_title": "Eine kleine Erde im Fenster der Orion"
+      "title": "Live-TickerArtemis II: NASA-Livestream zur Mondumrundung",
+      "teaser": "Die Orion-Kapsel der Artemis-II-Mission fliegt heute am Mond vorbei. Die NASA überträgt das historische Ereignis ab 19 Uhr live.",
+      "url": "https://www.heise.de/news/Artemis-II-NASA-Livestream-zur-historischen-Mondumrundung-ab-19-Uhr-11246287.html",
+      "image_title": "art002e008486"
     },
     {
       "title": "Traumfotos mit Vivo, Xiaomi & HuaweiTop 10: Die beste Handykamera im Test",
@@ -147,15 +147,16 @@
       "url": "https://www.heise.de/hintergrund/Was-die-NASA-Bilder-von-der-Erde-zeigen-und-wie-sie-gemacht-wurden-11245902.html"
     },
     {
-      "title": "EntlastungsvorschlagDeutschlandticket: Neue Preisdiskussion",
-      "teaser": "EVG-Chef Martin Burkert bringt Rabatte für Deutschlandticket und Fernverkehr ins Spiel. Was das für Kunden und Finanzierung bedeuten könnte.",
-      "url": "https://www.heise.de/news/Hohe-Spritpreise-EVG-Chef-bringt-Bahn-Rabatte-ins-Gespraech-11246067.html"
+      "title": "Fake-Teams-UpdateSo haben Angreifer den axios-Maintainer ausgetrickst",
+      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Es gibt ähnliche Attacken.",
+      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
-      "title": "AlertWerbeblockerSchadcode-Sicherheitslücken in Pi-hole geschlossen",
-      "teaser": "Es sind wichtige Updates für den Open-Source-Werblocker Pi-hole erschienen. Unter anderem kann Schadcode auf Systeme gelangen.",
-      "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-in-Werbeblocker-Pi-hole-geschlossen-11246221.html",
-      "image_title": "Ein symbolischer Updateknopf."
+      "title": "UmfrageBevölkerung findet Energie-Importabhängigkeit bedrohlich",
+      "teaser": "Eine Umfrage des BSW-Solar kommt zu dem Ergebnis, dass 78 Prozent der Befragten die Energie-Importabhängigkeit bedrohlich finden.",
+      "url": "https://www.heise.de/news/Umfrage-Bevoelkerung-findet-Energie-Importabhaengigkeit-bedrohlich-11246496.html",
+      "image_title": "Gaspipeline"
     },
     {
       "title": "KaufberatungGebrauchte PCs als Spar-Alternative",
@@ -179,7 +180,23 @@
       "image_title": "Gruppe betritt helles Portal bei der „Black Mirror Experience“ in dunklem Raum"
     },
     {
-      "title": "Erstmals eGPU-Treiber für Apple-Silicon-Macs – aber nur für KI",
+      "title": "Aktive Cyberabwehr: Neue Befugnisse mit alten Problemen",
+      "teaser": "Das geplante Cybersicherheitsstärkungsgesetz will deutschen Behörden den digitalen Gegenangriff erlauben – doch der Entwurf offenbart gravierende Schwächen.",
+      "url": "https://www.heise.de/hintergrund/Aktive-Cyberabwehr-Neue-Befugnisse-mit-alten-Problemen-11229490.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
+      "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 9. Juni, ihre eigenen Systeme zu hacken, um sich effektiv vor Angriffen zu schützen.",
+      "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-11222507.html"
+    },
+    {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
+      "title": "UpdateKI-eGPU-Anbindung kommt für Apple Silicon: Gamer müssen draußen bleiben",
       "teaser": "Bislang kann man Thunderbolt- und USB4-Erweiterungskästchen am Mac nicht mit Grafikkarten nutzen. Das ändert sich nun – mit einer wichtigen Einschränkung.",
       "url": "https://www.heise.de/news/Erstmals-eGPU-Treiber-fuer-Apple-Silicon-Macs-aber-nur-fuer-KI-11246850.html",
       "image_title": "eGPU am Mac mit Apple Silicon"
@@ -189,11 +206,6 @@
       "teaser": "Die KI-Musikplattform Suno soll eigentlich verhindern, dass geschützte Songs genutzt werden – doch genau das gelingt offenbar nur unzureichend.",
       "url": "https://www.heise.de/news/Suno-So-leicht-lassen-sich-Copyright-Sperren-bei-KI-Musik-umgehen-11246792.html",
       "image_title": "Konzept des Digital Media Players. Der menschliche Fingerpunkt interagiert mit virtuellen Spielsymbolen. KI-Elemente, Live-Streaming und Multimedia-Steuerelemente. Moderne Content-Technologie und Online-Engagement."
-    },
-    {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "RAM-Krise als möglicher Grund: Mac mini und Mac Studio schwer zu kriegen",
@@ -217,18 +229,6 @@
       "title": "Promptware: Wie weit Malware für KI-Systeme schon ist",
       "teaser": "Attacken auf große Sprachmodelle gehen mittlerweile weit über reine Prompt-Injections hinaus. Zeit für eine Bestandsaufnahme.",
       "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
-    },
-    {
-      "title": "Update-Status der Secure-Boot-Zertifikate in Windows-Sicherheit-App",
-      "teaser": "Mitte des Jahres laufen die alten Secure-Boot-Zertifikate von Microsoft ab. Die Windows-Sicherheit-App zeigt den Update-Status an.",
-      "url": "https://www.heise.de/news/Update-Status-der-Secure-Boot-Zertifikate-in-Windows-Sicherheit-App-11246648.html",
-      "image_title": "Windows-Sicherheit-App zeigt Secure-Boot-Status"
-    },
-    {
-      "title": "Siri: Künftig mehrere Befehle hintereinander – mehr KI für Kurzbefehle",
-      "teaser": "Apple hat vor, im Rahmen von iOS 27 weitere Siri-Optimierungen umzusetzen, so ein Bericht. Die Sprachassistenz soll deutlich fähiger werden.",
-      "url": "https://www.heise.de/news/Siri-Kuenftig-mehrere-Befehle-hintereinander-mehr-KI-fuer-Kurzbefehle-11243860.html",
-      "image_title": "Siri auf einem iPhone"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -321,6 +321,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Siri: Künftig mehrere Befehle hintereinander – mehr KI für Kurzbefehle",
+      "teaser": "Apple hat vor, im Rahmen von iOS 27 weitere Siri-Optimierungen umzusetzen, so ein Bericht. Die Sprachassistenz soll deutlich fähiger werden.",
+      "url": "https://www.heise.de/news/Siri-Kuenftig-mehrere-Befehle-hintereinander-mehr-KI-fuer-Kurzbefehle-11243860.html",
+      "image_title": "Siri auf einem iPhone"
+    },
+    {
       "title": "iX-Workshop: Mit Automation Anywhere von manuellen Abläufen zu smarten Workflows",
       "teaser": "Routineaufgaben mit robotergestützter Prozessautomatisierung von Bots eigenständig erledigen lassen und so Workflows effizienter gestalten.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Automation-Anywhere-von-manuellen-Ablaeufen-zu-smarten-Workflows-11229203.html",
@@ -330,12 +336,6 @@
       "title": "App-Sideloading: Was Googles Einschränkungen für Nutzer und Entwickler bedeuten",
       "teaser": "Künftig erlaubt Android nur noch die Installation von Apps registrierter Entwickler. Wir analysieren, was das für Nutzer und Entwickler bedeutet.",
       "url": "https://www.heise.de/hintergrund/App-Sideloading-Was-Googles-Einschraenkungen-fuer-Nutzer-und-Entwickler-bedeuten-11226292.html"
-    },
-    {
-      "title": "Umfrage: Bevölkerung findet Energie-Importabhängigkeit bedrohlich",
-      "teaser": "Eine Umfrage des BSW-Solar kommt zu dem Ergebnis, dass 78 Prozent der Befragten die Energie-Importabhängigkeit bedrohlich finden.",
-      "url": "https://www.heise.de/news/Umfrage-Bevoelkerung-findet-Energie-Importabhaengigkeit-bedrohlich-11246496.html",
-      "image_title": "Gaspipeline"
     },
     {
       "title": "Netflix Playground: Spiele-App für Kinder mit „Sesamstraße“ und „Peppa Pig“",
@@ -394,9 +394,9 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/edifier-es20-im-test-mini-bluetooth-lautsprecher-fuer-30-euro-besser-als-jbl-go-4/ef96hf4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "AlertHCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
@@ -415,6 +415,12 @@
       "teaser": "Für den Preis eines Basis-Bigster bekommen Sie bei VW nicht einmal einen vergleichbar motorisierten Polo. Hat so viel Sparsamkeit einen Preis?",
       "url": "https://www.heise.de/tests/Dacia-Bigster-155-Hybrid-im-Test-Wie-viel-Verzicht-fordert-der-Top-Dacia-11200832.html",
       "image_title": "Dacia Bigster"
+    },
+    {
+      "title": "AlertSchadcode-Sicherheitslücken in Werbeblocker Pi-hole geschlossen",
+      "teaser": "Es sind wichtige Updates für den Open-Source-Werblocker Pi-hole erschienen. Unter anderem kann Schadcode auf Systeme gelangen.",
+      "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-in-Werbeblocker-Pi-hole-geschlossen-11246221.html",
+      "image_title": "Ein symbolischer Updateknopf."
     },
     {
       "title": "Zweiteiliges Webinar: Apple-Gerätemanagement gemäß IT-Grundschutz des BSI",
@@ -448,12 +454,6 @@
       "title": "Top 10: Die beste kabellose Überwachungskamera im Test – Akku, WLAN, LTE & Solar",
       "teaser": "4K-Auflösung, Dual-Objektiv, Akku, Wi-Fi und Laden per Solarmodul: Kabellose Überwachungskameras haben viel zu bieten. Wir zeigen die besten Modelle.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kabellose-ueberwachungskamera-im-test-akku-wlan-lte-und-solar/0spn5e4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Internetsperre im Iran ist jetzt die längste der Weltgeschichte",
-      "teaser": "Nachdem bereits der Landesrekord geknackt wurde, gilt das jetzt auch auf globaler Ebene. Vorher hielt den Rekord ein anderes Land.",
-      "url": "https://www.heise.de/news/Internetsperre-im-Iran-ist-jetzt-die-laengste-der-Weltgeschichte-11246101.html",
-      "image_title": "Verzerrter Schriftzug \"Offline\""
     },
     {
       "title": "Anthropic wirft OpenClaw aus seinen Claude-Abos",
@@ -514,6 +514,10 @@
       "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
     },
     {
+      "title": "Neue Diskussion um Preis des Deutschlandtickets durch EVG-Chef",
+      "url": "https://www.heise.de/news/Hohe-Spritpreise-EVG-Chef-bringt-Bahn-Rabatte-ins-Gespraech-11246067.html"
+    },
+    {
       "title": "Sanktionierter Tanker sorgt mutmaßlich für Ölpest vor Schweden",
       "url": "https://www.heise.de/news/Sanktionierter-Tanker-sorgt-mutmasslich-fuer-Oelpest-vor-Schweden-11245782.html",
       "image_title": "Ein großer, rostiger Tanker an dem gerade zwei stark motorisierte Schlauchboote anlegen. Die Treppe zum Betreten des Tankers wird gerade ausgklappt."
@@ -524,24 +528,19 @@
       "image_title": "Frau sitzt im Büro"
     },
     {
-      "title": "Desolate FCC-Vorgabe: „Freedom Router“ für US-Verbraucher",
-      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
-      "image_title": "Ein schwarzer Router"
-    },
-    {
       "title": "Chatkontrolle: Tech-Riesen wollen trotz ausgelaufener EU-Regeln weiter scannen",
       "url": "https://www.heise.de/news/Chatkontrolle-Tech-Riesen-wollen-trotz-ausgelaufener-EU-Regeln-weiter-scannen-11245882.html",
       "image_title": "Ein Smartphone mit geöffneter Messaging-App in einer menschlichen Hand, auf dem Bildschirm ist verschwommen ein Chat zu sehen."
     },
     {
-      "title": "1&1 muss Pornhub und YouPorn sperren, sagt auch das Oberverwaltungsgericht",
-      "url": "https://www.heise.de/news/Oberverwaltungsgericht-1-1-muss-Pornhub-und-YouPorn-sperren-10507637.html",
-      "image_title": "Blick auf Pornhub"
+      "title": "Desolate FCC-Vorgabe: „Freedom Router“ für US-Verbraucher",
+      "url": "https://www.heise.de/hintergrund/Desolate-FCC-Vorgabe-Freedom-Router-fuer-US-Verbraucher-11241349.html",
+      "image_title": "Ein schwarzer Router"
     },
     {
-      "title": "EU-Kommission verbietet Top-Beamten Nutzung von Signal-Gruppen",
-      "url": "https://www.heise.de/news/EU-Kommission-verbietet-Top-Beamten-Nutzung-von-Signal-Gruppen-11245187.html",
-      "image_title": "Zwei Hände mit Smartphone und Tastatur, rot beleuchtet"
+      "title": "Internetsperre im Iran ist jetzt die längste der Weltgeschichte",
+      "url": "https://www.heise.de/news/Internetsperre-im-Iran-ist-jetzt-die-laengste-der-Weltgeschichte-11246101.html",
+      "image_title": "Verzerrter Schriftzug \"Offline\""
     },
     {
       "title": "Schnelles Heimnetz für Glasfaser & Co. | c’t uplink",
@@ -624,9 +623,9 @@
       "url": "https://www.heise.de/en/background/AGENTS-md-Helpful-agent-briefing-or-token-hog-11245317.html"
     },
     {
-      "title": "Linux: Wie man mit Udev-Tricks eine Gamingtastatur programmiert",
-      "teaser": "Programmierbare Gamingtastaturen sind teuer und selten für Linkshänder geeignet. Mit ein paar Udev-Tricks unter Linux basteln Sie sich Ihre eigene Tastatur.",
-      "url": "https://www.heise.de/ratgeber/Linux-Wie-man-mit-Udev-Tricks-eine-Gamingtastatur-programmiert-11166063.html"
+      "title": "High-End-Smartphones 2026: Stagnation statt Innovation",
+      "teaser": "Die neuen High-End-Smartphones setzen sich nur in Trippelschritten von der Vorgängergeneration ab. Dennoch könnte jetzt ein guter Zeitpunkt zum Neukauf sein.",
+      "url": "https://www.heise.de/ratgeber/High-End-Smartphones-2026-Stagnation-statt-Innovation-11199992.html"
     },
     {
       "title": "High-End-Smartphones: iPhone, Pixel und Galaxy im Vergleich",
@@ -634,9 +633,9 @@
       "url": "https://www.heise.de/tests/High-End-Smartphones-iPhone-Pixel-und-Galaxy-im-Vergleich-11173362.html"
     },
     {
-      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
-      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
-      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
+      "title": "Honor, Oppo, Xiaomi im Vergleich: High-End-Smartphones aus China",
+      "teaser": "Smartphonetechnik ist noch lange nicht am Ende, wie chinesische Hersteller unter Beweis stellen. Vor allem Akkus und Kameras haben sich weiterentwickelt.",
+      "url": "https://www.heise.de/tests/Honor-Oppo-Xiaomi-im-Vergleich-High-End-Smartphones-aus-China-11173368.html"
     },
     {
       "title": "Smarte NeuauflageAirPods Max 2 im Test",
@@ -738,22 +737,22 @@
       "image_title": "KTM 390 Enduro R Test"
     },
     {
-      "title": "VW Osnabrück: Vom Cabrio zur Kriegsmaschine",
-      "teaser": "Wo heute bei Volkswagen Autos vom Band laufen, sollen bald Raketenabwehr-Teile entstehen. Doch die Belegschaft kämpft zurück.",
-      "url": "https://www.heise.de/-11242855",
-      "image_title": "Friedenstaube sitzt auf VW-Logo"
+      "title": "Von der Bunten Republik Deutschland zur Bundesidentitätsrepublik",
+      "teaser": "Wir sind Özil? Was passiert mit Deutschland? Zur ZDF-Doku: \"Mesut Özil – zu Gast bei Freunden\". Eine Kritik am Umgang mit Özil und Migration. (Teil 2)",
+      "url": "https://www.heise.de/-11246031",
+      "image_title": "Özil als Spieler der deutschen Nationalmannschaft"
     },
     {
-      "title": "Body Drain: Wenn Wohlstand auf fremden Körpern gebaut wird",
-      "teaser": "Nicht nur Köpfe, auch Körper fließen ab: Wohlstandszentren saugen physische Arbeitskraft aus der Peripherie. Was steckt hinter dem Phänomen?",
-      "url": "https://www.heise.de/-11240515",
-      "image_title": "Arbeiter auf einer Baustelle an einem Gerüst"
+      "title": "Nuklearer Schutzschirm? Wie Sicherheitspolitik mit Sprache täuscht",
+      "teaser": "Vom \"Schutzschirm\" bis zur \"Modernisierung\": Wie verschleiernder Sprachgebrauch nukleare Risiken verharmlost – und die Illusion von Sicherheit erzeugt.",
+      "url": "https://www.heise.de/-11245844",
+      "image_title": "Raketen auf dem Hintergrund einer Weltkarte"
     },
     {
-      "title": "Schwüle Hitzewellen: Die unterschätzte Todesgefahr aus dem Meer",
-      "teaser": "Schwüle Hitzewellen töten Tausende – auch Junge unter 35. Küstengewässer heizen sie an. Was sind die Ursachen des Phänomens?",
-      "url": "https://www.heise.de/-11243630",
-      "image_title": "Hygro-/Thermometer und Badethermometer"
+      "title": "Frauenwahlrecht: Warum unsere Demokratie weniger gerecht ist, als wir glauben",
+      "teaser": "Vom Zensuswahlrecht bis heute: Politische Gleichheit bleibt ein Versprechen – und wird auch in modernen Demokratien immer wieder ausgehöhlt.",
+      "url": "https://www.heise.de/-11240677",
+      "image_title": "Ringe mit goldenem Segment, mit Kreuz als Zeichen für Frauen und mit rotem Edding angekreuzt"
     },
     {
       "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
