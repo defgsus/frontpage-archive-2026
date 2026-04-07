@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T10:47:00",
+  "timestamp": "2026-04-07T11:42:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,27 @@
   ],
   "articles": [
     {
-      "title": "Aktive Cyberabwehr: Neue Befugnisse mit alten Problemen",
-      "teaser": "Das geplante Cybersicherheitsstärkungsgesetz will deutschen Behörden den digitalen Gegenangriff erlauben – doch der Entwurf offenbart gravierende Schwächen.",
-      "url": "https://www.heise.de/hintergrund/Aktive-Cyberabwehr-Neue-Befugnisse-mit-alten-Problemen-11229490.html",
+      "title": "Alert„BlueHammer“: Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
+      "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
+      "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
+      "image_title": "Verschwommene Hände an Tastatur"
+    },
+    {
+      "title": "Security: Mit Defender-XDR Entra ID schützen",
+      "teaser": "In der modernen Bedrohungslandschaft ist Entra ID das Primärziel globaler Angriffswellen. Wer Abhilfe schaffen will, muss über die Standardeinstellungen hinaus.",
+      "url": "https://www.heise.de/ratgeber/Security-Mit-Defender-XDR-die-Entra-ID-schuetzen-11229756.html",
       "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "JSON Alexander: Syntax-Highlighting und Baumdarstellung im Browser",
+      "teaser": "Syntax-Highlighting und Baumdarstellung: Das Add-on verbessert die Ansicht von JSON-Daten, insbesondere für API-Entwickler.",
+      "url": "https://www.heise.de/news/JSON-Alexander-Syntax-Highlighting-und-Baumdarstellung-im-Browser-11246718.html",
+      "image_title": "Schriftzug \"API\" über grafischen Strukturen"
     },
     {
       "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
       "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 9. Juni, ihre eigenen Systeme zu hacken, um sich effektiv vor Angriffen zu schützen.",
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-11222507.html"
-    },
-    {
-      "title": "UpdateKI-eGPU-Anbindung kommt für Apple Silicon: Gamer müssen draußen bleiben",
-      "teaser": "Bislang kann man Thunderbolt- und USB4-Erweiterungskästchen am Mac nicht mit Grafikkarten nutzen. Das ändert sich nun – mit einer wichtigen Einschränkung.",
-      "url": "https://www.heise.de/news/Erstmals-eGPU-Treiber-fuer-Apple-Silicon-Macs-aber-nur-fuer-KI-11246850.html",
-      "image_title": "eGPU am Mac mit Apple Silicon"
-    },
-    {
-      "title": "RAM-Krise als möglicher Grund: Mac mini und Mac Studio schwer zu kriegen",
-      "teaser": "Sogar Standardkonfigurationen von Apples Kompakt-Desktops sind derzeit nur nach Wochen zu beziehen. Entweder kommen neue Modelle oder Apple hat RAM-Probleme.",
-      "url": "https://www.heise.de/news/RAM-Krise-als-moeglicher-Grund-Mac-mini-und-Mac-Studio-schwer-zu-kriegen-11246444.html",
-      "image_title": "Mac mini M4 mit Zubehör"
     },
     {
       "title": "RatgeberHigh-End-Smartphones 2026: Stagnation statt Innovation",
@@ -53,6 +53,18 @@
     {
       "title": "RatgeberLinux: Wie man mit Udev-Tricks eine Gamingtastatur programmiert",
       "url": "https://www.heise.de/ratgeber/Linux-Wie-man-mit-Udev-Tricks-eine-Gamingtastatur-programmiert-11166063.html"
+    },
+    {
+      "title": "UpdateKI-eGPU-Anbindung kommt für Apple Silicon: Gamer müssen draußen bleiben",
+      "teaser": "Bislang kann man Thunderbolt- und USB4-Erweiterungskästchen am Mac nicht mit Grafikkarten nutzen. Das ändert sich nun – mit einer wichtigen Einschränkung.",
+      "url": "https://www.heise.de/news/Erstmals-eGPU-Treiber-fuer-Apple-Silicon-Macs-aber-nur-fuer-KI-11246850.html",
+      "image_title": "eGPU am Mac mit Apple Silicon"
+    },
+    {
+      "title": "RAM-Krise als möglicher Grund: Mac mini und Mac Studio schwer zu kriegen",
+      "teaser": "Sogar Standardkonfigurationen von Apples Kompakt-Desktops sind derzeit nur nach Wochen zu beziehen. Entweder kommen neue Modelle oder Apple hat RAM-Probleme.",
+      "url": "https://www.heise.de/news/RAM-Krise-als-moeglicher-Grund-Mac-mini-und-Mac-Studio-schwer-zu-kriegen-11246444.html",
+      "image_title": "Mac mini M4 mit Zubehör"
     },
     {
       "title": "Software Testing: Als Software-Tester von der Stiftung Warentest lernen",
@@ -128,18 +140,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "AGENTS.md: Hilfreiches Agentenbriefing oder Tokenfresser?",
-      "teaser": "Eine AGENTS.md gilt meist als Pflicht für den Einsatz von Coding-Agenten. Doch aus einer gut gemeinten Hilfe kann schnell zusätzlicher Ballast werden.",
-      "url": "https://www.heise.de/hintergrund/AGENTS-md-Hilfreiches-Agentenbriefing-oder-Tokenfresser-11245140.html",
-      "image_title": "Abstrakte Darstellung eines neuronalen Netzes mit verbundenen Kreisen."
-    },
-    {
-      "title": "Smarte Lesehilfe mit einem Raspberry Pi selber bauen",
-      "teaser": "Mit einem Raspi und der Raspi-Kamera wird aus einem alten Monitor eine smarte Lesehilfe. Die kann als Lupe fungieren, Texte visuell aufbereiten und vorlesen.",
-      "url": "https://www.heise.de/ratgeber/Smarte-Lesehilfe-mit-einem-Raspberry-Pi-selber-bauen-11209098.html",
-      "image_title": ","
     },
     {
       "title": "HintergrundWas die NASA-Bilder von der Erde zeigen und wie sie gemacht wurden",
