@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T11:42:57",
+  "timestamp": "2026-04-07T12:52:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,45 @@
   ],
   "articles": [
     {
+      "title": "AMDs erster KI-Beschleuniger für daheim im Test: Radeon AI Pro 9700",
+      "teaser": "Die derzeit billigste 32-GByte-Karte Radeon AI Pro 9700 soll KI-Anwendungen Flügel verleihen. Wir testen das Dual-Slot-Modell von Sapphire.",
+      "url": "https://www.heise.de/tests/AMDs-erster-KI-Beschleuniger-fuer-daheim-im-Test-Radeon-AI-Pro-9700-11114141.html"
+    },
+    {
+      "title": "Anthropic will über 3,5 Gigawatt Rechenkapazität mit Googles TPUs",
+      "teaser": "Google findet mit Anthropic einen Großabnehmer für die eigenen KI-Beschleuniger. Broadcom hilft bis mindestens 2031 bei der weiteren Entwicklung.",
+      "url": "https://www.heise.de/news/Anthropic-will-ueber-3-5-Gigawatt-Rechenkapazitaet-mit-Googles-TPUs-11247289.html",
+      "image_title": "Mehrere Google TPUs auf Platinen nebeneinander"
+    },
+    {
+      "title": "Rust Coreutils 0.8: Schneller, sicherer – und jetzt auch im Browser",
+      "teaser": "Die Rust-Neuimplementierung der GNU Coreutils wird schneller, läuft im Browser und sichert Systemaufrufe besser ab. Was Version 0.8 im Detail bringt.",
+      "url": "https://www.heise.de/news/Rust-Coreutils-0-8-Schneller-sicherer-und-jetzt-auch-im-Browser-11247239.html",
+      "image_title": "Ein Emblem mit den Worten \"Open Source\", Bergen, einem Fluss und einem Netzwerk-Symbol auf einem lila Hintergrund mit Sternen und einem Gitter."
+    },
+    {
+      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11203378.html",
+      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
+    },
+    {
+      "title": "TestsAMDs erster KI-Beschleuniger für daheim im Test: Radeon AI Pro 9700",
+      "url": "https://www.heise.de/tests/AMDs-erster-KI-Beschleuniger-fuer-daheim-im-Test-Radeon-AI-Pro-9700-11114141.html"
+    },
+    {
+      "title": "RatgeberHigh-End-Smartphones 2026: Stagnation statt Innovation",
+      "url": "https://www.heise.de/ratgeber/High-End-Smartphones-2026-Stagnation-statt-Innovation-11199992.html"
+    },
+    {
+      "title": "TestsHigh-End-Smartphones: iPhone, Pixel und Galaxy im Vergleich",
+      "url": "https://www.heise.de/tests/High-End-Smartphones-iPhone-Pixel-und-Galaxy-im-Vergleich-11173362.html"
+    },
+    {
       "title": "Alert„BlueHammer“: Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
       "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
       "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
       "image_title": "Verschwommene Hände an Tastatur"
-    },
-    {
-      "title": "Security: Mit Defender-XDR Entra ID schützen",
-      "teaser": "In der modernen Bedrohungslandschaft ist Entra ID das Primärziel globaler Angriffswellen. Wer Abhilfe schaffen will, muss über die Standardeinstellungen hinaus.",
-      "url": "https://www.heise.de/ratgeber/Security-Mit-Defender-XDR-die-Entra-ID-schuetzen-11229756.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "JSON Alexander: Syntax-Highlighting und Baumdarstellung im Browser",
@@ -41,18 +70,6 @@
       "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
       "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 9. Juni, ihre eigenen Systeme zu hacken, um sich effektiv vor Angriffen zu schützen.",
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-11222507.html"
-    },
-    {
-      "title": "RatgeberHigh-End-Smartphones 2026: Stagnation statt Innovation",
-      "url": "https://www.heise.de/ratgeber/High-End-Smartphones-2026-Stagnation-statt-Innovation-11199992.html"
-    },
-    {
-      "title": "TestsHigh-End-Smartphones: iPhone, Pixel und Galaxy im Vergleich",
-      "url": "https://www.heise.de/tests/High-End-Smartphones-iPhone-Pixel-und-Galaxy-im-Vergleich-11173362.html"
-    },
-    {
-      "title": "RatgeberLinux: Wie man mit Udev-Tricks eine Gamingtastatur programmiert",
-      "url": "https://www.heise.de/ratgeber/Linux-Wie-man-mit-Udev-Tricks-eine-Gamingtastatur-programmiert-11166063.html"
     },
     {
       "title": "UpdateKI-eGPU-Anbindung kommt für Apple Silicon: Gamer müssen draußen bleiben",
@@ -103,6 +120,11 @@
       "image_title": "Mastering Observability 2026 Logo und Titel"
     },
     {
+      "title": "Linux: Wie man mit Udev-Tricks eine Gamingtastatur programmiert",
+      "teaser": "Programmierbare Gamingtastaturen sind teuer und selten für Linkshänder geeignet. Mit ein paar Udev-Tricks unter Linux basteln Sie sich Ihre eigene Tastatur.",
+      "url": "https://www.heise.de/ratgeber/Linux-Wie-man-mit-Udev-Tricks-eine-Gamingtastatur-programmiert-11166063.html"
+    },
+    {
       "title": "Top 10: Die beste Handykamera im Test",
       "teaser": "Immer dabei und vernetzt mit anderen: Smartphones sind im Alltag eine praktische Alternative zur Digitalkamera.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-handykamera-im-test-traumfotos-mit-vivo-xiaomi-und-huawei/tfe9b9d?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
@@ -117,29 +139,6 @@
       "teaser": "Wichtige Sicherheitspatches schließen zwei Softwareschwachstellen in der Endpoint-Management-Plattform HCL BigFix.",
       "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html",
       "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Fake-Teams-Update: So haben Angreifer den axios-Maintainer ausgetrickst",
-      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Derweil gibt es ähnliche Attacken auf weitere Maintainer.",
-      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "AlertSchadcode-Sicherheitslücken in Werbeblocker Pi-hole geschlossen",
-      "teaser": "Es sind wichtige Updates für den Open-Source-Werblocker Pi-hole erschienen. Unter anderem kann Schadcode auf Systeme gelangen.",
-      "url": "https://www.heise.de/news/Schadcode-Sicherheitsluecken-in-Werbeblocker-Pi-hole-geschlossen-11246221.html",
-      "image_title": "Ein symbolischer Updateknopf."
-    },
-    {
-      "title": "Zweiteiliges Webinar: Apple-Gerätemanagement gemäß IT-Grundschutz des BSI",
-      "teaser": "Erfahren Sie, wie sich der IT-Grundschutz des BSI für Apple-Geräte im Unternehmen umsetzen lässt, um die Sicherheit und den Schutz der Daten zu gewährleisten.",
-      "url": "https://www.heise.de/news/Zweiteiliges-Webinar-zu-Datenschutz-und-Sicherheit-fuer-verwaltete-Apple-Geraete-11242937.html"
-    },
-    {
-      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
-      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11229186.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
     },
     {
       "title": "HintergrundWas die NASA-Bilder von der Erde zeigen und wie sie gemacht wurden",
