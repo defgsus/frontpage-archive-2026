@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T12:52:07",
+  "timestamp": "2026-04-07T14:24:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -20,6 +20,32 @@
   ],
   "articles": [
     {
+      "title": "BSI-Kriterienkatalog für Cloud-Computing C5 verlangt mehr",
+      "url": "https://www.heise.de/news/BSI-Kriterienkatalog-fuer-Cloud-Computing-C5-verlangt-mehr-11247015.html"
+    },
+    {
+      "title": "Darknet Diaries Deutsch: Fahrraddieben auf der Spur - Teil 1",
+      "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Fahrraddieben-auf-der-Spur-Teil-1-11218306.html"
+    },
+    {
+      "title": "Epowerfun EPF-2 Pro im Test: Überraschend viel E-Scooter ab 569 Euro",
+      "url": "https://www.heise.de/bestenlisten/testbericht/epowerfun-epf-2-pro-im-test-ueberraschend-viel-e-scooter-ab-569-euro/p44vl24?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Self-Hosted Backend: Appwrite 1.9 bringt MongoDB",
+      "url": "https://www.heise.de/news/Self-Hosted-Backend-Appwrite-1-9-bringt-MongoDB-11247329.html"
+    },
+    {
+      "title": "Web-Tipp: Gishty veröffentlicht Nachrichten jenseits des Mainstreams",
+      "url": "https://www.heise.de/hintergrund/Web-Tipp-Gishty-veroeffentlicht-Nachrichten-jenseits-des-Mainstreams-11156955.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "„GPUBreach“: Systemübernahme mit Bitflips in der Nvidia-GPU",
+      "url": "https://www.heise.de/news/GPUBreach-Systemuebernahme-mit-Bitflips-in-der-Nvidia-GPU-11247207.html"
+    },
+    {
       "title": "Anthropic will über 3,5 Gigawatt Rechenkapazität mit Googles TPUs",
       "url": "https://www.heise.de/news/Anthropic-will-ueber-3-5-Gigawatt-Rechenkapazitaet-mit-Googles-TPUs-11247289.html"
     },
@@ -28,7 +54,7 @@
       "url": "https://www.heise.de/news/Vera-C-Rubin-Observatory-findet-11-000-neue-Asteroiden-im-Sonnensystem-11247176.html"
     },
     {
-      "title": "Rust Coreutils 0.8: Schneller, sicherer – und jetzt auch im Browser",
+      "title": "Rust Coreutils 0.8: Von nix zu rustix – und dd legt 45 Prozent zu",
       "url": "https://www.heise.de/news/Rust-Coreutils-0-8-Schneller-sicherer-und-jetzt-auch-im-Browser-11247239.html"
     },
     {
@@ -36,38 +62,10 @@
       "url": "https://www.heise.de/news/Spritpreise-Diesel-knackt-2-50-Euro-Marke-11247231.html"
     },
     {
-      "title": "Vorsicht, Kunde: Wie EWE Netz einen Smart-Meter-Nutzer zur Verzweiflung treibt",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Wie-EWE-Netz-einen-Smart-Meter-Nutzer-zur-Verzweiflung-treibt-11214287.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11203378.html"
-    },
-    {
-      "title": "Zahlen, bitte! Artemis 2: 406.771 Kilometer abseits der Erde am Mond vorbei",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Artemis-2-406-771-Kilometer-abseits-der-Erde-am-Mond-vorbei-11246728.html"
-    },
-    {
-      "title": "„BlueHammer“: Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
-      "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html"
-    },
-    {
-      "title": "Security: Mit Defender-XDR Entra ID schützen",
-      "url": "https://www.heise.de/ratgeber/Security-Mit-Defender-XDR-die-Entra-ID-schuetzen-11229756.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "JSON Alexander: Syntax-Highlighting und Baumdarstellung im Browser",
-      "url": "https://www.heise.de/news/JSON-Alexander-Syntax-Highlighting-und-Baumdarstellung-im-Browser-11246718.html"
-    },
-    {
-      "title": "Bei MondumrundungCrew von NASA-Mission Artemis-2 feiert Rekorde",
-      "teaser": "Die Crew von Artemis.2 hat sich weiter von der Erde entfernt als je Menschen zuvor. Der Mond-Tag bringt für die Crew Highlights.",
-      "url": "https://www.heise.de/news/Bei-Mondumrundung-Crew-von-NASA-Mission-Artemis-2-feiert-Rekorde-11246474.html",
-      "image_title": "Großer Mond im Fenster einer Raumfähre"
+      "title": "Alert„BlueHammer“Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
+      "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
+      "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
+      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -86,16 +84,16 @@
       "url": "https://www.heise.de/hintergrund/Analyse-Probleme-der-deutschen-Energiewende-und-wie-sie-sich-loesen-liessen-11212668.html"
     },
     {
-      "title": "Weitreichende FolgenRussland sperrt Messenger und VPNs – und Banken gleich mit",
-      "teaser": "Laut mehreren Medienberichten fielen in Russland viele digitale Zahlungsmöglichkeiten aus. Neue VPN-Sperren sollen schuld sein.",
-      "url": "https://www.heise.de/news/Russland-sperrt-Messenger-und-VPNs-und-seine-Banken-gleich-mit-11246123.html",
-      "image_title": "Französische und Russische Flagge vor glühenden Leiterbahnen, darunter SChrift \"Cyber Attack\""
+      "title": "KIAnthropic will über 3,5 Gigawatt Rechenkapazität mit Googles TPUs",
+      "teaser": "Google findet mit Anthropic einen Großabnehmer für die eigenen KI-Beschleuniger. Broadcom entwickelt kommende TPUs weiter mit.",
+      "url": "https://www.heise.de/news/Anthropic-will-ueber-3-5-Gigawatt-Rechenkapazitaet-mit-Googles-TPUs-11247289.html",
+      "image_title": "Mehrere Google TPUs auf Platinen nebeneinander"
     },
     {
-      "title": "Live-TickerArtemis II: NASA-Livestream zur Mondumrundung",
-      "teaser": "Die Orion-Kapsel der Artemis-II-Mission fliegt heute am Mond vorbei. Die NASA überträgt das historische Ereignis ab 19 Uhr live.",
-      "url": "https://www.heise.de/news/Artemis-II-NASA-Livestream-zur-historischen-Mondumrundung-ab-19-Uhr-11246287.html",
-      "image_title": "art002e008486"
+      "title": "UpdateGamer müssen draußen bleibenKI-eGPU-Anbindung kommt für Apple Silicon",
+      "teaser": "Bislang kann man Thunderbolt-Docks am Mac nicht mit Grafikkarten nutzen. Das ändert sich nun – mit einer wichtigen Einschränkung.",
+      "url": "https://www.heise.de/news/Erstmals-eGPU-Treiber-fuer-Apple-Silicon-Macs-aber-nur-fuer-KI-11246850.html",
+      "image_title": "eGPU am Mac mit Apple Silicon"
     },
     {
       "title": "Traumfotos mit Vivo, Xiaomi & HuaweiTop 10: Die beste Handykamera im Test",
@@ -121,15 +119,15 @@
     },
     {
       "title": "Ben Hur in 4KWarum UHD heute besser aussieht als Kino damals",
-      "teaser": "Die neue Restauration von Ben-Hur schärft nicht nur Bild und Ton, sondern auch den Blick auf Hollywoods Vergangenheit.",
+      "teaser": "Die Fassung von Ben-Hur schärft nicht nur Bild und Ton, sondern auch den Blick auf Hollywoods Vergangenheit.",
       "url": "https://www.heise.de/tests/Ben-Hur-in-4K-Warum-die-UHD-heute-besser-aussieht-als-das-Kino-damals-11203874.html",
       "image_title": "Ben-Hur"
     },
     {
-      "title": "LizenzenPreise für H.264 steigen bis aufs 45-fache",
-      "teaser": "Via Licensing Alliance hebt die Gebühren massiv an. Das dürfte vor allem mittelgroße Anbieter treffen.",
-      "url": "https://www.heise.de/news/H-264-Lizenzen-Preise-steigen-bis-aufs-45-fache-11245800.html",
-      "image_title": "Finger klickt auf Play-Button eines Youtube-Videos"
+      "title": "Bei MondumrundungCrew von NASA-Mission Artemis-2 feiert Rekorde",
+      "teaser": "Die Crew von Artemis.2 hat sich weiter von der Erde entfernt als je Menschen zuvor. Der Mond-Tag bringt für die Crew Highlights.",
+      "url": "https://www.heise.de/news/Bei-Mondumrundung-Crew-von-NASA-Mission-Artemis-2-feiert-Rekorde-11246474.html",
+      "image_title": "Großer Mond im Fenster einer Raumfähre"
     },
     {
       "title": "Regeln, Chancen und RisikenSolarstrom mit den Nachbarn teilen",
@@ -147,10 +145,27 @@
       "url": "https://www.heise.de/hintergrund/Was-die-NASA-Bilder-von-der-Erde-zeigen-und-wie-sie-gemacht-wurden-11245902.html"
     },
     {
-      "title": "Fake-Teams-UpdateSo haben Angreifer den axios-Maintainer ausgetrickst",
-      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Es gibt ähnliche Attacken.",
-      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+      "title": "LizenzenPreise für H.264 steigen bis aufs 45-fache",
+      "teaser": "Via Licensing Alliance hebt die Gebühren massiv an. Das dürfte vor allem mittelgroße Anbieter treffen.",
+      "url": "https://www.heise.de/news/H-264-Lizenzen-Preise-steigen-bis-aufs-45-fache-11245800.html",
+      "image_title": "Finger klickt auf Play-Button eines Youtube-Videos"
+    },
+    {
+      "title": "Weitreichende FolgenRussland sperrt Messenger und VPNs – und Banken gleich mit",
+      "teaser": "Laut mehreren Medienberichten fielen in Russland viele digitale Zahlungsmöglichkeiten aus. Neue VPN-Sperren sollen schuld sein.",
+      "url": "https://www.heise.de/news/Russland-sperrt-Messenger-und-VPNs-und-seine-Banken-gleich-mit-11246123.html",
+      "image_title": "Französische und Russische Flagge vor glühenden Leiterbahnen, darunter SChrift \"Cyber Attack\""
+    },
+    {
+      "title": "KaufberatungGebrauchte PCs als Spar-Alternative",
+      "teaser": "Tipps, worauf Sie beim Kauf von Rechnern aus zweiter Hand als günstige Alternative achten müssen.",
+      "url": "https://www.heise.de/ratgeber/Gebrauchte-PCs-als-Spar-Alternative-Eine-Kaufberatung-11154243.html"
+    },
+    {
+      "title": "Live-TickerArtemis II: NASA-Livestream zur Mondumrundung",
+      "teaser": "Die Orion-Kapsel der Artemis-II-Mission fliegt heute am Mond vorbei. Die NASA überträgt das historische Ereignis ab 19 Uhr live.",
+      "url": "https://www.heise.de/news/Artemis-II-NASA-Livestream-zur-historischen-Mondumrundung-ab-19-Uhr-11246287.html",
+      "image_title": "art002e008486"
     },
     {
       "title": "UmfrageBevölkerung findet Energie-Importabhängigkeit bedrohlich",
@@ -159,31 +174,49 @@
       "image_title": "Gaspipeline"
     },
     {
-      "title": "KaufberatungGebrauchte PCs als Spar-Alternative",
-      "teaser": "Tipps, worauf Sie beim Kauf von Rechnern aus zweiter Hand als günstige Alternative achten müssen.",
-      "url": "https://www.heise.de/ratgeber/Gebrauchte-PCs-als-Spar-Alternative-Eine-Kaufberatung-11154243.html"
+      "title": "Fake-Teams-UpdateSo haben Angreifer den axios-Maintainer ausgetrickst",
+      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Es gibt ähnliche Attacken.",
+      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
-      "title": "Mit Cloud-AnbindungTausende Bodycams für Bundespolizei ausgeschrieben",
-      "teaser": "Die Bundespolizei soll mit frischen Bodycams ausgestattet werden – inklusive Cloudsoftwarelösung.",
-      "url": "https://www.heise.de/news/Bundespolizei-5-35-Millionen-Euro-fuer-bis-zu-4000-Cloud-Bodycams-11245854.html"
+      "title": "BSI-Kriterienkatalog für Cloud-Computing C5 verlangt mehr",
+      "teaser": "Das BSI frischt den Kriterienkatalog für Cloud-Computing auf. Die neue Version C5:2026 enthält eine deutsche Interpretation des EU-Cloud-Certification-Schemas.",
+      "url": "https://www.heise.de/news/BSI-Kriterienkatalog-fuer-Cloud-Computing-C5-verlangt-mehr-11247015.html",
+      "image_title": "Bonn,,North,Rhine-westphalia,/,Germany,-,May,14,,2018:,Sign"
     },
     {
-      "title": "c't PhasenlageDas Anker Solix Power Dock wächst mit",
-      "teaser": "Dieses Balkonkraftwerk kann man ohne Elektriker auf 32 Panels mit 14 kWp, 64 kWh Akku und Wallboxen erweitern.",
-      "url": "https://www.heise.de/news/Anker-Solix-Power-Dock-im-Test-Modulare-PV-Anlage-mit-Wallboxen-und-Riesenakkus-11245507.html"
+      "title": "Darknet Diaries Deutsch: Fahrraddieben auf der Spur - Teil 1",
+      "teaser": "In dieser Folge tauchen wir ein in die Welt der gestohlenen Fahrräder. Bryan hilft mit seinem Dienst Bike Index, gestohlene Fahrräder wiederzufinden.",
+      "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Fahrraddieben-auf-der-Spur-Teil-1-11218306.html",
+      "image_title": "Aufmacherbild Darknet Diaries Deutsch"
     },
     {
-      "title": "In neuer KulisseBlack Mirror als VR-Erlebnis zeigt KI als Albtraum",
-      "teaser": "In Montreal eröffnet bald eine VR-Attraktion zur TV-Serie „Black Mirror“. Sie zeigt die dunkle Seite der KI-Entwicklung.",
-      "url": "https://www.heise.de/news/Black-Mirror-bekommt-ein-VR-Erlebnis-in-dem-sich-KI-als-Albtraum-entpuppt-11245644.html",
-      "image_title": "Gruppe betritt helles Portal bei der „Black Mirror Experience“ in dunklem Raum"
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
-      "title": "Anthropic will über 3,5 Gigawatt Rechenkapazität mit Googles TPUs",
-      "teaser": "Google findet mit Anthropic einen Großabnehmer für die eigenen KI-Beschleuniger. Broadcom hilft bis mindestens 2031 bei der weiteren Entwicklung.",
-      "url": "https://www.heise.de/news/Anthropic-will-ueber-3-5-Gigawatt-Rechenkapazitaet-mit-Googles-TPUs-11247289.html",
-      "image_title": "Mehrere Google TPUs auf Platinen nebeneinander"
+      "title": "Epowerfun EPF-2 Pro im Test: Überraschend viel E-Scooter ab 569 Euro",
+      "teaser": "Der preiswerte Epowerfun EPF-2 Pro gefällt im Test mit Wechselakku, einstellbarer Vollfederung und hellem Blinker vorne und hinten.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/epowerfun-epf-2-pro-im-test-ueberraschend-viel-e-scooter-ab-569-euro/p44vl24?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Self-Hosted Backend: Appwrite 1.9 bringt MongoDB",
+      "teaser": "Appwrite 1.9 bringt MongoDB-Support, ressourcenbasierte API-Keys und Query-Filter für Realtime-Subscriptions. Hinzu kommen Performance- und Compute-Updates.",
+      "url": "https://www.heise.de/news/Self-Hosted-Backend-Appwrite-1-9-bringt-MongoDB-11247329.html",
+      "image_title": "Appwrite Dashboard mit Projektübersicht, Bandbreitendiagramm und Statistiken für Datenbanken und Authentifizierung."
+    },
+    {
+      "title": "Web-Tipp: Gishty veröffentlicht Nachrichten jenseits des Mainstreams",
+      "teaser": "Gishty befasst sich mit dem, was vergangene Woche passiert ist – in Gegenden, die in der medialen Berichterstattung eher weniger Beachtung erfahren.",
+      "url": "https://www.heise.de/hintergrund/Web-Tipp-Gishty-veroeffentlicht-Nachrichten-jenseits-des-Mainstreams-11156955.html"
+    },
+    {
+      "title": "„GPUBreach“: Systemübernahme mit Bitflips in der Nvidia-GPU",
+      "teaser": "Rowhammer-Angriffe auf GPUs können nicht nur Daten zerstören, sondern auch zur Ausweitung der Rechte missbraucht werden.",
+      "url": "https://www.heise.de/news/GPUBreach-Systemuebernahme-mit-Bitflips-in-der-Nvidia-GPU-11247207.html",
+      "image_title": "GPU-Breach-Logo vor Matrix-Regen-Hintergrund"
     },
     {
       "title": "Vera C. Rubin Observatory findet 11.000 neue Asteroiden im Sonnensystem",
@@ -192,43 +225,10 @@
       "image_title": "Modell des inneren Sonnensystems mit den von Rubin entdeckten Asteroiden in hellblau. Bereist bekannte sind dunkelblau dargestellt."
     },
     {
-      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
-      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
-    },
-    {
-      "title": "Rust Coreutils 0.8: Schneller, sicherer – und jetzt auch im Browser",
+      "title": "Rust Coreutils 0.8: Von nix zu rustix – und dd legt 45 Prozent zu",
       "teaser": "Die Rust-Neuimplementierung der GNU Coreutils wird schneller, läuft im Browser und sichert Systemaufrufe besser ab. Was Version 0.8 im Detail bringt.",
       "url": "https://www.heise.de/news/Rust-Coreutils-0-8-Schneller-sicherer-und-jetzt-auch-im-Browser-11247239.html",
       "image_title": "Ein Emblem mit den Worten \"Open Source\", Bergen, einem Fluss und einem Netzwerk-Symbol auf einem lila Hintergrund mit Sternen und einem Gitter."
-    },
-    {
-      "title": "Diesel erstmals über 2,50 Euro – Bauern warnen",
-      "teaser": "Diesel hat erstmals im bundesweiten Durchschnitt mehr als 2,50 Euro gekostet. Bauernpräsident Rukwied sieht die Versorgungssicherheit in Gefahr.",
-      "url": "https://www.heise.de/news/Spritpreise-Diesel-knackt-2-50-Euro-Marke-11247231.html",
-      "image_title": "Zapfpistole Tankstelle"
-    },
-    {
-      "title": "Vorsicht, Kunde: Wie EWE Netz einen Smart-Meter-Nutzer zur Verzweiflung treibt",
-      "teaser": "Smart Meter gelten als supersicher. Verwechselt der Betreiber allerdings die Nutzer, zahlen diese für den Strom anderer Nutzer und sehen deren Verbrauchsdaten.",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Wie-EWE-Netz-einen-Smart-Meter-Nutzer-zur-Verzweiflung-treibt-11214287.html"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
-      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11203378.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Zahlen, bitte! Artemis 2: 406.771 Kilometer abseits der Erde am Mond vorbei",
-      "teaser": "Artemis 2 stellt einen Rekord von Apollo 13 ein: So weit entfernt von der Erde waren noch keine Menschen zuvor. Entscheidend dafür ist europäische Technik.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Artemis-2-406-771-Kilometer-abseits-der-Erde-am-Mond-vorbei-11246728.html"
-    },
-    {
-      "title": "Alert„BlueHammer“: Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
-      "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
-      "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
-      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -285,8 +285,8 @@
       "url": "https://www.heise.de/news/Tempolimits-und-mehr-Homeoffice-Bruessel-appelliert-an-die-Mitgliedstaaten-11243493.html"
     },
     {
-      "title": "Bemannte NASA-Mondmission: Bilderbuchstart für Artemis-2",
-      "url": "https://www.heise.de/news/Bemannte-NASA-Mondmission-Bilderbuchstart-fuer-Artemis-2-11244063.html"
+      "title": "Umfrage: Bevölkerung findet Energie-Importabhängigkeit bedrohlich",
+      "url": "https://www.heise.de/news/Umfrage-Bevoelkerung-findet-Energie-Importabhaengigkeit-bedrohlich-11246496.html"
     },
     {
       "title": "Dreame vor Roborock & DysonTop 10: Der beste Wischsauger im Test",
@@ -321,6 +321,28 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Diesel erstmals über 2,50 Euro – Bauern warnen",
+      "teaser": "Diesel hat erstmals im bundesweiten Durchschnitt mehr als 2,50 Euro gekostet. Bauernpräsident Rukwied sieht die Versorgungssicherheit in Gefahr.",
+      "url": "https://www.heise.de/news/Spritpreise-Diesel-knackt-2-50-Euro-Marke-11247231.html",
+      "image_title": "Zapfpistole Tankstelle"
+    },
+    {
+      "title": "Vorsicht, Kunde: Wie EWE Netz einen Smart-Meter-Nutzer zur Verzweiflung treibt",
+      "teaser": "Smart Meter gelten als supersicher. Verwechselt der Betreiber allerdings die Nutzer, zahlen diese für den Strom anderer Nutzer und sehen deren Verbrauchsdaten.",
+      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Wie-EWE-Netz-einen-Smart-Meter-Nutzer-zur-Verzweiflung-treibt-11214287.html"
+    },
+    {
+      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
+      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11203378.html",
+      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
+    },
+    {
+      "title": "Zahlen, bitte! Artemis 2: 406.771 Kilometer abseits der Erde am Mond vorbei",
+      "teaser": "Artemis 2 stellt einen Rekord von Apollo 13 ein: So weit entfernt von der Erde waren noch keine Menschen zuvor. Entscheidend dafür ist europäische Technik.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Artemis-2-406-771-Kilometer-abseits-der-Erde-am-Mond-vorbei-11246728.html"
+    },
+    {
       "title": "Security: Mit Defender-XDR Entra ID schützen",
       "teaser": "In der modernen Bedrohungslandschaft ist Entra ID das Primärziel globaler Angriffswellen. Wer Abhilfe schaffen will, muss über die Standardeinstellungen hinaus.",
       "url": "https://www.heise.de/ratgeber/Security-Mit-Defender-XDR-die-Entra-ID-schuetzen-11229756.html",
@@ -350,12 +372,6 @@
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-11222507.html"
     },
     {
-      "title": "UpdateKI-eGPU-Anbindung kommt für Apple Silicon: Gamer müssen draußen bleiben",
-      "teaser": "Bislang kann man Thunderbolt- und USB4-Erweiterungskästchen am Mac nicht mit Grafikkarten nutzen. Das ändert sich nun – mit einer wichtigen Einschränkung.",
-      "url": "https://www.heise.de/news/Erstmals-eGPU-Treiber-fuer-Apple-Silicon-Macs-aber-nur-fuer-KI-11246850.html",
-      "image_title": "eGPU am Mac mit Apple Silicon"
-    },
-    {
       "title": "Suno: So leicht lassen sich Copyright-Sperren bei KI-Musik umgehen",
       "teaser": "Die KI-Musikplattform Suno soll eigentlich verhindern, dass geschützte Songs genutzt werden – doch genau das gelingt offenbar nur unzureichend.",
       "url": "https://www.heise.de/news/Suno-So-leicht-lassen-sich-Copyright-Sperren-bei-KI-Musik-umgehen-11246792.html",
@@ -380,6 +396,11 @@
       "image_title": "Software Testing: So testet Stiftung Warentest"
     },
     {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
+    },
+    {
       "title": "Promptware: Wie weit Malware für KI-Systeme schon ist",
       "teaser": "Attacken auf große Sprachmodelle gehen mittlerweile weit über reine Prompt-Injections hinaus. Zeit für eine Bestandsaufnahme.",
       "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
@@ -395,11 +416,6 @@
       "teaser": "Routineaufgaben mit robotergestützter Prozessautomatisierung von Bots eigenständig erledigen lassen und so Workflows effizienter gestalten.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Automation-Anywhere-von-manuellen-Ablaeufen-zu-smarten-Workflows-11229203.html",
       "image_title": "iX-Workshop RPA mit Automation Anywhere: Bots bauen, Dokumente automatisieren, KI nutzen"
-    },
-    {
-      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
-      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
     },
     {
       "title": "App-Sideloading: Was Googles Einschränkungen für Nutzer und Entwickler bedeuten",
@@ -439,22 +455,6 @@
       "title": "Teslas Fernsteuerungsfunktion: US-Aufsichtsbehörde stellt Untersuchung ein",
       "teaser": "Nach Software-Updates hat die NHTSA ihre Untersuchung zu Teslas Fernsteuerungsfunktion beendet. Untersuchungen zu Teslas Full Self-Driving-System laufen weiter.",
       "url": "https://www.heise.de/news/Teslas-Fernsteuerungsfunktion-US-Aufsichtsbehoerde-stellt-Untersuchung-ein-11246380.html"
-    },
-    {
-      "title": "Treibstoffpreise: Amazon Fulfillment-Gebühren steigen in Europa nur geringfügig",
-      "teaser": "Händler, die in Europa über Amazon verkaufen und zustellen lassen, müssen bald einen Treibstoffaufschlag bezahlen. Aber weniger als in Nordamerika.",
-      "url": "https://www.heise.de/news/Treibstoffpreise-Amazon-Fulfillment-Gebuehren-steigen-in-Europa-nur-geringfuegig-11246199.html",
-      "image_title": "Graue Schließfächer \"Amazon locker\" am Bahnhof Monacos"
-    },
-    {
-      "title": "AlertAngreifer können Weboberfläche von WatchGuard Firebox attackieren",
-      "teaser": "WatchGuard-Firewalls der Firebox-Serie und die Produkte Dimension und WebBlockerServer sind verwundbar. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Weboberflaeche-von-WatchGuard-Firebox-attackieren-11246291.html"
-    },
-    {
-      "title": "Edifier ES20 im Test: Mini-Bluetooth-Lautsprecher für 30 € besser als JBL Go 4",
-      "teaser": "Edifier schickt mit dem ES20 einen Mini-Bluetooth-Lautsprecher ins Rennen, der im selben Preissegment wie der JBL Go 4 spielt – aber besser klingt.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/edifier-es20-im-test-mini-bluetooth-lautsprecher-fuer-30-euro-besser-als-jbl-go-4/ef96hf4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "AGENTS.md: Hilfreiches Agentenbriefing oder Tokenfresser?",
@@ -506,13 +506,14 @@
       "image_title": "Ducati Superleggera V4 Centenario"
     },
     {
+      "title": "Black Mirror bekommt ein VR-Erlebnis, in dem sich KI als Albtraum entpuppt",
+      "url": "https://www.heise.de/news/Black-Mirror-bekommt-ein-VR-Erlebnis-in-dem-sich-KI-als-Albtraum-entpuppt-11245644.html",
+      "image_title": "Gruppe betritt helles Portal bei der „Black Mirror Experience“ in dunklem Raum"
+    },
+    {
       "title": "Apple wird 50 und Nikon trennt sich von Robotern – die Fotonews der Woche 14/26",
       "url": "https://www.heise.de/news/Apple-wird-50-und-Nikon-trennt-sich-von-Robotern-die-Fotonews-der-Woche-14-26-11244834.html",
       "image_title": "Fotoapparate und ein Smartphone vor einem alten Mac"
-    },
-    {
-      "title": "Sind OLEDs jetzt komplett unproblematisch? | c't 3003",
-      "url": "https://www.heise.de/news/Sind-OLEDs-jetzt-komplett-unproblematisch-c-t-3003-11245290.html"
     },
     {
       "title": "Neue Diskussion um Preis des Deutschlandtickets durch EVG-Chef",
@@ -554,8 +555,8 @@
       "image_title": "Verzerrter Schriftzug \"Offline\""
     },
     {
-      "title": "Schnelles Heimnetz für Glasfaser & Co. | c’t uplink",
-      "url": "https://www.heise.de/news/Schnelles-Heimnetz-fuer-Glasfaser-Co-c-t-uplink-11244825.html"
+      "title": "Tausende Bodycams mit Cloud-Anbindung für Bundespolizei ausgeschrieben",
+      "url": "https://www.heise.de/news/Bundespolizei-5-35-Millionen-Euro-fuer-bis-zu-4000-Cloud-Bodycams-11245854.html"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -624,19 +625,19 @@
       "url": "https://www.heise.de/en/background/AGENTS-md-Helpful-agent-briefing-or-token-hog-11245317.html"
     },
     {
-      "title": "High-End-Smartphones: iPhone, Pixel und Galaxy im Vergleich",
-      "teaser": "Die Top-Smartphones von Apple, Google und Samsung bringen jeweils Vollausstattung mit, setzen aber trotzdem unterschiedliche Schwerpunkte.",
-      "url": "https://www.heise.de/tests/High-End-Smartphones-iPhone-Pixel-und-Galaxy-im-Vergleich-11173362.html"
-    },
-    {
-      "title": "Honor, Oppo, Xiaomi im Vergleich: High-End-Smartphones aus China",
-      "teaser": "Smartphonetechnik ist noch lange nicht am Ende, wie chinesische Hersteller unter Beweis stellen. Vor allem Akkus und Kameras haben sich weiterentwickelt.",
-      "url": "https://www.heise.de/tests/Honor-Oppo-Xiaomi-im-Vergleich-High-End-Smartphones-aus-China-11173368.html"
-    },
-    {
       "title": "High-End-Smartphones 2026: Stagnation statt Innovation",
       "teaser": "Die neuen High-End-Smartphones setzen sich nur in Trippelschritten von der Vorgängergeneration ab. Dennoch könnte jetzt ein guter Zeitpunkt zum Neukauf sein.",
       "url": "https://www.heise.de/ratgeber/High-End-Smartphones-2026-Stagnation-statt-Innovation-11199992.html"
+    },
+    {
+      "title": "Linux: Wie man mit Udev-Tricks eine Gamingtastatur programmiert",
+      "teaser": "Programmierbare Gamingtastaturen sind teuer und selten für Linkshänder geeignet. Mit ein paar Udev-Tricks unter Linux basteln Sie sich Ihre eigene Tastatur.",
+      "url": "https://www.heise.de/ratgeber/Linux-Wie-man-mit-Udev-Tricks-eine-Gamingtastatur-programmiert-11166063.html"
+    },
+    {
+      "title": "High-End-Smartphones: iPhone, Pixel und Galaxy im Vergleich",
+      "teaser": "Die Top-Smartphones von Apple, Google und Samsung bringen jeweils Vollausstattung mit, setzen aber trotzdem unterschiedliche Schwerpunkte.",
+      "url": "https://www.heise.de/tests/High-End-Smartphones-iPhone-Pixel-und-Galaxy-im-Vergleich-11173362.html"
     },
     {
       "title": "Smarte NeuauflageAirPods Max 2 im Test",
@@ -738,37 +739,37 @@
       "image_title": "KTM 390 Enduro R Test"
     },
     {
-      "title": "Macht Chinas neuer Sensor die US-Atommarine wertlos?",
-      "teaser": "Chinesische Forscher nutzen Schwerkraft zur U-Boot-Jagd. Das Tückische: Gegen Gravitation gibt es keine Tarnung.",
-      "url": "https://www.heise.de/-11246057",
-      "image_title": "Atom-U-Boot in einer Bucht"
+      "title": "Medien: Zu viele Schlagzeilen, zu wenig Wirklichkeit",
+      "teaser": "Die Nachrichtenflut wächst – doch Wichtiges geht unter. Eine Liste zeigt übersehene Themen: Von Afrikas Entwicklung bis zu Staatenlosen in Deutschland.",
+      "url": "https://www.heise.de/-11247337",
+      "image_title": "Hand an einer Tastatur und ein Bildschirm"
     },
     {
-      "title": "Tatort: Zwei Supernasen auf dem Weg zur Rente",
-      "teaser": "Die Münchner \"Tatort\"-Kommissare Batic und Leitmayr: Der Abschied als Staatsakt. Ein Fernsehereignis unter Erwartungsdruck: Nostalgie und Comedy. Eine Kritik.",
-      "url": "https://www.heise.de/-11246642",
-      "image_title": "Porträt Ivo Batic (Miroslav Nemec, links) und Franz Leitmayr (Udo Wachtveitl), umrahmt von roter Farbe"
+      "title": "Jetzt belegt: KI macht uns denkfaul und manipulierbar",
+      "teaser": "KI macht uns nicht nur denkfaul – sie lässt uns dabei noch selbstsicherer werden. Warum das so gefährlich ist.",
+      "url": "https://www.heise.de/-11246004",
+      "image_title": "Ein Junge arbeitet mit dem Tablet und nutzt dabei einen KI-Chatbot."
     },
     {
-      "title": "No Kings: Amerika rebelliert gegen seinen Präsidenten",
-      "teaser": "Der König führt Krieg, die Straße rebelliert: Kann die No-Kings-Bewegung dem Trumpismus gefährlich werden? Eine Analyse.",
-      "url": "https://www.heise.de/-11243566",
-      "image_title": "Demonstranten der No-Kings-Proteste in den USA"
+      "title": "Body Drain: Wenn Wohlstand auf fremden Körpern gebaut wird",
+      "teaser": "Nicht nur Köpfe, auch Körper fließen ab: Wohlstandszentren saugen physische Arbeitskraft aus der Peripherie. Was steckt hinter dem Phänomen?",
+      "url": "https://www.heise.de/-11240515",
+      "image_title": "Arbeiter auf einer Baustelle an einem Gerüst"
     },
     {
-      "title": "Die neue Arktis: Wie die Forschung auf Grönland zur Machtfrage wird",
-      "teaser": "Grönland steht im Rampenlicht, auch wenn das strategische Interesse an der Insel eigentlich nicht neu ist. So machen Klimawandel, Rohstoffe und Geopolitik die Arktis zum strategischen Testfeld des 21. Jahrhunderts.",
-      "url": "https://t3n.de/news/die-neue-arktis-wie-die-forschung-auf-groenland-zur-machtfrage-wird-1736763/"
+      "title": "Forscherin erklärt, wie KI die Arbeitswelt verändert",
+      "teaser": "Künstliche Intelligenz und Digitalisierung verändern die Arbeitswelt schneller als je zuvor – oft mit unerwünschten Nebenwirkungen. Arbeitsforscherin Friedericke Hardering erklärt, wie sich der Druck auf Beschäftigte erhöht, warum New-Work-Methoden oft wenig helfen und welche Lösungen Führungskräfte jetzt finden müssen.",
+      "url": "https://t3n.de/news/wir-erleben-gerade-eine-beschleunigung-der-beschleunigung-forscherin-erklaert-wie-ki-die-arbeitswelt-veraendert-1735909/"
     },
     {
-      "title": "Digitalminister Karsten Wildberger: “Ich bin kein naiver Techno-Optimist”",
-      "teaser": "Ein junges Digitalministerium und eine Agenda, die von Mobilfunk an Bahnstrecken bis zu KI-Förderung reicht: Im Gespräch mit den t3n-Chefredakteuren spricht Digitalminister Karsten Wildberger über den Zustand der deutschen Digitalisierung, KI in der Verwaltung und seine Vision einer digitalen Brieftasche.",
-      "url": "https://t3n.de/news/digitalminister-karsten-wildberger-mit-erhobenem-zeigefinger-erklaeren-warum-ki-wunderbar-ist-funktioniert-nicht-1736408/"
+      "title": "Warum KI-Benchmarks kaputt sind – und was wir stattdessen brauchen",
+      "teaser": "Einmalige Benchmark-Tests für KI geben kaum Aufschluss über die tatsächlichen Fähigkeiten großer Sprachmodelle. Statt Objektivität ebnen sie den Weg für eine verhängnisvolle Kluft, meint unsere Expertin für KI-Tools und Professorin an der Stanford University.",
+      "url": "https://t3n.de/news/benchmarks-sollten-diese-4-punkte-erfuellen-nur-so-koennen-wir-den-nutzen-der-ki-in-der-arbeitswelt-beurteilen-1736746/"
     },
     {
-      "title": "Tipps von Karrierecoachin: Diese sechs Fragen solltest du dir stellen, bevor du kündigst",
-      "teaser": "Silke Grotegut unterstützt seit elf Jahren Klient:innen bei ihrem beruflichen Neuanfang. Hier erklärt sie, welche Fragen man sich vor einer Kündigung stellen sollte – und wieso es wichtig ist, genügend Fuck-you-Money auf der Bank zu haben.",
-      "url": "https://t3n.de/news/tipps-von-karrierecoachin-diese-sechs-fragen-solltest-du-dir-stellen-bevor-du-kuendigst-1736396/"
+      "title": "Chemieindustrie und Klima: „Wir müssen weg vom Ziel, weniger schlecht zu sein“",
+      "teaser": "Laut Klimaschutzgesetz muss Deutschland 2045 klimaneutral sein. Für die Chemieindustrie bedeutet das nicht nur, auf regenerative Energiequellen umzusteigen, sondern auch auf neue Rohstoffe. Erste Startups weisen den Weg.",
+      "url": "https://t3n.de/news/wir-muessen-weg-vom-ziel-weniger-schlecht-zu-sein-klimaneutrale-wege-fuer-die-chemieindustrie-1735397/"
     },
     {
       "title": "immocloud im Test: Immobilienverwaltung für Vermieter und Hausverwalter",
