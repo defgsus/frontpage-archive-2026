@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T18:43:50",
+  "timestamp": "2026-04-07T19:47:26",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Warnung aus UK: Russische Cyberkriminelle kapern Router zum Passwort-Klau",
+      "url": "https://www.heise.de/news/Warnung-aus-UK-Russische-Cyberkriminelle-kapern-Router-zum-Passwort-Klau-11247959.html"
+    },
     {
       "title": "Top 10: Die besten Outdoor-Smartwatches im Test",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-outdoor-smartwatch-im-test-robuste-gps-uhren-fuer-abenteuer/5y4cn4j?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -54,10 +58,6 @@
     {
       "title": "Toyota RAV4 in sechster Generation jetzt als Hybrid und PHEV bestellbar",
       "url": "https://www.heise.de/news/Toyota-RAV4-in-sechster-Generation-jetzt-als-Hybrid-und-PHEV-bestellbar-11247594.html"
-    },
-    {
-      "title": "Die Schland-App kommt: SAP und Telekom sollen zentrale Bürger-App bauen",
-      "url": "https://www.heise.de/news/SAP-und-Telekom-entwickeln-zentrale-Buerger-App-fuer-Deutschland-11247464.html"
     },
     {
       "title": "Alert„BlueHammer“Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
@@ -179,20 +179,25 @@
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
+      "title": "Warnung aus UK: Russische Cyberkriminelle kapern Router zum Passwort-Klau",
+      "teaser": "Das britische Cybersicherheitszentrum NCSC meldet Cyberangriffe auf Internetrouter. Die Bande aus Russland ist auch mehrerer Attacken in Deutschland verdächtig.",
+      "url": "https://www.heise.de/news/Warnung-aus-UK-Russische-Cyberkriminelle-kapern-Router-zum-Passwort-Klau-11247959.html"
+    },
+    {
       "title": "Top 10: Die besten Outdoor-Smartwatches im Test",
       "teaser": "Diese Smartwatches stecken einiges ein und laufen teils wochenlang. Das sind die besten Outdoor-Uhren von Garmin, Polar und Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-outdoor-smartwatch-im-test-robuste-gps-uhren-fuer-abenteuer/5y4cn4j?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Wie die richtige Sicherheitskultur vor neuartigen KI-Angriffen schützt",
+      "teaser": "Ist das Ende der klassischen Phishing-Simulation gekommen? Erzwingt die KI in den Händen der Cyberangreifer eine neue Sicherheitskultur in den Unternehmen? Was können Mitarbeiter dem Tempo von KI-Angriffen entgegensetzen? Antworten dazu gibt es im Webcast am 9. April.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/sekundensache-security-die-luecke-zwischen-ki-angriffen-und-menschlicher-reaktion-schliessen-5031/?source=hbsadersatz"
     },
     {
       "title": "Rasterfahndung 2.0: Starke Zunahme der polizeilichen Gesichtserkennung",
       "teaser": "KI-Upgrade und mobile Apps lassen die Abfragezahlen von Gesichtsbildern beim BKA deutlich steigen. Kritiker warnen vor digitaler Stigmatisierung ganzer Gruppen.",
       "url": "https://www.heise.de/news/Rasterfahndung-2-0-Starke-Zunahme-der-polizeilichen-Gesichtserkennung-11247865.html",
       "image_title": "Mann wírd von Gesichtserkennungssystem detektiert"
-    },
-    {
-      "title": "Identity Governance und die effiziente Verwaltung von Identitäten",
-      "teaser": "Trotz Identity-Managements fehlt in Unternehmen oft die Übersicht über die Zugriffsrechte. Regulatorische Anforderungen erhöhen den Druck – Plattformen für Identity Governance können dann helfen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7240350882&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mikrocontroller-Marktführer aus Europa: Infineon, NXP und STMicroelectronics",
@@ -223,12 +228,6 @@
       "teaser": "SpaceX, xAI und Tesla haben einen Partner für das eigene Chipprojekt Terafab gefunden. Intel will Fertigungsexpertise beisteuern.",
       "url": "https://www.heise.de/news/Intel-will-bei-Elon-Musks-Terafab-mitmachen-11247743.html",
       "image_title": "Wafer mit Meteor-Lake-Dies"
-    },
-    {
-      "title": "Ehemaliger Postminister Schwarz-Schilling gestorben",
-      "teaser": "Der Christdemokrat kämpfte für Privatfunk und Frieden auf dem Balkan. Im Alter von 95 Jahren ist er im Kreise seiner Familie gestorben.",
-      "url": "https://www.heise.de/news/Ehemaliger-Postminister-Schwarz-Schilling-gestorben-11247851.html",
-      "image_title": "Christian Schwarz-Schilling"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -321,6 +320,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Ehemaliger Postminister Schwarz-Schilling gestorben",
+      "teaser": "Der Christdemokrat kämpfte für Privatfunk und Frieden auf dem Balkan. Im Alter von 95 Jahren ist er im Kreise seiner Familie gestorben.",
+      "url": "https://www.heise.de/news/Ehemaliger-Postminister-Schwarz-Schilling-gestorben-11247851.html",
+      "image_title": "Christian Schwarz-Schilling"
+    },
+    {
       "title": "Toyota RAV4 in sechster Generation jetzt als Hybrid und PHEV bestellbar",
       "teaser": "Der Toyota RAV4, einer der Pioniere des SUV-Segments, geht in die sechste Generation. Er setzt konsequent auf Hybridtechnik mit elektrifizierter Hinterachse.",
       "url": "https://www.heise.de/news/Toyota-RAV4-in-sechster-Generation-jetzt-als-Hybrid-und-PHEV-bestellbar-11247594.html",
@@ -390,14 +395,14 @@
       "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "Zahlen, bitte! Artemis 2: 406.771 Kilometer abseits der Erde am Mond vorbei",
       "teaser": "Artemis 2 stellt einen Rekord von Apollo 13 ein: So weit entfernt von der Erde waren noch keine Menschen zuvor. Entscheidend dafür ist europäische Technik.",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Artemis-2-406-771-Kilometer-abseits-der-Erde-am-Mond-vorbei-11246728.html"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "Security: Mit Defender-XDR Entra ID schützen",
@@ -451,11 +456,6 @@
       "teaser": "Was können Software-Tester davon lernen, wie Stiftung Warentest beim Testen vorgeht? Das bespricht Richard Seidl mit Johannes Stiller.",
       "url": "https://www.heise.de/blog/Software-Testing-Als-Software-Tester-von-der-Stiftung-Warentest-lernen-11246702.html",
       "image_title": "Software Testing: So testet Stiftung Warentest"
-    },
-    {
-      "title": "Promptware: Wie weit Malware für KI-Systeme schon ist",
-      "teaser": "Attacken auf große Sprachmodelle gehen mittlerweile weit über reine Prompt-Injections hinaus. Zeit für eine Bestandsaufnahme.",
-      "url": "https://www.heise.de/hintergrund/Promptware-Wie-weit-Malware-fuer-KI-Systeme-schon-ist-11213525.html"
     },
     {
       "title": "AGENTS.md: Hilfreiches Agentenbriefing oder Tokenfresser?",
@@ -626,6 +626,11 @@
       "url": "https://www.heise.de/en/background/AGENTS-md-Helpful-agent-briefing-or-token-hog-11245317.html"
     },
     {
+      "title": "High-End-Smartphones 2026: Stagnation statt Innovation",
+      "teaser": "Die neuen High-End-Smartphones setzen sich nur in Trippelschritten von der Vorgängergeneration ab. Dennoch könnte jetzt ein guter Zeitpunkt zum Neukauf sein.",
+      "url": "https://www.heise.de/ratgeber/High-End-Smartphones-2026-Stagnation-statt-Innovation-11199992.html"
+    },
+    {
       "title": "Mikrocontroller-Marktführer aus Europa: Infineon, NXP und STMicroelectronics",
       "teaser": "Drei der fünf weltweit führenden Hersteller von Mikrocontrollern sitzen in Europa; zusammen mit Renesas und Microchip halten sie rund 80 Prozent Marktanteil.",
       "url": "https://www.heise.de/news/Mikrocontroller-Marktfuehrer-aus-Europa-Infineon-NXP-und-STMicroelectronics-11247861.html",
@@ -635,11 +640,6 @@
       "title": "High-End-Smartphones: iPhone, Pixel und Galaxy im Vergleich",
       "teaser": "Die Top-Smartphones von Apple, Google und Samsung bringen jeweils Vollausstattung mit, setzen aber trotzdem unterschiedliche Schwerpunkte.",
       "url": "https://www.heise.de/tests/High-End-Smartphones-iPhone-Pixel-und-Galaxy-im-Vergleich-11173362.html"
-    },
-    {
-      "title": "AMDs erster KI-Beschleuniger für daheim im Test: Radeon AI Pro 9700",
-      "teaser": "Die derzeit billigste 32-GByte-Karte Radeon AI Pro 9700 soll KI-Anwendungen Flügel verleihen. Wir testen das Dual-Slot-Modell von Sapphire.",
-      "url": "https://www.heise.de/tests/AMDs-erster-KI-Beschleuniger-fuer-daheim-im-Test-Radeon-AI-Pro-9700-11114141.html"
     },
     {
       "title": "Smarte NeuauflageAirPods Max 2 im Test",
@@ -677,6 +677,12 @@
       "image_title": "Raspberry Pi 4 auf einer bunten Box"
     },
     {
+      "title": "Kine‑Exakta: Die erste Spiegelreflexkamera fürs Kleinbild",
+      "teaser": "1936 revolutionierte die Kine‑Exakta die Fotografie. Die erste Kleinbild‑SLR zeigte erstmals das echte Sucherbild – und prägte das Kameradesign bis heute.",
+      "url": "https://www.heise.de/hintergrund/Kine-Exakta-Die-erste-Spiegelreflexkamera-fuers-Kleinbild-11206687.html",
+      "image_title": ", Deutsches Kameramuseum"
+    },
+    {
       "title": "Kreise, Rundungen und Bögen: Die Bilder der Woche 14",
       "teaser": "Ohne Ecken und Kanten erscheinen gerundete Motive besonders weich und harmonisch, und diese Woche gibt es davon besonders viele.",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html",
@@ -692,12 +698,6 @@
       "teaser": "Die Lomo MC-A verbindet klassische Analogfotografie mit moderner Technik. Autofokus, USB-C-Akku und einige Kreativfunktionen heben sie von anderen Modellen ab.",
       "url": "https://www.heise.de/tests/Lomo-MC-A-im-Praxis-Test-Wann-sich-eine-moderne-Analogkamera-lohnt-11243578.html",
       "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
-    },
-    {
-      "title": "Wasserfotografie von Ben Thouard: Wellen zwischen Kunst und Technik",
-      "teaser": "Der französische Fotograf verwandelt Wellen in abstrakte Kunst. Mit Licht, Technik und Geduld entstehen Bilder zwischen Dokumentation und Abstraktion.",
-      "url": "https://www.heise.de/hintergrund/Wasserfotografie-von-Ben-Thouard-Wellen-zwischen-Kunst-und-Technik-11213513.html",
-      "image_title": ", Alle Bilder: Ben Thouard"
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -740,22 +740,22 @@
       "url": "https://www.heise.de/news/Essen-setzt-Uber-Mindestpreise-nach-Gerichtsentscheid-aus-11245575.html"
     },
     {
+      "title": "No Kings: Amerika rebelliert gegen seinen Präsidenten",
+      "teaser": "Der König führt Krieg, die Straße rebelliert: Kann die No-Kings-Bewegung dem Trumpismus gefährlich werden? Eine Analyse.",
+      "url": "https://www.heise.de/-11243566",
+      "image_title": "Demonstranten der No-Kings-Proteste in den USA"
+    },
+    {
       "title": "Jetzt belegt: KI macht uns denkfaul und manipulierbar",
       "teaser": "KI macht uns nicht nur denkfaul – sie lässt uns dabei noch selbstsicherer werden. Warum das so gefährlich ist.",
       "url": "https://www.heise.de/-11246004",
       "image_title": "Ein Junge arbeitet mit dem Tablet und nutzt dabei einen KI-Chatbot."
     },
     {
-      "title": "Iran-Krieg: Tod dem Petrodollar, es lebe der Petroyuan?",
-      "teaser": "Deutsche Bank warnt vor dem Ende des Petrodollars: Wird in der Straße von Hormus die Entdollarisierung besiegelt? Was Russland und China damit zu tun haben.",
-      "url": "https://www.heise.de/-11246189",
-      "image_title": "Grafik zeigt ein Schiff, das durch einen Kanal fährt. Am linken Ufer ist ein Seeadler mit Dollarzeichen, am rechten ein Drache mit Renminbi-Yuan-Zeichen."
-    },
-    {
-      "title": "Vom Master zum Jobcenter: Wenn der Titel nicht (mehr) reicht",
-      "teaser": "Master gemacht, Bewerbungen geschrieben – doch der Lohn für die Mühen lässt auf sich warten. Warum das akademische Bildungsversprechen versagt. Eine Analyse.",
-      "url": "https://www.heise.de/-11241676",
-      "image_title": "Arbeitsagenturlogo auf einem Gebäude"
+      "title": "Drohungen ohne Wirkung: Washington verliert die Initiative",
+      "teaser": "Drohung oder Deal? Im Iran-Krieg taumelt Washington zwischen Machtgebärde und Machtlosigkeit. Welche Hinweise die Trump'sche Rhetorik zulässt. Eine Analyse.",
+      "url": "https://www.heise.de/-11246750",
+      "image_title": "Karte des Iran mit roten Punkten"
     },
     {
       "title": "Forscherin erklärt, wie KI die Arbeitswelt verändert",
