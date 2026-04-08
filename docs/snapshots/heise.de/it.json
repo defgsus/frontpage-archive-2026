@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-08T12:51:54",
+  "timestamp": "2026-04-08T14:26:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,45 @@
   ],
   "articles": [
     {
+      "title": "Wikimedia‑Stiftung stellt Nachrichtenprojekt Wikinews ein",
+      "teaser": "Aufgrund geringer Resonanz beendet die Wikimedia‑Stiftung ihr Projekt für Graswurzeljournalismus. Die freien Inhalte sollen weiterhin abrufbar bleiben.",
+      "url": "https://www.heise.de/news/Wikimedia-Stiftung-stellt-Nachrichtenprojekt-Wikinews-ein-11249338.html"
+    },
+    {
+      "title": "AWS macht S3 zum Dateisystem",
+      "teaser": "AWS macht S3-Buckets erstmals als Dateisystem nutzbar. Der Dienst unterstützt NFS 4.1+ und synchronisiert Änderungen automatisch mit dem Bucket.",
+      "url": "https://www.heise.de/news/AWS-macht-S3-zum-Dateisystem-11249237.html",
+      "image_title": "AWS-Logo in einer orangefarbenen Wolke, umgeben von blauen Eimern und weißen Wolken."
+    },
+    {
+      "title": "Samsung verteilt April-Update: Kritische Schwachstellen gefährden Galaxy-Geräte",
+      "teaser": "Samsung schließt mit dem April-Sicherheitsupdate 47 Lücken auf Galaxy-Smartphones. 14 davon sind kritisch, vier weitere als hoch eingestufte betreffen Exynos.",
+      "url": "https://www.heise.de/news/Galaxy-Sicherheitsupdates-im-April-Samsung-schliesst-kritische-Luecken-11248922.html",
+      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
+    },
+    {
       "title": "AlertKI-Tools: Nvidia rüstet DALI und Triton Inference Server gegen mögliche Attacken",
       "teaser": "Mehrere Sicherheitslücken in Nvidia DALI und Triton Inference Server gefährden Systeme. Sicherheitspatches stehen zum Download bereit.",
       "url": "https://www.heise.de/news/KI-Tools-Nvidia-ruestet-DALI-und-Triton-Inference-Server-gegen-moegliche-Attacken-11248938.html",
       "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "HintergrundKurz erklärt: Wie Weltmodelle datenbasierte Simulationen erstellen",
+      "url": "https://www.heise.de/hintergrund/Kurz-erklaert-Wie-Weltmodelle-datenbasierte-Simulationen-erstellen-11221792.html",
+      "image_title": ", Cathrin Kapell / iX"
+    },
+    {
+      "title": "TestsLenovo IdeaPad Slim 5 mit AMDs neuem Ryzen AI 7 445 im Test",
+      "url": "https://www.heise.de/tests/Lenovo-IdeaPad-Slim-5-mit-AMDs-neuem-Ryzen-AI-7-445-im-Test-11203932.html"
+    },
+    {
+      "title": "RatgeberSchnäppchen ohne Sorge: Worauf Sie beim Kauf billiger Windows-PCs achten müssen",
+      "url": "https://www.heise.de/ratgeber/Schnaeppchen-ohne-Sorge-Worauf-Sie-beim-Kauf-billiger-Windows-PCs-achten-muessen-11134704.html"
+    },
+    {
+      "title": "Aqara Camera Hub G350 im Test: 4K-Überwachungskamera mit Smart-Home-Zentrale",
+      "teaser": "Zwei Objektive mit Weitwinkel und Tele, 4K und gute Smart-Home-Ansätze ohne Cloud-Zwang: Die Aqara G350 überzeugt, ist aber eher was für Semi-Profis.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/aqara-camera-hub-g350-im-test-4k-ueberwachungskamera-mit-smart-home-zentrale/d6b9neq?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Bitcoin-Erfinder enttarnt? Britischer Unternehmer widerspricht New York Times",
@@ -42,19 +77,6 @@
       "teaser": "Die Beta-Version von Ubuntu 26.04 schraubt die Speicheranforderungen auf 6 GByte RAM hoch – mehr, als Windows 11 verlangt.",
       "url": "https://www.heise.de/news/Ubuntu-26-04-erfordert-mehr-RAM-als-Windows-11-11248556.html",
       "image_title": "Ubuntu 26.04 nach Installation auf 4-GByte-System"
-    },
-    {
-      "title": "HintergrundKurz erklärt: Wie Weltmodelle datenbasierte Simulationen erstellen",
-      "url": "https://www.heise.de/hintergrund/Kurz-erklaert-Wie-Weltmodelle-datenbasierte-Simulationen-erstellen-11221792.html",
-      "image_title": ", Cathrin Kapell / iX"
-    },
-    {
-      "title": "TestsLenovo IdeaPad Slim 5 mit AMDs neuem Ryzen AI 7 445 im Test",
-      "url": "https://www.heise.de/tests/Lenovo-IdeaPad-Slim-5-mit-AMDs-neuem-Ryzen-AI-7-445-im-Test-11203932.html"
-    },
-    {
-      "title": "RatgeberSchnäppchen ohne Sorge: Worauf Sie beim Kauf billiger Windows-PCs achten müssen",
-      "url": "https://www.heise.de/ratgeber/Schnaeppchen-ohne-Sorge-Worauf-Sie-beim-Kauf-billiger-Windows-PCs-achten-muessen-11134704.html"
     },
     {
       "title": "„Chip-Dilemma” beim MacBook Neo – und die Frage nach der nächsten Generation",
@@ -118,30 +140,6 @@
       "teaser": "Der Blog beschäftigt sich mit einem der größten Fallstricke von C++: reinterpret_cast kann zweckentfremdet undefiniertes Verhalten auslösen.",
       "url": "https://www.heise.de/blog/Programmiersprache-C-Was-reinterpret-cast-nicht-tut-11225887.html",
       "image_title": "(C) Franziska Panter"
-    },
-    {
-      "title": "Salesforce macht Slack zum zentralen KI-Interface",
-      "teaser": "Salesforce baut Slackbot zum zentralen Interface für KI-Agenten, CRM und Drittanwendungen aus.",
-      "url": "https://www.heise.de/news/Slack-statt-Salesforce-Slackbot-wird-CRM-Oberflaeche-11247693.html",
-      "image_title": "Screenshot einer Slack-Konversation mit KI-Nutzungsdaten und verschiedenen App-Symbolen."
-    },
-    {
-      "title": "ComfyUI-Server: Angreifer machen Instanzen zu Kryptominer-Proxy-Botnet",
-      "teaser": "Mehr als 1000 ComfyUI-Server stehen offen im Internet. Angreifer missbrauchen Fehlkonfigurationen, um Instanzen zu Botnet hinzuzufügen.",
-      "url": "https://www.heise.de/news/ComfyUI-Server-Angreifer-machen-Instanzen-zu-Kryptominer-Proxy-Botnet-11248106.html",
-      "image_title": "ComfyUI-Icon vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Stamp-P4: Das Multimedia-ESP-Board",
-      "teaser": "Mehr als nur IoT: Mit Kamera-Verbindung, Display-Anbindung und H.264-Encoder eröffnet das Stamp-P4 neue Möglichkeiten für smarte Projekte.",
-      "url": "https://www.heise.de/news/Stamp-P4-Das-Multimedia-ESP-Board-11248140.html",
-      "image_title": "ESP-Board mit kleinem Fußabdruck."
-    },
-    {
-      "title": "Tipp: Lautstärke und Helligkeit an externem Monitor umstellen",
-      "teaser": "Auf der Mac-Tastatur gibt es Sondertasten für Audiovolumen und Bildschirmhelligkeit. So funktionieren die auch bei Drittanbieter-Displays.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Lautstaerke-und-Helligkeit-an-externem-Monitor-umstellen-11246261.html",
-      "image_title": "Drei Bildschirme"
     },
     {
       "title": "HintergrundWas die NASA-Bilder von der Erde zeigen und wie sie gemacht wurden",
