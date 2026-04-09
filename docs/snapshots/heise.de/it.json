@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T08:08:52",
+  "timestamp": "2026-04-09T10:01:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,26 @@
   ],
   "articles": [
     {
+      "title": "software-architektur.tv: Was Developer von anarchistischen Denkern lernen können",
+      "teaser": "Patterns of Anarchy: Andrew Harmel-Law und Eberhard Wolff sprechen über anarchistische Ideen, die auf Softwarearchitektur treffen.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Was-Developer-von-anarchistischen-Denkern-lernen-koennen-11248682.html",
+      "image_title": "Logo software-architektur.tv: Anarchy: A Solution to Software Development Organizations? with Andrew Harmel-Law"
+    },
+    {
+      "title": "Eclipse hawkBit 1.0: Backend für IoT-Updates erreicht Produktionsreife",
+      "teaser": "Eclipse hawkBit 1.0 ist da und gilt als produktionsreifes Backend für OTA-Updates von IoT-Geräten mit stabilen APIs für den operativen Einsatz.",
+      "url": "https://www.heise.de/news/Eclipse-hawkBit-1-0-Backend-fuer-IoT-Updates-erreicht-Produktionsreife-11249828.html"
+    },
+    {
+      "title": "Google bringt vertikale Tabs in Chrome",
+      "teaser": "Google Chrome führt schrittweise vertikale Tabs und einen überarbeiteten Lesemodus ein. Firefox-Nutzer kennen beides schon länger.",
+      "url": "https://www.heise.de/news/Chrome-Vertikale-Tabs-und-verbesserter-Lesemodus-11249938.html",
+      "image_title": "Ein Browserfenster mit einer geöffneten Webseite und einem Seitenmenü mit vertikalen Tabs."
+    },
+    {
       "title": "Medizintechnik-Konferenz MedConf: Jetzt noch zum Early-Bird-Preis buchen",
       "teaser": "Die wichtigste deutschsprachige Konferenz zur Entwicklung von Medizintechnik findet im Mai in München statt. Noch sind Tickets mit Frühbucher-Rabatt verfügbar.",
       "url": "https://www.heise.de/news/Medizintechnik-Konferenz-MedConf-Jetzt-noch-zum-Early-Bird-Preis-buchen-11248478.html"
-    },
-    {
-      "title": "VeraCrypt und WireGuard: Trubel bezüglich Treibersignierung, Lösung in Sicht",
-      "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
-      "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Cloudflare will bis 2029 vollständig quantensicher sein",
-      "teaser": "Cloudflare forciert die Umstellung auf Post-Quantum-Kryptografie und plant bis 2029 die vollständige Migration, inklusive Authentifizierung.",
-      "url": "https://www.heise.de/news/Cloudflare-will-bis-2029-vollstaendig-quantensicher-sein-11249860.html",
-      "image_title": "Eine isometrische Darstellung eines Servers mit Zahnrädern und binärem Code."
-    },
-    {
-      "title": "Wie KI-gestützte Dokumentengeneration Cloud-Design-Prozesse vereinfacht",
-      "teaser": "Ein Erfahrungsbericht aus einem Migrationsprojekt beschreibt den Weg zur Augmented KI mithilfe von Multiagentensystemen zur Teamentlastung.",
-      "url": "https://www.heise.de/ratgeber/Wie-KI-gestuetzte-Dokumentengeneration-Cloud-Design-Prozesse-vereinfacht-11246552.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "RatgeberWie KI-gestützte Dokumentengeneration Cloud-Design-Prozesse vereinfacht",
@@ -55,6 +54,18 @@
     {
       "title": "RatgeberFritzbox als Reiserouter: Unterwegs online wie daheim",
       "url": "https://www.heise.de/ratgeber/Fritzbox-als-Reiserouter-Unterwegs-online-wie-daheim-11112413.html"
+    },
+    {
+      "title": "VeraCrypt und WireGuard: Trubel bezüglich Treibersignierung, Lösung in Sicht",
+      "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
+      "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "Cloudflare will bis 2029 vollständig quantensicher sein",
+      "teaser": "Cloudflare forciert die Umstellung auf Post-Quantum-Kryptografie und plant bis 2029 die vollständige Migration, inklusive Authentifizierung.",
+      "url": "https://www.heise.de/news/Cloudflare-will-bis-2029-vollstaendig-quantensicher-sein-11249860.html",
+      "image_title": "Eine isometrische Darstellung eines Servers mit Zahnrädern und binärem Code."
     },
     {
       "title": "Tipp: Automatisches iPhone-Backup im Finder deaktivieren",
@@ -131,18 +142,6 @@
       "teaser": "Der Telemetrie-Spezialist Cribl erweitert sein Produkt Guard um eine kontinuierliche KI-Analyse, die Muster sensibler Daten in Logs und Events erkennen soll.",
       "url": "https://www.heise.de/news/Cribl-Guard-KI-soll-sensible-Daten-im-Telemetrie-Strom-aufspueren-11249373.html",
       "image_title": "Eine Roboterhand auf einer Tastatur"
-    },
-    {
-      "title": "Studio Display XDR für Ärzte: Apple bekommt Zulassung von US-Gesundheitsaufsicht",
-      "teaser": "Dank passender Kalibrierung lässt sich Apples neues Top-Display auch im Medizinbereich verwenden. Hier soll es sogar ein Schnäppchen sein.",
-      "url": "https://www.heise.de/news/Studio-Display-XDR-fuer-Aerzte-Apple-bekommt-Zulassung-von-US-Gesundheitsaufsicht-11248314.html",
-      "image_title": "Radiologie-Anwendung mit dem Pro Display XDR"
-    },
-    {
-      "title": "Ausgerechnet jetzt: Sündteure 8-Terabyte-Version der Samsung SSD 870 Evo",
-      "teaser": "Samsung erweitert die gut abgehangene SATA-SSD-Baureihe 870 Evo um eine Version mit 8 TByte Kapazität – zum Listenpreis von 2641 €. Im Handel ist sie billiger.",
-      "url": "https://www.heise.de/news/Ausgerechnet-jetzt-Suendteure-8-Terabyte-Version-der-Samsung-SSD-870-Evo-11249342.html",
-      "image_title": "Samsung SSD 870 Evo"
     },
     {
       "title": "NewsArtemis II: NASA-Livestream zur historischen Mondumrundung ab 19 Uhr",
