@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T19:55:59",
+  "timestamp": "2026-04-09T20:39:49",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hohe Energiekosten und Regularien: OpenAI pausiert Stargate UK",
+      "url": "https://www.heise.de/news/Hohe-Energiekosten-und-Regularien-OpenAI-pausiert-Stargate-UK-11251304.html"
+    },
     {
       "title": "KI-Wettlauf: Meta und CoreWeave mit 21-Milliarden-Dollar-Deal",
       "url": "https://www.heise.de/news/KI-Wettlauf-Meta-und-CoreWeave-mit-21-Milliarden-Dollar-Deal-11251258.html"
@@ -56,10 +60,6 @@
       "url": "https://www.heise.de/tests/Euro-Apps-Diese-bewaehrten-iPhone-Anwendungen-aus-der-EU-sollten-Sie-kennen-11211356.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Artemis-2 ist auf dem Kurs zur Erde",
-      "url": "https://www.heise.de/news/NASA-und-Artemis-2-Crew-bereiten-Rueckkehr-zur-Erde-vor-11251065.html"
     },
     {
       "title": "1500 Watt und 150 NmNeuer DJI-Motor verschiebt E-Bike-Grenzen",
@@ -184,20 +184,26 @@
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
+      "title": "Hohe Energiekosten und Regularien: OpenAI pausiert Stargate UK",
+      "teaser": "ChatGPT-Hersteller OpenAI stoppt wegen der Rahmenbedingungen überraschend sein Stargate UK-Projekt, will aber mit der Regierung in London weiter verhandeln.",
+      "url": "https://www.heise.de/news/Hohe-Energiekosten-und-Regularien-OpenAI-pausiert-Stargate-UK-11251304.html",
+      "image_title": "Das Logo von OpenAI an der Fassade des Bürogebäudes in San Francisco."
+    },
+    {
       "title": "KI-Wettlauf: Meta und CoreWeave mit 21-Milliarden-Dollar-Deal",
       "teaser": "Meta erwirbt von CoreWeave KI-Cloud-Kapazität im Wert 21 Milliarden US-Dollar über sechs Jahre – einen Tag nach Vorstellung seines neuen KI-Modells Muse Spark.",
       "url": "https://www.heise.de/news/KI-Wettlauf-Meta-und-CoreWeave-mit-21-Milliarden-Dollar-Deal-11251258.html",
       "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
     },
     {
+      "title": "Identity Governance und die effiziente Verwaltung von Identitäten",
+      "teaser": "Trotz Identity-Managements fehlt in Unternehmen oft die Übersicht über die Zugriffsrechte. Regulatorische Anforderungen erhöhen den Druck – Plattformen für Identity Governance können dann helfen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7240350882&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Der beste E-Scooter im Test – Ninebot Max G3 ist Testsieger",
       "teaser": "Ninebot, Xiaomi, Navee oder Egret? Wir haben fast 100 E-Scooter getestet und zeigen die zehn besten mit Straßenzulassung.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-e-scooter-im-test-ninebot-max-g3-ist-testsieger/bgmnj08?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser#id-5-xiaomi-e-scooter-6-ultra"
-    },
-    {
-      "title": "Ein Balkonkraftwerk mit Köpfchen",
-      "teaser": "Balkonkraftwerke haben sich zu einem Massenmarkt entwickelt. Doch jetzt steigen die Ansprüche der Kunden: Neue Geräte setzten deshalb auf Software-Intelligenz und eine offene Schnittstellen-Politik.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7248667807&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Satelliteninternet: Amazon kündigt Freigabe von Leo für Mitte des Jahres an",
@@ -227,12 +233,6 @@
       "title": "Wettlauf um Superrechner: Deutschland startet Quantencomputer-Wettbewerb",
       "teaser": "Mit einem Millionen-Förderprogramm will das Forschungsministerium bis 2030 zwei fehlerkorrigierte Quantenrechner auf europäischem Spitzenniveau realisieren.",
       "url": "https://www.heise.de/news/Wettlauf-um-Superrechner-Deutschland-startet-Quantencomputer-Wettbewerb-11250813.html"
-    },
-    {
-      "title": "Euro-Apps: Diese bewährten iPhone-Anwendungen aus der EU sollten Sie kennen",
-      "teaser": "In Europa entwickelte iPhone-Apps versprechen heimischen Datenschutz und bieten oft mehr als die von Apple vorinstallierten Exemplare. Ein Überblick der Besten.",
-      "url": "https://www.heise.de/tests/Euro-Apps-Diese-bewaehrten-iPhone-Anwendungen-aus-der-EU-sollten-Sie-kennen-11211356.html",
-      "image_title": "Europa in App-Form auf dem iPhone"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -324,6 +324,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Euro-Apps: Diese bewährten iPhone-Anwendungen aus der EU sollten Sie kennen",
+      "teaser": "In Europa entwickelte iPhone-Apps versprechen heimischen Datenschutz und bieten oft mehr als die von Apple vorinstallierten Exemplare. Ein Überblick der Besten.",
+      "url": "https://www.heise.de/tests/Euro-Apps-Diese-bewaehrten-iPhone-Anwendungen-aus-der-EU-sollten-Sie-kennen-11211356.html",
+      "image_title": "Europa in App-Form auf dem iPhone"
+    },
+    {
       "title": "Netzteiländerung beim MacBook Pro M5 Max und M5 Pro sorgt für Ärger",
       "teaser": "Seit Jahren setzt Apple bei Stromversorgungen auf einen C7-Anschluss für die jeweiligen Stecker. In Australien und China gibt es nun andersartige Versionen.",
       "url": "https://www.heise.de/news/Netzteilaenderung-beim-MacBook-Pro-M5-Max-und-M5-Pro-sorgt-fuer-Aerger-11246428.html",
@@ -394,15 +400,15 @@
       "image_title": "Bundestagspräsidentin Julia Klöckner im Gespräch"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "Verwunderliche App-Store-Updates direkt von Apple",
       "teaser": "Nutzer erhalten für bestehende iOS-Apps Aktualisierungen, die laut Beipackzettel direkt von Apple stammen. Es ist unklar, woran genau das liegt.",
       "url": "https://www.heise.de/news/Verwunderliche-App-Store-Updates-direkt-von-Apple-11246436.html",
       "image_title": "„Update von Apple”: Keiner weiß, warum"
-    },
-    {
-      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
-      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
     },
     {
       "title": "Darpa gibt Entwicklung einer Radionuklidbatterie in Auftrag",
@@ -456,12 +462,6 @@
       "teaser": "Die Reiselimousine Xpeng P7+ bietet ruhiges Design, hohe Ladeleistung und viel Komfort. Gegen einige Schwächen der Bedienung hilft aber nicht einmal Gewöhnung.",
       "url": "https://www.heise.de/tests/Elektroauto-Xpeng-P7-im-ersten-Fahrbericht-Chinas-stille-Ueberraschung-11245183.html",
       "image_title": "Elektroauto Xpeng P7+"
-    },
-    {
-      "title": "software-architektur.tv: Was Developer von anarchistischen Denkern lernen können",
-      "teaser": "Patterns of Anarchy: Andrew Harmel-Law und Eberhard Wolff sprechen über anarchistische Ideen, die auf Softwarearchitektur treffen.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Was-Developer-von-anarchistischen-Denkern-lernen-koennen-11248682.html",
-      "image_title": "Logo software-architektur.tv: Anarchy: A Solution to Software Development Organizations? with Andrew Harmel-Law"
     },
     {
       "title": "Anthropics neues KI-Modell Mythos: Zu gefährlich für die Öffentlichkeit",
@@ -633,9 +633,10 @@
       "url": "https://www.heise.de/en/news/Amazon-Older-Kindles-can-no-longer-download-e-books-11247344.html"
     },
     {
-      "title": "Amazon Echo Studio im Test: Smart Speaker mit Heimkino-Modus",
-      "teaser": "Bei der Neuauflage des Amazon Echo Studio lassen sich bis zu fünf dieser vernetzten Lautsprecher (und ein Subwoofer) zu einem Heimkinosystem zusammenschließen.",
-      "url": "https://www.heise.de/tests/Amazon-Echo-Studio-im-Test-Smart-Speaker-mit-Heimkino-Modus-11189553.html"
+      "title": "Ausgerechnet jetzt: Sündteure 8-Terabyte-Version der Samsung SSD 870 Evo",
+      "teaser": "Samsung erweitert die gut abgehangene SATA-SSD-Baureihe 870 Evo um eine Version mit 8 TByte Kapazität – zum Listenpreis von 2641 €. Im Handel ist sie billiger.",
+      "url": "https://www.heise.de/news/Ausgerechnet-jetzt-Suendteure-8-Terabyte-Version-der-Samsung-SSD-870-Evo-11249342.html",
+      "image_title": "Samsung SSD 870 Evo"
     },
     {
       "title": "Gartners „Memflation“Günstigeres RAM gibt es erst wieder ab 2028",
@@ -673,21 +674,15 @@
       "image_title": "ESP-Board mit kleinem Fußabdruck."
     },
     {
+      "title": "Amazon Echo Studio im Test: Smart Speaker mit Heimkino-Modus",
+      "teaser": "Bei der Neuauflage des Amazon Echo Studio lassen sich bis zu fünf dieser vernetzten Lautsprecher (und ein Subwoofer) zu einem Heimkinosystem zusammenschließen.",
+      "url": "https://www.heise.de/tests/Amazon-Echo-Studio-im-Test-Smart-Speaker-mit-Heimkino-Modus-11189553.html"
+    },
+    {
       "title": "Mikrocontroller-Marktführer aus Europa: Infineon, NXP und STMicroelectronics",
       "teaser": "Drei der fünf weltweit führenden Hersteller von Mikrocontrollern sitzen in Europa; zusammen mit Renesas und Microchip halten sie rund 80 Prozent Marktanteil.",
       "url": "https://www.heise.de/news/Mikrocontroller-Marktfuehrer-aus-Europa-Infineon-NXP-und-STMicroelectronics-11247861.html",
       "image_title": "Mikrocontroller der Infineon-Baureihe XMC4400"
-    },
-    {
-      "title": "Jetzt in der Make 2/26: Pi Zero als Hacking-Tool",
-      "teaser": "Kleine Wikinger und ein virtuelles Haustier aus Raspberry Pi und E-Paper-Display spüren spielerisch versteckte Schwachstellen im (W)LAN auf.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-2-26-Pi-Zero-als-Hacking-Tool-11228154.html"
-    },
-    {
-      "title": "Kine‑Exakta: Die erste Spiegelreflexkamera fürs Kleinbild",
-      "teaser": "1936 revolutionierte die Kine‑Exakta die Fotografie. Die erste Kleinbild‑SLR zeigte erstmals das echte Sucherbild – und prägte das Kameradesign bis heute.",
-      "url": "https://www.heise.de/hintergrund/Kine-Exakta-Die-erste-Spiegelreflexkamera-fuers-Kleinbild-11206687.html",
-      "image_title": ", Deutsches Kameramuseum"
     },
     {
       "title": "Apple wird 50 und Nikon trennt sich von Robotern – die Fotonews der Woche 14/26",
@@ -705,6 +700,12 @@
       "title": "Nebelfotos zwischen Mühlen und Tulpen – c't Fotografie Fototouren Europa II",
       "teaser": "Fotograf Albert Dros verrät seine besten Spots und Tricks für mystische Morgenaufnahmen in seiner Heimat, den Niederlanden.",
       "url": "https://www.heise.de/news/Nebelfotos-zwischen-Muehlen-und-Tulpen-c-t-Fotografie-Fototouren-Europa-II-11222645.html"
+    },
+    {
+      "title": "Lomo MC-A im Praxis-Test: Wann sich eine moderne Analogkamera lohnt",
+      "teaser": "Die Lomo MC-A verbindet klassische Analogfotografie mit moderner Technik. Autofokus, USB-C-Akku und einige Kreativfunktionen heben sie von anderen Modellen ab.",
+      "url": "https://www.heise.de/tests/Lomo-MC-A-im-Praxis-Test-Wann-sich-eine-moderne-Analogkamera-lohnt-11243578.html",
+      "image_title": "Schwarze analoge Kompaktkamera Lomo MC‑A mit festem Objektiv auf einem Holztisch fotografiert."
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -749,22 +750,22 @@
       "image_title": "Toyota RAV4"
     },
     {
-      "title": "Merit Order: Wie der Gaspreis den Strompreis treibt",
-      "teaser": "Gas wird knapp und Strom damit teurer. Dahinter steckt ein spezieller Effekt des Börsenhandels mit Elektrizität. Doch gibt es Alternativen?",
-      "url": "https://www.heise.de/-11246676",
-      "image_title": "Balkendiagramm mit Kosten einzelner Ernergieträger"
+      "title": "Von der Vernichtungsdrohung zur Feuerpause: Wer hat jetzt die Oberhand?",
+      "teaser": "Drohung, Feuerpause, Sieg? Trump und Iran einigten sich auf zwei Wochen Ruhe. Wer wirklich gewinnt, entscheidet sich in Islamabad. Iran sitzt am längeren Hebel.",
+      "url": "https://www.heise.de/-11248408",
+      "image_title": "Ein Mann in Anzug"
+    },
+    {
+      "title": "Ungarn-Wahl: Geopolitik schlägt Demokratie",
+      "teaser": "Machtwechsel an der Donau? Worum es bei den anstehenden Wahlen in Ungarn – abseits von Korruption und Klientelismus – wirklich geht. Eine Analyse.",
+      "url": "https://www.heise.de/-11247019",
+      "image_title": "Ungarische Flagge in einer Menschenmenge"
     },
     {
       "title": "ZDF übernimmt Trumps Sanktionslisten – und nennt es Compliance",
       "teaser": "US-Sanktionslisten werden im deutschen Fernsehen willig umgesetzt: Was das ZDF eine Compliance-Reform nennt, ist in Wahrheit ein Zensur-Türöffner. Eine Analyse.",
       "url": "https://www.heise.de/-11248328",
       "image_title": "Drei Männer mit Bildschirmen als Köpfen"
-    },
-    {
-      "title": "Günstig, schnell, tödlich: Ukraine will Patriot-Alternative entwickeln",
-      "teaser": "Das ukrainische Unternehmen Fire Point will Patriot-Alternative für unter 1 Mio. US-Dollar bauen. Gefördert wird das Projekt von Investoren aus dem Nahen Osten.",
-      "url": "https://www.heise.de/-11248248",
-      "image_title": "Ein Luftabwehrsystem"
     },
     {
       "title": "Genug von Google News? 3 Alternativen für einen anderen Blick auf Nachrichten",
