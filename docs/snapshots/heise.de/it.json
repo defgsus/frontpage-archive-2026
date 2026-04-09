@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T12:54:15",
+  "timestamp": "2026-04-09T14:47:55",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,26 +20,28 @@
   ],
   "articles": [
     {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11229262.html",
-      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+      "title": "TP-Link-Angriff: Microsoft im Visier, Deutschland im Glück",
+      "teaser": "Die Attacke auf Router und Access Points von TP-Link zielte auf die Übernahme von Microsofts Office-Cloud-Sessions. Deutschland war laut BSI wenig betroffen.",
+      "url": "https://www.heise.de/news/TP-Link-Angriff-Microsoft-im-Visier-Deutschland-im-Glueck-11250989.html",
+      "image_title": "Ein schwarzer Router von TP-Link"
     },
     {
-      "title": "Identity-ManagementKeycloak 26.6.0: Fünf Preview-Features werden produktionsreif",
-      "teaser": "Das Open-Source-IAM-System Keycloak 26.6 befördert fünf Features in den produktiven Status – darunter Federated Client Authentication und Zero-Downtime-Updates.",
-      "url": "https://www.heise.de/news/Keycloak-26-6-bringt-Zero-Downtime-Updates-und-Workflows-11250371.html"
+      "title": "AlertJuniper: Unter anderem Root-Sicherheitslücken in Junos OS geschlossen",
+      "teaser": "Angreifer können an zahlreichen Schwachstellen im Netzwerkbetriebssystem Junos OS ansetzen. Nun gibt es Sicherheitsupdates.",
+      "url": "https://www.heise.de/news/Juniper-Unter-anderem-Root-Sicherheitsluecken-in-Junos-OS-geschlossen-11250007.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
-      "title": "FAQ: Model Context Protocol",
-      "teaser": "Das Model Context Protocol (MCP) ist eine Standard-Schnittstelle geworden, mit der KI-Sprachmodelle externe Werkzeuge, Daten und Dienste ansprechen.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Model-Context-Protocol-11242600.html"
+      "title": "FirewallsAusgehenden Traffic unter Linux kontrollieren: Little Snitch ist da",
+      "teaser": "Mit der Firewall Little Snitch lassen sich Anwendungen jetzt auch abseits von macOS in Linux überwachen.",
+      "url": "https://www.heise.de/news/Ausgehenden-Traffic-unter-Linux-kontrollieren-Little-Snitch-ist-da-11250677.html",
+      "image_title": "Drei stilisierte Figuren mit Schwertern und Schilden, die eine Ziegelmauer mit Flammen darstellen."
     },
     {
-      "title": "Update für APT: Debian-Pakete installieren, zurückspulen, weitermachen",
-      "teaser": "APT 3.2 macht Paketoperationen unter Debian erstmals rückgängig und löst Abhängigkeiten stabiler auf. Was die neuen History-Befehle können.",
-      "url": "https://www.heise.de/news/Update-fuer-APT-Debian-Pakete-installieren-zurueckspulen-weitermachen-11250318.html",
-      "image_title": "Graue Ziegelwand mit einem stilisierten Spiralmuster."
+      "title": "Projekte in Gemini: Google integriert „Notebook“-Funktion",
+      "teaser": "Google integriert in Gemini die von NotebookLM bekannten „Notizbücher“. Mit diesen sollen sich Chats und Quellen an einem Ort leichter organisieren lassen.",
+      "url": "https://www.heise.de/news/Projekte-in-Gemini-Google-integriert-Notebook-Funktion-11250757.html",
+      "image_title": "Notebooks-Funktion in Gemini"
     },
     {
       "title": "RatgeberFAQ: Model Context Protocol",
@@ -56,9 +58,31 @@
       "image_title": "Elgato Prompter XL"
     },
     {
+      "title": "Test: Segway-Mähroboter i208 LiDAR - keine Kabel, keine Antenne, keine Probleme?",
+      "teaser": "Der Segway Navimow i208 navigiert dank LiDAR ohne RTK-Antenne. Das vereinfacht die Inbetriebnahme und sorgt für eine exakte Navigation.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/test-segway-maehroboter-i208-lidar-keine-kabel-keine-antenne-keine-probleme/6pdr84s?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
+      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11229262.html",
+      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
+      "title": "Keycloak 26.6.0: Fünf Preview-Features werden produktionsreif",
+      "teaser": "Das Open-Source-IAM-System Keycloak 26.6 befördert fünf Features in den produktiven Status – darunter Federated Client Authentication und Zero-Downtime-Updates.",
+      "url": "https://www.heise.de/news/Keycloak-26-6-bringt-Zero-Downtime-Updates-und-Workflows-11250371.html"
+    },
+    {
       "title": "Xiaomi Pad 8 Pro im Test: Tablet mit High-End-Power und 144-Hz-LCD",
       "teaser": "Viel Leistung, 144 Hz und ein überraschend niedriger Preis: Das Xiaomi Pad 8 Pro setzt im Test das iPad Air und Galaxy Tab spürbar unter Druck.",
       "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-pad-8-pro-im-test-tablet-mit-high-end-power-und-144-hz-lcd/jvj8d10?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Update für APT: Debian-Pakete installieren, zurückspulen, weitermachen",
+      "teaser": "APT 3.2 macht Paketoperationen unter Debian erstmals rückgängig und löst Abhängigkeiten stabiler auf. Was die neuen History-Befehle können.",
+      "url": "https://www.heise.de/news/Update-fuer-APT-Debian-Pakete-installieren-zurueckspulen-weitermachen-11250318.html",
+      "image_title": "Graue Ziegelwand mit einem stilisierten Spiralmuster."
     },
     {
       "title": "CISA-Notbetrieb: Gehaltszahlungen für vergangene sechs Wochen versprochen",
@@ -117,30 +141,6 @@
       "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
       "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Cloudflare will bis 2029 vollständig quantensicher sein",
-      "teaser": "Cloudflare forciert die Umstellung auf Post-Quantum-Kryptografie und plant bis 2029 die vollständige Migration, inklusive Authentifizierung.",
-      "url": "https://www.heise.de/news/Cloudflare-will-bis-2029-vollstaendig-quantensicher-sein-11249860.html",
-      "image_title": "Eine isometrische Darstellung eines Servers mit Zahnrädern und binärem Code."
-    },
-    {
-      "title": "Tipp: Automatisches iPhone-Backup im Finder deaktivieren",
-      "teaser": "Wer sein iOS-Gerät per Kabel mit dem Mac synchronisiert, bekommt standardmäßig langwierige Backups serviert. Das muss nicht sein.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Automatisches-iPhone-Backup-im-Finder-deaktivieren-11246265.html",
-      "image_title": "Zwei iPhones"
-    },
-    {
-      "title": "Kommentar: KI-FOMO frisst Sicherheit",
-      "teaser": "KI wird überall eingeführt – neuen Sicherheitsrisiken zum Trotz. Aber wenigstens all die alten Arten von Lücken könnte man vermeiden, findet Sylvester Tremmel.",
-      "url": "https://www.heise.de/meinung/Kommentar-KI-FOMO-frisst-Sicherheit-11218162.html",
-      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
-    },
-    {
-      "title": "React im Terminal: Ink 7.0 überarbeitet Input-Handling grundlegend",
-      "teaser": "Ink 7.0 überarbeitet das Input-Handling und bringt neue Hooks für Animation, Paste und responsive Layouts. Voraussetzung sind jetzt Node.js 22 und React 19.2.",
-      "url": "https://www.heise.de/news/React-im-Terminal-Ink-7-0-ueberarbeitet-Input-Handling-grundlegend-11249521.html",
-      "image_title": "Pixelgrafik der Buchstaben I, N und K in Regenbogenfarben auf schwarzem Hintergrund."
     },
     {
       "title": "NewsArtemis II: NASA-Livestream zur historischen Mondumrundung ab 19 Uhr",
