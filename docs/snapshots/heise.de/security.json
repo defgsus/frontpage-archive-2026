@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T11:43:01",
+  "timestamp": "2026-04-09T12:54:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,16 +20,16 @@
   ],
   "articles": [
     {
+      "title": "VeraCrypt und WireGuardTrubel bezüglich Treibersignierung, Lösung in Sicht",
+      "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
+      "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
       "title": "AlertGoogle Chrome 147Update stopft 60 Sicherheitslücken, davon zwei kritische",
       "teaser": "Das Update für Google Chrome auf Version 147, das in der Nacht zum Mittwoch erschienen ist, schließt 60 Sicherheitslücken.",
       "url": "https://www.heise.de/news/Google-Chrome-147-Update-stopft-60-Sicherheitsluecken-davon-zwei-kritische-11249800.html",
       "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
-    },
-    {
-      "title": "Samsung verteilt April-UpdateKritische Schwachstellen gefährden Galaxy-Geräte",
-      "teaser": "Samsung schließt mit dem April-Sicherheitsupdate 47 Lücken auf Galaxy-Smartphones. 14 davon sind kritisch, vier weitere als hoch eingestufte betreffen Exynos.",
-      "url": "https://www.heise.de/news/Galaxy-Sicherheitsupdates-im-April-Samsung-schliesst-kritische-Luecken-11248922.html",
-      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
     },
     {
       "title": "AlertAnonymisierendes Linux: Notfallupdate Tails 7.6.1 schließt Lücken im Browser",
@@ -49,16 +49,21 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
+      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11229262.html",
+      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
+      "title": "Keycloak 26.6.0: Fünf Preview-Features werden produktionsreif",
+      "teaser": "Das Open-Source-IAM-System Keycloak 26.6 befördert fünf Features in den produktiven Status – darunter Federated Client Authentication und Zero-Downtime-Updates.",
+      "url": "https://www.heise.de/news/Keycloak-26-6-bringt-Zero-Downtime-Updates-und-Workflows-11250371.html"
+    },
+    {
       "title": "CISA-Notbetrieb: Gehaltszahlungen für vergangene sechs Wochen versprochen",
       "teaser": "Noch immer ist das US-Heimatschutzministerium im Shutdown-Modus. Nun sollen die Mitarbeiter trotzdem Gehalt für sechs Wochen erhalten.",
       "url": "https://www.heise.de/news/CISA-Notbetrieb-Gehaltszahlungen-fuer-vergangene-sechs-Wochen-versprochen-11250415.html",
       "image_title": "CISA-Logo"
-    },
-    {
-      "title": "VeraCrypt und WireGuard: Trubel bezüglich Treibersignierung, Lösung in Sicht",
-      "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
-      "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
       "title": "Cloudflare will bis 2029 vollständig quantensicher sein",
@@ -77,6 +82,12 @@
       "teaser": "WhatsApp beginnt mit der Einführung von Usernamen. Damit erfüllt Meta einen lang gehegten Wunsch der Nutzer, die App ohne Preisgabe der Telefonnummer zu nutzen.",
       "url": "https://www.heise.de/news/WhatsApp-fuehrt-Usernamen-ein-Messenger-Nutzung-ohne-Telefonnummer-11249443.html",
       "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
+    },
+    {
+      "title": "Samsung verteilt April-Update: Kritische Schwachstellen gefährden Galaxy-Geräte",
+      "teaser": "Samsung schließt mit dem April-Sicherheitsupdate 47 Lücken auf Galaxy-Smartphones. 14 davon sind kritisch, vier weitere als hoch eingestufte betreffen Exynos.",
+      "url": "https://www.heise.de/news/Galaxy-Sicherheitsupdates-im-April-Samsung-schliesst-kritische-Luecken-11248922.html",
+      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
     },
     {
       "title": "AlertKI-Tools: Nvidia rüstet DALI und Triton Inference Server gegen mögliche Attacken",
@@ -128,18 +139,6 @@
       "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
       "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
       "image_title": "Verschwommene Hände an Tastatur"
-    },
-    {
-      "title": "AlertPatchday: Androids Schlüsselspeichersystem für Attacken anfällig",
-      "teaser": "Google, Samsung & Co. haben Sicherheitsupdates für Android-Geräte veröffentlicht, die sich noch im Support befinden.",
-      "url": "https://www.heise.de/news/Patchday-Sicherheitsprobleme-im-Android-Schluesselspeichersystem-geloest-11246522.html",
-      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
-    },
-    {
-      "title": "Update-Status der Secure-Boot-Zertifikate in Windows-Sicherheit-App",
-      "teaser": "Mitte des Jahres laufen die alten Secure-Boot-Zertifikate von Microsoft ab. Die Windows-Sicherheit-App zeigt den Update-Status an.",
-      "url": "https://www.heise.de/news/Update-Status-der-Secure-Boot-Zertifikate-in-Windows-Sicherheit-App-11246648.html",
-      "image_title": "Windows-Sicherheit-App zeigt Secure-Boot-Status"
     },
     {
       "title": "Workshop | 14. – 15.04.2026IEC 62443: Industrial Security für Produkthersteller",
