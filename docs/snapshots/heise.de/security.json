@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T06:13:15",
+  "timestamp": "2026-04-09T08:08:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
-      "title": "Alert„BlueHammer“Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
-      "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
-      "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
-      "image_title": "Verschwommene Hände an Tastatur"
-    },
-    {
-      "title": "„GPUBreach“Systemübernahme mit Bitflips in der Nvidia-GPU",
-      "teaser": "Rowhammer-Angriffe auf GPUs können nicht nur Daten zerstören, sondern auch zur Ausweitung der Rechte missbraucht werden.",
-      "url": "https://www.heise.de/news/GPUBreach-Systemuebernahme-mit-Bitflips-in-der-Nvidia-GPU-11247207.html",
-      "image_title": "GPU-Breach-Logo vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertGoogle Chrome 147: Update stopft 60 Sicherheitslücken, davon zwei kritische",
+      "title": "AlertGoogle Chrome 147Update stopft 60 Sicherheitslücken, davon zwei kritische",
+      "teaser": "Das Update für Google Chrome auf Version 147, das in der Nacht zum Mittwoch erschienen ist, schließt 60 Sicherheitslücken.",
       "url": "https://www.heise.de/news/Google-Chrome-147-Update-stopft-60-Sicherheitsluecken-davon-zwei-kritische-11249800.html",
       "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
+    },
+    {
+      "title": "Samsung verteilt April-UpdateKritische Schwachstellen gefährden Galaxy-Geräte",
+      "teaser": "Samsung schließt mit dem April-Sicherheitsupdate 47 Lücken auf Galaxy-Smartphones. 14 davon sind kritisch, vier weitere als hoch eingestufte betreffen Exynos.",
+      "url": "https://www.heise.de/news/Galaxy-Sicherheitsupdates-im-April-Samsung-schliesst-kritische-Luecken-11248922.html",
+      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
+    },
+    {
+      "title": "AlertAnonymisierendes Linux: Notfallupdate Tails 7.6.1 schließt Lücken im Browser",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-6-1-Notfallupdate-stopft-Browser-Luecken-11249832.html",
+      "image_title": "Desktop von Tails 7.6.1 auf Notebook"
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -49,22 +49,28 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertGoogle Chrome 147: Update stopft 60 Sicherheitslücken, davon zwei kritische",
-      "teaser": "Das Update für Google Chrome auf Version 147, das in der Nacht zum Mittwoch erschienen ist, schließt 60 Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Google-Chrome-147-Update-stopft-60-Sicherheitsluecken-davon-zwei-kritische-11249800.html",
-      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
+      "title": "VeraCrypt und WireGuard: Trubel bezüglich Treibersignierung, Lösung in Sicht",
+      "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
+      "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "Cloudflare will bis 2029 vollständig quantensicher sein",
+      "teaser": "Cloudflare forciert die Umstellung auf Post-Quantum-Kryptografie und plant bis 2029 die vollständige Migration, inklusive Authentifizierung.",
+      "url": "https://www.heise.de/news/Cloudflare-will-bis-2029-vollstaendig-quantensicher-sein-11249860.html",
+      "image_title": "Eine isometrische Darstellung eines Servers mit Zahnrädern und binärem Code."
+    },
+    {
+      "title": "AlertAnonymisierendes Linux: Notfallupdate Tails 7.6.1 schließt Lücken im Browser",
+      "teaser": "Die Tails-Maintainer haben das Notfallupdate auf Version 7.6.1 veröffentlicht. Es schließt vor allem Sicherheitslücken im Browser.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-6-1-Notfallupdate-stopft-Browser-Luecken-11249832.html",
+      "image_title": "Desktop von Tails 7.6.1 auf Notebook"
     },
     {
       "title": "WhatsApp führt Usernamen ein: Messenger-Nutzung ohne Telefonnummer",
       "teaser": "WhatsApp beginnt mit der Einführung von Usernamen. Damit erfüllt Meta einen lang gehegten Wunsch der Nutzer, die App ohne Preisgabe der Telefonnummer zu nutzen.",
       "url": "https://www.heise.de/news/WhatsApp-fuehrt-Usernamen-ein-Messenger-Nutzung-ohne-Telefonnummer-11249443.html",
       "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
-    },
-    {
-      "title": "Samsung verteilt April-Update: Kritische Schwachstellen gefährden Galaxy-Geräte",
-      "teaser": "Samsung schließt mit dem April-Sicherheitsupdate 47 Lücken auf Galaxy-Smartphones. 14 davon sind kritisch, vier weitere als hoch eingestufte betreffen Exynos.",
-      "url": "https://www.heise.de/news/Galaxy-Sicherheitsupdates-im-April-Samsung-schliesst-kritische-Luecken-11248922.html",
-      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
     },
     {
       "title": "AlertKI-Tools: Nvidia rüstet DALI und Triton Inference Server gegen mögliche Attacken",
@@ -106,6 +112,18 @@
       "image_title": "Aufmacherbild Darknet Diaries Deutsch"
     },
     {
+      "title": "„GPUBreach“: Systemübernahme mit Bitflips in der Nvidia-GPU",
+      "teaser": "Rowhammer-Angriffe auf GPUs können nicht nur Daten zerstören, sondern auch zur Ausweitung der Rechte missbraucht werden.",
+      "url": "https://www.heise.de/news/GPUBreach-Systemuebernahme-mit-Bitflips-in-der-Nvidia-GPU-11247207.html",
+      "image_title": "GPU-Breach-Logo vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "Alert„BlueHammer“: Zero-Day-Lücke in Windows verschafft erhöhte Rechte",
+      "teaser": "Windows weist eine Zero-Day-Lücke auf, durch die Angreifer ihre Rechte ausweiten können. Ein Patch steht noch nicht bereit.",
+      "url": "https://www.heise.de/news/BlueHammer-Zero-Day-Luecke-in-Windows-verschafft-erhoehte-Rechte-11246762.html",
+      "image_title": "Verschwommene Hände an Tastatur"
+    },
+    {
       "title": "AlertPatchday: Androids Schlüsselspeichersystem für Attacken anfällig",
       "teaser": "Google, Samsung & Co. haben Sicherheitsupdates für Android-Geräte veröffentlicht, die sich noch im Support befinden.",
       "url": "https://www.heise.de/news/Patchday-Sicherheitsprobleme-im-Android-Schluesselspeichersystem-geloest-11246522.html",
@@ -121,24 +139,6 @@
       "title": "AlertAngreifer können Weboberfläche von WatchGuard Firebox attackieren",
       "teaser": "WatchGuard-Firewalls der Firebox-Serie und die Produkte Dimension und WebBlockerServer sind verwundbar. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Angreifer-koennen-Weboberflaeche-von-WatchGuard-Firebox-attackieren-11246291.html"
-    },
-    {
-      "title": "AlertHCL BigFix: Kryptografische Schlüssel offensichtlich nicht sicher gespeichert",
-      "teaser": "Wichtige Sicherheitspatches schließen zwei Softwareschwachstellen in der Endpoint-Management-Plattform HCL BigFix.",
-      "url": "https://www.heise.de/news/HCL-BigFix-Kryptografische-Schluessel-offensichtlich-nicht-sicher-gespeichert-11246307.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Blaulicht-Digitalfunk: Bundesregierung hält trotz Kritik an Tetra-Kurs fest",
-      "teaser": "Einsatzkräfte fordern beim Digitalfunk Breitband und robuste Rückfallebenen. Der Bund setzt vorerst auf die Modernisierung und Evolution des Bestandsnetzes.",
-      "url": "https://www.heise.de/news/Blaulicht-Digitalfunk-Bundesregierung-haelt-trotz-Kritik-an-Tetra-Kurs-fest-11246313.html",
-      "image_title": "Blaulicht, Polizei"
-    },
-    {
-      "title": "Fake-Teams-Update: So haben Angreifer den axios-Maintainer ausgetrickst",
-      "teaser": "Der axios-Maintainer beschreibt, wie Cyberkriminelle den HTTP-Client mit Schadcode verseuchen konnten. Derweil gibt es ähnliche Attacken auf weitere Maintainer.",
-      "url": "https://www.heise.de/news/Fake-Teams-Update-So-haben-Angreifer-den-axios-Maintainer-ausgetrickst-11246273.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Workshop | 14. – 15.04.2026IEC 62443: Industrial Security für Produkthersteller",

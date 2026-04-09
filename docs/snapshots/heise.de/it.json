@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-09T06:13:11",
+  "timestamp": "2026-04-09T08:08:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,71 @@
   ],
   "articles": [
     {
+      "title": "Medizintechnik-Konferenz MedConf: Jetzt noch zum Early-Bird-Preis buchen",
+      "teaser": "Die wichtigste deutschsprachige Konferenz zur Entwicklung von Medizintechnik findet im Mai in München statt. Noch sind Tickets mit Frühbucher-Rabatt verfügbar.",
+      "url": "https://www.heise.de/news/Medizintechnik-Konferenz-MedConf-Jetzt-noch-zum-Early-Bird-Preis-buchen-11248478.html"
+    },
+    {
+      "title": "VeraCrypt und WireGuard: Trubel bezüglich Treibersignierung, Lösung in Sicht",
+      "teaser": "Die Microsoft-Konten für die Entwickler von VeraCrypt und WireGuard wurden gesperrt. Das verhinderte Updates – die Lösung ist in Sicht.",
+      "url": "https://www.heise.de/news/VeraCrypt-und-WireGuard-Trubel-bezueglich-Treibersignierung-Loesung-in-Sicht-11249882.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "Cloudflare will bis 2029 vollständig quantensicher sein",
+      "teaser": "Cloudflare forciert die Umstellung auf Post-Quantum-Kryptografie und plant bis 2029 die vollständige Migration, inklusive Authentifizierung.",
+      "url": "https://www.heise.de/news/Cloudflare-will-bis-2029-vollstaendig-quantensicher-sein-11249860.html",
+      "image_title": "Eine isometrische Darstellung eines Servers mit Zahnrädern und binärem Code."
+    },
+    {
+      "title": "Wie KI-gestützte Dokumentengeneration Cloud-Design-Prozesse vereinfacht",
+      "teaser": "Ein Erfahrungsbericht aus einem Migrationsprojekt beschreibt den Weg zur Augmented KI mithilfe von Multiagentensystemen zur Teamentlastung.",
+      "url": "https://www.heise.de/ratgeber/Wie-KI-gestuetzte-Dokumentengeneration-Cloud-Design-Prozesse-vereinfacht-11246552.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "RatgeberWie KI-gestützte Dokumentengeneration Cloud-Design-Prozesse vereinfacht",
+      "url": "https://www.heise.de/ratgeber/Wie-KI-gestuetzte-Dokumentengeneration-Cloud-Design-Prozesse-vereinfacht-11246552.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "TestsElgato Prompter XL im Test: Stattliche Souffleuse",
+      "url": "https://www.heise.de/tests/Elgato-Prompter-XL-im-Test-Stattliche-Souffleuse-11211344.html",
+      "image_title": "Elgato Prompter XL"
+    },
+    {
+      "title": "RatgeberFritzbox als Reiserouter: Unterwegs online wie daheim",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-als-Reiserouter-Unterwegs-online-wie-daheim-11112413.html"
+    },
+    {
+      "title": "Tipp: Automatisches iPhone-Backup im Finder deaktivieren",
+      "teaser": "Wer sein iOS-Gerät per Kabel mit dem Mac synchronisiert, bekommt standardmäßig langwierige Backups serviert. Das muss nicht sein.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Automatisches-iPhone-Backup-im-Finder-deaktivieren-11246265.html",
+      "image_title": "Zwei iPhones"
+    },
+    {
+      "title": "Kommentar: KI-FOMO frisst Sicherheit",
+      "teaser": "KI wird überall eingeführt – neuen Sicherheitsrisiken zum Trotz. Aber wenigstens all die alten Arten von Lücken könnte man vermeiden, findet Sylvester Tremmel.",
+      "url": "https://www.heise.de/meinung/Kommentar-KI-FOMO-frisst-Sicherheit-11218162.html",
+      "image_title": "Stilisierte Grafik: Brennende Appliances im Netz"
+    },
+    {
+      "title": "React im Terminal: Ink 7.0 überarbeitet Input-Handling grundlegend",
+      "teaser": "Ink 7.0 überarbeitet das Input-Handling und bringt neue Hooks für Animation, Paste und responsive Layouts. Voraussetzung sind jetzt Node.js 22 und React 19.2.",
+      "url": "https://www.heise.de/news/React-im-Terminal-Ink-7-0-ueberarbeitet-Input-Handling-grundlegend-11249521.html",
+      "image_title": "Pixelgrafik der Buchstaben I, N und K in Regenbogenfarben auf schwarzem Hintergrund."
+    },
+    {
+      "title": "AlertAnonymisierendes Linux: Notfallupdate Tails 7.6.1 schließt Lücken im Browser",
+      "teaser": "Die Tails-Maintainer haben das Notfallupdate auf Version 7.6.1 veröffentlicht. Es schließt vor allem Sicherheitslücken im Browser.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-6-1-Notfallupdate-stopft-Browser-Luecken-11249832.html",
+      "image_title": "Desktop von Tails 7.6.1 auf Notebook"
+    },
+    {
       "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
       "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11229254.html",
       "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
-    },
-    {
-      "title": "Elgato Prompter XL im Test: Stattliche Souffleuse",
-      "teaser": "Elgatos Prompter XL bringt Moderationstexte und Systemfenster auf den großen Schirm, damit man bei Videos immer in die Kamera blickt.",
-      "url": "https://www.heise.de/tests/Elgato-Prompter-XL-im-Test-Stattliche-Souffleuse-11211344.html",
-      "image_title": "Elgato Prompter XL"
     },
     {
       "title": "AlertGoogle Chrome 147: Update stopft 60 Sicherheitslücken, davon zwei kritische",
@@ -42,19 +97,6 @@
       "teaser": "Nutanix arbeitet weiter daran, seine Cloud-Plattform zur zentralen Alternative für VMware-Kunden zu machen. Neue Partnerschaften sollen dabei helfen.",
       "url": "https://www.heise.de/news/Nutanix-Partnerschaften-mit-NetApp-und-Cisco-senken-VMware-Migrationshuerde-11249493.html",
       "image_title": "Nutanix-CEO Rajiv Ramaswami auf der Konferenzbühne"
-    },
-    {
-      "title": "TestsElgato Prompter XL im Test: Stattliche Souffleuse",
-      "url": "https://www.heise.de/tests/Elgato-Prompter-XL-im-Test-Stattliche-Souffleuse-11211344.html",
-      "image_title": "Elgato Prompter XL"
-    },
-    {
-      "title": "RatgeberFritzbox als Reiserouter: Unterwegs online wie daheim",
-      "url": "https://www.heise.de/ratgeber/Fritzbox-als-Reiserouter-Unterwegs-online-wie-daheim-11112413.html"
-    },
-    {
-      "title": "TestsElektronischer Würfel GoCube 2×2 im Test",
-      "url": "https://www.heise.de/tests/Elektronischer-Wuerfel-GoCube-2X2-im-Test-11217562.html"
     },
     {
       "title": "#heiseshow: Schland-App, Anthropic Mythos, Spritpreise",
@@ -80,6 +122,11 @@
       "image_title": "Vergoldetes Speichermodul auf Samt"
     },
     {
+      "title": "Elektronischer Würfel GoCube 2×2 im Test",
+      "teaser": "Der GoCube sieht aus wie ein ordinäres Drehpuzzle aus dem Ramschladen, steckt aber voller Sensoren und Elektronik, die Anfängern beim Lernen helfen.",
+      "url": "https://www.heise.de/tests/Elektronischer-Wuerfel-GoCube-2X2-im-Test-11217562.html"
+    },
+    {
       "title": "Cribl Guard: KI soll sensible Daten im Telemetrie-Strom aufspüren",
       "teaser": "Der Telemetrie-Spezialist Cribl erweitert sein Produkt Guard um eine kontinuierliche KI-Analyse, die Muster sensibler Daten in Logs und Events erkennen soll.",
       "url": "https://www.heise.de/news/Cribl-Guard-KI-soll-sensible-Daten-im-Telemetrie-Strom-aufspueren-11249373.html",
@@ -96,52 +143,6 @@
       "teaser": "Samsung erweitert die gut abgehangene SATA-SSD-Baureihe 870 Evo um eine Version mit 8 TByte Kapazität – zum Listenpreis von 2641 €. Im Handel ist sie billiger.",
       "url": "https://www.heise.de/news/Ausgerechnet-jetzt-Suendteure-8-Terabyte-Version-der-Samsung-SSD-870-Evo-11249342.html",
       "image_title": "Samsung SSD 870 Evo"
-    },
-    {
-      "title": "IGEL holt Container, KI und mehr in die Thin-Client-Welt",
-      "teaser": "Auf ihrer Hauskonferenz Now & Next hat die deutsche Firma IGEL Technologies neue Perspektiven für ihre Thin-Client-Vision vorgestellt.",
-      "url": "https://www.heise.de/news/IGEL-holt-Container-KI-und-mehr-in-die-Thin-Client-Welt-11245145.html",
-      "image_title": "Mann steht mit virtuellem Tablet in einem Warenlager"
-    },
-    {
-      "title": "Nach 20 Jahren: Wikinews wird zum 4. Mai in Lese-Modus versetzt",
-      "teaser": "Aufgrund geringer Resonanz beendet die Wikimedia‑Stiftung ihr Projekt für Graswurzeljournalismus. Die freien Inhalte sollen weiterhin abrufbar bleiben.",
-      "url": "https://www.heise.de/news/Wikimedia-Stiftung-stellt-Nachrichtenprojekt-Wikinews-ein-11249338.html"
-    },
-    {
-      "title": "Aqara Camera Hub G350 im Test: 4K-Überwachungskamera mit Smart-Home-Zentrale",
-      "teaser": "Zwei Objektive mit Weitwinkel und Tele, 4K und gute Smart-Home-Ansätze ohne Cloud-Zwang: Die Aqara G350 überzeugt, ist aber eher was für Semi-Profis.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/aqara-camera-hub-g350-im-test-4k-ueberwachungskamera-mit-smart-home-zentrale/d6b9neq?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "AWS macht S3 zum Dateisystem",
-      "teaser": "AWS macht S3-Buckets erstmals als Dateisystem nutzbar. Der Dienst unterstützt NFS 4.1+ und synchronisiert Änderungen automatisch mit dem Bucket.",
-      "url": "https://www.heise.de/news/AWS-macht-S3-zum-Dateisystem-11249237.html",
-      "image_title": "AWS-Logo in einer orangefarbenen Wolke, umgeben von blauen Eimern und weißen Wolken."
-    },
-    {
-      "title": "Samsung verteilt April-Update: Kritische Schwachstellen gefährden Galaxy-Geräte",
-      "teaser": "Samsung schließt mit dem April-Sicherheitsupdate 47 Lücken auf Galaxy-Smartphones. 14 davon sind kritisch, vier weitere als hoch eingestufte betreffen Exynos.",
-      "url": "https://www.heise.de/news/Galaxy-Sicherheitsupdates-im-April-Samsung-schliesst-kritische-Luecken-11248922.html",
-      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
-    },
-    {
-      "title": "AlertKI-Tools: Nvidia rüstet DALI und Triton Inference Server gegen mögliche Attacken",
-      "teaser": "Mehrere Sicherheitslücken in Nvidia DALI und Triton Inference Server gefährden Systeme. Sicherheitspatches stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/KI-Tools-Nvidia-ruestet-DALI-und-Triton-Inference-Server-gegen-moegliche-Attacken-11248938.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
-      "title": "Bitcoin-Erfinder enttarnt? Britischer Unternehmer widerspricht New York Times",
-      "teaser": "Ein Redakteur der New York Times meint, nach einer monatelangen Recherche den Erfinder Bitcoin enttarnt zu haben. Der widerspricht prompt und entschieden.",
-      "url": "https://www.heise.de/news/Bitcoin-Erfinder-enttarnt-Britischer-Unternehmer-widerspricht-New-York-Times-11248791.html",
-      "image_title": "Bitcoin-Münzen"
-    },
-    {
-      "title": "iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren",
-      "teaser": "Erfahren Sie, wie Sie produktiv mit KI-Assistenten programmieren und lernen Sie die Stärken und Schwächen der Tools für den Einsatz in eigenen Projekten kennen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11229229.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "NewsArtemis II: NASA-Livestream zur historischen Mondumrundung ab 19 Uhr",
