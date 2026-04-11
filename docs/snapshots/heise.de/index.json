@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-11T06:45:28",
+  "timestamp": "2026-04-11T07:41:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11251532.html"
+    },
     {
       "title": "Zwischen Mond und Makro: Die Bilder der Woche 15",
       "url": "https://www.heise.de/news/Zwischen-Mond-und-Makro-Die-Bilder-der-Woche-15-11250937.html"
@@ -60,10 +64,6 @@
       "url": "https://www.heise.de/ratgeber/Rotterdam-Architektur-Hotspot-fuer-Fotografen-11249021.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Apple aktualisiert Pixelmator Pro und weitere Creator-Studio-Apps",
-      "url": "https://www.heise.de/news/Apple-aktualisiert-Pixelmator-Pro-und-weitere-Creator-Studio-Apps-11251324.html"
     },
     {
       "title": "„Voll ins Schwarze“Crew von Artemis 2 landet im Pazifik",
@@ -181,21 +181,27 @@
       "image_title": "Apple-Logo"
     },
     {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu React Native, Perl, JavaScript, ASP .NET Core, State of Web Dev AI, PHP, Python und OpenJDK.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11251532.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Zwischen Mond und Makro: Die Bilder der Woche 15",
       "teaser": "Von der rauen Mondoberfläche bis zu feinen Tautropfen: Diese Woche zeigt die Fotografie wieder all ihre Facetten.",
       "url": "https://www.heise.de/news/Zwischen-Mond-und-Makro-Die-Bilder-der-Woche-15-11250937.html",
       "image_title": "Modernes, gläsernes Gebäude mit wellenförmigem Dach und vielen geschwungenen Fenstern, aufgenommen vor hellem, neutralem Hintergrund."
     },
     {
+      "title": "Ein Balkonkraftwerk mit Köpfchen",
+      "teaser": "Balkonkraftwerke haben sich zu einem Massenmarkt entwickelt. Doch jetzt steigen die Ansprüche der Kunden: Neue Geräte setzten deshalb auf Software-Intelligenz und eine offene Schnittstellen-Politik.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7248667807&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Internationaler Tag des Haustiers: So gelingen Katzenfotos zu Hause",
       "teaser": "Möbel und Tageslicht gekonnt eingesetzt, liefern die Kulisse für fantastische Tierbilder zu Hause. Wenn es natürlicher aussehen soll, wird gebastelt.",
       "url": "https://www.heise.de/ratgeber/Internationaler-Tag-des-Haustiers-So-gelingen-Katzenfotos-zu-Hause-11250451.html",
       "image_title": "Katze im Spieltunnel"
-    },
-    {
-      "title": "Identity Governance und die effiziente Verwaltung von Identitäten",
-      "teaser": "Trotz Identity-Managements fehlt in Unternehmen oft die Übersicht über die Zugriffsrechte. Regulatorische Anforderungen erhöhen den Druck – Plattformen für Identity Governance können dann helfen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7240350882&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Die Vorzüge gebrauchter PCs | c’t uplink",
@@ -223,12 +229,6 @@
       "title": "Notion-Alternative: Mit Capacities persönliches Wissen organisieren",
       "teaser": "Capacities sortiert Ideen und Notizen nicht in Ordner, sondern behandelt sie als verlinkbare Objekte. Welche Vorteile das hat, erklärt unser Praxis-Guide.",
       "url": "https://www.heise.de/ratgeber/Notion-Alternative-Mit-Capacities-persoenliches-Wissen-organisieren-11250791.html"
-    },
-    {
-      "title": "Rotterdam: Architektur-Hotspot für Fotografen",
-      "teaser": "Moderne Baukunst, starke Linien, spannende Motive: So gelingen beeindruckende Architekturfotos in der niederländischen Hafenstadt",
-      "url": "https://www.heise.de/ratgeber/Rotterdam-Architektur-Hotspot-fuer-Fotografen-11249021.html",
-      "image_title": "Ben van Berkel und seiner Partnerin gelang ein Meisterwerk der Brückenbaukunst, das 1996 feierlich eröffnet wurde. Zwei Jahre nach der Eröffnung bekam die Erasmusbrücke den \"Nationalen Stahlbaupreis\". , Alle Bilder: Thorsten Scherz"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -320,6 +320,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Rotterdam: Architektur-Hotspot für Fotografen",
+      "teaser": "Moderne Baukunst, starke Linien, spannende Motive: So gelingen beeindruckende Architekturfotos in der niederländischen Hafenstadt",
+      "url": "https://www.heise.de/ratgeber/Rotterdam-Architektur-Hotspot-fuer-Fotografen-11249021.html",
+      "image_title": "Ben van Berkel und seiner Partnerin gelang ein Meisterwerk der Brückenbaukunst, das 1996 feierlich eröffnet wurde. Zwei Jahre nach der Eröffnung bekam die Erasmusbrücke den \"Nationalen Stahlbaupreis\". , Alle Bilder: Thorsten Scherz"
+    },
+    {
       "title": "Apple aktualisiert Pixelmator Pro und weitere Creator-Studio-Apps",
       "teaser": "Apple hat sowohl seine Bezahlversionen als auch die Abo-Varianten seiner Kreativprodukte aktualisiert. Nutzer müssen sich an Versionswirrwarr gewöhnen.",
       "url": "https://www.heise.de/news/Apple-aktualisiert-Pixelmator-Pro-und-weitere-Creator-Studio-Apps-11251324.html",
@@ -390,15 +396,15 @@
       "url": "https://www.heise.de/hintergrund/Interview-Wie-Psiphon-und-Conduit-gegen-iranische-Internetzensur-vorgehen-11199422.html"
     },
     {
+      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
+      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
+      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
+    },
+    {
       "title": "One UI 8.5 bringt AirDrop-Unterstützung auf weitere Galaxy-Smartphones",
       "teaser": "Samsung weitet AirDrop-Support für seine Galaxy-Geräte aus. Mit dem anstehenden Update auf One UI 8.5 sollen ihn zahlreiche weitere Smartphones erhalten.",
       "url": "https://www.heise.de/news/Mit-One-UI-8-5-Samsung-weitet-AirDrop-Support-fuer-Galaxy-Geraete-aus-11252518.html",
       "image_title": "Galaxy S26Serie von vorn"
-    },
-    {
-      "title": "Digitalisierung und KI: IT-Entscheider werden zu Unternehmensstrategen",
-      "teaser": "Die digitale Transformation und der Siegeszug von KI haben die Rolle von IT-Führungskräften stark verändert. CIOs und andere IT-Entscheider müssen jetzt die Initiative ergreifen und KI-Projekte als Chefsache behandeln.",
-      "url": "https://it-kenner.heise.de/zusammen-das-data-center-weiterentwickeln/future-enterprise/digitalisierung-und-ki-it-entscheider-werden-zu-unternehmensstrategen/?source=hbsadersatz"
     },
     {
       "title": "Nach Mond-Flug: Artemis 2 vor „Feuerball“-Landung in der Nacht zu Samstag",
@@ -450,12 +456,6 @@
       "title": "Python-Automation: PowerPoint-Vorlagen automatisch mit Inhalten füllen",
       "teaser": "Mit Python lassen sich PowerPoint-Folien automatisch mit den passenden Daten bestücken. So sind etwa die Geschäftszahlen stets aktuell.",
       "url": "https://www.heise.de/ratgeber/Python-Automation-PowerPoint-Vorlagen-automatisch-mit-Inhalten-fuellen-11196802.html"
-    },
-    {
-      "title": "Apple bietet Ersatzteile für neue Produkte zur Selbstreparatur – auch Displays",
-      "teaser": "Im Reparaturladen des iPhone-Herstellers sind mehr Produkte verfügbar. Abgedeckt werden nun Ersatzteile für das MacBook Neo, das Studio Display XDR und mehr.",
-      "url": "https://www.heise.de/news/Apple-bietet-Ersatzteile-fuer-neue-Produkte-zur-Selbstreparatur-auch-Displays-11251328.html",
-      "image_title": "Reparaturhandbücher für verschiedene Apple-Produkte"
     },
     {
       "title": "Google Chrome macht Cookie-Klau unter Windows sinnlos",
@@ -635,15 +635,15 @@
       "image_title": "Große Rollen mit orangefarbenem Glasfaserkabel zur Verlegung im Boden an einer Baustelle in Beber, Niedersachsen."
     },
     {
-      "title": "c't 3003Das kann OpenClaw in der Praxis",
-      "teaser": "OpenClaw läuft permanent, lernt selbstständig und handelt proaktiv. c't 3003 zeigt, warum das die Zukunft, aber auch Vorsicht geboten ist.",
-      "url": "https://www.heise.de/news/Das-kann-OpenClaw-in-der-PRAXIS-c-t-3003-11252789.html"
-    },
-    {
       "title": "Heimkino-Analyse„Die Unbestechlichen“ in 4K: Bringt die UHD-Blu-ray mehr Licht ins Dunkel?",
       "teaser": "Vor über 50 Jahren führten Recherchen zweier Journalisten zum Rücktritt des US-Präsidenten. Unsere Analyse zeigt, was man von der Restauration noch lernen kann.",
       "url": "https://www.heise.de/tests/Heimkino-Test-Die-Unbestechlichen-rollt-den-Watergate-Skandal-in-4K-neu-auf-11250701.html",
       "image_title": "Die Unbestechlichen"
+    },
+    {
+      "title": "c't 3003Das kann OpenClaw in der Praxis",
+      "teaser": "OpenClaw läuft permanent, lernt selbstständig und handelt proaktiv. c't 3003 zeigt, warum das die Zukunft, aber auch Vorsicht geboten ist.",
+      "url": "https://www.heise.de/news/Das-kann-OpenClaw-in-der-PRAXIS-c-t-3003-11252789.html"
     },
     {
       "title": "Euro-AppsDiese bewährten iPhone-Anwendungen aus der EU sollten Sie kennen",
@@ -687,6 +687,12 @@
       "image_title": "Ben van Berkel und seiner Partnerin gelang ein Meisterwerk der Brückenbaukunst, das 1996 feierlich eröffnet wurde. Zwei Jahre nach der Eröffnung bekam die Erasmusbrücke den \"Nationalen Stahlbaupreis\". , Alle Bilder: Thorsten Scherz"
     },
     {
+      "title": "Kine‑Exakta: Die erste Spiegelreflexkamera fürs Kleinbild",
+      "teaser": "1936 revolutionierte die Kine‑Exakta die Fotografie. Die erste Kleinbild‑SLR zeigte erstmals das echte Sucherbild – und prägte das Kameradesign bis heute.",
+      "url": "https://www.heise.de/hintergrund/Kine-Exakta-Die-erste-Spiegelreflexkamera-fuers-Kleinbild-11206687.html",
+      "image_title": ", Deutsches Kameramuseum"
+    },
+    {
       "title": "Apple wird 50 und Nikon trennt sich von Robotern – die Fotonews der Woche 14/26",
       "teaser": "Apple feiert Jubiläum, bei OM Digital Solutions übernimmt der Chef die ganze Firma, und Nikon stößt seine Robotik-Tochter ab.",
       "url": "https://www.heise.de/news/Apple-wird-50-und-Nikon-trennt-sich-von-Robotern-die-Fotonews-der-Woche-14-26-11244834.html",
@@ -697,11 +703,6 @@
       "teaser": "Ohne Ecken und Kanten erscheinen gerundete Motive besonders weich und harmonisch, und diese Woche gibt es davon besonders viele.",
       "url": "https://www.heise.de/news/Kreise-Rundungen-und-Boegen-Die-Bilder-der-Woche-14-11244385.html",
       "image_title": "Istanbul"
-    },
-    {
-      "title": "Nebelfotos zwischen Mühlen und Tulpen – c't Fotografie Fototouren Europa II",
-      "teaser": "Fotograf Albert Dros verrät seine besten Spots und Tricks für mystische Morgenaufnahmen in seiner Heimat, den Niederlanden.",
-      "url": "https://www.heise.de/news/Nebelfotos-zwischen-Muehlen-und-Tulpen-c-t-Fotografie-Fototouren-Europa-II-11222645.html"
     },
     {
       "title": "Was die Voraussetzungen für den Kaltstart eines Rechenzentrums sind",
@@ -746,16 +747,16 @@
       "image_title": "Cupra Raval"
     },
     {
-      "title": "Bildung in Deutschland: Wert oder Auslaufmodell?",
-      "teaser": "Zwischen Fachkräftedruck, Globalisierung und KI gerät Bildung unter die Räder – und verliert ihren Wert als Grundlage von Kultur und Kritikfähigkeit.",
-      "url": "https://www.heise.de/-11250351",
-      "image_title": "Haupthalle der Ludwig-Maximilians-Universität München mit einigen Personen, die sich miteinander unterhalten"
+      "title": "Covid-Variante Cicada: Ausbreitung auch in Deutschland",
+      "teaser": "Der neue Covid-Ableger weist eine ungewöhnlich große Zahl an Mutationen auf. Warum öffentliche Leistungen trotzdem sparsam eingesetzt werden sollten.",
+      "url": "https://www.heise.de/-11248989",
+      "image_title": "Corona-Virus mit typischen Spike-Proteinen"
     },
     {
-      "title": "Merit Order: Wie der Gaspreis den Strompreis treibt",
-      "teaser": "Gas wird knapp und Strom damit teurer. Dahinter steckt ein spezieller Effekt des Börsenhandels mit Elektrizität. Doch gibt es Alternativen?",
-      "url": "https://www.heise.de/-11246676",
-      "image_title": "Balkendiagramm mit Kosten einzelner Ernergieträger"
+      "title": "Trotz Waffenruhe: Kerosin bleibt knapp, Fliegen teuer",
+      "teaser": "Kerosinpreise reagieren verzögert: Gestörte Raffinerien, längere Flugrouten und fehlende Kapazitäten treiben Ticketpreise weiter nach oben.",
+      "url": "https://www.heise.de/-11248932",
+      "image_title": "Barfüßiger Passagier, offensichtlich ein Tourist, in einem Passagierflugzeug"
     },
     {
       "title": "Luftverkehr: Umwege fürs Klima",
