@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T09:24:09",
+  "timestamp": "2026-04-13T11:06:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,28 @@
   ],
   "articles": [
     {
+      "title": "„ClickFix“-Angriffe auf macOS jetzt auch via Script Editor",
+      "teaser": "Eine aktuell laufende Malware-Kampagne nutzt Apples Script Editor statt des Terminals, um den Datenklauer Atomic Stealer auf Macs einzuschleusen.",
+      "url": "https://www.heise.de/news/ClickFix-Angriffe-auf-macOS-jetzt-auch-via-Script-Editor-11251412.html",
+      "image_title": "Website, die Apple nachahmt"
+    },
+    {
+      "title": "Microsoft AI im Unternehmen – Agents, Copilot Studio und Azure AI meistern",
+      "teaser": "Ab dem 18. Mai lernen Admins und IT-Leitungen in fünf Sessions, wie sie Microsofts KI-Ökosystem strategisch und technisch im Unternehmen verankern.",
+      "url": "https://www.heise.de/news/Microsoft-AI-im-Unternehmen-Agents-Copilot-Studio-und-Azure-AI-meistern-11228248.html",
+      "image_title": "KI-Coding-Tools"
+    },
+    {
+      "title": "AlertSSL-Konfigurationsfehler gefährdet VMware Tanzu Spring Cloud Gateway",
+      "teaser": "Ein Sicherheitsupdate schließt eine Lücke im API-Gateway VMware Tanzu Spring Cloud Gateway.",
+      "url": "https://www.heise.de/news/SSL-Konfigurationsfehler-gefaehrdet-VMware-Tanzu-Spring-Cloud-Gateway-11254291.html",
+      "image_title": "Eine symbolische Updaterinnerung."
+    },
+    {
       "title": "Mac mini und Mac Studio: Apple kann bestimmte RAM-Konfigurationen nicht liefern",
       "teaser": "Schon zuvor gab es bestimmte Desktop-Mac-Varianten nicht mehr oder mit langer Wartezeit. Einige sind nun temporär ganz gestrichen.",
       "url": "https://www.heise.de/news/Mac-mini-und-Mac-Studio-Apple-kann-bestimmte-RAM-Konfigurationen-nicht-liefern-11254215.html",
       "image_title": "Mac mini M4 mit Zubehör"
-    },
-    {
-      "title": "MacBook Neo: Apples Strategie im Bildungsgeschäft",
-      "teaser": "Der bislang billigste Mobil-Mac als eine Art Einstiegsdroge: Das Neo könnte Apple nicht nur gegen Chromebook und PC-Laptops an Schule und Uni positionieren.",
-      "url": "https://www.heise.de/news/MacBook-Neo-Apples-Strategie-im-Bildungsgeschaeft-11214635.html",
-      "image_title": "MacBook Neo im Bildungskontext"
-    },
-    {
-      "title": "CySecMed: Jetzt Vorträge einreichen",
-      "teaser": "Fachkräfte aus Medizintechnik, Cyber Security und Softwareentwicklung können bis zum XX.XX.2026 Vorträge einreichen. 13.–14.10.2026 in München-Unterhaching.",
-      "url": "https://www.heise.de/news/CySecMed-Jetzt-Vortraege-einreichen-11251725.html"
-    },
-    {
-      "title": "AlertAngreifer attackieren Python-Notebook Marimo",
-      "teaser": "Aufgrund von zurzeit laufenden Attacken sollten Softwareentwickler Marimo zügig auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Phyton-Notebook-Marimo-11254095.html",
-      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
       "title": "TestsOffice-Headset Jabra Evolve3 85 im Test: Guter Klang ohne Mikrofonarm",
@@ -55,6 +56,23 @@
       "title": "RatgeberMake-Projekt: 3-Cent-Mikrocontroller programmieren, Teil 2",
       "url": "https://www.heise.de/ratgeber/Make-Projekt-3-Cent-Mikrocontroller-programmieren-Teil-2-11207149.html",
       "image_title": ","
+    },
+    {
+      "title": "MacBook Neo: Apples Strategie im Bildungsgeschäft",
+      "teaser": "Der bislang billigste Mobil-Mac als eine Art Einstiegsdroge: Das Neo könnte Apple nicht nur gegen Chromebook und PC-Laptops an Schule und Uni positionieren.",
+      "url": "https://www.heise.de/news/MacBook-Neo-Apples-Strategie-im-Bildungsgeschaeft-11214635.html",
+      "image_title": "MacBook Neo im Bildungskontext"
+    },
+    {
+      "title": "CySecMed: Jetzt Vorträge einreichen",
+      "teaser": "Fachkräfte aus Medizintechnik, Cyber Security und Softwareentwicklung können bis zum 02.08.2026 Vorträge einreichen. 13.–14.10.2026 in München-Unterhaching.",
+      "url": "https://www.heise.de/news/CySecMed-Jetzt-Vortraege-einreichen-11251725.html"
+    },
+    {
+      "title": "AlertAngreifer attackieren Python-Notebook Marimo",
+      "teaser": "Aufgrund von zurzeit laufenden Attacken sollten Softwareentwickler Marimo zügig auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Phyton-Notebook-Marimo-11254095.html",
+      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
       "title": "Angriff auf Sam Altmans Wohnhaus: OpenAI-Chef kann Angst vor KI verstehen",
@@ -122,23 +140,6 @@
       "teaser": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11220980.html",
       "image_title": "Serverschrank in Metallketten, die mit einem Vorhängeschloss gesichert sind, Geldbündel davor gestapelt, einige Scheine wehen umher"
-    },
-    {
-      "title": "Kommentar: Metaversum war gestern, nun kommt die Meta-Vision",
-      "teaser": "Meta hat sein Horizon OS umgekrempelt, lässt das unbeliebte Horizon Worlds nun weg. Stattdessen sucht man mächtig Inspiration – ausgerechnet bei der Vision Pro.",
-      "url": "https://www.heise.de/meinung/Kommentar-Metaversum-war-gestern-nun-kommt-die-Meta-Vision-11176546.html",
-      "image_title": "Kommentar zum Horizon-OS-Umbau"
-    },
-    {
-      "title": "AlertJetzt patchen! Adobe veröffentlicht Notfall-Sicherheitsupdate für Acrobat Reader",
-      "teaser": "Angreifer nutzen eine kritische Schwachstelle in Adobe Acrobat Reader aus. Nun ist ein Sicherheitspatch für macOS und Windows erschienen.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Adobe-veroeffentlicht-Notfall-Sicherheitsupdate-fuer-Acrobat-Reader-11253367.html",
-      "image_title": "Orangenes Warndreieck vor blauem Hintergrund"
-    },
-    {
-      "title": "Top 10: Die besten Tablets im Vergleich",
-      "teaser": "Auf der Couch surfen, spielen, arbeiten oder Netflix schauen: Das gelingt mit einem Tablet. Wir zeigen die besten Modelle.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-tablet-im-test-apple-samsung-xiaomi-und-co-im-vergleich/xdbnr3b?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "MeinungSpeicherkrise in Deutschland: Unser Abstieg in die Bedeutungslosigkeit",
