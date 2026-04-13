@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-13T01:20:12",
+  "timestamp": "2026-04-13T04:48:03",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -56,18 +62,6 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/images.beb3f0b1be87c78c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/zg-datawrapper-img/static/assets/react.fa93a2c0.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/zg-datawrapper-img/static/assets/index.ca4e83c5.mjs",
       "id": null,
       "text": null
     },
@@ -110,18 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ungarnwahl : Die Demokratie hat gewonnen",
-      "teaser": "Péter Magyars fulminanter Wahlsieg über Viktor Orbán ist eine Zäsur für Ungarn und Europa. Ein echter Systemwechsel wird in dem Land trotzdem schwierig.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/peter-magyar-sieg-ungarn-parlamentswahlen-orban",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/parlamentswahl-in-ungarn-bild/wide__1000x562",
-      "image_title": "Ungarnwahl: Peter Magyar, Vorsitzender der Oppositionspartei Tisza, schwenkt die ungarische Flagge nach der Bekanntgabe der Teilergebnisse der Parlamentswahl. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Liveblog:Wahl in Ungarn: \"Wir haben Ungarn befreit\"",
-      "teaser": "Péter Magyar spricht von einem historischen Moment für Ungarn. Unter Jubel wird er in Budapest als Wahlsieger gefeiert und bekommt Glückwünsche aus Europa. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live-bild-30/super__430x287",
-      "image_title": "Wahl in Ungarn: Peter Magyar, leader of the opposition Tisza party, holds a national flag following the partial results of the parliamentary election, in Budapest, Hungary, April 12, 2026. REUTERS/Marton Monus"
+      "title": "Z+ (abopflichtiger Inhalt); Ungarnwahl: Sie tanzen auf den Trümmern der Ära Orbán",
+      "teaser": "Die Ungarn haben Viktor Orbán abgewählt, Budapest feiert eine riesige Party. Wahlsieger Péter Magyar verspricht, das Land zu heilen. Dafür braucht er auch Orbáns Leute.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/sieg-peter-magyar-ungarn-wahlparty-tisza",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/sieg-peter-magyar-ungarn-wahlparty-tisza-bild-02/wide__1000x562",
+      "image_title": "Ungarnwahl: Auf der westlichen Seite der Donau, bei Tisza Wahlparty. Tag der Wahl, 12.April 2026"
     },
     {
       "title": "Wahlsieger in Ungarn: Magyar fordert Staatspräsidenten zum Rücktritt auf",
@@ -131,11 +118,25 @@
       "image_title": "Wahlsieger in Ungarn: Peter Magyar, leader of the opposition Tisza party, speaks following the partial results of the parliamentary election, in Budapest, Hungary, April 12, 2026. REUTERS/Marton Monus"
     },
     {
-      "title": "Liveblog:Irankrieg: US-Militär beginnt am Nachmittag mit Blockade iranischer Häfen",
-      "teaser": "Die USA wollen alle iranischen Häfen ab 16 Uhr MESZ für sämtliche Schiffe blockieren. Trump droht China mit Zöllen im Fall von Waffenlieferungen an Iran. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/iran-krieg-usa-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/iran-krieg-usa-israel-liveblog-bild-blockade-hafen/super__430x287",
-      "image_title": "Irankrieg: A picture taken during an inauguration ceremony of new equipment and infrastructure at Shahid Beheshti Port in the southeastern Iranian coastal city of Chabahar, shows a ship passing through the port on the Gulf of Oman, on February 25, 2019. (Photo by ATTA KENARE / AFP) (Photo credit should read ATTA KENARE/AFP via Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Ungarnwahl: Die Demokratie hat gewonnen",
+      "teaser": "Péter Magyars fulminanter Wahlsieg über Viktor Orbán ist eine Zäsur für Ungarn und Europa. Ein echter Systemwechsel wird in dem Land trotzdem schwierig.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/peter-magyar-sieg-ungarn-parlamentswahlen-orban",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/parlamentswahl-in-ungarn-bild/super__430x287",
+      "image_title": "Ungarnwahl: Peter Magyar, Vorsitzender der Oppositionspartei Tisza, schwenkt die ungarische Flagge nach der Bekanntgabe der Teilergebnisse der Parlamentswahl. +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Liveblog:Wahl in Ungarn: \"Wir haben Ungarn befreit\"",
+      "teaser": "Péter Magyar spricht von einem historischen Moment für Ungarn. Unter Jubel wird er in Budapest als Wahlsieger gefeiert und bekommt Glückwünsche aus Europa. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live-bild-30/square__430x430",
+      "image_title": "Wahl in Ungarn: Peter Magyar, leader of the opposition Tisza party, holds a national flag following the partial results of the parliamentary election, in Budapest, Hungary, April 12, 2026. REUTERS/Marton Monus"
+    },
+    {
+      "title": "Nachrichtenpodcast: \"Für Ungarn beginnt eine neue Zeitrechnung\"",
+      "teaser": "Ungarns Ministerpräsident Viktor Orbán ist nach 16 Jahren im Amt abgewählt worden. Was bedeutet das für Europa? Und: Wie kriegstüchtig ist Deutschlands Zivilschutz?",
+      "url": "https://www.zeit.de/2026-04/ergebnis-ungarn-wahl-viktor-orban-peter-magyar-parlamentswahl-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/2026-04/ergebnis-ungarn-wahl-viktor-orban-peter-magyar-parlamentswahl-nachrichtenpodcast-bild-1/square__430x430",
+      "image_title": "Nachrichtenpodcast: Peter Magyar, der Vorsitzende der Oppositionspartei Tisza, schwenkt nach der Parlamentswahl eine Nationalflagge. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); NSDAP-Mitgliederkartei : Recherchieren Sie hier die NSDAP-Vergangenheit Ihrer Familie",
@@ -150,11 +151,25 @@
       "image_title": "Gedenken an KZ-Befreiung: Gedenktag im ehemaligen KZ Buchenwald"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Betrug: \"Für mich gibt es kein Zurück, Babe\"",
-      "teaser": "Frau, 57 Jahre, geschieden, sucht Mann. So meldete ich mich bei Tinder an. Dort traf ich Enzo. Er lehrte mich, wie leicht man in einen gefährlichen Strudel gerät.",
-      "url": "https://www.zeit.de/zeit-magazin/2026-03/betrug-manipulation-vertrauen-liebe-erfahrungsbericht",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026-04/betrug-manipulation-vertrauen-liebe-erfahrungsbericht/wide__892x502",
-      "image_title": "Betrug: \"Für mich gibt es kein Zurück, Babe\""
+      "title": "Straße von Hormus: Ölpreis steigt nach Trumps Ankündigung einer Seeblockade",
+      "teaser": "Die USA wollen iranische Häfen blockieren. Der Ölpreis übersteigt deshalb wieder die Marke von 100 US-Dollar. Einige Tanker kehren vor der Straße von Hormus wieder um.",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/iran-krieg-oelpreis-blockade-strasse-von-hormus-trump-haefen",
+      "image_url": "https://img.zeit.de/wirtschaft/2026-04/iran-krieg-oelpreis-blockade-strasse-von-hormus-trump-haefen-bild/wide__892x502",
+      "image_title": "Straße von Hormus: A vessel at the Strait of Hormuz, off the coast of Oman’s Musandam province, April 12, 2026. REUTERS"
+    },
+    {
+      "title": "Katholische Kirche: Donald Trump kritisiert Papst Leo XIV. nach Predigt gegen Krieg",
+      "teaser": "Der US-Präsident hat das Oberhaupt der Katholischen Kirche mit harschen Worten angegriffen. Er verstehe nichts von Außenpolitik und seine Position in Rom verdanke er ihm.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/papst-leo-donald-trump-kritik-frieden-krieg",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-04/papst-leo-donald-trump-kritik-frieden-krieg-bild/super__430x287",
+      "image_title": "Katholische Kirche: Pope Leo XIV leaves after presiding over a Prayer Vigil and Rosary for Peace, in Saint Peter's Basilica at the Vatican, April 11, 2026. REUTERS/Remo Casilli"
+    },
+    {
+      "title": "Energiekrise: Koalition beendet Beratungen über Entlastungen für hohe Spritpreise",
+      "teaser": "Zwei Tage lang berieten Spitzenvertreter von Union und SPD über Entlastungen bei Energiepreisen und Reformen. Ob das Treffen Ergebnisse brachte, blieb zunächst offen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/koalition-beratungen-entlastung-energiekrise-reformen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/regierung-beratungen-entlastungen/super__430x287",
+      "image_title": "Energiekrise: Bundeskanzler Friedrich Merz (CDU, l) verlässt nach Beratungen der Regierungskoalitionsspitzen über Entlastungen wegen der Energiepreise und anstehenden Reformen die Villa Borsig."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Einsamkeit im Alter: Und wenn wir einfach tanzen?",
@@ -171,25 +186,18 @@
       "image_title": "Martin Suter: Martin Suter, 78, wurde in Zürich geboren."
     },
     {
-      "title": "\"Cats\"-Musical-Fan: \"Du kamst rein und warst direkt auf einer Müllhalde\"",
-      "teaser": "Vor 40 Jahren startete mit \"Cats\" das erste große Musical Deutschlands. Markus Fuhlendorf gefiel es so gut, dass er 174 Mal im Publikum saß. Um Himmels willen: wieso?!",
-      "url": "https://www.zeit.de/hamburg/2026-03/cats-musical-fan-hamburg-vorstellungen",
-      "image_url": "https://img.zeit.de/hamburg/2026-03/cats-musical-fan-hamburg-vorstellungen-bild-5/super__430x287",
-      "image_title": "\"Cats\"-Musical-Fan: Markus Fuhlendorf wurde oft gefragt, ob seine Cats-Jacke eine Fälschung sei. So eine Jacke bekamen normalerweise nur Darsteller."
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Vogelgezwitscher findet der Mensch toll, aber wieso eigentlich?",
+      "teaser": "Die Elbvertiefung am Montag – mit einer Preiserhöhung bei den Stadträdern, mehr Eichenprozessionsspinnern und Überlegungen zur Zukunft der Blauen Moschee",
+      "url": "https://www.zeit.de/hamburg/2026-04/elbvertiefung-13-04-2026",
+      "image_url": "https://img.zeit.de/2026-04/foto-13-04-2026/super__430x287",
+      "image_title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Vogelgezwitscher findet der Mensch toll, aber wieso eigentlich?"
     },
     {
-      "title": "Energiekrise: Koalitionsspitzen beenden Beratungen über Entlastungen",
-      "teaser": "Zwei Tage lang berieten Spitzenvertreter von Union und SPD über Entlastungen bei Energiepreisen und Reformen. Ob das Treffen Ergebnisse brachte, blieb zunächst offen.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/koalition-beratungen-entlastung-energiekrise-reformen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/regierung-beratungen-entlastungen/super__430x287",
-      "image_title": "Energiekrise: Bundeskanzler Friedrich Merz (CDU, l) verlässt nach Beratungen der Regierungskoalitionsspitzen über Entlastungen wegen der Energiepreise und anstehenden Reformen die Villa Borsig."
-    },
-    {
-      "title": "Luftverkehr: Streik der Lufthansa-Piloten hat begonnen",
-      "teaser": "Bei der Lufthansa fallen bis Dienstagabend zahlreiche Flüge aus. Die Vereinigung Cockpit hat auch mehrere Tochtergesellschaften zu Arbeitsniederlegungen aufgerufen.",
-      "url": "https://www.zeit.de/arbeit/2026-04/luftverkehr-lufthansa-streik-piloten-vc-tochtergesellschaften",
-      "image_url": "https://img.zeit.de/arbeit/2026-04/luftverkehr-lufthansa-streik-piloten-vc-tochtergesellschaften-bild/super__430x287",
-      "image_title": "Luftverkehr: Aircraft of German air carrier Lufthansa are parked on the tarmac at the airport, as the company's pilots go on a two-day strike in a dispute over pensions, in Frankfurt, Germany, March 12, 2026. REUTERS/Heiko Becker"
+      "title": "Z+ (abopflichtiger Inhalt); Gender-Sleep-Gap: \"Als Mutter ist man im Zombiemodus\"",
+      "teaser": "Schlaf ist eine knappe Ressource im Leben mit jungen Kindern. Studien zeigen: Wer gut schläft, ist gesünder und hat bessere Karrierechancen. Meist sind es die Männer.",
+      "url": "https://www.zeit.de/familie/2026-04/gender-sleep-gap-muetter-leistung-schlafmangel",
+      "image_url": "https://img.zeit.de/familie/2026-04/gender-sleep-gap-muetter-leistung-schlafmangel-2/wide__892x502",
+      "image_title": "Gender-Sleep-Gap: \"Als Mutter ist man im Zombiemodus\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Allergie oder Erkältung?: Und plötzlich waren die Beschwerden weg",
@@ -199,11 +207,18 @@
       "image_title": "Allergie oder Erkältung?: Und plötzlich waren die Beschwerden weg"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nachnamen in Deutschland • Z+ Empfehlung: Wo Menschen mit Ihrem Nachnamen 1890 wohnten – und wo heutzutage",
-      "teaser": "Geben Sie Ihren Nachnamen ein und sehen Sie auf unseren Karten, wo Menschen mit demselben Namen früher wohnten. Und wo es sie in den vergangenen 115 Jahren hinzog.",
-      "url": "https://www.zeit.de/zeit-magazin/2026-01/nachnamen-verbreitung-erster-weltkrieg-migration",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026-01/nachnamen-verbreitung-erster-weltkrieg-migration-teaserbild/super__430x287",
-      "image_title": "Nachnamen in Deutschland • Z+ Empfehlung: Wo Menschen mit Ihrem Nachnamen 1890 wohnten – und wo heutzutage"
+      "title": "Z+ (abopflichtiger Inhalt); Stadtteile in Großstädten • Z+ Empfehlung: Welcher Stadtteil passt zu mir?",
+      "teaser": "Günstige Mieten, wenig Lärm, nah am Badesee: Unser interaktives Tool findet das Stadtviertel in allen deutschen Großstädten, das zu Ihren Bedürfnissen passt.",
+      "url": "https://www.zeit.de/zeit-magazin/2025-06/stadtteile-grossstaedte-wohnen-deutschland-lebensqualitaet",
+      "image_url": "https://img.zeit.de/zeit-magazin/2025-06/stadtteile-grossstaedte-wohnen-deutschland-lebensqualitaet-teaser/super__430x287",
+      "image_title": "Stadtteile in Großstädten • Z+ Empfehlung: Welcher Stadtteil passt zu mir?"
+    },
+    {
+      "title": "Luftverkehr: Streik der Lufthansa-Piloten hat begonnen",
+      "teaser": "Bei der Lufthansa fallen bis Dienstagabend zahlreiche Flüge aus. Die Vereinigung Cockpit hat auch mehrere Tochtergesellschaften zu Arbeitsniederlegungen aufgerufen.",
+      "url": "https://www.zeit.de/arbeit/2026-04/luftverkehr-lufthansa-streik-piloten-vc-tochtergesellschaften",
+      "image_url": "https://img.zeit.de/arbeit/2026-04/luftverkehr-lufthansa-streik-piloten-vc-tochtergesellschaften-bild/super__430x287",
+      "image_title": "Luftverkehr: Aircraft of German air carrier Lufthansa are parked on the tarmac at the airport, as the company's pilots go on a two-day strike in a dispute over pensions, in Frankfurt, Germany, March 12, 2026. REUTERS/Heiko Becker"
     },
     {
       "title": "Afghanistan: Hunderte Afghanen klagen gegen Entzug von Aufnahmezusagen",
@@ -213,6 +228,13 @@
       "image_title": "Afghanistan: Afghan citizens sit inside a vehicle while being deported back to Afghanistan near Torkham border crossing, in Pakistan, March 26, 2026. REUTERS/Fayaz Aziz"
     },
     {
+      "title": "Bundesligarückschau: Den Ehevertrag bitte, Herr Schlotterbeck",
+      "teaser": "Nico Schlotterbeck verlängert endlich, doch im Dortmunder Stadion gibt es Pfiffe. Und eine Cheftrainerin in der Bundesliga! Alles Wichtige zum revolutionären 29. Spieltag",
+      "url": "https://www.zeit.de/sport/2026-04/bundesliga-rueckschau-nico-schlotterbeck-vertragsverlaengerung-marie-louise-eta",
+      "image_url": "https://img.zeit.de/sport/2026-04/bundesliga-rueckschau-nico-schlotterbeck-vertragsverlaengerung-bild/super__430x287",
+      "image_title": "Bundesligarückschau: Ist sein Ja zum BVB in Wahrheit ein Jein?"
+    },
+    {
       "title": "Paris-Roubaix: \"Furchtbares Rennen. Ich liebe es\"",
       "teaser": "Paris-Roubaix ist das schmerzhafteste Radrennen der Welt. Im Ziel erzählen staubbedeckte Profis von riesigen Blasen, Pannen – und dem klassischen Roubaix-Gegensatz.",
       "url": "https://www.zeit.de/sport/2026-04/paris-roubaix-paves-blasen",
@@ -220,46 +242,46 @@
       "image_title": "Paris-Roubaix: \"Furchtbares Rennen. Ich liebe es\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Köln: Wir würden gern mal mit dem Tapir reden",
-      "teaser": "Die Münchner sind in Pension, damit rücken die Kölner als dienstälteste Kommissare beim \"Tatort\" nach. Und müssen sich ausgerechnet mit Mord im Kinderfernsehen befassen.",
-      "url": "https://www.zeit.de/feuilleton/film/2026-04/tatort-koeln-kinderfernsehen-moderator-ballauf-schenk",
-      "image_url": "https://img.zeit.de/feuilleton/film/2026-04/tatort-koeln-kinderfernsehen-moderator-ballauf-schenk-bild-1/super__430x287",
-      "image_title": "\"Tatort\" Köln: Sendungsmaskottchen Yassin Meret (Erkan Acar) wagt als einer der wenigen, dem Moderator Frank Anders (Max Giermann) die Stirn zu bieten."
+      "title": "Z+ (abopflichtiger Inhalt); Sebastian Fitzek: \"Glaub an das Gute im Menschen, das Böse ist die Ausnahme\"",
+      "teaser": "Der Schriftsteller Sebastian Fitzek verrät, was er gern früher gewusst hätte – zum Beispiel, wie Kreativität entsteht oder was der Sinn des Lebens ist.",
+      "url": "https://www.zeit.de/zeit-magazin/2026/16/sebastian-fitzek-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026/16/glaub-an-das-gute-im-menschen-das-boese-ist-die-ausnahme-bild-1/wide__892x502",
+      "image_title": "Sebastian Fitzek: \"Glaub an das Gute im Menschen, das Böse ist die Ausnahme\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Auswandern nach Schweden: \"Hier ist es selbstverständlich, dass beide Eltern voll arbeiten\"",
+      "teaser": "Gute Kitas, weniger Bürokratie und Lebenshaltungskosten wie in Berlin: Alexander Mafael ist mit seiner Familie nach Stockholm ausgewandert – und bereut es nicht.",
+      "url": "https://www.zeit.de/arbeit/2026-03/auswandern-schweden-stockholm-arbeit-familie",
+      "image_url": "https://img.zeit.de/arbeit/2026-03/auswandern-schweden-stockholm-arbeit-familie-bild/super__430x287",
+      "image_title": "Auswandern nach Schweden: \"Hier ist es selbstverständlich, dass beide Eltern voll arbeiten\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); KI im Kundenservice: \"Betriebsräte machen keinen Aufstand, wenn wir mit unserer KI kommen\"",
+      "teaser": "Die Firma Parloa gilt als große deutsche KI-Hoffnung. Und das ausgerechnet mit einer Technologie, die alle nervt: Sie automatisiert Callcentergespräche. Muss das sein?",
+      "url": "https://www.zeit.de/digital/2026-03/ki-automatisierung-parloa-technologie-callcenter",
+      "image_url": "https://img.zeit.de/digital/2026-03/ki-automatisierung-parloa-technologie-callcenter-bild/super__430x287",
+      "image_title": "KI im Kundenservice: \"Betriebsräte machen keinen Aufstand, wenn wir mit unserer KI kommen\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Heimsuchung\": Jenny Erpenbeck verrät, was Abiturienten über ihr Buch wissen müssen",
+      "teaser": "Bald beginnen die Abiturprüfungen, der Roman \"Heimsuchung\" von Jenny Erpenbeck ist Pflichtlektüre für das Deutsch-Abi. Wer könnte da besser helfen als die Autorin selbst?",
+      "url": "https://www.zeit.de/feuilleton/literatur/2026-04/jenny-erpenbeck-heimsuchung-roman-abitur-klausur",
+      "image_url": "https://img.zeit.de/feuilleton/literatur/2026-04/jenny-erpenbeck-heimsuchung-abi-klausur-interview/super__430x287",
+      "image_title": "Jenny Erpenbeck Heimsuchung Abi-Klausur-Interview"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herbert Grönemeyer: \"Mit Ende 60 werden die Gedanken andere\"",
       "teaser": "Herbert Grönemeyer wird 70. Schon? Also ein Blick zurück, auf die leichten Tage und die schweren. Und dann noch ein Telefonat mit dem Jubilar",
       "url": "https://www.zeit.de/feuilleton/musik/2026-04/herbert-groenemeyer-70-geburtstag-musik-ard-doku",
-      "image_url": "https://img.zeit.de/feuilleton/musik/2026-04/herbert-groenemeyer-70-geburtstag-musik-ard-doku-bild-1/square__430x430",
+      "image_url": "https://img.zeit.de/feuilleton/musik/2026-04/herbert-groenemeyer-70-geburtstag-musik-ard-doku-bild-1/wide__892x502",
       "image_title": "Herbert Grönemeyer: Herbert Grönemeyer in seinem Studio in Berlin, 04.05.2024"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Best of Podcasts: Herbert Grönemeyer, warum werden Sie von den Deutschen so geliebt?",
-      "teaser": "Der Musiker wird heute 70. 2018 erzählte er im unendlichen Podcast, dass er sein letztes Konzert mit 89 spielen will. Und sang spontan \"Männer\" mit Ukulele-Begleitung.",
-      "url": "https://www.zeit.de/gesellschaft/2018-11/herbert-groenemeyer-alles-gesagt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2021-05/herbert-groenemeyer-alles-gesagt-portraet/square__430x430",
-      "image_title": "Best of Podcasts: Herbert Groenemeyer auf einer Veranstaltung der Akademie fuer Populaere Musik und Polyton \"Polytisch Diskurs - Musikstreaming\" am 12.02.2024 in der Vertretung der Europaeischen Kommission in Berlin."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Anthropic: \"Es kann eine gefährliche Waffe sein\"",
-      "teaser": "Die Firma Anthropic behauptet, ihre neue KI \"Mythos\" sei so gefährlich, dass sie unter Verschluss bleibt. Wie ernst muss man diese Worte nehmen? Was Experten sagen",
-      "url": "https://www.zeit.de/digital/datenschutz/2026-04/anthropic-claude-mythos-ki-modell-sicherheit-software",
-      "image_url": "https://img.zeit.de/digital/datenschutz/2026-04/anthropic-claude-mythos-ki-modell-sicherheit-software-bild/super__430x287",
-      "image_title": "Anthropic: \"Es kann eine gefährliche Waffe sein\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Vollzeit arbeiten mit Kindern: \"Wir sind keine Eltern, die sich für ihre Kinder aufopfern\"",
-      "teaser": "Sie arbeitet an fast allen Wochenenden, er hat eine 50-Stunden-Woche. Die drei Kinder von Nicole und Daniel müssen auch mal für ein paar Stunden allein auskommen.",
-      "url": "https://www.zeit.de/arbeit/2026-03/vollzeit-arbeiten-kinder-eltern-zeitmanagement-alltag",
-      "image_url": "https://img.zeit.de/arbeit/2026-03/vollzeit-arbeiten-kinder-eltern-zeitmanagement-alltag-bild-03/super__430x287",
-      "image_title": "Vollzeit arbeiten mit Kindern: \"Wir sind keine Eltern, die sich für ihre Kinder aufopfern\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Empathie: Nur Egoisten überall? Von wegen: Wir sind von Natur aus Gutmenschen",
-      "teaser": "Sei hart, sei rücksichtslos, oder du verlierst, das legen Trump, Musk und die AfD nahe. Dabei zeigt die Forschung: Ohne Empathie hätte es der Mensch nie so weit gebracht.",
-      "url": "https://www.zeit.de/2026/15/empathie-mitgefuehl-menschlichkeit-evolution-mensch",
-      "image_url": "https://img.zeit.de/2026/15/der-mensch-ist-ein-gutmensch-bild-14/super__430x287",
-      "image_title": "Empathie: Zwei Frauen"
+      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Köln: Wir würden gern mal mit dem Tapir reden",
+      "teaser": "Die Münchner sind in Pension, damit rücken die Kölner als dienstälteste Kommissare beim \"Tatort\" nach. Und müssen sich ausgerechnet mit Mord im Kinderfernsehen befassen.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-04/tatort-koeln-kinderfernsehen-moderator-ballauf-schenk",
+      "image_url": "https://img.zeit.de/feuilleton/film/2026-04/tatort-koeln-kinderfernsehen-moderator-ballauf-schenk-bild-1/super__430x287",
+      "image_title": "\"Tatort\" Köln: Sendungsmaskottchen Yassin Meret (Erkan Acar) wagt als einer der wenigen, dem Moderator Frank Anders (Max Giermann) die Stirn zu bieten."
     },
     {
       "title": "Dokupodcast \"Der Koch von Gaza\" (1/5): Chef Mahmud – mein Kontakt, der getötet wurde",
@@ -297,18 +319,11 @@
       "image_title": "\"Der Koch von Gaza\" (5/5): Was aus der Suppenküche wurde"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Apple AirPods Max 2: Mittendrin statt nur Geschrei",
-      "teaser": "AirPods Max sind teuer – und ein bisschen albern. Nun erscheint ein neues Modell mit Sonderfunktionen. Es gibt einen Grund, warum es genau so aussieht wie sein Vorgänger.",
-      "url": "https://www.zeit.de/digital/mobil/2026-04/apple-airpods-max-2-kopfhoerer",
-      "image_url": "https://img.zeit.de/digital/mobil/2026-04/apple-airpods-max-2-kopfhoerer-bild/super__430x287",
-      "image_title": "Apple AirPods Max 2: Die AirPods Max 2 könnten auch AirPods Max 1.5 heißen."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Tierporträts: Jetzt schau bitte mal treuherzig",
-      "teaser": "Früher ließen vor allem Reiche ihre und die Lieblingstiere ihrer Kinder auf Gemälden verewigen. Heute bekommt jeder dahergelaufene Hund sein Porträt. Warum nur?",
-      "url": "https://www.zeit.de/feuilleton/kunst/2026-04/tierportraets-tiergemaelde-haustier-malerei-hunde-katzen",
-      "image_url": "https://img.zeit.de/feuilleton/kunst/2026-04/imago125392905-bild/super__430x287",
-      "image_title": "Tierporträts: RECORD DATE NOT STATED Portrait of five children of Karel I van England, Richard Cooper, After Anthony Van Dyck, 1762 print In the middle, Karel is resting on a dog with his hand. James and Maria HenriÃ«tte are on the right. Elizabeth is on the left with Anne as a baby. London paper etching brothers or sisters (second degree family relationships). dog."
+      "title": "Z+ (abopflichtiger Inhalt); Betrug: \"Für mich gibt es kein Zurück, Babe\"",
+      "teaser": "Frau, 57 Jahre, geschieden, sucht Mann. So meldete ich mich bei Tinder an. Dort traf ich Enzo. Er lehrte mich, wie leicht man in einen gefährlichen Strudel gerät.",
+      "url": "https://www.zeit.de/zeit-magazin/2026-03/betrug-manipulation-vertrauen-liebe-erfahrungsbericht",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026-04/betrug-manipulation-vertrauen-liebe-erfahrungsbericht/wide__892x502",
+      "image_title": "Betrug: \"Für mich gibt es kein Zurück, Babe\""
     },
     {
       "title": "Diese Woche in der ZEIT: Und was war in meiner Familie?",
@@ -353,21 +368,21 @@
       "image_title": "Bohnen-Lauch-Schmorpfanne: Rukmini Ivers Schmorpfanne aus weißen Bohnen, Lauch und Fenchel mit Dattel-Zitronen-Pistazien-Gremolata"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Herbert Renz-Polster: \"Eltern machen es ihren Kindern schwer, sich zu entwickeln\"",
-      "teaser": "Der Erfahrungsraum von Kindern hat sich extrem verengt und Eltern beschützen sie mehr denn je. Der Kinderarzt Herbert Renz-Polster erklärt, warum das den Kleinen schadet.",
-      "url": "https://www.zeit.de/familie/2026-04/herbert-renz-polster-kindererziehung-autonomie-entwicklung",
-      "image_url": "https://img.zeit.de/familie/2026-04/herbert-renz-polster-kindererziehung-autonomie-entwicklung-3/super__430x287",
-      "image_title": "Herbert Renz-Polster: \"Eltern machen es ihren Kindern schwer, sich zu entwickeln\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Iran-Verhandlungen: Meerenge schlägt Atombombe",
       "teaser": "Die abgebrochenen Friedensverhandlungen zeigen das große Erpressungspotenzial des Iran. Trump dagegen fehlen die Optionen, die Seeblockade macht das Problem nur größer.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/iran-verhandlungen-abbruch-usa-strasse-von-hormus"
+      "url": "https://www.zeit.de/politik/ausland/2026-04/iran-verhandlungen-abbruch-usa-strasse-von-hormus",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/iran-verhandlungen-abbruch-usa-strasse-von-hormus-bild/super__430x287",
+      "image_title": "Iran-Verhandlungen: March 1, 2026, Uss Gerald R Ford, International Waters: A U.S. Navy sailor signals a F/A-18F Super Hornet aircraft, attached to the Tomcatters of Strike Fighter Squadron 31, to hold during taxi on the flight deck of the Ford-class aircraft carrier USS Gerald R. Ford operating in support of Operation Epic Fury, February 28, 2025, in an undisclosed location. Operation Epic Fury is the joint U.S-Israel attack on Iran. Uss Gerald R Ford International Waters - ZUMAp138 20260301_zaa_p138_056 Copyright: xUsxNavy/U.SxNavyx"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Allergie oder Erkältung?: Und plötzlich waren die Beschwerden weg",
       "teaser": "Jedes Jahr das Gleiche: Die Pollen kommen, die Nase läuft. Unser Autor dachte lange, er sei nur erkältet. Bis es nun besonders schlimm wurde und er einen Versuch wagte.",
       "url": "https://www.zeit.de/gesundheit/2026-04/allergie-erkaeltung-schnupfen-symptome-nasenspray"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Viktor Orbán: \"Ich hoffe, Sie sind mindestens so müde wie ich\"",
+      "teaser": "Ungarns Ministerpräsident Orbán könnte heute abgewählt werden. Bei seinem Wahlkampfabschluss in Budapest wirkt er erschöpft und fahrig.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/viktor-orban-wahlkampf-ungarn-parlamentswahl"
     },
     {
       "title": "Liveblog:Wahl in Ungarn: \"Wir haben Ungarn befreit\"",
@@ -377,26 +392,21 @@
       "image_title": "Wahl in Ungarn: Peter Magyar, leader of the opposition Tisza party, holds a national flag following the partial results of the parliamentary election, in Budapest, Hungary, April 12, 2026. REUTERS/Marton Monus"
     },
     {
-      "title": "Verhandlungen zum Irankrieg: USA beenden Gespräche mit Iran ohne Einigung",
-      "teaser": "Die US-Delegation reist nach gescheiterten Gesprächen aus Pakistan ab. Dem Iran sei aber noch ein \"letztes und bestes Angebot\" unterbreitet worden, sagt JD Vance.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/iran-usa-krieg-friedensverhandlungen-ende-abreise-vance"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Iran-Verhandlungen: Meerenge schlägt Atombombe",
       "teaser": "Die abgebrochenen Friedensverhandlungen zeigen das große Erpressungspotenzial des Iran. Trump dagegen fehlen die Optionen, die Seeblockade macht das Problem nur größer.",
       "url": "https://www.zeit.de/politik/ausland/2026-04/iran-verhandlungen-abbruch-usa-strasse-von-hormus"
     },
     {
-      "title": "Verhandlungen zum Irankrieg: USA beenden Gespräche mit Iran ohne Einigung",
-      "teaser": "Die US-Delegation reist nach gescheiterten Gesprächen aus Pakistan ab. Dem Iran sei aber noch ein \"letztes und bestes Angebot\" unterbreitet worden, sagt JD Vance.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/iran-usa-krieg-friedensverhandlungen-ende-abreise-vance",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/usa-beenden-gespraeche-mit-iran-ohne-einigung-bild/super__430x287",
-      "image_title": "Verhandlungen zum Irankrieg: US Vice President JD Vance arrives for a meeting with Pakistani Prime Minister amid the US-Iran peace talks in Islamabad on April 11, 2026. Vance arrived in the Pakistani capital to lead the US delegation in high-stakes peace talks with Iran, under the cover of a fragile two-week ceasefire between Washington and Tehran, with Pakistan serving as mediator in the negotiations aimed at ending a six-week conflict."
+      "title": "Wahl in Ungarn: Orbáns Herausforderer spricht sich für starkes Ungarn in der EU aus",
+      "teaser": "Die Wahllokale in Ungarn sind geöffnet. Der EU-freundliche Péter Magyar gibt sich siegessicher: Die Bevölkerung müsse sich zwischen Ost und West entscheiden.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-orban-magyar-fidesz-gxe"
     },
     {
       "title": "Liveblog:Wahl in Ungarn: \"Wir haben Ungarn befreit\"",
       "teaser": "Péter Magyar spricht von einem historischen Moment für Ungarn. Unter Jubel wird er in Budapest als Wahlsieger gefeiert und bekommt Glückwünsche aus Europa. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live"
+      "url": "https://www.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/wahl-ungarn-viktor-orban-live-bild-30/super__430x287",
+      "image_title": "Wahl in Ungarn: Peter Magyar, leader of the opposition Tisza party, holds a national flag following the partial results of the parliamentary election, in Budapest, Hungary, April 12, 2026. REUTERS/Marton Monus"
     },
     {
       "title": "Russisches Erdgas: AfD fordert Reaktivierung von Nord-Stream-Pipelines nach Russland",
@@ -404,7 +414,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2026-04/afd-russland-gas-nord-stream-reparatur"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ungarnwahl : Die Demokratie hat gewonnen",
+      "title": "Energiepreise: Koalition setzt Gespräche über Entlastungen fort",
+      "teaser": "Die Koalitionsspitzen beraten nach jüngstem Streit weiter über Entlastungen. Vom CDU-Sozialflügel kam zuletzt gar die Forderung einer \"Auswechslung\" Katherina Reiches.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/energiepreise-koalition-treffen-klingbeil-reiche-gxe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ungarnwahl: Die Demokratie hat gewonnen",
       "teaser": "Péter Magyars fulminanter Wahlsieg über Viktor Orbán ist eine Zäsur für Ungarn und Europa. Ein echter Systemwechsel wird in dem Land trotzdem schwierig.",
       "url": "https://www.zeit.de/politik/ausland/2026-04/peter-magyar-sieg-ungarn-parlamentswahlen-orban",
       "image_url": "https://img.zeit.de/politik/ausland/2026-04/parlamentswahl-in-ungarn-bild/wide__892x502",
@@ -425,11 +440,11 @@
       "image_title": "Freunde der ZEIT: 7 unentdeckte Orte in Spanien"
     },
     {
-      "title": "Reaktionen zur Wahl in Ungarn: \"Ungarn hat Europa gewählt\"",
-      "teaser": "EU-Kommissionspräsidentin Ursula von der Leyen begrüßt den Sieg der proeuropäischen Opposition in Ungarn. Auch andere Spitzenpolitiker gratulieren Péter Magyar.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-sieg-opposition-reaktionen",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-sieg-opposition-reaktionen-bild-1/wide__892x502",
-      "image_title": "Reaktionen zur Wahl in Ungarn: GYOR, HUNGARY - APRIL 09: Peter Magyar, lead candidate of the TISZA party, speaks to voters at an election campaign rally on April 09, 2026 in Gyor, Hungary. Magyar, who is currently leading in polls, is challenging current Prime Minister Viktor Orban in parliamentary elections scheduled for April 12. (Photo by Sean Gallup/Getty Images)"
+      "title": "Parlamentswahl in Ungarn: Viktor Orbán nach 16 Jahren an der Macht abgewählt",
+      "teaser": "Die Partei von Oppositionskandidat Péter Magyar hat die Parlamentswahl in Ungarn gewonnen. Regierungschef Viktor Orbán spricht von einer \"schmerzvollen\" Niederlage.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-viktor-orban-niederlage",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/wahl-ungarn-erste-ergebnisse-bild/wide__892x502",
+      "image_title": "Parlamentswahl in Ungarn: Eine Person hält am Tag der Parlamentswahlen am 12. April 2026 in Budapest, Ungarn, eine Nationalflagge in der Hand."
     },
     {
       "title": "Verlagsangebot: Guter Small Talk auf Englisch? Wir zeigen Ihnen wie!",
@@ -439,11 +454,11 @@
       "image_title": "Guter Small Talk auf Englisch? Wir zeigen Ihnen wie!"
     },
     {
-      "title": "Parlamentswahl in Ungarn: Viktor Orbán nach 16 Jahren an der Macht abgewählt",
-      "teaser": "Die Partei von Oppositionskandidat Péter Magyar liegt laut Teilergebnissen in Ungarn klar vorn. Regierungschef Viktor Orbán spricht von einer \"schmerzvollen\" Niederlage.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-parlamentswahl-viktor-orban-niederlage",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/wahl-ungarn-erste-ergebnisse-bild/super__430x287",
-      "image_title": "Parlamentswahl in Ungarn: Eine Person hält am Tag der Parlamentswahlen am 12. April 2026 in Budapest, Ungarn, eine Nationalflagge in der Hand."
+      "title": "Liveblog:Irankrieg: US-Militär beginnt am Nachmittag mit Blockade iranischer Häfen",
+      "teaser": "Die USA wollen alle iranischen Häfen ab 16 Uhr MESZ für sämtliche Schiffe blockieren. Trump droht China mit Zöllen im Fall von Waffenlieferungen an Iran. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2026-03/iran-krieg-usa-israel-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/iran-krieg-usa-israel-liveblog-bild-blockade-hafen/super__430x287",
+      "image_title": "Irankrieg: A picture taken during an inauguration ceremony of new equipment and infrastructure at Shahid Beheshti Port in the southeastern Iranian coastal city of Chabahar, shows a ship passing through the port on the Gulf of Oman, on February 25, 2019. (Photo by ATTA KENARE / AFP) (Photo credit should read ATTA KENARE/AFP via Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Krankenzusatzversicherung: Diese Zusatzversicherungen brauchen Sie wirklich",
@@ -614,10 +629,17 @@
       "image_title": "Brandanschlag: Ray Soussou, heute 43, rettete sich 1996 durch einen Sprung aus dem Fenster vor den Flammen."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Tierporträts: Jetzt schau bitte mal treuherzig",
+      "teaser": "Früher ließen vor allem Reiche ihre und die Lieblingstiere ihrer Kinder auf Gemälden verewigen. Heute bekommt jeder dahergelaufene Hund sein Porträt. Warum nur?",
+      "url": "https://www.zeit.de/feuilleton/kunst/2026-04/tierportraets-tiergemaelde-haustier-malerei-hunde-katzen",
+      "image_url": "https://img.zeit.de/feuilleton/kunst/2026-04/imago125392905-bild/wide__892x502",
+      "image_title": "Tierporträts: RECORD DATE NOT STATED Portrait of five children of Karel I van England, Richard Cooper, After Anthony Van Dyck, 1762 print In the middle, Karel is resting on a dog with his hand. James and Maria HenriÃ«tte are on the right. Elizabeth is on the left with Anne as a baby. London paper etching brothers or sisters (second degree family relationships). dog."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Podcast-Sonderfolge von Heidi Reichinnek: Eine etwas allzu bequeme linke Allianz",
       "teaser": "Die Linke Heidi Reichinnek lädt SPD-Politikerin Rasha Nasr und Ricarda Lang von den Grünen in ihren Podcast. Soll das die diskursive Vorbereitung von Rot-Rot-Grün sein?",
       "url": "https://www.zeit.de/feuilleton/2026-04/heidi-reichinnek-podcast-sonderfolge-ricarda-lang-rasha-nasr",
-      "image_url": "https://img.zeit.de/politik/2026-04/screenshot-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/politik/2026-04/screenshot-bild/super__430x287",
       "image_title": "Podcast-Sonderfolge von Heidi Reichinnek: Eine etwas allzu bequeme linke Allianz"
     },
     {
@@ -626,13 +648,6 @@
       "url": "https://www.zeit.de/2026/15/muell-stadt-plastik-industrie",
       "image_url": "https://img.zeit.de/2026/15/her-mit-dem-muell-bild-1/super__430x287",
       "image_title": "Müll: Armer Mensch. Wenn mal die Müllabfuhr nicht kommt, geraten die Dinge außer Kontrolle"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Wir Freitagsmänner\" von Hans-Gerd Raeth: Hitzewallung nicht ausgeschlossen",
-      "teaser": "Die Probleme des Mannes ab 50 gibt es jetzt auch als Roman. Glücklicherweise wird der Autor Hans-Gerd Raeth dabei nicht wehleidig.",
-      "url": "https://www.zeit.de/2026/16/wir-freitagsmaenner-hans-gerd-raeth-alter-andropause",
-      "image_url": "https://img.zeit.de/2026/16/hitzewallung-nicht-ausgeschlossen-bild-2/super__430x287",
-      "image_title": "\"Wir Freitagsmänner\" von Hans-Gerd Raeth: Alle paar Wochenist seit 2024 ein neuer Roman über die Wechseljahre erschienen. ++++++++++<br /> SLOVENIA. Dolenjske Toplice. 2004."
     },
     {
       "title": "Inhalte merken: So sichern Sie Artikel, Rezepte und mehr für später",
@@ -741,25 +756,25 @@
       "image_title": "Cannabislegalisierung: Open tin can containing rolled cigarettes on a blue and white background."
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Apple AirPods Max 2: Mittendrin statt nur Geschrei",
+      "teaser": "AirPods Max sind teuer – und ein bisschen albern. Nun erscheint ein neues Modell mit Sonderfunktionen. Es gibt einen Grund, warum es genau so aussieht wie sein Vorgänger.",
+      "url": "https://www.zeit.de/digital/mobil/2026-04/apple-airpods-max-2-kopfhoerer",
+      "image_url": "https://img.zeit.de/digital/mobil/2026-04/apple-airpods-max-2-kopfhoerer-bild/wide__892x502",
+      "image_title": "Apple AirPods Max 2: Die AirPods Max 2 könnten auch AirPods Max 1.5 heißen."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Anthropic: \"Es kann eine gefährliche Waffe sein\"",
+      "teaser": "Die Firma Anthropic behauptet, ihre neue KI \"Mythos\" sei so gefährlich, dass sie unter Verschluss bleibt. Wie ernst muss man diese Worte nehmen? Was Experten sagen.",
+      "url": "https://www.zeit.de/digital/datenschutz/2026-04/anthropic-claude-mythos-ki-modell-sicherheit-software",
+      "image_url": "https://img.zeit.de/digital/datenschutz/2026-04/anthropic-claude-mythos-ki-modell-sicherheit-software-bild/super__430x287",
+      "image_title": "Anthropic: \"Es kann eine gefährliche Waffe sein\""
+    },
+    {
       "title": "Claude Mythos: Anthropic findet sich gefährlich gut",
       "teaser": "Das neue Claude-Modell soll zu riskant sein, um es zu veröffentlichen. Googles KI-Übersicht hat oft recht. Und: wie auch Sie mal KI spielen können. Der KI-Newsletter",
       "url": "https://www.zeit.de/digital/2026-04/claude-mythos-anthropic-newsletter-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/digital/2026-04/claude-mythos-anthropic-newsletter-kuenstliche-intelligenz-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/digital/2026-04/claude-mythos-anthropic-newsletter-kuenstliche-intelligenz-bild/super__430x287",
       "image_title": "Claude Mythos: Clear skies above the 300 Howard St. building, formerly the 199 Fremont St. building, in San Francisco, California, USA, 21 November 2025. Artificial intelligence company Anthropic is in talks to lease the 128,016-square-meter property. The company announced a partnership with Microsoft and NVIDIA on 18 November, committing to purchase 30 billion US dollars' worth of Azure compute capacity. As part of the partnership, NVIDIA and Microsoft are committing to invest up to 10 billion US dollars and 5 billion US dollars, respectively, in Anthropic, according to the companies."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); KI im Kundenservice: \"Betriebsräte machen keinen Aufstand, wenn wir mit unserer KI kommen\"",
-      "teaser": "Die Firma Parloa gilt als große deutsche KI-Hoffnung. Und das ausgerechnet mit einer Technologie, die alle nervt: Sie automatisiert Callcentergespräche. Muss das sein?",
-      "url": "https://www.zeit.de/digital/2026-03/ki-automatisierung-parloa-technologie-callcenter",
-      "image_url": "https://img.zeit.de/digital/2026-03/ki-automatisierung-parloa-technologie-callcenter-bild/super__430x287",
-      "image_title": "KI im Kundenservice: \"Betriebsräte machen keinen Aufstand, wenn wir mit unserer KI kommen\""
-    },
-    {
-      "title": "Social-Media-Verbot in Griechenland: Auch Griechenland verbietet Social Media für Nutzer unter 15",
-      "teaser": "Ab 2027 dürfen griechische Kinder und Jugendliche unter 15 Jahren Plattformen wie TikTok oder Instagram nicht mehr nutzen. Die Regierung fordert eine EU-weite Lösung.",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/social-media-verbot-griechenland-kinder-instagram-tiktok-gxe",
-      "image_url": "https://img.zeit.de/gesellschaft/2026-04/social-media-verbot-griechenland-kinder-instagram-tiktok-bild/super__430x287",
-      "image_title": "Social-Media-Verbot in Griechenland: Catherine Daniil, 14, checks her phone after a basketball game with her father in Athens, Greece, February 26, 2026. REUTERS/Louisa Gouliamaki"
     },
     {
       "title": "An dieser Stelle ist ein externer Inhalt eingebunden",
@@ -916,50 +931,50 @@
       "image_title": "Radsport: Der Belgier Wout van Aert überquert am Sonntag, dem 12. April 2026, in Roubaix, Frankreich, als Erster die Ziellinie vor dem Slowenen Tadej Pogacar (links) und gewinnt damit das Radrennen Paris–Roubaix."
     },
     {
+      "title": "\"Cats\"-Musical-Fan: \"Du kamst rein und warst direkt auf einer Müllhalde\"",
+      "teaser": "Vor 40 Jahren startete mit \"Cats\" das erste große Musical Deutschlands. Markus Fuhlendorf gefiel es so gut, dass er 174 Mal im Publikum saß. Um Himmels willen: wieso?!",
+      "url": "https://www.zeit.de/hamburg/2026-03/cats-musical-fan-hamburg-vorstellungen",
+      "image_url": "https://img.zeit.de/hamburg/2026-03/cats-musical-fan-hamburg-vorstellungen-bild-5/wide__892x502",
+      "image_title": "\"Cats\"-Musical-Fan: Markus Fuhlendorf wurde oft gefragt, ob seine Cats-Jacke eine Fälschung sei. So eine Jacke bekamen normalerweise nur Darsteller."
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Tobias Kratzer: \"Es gibt Kunstwerke, die waren damals nix und die sind heute nix\"",
       "teaser": "Trump als Riesenbaby, Aufführungen im Zirkuszelt: Der Intendant Tobias Kratzer verwandelt gerade die Hamburgische Staatsoper radikal. Warum er das für überfällig hält.",
       "url": "https://www.zeit.de/hamburg/2026-04/tobias-kratzer-hamburgische-staatsoper-intendant-kunst",
-      "image_url": "https://img.zeit.de/hamburg/2026-04/kratzer/wide__892x502",
+      "image_url": "https://img.zeit.de/hamburg/2026-04/kratzer/super__430x287",
       "image_title": "Tobias Kratzer: Vier Herren auf dem Rummelplatz: Opernintendant Tobias Kratzer (in der Mitte mit Cap), umgeben von dem Generalmusikdirektor Omer Meir Wellber, Ballettdirektor Lloyd Riggins und dem Ballettgeschäftsführer Nicolas Hartmann (von links nach rechts)."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); CO₂-Abscheidung im Hamburger Hafen: \"Ohne uns wird die Stadt ihre Klimaziele nicht erreichen\"",
-      "teaser": "2040 soll Hamburg klimaneutral sein. Dabei stoßen allein Müllverbrennungsanlagen Hunderttausende Tonnen CO₂ pro Jahr aus. Eine neue Technik könnte das Problem lindern.",
-      "url": "https://www.zeit.de/hamburg/2026-04/co2-abscheidung-hamburger-hafen-klimaneutralitaet-faq",
-      "image_url": "https://img.zeit.de/hamburg/2026-04/co2-abscheidung-hamburger-hafen-klimaneutralitaet-faq-bild/super__430x287",
-      "image_title": "CO₂-Abscheidung im Hamburger Hafen: Eine Herausforderung für Hamburgs Klimastrategie: Schornsteine einer Müllverbrennungsanlage im Stadtteil Billbrook. Die Stadtreinigung ist als Betreiber solcher Anlagen einer der größten Emittenten von Treibhausgasen in Hamburg."
+      "title": "Fußball-Bundesliga: Einzig Undavs Unglück trübt die große VfB-Freude",
+      "url": "https://www.zeit.de/news/2026-04/13/einzig-undavs-unglueck-truebt-die-grosse-vfb-freude"
     },
     {
-      "title": "Schifffahrt: Reederverband reagiert verhalten auf US-Seeblockade",
-      "url": "https://www.zeit.de/news/2026-04/13/reederverband-reagiert-verhalten-auf-us-seeblockade"
+      "title": "Vorhersage: Wolkiges und regnerisches Wetter zum Wochenstart",
+      "url": "https://www.zeit.de/news/2026-04/13/wolkiges-und-regnerisches-wetter-zum-wochenstart"
     },
     {
-      "title": "Ungewöhnliche Halle: Zwischen Kreuz und Klettergriff: Ein Jahr Boulder Church",
-      "url": "https://www.zeit.de/news/2026-04/13/zwischen-kreuz-und-klettergriff-ein-jahr-boulder-church"
+      "title": "Sicherheit: Badesaison startet: Rettungsschwimmer dringend gesucht",
+      "url": "https://www.zeit.de/news/2026-04/13/badesaison-startet-rettungsschwimmer-dringend-gesucht"
     },
     {
-      "title": "Koalition: Verhandlungsmarathon der Koalition bis in die Nacht",
-      "url": "https://www.zeit.de/news/2026-04/13/beratungen-ueber-entlastungen-und-reformen-beendet"
+      "title": "Wettervorhersage: Die Sonne kehrt am Mittwoch zurück - zunächst Schauer",
+      "url": "https://www.zeit.de/news/2026-04/13/die-sonne-kehrt-am-mittwoch-zurueck-zunaechst-schauer"
     },
     {
-      "title": "US-Angriffe auf See: US-Militär tötet fünf angebliche Drogenschmuggler im Pazifik",
-      "url": "https://www.zeit.de/news/2026-04/13/us-militaer-toetet-fuenf-angebliche-drogenschmuggler-im-pazifik"
+      "title": "Fußball-Bundesliga: Freiburgs Toptalent Manzambi am Knie verletzt",
+      "url": "https://www.zeit.de/news/2026-04/13/freiburgs-toptalent-manzambi-am-knie-verletzt"
     },
     {
-      "title": "Stichwahl in Schwerin: Schwerin vor der Stichwahl - AfD-Frau knapp auf Platz drei",
-      "url": "https://www.zeit.de/news/2026-04/13/schwerin-vor-der-stichwahl-afd-frau-knapp-auf-platz-drei"
+      "title": "Wetterausblick: Aprilwetter in Bayern – Sonne, Regen und Gewitter im Wechsel",
+      "url": "https://www.zeit.de/news/2026-04/13/aprilwetter-in-bayern-sonne-regen-und-gewitter-im-wechsel"
     },
     {
-      "title": "Feuerwehreinsatz: Scheune mit Stroh und Hackschnitzeln in Brand geraten",
-      "url": "https://www.zeit.de/news/2026-04/12/scheune-mit-stroh-und-hackschnitzeln-in-brand-geraten"
+      "title": "Verkehr: Passant warnt mit Plakat vor Radarkontrolle",
+      "url": "https://www.zeit.de/news/2026-04/13/passant-warnt-mit-plakat-vor-radarkontrolle"
     },
     {
-      "title": "Kuba unter Druck: Kubas Präsident warnt USA vor militärischer Eskalation",
-      "url": "https://www.zeit.de/news/2026-04/13/kubas-praesident-warnt-usa-vor-militaerischer-eskalation"
-    },
-    {
-      "title": "Neue Streikwelle bei Lufthansa: Lufthansa-Piloten streiken - Zahlreiche Ausfälle erwartet",
-      "url": "https://www.zeit.de/news/2026-04/13/streik-der-lufthansa-piloten-hat-begonnen"
+      "title": "Haushaltsdefizit: Brandenburgs Regierung lotet mögliche Einsparungen aus",
+      "url": "https://www.zeit.de/news/2026-04/13/brandenburgs-regierung-lotet-moegliche-einsparungen-aus"
     }
   ]
 }
