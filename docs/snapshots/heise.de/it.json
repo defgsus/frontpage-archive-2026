@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T10:04:49",
+  "timestamp": "2026-04-14T11:49:19",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,67 @@
   ],
   "articles": [
     {
-      "title": "Make-Projekt: 3-Cent-Mikrocontroller programmieren, Teil 2",
-      "teaser": "Ein offizieller Prommer von Padauk lohnt sich nur, wenn Sie viele der Mikrocontroller programmieren wollen oder die volle Hardwarekompatibilität brauchen.",
-      "url": "https://www.heise.de/ratgeber/Make-Projekt-3-Cent-Mikrocontroller-programmieren-Teil-2-11207149.html",
-      "image_title": ","
+      "title": "AlertSAP-Patchday: Eine kritische SQL-Injection-Lücke – und 18 weitere",
+      "teaser": "Am April-Patchday behandelt SAP Schwachstellen mit 19 Sicherheitsnotizen. Eine kritische erlaubt das Einschleusen von SQL-Befehlen.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Eine-kritische-SQL-Injection-Luecke-und-18-weitere-11256627.html",
+      "image_title": "SAP-Logo neben \"Achtung\"-Schild"
     },
     {
-      "title": "CPUID: Durch Schwachstelle mehrere Stunden Malware verteilt",
+      "title": "Platform Engineering vs. DevOps: Was steckt hinter Internal Developer Platforms?",
+      "teaser": "Warum Firmen vor dem Aufbau einer Internal Developer Platform eine solide Automatisierungsbasis schaffen sollten, erklären Alexander Hoeft und Artem Lajko.",
+      "url": "https://www.heise.de/hintergrund/Platform-Engineering-vs-DevOps-Was-steckt-hinter-Internal-Developer-Platforms-11255407.html",
+      "image_title": "Fließbandproduktion von Solarpanels mit Industrierobotern."
+    },
+    {
+      "title": "Drei Mikro-USB-Sticks für Smartphone, Tablet und Notebook im Vergleich",
+      "teaser": "Der Speicher vieler Mobilgeräte lässt sich nicht aufrüsten. Ein schneller USB-Stick hilft; mancher Winzling kann gar dauerhaft am Gerät verbleiben.",
+      "url": "https://www.heise.de/tests/Drei-Mikro-USB-Sticks-fuer-Smartphone-Tablet-und-Notebook-im-Vergleich-11203898.html"
+    },
+    {
+      "title": "Cloudflare: Ein CLI-Tool für alles",
+      "teaser": "Cloudflare will mit cf alle Produkte über ein einziges Kommandozeilen-Tool steuerbar machen – optimiert für Entwickler und KI-Agenten.",
+      "url": "https://www.heise.de/news/Cloudflare-Ein-CLI-Tool-fuer-alles-11256008.html",
+      "image_title": "Isometrische Darstellung von Programmierobjekten wie Code-Fenster, Stiften, Legosteinen und Lavalampe."
+    },
+    {
+      "title": "TestsDrei Mikro-USB-Sticks für Smartphone, Tablet und Notebook im Vergleich",
+      "url": "https://www.heise.de/tests/Drei-Mikro-USB-Sticks-fuer-Smartphone-Tablet-und-Notebook-im-Vergleich-11203898.html"
+    },
+    {
+      "title": "HintergrundPer Benchmark KI-Dummheit entlarven: Interview über KI-Bullshit",
+      "url": "https://www.heise.de/hintergrund/Interview-ueber-KI-Bullshit-Wenn-mehr-Denken-Chatbots-duemmer-macht-11214192.html"
+    },
+    {
+      "title": "TestsKurztests: Muse-Controller, Charging Stand, X5 Lite und Shutter Switch",
+      "url": "https://www.heise.de/tests/Kurztests-Muse-Controller-Charging-Stand-X5-Lite-und-Shutter-Switch-11211350.html",
+      "image_title": "Apple-Peripherie im Kurztest"
+    },
+    {
+      "title": "AlertSicherheitslücke: wolfSSL-Bibliothek winkt manipulierte Zertifikate durch",
+      "teaser": "Ein Sicherheitsupdate schließt unter anderem eine kritische Lücke in wolfSSL.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-wolfSSL-Bibliothek-winkt-manipulierte-Zertifikate-durch-11256250.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "Landesdatenschützer melden Rekorde bei Beschwerden und Datenpannen",
+      "teaser": "Mehr Datenpannen, mehr KI-Fälle. Die Datenschutzbehörden sind am Limit. Grund dafür ist KI, aber auch billige Technik und Videoüberwachung.",
+      "url": "https://www.heise.de/news/Landesdatenschuetzer-melden-Rekorde-bei-Beschwerden-und-Datenpannen-11255919.html",
+      "image_title": "Gesichtserkennungs-KI im Einsatz"
+    },
+    {
+      "title": "Speicher aus China: YMTC will SK Hynix und Micron bei NAND-Flash überholen",
+      "teaser": "Ein neues Halbleiterwerk steht offenbar vor der Fertigstellung, zwei weitere sollen entstehen. YMTC hat offenbar große Pläne.",
+      "url": "https://www.heise.de/news/SSDs-YMTC-aus-China-will-offenbar-Speicherproduktion-verdoppeln-11256445.html",
+      "image_title": "Mehrere M.2-SSDs diagonal liegend auf weißem Untergrund"
+    },
+    {
+      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
+      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11246574.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "CPUID: Angreifer haben über Webseite Malware-Installer verteilt",
       "teaser": "Die Webseite CPUID der System-Analyse-Tools CPU-Z und HWMonitor wurde von Angreifern manipuliert. Sie verteilte Malware.",
       "url": "https://www.heise.de/news/CPUID-Durch-Schwachstelle-mehrere-Stunden-Malware-verteilt-11256219.html",
       "image_title": "CPUID-Logo vor Matrix-Regen-Hintergrund"
@@ -42,20 +96,6 @@
       "teaser": "Sinnvoller KI-Einsatz im Web: Die Online-Konferenz am 28. April zeigt, wie Web Developer smartere Webanwendungen mit KI-Inhalten bauen, testen und absichern.",
       "url": "https://www.heise.de/news/enterJS-Integrate-AI-am-28-April-Online-Konferenz-fuer-Web-Developer-11251675.html",
       "image_title": "enterJS Integrate AI"
-    },
-    {
-      "title": "HintergrundPer Benchmark KI-Dummheit entlarven: Interview über KI-Bullshit",
-      "url": "https://www.heise.de/hintergrund/Interview-ueber-KI-Bullshit-Wenn-mehr-Denken-Chatbots-duemmer-macht-11214192.html"
-    },
-    {
-      "title": "TestsKurztests: Muse-Controller, Charging Stand, X5 Lite und Shutter Switch",
-      "url": "https://www.heise.de/tests/Kurztests-Muse-Controller-Charging-Stand-X5-Lite-und-Shutter-Switch-11211350.html",
-      "image_title": "Apple-Peripherie im Kurztest"
-    },
-    {
-      "title": "HintergrundWindows 11 und Intune: Endpunkte zentral verwalten und absichern",
-      "url": "https://www.heise.de/hintergrund/Windows-11-und-Intune-Endpunkte-zentral-verwalten-und-absichern-11251798.html",
-      "image_title": "Wolken in Microsoft-Farben vor blauem Hintergrund"
     },
     {
       "title": "Microsoft stellt Outlook Lite für Android Ende Mai 2026 ein",
@@ -100,49 +140,10 @@
       "image_title": "Mehrere Notebooks mit Microsoft-Logo"
     },
     {
-      "title": "Partitionierung unter Windows: Echter Überblick per c’t-Skript",
-      "teaser": "Im Explorer erscheint Windows auf Laufwerk C:, doch es gibt weitere Laufwerke, die hier nicht erscheinen. Ein Skript zeigt, wie es wirklich ist.",
-      "url": "https://www.heise.de/ratgeber/Partitionierung-unter-Windows-Echter-Ueberblick-per-c-t-Skript-11215580.html"
-    },
-    {
-      "title": "Stromsparmodi im PC: Verstecktes Sparpotenzial nutzen",
-      "teaser": "Viele Desktop-PCs verschwenden Strom im Leerlauf. Wir zeigen, wie Sie mit gezielten BIOS-Einstellungen bis zu 25 Prozent Energie einsparen.",
-      "url": "https://www.heise.de/ratgeber/Stromsparmodi-im-PC-Verstecktes-Sparpotenzial-nutzen-11203692.html"
-    },
-    {
-      "title": "Linux 7.0 erschienen – mehr als ein Nummernsprung",
-      "teaser": "Der neue Linux-Kernel 7.0 bringt selbstheilende Dateisysteme, sorgt für robusteren Code und heißt Rust als nicht-experimentelles Feature willkommen.",
-      "url": "https://www.heise.de/news/Linux-7-0-erschienen-mehr-als-ein-Nummernsprung-11255745.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
-    },
-    {
-      "title": "Meta entwickelt KI-Version von Mark Zuckerberg",
-      "teaser": "Einem Medienbericht zufolge arbeitet Meta-CEO Mark Zuckerberg an einem KI-Avatar, der ihn bei Meetings ersetzen und mit Mitarbeitenden interagieren soll.",
-      "url": "https://www.heise.de/news/Meta-entwickelt-KI-Version-von-Mark-Zuckerberg-11255709.html",
-      "image_title": "Meta-Chef Mark Zuckerberg im Anzug."
-    },
-    {
-      "title": "Privatsphäre: Bürgerrechtler warnen vor Gesichtserkennung bei Meta Smart Glasses",
-      "teaser": "In einem offenen Brief sehen US-Bürgerrechtsorganisationen durch die Pläne von Meta bei Ray-Ban- und Oakley-Brillen das Recht auf Privatsphäre bedroht.",
-      "url": "https://www.heise.de/news/Privatsphaere-Buergerrechtler-warnen-vor-Gesichtserkennung-bei-Meta-Smart-Glasses-11255667.html",
-      "image_title": "Ray-Ban Meta Smart Glasses im Store-Display mit Demo-Tablet, Produktinfos und Werbeslogan „Just ask your AI glasses“."
-    },
-    {
-      "title": "Top 10: Die besten Kurbelradios für den Notfall im Test",
-      "teaser": "Funktioniert auch bei Stromausfal: Wir zeigen die besten Kurbelradios mit Dynamo, Solarpanel, Powerbank und Taschenlampe.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-kurbelradio-im-test-mit-solar-dab-und-powerbank/8pqqkq3?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Funkstille auf Knopfdruck: Britische Regierung sagt Jammern den Kampf an",
-      "teaser": "London will per Gesetz den Missbrauch von Störsendern stoppen, die zunehmend für Einbrüche, Diebstähle und Angriffe auf Infrastrukturen missbraucht werden.",
-      "url": "https://www.heise.de/news/Funkstille-auf-Knopfdruck-Britische-Regierung-sagt-Jammern-den-Kampf-an-11255522.html",
-      "image_title": "Junge Frau klingelt an einer smarten Türklingel."
-    },
-    {
-      "title": "KI-Betrug: Deutsche überschätzen ihre Fähigkeit, Deepfakes zu entlarven",
-      "teaser": "Eine Sonderauswertung des Cybersicherheitsmonitor von BSI und ProPK zeigt gefährliche Wissenslücken beim Erkennen von KI-Manipulationen und Online-Anlagebetrug.",
-      "url": "https://www.heise.de/news/KI-Betrug-Deutsche-ueberschaetzen-ihre-Faehigkeit-Deepfakes-zu-entlarven-11255536.html",
-      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
+      "title": "Windows 11 und Intune: Endpunkte zentral verwalten und absichern",
+      "teaser": "Microsoft Intune verwaltet Windows-, Apple- und BYOD-Geräte zentral aus der Cloud. Ein Überblick über Funktionen, Lizenzmodelle und Praxiseinstieg.",
+      "url": "https://www.heise.de/hintergrund/Windows-11-und-Intune-Endpunkte-zentral-verwalten-und-absichern-11251798.html",
+      "image_title": "Wolken in Microsoft-Farben vor blauem Hintergrund"
     },
     {
       "title": "NewsFraunhofer entwickelt leichten leistungsstarken Elektromotor für Flugzeuge",
