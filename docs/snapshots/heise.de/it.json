@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T04:35:27",
+  "timestamp": "2026-04-15T06:26:02",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,69 @@
   ],
   "articles": [
     {
-      "title": "Mittwoch: Warnung vor deutscher Superbehörde, gespeicherte KI-Prompts in Chrome",
-      "teaser": "Risiko durch zentralisierte Kontrolle + Google-Skills für Chrome + Copilot statt ChatGPT in Norwegen + Linux 7.0 mit Neuheiten + Unitree-Roboter als Sprinter",
-      "url": "https://www.heise.de/news/Mittwoch-Warnung-vor-deutscher-Superbehoerde-gespeicherte-KI-Prompts-in-Chrome-11257794.html",
-      "image_title": "Soldaten vor Überwachungsbildschirmen; Mittwoch: Geheimdienste-Überwachung, Chrome-Skills, Rechenzentrum-Mieterwechsel, Linux-Versionssprung & Roboter-Sprinter"
+      "title": "AlertWarnung vor Attacken auf 17 Jahre alte Excel-Lücke",
+      "teaser": "Die US-Cybersicherheitsbehörde warnt vor beobachteten Angriffen auf eine uralte Excel-Lücke. Auch SharePoint wird angegriffen.",
+      "url": "https://www.heise.de/news/Warnung-vor-Attacken-auf-17-Jahre-alte-Excel-Luecke-11257838.html"
+    },
+    {
+      "title": "Prompten statt Coden: So geht das mit Apples Xcode",
+      "teaser": "Xcode integriert seit Version 26.3 auch externe AI-Dienste. Wir vergleichen die native Integration von Claude Code mit der Einbindung von GitHub Copilot.",
+      "url": "https://www.heise.de/hintergrund/Prompten-statt-Coden-So-geht-das-mit-Apples-Xcode-11255049.html",
+      "image_title": "Entwickeln mit KI"
+    },
+    {
+      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
+      "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11246586.html",
+      "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
+    },
+    {
+      "title": "KI-Assistent Heinzel für die Server-Administration im Überblick",
+      "teaser": "Admins machen Fehler, besonders um 3 Uhr nachts. Heinzel gibt KI-Agenten Leitplanken für die Arbeit am Terminal – ganz einfach per Markdown.",
+      "url": "https://www.heise.de/ratgeber/KI-Assistent-Heinzel-fuer-die-Server-Administration-im-Ueberblick-11244463.html",
+      "image_title": "Drei Gartenzwerge mit Computerausstattung: Tastatur, Maus und Monitor."
+    },
+    {
+      "title": "HintergrundPrompten statt Coden: So geht das mit Apples Xcode",
+      "url": "https://www.heise.de/hintergrund/Prompten-statt-Coden-So-geht-das-mit-Apples-Xcode-11255049.html",
+      "image_title": "Entwickeln mit KI"
+    },
+    {
+      "title": "RatgeberKI-Assistent Heinzel für die Server-Administration im Überblick",
+      "url": "https://www.heise.de/ratgeber/KI-Assistent-Heinzel-fuer-die-Server-Administration-im-Ueberblick-11244463.html",
+      "image_title": "Drei Gartenzwerge mit Computerausstattung: Tastatur, Maus und Monitor."
+    },
+    {
+      "title": "HintergrundWie Semantik-Drift ML-Vorhersagen zerstört",
+      "url": "https://www.heise.de/hintergrund/Wie-Semantik-Drift-ML-Vorhersagen-zerstoert-11240931.html",
+      "image_title": ", Cathrin Kapell / KI / iX"
+    },
+    {
+      "title": "Erstes landesweites Verbot für den Bau von Rechenzentren in einem US-Bundesstaat",
+      "teaser": "Im nordöstlichsten US-Bundesstaat soll jetzt das erste Bauverbot für neue Rechenzentren in Kraft treten. Noch fehlt aber die Unterschrift der Gouverneurin.",
+      "url": "https://www.heise.de/news/Erstes-landesweites-Verbot-fuer-den-Bau-von-Rechenzentren-in-einem-US-Bundesstaat-11257832.html",
+      "image_title": "Shot,Of,Data,Center,With,Multiple,Rows,Of,Fully,Operational"
+    },
+    {
+      "title": "FAQ: Verwirrende Partitionierung unter Windows",
+      "teaser": "Das Skript c’t-PartInfo zeigt die Aufteilung aller Datenträger, so wie sie wirklich ist. Was Sie dort zu sehen bekommen, wirft mitunter Fragen auf.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Verwirrende-Partitionierung-unter-Windows-11217490.html"
+    },
+    {
+      "title": "Verdrahtungsmission: Verkabeltes Heimnetzwerk selbst verlegen",
+      "teaser": "Steht die nächste Kernsanierung an, muss eine frische Netzwerkinstallation fest auf der Aufgabenliste stehen. Wir geben Ihnen das nötige Grundwissen dafür.",
+      "url": "https://www.heise.de/ratgeber/Verdrahtungsmission-Verkabeltes-Heimnetzwerk-selbst-verlegen-11162805.html"
+    },
+    {
+      "title": "Wi-Fi-7-Router für Glasfaser und DSL im Test: Deutsche Telekom Speedport 7",
+      "teaser": "Mit dem Speedport 7 funkt das Magenta-Mesh mit modernem Wi-Fi 7. Wir haben Router und Repeater ausprobiert.",
+      "url": "https://www.heise.de/tests/Wi-Fi-7-Router-fuer-Glasfaser-und-DSL-im-Test-Deutsche-Telekom-Speedport-7-11112427.html"
+    },
+    {
+      "title": "US-Routerverbot: Ausnahmegenehmigung für Netgear – ohne Pläne für US-Produktion",
+      "teaser": "Eigentlich war das US-Routerverbot wasserdicht formuliert, die Anforderungen für eine Ausnahme extrem hoch. Trotzdem wurde Netgear jetzt eine solche erteilt.",
+      "url": "https://www.heise.de/news/US-Routerverbot-Ausnahmegenehmigung-fuer-Netgear-ohne-Plaene-fuer-US-Produktion-11257798.html",
+      "image_title": "Router mit Beschriftung Netgear"
     },
     {
       "title": "Nutzer können KI-Anfragen bald in Chrome speichern für schnelle erneute Nutzung",
@@ -42,20 +101,6 @@
       "teaser": "Nach Stargate UK in Großbritannien pausiert OpenAI auch sein Stargate-Projekt im norwegischen Polarkreis. Microsoft springt in die Bresche.",
       "url": "https://www.heise.de/news/Microsoft-uebernimmt-Rechenzentrum-von-OpenAI-in-Norwegen-11257724.html",
       "image_title": "Germany,-,January,24,2023:,Openai,Logo,On,The,Phone,And"
-    },
-    {
-      "title": "HintergrundInterview: IT-Experten Artur Bachmann und Tim Mittermeier zu Cyberversicherungen",
-      "url": "https://www.heise.de/hintergrund/Interview-IT-Experten-Artur-Bachmann-und-Tim-Mittermeier-zu-Cyberversicherungen-11255875.html",
-      "image_title": ", Cathrin Kapell / KI / iX"
-    },
-    {
-      "title": "HintergrundEUDI-Wallet: Der regulatorische Fahrplan zur digitalen Identität",
-      "url": "https://www.heise.de/hintergrund/EUDI-Wallet-Der-regulatorische-Fahrplan-zur-digitalen-Identitaet-11254083.html",
-      "image_title": ", Vanessa Bahr / iX"
-    },
-    {
-      "title": "TestsDrei Mikro-USB-Sticks für Smartphone, Tablet und Notebook im Vergleich",
-      "url": "https://www.heise.de/tests/Drei-Mikro-USB-Sticks-fuer-Smartphone-Tablet-und-Notebook-im-Vergleich-11203898.html"
     },
     {
       "title": "KI-Halluzinationen vor Gericht",
@@ -87,63 +132,16 @@
       "image_title": "Standmikrofon auf einer Bühne vor verschwommenem Hintergrund"
     },
     {
+      "title": "Interview: IT-Experten Artur Bachmann und Tim Mittermeier zu Cyberversicherungen",
+      "teaser": "Cyberversicherungen können ein wichtiger Rettungsanker nach einem IT-Angriff sein. Die Voraussetzungen für eine Erstattung müssen aber akribisch erfüllt werden.",
+      "url": "https://www.heise.de/hintergrund/Interview-IT-Experten-Artur-Bachmann-und-Tim-Mittermeier-zu-Cyberversicherungen-11255875.html",
+      "image_title": ", Cathrin Kapell / KI / iX"
+    },
+    {
       "title": "AlertUbiquiti UniFi Play: Codeschmuggel in Audiosystem möglich",
       "teaser": "Die High-End-Audio-Streaming-Lösung Ubiquiti UniFi Play weist eine kritische Sicherheitslücke auf, durch die Angreifer Schadcode ausführen können.",
       "url": "https://www.heise.de/news/Ubiquiti-UniFi-Play-Codeschmuggel-in-Audiosystem-moeglich-11256890.html",
       "image_title": "Ubiquiti UniFi Play PowerAmps mit Achtung-Schild vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "„Irreführende Praxis“: Google bestraft „Back-Button-Hijacking“ als Spam",
-      "teaser": "Google geht künftig gegen Webseiten vor, die den Zurück-Button des Browsers manipulieren. Ab Mitte Juni drohen Betreibern manuelle Spam-Maßnahmen.",
-      "url": "https://www.heise.de/news/Irrefuehrende-Praxis-Google-bestraft-Back-Button-Hijacking-als-Spam-11257003.html",
-      "image_title": "Google-Icon auf einem iPhone​"
-    },
-    {
-      "title": "Apples Produkte-Pipeline: Was 2026 noch kommt",
-      "teaser": "Nach Apples Frühjahrsprodukten stehen in den kommenden Monaten Überholungen bei diversen Baureihen an. Ein Überblick.",
-      "url": "https://www.heise.de/news/Apples-Produkte-Pipeline-Was-2026-noch-kommt-11229599.html",
-      "image_title": "Zwei Apple-Logos auf Rechnern des Herstellers"
-    },
-    {
-      "title": "Babyboomer suchen Sinn, Gen Z sucht Chancen – alle wollen Sicherheit",
-      "teaser": "Die Wechselbereitschaft in Deutschland sinkt, während Jobsicherheit in den Vordergrund rückt. Eine aktuelle Studie zeigt die Gründe.",
-      "url": "https://www.heise.de/news/Jobsicherheit-wichtiger-als-Jobwechsel-11256559.html",
-      "image_title": "Ein Mann sitzt auf einem Würfel und arbeitet an einem Laptop unter einem Sonnenschirm."
-    },
-    {
-      "title": "heise security Tour 2026: Jetzt noch zum Frühbuchertarif buchen",
-      "teaser": "Die heise security Tour 2026 fokussiert auf Lieferketten-Sicherheit, Identitäts-Management und die Bedeutung von KI. Sichern Sie sich jetzt Frühbucher-Tickets!",
-      "url": "https://www.heise.de/news/heise-security-Tour-2026-Jetzt-noch-zum-Fruehbuchertarif-buchen-11254137.html"
-    },
-    {
-      "title": "Booking.com: Unbefugte Zugriffe von Kriminellen entdeckt",
-      "teaser": "Booking.com gibt unbefugte Fremdzugriffe auf Buchungsinformationen zu. Betroffene Kunden werden informiert, ihre PINs aktualisiert.",
-      "url": "https://www.heise.de/news/Booking-com-Unbefugte-Zugriffe-von-Kriminellen-entdeckt-11256689.html",
-      "image_title": "Booking.com"
-    },
-    {
-      "title": "Tesla: Frühlings-Update bringt eigene App für autonomes Fahren",
-      "teaser": "Tesla kündigt ein umfangreiches Frühlings-Update an. Neben einer zentralen App für das autonome Fahren gibt es Verbesserungen für Grok und andere Funktionen.",
-      "url": "https://www.heise.de/news/Tesla-Fruehlings-Update-bringt-eigene-App-fuer-autonomes-Fahren-11256705.html",
-      "image_title": "Bildschirmfoto des Spring Update von Tesla"
-    },
-    {
-      "title": "AlertSAP-Patchday: Eine kritische SQL-Injection-Lücke – und 18 weitere",
-      "teaser": "Am April-Patchday behandelt SAP Schwachstellen mit 19 Sicherheitsnotizen. Eine kritische erlaubt das Einschleusen von SQL-Befehlen.",
-      "url": "https://www.heise.de/news/SAP-Patchday-Eine-kritische-SQL-Injection-Luecke-und-18-weitere-11256627.html",
-      "image_title": "SAP-Logo neben \"Achtung\"-Schild"
-    },
-    {
-      "title": "Platform Engineering vs. DevOps: Was steckt hinter Internal Developer Platforms?",
-      "teaser": "Warum Firmen vor dem Aufbau einer Internal Developer Platform eine solide Automatisierungsbasis schaffen sollten, erklären Alexander Hoeft und Artem Lajko.",
-      "url": "https://www.heise.de/hintergrund/Platform-Engineering-vs-DevOps-Was-steckt-hinter-Internal-Developer-Platforms-11255407.html",
-      "image_title": "Fließbandproduktion von Solarpanels mit Industrierobotern."
-    },
-    {
-      "title": "Cloudflare: Ein CLI-Tool für alles",
-      "teaser": "Cloudflare will mit cf alle Produkte über ein einziges Kommandozeilen-Tool steuerbar machen – optimiert für Entwickler und KI-Agenten.",
-      "url": "https://www.heise.de/news/Cloudflare-Ein-CLI-Tool-fuer-alles-11256008.html",
-      "image_title": "Isometrische Darstellung von Programmierobjekten wie Code-Fenster, Stiften, Legosteinen und Lavalampe."
     },
     {
       "title": "NewsFraunhofer entwickelt leichten leistungsstarken Elektromotor für Flugzeuge",
