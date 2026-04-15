@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T10:05:18",
+  "timestamp": "2026-04-15T11:44:22",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "WireGuard: Update für Windows-Client nach vier Jahren",
+      "url": "https://www.heise.de/news/WireGuard-Update-fuer-Windows-Client-nach-vier-Jahren-11258784.html"
+    },
+    {
+      "title": "Partitionierung unter Windows: Echter Überblick per c’t-Skript",
+      "url": "https://www.heise.de/ratgeber/Partitionierung-unter-Windows-Echter-Ueberblick-per-c-t-Skript-11215580.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "Prompt-Injection-Angriffe auf Apple Intelligence",
+      "url": "https://www.heise.de/news/Prompt-Injection-Angriffe-auf-Apple-Intelligence-11257658.html"
+    },
+    {
+      "title": "Vorsicht bei austauschbaren Displays: Pimax verändert VR-Brille Crystal Super",
+      "url": "https://www.heise.de/news/Neuer-Stecker-sorgt-fuer-Kompatibilitaetsunterschiede-bei-Pimax-VR-Brillen-11258644.html"
+    },
+    {
+      "title": "Weich-starre Origami-Roboter bewegen sich lautlos mit Wärme-Aktuatoren",
+      "url": "https://www.heise.de/news/Weich-starre-Origami-Roboter-bewegen-sich-lautlos-mit-Waerme-Aktuatoren-11258196.html"
+    },
     {
       "title": "c’t-Workshop: DHCP-Automatisierung mit Kea und Stork",
       "url": "https://www.heise.de/news/c-t-Workshop-DHCP-Automatisierung-mit-Kea-und-Stork-11255781.html"
@@ -42,26 +64,6 @@
     {
       "title": "Raspberry Pi OS 6.2: Update verspricht mehr Sicherheit",
       "url": "https://www.heise.de/news/Raspberry-Pi-OS-6-2-Update-verspricht-mehr-Sicherheit-11258279.html"
-    },
-    {
-      "title": "In Abwesenheit: Spotify gewinnt vor Gericht gegen Anna's Archive",
-      "url": "https://www.heise.de/news/In-Abwesenheit-Spotify-gewinnt-vor-Gericht-gegen-Anna-s-Archive-11258267.html"
-    },
-    {
-      "title": "GoPro bringt Mission-1-Serie: Vorstoß in kompakte Kinokameras",
-      "url": "https://www.heise.de/news/GoPro-bringt-Mission-1-Serie-Vorstoss-in-kompakte-Kinokameras-11258333.html"
-    },
-    {
-      "title": "iWork: Apple zwingt zur Nutzung der Creator-Studio-Versionen",
-      "url": "https://www.heise.de/news/iWork-Apple-zwingt-zur-Nutzung-der-Creator-Studio-Versionen-11257688.html"
-    },
-    {
-      "title": "Weder Bio- noch Technosignatur: Neue Methode zur Suche nach Außerirdischen",
-      "url": "https://www.heise.de/news/Weder-Bio-noch-Technosignatur-Neue-Methode-zur-Suche-nach-Ausserirdischen-11258098.html"
-    },
-    {
-      "title": "EU-Anbieter schnüren gemeinsames Notsystem bei Cloudabschaltung",
-      "url": "https://www.heise.de/news/EU-Anbieter-schnueren-gemeinsames-Notsystem-bei-Cloudabschaltung-11258162.html"
     },
     {
       "title": "Nur drei Jahre nach Release„Star Trek: Resurgence“ wird nicht mehr verkauft",
@@ -145,10 +147,21 @@
       "image_title": "Shot,Of,Data,Center,With,Multiple,Rows,Of,Fully,Operational"
     },
     {
+      "title": "Raspberry Pi OS 6.2Update verspricht mehr Sicherheit",
+      "teaser": "Die Raspberry-Pi-Entwickler haben in Raspberry Pi OS 6.2 die Sicherheit verbessert. Sie deaktivieren das passwortlose sudo.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-OS-6-2-Update-verspricht-mehr-Sicherheit-11258279.html",
+      "image_title": "Terminal mit sudo-Passwort-Eingabe"
+    },
+    {
       "title": "Neue Demo des Flipper OneTech-Gadget hat DisplayPort und Ethernet-Buchse",
       "teaser": "In einem Video zeigt Erfinder Pavel Zhovner einen funktionierenden Prototypen. Und der taugt auch als Ethernet-Adapter fürs Smartphone.",
       "url": "https://www.heise.de/news/Neue-Demo-des-Flipper-One-Tech-Gadget-hat-DisplayPort-und-Ethernet-Buchse-11257021.html",
       "image_title": "Prototyp des Flipper One"
+    },
+    {
+      "title": "AnalyseBiogas und Biomethan als Zukunft des Heizens?",
+      "teaser": "Die Biotreppe verspricht mehr Biomethan und weniger fossiles Gas fürs Heizen. Der Praxisblick zeigt: Die Lücke zwischen Anspruch und Wirklichkeit ist gewaltig.",
+      "url": "https://www.heise.de/hintergrund/Analyse-Biogas-und-Biomethan-als-Zukunft-des-Heizens-11247211.html"
     },
     {
       "title": "US-RouterverbotAusnahmegenehmigung für Netgear – ohne Pläne für US-Produktion",
@@ -157,9 +170,10 @@
       "image_title": "Router mit Beschriftung Netgear"
     },
     {
-      "title": "AnalyseBiogas und Biomethan als Zukunft des Heizens?",
-      "teaser": "Die Biotreppe verspricht mehr Biomethan und weniger fossiles Gas fürs Heizen. Der Praxisblick zeigt: Die Lücke zwischen Anspruch und Wirklichkeit ist gewaltig.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Biogas-und-Biomethan-als-Zukunft-des-Heizens-11247211.html"
+      "title": "T1 PhoneTrump-Handy mit neuem Design und veränderter Hardware",
+      "teaser": "Noch immer ist unklar, wann das T1 Phone der Trump Organization auf den Markt kommt. Nun gibt es eine neue Webseite.",
+      "url": "https://www.heise.de/news/Trump-Handy-T1-Phone-bekommt-offenbar-neues-Design-11256369.html",
+      "image_title": "Trump Phone"
     },
     {
       "title": "MondstaubBlue Origin baut System zur Gewinnung von Sauerstoff aus Regolith",
@@ -168,16 +182,38 @@
       "image_title": "Künstlerische Darstellung von einem Air-Pioneer-System auf dem Mond"
     },
     {
-      "title": "T1 PhoneTrump-Handy mit neuem Design und veränderter Hardware",
-      "teaser": "Noch immer ist unklar, wann das T1 Phone der Trump Organization auf den Markt kommt. Nun gibt es eine neue Webseite.",
-      "url": "https://www.heise.de/news/Trump-Handy-T1-Phone-bekommt-offenbar-neues-Design-11256369.html",
-      "image_title": "Trump Phone"
+      "title": "WireGuard: Update für Windows-Client nach vier Jahren",
+      "teaser": "Nachdem Probleme mit der Treibersignierung durch Blockade von Microsoft gelöst wurden, ist nun WireGuard 0.6.1 für Windows erschienen.",
+      "url": "https://www.heise.de/news/WireGuard-Update-fuer-Windows-Client-nach-vier-Jahren-11258784.html",
+      "image_title": "WireGuard-Versionsdialog vor blauem Mosaik-Hintergrund"
     },
     {
-      "title": "KernelLinux 7.0 erschienen – mehr als ein Nummernsprung",
-      "teaser": "Der neue Linux-Kernel 7.0 bringt selbstheilende Dateisysteme und sorgt für robusteren Code.",
-      "url": "https://www.heise.de/news/Linux-7-0-erschienen-mehr-als-ein-Nummernsprung-11255745.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
+      "title": "Partitionierung unter Windows: Echter Überblick per c’t-Skript",
+      "teaser": "Im Explorer erscheint Windows auf Laufwerk C:, doch es gibt weitere Laufwerke, die hier nicht erscheinen. Ein Skript zeigt, wie es wirklich ist.",
+      "url": "https://www.heise.de/ratgeber/Partitionierung-unter-Windows-Echter-Ueberblick-per-c-t-Skript-11215580.html"
+    },
+    {
+      "title": "Ein Balkonkraftwerk mit Köpfchen",
+      "teaser": "Balkonkraftwerke haben sich zu einem Massenmarkt entwickelt. Doch jetzt steigen die Ansprüche der Kunden: Neue Geräte setzten deshalb auf Software-Intelligenz und eine offene Schnittstellen-Politik.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7248667807&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Prompt-Injection-Angriffe auf Apple Intelligence",
+      "teaser": "Die Sprachmodelle von Apple sind potenziell angreifbar. Forscher zeigen mehrere neue Methoden.",
+      "url": "https://www.heise.de/news/Prompt-Injection-Angriffe-auf-Apple-Intelligence-11257658.html",
+      "image_title": "Symbolbild Prompt Injection"
+    },
+    {
+      "title": "Vorsicht bei austauschbaren Displays: Pimax verändert VR-Brille Crystal Super",
+      "teaser": "Ein Lieferproblem zwingt Pimax dazu, eine Schlüsselverbindung seiner modularen VR-Brille Crystal Super auszutauschen.",
+      "url": "https://www.heise.de/news/Neuer-Stecker-sorgt-fuer-Kompatibilitaetsunterschiede-bei-Pimax-VR-Brillen-11258644.html",
+      "image_title": "Zwei schwarze VR-Brillen mit grünem und rotem Pfeil auf der Front."
+    },
+    {
+      "title": "Weich-starre Origami-Roboter bewegen sich lautlos mit Wärme-Aktuatoren",
+      "teaser": "Forscher suchen nach Möglichkeiten, starre Robotergelenke zu vermeiden. Eine Möglichkeit besteht darin, Material durch Wärme gezielt zu verformen.",
+      "url": "https://www.heise.de/news/Weich-starre-Origami-Roboter-bewegen-sich-lautlos-mit-Waerme-Aktuatoren-11258196.html",
+      "image_title": "Origami-Kranich"
     },
     {
       "title": "c’t-Workshop: DHCP-Automatisierung mit Kea und Stork",
@@ -192,44 +228,9 @@
       "image_title": "VW ID.3 Neo"
     },
     {
-      "title": "Identity Governance und die effiziente Verwaltung von Identitäten",
-      "teaser": "Trotz Identity-Managements fehlt in Unternehmen oft die Übersicht über die Zugriffsrechte. Regulatorische Anforderungen erhöhen den Druck – Plattformen für Identity Governance können dann helfen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7240350882&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Drei Mikro-USB-Sticks für Smartphone, Tablet und Notebook im Vergleich",
       "teaser": "Der Speicher vieler Mobilgeräte lässt sich nicht aufrüsten. Ein schneller USB-Stick hilft; mancher Winzling kann gar dauerhaft am Gerät verbleiben.",
       "url": "https://www.heise.de/tests/Drei-Mikro-USB-Sticks-fuer-Smartphone-Tablet-und-Notebook-im-Vergleich-11203898.html"
-    },
-    {
-      "title": "Squire: Elektrische Bodeneffektdrohne hebt erstmals ab",
-      "teaser": "Das unbemannte Bodeneffektfahrzeug Squire ist erstmals geflogen. Die Drohne ist in erster Line für das Militär gedacht.",
-      "url": "https://www.heise.de/news/Squire-Elektrische-Bodeneffektdrohne-hebt-erstmals-ab-11258589.html",
-      "image_title": "Bodeneffektdrohne Squire im Flug"
-    },
-    {
-      "title": "Raspberry Pi OS 6.2: Update verspricht mehr Sicherheit",
-      "teaser": "Die Raspberry-Pi-Entwickler haben in Raspberry Pi OS 6.2 die Sicherheit verbessert. Sie deaktivieren das passwortlose sudo.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-OS-6-2-Update-verspricht-mehr-Sicherheit-11258279.html",
-      "image_title": "Terminal mit sudo-Passwort-Eingabe"
-    },
-    {
-      "title": "GoPro bringt Mission-1-Serie: Vorstoß in kompakte Kinokameras",
-      "teaser": "GoPro stellt mit der Mission-1-Serie neue Kameras mit 1-Zoll-Sensor, 8K-Video und Log-Profilen vor und zielt damit über das Actioncam-Segment hinaus.",
-      "url": "https://www.heise.de/news/GoPro-bringt-Mission-1-Serie-Vorstoss-in-kompakte-Kinokameras-11258333.html",
-      "image_title": "Bilder der neuen MIssion-1-Kameras von Go Pro vor dunklem Hintergrund."
-    },
-    {
-      "title": "iWork: Apple zwingt zur Nutzung der Creator-Studio-Versionen",
-      "teaser": "Apple will, dass die Nutzer die Abovarianten seiner Office-Apps nutzen. Die reinen Gratisversionen sind aus dem App Store verschwunden.",
-      "url": "https://www.heise.de/news/iWork-Apple-zwingt-zur-Nutzung-der-Creator-Studio-Versionen-11257688.html",
-      "image_title": "Creator-Studio-Icons"
-    },
-    {
-      "title": "EU-Anbieter schnüren gemeinsames Notsystem bei Cloudabschaltung",
-      "teaser": "Was tun, wenn der Cloudanbieter des Vertrauens in der EU nicht mehr verfügbar ist? Auf dieses Szenario wollen mehrere EU-Unternehmen nun eine Antwort geben.",
-      "url": "https://www.heise.de/news/EU-Anbieter-schnueren-gemeinsames-Notsystem-bei-Cloudabschaltung-11258162.html",
-      "image_title": "Ein Regenschirm schützt ein Hochhaus vor einer Gewitterwolke."
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -290,7 +291,7 @@
       "url": "https://www.heise.de/meinung/Speichermarktkrise-hausgemacht-Pfennigfuchser-zahlen-drauf-11250539.html"
     },
     {
-      "title": "Solar, DAB+ & PowerbankTop 10: Die besten Kurbelradios für den Notfall im Test",
+      "title": "Solar, DAB+ & PowerbankTop 10: Die besten Kurbelradios im Test",
       "teaser": "Funktioniert auch bei Stromausfal: Wir zeigen die besten Kurbelradios mit Dynamo, Solarpanel, Powerbank und Taschenlampe.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-kurbelradio-im-test-mit-solar-dab-und-powerbank/8pqqkq3?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
@@ -320,6 +321,30 @@
       "teaser": "Mit heise+ lesen Sie alle Inhalte auf heise online. Zusätzlich zu unseren Magazin-Inhalten erhalten Sie damit weitere exklusive Tests, Ratgeber und Hintergründe. Wählen Sie jetzt Ihr passendes Paket und sparen im Jahresabo dauerhaft 20 %.",
       "url": "https://www.heise.de/plus/abo/jahresabo?affiliateId=30174&wt_mc=intern.abo.plus.hp_ea_2025.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "Squire: Elektrische Bodeneffektdrohne hebt erstmals ab",
+      "teaser": "Das unbemannte Bodeneffektfahrzeug Squire ist erstmals geflogen. Die Drohne ist in erster Line für das Militär gedacht.",
+      "url": "https://www.heise.de/news/Squire-Elektrische-Bodeneffektdrohne-hebt-erstmals-ab-11258589.html",
+      "image_title": "Bodeneffektdrohne Squire im Flug"
+    },
+    {
+      "title": "GoPro bringt Mission-1-Serie: Vorstoß in kompakte Kinokameras",
+      "teaser": "GoPro stellt mit der Mission-1-Serie neue Kameras mit 1-Zoll-Sensor, 8K-Video und Log-Profilen vor und zielt damit über das Actioncam-Segment hinaus.",
+      "url": "https://www.heise.de/news/GoPro-bringt-Mission-1-Serie-Vorstoss-in-kompakte-Kinokameras-11258333.html",
+      "image_title": "Bilder der neuen MIssion-1-Kameras von Go Pro vor dunklem Hintergrund."
+    },
+    {
+      "title": "iWork: Apple zwingt zur Nutzung der Creator-Studio-Versionen",
+      "teaser": "Apple will, dass die Nutzer die Abovarianten seiner Office-Apps nutzen. Die reinen Gratisversionen sind aus dem App Store verschwunden.",
+      "url": "https://www.heise.de/news/iWork-Apple-zwingt-zur-Nutzung-der-Creator-Studio-Versionen-11257688.html",
+      "image_title": "Creator-Studio-Icons"
+    },
+    {
+      "title": "EU-Anbieter schnüren gemeinsames Notsystem bei Cloudabschaltung",
+      "teaser": "Was tun, wenn der Cloudanbieter des Vertrauens in der EU nicht mehr verfügbar ist? Auf dieses Szenario wollen mehrere EU-Unternehmen nun eine Antwort geben.",
+      "url": "https://www.heise.de/news/EU-Anbieter-schnueren-gemeinsames-Notsystem-bei-Cloudabschaltung-11258162.html",
+      "image_title": "Ein Regenschirm schützt ein Hochhaus vor einer Gewitterwolke."
     },
     {
       "title": "Microsoft Office 2021: Support endet am 13. Oktober 2026",
@@ -375,6 +400,11 @@
       "image_title": "Google-App unter Windows"
     },
     {
+      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
+      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
+    },
+    {
       "title": "Stratosphärenluftschiff Sceye HAPS SE2 stellt Flugrekord auf",
       "teaser": "Das solarbetriebene Stratosphärenluftschiff HAPS SE2 hat einen Ausdauertest bestanden. Nach Auswertung der Flugdaten soll ein vorkommerzieller Test beginnen.",
       "url": "https://www.heise.de/news/Stratosphaerenflug-Solarbetriebenes-Luftschiff-stellt-Flugrekord-auf-11257913.html",
@@ -397,11 +427,6 @@
       "teaser": "Schutz für die Lieferkette: Die Eclipse Foundation motiviert Entwickler dazu, Schwachstellen in der Open VSX Registry zu finden – Geld gibt es jedoch nicht.",
       "url": "https://www.heise.de/news/Bugs-ohne-Bounty-Eclipse-Foundation-startet-Sicherheitsprogramm-fuer-Open-VSX-11257225.html",
       "image_title": "Schüssel mit Popcorn"
-    },
-    {
-      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
-      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
     },
     {
       "title": "Ein Claude-Code-Plug-in in einem Nachmittag: Was ich dabei gelernt habe",
@@ -433,34 +458,15 @@
       "image_title": "Drei Gartenzwerge mit Computerausstattung: Tastatur, Maus und Monitor."
     },
     {
-      "title": "Bund fördert Ladepunkten für E-Autos in Mehrparteienhäusern",
+      "title": "Bund fördert Ladepunkte für E-Autos in Mehrparteienhäusern",
       "teaser": "Die Bundesregierung beginnt ein 500-Millionen-Euro-Programm für Ladeinfrastruktur in Mehrparteienhäusern. Anträge sind ab sofort möglich.",
       "url": "https://www.heise.de/news/Elektromobilitaet-Foerderung-von-Ladeinfrastruktur-in-Mehrparteienhaeusern-startet-11257844.html",
       "image_title": "Tiefgarage mit mehreren Autos"
     },
     {
-      "title": "Mittwoch: Warnung vor deutscher Superbehörde, gespeicherte KI-Prompts in Chrome",
-      "teaser": "Risiko durch zentralisierte Kontrolle + Google-Skills für Chrome + Copilot statt ChatGPT in Norwegen + Linux 7.0 mit Neuheiten + Unitree-Roboter als Sprinter",
-      "url": "https://www.heise.de/news/Mittwoch-Warnung-vor-deutscher-Superbehoerde-gespeicherte-KI-Prompts-in-Chrome-11257794.html",
-      "image_title": "Soldaten vor Überwachungsbildschirmen; Mittwoch: Geheimdienste-Überwachung, Chrome-Skills, Rechenzentrum-Mieterwechsel, Linux-Versionssprung & Roboter-Sprinter"
-    },
-    {
-      "title": "Nutzer können KI-Anfragen bald in Chrome speichern für schnelle erneute Nutzung",
-      "teaser": "Chrome erlaubt künftig das Speichern oft genutzter KI-Prompts im Browser, um Nutzern das erneute Eintippen der Befehle zu ersparen. Google nennt dies „Skills“.",
-      "url": "https://www.heise.de/news/Nutzer-koennen-KI-Anfragen-bald-in-Chrome-speichern-fuer-schnelle-erneute-Nutzung-11257784.html",
-      "image_title": "Chrome-Logo auf Laptop-Bildschirm"
-    },
-    {
-      "title": "Microsoft übernimmt Rechenzentrum von OpenAI in Norwegen",
-      "teaser": "Nach Stargate UK in Großbritannien pausiert OpenAI auch sein Stargate-Projekt im norwegischen Polarkreis. Microsoft springt in die Bresche.",
-      "url": "https://www.heise.de/news/Microsoft-uebernimmt-Rechenzentrum-von-OpenAI-in-Norwegen-11257724.html",
-      "image_title": "Germany,-,January,24,2023:,Openai,Logo,On,The,Phone,And"
-    },
-    {
-      "title": "Geheimdienstliche Überwachung: Geplante Superbehörde schürt Spionageängste",
-      "teaser": "Die Bundesregierung will die Kontrolle von BND und Verfassungsschutz zentralisieren. Kritiker warnen vor einem riskanten Datenpool für gegnerische Dienste.",
-      "url": "https://www.heise.de/news/Geheimdienstliche-Ueberwachung-Geplante-Superbehoerde-schuert-Spionageaengste-11257684.html",
-      "image_title": "Transparent mit Mitarbeiterwerbung am Zaun des Bundesnachrichtendienstes in Berlin."
+      "title": "Linux 7.0 erschienen – mehr als ein Nummernsprung",
+      "url": "https://www.heise.de/news/Linux-7-0-erschienen-mehr-als-ein-Nummernsprung-11255745.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
     },
     {
       "title": "Digitaler Ausweis kommt 2027 – Mehrheit der Deutschen ahnungslos",
@@ -471,11 +477,6 @@
       "title": "AlertAngriffe auf sieben Sicherheitslücken beobachtet – eine ist 14 Jahre alt",
       "url": "https://www.heise.de/news/Angriffe-auf-sieben-Sicherheitsluecken-beobachtet-eine-ist-14-Jahre-alt-11255833.html",
       "image_title": "Computer mit Code und Graphen"
-    },
-    {
-      "title": "Google-Play-Update: Neue Funktionen für Android und Google Wallet",
-      "url": "https://www.heise.de/news/Google-Play-Update-Neue-Funktionen-fuer-Android-und-Google-Wallet-11256033.html",
-      "image_title": "Android-Smartphone, auf dem ein Update installiert wird."
     },
     {
       "title": "Unitrees humanoider H1-Roboter erreicht im 100-m-Sprint 10,1 m/s",
@@ -632,14 +633,14 @@
       "url": "https://www.heise.de/en/news/Rockstar-Games-Criminal-gang-publishes-data-11255826.html"
     },
     {
+      "title": "Drei Mikro-USB-Sticks für Smartphone, Tablet und Notebook im Vergleich",
+      "teaser": "Der Speicher vieler Mobilgeräte lässt sich nicht aufrüsten. Ein schneller USB-Stick hilft; mancher Winzling kann gar dauerhaft am Gerät verbleiben.",
+      "url": "https://www.heise.de/tests/Drei-Mikro-USB-Sticks-fuer-Smartphone-Tablet-und-Notebook-im-Vergleich-11203898.html"
+    },
+    {
       "title": "Wi-Fi-7-Router für Glasfaser und DSL im Test: Deutsche Telekom Speedport 7",
       "teaser": "Mit dem Speedport 7 funkt das Magenta-Mesh mit modernem Wi-Fi 7. Wir haben Router und Repeater ausprobiert.",
       "url": "https://www.heise.de/tests/Wi-Fi-7-Router-fuer-Glasfaser-und-DSL-im-Test-Deutsche-Telekom-Speedport-7-11112427.html"
-    },
-    {
-      "title": "Verdrahtungsmission: Verkabeltes Heimnetzwerk selbst verlegen",
-      "teaser": "Steht die nächste Kernsanierung an, muss eine frische Netzwerkinstallation fest auf der Aufgabenliste stehen. Wir geben Ihnen das nötige Grundwissen dafür.",
-      "url": "https://www.heise.de/ratgeber/Verdrahtungsmission-Verkabeltes-Heimnetzwerk-selbst-verlegen-11162805.html"
     },
     {
       "title": "Stromsparmodi im PC: Verstecktes Sparpotenzial nutzen",
@@ -664,7 +665,7 @@
       "image_title": "Sport mit der Apple Watch"
     },
     {
-      "title": "BumpMesh: Kostenloser Browser-Tool für 3D-Druck-Texturen von CNC Kitchen",
+      "title": "BumpMesh: Kostenloses Browser-Tool für 3D-Druck-Texturen von CNC Kitchen",
       "teaser": "Der YouTuber CNC Kitchen hat ein browserbasiertes Werkzeug entwickelt, das Texturen auf 3D-Modelle aufbringt – ohne CAD, ohne teure Software, ohne Account.",
       "url": "https://www.heise.de/news/BumpMesh-Kostenloser-Browser-Tool-fuer-3D-Druck-Texturen-von-CNC-Kitchen-11255303.html",
       "image_title": "BumpMesh GUI"
@@ -747,22 +748,22 @@
       "image_title": "Audi Q3 Sportback"
     },
     {
-      "title": "Das Elend mit den Kraftstoffpreisen",
-      "teaser": "Wenn das kartellrechtliche Verfahren mit dem Ruf nach schnellem Einschreiten in Konflikt gerät, wird eine gesetzeskonforme Lösung schwierig. Wie geht es weiter?",
-      "url": "https://www.heise.de/-11254420",
-      "image_title": "Roter Drehgrgriff für ein Pipeline-Sperrventil vor dem Hintergrund verschwimmender Kursnotierungen"
+      "title": "KIT-Start-up photreon: Wasserstoff aus Sonnenlicht ohne Elektrolyse",
+      "teaser": "Ein KIT-Startup erzeugt Wasserstoff ohne Strom und Elektrolyse – nur mit Sonnenlicht und Wasser. Auf der Hannover Messe zeigt es seinen Ansatz.",
+      "url": "https://www.heise.de/-11256347",
+      "image_title": "Vier Personen stehen und sitzen um eine technische Vorrichtung herum."
     },
     {
-      "title": "Süßen mit wenig Kalorien",
-      "teaser": "Nach Birkenzucker kommt nun Tagatose und verspricht fast die Süße von Zucker. Aber sind die Zuckeraustauchstoffe auch gesund?",
-      "url": "https://www.heise.de/-11252322",
-      "image_title": "Ein Gemisch knatschbuter Süßigkeiten"
+      "title": "Hormus-Blockade: Saudi-Arabien drängt USA an den Verhandlungstisch",
+      "teaser": "Das Königreich fürchtet, Iran könnte die Meerenge Bab al-Mandeb sperren und damit Riads umgeleitete Ölexporte über das Rote Meer gefährden.",
+      "url": "https://www.heise.de/-11257240",
+      "image_title": "Ein großer Supertanker fährt auf dem Meer."
     },
     {
-      "title": "James-Webb-Teleskop liefert stärksten Hinweis auf erste Sterne",
-      "teaser": "Zwei Forscherteams haben mit dem JWST bei der Galaxie GN-z11 Helium- und Wasserstoffsignale entdeckt, die auf die allererste Sternengeneration hindeuten.",
-      "url": "https://www.heise.de/-11256709",
-      "image_title": "Abstrakter Hintergrund mit vertikalen Lichtstrahlen und Sternen."
+      "title": "ASML unter Druck: US-Gesetz will DUV-Export nach China stoppen",
+      "teaser": "Ein neuer US-Gesetzentwurf zielt auf DUV-Technologie von ASML. China droht der Verlust seiner wichtigsten Ausrüstung zur Chipfertigung.",
+      "url": "https://www.heise.de/-11254574",
+      "image_title": "Das ASML-Logo steht an der Fassade des modernen Firmengebäudes"
     },
     {
       "title": "Remote-Assistenz bei Robotaxis: Wie autonom sind Waymo und Co. wirklich?",

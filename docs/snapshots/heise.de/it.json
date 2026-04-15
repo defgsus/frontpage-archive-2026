@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T10:05:21",
+  "timestamp": "2026-04-15T11:44:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,15 +20,47 @@
   ],
   "articles": [
     {
+      "title": "WireGuard: Update für Windows-Client nach vier Jahren",
+      "teaser": "Nachdem Probleme mit der Treibersignierung durch Blockade von Microsoft gelöst wurden, ist nun WireGuard 0.6.1 für Windows erschienen.",
+      "url": "https://www.heise.de/news/WireGuard-Update-fuer-Windows-Client-nach-vier-Jahren-11258784.html",
+      "image_title": "WireGuard-Versionsdialog vor blauem Mosaik-Hintergrund"
+    },
+    {
+      "title": "Partitionierung unter Windows: Echter Überblick per c’t-Skript",
+      "teaser": "Im Explorer erscheint Windows auf Laufwerk C:, doch es gibt weitere Laufwerke, die hier nicht erscheinen. Ein Skript zeigt, wie es wirklich ist.",
+      "url": "https://www.heise.de/ratgeber/Partitionierung-unter-Windows-Echter-Ueberblick-per-c-t-Skript-11215580.html"
+    },
+    {
+      "title": "Marktanalyse: Wertvollste Quantenfirmen nicht zwangsläufig die besten",
+      "teaser": "Eine Analyse von 27 Quantenhardware-Anbietern zeigt, dass Reife und Marktwert oftmals auseinanderklaffen. Gerade deutsche Firmen überraschen.",
+      "url": "https://www.heise.de/hintergrund/Marktanalyse-Wertvollste-Quantenfirmen-nicht-zwangslaeufig-die-besten-11258106.html",
+      "image_title": "Experiment bei planqc"
+    },
+    {
+      "title": "Prompt-Injection-Angriffe auf Apple Intelligence",
+      "teaser": "Die Sprachmodelle von Apple sind potenziell angreifbar. Forscher zeigen mehrere neue Methoden.",
+      "url": "https://www.heise.de/news/Prompt-Injection-Angriffe-auf-Apple-Intelligence-11257658.html",
+      "image_title": "Symbolbild Prompt Injection"
+    },
+    {
+      "title": "HintergrundMarktanalyse: Wertvollste Quantenfirmen nicht zwangsläufig die besten",
+      "url": "https://www.heise.de/hintergrund/Marktanalyse-Wertvollste-Quantenfirmen-nicht-zwangslaeufig-die-besten-11258106.html",
+      "image_title": "Experiment bei planqc"
+    },
+    {
+      "title": "TestsAlternative Suchmaschinen: Brave Search, SearXNG und Swisscows im Detail",
+      "url": "https://www.heise.de/tests/Alternative-Suchmaschinen-Brave-Search-SearXNG-und-Swisscows-im-Detail-11192914.html"
+    },
+    {
+      "title": "HintergrundPrompten statt Coden: So geht das mit Apples Xcode",
+      "url": "https://www.heise.de/hintergrund/Prompten-statt-Coden-So-geht-das-mit-Apples-Xcode-11255049.html",
+      "image_title": "Entwickeln mit KI"
+    },
+    {
       "title": "c’t-Workshop: DHCP-Automatisierung mit Kea und Stork",
       "teaser": "Im Workshop lernen Admins, Kea-DHCP und Stork in automatisierte Netzwerkumgebungen einzubinden – von der Installation über Hochverfügbarkeit bis zum Monitoring.",
       "url": "https://www.heise.de/news/c-t-Workshop-DHCP-Automatisierung-mit-Kea-und-Stork-11255781.html",
       "image_title": "Zwei bunte Vögel sitzen auf zwei übereinander gestapelten Servern vor orangefarbenem Hintergrund"
-    },
-    {
-      "title": "Drei Mikro-USB-Sticks für Smartphone, Tablet und Notebook im Vergleich",
-      "teaser": "Der Speicher vieler Mobilgeräte lässt sich nicht aufrüsten. Ein schneller USB-Stick hilft; mancher Winzling kann gar dauerhaft am Gerät verbleiben.",
-      "url": "https://www.heise.de/tests/Drei-Mikro-USB-Sticks-fuer-Smartphone-Tablet-und-Notebook-im-Vergleich-11203898.html"
     },
     {
       "title": "Raspberry Pi OS 6.2: Update verspricht mehr Sicherheit",
@@ -41,20 +73,6 @@
       "teaser": "Apple will, dass die Nutzer die Abovarianten seiner Office-Apps nutzen. Die reinen Gratisversionen sind aus dem App Store verschwunden.",
       "url": "https://www.heise.de/news/iWork-Apple-zwingt-zur-Nutzung-der-Creator-Studio-Versionen-11257688.html",
       "image_title": "Creator-Studio-Icons"
-    },
-    {
-      "title": "TestsAlternative Suchmaschinen: Brave Search, SearXNG und Swisscows im Detail",
-      "url": "https://www.heise.de/tests/Alternative-Suchmaschinen-Brave-Search-SearXNG-und-Swisscows-im-Detail-11192914.html"
-    },
-    {
-      "title": "HintergrundPrompten statt Coden: So geht das mit Apples Xcode",
-      "url": "https://www.heise.de/hintergrund/Prompten-statt-Coden-So-geht-das-mit-Apples-Xcode-11255049.html",
-      "image_title": "Entwickeln mit KI"
-    },
-    {
-      "title": "RatgeberKI-Assistent Heinzel für die Server-Administration im Überblick",
-      "url": "https://www.heise.de/ratgeber/KI-Assistent-Heinzel-fuer-die-Server-Administration-im-Ueberblick-11244463.html",
-      "image_title": "Drei Gartenzwerge mit Computerausstattung: Tastatur, Maus und Monitor."
     },
     {
       "title": "EU-Anbieter schnüren gemeinsames Notsystem bei Cloudabschaltung",
@@ -116,7 +134,7 @@
     },
     {
       "title": "Tipp: Verwaiste Songs aus der Musik-App entfernen",
-      "teaser": "Wer bei Aufräumaktionen auf der SSD Musik löscht, steht womöglich mit einer unvollständigen Musik-App-Datenbank dar. So bereinigen Sie diese wieder.",
+      "teaser": "Wer bei Aufräumaktionen auf der SSD Musikdateien im Finder löscht, steht womöglich mit einer inkonsistenten Musikmediathek da. So bereinigen Sie diese wieder.",
       "url": "https://www.heise.de/ratgeber/Tipp-Verwaiste-Songs-aus-der-Musik-App-entfernen-11253505.html",
       "image_title": "Apple Music auf dem Mac"
     },
@@ -125,23 +143,6 @@
       "teaser": "Plug-ins für KI-Coding-Tools klingen nach komplexer Infrastruktur. In der Praxis reichen Markdown-Dateien und eine HTTP-API.",
       "url": "https://www.heise.de/blog/Ein-Claude-Code-Plug-in-in-einem-Nachmittag-Was-ich-dabei-gelernt-habe-11229448.html",
       "image_title": "Weiße Puzzleteile auf blauem Hintergrund"
-    },
-    {
-      "title": "AlertFortinet stopft 18 Sicherheitslecks",
-      "teaser": "Insgesamt 18 Sicherheitsnotizen hat Fortinet in der Nacht zum Mittwoch veröffentlicht. Sie behandeln teils kritische Lücken.",
-      "url": "https://www.heise.de/news/Fortinet-stopft-18-Sicherheitslecks-11257883.html",
-      "image_title": "Fortinet,Technologies,Logo,Sign,On,The,Building.,Ottawa,,On,,Canada"
-    },
-    {
-      "title": "AlertPatchday: Angreifer attackieren Edge und Microsoft SharePoint Server",
-      "teaser": "Aufgrund von laufenden Attacken auf Edge und SharePoint Server sollten Admins sicherstellen, dass die aktuellen Microsoft-Sicherheitsupdates installiert sind.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Edge-und-Microsoft-SharePoint-Server-11257867.html",
-      "image_title": "Windows-Logo mit Riss"
-    },
-    {
-      "title": "AlertWarnung vor Attacken auf 17 Jahre alte Excel-Lücke",
-      "teaser": "Die US-Cybersicherheitsbehörde warnt vor beobachteten Angriffen auf eine uralte Excel-Lücke. Auch SharePoint wird angegriffen.",
-      "url": "https://www.heise.de/news/Warnung-vor-Attacken-auf-17-Jahre-alte-Excel-Luecke-11257838.html"
     },
     {
       "title": "NewsFraunhofer entwickelt leichten leistungsstarken Elektromotor für Flugzeuge",
