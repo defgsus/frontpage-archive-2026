@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-16T11:49:17",
+  "timestamp": "2026-04-16T12:59:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertCiscoKritische Codeschmuggel-Lücken in ISE und mehr geschlossen",
+      "teaser": "In Ciscos Identity Services Engine sowie Webex klaffen kritische Sicherheitslücken. Insgesamt stopfen die Entwickler 10 Sicherheitslecks.",
+      "url": "https://www.heise.de/news/Cisco-Kritische-Codeschmuggel-Luecken-in-ISE-und-mehr-geschlossen-11259815.html",
+      "image_title": "view of Cisco company logo with selective focus."
+    },
+    {
       "title": "WireGuardUpdate für Windows-Client nach vier Jahren",
       "teaser": "Nachdem Probleme mit der Treibersignierung durch Blockade von Microsoft gelöst wurden, ist nun WireGuard 0.6.1 für Windows erschienen.",
       "url": "https://www.heise.de/news/WireGuard-Update-fuer-Windows-Client-nach-vier-Jahren-11258784.html",
       "image_title": "WireGuard-Versionsdialog vor blauem Mosaik-Hintergrund"
     },
     {
-      "title": "Neue Demo des Flipper OneTech-Gadget hat DisplayPort und Ethernet-Buchse",
-      "teaser": "In einem Video zeigt Erfinder Pavel Zhovner einen funktionierenden Prototypen. Und der taugt auch als Ethernet-Adapter fürs Smartphone.",
-      "url": "https://www.heise.de/news/Neue-Demo-des-Flipper-One-Tech-Gadget-hat-DisplayPort-und-Ethernet-Buchse-11257021.html",
-      "image_title": "Prototyp des Flipper One"
-    },
-    {
-      "title": "AlertAnonymisierendes Linux: Notfallupdate auf Tails 7.6.2 schließt Flatpak-Lücke",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Notfallupdate-auf-Tails-7-6-2-schliesst-Flatpak-Luecke-11260152.html",
-      "image_title": "Desktop von Tails 7.6.2 auf Notebook"
+      "title": "AlertGimp: Ungepatchte Lücke erlaubt Codeschmuggel mit GIFs",
+      "url": "https://www.heise.de/news/Gimp-Ungepatchte-Luecke-erlaubt-Codeschmuggel-mit-GIFs-11260619.html",
+      "image_title": "Gimp 3.2 Splashscreen neben Achtung-Schild auf blauem Mosaik-Hintergrund"
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -49,6 +49,18 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "Android Canary: Google testet überarbeitetes Kontextmenü für App-Icons",
+      "teaser": "In der aktuellen Android-Canary-Version testet Google ein kompakteres, zweigeteiltes Kontextmenü für App-Icons sowie eine neue Benachrichtigungsanzeige.",
+      "url": "https://www.heise.de/news/Android-Canary-Google-testet-ueberarbeitetes-Kontextmenue-fuer-App-Icons-11260688.html",
+      "image_title": "Pixel-Smartphone mit neuen Kontextmenue"
+    },
+    {
+      "title": "AlertGimp: Ungepatchte Lücke erlaubt Codeschmuggel mit GIFs",
+      "teaser": "Sicherheitslücken in Gimp erlauben das Einschleusen von Schadcode mit manipulierten Dateien wie GIFs. Noch gibt es kein Update.",
+      "url": "https://www.heise.de/news/Gimp-Ungepatchte-Luecke-erlaubt-Codeschmuggel-mit-GIFs-11260619.html",
+      "image_title": "Gimp 3.2 Splashscreen neben Achtung-Schild auf blauem Mosaik-Hintergrund"
+    },
+    {
       "title": "AlertAnonymisierendes Linux: Notfallupdate auf Tails 7.6.2 schließt Flatpak-Lücke",
       "teaser": "Eine Sicherheitslücke in Flatpak ist Auslöser für ein Notfallupdate für die Linux-Distribution Tails, die anonymes Surfen ermöglicht.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Notfallupdate-auf-Tails-7-6-2-schliesst-Flatpak-Luecke-11260152.html",
@@ -59,12 +71,6 @@
       "teaser": "Der Open-Source-Netzwerkmonitor Sniffnet ordnet Traffic nun einzelnen Programmen zu. Version 1.5.0 bringt zudem Blacklists und Adapter-Vorschauen.",
       "url": "https://www.heise.de/news/Sniffnet-1-5-Welches-Programm-funkt-nach-Hause-11259379.html",
       "image_title": "Übersicht einer Netzwerk-Monitoring-Anwendung mit Traffic-Rate, Netzwerk-Hosts, Diensten und Programmen."
-    },
-    {
-      "title": "AlertCisco: Kritische Codeschmuggel-Lücken in ISE und mehr geschlossen",
-      "teaser": "In Ciscos Identity Services Engine sowie Webex klaffen kritische Sicherheitslücken. Insgesamt stopfen die Entwickler 10 Sicherheitslecks.",
-      "url": "https://www.heise.de/news/Cisco-Kritische-Codeschmuggel-Luecken-in-ISE-und-mehr-geschlossen-11259815.html",
-      "image_title": "view of Cisco company logo with selective focus."
     },
     {
       "title": "iX-Workshop: Cloud Security Masterclass – Angriff und Verteidigung in AWS",
@@ -135,12 +141,6 @@
       "teaser": "Wichtige Sicherheitsupdates schließen Schwachstellen in Anwendungen von Adobe. Weil viele Lücken kritisch sind, sollten Admins zeitnah handeln.",
       "url": "https://www.heise.de/news/Adobe-Patchday-Kritische-Schadcode-Luecken-bedrohen-Photoshop-Co-11257985.html",
       "image_title": "Aufmacher Adobe Patchday"
-    },
-    {
-      "title": "Bugs ohne Bounty: Eclipse Foundation startet Sicherheitsprogramm für Open VSX",
-      "teaser": "Schutz für die Lieferkette: Die Eclipse Foundation motiviert Entwickler dazu, Schwachstellen in der Open VSX Registry zu finden – Geld gibt es jedoch nicht.",
-      "url": "https://www.heise.de/news/Bugs-ohne-Bounty-Eclipse-Foundation-startet-Sicherheitsprogramm-fuer-Open-VSX-11257225.html",
-      "image_title": "Schüssel mit Popcorn"
     },
     {
       "title": "Workshop | 4. – 6.5.2026Cyberabwehr mit Microsoft Defender XDR – Roll-out, Konfiguration, Nutzung",
