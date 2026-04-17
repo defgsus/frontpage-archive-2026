@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T08:19:20",
+  "timestamp": "2026-04-17T10:02:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,19 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertVom BlueHammer-AutorNeuer Windows-Zeroday verschafft Adminrechte",
-      "teaser": "Der ungepatchte Exploit nutzt ein unsicheres Verhalten des Windows Defender und eines Datei-API, um sich Systemrechte zu sichern.",
-      "url": "https://www.heise.de/news/Vom-BlueHammer-Autor-Neuer-Windows-Zeroday-verschafft-Adminrechte-11260913.html"
+      "title": "Windows-UpdatesUnerwartete Server-Reboots und Anmeldestörungen",
+      "teaser": "Die Updates für Windows Server im April haben Nebenwirkungen. Server starten unerwartet neu oder erlauben keine Admin-Anmeldungen.",
+      "url": "https://www.heise.de/news/Windows-Updates-Unerwartete-Server-Reboots-und-Anmeldestoerungen-11261652.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
-      "title": "AlertUpdateGimp 3.2.2Update schließt Lücke die Codeschmuggel mit GIFs erlaubt",
-      "teaser": "Sicherheitslücken in Gimp erlauben das Einschleusen von Schadcode mit manipulierten Dateien wie GIFs. Version 3.2.2 schließt sie.",
-      "url": "https://www.heise.de/news/Gimp-Ungepatchte-Luecke-erlaubt-Codeschmuggel-mit-GIFs-11260619.html",
-      "image_title": "Gimp 3.2 Splashscreen neben Achtung-Schild auf blauem Mosaik-Hintergrund"
+      "title": "Anthropics Mythos und die FolgenDie Vulnocalypse kommt – so bereiten Sie sich auf KI-Angriffe vor",
+      "teaser": "Alle Welt diskutiert, wie gefährlich Anthropics neue KI sein könnte. Jürgen Schmidt von heise security erklärt lieber, was zu tun ist.",
+      "url": "https://www.heise.de/hintergrund/Analyse-Vom-Mythos-zur-Vulnocalypse-und-was-jetzt-wirklich-zu-tun-ist-11260797.html",
+      "image_title": "Flammen auf der Tastatur eines brennenden Laptops"
     },
     {
-      "title": "AlertJetzt patchen nginx-ui! Angreifer übernehmen Kontrolle über Nginx-Server",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-uebernehmen-Kontrolle-ueber-Nginx-Server-11261670.html"
+      "title": "AlertAngreifer attackieren Apache ActiveMQ Broker, Apache ActiveMQ",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Apache-ActiveMQ-Broker-Apache-ActiveMQ-11262046.html",
+      "image_title": "Anzeige \"Attack successfull\" auf Bildschirm"
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -47,22 +49,22 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertAngreifer attackieren Apache ActiveMQ Broker, Apache ActiveMQ",
+      "teaser": "Admins sollten zügig die gegen derzeit laufende Attacken gerüsteten Versionen von Apache ActiveMQ Broker und Apache ActiveMQ installieren.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Apache-ActiveMQ-Broker-Apache-ActiveMQ-11262046.html",
+      "image_title": "Anzeige \"Attack successfull\" auf Bildschirm"
+    },
+    {
+      "title": "Ärger mit aktueller NordVPN-App für macOS",
+      "teaser": "User des VPN-Dienstes aus Litauen melden seit dem Upgrade auf Version 10.0 Verbindungs- und Bedienungsprobleme beim Mac-Client. 10.0.4 soll es richten.",
+      "url": "https://www.heise.de/news/Aerger-mit-aktueller-NordVPN-App-fuer-macOS-11261205.html",
+      "image_title": "Nutzung von NordVPN (Symbolbild)"
+    },
+    {
       "title": "Amazon: Ring-Kameras jetzt mit optionaler Gesichtserkennung",
       "teaser": "Auch in Deutschland können Ring-Kameras nun Gesichter erkennen und Nutzer darüber informieren. Die Option ist standardmäßig deaktiviert.",
       "url": "https://www.heise.de/news/Amazon-Ring-Kameras-jetzt-mit-optionaler-Gesichtserkennung-11261769.html",
       "image_title": "Ring-Kamera an Hauswand"
-    },
-    {
-      "title": "Analyse: Vom Mythos zur Vulnocalypse und was jetzt wirklich zu tun ist",
-      "teaser": "Alle Welt redet darüber, wie gefährlich Anthropics neue KI sein könnte. Jürgen Schmidt von heise security konzentriert sich lieber darauf, was jetzt zu tun ist.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Vom-Mythos-zur-Vulnocalypse-und-was-jetzt-wirklich-zu-tun-ist-11260797.html",
-      "image_title": "Flammen auf der Tastatur eines brennenden Laptops"
-    },
-    {
-      "title": "Windows-Updates: Unerwartete Server-Reboots und Anmeldestörungen",
-      "teaser": "Die Updates für Windows Server im April haben Nebenwirkungen. Server starten unerwartet neu oder erlauben keine Admin-Anmeldungen.",
-      "url": "https://www.heise.de/news/Windows-Updates-Unerwartete-Server-Reboots-und-Anmeldestoerungen-11261652.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
     },
     {
       "title": "AlertJetzt patchen nginx-ui! Angreifer übernehmen Kontrolle über Nginx-Server",
@@ -100,10 +102,21 @@
       "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
     },
     {
+      "title": "AlertVom BlueHammer-Autor: Neuer Windows-Zeroday verschafft Adminrechte",
+      "teaser": "Der Exploit nutzt ausgerechnet ein unsicheres Verhalten des Windows Defender und eines Datei-API, um sich Systemrechte zu sichern. Er ist noch ungepatcht.",
+      "url": "https://www.heise.de/news/Vom-BlueHammer-Autor-Neuer-Windows-Zeroday-verschafft-Adminrechte-11260913.html"
+    },
+    {
       "title": "ÖPNV-Expressmodus-Funktion beim iPhone: YouTuber zeigen potenziellen Angriff",
       "teaser": "Mit dem Expressmodus kann man in U-Bahn-Systemen wie in London oder New York schnell sein Ticket per NFC bezahlen. Besteht hier eine Sicherheitslücke?",
       "url": "https://www.heise.de/news/OePNV-Expressmodus-Funktion-beim-iPhone-YouTuber-zeigen-potenziellen-Angriff-11260078.html",
       "image_title": "Angriff auf den Expressmodus"
+    },
+    {
+      "title": "AlertUpdateGimp: Version 3.2.2 schließt Codeschmuggel-Lücke mit GIFs",
+      "teaser": "Sicherheitslücken in Gimp erlauben das Einschleusen von Schadcode mit manipulierten Dateien wie GIFs. Version 3.2.2 schließt sie.",
+      "url": "https://www.heise.de/news/Gimp-Ungepatchte-Luecke-erlaubt-Codeschmuggel-mit-GIFs-11260619.html",
+      "image_title": "Gimp 3.2 Splashscreen neben Achtung-Schild auf blauem Mosaik-Hintergrund"
     },
     {
       "title": "AlertAnonymisierendes Linux: Notfallupdate auf Tails 7.6.2 schließt Flatpak-Lücke",
@@ -128,18 +141,6 @@
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Cloud-Security-Masterclass-Angriff-und-Verteidigung-in-AWS-11246638.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "AlertChrome-Update stopft 31 Sicherheitslücken, davon fünf kritische",
-      "teaser": "Updates für Google Chrome aus der Nacht zum Donnerstag schließen 31 Sicherheitslücken. Fünf davon gelten als kritisches Risiko.",
-      "url": "https://www.heise.de/news/Chrome-Update-stopft-31-Sicherheitsluecken-davon-fuenf-kritische-11259775.html",
-      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
-    },
-    {
-      "title": "21. BSI-Sicherheitskongress: NIS-2-Umsetzung weit hinter den Erwartungen",
-      "teaser": "Die Richtlinie ist noch immer zu unbekannt und Unternehmen ignorieren die Registrierungspflicht, konstatiert das BSI auf seinem Jahreskongress.",
-      "url": "https://www.heise.de/news/21-BSI-Sicherheitskongress-NIS-2-Umsetzung-weit-hinter-den-Erwartungen-11259349.html",
-      "image_title": "Eingang des BSI"
     },
     {
       "title": "Workshop | 4. – 6.5.2026Cyberabwehr mit Microsoft Defender XDR – Roll-out, Konfiguration, Nutzung",
@@ -195,12 +196,12 @@
       "url": "https://www.heise.de/news/Ueberwachung-gegen-Ladendiebstahl-Einzelhandel-fordert-digitale-Aufruestung-11253325.html"
     },
     {
-      "title": "Gelöschte Signal-Daten von FBI extrahiert",
-      "url": "https://www.heise.de/news/iOS-Geloeschte-Signal-Daten-von-FBI-via-Benachrichtigungsdatenbank-extrahiert-11251856.html"
-    },
-    {
       "title": "Linux 7.0 erschienen – mehr als ein Nummernsprung",
       "url": "https://www.heise.de/news/Linux-7-0-erschienen-mehr-als-ein-Nummernsprung-11255745.html"
+    },
+    {
+      "title": "Identität bleibt geheim: EU-App für Altersnachweis kommt",
+      "url": "https://www.heise.de/news/EU-Ausweis-App-fuer-Minderjaehrige-EU-Kommission-macht-Ernst-beim-Jugendschutz-11259317.html"
     }
   ]
 }
