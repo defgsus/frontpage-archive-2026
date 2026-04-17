@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T04:38:46",
+  "timestamp": "2026-04-17T06:27:25",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "Deutsche Bank mit Schwächen: Wo Deutschlands Bankenprimus noch nachlegen muss",
+      "teaser": "Das Privatkundengeschäft der Deutschen Bank liefert derzeit nur 30 Prozent der Konzernerträge. Selbst in der amerikanischen Investmentbank Morgan Stanley hat das Geschäft mit vermögenden Kunden ein höheres Gewicht. Woran liegt das?",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-mit-schwaechen-relativ-zu-morgan-stanley-200738063.html"
+    },
+    {
       "title": "Edelmetall: Gold zeigt die Welt im Ausnahmezustand",
       "teaser": "Der Goldpreis zeigt, wohin die Welt treibt. Die Antwort ist allerdings keine angenehme.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/wie-geht-es-mit-dem-goldpreis-weiter-200734860.html"
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/wie-geht-es-mit-dem-goldpreis-weiter-200734860.html",
+      "image_url": "https://media0.faz.net/image/w730/71e0ab0b0183/w4307h2423x0y266/202604/43601.0.1983228779/am-golde-haengt-doch-alles.webp",
+      "image_title": "Am Golde hängt doch alles."
     },
     {
       "title": "2,6 Prozent: Inflation höher als gedacht",
@@ -94,13 +101,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/grossbritannien-begibt-anleihe-zu-rekordzins-accg-200731656.html",
       "image_url": "https://media0.faz.net/image/w730/31daa6c8c1a1/w3000h1687x0y114/202503/43601.0.929200224/wertpapierhaendler-an-der.webp",
       "image_title": "Wertpapierhändler an der Börse in Frankfurt"
-    },
-    {
-      "title": "Hochvermögende Privatkunden: So will die Deutsche Bank reiche Privatleute besser betreuen",
-      "teaser": "Die Deutsche Bank ist im Geschäft mit reichen Privatleuten (WM) in Deutschland Marktführer, bleibt aber unter ihren Möglichkeiten. Raffael Gasser, Leiter des WM-Geschäftes, erklärt, wie er das ändern will.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/gasser-will-in-der-deutschen-bank-zusammenspiel-mit-der-unternehmenssparte-verbessern-accg-200735804.html",
-      "image_url": "https://media0.faz.net/image/w730/69d152e0a478/w6000h3375x0y478/202604/43601.0.1959989655/die-zwillingstuerme-der.webp",
-      "image_title": "Die Zwillingstürme der Deutschen Bank harmonieren wie Soll und Haben. So soll es auch zwischen der Unternehmensssparte und der Vermögensverwaltung für reiche Privatkunden werden."
     },
     {
       "title": "Trade Republic: Bereit zu wachsen",
@@ -173,18 +173,18 @@
       "image_title": "Christian Siedenbiedel"
     },
     {
+      "title": "Hochvermögende Privatkunden: So will die Deutsche Bank reiche Privatleute besser betreuen",
+      "teaser": "Die Deutsche Bank ist im Geschäft mit reichen Privatleuten (WM) in Deutschland Marktführer, bleibt aber unter ihren Möglichkeiten. Raffael Gasser, Leiter des WM-Geschäftes, erklärt, wie er das ändern will.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/gasser-will-in-der-deutschen-bank-zusammenspiel-mit-der-unternehmenssparte-verbessern-accg-200735804.html",
+      "image_url": "https://media0.faz.net/image/w920/69d152e0a478/w6000h3375x0y478/202604/43601.0.1959989655/die-zwillingstuerme-der.webp",
+      "image_title": "Die Zwillingstürme der Deutschen Bank harmonieren wie Soll und Haben. So soll es auch zwischen der Unternehmensssparte und der Vermögensverwaltung für reiche Privatkunden werden."
+    },
+    {
       "title": "FAZ+Neue Zwölf-Uhr-Regel: Wann Autofahrer nun am billigsten tanken",
       "teaser": "Die neue Regel für Preiserhöhungen an Tankstellen verändert, wann man im Tagesablauf am teuersten und wann am billigsten tankt. Was Autofahrer jetzt wissen müssen.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/wann-autofahrer-jetzt-am-billigsten-tanken-200733229.html",
       "image_url": "https://media0.faz.net/image/w920/68aee9694e5c/w6144h3456x0y320/202604/43601.0.1975926304/puenktlich-um-zwoelf-uhr.webp",
       "image_title": "Pünktlich um zwölf Uhr ändern sich jetzt immer die Spritpreise."
-    },
-    {
-      "title": "US-Banken mit Quartalsbilanzen: Morgan Stanley und Bofa glänzen",
-      "teaser": "Morgan Stanley erreicht einen höheren Quartalsgewinn als der größere Rivale Goldman Sachs. Auch die Bank of America profitiert von einem gut laufenden Investmentbanking.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/morgan-stanley-und-bofa-glaenzen-mit-quartalszahlen-200734327.html",
-      "image_url": "https://media0.faz.net/image/w920/1aef1bf39a26/w6003h3377x0y313/202603/43601.0.1847144525/hier-arbeitet-morgan-stanley.webp",
-      "image_title": "Hier arbeitet Morgan Stanley in New York."
     },
     {
       "title": "FAZ+Rolex & Co.: „Viele Schweizer Uhren sind zu teuer“",
@@ -215,10 +215,17 @@
       "image_title": "Lufthansa-Chef Carsten Spohr: „Lufthansa ist aus Krisen immer wieder gestärkt hervorgegangen.“"
     },
     {
+      "title": "premium Intelligent investieren: Warum ein Sicherheitspuffer über Ihre Rendite entscheidet",
+      "teaser": "Mit „Value Investing“ versuchen Investoren wie Warren Buffet Aktien zu kaufen, wenn der Kurs klar unter dem Wert liegt. Intensive Suche und schnelle Entscheidungen sind gefragt.",
+      "url": "https://www.faz.net/premium/meine-finanzen/vermoegensaufbau/value-investing-wie-der-sicherheitspuffer-die-rendite-beeinflusst-accg-200724816.html",
+      "image_url": "https://media0.faz.net/image/w920/8506ed46aa74/w3084h1321x0y164/202208/43600.0.1082820791/beim-investieren-kann-anlegern.webp",
+      "image_title": "Beim Investieren kann Anlegern ein Sicherheitspuffer dabei helfen, Fehler zu vermeiden."
+    },
+    {
       "title": "premium Zum Tod von Mark Mobius: Schwellenländeraktien erholen sich von Kriegsschrecken",
       "teaser": "Schwellenländeraktien waren vor dem Irankrieg stark gefragt. Danach wurde es holprig. Doch die Argumente des nun verstorbenen „Schwellenländer-Gurus“ Mark Mobius werden weiter gehört.",
       "url": "https://www.faz.net/premium/meine-finanzen/aktien/schwellenlaenderaktien-erholen-sich-vom-kriegschrecken-200737423.html",
-      "image_url": "https://media0.faz.net/image/w920/2c2a618afa92/w5020h2151x0y1021/202604/43601.0.1986801801/schwellenlaender-haben-eine.webp",
+      "image_url": "https://media0.faz.net/image/w730/11f2b9dc626c/w5020h2824x0y516/202604/43601.0.1986801801/schwellenlaender-haben-eine.webp",
       "image_title": "Schwellenländer haben eine sehr große Dynamik. Inwieweit das für China noch zutrifft, ist umstritten."
     },
     {
@@ -229,16 +236,17 @@
       "image_title": "Die französische Bank Crédit Agricole geht in Deutschland digital auf Privatkundenfang – kurz bevor die US-Bank JP Morgan voraussichtlich im zweiten Quartal 2026 eine digitale Bank für Konsumenten eröffnen wird."
     },
     {
-      "title": "premium Geldsystem: Wer kontrolliert das neue digitale Geld?",
-      "url": "https://www.faz.net/premium/meine-finanzen/vorsorge/wer-kontrolliert-das-neue-digitale-geld-accg-200725490.html",
-      "image_url": "https://media0.faz.net/image/w730/917002a0b2ad/w3897h2192x0y294/202604/509abae0-1621-4314-a29e-c3f0510d9ece/die-ezb-ist-die-hueterin-des.webp",
-      "image_title": "Die EZB ist die Hüterin des Geldes. Aber trifft das auch auf den digitalen Euro zu?"
+      "title": "US-Banken mit Quartalsbilanzen: Morgan Stanley und Bofa glänzen",
+      "teaser": "Morgan Stanley erreicht einen höheren Quartalsgewinn als der größere Rivale Goldman Sachs. Auch die Bank of America profitiert von einem gut laufenden Investmentbanking.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/morgan-stanley-und-bofa-glaenzen-mit-quartalszahlen-200734327.html",
+      "image_url": "https://media0.faz.net/image/w920/b3eaff7e6eaf/w6003h2572x0y714/202603/43601.0.1847144525/hier-arbeitet-morgan-stanley.webp",
+      "image_title": "Hier arbeitet Morgan Stanley in New York."
     },
     {
       "title": "FAZ+Hoher Ölpreis: Mit der Aktie von Saudi Aramco vom Krieg profitieren",
       "teaser": "Der Ölriese Saudi Aramco leidet zwar unter dem Irankrieg, aber er profitiert vom hohen Ölpreis. Analysten raten mehrheitlich zum Kauf der Aktie. Aber das ist für Privatanleger gar nicht so einfach.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/geldanlage-mit-der-aktie-von-saudi-aramco-vom-krieg-profitieren-200729345.html",
-      "image_url": "https://media0.faz.net/image/w920/7c1a7d0e6470/w5083h2178x0y605/202106/43600.0.217681465/mitarbeiter-von-saudi-aramco.webp",
+      "image_url": "https://media0.faz.net/image/w730/d76dd9eaee53/w5083h2859x0y265/202106/43600.0.217681465/mitarbeiter-von-saudi-aramco.webp",
       "image_title": "Mitarbeiter von Saudi Aramco kontrolliert eine Ölanlage."
     },
     {
@@ -247,13 +255,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/sparkassen-verkaufen-2025-so-viele-deka-fonds-wie-nie-200730291.html",
       "image_url": "https://media0.faz.net/image/w730/39ceafd8889f/w6144h3456x0y355/202604/43601.0.1979055677/zentrale-der-deka-in-frankfurt.webp",
       "image_title": "Zentrale der Deka in Frankfurt: Das Institut hat in einem Jahr Wertpapiere für 41 Milliarden Euro verkauft."
-    },
-    {
-      "title": "Irankrieg versus Steuersenkung: So teuer werden Öl und Benzin jetzt in Deutschland",
-      "teaser": "An den Tankstellen in Deutschland gibt es noch mal einen kräftigen Preissprung. Entlastung soll die Steuersenkung bringen. Was können Verbraucher in nächster Zeit erwarten?",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/irankrieg-versus-steuersenkung-so-teuer-werden-jetzt-benzin-und-diesel-200725519.html",
-      "image_url": "https://media0.faz.net/image/w730/fb21fc37b868/w5133h2887x0y535/202604/43601.0.1941448567/jeden-tag-eine-neue.webp",
-      "image_title": "Jeden Tag eine neue Überraschung an der Tankstelle"
     }
   ]
 }
