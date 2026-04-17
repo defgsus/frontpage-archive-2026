@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-17T11:40:50",
+  "timestamp": "2026-04-17T12:51:21",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Core 300: Intel stellt Billigprozessor Wildcat Lake vor",
+      "teaser": "Intel legt eine Mini-Version von Panther Lake auf. Wildcat Lake ist mit sechs Kernen für günstige Notebooks gedacht.",
+      "url": "https://www.heise.de/news/Core-300-Intel-stellt-Billigprozessor-Wildcat-Lake-vor-11262501.html",
+      "image_title": "Renderbild eines nackten Prozessors vor blauem Hintergrund"
+    },
+    {
+      "title": "OpenAI kontert Anthropic mit großem Codex-Update",
+      "teaser": "OpenAI rüstet Codex auf: Der Assistent steuert nun andere Apps, merkt sich Vorlieben und übernimmt laufende Arbeit im Hintergrund.",
+      "url": "https://www.heise.de/news/OpenAI-kontert-Anthropic-mit-grossem-Codex-Update-11262364.html",
+      "image_title": "OpenAI-Logo auf Bildschirm, davor Hand mit Smartphone in Silhouette"
+    },
+    {
       "title": "Apple erhöht Recycling-Anteil in Produkten – aber immer noch nur bei 30 Prozent",
       "teaser": "Es gibt durchaus Materialien, bei denen Apple zu 100 Prozent auf Recyclinganteil setzt. Über die gesamte Produktpalette hinweg sind es jetzt 30 Prozent.",
       "url": "https://www.heise.de/news/Apple-erhoeht-Recycling-Anteil-in-Produkten-aber-immer-noch-nur-bei-30-Prozent-11262217.html",
@@ -27,21 +39,9 @@
     },
     {
       "title": "Trotz Kritik unverändertE-Auto-Prämie passiert Bundestag",
-      "teaser": "Die neue Kaufprämie für E-Autos tritt wie angekündigt rückwirkend ab Jahresanfang in Kraft. Das beschloss der Bundestag, nicht ohne Kritik von den Grünen.",
+      "teaser": "Die neue Kaufprämie für E-Autos tritt wie angekündigt rückwirkend ab Jahresanfang in Kraft. Kritik kommt von den Grünen.",
       "url": "https://www.heise.de/news/Bundestag-beschliesst-Start-der-E-Auto-Praemie-ab-Januar-2026-11262390.html",
       "image_title": "Fiat Panda Electric"
-    },
-    {
-      "title": "Unternehmen setzen KI ein und laufen bei der Governance hinterher",
-      "teaser": "KI-Technologien halten Einzug in deutsche Unternehmen, Kontrollmechanismen und Steuerungsinstrumente wachsen laut einer Umfrage aber nicht im gleichen Tempo.",
-      "url": "https://www.heise.de/news/Unternehmen-setzen-KI-ein-und-laufen-bei-der-Governance-hinterher-11262153.html",
-      "image_title": "Symbolbild für einen KI-Agenten, das einen Roboter zwischen Laptop, Smartphone und Büchern zeigt."
-    },
-    {
-      "title": "Vision-Pro-Immersive-Video: Pilotin stirbt bei Absturz",
-      "teaser": "Im Sommer 2024 kam es in Nahost zu einem tragischen Zwischenfall bei einer Apple-Videoproduktion. Der Absturz eines Kleinflugzeugs wird derzeit untersucht.",
-      "url": "https://www.heise.de/news/Vorfall-bei-Vision-Pro-Filmproduktion-Toedlicher-Crash-in-Jordanien-11262221.html",
-      "image_title": "TV-App mit immersiven Videos von Apple"
     },
     {
       "title": "HintergrundApple Business: Das können die neuen Unternehmensdienste",
@@ -56,6 +56,18 @@
       "title": "RatgeberElektro-SUVs und Hybride im Vergleich: Das kosten BMW iX3 und Mercedes-Benz GLC",
       "url": "https://www.heise.de/ratgeber/Elektro-SUVs-und-Hybride-im-Vergleich-Das-kosten-BMW-iX3-und-Mercedes-Benz-GLC-11185539.html",
       "image_title": "BMW iX3 und Mercedes-Benz GLC EQ"
+    },
+    {
+      "title": "Unternehmen setzen KI ein und laufen bei der Governance hinterher",
+      "teaser": "KI-Technologien halten Einzug in deutsche Unternehmen, Kontrollmechanismen und Steuerungsinstrumente wachsen laut einer Umfrage aber nicht im gleichen Tempo.",
+      "url": "https://www.heise.de/news/Unternehmen-setzen-KI-ein-und-laufen-bei-der-Governance-hinterher-11262153.html",
+      "image_title": "Symbolbild für einen KI-Agenten, das einen Roboter zwischen Laptop, Smartphone und Büchern zeigt."
+    },
+    {
+      "title": "Vision-Pro-Immersive-Video: Pilotin stirbt bei Absturz",
+      "teaser": "Im Sommer 2024 kam es in Nahost zu einem tragischen Zwischenfall bei einer Apple-Videoproduktion. Der Absturz eines Kleinflugzeugs wird derzeit untersucht.",
+      "url": "https://www.heise.de/news/Vorfall-bei-Vision-Pro-Filmproduktion-Toedlicher-Crash-in-Jordanien-11262221.html",
+      "image_title": "TV-App mit immersiven Videos von Apple"
     },
     {
       "title": "Snapchat Messenger: Snap baut weltweit 16 Prozent der Jobs ab",
@@ -134,18 +146,6 @@
       "teaser": "Der Streaminganbieter hat vor dem höchsten ordentlichen deutschen Gericht gegen Verbraucherschützer verloren: Restguthaben darf das Abo nicht verlängern.",
       "url": "https://www.heise.de/news/Bundesgerichtshof-Netflix-Abo-verlaengert-sich-nicht-durch-Guthaben-11261398.html",
       "image_title": "Netflix-App auf einem Smartphone"
-    },
-    {
-      "title": "Befolgt Anweisungen „substanziell besser“: Anthropic gibt Opus 4.7 frei",
-      "teaser": "Das KI-Modell Claude Opus 4.7 soll Anweisungen besser und vor allem wörtlich befolgen. Der Vorgänger werde überall übertroffen, aber nicht das beste KI-Modell.",
-      "url": "https://www.heise.de/news/Befolgt-Anweisungen-substanziell-besser-Anthropic-gibt-Opus-4-7-frei-11261267.html",
-      "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
-    },
-    {
-      "title": "Meta erhöht Preise für Meta Quest",
-      "teaser": "Die Speicherkrise erreicht VR-Brillen: Meta erhöht noch diese Woche die Preise von Meta Quest 3S und 3.",
-      "url": "https://www.heise.de/news/Meta-erhoeht-Preise-fuer-Meta-Quest-11261107.html",
-      "image_title": "Bild einer schwebenden Quest 3S und Quest 3."
     },
     {
       "title": "NewsSpritpreise sinken deutlich",
