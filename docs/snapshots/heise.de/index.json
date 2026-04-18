@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T06:05:37",
+  "timestamp": "2026-04-18T07:51:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11255598.html"
+    },
     {
       "title": "Bastel-Projekt: Wie man eine LED-Achterbahn baut",
       "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Wie-man-eine-LED-Achterbahn-baut-11215935.html",
@@ -58,10 +62,6 @@
     {
       "title": "3D-Druck ist einfacher, als man denkt | c't 3003",
       "url": "https://www.heise.de/news/Kann-jeder-3D-Druck-c-t-3003-11261187.html"
-    },
-    {
-      "title": "Mähroboter Ecovacs Goat A3000 LiDAR Pro im Test",
-      "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-ecovacs-goat-a3000-lidar-pro-im-test-maeht-gut-und-trimmt-sogar/8nlfvjw?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "DrohnenproduktionMoskau erklärt München zu „ukrainischem Hinterland”",
@@ -211,20 +211,26 @@
       "image_title": "VW ID.7 mit Wallbox"
     },
     {
+      "title": "Developer-Häppchen fürs Wochenende – Kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Azure MCP Server, Angular, nbgitpuller, MantisBT, ESLint, Servo, NiFi, Symfony und GitLab.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-Kleinere-News-der-Woche-11255598.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Bastel-Projekt: Wie man eine LED-Achterbahn baut",
       "teaser": "Aus einem LED-Streifen, etwas Physik und einem ESP32 entsteht eine LED-Achterbahn, bei der das Licht wie ein echter Wagen durch Loopings und Kurven rauscht.",
       "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Wie-man-eine-LED-Achterbahn-baut-11215935.html",
       "image_title": ", Andreas Wodrich"
     },
     {
-      "title": "Top 7: Die beste Laser-Graviermaschine im Test",
-      "teaser": "Laser für die Werkstatt eignen sich zum Markieren, Gravieren und Schneiden von unterschiedlichsten Materialien. Wir zeigen die besten Geräte aus den Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-7-die-beste-laser-graviermaschine-im-test-gravieren-schneiden-markieren/130e7ry?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
       "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
       "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Top 7: Die beste Laser-Graviermaschine im Test",
+      "teaser": "Laser für die Werkstatt eignen sich zum Markieren, Gravieren und Schneiden von unterschiedlichsten Materialien. Wir zeigen die besten Geräte aus den Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-7-die-beste-laser-graviermaschine-im-test-gravieren-schneiden-markieren/130e7ry?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Anthropic stellt Claude Design vor: KI-Werkzeug für Prototypen und Webseiten",
@@ -254,12 +260,6 @@
       "title": "3D-Druck ist einfacher, als man denkt | c't 3003",
       "teaser": "3D-Druck ohne Vorerfahrung: Wie schwer ist es als kompletter Anfänger und was braucht man dafür überhaupt? Ein Erfahrungsbericht.",
       "url": "https://www.heise.de/news/Kann-jeder-3D-Druck-c-t-3003-11261187.html"
-    },
-    {
-      "title": "Terahertz-Scanner untersucht aktive Halbleiter kontaktlos",
-      "teaser": "Forscher bilden den p-n-Übergang von Halbleitern im Betrieb und durch das Gehäuse hindurch ab, bisher jedoch nur bei groben Strukturen.",
-      "url": "https://www.heise.de/news/Terahertz-Scanner-untersucht-aktive-Halbleiter-kontaktlos-11262760.html",
-      "image_title": "Untersuchung von Halbleitern mit Terahertzstrahlung"
     },
     {
       "title": "VideoreportageDIY-Wärmepumpe: Wie man als Hobby-Handwerker 10.000 Euro spart",
@@ -352,6 +352,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Terahertz-Scanner untersucht aktive Halbleiter kontaktlos",
+      "teaser": "Forscher bilden den p-n-Übergang von Halbleitern im Betrieb und durch das Gehäuse hindurch ab, bisher jedoch nur bei groben Strukturen.",
+      "url": "https://www.heise.de/news/Terahertz-Scanner-untersucht-aktive-Halbleiter-kontaktlos-11262760.html",
+      "image_title": "Untersuchung von Halbleitern mit Terahertzstrahlung"
+    },
+    {
       "title": "„Replaced“: Cyberpunk-Blues in Pixel-Optik",
       "teaser": "Ist „Replaced“ mehr als nur eine hübsche Hülle? Der Action-Plattformer vom Studio Sad Cat beeindruckte schon bei der Ankündigung 2021.",
       "url": "https://www.heise.de/tests/Replaced-Cyberpunk-Blues-in-Pixel-Optik-11262281.html",
@@ -422,15 +428,15 @@
       "image_title": "Gemini-App auf einem Smartphone."
     },
     {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
       "title": "Unternehmen setzen KI ein und laufen bei der Governance hinterher",
       "teaser": "KI-Technologien halten Einzug in deutsche Unternehmen, Kontrollmechanismen und Steuerungsinstrumente wachsen laut einer Umfrage aber nicht im gleichen Tempo.",
       "url": "https://www.heise.de/news/Unternehmen-setzen-KI-ein-und-laufen-bei-der-Governance-hinterher-11262153.html",
       "image_title": "Symbolbild für einen KI-Agenten, das einen Roboter zwischen Laptop, Smartphone und Büchern zeigt."
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "DeepL wird zum Echtzeit-Übersetzer",
@@ -483,12 +489,6 @@
       "teaser": "Der Stellenabbau in der Tech-Branche setzt sich fort: Der Snapchat-Betreiber will tausend Mitarbeiter durch KI ersetzen.",
       "url": "https://www.heise.de/news/Snapchat-Messenger-Snap-baut-weltweit-16-Prozent-der-Jobs-ab-11261949.html",
       "image_title": "Icon von Snapchat auf einem Smartphone, drumherum sind noch andere Apps zu sehen"
-    },
-    {
-      "title": "AlertAngreifer attackieren Apache ActiveMQ Broker, Apache ActiveMQ",
-      "teaser": "Admins sollten zügig die gegen derzeit laufende Attacken gerüsteten Versionen von Apache ActiveMQ Broker und Apache ActiveMQ installieren.",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Apache-ActiveMQ-Broker-Apache-ActiveMQ-11262046.html",
-      "image_title": "Anzeige \"Attack successfull\" auf Bildschirm"
     },
     {
       "title": "Österlicher Zertifikats-GAU bei D-Trust: Zehntausende Zertifikate ungültig",
@@ -661,9 +661,10 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
-      "title": "Dreame, Ecovacs, Mammotion und Segway: Vier High-End-Mähbots im Härtetest",
-      "teaser": "Kräftige Antriebe, Kartenautomatik, cleverer Igelschutz und Randschnitt: Diese Luxusmähbots sollen trickreiche Alleskönner sein. Ob das stimmt, klärt der Test.",
-      "url": "https://www.heise.de/tests/Dreame-Ecovacs-Mammotion-und-Segway-Vier-High-End-Maehbots-im-Haertetest-11259259.html"
+      "title": "Terahertz-Scanner untersucht aktive Halbleiter kontaktlos",
+      "teaser": "Forscher bilden den p-n-Übergang von Halbleitern im Betrieb und durch das Gehäuse hindurch ab, bisher jedoch nur bei groben Strukturen.",
+      "url": "https://www.heise.de/news/Terahertz-Scanner-untersucht-aktive-Halbleiter-kontaktlos-11262760.html",
+      "image_title": "Untersuchung von Halbleitern mit Terahertzstrahlung"
     },
     {
       "title": "Im Labyrinth der ModerneJacques Tatis Herrliche Zeiten im 4K-Heimkinotest",
@@ -672,9 +673,9 @@
       "image_title": "PlayTime"
     },
     {
-      "title": "Orion im Test: Der Browser, der Chrome & Firefox vereint",
-      "teaser": "Orion nutzt die Rendering-Engine von Apples Browser Safari, unterstützt Chrome- und Firefox-Erweiterungen und hält weitere nützliche Überraschungen bereit.",
-      "url": "https://www.heise.de/tests/Orion-im-Test-Der-Browser-der-Chrome-Firefox-vereint-11229328.html"
+      "title": "3D-Druck ist einfacher, als man denkt | c't 3003",
+      "teaser": "3D-Druck ohne Vorerfahrung: Wie schwer ist es als kompletter Anfänger und was braucht man dafür überhaupt? Ein Erfahrungsbericht.",
+      "url": "https://www.heise.de/news/Kann-jeder-3D-Druck-c-t-3003-11261187.html"
     },
     {
       "title": "iPhone ohne AppleWas man beachten muss, wenn man iCloud nicht will",
@@ -776,22 +777,22 @@
       "image_title": "Elektro-Cabrio Project Nightingale von Rolls-Royce"
     },
     {
-      "title": "Russlands Schattenflotte: Großbritannien als Zaungast vor der eigenen Küste",
-      "teaser": "Russlands Tanker durchqueren den Ärmelkanal, während Großbritannien machtlos zuschaut. Warum der Iran-Krieg diese Entwicklung beschleunigt. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/-11258629",
-      "image_title": "Ein Schiff mit Matrosen an Deck"
+      "title": "Imperien kehren zurück – und Europa muss Farbe bekennen",
+      "teaser": "Russland, die USA, Europa: Politologe Münkler warnt – imperiale Mächte prägen die Weltordnung neu. Was das für die EU bedeutet. (Teil 1)",
+      "url": "https://www.heise.de/-11261023",
+      "image_title": "Eine historische Karte von Europa mit Grenzen, Städten und Namen von Imperien und Königreichen."
     },
     {
-      "title": "Iran-Krieg: Optimismus an den Märkten, Misstrauen am Verhandlungstisch",
-      "teaser": "Die Waffenruhe zwischen USA und Iran läuft nächste Woche ab. Pakistan vermittelt fieberhaft, Märkte sind optimistisch. Doch ist die Zuversicht gerechtfertigt?",
-      "url": "https://www.heise.de/-11260601",
-      "image_title": "Flagge des Iran, im Hintergrund eine Ölpumpe"
+      "title": "Kehrtwende in Washington: Anthropic ist plötzlich wieder systemrelevant",
+      "teaser": "Das KI-Modell Mythos galt als Sicherheitsrisiko – jetzt sollen US-Behörden es nutzen. Was steckt hinter dem Sinneswandel?",
+      "url": "https://www.heise.de/-11261777",
+      "image_title": "Personen blicken auf Computerbildschirme mit Code und der Meldung \"SYSTEM HACKED\"."
     },
     {
-      "title": "Europas Chemieindustrie kämpft ums Überleben",
-      "teaser": "Steigende Energiekosten und die Hormus-Blockade gefährden Europas Grundchemie. Werke schließen, Preise explodieren.",
-      "url": "https://www.heise.de/-11259114",
-      "image_title": "Luftbild einer Chemiefabrik"
+      "title": "Schweiz als Atomlabor: Zwischen Altlasten und neuen Reaktorträumen",
+      "teaser": "Die Schweiz steht vor einem Milliarden-Grab: Alte AKW sollen länger laufen – und neue Reaktortypen wecken große Versprechen.",
+      "url": "https://www.heise.de/-11256743",
+      "image_title": "Schweizer Kreuz wird in Zeichen für Radioaktivität gemorpht"
     },
     {
       "title": "Komoot oder Evernote: Wie Bending Spoons bei beliebten Apps Kahlschlag betreibt",
