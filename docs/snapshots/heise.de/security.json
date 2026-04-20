@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T07:08:43",
+  "timestamp": "2026-04-20T09:30:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertUngepatchte Windows-Zero-DaysRedSun, UnDefend und BlueHammer werden attackiert",
+      "teaser": "Die Zero-Day-Lücken im Windows Defender mit den Namen BlueHammer, RedSun und UnDefend werden offenbar attackiert.",
+      "url": "https://www.heise.de/news/Ungepatchte-Windows-Zero-Days-RedSun-UnDefend-und-BlueHammer-werden-attackiert-11263691.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
       "title": "MicrosoftUpdates außer der Reihe gegen ungewollte Server-Reboots",
       "teaser": "Ugeplante Updates von Microsoft soll automatisch neustartende Windows-Server heilen. Das kann nach den April-Updates auftreten.",
       "url": "https://www.heise.de/news/Microsoft-Update-ausser-der-Reihe-gegen-ungewollte-Server-Reboots-11263633.html",
       "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
-      "title": "Anthropics Mythos und die FolgenDie Vulnocalypse kommt – so bereiten Sie sich auf KI-Angriffe vor",
-      "teaser": "Alle Welt diskutiert, wie gefährlich Anthropics neue KI sein könnte. Jürgen Schmidt von heise security erklärt lieber, was zu tun ist.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Vom-Mythos-zur-Vulnocalypse-und-was-jetzt-wirklich-zu-tun-ist-11260797.html",
-      "image_title": "Flammen auf der Tastatur eines brennenden Laptops"
-    },
-    {
-      "title": "AlertYubiKey Manager: Sicherheitslücke ermöglicht Ausführung untergeschobenen Codes",
-      "url": "https://www.heise.de/news/YubiKey-Manager-Sicherheitsluecke-ermoeglicht-Ausfuehrung-untergeschobenen-Codes-11262018.html",
-      "image_title": "Zwei-Faktor-FIDO2-Abfrage im Browser auf Laptop vor Matrix-Regen-Hintergrund"
+      "title": "AlertUngepatchte Windows-Zero-DaysRedSun, UnDefend und BlueHammer werden attackiert",
+      "url": "https://www.heise.de/news/Ungepatchte-Windows-Zero-Days-RedSun-UnDefend-und-BlueHammer-werden-attackiert-11263691.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -47,6 +47,24 @@
     {
       "title": "Aufzeichnung im Shop verfügbarNTLM: Microsofts Erbsünde und wie Admins damit sinnvoll umgehen",
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Angriff auf Next.js-Hersteller Vercel: Kundendaten abgegriffen",
+      "teaser": "Interne Vercel-Systeme und damit auch Kundendaten wurden in einem Security-Vorfall kompromittiert. Ein externes KI-Tool diente als Einfallstor.",
+      "url": "https://www.heise.de/news/Angriff-auf-Next-js-Hersteller-Vercel-Kundendaten-abgegriffen-11263669.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
+      "title": "iX-Workshop: GenAI für Security – Auditierbare GRC-Assistenten und SOC-Reporting",
+      "teaser": "Im Workshop entwickeln Sie einen GRC-Assistenten und ein SOC-Reporting – praxisnah, auditierbar und compliance-konform.",
+      "url": "https://www.heise.de/news/iX-Workshop-GenAI-fuer-Security-Auditierbare-GRC-Assistenten-und-SOC-Reporting-11255590.html",
+      "image_title": "Generative KI in der Security-Praxis – Governance-konforme Use Cases für GRC und SOC"
+    },
+    {
+      "title": "AlertMehr als ein Dutzend Root-Lücken gefährden Dell PowerProtect Data Domain",
+      "teaser": "In aktuellen Versionen von Dell PowerProtect Data Domain haben die Entwickler Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Zahlreiche-Attacken-auf-Dell-PowerProtect-Data-Domain-moeglich-11263713.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "Staatliches Bedrohungsmanagement: Psychisch kranke Personen mit Risikopotential",
@@ -96,6 +114,12 @@
       "image_title": "Ring-Kamera an Hauswand"
     },
     {
+      "title": "Analyse: Vom Mythos zur Vulnocalypse und was jetzt wirklich zu tun ist",
+      "teaser": "Alle Welt redet darüber, wie gefährlich Anthropics neue KI sein könnte. Jürgen Schmidt von heise security konzentriert sich lieber darauf, was jetzt zu tun ist.",
+      "url": "https://www.heise.de/hintergrund/Analyse-Vom-Mythos-zur-Vulnocalypse-und-was-jetzt-wirklich-zu-tun-ist-11260797.html",
+      "image_title": "Flammen auf der Tastatur eines brennenden Laptops"
+    },
+    {
       "title": "Windows-Updates: Unerwartete Server-Reboots und Anmeldestörungen",
       "teaser": "Die Updates für Windows Server im April haben Nebenwirkungen. Server starten unerwartet neu oder erlauben keine Admin-Anmeldungen.",
       "url": "https://www.heise.de/news/Windows-Updates-Unerwartete-Server-Reboots-und-Anmeldestoerungen-11261652.html",
@@ -117,29 +141,6 @@
       "teaser": "Im c't-Datenschutz-Podcast erklärt Niedersachsens Datenschutzbeauftragter, wie Widerspruchsverfahren gegen Bußgelder ablaufen – und warum er außen vor bleibt.",
       "url": "https://www.heise.de/hintergrund/Auslegungssache-157-Datenschutz-vor-Gericht-11260020.html",
       "image_title": "Denis Lehmkemper (links oben), Holger Bleich (rechts oben), Joerg Heidrich (unten)"
-    },
-    {
-      "title": "Die Natur ist unsere Quelle der Zufälligkeit: zum Tode von Michael O. Rabin",
-      "teaser": "Im Alter von 94 Jahren ist Michael Oser Rabin gestorben. Er war der einzige Empfänger des Turing-Awards, der im Deutschen Reich geboren wurde.",
-      "url": "https://www.heise.de/news/Die-Natur-ist-unsere-Quelle-der-Zufaelligkeit-zum-Tode-von-Michael-O-Rabin-11261362.html",
-      "image_title": "Ein lächelnder alter Mann"
-    },
-    {
-      "title": "Verteidigungsministerium verschärft Regeln für private Handys",
-      "teaser": "Wegen akuter Abhörgefahren durch Russland und China verschärft das Verteidigungsministerium die Regeln für Smartphones und Smartwatches in sensiblen Bereichen.",
-      "url": "https://www.heise.de/news/Spionageangst-im-Bendlerblock-Pistorius-verbannt-Privat-Handys-aus-Sitzungen-11261358.html",
-      "image_title": "Verteidigungsminister Pistorius bei der Locked Shields 2025"
-    },
-    {
-      "title": "„Power Off“: BKA geht gegen DDoS-Angebote vor",
-      "teaser": "Bundeskriminalamt und Generalstaatsanwaltschaft Frankfurt sind mit internationalen Partnern gegen sogenannte Stresserdienste vorgegangen. Es gab Festnahmen.",
-      "url": "https://www.heise.de/news/Power-Off-BKA-geht-gegen-DDoS-Angebote-vor-11261177.html",
-      "image_title": "Hände an Laptop-Tastatur mit unscharfem Code im Hintergrund"
-    },
-    {
-      "title": "AlertVom BlueHammer-Autor: Neuer Windows-Zeroday verschafft Adminrechte",
-      "teaser": "Der Exploit nutzt ausgerechnet ein unsicheres Verhalten des Windows Defender und eines Datei-API, um sich Systemrechte zu sichern. Er ist noch ungepatcht.",
-      "url": "https://www.heise.de/news/Vom-BlueHammer-Autor-Neuer-Windows-Zeroday-verschafft-Adminrechte-11260913.html"
     },
     {
       "title": "Workshop | 4. – 6.5.2026Cyberabwehr mit Microsoft Defender XDR – Roll-out, Konfiguration, Nutzung",
@@ -196,12 +197,12 @@
       "image_title": "Mobiltelefon in Hand einer Person. Auf dem Handy ist ein Schloss mit EU-Sternchen zu sehen."
     },
     {
-      "title": "Linux 7.0 erschienen – mehr als ein Nummernsprung",
-      "url": "https://www.heise.de/news/Linux-7-0-erschienen-mehr-als-ein-Nummernsprung-11255745.html"
-    },
-    {
       "title": "Bedrohungsmanagement: Psychisch kranke Personen mit Risikopotential",
       "url": "https://www.heise.de/hintergrund/Datenaustausch-aber-kein-zentrales-Register-bei-psychisch-kranken-Risikopersonen-11246696.html"
+    },
+    {
+      "title": "Linux 7.0 erschienen – mehr als ein Nummernsprung",
+      "url": "https://www.heise.de/news/Linux-7-0-erschienen-mehr-als-ein-Nummernsprung-11255745.html"
     }
   ]
 }
