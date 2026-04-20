@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T09:30:06",
+  "timestamp": "2026-04-20T11:09:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,28 +20,27 @@
   ],
   "articles": [
     {
+      "title": "WireGuard 1.0: Stabiler Meilenstein der Windows-Version erreicht",
+      "teaser": "Nach jahrelanger Pause gab es kürzlich ein Update, nun legt der Entwickler das Release 1.0 von WireGuard für Windows nach.",
+      "url": "https://www.heise.de/news/WireGuard-1-0-Stabiler-Meilenstein-der-Windows-Version-erreicht-11263925.html",
+      "image_title": "WIreGuard-Versionsdialog auf blauem Mosaik-Hintergrund"
+    },
+    {
+      "title": "Apple-Geräte im Unternehmen: Zweiteiliges Webinar zu Management und Sicherheit",
+      "teaser": "Zwei Live-Webinare im Juni vermitteln, wie Sie Apple-Geräte professionell einbinden, absichern und im Unternehmensalltag effizient managen.",
+      "url": "https://www.heise.de/news/Apple-Geraete-im-Unternehmen-Zweiteiliges-Webinar-zu-Management-und-Sicherheit-11261761.html"
+    },
+    {
+      "title": "Cloudflare gibt KI-Agenten ein Langzeitgedächtnis",
+      "teaser": "Cloudflare will mit Agent Memory dem Kontextverfall bei langen Prompts in KI-Agenten verbeugen. Entwickler können so auch Kosten sparen.",
+      "url": "https://www.heise.de/news/Cloudflare-gibt-KI-Agenten-ein-Langzeitgedaechtnis-11263627.html",
+      "image_title": "Stilisierter KI-Bot in einem Fenster umringt von mehreren Gebäuden"
+    },
+    {
       "title": "Mac mini und Mac Studio vergriffen: Apple gehen manche Macs aus",
       "teaser": "Speicherkrise, KI-Maxxing oder bevorstehende Upgrades: Beobachter rätseln, warum Apple manche Macs aktuell nicht mehr liefern kann.",
       "url": "https://www.heise.de/news/Mac-mini-und-Mac-Studio-vergriffen-Apple-gehen-manche-Macs-aus-11263965.html",
       "image_title": "Mac mini 2024"
-    },
-    {
-      "title": "Stromzähler auslesen per Fritzbox: Lesekopf Fritz!Smart Energy 250 im Praxistest",
-      "teaser": "Wer eine Fritzbox hat, kann damit seinen Stromverbrauch überwachen. In der Praxis sind Hürden zu nehmen: Bei Zählertechnik, Funkreichweite und PIN.",
-      "url": "https://www.heise.de/ratgeber/Stromzaehler-auslesen-per-Fritzbox-Lesekopf-Fritz-Smart-Energy-250-im-Praxistest-11193106.html",
-      "image_title": "Abbildung DECT-Lesekopf Fritz!Smart Energy 250 für moderne Stromzähler"
-    },
-    {
-      "title": "Security-VorfallAngriff auf Next.js-Hersteller Vercel: Kundendaten abgegriffen",
-      "teaser": "Interne Vercel-Systeme und damit auch Kundendaten wurden in einem Security-Vorfall kompromittiert. Ein externes KI-Tool diente als Einfallstor.",
-      "url": "https://www.heise.de/news/Angriff-auf-Next-js-Hersteller-Vercel-Kundendaten-abgegriffen-11263669.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "iX-Workshop: GenAI für Security – Auditierbare GRC-Assistenten und SOC-Reporting",
-      "teaser": "Im Workshop entwickeln Sie einen GRC-Assistenten und ein SOC-Reporting – praxisnah, auditierbar und compliance-konform.",
-      "url": "https://www.heise.de/news/iX-Workshop-GenAI-fuer-Security-Auditierbare-GRC-Assistenten-und-SOC-Reporting-11255590.html",
-      "image_title": "Generative KI in der Security-Praxis – Governance-konforme Use Cases für GRC und SOC"
     },
     {
       "title": "HintergrundKaufberatung: Welchen Mac brauche ich?",
@@ -56,6 +55,18 @@
     {
       "title": "HintergrundPlattformen und Haftung: Das Prinzip Nichtverantwortung wankt",
       "url": "https://www.heise.de/hintergrund/Plattformen-und-Haftung-Das-Prinzip-Nichtverantwortung-wankt-11208254.html"
+    },
+    {
+      "title": "Angriff auf Next.js-Hersteller Vercel: Kundendaten abgegriffen",
+      "teaser": "Interne Vercel-Systeme und damit auch Kundendaten wurden in einem Security-Vorfall kompromittiert. Ein externes KI-Tool diente als Einfallstor.",
+      "url": "https://www.heise.de/news/Angriff-auf-Next-js-Hersteller-Vercel-Kundendaten-abgegriffen-11263669.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
+      "title": "iX-Workshop: GenAI für Security – Auditierbare GRC-Assistenten und SOC-Reporting",
+      "teaser": "Im Workshop entwickeln Sie einen GRC-Assistenten und ein SOC-Reporting – praxisnah, auditierbar und compliance-konform.",
+      "url": "https://www.heise.de/news/iX-Workshop-GenAI-fuer-Security-Auditierbare-GRC-Assistenten-und-SOC-Reporting-11255590.html",
+      "image_title": "Generative KI in der Security-Praxis – Governance-konforme Use Cases für GRC und SOC"
     },
     {
       "title": "AlertUngepatchte Windows-Zero-Days RedSun, UnDefend und BlueHammer werden attackiert",
@@ -132,16 +143,6 @@
       "teaser": "Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.",
       "url": "https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-vorbereitet-fuer-den-Ernstfall-11246684.html",
       "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
-    },
-    {
-      "title": "Video: Windows 11 auf dem Radxa Dragon Q6 installieren",
-      "teaser": "Warum sollte man Windows 11 auf einem 150-Euro-Einplatinenrechner einrichten? Weil es geht. Wie, zeigen wir in diesem Video.",
-      "url": "https://www.heise.de/news/Video-Windows-11-auf-dem-Radxa-Dragon-Q6-installieren-11260008.html"
-    },
-    {
-      "title": "Top 10: Mähroboter ohne Begrenzungskabel im Test",
-      "teaser": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das noch einfacher.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-maehroboter-ohne-begrenzungskabel-im-test-der-beste-navigiert-mit-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsVerteidigungsministerium verschärft Regeln für private Handys",
