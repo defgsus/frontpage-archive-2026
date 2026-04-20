@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T16:51:19",
+  "timestamp": "2026-04-20T17:47:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mindestalter für Social Media: Kommission legt Bestandsaufnahme vor",
+      "url": "https://www.heise.de/news/Mindestalter-fuer-Social-Media-Kommission-legt-Bestandsaufnahme-vor-11264815.html"
+    },
+    {
+      "title": "KI von Siemens: Eigen-Agent automatisiert Ingenieuraufgaben",
+      "url": "https://www.heise.de/news/KI-von-Siemens-Eigen-Agent-automatisiert-Ingenieuraufgaben-11264879.html"
+    },
     {
       "title": "BMG: „Viel volkswirtschaftliche Power“ hinter Gesundheitsdatennutzung",
       "url": "https://www.heise.de/news/BMG-Viel-volkswirtschaftliche-Power-hinter-Gesundheitsdatennutzung-11264442.html"
@@ -52,14 +60,6 @@
     {
       "title": "Hyundai Ioniq 3 vorgestellt: Kleines E-Auto mit bis zu 61 kWh Energiegehalt",
       "url": "https://www.heise.de/news/Hyundai-Ioniq-3-vorgestellt-Kleines-E-Auto-mit-bis-zu-61-kWh-Batterie-11264430.html"
-    },
-    {
-      "title": "Google bildet „Strike Team“ zur Verbesserung seiner Coding-KI-Modelle",
-      "url": "https://www.heise.de/news/Google-bildet-Strike-Team-zur-Verbesserung-seiner-Coding-KI-Modelle-11264675.html"
-    },
-    {
-      "title": "Chip-Industrie im Norden: Halbleiter-Experten gründen Netzwerk",
-      "url": "https://www.heise.de/news/Norddeutsches-Chipindustrie-Netzwerk-nimmt-Arbeit-auf-11264555.html"
     },
     {
       "title": "Elektroauto mit 760 km ReichweiteMercedes C-Klasse EQ vorgestellt",
@@ -199,8 +199,25 @@
       "url": "https://www.heise.de/news/Asrock-Intel-und-Teamgroup-HUDIMMs-fuer-billigeres-DDR5-11263161.html"
     },
     {
+      "title": "Mindestalter für Social Media: Kommission legt Bestandsaufnahme vor",
+      "teaser": "Die Kommission für besseren Kinder- und Jugendschutz hat ihre Befunde zum Status Quo vorgelegt. In diesem Rahmen dürften auch Empfehlungen landen.",
+      "url": "https://www.heise.de/news/Mindestalter-fuer-Social-Media-Kommission-legt-Bestandsaufnahme-vor-11264815.html",
+      "image_title": "Teenagers,Covering,Their,Faces,With,Social,Media,Icons"
+    },
+    {
+      "title": "KI von Siemens: Eigen-Agent automatisiert Ingenieuraufgaben",
+      "teaser": "Der Eigen Engineering Agent von Siemens soll komplexe Aufgaben in einfache Schritte zerlegen und ausführen können – und damit Fachkräfte entlasten.",
+      "url": "https://www.heise.de/news/KI-von-Siemens-Eigen-Agent-automatisiert-Ingenieuraufgaben-11264879.html",
+      "image_title": "Präsentation des Eigen Engineering Agent auf der Hannover Messe 2026"
+    },
+    {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
       "title": "BMG: „Viel volkswirtschaftliche Power“ hinter Gesundheitsdatennutzung",
-      "teaser": "Der neue Chef der Abteilung Digitalisierung und Innovation im Gesundheitsministerium betonte auf dem Future Health Day das wirtschaftliche Potenzial der Daten.",
+      "teaser": "Der neue Chef der Abteilung Digitalisierung und Innovation im Gesundheitsministerium betonte auf dem Future Health Day die Relevanz der E-Patientenakte.",
       "url": "https://www.heise.de/news/BMG-Viel-volkswirtschaftliche-Power-hinter-Gesundheitsdatennutzung-11264442.html",
       "image_title": "Philipp Müller"
     },
@@ -209,11 +226,6 @@
       "teaser": "Moderne Kriegsführung ist ohne unbemannte Systeme nicht mehr denkbar. Die Rheinmetall-Tochter Blohm+Voss startet mit der Serienfertigung einer Überwasserdrohne.",
       "url": "https://www.heise.de/news/Rheinmetall-Tochter-Blohm-Voss-baut-Ueberwasserdrohnen-11264759.html",
       "image_title": "Überwasserdrohne Kraken K3 Scout im Hamburger Hafen"
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "TeamViewer: Hardware für Fernzugriff auf Industrieanlagen",
@@ -237,18 +249,6 @@
       "title": "Orion im Test: Der Browser, der Chrome & Firefox vereint",
       "teaser": "Orion nutzt die Rendering-Engine von Apples Browser Safari, unterstützt Chrome- und Firefox-Erweiterungen und hält weitere nützliche Überraschungen bereit.",
       "url": "https://www.heise.de/tests/Orion-im-Test-Der-Browser-der-Chrome-Firefox-vereint-11229328.html"
-    },
-    {
-      "title": "Kontrolle statt Zufall: Deterministische Abläufe für KI-Agenten",
-      "teaser": "Die neue Version von Agent Fabric bringt eine herstellerübergreifende Steuerung und deterministische Prozessvorgaben in Multi-Agenten-Workflows.",
-      "url": "https://www.heise.de/news/KIare-Regeln-statt-Blackbox-Deterministische-Steuerung-von-KI-Agenten-11263919.html",
-      "image_title": "Ein Podium mit voll besetztem Saal bei einer Hausmesse von Salesforce"
-    },
-    {
-      "title": "Hyundai Ioniq 3 vorgestellt: Kleines E-Auto mit bis zu 61 kWh Energiegehalt",
-      "teaser": "Hyundai stellt den Ioniq 3 vor, einen elektrischen Kompaktwagen, der unter anderem den VW ID.Polo herausfordert.",
-      "url": "https://www.heise.de/news/Hyundai-Ioniq-3-vorgestellt-Kleines-E-Auto-mit-bis-zu-61-kWh-Batterie-11264430.html",
-      "image_title": "Hyundai Ioniq 3"
     },
     {
       "title": "Was sich wann wirklich lohntPrivate Energiewende für Skeptiker: Ein Praxisbericht über rechnerische Vorteile",
@@ -340,6 +340,18 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Kontrolle statt Zufall: Deterministische Abläufe für KI-Agenten",
+      "teaser": "Die neue Version von Agent Fabric bringt eine herstellerübergreifende Steuerung und deterministische Prozessvorgaben in Multi-Agenten-Workflows.",
+      "url": "https://www.heise.de/news/KIare-Regeln-statt-Blackbox-Deterministische-Steuerung-von-KI-Agenten-11263919.html",
+      "image_title": "Ein Podium mit voll besetztem Saal bei einer Hausmesse von Salesforce"
+    },
+    {
+      "title": "Hyundai Ioniq 3 vorgestellt: Kleines E-Auto mit bis zu 61 kWh Energiegehalt",
+      "teaser": "Hyundai stellt den Ioniq 3 vor, einen elektrischen Kompaktwagen, der unter anderem den VW ID.Polo herausfordert.",
+      "url": "https://www.heise.de/news/Hyundai-Ioniq-3-vorgestellt-Kleines-E-Auto-mit-bis-zu-61-kWh-Batterie-11264430.html",
+      "image_title": "Hyundai Ioniq 3"
+    },
+    {
       "title": "Google bildet „Strike Team“ zur Verbesserung seiner Coding-KI-Modelle",
       "teaser": "Google formiert laut einem Bericht ein „Strike Team“, um die Coding-Fähigkeiten seiner KI-Modelle zu steigern und den Rückstand auf Anthropic aufzuholen.",
       "url": "https://www.heise.de/news/Google-bildet-Strike-Team-zur-Verbesserung-seiner-Coding-KI-Modelle-11264675.html",
@@ -404,6 +416,11 @@
       "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
+      "title": "So wird ein SAP BTP Deployment zukunftssicher und effizient",
+      "teaser": "Viele Unternehmen stoßen beim Ausrollen und Verwalten der SAP Business Technology Plattform (BTP) ohne Automatisierung an technische und organisatorische Grenzen. Wie man diese Grenzen überwinden kann, erfahren Sie in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-wird-ihr-sap-btp-deployment-zukunftssicher-skalierbar-und-effizient-5041/?source=hbsad-ersatz"
+    },
+    {
       "title": "Dobrindt warnt vor Ende freiwilliger Inhaltedurchsuchung",
       "teaser": "Bei der Vorstellung der Polizeilichen Kriminalstatistik für 2025 richtete Innenminister Dobrindt einen Appell an das Europaparlament.",
       "url": "https://www.heise.de/news/Dobrindt-warnt-vor-Ende-freiwilliger-Inhaltedurchsuchung-11264268.html",
@@ -413,11 +430,6 @@
       "title": "Papertrading mit TradingView: Börsenhandel ohne Risiko üben",
       "teaser": "Auf der Charting-Plattform TradingView können Einsteiger realitätsnah, aber risikolos für den Online-Börsenhandel üben. Wir erklären, wie das funktioniert.",
       "url": "https://www.heise.de/ratgeber/Papertrading-mit-TradingView-Boersenhandel-ohne-Risiko-ueben-11220934.html"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "Tod auf Raten: Microsoft zieht Clipchamp für iOS den Stecker",
@@ -465,18 +477,6 @@
       "teaser": "Interne Vercel-Systeme und damit auch Kundendaten wurden in einem Security-Vorfall kompromittiert. Ein externes KI-Tool diente als Einfallstor.",
       "url": "https://www.heise.de/news/Angriff-auf-Next-js-Hersteller-Vercel-Kundendaten-abgegriffen-11263669.html",
       "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "iX-Workshop: GenAI für Security – Auditierbare GRC-Assistenten und SOC-Reporting",
-      "teaser": "Im Workshop entwickeln Sie einen GRC-Assistenten und ein SOC-Reporting – praxisnah, auditierbar und compliance-konform.",
-      "url": "https://www.heise.de/news/iX-Workshop-GenAI-fuer-Security-Auditierbare-GRC-Assistenten-und-SOC-Reporting-11255590.html",
-      "image_title": "Generative KI in der Security-Praxis – Governance-konforme Use Cases für GRC und SOC"
-    },
-    {
-      "title": "AlertMehr als ein Dutzend Root-Lücken gefährden Dell PowerProtect Data Domain",
-      "teaser": "In aktuellen Versionen von Dell PowerProtect Data Domain haben die Entwickler Schwachstellen geschlossen.",
-      "url": "https://www.heise.de/news/Zahlreiche-Attacken-auf-Dell-PowerProtect-Data-Domain-moeglich-11263713.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "Kampfansage an Starlink: Rheinmetall und OHB bauen deutsches Satellitennetz",
@@ -650,14 +650,14 @@
       "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
     },
     {
-      "title": "Kindle Scribe Colorsoft im Test: Amazons erstes E-Ink-Tablet mit Farbdisplay",
-      "teaser": "Amazon bringt mit dem Kindle Scribe Colorsoft Farbe in seine E-Reader-Oberklasse. Das 11-Zoll-Tablet ist Notizblock und Lesegerät in einem.",
-      "url": "https://www.heise.de/tests/Kindle-Scribe-Colorsoft-im-Test-Amazons-erstes-E-Ink-Tablet-mit-Farbdisplay-11252446.html"
-    },
-    {
       "title": "Plattformen und Haftung: Das Prinzip Nichtverantwortung wankt",
       "teaser": "Soziale Medien prägen die Debatte und entziehen sich zugleich weitgehend der Haftung. Dieses Privileg war einst Motor für Innovation. Heute wird es zum Problem.",
       "url": "https://www.heise.de/hintergrund/Plattformen-und-Haftung-Das-Prinzip-Nichtverantwortung-wankt-11208254.html"
+    },
+    {
+      "title": "Flott Geld zurück: Wie die Steuererklärung mit einem Klick funktionieren soll",
+      "teaser": "Für Millionen Menschen wird die Steuererklärung deutlich einfacher. Wir erklären, wer die „Amsel“ und die „Ein-Klick-Erklärung“ nutzen kann – und wie es geht.",
+      "url": "https://www.heise.de/hintergrund/Flott-Geld-zurueck-Wie-die-Steuererklaerung-mit-einem-Klick-funktionieren-soll-11179882.html"
     },
     {
       "title": "Nachgemessen: So schlagen sich Apples MacBook Pro gegen starke Windows-Notebooks",
@@ -682,16 +682,16 @@
       "image_title": ","
     },
     {
+      "title": "Bastel-Projekt: Wie man eine LED-Achterbahn baut",
+      "teaser": "Aus einem LED-Streifen, etwas Physik und einem ESP32 entsteht eine LED-Achterbahn, bei der das Licht wie ein echter Wagen durch Loopings und Kurven rauscht.",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Wie-man-eine-LED-Achterbahn-baut-11215935.html",
+      "image_title": ", Andreas Wodrich"
+    },
+    {
       "title": "Raspi-ProjektLinux-Terminal mit Display und Tastatur für unterwegs",
       "teaser": "Mit integriertem Display und Tastatur wird der Raspberry Pi zum mobilen Linux-Terminal für Maker.",
       "url": "https://www.heise.de/news/Linux-Terminal-mit-Display-und-Tastatur-fuer-unterwegs-11259004.html",
       "image_title": "Das PocketTerm35 ist ein kompaktes, tragbares Mini-Computer-Gerät in dunkelgrauem Gehäuse. Auf der Vorderseite befindet sich ein kleines Farbdisplay, darunter ein Steuerkreuz, mehrere Funktionstasten (A, B, X, Y) sowie eine vollständige Mini-Tastatur. An der Seite sind verschiedene Anschlüsse wie USB-Ports und ein Netzwerkanschluss sichtbar. Die Rückseite zeigt Lüftungsschlitze mit integriertem Lüfter sowie ein Typenschild mit technischen Angaben."
-    },
-    {
-      "title": "Raspberry Pi OS 6.2Update verspricht mehr Sicherheit",
-      "teaser": "Die Raspberry-Pi-Entwickler haben in Raspberry Pi OS 6.2 die Sicherheit verbessert. Sie deaktivieren das passwortlose sudo.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-OS-6-2-Update-verspricht-mehr-Sicherheit-11258279.html",
-      "image_title": "Terminal mit sudo-Passwort-Eingabe"
     },
     {
       "title": "Sony World Photography Awards 2026: Mexikanerin gewinnt Hauptpreis",
@@ -758,22 +758,22 @@
       "image_title": "ZXMoto 820 RR"
     },
     {
-      "title": "Katharina Reiches teures Gas-Chaos",
-      "teaser": "Die Wirtschaftsministerin besteht darauf, den Fossilen wieder mehr Bedeutung zukommen so lassen. Bezahlen müssen dies deutsche Verbraucher und Industrie.",
-      "url": "https://www.heise.de/-11262661",
-      "image_title": "Symbolbild der Stromerzeugung wahlweise aus fossilen oder erneuerbaren Energien"
+      "title": "Stromausfall: Wenn die Zivilisation auf Pause gedrückt wird",
+      "teaser": "Ein längerer Stromausfall könnte Deutschland in den Kollaps treiben – und das ist nur eines der Szenarien, die Experten beunruhigen.",
+      "url": "https://www.heise.de/-11256021",
+      "image_title": "NATO-Stern mit verlängertem Zacken steht auf Ziffernblatt 5 vor 12"
     },
     {
-      "title": "Die Streichliste, die Familien trifft",
-      "teaser": "Mindestens 8,6 Milliarden Euro sollen bei Kindern und Familien gestrichen werden – ein internes Papier zeigt, wen es am härtesten trifft. Ein Leitartikel.",
-      "url": "https://www.heise.de/-11264535",
-      "image_title": "Eine Frau spielt mit Kindern mit Bausteinen auf dem Boden."
+      "title": "Das amerikanische Imperium und die Maske der Demokratie",
+      "teaser": "US-Außenpolitik war nie so friedlich, wie viele glauben. Ein Historiker zeigt, warum Trumps Kurs kein Bruch ist – sondern Ehrlichkeit. (Teil 3 und Schluss)",
+      "url": "https://www.heise.de/-11263119",
+      "image_title": "Zwei Holzstücke mit der US-Flagge bilden ein Maul mit spitzen Zähnen, daneben kleine Würfel mit Flaggen verschiedener Länder."
     },
     {
-      "title": "Anthropics KI-Modell Mythos: Das Ende des Internets, wie wir es kennen?",
-      "teaser": "Das KI-Unternehmen Anthropic hält sein neues Modell Mythos unter Verschluss – es kann Sicherheitslücken in kritischer Software autonom aufspüren und ausnutzen.",
-      "url": "https://www.heise.de/-11260770",
-      "image_title": "Ein Smartphone vor dem Logo des US-Kriegsministeriums"
+      "title": "Sind Deepfakes so neu in unserem Leben?",
+      "teaser": "Deepfakes wirken wie ein neues Phänomen – doch gefälschtes Bildmaterial und manipulierte Videos gab es schon lange vor der KI-Revolution.",
+      "url": "https://www.heise.de/-11261882",
+      "image_title": "Porträt mit Raster als Gesicht"
     },
     {
       "title": "Experte über IT-Gehälter: „Da schlackern selbst mir die Ohren“",
