@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-20T19:52:06",
+  "timestamp": "2026-04-20T20:33:49",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Google Gemini weitet Zugriff auf El Salvadors Gesundheitssystem aus",
+      "url": "https://www.heise.de/news/DoctorSV-El-Salvadors-Gesundheitsdaten-landen-in-den-Haenden-von-Google-11264981.html"
+    },
     {
       "title": "Illegale Preisabsprachen: Kalifornien untermauert Vorwürfe gegen Amazon",
       "url": "https://www.heise.de/news/Illegale-Preisabsprachen-Kalifornien-untermauert-Vorwuerfe-gegen-Amazon-11264961.html"
@@ -54,10 +58,6 @@
     {
       "title": "RobCo Autonomous Alfie: lernfähiger Industrieroboter",
       "url": "https://www.heise.de/news/RobCo-Autonomous-Alfie-lernfaehiger-Industrieroboter-11264340.html"
-    },
-    {
-      "title": "Umweltkosten durch Vibe Coding: Tool berechnet CO₂-Ausstoß für Claude Code",
-      "url": "https://www.heise.de/news/Umweltkosten-durch-Vibe-Coding-Tool-berechnet-CO-Ausstoss-fuer-Claude-Code-11264352.html"
     },
     {
       "title": "Elektroauto mit 760 km ReichweiteMercedes C-Klasse EQ vorgestellt",
@@ -197,21 +197,27 @@
       "url": "https://www.heise.de/news/Asrock-Intel-und-Teamgroup-HUDIMMs-fuer-billigeres-DDR5-11263161.html"
     },
     {
+      "title": "Google Gemini weitet Zugriff auf El Salvadors Gesundheitssystem aus",
+      "teaser": "In El Salvador wird die Versorgung von Patienten mit chronischen Krankheiten künftig von Googles KI-Agenten Gemini übernommen. Präsident Bukele ist begeistert.",
+      "url": "https://www.heise.de/news/DoctorSV-El-Salvadors-Gesundheitsdaten-landen-in-den-Haenden-von-Google-11264981.html",
+      "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
+    },
+    {
       "title": "Illegale Preisabsprachen: Kalifornien untermauert Vorwürfe gegen Amazon",
       "teaser": "Der US-Bundesstaat wirft Amazon vor, verschiedene Marken unter Druck gesetzt zu haben, um konkurrierende Einzelhändler zu Preiserhöhungen zu bewegen.",
       "url": "https://www.heise.de/news/Illegale-Preisabsprachen-Kalifornien-untermauert-Vorwuerfe-gegen-Amazon-11264961.html",
       "image_title": "Amazon-Logo an der Fassade eines Gebäudes aus rotem Backstein mit großen Fenstern darunter."
     },
     {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
       "title": "Bundeskanzler Merz: „Europäische KI-Regulierung erleichtern“",
       "teaser": "Der Bundeskanzler spricht sich zum Auftakt der Hannover Messe für Änderungen am AI Act aus – und kommt damit der Industrie entgegen, die Reformen fordert.",
       "url": "https://www.heise.de/news/Bundeskanzler-Merz-Europaeische-KI-Regulierung-erleichtern-11264933.html",
       "image_title": "Bundeskanzler Merz spricht auf der Hannover Messe, im Hintergrund der Schriftzug \"Made for Germany\""
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie im Live-Webcast am 23.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "Top 10: Das beste Mittelklasse-Smartphone im Test",
@@ -241,12 +247,6 @@
       "teaser": "Moderne Kriegsführung ist ohne unbemannte Systeme nicht mehr denkbar. Die Rheinmetall-Tochter Blohm+Voss startet mit der Serienfertigung einer Überwasserdrohne.",
       "url": "https://www.heise.de/news/Rheinmetall-Tochter-Blohm-Voss-baut-Ueberwasserdrohnen-11264759.html",
       "image_title": "Überwasserdrohne Kraken K3 Scout im Hamburger Hafen"
-    },
-    {
-      "title": "TeamViewer: Hardware für Fernzugriff auf Industrieanlagen",
-      "teaser": "Neue TeamViewer-Technik für sicheren Fernzugriff über Hardware-Gateways und KI-gestützte Wartung in der Industrie soll Abläufe vereinfachen.",
-      "url": "https://www.heise.de/news/TeamViewer-Hardware-fuer-Fernzugriff-auf-Industrieanlagen-11264400.html",
-      "image_title": "Hardware-Gateway vom TeamViewer"
     },
     {
       "title": "Was sich wann wirklich lohntPrivate Energiewende für Skeptiker: Ein Praxisbericht über rechnerische Vorteile",
@@ -302,8 +302,8 @@
       "url": "https://www.heise.de/news/Moskau-erklaert-Muenchen-zu-ukrainischem-Hinterland-11261535.html"
     },
     {
-      "title": "EU-App zur Altersprüfung: Experten knacken „Sorglos-Paket“ in Minuten",
-      "url": "https://www.heise.de/news/EU-App-zur-Altersverifikation-Sorglos-Paket-mit-Sicherheitsluecken-11262838.html"
+      "title": "Mercedes C-Klasse EQ vorgestellt: Das Elektroauto für die Langstrecke",
+      "url": "https://www.heise.de/news/Mercedes-C-Klasse-EQ-vorgestellt-Das-Elektroauto-fuer-die-Langstrecke-11264132.html"
     },
     {
       "title": "Testsieger navigiert mit LiDARTop 10: Mähroboter ohne Begrenzungskabel im Test",
@@ -336,6 +336,12 @@
       "teaser": "Exklusiv zum 30-jährigen heise online Jubiläum schenken wir Ihnen 30 % Lifetime-Rabatt auf heise+. Damit lesen Sie alle Artikel auf heise online inklusive unserer Magazin-Inhalte dauerhaft reduziert. Nur für kurze Zeit erhältlich!",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=35566&wt_mc=intern.abo.plus.hp_2026_hojubi.ho_advt.ad1.ad1",
       "image_title": "heise+ Jahresabo"
+    },
+    {
+      "title": "TeamViewer: Hardware für Fernzugriff auf Industrieanlagen",
+      "teaser": "Neue TeamViewer-Technik für sicheren Fernzugriff über Hardware-Gateways und KI-gestützte Wartung in der Industrie soll Abläufe vereinfachen.",
+      "url": "https://www.heise.de/news/TeamViewer-Hardware-fuer-Fernzugriff-auf-Industrieanlagen-11264400.html",
+      "image_title": "Hardware-Gateway vom TeamViewer"
     },
     {
       "title": "RobCo Autonomous Alfie: lernfähiger Industrieroboter",
@@ -408,14 +414,14 @@
       "url": "https://www.heise.de/news/Adobe-Summit-KI-Agenten-fuer-personalisiertes-Marketing-11264016.html"
     },
     {
-      "title": "Flott Geld zurück: Wie die Steuererklärung mit einem Klick funktionieren soll",
-      "teaser": "Für Millionen Menschen wird die Steuererklärung deutlich einfacher. Wir erklären, wer die „Amsel“ und die „Ein-Klick-Erklärung“ nutzen kann – und wie es geht.",
-      "url": "https://www.heise.de/hintergrund/Flott-Geld-zurueck-Wie-die-Steuererklaerung-mit-einem-Klick-funktionieren-soll-11179882.html"
-    },
-    {
       "title": "Fehlversand von E-Mails und Datenabfluss verhindern",
       "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
       "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
+    },
+    {
+      "title": "Flott Geld zurück: Wie die Steuererklärung mit einem Klick funktionieren soll",
+      "teaser": "Für Millionen Menschen wird die Steuererklärung deutlich einfacher. Wir erklären, wer die „Amsel“ und die „Ein-Klick-Erklärung“ nutzen kann – und wie es geht.",
+      "url": "https://www.heise.de/hintergrund/Flott-Geld-zurueck-Wie-die-Steuererklaerung-mit-einem-Klick-funktionieren-soll-11179882.html"
     },
     {
       "title": "„Tankrabatt“ ab 1. Mai könnte verzögert bei Kunden ankommen",
@@ -468,12 +474,6 @@
       "title": "Experimentierkit Digitalelektronik jetzt im heise Shop erhältlich",
       "teaser": "Mit dem Experimentierset und den Anleitungen im Heft steigen Sie praktisch in Logikgatter ein und bauen schnell und einfach typische Schaltungen nach.",
       "url": "https://www.heise.de/news/Experimentierkit-Digitalelektronik-jetzt-im-heise-Shop-erhaeltlich-11260323.html"
-    },
-    {
-      "title": "KI-Assistent Heinzel für die Server-Administration im Überblick",
-      "teaser": "Admins machen Fehler, besonders um 3 Uhr nachts. Heinzel gibt KI-Agenten Leitplanken für die Arbeit am Terminal – ganz einfach per Markdown.",
-      "url": "https://www.heise.de/ratgeber/KI-Assistent-Heinzel-fuer-die-Server-Administration-im-Ueberblick-11244463.html",
-      "image_title": "Drei Gartenzwerge mit Computerausstattung: Tastatur, Maus und Monitor."
     },
     {
       "title": "Kampfansage an Starlink: Rheinmetall und OHB bauen deutsches Satellitennetz",
@@ -550,14 +550,14 @@
       "image_title": "Depressive Frau vor einem Bett, alles dunkel gehalten"
     },
     {
+      "title": "EU-App zur Altersprüfung: Experten knacken „Sorglos-Paket“ in Minuten",
+      "url": "https://www.heise.de/news/EU-App-zur-Altersverifikation-Sorglos-Paket-mit-Sicherheitsluecken-11262838.html",
+      "image_title": "Mobiltelefon in Hand einer Person. Auf dem Handy ist ein Schloss mit EU-Sternchen zu sehen."
+    },
+    {
       "title": "Tiefsee-Kabelschneider: China feiert, Westen fürchtet",
       "url": "https://www.heise.de/news/China-testet-Unterwasser-Kabelschneider-Sorge-vor-Sabotage-11262822.html",
       "image_title": "Unterseekabel"
-    },
-    {
-      "title": "Anthropic und US-Regierung wieder im Gespräch über Zusammenarbeit",
-      "url": "https://www.heise.de/news/Anthropic-und-US-Regierung-wieder-im-Gespraech-ueber-Zusammenarbeit-11263461.html",
-      "image_title": "Weißes Haus in Washington D.C., Frontansicht mit Säulen, US-Flagge, Garten und Zaun im Vordergrund bei Tageslicht"
     },
     {
       "title": "Bye-bye TV-News: US-Wähler setzen auf Influencer statt auf Nachrichten",
@@ -641,20 +641,19 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
+      "title": "Der sprechende Roboter-Blindenhund kann auch als Tourguide einiges erzählen",
+      "teaser": "Blindenhunde sind wertvoll und rar, vierbeinige Roboter sind leichter verfügbar. Forscher haben ein Exemplar bereits als sprechenden Blindenhund ausgebildet.",
+      "url": "https://www.heise.de/hintergrund/Der-sprechende-Roboter-Blindenhund-kann-auch-als-Tourguide-einiges-erzaehlen-11250322.html"
+    },
+    {
+      "title": "Dreame, Ecovacs, Mammotion und Segway: Vier High-End-Mähbots im Härtetest",
+      "teaser": "Kräftige Antriebe, Kartenautomatik, cleverer Igelschutz und Randschnitt: Diese Luxusmähbots sollen trickreiche Alleskönner sein. Ob das stimmt, klärt der Test.",
+      "url": "https://www.heise.de/tests/Dreame-Ecovacs-Mammotion-und-Segway-Vier-High-End-Maehbots-im-Haertetest-11259259.html"
+    },
+    {
       "title": "Kindle Scribe Colorsoft im Test: Amazons erstes E-Ink-Tablet mit Farbdisplay",
       "teaser": "Amazon bringt mit dem Kindle Scribe Colorsoft Farbe in seine E-Reader-Oberklasse. Das 11-Zoll-Tablet ist Notizblock und Lesegerät in einem.",
       "url": "https://www.heise.de/tests/Kindle-Scribe-Colorsoft-im-Test-Amazons-erstes-E-Ink-Tablet-mit-Farbdisplay-11252446.html"
-    },
-    {
-      "title": "Mythos Preview von Anthropic: PR-Trick oder Security-Katastrophe?",
-      "teaser": "Anthropic erregt mit seinem neuen KI-Modell viel Aufmerksamkeit – sicher nicht unabsichtlich, aber auch nicht völlig haltlos. Ein Überblick über die Diskussion.",
-      "url": "https://www.heise.de/meinung/Mythos-Preview-von-Anthropic-PR-Trick-oder-Security-Katastrophe-11254414.html",
-      "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
-    },
-    {
-      "title": "Plattformen und Haftung: Das Prinzip Nichtverantwortung wankt",
-      "teaser": "Soziale Medien prägen die Debatte und entziehen sich zugleich weitgehend der Haftung. Dieses Privileg war einst Motor für Innovation. Heute wird es zum Problem.",
-      "url": "https://www.heise.de/hintergrund/Plattformen-und-Haftung-Das-Prinzip-Nichtverantwortung-wankt-11208254.html"
     },
     {
       "title": "Nachgemessen: So schlagen sich Apples MacBook Pro gegen starke Windows-Notebooks",
@@ -755,22 +754,22 @@
       "image_title": "ZXMoto 820 RR"
     },
     {
-      "title": "UpdateReiches Gas-Pläne: Warum Verbraucher jetzt 178 Euro mehr zahlen könnten",
-      "teaser": "Das Wirtschaftsministerium hat die Mehrkosten nie selbst berechnet – die Zahlen kommen von außen und sind alarmierend.",
-      "url": "https://www.heise.de/-11262661",
-      "image_title": "Symbolbild der Stromerzeugung wahlweise aus fossilen oder erneuerbaren Energien"
+      "title": "IEA-Bericht: Solarenergie überholt erstmals alle anderen Energiequellen",
+      "teaser": "Photovoltaik lieferte 2025 den größten Beitrag zum globalen Energiewachstum. Strombedarf stieg doppelt so schnell wie die Gesamtnachfrage.",
+      "url": "https://www.heise.de/-11264082",
+      "image_title": "Ein Arbeiter auf einer Reihe von Solarmodulen mit einem Werkzeug in der Hand."
     },
     {
-      "title": "Stromausfall: Wenn die Zivilisation auf Pause gedrückt wird",
-      "teaser": "Ein längerer Stromausfall könnte Deutschland in den Kollaps treiben – und das ist nur eines der Szenarien, die Experten beunruhigen.",
-      "url": "https://www.heise.de/-11256021",
-      "image_title": "NATO-Stern mit verlängertem Zacken steht auf Ziffernblatt 5 vor 12"
+      "title": "Joghurt reist weiter als die meisten Menschen",
+      "teaser": "Lkw-Verkehr hat sich seit 1991 fast verdoppelt – und die Reise eines Joghurt zeigt, warum das System so absurd ist.",
+      "url": "https://www.heise.de/-11258875",
+      "image_title": "Mit Straßen umwickelter Globus wir non Gewicht mit LKW-Aufdruck zerdrückt. Dahinter ein Schild mit Zug"
     },
     {
-      "title": "Diese Ameise ist gefährlicher als jede Biene",
-      "teaser": "Der Stich der Asiatischen Nadelameise löst häufiger schwere Allergien aus als ein Bienenstich – und jetzt ist sie erstmals in Deutschland aufgetaucht.",
-      "url": "https://www.heise.de/-11259661",
-      "image_title": "Ameise und Warnzeichen giftige Stoffe"
+      "title": "Schleichend, legal, gefährlich: Der neue Autoritarismus",
+      "teaser": "Dekrete statt Debatten, Dekadenz statt Demokratie: Trump demontiert, doch er ist nicht alleine. Was ein neuer Report über den Zustand der Demokratien aussagt.",
+      "url": "https://www.heise.de/-11254836",
+      "image_title": "Ein Diagramm vor blauem Grund"
     },
     {
       "title": "Experte über IT-Gehälter: „Da schlackern selbst mir die Ohren“",
@@ -788,9 +787,9 @@
       "url": "https://t3n.de/news/wetten-auf-weltpolitik-was-du-ueber-prognosemaerkte-wie-polymarket-wissen-musst-1738834/"
     },
     {
-      "title": "Surfshark Antivirus im Test: Lohnt das Security-Upgrade?",
-      "teaser": "Der VPN-Anbieter Surfshark liefert in einigen Tarifen eine Antivirus-Software mit. Wir haben das minimalistische Virenschutz-Tool unter die Lupe genommen.",
-      "url": "https://www.heise.de/download/specials/Surfshark-Antivirus-im-Test-Lohnt-das-Security-Upgrade-11252085"
+      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
+      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
+      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
     },
     {
       "title": "Desinfec't",
