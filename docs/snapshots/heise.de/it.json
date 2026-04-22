@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-22T12:55:19",
+  "timestamp": "2026-04-22T14:28:16",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,48 @@
   ],
   "articles": [
     {
+      "title": "Rsbuild 2.0: Schnelleres Bundling, ESM-first und Node 20",
+      "teaser": "Rsbuild 2.0 setzt auf Rspack 2.0, modernisiert Defaults (ESM-first, Node 20) und reduziert Abhängigkeiten. Neue APIs erweitern die Kommunikation.",
+      "url": "https://www.heise.de/news/Rsbuild-2-0-Schnelleres-Bundling-ESM-first-und-Node-20-11267704.html",
+      "image_title": "Abstrakte Linien, die zusammen einen blauen Planeten bilden"
+    },
+    {
+      "title": "Anthropic nimmt testweise Claude Code aus dem Pro-Tarif",
+      "teaser": "Anthropic experimentiert mit dem Umfang seines Pro-Tarifs: Bei einigen Neukunden fehlt die für Entwickler wichtige Claude-Code-Komponente.",
+      "url": "https://www.heise.de/news/Anthropic-nimmt-testweise-Claude-Code-aus-dem-Pro-Tarif-11267811.html",
+      "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
+    },
+    {
+      "title": "Logseq für Einsteiger: Persönliches Wissen sammeln und vernetzen",
+      "teaser": "Logseq sammelt und vernetzt persönliches Wissen. Die App ist zwar noch nicht fertig, hat aber dennoch viele treue Fans. Wir zeigen, wie der Einstieg gelingt.",
+      "url": "https://www.heise.de/ratgeber/Logseq-fuer-Einsteiger-Persoenliches-Wissen-sammeln-und-vernetzen-11265501.html"
+    },
+    {
       "title": "Signal-Phishing-Angriffe: BfV und BSI aktualisieren Warnung",
       "teaser": "Das BSI und der Verfassungsschutz aktualisieren ihre Warnung vor Phishing-Angriffen auf hochrangige Persönlichkeiten.",
       "url": "https://www.heise.de/news/Signal-Phishing-Angriffe-BfV-und-BSI-aktualisieren-Warnung-11268017.html",
       "image_title": "Signal-Phishing-Beispiele"
     },
     {
-      "title": "Anker Thus: Winziger KI-Speicherchip verbessert Geräuschunterdrückung",
+      "title": "RatgeberLogseq für Einsteiger: Persönliches Wissen sammeln und vernetzen",
+      "url": "https://www.heise.de/ratgeber/Logseq-fuer-Einsteiger-Persoenliches-Wissen-sammeln-und-vernetzen-11265501.html"
+    },
+    {
+      "title": "TestsGaming-Mäuse: Ist teuer besser?",
+      "url": "https://www.heise.de/tests/Gaming-Maeuse-Ist-teuer-besser-11228110.html"
+    },
+    {
+      "title": "Ratgeberheise+ Expertentalk: Lokale KIs für Einsteiger",
+      "url": "https://www.heise.de/ratgeber/heise-Expertentalk-Lokale-KIs-fuer-Einsteiger-11267184.html"
+    },
+    {
+      "title": "Ubiquiti Site Manager: Zentrale Verwaltung für Unternehmensnetze",
+      "teaser": "Ubiquiti führt den Site Manager ein, ein kostenloses Werkzeug zur zentralen Überwachung und Verwaltung von Unternehmensnetzen.",
+      "url": "https://www.heise.de/news/Ubiquiti-Site-Manager-Zentrale-Verwaltung-fuer-Unternehmensnetze-11268218.html",
+      "image_title": "Screenshot einer Netzwerkverwaltungssoftware mit Site-Manager-Ansicht."
+    },
+    {
+      "title": "Winzige KI-Chips Made in Germany: Anker kündigt Thus an",
       "teaser": "In Dresden hergestellte Mini-Chips landen künftig in In-Ear-Headsets. Bei Ankers Thus laufen KI-Modelle in NOR-Flash.",
       "url": "https://www.heise.de/news/Anker-Thus-Winziger-KI-Speicherchip-verbessert-Geraeuschunterdrueckung-11267979.html",
       "image_title": "Renderbild eines Anker-Chips"
@@ -42,18 +77,6 @@
       "teaser": "Der OrangePi Zero 3W kombiniert Octa-Core-CPU, NPU und Wi-Fi 6 auf kleinem Raum. Das ist spannend für kompakte Maker-Projekte.",
       "url": "https://www.heise.de/news/Neuer-Einplatinenrechner-fuer-Edge-und-IoT-Anwendungen-11267955.html",
       "image_title": "Nahaufnahme des Einplatinencomputers Orange Pi Zero 3W auf grauem Hintergrund. Die blaue Platine zeigt mehrere Anschlüsse, darunter USB-C-Ports und einen HDMI-Ausgang, einen zentralen Prozessorchip, einen WLAN/Bluetooth-Modulbereich sowie eine Reihe von GPIO-Pins entlang der Kante."
-    },
-    {
-      "title": "TestsGaming-Mäuse: Ist teuer besser?",
-      "url": "https://www.heise.de/tests/Gaming-Maeuse-Ist-teuer-besser-11228110.html"
-    },
-    {
-      "title": "Ratgeberheise+ Expertentalk: Lokale KIs für Einsteiger",
-      "url": "https://www.heise.de/ratgeber/heise-Expertentalk-Lokale-KIs-fuer-Einsteiger-11267184.html"
-    },
-    {
-      "title": "HintergrundÜberblick über die Architekturen von Web-Apps",
-      "url": "https://www.heise.de/hintergrund/Ueberblick-ueber-die-Architekturen-von-Web-Apps-11229312.html"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -78,6 +101,11 @@
       "teaser": "Die neue Version der Programmiersprache mit Go-Unterbau soll oft zehnmal schneller sein als der Vorgänger, der noch die JavaScript-Codebasis verwendete.",
       "url": "https://www.heise.de/news/TypeScript-7-0-Beta-Neue-Go-Basis-beschleunigt-die-Programmiersprache-11267409.html",
       "image_title": "Tachometer in Nahaufnahme"
+    },
+    {
+      "title": "Überblick über die Architekturen von Web-Apps",
+      "teaser": "Single-Page-App, Server-Side Rendering oder Static-Sites? Wer die Web-Architekturen kennt, trifft fundierte Entscheidungen bei seinem nächsten Projekt.",
+      "url": "https://www.heise.de/hintergrund/Ueberblick-ueber-die-Architekturen-von-Web-Apps-11229312.html"
     },
     {
       "title": "AMD Ryzen 9 9950X3D2 Dual Edition im Test: Schnellste AM5-CPU braucht viel Strom",
@@ -112,36 +140,6 @@
       "title": "Watchtower und Alternativen: So halten Sie Docker-Container automatisch aktuell",
       "teaser": "Viele Werkzeuge ersetzen veraltete Docker-Images durch neuere. Wir stellen drei davon vor, vom simplen Update-Automaten bis zur GitOps-Pipeline.",
       "url": "https://www.heise.de/ratgeber/Watchtower-und-Alternativen-So-halten-Sie-Docker-Container-automatisch-aktuell-11243856.html"
-    },
-    {
-      "title": "AlertOracle sichert Produktportfolio mit 481 Sicherheitsupdates ab",
-      "teaser": "Der Softwarehersteller Oracle schützt unter anderem E-Business Suite, MySQL und VM VirtualBox vor möglichen Attacken.",
-      "url": "https://www.heise.de/news/Oracle-sichert-Produktportfolio-mit-481-Sicherheitsupdates-ab-11267083.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "Mastodon: Förderung für Arbeit an verschlüsselten Direktnachrichten und mehr",
-      "teaser": "Von der Sovereign Tech Agency bekommt das Mastodon-Team 614.000 Euro für die Arbeit an Funktionen, von denen bald das ganze Fediverse profitieren soll.",
-      "url": "https://www.heise.de/news/Mastodon-Foerderung-fuer-Arbeit-an-verschluesselten-Direktnachrichten-und-mehr-11267063.html",
-      "image_title": "Mastodon-Schriftzug auf einem Smartphone, das Logo im Hintergrund auf einem Display"
-    },
-    {
-      "title": "Weniger Cloud, mehr Kontrolle: PHP wandert zurück ins eigene Rechenzentrum",
-      "teaser": "Die PHP-Entwicklung findet immer häufiger abseits der Cloud statt. Meist kommt dabei PHP 8.3 zum Einsatz. Bei den Betriebssystemen erlebt Windows ein Comeback.",
-      "url": "https://www.heise.de/news/Weniger-Cloud-mehr-Kontrolle-PHP-wandert-zurueck-ins-eigene-Rechenzentrum-11265155.html",
-      "image_title": "Aufmacher PHP-Report 2025"
-    },
-    {
-      "title": "Tado vereint alte und neue Heiz- und Klimasysteme unter einem Konto",
-      "teaser": "Tado führt Multi-Haushalt-Accounts ein, was den lästigen System-Split zwischen X- und V3+-Thermostaten aufhebt. Doch vollen Komfort gibt es bloß im Bezahl-Abo.",
-      "url": "https://www.heise.de/news/Tado-vereint-alte-und-neue-Heiz-und-Klimasysteme-unter-einem-Konto-11267007.html",
-      "image_title": "Tado App auf Handy"
-    },
-    {
-      "title": "iX-Workshop Keycloak: Die Grundlagen für effizientes IAM und SSO",
-      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
-      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Die-Grundlagen-fuer-effizientes-IAM-und-SSO-11255546.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
