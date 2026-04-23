@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T10:11:52",
+  "timestamp": "2026-04-23T11:51:46",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Ein Kabel reicht: Seagate bringt externe Festplatten mit USB-C-Stromversorgung",
+      "title": "Leichtere E-Autos, mehr Innenraum: CATL setzt Maßstäbe mit neuem Qilin-Akku",
+      "teaser": "Der chinesische Akkuhersteller CATL stellt in Peking eine schnellladbare CTP-Batterie vor. Sie verspricht leichtere Autos, mehr Innenraum und Reichweite.",
+      "url": "https://www.heise.de/news/Verpackungskuenstler-CATL-kuendigt-Qilin-E-Auto-Akku-mit-1000-km-Reichweite-an-11268385.html",
+      "image_title": "catl quilin"
+    },
+    {
+      "title": "Vibecoding: Wenn das KI-Paradies vom guten Willen der Firmen abhängt",
+      "teaser": "Vibecoding versprach, jeden zum Programmierer zu machen. Doch ein Preistest bei Anthropic zeigt, wie fragil dieses Geschäftsmodell für Nutzer ist.",
+      "url": "https://www.heise.de/meinung/Vibecoding-Wenn-das-KI-Paradies-vom-guten-Willen-der-Firmen-abhaengt-11269225.html",
+      "image_title": "Kommentar-Symbolbild"
+    },
+    {
+      "title": "UpdateExterne Seagate-Festplatten: Kein Netzteil mehr für bis zu 24 TByte",
       "teaser": "Seagates Firecuda X Vault und One Touch kommen ohne Netzteil aus. Ein RAID-Speicher verbindet sich per Thunderbolt 5 mit einem Notebook.",
       "url": "https://www.heise.de/news/Ein-Kabel-reicht-Seagate-bringt-externe-Festplatten-mit-USB-C-Stromversorgung-11269303.html",
       "image_title": "USB-Festplatte hängt an einem Notebook"
@@ -30,18 +42,6 @@
       "teaser": "Die neue Anschlussnorm für Kleinsterzeuger sieht keine Begrenzung der DC-Leistung vor, wohl aber maximal 800 W Erzeugungsleistung. Aber da geht mehr ...",
       "url": "https://www.heise.de/hintergrund/10-kWp-Solaranlage-ohne-Elektriker-So-geht-s-11259469.html",
       "image_title": "Solarmodule an Balkon"
-    },
-    {
-      "title": "Kommentar: Zum Glück fällt nur das Müsli",
-      "teaser": "Roboter sind auf der Hannover Messe allgegenwärtig. Die meisten Hersteller versprechen mehr als sie halten können, meint Robin Ahrens.",
-      "url": "https://www.heise.de/meinung/Kommentar-Zum-Glueck-faellt-nur-das-Muesli-11268460.html",
-      "image_title": "Ein Roboter"
-    },
-    {
-      "title": "VirtualBox 7.2.8: Bugfixes für Linux, Wayland und Secure Boot",
-      "teaser": "VirtualBox 7.2.8 bringt wichtige Bugfixes für Linux-Hosts, Wayland-Gäste und Secure Boot. Auch 7.1.x erreicht sein Support-Ende.",
-      "url": "https://www.heise.de/news/VirtualBox-7-2-8-Bugfixes-fuer-Linux-Wayland-und-Secure-Boot-11269431.html",
-      "image_title": "Abstrakte Darstellung eines Prozessors mit binärem Code, der sich spiralförmig nach oben windet."
     },
     {
       "title": "Hintergrund10-kWp-Solaranlage ohne Elektriker: So geht's",
@@ -57,6 +57,12 @@
       "title": "HintergrundMacBook Neo: Der Schrecken der Windows-Welt",
       "url": "https://www.heise.de/hintergrund/MacBook-Neo-Der-Schrecken-der-Windows-Welt-11253685.html",
       "image_title": "MacBook Neo: Apples neuester Mac"
+    },
+    {
+      "title": "Kommentar: Zum Glück fällt nur das Müsli",
+      "teaser": "Roboter sind auf der Hannover Messe allgegenwärtig. Die meisten Hersteller versprechen mehr als sie halten können, meint Robin Ahrens.",
+      "url": "https://www.heise.de/meinung/Kommentar-Zum-Glueck-faellt-nur-das-Muesli-11268460.html",
+      "image_title": "Ein Roboter"
     },
     {
       "title": "E-Auto-Anteil steigt: BYD mit massivem Zuwachs",
@@ -140,12 +146,6 @@
       "teaser": "Apples nächster CEO heißt John Ternus. Wir analysieren, welche massiven Herausforderungen auf den Ingenieur warten und welche Rolle Tim Cook spielt.",
       "url": "https://www.heise.de/news/Neuer-Apple-CEO-alte-Probleme-Jetzt-muss-Ternus-liefern-Mac-i-Podcast-11266557.html",
       "image_title": "Apples nächster CEO: Das schwere Erbe für John Ternus Mac & i-Podcast"
-    },
-    {
-      "title": "VW-Chef Blume will Produktionskapazität um weitere Million senken",
-      "teaser": "Volkswagen-Konzernchef Oliver Blume will die Produktion angesichts des schwierigen Marktumfelds dauerhaft um eine auf neun Millionen Autos senken.",
-      "url": "https://www.heise.de/news/VW-Chef-Blume-will-Produktionskapazitaet-um-weitere-Million-senken-11265764.html",
-      "image_title": "Volkswagenwerk Osnabrück mit VW T-Roc Cabrio"
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
