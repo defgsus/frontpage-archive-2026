@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T19:59:33",
+  "timestamp": "2026-04-23T20:52:41",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Maryland verbietet personalisierte Preise bei Lebensmitteln",
+      "url": "https://www.heise.de/news/Maryland-verbietet-personalisierte-Preise-bei-Lebensmitteln-11270511.html"
+    },
     {
       "title": "Top 10: Speicher für Balkonkraftwerk im Test – Testsieger benötigt keine Cloud",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-testsieger-benoetigt-keine-cloud/9g7b03h?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -54,10 +58,6 @@
     {
       "title": "Meta gibt Eltern Einblick in die KI-Chats ihrer Kinder",
       "url": "https://www.heise.de/news/Meta-gibt-Eltern-Einblick-in-die-KI-Chats-ihrer-Kinder-11269884.html"
-    },
-    {
-      "title": "Sozialgerichte kämpfen mit KI-Klagen – oft zum Bürgergeld",
-      "url": "https://www.heise.de/news/Sozialgerichte-kaempfen-mit-KI-Klagen-oft-zum-Buergergeld-11270332.html"
     },
     {
       "title": "Leichtere E-Autos, mehr InnenraumCATL setzt Maßstäbe mit neuem Qilin-Akku",
@@ -181,20 +181,26 @@
       "image_title": "SpaceX-Schriftzug am Standort in Texas"
     },
     {
+      "title": "Maryland verbietet personalisierte Preise bei Lebensmitteln",
+      "teaser": "Daten verraten, wie viel ein Kunde zu zahlen bereit ist. Es folgt der persönlich zugeschnittene Preis. Maryland greift bei Lebensmitteln ein, aber wohl zu kurz.",
+      "url": "https://www.heise.de/news/Maryland-verbietet-personalisierte-Preise-bei-Lebensmitteln-11270511.html",
+      "image_title": "Schild an Baum: \"Walk this way for the best deals in Town!!!\""
+    },
+    {
       "title": "Top 10: Speicher für Balkonkraftwerk im Test – Testsieger benötigt keine Cloud",
       "teaser": "Speicher für ein Balkonkraftwerk setzten bislang fast immer eine Verbindung zur Cloud des Herstellers voraus. Unser Testsieger funktioniert auch offline.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-testsieger-benoetigt-keine-cloud/9g7b03h?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "KI-Einsatz: Wie die deutsche Fertigungsindustrie ihre Zukunft sichert",
+      "teaser": "Fachkräftemangel und globaler Wettbewerb machen Fertigungsunternehmen zu schaffen. Mit einer KI-gestützten Automatisierung und intelligenter Robotik lassen sich diese Herausforderungen bewältigen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7230388698&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "AlertPasswortsafe Bitwarden: Kommandozeilen-Client trojanisiert",
       "teaser": "Das Bitwarden-Security-Team bestätigt, dass kurzzeitig eine bösartige Version des Kommandozeilen-Client ausgeliefert wurde.",
       "url": "https://www.heise.de/news/Passwortsafe-Bitwarden-Kommandozeilen-Client-trojanisiert-11270435.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Wenn KI die Infrastruktur ans Limit bringt",
-      "teaser": "Rechenzentren sind meist auf IT-Lasten von 5 bis 15 kVA pro Rack ausgelegt. Moderne KI-Workloads fordern jedoch 50 bis 200 kVA. Wie lassen sich solche Anforderungen mit Strom versorgen und kühlen?",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7214753186&iu=%2F6514%2FClicktracking%2Ftextlink"
     },
     {
       "title": "Warner-Aktionäre billigen Kauf durch Paramount",
@@ -224,12 +230,6 @@
       "title": "Justiz in Nordrhein-Westfalen leidet unter massiven IT-Störungen",
       "teaser": "IT-Störungen bremsen die Arbeit der Justiz: Richter berichten von schwarzen Bildschirmen und fehlendem Support – mit Folgen für den Rechtsschutz.",
       "url": "https://www.heise.de/news/Richter-in-Nordrhein-Westfalen-klagen-ueber-IT-Probleme-11270439.html"
-    },
-    {
-      "title": "Meta gibt Eltern Einblick in die KI-Chats ihrer Kinder",
-      "teaser": "Meta führt eine neue Funktion für Teen-Konten ein, die Eltern Einsicht in Themen geben, über die ihre Kinder mit Meta AI gesprochen haben.",
-      "url": "https://www.heise.de/news/Meta-gibt-Eltern-Einblick-in-die-KI-Chats-ihrer-Kinder-11269884.html",
-      "image_title": "Kind nutzt ein Smartphone, während Eltern im Hintergrund aufmerksam zusehen – Symbolbild für elterliche Kontrolle digitaler Nutzung."
     },
     {
       "title": "Was sich wann wirklich lohntPrivate Energiewende für Skeptiker: Ein Praxisbericht über rechnerische Vorteile",
@@ -322,6 +322,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Meta gibt Eltern Einblick in die KI-Chats ihrer Kinder",
+      "teaser": "Meta führt eine neue Funktion für Teen-Konten ein, die Eltern Einsicht in Themen geben, über die ihre Kinder mit Meta AI gesprochen haben.",
+      "url": "https://www.heise.de/news/Meta-gibt-Eltern-Einblick-in-die-KI-Chats-ihrer-Kinder-11269884.html",
+      "image_title": "Kind nutzt ein Smartphone, während Eltern im Hintergrund aufmerksam zusehen – Symbolbild für elterliche Kontrolle digitaler Nutzung."
+    },
+    {
       "title": "Sozialgerichte kämpfen mit KI-Klagen – oft zum Bürgergeld",
       "teaser": "Immer mehr Bürger kämpfen mit KI-generierten Klagen beispielsweise ums Bürgergeld – und bringen Richter an ihre Grenzen. Was das für die Verfahren bedeutet.",
       "url": "https://www.heise.de/news/Sozialgerichte-kaempfen-mit-KI-Klagen-oft-zum-Buergergeld-11270332.html",
@@ -391,15 +397,15 @@
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
+      "title": "Wenn eine Mail an die falsche Person geht ...",
+      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
+    },
+    {
       "title": "Gestiegene Nachfrage: Tesla will Personaldecke im Werk Brandenburg verstärken",
       "teaser": "Tesla-Chef Elon Musk will die Zahl der Beschäftigten im Tesla-Werk Grünheide erhöhen und begründet das mit gestiegener Nachfrage nach dem E-Auto Tesla Model Y.",
       "url": "https://www.heise.de/news/Gestiegene-Nachfrage-Tesla-will-Personaldecke-im-Werk-Brandenburg-verstaerken-11269754.html",
       "image_title": "Mitarbeitende bei Tesla"
-    },
-    {
-      "title": "So wird ein SAP BTP Deployment zukunftssicher und effizient",
-      "teaser": "Viele Unternehmen stoßen beim Ausrollen und Verwalten der SAP Business Technology Plattform (BTP) ohne Automatisierung an technische und organisatorische Grenzen. Wie man diese Grenzen überwinden kann, erfahren Sie in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-wird-ihr-sap-btp-deployment-zukunftssicher-skalierbar-und-effizient-5041/?source=hbsad-ersatz"
     },
     {
       "title": "Jetpack Compose 1.11 bringt Neuigkeiten für Testing, Debugging und Styling",
@@ -453,12 +459,6 @@
       "teaser": "Sonys KI-Forscher haben einen Roboter entwickelt, der erfahrene Tischtennisspieler schlägt. Sie sehen darin einen Meilenstein auf dem Weg zu physischer KI.",
       "url": "https://www.heise.de/news/Sonys-Tischtennis-Roboter-schlaegt-Spitzenspieler-11268808.html",
       "image_title": "KI-Roboter von Sony spielt Tischtennis gegen einen menschlichen Gegner und trifft den Ball präzise mit einem Roboterarm"
-    },
-    {
-      "title": "Kopfkissen warnt gehörlose Menschen in der Nacht bei Einbrüchen und Feuer",
-      "teaser": "Gehörlose Menschen können in der Nacht etwa durch Feuer bedroht sein. Akustische Warnsignale können sie aber nicht wahrnehmen. Ein Vibrationskissen kann helfen.",
-      "url": "https://www.heise.de/news/Kopfkissen-warnt-gehoerlose-Menschen-in-der-Nacht-bei-Einbruechen-und-Feuer-11269263.html",
-      "image_title": "Mann zieht schwarzen smarten Kissenbezug über ein Kopfkissen."
     },
     {
       "title": "Anthropics „gefährliche“ KI Mythos: Unbefugte mit Zugriff seit dem ersten Tag",
@@ -630,19 +630,19 @@
       "url": "https://www.heise.de/en/news/Anthropic-s-dangerous-AI-Mythos-Unauthorized-access-likely-since-day-one-11266912.html"
     },
     {
-      "title": "Rauschende Erinnerungen: So retten Sie analoge Fotos und Videos",
-      "teaser": "Wer analoge Videos und Fotos digitalisieren will, braucht das richtige Werkzeug und etwas Zeit. Wir vergleichen Geräte, Software und Kosten für Dienstleister.",
-      "url": "https://www.heise.de/ratgeber/Rauschende-Erinnerungen-So-retten-Sie-analoge-Fotos-und-Videos-11242511.html"
+      "title": "Wie Sie Ihr Android-Handy mit einer alternativen Find-My-Device-App wiederfinden",
+      "teaser": "Mit der Open-Source-App FMD ortet man sein Smartphone datenschutzfreundlich und löscht es notfalls aus der Ferne – ohne Google-Konto.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-Ihr-Android-Handy-mit-einer-alternativen-Find-My-Device-App-wiederfinden-11245118.html"
     },
     {
-      "title": "Linux-Distribution Ubuntu Desktop 26.04 LTS im Test",
-      "teaser": "Canonical stellt Sicherheit in den Mittelpunkt: Rust-Werkzeuge, TPM-Verschlüsselung und Berechtigungsprompts prägen das neue Ubuntu-LTS-Release.",
-      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
+      "title": "Familienfotos mit KI restaurieren und kolorieren",
+      "teaser": "Alte Familienfotos sind oft unscharf, körnig und zerkratzt. Künstliche Intelligenz kann verloren geglaubte Details zurückholen. Diese KI-Tools helfen dabei.",
+      "url": "https://www.heise.de/tests/Familienfotos-mit-KI-restaurieren-und-kolorieren-11242433.html"
     },
     {
-      "title": "Gaming-Mäuse: Ist teuer besser?",
-      "teaser": "Die aktuellen Flaggschiffe von Razer und Logitech trumpfen mit 50.000-dpi-Sensor oder Analogtasten mit Force Feedback auf. Wir haben Sie getestet.",
-      "url": "https://www.heise.de/tests/Gaming-Maeuse-Ist-teuer-besser-11228110.html"
+      "title": "Watchtower und Alternativen: So halten Sie Docker-Container automatisch aktuell",
+      "teaser": "Viele Werkzeuge ersetzen veraltete Docker-Images durch neuere. Wir stellen drei davon vor, vom simplen Update-Automaten bis zur GitOps-Pipeline.",
+      "url": "https://www.heise.de/ratgeber/Watchtower-und-Alternativen-So-halten-Sie-Docker-Container-automatisch-aktuell-11243856.html"
     },
     {
       "title": "Orion im Test: Der Browser, der Chrome & Firefox vereint",
@@ -679,6 +679,12 @@
       "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
     },
     {
+      "title": "Fototour Luxemburg: Architektur, Natur und Burgen auf engem Raum entdecken",
+      "teaser": "Vom Kirchberg bis zum Müllerthal bietet Luxemburg kurze Wege und starke Motive für die Architektur- und Naturfotografie.",
+      "url": "https://www.heise.de/ratgeber/Fototour-Luxemburg-Architektur-Natur-und-Burgen-auf-engem-Raum-entdecken-11260543.html",
+      "image_title": "Eine der vielen historischen Schlossanlagen Luxemburgs: Auf engem Raum treffen hier Geschichte, Landschaft und starke Bildkompositionen aufeinander., Alle Bilder: Jessie Lang"
+    },
+    {
       "title": "DxO Nik Collection 9: KI-Masken und neue Effektfilter",
       "teaser": "Die Effektsuite Nik Collection erhält Effekte für Farbverschiebung, Glas-Look und Lichthöfe sowie Werkzeuge für KI-generierte Tiefenmasken und Color Grading.",
       "url": "https://www.heise.de/news/DxO-Nik-Collection-9-KI-Masken-und-neue-Effektfilter-11258895.html",
@@ -694,11 +700,6 @@
       "title": "Canons Nachtsicht-Wunder und ein Hai-Flüsterer – die Fotonews der Woche 16/26",
       "teaser": "Canon baut eine Kamera, die im Dunkeln besser sieht als eine Katze, Ricoh feiert die GR-Serie und ein Fotograf zeigt, wie vergänglich selbst Weiße Haie sind.",
       "url": "https://www.heise.de/news/Canons-Nachtsicht-Wunder-und-ein-Hai-Fluesterer-die-Fotonews-der-Woche-16-26-11262595.html"
-    },
-    {
-      "title": "Sony World Photography Awards 2026: Mexikanerin gewinnt Hauptpreis",
-      "teaser": "Sonys Fotowettbewerb verzeichnet über 430.000 Einsendungen aus über 200 Ländern. Citlali Fabián überzeugt mit einer Fotoserie über indigene Frauen.",
-      "url": "https://www.heise.de/news/Sony-World-Photography-Awards-2026-Mexikanerin-gewinnt-Hauptpreis-11262423.html"
     },
     {
       "title": "EUDI-Wallet: Das ist der aktuelle Stand der digitalen europäischen Brieftasche",
@@ -743,22 +744,22 @@
       "image_title": "BYD Seal"
     },
     {
-      "title": "Austauschbare Akkus in Smartphones werden ab 2027 Pflicht",
-      "teaser": "Ab Februar 2027 müssen alle in der EU verkauften Smartphones und Tablets austauschbare Akkus haben. Das soll Elektroschrott reduzieren und Milliarden sparen.",
-      "url": "https://www.heise.de/article/Austauschbare-Akkus-in-Smartphones-werden-ab-2027-Pflicht-11265253.html",
-      "image_title": "Nahaufnahme, die ein Smartphone mit einem Warnsymbol für niedrigen Akkuladestand hält."
+      "title": "Drohnen, Stillstand und ferne Hoffnung auf Frieden: Die Lage im Ukraine-Krieg",
+      "teaser": "Neue Angriffe tief im Hinterland in Russland und der Ukraine. An der Front dominiert ein zermürbender Drohnenkrieg, während sich die Linien kaum verschieben.",
+      "url": "https://www.heise.de/article/Drohnen-Stillstand-und-ferne-Hoffnung-auf-Frieden-Die-Lage-im-Ukraine-Krieg-11267913.html",
+      "image_title": "Ein ukrainischer Soldat mit einer Drohne in der Hand"
     },
     {
-      "title": "Deutschlands Debatte ist kaputt – aber nicht wegen der Bürger",
-      "teaser": "Vier getrennte Wissensräume blockieren Reformen – und KI könnte sie erstmals verbinden. Lesen Sie den Text ruhig auch als kleines Anschauungsstück.",
-      "url": "https://www.heise.de/article/Deutschlands-Debatte-ist-kaputt-aber-nicht-wegen-der-Buerger-11269373.html",
-      "image_title": "Spielfiguren, die für unterschiedliche Berufe stehen, vor einem Rednerpult mit deutscher Flagge. Der Redner ist ebenfalls eine Spielzeugfigur."
+      "title": "Pentagon zieht den Stecker: GPS-Programm OCX ist gescheitert",
+      "teaser": "16 Jahre, 6,27 Milliarden Dollar – und am Ende nichts. Das Pentagon hat das GPS-Modernisierungsprogramm OCX gestoppt. Wie geht es jetzt weiter für das System?",
+      "url": "https://www.heise.de/article/Pentagon-zieht-den-Stecker-GPS-Programm-OCX-ist-gescheitert-11269294.html",
+      "image_title": "Künstlerische Darstellung von GPS-Satelliten"
     },
     {
-      "title": "Düngerpreise explodieren – Biobauern bleiben gelassen",
-      "teaser": "Stickstoffdünger kostet bis zu 430 Euro pro Tonne – und treibt Bauern in die Enge. Biobauern dagegen verdienen fast doppelt so viel.",
-      "url": "https://www.heise.de/article/Duengerpreise-explodieren-Biobauern-bleiben-gelassen-11265149.html",
-      "image_title": "Traktor mit Düngeanbau und Zapfsäule mit Europfeilen nach oben"
+      "title": "Deutschlands einziges echtes Filmstudio bekommt einen neuen Chef",
+      "teaser": "Christoph Pellander übernimmt ARD-Tochter Degeto – eine 400-Millionen-Maschine für Serien, Krimis und Eskapismus. Ein System zwischen Effizienz und Monotonie.",
+      "url": "https://www.heise.de/article/Deutschlands-einziges-echtes-Filmstudio-bekommt-einen-neuen-Chef-11268756.html",
+      "image_title": "Profil eines Mannes mit Hut im Gegenlicht"
     },
     {
       "title": "Oxford-Professorin warnt: Warum Unternehmen ihre KI-Euphorie überdenken sollten",
