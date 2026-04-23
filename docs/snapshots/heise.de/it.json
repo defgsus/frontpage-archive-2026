@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T08:26:42",
+  "timestamp": "2026-04-23T10:11:46",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,28 +20,27 @@
   ],
   "articles": [
     {
-      "title": "Grafana 13: Schnellere Dashboards, schlankere Logs, OpenTelemetry-Pakete",
-      "teaser": "Grafana Labs hat Version 13 vorgestellt – mit automatischen Dashboard-Vorschlägen, beschleunigter Log-Analyse in Loki und vereinfachtem OpenTelemetry-Setup.",
-      "url": "https://www.heise.de/news/Grafana-13-Schnellere-Dashboards-schlankere-Logs-OpenTelemetry-Pakete-11268437.html",
-      "image_title": "Futuristische Datenmatrix"
+      "title": "Ein Kabel reicht: Seagate bringt externe Festplatten mit USB-C-Stromversorgung",
+      "teaser": "Seagates Firecuda X Vault und One Touch kommen ohne Netzteil aus. Ein RAID-Speicher verbindet sich per Thunderbolt 5 mit einem Notebook.",
+      "url": "https://www.heise.de/news/Ein-Kabel-reicht-Seagate-bringt-externe-Festplatten-mit-USB-C-Stromversorgung-11269303.html",
+      "image_title": "USB-Festplatte hängt an einem Notebook"
     },
     {
-      "title": "iX-Workshop: Active Directory hacken und schützen",
-      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11255566.html",
-      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
+      "title": "Watchtower und Alternativen: So halten Sie Docker-Container automatisch aktuell",
+      "teaser": "Viele Werkzeuge ersetzen veraltete Docker-Images durch neuere. Wir stellen drei davon vor, vom simplen Update-Automaten bis zur GitOps-Pipeline.",
+      "url": "https://www.heise.de/ratgeber/Watchtower-und-Alternativen-So-halten-Sie-Docker-Container-automatisch-aktuell-11243856.html"
     },
     {
-      "title": "OpenAI Prism im Test: KI-Tool für wissenschaftliches Schreiben",
-      "teaser": "Prism soll Arbeitsschritte bündeln und Forschende beim Schreiben mit LaTeX unterstützen. Wir testen, wie gut das funktioniert – und wo es gefährlich wird.",
-      "url": "https://www.heise.de/tests/OpenAI-Prism-im-Test-KI-Tool-fuer-wissenschaftliches-Schreiben-11184072.html",
-      "image_title": "Ein Mann mit Kopfhörern trinkt aus einer Tasse vor zwei Computermonitoren, auf denen wissenschaftliche Texte und Formeln zu sehen sind."
+      "title": "Kommentar: Zum Glück fällt nur das Müsli",
+      "teaser": "Roboter sind auf der Hannover Messe allgegenwärtig. Die meisten Hersteller versprechen mehr als sie halten können, meint Robin Ahrens.",
+      "url": "https://www.heise.de/meinung/Kommentar-Zum-Glueck-faellt-nur-das-Muesli-11268460.html",
+      "image_title": "Ein Roboter"
     },
     {
-      "title": "iOS 26.4.2: Patch soll Extraktion gelöschter Signal-Mitteilungen unterbinden",
-      "teaser": "iOS speicherte zum Löschen markierte Mitteilungen – auch von Krypto-Messengern – in einer auslesbaren Datenbank. Das soll nicht mehr passieren.",
-      "url": "https://www.heise.de/news/FBI-Extraktion-geloeschter-Signal-Mitteilungen-Apple-sichert-iPhones-besser-ab-11268852.html",
-      "image_title": "iPhone liegt auf dem Tisch."
+      "title": "VirtualBox 7.2.8: Bugfixes für Linux, Wayland und Secure Boot",
+      "teaser": "VirtualBox 7.2.8 bringt wichtige Bugfixes für Linux-Hosts, Wayland-Gäste und Secure Boot. Auch 7.1.x erreicht sein Support-Ende.",
+      "url": "https://www.heise.de/news/VirtualBox-7-2-8-Bugfixes-fuer-Linux-Wayland-und-Secure-Boot-11269431.html",
+      "image_title": "Abstrakte Darstellung eines Prozessors mit binärem Code, der sich spiralförmig nach oben windet."
     },
     {
       "title": "TestsOpenAI Prism im Test: KI-Tool für wissenschaftliches Schreiben",
@@ -56,6 +55,48 @@
     {
       "title": "RatgeberRauschende Erinnerungen: So retten Sie analoge Fotos und Videos",
       "url": "https://www.heise.de/ratgeber/Rauschende-Erinnerungen-So-retten-Sie-analoge-Fotos-und-Videos-11242511.html"
+    },
+    {
+      "title": "Sonys Tischtennis-Roboter schlägt Spitzenspieler",
+      "teaser": "Sonys KI-Forscher haben einen Roboter entwickelt, der erfahrene Tischtennisspieler schlägt. Sie sehen darin einen Meilenstein auf dem Weg zu physischer KI.",
+      "url": "https://www.heise.de/news/Sonys-Tischtennis-Roboter-schlaegt-Spitzenspieler-11268808.html",
+      "image_title": "KI-Roboter von Sony spielt Tischtennis gegen einen menschlichen Gegner und trifft den Ball präzise mit einem Roboterarm"
+    },
+    {
+      "title": "AlertSicherheitsupdate: Diverse Attacken auf IBM App Connect Enterprise möglich",
+      "teaser": "IBMs Integrationsplattform App Connect Enterprise ist verwundbar. Angreifer können an mehreren Schwachstellen ansetzen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Diverse-Attacken-auf-IBM-App-Connect-Enterprise-moeglich-11269193.html",
+      "image_title": "Ein symbolisches Updateschild."
+    },
+    {
+      "title": "AlertNTFS-Treiber für Linux: NTFS-3G schließt Rechteausweitungslücke",
+      "teaser": "Nach rund vier Jahren ist eine neue NTFS-3G-Version erschienen. Sie schließt eine Rechteausweitungslücke und bessert Fehler aus.",
+      "url": "https://www.heise.de/news/NTFS-Treiber-fuer-Linux-NTFS-3G-schliesst-Rechteausweitungsluecke-11268864.html",
+      "image_title": "NTFS-Logo vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "SUSE AI Factory mit Nvidia: KI-Eigenbetrieb leicht gemacht",
+      "teaser": "SUSE stellt auf der SUSECon die „SUSE AI Factory with Nvidia“ vor. Sie soll Unternehmen den Eigenbetrieb von KI erleichtern.",
+      "url": "https://www.heise.de/news/SUSE-AI-Factory-mit-Nvidia-KI-Eigenbetrieb-leicht-gemacht-11269126.html",
+      "image_title": "Logo mit einem Chamäleon und dem Schriftzug SUSE in einem Kreis auf einem Weltraumhintergrund"
+    },
+    {
+      "title": "Grafana 13: Schnellere Dashboards, schlankere Logs, OpenTelemetry-Pakete",
+      "teaser": "Grafana Labs hat Version 13 vorgestellt – mit automatischen Dashboard-Vorschlägen, beschleunigter Log-Analyse in Loki und vereinfachtem OpenTelemetry-Setup.",
+      "url": "https://www.heise.de/news/Grafana-13-Schnellere-Dashboards-schlankere-Logs-OpenTelemetry-Pakete-11268437.html",
+      "image_title": "Futuristische Datenmatrix"
+    },
+    {
+      "title": "iX-Workshop: Active Directory hacken und schützen",
+      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11255566.html",
+      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
+    },
+    {
+      "title": "iOS 26.4.2: Patch soll Extraktion gelöschter Signal-Mitteilungen unterbinden",
+      "teaser": "iOS speicherte zum Löschen markierte Mitteilungen – auch von Krypto-Messengern – in einer auslesbaren Datenbank. Das soll nicht mehr passieren.",
+      "url": "https://www.heise.de/news/FBI-Extraktion-geloeschter-Signal-Mitteilungen-Apple-sichert-iPhones-besser-ab-11268852.html",
+      "image_title": "iPhone liegt auf dem Tisch."
     },
     {
       "title": "AlertVMware Tanzu Spring Security: Angreifer können bösartigen Clients anmelden",
@@ -102,44 +143,6 @@
       "title": "Familienfotos mit KI restaurieren und kolorieren",
       "teaser": "Alte Familienfotos sind oft unscharf, körnig und zerkratzt. Künstliche Intelligenz kann verloren geglaubte Details zurückholen. Diese KI-Tools helfen dabei.",
       "url": "https://www.heise.de/tests/Familienfotos-mit-KI-restaurieren-und-kolorieren-11242433.html"
-    },
-    {
-      "title": "#heiseshow: EU-Altersverifikation, Unterwasser-Kabelschneider, Apple-Chefwechsel",
-      "teaser": "In der #heiseshow: Die EU-App zur Altersverifikation hat Sicherheitslücken, China testet einen Tiefsee-Kabelschneider und Apple kündigt einen Chefwechsel an.",
-      "url": "https://www.heise.de/news/heiseshow-EU-Altersverifikation-Unterwasser-Kabelschneider-Apple-Chefwechsel-11268236.html"
-    },
-    {
-      "title": "Gesundheitsdigitalisierung: Florian Fuhrmann über die neue Rolle der Gematik",
-      "teaser": "In ihrer weiterentwickelten Rolle will die Gematik die Digitalisierung besser orchestrieren und machte deutlich, dass sich die Rollen im System verschieben.",
-      "url": "https://www.heise.de/news/Gesundheitsdigitalisierung-Florian-Fuhrmann-ueber-die-neue-Rolle-der-Gematik-11267694.html",
-      "image_title": "Florian Fuhrmann auf der DMEA"
-    },
-    {
-      "title": "Chipfertigung: Das sind die Pläne des Weltmarktführers TSMC bis 2029",
-      "teaser": "TSMC setzt drei weitere Fertigungsprozesse auf seine Roadmap: A13, A12 und N2U. Bei den immer größer werdenden Chipkonstrukten plant TSMC um.",
-      "url": "https://www.heise.de/news/Chipfertigung-Das-sind-die-Plaene-des-Weltmarktfuehrers-TSMC-bis-2029-11268528.html",
-      "image_title": "Foto eines Reinraums bei TSMC"
-    },
-    {
-      "title": "Test: Yaasa Desk Pro – höhenverstellbarer Schreibtisch mit Display in der Platte",
-      "teaser": "Der elektrisch höhenverstellbare Yaasa Desk Pro überzeugt mit hochwertiger Verarbeitung, in der Tischplatte eingelassenem Display und nachhaltiger Verpackung.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/test-yaasa-desk-pro-hoehenverstellbarer-schreibtisch-mit-display-in-der-platte/5rhnhby?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "NVMe-SSD Lexar NM790 im Test: Bis zu 8 TB, ohne DRAM-Cache & 5 Jahre Garantie",
-      "teaser": "Die Lexar NM790 mit 8 TB verzichtet auf DRAM-Cache, bleibt sparsam und liefert solide Leistung. Eine spannende Alternative im High-End-Segment.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/nvme-ssd-lexar-nm790-im-test-bis-zu-8-tb-ohne-dram-cache-und-5-jahre-garantie/mv4wg16?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Alertn8n: Updates beheben kritische Sicherheitslücken in Automatisierungsplattform",
-      "teaser": "Die Aktualisierung wurde per E-Mail allen Admins angekündigt, diese sollten sie nun prompt einspielen. Es droht Code-Einschleusung.",
-      "url": "https://www.heise.de/news/n8n-Updates-beheben-kritische-Sicherheitsluecken-in-Automatisierungsplattform-11268464.html"
-    },
-    {
-      "title": "Framework Laptop 13 Pro: Ubuntu-Option und neue Hardware-Details",
-      "teaser": "Interessierte können den Framework Laptop 13 Pro vorbestellen. Die Intel-Versionen sind deutlich attraktiver als die AMD-Varianten.",
-      "url": "https://www.heise.de/news/Framework-Laptop-13-Pro-AMD-teurer-als-Intel-Ubuntu-vorinstalliert-11268365.html",
-      "image_title": "Zwei aufgeklappte Notebooks auf heller Unterlage"
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
