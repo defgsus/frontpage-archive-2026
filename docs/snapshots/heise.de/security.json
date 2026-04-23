@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T06:53:37",
+  "timestamp": "2026-04-23T08:26:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Signal-Phishing-WarnungAuslöser wohl Angriff auf Julia Klöckner",
+      "teaser": "Julia Klöckner ist offenbar Opfer der Signal-Phishing-Angriffe geworden, vor denen BfV und BSI am Mittwoch erneut gewarnt haben.",
+      "url": "https://www.heise.de/news/Signal-Phishing-Warnung-Ausloeser-wohl-Angriff-auf-Julia-Kloeckner-11268708.html",
+      "image_title": "Signal-App auf einem Smartphone"
+    },
+    {
       "title": "271 Lücken für Browser-Update gefixtFirefox-Team hält Mythos-KI für entscheidenden Durchbruch",
       "teaser": "Anthropics „gefährliche“ KI könnte Verteidigern der IT-Sicherheit den entscheidenden Vorteil liefern. Das meint das Firefox-Team.",
       "url": "https://www.heise.de/news/271-Firefox-Luecken-dank-Mythos-KI-geschlossen-Durchbruch-fuer-IT-Sicherheit-11267401.html",
       "image_title": "Das Firefox-Logo auf einer Zeichnung eines Notebooks"
     },
     {
-      "title": "IT-Vorfall bei AnodotModekette Zara betroffen",
-      "teaser": "Die Cybergang ShinyHunters ist kürzlich bei Anodot eingebrochen. Dabei hat sie auch Daten der Modekette Zara abgegriffen.",
-      "url": "https://www.heise.de/news/IT-Vorfall-bei-Anodot-Modekette-Zara-betroffen-11267783.html",
-      "image_title": "Darkweb-Eintrag zu Zara-Einbruch"
-    },
-    {
-      "title": "Alertn8n: Updates beheben kritische Sicherheitslücken in Automatisierungsplattform",
-      "url": "https://www.heise.de/news/n8n-Updates-beheben-kritische-Sicherheitsluecken-in-Automatisierungsplattform-11268464.html"
+      "title": "AlertVMware Tanzu Spring Security: Angreifer können bösartigen Clients anmelden",
+      "url": "https://www.heise.de/news/VMware-Tanzu-Spring-Security-Angreifer-koennen-boesartigen-Clients-anmelden-11268714.html",
+      "image_title": "Ein symbolischer Updateknopf."
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -48,10 +49,28 @@
       "url": "https://shop.heise.de/authentifizierung-im-active-directory-absichern-4018837114940?wt_mc=intern.conf.security.web_ntlm.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Signal-Phishing-Warnung: Auslöser wohl Angriff auf Julia Klöckner",
-      "teaser": "Julia Klöckner ist offenbar Opfer der Signal-Phishing-Angriffe geworden, vor denen BfV und BSI am Mittwoch erneut gewarnt haben.",
-      "url": "https://www.heise.de/news/Signal-Phishing-Warnung-Ausloeser-wohl-Angriff-auf-Julia-Kloeckner-11268708.html",
-      "image_title": "Signal-App auf einem Smartphone"
+      "title": "iX-Workshop: Active Directory hacken und schützen",
+      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11255566.html",
+      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
+    },
+    {
+      "title": "iOS 26.4.2: Patch soll Extraktion gelöschter Signal-Mitteilungen unterbinden",
+      "teaser": "iOS speicherte zum Löschen markierte Mitteilungen – auch von Krypto-Messengern – in einer auslesbaren Datenbank. Das soll nicht mehr passieren.",
+      "url": "https://www.heise.de/news/FBI-Extraktion-geloeschter-Signal-Mitteilungen-Apple-sichert-iPhones-besser-ab-11268852.html",
+      "image_title": "iPhone liegt auf dem Tisch."
+    },
+    {
+      "title": "AlertVMware Tanzu Spring Security: Angreifer können bösartigen Clients anmelden",
+      "teaser": "Aufgrund von Sicherheitsproblemen ist im Kontext von VMware Tanzu Spring Security unter anderem die Authentifizierung umgehbar.",
+      "url": "https://www.heise.de/news/VMware-Tanzu-Spring-Security-Angreifer-koennen-boesartigen-Clients-anmelden-11268714.html",
+      "image_title": "Ein symbolischer Updateknopf."
+    },
+    {
+      "title": "AlertKritische Lücke in Rubys Standardbibliothek ERB: Angreifer können Code ausführen",
+      "teaser": "Die Ruby-Lücke ist nicht einfach auszunutzen, ermöglicht einem Angreifer aber, sensible Daten auszulesen, Code zu starten und Backdoors zu installieren.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-Rubys-Standardbibliothek-ERB-Angreifer-koennen-Code-ausfuehren-11268704.html",
+      "image_title": "Bahnschranke mit roter Ampel"
     },
     {
       "title": "Alertn8n: Updates beheben kritische Sicherheitslücken in Automatisierungsplattform",
@@ -81,6 +100,12 @@
       "teaser": "Die Parfümeriekette Rituals informiert Kunden derzeit in E-Mails über den Abfluss von Mitgliederdaten an Unbefugte.",
       "url": "https://www.heise.de/news/Datenleck-bei-Parfuemeriekette-Rituals-11267901.html",
       "image_title": "Rituals-Logo vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "IT-Vorfall bei Anodot: Modekette Zara betroffen",
+      "teaser": "Die Cybergang ShinyHunters ist kürzlich bei Anodot eingebrochen. Dabei hat sie auch Daten der Modekette Zara abgegriffen.",
+      "url": "https://www.heise.de/news/IT-Vorfall-bei-Anodot-Modekette-Zara-betroffen-11267783.html",
+      "image_title": "Darkweb-Eintrag zu Zara-Einbruch"
     },
     {
       "title": "AlertOracle sichert Produktportfolio mit 481 Sicherheitsupdates ab",
@@ -117,28 +142,6 @@
       "teaser": "Milliarden gestoppte Werbeanzeigen, zig Millionen gesperrte betrügerische Nutzerkonten. Das hat Google mit der Gemini-KI erledigt.",
       "url": "https://www.heise.de/news/Google-blockierte-2025-mit-KI-Hilfe-mehr-als-8-Milliarden-Werbeanzeigen-11265928.html",
       "image_title": "Gemini-App auf einem Smartphone."
-    },
-    {
-      "title": "TeleGuard: Sicherheitsexperten entschlüsseln Messenger-Nachrichten",
-      "teaser": "Der Schweizer Messenger TeleGuard verspricht „weltbeste Verschlüsselung“, Sicherheitsforschern gelang dennoch ein MITM-Angriff. Entwickler Swisscows wiegelt ab.",
-      "url": "https://www.heise.de/news/TeleGuard-Sicherheitsexperten-entschluesseln-Messenger-Nachrichten-11261132.html",
-      "image_title": "Frauenhände mit Handy"
-    },
-    {
-      "title": "Geknackte Verschlüsselung: Was hinter dem Angriff auf TeleGuard steckt",
-      "teaser": "Der Schweizer Messenger verspricht „weltbeste Verschlüsselung“. Sicherheitsforscher haben dennoch eine Lücke ausgenutzt. Aber TeleGuard wiegelt die Kritik ab.",
-      "url": "https://www.heise.de/hintergrund/Geknackte-Verschluesselung-Was-hinter-dem-Angriff-auf-TeleGuard-steckt-11250905.html"
-    },
-    {
-      "title": "Little Snitch für Linux: Netzwerkverkehr überwachen und regeln",
-      "teaser": "Welche Programme telefonieren nach Hause? Little Snitch für Linux beantwortet nicht nur die Frage, sondern unterbindet unerwünschte Kontakte mit einem Klick.",
-      "url": "https://www.heise.de/ratgeber/Little-Snitch-fuer-Linux-Netzwerkverkehr-ueberwachen-und-regeln-11253789.html"
-    },
-    {
-      "title": "UpdateBluesky-Ausfall: DDoS-Angriff angeblich von iranischer Gruppe „313 Team“",
-      "teaser": "Am vergangenen Donnerstag kämpfte Bluesky mit massiven Störungen. Ursache war ein DDoS-Angriff. Den reklamiert das „313 Team“ für sich.",
-      "url": "https://www.heise.de/news/Bluesky-Ausfall-DDoS-Angriff-angeblich-von-iranischer-Gruppe-313-Team-11265319.html",
-      "image_title": "Person hält Handy in der Hand mit Bluesky-Logo"
     },
     {
       "title": "Workshop | 4. – 6.5.2026Cyberabwehr mit Microsoft Defender XDR – Roll-out, Konfiguration, Nutzung",

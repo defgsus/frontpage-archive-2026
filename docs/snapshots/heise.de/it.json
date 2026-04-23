@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T06:53:33",
+  "timestamp": "2026-04-23T08:26:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,69 @@
   ],
   "articles": [
     {
+      "title": "Grafana 13: Schnellere Dashboards, schlankere Logs, OpenTelemetry-Pakete",
+      "teaser": "Grafana Labs hat Version 13 vorgestellt – mit automatischen Dashboard-Vorschlägen, beschleunigter Log-Analyse in Loki und vereinfachtem OpenTelemetry-Setup.",
+      "url": "https://www.heise.de/news/Grafana-13-Schnellere-Dashboards-schlankere-Logs-OpenTelemetry-Pakete-11268437.html",
+      "image_title": "Futuristische Datenmatrix"
+    },
+    {
+      "title": "iX-Workshop: Active Directory hacken und schützen",
+      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11255566.html",
+      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
+    },
+    {
+      "title": "OpenAI Prism im Test: KI-Tool für wissenschaftliches Schreiben",
+      "teaser": "Prism soll Arbeitsschritte bündeln und Forschende beim Schreiben mit LaTeX unterstützen. Wir testen, wie gut das funktioniert – und wo es gefährlich wird.",
+      "url": "https://www.heise.de/tests/OpenAI-Prism-im-Test-KI-Tool-fuer-wissenschaftliches-Schreiben-11184072.html",
+      "image_title": "Ein Mann mit Kopfhörern trinkt aus einer Tasse vor zwei Computermonitoren, auf denen wissenschaftliche Texte und Formeln zu sehen sind."
+    },
+    {
+      "title": "iOS 26.4.2: Patch soll Extraktion gelöschter Signal-Mitteilungen unterbinden",
+      "teaser": "iOS speicherte zum Löschen markierte Mitteilungen – auch von Krypto-Messengern – in einer auslesbaren Datenbank. Das soll nicht mehr passieren.",
+      "url": "https://www.heise.de/news/FBI-Extraktion-geloeschter-Signal-Mitteilungen-Apple-sichert-iPhones-besser-ab-11268852.html",
+      "image_title": "iPhone liegt auf dem Tisch."
+    },
+    {
+      "title": "TestsOpenAI Prism im Test: KI-Tool für wissenschaftliches Schreiben",
+      "url": "https://www.heise.de/tests/OpenAI-Prism-im-Test-KI-Tool-fuer-wissenschaftliches-Schreiben-11184072.html",
+      "image_title": "Ein Mann mit Kopfhörern trinkt aus einer Tasse vor zwei Computermonitoren, auf denen wissenschaftliche Texte und Formeln zu sehen sind."
+    },
+    {
+      "title": "HintergrundEUDI-Wallet: Welche Rolle PID und PID-Provider im EUDI-Wallet-Ökosystem spielen",
+      "url": "https://www.heise.de/hintergrund/EUDI-Wallet-Welche-Rolle-PID-und-PID-Provider-im-EUDI-Wallet-Oekosystem-spielen-11254452.html",
+      "image_title": ", Vanessa Bahr / iX"
+    },
+    {
+      "title": "RatgeberRauschende Erinnerungen: So retten Sie analoge Fotos und Videos",
+      "url": "https://www.heise.de/ratgeber/Rauschende-Erinnerungen-So-retten-Sie-analoge-Fotos-und-Videos-11242511.html"
+    },
+    {
+      "title": "AlertVMware Tanzu Spring Security: Angreifer können bösartigen Clients anmelden",
+      "teaser": "Aufgrund von Sicherheitsproblemen ist im Kontext von VMware Tanzu Spring Security unter anderem die Authentifizierung umgehbar.",
+      "url": "https://www.heise.de/news/VMware-Tanzu-Spring-Security-Angreifer-koennen-boesartigen-Clients-anmelden-11268714.html",
+      "image_title": "Ein symbolischer Updateknopf."
+    },
+    {
+      "title": "AlertKritische Lücke in Rubys Standardbibliothek ERB: Angreifer können Code ausführen",
+      "teaser": "Die Ruby-Lücke ist nicht einfach auszunutzen, ermöglicht einem Angreifer aber, sensible Daten auszulesen, Code zu starten und Backdoors zu installieren.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-in-Rubys-Standardbibliothek-ERB-Angreifer-koennen-Code-ausfuehren-11268704.html",
+      "image_title": "Bahnschranke mit roter Ampel"
+    },
+    {
+      "title": "Twenty 2.0: Das Open-Source-CRM legt nach",
+      "teaser": "Das Open-Source-CRM Twenty erhält ein umfangreiches Update mit KI-Integration, Performance-Verbesserungen und Enterprise-Funktionen.",
+      "url": "https://www.heise.de/news/Twenty-2-0-Das-Open-Source-CRM-legt-nach-11268160.html",
+      "image_title": "Screenshot einer CRM-Anwendung mit einer Liste von Unternehmen und deren Details."
+    },
+    {
       "title": "Digital Health: „Datenschutz ausgemistet“ – Plattformen live, was kommt nun?",
       "teaser": "Auf der DMEA diskutierten Politiker, wie sich der Datenschutzdiskurs im Gesundheitswesen gewandelt hat – und warum das für ePA, GeDIG und KI entscheidend ist.",
       "url": "https://www.heise.de/news/Digital-Health-Datenschutz-ausgemistet-Plattformen-live-was-kommt-nun-11268636.html",
       "image_title": "Vier Männer sitzen auf Stühlen auf einer Bühne vor einem pinken Hintergrund."
     },
     {
-      "title": "Signal-Phishing-Warnung: Auslöser wohl Angriff auf Julia Klöckner",
+      "title": "Signal-Angriffs-Warnung: Zweite Frau im Staat wohl Auslöser",
       "teaser": "Julia Klöckner ist offenbar Opfer der Signal-Phishing-Angriffe geworden, vor denen BfV und BSI am Mittwoch erneut gewarnt haben.",
       "url": "https://www.heise.de/news/Signal-Phishing-Warnung-Ausloeser-wohl-Angriff-auf-Julia-Kloeckner-11268708.html",
       "image_title": "Signal-App auf einem Smartphone"
@@ -43,16 +99,8 @@
       "url": "https://www.heise.de/news/IT-Sicherheitstag-Mainz-Letzte-Chance-zur-Anmeldung-11265239.html"
     },
     {
-      "title": "HintergrundEUDI-Wallet: Welche Rolle PID und PID-Provider im EUDI-Wallet-Ökosystem spielen",
-      "url": "https://www.heise.de/hintergrund/EUDI-Wallet-Welche-Rolle-PID-und-PID-Provider-im-EUDI-Wallet-Oekosystem-spielen-11254452.html",
-      "image_title": ", Vanessa Bahr / iX"
-    },
-    {
-      "title": "RatgeberRauschende Erinnerungen: So retten Sie analoge Fotos und Videos",
-      "url": "https://www.heise.de/ratgeber/Rauschende-Erinnerungen-So-retten-Sie-analoge-Fotos-und-Videos-11242511.html"
-    },
-    {
-      "title": "TestsFamilienfotos mit KI restaurieren und kolorieren",
+      "title": "Familienfotos mit KI restaurieren und kolorieren",
+      "teaser": "Alte Familienfotos sind oft unscharf, körnig und zerkratzt. Künstliche Intelligenz kann verloren geglaubte Details zurückholen. Diese KI-Tools helfen dabei.",
       "url": "https://www.heise.de/tests/Familienfotos-mit-KI-restaurieren-und-kolorieren-11242433.html"
     },
     {
@@ -92,53 +140,6 @@
       "teaser": "Interessierte können den Framework Laptop 13 Pro vorbestellen. Die Intel-Versionen sind deutlich attraktiver als die AMD-Varianten.",
       "url": "https://www.heise.de/news/Framework-Laptop-13-Pro-AMD-teurer-als-Intel-Ubuntu-vorinstalliert-11268365.html",
       "image_title": "Zwei aufgeklappte Notebooks auf heller Unterlage"
-    },
-    {
-      "title": "KI-Fehler in Schulbüchern: Verlag nach Bericht in der Kritik",
-      "teaser": "Ein Schulbuchverlag steht in der Kritik, weil er mutmaßlich KI-generierte Grafiken und Texte als menschliche Arbeit verkauft haben soll.",
-      "url": "https://www.heise.de/news/Bericht-Schulbuchverlag-soll-KI-Inhalte-als-menschliche-Werke-ausgegeben-haben-11268357.html",
-      "image_title": "Bücher auf einem Stapel"
-    },
-    {
-      "title": "Rsbuild 2.0: Schnelleres Bundling, ESM-first und Node 20",
-      "teaser": "Rsbuild 2.0 setzt auf Rspack 2.0, modernisiert Defaults (ESM-first, Node 20) und reduziert Abhängigkeiten. Neue APIs erweitern die Kommunikation.",
-      "url": "https://www.heise.de/news/Rsbuild-2-0-Schnelleres-Bundling-ESM-first-und-Node-20-11267704.html",
-      "image_title": "Abstrakte Linien, die zusammen einen blauen Planeten bilden"
-    },
-    {
-      "title": "Ubiquiti Site Manager: Zentrale Verwaltung für Unternehmensnetze",
-      "teaser": "Ubiquiti führt den Site Manager ein, ein kostenloses Werkzeug zur zentralen Überwachung und Verwaltung von Unternehmensnetzen.",
-      "url": "https://www.heise.de/news/Ubiquiti-Site-Manager-Zentrale-Verwaltung-fuer-Unternehmensnetze-11268218.html",
-      "image_title": "Screenshot einer Netzwerkverwaltungssoftware mit Site-Manager-Ansicht."
-    },
-    {
-      "title": "Anthropic nimmt testweise Claude Code aus dem Pro-Tarif",
-      "teaser": "Anthropic experimentiert mit dem Umfang seines Pro-Tarifs: Bei einigen Neukunden fehlt die für Entwickler wichtige Claude-Code-Komponente.",
-      "url": "https://www.heise.de/news/Anthropic-nimmt-testweise-Claude-Code-aus-dem-Pro-Tarif-11267811.html",
-      "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
-    },
-    {
-      "title": "Logseq für Einsteiger: Persönliches Wissen sammeln und vernetzen",
-      "teaser": "Logseq sammelt und vernetzt persönliches Wissen. Die App ist zwar noch nicht fertig, hat aber dennoch viele treue Fans. Wir zeigen, wie der Einstieg gelingt.",
-      "url": "https://www.heise.de/ratgeber/Logseq-fuer-Einsteiger-Persoenliches-Wissen-sammeln-und-vernetzen-11265501.html"
-    },
-    {
-      "title": "Signal-Phishing-Angriffe: BfV und BSI aktualisieren Warnung",
-      "teaser": "Das BSI und der Verfassungsschutz aktualisieren ihre Warnung vor Phishing-Angriffen auf hochrangige Persönlichkeiten.",
-      "url": "https://www.heise.de/news/Signal-Phishing-Angriffe-BfV-und-BSI-aktualisieren-Warnung-11268017.html",
-      "image_title": "Signal-Phishing-Beispiele"
-    },
-    {
-      "title": "UpdateWinzige KI-Chips Made in Germany: Anker kündigt Thus an",
-      "teaser": "In Dresden hergestellte Mini-Chips landen künftig in In-Ear-Headsets. Bei Ankers Thus laufen KI-Modelle in NOR-Flash.",
-      "url": "https://www.heise.de/news/Anker-Thus-Winziger-KI-Speicherchip-verbessert-Geraeuschunterdrueckung-11267979.html",
-      "image_title": "Renderbild eines Anker-Chips"
-    },
-    {
-      "title": "AlertSchadcode-Schlupflöcher bedrohen Apache Airflow und Airflow Keycloak",
-      "teaser": "Apaches Open-Source-Workflow-Management-Plattformen Airflow und Airflow Keycloak sind verwundbar. Eine Lücke gilt als kritisch.",
-      "url": "https://www.heise.de/news/Schadcode-Schlupfloecher-bedrohen-Apache-Airflow-und-Airflow-Keycloak-11268021.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
