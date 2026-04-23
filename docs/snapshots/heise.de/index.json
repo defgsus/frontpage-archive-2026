@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-23T21:35:18",
+  "timestamp": "2026-04-23T22:32:28",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Warum Intels Aktie trotz Milliarden-Minus hochschießt",
+      "url": "https://www.heise.de/news/Warum-Intels-Aktie-trotz-Milliarden-Minus-hochschiesst-11270543.html"
+    },
     {
       "title": "OpenAI stellt GPT-5.5 vor: Mehr Agent, weniger Chatbot",
       "url": "https://www.heise.de/news/OpenAI-stellt-GPT-5-5-vor-Mehr-Agent-weniger-Chatbot-11270515.html"
@@ -54,10 +58,6 @@
     {
       "title": "„Assassin’s Creed“: Remake von „Black Flag“ kommt am 9. Juli",
       "url": "https://www.heise.de/news/Assassin-s-Creed-Remake-von-Black-Flag-kommt-am-9-Juli-11268828.html"
-    },
-    {
-      "title": "Justiz in Nordrhein-Westfalen leidet unter massiven IT-Störungen",
-      "url": "https://www.heise.de/news/Richter-in-Nordrhein-Westfalen-klagen-ueber-IT-Probleme-11270439.html"
     },
     {
       "title": "Leichtere E-Autos, mehr InnenraumCATL setzt Maßstäbe mit neuem Qilin-Akku",
@@ -181,21 +181,27 @@
       "image_title": "SpaceX-Schriftzug am Standort in Texas"
     },
     {
+      "title": "Warum Intels Aktie trotz Milliarden-Minus hochschießt",
+      "teaser": "Zur Abwechslung retten nicht Massenentlassungen Intels Börsenreputation. Vielmehr ist der Ausblick bis zum Sommer rosig.",
+      "url": "https://www.heise.de/news/Warum-Intels-Aktie-trotz-Milliarden-Minus-hochschiesst-11270543.html",
+      "image_title": "Intel Core Ultra 200S im Mainboard"
+    },
+    {
       "title": "OpenAI stellt GPT-5.5 vor: Mehr Agent, weniger Chatbot",
       "teaser": "OpenAI positioniert GPT-5.5 als agentisches Arbeitsmodell mit Bestwerten beim Coding. Doch bei den Benchmarks fehlen teils Vergleiche zur Konkurrenz.",
       "url": "https://www.heise.de/news/OpenAI-stellt-GPT-5-5-vor-Mehr-Agent-weniger-Chatbot-11270515.html",
       "image_title": "OpenAI-Logo an Glasfassade eines Bürogebäudes vor blauem Himmel mit Wolken"
     },
     {
+      "title": "Endpoint Security: Wie Europa bei EDR-Lösungen aufholt",
+      "teaser": "Oft verstehen Kunden nicht genau, was einen Alarm auslöst. Transparenz verspricht eine EDR-Lösung mit europäischer Datenhaltung, offener Technologie und der Wahl zwischen Cloud und On-Premise.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7277652693&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Behörde für abgesicherte Ausweise geknackt – Millionen Franzosen betroffen",
       "teaser": "Frankreichs Behörde für Ausweise gesteht ein, dass Daten von 12 Millionen Franzosen auf dem Schwarzmarkt feilgeboten werden. Der Täter spricht von 19 Millionen.",
       "url": "https://www.heise.de/news/Behoerde-fuer-abgesicherte-Ausweise-geknackt-Millionen-Franzosen-betroffen-11270525.html",
       "image_title": "Flagge Frankreichs"
-    },
-    {
-      "title": "Identity Governance und die effiziente Verwaltung von Identitäten",
-      "teaser": "Trotz Identity-Managements fehlt in Unternehmen oft die Übersicht über die Zugriffsrechte. Regulatorische Anforderungen erhöhen den Druck – Plattformen für Identity Governance können dann helfen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7240350882&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Maryland verbietet personalisierte Preise bei Lebensmitteln",
@@ -225,12 +231,6 @@
       "teaser": "Das US-Unternehmen Saildrone hat seine bisher größte Drohne vorgestellt. Sie ist über 50 Meter lang und schafft bis 30 Knoten Höchstgeschwindigkeit.",
       "url": "https://www.heise.de/news/Schnelle-Ueberwasserdrohne-von-Saildrone-soll-U-Boote-jagen-11270431.html",
       "image_title": "Beide Varianten der Überwasserdrohne Spectre von Saildrone"
-    },
-    {
-      "title": "Das ist Googles achte TPU-Generation",
-      "teaser": "Die achte TPU-Generation kommt in zwei Varianten. Beide sperren AMD und Intel aus. Google nutzt lieber eigene ARM-Prozessoren.",
-      "url": "https://www.heise.de/news/Google-stellt-zwei-TPUs-als-Alternative-zu-Nvidias-KI-Beschleunigern-vor-11270392.html",
-      "image_title": "Nahaufnahme einer TPU 8i auf einem Mainboard"
     },
     {
       "title": "Was sich wann wirklich lohntPrivate Energiewende für Skeptiker: Ein Praxisbericht über rechnerische Vorteile",
@@ -323,6 +323,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Das ist Googles achte TPU-Generation",
+      "teaser": "Die achte TPU-Generation kommt in zwei Varianten. Beide sperren AMD und Intel aus. Google nutzt lieber eigene ARM-Prozessoren.",
+      "url": "https://www.heise.de/news/Google-stellt-zwei-TPUs-als-Alternative-zu-Nvidias-KI-Beschleunigern-vor-11270392.html",
+      "image_title": "Nahaufnahme einer TPU 8i auf einem Mainboard"
+    },
+    {
       "title": "„Assassin’s Creed“: Remake von „Black Flag“ kommt am 9. Juli",
       "teaser": "Ubisoft hat nach mehreren Teasern das Remake von „Assassin’s Creed Black Flag“ angekündigt. Es soll Action- vor RPG-Elemente stellen.",
       "url": "https://www.heise.de/news/Assassin-s-Creed-Remake-von-Black-Flag-kommt-am-9-Juli-11268828.html",
@@ -391,15 +397,15 @@
       "image_title": "Ein Finanzdiagramm mit Kerzencharts und Linien, überlagert von einem Netzwerk aus Punkten und Linien."
     },
     {
+      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
+      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
+    },
+    {
       "title": "Vision Meta Turismo: Kias Konzept für eine neue Ära der Elektromobilität",
       "teaser": "Kia zeigt die Studie einer elektrischen Sportlimousine. Darin verbindet der südkoreanische Autokonzern Fahren mit Gaming-Elementen.",
       "url": "https://www.heise.de/news/Vision-Meta-Turismo-Kias-Konzept-fuer-eine-neue-Aera-der-Elektromobilitaet-11269804.html",
       "image_title": "Kia-Studie Vision Meta Turismo"
-    },
-    {
-      "title": "So wird ein SAP BTP Deployment zukunftssicher und effizient",
-      "teaser": "Viele Unternehmen stoßen beim Ausrollen und Verwalten der SAP Business Technology Plattform (BTP) ohne Automatisierung an technische und organisatorische Grenzen. Wie man diese Grenzen überwinden kann, erfahren Sie in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-wird-ihr-sap-btp-deployment-zukunftssicher-skalierbar-und-effizient-5041/?source=hbsad-ersatz"
     },
     {
       "title": "Wetterstation für Onlinewette manipuliert? Météo-France erstattet Anzeige",
@@ -453,12 +459,6 @@
       "title": "Watchtower und Alternativen: So halten Sie Docker-Container automatisch aktuell",
       "teaser": "Viele Werkzeuge ersetzen veraltete Docker-Images durch neuere. Wir stellen drei davon vor, vom simplen Update-Automaten bis zur GitOps-Pipeline.",
       "url": "https://www.heise.de/ratgeber/Watchtower-und-Alternativen-So-halten-Sie-Docker-Container-automatisch-aktuell-11243856.html"
-    },
-    {
-      "title": "Kommentar: Zum Glück fällt nur das Müsli",
-      "teaser": "Roboter sind auf der Hannover Messe allgegenwärtig. Die meisten Hersteller versprechen mehr als sie halten können, meint Robin Ahrens.",
-      "url": "https://www.heise.de/meinung/Kommentar-Zum-Glueck-faellt-nur-das-Muesli-11268460.html",
-      "image_title": "Ein Roboter"
     },
     {
       "title": "Anthropics „gefährliche“ KI Mythos: Unbefugte mit Zugriff seit dem ersten Tag",
@@ -630,11 +630,6 @@
       "url": "https://www.heise.de/en/news/Anthropic-s-dangerous-AI-Mythos-Unauthorized-access-likely-since-day-one-11266912.html"
     },
     {
-      "title": "Linux-Distribution Ubuntu Desktop 26.04 LTS im Test",
-      "teaser": "Canonical stellt Sicherheit in den Mittelpunkt: Rust-Werkzeuge, TPM-Verschlüsselung und Berechtigungsprompts prägen das neue Ubuntu-LTS-Release.",
-      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
-    },
-    {
       "title": "Gaming-Mäuse: Ist teuer besser?",
       "teaser": "Die aktuellen Flaggschiffe von Razer und Logitech trumpfen mit 50.000-dpi-Sensor oder Analogtasten mit Force Feedback auf. Wir haben Sie getestet.",
       "url": "https://www.heise.de/tests/Gaming-Maeuse-Ist-teuer-besser-11228110.html"
@@ -643,6 +638,11 @@
       "title": "Watchtower und Alternativen: So halten Sie Docker-Container automatisch aktuell",
       "teaser": "Viele Werkzeuge ersetzen veraltete Docker-Images durch neuere. Wir stellen drei davon vor, vom simplen Update-Automaten bis zur GitOps-Pipeline.",
       "url": "https://www.heise.de/ratgeber/Watchtower-und-Alternativen-So-halten-Sie-Docker-Container-automatisch-aktuell-11243856.html"
+    },
+    {
+      "title": "Linux-Distribution Ubuntu Desktop 26.04 LTS im Test",
+      "teaser": "Canonical stellt Sicherheit in den Mittelpunkt: Rust-Werkzeuge, TPM-Verschlüsselung und Berechtigungsprompts prägen das neue Ubuntu-LTS-Release.",
+      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
     },
     {
       "title": "Orion im Test: Der Browser, der Chrome & Firefox vereint",
@@ -744,16 +744,16 @@
       "image_title": "BYD Seal"
     },
     {
-      "title": "Pentagon zieht den Stecker: GPS-Programm OCX ist gescheitert",
-      "teaser": "16 Jahre, 6,27 Milliarden Dollar – und am Ende nichts. Das Pentagon hat das GPS-Modernisierungsprogramm OCX gestoppt. Wie geht es jetzt weiter für das System?",
-      "url": "https://www.heise.de/article/Pentagon-zieht-den-Stecker-GPS-Programm-OCX-ist-gescheitert-11269294.html",
-      "image_title": "Künstlerische Darstellung von GPS-Satelliten"
+      "title": "Deutschlands Debatte ist kaputt – aber nicht wegen der Bürger",
+      "teaser": "Vier getrennte Wissensräume blockieren Reformen – und KI könnte sie erstmals verbinden. Lesen Sie den Text ruhig auch als kleines Anschauungsstück.",
+      "url": "https://www.heise.de/article/Deutschlands-Debatte-ist-kaputt-aber-nicht-wegen-der-Buerger-11269373.html",
+      "image_title": "Spielfiguren, die für unterschiedliche Berufe stehen, vor einem Rednerpult mit deutscher Flagge. Der Redner ist ebenfalls eine Spielzeugfigur."
     },
     {
-      "title": "EU-Israel-Abkommen: Europa versagt beim Selbsttest",
-      "teaser": "Über eine Million EU-Bürger fordern Aussetzung des EU-Israel-Abkommens. Deutschland blockiert trotz klarer Belege für Menschenrechtsverstöße. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/article/EU-Israel-Abkommen-Europa-versagt-beim-Selbsttest-11269051.html",
-      "image_title": "Flagge der EU und Israels"
+      "title": "Alpha Centauri in 20 Jahren erreichbar – mit der Kraft des Lichts",
+      "teaser": "Forscher haben erstmals einen Lichtantrieb mit echter 3D-Steuerung entwickelt – ganz ohne Treibstoff und ohne den Laserstrahl zu formen.",
+      "url": "https://www.heise.de/article/Alpha-Centauri-in-20-Jahren-erreichbar-mit-der-Kraft-des-Lichts-11270070.html",
+      "image_title": "Fünf Bilder zeigen ein Objekt, das sich nach oben bewegt, mit roten Pfeilen, die die Bewegung anzeigen."
     },
     {
       "title": "Gehaltsdeckel für Kassenchefs: Warum Vorstände gegen Warkens Sparpaket sind",
