@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T04:44:37",
+  "timestamp": "2026-04-24T06:56:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,28 +20,33 @@
   ],
   "articles": [
     {
+      "title": "Neu in .NET 10.0 [20]: Einheitliche Reihenfolge der Kommandozeilenparameter",
+      "teaser": "In dem .NET-SDK-Kommandozeilenwerkzeug dotnet hat Microsoft in .NET 10.0 die Reihenfolge der Parameter vereinheitlicht.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-20-Einheitliche-Reihenfolge-der-Kommandozeilenparameter-11270683.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
+    },
+    {
+      "title": "iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren",
+      "teaser": "Erfahren Sie, wie Sie produktiv mit KI-Assistenten programmieren und lernen Sie die Stärken und Schwächen der Tools für den Einsatz in eigenen Projekten kennen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11256747.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
+      "title": "Was die EUDI-Wallet für Unternehmen bedeutet",
+      "teaser": "Die Standards sind da, aber was erwartet Unternehmen, wenn die EU die EUDI Ende des Jahres ausrollt? Im Interview mit einem IAM-Anbieter finden sich Antworten.",
+      "url": "https://www.heise.de/hintergrund/Was-die-EUDI-Wallet-fuer-Unternehmen-bedeutet-11256459.html",
+      "image_title": ", Vanessa Bahr / iX"
+    },
+    {
       "title": "Freitag: Meta-Entlassungen wegen KI, Intel-Aktiensprung trotz Milliarden-Minus",
       "teaser": "KI statt Mitarbeiter + Intel-Prognose belebt Börse + Datenraub französischer Ausweise + China gegen Scam + Verbot personalisierter Preise + Wärmepumpen-Podcast",
       "url": "https://www.heise.de/news/Freitag-Meta-Entlassungen-wegen-KI-Intel-Aktiensprung-trotz-Milliarden-Minus-11270635.html",
       "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox; Freitag: Meta-Kündigungswelle, Intel-Lichtblick, Ausweis-Datenabfluss, Scam-Bekämpfung, Preis-Personalisierung & Wärmepumpen-Podcast"
     },
     {
-      "title": "Mehr Agent, weniger ChatbotOpenAI stellt GPT-5.5 vor",
-      "teaser": "OpenAI positioniert GPT-5.5 als agentisches Arbeitsmodell mit Bestwerten beim Coding. Doch es fehlen teils Vergleiche zur Konkurrenz.",
-      "url": "https://www.heise.de/news/OpenAI-stellt-GPT-5-5-vor-Mehr-Agent-weniger-Chatbot-11270515.html",
-      "image_title": "OpenAI-Logo an Glasfassade eines Bürogebäudes vor blauem Himmel mit Wolken"
-    },
-    {
-      "title": "Behörde für abgesicherte Ausweise geknackt – Millionen Franzosen betroffen",
-      "teaser": "Frankreichs Behörde für Ausweise gesteht ein, dass Daten von 12 Millionen Franzosen auf dem Schwarzmarkt feilgeboten werden. Der Täter spricht von 19 Millionen.",
-      "url": "https://www.heise.de/news/Behoerde-fuer-abgesicherte-Ausweise-geknackt-Millionen-Franzosen-betroffen-11270525.html",
-      "image_title": "Flagge Frankreichs"
-    },
-    {
-      "title": "AlertPasswortsafe BitwardenKommandozeilen-Client trojanisiert",
-      "teaser": "Das Bitwarden-Security-Team bestätigt, dass kurzzeitig eine bösartige Version des Kommandozeilen-Client ausgeliefert wurde.",
-      "url": "https://www.heise.de/news/Passwortsafe-Bitwarden-Kommandozeilen-Client-trojanisiert-11270435.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+      "title": "HintergrundWas die EUDI-Wallet für Unternehmen bedeutet",
+      "url": "https://www.heise.de/hintergrund/Was-die-EUDI-Wallet-fuer-Unternehmen-bedeutet-11256459.html",
+      "image_title": ", Vanessa Bahr / iX"
     },
     {
       "title": "RatgeberLinux-Distribution Ubuntu Desktop 26.04 LTS im Test",
@@ -52,9 +57,16 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-Ihr-Android-Handy-mit-einer-alternativen-Find-My-Device-App-wiederfinden-11245118.html"
     },
     {
-      "title": "RatgeberKI-Wissen spielerisch vermitteln: Der eigene Gaming-Charakter im Browserspiel",
-      "url": "https://www.heise.de/ratgeber/KI-Wissen-spielerisch-vermitteln-Der-eigene-Gaming-Charakter-im-Browserspiel-11264236.html",
-      "image_title": "Mit Bild-KIs kann man schnell und kostenlos einfache Spiele-Charaktere entwickeln."
+      "title": "OpenAI stellt GPT-5.5 vor: Mehr Agent, weniger Chatbot",
+      "teaser": "OpenAI positioniert GPT-5.5 als agentisches Arbeitsmodell mit Bestwerten beim Coding. Doch bei den Benchmarks fehlen teils Vergleiche zur Konkurrenz.",
+      "url": "https://www.heise.de/news/OpenAI-stellt-GPT-5-5-vor-Mehr-Agent-weniger-Chatbot-11270515.html",
+      "image_title": "OpenAI-Logo an Glasfassade eines Bürogebäudes vor blauem Himmel mit Wolken"
+    },
+    {
+      "title": "Behörde für abgesicherte Ausweise geknackt – Millionen Franzosen betroffen",
+      "teaser": "Frankreichs Behörde für Ausweise gesteht ein, dass Daten von 12 Millionen Franzosen auf dem Schwarzmarkt feilgeboten werden. Der Täter spricht von 19 Millionen.",
+      "url": "https://www.heise.de/news/Behoerde-fuer-abgesicherte-Ausweise-geknackt-Millionen-Franzosen-betroffen-11270525.html",
+      "image_title": "Flagge Frankreichs"
     },
     {
       "title": "Top 10: Speicher für Balkonkraftwerk im Test – Testsieger benötigt keine Cloud",
@@ -65,6 +77,12 @@
       "title": "Samsung 990 Pro im Test: Eine der schnellsten NVMe-SSDs mit PCIe 4.0",
       "teaser": "Die Samsung 990 Pro zählt zu den schnellsten PCIe-4.0-SSDs – mit ausdauerndem Schreibverhalten und optional einem schickem Kühlkörper.",
       "url": "https://www.heise.de/bestenlisten/testbericht/samsung-990-pro-im-test-eine-der-schnellsten-nvme-ssds-mit-pcie-40/jnyf45c?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "AlertPasswortsafe Bitwarden: Kommandozeilen-Client trojanisiert",
+      "teaser": "Das Bitwarden-Security-Team bestätigt, dass kurzzeitig eine bösartige Version des Kommandozeilen-Client ausgeliefert wurde.",
+      "url": "https://www.heise.de/news/Passwortsafe-Bitwarden-Kommandozeilen-Client-trojanisiert-11270435.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "Das ist Googles achte TPU-Generation",
@@ -88,6 +106,12 @@
       "teaser": "OpenFang 0.6.0 bringt Cron-Jobs mit Fan-out, Skill-Templates und eine zentrale Registry für Slash-Befehle. Das Framework vereinfacht die Orchestrierung.",
       "url": "https://www.heise.de/news/KI-Automatisierung-in-Rust-OpenFang-0-6-0-ist-da-11270168.html",
       "image_title": "Fünf Roboter stehen auf einem Hügel, umgeben von binären Zahlen."
+    },
+    {
+      "title": "KI-Wissen spielerisch vermitteln: Der eigene Gaming-Charakter im Browserspiel",
+      "teaser": "Einfache Workflows motivieren Kinder, Text-, Bild- und Coding-KIs zu erkunden. Unsere Zukunftstag-Station für ein Browserspiel können auch Sie ausprobieren.",
+      "url": "https://www.heise.de/ratgeber/KI-Wissen-spielerisch-vermitteln-Der-eigene-Gaming-Charakter-im-Browserspiel-11264236.html",
+      "image_title": "Mit Bild-KIs kann man schnell und kostenlos einfache Spiele-Charaktere entwickeln."
     },
     {
       "title": "iFlytek AI Note 2: E-Ink-Tablet mit Android, GPT-5 und Transkription im Test",
@@ -118,30 +142,6 @@
       "teaser": "Auf Polymarket kann man darauf wetten, welche Höchsttemperatur an einem bestimmten Ort erreicht wird. In Paris hat dafür womöglich jemand nachgeholfen.",
       "url": "https://www.heise.de/news/Wetterstation-fuer-Onlinewette-manipuliert-Meteo-France-erstattet-Anzeige-11269386.html",
       "image_title": "Eine Wetterstation vor blauem Himmel"
-    },
-    {
-      "title": "Handy im Wanzen-Verdacht: Gezielte Werbung braucht keinen Lauschangriff",
-      "teaser": "Gerade wurde über ein Thema gesprochen, schon kommt passende Werbung dazu. Mithören durch das Smartphone ist dazu gar nicht nötig.",
-      "url": "https://www.heise.de/news/Handy-im-Wanzen-Verdacht-Gezielte-Werbung-braucht-keinen-Lauschangriff-11269699.html",
-      "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
-    },
-    {
-      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11255580.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Jetpack Compose 1.11 bringt Neuigkeiten für Testing, Debugging und Styling",
-      "teaser": "Das UI-Toolkit für Android verändert den Umgang mit Koroutinen, überarbeitet den Trackpad-Support und bringt neue Möglichkeiten für das visuelle Debugging.",
-      "url": "https://www.heise.de/news/Jetpack-Compose-1-11-bringt-Neuigkeiten-fuer-Testing-Debugging-und-Styling-11269275.html",
-      "image_title": "Android-Maskottchen vor einem Laptop-Bildschirm"
-    },
-    {
-      "title": "Samsung öffnet Galaxy-Connect-App für Windows-11-PCs anderer Hersteller",
-      "teaser": "Samsung öffnet seine Galaxy-Connect-App. Damit können Nutzer ihre Galaxy-Smartphones nun auch mit Windows-11-Rechnern anderer Marken nahtlos verbinden.",
-      "url": "https://www.heise.de/news/Samsung-oeffnet-Galaxy-Connect-App-fuer-Windows-11-PCs-anderer-Hersteller-11269529.html",
-      "image_title": "Samsung Smartphone von hinten"
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
