@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T06:13:29",
+  "timestamp": "2026-04-25T07:57:55",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu C++, GitLab, .NET, Arrow, Databricks, IntelliJ, Spring, Slint und Eclipse Foundation.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11269788.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "software-architektur.tv: Wozu formale Methoden? mit Lars Hupel",
+      "teaser": "In der Episode diskutieren Eberhard Wolff und Lars Hupel über den gewinnbringenden Einsatz formaler Methoden im Software-Architektur-Alltag.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Wozu-formale-Methoden-mit-Lars-Hupel-11271569.html",
+      "image_title": "Logo software-architektur.tv: Wozu formale Methoden? mit Lars Hupel"
+    },
+    {
       "title": "High-End-Handys: Innovationen jenseits von Apple, Google & Co. | c’t uplink",
       "teaser": "Apple, Google und Samsung gehören derzeit nicht zu den Innovationstreibern bei Smartphones. Wir sprechen darüber, wo man die technischen Leckerbissen bekommt.",
       "url": "https://www.heise.de/news/High-End-Handys-Innovationen-jenseits-von-Apple-Google-Co-c-t-uplink-11269501.html"
@@ -29,18 +41,6 @@
       "teaser": "Google und die KI-Firma Anthropic sind Rivalen im Geschäft – und zugleich Partner. Der Internet-Riese steckt nun weitere Milliarden in den Rivalen von OpenAI.",
       "url": "https://www.heise.de/news/Google-steckt-bis-zu-40-Milliarden-Dollar-mehr-in-Anthropic-11271998.html",
       "image_title": "Google-Logo und ein Schild mit der Aufschrift \"ANTHROPIC\" vor Geldbündeln"
-    },
-    {
-      "title": "XR-Visualisierung in der Industrie: Von 3D-Modellen bis hin zu Gaussian Splats",
-      "teaser": "Auf der Hannover Messe 2026 vermischten sich 3D-Modelle mit der realen Welt und Gaussian Splats. Wir haben verschiedene Lösungen ausprobiert.",
-      "url": "https://www.heise.de/news/XR-Visualisierung-in-der-Industrie-Von-3D-Modellen-bis-hin-zu-Gaussian-Splats-11271807.html",
-      "image_title": "Mann trägt eine VR-Brille auf einer Messe"
-    },
-    {
-      "title": "Phishing-Urteil aus KoblenzKein Leichtsinn bei täuschend echtem Bankanruf",
-      "teaser": "Das OLG Koblenz hat Rechte von Bankkunden bei Online-Phishing gestärkt. Es sieht bei fingierten Gerätewechseln keine Fahrlässigkeit.",
-      "url": "https://www.heise.de/news/Phishing-Urteil-aus-Koblenz-Kein-Leichtsinn-bei-taeuschend-echtem-Bankanruf-11271697.html",
-      "image_title": "Foto von einer Sparkassenfiliale in Berlin"
     },
     {
       "title": "HintergrundHannover Messe 2026: Robotik Made in Germany",
@@ -59,6 +59,18 @@
       "title": "Top 10: Der beste höhenverstellbare Schreibtisch – Flexispot ist Testsieger",
       "teaser": "Elektrisch höhenverstellbare Schreibtische sollen Gesundheit und Konzentration fördern. Wir zeigen die 10 besten Tische aus über 20 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hoehenverstellbare-schreibtisch-flexispot-ist-testsieger/187xypf?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "XR-Visualisierung in der Industrie: Von 3D-Modellen bis hin zu Gaussian Splats",
+      "teaser": "Auf der Hannover Messe 2026 vermischten sich 3D-Modelle mit der realen Welt und Gaussian Splats. Wir haben verschiedene Lösungen ausprobiert.",
+      "url": "https://www.heise.de/news/XR-Visualisierung-in-der-Industrie-Von-3D-Modellen-bis-hin-zu-Gaussian-Splats-11271807.html",
+      "image_title": "Mann trägt eine VR-Brille auf einer Messe"
+    },
+    {
+      "title": "Phishing-Urteil aus Koblenz: Kein Leichtsinn bei täuschend echtem Bankanruf",
+      "teaser": "Das OLG Koblenz hat Rechte von Bankkunden bei Online-Phishing gestärkt. Es sieht bei fingierten Gerätewechseln keine Fahrlässigkeit und ist für Erstattung.",
+      "url": "https://www.heise.de/news/Phishing-Urteil-aus-Koblenz-Kein-Leichtsinn-bei-taeuschend-echtem-Bankanruf-11271697.html",
+      "image_title": "Foto von einer Sparkassenfiliale in Berlin"
     },
     {
       "title": "KI-Zusammenarbeit: Oh, wie schön ist es mit Kanada",
@@ -129,17 +141,6 @@
       "teaser": "QEMU 11 bringt einen neuen „nitro“-Accelerator für AWS Nitro Enclaves, mehr Schutz für vertrauliche VMs und erweiterte Unterstützung für viele Architekturen.",
       "url": "https://www.heise.de/news/QEMU-11-0-0-AWS-Nitro-Enclaves-jetzt-lokal-testen-11271045.html",
       "image_title": "Ein orangefarbener Vogelkopf ragt aus einem grauen Kreis mit einem \"Q\"-förmigen Ausschnitt (QEMU-Logo)."
-    },
-    {
-      "title": "Visual Studio Code 1.117 bringt flexiblere LLM-Anbindung",
-      "teaser": "Business- und Enterprise-User können nun ihre eigenen API-Keys verbinden, um LLMs via OpenRouter, Ollama, Google, OpenAI und mehr im VS Code Chat zu nutzen.",
-      "url": "https://www.heise.de/news/Visual-Studio-Code-1-117-Unternehmenskunden-koennen-eigene-LLM-Keys-nutzen-11270957.html",
-      "image_title": "Ein gezackter Schlüssel liegt auf einer Laptoptatstatur"
-    },
-    {
-      "title": "Apple‑Geräte mit Microsoft Intune verwalten – zweiteiliges Live-Webinar",
-      "teaser": "Erfahren Sie im Live‑Webinar, wie Sie Apple‑Geräte mit Intune verwalten. Praxis zu MDM, Deployment & macOS‑Security – kompakt für Admins und Unternehmen.",
-      "url": "https://www.heise.de/news/Apple-Geraete-mit-Microsoft-Intune-verwalten-zweiteiliges-Live-Webinar-11268740.html"
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
