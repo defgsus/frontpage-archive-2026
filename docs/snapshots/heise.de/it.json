@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T07:57:55",
+  "timestamp": "2026-04-25T08:45:13",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,40 @@
   ],
   "articles": [
     {
+      "title": "Meta kauft zig Millionen AWS Graviton Cores für Agentic AI",
+      "teaser": "Meta und AWS erweitern ihre Partnerschaft mit einem Deal über mehrere zehn Millionen Graviton-Kerne für Metas Agentic-AI-Pläne.",
+      "url": "https://www.heise.de/news/Meta-kauft-zig-Millionen-AWS-Graviton-Cores-fuer-Agentic-AI-11272067.html",
+      "image_title": "Meta-Logo auf Schild vor der Zentrale"
+    },
+    {
+      "title": "Familienfotos mit KI restaurieren und kolorieren",
+      "teaser": "Alte Familienfotos sind oft unscharf, körnig und zerkratzt. Künstliche Intelligenz kann verloren geglaubte Details zurückholen. Diese KI-Tools helfen dabei.",
+      "url": "https://www.heise.de/tests/Familienfotos-mit-KI-restaurieren-und-kolorieren-11242433.html"
+    },
+    {
+      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
+      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11255605.html",
+      "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
+    },
+    {
       "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu C++, GitLab, .NET, Arrow, Databricks, IntelliJ, Spring, Slint und Eclipse Foundation.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11269788.html",
       "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "HintergrundHannover Messe 2026: Robotik Made in Germany",
+      "url": "https://www.heise.de/hintergrund/Hannover-Messe-2026-Robotik-Made-in-Germany-11270132.html"
+    },
+    {
+      "title": "HintergrundWas die EUDI-Wallet für Unternehmen bedeutet",
+      "url": "https://www.heise.de/hintergrund/Was-die-EUDI-Wallet-fuer-Unternehmen-bedeutet-11256459.html",
+      "image_title": ", Vanessa Bahr / iX"
+    },
+    {
+      "title": "RatgeberLinux-Distribution Ubuntu Desktop 26.04 LTS im Test",
+      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
     },
     {
       "title": "software-architektur.tv: Wozu formale Methoden? mit Lars Hupel",
@@ -41,19 +71,6 @@
       "teaser": "Google und die KI-Firma Anthropic sind Rivalen im Geschäft – und zugleich Partner. Der Internet-Riese steckt nun weitere Milliarden in den Rivalen von OpenAI.",
       "url": "https://www.heise.de/news/Google-steckt-bis-zu-40-Milliarden-Dollar-mehr-in-Anthropic-11271998.html",
       "image_title": "Google-Logo und ein Schild mit der Aufschrift \"ANTHROPIC\" vor Geldbündeln"
-    },
-    {
-      "title": "HintergrundHannover Messe 2026: Robotik Made in Germany",
-      "url": "https://www.heise.de/hintergrund/Hannover-Messe-2026-Robotik-Made-in-Germany-11270132.html"
-    },
-    {
-      "title": "HintergrundWas die EUDI-Wallet für Unternehmen bedeutet",
-      "url": "https://www.heise.de/hintergrund/Was-die-EUDI-Wallet-fuer-Unternehmen-bedeutet-11256459.html",
-      "image_title": ", Vanessa Bahr / iX"
-    },
-    {
-      "title": "RatgeberLinux-Distribution Ubuntu Desktop 26.04 LTS im Test",
-      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
     },
     {
       "title": "Top 10: Der beste höhenverstellbare Schreibtisch – Flexispot ist Testsieger",
@@ -124,23 +141,6 @@
       "teaser": "Auch Microsoft investiert aktuell etwa 80 Milliarden US-Dollar in KI-Infrastruktur. Wohl im Gegenzug sollen die Personalkosten weiter sinken – über Abfindungen.",
       "url": "https://www.heise.de/news/Microsoft-will-mit-Abfindungen-noch-einmal-rund-9000-Stellen-abbauen-11271270.html",
       "image_title": "Microsoft-Logo an einem Glasfenster"
-    },
-    {
-      "title": "Last Call: Digitale Souveränität – Cloud, KI und Security krisensicher machen",
-      "teaser": "Globale Entwicklungen zeigen die Risiken der Abhängigkeit von großen Tech-Konzernen. Wer sich digital souverän aufstellt, ist besser geschützt und spart Geld.",
-      "url": "https://www.heise.de/news/Last-Call-Digitale-Souveraenitaet-Cloud-KI-und-Security-krisensicher-machen-11264601.html"
-    },
-    {
-      "title": "SUSE Industrial Edge: IoT-Plattform für die Industrie",
-      "teaser": "SUSE präsentiert sein neues Produkt Industrial Edge, eine IoT-Plattform auf Basis der Losant-Architektur für diverse Industriesektoren.",
-      "url": "https://www.heise.de/news/SUSE-Industrial-Edge-IoT-Plattform-fuer-die-Industrie-11271188.html",
-      "image_title": "Grünes abstraktes Muster mit einem spiralförmigen Element, Logo SUSEcon"
-    },
-    {
-      "title": "UpdateQEMU 11.0.0: AWS Nitro Enclaves jetzt lokal testen",
-      "teaser": "QEMU 11 bringt einen neuen „nitro“-Accelerator für AWS Nitro Enclaves, mehr Schutz für vertrauliche VMs und erweiterte Unterstützung für viele Architekturen.",
-      "url": "https://www.heise.de/news/QEMU-11-0-0-AWS-Nitro-Enclaves-jetzt-lokal-testen-11271045.html",
-      "image_title": "Ein orangefarbener Vogelkopf ragt aus einem grauen Kreis mit einem \"Q\"-förmigen Ausschnitt (QEMU-Logo)."
     },
     {
       "title": "NewsNeue Regelung verteuert Kraftstoffpreise. Der ADAC zeigt, warum",
