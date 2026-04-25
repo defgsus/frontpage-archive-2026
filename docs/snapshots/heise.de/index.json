@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T16:27:52",
+  "timestamp": "2026-04-25T17:28:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Level 3 per KI – Bosch auf dem Weg zum autonomen Auto",
+      "url": "https://www.heise.de/news/Autonom-auf-Level-3-Bosch-will-dem-Fahrer-mehr-Freiheit-geben-11272239.html"
+    },
     {
       "title": "Kommentar: Kein Hack, nur Ignoranz",
       "url": "https://www.heise.de/meinung/Kommentar-Kein-Hack-nur-Ignoranz-11272211.html"
@@ -58,10 +62,6 @@
     {
       "title": "CloudLand 2026: Last Call zum Cloud Native Festival",
       "url": "https://www.heise.de/news/CloudLand-2026-Last-Call-zum-Cloud-Native-Festival-11267514.html"
-    },
-    {
-      "title": "Avatar-Leak: 26-Jähriger in Singapur verhaftet",
-      "url": "https://www.heise.de/news/Neuer-Avatar-Film-auf-Social-Media-geleaked-26-Jaehriger-in-Singapur-verhaftet-11272091.html"
     },
     {
       "title": "Kommentar zur Signal-AffäreKein Hack, nur Ignoranz",
@@ -181,19 +181,25 @@
       "image_title": "Quiz-Logo zu 30 Jahre heise online"
     },
     {
+      "title": "Level 3 per KI – Bosch auf dem Weg zum autonomen Auto",
+      "teaser": "Mit KI-gestützten Systemen und redundanter Hardware läutet Zulieferer Bosch die nächste Mobilitätsstufe ein – von der Autobahn bis zum urbanen Schnellverkehr.",
+      "url": "https://www.heise.de/news/Autonom-auf-Level-3-Bosch-will-dem-Fahrer-mehr-Freiheit-geben-11272239.html",
+      "image_title": "Partially Automated Vehicle"
+    },
+    {
       "title": "Instagrams „Instants“-App lässt ähnlich wie bei Snapchat Fotos verschwinden",
       "teaser": "Was einmal im Netz ist, bleibt nicht immer im Netz: Das verspricht die an Snapchat angelehnte Instagram-App „Instants“, die Fotos verschwinden lässt.",
       "url": "https://www.heise.de/news/Instagrams-Instants-App-laesst-aehnlich-wie-bei-Snapchat-Fotos-verschwinden-11272179.html"
     },
     {
+      "title": "Endpoint Security: Wie Europa bei EDR-Lösungen aufholt",
+      "teaser": "Oft verstehen Kunden nicht genau, was einen Alarm auslöst. Transparenz verspricht eine EDR-Lösung mit europäischer Datenhaltung, offener Technologie und der Wahl zwischen Cloud und On-Premise.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7277652693&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Redmagic 11 Air im Test: Flaches Gaming-Smartphone mit Ausdauer, RGB und Lüfter",
       "teaser": "Das Redmagic 11 Air ist ein dünnes Smartphone mit 144-Hz-OLED, aktivem Lüfter und großem Akku. Schultertasten und starke Leistung sichern flüssiges Gaming.",
       "url": "https://www.heise.de/bestenlisten/testbericht/redmagic-11-air-im-test-flaches-gaming-smartphone-mit-ausdauer-rgb-und-luefter/djt15ez?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Compliance-Gesamtlösung: Software-Plattform und Rechtswissen",
-      "teaser": "Wenn ein neuer SaaS-Anbieter eingeführt wird, löst das oft eine administrative Lawine aus. Von Vorteil ist dann eine Plattform, die technische Aufgaben meistert und hinter der auch Juristen stehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7276299317&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Hannover Messe verliert Besucher: Künftige Auflage verkürzt sich",
@@ -224,12 +230,6 @@
       "teaser": "Das CloudLand-Festival vom 19. bis 22. Mai verspricht viele Highlights, interaktive Sessions und Party-Spaß. Jetzt Ticket sichern und mit dem Rabattcode sparen.",
       "url": "https://www.heise.de/news/CloudLand-2026-Last-Call-zum-Cloud-Native-Festival-11267514.html",
       "image_title": "CloudLand 2026: Programm veröffentlicht"
-    },
-    {
-      "title": "Avatar-Leak: 26-Jähriger in Singapur verhaftet",
-      "teaser": "„Die Legende von Aang: Der Herr der Elemente“ landete als Leak im Internet. Der Verantwortliche könnte nun einer Gefängnis- und/oder Geldstrafe entgegensehen.",
-      "url": "https://www.heise.de/news/Neuer-Avatar-Film-auf-Social-Media-geleaked-26-Jaehriger-in-Singapur-verhaftet-11272091.html",
-      "image_title": "Paramount+ Logo Streaming"
     },
     {
       "title": "Was sich wann wirklich lohntPrivate Energiewende für Skeptiker: Ein Praxisbericht über rechnerische Vorteile",
@@ -322,6 +322,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Avatar-Leak: 26-Jähriger in Singapur verhaftet",
+      "teaser": "„Die Legende von Aang: Der Herr der Elemente“ landete als Leak im Internet. Der Verantwortliche könnte nun einer Gefängnis- und/oder Geldstrafe entgegensehen.",
+      "url": "https://www.heise.de/news/Neuer-Avatar-Film-auf-Social-Media-geleaked-26-Jaehriger-in-Singapur-verhaftet-11272091.html",
+      "image_title": "Paramount+ Logo Streaming"
+    },
+    {
       "title": "Meta kauft zig Millionen AWS Graviton Cores für Agentic AI",
       "teaser": "Meta und AWS erweitern ihre Partnerschaft mit einem Deal über mehrere zehn Millionen Graviton-Kerne für Metas Agentic-AI-Pläne.",
       "url": "https://www.heise.de/news/Meta-kauft-zig-Millionen-AWS-Graviton-Cores-fuer-Agentic-AI-11272067.html",
@@ -390,15 +396,15 @@
       "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
     },
     {
+      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
+      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
+    },
+    {
       "title": "SK Hynix verfünffacht Gewinn in der Speicherkrise",
       "teaser": "Der Mangel an DRAM und NAND-Flash lässt SK Hynix in riesigen Schritten weiterwachsen. Alle Zahlen steigen auf ein Rekordhoch.",
       "url": "https://www.heise.de/news/SK-Hynix-verfuenffacht-Gewinn-in-der-Speicherkrise-11271846.html",
       "image_title": "Speicherbausteine auf einem Wafer"
-    },
-    {
-      "title": "Wenn eine Mail an die falsche Person geht ...",
-      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
     },
     {
       "title": "Jugendschutz 2025: Hoher Anstieg gemeldeter Missbrauchsdarstellungen im Netz",
@@ -452,12 +458,6 @@
       "teaser": "Das chinesische Start-up DeepSeek hat eine neue KI-Generation veröffentlicht. Das Modell setzt auf eine neue Architektur und bietet ein größeres Kontextfenster.",
       "url": "https://www.heise.de/news/KI-Modell-DeepSeek-v4-Neue-Generation-mit-1-6-Billionen-Parametern-11271579.html",
       "image_title": "Handybildschirm mit DeepSeeks Logo"
-    },
-    {
-      "title": "KI-Update Deep-Dive: Kliniken entwickeln eigene Sprachmodelle",
-      "teaser": "Am Universitätsklinikum Hamburg-Eppendorf entstehen KI-Werkzeuge, die Ärzte und Pflegekräfte entlasten sollen – ohne dass Patientendaten ins Ausland fließen.",
-      "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Kliniken-entwickeln-eigene-Sprachmodelle-11268822.html",
-      "image_title": "KI-Update-Logo"
     },
     {
       "title": "OpenAI stellt GPT-5.5 vor: Mehr Agent, weniger Chatbot",
@@ -636,14 +636,15 @@
       "url": "https://www.heise.de/news/High-End-Handys-Innovationen-jenseits-von-Apple-Google-Co-c-t-uplink-11269501.html"
     },
     {
-      "title": "Dolby MAT erklärt: So funktioniert Dolbys Audioformat für Atmos & Co.",
-      "teaser": "PS5 und Apple TV können ihren Ton als Dolby MAT ausgeben, sodass er nahtlos zwischen Formaten inklusive Atmos wechselt. Wir klären Vor- und Nachteile.",
-      "url": "https://www.heise.de/hintergrund/Dolby-MAT-erklaert-So-funktioniert-Dolbys-Audioformat-fuer-Atmos-Co-11220640.html"
+      "title": "Wärmepumpen: So sichern Sie sich günstige Stromtarife",
+      "teaser": "Wer eine Wärmepumpe betreibt, kann mit dem passenden Stromtarif Kosten senken. Dafür müssen Zähler, Anmeldung und Abrechnung aber sauber organisiert sein.",
+      "url": "https://www.heise.de/news/Waermepumpen-So-sichern-Sie-sich-guenstige-Stromtarife-11263303.html",
+      "image_title": "Air,To,Air,Heat,Pump,For,Cooling,Or,Heating,The"
     },
     {
-      "title": "c't 3003Vier WordPress-Alternativen, die wirklich überzeugen",
-      "teaser": "Schluss mit Plugin-Updates: Diese vier WordPress-Alternativen sind schneller, einfacher und oft auch günstiger.",
-      "url": "https://www.heise.de/news/Vier-WordPress-Alternativen-die-wirklich-ueberzeugen-c-t-3003-11271364.html"
+      "title": "Hannover Messe 2026: Robotik Made in Germany",
+      "teaser": "Auf der Hannover Messe 2026 zeigten deutsche Unternehmen humanoide Roboter. Künftig sollen sie in Fabriken helfen, bis dahin sind aber noch Hürden zu nehmen.",
+      "url": "https://www.heise.de/hintergrund/Hannover-Messe-2026-Robotik-Made-in-Germany-11270132.html"
     },
     {
       "title": "Orion im Test: Der Browser, der Chrome & Firefox vereint",
@@ -746,22 +747,22 @@
       "image_title": "Kia-Studie Vision Meta Turismo"
     },
     {
-      "title": "Wie die EU mit Geld und NGOs weltweit Einfluss nimmt",
-      "teaser": "itrittsperspektiven, Sanktionen, NGO-Millionen: Brüssel nutzt vielfältige Hebel, um Staaten politisch zu beeinflussen – oft intransparent und undurchsichtig.",
-      "url": "https://www.heise.de/article/Wie-die-EU-mit-Geld-und-NGOs-weltweit-Einfluss-nimmt-11269337.html",
-      "image_title": "Weitwinkel-Ansicht der Schlange von Steepeln mit blauen Flaggen der Europäischen Union vor dem Hintergrund des Gebäudes der Europäischen Kommission unter dunkelblauem Nachthimmel."
+      "title": "ARD-Strategie 2026: Abschied vom Fernsehen, Kampf um Relevanz",
+      "teaser": "Mit einem Public Open Space, KI-Strategie und Programmumbau reagiert die ARD auf digitale Konkurrenz. Der Preis könnte hoch sein – intern wie publizistisch.",
+      "url": "https://www.heise.de/article/ARD-Strategie-2026-Abschied-vom-Fernsehen-Kampf-um-Relevanz-11271416.html",
+      "image_title": "Fernsehschirm, der ARD-Logo zeigt, und eine Fernbedienung"
     },
     {
-      "title": "Krebserkrankung und Beruf: Ihre Rechte und finanzielle Unterstützung",
-      "teaser": "Nach der Diagnose stellen sich für Berufstätige existenzielle Fragen zu Arbeitsplatz und Einkommen. Welche Rechte haben Patienten und wo gibt es Unterstützung?",
-      "url": "https://www.heise.de/article/Krebserkrankung-und-Beruf-Ihre-Rechte-und-finanzielle-Unterstuetzung-11272097.html",
-      "image_title": "junge Frau mit gerade nachwachsenden Haaren areitet an einem Computer"
+      "title": "Die Bundeswehr wird zur Massenarmee – mit allen Konsequenzen",
+      "teaser": "Pistorius macht Ernst: Deutschland soll das stärkste Militär Europas bekommen. Die Bundeswehr wird zur Massenarmee. Was das für die Zivilgesellschaft bedeutet.",
+      "url": "https://www.heise.de/article/Die-Bundeswehr-wird-zur-Massenarmee-mit-allen-Konsequenzen-11271196.html",
+      "image_title": "Boris Pistorius an einem Rednerpult, im Hintergrund Kriegsgerät"
     },
     {
-      "title": "Eine Frau regiert, schreibt, heilt – und macht Päpsten Vorschriften",
-      "teaser": "Hildegard von Bingen: Eine Frau mit Visionen in einer Welt der Männer. Wie das zehnte Kind einer adligen Familie zu deren End- und Höhepunkt wurde.",
-      "url": "https://www.heise.de/article/Eine-Frau-regiert-schreibt-heilt-und-macht-Paepsten-Vorschriften-11265890.html",
-      "image_title": "Abbildung der Hildegard von Bingen"
+      "title": "Gehackt in zwei Minuten: Das Versagen der EU-Altersverifizierung",
+      "teaser": "Nur einen Tag nach dem Launch knackte ein Experte die App in unter zwei Minuten – und Datenschützer sehen das als System, nicht als Panne.",
+      "url": "https://www.heise.de/article/Gehackt-in-zwei-Minuten-Das-Versagen-der-EU-Altersverifizierung-11269237.html",
+      "image_title": "Smartphone mit EU-Sternen und Schloss auf dem Display, Schlüssel und Dietrich"
     },
     {
       "title": "KI-Agenten in der Industrie: Mit diesem Schatz kann Deutschland punkten",
