@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T10:34:32",
+  "timestamp": "2026-04-26T11:30:24",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,18 @@
     }
   ],
   "articles": [
+    {
+      "title": "Technologie als Staatsräson: Was Palantir mit seinem Manifest bezweckt",
+      "url": "https://www.heise.de/hintergrund/Technologie-als-Staatsraeson-Was-Palantir-mit-seinem-Manifest-bezweckt-11272183.html"
+    },
+    {
+      "title": "Hilfreiche Architektur-Dokumentation in weniger als 60 Minuten",
+      "url": "https://www.heise.de/news/Hilfreiche-Architektur-Dokumentation-in-weniger-als-60-Minuten-11268734.html"
+    },
+    {
+      "title": "Behörden-Dschungel: Statusmonitor für die BundID soll die Wirtschaft entlasten",
+      "url": "https://www.heise.de/news/Behoerden-Dschungel-Statusmonitor-fuer-die-BundID-soll-die-Wirtschaft-entlasten-11272389.html"
+    },
     {
       "title": "IP-Speicherung: Experten warnen vor Kostenfalle und geringem Sicherheitsgewinn",
       "url": "https://www.heise.de/news/Teure-digitale-Spurensuche-Milliardeninvestitionen-fuer-die-neue-IP-Speicherung-11272367.html"
@@ -50,18 +62,6 @@
     {
       "title": "Missing Link: 40. Jahrestag der Reaktorkatastrophe in Tschernobyl",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Vor-40-Jahren-explodierte-der-Reaktor-in-Tschernobyl-11268540.html"
-    },
-    {
-      "title": "Top 10: Das beste günstige Tablet im Test",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-guenstige-tablet-im-test-honor-vor-xiaomi-und-samsung/wq0c4t9?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Level 3 per KI – Bosch auf dem Weg zum autonomen Auto",
-      "url": "https://www.heise.de/news/Autonom-auf-Level-3-Bosch-will-dem-Fahrer-mehr-Freiheit-geben-11272239.html"
-    },
-    {
-      "title": "Kommentar: Kein Hack, nur Ignoranz",
-      "url": "https://www.heise.de/meinung/Kommentar-Kein-Hack-nur-Ignoranz-11272211.html"
     },
     {
       "title": "Missing Link40. Jahrestag der Reaktorkatastrophe in Tschernobyl",
@@ -186,6 +186,28 @@
       "image_title": "Quiz-Logo zu 30 Jahre heise online"
     },
     {
+      "title": "Technologie als Staatsräson: Was Palantir mit seinem Manifest bezweckt",
+      "teaser": "Palantir verkauft nicht nur Software, sondern in einem Manifest ein politisches Weltbild in 22 Thesen, um die Dominanz des Westens zu sichern.",
+      "url": "https://www.heise.de/hintergrund/Technologie-als-Staatsraeson-Was-Palantir-mit-seinem-Manifest-bezweckt-11272183.html",
+      "image_title": "Ausgedruckter Ausschnitt des Palantir-Manifests mit Textmarkierung"
+    },
+    {
+      "title": "Hilfreiche Architektur-Dokumentation in weniger als 60 Minuten",
+      "teaser": "Gebündeltes, praxisnahes Wissen zur Softwarearchitektur-Dokumentation gibt es auf der betterCode() ArchDoc: schneller Canvas, Docs-as-Code und Hilfe mit KI.",
+      "url": "https://www.heise.de/news/Hilfreiche-Architektur-Dokumentation-in-weniger-als-60-Minuten-11268734.html",
+      "image_title": "Aufmacher Konferenz ArchDoc"
+    },
+    {
+      "title": "Endpoint Security: Wie Europa bei EDR-Lösungen aufholt",
+      "teaser": "Oft verstehen Kunden nicht genau, was einen Alarm auslöst. Transparenz verspricht eine EDR-Lösung mit europäischer Datenhaltung, offener Technologie und der Wahl zwischen Cloud und On-Premise.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7277652693&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Behörden-Dschungel: Statusmonitor für die BundID soll die Wirtschaft entlasten",
+      "teaser": "Der Statusmonitor soll mehr Transparenz beim Bearbeitungsstand von Anträgen und Genehmigungen schaffen. Zehn Länder sind schon an Bord des Zentralsystems.",
+      "url": "https://www.heise.de/news/Behoerden-Dschungel-Statusmonitor-fuer-die-BundID-soll-die-Wirtschaft-entlasten-11272389.html"
+    },
+    {
       "title": "IP-Speicherung: Experten warnen vor Kostenfalle und geringem Sicherheitsgewinn",
       "teaser": "Schwarz-Rot will die Vorratsdatenspeicherung zurück. Die Regierung verspricht wenig Aufwand. Doch der Entwurf offenbart Millionenlasten für Staat und Firmen.",
       "url": "https://www.heise.de/news/Teure-digitale-Spurensuche-Milliardeninvestitionen-fuer-die-neue-IP-Speicherung-11272367.html",
@@ -196,11 +218,6 @@
       "teaser": "nebenan.de vernetzt Menschen lokal. Geschäftsführer Witzmann über Unterschiede zu sozialen Netzwerken und Monetarisierung.",
       "url": "https://www.heise.de/hintergrund/nebenan-de-Wert-entsteht-durch-die-Nachbarschaft-nicht-durch-die-Plattform-11269738.html",
       "image_title": "Nachbarin gibt Nachbarn Nahrung in Netzbeutel."
-    },
-    {
-      "title": "KI-Einsatz: Wie die deutsche Fertigungsindustrie ihre Zukunft sichert",
-      "teaser": "Fachkräftemangel und globaler Wettbewerb machen Fertigungsunternehmen zu schaffen. Mit einer KI-gestützten Automatisierung und intelligenter Robotik lassen sich diese Herausforderungen bewältigen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7230388698&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Österreich-Modell für Spritpreis steigert Profit der Konzerne",
@@ -217,21 +234,6 @@
       "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-im-Unternehmen-11255609.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Linux-Distribution Ubuntu Desktop 26.04 LTS im Test",
-      "teaser": "Canonical stellt Sicherheit in den Mittelpunkt: Rust-Werkzeuge, TPM-Verschlüsselung und Berechtigungsprompts prägen das neue Ubuntu-LTS-Release.",
-      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
-    },
-    {
-      "title": "Instagrams „Instants“-App lässt ähnlich wie bei Snapchat Fotos verschwinden",
-      "teaser": "Was einmal im Netz ist, bleibt nicht immer im Netz: Das verspricht die an Snapchat angelehnte Instagram-App „Instants“, die Fotos verschwinden lässt.",
-      "url": "https://www.heise.de/news/Instagrams-Instants-App-laesst-aehnlich-wie-bei-Snapchat-Fotos-verschwinden-11272179.html"
-    },
-    {
-      "title": "Redmagic 11 Air im Test: Flaches Gaming-Smartphone mit Ausdauer, RGB und Lüfter",
-      "teaser": "Das Redmagic 11 Air ist ein dünnes Smartphone mit 144-Hz-OLED, aktivem Lüfter und großem Akku. Schultertasten und starke Leistung sichern flüssiges Gaming.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/redmagic-11-air-im-test-flaches-gaming-smartphone-mit-ausdauer-rgb-und-luefter/djt15ez?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Was sich wann wirklich lohntPrivate Energiewende für Skeptiker: Ein Praxisbericht über rechnerische Vorteile",
@@ -324,6 +326,21 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Linux-Distribution Ubuntu Desktop 26.04 LTS im Test",
+      "teaser": "Canonical stellt Sicherheit in den Mittelpunkt: Rust-Werkzeuge, TPM-Verschlüsselung und Berechtigungsprompts prägen das neue Ubuntu-LTS-Release.",
+      "url": "https://www.heise.de/ratgeber/Linux-Distribution-Ubuntu-Desktop-26-04-LTS-im-Test-11243892.html"
+    },
+    {
+      "title": "Instagrams „Instants“-App lässt ähnlich wie bei Snapchat Fotos verschwinden",
+      "teaser": "Was einmal im Netz ist, bleibt nicht immer im Netz: Das verspricht die an Snapchat angelehnte Instagram-App „Instants“, die Fotos verschwinden lässt.",
+      "url": "https://www.heise.de/news/Instagrams-Instants-App-laesst-aehnlich-wie-bei-Snapchat-Fotos-verschwinden-11272179.html"
+    },
+    {
+      "title": "Redmagic 11 Air im Test: Flaches Gaming-Smartphone mit Ausdauer, RGB und Lüfter",
+      "teaser": "Das Redmagic 11 Air ist ein dünnes Smartphone mit 144-Hz-OLED, aktivem Lüfter und großem Akku. Schultertasten und starke Leistung sichern flüssiges Gaming.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/redmagic-11-air-im-test-flaches-gaming-smartphone-mit-ausdauer-rgb-und-luefter/djt15ez?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Hannover Messe verliert Besucher: Künftige Auflage verkürzt sich",
       "teaser": "Die Hannover Messe schloss 2026 mit weniger Besuchern und wird kürzer. Die Landespolitik streitet über den künftigen Kurs.",
       "url": "https://www.heise.de/news/Hannover-Messe-verliert-Besucher-Kuenftige-Auflage-verkuerzt-sich-11272133.html",
@@ -383,6 +400,11 @@
       "image_title": "Mexikanische Häppchen"
     },
     {
+      "title": "Wenn eine Mail an die falsche Person geht ...",
+      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
+    },
+    {
       "title": "software-architektur.tv: Wozu formale Methoden? mit Lars Hupel",
       "teaser": "In der Episode diskutieren Eberhard Wolff und Lars Hupel über den gewinnbringenden Einsatz formaler Methoden im Software-Architektur-Alltag.",
       "url": "https://www.heise.de/news/software-architektur-tv-Wozu-formale-Methoden-mit-Lars-Hupel-11271569.html",
@@ -398,11 +420,6 @@
       "title": "Grün, Rot und Schwarz-Weiß: Die Bilder der Woche 17",
       "teaser": "Eine grüne Stadt, ein rotes Treppenhaus und eine Nacht in Schwarz-Weiß – diese Woche zeigen unsere Galeriefotografen starke Kontraste und präzise Bildideen.",
       "url": "https://www.heise.de/news/Gruen-Rot-und-Schwarz-Weiss-Die-Bilder-der-Woche-17-11270809.html"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie im Live-Webcast am 30.4. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "High-End-Handys: Innovationen jenseits von Apple, Google & Co. | c’t uplink",
@@ -442,24 +459,6 @@
       "teaser": "Die Jahresstatistik der FSM-Hotline zeigt eine besorgniserregende Zunahme illegaler Inhalte und Herausforderungen durch KI-generierte Missbrauchsdarstellungen.",
       "url": "https://www.heise.de/news/Jugendschutz-2025-Hoher-Anstieg-gemeldeter-Missbrauchsdarstellungen-im-Netz-11271890.html",
       "image_title": "Mann schaut in einem abgedunkelten Raum pornografische Bilder auf einem Computerbildschirm an."
-    },
-    {
-      "title": "Ace Pro 2 von Insta360 im Test: Der kleine Videoprofi",
-      "teaser": "Insta360 hat eine neue kleine Kamera im Angebot: Die Ace Pro 2 filmt in 8K und hat wechselbare Linsen.",
-      "url": "https://www.heise.de/tests/Ace-Pro-2-von-Insta360-im-Test-Der-kleine-Videoprofi-11253689.html",
-      "image_title": "Ace Pro 2"
-    },
-    {
-      "title": "KI-Zusammenarbeit: Oh, wie schön ist es mit Kanada",
-      "teaser": "In geopolitisch bewegten Zeiten übernimmt Cohere das deutsche Start-up Aleph Alpha. Die Digitalminister Kanadas und Deutschlands sehen das als Startschuss.",
-      "url": "https://www.heise.de/news/KI-Zusammenarbeit-Oh-wie-schoen-ist-es-mit-Kanada-11271735.html",
-      "image_title": "Fünf Männer in Anzügen posen vor blauer Wand"
-    },
-    {
-      "title": "Kia EV3 AWD: Mehr Leistung und Allradantrieb für das Kompakt-SUV",
-      "teaser": "Der Kia EV3 ist ab sofort als Allradversion mit 195 kW, bis zu 597 km Reichweite und 1,5 Tonnen Anhängelast bestellbar. Ein 22-kW-Lader kommt als Option dazu.",
-      "url": "https://www.heise.de/news/Kia-EV3-AWD-Mehr-Leistung-und-Allradantrieb-fuer-das-Kompakt-SUV-11271661.html",
-      "image_title": "Kia EV3"
     },
     {
       "title": "DeepSeek v4: Günstige KI-Alternative fordert OpenAI und Anthropic heraus",
@@ -522,19 +521,19 @@
       "image_title": "Screenshot aus Die Siedler 2"
     },
     {
+      "title": "Kia EV3 AWD: Mehr Leistung und Allradantrieb für das Kompakt-SUV",
+      "url": "https://www.heise.de/news/Kia-EV3-AWD-Mehr-Leistung-und-Allradantrieb-fuer-das-Kompakt-SUV-11271661.html",
+      "image_title": "Kia EV3"
+    },
+    {
       "title": "Leichtere E-Autos, mehr Innenraum: CATL setzt Maßstäbe mit neuem Qilin-Akku",
       "url": "https://www.heise.de/news/Verpackungskuenstler-CATL-kuendigt-Qilin-E-Auto-Akku-mit-1000-km-Reichweite-an-11268385.html",
       "image_title": "catl quilin"
     },
     {
-      "title": "KTM 1390 Super Duke RR: Das noch bösere Biest",
-      "url": "https://www.heise.de/news/KTM-1390-Super-Duke-RR-Das-noch-boesere-Biest-11266329.html",
-      "image_title": "KTM 1390 Super Duke RR"
-    },
-    {
-      "title": "Wärmepumpen: So sichern Sie sich günstige Stromtarife",
-      "url": "https://www.heise.de/news/Waermepumpen-So-sichern-Sie-sich-guenstige-Stromtarife-11263303.html",
-      "image_title": "Air,To,Air,Heat,Pump,For,Cooling,Or,Heating,The"
+      "title": "KI-Zusammenarbeit: Oh, wie schön ist es mit Kanada",
+      "url": "https://www.heise.de/news/KI-Zusammenarbeit-Oh-wie-schoen-ist-es-mit-Kanada-11271735.html",
+      "image_title": "Fünf Männer in Anzügen posen vor blauer Wand"
     },
     {
       "title": "China und Kambodscha gehen gemeinsam gegen kambodschanische Scam-Zentren vor",
@@ -633,19 +632,19 @@
       "url": "https://www.heise.de/en/news/Signal-phishing-warning-Trigger-likely-attack-on-Julia-Kloeckner-11268773.html"
     },
     {
+      "title": "Hannover Messe 2026: Robotik Made in Germany",
+      "teaser": "Auf der Hannover Messe 2026 zeigten deutsche Unternehmen humanoide Roboter. Künftig sollen sie in Fabriken helfen, bis dahin sind aber noch Hürden zu nehmen.",
+      "url": "https://www.heise.de/hintergrund/Hannover-Messe-2026-Robotik-Made-in-Germany-11270132.html"
+    },
+    {
+      "title": "Familienfotos mit KI restaurieren und kolorieren",
+      "teaser": "Alte Familienfotos sind oft unscharf, körnig und zerkratzt. Künstliche Intelligenz kann verloren geglaubte Details zurückholen. Diese KI-Tools helfen dabei.",
+      "url": "https://www.heise.de/tests/Familienfotos-mit-KI-restaurieren-und-kolorieren-11242433.html"
+    },
+    {
       "title": "c't 3003Vier WordPress-Alternativen, die wirklich überzeugen",
       "teaser": "Schluss mit Plugin-Updates: Diese vier WordPress-Alternativen sind schneller, einfacher und oft auch günstiger.",
       "url": "https://www.heise.de/news/Vier-WordPress-Alternativen-die-wirklich-ueberzeugen-c-t-3003-11271364.html"
-    },
-    {
-      "title": "High-End-Handys: Innovationen jenseits von Apple, Google & Co. | c’t uplink",
-      "teaser": "Apple, Google und Samsung gehören derzeit nicht zu den Innovationstreibern bei Smartphones. Wir sprechen darüber, wo man die technischen Leckerbissen bekommt.",
-      "url": "https://www.heise.de/news/High-End-Handys-Innovationen-jenseits-von-Apple-Google-Co-c-t-uplink-11269501.html"
-    },
-    {
-      "title": "Dolby MAT erklärt: So funktioniert Dolbys Audioformat für Atmos & Co.",
-      "teaser": "PS5 und Apple TV können ihren Ton als Dolby MAT ausgeben, sodass er nahtlos zwischen Formaten inklusive Atmos wechselt. Wir klären Vor- und Nachteile.",
-      "url": "https://www.heise.de/hintergrund/Dolby-MAT-erklaert-So-funktioniert-Dolbys-Audioformat-fuer-Atmos-Co-11220640.html"
     },
     {
       "title": "Orion im Test: Der Browser, der Chrome & Firefox vereint",
@@ -730,6 +729,12 @@
       "image_title": "BP Tankstelle"
     },
     {
+      "title": "Das noch bösere BiestKTM 1390 Super Duke RR",
+      "teaser": "Weniger Gewicht, mehr Leistung, edlere Teile: KTM hat die 1390 Super Duke nachgeschärft. Als radikale 1390 Super Duke RR bleibt sie auf 350 Stück limitiert.",
+      "url": "https://www.heise.de/news/KTM-1390-Super-Duke-RR-Das-noch-boesere-Biest-11266329.html",
+      "image_title": "KTM 1390 Super Duke RR"
+    },
+    {
       "title": "VW Golf und VW T-Roc Hybrid ab Ende 2026VWs erster Vollhybridantrieb",
       "teaser": "Volkswagen elektrifiziert VW Golf und VW T-Roc ab Ende 2026 mit einem eigenen Vollhybridantrieb. Er soll spürbar sparsamer sein.",
       "url": "https://www.heise.de/news/VWs-erster-Vollhybridantrieb-Ab-Ende-2026-in-VW-Golf-und-VW-T-Roc-erhaetlich-11269902.html",
@@ -742,28 +747,22 @@
       "image_title": "Kia-Studie Vision Meta Turismo"
     },
     {
-      "title": "Gestiegene Nachfrage bei TeslaMehr Angestellte für Tesla-Werk Grünheide",
-      "teaser": "Tesla-Chef Elon Musk will die Zahl der Beschäftigten im Tesla-Werk Grünheide erhöhen und begründet das mit gestiegener Nachfrage nach dem E-Auto Tesla Model Y.",
-      "url": "https://www.heise.de/news/Gestiegene-Nachfrage-Tesla-will-Personaldecke-im-Werk-Brandenburg-verstaerken-11269754.html",
-      "image_title": "Mitarbeitende bei Tesla"
-    },
-    {
-      "title": "Festkörperbatterien: Max-Planck-Forscher klären Ursache für Kurzschlüsse",
-      "teaser": "Mechanischer Stress durch Lithium-Dendriten lässt keramische Elektrolyte brechen. Düsseldorfer Forscher widerlegen damit eine konkurrierende Theorie.",
-      "url": "https://www.heise.de/article/Festkoerperbatterien-Max-Planck-Forscher-klaeren-Ursache-fuer-Kurzschluesse-11271095.html",
-      "image_title": "Das Innere einer Lithium-Ionen-Batterie im Vergleich zu einer Festkörperbatterie."
-    },
-    {
       "title": "Krebserkrankung und Beruf: Ihre Rechte und finanzielle Unterstützung",
       "teaser": "Nach der Diagnose stellen sich für Berufstätige existenzielle Fragen zu Arbeitsplatz und Einkommen. Welche Rechte haben Patienten und wo gibt es Unterstützung?",
       "url": "https://www.heise.de/article/Krebserkrankung-und-Beruf-Ihre-Rechte-und-finanzielle-Unterstuetzung-11272097.html",
       "image_title": "junge Frau mit gerade nachwachsenden Haaren areitet an einem Computer"
     },
     {
-      "title": "Pentagon zieht den Stecker: GPS-Programm OCX ist gescheitert",
-      "teaser": "16 Jahre, 6,27 Milliarden Dollar – und am Ende nichts. Das Pentagon hat das GPS-Modernisierungsprogramm OCX gestoppt. Wie geht es jetzt weiter für das System?",
-      "url": "https://www.heise.de/article/Pentagon-zieht-den-Stecker-GPS-Programm-OCX-ist-gescheitert-11269294.html",
-      "image_title": "Künstlerische Darstellung von GPS-Satelliten"
+      "title": "EU startet LNG-Importverbot gegen Russland – mitten in der Gaskrise",
+      "teaser": "Ab Samstag dürfen keine kurzfristigen russischen LNG-Lieferungen mehr in die EU fließen. Der Zeitpunkt ist heikel.",
+      "url": "https://www.heise.de/article/EU-startet-LNG-Importverbot-gegen-Russland-mitten-in-der-Gaskrise-11271876.html",
+      "image_title": "Ein großes LNG-Schiff liegt an einem Pier neben einer Industrieanlage."
+    },
+    {
+      "title": "Gehackt in zwei Minuten: Das Versagen der EU-Altersverifizierung",
+      "teaser": "Nur einen Tag nach dem Launch knackte ein Experte die App in unter zwei Minuten – und Datenschützer sehen das als System, nicht als Panne.",
+      "url": "https://www.heise.de/article/Gehackt-in-zwei-Minuten-Das-Versagen-der-EU-Altersverifizierung-11269237.html",
+      "image_title": "Smartphone mit EU-Sternen und Schloss auf dem Display, Schlüssel und Dietrich"
     },
     {
       "title": "KI-Agenten in der Industrie: Mit diesem Schatz kann Deutschland punkten",
