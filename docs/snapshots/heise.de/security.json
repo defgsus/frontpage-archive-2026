@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T10:02:56",
+  "timestamp": "2026-04-27T12:14:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertPasswortsafe BitwardenKommandozeilen-Client trojanisiert",
-      "teaser": "Das Bitwarden-Security-Team bestätigt, dass kurzzeitig eine bösartige Version des Kommandozeilen-Client ausgeliefert wurde.",
-      "url": "https://www.heise.de/news/Passwortsafe-Bitwarden-Kommandozeilen-Client-trojanisiert-11270435.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "Handy im Wanzen-VerdachtGezielte Werbung braucht keinen Lauschangriff",
-      "teaser": "Gerade wurde über ein Thema gesprochen, schon kommt passende Werbung dazu. Mithören durch das Smartphone ist dazu gar nicht nötig.",
-      "url": "https://www.heise.de/news/Handy-im-Wanzen-Verdacht-Gezielte-Werbung-braucht-keinen-Lauschangriff-11269699.html",
-      "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
-    },
-    {
       "title": "Alert„Pack2TheRoot“Sicherheitslücke betrifft mehrere Linux-Distributionen",
+      "teaser": "Das Telekom-Sicherheitsteam hat die Lücke „Pack2TheRoot“ entdeckt, die Rechteausweitung in mehreren Distributionen ermöglicht.",
       "url": "https://www.heise.de/news/Pack2TheRoot-Sicherheitsluecke-betrifft-mehrere-Linux-Distributionen-11272897.html",
       "image_title": "3d,Rendering.,Word,“linux”,With,Bright,Yellow,Color,Before,Linux"
+    },
+    {
+      "title": "AlertWerbeblocker Pi-holeUpdate schließt zwei hochriskante Sicherheitslücken",
+      "teaser": "Die Entwickler haben den DNS-basierten Werbeblocker Pi-hole aktualisiert. Das Update stopft hochriskante Sicherheitslecks.",
+      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-und-Rechteausweitungsluecken-11273267.html",
+      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
+    },
+    {
+      "title": "AlertWerbeblocker Pi-holeUpdate schließt zwei hochriskante Sicherheitslücken",
+      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-und-Rechteausweitungsluecken-11273267.html",
+      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -53,12 +53,6 @@
       "teaser": "Gesundheitsdaten der UK Biobank wurden online angeboten. Der Zugriff ist inzwischen gestoppt. Weitere Sicherheitsmaßnahmen sind geplant.",
       "url": "https://www.heise.de/news/Gesundheitsdaten-aus-UK-Biobank-auf-Alibaba-angeboten-11272997.html",
       "image_title": "Person am Rechner, neben ihr einzelne Datenpunkte"
-    },
-    {
-      "title": "Alert„Pack2TheRoot“: Sicherheitslücke betrifft mehrere Linux-Distributionen",
-      "teaser": "Das Telekom-Sicherheitsteam hat die Sicherheitslücke „Pack2TheRoot“ entdeckt, die Rechteausweitung in mehreren Distributionen ermöglicht.",
-      "url": "https://www.heise.de/news/Pack2TheRoot-Sicherheitsluecke-betrifft-mehrere-Linux-Distributionen-11272897.html",
-      "image_title": "3d,Rendering.,Word,“linux”,With,Bright,Yellow,Color,Before,Linux"
     },
     {
       "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
@@ -121,6 +115,12 @@
       "image_title": "Flagge Frankreichs"
     },
     {
+      "title": "AlertPasswortsafe Bitwarden: Kommandozeilen-Client trojanisiert",
+      "teaser": "Das Bitwarden-Security-Team bestätigt, dass kurzzeitig eine bösartige Version des Kommandozeilen-Client ausgeliefert wurde.",
+      "url": "https://www.heise.de/news/Passwortsafe-Bitwarden-Kommandozeilen-Client-trojanisiert-11270435.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
       "title": "Sicherheitsbehörden warnen vor chinesischen Mitnutzern",
       "teaser": "Nachrichtendienste und Cybersicherheitsbehörden warnen vor Angreifern aus der Volksrepublik, die Infrastruktur Nichtsahnender für Operationen nutzen.",
       "url": "https://www.heise.de/news/Sicherheitsbehoerden-warnen-vor-chinesischen-Mitnutzern-11270370.html",
@@ -133,26 +133,21 @@
       "image_title": "Tails-7.7-Desktop auf Notebook"
     },
     {
+      "title": "Handy im Wanzen-Verdacht: Gezielte Werbung braucht keinen Lauschangriff",
+      "teaser": "Gerade wurde über ein Thema gesprochen, schon kommt passende Werbung dazu. Mithören durch das Smartphone ist dazu gar nicht nötig.",
+      "url": "https://www.heise.de/news/Handy-im-Wanzen-Verdacht-Gezielte-Werbung-braucht-keinen-Lauschangriff-11269699.html",
+      "image_title": "Eine Zeichnung, auf der ein Chef zu sehen ist, der seinen Mitarbeiter mit einer Lupe beobachtet."
+    },
+    {
       "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
       "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11255580.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
-      "title": "Rechtliche Bedenken bei dreimonatiger IP-Adressspeicherung",
-      "teaser": "Nachdem die Bundesregierung ihren neuen Vorschlag zur Vorratsdatenspeicherung auf den Weg gebracht hat, gibt es Kritik von Providern und Datenschützern.",
-      "url": "https://www.heise.de/news/Vorratsdaten-Erneutes-Scheitern-vorprogrammiert-11269315.html",
-      "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
-    },
-    {
       "title": "Workshop | 12. – 13.5.2026Generative KI in der Security-Praxis",
       "teaser": "Der Workshop zeigt, wie Teams generative KI sicher lokal einsetzen und praxisnah in eigene Lösungen überführen.",
       "url": "https://heise-academy.de/Workshops/generative_ki_security?wt_mc=pmar.conf.ix.ws_generativeki.security_buehne_2.teaser.teaser"
-    },
-    {
-      "title": "Workshop | 02.06. – 03.06.2026DHCP-Automatisierung mit Kea und Stork",
-      "teaser": "Im Workshop lernen Sie, Kea mit Datenbank-Backend und HA-Cluster aufzubauen, sicher zu betreiben und per API zu automatisieren.",
-      "url": "https://heise-conferences.de/workshop/dhcp-automatisierung-mit-kea-und-stork-_awtwYYgAtGBip?wt_mc=intern.conf.ct.ws_kea.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Classroom | 09.06. – 07.07.2026Ethical Hacking – Deep Dive ins Pentesting für Admins",
@@ -163,6 +158,11 @@
       "title": "Classroom | 11.06. – 02.07.2026NIS-2 in der Praxis – Cybersicherheit, Risikomanagement und Sicherheitskultur",
       "teaser": "Lernen Sie die NIS-2-Richtlinie umzusetzen: von Grundlagen, Meldepflichten und Lieferkettenrisiken über Risikomanagement zur Informationssicherheitskultur.",
       "url": "https://heise-academy.de/classrooms/nis-2-626?LPID=38045&wt_mc=intern.academy.academy.cr_nis2.security_buehne_2.teaser.teaser&utm_campaign=298392774-ha_2026_01-12_classrooms&utm_source=heise&utm_medium=buehne_ho&utm_content=buehne_ho-security_2&utm_term=cr_nis2"
+    },
+    {
+      "title": "Workshop | 18.11.2026Einführung ins Threat Modeling",
+      "teaser": "Etablieren Sie IT-Security als Mindset und lernen Sie Threat Modeling als leichtgewichtige Methode kennen, um Security frühzeitig zu adressieren.",
+      "url": "https://heise-conferences.de/workshop/einfuhrung-ins-threat-modeling-iSzYRFxCRMILG1?wt_mc=intern.conf.ct.ws_threat-modeling.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Auslöser wohl Angriff auf Julia Klöckner",
