@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-28T05:19:50",
+  "timestamp": "2026-04-28T08:01:10",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "Greenwashing-Studie: Sind alle Klimaversprechen übertrieben?",
+      "teaser": "Eine Studie behauptet: Die 33 größten Fleisch- und Molkereikonzerne betreiben Greenwashing in großem Stil. Unabhängige Experten bezweifeln die Ergebnisse . Woran erkennt man falsche Verspechen.",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/kritik-an-greenwashing-studie-zu-fleisch-und-molkereikonzernen-accg-200763796.html"
+    },
+    {
       "title": "Marathon-Weltrekord: „Wie beim Trampolinspringen“",
       "teaser": "Wettkampfschuhe verändern den Laufstil und helfen, Energie zu sparen. Sportwissenschaftler Steffen Willwacher erklärt, wie das funktioniert.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/marathon-weltrekord-von-sawe-experte-erklaert-wie-wettkampfschuhe-helfen-200771985.html"
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/marathon-weltrekord-von-sawe-experte-erklaert-wie-wettkampfschuhe-helfen-200771985.html",
+      "image_url": "https://media0.faz.net/image/w730/1492bac65d81/w6000h3375x0y236/202604/43601.0.2020282447/sabastian-sawe-haelt-seinen.webp",
+      "image_title": "Sabastian Sawe hält seinen Weltrekord-Schuh nach dem London-Marathon."
     },
     {
       "title": "Waldregeneration: Gerodete Regenwälder überraschen mit schneller Regeneration",
@@ -93,12 +100,6 @@
       "url": "https://www.faz.net/aktuell/wissen/physik-mehr/deutschland-40-jahre-nach-tschernobyl-gau-was-ist-messbar-accg-200762494.html",
       "image_url": "https://media0.faz.net/image/w730/ff4091296326/w3000h1688x0y141/202604/0a35434e-3f1b-11f1-a9bb-63f79e308ac4/manche-wildschweine-weisen.webp",
       "image_title": "Manche Wildschweine weisen eine hohe Strahlenaktivität auf, da ihr Futter radioaktive Stoffe enthält."
-    },
-    {
-      "title": "Netzrätsel: Auf Kante",
-      "teaser": "Es gibt so gut wie nichts, was es nicht gibt im Netz der Netze: Geniales, Kurioses, Nostalgisches und liebevoll Zweckfreies. Diesmal: Steine, die zu schweben scheinen.",
-      "url": "https://www.faz.net/aktuell/wissen/netzraetsel/auf-kante-accg-200762490.html",
-      "image_url": "https://media0.faz.net/image/w730/8bfdf49ee3bc/w1500h844x0y28/202604/2ce22ac6-cafc-4c78-98ff-dc042ef18a9c/1n3h9bndxwsv.webp"
     },
     {
       "title": "FAZ+Osterrätsel: Über sieben Brücken musst du geh’n!",
@@ -177,18 +178,17 @@
       "image_title": "Frauke Zbikowski"
     },
     {
+      "title": "Netzrätsel: Auf Kante",
+      "teaser": "Es gibt so gut wie nichts, was es nicht gibt im Netz der Netze: Geniales, Kurioses, Nostalgisches und liebevoll Zweckfreies. Diesmal: Steine, die zu schweben scheinen.",
+      "url": "https://www.faz.net/aktuell/wissen/netzraetsel/auf-kante-accg-200762490.html",
+      "image_url": "https://media0.faz.net/image/w920/8bfdf49ee3bc/w1500h844x0y28/202604/2ce22ac6-cafc-4c78-98ff-dc042ef18a9c/1n3h9bndxwsv.webp"
+    },
+    {
       "title": "Wasser auf dem Mond: Das Eis im ewigen Schatten",
       "teaser": "Auf dem Mond schlummert ein kalter Schatz. Eine neue Untersuchung zeigt, wie sich die Eisvorkommen am lunaren Südpol über Jahrmilliarden aufbauen.",
       "url": "https://www.faz.net/aktuell/wissen/weltraum/wie-das-wasser-auf-den-mond-kam-accg-200750886.html",
       "image_url": "https://media0.faz.net/image/w920/135ad0783e36/w1244h700x0y130/202604/43601.0.1952844165/das-suedpolargebiet-des-mondes.webp",
       "image_title": "Das Südpolargebiet des Mondes, markiert sind potenzielle Landegebiete für die Artemis IV-Mission der NASA"
-    },
-    {
-      "title": "40 Milliarden Euro Lücke: Können KI und Roboter das Gesundheitssystem retten?",
-      "teaser": "Den Krankenkassen droht eine Milliardenlücke. Ein Papier von Ingenieuren zeigt, wie Technologie helfen könnte – und warum Effizienz allein nicht reicht.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ki-und-roboter-wie-ingenieure-die-medizin-veraendern-wollen-accg-200750884.html",
-      "image_url": "https://media0.faz.net/image/w920/a3b94efcf2b8/w3000h1687x0y256/202304/43600.0.1692167670/in-der-pflege-koennten-roboter.webp",
-      "image_title": "In der Pflege könnten Roboter zum Einsatz kommen: Tests in einem Pflegeheim in Bayern."
     },
     {
       "title": "FAZ+Therapiehlfe: Wem hilft Sport bei Depressionen?",
@@ -212,10 +212,17 @@
       "image_title": "Verhaltensforscherin Lina Roth und ihr Welsh Corgi Cardigan"
     },
     {
+      "title": "40 Milliarden Euro Lücke: Können KI und Roboter das Gesundheitssystem retten?",
+      "teaser": "Den Krankenkassen droht eine Milliardenlücke. Ein Papier von Ingenieuren zeigt, wie Technologie helfen könnte – und warum Effizienz allein nicht reicht.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ki-und-roboter-wie-ingenieure-die-medizin-veraendern-wollen-accg-200750884.html",
+      "image_url": "https://media0.faz.net/image/w920/5b8bb898b1d3/w3000h1285x0y32/202304/43600.0.1692167670/in-der-pflege-koennten-roboter.webp",
+      "image_title": "In der Pflege könnten Roboter zum Einsatz kommen: Tests in einem Pflegeheim in Bayern."
+    },
+    {
       "title": "FAZ+Kolumne „gesundheitsmythen“: Die gesunden Effekte der Sonne gehen über Vitamin D hinaus",
       "teaser": "Vom Sonnenbaden kriegt man Falten und Hautkrebs. Doch auch zu wenig Sonne kann schädlich sein, besonders für den Blutdruck und das Immunsystem. Sind Sonnenstrahlen gesünder als ihr Ruf?",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/die-gesunden-effekte-von-sonnenlicht-gehen-ueber-vitamin-d-hinaus-accg-200746295.html",
-      "image_url": "https://media0.faz.net/image/w920/91a5c4aab32d/w4603h1972x630y1010/202604/43601.0.2006924134/moeglichst-lange-in-der-sonne.webp",
+      "image_url": "https://media0.faz.net/image/w730/913cfaebf4bd/w4185h2354x962y785/202604/43601.0.2006924134/moeglichst-lange-in-der-sonne.webp",
       "image_title": "Möglichst lange in der Sonne zu brutzeln war einst die Maxime im Urlaub."
     },
     {
@@ -224,13 +231,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/klimawandel-beeintraechtigt-zunehmend-menschliche-gesundheit-accg-200755825.html",
       "image_url": "https://media0.faz.net/image/w730/c48292fef625/w3000h1687x0y156/202509/43601.0.1294221118/hitzewellen-wie-in-spanien.webp",
       "image_title": "Hitzewellen, wie in Spanien 2024, könnten künftig häufiger werden."
-    },
-    {
-      "title": "Entzündliche Hauterkrankung: Was vor Neurodermitis-Schüben schützt",
-      "teaser": "Neue Forschung zeigt, wie spezielle Nervenzellen Immunzellen in die Haut locken und Entzündungen auslösen. Künftig sollen Apps die Kontrolle von Schüben erleichtern.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/neurodermitis-diese-neuen-ansaetze-helfen-vor-entzuendlichen-schueben-accg-200749532.html",
-      "image_url": "https://media0.faz.net/image/w730/cdbefa320228/w4272h2403x0y223/202208/43600.0.1077878253/neurodermitis-ist-eine.webp",
-      "image_title": "Neurodermitis ist eine quälende Erkrankung."
     },
     {
       "title": "Neue Früherkennung: Was nützt das Krebsscreening für Raucher?",
