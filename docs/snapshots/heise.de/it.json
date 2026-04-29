@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T07:55:32",
+  "timestamp": "2026-04-29T09:55:22",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,51 @@
   ],
   "articles": [
     {
-      "title": "AlertAbermals kritische Sicherheitslücke in Nginx UI geschlossen",
+      "title": "SoftwareentwicklungEvent Modeling: Das Storyboard für Software",
+      "teaser": "Im Interview erklärt Event-Modeling-Erfinder Adam Dymitruk, warum Software einen Blueprint braucht – und wie Business und Technik endlich eine Sprache nutzen.",
+      "url": "https://www.heise.de/blog/Event-Modeling-Das-Storyboard-fuer-Software-11259850.html",
+      "image_title": "Blick auf einen Schreibtisch mit verschiedenen Dokumenten und bunten Klebezetteln."
+    },
+    {
+      "title": "AlertCISA-Warnung: Angriffe auf ConnectWise ScreenConnect und Windows Shell",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf die Windows Shell und ConnectWise ScreenConnect.",
+      "url": "https://www.heise.de/news/CISA-Warnung-Angriffe-auf-ConnectWise-ScreenConnect-und-Windows-Shell-11276026.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "„Black Axe“: Schweizer Ermittler haben Bandenchef festgenommen",
+      "teaser": "Schweizer Ermittler schnappen den Chef der kriminellen Bande „Black Axe“, die mit Liebesbetrug und Cybertricks Millionen ergaunert haben soll.",
+      "url": "https://www.heise.de/news/Black-Axe-Schweizer-Ermittler-haben-Bandenchef-festgenommen-11276168.html",
+      "image_title": "Einsatzbereite Handschellen"
+    },
+    {
+      "title": "heise security Tour: KI, Identitäten und Lieferkette versus Security",
+      "teaser": "Die heise security Tour liefert Sicherheitsverantwortlichen das praxisrelevante Hintergrundwissen zu den aktuellen Herausforderungen der IT-Sicherheit. Uaisg...",
+      "url": "https://www.heise.de/news/heise-security-Tour-KI-Identitaeten-und-Lieferkette-versus-Security-11271374.html"
+    },
+    {
+      "title": "TestsNetNewsWire 7 im Test: Der RSS-Nachrichtensammler",
+      "url": "https://www.heise.de/tests/NetNewsWire-7-im-Test-Der-RSS-Nachrichtensammler-11253671.html",
+      "image_title": "NetNewsWire 7 auf dem Mac"
+    },
+    {
+      "title": "Teststierrno Im Test: Betrugserkennung nach dem Login",
+      "url": "https://www.heise.de/tests/tierrno-Im-Test-Betrugserkennung-nach-dem-Login-11269667.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "HintergrundNPU-Beschleunigung in der Praxis: Performance-Vorteile und Software-Support",
+      "url": "https://www.heise.de/hintergrund/NPU-Beschleunigung-in-der-Praxis-Performance-Vorteile-und-Software-Support-11098345.html",
+      "image_title": "Ein Prozessor mit der Aufschrift NPU auf einer Leiterplatte"
+    },
+    {
+      "title": "Xiaomi öffnet vier Topmodelle für Android-17-Testphase",
+      "teaser": "Xiaomi bietet eine Android-17-Testversion für vier Topmodelle an. Die Software richtet sich an Entwickler und erfordert eine globale ROM-Version.",
+      "url": "https://www.heise.de/news/Xiaomi-oeffnet-vier-Topmodelle-fuer-Android-17-Testphase-11276054.html",
+      "image_title": "Android 17 Beta für Xiaomi-Modelle mit Abbildungen der 4 Geräte"
+    },
+    {
+      "title": "AlertKritische Sicherheitslücke: Entwickler reparieren Nginx UI erneut",
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen im Web UI für nginx-Webserver Nginx UI. Angreifer können Instanzen übernehmen.",
       "url": "https://www.heise.de/news/Abermals-kritische-Sicherheitsluecke-in-Nginx-UI-geschlossen-11276012.html",
       "image_title": "Kugel mit Schloss darin vor einer Skyline"
@@ -41,21 +85,6 @@
       "teaser": "Die Webbrowser Chrome und Firefox sind in aktualisierten Versionen erschienen. Sie schließen kritische Sicherheitslücken.",
       "url": "https://www.heise.de/news/Kritische-Luecken-in-Chrome-und-Firefox-geschlossen-11275968.html",
       "image_title": "Achtung-Schild neben verzerrten Chrome-, Firefox- und Thunderbird-Logo"
-    },
-    {
-      "title": "TestsNetNewsWire 7 im Test: Der RSS-Nachrichtensammler",
-      "url": "https://www.heise.de/tests/NetNewsWire-7-im-Test-Der-RSS-Nachrichtensammler-11253671.html",
-      "image_title": "NetNewsWire 7 auf dem Mac"
-    },
-    {
-      "title": "Teststierrno Im Test: Betrugserkennung nach dem Login",
-      "url": "https://www.heise.de/tests/tierrno-Im-Test-Betrugserkennung-nach-dem-Login-11269667.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "HintergrundNPU-Beschleunigung in der Praxis: Performance-Vorteile und Software-Support",
-      "url": "https://www.heise.de/hintergrund/NPU-Beschleunigung-in-der-Praxis-Performance-Vorteile-und-Software-Support-11098345.html",
-      "image_title": "Ein Prozessor mit der Aufschrift NPU auf einer Leiterplatte"
     },
     {
       "title": "iX-Workshop: Windows Server absichern und härten",
@@ -115,35 +144,6 @@
       "teaser": "Fedora 44 tritt beim Wayland-Umstieg aufs Gas, poliert die KDE-Installation auf und unterstützt deklaratives Paketmanagement mit Nix.",
       "url": "https://www.heise.de/news/Linux-Distribution-Fedora-44-KDE-Plasma-und-Wayland-im-Fokus-11274348.html",
       "image_title": "Screen KDE Plasma Desktop mit Einstellungen und Fedora Logo"
-    },
-    {
-      "title": "Staat als Ankerkunde: Strategien für KI-Souveränität",
-      "teaser": "Ein halbes Jahr nach Arbeitsaufnahme legt die Kommission im Auftrag der Bundesregierung ihre Empfehlungen vor, wie KI und Wettbewerb zueinander passen können.",
-      "url": "https://www.heise.de/news/Kommission-Wettbewerb-und-KI-Viele-Wuensche-vor-grauen-Wolken-11275420.html",
-      "image_title": "Frau arbeitet an einem Notebook"
-    },
-    {
-      "title": "Mähroboter Sunseeker S4 bis 1000 m² im Test: Nicht der schnellste, dafür präzise",
-      "teaser": "Der Sunseeker S4 ist ein weiterer Mähroboter, der mithilfe von LiDAR und KI-Kamera navigiert. Ist er damit auch für komplexe Gärten geeignet? Der Test zeigt es.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-sunseeker-s4-bis-1000-m-im-test-nicht-der-schnellste-dafuer-praezise/byy9bt3?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "App Store: Apple führt Monatsabos mit Jahresbindung ein",
-      "teaser": "Entwickler können im App Store bald Monatsabos mit Jahresbindung anbieten. Die Option gilt weltweit – außer in den USA und Singapur.",
-      "url": "https://www.heise.de/news/App-Store-Apple-fuehrt-Monatsabos-mit-Jahresbindung-ein-11275298.html",
-      "image_title": "Die neuen Abo-Optionen auf dem iPhone"
-    },
-    {
-      "title": "OWC Express 4M2 Ultra: Thunderbolt-5-Gehäuse für vier SSDs",
-      "teaser": "Das Express 4M2 Ultra nimmt vier M.2-SSDs auf und verbindet sich per Thunderbolt mit einem PC oder Mac.",
-      "url": "https://www.heise.de/news/OWC-Express-4M2-Ultra-Thunderbolt-5-Gehaeuse-fuer-vier-SSDs-11275285.html",
-      "image_title": "Ein SSD-Gehäuse steht neben einem Mac auf einem Schreibtisch"
-    },
-    {
-      "title": "Microsoft Teams: Mobilfassung stellt Öffnen von Links auf Edge um",
-      "teaser": "Microsoft hat es angekündigt und nun den Zeitplan aktualisiert. Teams Mobile fragt nach Standardprogramm zum Öffnen von Links – bevorzugt Edge.",
-      "url": "https://www.heise.de/news/Microsoft-Teams-Mobilfassung-stellt-Oeffnen-von-Links-auf-Edge-um-11275097.html",
-      "image_title": "Das Microsoft Teams Logo wird auf einem Smartphone Bildschirm angezeigt."
     },
     {
       "title": "NewsSignal reagiert auf deutsche Probleme",
