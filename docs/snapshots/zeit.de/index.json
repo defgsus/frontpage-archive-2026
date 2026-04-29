@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-29T17:13:49",
+  "timestamp": "2026-04-29T19:04:46",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,11 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Linke Ideen in den USA: Ist Klauen jetzt cool?",
-      "teaser": "Oder ist es gar politischer Protest? Und was ist mit anderen Gesetzesverstößen? Das fragen sich prominente Linke in den USA. Was für eine gefährliche, dumme Diskussion.",
-      "url": "https://www.zeit.de/feuilleton/2026-04/linke-ideen-usa-diebstahl-lebensmittel-hasan-piker-jia-tolentino-nadja-spiegelman",
-      "image_url": "https://img.zeit.de/feuilleton/2026-04/linke-ideen-usa-diebstahl-lebensmittel-hasan-piker-jia-tolentino-nadja-spiegelman-bild-2/wide__1000x562",
-      "image_title": "Linke Ideen in den USA: Ist Klauen jetzt cool?"
+      "title": "Z+ (abopflichtiger Inhalt); Reformen in der Politik: Eine Regierung sucht Land",
+      "teaser": "Mit entschlossenen Reformen wollte die schwarz-rote Koalition zeigen, was sie kann. Im langen Nachdenken darüber hat sie sich selbst verloren – und eine Menge Vertrauen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/reformen-politik-friedrich-merz-lars-klingbeil-vertrauen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/reformen-politik-friedrich-merz-lars-klingbeil-vertrauen-bild-01/wide__1000x562",
+      "image_title": "Reformen in der Politik: Blick auf die Stühle für Bundeskanzler Merz (CDU), dem Ministerpräsidenten von Bayern und CSU Vorsitzender, Söder, Bundesarbeitsministerin Co-Bundesvorsitzende der SPD, Bas (SPD), sowie für Bundesfinanzminister und Co-Bundesvorsitzender der SPD, Klingbeil (SPD), vor der Pressekonferenz nach dem Koalitonsausschuss. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); GKV-Sparpaket: Was für eine Enttäuschung!",
@@ -112,50 +118,22 @@
       "image_title": "GKV-Sparpaket: BERLIN, GERMANY - APRIL 29: Federal Minister of Health Nina Warken (CDU) attends a joint press conference with German Chancellor Friedrich Merz (CDU) (not pictured), on the planned public health system reforms after the weekly federal government cabinet meeting at the Chancellery, on April 29, 2026 in Berlin, Germany. High on the morning agenda are the 2027 federal budget and health care reform. (Photo by Omer Messinger/Getty Images)"
     },
     {
-      "title": "Reform der gesetzlichen Krankenversicherung: Opposition und Krankenkassen kritisieren Gesundheitsreform",
-      "teaser": "Lange hat Schwarz-Rot gerungen, nun ist die Reform der gesetzlichen Krankenversicherung auf dem Weg. Doch die Kritik an dem Gesetzentwurf reißt nicht ab.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/gesundheitsreform-gesetz-kabinett-beschluss-reaktionen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/gesundheitsreform-gesetz-kabinett-beschluss/super__320x213",
-      "image_title": "Gesundheitsreform-gesetz-kabinett-beschluss"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Zuckersteuer: Ungesunde Idee",
-      "teaser": "Die Bundesregierung quält sich mit Reformen, aber ausgerechnet bei der Zuckersteuer tut sie sich leicht. Könnte mit denen zu tun haben, die sie besonders trifft.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/zucker-bundesregierung-haushalt-adipositas",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/zucker-bundesregierung-haushalt-adipositas-bild/super__320x213",
-      "image_title": "Zuckersteuer: Ungesunde Idee"
-    },
-    {
-      "title": "Bundeshaushalt 2027: Lars Klingbeil verteidigt höhere Neuverschuldung",
-      "teaser": "Bundesfinanzminister Klingbeil will Deutschland mit der Haushaltsplanung für 2027 »krisenfester« machen. Den hohen Verteidigungsetat sieht er als notwendige Konsequenz.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/bundeshaushalt-2027-eckwerte-schulden-verteidigungsetat-bundesfinanzminister-lars-klingbeil",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/bundeshaushalt-2027-lars-klingbeil-verteidigungsausgaben-schulden-bild-2/super__320x213",
-      "image_title": "Bundeshaushalt 2027: German Finance Minister Lars Klingbeil arrives to hold a press conference on the government's 2027 budget guidelines and the 2028–2030 financial plans, in Berlin, Germany, April 29, 2026. REUTERS/Liesa Johannssen"
-    },
-    {
-      "title": "Gesundheitsreform: Kabinett beschließt Reform der gesetzlichen Krankenversicherung",
-      "teaser": "Das Bundeskabinett hat Milliardenentlastungen für die gesetzlichen Krankenkassen beschlossen. An dem Reformvorhaben von Nina Warken gibt es Kritik.",
-      "url": "https://www.zeit.de/politik/2026-04/kabinett-beschliesst-milliarden-entlastungen-fuer-krankenkassen-gxe",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/kabinett-beschliesst-milliarden-entlastungen-fuer-krankenkassen-bild-2/super__320x213",
-      "image_title": "Gesundheitsreform: Lars Klingbeil (SPD, 6.v.l), Bundesminister der Finanzen, Vizekanzler und SPD-Bundesvorsitzender, und Bundeskanzler Friedrich Merz (CDU, 7.v.l) nehmen an der Sitzung des Bundeskabinetts im Bundeskanzleramt teil. Themen sind der Bundeshaushalt und die voraussichtliche Reform der Krankenversicherung. +++ dpa-Bildfunk +++"
-    },
-    {
-      "title": "Steuerreform: Friedrich Merz zeigt sich offen für höhere Reichensteuer",
-      "teaser": "Der Kanzler kann sich einen um 2,5 Prozentpunkte höheren Reichensteuersatz vorstellen. Voraussetzung dafür seien geglättete Steuertarife und die Abschaffung des Solis.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/reichensteuer-friedrich-merz-steuersatz-solidaritaetszuschlag-gxe",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/reichensteuer-friedrich-merz-steuersatz-solidaritaetszuschlag-bild/super__320x213",
-      "image_title": "Steuerreform: German Chancellor Friedrich Merz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, April 29, 2026. (AP Photo/Ebrahim Noroozi)"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); NSDAP-Mitgliederkartei : Recherchieren Sie hier die NSDAP-Vergangenheit Ihrer Familie",
       "url": "https://www.zeit.de/wissen/2026-04/nsdap-mitgliederkartei-karteikarten-familienmitglieder-suche",
       "image_url": "https://interactive.zeit.de/g/2026/nsdap-mitgliedskartei-2026/static/assets/teaser-430x286-SDiomBX-.webp"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Histrioniker: Ähnlich wie Narzissten, nur anders",
+      "teaser": "Histrionische Personen sind sprunghaft, theatralisch und süchtig nach Aufmerksamkeit. Früher war Histrionismus eine Diagnose – heute erscheint er fast wie eine Fähigkeit.",
+      "url": "https://www.zeit.de/gesundheit/2026-04/histrioniker-persoenlichkeitsstoerung-aufmerksamkeit-emotionalitaet-soziale-medien",
+      "image_url": "https://img.zeit.de/gesundheit/2026-03/histrioniker-persoenlichkeitsstoerung-aufmerksamkeit-emotionalitaet-soziale-medien-bild/wide__892x502",
+      "image_title": "Histrioniker: Ähnlich wie Narzissten, nur anders"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sean Hepburn Ferrer: »Sie dachte, sie sei keine gute Mutter«",
       "teaser": "Audrey Hepburns Sohn hat eine Biografie über seine Mutter geschrieben – eine Frau, die stets Zuneigung suchte und oft enttäuscht wurde. Geschrien hat sie aber nie.",
       "url": "https://www.zeit.de/familie/2026-04/sean-hepburn-ferrer-audrey-hepburn-biografie-familie",
-      "image_url": "https://img.zeit.de/familie/2026-04/sean-hepburn-ferrer-audrey-hepburn-biografie-familie-bild-6/wide__892x502",
+      "image_url": "https://img.zeit.de/familie/2026-04/sean-hepburn-ferrer-audrey-hepburn-biografie-familie-bild-6/super__430x287",
       "image_title": "Sean Hepburn Ferrer: 1960 with Sean"
     },
     {
@@ -166,6 +144,13 @@
       "image_title": "Diese Woche in der ZEIT: Claude Monet – Der Mann, der das Licht malte"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Slavoj Žižek: Was der neue Mossad-Chef falsch verstanden hat",
+      "teaser": "Der designierte Leiter des israelischen Auslandsgeheimdienstes soll sich auf die Schriften des Philosophen Slavoj Žižek berufen. Der erklärt hier, warum ihn das entsetzt.",
+      "url": "https://www.zeit.de/feuilleton/2026-04/slavoj-zizek-philosophie-mossad-roman-gofman",
+      "image_url": "https://img.zeit.de/feuilleton/2026-04/slavoj-zizek-philosophie-mossad-roman-gofman-bild/super__430x287",
+      "image_title": "Slavoj Žižek: Slavoj Zizek photographed in Ljubljana, Slovenia by Klemen Ilovar in March 2026 Credit: Klemen Ilovar / The Observer / eyevine Contact eyevine for more information about using this image: T: +44 (0) 20 8709 8709 E: info@eyevine.com http://www.eyevine.com"
+    },
+    {
       "title": "Liveblog:Krieg gegen die Ukraine: Russlands Wirtschaft schrumpft erstmals seit 2023",
       "teaser": "Die russische Wirtschaftsleistung ist im ersten Quartal um 0,3 Prozent geschrumpft. Der Irankrieg hat mutmaßlich einen noch größeren Rückgang verhindert. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
@@ -173,18 +158,11 @@
       "image_title": "Russland Wirtschaft schrumpft"
     },
     {
-      "title": "Stefan Evers: Jetzt übernimmt der Sparer",
-      "teaser": "Er ist bereits Finanzsenator, nun soll Stefan Evers nach dem Rücktritt von Sarah Wedl-Wilson auch noch die Hauptstadtkultur leiten. Warum das keine gute Nachricht ist.",
-      "url": "https://www.zeit.de/feuilleton/2026-04/stefan-evers-cdu-finanzsenator-kultursenator-berlin",
-      "image_url": "https://img.zeit.de/feuilleton/2026-04/stefan-evers-cdu-finanzsenator-kultursenator-berlin-bild/super__430x287",
-      "image_title": "Stefan Evers: Stefan Evers (CDU), Berliner Senator für Finanzen, steht vor einer gemeinsamen Kabinettssitzung der Landesregierungen von Berlin und Brandenburg vor der Staatskanzlei Brandenburg. Schwerpunkte der Beratungen sind die Bereiche Wirtschaft, Wohnen und Sicherheit."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); »Der Teufel trägt Prada 2«: Fortsetzung floppt",
-      "teaser": "Nach zwanzig Jahren stolpert Anne Hathaway erneut in Meryl Streeps Magazinredaktion. Alle in »Der Teufel trägt Prada 2« sehen aus wie damals. Der Rest ist die Hölle.",
-      "url": "https://www.zeit.de/feuilleton/film/2026-04/der-teufel-traegt-prada-2-film-fortsetzung",
-      "image_url": "https://img.zeit.de/feuilleton/film/2026-04/der-teufel-traegt-prada-2-the-devil-wears-prada-2/the-devil-wears-prada-2-bild-2/wide__892x502",
-      "image_title": "»Der Teufel trägt Prada 2«: (L-R): Miranda Priestly (Meryl Streep) and Andie Sachs (Anne Hathaway) in 20th Century Studios' THE DEVIL WEARS PRADA 2. Photo by Macall Polay."
+      "title": "Z+ (abopflichtiger Inhalt); »Klar« mit Julia Ruhs: Dreißig Minuten Scharia",
+      "teaser": "In der BR-Sendung »Klar« widmet sich die umstrittene Journalistin Julia Ruhs mal wieder dem Islamismus in Deutschland. Was kommt diesmal heraus?",
+      "url": "https://www.zeit.de/feuilleton/film/2026-04/klar-julia-ruhs-ard-islamismus-deutschland",
+      "image_url": "https://img.zeit.de/feuilleton/film/2026-04/klar-julia-ruhs-ard-islamismus-deutschland-bild-1/wide__892x502",
+      "image_title": "»Klar« mit Julia Ruhs: Dreißig Minuten Scharia"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Prozess um vereitelten Anschlag in Wien: Geplantes Attentat auf Swift-Konzert: »Eigentlich liebe ich Frauen«",
@@ -208,11 +186,11 @@
       "image_title": "Paternoster: Kunsthistoriker Robin Augenstein steht in einer Kabine des wohl ältesten Paternosters der Welt im Flüggerhaus. Den Recherchen des Kunsthistorikers Augenstein ist es zu verdanken, dass ein alter Paternoster in einem Hamburger Geschäftshaus wieder entdeckt wurde."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Videos aus Schlachthof: »Wir reden hier über Schweine, die einen Todeskampf führen«",
-      "teaser": "Aktivisten filmen in einem Schlachthof, wie Schweine mit Gas betäubt werden. Durften sie die Bilder verbreiten? Der Betreiber will die Tierschützer vor Gericht stoppen.",
-      "url": "https://www.zeit.de/wirtschaft/2026-04/videos-schlachthof-aktivisten-schweine-schadensersatz-oldenburg",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-04/videos-schlachthof-aktivisten-schweine-schadensersatz-oldenburg-bild-01/super__430x287",
-      "image_title": "Videos aus Schlachthof: »Wir reden hier über Schweine, die einen Todeskampf führen«"
+      "title": "Z+ (abopflichtiger Inhalt); »Der Teufel trägt Prada 2«: Fortsetzung floppt",
+      "teaser": "Nach zwanzig Jahren stolpert Anne Hathaway erneut in Meryl Streeps Magazinredaktion. Alle in »Der Teufel trägt Prada 2« sehen aus wie damals. Der Rest ist die Hölle.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-04/der-teufel-traegt-prada-2-film-fortsetzung",
+      "image_url": "https://img.zeit.de/feuilleton/film/2026-04/der-teufel-traegt-prada-2-the-devil-wears-prada-2/the-devil-wears-prada-2-bild-2/super__430x287",
+      "image_title": "»Der Teufel trägt Prada 2«: (L-R): Miranda Priestly (Meryl Streep) and Andie Sachs (Anne Hathaway) in 20th Century Studios' THE DEVIL WEARS PRADA 2. Photo by Macall Polay."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Familienpolitik in Frankreich: Jede Betreuung hat ihren Preis",
@@ -222,39 +200,32 @@
       "image_title": "Familienpolitik in Frankreich: Jede Betreuung hat ihren Preis"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elektroauto: Lohnt sich ein E-Auto für Sie bei den hohen Spritpreisen? Testen Sie’s",
-      "teaser": "Kauf, Versicherung, Tanken, Laden, Werkstatt: Wir haben die Kosten beliebter E-Autos mit Verbrennern verglichen. Und natürlich die Fahrdistanz einbezogen.",
-      "url": "https://www.zeit.de/mobilitaet/2025-09/elektroauto-verbrenner-preis-reichweite-rechner",
-      "image_url": "https://img.zeit.de/mobilitaet/2025-09/autotest-elektroauto-verbrenner-preis-reichweite-teaserbild/super__430x287",
-      "image_title": "Elektroauto: Lohnt sich ein E-Auto für Sie bei den hohen Spritpreisen? Testen Sie’s"
+      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremer Jugendbund • Z+ Empfehlung: Sie haben ein Einser-Abi. Und gehen zur »Führerschule«",
+      "teaser": "Sonnwendfeiern, Fahnenrituale, NS-Literatur: Über Jahre hat sich im Geheimen ein rechtsextremer Jugendbund formiert – mit gutem Kontakt in den Bundestag.",
+      "url": "https://www.zeit.de/2026/18/rechtsextremer-jugendbund-jungadler-afd-nationalsozialismus",
+      "image_url": "https://img.zeit.de/2026/18/sie-haben-ein-einser-abi-und-gehen-zur-fuehrerschule-bild-1/super__430x287",
+      "image_title": "Rechtsextremer Jugendbund • Z+ Empfehlung: Der Jungadler veranstaltete Zeltlager und Fahrten. Die in diesem Dossier abgedruckten Fotos aus dem Inneren der Organisation wurden der ZEIT zugespielt."
     },
     {
-      "title": "Gebäudeenergiegesetz: Bundesregierung will Fristen für Heizungsregelung aufschieben",
-      "teaser": "Die Regierung will das Heizungsgesetz durch einen eigenen Entwurf ersetzen. Bislang vorgesehene Fristen für neue Heizungen werden in der Zwischenzeit verschoben.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/heizungsgesetz-gebaeudeenergiegesetz-frist-verschiebung-bundesregierung-energiepreise",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/heizungsgesetz-gebaeudeenergiegesetz/super__430x287",
-      "image_title": "heizungsgesetz-gebaeudeenergiegesetz"
+      "title": "Champions League: Jetzt live: Atlético Madrid gegen den FC Arsenal",
+      "teaser": "Halbfinale in der Champions League: Nach dem Spektakel am Dienstag treffen nun zwei auf dem Papier konservativere Teams aufeinander. Das Hinspiel im Liveticker",
+      "url": "https://www.zeit.de/sport/championsleague-ticker",
+      "image_url": "https://img.zeit.de/sport/2016-09/champions-league-teaser/super__430x287",
+      "image_title": "Darum geht es: der Henkelpott"
     },
     {
-      "title": "Messerangriff in London: Islamistische Gruppe Hayi bekennt sich zu Angriff auf Juden in London",
-      "teaser": "Die proiranische Gruppe Hayi hat den Messerangriff in London für sich beansprucht. Die britische Polizei ermittelt wegen Terrorverdachts.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-04/messerangriff-london-juedisches-viertel-terrorgruppe-proiranisch-hayi",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-04/messerangriff-london-juedisches-viertel-terrorgruppe/super__430x287",
-      "image_title": "messerangriff-london-juedisches-viertel-terrorgruppe"
+      "title": "Z+ (abopflichtiger Inhalt); George W. Bush : Er brachte die Kultur der Lüge in die US-Politik",
+      "teaser": "Humorvoll, fair, Obamas Kumpel: George W. Bush wird plötzlich gefeiert. Dabei stammen wesentliche Elemente von Trumps Politik eigentlich aus der Ära Bush.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/georg-w-bush-praesidentschaft-usa-maga-anfaenge",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/georg-w-bush-praesidentschaft-usa-maga-anfaenge-bild/super__430x287",
+      "image_title": "George W. Bush: 398954 03: President George W. Bush speaks to an Olympic delegation as the Olympic Flame burns in the background December 22, 2001 on the South Lawn of the White House during the 2002 Salt Lake Olympic Torch Relay in Washington DC."
     },
     {
-      "title": "Péter Magyar in Brüssel: Orbán-Nachfolger Magyar wirbt für Freigabe eingefrorener EU-Gelder",
-      "teaser": "Wegen Verstößen der Orbán-Regierung hatte die EU Zahlungen an Ungarn gestoppt. Sein Nachfolger Magyar will verhindern, dass Ungarns Anspruch auf das Geld verfällt.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/peter-magyar-ungarn-eu-gelder-bruessel",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/peter-magyar-ursula-von-der-leyen/super__430x287",
-      "image_title": "Peter Magyar Ursula von der Leyen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); »Pädophilie-Gesetz« in Ungarn: Ein epochales Urteil für Europa",
-      "teaser": "Ungarns Verbot, Kinder über LGBTIQ aufzuklären, verletzt die EU-Grundwerte fundamental, urteilte der EuGH. Dahinter steht die Idee einer europäischen Gesellschaft.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-paedophilie-gesetz-eugh-urteil-eu",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/ungarn-paedophilie-gesetz-eugh-urteil-eu-bild/super__430x287",
-      "image_title": "»Pädophilie-Gesetz« in Ungarn: BUDAPEST, HUNGARY - MARCH 25: A pride flag on the ground in front of the police wall during a protest against a recent law that aims to ban LGBTQ+ Pride events on March 25, 2025 in Budapest, Hungary. A new bill proposed by the ruling coalition would criminalise any event that violates the country's child protection laws, which would apply to the annual Budapest Pride event. It would also allow authorities to use facial recognition software to identify those attending. (Photo by Janos Kummer/Getty Images)"
+      "title": "Energiekrise: US-Notenbank Fed lässt Leitzins unverändert",
+      "teaser": "Die Federal Reserve hat zum dritten Mal in Folge eine Zinspause eingelegt. Ökonomen erwarten für das laufende Jahr allenfalls eine moderate Lockerung.",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/us-notenbank-federal-reserve-leitzins-unveraendert-energiekrise",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/us-notenbank-federal-reserve-leitzins-energiekrise-inflationssorgen/super__430x287",
+      "image_title": "US-Notenbank Federal Reserve Leitzins Energiekrise Inflationssorgen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Familienalltag mit ADHS: Das Kind hat ADHS – was Eltern tun können",
@@ -278,18 +249,25 @@
       "image_title": "Liebeskummer: »Dann lösche ich den Chat wohl besser«"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schuhe von Donald Trump: Wie ich einmal versuchte, Donald Trumps Schuhe zu tragen",
-      "teaser": "Vom Kopf her ist der amerikanische Präsident schwer zu erklären. Unser Autor geht es deshalb von den Füßen aus an – und stößt auf ungeahnte Widerstände.",
-      "url": "https://www.zeit.de/2026/18/schuhe-donald-trump-florsheim-lexington-cap-toe",
-      "image_url": "https://img.zeit.de/2026/18/leder-of-the-free-world-bild-3/super__430x287",
-      "image_title": "Schuhe von Donald Trump: Ein paar Tage in den Schuhen von Donald Trump zu verbringen: Was macht das mit einem? ++++++++++<br /> Donald Trumps Lieblingsrunde, Florsheim,"
+      "title": "»Pädophilie-Gesetz« in Ungarn: Ein epochales Urteil für Europa",
+      "teaser": "Ungarns Verbot, Kinder über LGBTIQ aufzuklären, verletzt die EU-Grundwerte fundamental, urteilte der EuGH. Dahinter steht die Idee einer europäischen Gesellschaft.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/ungarn-paedophilie-gesetz-eugh-urteil-eu",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/ungarn-paedophilie-gesetz-eugh-urteil-eu-bild/super__430x287",
+      "image_title": "»Pädophilie-Gesetz« in Ungarn: BUDAPEST, HUNGARY - MARCH 25: A pride flag on the ground in front of the police wall during a protest against a recent law that aims to ban LGBTQ+ Pride events on March 25, 2025 in Budapest, Hungary. A new bill proposed by the ruling coalition would criminalise any event that violates the country's child protection laws, which would apply to the annual Budapest Pride event. It would also allow authorities to use facial recognition software to identify those attending. (Photo by Janos Kummer/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); WM-Finale 1954: Die Wunde von Bern",
-      "teaser": "Das WM-Finale 1954 ist das legendärste Fußballspiel mit deutscher Beteiligung. Es hat das Land verändert. Und den Gegner Ungarn ebenso.",
-      "url": "https://www.zeit.de/sport/2026-04/wm-finale-1954-wunder-von-bern",
-      "image_url": "https://img.zeit.de/arbeit/2026-04/ungarn-deutschland-1954-wm-historie/wide__892x502",
-      "image_title": "WM-Finale 1954: Die Wunde von Bern"
+      "title": "Z+ (abopflichtiger Inhalt); »Beef«: Schlechte Menschen, gute Unterhaltung",
+      "teaser": "Drei Paare zerlegen sich in der zweiten Staffel der grandiosen Netflix-Serie »Beef«. So geht Kuschelfernsehen für Krisenzeiten.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-04/beef-staffel-zwei-netflix-carey-mulligan-oscar-isaac",
+      "image_url": "https://img.zeit.de/feuilleton/film/2026-04/beef-netflix-staffel-2-bilder/beef-n-s2-e8-00-33-20-06-bild/wide__892x502",
+      "image_title": "»Beef«: Beef. (L to R) Carey Mulligan as Lindsay Crane-Martin, Oscar Isaac as Josh Martin in episode 208 of Beef. Cr. Courtesy of Netflix © 2026"
+    },
+    {
+      "title": "Stefan Evers: Jetzt übernimmt der Sparer",
+      "teaser": "Er ist bereits Finanzsenator, nun soll Stefan Evers nach dem Rücktritt von Sarah Wedl-Wilson auch noch die Hauptstadtkultur leiten. Warum das keine gute Nachricht ist.",
+      "url": "https://www.zeit.de/feuilleton/2026-04/stefan-evers-cdu-finanzsenator-kultursenator-berlin",
+      "image_url": "https://img.zeit.de/feuilleton/2026-04/stefan-evers-cdu-finanzsenator-kultursenator-berlin-bild/super__430x287",
+      "image_title": "Stefan Evers: Stefan Evers (CDU), Berliner Senator für Finanzen, steht vor einer gemeinsamen Kabinettssitzung der Landesregierungen von Berlin und Brandenburg vor der Staatskanzlei Brandenburg. Schwerpunkte der Beratungen sind die Bereiche Wirtschaft, Wohnen und Sicherheit."
     },
     {
       "title": "Nur eine Frage: Sind unsere Kinder glücklicher ohne soziale Medien, Jonathan Haidt?",
@@ -313,18 +291,11 @@
       "image_title": "Interviewpodcast »Nur eine Frage«: Are our children happier without social media, Jonathan Haidt?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Biennale: »Dass sich das nach 80 Jahren wiederholt, ist für mich unglaublich«",
-      "teaser": "Der israelische Künstler Belu-Simion Fainaru darf nicht am Wettbewerb der Biennale teilnehmen. Hier spricht er darüber, was er gerade in Venedig erlebt.",
-      "url": "https://www.zeit.de/feuilleton/kunst/2026-04/biennale-venedig-israel-ausschluss",
-      "image_url": "https://img.zeit.de/feuilleton/kunst/2026-04/biennale-venedig-israel-ausschluss-bild-1/super__430x287",
-      "image_title": "Biennale: »Dass sich das nach 80 Jahren wiederholt, ist für mich unglaublich«"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sachbuch-Bestenliste: Die Sachbuch-Bestenliste für Mai 2026",
-      "teaser": "Wie weit reicht die Kunstfreiheit? Was stellt Social Media mit Kindern an? Ist Achtsamkeit eigentlich schlecht? Diese Fragen diskutieren die besten Sachbücher des Monats.",
-      "url": "https://www.zeit.de/feuilleton/literatur/2026-04/sachbuecher-mai-literatur-kunstfreiheit-social-media-achtsamkeit",
-      "image_url": "https://img.zeit.de/feuilleton/literatur/2026-04/sachbuchbesten-mai-2/repository-feuilleton-literatur-2026-04-sachbuchbesten-mai-2-bild/super__430x287",
-      "image_title": "Sachbuch-Bestenliste: Hands holding some books on which there is a small clover"
+      "title": "Linke Ideen in den USA: Ist Klauen jetzt cool?",
+      "teaser": "Oder ist es gar politischer Protest? Und was ist mit anderen Gesetzesverstößen? Das fragen sich prominente Linke in den USA. Was für eine gefährliche, dumme Diskussion.",
+      "url": "https://www.zeit.de/feuilleton/2026-04/linke-ideen-usa-diebstahl-lebensmittel-hasan-piker-jia-tolentino-nadja-spiegelman",
+      "image_url": "https://img.zeit.de/feuilleton/2026-04/linke-ideen-usa-diebstahl-lebensmittel-hasan-piker-jia-tolentino-nadja-spiegelman-bild-2/super__430x287",
+      "image_title": "Linke Ideen in den USA: Ist Klauen jetzt cool?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Guinness-Pie: Eine Frage der Kruste",
@@ -362,23 +333,23 @@
       "image_title": "Schweinsbraten: Junge, wie das knuspert!"
     },
     {
-      "title": "Alpenpodcast: Schauen Sie Ihrem Lieferdienstfahrer doch mal ins Gesicht",
-      "teaser": "In deutschen Großstädten fahren vor allem Inder Essen aus – warum eigentlich? Und wie sind die Arbeitsbedingungen in Österreich? Außerdem: Der ORF-Skandal",
-      "url": "https://www.zeit.de/gesellschaft/2026-04/arbeitsbedingungen-lieferdienstfahrern-ausbeutung-rider-oesterreich-alpenpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2026-04/arbeitsbedingungen-lieferdienstfahrern-ausbeutung-rider-oesterreich-alpenpodcast-bild-2/square__500x500",
-      "image_title": "Alpenpodcast: A Lieferando rides his bike by Schlesisches Tor in Berlin, Germany, on August 21, 2025. (Photo by Emmanuele Contini/NurPhoto via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Steuerpolitik: Seien Sie unser Finanzminister!",
-      "teaser": "Wie sieht ein faires Steuersystem aus und was machen die Reformen mit Ihrem Geld? Senken und heben Sie in unserem Tool die Steuern – ohne dass der Staat pleitegeht.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/steuerpolitik-steuersystem-steuern-rechner-interaktion",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/steuerpolitik-steuersystem-steuern-rechner-interaktion-bild/super__430x287",
-      "image_title": "Steuerpolitik: Seien Sie unser Finanzminister!"
+      "title": "WM-Finale 1954: Die Wunde von Bern",
+      "teaser": "Das WM-Finale 1954 ist das legendärste Fußballspiel mit deutscher Beteiligung. Es hat das Land verändert. Und den Gegner Ungarn ebenso.",
+      "url": "https://www.zeit.de/sport/2026-04/wm-finale-1954-wunder-von-bern",
+      "image_url": "https://img.zeit.de/arbeit/2026-04/ungarn-deutschland-1954-wm-historie/super__430x287",
+      "image_title": "WM-Finale 1954: Die Wunde von Bern"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Familienpolitik in Frankreich: Jede Betreuung hat ihren Preis",
       "teaser": "Mütter blicken oft neidisch nach Frankreich. Vollzeit und Karriere ohne schlechtes Gewissen! Doch nach einigen Jahren in Frankreich sieht unsere Autorin die Dinge anders.",
-      "url": "https://www.zeit.de/arbeit/2026-04/familienpolitik-frankreich-kinderbetreuung-muetter-schule"
+      "url": "https://www.zeit.de/arbeit/2026-04/familienpolitik-frankreich-kinderbetreuung-muetter-schule",
+      "image_url": "https://img.zeit.de/arbeit/2026-04/familienpolitik-frankreich-kinderbetreuung2/super__430x287",
+      "image_title": "Familienpolitik in Frankreich: Jede Betreuung hat ihren Preis"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Steuerpolitik: Seien Sie unser Finanzminister!",
+      "teaser": "Wie sieht ein faires Steuersystem aus und was machen die Reformen mit Ihrem Geld? Senken und heben Sie in unserem Tool die Steuern – ohne dass der Staat pleitegeht.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/steuerpolitik-steuersystem-steuern-rechner-interaktion"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); König Charles in Washington: King gegen King Kong",
@@ -386,21 +357,21 @@
       "url": "https://www.zeit.de/politik/ausland/2026-04/koenig-charles-rede-us-kongress-grossbritannien"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Buckelwal: Wal rettet Minister",
-      "teaser": "Experten kritisieren Till Backhaus für die Rettung des Buckelwals. Jetzt scheint sie doch ein gutes Ende zu nehmen. Zumindest für den Umweltminister.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-04/buckelwal-rettung-till-backhaus-umweltminister-mecklenburg-vorpommern-kritik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-04/buckelwal-rettung-till-backhaus-umweltminister-mecklenburg-vorpommern-kritik-bild/super__430x287",
-      "image_title": "Buckelwal: Mecklenburg-Vorpommerns Umweltminister Till Backhaus (SPD, l) informiert sich am gestrandeten Buckelwal vor der Insel Poel über den Zustand des Tieres. Der vor über drei Wochen bei Wismar gestrandete Buckelwal liegt weiterhin im Flachwasser. +++ dpa-Bildfunk +++"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); König Charles in Washington: King gegen King Kong",
       "teaser": "König Charles stiehlt Donald Trump die Show. Der britische Monarch macht bei seinem Auftritt vor dem US-Kongress vor, woran so mancher Regierungschef gescheitert ist.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/koenig-charles-rede-us-kongress-grossbritannien"
+      "url": "https://www.zeit.de/politik/ausland/2026-04/koenig-charles-rede-us-kongress-grossbritannien",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/koenig-charles-rede-us-kongress-grossbritannien-bild/super__430x287",
+      "image_title": "König Charles in Washington: TOPSHOT - US Vice President JD Vance and House Speaker Mike Johnson applaud as Britain's King Charles III arrives to address a Joint Meeting of Congress in the House Chamber at the US Capitol in Washington, DC, on April 28, 2026. (Photo by Henry NICHOLLS / POOL / AFP via Getty Images)"
     },
     {
       "title": "USA: König Charles fordert vor dem US-Kongress Unterstützung der Ukraine",
       "teaser": "Als zweiter britischer Monarch hält Charles eine Rede vor dem US-Kongress. Darin setzt er sich für eine entschlossene Verteidigung der Ukraine ein.",
       "url": "https://www.zeit.de/politik/ausland/2026-04/koenig-charles-rede-us-kongress-ukraine"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Videos aus Schlachthof: »Wir reden hier über Schweine, die einen Todeskampf führen«",
+      "teaser": "Aktivisten filmen in einem Schlachthof, wie Schweine mit Gas betäubt werden. Durften sie die Bilder verbreiten? Der Betreiber will die Tierschützer vor Gericht stoppen.",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/videos-schlachthof-aktivisten-schweine-schadensersatz-oldenburg"
     },
     {
       "title": "Gesundheitsreform: Kabinett beschließt Reform der gesetzlichen Krankenversicherung",
@@ -455,11 +426,11 @@
       "image_title": "»Leben und Schicksal« in Bochum: BU: Elsie de Brauw (l.) und Carla Richardsen in »Leben und Schicksal« nach dem Roman von Wassili Grossman ++++++++++<br />"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zuckersteuer • Z+ Empfehlung: Dick und selbst schuld? So ein Quatsch",
-      "teaser": "Verantwortungsvoller Konsum von Softdrinks? Das ist Unsinn, vor allem bei Kindern. Warum wir jetzt eine Zuckersteuer brauchen und das nichts mit Bevormundung zu tun hat.",
-      "url": "https://www.zeit.de/gesundheit/2026-03/zuckersteuer-softdrinks-daniel-guenther-uebergewicht-gesundheitsrisiko",
-      "image_url": "https://img.zeit.de/gesundheit/2026-03/zuckersteuer-softdrinks-daniel-guenther-uebergewicht-gesundheitsrisiko-bild/super__430x287",
-      "image_title": "Zuckersteuer • Z+ Empfehlung: Dick und selbst schuld? So ein Quatsch"
+      "title": "Z+ (abopflichtiger Inhalt); Biennale: »Dass sich das nach 80 Jahren wiederholt, ist für mich unglaublich«",
+      "teaser": "Der israelische Künstler Belu-Simion Fainaru darf nicht am Wettbewerb der Biennale teilnehmen. Hier spricht er darüber, was er gerade in Venedig erlebt.",
+      "url": "https://www.zeit.de/feuilleton/kunst/2026-04/biennale-venedig-israel-ausschluss",
+      "image_url": "https://img.zeit.de/feuilleton/kunst/2026-04/biennale-venedig-israel-ausschluss-bild-1/super__430x287",
+      "image_title": "Biennale: »Dass sich das nach 80 Jahren wiederholt, ist für mich unglaublich«"
     },
     {
       "title": "Verlagsangebot: Sieben Sehnsuchtsorte in Frankreich",
@@ -469,11 +440,11 @@
       "image_title": "Freunde der ZEIT: Sieben Sehnsuchtsorte in Frankreich"
     },
     {
-      "title": "Liveblog:Irankrieg: USA geben bisherige Kriegskosten mit 25 Milliarden Dollar an",
-      "teaser": "Nach Angaben des US-Verteidigungsministeriums kostet der Irankrieg Hunderte Millionen Dollar täglich. Irans Währung fällt auf einen historischen Tiefstwert. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2026-03/iran-krieg-usa-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/usa-25-milliarden-dollar-irankrieg/wide__892x502",
-      "image_title": "USA 25 Milliarden Dollar Irankrieg"
+      "title": "USA: Supreme Court schwächt Vertretung schwarzer Wähler in Louisiana",
+      "teaser": "In Louisiana wurde 2024 ein zuvor gestrichener Wahlkreis wiederhergestellt, um die Repräsentation schwarzer Wähler zu schützen. Das Oberste Gericht setzt das außer Kraft.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/usa-supreme-court-wahlkreis-schwarze-waehler-demokraten-republikaner",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/supreme-court-vertretung-schwarzer-waehler-in-louisiana/wide__892x502",
+      "image_title": "Supreme Court Vertretung schwarzer Wähler in Louisiana"
     },
     {
       "title": "Verlagsangebot: Kostenlos für Sie: Französisch-Tipps für den Urlaub",
@@ -483,11 +454,11 @@
       "image_title": "Kostenlos für Sie: Französisch-Tipps für den Urlaub"
     },
     {
-      "title": "Mali: Tuareg-Rebellen fordern dauerhaften Rückzug Russlands aus Mali",
-      "teaser": "In Mali fordern Tuareg-Rebellen den Abzug russischer Paramilitärs. Am Wochenende war es in verschiedenen Teilen des Landes zu Angriffen auf Militärstützpunkte gekommen.",
-      "url": "https://www.zeit.de/politik/ausland/2026-04/mali-russland-tuareg-angriffe-militaerjunta",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-04/tuareg-rebellen-forderung-rueckzug-russland-mali-bild/super__430x287",
-      "image_title": "Mali: CORRECTION / Tuareg rebels of the Azawad Liberation Front (FLA) ride on the back of pickup trucks in Kidal, on April 26, 2026. April 25, 2026's shock attacks, synchronised by Tuareg rebels of the Azawad Liberation Front (FLA) coalition and the jihadist Group for the Support of Islam and Muslims (JNIM), targeted several areas in the vast arid country.Fighting resumed on April 26 in several areas, including Kita near Bamako, Kidal, Gao and Severe.Tuareg rebels meanwhile announced an agreement allowing Russian forces backing Mali's army to withdraw from the northern city of Kidal, which they claimed was \"totally\" under their control. (Photo by AFP via Getty Images) / \"The erroneous mention[s] appearing in the metadata of this photo by - has been modified in AFP systems in the following manner: [Removes byline]. Please immediately remove the erroneous mention[s] from all your online services and delete it (them) from your servers. If you have been authorized by AFP to distribute it (them) to third parties, please ensure that the same actions are carried out by them. Failure to promptly comply with these instructions will entail liability on your part for any continued or post notification usage. Therefore we thank you very much for all your attention and prompt action. We are sorry for the inconvenience this notification may cause and remain at your disposal for any further information you may require.\""
+      "title": "Joseph Aoun: Libanon knüpft Gespräche mit Israel an Einhaltung der Waffenruhe",
+      "teaser": "Trotz der vereinbarten Feuerpause greift Israel weiter Orte im Süden des Libanon an. Präsident Aoun macht ein Ende der Angriffe zur Bedingung für direkte Gespräche.",
+      "url": "https://www.zeit.de/politik/ausland/2026-04/libanon-waffenruhe-verhandlungen-israel-bedingung-joseph-aoun",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-04/libanon-praesident-joseph-aoun-einhaltung-israel-waffenruhe/super__430x287",
+      "image_title": "Libanon Präsident Joseph Aoun Einhaltung Israel Waffenruhe"
     },
     {
       "title": "Dokupodcast »Der Koch von Gaza« (1/5): Chef Mahmud – mein Kontakt, der getötet wurde",
@@ -581,6 +552,13 @@
       "image_title": "KI in der Schule: Frag doch mal die KI, sagt die Lehrerin zum Erstklässler"
     },
     {
+      "title": "Wirtschaft von oben: Ukraine zerlegt Russlands Öl-Wirtschaft Tank für Tank",
+      "teaser": "Ukrainische Drohnen stecken russische Öl-Häfen quer durch Europa in Brand – allen voran Tuapse. Kann das Land die Russen damit in die Knie zwingen?",
+      "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/ukrainischer-drohnenangriff-schwarze-wolken-ueber-russlands-oel-anlagen/100220322.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/jQmvf1IFBnyd/cover/900/506/0/0/130/131/0.5/0.5/wvo.jpg/super__430x287",
+      "image_title": "Ukraine zerlegt Russlands Öl-Wirtschaft Tank für Tank"
+    },
+    {
       "title": "Klimaschutz: Die Risiken von Katherina Reiches Energiepolitik",
       "teaser": "Die Wirtschaftsministerin will bei der Energiewende sparen. Aber wichtige Teile ihrer Pläne erwecken den Eindruck, sie wollte sich das ganze industriepolitische Projekt sparen. Ein Kommentar.",
       "url": "https://www.wiwo.de/unternehmen/energie/katherina-reiche-das-sind-die-risiken-ihrer-energiepolitik/100220719.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -588,11 +566,11 @@
       "image_title": "Die Risiken von Katherina Reiches Energiepolitik"
     },
     {
-      "title": "Kryptowährungen: Was das Aus der Haltefrist für Bitcoin-Anleger bedeuten würde",
-      "teaser": "Die Bundesregierung will Kryptogewinne künftig anders besteuern. Steuerfreie Erträge wären wohl nicht mehr möglich. Für Anleger hätte das teure Folgen.",
-      "url": "https://www.wiwo.de/finanzen/steuern-recht/kryptowaehrungen-was-das-aus-der-haltefrist-fuer-bitcoin-anleger-bedeuten-wuerde/100220959.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/XyBcV9zr1dJi/cover/900/506/321/373/493/647/0.5/0.5/reihe-glaenzender-neuer-goldener-bitcoins-series-of-shiny-new-golden-bitcoins-publicationxinxgerx.jpg/super__430x287",
-      "image_title": "Was das Aus der Haltefrist für Bitcoin-Anleger bedeuten würde"
+      "title": "Alpenpodcast: Schauen Sie Ihrem Lieferdienstfahrer doch mal ins Gesicht",
+      "teaser": "In deutschen Großstädten fahren vor allem Inder Essen aus – warum eigentlich? Und wie sind die Arbeitsbedingungen in Österreich? Außerdem: Der ORF-Skandal",
+      "url": "https://www.zeit.de/gesellschaft/2026-04/arbeitsbedingungen-lieferdienstfahrern-ausbeutung-rider-oesterreich-alpenpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2026-04/arbeitsbedingungen-lieferdienstfahrern-ausbeutung-rider-oesterreich-alpenpodcast-bild-2/super__320x213",
+      "image_title": "Alpenpodcast: A Lieferando rides his bike by Schlesisches Tor in Berlin, Germany, on August 21, 2025. (Photo by Emmanuele Contini/NurPhoto via Getty Images)"
     },
     {
       "title": "Politische Gewalt in den USA: Amerikas Spirale der politischen Gewalt",
@@ -635,13 +613,6 @@
       "url": "https://www.zeit.de/wissen/2026-04/puenktlichkeit-respekt-zeitgefuehl-wissen-podcast",
       "image_url": "https://img.zeit.de/wissen/2026-04/puenktlichkeit-respekt-zeitgefuehl-wissen-podcast-bild/super__320x213",
       "image_title": "Wissenspodcast: Kommt es wirklich auf jede Minute an?"
-    },
-    {
-      "title": "Podcast »English, please!«: Kommt der Festivalsommer? Spannende Events in UK, den USA und Irland",
-      "teaser": "Das Spotlight-Team ist bereit für die Freiluftsaison und nimmt Sie mit nach Wimbledon, zum Lollapalooza in Chicago, zum Bloomsday in Dublin und zum Hay Festival in Wales.",
-      "url": "https://www.zeit.de/wissen/2026-04/festival-sommer-wimbledon-lollapalooza-unc-status-englisch-podcast",
-      "image_url": "https://img.zeit.de/wissen/2024-05/raubkunst-kolonialzeit-grossbritannien-englisch-podcast-bild/super__320x213",
-      "image_title": "Podcast »English, please!«: Die Hosts von \"English, please!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sprache an Schulen: Die Fünftis und die Kindis mit den Hausis und den Büchis",
@@ -761,10 +732,17 @@
       "image_title": "Schuhe von Donald Trump: Ein paar Tage in den Schuhen von Donald Trump zu verbringen: Was macht das mit einem? ++++++++++<br /> Donald Trumps Lieblingsrunde, Florsheim,"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sachbuch-Bestenliste: Die Sachbuch-Bestenliste für Mai 2026",
+      "teaser": "Wie weit reicht die Kunstfreiheit? Was stellt Social Media mit Kindern an? Ist Achtsamkeit eigentlich schlecht? Diese Fragen diskutieren die besten Sachbücher des Monats.",
+      "url": "https://www.zeit.de/feuilleton/literatur/2026-04/sachbuecher-mai-literatur-kunstfreiheit-social-media-achtsamkeit",
+      "image_url": "https://img.zeit.de/feuilleton/literatur/2026-04/sachbuchbesten-mai-2/repository-feuilleton-literatur-2026-04-sachbuchbesten-mai-2-bild/wide__892x502",
+      "image_title": "Sachbuch-Bestenliste: Hands holding some books on which there is a small clover"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Olivier Guez: »Schon damals sollte sich im Kampf ums Öl die Zukunft entscheiden«",
       "teaser": "Der Schriftsteller Olivier Guez hat einen Roman über Gertrude Bell verfasst, die einst mächtigste Frau des britischen Empire am Persischen Golf. Ein hochaktuelles Buch",
       "url": "https://www.zeit.de/feuilleton/literatur/2026-04/olivier-guez-gertrude-bell-die-welt-in-ihren-haenden-roman",
-      "image_url": "https://img.zeit.de/feuilleton/literatur/2026-04/olivier-guez-gertrude-bell-die-welt-in-ihren-haenden/mulvi240924b-bild-2/wide__892x502",
+      "image_url": "https://img.zeit.de/feuilleton/literatur/2026-04/olivier-guez-gertrude-bell-die-welt-in-ihren-haenden/mulvi240924b-bild-2/super__430x287",
       "image_title": "Olivier Guez: Portrait of Olivier Guez 21/09/2024 Vincent Muller/opale.photo RECORD DATE NOT STATED *** Portrait of Olivier Guez 21 09 2024 Vincent Muller opale photo RECORD DATE NOT STATED PUBLICATIONxNOTxINxFRAxITAxNED Copyright: x VincentxMuller/opale.photox"
     },
     {
@@ -773,13 +751,6 @@
       "url": "https://www.zeit.de/2026/19/gavagai-ulrich-koehler-film-medea-myhtos-senegal",
       "image_url": "https://img.zeit.de/2026/19/medea-kehrt-zurueck-bild-1/super__430x287",
       "image_title": "»Gavagai« von Ulrich Köhler: Filmszene am Strand im Senegal"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); US-Konservative: Christopher Rufo befeuerte die rechte Revolte. Jetzt verzweifelt er",
-      "teaser": "Konservative Intellektuelle bilden sich gerne ein, sie könnten extremistische Energien kontrollieren und für sich nutzen. Doch nur bis sie selbst geschluckt werden.",
-      "url": "https://www.zeit.de/feuilleton/2026-04/usa-konservative-extremismus-maga-christopher-rufo",
-      "image_url": "https://img.zeit.de/feuilleton/2026-04/usa-konservative-extremismus-maga-christopher-rufo-bild/super__430x287",
-      "image_title": "US-Konservative: FILE -- The conservative activist Christopher Rufo, at Titlow Park in Tacoma, Wash., on April 19, 2022. Prominent online conservatives have appeared to wield extraordinary access to Elon Musk's team, and the power to sway policy through it."
     },
     {
       "title": "Inhalte merken: So sichern Sie Artikel, Rezepte und mehr für später",
@@ -867,10 +838,17 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/comics-neu/super__320x213"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Zuckersteuer • Z+ Empfehlung: Dick und selbst schuld? So ein Quatsch",
+      "teaser": "Verantwortungsvoller Konsum von Softdrinks? Das ist Unsinn, vor allem bei Kindern. Warum wir jetzt eine Zuckersteuer brauchen und das nichts mit Bevormundung zu tun hat.",
+      "url": "https://www.zeit.de/gesundheit/2026-03/zuckersteuer-softdrinks-daniel-guenther-uebergewicht-gesundheitsrisiko",
+      "image_url": "https://img.zeit.de/gesundheit/2026-03/zuckersteuer-softdrinks-daniel-guenther-uebergewicht-gesundheitsrisiko-bild/wide__892x502",
+      "image_title": "Zuckersteuer • Z+ Empfehlung: Dick und selbst schuld? So ein Quatsch"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Alzheimer-Antikörper: Geben wir die ersten Alzheimer-Medikamente zu früh auf?",
       "teaser": "Endlich gibt es Medikamente gegen Alzheimer, auch in Deutschland. Doch einflussreiche Behörden und einige Wissenschaftler behaupten, sie seien wirkungslos. Zu Recht?",
       "url": "https://www.zeit.de/2026/19/alzheimer-antikoerper-lecanemab-donanemab-amyloid",
-      "image_url": "https://img.zeit.de/2026/19/der-durchbruch-im-kampf-gegen-das-vergessen-besteht-die-deutsche-pruefung-nicht-bild-1/wide__892x502",
+      "image_url": "https://img.zeit.de/2026/19/der-durchbruch-im-kampf-gegen-das-vergessen-besteht-die-deutsche-pruefung-nicht-bild-1/super__430x287",
       "image_title": "Alzheimer-Antikörper: Abore perfernati te odit quasper sperumdit quasper sperudit quasper sperudit quasper speru"
     },
     {
@@ -879,13 +857,6 @@
       "url": "https://www.zeit.de/gesundheit/2026-04/schwangerschaftsabbruch-medikament-op-deutschland-gesundheit-gxe",
       "image_url": "https://img.zeit.de/gesundheit/2026-04/deutschland-schwangerschaftsabbrueche-mifegyn-bild/super__430x287",
       "image_title": "Schwangerschaftsabbruch: Eine Mitarbeiterin steht in einem Operationssaal des Universitätsklinikums hinter einem Tisch mit OP-Besteck für einen Schwangerschaftsabbruch. Baden-Württemberg steht im bundesweiten Vergleich schlecht da im Bezug auf die Möglichkeiten zum Schwangerschaftsabbruch. (zu dpa: «Pro Familia fordert Option für Abtreibung in jedem Landkreis») +++ dpa-Bildfunk +++ 05/06/2024 Mannheim"
-    },
-    {
-      "title": "Gesundheitsreform: Kassenärzte-Chef kritisiert geplante Teilkrankschreibung",
-      "teaser": "Nach den Plänen von Nina Warken sollen Ärzte künftig Teilarbeitsunfähigkeit bescheinigen können. Der Kassenärzte-Chef sieht darin das Gegenteil von Entbürokratisierung.",
-      "url": "https://www.zeit.de/gesundheit/2026-04/gesundheitsreform-kassenaerzte-chef-teilkrankschreibung-bundesgesundheitsministerin-nina-warken-gxe",
-      "image_url": "https://img.zeit.de/gesundheit/2026-04/kassenaerzte-chef-ablehnung-teilkrankschreibung-bild/super__430x287",
-      "image_title": "Gesundheitsreform: Kassenärzte-Chef kritisiert geplante Teilkrankschreibung"
     },
     {
       "title": "Jugendschutz: EU-Kommission ermittelt gegen Meta wegen mangelnden Kinderschutzes",
@@ -1028,11 +999,11 @@
       "image_title": "Johanna Pirker: »Der durchschnittliche Gamer ist heute eine Frau Ende 30«"
     },
     {
-      "title": "Verlagsangebot : Welcher Studiengang passt zu mir?",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "title": "Verlagsangebot : Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
       "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__430x286__desktop",
-      "image_title": "Welcher Studiengang passt zu mir?"
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); TU Chemnitz: Hausarbeit.pdf (FINAL, dieses Mal wirklich)",
@@ -1077,36 +1048,36 @@
       "image_title": "Wal-Rettung in der Ostsee: Der Buckelwal vor der Insel Poel. Der Rücken ist mit Tüchern abgedeckt. Für den bei Wismar gestrandeten Buckelwal gibt es einen Rettungsversuch. Umgesetzt werden soll das Konzept von einer privaten Initiative. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Panikrocker wird 80: 24 Künstler schenken Udo Lindenberg ein Tribute-Album",
-      "url": "https://www.zeit.de/news/2026-04/29/24-kuenstler-schenken-udo-lindenberg-ein-tribute-album"
+      "title": "Unfälle: Lkw kracht in Schwerlasttransport - Stau auf A9",
+      "url": "https://www.zeit.de/news/2026-04/29/lkw-kracht-in-schwerlasttransport-stau-auf-a9"
     },
     {
-      "title": "Schwimmbad im Keller: Menschen und Katze bei Chlorgas-Unfall gerettet",
-      "url": "https://www.zeit.de/news/2026-04/29/menschen-und-katze-bei-chlorgas-unfall-gerettet"
+      "title": "Schulen: Ältere Lehrer sollen länger unterrichten - Protest",
+      "url": "https://www.zeit.de/news/2026-04/29/aeltere-lehrer-sollen-laenger-unterrichten-protest"
     },
     {
-      "title": "Sportwagenhersteller: Porsche meldet fast ein Viertel weniger Gewinn",
-      "url": "https://www.zeit.de/news/2026-04/29/porsche-meldet-fast-ein-viertel-weniger-gewinn"
+      "title": "Champions League: PSG-Dämpfer vor Rückspiel in München: Hakimi fällt aus",
+      "url": "https://www.zeit.de/news/2026-04/29/psg-daempfer-vor-rueckspiel-in-muenchen-hakimi-faellt-aus"
     },
     {
-      "title": "Landratswahl: Nach Wahleinspruch der AfD: Kreistag erklärt Wahl für gültig",
-      "url": "https://www.zeit.de/news/2026-04/29/nach-wahleinspruch-der-afd-kreistag-erklaert-wahl-fuer-gueltig"
+      "title": "Handball: Magdeburg legt im Viertelfinale vor: 35:28-Sieg in Szeged",
+      "url": "https://www.zeit.de/news/2026-04/29/magdeburg-legt-im-viertelfinale-vor-35-28-sieg-in-szeged"
     },
     {
-      "title": "Rauchentwicklung: Vollbrand von Firmengebäude gelöscht - Bundesstraße frei",
-      "url": "https://www.zeit.de/news/2026-04/29/firmengebaeude-brennt-verkehrsbehinderungen-durch-sperrung"
+      "title": "Europa League: Freiburg-Quartett um Ginter fit für Halbfinal-Hit",
+      "url": "https://www.zeit.de/news/2026-04/29/freiburg-quartett-um-ginter-fit-fuer-halbfinal-hit"
     },
     {
-      "title": "Im Emsland: Achtjähriger von Auto lebensgefährlich verletzt",
-      "url": "https://www.zeit.de/news/2026-04/29/achtjaehriger-von-auto-lebensgefaehrlich-verletzt"
+      "title": "Wohnungsbrand: Fünf Verletzte bei Brand in Mehrfamilienhaus",
+      "url": "https://www.zeit.de/news/2026-04/29/fuenf-verletzte-bei-brand-in-mehrfamilienhaus"
     },
     {
-      "title": "Konferenz in Emden: Wie die Bundesregierung die maritime Wirtschaft stärken will",
-      "url": "https://www.zeit.de/news/2026-04/29/bundesregierung-legt-aktionsplan-fuer-maritime-wirtschaft-vor"
+      "title": "Die große Hürde kommt erst: Jubel und Zweifel – Wie geht’s weiter mit dem Wal?",
+      "url": "https://www.zeit.de/news/2026-04/29/schleppverband-mit-wal-ist-auf-dem-weg-in-die-nordsee"
     },
     {
-      "title": "Notfälle: Zwei Angler in Rostock gerettet",
-      "url": "https://www.zeit.de/news/2026-04/29/zwei-angler-in-rostock-gerettet"
+      "title": "US-Notenbank: US-Notenbank behält Leitzins bei",
+      "url": "https://www.zeit.de/news/2026-04/29/us-notenbank-behaelt-leitzins-bei"
     }
   ]
 }
