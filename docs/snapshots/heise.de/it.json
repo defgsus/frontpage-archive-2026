@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T20:02:42",
+  "timestamp": "2026-04-30T21:44:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+      "teaser": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+      "url": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+      "image_title": "Claude Logo neben Warndreieck"
+    },
+    {
+      "title": "Zu viel Überwachung in französischem Anti-P2P-Gesetz: Hadopi entkernt",
+      "teaser": "Seit 2010 bestraft Frankreich kleine Urheberrechtsverletzungen über Filesharing. Doch die notwendige Datensammlung gewährt zu viel Einblick in Privates.",
+      "url": "https://www.heise.de/news/Zu-viel-Ueberwachung-in-franzoesischem-Anti-P2P-Gesetz-Hadopi-entkernt-11279014.html",
+      "image_title": "Ein Copyright-Symbol schwebt über der Erdkugel, dazwischen schweben die die EU symbolisierenden Sterne"
+    },
+    {
       "title": "MacBook Ultra: Diese Neuerungen soll Apple planen",
       "teaser": "Seit 2021 hat Apple seine MacBook-Pro-Bauform nicht verändert. Mit dem kommenden Ultra könnte einiges neu werden – nicht nur dank OLED und Touchscreen.",
       "url": "https://www.heise.de/news/MacBook-Ultra-Diese-Neuerungen-soll-Apple-planen-11276643.html",
@@ -30,18 +42,6 @@
       "teaser": "Der laut Eigenwerbung schnellste KI-Code-Editor hat Version 1.0 erreicht. Die interne Datenverarbeitung erledigt das Open-Source-Tool in Videospiel-Manier.",
       "url": "https://www.heise.de/news/Zed-1-0-GPU-beschleunigter-Open-Source-Editor-mit-KI-Support-11278480.html",
       "image_title": "Metallplatte mit Rust-Logo und danebenliegendem Bleistift und Zirkel"
-    },
-    {
-      "title": "E-Patientenakte betroffenKeine Sicherheitsupdates mehr für Android 13",
-      "teaser": "Ab Juli unterstützen viele Krankenkassen ihre ePA-Apps nicht mehr auf Geräten mit Android 13, iOS 17 und älter, denn sie erhalten keine Sicherheitsupdates mehr.",
-      "url": "https://www.heise.de/news/Keine-Sicherheitsupdates-mehr-fuer-Android-13-Auch-E-Patientenakte-betroffen-11262340.html",
-      "image_title": "Grüner Android Bugdroid vor Smartphone"
-    },
-    {
-      "title": "PC-Maus-Formen im direkten 3D-Vergleich",
-      "teaser": "Eine kostenlose Webseite ermöglicht den Vergleich zwischen Hunderten Mausformen. Neu dabei: 3D-Scans mit Rundumansichten.",
-      "url": "https://www.heise.de/news/Eloshapes-Maus-Vergleich-bekommt-3D-Modelle-11278426.html",
-      "image_title": "Drei bunte 3D-Modelle von Mäusen nebeneinander"
     },
     {
       "title": "HintergrundMicrosoft: \"Viele schauen beim Thema Souveränität nur in eine Richtung\"",
@@ -68,9 +68,21 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-roborock-rockmow-z120-lidar-im-test-allrad-aktive-lenkung-und-lidar/3wxcjnw?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
+      "title": "Keine Sicherheitsupdates mehr für Android 13: Auch E-Patientenakte betroffen",
+      "teaser": "Ab Juli unterstützen viele Krankenkassen ihre ePA-Apps nicht mehr auf Geräten mit Android 13, iOS 17 und älter, denn sie erhalten keine Sicherheitsupdates mehr.",
+      "url": "https://www.heise.de/news/Keine-Sicherheitsupdates-mehr-fuer-Android-13-Auch-E-Patientenakte-betroffen-11262340.html",
+      "image_title": "Grüner Android Bugdroid vor Smartphone"
+    },
+    {
       "title": "Motorola Edge 70 Fusion im Test: schlankes Smartphone mit zwei Akku-Größen",
       "teaser": "Edles Design, starke Ausdauer, fairer Preis: Im Test zeigt das Motorola Edge 70 Fusion, wie viel Smartphone es ab 370 Euro gibt.",
       "url": "https://www.heise.de/bestenlisten/testbericht/motorola-edge-70-fusion-im-test-schlankes-smartphone-mit-zwei-akku-groessen/wnqvgvq?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "PC-Maus-Formen im direkten 3D-Vergleich",
+      "teaser": "Eine kostenlose Webseite ermöglicht den Vergleich zwischen Hunderten Mausformen. Neu dabei: 3D-Scans mit Rundumansichten.",
+      "url": "https://www.heise.de/news/Eloshapes-Maus-Vergleich-bekommt-3D-Modelle-11278426.html",
+      "image_title": "Drei bunte 3D-Modelle von Mäusen nebeneinander"
     },
     {
       "title": "Proxmox Backup Server 4.2 mit Linux-Kernel 7.0 und S3-Storage-Support",
@@ -130,18 +142,6 @@
       "teaser": "Der FTP-Server ProFTPD bringt ein Modul mod_sql mit. Es enthält eine SQL-Injection-Schwachstelle, die am Ende zur Ausführung von untergejubeltem Code führt.",
       "url": "https://www.heise.de/news/ProFTPD-Codeschmuggel-durch-mod-sql-moeglich-11277942.html",
       "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
-      "title": "Geld für KI statt Open Source: pgBackRest-Projekt gibt auf",
-      "teaser": "Das verbreitete Backup-Tool pgBackRest hat keine Geldquelle mehr. Die Community diskutiert über Nachfolger und die prinzipielle Finanzierung von Open Source.",
-      "url": "https://www.heise.de/news/Geld-fuer-KI-statt-Open-Source-pgBackRest-Projekt-gibt-auf-11277730.html",
-      "image_title": "Ein Hüpfspiel wurde mit bunter Kreide auf den Boden gemalt. In den Hüpfkästchen befinden sich keine Zahlen, sondern Dollarzeichen."
-    },
-    {
-      "title": "Vimeo: Daten stehen nach Datenleck im Darknet zum Download",
-      "teaser": "Die Cybergang ShinyHunters bietet Vimeo-Daten, die sie über einen Anodot-Einbruch gestohlen haben, im Darknet zum Download an.",
-      "url": "https://www.heise.de/news/Vimeo-Cybergang-ShinyHunters-stellt-Daten-ins-Darknet-11277692.html",
-      "image_title": "Vimeo-Logo und ShinyHunters-Darknet-Drohung vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "NewsSignal reagiert auf deutsche Probleme",

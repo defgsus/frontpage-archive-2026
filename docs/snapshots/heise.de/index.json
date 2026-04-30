@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T20:02:38",
+  "timestamp": "2026-04-30T21:44:12",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+      "url": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html"
+    },
+    {
+      "title": "Zu viel Überwachung in französischem Anti-P2P-Gesetz: Hadopi entkernt",
+      "url": "https://www.heise.de/news/Zu-viel-Ueberwachung-in-franzoesischem-Anti-P2P-Gesetz-Hadopi-entkernt-11279014.html"
+    },
     {
       "title": "Dolby MAT erklärt: So funktioniert Dolbys Audioformat für Atmos & Co.",
       "url": "https://www.heise.de/hintergrund/Dolby-MAT-erklaert-So-funktioniert-Dolbys-Audioformat-fuer-Atmos-Co-11220640.html",
@@ -56,14 +64,6 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Gegen KI-Slop: Spotify führt Kennzeichung für „echte“ Künstler ein",
-      "url": "https://www.heise.de/news/Gegen-KI-Slop-Spotify-fuehrt-Kennzeichung-fuer-echte-Kuenstler-ein-11278812.html"
-    },
-    {
-      "title": "MacBook Ultra: Diese Neuerungen soll Apple planen",
-      "url": "https://www.heise.de/news/MacBook-Ultra-Diese-Neuerungen-soll-Apple-planen-11276643.html"
-    },
-    {
       "title": "Alert„Copy Fail“Linux-root in allen großen Distributionen mit 732 Byte Python",
       "teaser": "Die Entdecker haben die root-Lücke im Linux-Kernel „Copy Fail“ getauft. Alle größeren Distributionen seit 2017 sind betroffen.",
       "url": "https://www.heise.de/news/Copy-Fail-Linux-root-in-allen-grossen-Distributionen-mit-732-Byte-Python-11277590.html",
@@ -99,9 +99,9 @@
       "image_title": "Grüner Android Bugdroid vor Smartphone"
     },
     {
-      "title": "Marshall vor Teufel & JBLTop 10: Der beste Mini-Bluetooth-Lautsprecher im Test",
-      "teaser": "Klein, leicht, überraschend laut: Das sind die zehn besten Mini-Bluetooth-Lautsprecher aus unseren Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-bluetooth-lautsprecher-im-test-marshall-teufel-und-jbl/zdbvdhp?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
+      "title": "Amazfit vor Fitbit und XiaomiTop 10: Die besten Fitness-Tracker im Test",
+      "teaser": "Fitness-Tracker sind die günstige Alternative zur Sportuhr und messen Puls, Schritte und Schlaf. Wir zeigen die besten Modelle.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-fitness-tracker-im-test-amazfit-vor-fitbit-und-xiaomi/nh3k090?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
       "title": "Energiemythen aufgedecktAkkus, Stromsparen und PV-Anlagen",
@@ -182,19 +182,26 @@
       "image_title": "Hand schreibt mathematische Formeln an die Tafel"
     },
     {
-      "title": "Dolby MAT erklärt: So funktioniert Dolbys Audioformat für Atmos & Co.",
-      "teaser": "PS5 und Apple TV können ihren Ton als Dolby MAT ausgeben, sodass er nahtlos zwischen Formaten inklusive Atmos wechselt. Wir klären Vor- und Nachteile.",
-      "url": "https://www.heise.de/hintergrund/Dolby-MAT-erklaert-So-funktioniert-Dolbys-Audioformat-fuer-Atmos-Co-11220640.html"
+      "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
+      "teaser": "Anthropic schickt Claude Security in den öffentlichen Beta-Test. Es scannt Code auf Schwachstellen, schlägt Patches vor und soll bei Sicherheit streng sein.",
+      "url": "https://www.heise.de/news/Claude-Security-Anthropic-bringt-KI-Schwachstellenscanner-fuer-Unternehmen-11279018.html",
+      "image_title": "Claude Logo neben Warndreieck"
     },
     {
-      "title": "Top 10: Die besten Fitness-Tracker im Test",
-      "teaser": "Fitness-Tracker sind die günstige Alternative zur Sportuhr und messen Puls, Schritte und Schlaf. Wir zeigen die besten Modelle.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-fitness-tracker-im-test-amazfit-vor-fitbit-und-xiaomi/nh3k090?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+      "title": "Zu viel Überwachung in französischem Anti-P2P-Gesetz: Hadopi entkernt",
+      "teaser": "Seit 2010 bestraft Frankreich kleine Urheberrechtsverletzungen über Filesharing. Doch die notwendige Datensammlung gewährt zu viel Einblick in Privates.",
+      "url": "https://www.heise.de/news/Zu-viel-Ueberwachung-in-franzoesischem-Anti-P2P-Gesetz-Hadopi-entkernt-11279014.html",
+      "image_title": "Ein Copyright-Symbol schwebt über der Erdkugel, dazwischen schweben die die EU symbolisierenden Sterne"
     },
     {
       "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
       "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
       "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
+      "title": "Dolby MAT erklärt: So funktioniert Dolbys Audioformat für Atmos & Co.",
+      "teaser": "PS5 und Apple TV können ihren Ton als Dolby MAT ausgeben, sodass er nahtlos zwischen Formaten inklusive Atmos wechselt. Wir klären Vor- und Nachteile.",
+      "url": "https://www.heise.de/hintergrund/Dolby-MAT-erklaert-So-funktioniert-Dolbys-Audioformat-fuer-Atmos-Co-11220640.html"
     },
     {
       "title": "Zielwert 50 Hertz: Wie Europas Stromnetz stabil bleibt",
@@ -225,11 +232,6 @@
       "teaser": "Bei Amazon startet im Mai die Serie „Spider-Noir“ mit Nicolas Cage. Bei Netflix läuft „The Boroughs“ und Disney+ zeigt „Send Help“.",
       "url": "https://www.heise.de/news/Neue-Filme-und-Serien-bei-Netflix-Disney-und-Amazon-Prime-im-Mai-2026-11278442.html",
       "image_title": "Screenshot zeigt ein Promobild der Serie „Spider-Noir“"
-    },
-    {
-      "title": "Brennende E-Autos: So löscht die Feuerwehr wirklich",
-      "teaser": "Ein Feuerwehrmann erklärt im Video, warum E-Autos anders, aber nicht gefährlicher brennen als Verbrenner und wie die Profis sie wirklich löschen.",
-      "url": "https://www.heise.de/hintergrund/Brennende-E-Autos-So-loescht-die-Feuerwehr-wirklich-11277930.html"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -397,9 +399,9 @@
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
     },
     {
-      "title": "In wenigen Schritten zur eigenen KI – Best Practices mit Copilot Studio",
-      "teaser": "KI entfaltet ihren Mehrwert erst bei konkreten Geschäftsprozessen. In einem Webcast werden Sie erfahren, wie Sie mit Microsoft Copilot Studio ohne große Programmierkenntnisse KI-Agenten und KI-Assistenten entwickeln können. Highlight: Bau eines KI-Chatbots live in 12 Minuten!",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/in-wenigen-schritten-zur-eigenen-ki-best-practices-mit-copilot-studio-5047/?source=hbsadersatz"
+      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
+      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
+      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
     },
     {
       "title": "Storage, Server, Network: Call for Proposals für Konferenz S2N verlängert",
@@ -632,6 +634,11 @@
       "url": "https://www.heise.de/en/news/OnePlus-is-reviewing-its-future-in-Europe-employees-are-leaving-the-company-11265324.html"
     },
     {
+      "title": "Motorola Razr 70 und Edge 70 ProFoldables mit großen Außendisplays",
+      "teaser": "Motorola erweitert sein Smartphone-Portfolio um drei neue Klapphandys der Razr-70-Familie sowie das Edge 70 Pro.",
+      "url": "https://www.heise.de/news/Motorola-zeigt-Razr-70-Trio-und-Edge-70-Pro-Foldables-mit-grossen-Aussendisplays-11275480.html"
+    },
+    {
       "title": "Microsoft: \"Viele schauen beim Thema Souveränität nur in eine Richtung\"",
       "teaser": "Die Mailkonto-Sperrung am IStGH hat Microsoft-Kunden aufgeschreckt. Im Interview mit c’t erklärt Microsoft-Manager Alexander Britz, wie er sie halten will.",
       "url": "https://www.heise.de/hintergrund/Microsoft-Viele-schauen-beim-Thema-Souveraenitaet-nur-in-eine-Richtung-11246993.html",
@@ -642,11 +649,6 @@
       "teaser": "Der Energiecluster Emmerthal soll mehr leisten als einst das AKW Grohnde und liegt an großen Stromtrassen.",
       "url": "https://www.heise.de/news/Mehr-als-1-4-Gigawatt-Riesige-Batteriespeicher-am-ehemaligen-AKW-Grohnde-11276677.html",
       "image_title": "Rendering des geplanten GESI-Batteriespeichers am ehemaligen Kernkraftwerk Grohnde."
-    },
-    {
-      "title": "Motorola Razr 70 und Edge 70 ProFoldables mit großen Außendisplays",
-      "teaser": "Motorola erweitert sein Smartphone-Portfolio um drei neue Klapphandys der Razr-70-Familie sowie das Edge 70 Pro.",
-      "url": "https://www.heise.de/news/Motorola-zeigt-Razr-70-Trio-und-Edge-70-Pro-Foldables-mit-grossen-Aussendisplays-11275480.html"
     },
     {
       "title": "MacBook NeoDer Schrecken der Windows-Welt",
@@ -678,9 +680,9 @@
       "image_title": "KI Bild aber wir machen es lieber selbst."
     },
     {
-      "title": "Anker, Medion, Nothing: Over-Ear-Kopfhörer bis 150 Euro im Test",
-      "teaser": "Schon für wenig Geld gibt es gute Kopfhörer. Und in einer Hinsicht sind Anker Space 2, Medion HX-1 Pro und Nothing Headphone (a) sogar dem High End überlegen.",
-      "url": "https://www.heise.de/tests/Anker-Medion-Nothing-Over-Ear-Kopfhoerer-bis-150-Euro-im-Test-11200014.html"
+      "title": "Foto rein, Figur rausWie KI den 3D-Druck demokratisiert",
+      "teaser": "Mit einem Handyfoto zur fertigen Figur aus dem 3D-Drucker: Mehrere neue KI-Tools machen aufwändiges 3D-Modellieren überflüssig.",
+      "url": "https://www.heise.de/news/Foto-rein-Figur-raus-Wie-KI-den-3D-Druck-demokratisiert-11273636.html"
     },
     {
       "title": "Fototour Breslau: Filmlooks, Licht und starke Motive abseits der Touristenpfade",
@@ -748,22 +750,22 @@
       "image_title": "Porsche Taycan GTS Sport Turismo"
     },
     {
-      "title": "Greater North America: Washingtons neue Landkarte der Macht",
-      "teaser": "Vom Polarkreis bis zum Äquator: Wie ein Konzept aus Washington die internationale Ordnung aushebelt – und warum das niemand zufällig erfunden hat.",
-      "url": "https://www.heise.de/article/Greater-North-America-Washingtons-neue-Landkarte-der-Macht-11275007.html",
-      "image_title": "Karte von Nord- und Mittelamerika mit Grenzen, Städten und Seewegen."
+      "title": "Pressefreiheit weltweit auf Tiefstand – Deutschland rutscht ab",
+      "teaser": "RSF-Bericht 2026: Kriminalisierung von Journalismus nimmt zu, selbst in Demokratien. Nur noch ein Prozent der Weltbevölkerung lebt in Ländern mit guter Lage.",
+      "url": "https://www.heise.de/article/Pressefreiheit-weltweit-auf-Tiefstand-Deutschland-rutscht-ab-11278275.html",
+      "image_title": "Kiosk in Deutschland"
     },
     {
-      "title": "KI schafft Arbeit – nur nicht die erhoffte",
-      "teaser": "KI soll Arbeit abnehmen – doch in vielen Betrieben sorgt sie für mehr Stress, Sabotage und massenhaft gescheiterte Projekte.",
-      "url": "https://www.heise.de/article/KI-schafft-Arbeit-nur-nicht-die-erhoffte-11274442.html",
-      "image_title": "Chip mit \"KI\"-Aufdruck vor bröckelnden Strahlen"
+      "title": "Abu Dhabi macht Schluss – und die OPEC steht vor den Trümmern",
+      "teaser": "Nach fast 60 Jahren Mitgliedschaft verlassen die VAE die OPEC – und nehmen dabei 13 Prozent der Produktionskapazität mit.",
+      "url": "https://www.heise.de/article/Abu-Dhabi-macht-Schluss-und-die-OPEC-steht-vor-den-Truemmern-11275772.html",
+      "image_title": "Ölfässer vor einer Flagge mit fallendem rotem Pfeil"
     },
     {
-      "title": "Belgien stoppt Atomausstieg und will alle sieben Reaktoren verstaatlichen",
-      "teaser": "Belgiens Regierung stoppt den Rückbau aller Kernkraftwerke mit sofortiger Wirkung und verhandelt mit ENGIE über die Verstaatlichung aller sieben Reaktoren.",
-      "url": "https://www.heise.de/article/Belgien-stoppt-Atomausstieg-und-will-alle-sieben-Reaktoren-verstaatlichen-11279008.html",
-      "image_title": "Zwei Kühltürme des Kernkraftwerks Doel in Belgien mit Dampf, im Hintergrund Gebäude und ein Fluss."
+      "title": "Meta will KI-Rechenzentren mit Solarstrom aus dem All versorgen",
+      "teaser": "Satelliten in 36.000 km Höhe sollen Sonnenenergie sammeln und zur Erde strahlen. Meta reserviert 1 GW Kapazität.",
+      "url": "https://www.heise.de/article/Meta-will-KI-Rechenzentren-mit-Solarstrom-aus-dem-All-versorgen-11278137.html",
+      "image_title": "Sonne strahlt auf eine Landschaft"
     },
     {
       "title": "KI am Wendepunkt: Warum Claude Code der Industrie das Genick brechen könnte",
