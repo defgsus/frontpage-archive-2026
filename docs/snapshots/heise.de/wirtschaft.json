@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T07:59:11",
+  "timestamp": "2026-04-30T10:04:59",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,13 +20,80 @@
   ],
   "articles": [
     {
+      "title": "NPU-Beschleunigung in der Praxis: Performance-Vorteile und Software-Support",
+      "teaser": "Neural Processing Units erledigen KI-Berechnungen effizient und schnell. Wir haben uns unter Windows und macOS angeschaut, wie viel sie bei Anwendungen bringt.",
+      "url": "https://www.heise.de/hintergrund/NPU-Beschleunigung-in-der-Praxis-Performance-Vorteile-und-Software-Support-11098345.html",
+      "image_title": "Ein Prozessor mit der Aufschrift NPU auf einer Leiterplatte"
+    },
+    {
+      "title": "Neuauflage des Commodore 64C kommt: Der Brotkasten wird schlanker",
+      "teaser": "Commodore kündigt den 64C Ultimate an und verpasst seiner C64-Neuauflage ein neues Gehäuse, wie schon beim Original von 1986.",
+      "url": "https://www.heise.de/news/Neuauflage-des-Commodore-64C-kommt-Der-Brotkasten-wird-schlanker-11278109.html",
+      "image_title": "Commodore 64C im klassischen Retro-Design mit grauer Tastatur auf dunklem Hintergrund."
+    },
+    {
+      "title": "Chinesische Behörden stellen vorerst keine neuen Lizenzen für Robotaxis aus",
+      "teaser": "Der Systemausfall bei Baidu, der 100 Robotaxis in Wuhan stilllegte, hat Folgen: Vorerst gibt es keine neuen Lizenzen für autonome Fahrzeuge in China.",
+      "url": "https://www.heise.de/news/Chinesische-Behoerden-stellen-vorerst-keine-neuen-Lizenzen-fuer-Robotaxis-aus-11278077.html",
+      "image_title": "Robotaxi von Baidu"
+    },
+    {
+      "title": "US-Zölle belasten Volkswagen, Prognose für das erste Vierteljahr wird verfehlt",
+      "teaser": "3,3 Prozent operative Marge oder 0,4 Prozentpunkte unter Vorjahr: VW schwächelt im ersten Quartal bei der Profitabilität, vor allem wegen der US-Einfuhrzölle.",
+      "url": "https://www.heise.de/news/US-Zoelle-belasten-Volkswagen-Prognose-fuer-das-erste-Vierteljahr-wird-verfehlt-11277977.html",
+      "image_title": "Volkswagenwerk Wolfsburg"
+    },
+    {
+      "title": "HintergrundNetzentgelte im Umbruch: Warum es für PV-Anlagenbesitzer teurer werden könnte",
+      "url": "https://www.heise.de/hintergrund/Netzentgelte-im-Umbruch-Warum-es-fuer-PV-Anlagenbesitzer-teurer-werden-koennte-11276297.html",
+      "image_title": "Photovoltaikanlagen auf einem Ziegeldach"
+    },
+    {
+      "title": "TestsBatteriewechselrichter im Labortest: Viel Verlust bei niedriger Leistung",
+      "url": "https://www.heise.de/tests/Batteriewechselrichter-im-Labortest-Viel-Verlust-bei-niedriger-Leistung-11265907.html"
+    },
+    {
+      "title": "RatgeberDividenden im Mittelpunkt: So finden Anleger die besten ETFs",
+      "url": "https://www.heise.de/ratgeber/Dividenden-im-Mittelpunkt-So-finden-Anleger-die-besten-ETFs-11246528.html",
+      "image_title": "Vergleich von Dividenden-ETFs und Einzelaktien"
+    },
+    {
+      "title": "SpaceX nach Börsengang: Nur Elon Musk wird Elon Musk feuern können",
+      "teaser": "Auch SpaceX führt zum Börsengang unterschiedliche Arten von Aktien ein. Neu ist aber, dass sich der aktuelle CEO auch rein formal nur selbst entlassen kann.",
+      "url": "https://www.heise.de/news/SpaceX-nach-Boersengang-Nur-Elon-Musk-wird-Elon-Musk-feuern-koennen-11277860.html",
+      "image_title": "SpaceX-Schriftzug am Standort in Texas"
+    },
+    {
+      "title": "Geld für KI statt Open Source: pgBackRest-Projekt gibt auf",
+      "teaser": "Das verbreitete Backup-Tool pgBackRest hat keine Geldquelle mehr. Die Community diskutiert über Nachfolger und die prinzipielle Finanzierung von Open Source.",
+      "url": "https://www.heise.de/news/Geld-fuer-KI-statt-Open-Source-pgBackRest-Projekt-gibt-auf-11277730.html",
+      "image_title": "Ein Hüpfspiel wurde mit bunter Kreide auf den Boden gemalt. In den Hüpfkästchen befinden sich keine Zahlen, sondern Dollarzeichen."
+    },
+    {
+      "title": "ADAC-Pannenstatistik: E-Autos sind zuverlässiger als Verbrenner",
+      "teaser": "Elektroautos bleiben sehr deutlich seltener liegen als gleich alte Autos mit Verbrennungsmotoren. Das zeigt die aktuelle Pannenstatistik des ADAC.",
+      "url": "https://www.heise.de/news/ADAC-Pannenstatistik-E-Autos-sind-zuverlaessiger-als-Verbrenner-11277772.html",
+      "image_title": "Elektroauto Fiat 500e Cabrio"
+    },
+    {
+      "title": "Blick ins Heft c’t 10/2026: IT-Mythen",
+      "teaser": "IT-Mythen und Halbwissen halten sich hartnäckig. c’t prüft Behauptungen aus fünf Bereichen: KI-Systeme, Energie, Forschung, Hardware und Security.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-10-2026-IT-Mythen-11277734.html"
+    },
+    {
+      "title": "Berichte: OnePlus und Realme fusionieren",
+      "teaser": "OnePlus und Realme sollen Berichten zufolge fusionieren. Die beiden Marken des Oppo-Konzerns sollen ihre Aktivitäten zusammenlegen.",
+      "url": "https://www.heise.de/news/Berichte-OnePlus-und-Realme-fusionieren-11277726.html",
+      "image_title": "OnePlus 15 in Hand"
+    },
+    {
       "title": "Starlink fürs Smartphone: T-Mobile sieht unerwartet geringe Nutzung",
       "teaser": "SpaceX hat die Kundenzahl von Starlink zwei Jahre infolge verdoppeln können, berichtet ein US-Magazin. Derweil sieht T-Mobile unerwartet geringes Interesse.",
       "url": "https://www.heise.de/news/Starlink-fuers-Smartphone-T-Mobile-sieht-unerwartet-geringe-Nutzung-11277548.html",
       "image_title": "A male hand holding a smartphone with his right hand with Starlink logo and a blurred planet earth in space at background"
     },
     {
-      "title": "Porsche: Gewinn bricht ein, E-Auto-Anteil sinkt",
+      "title": "Sportwagenhersteller Porsche meldet Gewinnrückgang und Neuausrichtung",
       "teaser": "Porsche meldet einen Gewinnrückgang von 24,6 Prozent im ersten Quartal, der Anteil verkaufter Elektroautos sank. Eine „Strategie 2035“ soll die Lage verbessern.",
       "url": "https://www.heise.de/news/Porsche-Gewinn-bricht-ein-E-Auto-Anteil-sinkt-11277702.html",
       "image_title": "Porsche Taycan GTS Sport Turismo"
@@ -42,20 +109,6 @@
       "teaser": "Die starke Nachfrage nach Speicherchips treibt Samsungs Gewinn in historische Höhe. Der südkoreanische Leitindex Kospi reagiert positiv auf die Geschäftszahlen.",
       "url": "https://www.heise.de/news/Samsung-erzielt-hoechsten-Gewinn-in-Unternehmensgeschichte-11277552.html",
       "image_title": "Samsung-Schild vor Gebäude"
-    },
-    {
-      "title": "HintergrundNetzentgelte im Umbruch: Warum es für PV-Anlagenbesitzer teurer werden könnte",
-      "url": "https://www.heise.de/hintergrund/Netzentgelte-im-Umbruch-Warum-es-fuer-PV-Anlagenbesitzer-teurer-werden-koennte-11276297.html",
-      "image_title": "Photovoltaikanlagen auf einem Ziegeldach"
-    },
-    {
-      "title": "TestsBatteriewechselrichter im Labortest: Viel Verlust bei niedriger Leistung",
-      "url": "https://www.heise.de/tests/Batteriewechselrichter-im-Labortest-Viel-Verlust-bei-niedriger-Leistung-11265907.html"
-    },
-    {
-      "title": "RatgeberDividenden im Mittelpunkt: So finden Anleger die besten ETFs",
-      "url": "https://www.heise.de/ratgeber/Dividenden-im-Mittelpunkt-So-finden-Anleger-die-besten-ETFs-11246528.html",
-      "image_title": "Vergleich von Dividenden-ETFs und Einzelaktien"
     },
     {
       "title": "KI-Wettrüsten: Tech-Riesen investieren hunderte Milliarden",
@@ -91,60 +144,6 @@
       "teaser": "Der Online-Handelsriese Amazon mischt auch groß bei Cloud-Diensten mit. Der KI-Boom gibt diesem Geschäft neuen Rückenwind.",
       "url": "https://www.heise.de/news/Amazon-uebertrifft-Erwartungen-11277460.html",
       "image_title": "Amazon-Schriftzug auf Gebäude"
-    },
-    {
-      "title": "Microsoft steigert Einnahmen weiter, aber Speicherkrise verteuert Rechenzentren",
-      "teaser": "Die Geschäftszahlen Microsofts übertreffen die Erwartungen, nur Windows und Xbox stagnieren. Steigende Speicherpreise erhöhen die Investitionskosten enorm.",
-      "url": "https://www.heise.de/news/Microsoft-steigert-Einnahmen-weiter-aber-Speicherkrise-verteuert-Rechenzentren-11277438.html",
-      "image_title": "Microsoft-Firmenschild an einer Straße in Taiwan"
-    },
-    {
-      "title": "Alphabets Geschäft brummt, Investitionen auch",
-      "teaser": "Der KI-Bot in Googles Suchmaschine führt zu so vielen Eingaben wie noch nie. Das bringt Umsatz. Noch stärker wächst das Cloud-Geschäft.",
-      "url": "https://www.heise.de/news/Alphabets-Geschaeft-brummt-Investitionen-auch-11277426.html",
-      "image_title": "Google-Schriftzug auf Glasfassade"
-    },
-    {
-      "title": "Phishing und falscher Anruf: Bank muss Hälfte zahlen",
-      "teaser": "Ein Bankkunde wurde Phishing-Opfer, binnen eineinhalb Stunden flossen 200.000 Euro ins Ausland. Das hätte der Bank auffallen müssen, sagt das OLG Linz.",
-      "url": "https://www.heise.de/news/Unzureichendes-Betrugs-Monitoring-bei-Phishing-Bank-traegt-Mitschuld-11277408.html",
-      "image_title": "Euro-Scheine"
-    },
-    {
-      "title": "Großer Anlage-Betrug mit Deepfakes: Callcenter in Tirana ausgehoben",
-      "teaser": "Über 50 Millionen Euro haben albanische Callcenter europäischen „Anlegern” gestohlen. Deepfakes mit Promis liefen über Werbung in Sozialen Netzen.",
-      "url": "https://www.heise.de/news/Grosser-Anlage-Betrug-mit-Deepfakes-Callcenter-in-Tirana-ausgehoben-11277312.html",
-      "image_title": "Schmuckloses Großraumbüro mit dutzenden schwarzen Bürostühlen und Computerarbeitsplätzen"
-    },
-    {
-      "title": "Interview: Puraite will Literaturrecherche mit erklärbarer KI beschleunigen",
-      "teaser": "Puraite will die manuelle Literaturrecherche in den Lebenswissenschaften mit erklärbarer KI deutlich verkürzen. Über die Pläne des Start-ups.",
-      "url": "https://www.heise.de/hintergrund/Interview-Puraite-will-Evidenzsynthese-mit-erklaerbarer-KI-beschleunigen-11247196.html",
-      "image_title": "Laptop, auf dem miteinander verbundene Datenpunkte zu sehen sind."
-    },
-    {
-      "title": "Milliardenspritze: Deutsche Glasfaser sichert Finanzierung für Netzausbau",
-      "teaser": "Mit einer Kapitalspritze von 1,2 Milliarden Euro und einer breiten Entschuldung stellt die Deutsche Glasfaser die Weichen für die digitale Zukunft auf dem Land.",
-      "url": "https://www.heise.de/news/Milliardenspritze-Deutsche-Glasfaser-sichert-Finanzierung-fuer-Netzausbau-11277241.html",
-      "image_title": "Baustelle eines Neubaugebiets in Barsinghausen bei Hannover, im Vordergrund ein kleiner Bagger und eine Rolle Glasfaserkabel."
-    },
-    {
-      "title": "Bericht: Vision-Pro-Chef wollte Apple verlassen",
-      "teaser": "Der Mann gilt als Apple-Allzweckwaffe: Mike Rockwell setzte die Vision Pro aufs Gleis – jetzt soll er Siri fixen. Das sah offenbar zwischenzeitlich anders aus.",
-      "url": "https://www.heise.de/news/Bericht-Vision-Pro-Chef-wollte-Apple-verlassen-11276425.html",
-      "image_title": "Person, die eine Apple Vision Pro trägt"
-    },
-    {
-      "title": "Mikroorganismen sollen Rohstoffe aus Elektroschrott extrahieren",
-      "teaser": "Jährlich fallen Millionen Tonnen von Elektroschrott an. Forscher haben ein biobasiertes Verfahren entwickelt, um Rohstoffe aus entsorgter Technik zu gewinnen.",
-      "url": "https://www.heise.de/news/Mikroorganismen-sollen-Rohstoffe-aus-Elektroschrott-extrahieren-11277095.html",
-      "image_title": "Testung verschiedener Mikroorganismen zur Mobilisierung von Metallen im Schüttelkolben"
-    },
-    {
-      "title": "Nach Aus für gewerkschaftlich organisierte Apple-Läden: Beschwerde eingereicht",
-      "teaser": "Apple macht mehrere US-Stores dicht, darunter einen, in dem es erstmals eine gewerkschaftliche Vertretung gab. Die IAM Union geht dagegen nun vor.",
-      "url": "https://www.heise.de/news/Nach-Aus-fuer-gewerkschaftlich-organisierte-Apple-Laeden-Beschwerde-eingereicht-11276391.html",
-      "image_title": "Apple Towson Town Center"
     },
     {
       "title": "NewsSignal reagiert auf deutsche Probleme",

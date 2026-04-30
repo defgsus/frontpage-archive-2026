@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T07:59:21",
+  "timestamp": "2026-04-30T10:05:08",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,23 @@
   ],
   "articles": [
     {
+      "title": "Gerstensaft fürs Gedächtnis?: Vitamin-Bomben im Biergarten",
+      "teaser": "Münchner Forscher messen in verschiedenen Bieren erkleckliche Gehalte an Vitamin B6, welches unter anderem wichtig fürs Denkvermögen ist. Das erklärt vielleicht das Neolithikum, entschuldigt aber nicht alles.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/bier-enthaelt-vitamin-b6-das-ist-wichtig-fuers-denken-200774189.html"
+    },
+    {
+      "title": "Gestorben mit 79 Jahren: Genom-Pionier Craig Venter ist tot",
+      "teaser": "Er hat künstlich Organismen geschaffen, einen der größten Wettbewerbe in den Wissenschaften provoziert und diverse Biotech-Unternehmen gegründet: Der kalifornische Genforscher Craig J. Venter ist mit 79 Jahren gestorben.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/vermischtes-genforschungs-pionier-craig-venter-ist-tot-accg-200784949.html",
+      "image_url": "https://media0.faz.net/image/w730/aabe5b11df80/w3223h1813x0y168/202604/43601.0.2033402673/eine-krebserkrankung.webp",
+      "image_title": "Eine Krebserkrankung schwächte ihn zuletzt sehr: Genforscher Craig Venter starb in San Diego."
+    },
+    {
       "title": "Extremwetter: Woran KI-Wettervorhersagen noch scheitern",
       "teaser": "Künstliche Intelligenz erstellt mittlerweile Wetterprognosen, die klassische Modelle übertreffen. Doch sie hat eine entscheidende Schwäche.",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/ki-modelle-sagen-extremwetterereignisse-schlecht-vorher-accg-200775636.html"
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/ki-modelle-sagen-extremwetterereignisse-schlecht-vorher-accg-200775636.html",
+      "image_url": "https://media0.faz.net/image/w730/cdf8b601f770/w1947h1095x90y150/202006/43600.0.60671624/im-juni-2020-wurde-in-der.webp",
+      "image_title": "Im Juni 2020 wurde in der sibirischen Stadt Werchojansk eine Rekordtemperatur von 38 Grad Celsius gemessen."
     },
     {
       "title": "Schäden durch Schleppnetze: Die versteckten Kosten der Fischerei",
@@ -85,20 +99,6 @@
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/roberto-zapperi-ein-europaeischer-roemer-200774123.html",
       "image_url": "https://media0.faz.net/image/w730/aa6ac28bcbfc/w3596h2023x59y431/202604/954840a2-3800-11f1-8c04-9cd8fdbeadff/der-kolossale-massstab-allein.webp",
       "image_title": "Der „kolossale Maßstab allein“ hätte laut Jacob Burckhardt den Palazzo Farnese „nicht gerettet“, den Kardinal Alessandro Farnese, der spätere Papst Paul III., nach einem Plan von Antonio da Sangallo in der römischen Altstadt errichten ließ. Diesen Querschnitt fertigte ein anonymer französischer Zeichner im sechzehnten Jahrhundert an."
-    },
-    {
-      "title": "Lebensmittelchemie: Wie stark ist der Kaffee?",
-      "teaser": "Wie kräftig ein Kaffee schmeckt, ist den Bohnen nicht anzusehen. Mit einem elektrochemischen Verfahren lässt sich der Röstgrad nun im fertigen Getränk messen.",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/den-roestgrad-von-kaffee-elektrochemisch-messen-accg-200775970.html",
-      "image_url": "https://media0.faz.net/image/w730/281494d25234/w8192h4608x0y536/202604/43601.0.2030162690/mit-einem-elektrochemischen.webp",
-      "image_title": "Mit einem elektrochemischen Verfahren lässt sich der Röstgrad nun im fertigen Kaffee messen."
-    },
-    {
-      "title": "Vulkanausbruch im im Jahr 79: Wie die KI die letzten Momente eines Pompeji-Opfers rekonstruiert",
-      "teaser": "In der versunkenen Stadt Pompeji haben Forscher per KI ein Opfer des Vesuv-Ausbruchs vor fast 2000 Jahren rekonstruiert. Der Achäologiepark spricht von einem „experimentellen Prototyp“.",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/vesuv-ausbruch-wie-die-ki-ein-pompeji-opfer-rekonstruiert-200778306.html",
-      "image_url": "https://media0.faz.net/image/w730/7a2c817d21e8/w1900h1069x0y178/202604/43601.0.2024067895/mit-diesem-fund-in-der.webp",
-      "image_title": "Mit diesem Fund in der versunkenen Stadt Pompeji fertigen Forscher eine KI-Konstruktion eines Opfers des Vesuv-Ausbruchs vor fast 2.000 Jahren an."
     },
     {
       "title": "FAZ+Osterrätsel: Über sieben Brücken musst du geh’n!",
@@ -177,17 +177,18 @@
       "image_title": "Frauke Zbikowski"
     },
     {
-      "title": "Botanik-Kolumne: Eine wilde Spargelsaison",
-      "teaser": "Viele kennen den wilden Spargel nicht, dabei ist er eine Delikatesse und besonders gesund. Doch das Sammeln ist nicht ganz ungefährlich und beim Kauf muss man auf ein paar Dinge achten.",
-      "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/wie-gesund-ist-wilder-spargel-accg-200762492.html",
-      "image_url": "https://media0.faz.net/image/w920/2c03b545ba35/w5120h2880x0y261/202604/43601.0.2023603359/weiss-gruen-oder-wild-welcher.webp",
-      "image_title": "Weiß, grün oder wild: Welcher ist der gesündeste Spargel?"
+      "title": "Lebensmittelchemie: Wie stark ist der Kaffee?",
+      "teaser": "Wie kräftig ein Kaffee schmeckt, ist den Bohnen nicht anzusehen. Mit einem elektrochemischen Verfahren lässt sich der Röstgrad nun im fertigen Getränk messen.",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/den-roestgrad-von-kaffee-elektrochemisch-messen-accg-200775970.html",
+      "image_url": "https://media0.faz.net/image/w920/281494d25234/w8192h4608x0y536/202604/43601.0.2030162690/mit-einem-elektrochemischen.webp",
+      "image_title": "Mit einem elektrochemischen Verfahren lässt sich der Röstgrad nun im fertigen Kaffee messen."
     },
     {
-      "title": "Greenwashing-Studie: Sind alle Klimaversprechen übertrieben?",
-      "teaser": "Eine Studie behauptet: Die 33 größten Fleisch- und Molkereikonzerne betreiben Greenwashing in großem Stil. Unabhängige Experten bezweifeln die Ergebnisse . Woran erkennt man falsche Verspechen.",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/kritik-an-greenwashing-studie-zu-fleisch-und-molkereikonzernen-accg-200763796.html",
-      "image_url": "https://media0.faz.net/image/w920/12ca9dcc210d/w3000h1687x0y156/202505/43601.0.1005497469/4360101005497469.webp"
+      "title": "Vulkanausbruch im im Jahr 79: Wie die KI die letzten Momente eines Pompeji-Opfers rekonstruiert",
+      "teaser": "In der versunkenen Stadt Pompeji haben Forscher per KI ein Opfer des Vesuv-Ausbruchs vor fast 2000 Jahren rekonstruiert. Der Achäologiepark spricht von einem „experimentellen Prototyp“.",
+      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/vesuv-ausbruch-wie-die-ki-ein-pompeji-opfer-rekonstruiert-200778306.html",
+      "image_url": "https://media0.faz.net/image/w920/7a2c817d21e8/w1900h1069x0y178/202604/43601.0.2024067895/mit-diesem-fund-in-der.webp",
+      "image_title": "Mit diesem Fund in der versunkenen Stadt Pompeji fertigen Forscher eine KI-Konstruktion eines Opfers des Vesuv-Ausbruchs vor fast 2.000 Jahren an."
     },
     {
       "title": "FAZ+Perfektionismus: „Ich stand um 23 Uhr in der Küche und habe mich gefragt, warum ich das machen muss“",
@@ -295,11 +296,10 @@
       "image_title": "Kaveh Madani, Träger des Stockholm Water Prize 2026"
     },
     {
-      "title": "Waldregeneration: Gerodete Regenwälder überraschen mit schneller Regeneration",
-      "teaser": "Einige Urwälder in den Tropen können sich mit ihrer riesigen Artenvielfalt überraschend schnell von der Abholzung regenerieren. Tierarten wie Fledermäuse und Vögel spielen dabei eine Schlüsselrolle.",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/regenwaelder-regenerieren-artenvielfalt-kehrt-ueberraschend-schnell-zurueck-accg-200749806.html",
-      "image_url": "https://media0.faz.net/image/w730/82bb7571c187/w3264h1836x0y306/200805/431.0.62559782/tropisches-tiefland-im-norden.webp",
-      "image_title": "Tropisches Tiefland im Norden von La Paz; Primärwald, Sekundärwald und Agroforstsysteme. Foto."
+      "title": "Greenwashing-Studie: Sind alle Klimaversprechen übertrieben?",
+      "teaser": "Eine Studie behauptet: Die 33 größten Fleisch- und Molkereikonzerne betreiben Greenwashing in großem Stil. Unabhängige Experten bezweifeln die Ergebnisse . Woran erkennt man falsche Verspechen.",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/kritik-an-greenwashing-studie-zu-fleisch-und-molkereikonzernen-accg-200763796.html",
+      "image_url": "https://media0.faz.net/image/w730/12ca9dcc210d/w3000h1687x0y156/202505/43601.0.1005497469/4360101005497469.webp"
     },
     {
       "title": "40 Jahre nach Tschernobyl: Was man vom Super-GAU noch messen kann",
