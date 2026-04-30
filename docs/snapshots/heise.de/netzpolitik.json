@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-30T16:12:13",
+  "timestamp": "2026-04-30T18:01:43",
   "url": "https://www.heise.de/newsticker/netzpolitik/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Cyber Resilience Act: BSI wird zum digitalen TÜV für vernetzte Produkte",
+      "teaser": "Die Bundesregierung bringt das Durchführungsgesetz zum Cyber Resilience Act der EU auf den Weg und will das BSI zur zentralen Marktüberwachungsbehörde machen.",
+      "url": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-wird-zum-digitalen-TUeV-fuer-vernetzte-Produkte-11278890.html",
+      "image_title": "Roboterhände an einer Tastatur, davor das Justizsymbol"
+    },
+    {
+      "title": "DSA-Bilanz: Wie deutsche Nutzer 2025 die Internet-Riesen herausforderten",
+      "teaser": "Über 2000 Beschwerden und Millionen-Bußgelder gegen X & Co.: Der Koordinator für digitale Dienste zieht Bilanz und erklärt, wie er für Ordnung im Netz sorgt.",
+      "url": "https://www.heise.de/news/DSA-Bilanz-Wie-deutsche-Nutzer-2025-die-Internet-Riesen-herausforderten-11278870.html",
+      "image_title": "Nahaufnahme eines Smartphone-Bildschirms mit den Symbolen verschiedener Social-Media-Apps."
+    },
+    {
       "title": "Pressefreiheit-Rangliste: Deutschland nicht mehr in Top Ten",
       "teaser": "Einmal im Jahr veröffentlicht Reporter ohne Grenzen eine Liste über die Situation der Medien. Warum Deutschland jetzt nur noch auf Platz 14 steht.",
       "url": "https://www.heise.de/news/Pressefreiheit-Rangliste-Deutschland-nicht-mehr-in-Top-Ten-11278073.html",
@@ -30,18 +42,6 @@
       "teaser": "Eine Anfrage von netzpolitik.org förderte zutage, dass der Bezahldienst Wero zwar EU-Souveränität verspricht, aber AWS nutzt.",
       "url": "https://www.heise.de/news/Souveraener-Bezahldienst-Wero-klebt-noch-an-AWS-aber-gelobt-Besserung-11277113.html",
       "image_title": "Wero-Logo auf einem Smartphone"
-    },
-    {
-      "title": "AI Act: Europäer können sich nicht über Digital-Omnibus einigen",
-      "teaser": "Die EU-Gesetzgeber konnten sich nicht auf Änderungen am KI-Gesetz einigen. Streitpunkte sind etwa Ausnahmen für Maschinen und ein Verbot von Entkleidungs-Apps.",
-      "url": "https://www.heise.de/news/Blockade-in-Bruessel-Verhandlungen-ueber-EU-KI-Regeln-vorerst-gescheitert-11277135.html",
-      "image_title": "Eine Frau hält eine Lupe über ein EU-Logo mit der Inschrift AI Act in der Mitte"
-    },
-    {
-      "title": "Altersverifikation: EU-Kommission verlangt von Mitgliedstaaten konkrete Pläne",
-      "teaser": "Nachdem die EU-Kommission ihr Framework für Altersverifikation vorgelegt hat, sollen die Länder nun Klarheit schaffen, wie sie Altersprüfungen umsetzen wollen.",
-      "url": "https://www.heise.de/news/Altersverifikation-EU-Kommission-verlangt-von-Mitgliedstaaten-konkrete-Plaene-11277169.html",
-      "image_title": "Henna Virkkunen, Vizepräsidentin der Europäischen Kommission"
     },
     {
       "title": "HintergrundInterview zur Registermodernisierung: Wie der Staat das Megaprojekt wuppen will",
@@ -55,6 +55,18 @@
       "title": "HintergrundEUDI-Wallet: Das ist der aktuelle Stand der digitalen europäischen Brieftasche",
       "url": "https://www.heise.de/hintergrund/EUDI-Wallet-Das-ist-der-aktuelle-Stand-der-digitalen-europaeischen-Brieftasche-11252204.html",
       "image_title": ", Vanessa Bahr / iX"
+    },
+    {
+      "title": "AI Act: Europäer können sich nicht über Digital-Omnibus einigen",
+      "teaser": "Die EU-Gesetzgeber konnten sich nicht auf Änderungen am KI-Gesetz einigen. Streitpunkte sind etwa Ausnahmen für Maschinen und ein Verbot von Entkleidungs-Apps.",
+      "url": "https://www.heise.de/news/Blockade-in-Bruessel-Verhandlungen-ueber-EU-KI-Regeln-vorerst-gescheitert-11277135.html",
+      "image_title": "Eine Frau hält eine Lupe über ein EU-Logo mit der Inschrift AI Act in der Mitte"
+    },
+    {
+      "title": "Altersverifikation: EU-Kommission verlangt von Mitgliedstaaten konkrete Pläne",
+      "teaser": "Nachdem die EU-Kommission ihr Framework für Altersverifikation vorgelegt hat, sollen die Länder nun Klarheit schaffen, wie sie Altersprüfungen umsetzen wollen.",
+      "url": "https://www.heise.de/news/Altersverifikation-EU-Kommission-verlangt-von-Mitgliedstaaten-konkrete-Plaene-11277169.html",
+      "image_title": "Henna Virkkunen, Vizepräsidentin der Europäischen Kommission"
     },
     {
       "title": "Digitale Rasterfahndung: Regierung stimmt für Biometrie-Abgleich und KI-Analysen",
@@ -133,17 +145,6 @@
       "teaser": "OpenAI startet ein Bug-Bounty-Programm, um Schwachstellen in den Biosicherheits-Safeguards von ChatGPT 5.5 zu finden.",
       "url": "https://www.heise.de/news/OpenAI-startet-Bug-Bounty-Programm-fuer-Bio-Sicherheit-11272469.html",
       "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
-    },
-    {
-      "title": "Behörden-Dschungel: Statusmonitor für die BundID soll die Wirtschaft entlasten",
-      "teaser": "Der Statusmonitor soll mehr Transparenz beim Bearbeitungsstand von Anträgen und Genehmigungen schaffen. Zehn Länder sind schon an Bord des Zentralsystems.",
-      "url": "https://www.heise.de/news/Behoerden-Dschungel-Statusmonitor-fuer-die-BundID-soll-die-Wirtschaft-entlasten-11272389.html"
-    },
-    {
-      "title": "IP-Speicherung: Experten warnen vor Kostenfalle und geringem Sicherheitsgewinn",
-      "teaser": "Schwarz-Rot will die Vorratsdatenspeicherung zurück. Die Regierung verspricht wenig Aufwand. Doch der Entwurf offenbart Millionenlasten für Staat und Firmen.",
-      "url": "https://www.heise.de/news/Teure-digitale-Spurensuche-Milliardeninvestitionen-fuer-die-neue-IP-Speicherung-11272367.html",
-      "image_title": "Glasfaserkabel"
     },
     {
       "title": "NewsSignal reagiert auf deutsche Probleme",
