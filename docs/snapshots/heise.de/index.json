@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T10:59:18",
+  "timestamp": "2026-05-01T11:58:41",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "c’t-Webinar: Tschüss Windows, hallo Linux!",
+      "url": "https://www.heise.de/news/c-t-Webinar-Tschuess-Windows-hallo-Linux-11276088.html"
+    },
     {
       "title": "30 Jahre heise online – Die Lösungen zur Rätselreise",
       "url": "https://www.heise.de/hintergrund/30-Jahre-heise-online-Die-Loesungen-zur-Raetselreise-11277924.html"
@@ -58,10 +62,6 @@
       "url": "https://www.heise.de/ratgeber/Familienfotos-praesentieren-Was-Sie-vor-der-Feier-wissen-muessen-11242523.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Auslegungssache 158: Die Databroker Files",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-158-Die-Databroker-Files-11278730.html"
     },
     {
       "title": "Für UnternehmenAnthropic startet öffentliche Beta von Claude Security",
@@ -183,20 +183,26 @@
       "image_title": "RISC-V-Prozessor auf einer Platine"
     },
     {
+      "title": "c’t-Webinar: Tschüss Windows, hallo Linux!",
+      "teaser": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Tschuess-Windows-hallo-Linux-11276088.html",
+      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
+    },
+    {
       "title": "30 Jahre heise online – Die Lösungen zur Rätselreise",
       "teaser": "Verschiedene Encodings, Hinweise im DNS, eine Cäsar-Chiffre, falsche Fehlerseiten und steganographisch versteckte Hinweise: Wir lösen unser Jubiläumsrätsel auf.",
       "url": "https://www.heise.de/hintergrund/30-Jahre-heise-online-Die-Loesungen-zur-Raetselreise-11277924.html"
+    },
+    {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Fototour Breslau: Filmlooks, Licht und starke Motive abseits der Touristenpfade",
       "teaser": "Zwischen Rynek, Dominsel und Nebenstraßen: Mit Blick für Licht, Struktur und Wetter entstehen stimmungsvolle Bilder.",
       "url": "https://www.heise.de/ratgeber/Fototour-Breslau-Filmlooks-Licht-und-starke-Motive-abseits-der-Touristenpfade-11225373.html",
       "image_title": ", Alle Bilder: Thomas Kakareko"
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "iX-Workshop: Schritt für Schritt – VMware zu Proxmox VE",
@@ -226,12 +232,6 @@
       "title": "Familienfotos präsentieren: Was Sie vor der Feier wissen müssen",
       "teaser": "Kindheitsfotos zum Jubiläum, Urlaubsbilder für Freunde: Wie Sie Ihre Präsentation technisch vorbereiten und Fallstricke meiden.",
       "url": "https://www.heise.de/ratgeber/Familienfotos-praesentieren-Was-Sie-vor-der-Feier-wissen-muessen-11242523.html"
-    },
-    {
-      "title": "Auslegungssache 158: Die Databroker Files",
-      "teaser": "Im c't-Datenschutz-Podcast berichtet Ingo Dachwitz von netzpolitik.org, wie ein Recherche-Team Milliarden Standortdaten von Datenhändlern erhielt.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-158-Die-Databroker-Files-11278730.html",
-      "image_title": "Ingo Dachwitz (links oben), Joerg Heidrich (rechts oben), Holger Bleich (unten)"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -324,6 +324,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Auslegungssache 158: Die Databroker Files",
+      "teaser": "Im c't-Datenschutz-Podcast berichtet Ingo Dachwitz von netzpolitik.org, wie ein Recherche-Team Milliarden Standortdaten von Datenhändlern erhielt.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-158-Die-Databroker-Files-11278730.html",
+      "image_title": "Ingo Dachwitz (links oben), Joerg Heidrich (rechts oben), Holger Bleich (unten)"
+    },
+    {
       "title": "Zu viel Überwachung in französischem Anti-P2P-Gesetz: Hadopi entkernt",
       "teaser": "Seit 2010 bestraft Frankreich kleine Urheberrechtsverletzungen über Filesharing. Doch die notwendige Datensammlung gewährt zu viel Einblick in Privates.",
       "url": "https://www.heise.de/news/Zu-viel-Ueberwachung-in-franzoesischem-Anti-P2P-Gesetz-Hadopi-entkernt-11279014.html",
@@ -393,15 +399,15 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-roborock-rockmow-z120-lidar-im-test-allrad-aktive-lenkung-und-lidar/3wxcjnw?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Wenn eine Mail an die falsche Person geht ...",
+      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
+    },
+    {
       "title": "Sourcecode-Editor Zed erreicht Version 1.0",
       "teaser": "Der laut Eigenwerbung schnellste KI-Code-Editor hat Version 1.0 erreicht. Die interne Datenverarbeitung erledigt das Open-Source-Tool in Videospiel-Manier.",
       "url": "https://www.heise.de/news/Zed-1-0-GPU-beschleunigter-Open-Source-Editor-mit-KI-Support-11278480.html",
       "image_title": "Metallplatte mit Rust-Logo und danebenliegendem Bleistift und Zirkel"
-    },
-    {
-      "title": "Moderner Datenaustausch und das Ende manueller Prozesse",
-      "teaser": "Viele Datenaustausch-Prozesse gleichen einem Flickenteppich. Mit einer modernen Plattform behalten Sie die Kontrolle über die eigenen Datenressourcen und sichern sich Wettbewerbsvorteile. Mehr dazu in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/daten-management/beitrag/wie-moderner-datenaustausch-ressourcen-freisetzt-und-wettbewerbsvorteile-bringt-5030/?source=hbsad-ersatz"
     },
     {
       "title": "Bericht zur Vision Pro: Keine Einstellung, aber kaum noch Arbeit bei Apple?",
@@ -456,12 +462,6 @@
       "image_title": "Viele Nägel fallen auf ein Schachbrett."
     },
     {
-      "title": "Apples KI-Strategie: Spielt Tim Cook „3D-Schach”?",
-      "teaser": "Abermilliarden setzen Firmen wie Google, Meta oder Microsoft in Hyperscaler, während Apple extrem knausrig ist. Ist Tim Cooks Zurückhaltung klug?",
-      "url": "https://www.heise.de/news/Apples-KI-Strategie-Spielt-Tim-Cook-3D-Schach-11277316.html",
-      "image_title": "Apple-Chef Tim Cook im Jahr 2021"
-    },
-    {
       "title": "Souveräner Bezahldienst Wero klebt noch an AWS, aber gelobt Besserung",
       "url": "https://www.heise.de/news/Souveraener-Bezahldienst-Wero-klebt-noch-an-AWS-aber-gelobt-Besserung-11277113.html",
       "image_title": "Wero-Logo auf einem Smartphone"
@@ -496,13 +496,13 @@
       "image_title": "MagSafe-Ladegerät"
     },
     {
-      "title": "Motorola zeigt Razr-70-Trio und Edge 70 Pro: Foldables mit großen Außendisplays",
-      "url": "https://www.heise.de/news/Motorola-zeigt-Razr-70-Trio-und-Edge-70-Pro-Foldables-mit-grossen-Aussendisplays-11275480.html"
+      "title": "Apples KI-Strategie: Spielt Tim Cook „3D-Schach”?",
+      "url": "https://www.heise.de/news/Apples-KI-Strategie-Spielt-Tim-Cook-3D-Schach-11277316.html",
+      "image_title": "Apple-Chef Tim Cook im Jahr 2021"
     },
     {
-      "title": "macOS 26: Entwickler bekommen unerwünschte Menü-Icons aufgedrückt",
-      "url": "https://www.heise.de/news/macOS-26-Entwickler-bekommen-unerwuenschte-Menue-Icons-aufgedrueckt-11275864.html",
-      "image_title": "Beispiele für neue Icons"
+      "title": "Motorola zeigt Razr-70-Trio und Edge 70 Pro: Foldables mit großen Außendisplays",
+      "url": "https://www.heise.de/news/Motorola-zeigt-Razr-70-Trio-und-Edge-70-Pro-Foldables-mit-grossen-Aussendisplays-11275480.html"
     },
     {
       "title": "EuGH-Urteil: TV-Signale im Seniorenheim sind keine öffentliche Wiedergabe",
@@ -637,10 +637,10 @@
       "image_title": "Alexander Britz, Microsoft"
     },
     {
-      "title": "Als Festplatten noch riesig waren: Die Quantum Bigfoot wird 30 Jahre alt",
-      "teaser": "Vor knapp 30 Jahren brachte Quantum die Bigfoot auf den Markt. Die 5,25-Zoll-Festplatte sollte ein sterbendes Format retten, scheiterte damit aber krachend.",
-      "url": "https://www.heise.de/news/Als-Festplatten-noch-riesig-waren-Die-Quantum-Bigfoot-wird-30-Jahre-alt-11278133.html",
-      "image_title": "Eine Quantum-Bigfoot-Festplatte auf einem Tisch"
+      "title": "UpdateMehr als 1,4 GigawattRiesige Batteriespeicher am ehemaligen AKW Grohnde",
+      "teaser": "Der Energiecluster Emmerthal soll mehr leisten als einst das AKW Grohnde und liegt an großen Stromtrassen.",
+      "url": "https://www.heise.de/news/Mehr-als-1-4-Gigawatt-Riesige-Batteriespeicher-am-ehemaligen-AKW-Grohnde-11276677.html",
+      "image_title": "Rendering des geplanten GESI-Batteriespeichers am ehemaligen Kernkraftwerk Grohnde."
     },
     {
       "title": "Heimkino-TestDas Leben des Brian erstmals in 4K: Ist die UHD gut genug für Jehova?",
@@ -748,22 +748,22 @@
       "image_title": "Porsche Taycan GTS Sport Turismo"
     },
     {
-      "title": "Lasst die Amerikaner doch abziehen!",
-      "teaser": "Trump droht mit Truppenabzug – und Deutschland bettelt statt zu handeln. Dabei wäre ein Abzug eine historische Chance. Ein Leitartikel.",
-      "url": "https://www.heise.de/article/Lasst-die-Amerikaner-doch-abziehen-11277916.html",
-      "image_title": "Eine Menschenmenge mit Fahnen und Schildern, darunter eines mit \"YANKEE GO HOME!\""
-    },
-    {
       "title": "Pressefreiheit weltweit auf Tiefstand – Deutschland rutscht ab",
       "teaser": "RSF-Bericht 2026: Kriminalisierung von Journalismus nimmt zu, selbst in Demokratien. Nur noch ein Prozent der Weltbevölkerung lebt in Ländern mit guter Lage.",
       "url": "https://www.heise.de/article/Pressefreiheit-weltweit-auf-Tiefstand-Deutschland-rutscht-ab-11278275.html",
       "image_title": "Kiosk in Deutschland"
     },
     {
-      "title": "Geopolitisches Großprojekt: Der Nahe Osten baut neue Machtachsen",
-      "teaser": "Vom osmanischen Traum zur Strategie: Neue Schienenkorridore zwischen Golf, Levante und Europa entstehen im Schatten von Krieg und Machtverschiebung.",
-      "url": "https://www.heise.de/article/Geopolitisches-Grossprojekt-Der-Nahe-Osten-baut-neue-Machtachsen-11277616.html",
-      "image_title": "Karte des Nahen Ostens mit eingezeichneten möglichen Eisenbahnverbindungen"
+      "title": "Hochverarbeitete Lebensmittel: Der stille Angriff auf das Gehirn",
+      "teaser": "Eine neue Studie zeigt: Bereits geringe Mengen an industriell verarbeiteten Lebensmitteln verschlechtern die kognitive Leistungsfähigkeit. Ein Überblick.",
+      "url": "https://www.heise.de/article/Hochverarbeitete-Lebensmittel-Der-stille-Angriff-auf-das-Gehirn-11276512.html",
+      "image_title": "Mehrere Fastfood-Lebensmittel"
+    },
+    {
+      "title": "KI schafft Arbeit – nur nicht die erhoffte",
+      "teaser": "KI soll Arbeit abnehmen – doch in vielen Betrieben sorgt sie für mehr Stress, Sabotage und massenhaft gescheiterte Projekte.",
+      "url": "https://www.heise.de/article/KI-schafft-Arbeit-nur-nicht-die-erhoffte-11274442.html",
+      "image_title": "Chip mit \"KI\"-Aufdruck vor bröckelnden Strahlen"
     },
     {
       "title": "KI am Wendepunkt: Warum Claude Code der Industrie das Genick brechen könnte",
