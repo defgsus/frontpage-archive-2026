@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-01T11:58:46",
+  "timestamp": "2026-05-01T13:14:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,16 @@
   ],
   "articles": [
     {
+      "title": "Harry Potter-Spiel kostenlos sichern",
+      "teaser": "Harry-Potter-Fans aufgepasst: Epic Games bietet Hogwarts Legacy kostenlos zum Download an. Die Aktion läuft bis zum 3. Mai.",
+      "url": "https://www.heise.de/news/Hogwarts-Legacy-ist-kostenlos-im-Epic-Games-Store-zu-haben-11279190.html"
+    },
+    {
+      "title": "Canonical-Server: Massive Cyberattacke läuft",
+      "teaser": "Ein laufender Angriff auf die Canonical-Server beeinträchtigt den Snapstore und andere wichtige Komponenten.",
+      "url": "https://www.heise.de/news/Canonical-Server-Massive-Cyberattacke-laeuft-11279200.html"
+    },
+    {
       "title": "c’t-Webinar: Tschüss Windows, hallo Linux!",
       "teaser": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
       "url": "https://www.heise.de/news/c-t-Webinar-Tschuess-Windows-hallo-Linux-11276088.html",
@@ -29,18 +39,6 @@
       "title": "30 Jahre heise online – Die Lösungen zur Rätselreise",
       "teaser": "Verschiedene Encodings, Hinweise im DNS, eine Cäsar-Chiffre, falsche Fehlerseiten und steganographisch versteckte Hinweise: Wir lösen unser Jubiläumsrätsel auf.",
       "url": "https://www.heise.de/hintergrund/30-Jahre-heise-online-Die-Loesungen-zur-Raetselreise-11277924.html"
-    },
-    {
-      "title": "iX-Workshop: Schritt für Schritt – VMware zu Proxmox VE",
-      "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Schritt-fuer-Schritt-VMware-zu-Proxmox-VE-11259920.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
-    },
-    {
-      "title": "Neu in .NET 10.0 [21]: Ausgabe der Befehle und Parameter in JSON bei SDK-Tools",
-      "teaser": "Die .NET-SDK-Befehle liefern über einen neuen Parameter die Hilfeinformationen nun auch in JSON-Form.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-21-Ausgabe-der-Befehle-und-Parameter-in-JSON-bei-SDK-Tools-11277568.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
     },
     {
       "title": "HintergrundMicrosoft: \"Viele schauen beim Thema Souveränität nur in eine Richtung\"",
@@ -60,6 +58,18 @@
       "title": "Sabrent EC-PNVO im Test: Gehäuse für M.2-SSD – schick, aber zu langsam",
       "teaser": "Das Sabrent EC-PNVO ist ein werkzeugloses M.2-NVMe-Gehäuse aus Aluminium für rund 19 Euro. Im Test überzeugt die Verarbeitung – das Tempo enttäuscht.",
       "url": "https://www.heise.de/bestenlisten/testbericht/sabrent-ec-pnvo-im-test-gehaeuse-fuer-m2-ssd-schick-aber-zu-langsam/jgmyh30?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Schritt für Schritt – VMware zu Proxmox VE",
+      "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schritt-fuer-Schritt-VMware-zu-Proxmox-VE-11259920.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Neu in .NET 10.0 [21]: Ausgabe der Befehle und Parameter in JSON bei SDK-Tools",
+      "teaser": "Die .NET-SDK-Befehle liefern über einen neuen Parameter die Hilfeinformationen nun auch in JSON-Form.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-21-Ausgabe-der-Befehle-und-Parameter-in-JSON-bei-SDK-Tools-11277568.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
     },
     {
       "title": "Als Festplatten noch riesig waren: Die Quantum Bigfoot wird 30 Jahre alt",
@@ -129,17 +139,6 @@
       "teaser": "Das beliebte Python-Paket zur Überwachung der Datenqualität war kurzzeitig als bösartige Version verfügbar. Anbieter Elementary rät umgehend zum Update.",
       "url": "https://www.heise.de/news/Script-Injection-und-Datenklau-Python-Datenanalyse-Tool-geknackt-11277938.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Storage, Server, Network: Call for Proposals für Konferenz S2N verlängert",
-      "teaser": "Noch bis zum 10. Mai können Storage-, Netzwerk- und Serverexperten Vorträge für die Konferenz S2N einreichen.",
-      "url": "https://www.heise.de/news/Storage-Server-Network-Call-for-Proposals-fuer-Konferenz-S2N-verlaengert-11276735.html"
-    },
-    {
-      "title": "Apples KI-Strategie: Spielt Tim Cook „3D-Schach”?",
-      "teaser": "Abermilliarden setzen Firmen wie Google, Meta oder Microsoft in Hyperscaler, während Apple extrem knausrig ist. Ist Tim Cooks Zurückhaltung klug?",
-      "url": "https://www.heise.de/news/Apples-KI-Strategie-Spielt-Tim-Cook-3D-Schach-11277316.html",
-      "image_title": "Apple-Chef Tim Cook im Jahr 2021"
     },
     {
       "title": "NewsSignal reagiert auf deutsche Probleme",
