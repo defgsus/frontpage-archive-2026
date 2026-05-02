@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T12:40:40",
+  "timestamp": "2026-05-02T14:03:08",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "Apple streicht kleinsten Mac mini aus dem Programm",
+      "url": "https://www.heise.de/news/Apple-streicht-kleinsten-Mac-mini-aus-dem-Programm-11279398.html"
+    },
+    {
+      "title": "Wie uns das Smartphone in den Bann zieht | c’t uplink",
+      "url": "https://www.heise.de/news/Wie-uns-das-Smartphone-in-den-Bann-zieht-c-t-uplink-11278738.html"
+    },
     {
       "title": "IT-Mythen im Check: Hardware von Audio bis Prozessoren",
       "url": "https://www.heise.de/ratgeber/IT-Mythen-im-Check-Hardware-von-Audio-bis-Prozessoren-11226389.html",
@@ -54,14 +62,6 @@
     {
       "title": "Assertion Libraries für Java: AssertJ versus Google Truth",
       "url": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html"
-    },
-    {
-      "title": "Knallbunt in den Mai: Die Bilder der Woche 18",
-      "url": "https://www.heise.de/news/Knallbunt-in-den-Mai-Die-Bilder-der-Woche-18-11278410.html"
     },
     {
       "title": "PentagonVerträge mit sieben KI-Anbietern",
@@ -166,9 +166,9 @@
       "url": "https://www.heise.de/ratgeber/Gebrauchte-Elektroautos-bis-15-000-Euro-15-Modelle-im-Vergleich-11249852.html"
     },
     {
-      "title": "#heiseshowSignal-Affäre, KI für die Psyche, Hannover Messe",
-      "teaser": "Politiker fallen auf Signal-Phishing herein, KI wird zum Seelenklempner und die Hannover Messe verliert Besucher und Tage.",
-      "url": "https://www.heise.de/news/heiseshow-Signal-Affaere-KI-fuer-die-Psyche-Hannover-Messe-11277159.html"
+      "title": "c’t uplinkWie uns das Smartphone in den Bann zieht",
+      "teaser": "Wo fängt eine Smartphone-Sucht an und wie funktionieren Dark Patterns und Social-Media-Algorithmen?",
+      "url": "https://www.heise.de/news/Wie-uns-das-Smartphone-in-den-Bann-zieht-c-t-uplink-11278738.html"
     },
     {
       "title": "#TGIQFDas Quiz rund um Spam-E-Mails",
@@ -182,20 +182,26 @@
       "url": "https://www.heise.de/news/Die-beste-Discord-Alternative-TeamSpeak-Server-selbst-hosten-c-t-3003-11278758.html"
     },
     {
+      "title": "Apple streicht kleinsten Mac mini aus dem Programm",
+      "teaser": "Apples günstigster Mac mit 256-GByte-SSD wird nicht mehr angeboten. Damit steigt der Einstiegspreis für einen Desktop-Mac auf 949 Euro.",
+      "url": "https://www.heise.de/news/Apple-streicht-kleinsten-Mac-mini-aus-dem-Programm-11279398.html",
+      "image_title": "Mac mini M4 mit Zubehör"
+    },
+    {
       "title": "IT-Mythen im Check: Hardware von Audio bis Prozessoren",
       "teaser": "Manche Mythen scheinen unmittelbar plausibel: Weniger Sendeleistung am WLAN-Router spart Strom. Richtig ist das Gegenteil. Wir lichten das Dickicht.",
       "url": "https://www.heise.de/ratgeber/IT-Mythen-im-Check-Hardware-von-Audio-bis-Prozessoren-11226389.html"
+    },
+    {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Nach Drohnenangriff: AWS schwört Nahost-Kunden auf lange Ausfallzeit ein",
       "teaser": "Ein Drohnenangriff im März legte zwei AWS-Regionen lahm. Bis der Betrieb regulär weiterläuft, könnte es noch lange dauern.",
       "url": "https://www.heise.de/news/Nach-Drohnenangriff-AWS-schwoert-Nahost-Kunden-auf-lange-Ausfallzeit-ein-11279376.html",
       "image_title": "AWS-Statusseite"
-    },
-    {
-      "title": "Compliance-Gesamtlösung: Software-Plattform und Rechtswissen",
-      "teaser": "Wenn ein neuer SaaS-Anbieter eingeführt wird, löst das oft eine administrative Lawine aus. Von Vorteil ist dann eine Plattform, die technische Aufgaben meistert und hinter der auch Juristen stehen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7276299317&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "c’t-Webinar: KI-Schreibwerkzeuge geschickt wählen und effizient einsetzen",
@@ -226,12 +232,6 @@
       "teaser": "Beim Formulieren von Assertions kommt JUnit schnell an Grenzen. Die Libraries AssertJ und Google Truth bieten neue Möglichkeiten und eine bessere Lesbarkeit.",
       "url": "https://www.heise.de/hintergrund/Assertion-Libraries-fuer-Java-AssertJ-versus-Google-Truth-11260088.html",
       "image_title": "Roter Filzstift auf Papier mit angekreuzten Kontrollkästchen"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Camel, pnpm, npm, Firestore, Python, Ghostty, Arduino App Lab und SkiaSharp.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html",
-      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -324,6 +324,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Apache Camel, pnpm, npm, Firestore, Python, Ghostty, Arduino App Lab und SkiaSharp.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11276274.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Knallbunt in den Mai: Die Bilder der Woche 18",
       "teaser": "Gelbe, abstrakte Fassaden, farbige Lichtspuren und ausgebreitete Flügel. Die aktuellen Bilder der Woche leiten den Mai dynamisch und bunt ein.",
       "url": "https://www.heise.de/news/Knallbunt-in-den-Mai-Die-Bilder-der-Woche-18-11278410.html",
@@ -392,15 +398,15 @@
       "url": "https://www.heise.de/news/Tankrabatt-greift-voller-Umfang-am-Wochenende-erwartet-11279152.html"
     },
     {
+      "title": "Wenn eine Mail an die falsche Person geht ...",
+      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
+      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop: Schritt für Schritt – VMware zu Proxmox VE",
       "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
       "url": "https://www.heise.de/news/iX-Workshop-Schritt-fuer-Schritt-VMware-zu-Proxmox-VE-11259920.html",
       "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
-    },
-    {
-      "title": "In wenigen Schritten zur eigenen KI – Best Practices mit Copilot Studio",
-      "teaser": "KI entfaltet ihren Mehrwert erst bei konkreten Geschäftsprozessen. In einem Webcast werden Sie erfahren, wie Sie mit Microsoft Copilot Studio ohne große Programmierkenntnisse KI-Agenten und KI-Assistenten entwickeln können. Highlight: Bau eines KI-Chatbots live in 12 Minuten!",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/in-wenigen-schritten-zur-eigenen-ki-best-practices-mit-copilot-studio-5047/?source=hbsadersatz"
     },
     {
       "title": "Neu in .NET 10.0 [21]: Ausgabe der Befehle und Parameter in JSON bei SDK-Tools",
@@ -452,12 +458,6 @@
       "teaser": "Die Speicherkrise materialisiert sich in den Zahlen der größten Smartphone-Prozessorzulieferer Qualcomm und Mediatek.",
       "url": "https://www.heise.de/news/Qualcomm-Mediatek-Smartphone-Herstellung-bricht-ein-11278850.html",
       "image_title": "Diverse Smartphones liegen auf einem roten Tuch"
-    },
-    {
-      "title": "Cyber Resilience Act: BSI wird zum digitalen TÜV für vernetzte Produkte",
-      "teaser": "Die Bundesregierung bringt das Durchführungsgesetz zum Cyber Resilience Act der EU auf den Weg und will das BSI zur zentralen Marktüberwachungsbehörde machen.",
-      "url": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-wird-zum-digitalen-TUeV-fuer-vernetzte-Produkte-11278890.html",
-      "image_title": "Roboterhände an einer Tastatur, davor das Justizsymbol"
     },
     {
       "title": "Keine Sicherheitsupdates mehr für Android 13: Auch E-Patientenakte betroffen",
@@ -535,6 +535,11 @@
       "image_title": "Volkswagenwerk Osnabrück"
     },
     {
+      "title": "Cyber Resilience Act: BSI wird zum digitalen TÜV für vernetzte Produkte",
+      "url": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-wird-zum-digitalen-TUeV-fuer-vernetzte-Produkte-11278890.html",
+      "image_title": "Roboterhände an einer Tastatur, davor das Justizsymbol"
+    },
+    {
       "title": "DSA-Bilanz: Wie deutsche Nutzer 2025 die Internet-Riesen herausforderten",
       "url": "https://www.heise.de/news/DSA-Bilanz-Wie-deutsche-Nutzer-2025-die-Internet-Riesen-herausforderten-11278870.html",
       "image_title": "Nahaufnahme eines Smartphone-Bildschirms mit den Symbolen verschiedener Social-Media-Apps."
@@ -543,11 +548,6 @@
       "title": "1&1 muss Pornhub und YouPorn sperren, sagt auch das Oberverwaltungsgericht",
       "url": "https://www.heise.de/news/Oberverwaltungsgericht-1-1-muss-Pornhub-und-YouPorn-sperren-10507637.html",
       "image_title": "Blick auf Pornhub"
-    },
-    {
-      "title": "KI-Halluzinationen: Südafrikas Regierung zieht Entwurf für KI-Strategie zurück",
-      "url": "https://www.heise.de/news/KI-Halluzinationen-Suedafrikas-Regierung-zieht-Entwurf-fuer-KI-Strategie-zurueck-11275910.html",
-      "image_title": "Straßenlaternen mit südafrikanischen Flaggen"
     },
     {
       "title": "Phishing und falscher Anruf: Bank muss Hälfte zahlen",
@@ -560,9 +560,8 @@
       "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge; Mittwoch: US-Router-Verbot, Ransomware-Jüngling, Signal-Phishing, Fake-OS-Spiele & iPhone-Zugriffsprobleme"
     },
     {
-      "title": "KI-Update kompakt: OpenAI, Google, GitHub Copilot, Talkie",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-OpenAI-Google-GitHub-Copilot-Talkie-11276373.html",
-      "image_title": "KI-Update-Bild"
+      "title": "#heiseshow: Signal-Affäre, KI für die Psyche, Hannover Messe",
+      "url": "https://www.heise.de/news/heiseshow-Signal-Affaere-KI-fuer-die-Psyche-Hannover-Messe-11277159.html"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -631,21 +630,20 @@
       "url": "https://www.heise.de/en/news/Script-Injection-and-Data-Theft-Python-Data-Analysis-Tool-Compromised-11278455.html"
     },
     {
+      "title": "Als Festplatten noch riesig warenDie Quantum Bigfoot wird 30 Jahre alt",
+      "teaser": "Quantums 5,25-Zoll-Festplatte Bigfoot sollte ein sterbendes Format retten, scheiterte damit aber krachend.",
+      "url": "https://www.heise.de/news/Als-Festplatten-noch-riesig-waren-Die-Quantum-Bigfoot-wird-30-Jahre-alt-11278133.html",
+      "image_title": "Eine Quantum-Bigfoot-Festplatte auf einem Tisch"
+    },
+    {
       "title": "c't 3003Die beste Discord-Alternative? TeamSpeak-Server selbst hosten",
       "teaser": "Discord steht wegen geplanter Alterschecks per Ausweis, Foto oder KI in der Kritik. Ist TeamSpeak plötzlich wieder die bessere Alternative?",
       "url": "https://www.heise.de/news/Die-beste-Discord-Alternative-TeamSpeak-Server-selbst-hosten-c-t-3003-11278758.html"
     },
     {
-      "title": "c’t-Webinar: KI-Schreibwerkzeuge geschickt wählen und effizient einsetzen",
-      "teaser": "Das Webinar bietet Orientierung im KI-Dschungel: Finden Sie die zu Ihren Anforderungen passenden Anwendungen und setzen Sie diese souverän und zielführend ein.",
-      "url": "https://www.heise.de/news/c-t-Webinar-KI-Schreibwerkzeuge-geschickt-waehlen-und-effizient-einsetzen-11276084.html",
-      "image_title": "Illustration eines Roboters, der auf einen Computerbildschirm mit Text und Chatblasen zeigt"
-    },
-    {
-      "title": "Heimkino-TestDas Leben des Brian erstmals in 4K: Ist die UHD gut genug für Jehova?",
-      "teaser": "Monty Pythons Klassiker: Wir vergleichen die neue 4K-UHD von Criterion mit Stream und Blu-ray Disc.",
-      "url": "https://www.heise.de/tests/Das-Leben-des-Brian-erstmals-in-4K-Ist-die-UHD-gut-genug-fuer-Jehova-11276651.html",
-      "image_title": "Das Leben des Brian"
+      "title": "c’t uplinkWie uns das Smartphone in den Bann zieht",
+      "teaser": "Wo fängt eine Smartphone-Sucht an und wie funktionieren Dark Patterns und Social-Media-Algorithmen?",
+      "url": "https://www.heise.de/news/Wie-uns-das-Smartphone-in-den-Bann-zieht-c-t-uplink-11278738.html"
     },
     {
       "title": "Apple Watch vs. Brustgurt: Wie genau ist die Apple-Uhr beim Sport?",
@@ -748,22 +746,22 @@
       "image_title": "Porsche Taycan GTS Sport Turismo"
     },
     {
-      "title": "Bulgarien hat gewählt: Radev regiert, Brüssel zittert",
-      "teaser": "Am Sonntag hat in Sofia ein Außenseiter bei den Wahlen gesiegt. Brüssel ist nervös — droht der EU ein neuer Orbán? Eine Analyse.",
-      "url": "https://www.heise.de/article/Bulgarien-hat-gewaehlt-Radev-regiert-Bruessel-zittert-11277688.html",
-      "image_title": "Rumen Radev steht vor einer Flagge und einem blauen Hintergrund mit einem Kreis-Symbol."
+      "title": "Was die AfD für Sachsen-Anhalt plant – und warum kaum jemand darüber spricht",
+      "teaser": "Die AfD könnte in Sachsen-Anhalt erstmals allein regieren. Ihr 138-seitiges Programm enthüllt, was das konkret bedeuten würde.",
+      "url": "https://www.heise.de/article/Was-die-AfD-fuer-Sachsen-Anhalt-plant-und-warum-kaum-jemand-darueber-spricht-11274579.html",
+      "image_title": "Flagge Sachsen-Anhalts mit AfD-Zeichen verfremdet"
     },
     {
-      "title": "Kapitalismus und Krieg: Warum Frieden systemfremd wirkt",
-      "teaser": "Zwischen Wachstumszwang, Profitinteressen und autoritären Tendenzen – eine kritische Perspektive auf Ukraine-Krieg und globale Aufrüstung",
-      "url": "https://www.heise.de/article/Kapitalismus-und-Krieg-Warum-Frieden-systemfremd-wirkt-11277866.html",
-      "image_title": "Panzer mit Münzen mit \"et\"-Zeichen als Räder"
+      "title": "Elisabeth und Maria: Verwandt, verfeindet, unversöhnlich",
+      "teaser": "Zwei Königinnen, eine Insel – und ein unerbittlicher Machtkampf. Eine Besichtigung des elisabethanischen Zeitalters in Großbritannien. (Teil 1 von 5)",
+      "url": "https://www.heise.de/article/Elisabeth-und-Maria-Verwandt-verfeindet-unversoehnlich-11274947.html",
+      "image_title": "Eine Frau in herrschaftlicher Kleidung, Kupferstich in Schwarz-Weiß"
     },
     {
-      "title": "Ratten der Lüfte? Warum Stadttauben mehr Respekt verdienen",
-      "teaser": "Stadttauben gelten als Plage – doch sie sind intelligent, geschichtsreich und ihr schlechtes Image hat einen überraschenden Grund.",
-      "url": "https://www.heise.de/article/Ratten-der-Luefte-Warum-Stadttauben-mehr-Respekt-verdienen-11277714.html",
-      "image_title": "Zwei Tauben"
+      "title": "Meta will KI-Rechenzentren mit Solarstrom aus dem All versorgen",
+      "teaser": "Satelliten in 36.000 km Höhe sollen Sonnenenergie sammeln und zur Erde strahlen. Meta reserviert 1 GW Kapazität.",
+      "url": "https://www.heise.de/article/Meta-will-KI-Rechenzentren-mit-Solarstrom-aus-dem-All-versorgen-11278137.html",
+      "image_title": "Sonne strahlt auf eine Landschaft"
     },
     {
       "title": "KI am Wendepunkt: Warum Claude Code der Industrie das Genick brechen könnte",
