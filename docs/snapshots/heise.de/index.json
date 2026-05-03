@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T11:33:27",
+  "timestamp": "2026-05-03T12:40:01",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,16 @@
     }
   ],
   "articles": [
+    {
+      "title": "KI-Agent löscht Daten: Katastrophe für PocketOS",
+      "url": "https://www.heise.de/news/KI-Agent-loescht-Daten-Katastrophe-fuer-PocketOS-11279416.html"
+    },
+    {
+      "title": "Lenovo Yoga Slim 7x mit Qualcomms neuem Snapdragon X2 Elite X2E-80-100 im Test",
+      "url": "https://www.heise.de/tests/Lenovo-Yoga-Slim-7x-mit-Qualcomms-neuem-Snapdragon-X2-Elite-X2E-80-100-im-Test-11230018.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "KI und Security: Jetzt noch Tickets für die Online-Konferenz sichern",
       "url": "https://www.heise.de/news/KI-und-Security-Jetzt-noch-Tickets-fuer-die-Online-Konferenz-sichern-11276120.html"
@@ -54,16 +64,6 @@
     {
       "title": "iX-Workshop: BCM und IT-Notfallplanung – vorbereitet für den Ernstfall",
       "url": "https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-vorbereitet-fuer-den-Ernstfall-11264681.html"
-    },
-    {
-      "title": "Missing Link: Die Bewährungsprobe kommt erst noch",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Die-Bewaehrungsprobe-kommt-erst-noch-11279420.html"
-    },
-    {
-      "title": "Anker, Medion, Nothing: Over-Ear-Kopfhörer bis 150 Euro im Test",
-      "url": "https://www.heise.de/tests/Anker-Medion-Nothing-Over-Ear-Kopfhoerer-bis-150-Euro-im-Test-11200014.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
     },
     {
       "title": "Missing LinkDie Bewährungsprobe kommt erst noch",
@@ -188,6 +188,22 @@
       "url": "https://www.heise.de/news/Die-beste-Discord-Alternative-TeamSpeak-Server-selbst-hosten-c-t-3003-11278758.html"
     },
     {
+      "title": "KI-Agent löscht Daten: Katastrophe für PocketOS",
+      "teaser": "Ein KI-Agent löschte Produktionsdaten bei PocketOS und lieferte ein detailliertes Geständnis. Fehlende Sicherheitsvorkehrungen machten es möglich.",
+      "url": "https://www.heise.de/news/KI-Agent-loescht-Daten-Katastrophe-fuer-PocketOS-11279416.html",
+      "image_title": "Eine Roboterhand auf einer Tastatur"
+    },
+    {
+      "title": "Lenovo Yoga Slim 7x mit Qualcomms neuem Snapdragon X2 Elite X2E-80-100 im Test",
+      "teaser": "Die zweite Snapdragon-X-Generation für Notebook debütiert in Lenovos 14-Zöller Yoga Slim 7x. Qualcomms Neuling lässt x86-CPUs von AMD und Intel alt aussehen.",
+      "url": "https://www.heise.de/tests/Lenovo-Yoga-Slim-7x-mit-Qualcomms-neuem-Snapdragon-X2-Elite-X2E-80-100-im-Test-11230018.html"
+    },
+    {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
       "title": "KI und Security: Jetzt noch Tickets für die Online-Konferenz sichern",
       "teaser": "Am 11. Mai zeigt die Online-Konferenz, wie man sich gegen Angriffe auf KI-Anwendungen schützt und wie KI-Tools bei sicherer Softwareentwicklung helfen.",
       "url": "https://www.heise.de/news/KI-und-Security-Jetzt-noch-Tickets-fuer-die-Online-Konferenz-sichern-11276120.html"
@@ -197,11 +213,6 @@
       "teaser": "Wer seinen Code mithilfe von Copilot geschrieben hat, muss sich mit dem KI-Assistenten jetzt die Commit Message teilen, was sich aber deaktivieren lässt.",
       "url": "https://www.heise.de/news/WTF-Microsoft-erzwingt-Co-Authored-by-Copilot-in-Commits-11279525.html",
       "image_title": "Poznan,,Poland,-,June,6,,2025:,A,Close-up,View,Of"
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "OpenAI Prism im Test: KI-Tool für wissenschaftliches Schreiben",
@@ -224,17 +235,6 @@
       "teaser": "Statt Lamentos sollte der Medienbeauftragte der Bundesregierung den 3. Mai nutzen, um in Sachen Pressefreiheit vor der eigenen Türe zu kehren, meint Tim Gerber.",
       "url": "https://www.heise.de/meinung/Kommentar-zum-Tag-der-Pressefreiheit-Die-Sache-mit-der-eigenen-Nase-11278916.html",
       "image_title": "Hand,With,Red,Pencil,Tied,With,Rope,,Depicting,The,Idea"
-    },
-    {
-      "title": "iX-Workshop: BCM und IT-Notfallplanung – vorbereitet für den Ernstfall",
-      "teaser": "Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.",
-      "url": "https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-vorbereitet-fuer-den-Ernstfall-11264681.html",
-      "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
-    },
-    {
-      "title": "Anker, Medion, Nothing: Over-Ear-Kopfhörer bis 150 Euro im Test",
-      "teaser": "Schon für wenig Geld gibt es gute Kopfhörer. Und in einer Hinsicht sind Anker Space 2, Medion HX-1 Pro und Nothing Headphone (a) sogar dem High End überlegen.",
-      "url": "https://www.heise.de/tests/Anker-Medion-Nothing-Over-Ear-Kopfhoerer-bis-150-Euro-im-Test-11200014.html"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -327,6 +327,17 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "iX-Workshop: BCM und IT-Notfallplanung – vorbereitet für den Ernstfall",
+      "teaser": "Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.",
+      "url": "https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-vorbereitet-fuer-den-Ernstfall-11264681.html",
+      "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
+    },
+    {
+      "title": "Anker, Medion, Nothing: Over-Ear-Kopfhörer bis 150 Euro im Test",
+      "teaser": "Schon für wenig Geld gibt es gute Kopfhörer. Und in einer Hinsicht sind Anker Space 2, Medion HX-1 Pro und Nothing Headphone (a) sogar dem High End überlegen.",
+      "url": "https://www.heise.de/tests/Anker-Medion-Nothing-Over-Ear-Kopfhoerer-bis-150-Euro-im-Test-11200014.html"
+    },
+    {
       "title": "CODE-DE Lab: Deutschland startet zentrale Cloud-Plattform für Satellitendaten",
       "teaser": "Mit dem Zusammenschluss von CODE-DE und EO-Lab bündelt der Bund den Zugriff auf Copernicus- und Forschungsdaten nebst KI-Verarbeitung in einer Infrastruktur.",
       "url": "https://www.heise.de/news/CODE-DE-Lab-Deutschland-startet-zentrale-Cloud-Plattform-fuer-Satellitendaten-11279432.html"
@@ -390,6 +401,11 @@
       "image_title": "Dell Ultrasharp U5226KW"
     },
     {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
       "title": "Pentagon besiegelt Verträge mit sieben KI-Anbietern",
       "teaser": "Neue Vereinbarungen mit sieben KI-Anbietern sollen Modelle in die operative Praxis des US-Verteidigungsministeriums integrieren. Anthropic fehlt auf der Liste.",
       "url": "https://www.heise.de/news/Pentagon-schliesst-KI-Deals-mit-sieben-Unternehmen-11279268.html",
@@ -400,11 +416,6 @@
       "teaser": "Das Deutschlandticket wird drei Jahre alt – am Tag, an dem der neue Tankrabatt gilt. Umweltverbände kritisieren die Maßnahme. Was sie wollen.",
       "url": "https://www.heise.de/news/Drei-Jahre-Deutschlandticket-Forderungen-nach-OePNV-Ausbau-11279244.html",
       "image_title": "Germany,-,April,2023:,Mobile,App,For,49,Euro,Ticket,"
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Mythen aus der Forschung: Technik der Zukunft auf dem Prüfstand",
@@ -450,17 +461,6 @@
       "title": "30 Jahre heise online – Die Lösungen zur Rätselreise",
       "teaser": "Verschiedene Encodings, Hinweise im DNS, eine Cäsar-Chiffre, falsche Fehlerseiten und steganographisch versteckte Hinweise: Wir lösen unser Jubiläumsrätsel auf.",
       "url": "https://www.heise.de/hintergrund/30-Jahre-heise-online-Die-Loesungen-zur-Raetselreise-11277924.html"
-    },
-    {
-      "title": "Fototour Breslau: Filmlooks, Licht und starke Motive abseits der Touristenpfade",
-      "teaser": "Zwischen Rynek, Dominsel und Nebenstraßen: Mit Blick für Licht, Struktur und Wetter entstehen stimmungsvolle Bilder.",
-      "url": "https://www.heise.de/ratgeber/Fototour-Breslau-Filmlooks-Licht-und-starke-Motive-abseits-der-Touristenpfade-11225373.html",
-      "image_title": ", Alle Bilder: Thomas Kakareko"
-    },
-    {
-      "title": "UpdateTankrabatt greift, voller Umfang am Wochenende erwartet",
-      "teaser": "Im Vergleich zum Donnerstag ist Sprit am Morgen im bundesweiten Durchschnitt deutlich günstiger – der Rückgang ist aber kleiner als der Steuerrabatt.",
-      "url": "https://www.heise.de/news/Tankrabatt-greift-voller-Umfang-am-Wochenende-erwartet-11279152.html"
     },
     {
       "title": "Anthropic startet öffentliche Beta von Claude Security für Unternehmen",
@@ -639,14 +639,16 @@
       "url": "https://www.heise.de/news/Die-beste-Discord-Alternative-TeamSpeak-Server-selbst-hosten-c-t-3003-11278758.html"
     },
     {
-      "title": "VideoWir haben Lichtschwert-Training ausprobiert",
-      "teaser": "Kämpfen wie in Star Wars? Das ist kein Nerd-Traum mehr, sondern geht wirklich – nämlich beim LudoSport. Wir haben den Verein besucht.",
-      "url": "https://www.heise.de/news/Video-Wir-haben-Lichtschwert-Training-ausprobiert-11277850.html"
+      "title": "c’t-Webinar: KI-Schreibwerkzeuge geschickt wählen und effizient einsetzen",
+      "teaser": "Das Webinar bietet Orientierung im KI-Dschungel: Finden Sie die zu Ihren Anforderungen passenden Anwendungen und setzen Sie diese souverän und zielführend ein.",
+      "url": "https://www.heise.de/news/c-t-Webinar-KI-Schreibwerkzeuge-geschickt-waehlen-und-effizient-einsetzen-11276084.html",
+      "image_title": "Illustration eines Roboters, der auf einen Computerbildschirm mit Text und Chatblasen zeigt"
     },
     {
-      "title": "c’t uplinkWie uns das Smartphone in den Bann zieht",
-      "teaser": "Wo fängt eine Smartphone-Sucht an und wie funktionieren Dark Patterns und Social-Media-Algorithmen?",
-      "url": "https://www.heise.de/news/Wie-uns-das-Smartphone-in-den-Bann-zieht-c-t-uplink-11278738.html"
+      "title": "Als Festplatten noch riesig warenDie Quantum Bigfoot wird 30 Jahre alt",
+      "teaser": "Quantums 5,25-Zoll-Festplatte Bigfoot sollte ein sterbendes Format retten, scheiterte damit aber krachend.",
+      "url": "https://www.heise.de/news/Als-Festplatten-noch-riesig-waren-Die-Quantum-Bigfoot-wird-30-Jahre-alt-11278133.html",
+      "image_title": "Eine Quantum-Bigfoot-Festplatte auf einem Tisch"
     },
     {
       "title": "Apple Watch vs. Brustgurt: Wie genau ist die Apple-Uhr beim Sport?",
@@ -655,16 +657,15 @@
       "image_title": ", Jorge, stock.adobe.com / heise medien"
     },
     {
-      "title": "NeatPass fürs iPhone im Test: Eintritt, bitte!",
-      "teaser": "Für weniger PDF-Papierkram: NeatPass überträgt Tickets und Fahrausweise in die Wallet-App von Apple.",
-      "url": "https://www.heise.de/tests/NeatPass-fuers-iPhone-im-Test-Eintritt-bitte-11253677.html",
-      "image_title": "NeatPass wandelt zu Wallet-Pässen um"
-    },
-    {
       "title": "Sport-Apps für die Apple Watch: Dran bleiben, fit bleiben",
       "teaser": "Bewegung soll Spaß machen, ob zu Hause, im Fitnessstudio oder draußen. Apps für die Apple Watch helfen beim Einstieg. Sechs Empfehlungen.",
       "url": "https://www.heise.de/tests/Sport-Apps-fuer-die-Apple-Watch-Dran-bleiben-fit-bleiben-11253663.html",
       "image_title": ", Sebastian Trepesch / heise medien"
+    },
+    {
+      "title": "Nachgemessen: So schlagen sich Apples MacBook Pro gegen starke Windows-Notebooks",
+      "teaser": "Je ein MacBook Pro mit M5 Pro und Max treten gegen die Windows-Konkurrenz an. Unser Test zeigt, wo Apple Chips von AMD, Intel, Nvidia und Qualcomm abhängt.",
+      "url": "https://www.heise.de/tests/Nachgemessen-So-schlagen-sich-Apples-MacBook-Pro-gegen-starke-Windows-Notebooks-11168623.html"
     },
     {
       "title": "IoT-ProjekteESP-Claw bringt KI-Agenten direkt auf den ESP32",
@@ -685,12 +686,6 @@
       "image_title": "KI Bild aber wir machen es lieber selbst."
     },
     {
-      "title": "Fototour Breslau: Filmlooks, Licht und starke Motive abseits der Touristenpfade",
-      "teaser": "Zwischen Rynek, Dominsel und Nebenstraßen: Mit Blick für Licht, Struktur und Wetter entstehen stimmungsvolle Bilder.",
-      "url": "https://www.heise.de/ratgeber/Fototour-Breslau-Filmlooks-Licht-und-starke-Motive-abseits-der-Touristenpfade-11225373.html",
-      "image_title": ", Alle Bilder: Thomas Kakareko"
-    },
-    {
       "title": "Photoshop und LightroomObjektdrehung und Aufräumhilfe mit KI",
       "teaser": "Adobe stattet Photoshop mit der Funktion „Objekt drehen“ und anderen Neuheiten aus. Lightroom kommt mit verbesserter Suche.",
       "url": "https://www.heise.de/news/Adobe-Photoshop-und-Lightroom-Objektdrehung-und-Aufraeumhilfe-mit-KI-11277099.html"
@@ -706,6 +701,12 @@
       "teaser": "„Man macht ein Foto auf dem Smartphone und dann bleibt das da“, sagt Redakteur Ansgar Kossowski nach einer Umfrage mit Menschen der Generation Z.",
       "url": "https://www.heise.de/news/Click-Boom-Flash-61-Wie-fotografiert-Generation-Z-Von-Bilderflut-bis-Polaroid-11271488.html",
       "image_title": "Smartphonefotografie"
+    },
+    {
+      "title": "L-Mount wächst, Mexikanerin gewinnt Sony-Award – Fotonews der Woche 17/2026",
+      "teaser": "Freefly tritt der L-Mount-Allianz bei, Leica und Gpixel basteln am Sensor, Citlali Fabián holt den Sony-Hauptpreis – und Harman investiert kräftig in Film.",
+      "url": "https://www.heise.de/news/L-Mount-waechst-Mexikanerin-gewinnt-Sony-Award-Fotonews-der-Woche-17-2026-11271492.html",
+      "image_title": "KI generiertes Bild von Menschen mit Kamera"
     },
     {
       "title": "EUDI-Wallet: Das ist der aktuelle Stand der digitalen europäischen Brieftasche",
@@ -726,6 +727,11 @@
       "image_title": ", Vanessa Bahr / iX"
     },
     {
+      "title": "UpdateSpritpreiseTankrabatt greift, voller Umfang am Wochenende erwartet",
+      "teaser": "Der Sprit ist im Bundesdurchschnitt schon etwas günstiger als noch am Donnerstag, der Rückgang ist aber kleiner als der Steuerrabatt.",
+      "url": "https://www.heise.de/news/Tankrabatt-greift-voller-Umfang-am-Wochenende-erwartet-11279152.html"
+    },
+    {
       "title": "Übernimmt iraelischer Rüstungskonzern?Zukunft des VW-Werks Osnabrück",
       "teaser": "Der israelische Rüstungskonzern Rafael möchte das Osnabrücker Volkswagen-Werk übernehmen, um Komponenten für das Flugabwehr-System „Iron Dome“ zu fertigen.",
       "url": "https://www.heise.de/news/Israelischer-Ruestungskonzern-zeigt-Interesse-an-VW-Werk-Osnabrueck-11278313.html",
@@ -744,28 +750,22 @@
       "image_title": "Volkswagenwerk Wolfsburg"
     },
     {
-      "title": "E-Autos sind zuverlässiger als VerbrennerADAC-Pannenstatistik",
-      "teaser": "Elektroautos bleiben sehr deutlich seltener liegen als gleich alte Autos mit Verbrennungsmotoren. Das zeigt die aktuelle Pannenstatistik des ADAC.",
-      "url": "https://www.heise.de/news/ADAC-Pannenstatistik-E-Autos-sind-zuverlaessiger-als-Verbrenner-11277772.html",
-      "image_title": "Elektroauto Fiat 500e Cabrio"
+      "title": "China testet mobilen 10-Megawatt-Kernreaktor auf einem Lkw",
+      "teaser": "Chinesische Forscher entwickelten kompakten Nuklearreaktor auf Lkw, der jahrzehntelang ohne Brennstoffwechsel Strom liefern soll.",
+      "url": "https://www.heise.de/article/China-testet-mobilen-10-Megawatt-Kernreaktor-auf-einem-Lkw-11278474.html",
+      "image_title": "Ein gelber Lkw transportiert einen mobilen Kernreaktor zu einem Datenzentrum."
     },
     {
-      "title": "Können Bienen wirklich zählen? Neue Studie stärkt These der Zahlenkognition",
-      "teaser": "Eine internationale Forschungsgruppe hat eine methodische Schwachstelle in früheren Experimenten identifiziert – und kommt zu überraschenden Ergebnissen.",
-      "url": "https://www.heise.de/article/Koennen-Bienen-wirklich-zaehlen-Neue-Studie-staerkt-These-der-Zahlenkognition-11275047.html",
-      "image_title": "Makroaufnahme eines Bienenstocks"
+      "title": "Eisen-Flow-Batterie aus China hält 6000 Zyklen ohne Kapazitätsverlust",
+      "teaser": "Chinesische Forscher präsentieren eine Eisen-Flow-Batterie, die 6000 Zyklen ohne Kapazitätsverlust übersteht. Das Rohmetall kostet 80-mal weniger als Lithium.",
+      "url": "https://www.heise.de/article/Eisen-Flow-Batterie-aus-China-haelt-6000-Zyklen-ohne-Kapazitaetsverlust-11275350.html",
+      "image_title": "Reihen von großen weißen Batteriemodulen mit Lüftern an den Seiten."
     },
     {
       "title": "Ratten der Lüfte? Warum Stadttauben mehr Respekt verdienen",
       "teaser": "Stadttauben gelten als Plage – doch sie sind intelligent, geschichtsreich und ihr schlechtes Image hat einen überraschenden Grund.",
       "url": "https://www.heise.de/article/Ratten-der-Luefte-Warum-Stadttauben-mehr-Respekt-verdienen-11277714.html",
       "image_title": "Zwei Tauben"
-    },
-    {
-      "title": "Bye bye Timmy: Praktizierte Tierliebe im Anthropozän",
-      "teaser": "Tierschutz zwischen Klimakrise und Ideologie: Ein Buckelwal, viele Deutungen – wie rechte Narrative, Aktivismus und ökologische Realität aufeinandertreffen.",
-      "url": "https://www.heise.de/article/Bye-bye-Timmy-Praktizierte-Tierliebe-im-Anthropozaen-11279539.html",
-      "image_title": "Ein Buckelwal unter Wasser"
     },
     {
       "title": "KI am Wendepunkt: Warum Claude Code der Industrie das Genick brechen könnte",
