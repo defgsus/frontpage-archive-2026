@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T16:34:24",
+  "timestamp": "2026-05-03T17:37:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "OpenAI trackt in den USA per Cookies für personalisierte Werbung",
+      "teaser": "ChatGPT und andere Dienste teilen jetzt die Daten von US-Nutzern mit Werbetreibenden. Auch für mehr Werbung in den eigenen Apps.",
+      "url": "https://www.heise.de/news/OpenAI-trackt-in-den-USA-per-Cookies-fuer-personalisierte-Werbung-11279629.html",
+      "image_title": "ChatGPT-App auf einem Smartphone"
+    },
+    {
+      "title": "Anthropics aussichtsloser Kampf gegen den Leak von Claude Code",
+      "teaser": "Ein menschlicher Fehler bei Anthropic enthüllt die Architektur autonomer KI-Agenten und löst eine hitzige Debatte über das Copyright an KI-generiertem Code aus.",
+      "url": "https://www.heise.de/news/Claude-Code-Leck-8100-Loeschantraege-und-die-Geburtsstunde-von-Claw-Code-11279601.html",
+      "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
+    },
+    {
       "title": "Tesla gibt zu: Hardware alter Modelle reicht nicht für vollautonomes Fahren",
       "teaser": "In einer Telefonkonferenz machte Tesla-Chef Elon Musk das Problem offiziell. Unter Tesla-Besitzern regt sich Widerstand.",
       "url": "https://www.heise.de/news/Tesla-gibt-zu-Hardware-alter-Modelle-reicht-nicht-fuer-vollautonomes-Fahren-11279583.html",
@@ -30,17 +42,6 @@
       "teaser": "Ein KI-Agent löschte Produktionsdaten bei PocketOS und lieferte ein detailliertes Geständnis.",
       "url": "https://www.heise.de/news/KI-Agent-loescht-Daten-Katastrophe-fuer-PocketOS-11279416.html",
       "image_title": "Eine Roboterhand auf einer Tastatur"
-    },
-    {
-      "title": "KI und Security: Jetzt noch Tickets für die Online-Konferenz sichern",
-      "teaser": "Am 11. Mai zeigt die Online-Konferenz, wie man sich gegen Angriffe auf KI-Anwendungen schützt und wie KI-Tools bei sicherer Softwareentwicklung helfen.",
-      "url": "https://www.heise.de/news/KI-und-Security-Jetzt-noch-Tickets-fuer-die-Online-Konferenz-sichern-11276120.html"
-    },
-    {
-      "title": "WTF: Microsoft erzwingt \"Co-Authored-by Copilot\" in Commits",
-      "teaser": "Wer seinen Code mithilfe von Copilot geschrieben hat, muss sich mit dem KI-Assistenten jetzt die Commit Message teilen, was sich aber deaktivieren lässt.",
-      "url": "https://www.heise.de/news/WTF-Microsoft-erzwingt-Co-Authored-by-Copilot-in-Commits-11279525.html",
-      "image_title": "Poznan,,Poland,-,June,6,,2025:,A,Close-up,View,Of"
     },
     {
       "title": "HintergrundMicrosoft: \"Viele schauen beim Thema Souveränität nur in eine Richtung\"",
@@ -55,6 +56,17 @@
     {
       "title": "TestsLenovo Yoga Slim 7x mit Qualcomms neuem Snapdragon X2 Elite X2E-80-100 im Test",
       "url": "https://www.heise.de/tests/Lenovo-Yoga-Slim-7x-mit-Qualcomms-neuem-Snapdragon-X2-Elite-X2E-80-100-im-Test-11230018.html"
+    },
+    {
+      "title": "KI und Security: Jetzt noch Tickets für die Online-Konferenz sichern",
+      "teaser": "Am 11. Mai zeigt die Online-Konferenz, wie man sich gegen Angriffe auf KI-Anwendungen schützt und wie KI-Tools bei sicherer Softwareentwicklung helfen.",
+      "url": "https://www.heise.de/news/KI-und-Security-Jetzt-noch-Tickets-fuer-die-Online-Konferenz-sichern-11276120.html"
+    },
+    {
+      "title": "WTF: Microsoft erzwingt \"Co-Authored-by Copilot\" in Commits",
+      "teaser": "Wer seinen Code mithilfe von Copilot geschrieben hat, muss sich mit dem KI-Assistenten jetzt die Commit Message teilen, was sich aber deaktivieren lässt.",
+      "url": "https://www.heise.de/news/WTF-Microsoft-erzwingt-Co-Authored-by-Copilot-in-Commits-11279525.html",
+      "image_title": "Poznan,,Poland,-,June,6,,2025:,A,Close-up,View,Of"
     },
     {
       "title": "Gehäuse für M.2-SSD: Ugreen CM559 im Test – hochwertig, schnell, günstig",
@@ -127,17 +139,6 @@
       "title": "Top 10: Der beste Mähroboter im Test",
       "teaser": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das noch einfacher.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Pentagon besiegelt Verträge mit sieben KI-Anbietern",
-      "teaser": "Neue Vereinbarungen mit sieben KI-Anbietern sollen Modelle in die operative Praxis des US-Verteidigungsministeriums integrieren. Anthropic fehlt auf der Liste.",
-      "url": "https://www.heise.de/news/Pentagon-schliesst-KI-Deals-mit-sieben-Unternehmen-11279268.html",
-      "image_title": "Arlington,County,,Virginia,,United,States,Of,America,-,September,13,"
-    },
-    {
-      "title": "Signal-Angriffe: Politische Realität beißt den IT-Admin",
-      "teaser": "Erfolgreiche Phishing-Attacken auf Signal zeigen: Politik ist kein Konzern. Die IT-Strukturen im Bundestag sind komplex und durch das freie Mandat begrenzt.",
-      "url": "https://www.heise.de/hintergrund/Signal-Angriffe-Politische-Realitaet-beisst-den-IT-Admin-11278948.html"
     },
     {
       "title": "AlertNews„Copy Fail“: Linux-root in allen großen Distributionen mit 732 Byte Python",
