@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-04T12:15:56",
+  "timestamp": "2026-05-04T15:00:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,16 +20,16 @@
   ],
   "articles": [
     {
+      "title": "Vorfall bei DigiCertMalware-Autoren klauten Zertifikate",
+      "teaser": "Zuerst infizierten Kriminelle Kundendienstmitarbeiter mit Schadsoftware, dann stahlen sie Zertifikate. Die CA hat reagiert.",
+      "url": "https://www.heise.de/news/Nach-Malware-Angriff-Kriminelle-nutzten-Codesigning-Zertifikate-von-DigiCert-11280757.html",
+      "image_title": "Man tippt auf Warnsymbol auf Bildschirm"
+    },
+    {
       "title": "AlertLinux-Lücke„Copy Fail“ wird bereits angegriffen",
       "teaser": "Vor dem Wochenende wurde die Linux-Lücke „Copy Fail“ bekannt, die Angreifern root-Rechte verschafft. Die wird bereits attackiert.",
       "url": "https://www.heise.de/news/Linux-Luecke-Copy-Fail-wird-bereits-angegriffen-11279850.html",
       "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
-    },
-    {
-      "title": "AlertNetzwerkanalysetool WiresharkZahlreiche Sicherheitslücken geschlossen",
-      "teaser": "In zwei aktuellen Versionen von Wireshark haben die Entwickler mehrere Schwachstellen geschlossen.",
-      "url": "https://www.heise.de/news/Netzwerkanalysetool-Wireshark-Zahlreiche-Sicherheitsluecken-geschlossen-11280168.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "AlertUpdateAnonymisierendes Linux Tails: Notfallupdate auf Version 7.7.2",
@@ -49,6 +49,12 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "Bösartige npm-Pakete: SAP-Software kompromittiert",
+      "teaser": "Mehrere npm-Pakete von SAP waren einer Supply‑Chain‑Attacke ausgesetzt. Dahinter steckt die Hackergruppe TeamPCP, sagen Sicherheitsforscher.",
+      "url": "https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html",
+      "image_title": "PC im Vordergrund, brennende Server im Hintergrund"
+    },
+    {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11272689.html",
@@ -65,6 +71,12 @@
       "teaser": "Das anonymisierende Linux Tails schließt in Version 7.7.2 unter anderem die „Copy Fail“- und Firefox-Sicherheitslücken im Tor-Browser.",
       "url": "https://www.heise.de/news/Tails-7-7-1-Notfallupdate-fuer-anonymisierendes-Linux-stopft-Firefox-Lecks-11280198.html",
       "image_title": "Desktop von Tails 7.7.1 auf Notebook"
+    },
+    {
+      "title": "AlertNetzwerkanalysetool Wireshark: Zahlreiche Sicherheitslücken geschlossen",
+      "teaser": "In zwei aktuellen Versionen von Wireshark haben die Entwickler mehrere Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Netzwerkanalysetool-Wireshark-Zahlreiche-Sicherheitsluecken-geschlossen-11280168.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "AlertcPanel/WHM: Bereits 4000 Instanzen in Deutschland attackiert",
@@ -130,18 +142,6 @@
       "teaser": "Eine kritische Schwachstelle bedroht cPanel und WebHost Manager. Reparierte Versionen stehen zum Download bereit.",
       "url": "https://www.heise.de/news/cPanel-WHM-Unbefugte-Zugriffe-auf-Webserver-Konfigurationstool-moeglich-11277580.html",
       "image_title": "Eine ANzeige \"IP\" mit leuchtenden Rahmen und Verbindungen"
-    },
-    {
-      "title": "AlertSonicWall SonicOS: Sicherheitslücke erlaubt Management-Interface-Zugriff",
-      "teaser": "SonicWall warnt vor drei Sicherheitslücken in SonicOS. Angreifer können etwa unbefugt auf einige Management-Interface-Funktionen zugreifen.",
-      "url": "https://www.heise.de/news/SonicWall-SonicOS-Sicherheitsluecke-erlaubt-Management-Interface-Zugriff-11277522.html",
-      "image_title": "Sonicwall-Applainces der SMA100-Reihe"
-    },
-    {
-      "title": "Digitale Rasterfahndung: Regierung stimmt für Biometrie-Abgleich und KI-Analysen",
-      "teaser": "Die Bundesregierung will BKA und Bundespolizei die automatisierte Rasterfahndung im Netz erlauben. Kritiker warnen vor Massenüberwachung.",
-      "url": "https://www.heise.de/news/Digitale-Rasterfahndung-Regierung-stimmt-fuer-Biometrie-Abgleich-und-KI-Analysen-11276905.html",
-      "image_title": "Halbes Gesicht einer weißen Frau, darüber gelegt symbolische Rasterung"
     },
     {
       "title": "Workshop | 20. – 21.5.2026M365 Forensik und Incident Response: Angriffe erkennen, eindämmen & untersuchen",
