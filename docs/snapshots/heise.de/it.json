@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T04:50:55",
+  "timestamp": "2026-05-05T07:09:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,55 @@
     }
   ],
   "articles": [
+    {
+      "title": "AlertMicrosoft Edge: Passwörter landen als Klartext im Speicher",
+      "teaser": "Der Edge-Passwort-Manager wirkt sicher: Verschlüsselte Speicherung, von Windows Hello gesichert. Im Speicher liegt aber Klartext.",
+      "url": "https://www.heise.de/news/Microsoft-Edge-Passwoerter-landen-als-Klartext-im-Speicher-11281407.html",
+      "image_title": "MS-Edge-Logo neben Speicherauszug vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "UpdateKaufberatungKaufberatung: Welchen Mac brauche ich?",
+      "teaser": "MacBook, Mac mini oder Mac Studio? Wie viel RAM, welche SSD-Größe und welches Display? Wir stellen Apples Modellpalette vor und geben Tipps zu Gebrauchten.",
+      "url": "https://www.heise.de/hintergrund/Kaufberatung-Welchen-Mac-brauche-ich-11253696.html",
+      "image_title": "Öffnung einer MacBook-Air-Verpackung"
+    },
+    {
+      "title": "Software Testing: Sicherheitstests für KI-Systeme",
+      "teaser": "Was macht KI-Systeme angreifbar? Ein Überblick über Sicherheitslücken, manipulierte Trainingsdaten und wirksame Tests wie Penetrationstests.",
+      "url": "https://www.heise.de/blog/Software-Testing-Sicherheitstests-fuer-KI-Systeme-11255639.html",
+      "image_title": "Software Testing:Sicherheitstests für KI Systeme"
+    },
+    {
+      "title": "Vimeo-Datenleck: 119.000 E-Mail-Adressen betroffen",
+      "teaser": "Die Cybergang ShinyHunters hat Daten von Vimeo bei Anodot gestohlen und ins Darknet gestellt. Nun hat Have-I-Been-Pwned sie aufgenommen.",
+      "url": "https://www.heise.de/news/Vimeo-Datenleck-119-000-E-Mail-Adressen-betroffen-11281379.html",
+      "image_title": "Ausschnitt einer hellgrauen Computertastatur bei der die rechte Feststelltaste durch eine grüne Taste mit Aufschrift \"Leak\" ausgetauscht ist"
+    },
+    {
+      "title": "RatgeberXbox-Games streamen: So geht's auf Apple-Geräten",
+      "url": "https://www.heise.de/ratgeber/Xbox-Games-streamen-So-geht-s-auf-Apple-Geraeten-11280106.html",
+      "image_title": "Xbox-Game-Controller"
+    },
+    {
+      "title": "HintergrundSovereignty Washing: Wie man Cloud-Souveränität wirklich bewertet",
+      "url": "https://www.heise.de/hintergrund/Sovereignty-Washing-Wie-man-Cloud-Souveraenitaet-wirklich-bewertet-11280154.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "HintergrundAgentic Commerce: Wer haftet, wenn KI einkauft?",
+      "url": "https://www.heise.de/hintergrund/Agentic-Commerce-Wer-haftet-wenn-KI-einkauft-11184822.html"
+    },
+    {
+      "title": "Kinderschutz: New Mexico fordert Milliardenstrafe und App-Anpassungen von Meta",
+      "teaser": "In New Mexico hat der zweite Teil eines Verfahrens gegen Meta begonnen, in dem es um die Schädigung von Minderjährigen geht. Die Forderungen sind weitreichend.",
+      "url": "https://www.heise.de/news/Kinderschutz-New-Mexico-fordert-Milliardenstrafe-und-App-Anpassungen-von-Meta-11281373.html",
+      "image_title": "Meta-Logo und -Schriftzug auf Smartphone, das auf Tastatur liegt."
+    },
+    {
+      "title": "Eine Konferenz ganz im Zeichen von Data, Analytics und AI",
+      "teaser": "Ob Business- oder Data-Analyst, im Fachbereich oder der IT, ob Data Scientist oder in Leitungsfunktion: Neue Trends, Learnings und spannende Anwendungsfälle.",
+      "url": "https://www.heise.de/news/Eine-Konferenz-ganz-im-Zeichen-von-Data-Analytics-und-AI-11280258.html"
+    },
     {
       "title": "OpenAI und Anthropic gründen milliardenschwere Joint Ventures",
       "teaser": "Für den Vertrieb von KI-Tools an Unternehmen verbünden sich OpenAI und Anthropic mit finanzstarken Private-Equity-Firmen und sammeln sie viel Geld ein.",
@@ -42,20 +91,6 @@
       "teaser": "Mehrere npm-Pakete von SAP waren einer Supply‑Chain‑Attacke ausgesetzt. Dahinter steckt die Hackergruppe TeamPCP, sagen Sicherheitsforscher.",
       "url": "https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html",
       "image_title": "SAP Firmenschild"
-    },
-    {
-      "title": "UpdateHintergrundKaufberatung: Welchen Mac brauche ich?",
-      "url": "https://www.heise.de/hintergrund/Kaufberatung-Welchen-Mac-brauche-ich-11253696.html",
-      "image_title": "Öffnung einer MacBook-Air-Verpackung"
-    },
-    {
-      "title": "RatgeberSo bootet Windows per UEFI",
-      "url": "https://www.heise.de/ratgeber/So-bootet-Windows-per-UEFI-11243133.html"
-    },
-    {
-      "title": "RatgeberActive Directory absichern mit Open-Source-Tools",
-      "url": "https://www.heise.de/ratgeber/Active-Directory-absichern-mit-Open-Source-Tools-11241794.html",
-      "image_title": ", Cathrin Kapell / iX"
     },
     {
       "title": "Vorfall bei DigiCert: Malware-Autoren klauten Zertifikate",
@@ -110,41 +145,6 @@
       "teaser": "Der Verantwortliche der Mac-Portierung von Notepad++ ist offenbar über das Ziel hinausgeschossen. Ein neuer Name soll den Streit mit Entwickler Don Ho beilegen.",
       "url": "https://www.heise.de/news/Marke-verletzt-Warum-der-Notepad-Entwickler-bei-der-Mac-Version-rot-sieht-11280294.html",
       "image_title": "Bildschirmfoto des Mac-Editors auf Grundlage von Notepad++"
-    },
-    {
-      "title": "Nach jahrelanger Blockade: Quelloffenes HDMI 2.1 kommt endlich für Linux",
-      "teaser": "Ein AMD-Entwickler kündigt vollwertiges HDMI 2.1 für den Linux-Open-Source-Treiber an. Auch für den Nouveau-Treiber gibt es eine erste Implementierung.",
-      "url": "https://www.heise.de/news/Quelloffenes-HDMI-2-1-kommt-endlich-fuer-Linux-11280232.html",
-      "image_title": "Mehrere Grafikkarten nebeneinander aufgestellt"
-    },
-    {
-      "title": "AlertNetzwerkanalysetool Wireshark: Zahlreiche Sicherheitslücken geschlossen",
-      "teaser": "In zwei aktuellen Versionen von Wireshark haben die Entwickler mehrere Schwachstellen geschlossen.",
-      "url": "https://www.heise.de/news/Netzwerkanalysetool-Wireshark-Zahlreiche-Sicherheitsluecken-geschlossen-11280168.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
-      "title": "X: SPD, Grüne und Linke verabschieden sich (wieder) von Kurznachrichtendienst",
-      "teaser": "Mit gleichlautenden Stellungnahmen legen die SPD, die Grünen und die Linke große Konten auf X still. Für die SPD ist es schon der zweite Anlauf.",
-      "url": "https://www.heise.de/news/X-SPD-Gruene-und-Linke-verabschieden-sich-wieder-von-Kurznachrichtendienst-11279966.html",
-      "image_title": "X-Logo auf einem Smartphone"
-    },
-    {
-      "title": "OpenReception 1.0: Open-Source-Terminverwaltung für Arztpraxen ist fertig",
-      "teaser": "Mit OpenReception 1.0 steht eine quelloffene Terminverwaltung bereit – als datenschutzfreundliche Alternative für Praxen und Patienten.",
-      "url": "https://www.heise.de/news/OpenReception-1-0-Open-Source-Terminverwaltung-fuer-Arztpraxen-ist-fertig-11277708.html",
-      "image_title": "Close-up von einem Arzt, der ein Termin-Tool nutzt. Darauf deuten der Stift und das Tablet hin, neben dem sich ein virtueller Terminplan befindet."
-    },
-    {
-      "title": "Ethical Hacking für Fortgeschrittene – sich selbst hacken, bevor es andere tun",
-      "teaser": "In fünf Terminen lernen Admins und IT-Security-Verantwortliche ab dem 9. Juni, ihre eigenen Systeme zu hacken, um sich effektiv vor Angriffen zu schützen.",
-      "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Fortgeschrittene-sich-selbst-hacken-bevor-es-andere-tun-11276303.html"
-    },
-    {
-      "title": "Android Auto: Instabile Verbindungen seit Android-16-Updates",
-      "teaser": "Wenn es häufiger zu Verbindungsabbrüchen in Android Auto mit Samsung- oder Pixel-Smartphones kommt, könnte Android 16 der Auslöser sein.",
-      "url": "https://www.heise.de/news/Android-Auto-Instabile-Verbindungen-seit-Android-16-Updates-11279931.html",
-      "image_title": "Android-Auto-Logo vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "NewsNeuer Antrieb für Marsmission: NASA erreicht Rekordleistung",
