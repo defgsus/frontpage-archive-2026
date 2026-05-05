@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T07:09:33",
+  "timestamp": "2026-05-05T09:49:30",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,26 +20,28 @@
   ],
   "articles": [
     {
+      "title": "„Star Wars“: Bastler baut C-3PO-KI-Kopf mit Raspberry Pi",
+      "teaser": "So mancher „Star Wars“-Fan würde wohl gerne mal mit dem Protokolldroiden C-3PO sprechen. Der Student Samuel Potozkin hat sich diesen Traum erfüllt.",
+      "url": "https://www.heise.de/news/Star-Wars-Bastler-baut-C-3PO-Kopf-mit-KI-auf-Raspberry-Pi-11281693.html",
+      "image_title": "Samuel Potozkin und der KI-Droidenkopf von C-3PO."
+    },
+    {
+      "title": "2002 XV₉₃Überraschender Hinweis auf Atmosphäre bei transneptunischem Objekt",
+      "teaser": "Als ein Himmelskörper am Rand des Sonnensystems vor einem Stern vorüberglitt, wurden unerwartete Hinweise auf eine Atmosphäre entdeckt.",
+      "url": "https://www.heise.de/news/Ueberraschender-Hinweis-auf-Atmosphaere-bei-transneptunischem-Objekt-2002-XV-11281683.html",
+      "image_title": "Ein runder Himmelskörper, im Hintergrund mehrfach ein Stern, der in dessen Nähe dunkler ist."
+    },
+    {
+      "title": "Exoplaneten: Außer Supererden unerwartet wenige Sub-Neptune bei Roten Zwergen",
+      "teaser": "Die meisten Sterne in der Milchstraße sind Rote Zwerge. Welche Exoplaneten es dort gibt, war schwierig herauszufinden. Nun gibt es eine unerwartete Entdeckung.",
+      "url": "https://www.heise.de/news/Exoplaneten-Ausser-Supererden-unerwartet-wenige-Sub-Neptune-bei-Roten-Zwergen-11280164.html",
+      "image_title": "Eine gleichmäßig blaue Kugel, im Hintergrund ein gelber Stern und dahinter der Sternenhimmel"
+    },
+    {
       "title": "Von weich zu starr: Y-Reißverschluss ermöglicht Änderung der Objektsteifigkeit",
       "teaser": "Das MIT hat eine rund 40 Jahre alte Technik verfeinert, um flexible Objekte in einen starren Zustand zu überführen. Der Y-Zipper kommt aus dem 3D-Drucker.",
       "url": "https://www.heise.de/news/Von-weich-zu-starr-Y-Reissverschluss-ermoeglicht-Aenderung-der-Objektsteifigkeit-11281401.html",
       "image_title": "Mann baut Zelt mit Y-Zipper auf."
-    },
-    {
-      "title": "Einfach und günstig mit HaustechnikSolarstrom im Campervan",
-      "teaser": "Sonnenstrom im Camper wird noch günstiger, wenn man Haustechnik verwendet. Wir stellen eine übliche und eine besonders günstige Lösung mit Solargenerator vor.",
-      "url": "https://www.heise.de/ratgeber/Solarstrom-im-Campervan-So-einfach-und-guenstig-kann-es-gehen-11273051.html"
-    },
-    {
-      "title": "Herkömmliche Wettermodelle sagen Wetter mit Rekordwerten besser voraus als KI",
-      "teaser": "KI-Modelle können das Wetter inzwischen sehr präzise voraussagen. Bei Extremereignissen mit Rekordwerten haben sie jedoch Schwächen - aus naheliegenden Gründen.",
-      "url": "https://www.heise.de/news/Herkoemmliche-Wettermodelle-sagen-Extremereignisse-besser-voraus-als-KI-Modelle-11281091.html",
-      "image_title": "Temperaturanomalien während der Rekordhitzewelle in Sibirien im Jahr 2020"
-    },
-    {
-      "title": "KI-Update kompakt: Anthropic, Gehirnforschung, KI-Vorsprung, Erdős-Problem",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-Anthropic-Gehirnforschung-KI-Vorsprung-Erd-s-Problem-11280116.html"
     },
     {
       "title": "RatgeberSolarstrom im Campervan: So einfach und günstig kann es gehen",
@@ -52,6 +54,17 @@
     {
       "title": "HintergrundBrennende E-Autos: So löscht die Feuerwehr wirklich",
       "url": "https://www.heise.de/hintergrund/Brennende-E-Autos-So-loescht-die-Feuerwehr-wirklich-11277930.html"
+    },
+    {
+      "title": "Herkömmliche Wettermodelle sagen Wetter mit Rekordwerten besser voraus als KI",
+      "teaser": "KI-Modelle können das Wetter inzwischen sehr präzise voraussagen. Bei Extremereignissen mit Rekordwerten haben sie jedoch Schwächen - aus naheliegenden Gründen.",
+      "url": "https://www.heise.de/news/Herkoemmliche-Wettermodelle-sagen-Extremereignisse-besser-voraus-als-KI-Modelle-11281091.html",
+      "image_title": "Temperaturanomalien während der Rekordhitzewelle in Sibirien im Jahr 2020"
+    },
+    {
+      "title": "KI-Update kompakt: Anthropic, Gehirnforschung, KI-Vorsprung, Erdős-Problem",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Anthropic-Gehirnforschung-KI-Vorsprung-Erd-s-Problem-11280116.html"
     },
     {
       "title": "UpdateLadetarife für Elektroautos im Vergleich",
@@ -126,18 +139,6 @@
       "teaser": "In der Schweiz haben Forscher künstlich ein Erdbeben erzeugt. Mit den so gewonnenen Daten sollen sich Erdbeben besser verstehen und vorhersagen lassen.",
       "url": "https://www.heise.de/news/Forscher-erzeugen-Erdbeben-in-den-Alpen-11276502.html",
       "image_title": "Versuchsaufbau im BedrettoLab für das künstliche Erdbeben"
-    },
-    {
-      "title": "Ausgang von Schachturnieren mit Monte-Carlo-Simulation bestimmen",
-      "teaser": "Mit einer Monte-Carlo-Simulation kann man Pi durch das Werfen von Nadeln bestimmen oder die Wahrscheinlichkeiten für den Ausgang eines Schachturniers berechnen.",
-      "url": "https://www.heise.de/hintergrund/Ausgang-von-Schachturnieren-mit-Monte-Carlo-Simulation-bestimmen-11259108.html",
-      "image_title": "Viele Nägel fallen auf ein Schachbrett."
-    },
-    {
-      "title": "KI löst 60 Jahre altes Mathe-Problem mit neuem Ansatz",
-      "teaser": "Ein 23-jähriger Laie hat mit einem Prompt an GPT-5.4 Pro das offene Erdős-Problem #1196 gelöst – Mathematiker sehen darin eine neue Qualität.",
-      "url": "https://www.heise.de/news/Kreativer-Loesungsweg-KI-loest-60-Jahre-altes-Erd-s-Problem-11275796.html",
-      "image_title": "Hand schreibt mathematische Formeln an die Tafel"
     },
     {
       "title": "NewsAnthropics aussichtsloser Kampf gegen den Leak von Claude Code",

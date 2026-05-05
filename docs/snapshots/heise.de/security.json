@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-05T07:09:35",
+  "timestamp": "2026-05-05T09:49:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "Vorfall bei DigiCertMalware-Autoren klauten Zertifikate",
-      "teaser": "Zuerst infizierten Kriminelle Kundendienstmitarbeiter mit Schadsoftware, dann stahlen sie Zertifikate. Die CA hat reagiert.",
-      "url": "https://www.heise.de/news/Nach-Malware-Angriff-Kriminelle-nutzten-Codesigning-Zertifikate-von-DigiCert-11280757.html",
-      "image_title": "Man tippt auf Warnsymbol auf Bildschirm"
+      "title": "AlertMicrosoft EdgePasswörter landen als Klartext im Speicher",
+      "teaser": "Der Edge-Passwort-Manager wirkt sicher: Verschlüsselte Speicherung, von Windows Hello gesichert. Im Speicher liegt aber Klartext.",
+      "url": "https://www.heise.de/news/Microsoft-Edge-Passwoerter-landen-als-Klartext-im-Speicher-11281407.html",
+      "image_title": "MS-Edge-Logo neben Speicherauszug vor Matrix-Regen-Hintergrund"
     },
     {
       "title": "AlertLinux-Lücke„Copy Fail“ wird bereits angegriffen",
@@ -32,9 +32,9 @@
       "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
     },
     {
-      "title": "AlertMicrosoft Edge: Passwörter landen als Klartext im Speicher",
-      "url": "https://www.heise.de/news/Microsoft-Edge-Passwoerter-landen-als-Klartext-im-Speicher-11281407.html",
-      "image_title": "MS-Edge-Logo neben Speicherauszug vor Matrix-Regen-Hintergrund"
+      "title": "AlertPatchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
     },
     {
       "title": "Frühbucher-Rabatt jetzt sichern!heise security Tour 2026",
@@ -49,10 +49,22 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertMicrosoft Edge: Passwörter landen als Klartext im Speicher",
-      "teaser": "Der Edge-Passwort-Manager wirkt sicher: Verschlüsselte Speicherung, von Windows Hello gesichert. Im Speicher liegt aber Klartext.",
-      "url": "https://www.heise.de/news/Microsoft-Edge-Passwoerter-landen-als-Klartext-im-Speicher-11281407.html",
-      "image_title": "MS-Edge-Logo neben Speicherauszug vor Matrix-Regen-Hintergrund"
+      "title": "AlertPatchday: Kritische Schadcode-Lücke bedroht Android 14, 15 und 16",
+      "teaser": "Schadcode kann durch ein fehlerhaftes Debugging-Modul auf Androidgeräte schlüpfen. Nun hat Google die kritische Schwachstelle geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecke-bedroht-Android-14-15-und-16-11281884.html",
+      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
+    },
+    {
+      "title": "Datenschutzvorfall bei Verlag Delius Klasing",
+      "teaser": "Der Verlag Delius Klasing räumt in einer E-Mail an Kunden einen IT-Vorfall ein. Personenbezogene Kundendaten wurden offengelegt.",
+      "url": "https://www.heise.de/news/Datenschutzvorfall-bei-Verlag-Delius-Klasing-11281800.html",
+      "image_title": "Logo des Delius Klasing Verlags vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "AlertSicherheitsupdate: Unbefugte Zugriffe auf MOVEit Automation möglich",
+      "teaser": "Unter anderem eine kritische Schwachstelle gefährdet die Dateiübertragungssoftware MOVEit Automation.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Unbefugte-Zugriffe-auf-MOVEit-Automation-moeglich-11281796.html",
+      "image_title": "Eine symbolische Updatetaste auf einer Tastatur."
     },
     {
       "title": "Vimeo-Datenleck: 119.000 E-Mail-Adressen betroffen",
@@ -65,6 +77,12 @@
       "teaser": "Mehrere npm-Pakete von SAP waren einer Supply‑Chain‑Attacke ausgesetzt. Dahinter steckt die Hackergruppe TeamPCP, sagen Sicherheitsforscher.",
       "url": "https://www.heise.de/news/Boesartige-npm-Pakete-SAP-Software-kompromittiert-11280683.html",
       "image_title": "SAP Firmenschild"
+    },
+    {
+      "title": "Vorfall bei DigiCert: Malware-Autoren klauten Zertifikate",
+      "teaser": "Zuerst infizierten Kriminelle Kundendienstmitarbeiter mit Schadsoftware, dann stahlen sie mehr als zwanzig Zertifikate. Die CA hat reagiert – Microsoft auch?",
+      "url": "https://www.heise.de/news/Nach-Malware-Angriff-Kriminelle-nutzten-Codesigning-Zertifikate-von-DigiCert-11280757.html",
+      "image_title": "Man tippt auf Warnsymbol auf Bildschirm"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -124,24 +142,6 @@
       "teaser": "Das beliebte Python-Paket zur Überwachung der Datenqualität war kurzzeitig als bösartige Version verfügbar. Anbieter Elementary rät umgehend zum Update.",
       "url": "https://www.heise.de/news/Script-Injection-und-Datenklau-Python-Datenanalyse-Tool-geknackt-11277938.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "Ab September: WhatsApp streicht Unterstützung für uralte Android-Versionen",
-      "teaser": "WhatsApp beendet den Support für uralte Smartphones mit Android-Versionen älter als 6.0. Der Stichtag ist der 8. September 2026.",
-      "url": "https://www.heise.de/news/Ab-September-WhatsApp-streicht-Unterstuetzung-fuer-uralte-Android-Versionen-11278189.html",
-      "image_title": "WhatsApp-Icon auf einem Smartphone-Bildschirm"
-    },
-    {
-      "title": "AlertProFTPD: Codeschmuggel durch mod_sql möglich",
-      "teaser": "Der FTP-Server ProFTPD bringt ein Modul mod_sql mit. Es enthält eine SQL-Injection-Schwachstelle, die am Ende zur Ausführung von untergejubeltem Code führt.",
-      "url": "https://www.heise.de/news/ProFTPD-Codeschmuggel-durch-mod-sql-moeglich-11277942.html",
-      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
-      "title": "Vimeo: Daten stehen nach Datenleck im Darknet zum Download",
-      "teaser": "Die Cybergang ShinyHunters bietet Vimeo-Daten, die sie über einen Anodot-Einbruch gestohlen haben, im Darknet zum Download an.",
-      "url": "https://www.heise.de/news/Vimeo-Cybergang-ShinyHunters-stellt-Daten-ins-Darknet-11277692.html",
-      "image_title": "Vimeo-Logo und ShinyHunters-Darknet-Drohung vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "Workshop | 20. – 21.5.2026M365 Forensik und Incident Response: Angriffe erkennen, eindämmen & untersuchen",
