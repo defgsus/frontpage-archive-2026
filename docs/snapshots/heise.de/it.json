@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-06T15:18:42",
+  "timestamp": "2026-05-06T17:19:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,26 @@
   ],
   "articles": [
     {
+      "title": "Nach dem AusfallProbleme mit .de-Domains: Was bisher bekannt ist",
+      "teaser": "Am Dienstag waren .de-Domains wegen DNSSEC-Fehlern nicht erreichbar. Einiges lässt sich rekonstruieren – noch schweigt die DENIC",
+      "url": "https://www.heise.de/news/Probleme-mit-de-Domains-Was-bisher-bekannt-ist-11284320.html",
+      "image_title": "Schlüssel, Sicherheit, DNS, DNSSEC"
+    },
+    {
+      "title": "Besuch in der SSD-Fabrik: Vom Chip-Wafer zum fertigen Speichermedium",
+      "teaser": "Der Hersteller Lexar zeigte uns, wie er NAND-Flash-Speicherchips aus einer Siliziumscheibe schneidet, sie testet und daraus SSDs und Speicherkarten baut.",
+      "url": "https://www.heise.de/hintergrund/Besuch-in-der-SSD-Fabrik-Vom-Chip-Wafer-zum-fertigen-Speichermedium-11210129.html"
+    },
+    {
       "title": "Souveräne KI aus Deutschland",
       "teaser": "STACKIT und neuland.ai wollen LLMs in europäischen Rechenzentren bereitstellen, um so strenge Compliance-Vorgaben zu erfüllen.",
       "url": "https://www.heise.de/news/Souveraene-KI-aus-Deutschland-11282692.html"
-    },
-    {
-      "title": "PowerPoint per Prompt: So erstellen Sie mit KI professionelle Folien ohne Frust",
-      "teaser": "ChatGPT kann Ihnen PowerPoint-Präsentationen generieren, die unternehmensinterne Layout-Vorgaben einhalten. Wir stellen einen passenden Workflow vor.",
-      "url": "https://www.heise.de/ratgeber/PowerPoint-per-Prompt-So-erstellen-Sie-mit-KI-professionelle-Folien-ohne-Frust-11282398.html",
-      "image_title": "KI-Illustration: Aus Texten und Icons erstellt ChatGPT eine Powerpoint-Präsentation."
     },
     {
       "title": "SPEC CPU 2026Wichtigster Server-CPU-Benchmark bekommt ein Update nach 9 Jahren",
       "teaser": "CPU-Designer satteln auf den Benchmark SPEC CPU 2026 um. Die neue Version läuft sogar auf einem Raspberry Pi.",
       "url": "https://www.heise.de/news/Wichtigster-Server-CPU-Benchmark-bekommt-ein-Update-nach-9-Jahren-11284408.html",
       "image_title": "Zwei Server nebeneinander"
-    },
-    {
-      "title": "US-Behörde soll KI-Modelle vor Veröffentlichung überprüfen",
-      "teaser": "In einem neuen Abkommen haben sich Google, Microsoft und xAI bereiterklärt, ihre KI-Modelle vorab von der US-Regierung prüfen zu lassen.",
-      "url": "https://www.heise.de/news/US-Behoerde-soll-KI-Modelle-vor-Veroeffentlichung-ueberpruefen-11284416.html",
-      "image_title": "US-Flagge vor Regierungsgebäude"
     },
     {
       "title": "TestsTeams-Alternativen: Diese Videokonferenz-Tools bietet der europäische Markt",
@@ -61,10 +60,21 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/buerostuhl-yaasa-chair-plus-im-test-ueberraschend-gut-und-bequem-fuer-200-euro/6rk0t7p?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
+      "title": "US-Behörde soll KI-Modelle vor Veröffentlichung überprüfen",
+      "teaser": "In einem neuen Abkommen haben sich Google, Microsoft und xAI bereiterklärt, ihre KI-Modelle vorab von der US-Regierung prüfen zu lassen.",
+      "url": "https://www.heise.de/news/US-Behoerde-soll-KI-Modelle-vor-Veroeffentlichung-ueberpruefen-11284416.html",
+      "image_title": "US-Flagge vor Regierungsgebäude"
+    },
+    {
       "title": "Darf sich ein Chatbot als Arzt ausgeben? Pennsylvania verklagt KI-Plattform",
       "teaser": "Character.AI sieht sich mit einer weiteren Klage konfrontiert. Sie wirft erneut die Grundsatzfrage auf, wer rechtlich für Aussagen von KI-Chatbots haftet.",
       "url": "https://www.heise.de/news/Darf-sich-ein-Chatbot-als-Arzt-ausgeben-Pennsylvania-verklagt-KI-Plattform-11284118.html",
       "image_title": "Character.AI-Logo auf einem Smartphone vor einem Laptop mit geöffneter Chatbot-Plattform."
+    },
+    {
+      "title": "Honor 600 Pro im Test: Smartphone mit exzellenter 200-MP-Kamera & Periskop-Tele",
+      "teaser": "Top-Kamera mit Periskop-Teleobjektiv und viel Power: Ist das Honor 600 Pro der starke Kompromiss zwischen Mittelklasse und High End für Foto-Fans?",
+      "url": "https://www.heise.de/bestenlisten/testbericht/honor-600-pro-im-test-smartphone-mit-exzellenter-200-mp-kamera-und-periskop-tele/cehpv7n?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "KI: SAP kauft Prior Labs und will über eine Milliarde investieren",
@@ -130,17 +140,6 @@
       "teaser": "Die Firewall-Distribution IPFire bringt mit Core Update 201 eine DNS Firewall mit, die unerwünschte Domains schon bei der Namensauflösung blockiert.",
       "url": "https://www.heise.de/news/IPFire-Neue-DNS-Firewall-soll-URL-Filter-und-Pi-hole-abloesen-11283482.html",
       "image_title": "Mehrere bunte Würfel mit Firewall-Symbolen, gestapelt und nebeneinander."
-    },
-    {
-      "title": "Google Chrome für Android: Ungefähren Standort teilen statt präziser Daten",
-      "teaser": "Google verpasst Chrome für Android eine neue Funktion, mit der Nutzer Webseiten auf Wunsch nur noch ihren ungefähren Standort mitteilen können.",
-      "url": "https://www.heise.de/news/Google-Chrome-fuer-Android-Ungefaehren-Standort-teilen-statt-praeziser-Daten-11283630.html",
-      "image_title": "App von Chrome in Nahaufnahme"
-    },
-    {
-      "title": "IT Summit 2026: heise-Konferenz zu Digitaler Souveränität",
-      "teaser": "Der Call for Proposals für den IT Summit 2026 läuft noch knapp zwei Wochen. Auf der heise-Konferenz geht es um Digitale Souveränität.",
-      "url": "https://www.heise.de/news/IT-Summit-2026-heise-Konferenz-zu-Digitaler-Souveraenitaet-11280290.html"
     },
     {
       "title": "NewsNeuer Antrieb für Marsmission: NASA erreicht Rekordleistung",
