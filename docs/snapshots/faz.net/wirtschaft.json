@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T05:19:55",
+  "timestamp": "2026-05-07T08:09:53",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -18,20 +18,20 @@
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
       "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://atonato.de/fazscr",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -42,65 +42,78 @@
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://www.faz.net/_nuxt/O05Lpn30.js",
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": "clever-push",
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/BEdAxtRF.js",
+      "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Wechsel im Währungsfonds: „Die alten Sektoren zu schützen, ist eine Verliererstrategie“",
-      "teaser": "Der Europadirektor des Internationalen Währungsfonds, Alfred Kammer, fordert Deutschland und die EU zu mehr Tempo auf: weniger Bürokratie und mehr Binnenmarkt. Nur so könne Europa die wachsende Wohlstandslücke zu den USA schließen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/iwf-europadirektor-die-alten-sektoren-zu-schuetzen-ist-eine-verliererstrategie-200789123.html"
+      "title": "FAZ+Bundessozialgericht urteilt: Kein Wechsel in die gesetzliche Krankenkasse",
+      "teaser": "Eine geringere Bezahlung während einer Wiedereingliederungsmaßnahme reicht nicht für die Rückkehr in die GKV. Das Bundessozialgericht bleibt bei seiner strengen Linie.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/kein-wechsel-in-die-gesetzliche-krankenkasse-200804458.html"
+    },
+    {
+      "title": "FAZ+Trotz Gewinneinbruch: „Nie zuvor haben wir in Europa so viele Auftragseingänge erzielt“",
+      "teaser": "Hohe Zölle in Amerika und ein schwaches Geschäft in China lassen den Umsatz und Gewinn von BMW erheblich schrumpfen. Aber der scheidende Chef hinterlässt eine zuversichtliche Botschaft.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bmw-chef-oliver-zipse-nie-zuvor-haben-wir-in-europa-so-viele-auftragseingaenge-erzielt-200803849.html",
+      "image_url": "https://media0.faz.net/image/w730/81dd7e72211e/w6020h3386x0y400/202603/43601.0.1871725381/hoffnungstraeger-bmw-chef.webp",
+      "image_title": "Hoffnungsträger: BMW-Chef Oliver Zipse glaubt, dass der vollelektrische BMW iX3 ein großer Erfolg für den Münchner Autohersteller wird."
+    },
+    {
+      "title": "FAZ+Gebäudemodernisierungsgesetz: Statt Wärmepumpe: Jetzt kommt die Bioheizung",
+      "teaser": "Neue Öl- und Gaskessel müssen künftig immer mehr Biobrennstoff verfeuern. Das treibt die Kosten im Heizungskeller. Entsorgt die Koalition zudem klammheimlich das Klimaziel 2045?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/gebaeudemodernisierungsgesetz-statt-waermepumpe-jetzt-kommt-die-bioheizung-200804164.html",
+      "image_url": "https://media0.faz.net/image/w730/3e877ab5df3e/w4252h2392x0y358/202202/43600.0.700383759/raus-damit-ein-heizkessel-aus.webp",
+      "image_title": "Raus damit! Ein Heizkessel aus den Sechzigerjahren"
+    },
+    {
+      "title": "Business-Ticker: Trotz Irankrieg überraschend viele neue Aufträge für Industrie",
+      "teaser": "Stockt der Staat bei der Commerzbank auf? +++ Gewinn von BMW bricht ein +++ Samsung erreicht Börsenwert von einer Billion Dollar +++ Biontech schließt Standorte und streicht bis zu 1860 Stellen +++ Neuigkeiten im Unternehmen-Liveblog.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-deutsche-industrie-erhaelt-trotz-irankrieg-ueberraschend-viele-auftraege-faz-200452404.html",
+      "image_url": "https://media0.faz.net/image/w730/6f491ebf5bde/w5269h2964x0y233/202603/43601.0.1875287083/kapazitaeten-sind-da.webp",
+      "image_title": "Kapazitäten sind da: Industrieunternehmen brauchen Aufträge, um ihre Fabriken auszulasten."
+    },
+    {
+      "title": "Podcast-Serie der F.A.Z.: Eine Legende kämpft ums Überleben",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-podcast-die-legende-volkswagen-kaempft-im-schicksalsjahr-2026-ums-ueberleben-faz-200799082.html",
+      "image_url": "https://media0.faz.net/image/w730/2df174284935/w1364h767x127y347/202605/43601.0.2046375129/4360102046375129.webp"
+    },
+    {
+      "title": "Satelliten und Drohnen fehlen: Europa braucht einen Kurs in moderner Selbstverteidigung",
+      "teaser": "Namhafte Ökonomen und Investoren legen in einem schonungslosen Papier Lücken der europäischen Verteidigung bloß. Was kostet es, diese zu schließen? Das Resultat überrascht.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/satelliten-und-drohnen-womit-europa-sich-selbst-verteidigen-koennte-accg-200805970.html",
+      "image_url": "https://media0.faz.net/image/w730/d1ee7d5116b1/w3000h1687x0y185/202507/43601.0.1145902828/chefsache-verteidigung.webp",
+      "image_title": "Chefsache Verteidigung: Bundeskanzler Friedrich Merz begutachtet Mini-Panzer des deutschen Startups ARX Robotics, die in der Ukraine zum Einsatz kommen."
+    },
+    {
+      "title": "FAZ+Kampf gegen Wohnungsnot: „Wir sollten wieder so bauen wie vor 20 Jahren“",
+      "teaser": "Der neue Baupräsident Olaf Demuth fordert eine Rückbesinnung auf radikal einfachere Baustandards, mit Ausnahmen nur für den Klimaschutz. Sein Motto: Anforderungen abspecken, damit es billiger wird.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bauprofi-olaf-demuth-erklaert-wie-sich-der-kampf-gegen-wohnungsnot-gewinnen-laesst-accg-200799223.html",
+      "image_url": "https://media0.faz.net/image/w730/ddbfe437737c/w8256h4644x0y450/202605/43601.0.2048889528/olaf-demuth-designierter.webp",
+      "image_title": "Olaf Demuth, designierter Präsident des Hauptverbandes der Deutschen Bauindustrie (HDB)"
     },
     {
       "title": "Lastwagenhersteller: Fatale Abhängigkeit für Daimler Truck",
       "teaser": "Auch wenn das Geschäft in den USA anzieht und die Speditionen wieder Lastwagen bestellen, ist die Abhängigkeit vom amerikanischen Markt für Daimler Truck gefährlich. Vor allem in Zeiten von US-Präsident Donald Trump.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fatale-abhaengigkeit-fuer-daimler-truck-200804670.html",
-      "image_url": "https://media0.faz.net/image/w730/e2817f77774b/w6500h3656x0y236/202605/43601.0.2052187954/daimler-truck-fabrik-in-mexiko.webp",
-      "image_title": "Daimler-Truck-Fabrik in Mexiko: Fatale Abhängigkeit vom amerikanischen Markt"
-    },
-    {
-      "title": "FAZ+Wolters Kluwer: KI bedroht das Geschäftsmodell – Anleger sind besorgt",
-      "teaser": "Stacey Caywood leitet den Informationskonzern seit Februar. Mit der F.A.Z. spricht sie über KI und den Kauf des Berliner Legaltech Libra. Nordamerika macht zwei Drittel des Geschäfts aus – doch einen Umzug dorthin verneint sie.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wolters-kluwer-ki-bedroht-das-geschaeftsmodell-anleger-sind-besorgt-200800447.html",
-      "image_url": "https://media0.faz.net/image/w730/ef2f64d2edd3/w6048h3402x0y531/202605/43601.0.2052352314/branchen-im-umbruch-wolters.webp",
-      "image_title": "Branchen im Umbruch: Wolters Kluwer will bei Anwälten, Bankern und Medizinern mit verlässlichen Fachinformationen und KI-Innovationen punkten."
-    },
-    {
-      "title": "Business-Ticker: Koalition denkt offenbar über Aufstockung bei Commerzbank nach",
-      "teaser": "Gewinn von BMW bricht ein +++ Samsung erreicht Börsenwert von einer Billion US-Dollar +++ US-Handelsdefizit steigt auf 60 Milliarden Dollar +++ Biontech schließt Standorte und streicht bis zu 1860 Stellen +++ Neuigkeiten im Unternehmen-Liveblog.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-koalition-denkt-offenbar-ueber-aufstockung-bei-commerzbank-nach-faz-200452404.html",
-      "image_url": "https://media0.faz.net/image/w730/948f6222441d/w5780h3251x0y301/202605/43601.0.2045249729/der-commerzbank-tower-in.webp",
-      "image_title": "Der Commerzbank-Tower in Frankfurt."
+      "image_url": "https://media0.faz.net/image/w100/f64c3ffd0e42/w464h464x268y88/202402/1.9537531/benjamin-wagener.webp",
+      "image_title": "Benjamin Wagener, Ravensburg"
     },
     {
       "title": "Vorgaben für Biobrennstoffe: Der Staat im Heizungskeller",
       "teaser": "Die Nutzung von mehr Biokraftstoffen ist ein Kompromiss. Nötig ist er nicht, der Markt verdrängt fossile Kessel auch so.",
       "url": "https://www.faz.net/aktuell/wirtschaft/biobrennstoffe-der-staat-im-heizungskeller-200805003.html",
-      "image_url": "https://media0.faz.net/image/w730/e78d9b4d155f/w8103h4558x0y826/202411/43601.0.700397066/so-koennte-die-zukunft.webp",
-      "image_title": "So könnte die Zukunft aussehen: Wasserstoffheizung mit Wasserspeichern"
-    },
-    {
-      "title": "FAZ+Döner: Frieden im Krispy-Kebab-Streit",
-      "teaser": "Eine Bielefelder Dönerkette streitet sich mit KFC. Am Ende inszenieren beide Seiten die Einigung auf Social Media – und aus dem Markenstreit wird eine Marketingkampagne. Ein Detail der Einigung bleibt jedoch offen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/doener-frieden-im-krispy-kebab-streit-200805773.html",
-      "image_url": "https://media0.faz.net/image/w730/f63aa50c7e31/w5622h3162x0y0/202604/43601.0.2004023881/zufrieden-ueber-beratung-durch.webp",
-      "image_title": "Zufrieden über Beratung durch KFC: der Bielefelder Döner-Unternehmer Sergen Kolcu"
-    },
-    {
-      "title": "Gebäudemodernisierungsgesetz: Statt Wärmepumpe: Jetzt kommt die Bioheizung",
-      "teaser": "Neue Öl- und Gaskessel müssen künftig immer mehr Biobrennstoff verfeuern. Das treibt die Kosten im Heizungskeller. Entsorgt die Koalition zudem klammheimlich das Klimaziel 2045?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/gebaeudemodernisierungsgesetz-statt-waermepumpe-jetzt-kommt-die-bioheizung-200804164.html",
-      "image_url": "https://media0.faz.net/image/w730/3e877ab5df3e/w4252h2392x0y358/202202/43600.0.700383759/raus-damit-ein-heizkessel-aus.webp",
-      "image_title": "Raus damit! Ein Heizkessel aus den Sechzigerjahren"
+      "image_url": "https://media0.faz.net/image/w100/9e0eaa327aa0/w432h432x271y73/201406/1.2973535/christian-geinitz.webp",
+      "image_title": "Christian Geinitz"
     },
     {
       "title": "Berufsbildungsbericht: Endstation Helferjob",
@@ -159,32 +172,18 @@
       "image_title": "Heike Göbel"
     },
     {
-      "title": "Irankrieg und Hormus-Blockade: Für Asien ist grüner Strom nicht Klimaschutz, sondern Sicherheit",
-      "teaser": "Von den Philippinen bis Pakistan schwenken die asiatischen Schwellenländer auf Sonnen- und Windkraft um. Klimaschutz ist jedoch nicht ihr Ansinnen, sondern etwas anderes.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/oelkrise-asiens-energiewende-200795977.html",
-      "image_url": "https://media0.faz.net/image/w100/38a013c01b2b/w470h470x232y87/201801/1.5348342/hendrik-ankenbrand.webp",
-      "image_title": "Hendrik Ankenbrand, Singapur"
+      "title": "Wechsel im Währungsfonds: „Die alten Sektoren zu schützen, ist eine Verliererstrategie“",
+      "teaser": "Der Europadirektor des Internationalen Währungsfonds, Alfred Kammer, fordert Deutschland und die EU zu mehr Tempo auf: weniger Bürokratie und mehr Binnenmarkt. Nur so könne Europa die wachsende Wohlstandslücke zu den USA schließen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/iwf-europadirektor-die-alten-sektoren-zu-schuetzen-ist-eine-verliererstrategie-200789123.html",
+      "image_url": "https://media0.faz.net/image/w920/856d9c92a5ad/w3547h1995x545y404/202504/43601.0.986202556/der-ungeduldige-europaeer.webp",
+      "image_title": "Der ungeduldige Europäer: Alfred Kammer, der Europadirektor des Internationalen Währungsfonds, geht in den Ruhestand."
     },
     {
-      "title": "Angebot von Gamestop: Ebay kämpft um seine Relevanz",
-      "teaser": "Die Videospielekette Gamestop will den Onlinehändler Ebay kaufen. Ob das klappt, ist fraglich. Aber das Manöver lenkt auch den Blick darauf, dass Ebay nach schwierigen Jahren auf dem Weg der Besserung scheint.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/angebot-von-gamestop-ebay-kaempft-um-seine-relevanz-200796636.html",
-      "image_url": "https://media0.faz.net/image/w100/5e65bde9491f/w509h509x260y68/201801/1.5413248/roland-lindner.webp",
-      "image_title": "Roland Lindner, New York"
-    },
-    {
-      "title": "Emmanuel Moulin: Dieser Macron-Vertraute soll Notenbankchef werden",
-      "teaser": "Der Nachfolger von François Villeroy de Galhau steht praktisch fest. Designierter Gouverneur der Bank von Frankreich ist Emmanuel Moulin – ein Technokrat und Politprofi.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/dieser-macron-vertraute-soll-notenbankchef-werden-200803984.html",
-      "image_url": "https://media0.faz.net/image/w920/59602729295f/w5280h2970x0y0/202605/43601.0.2050868920/vom-lys-e-palast-zur-banque-de.webp",
-      "image_title": "Vom Élysée-Palast zur Banque de France: der designierte Notenbankgouverneur Emmanuel Moulin"
-    },
-    {
-      "title": "G-7-Treffen: Reiche verschärft ihren Chinakurs",
-      "teaser": "Wirtschaftsministerin Reiche reist Ende Mai nach Peking. Jetzt äußert sie sich in Paris bemerkenswert chinakritisch.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/g7-reiche-verschaerft-ihren-chinakurs-200804434.html",
-      "image_url": "https://media0.faz.net/image/w920/3785dc311b41/w6000h3375x0y0/202605/43601.0.2052626687/wirtschaftsministerin-reiche.webp",
-      "image_title": "Wirtschaftsministerin Reiche (CDU) mit ihrem französischen Amtskollegen Nicolas Forissier am Mittwoch in Paris"
+      "title": "FAZ+Wolters Kluwer: KI bedroht das Geschäftsmodell – Anleger sind besorgt",
+      "teaser": "Stacey Caywood leitet den Informationskonzern seit Februar. Mit der F.A.Z. spricht sie über KI und den Kauf des Berliner Legaltech Libra. Nordamerika macht zwei Drittel des Geschäfts aus – doch einen Umzug dorthin verneint sie.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wolters-kluwer-ki-bedroht-das-geschaeftsmodell-anleger-sind-besorgt-200800447.html",
+      "image_url": "https://media0.faz.net/image/w920/ef2f64d2edd3/w6048h3402x0y531/202605/43601.0.2052352314/branchen-im-umbruch-wolters.webp",
+      "image_title": "Branchen im Umbruch: Wolters Kluwer will bei Anwälten, Bankern und Medizinern mit verlässlichen Fachinformationen und KI-Innovationen punkten."
     },
     {
       "title": "FAZ+Kredite im Schatten: Die Angst vor einer neuen Finanzkrise wächst",
@@ -209,6 +208,7 @@
     },
     {
       "title": "FAZ+Özdemir und Palmer fordern: Schluss mit dem kleinteiligen Reinregieren!",
+      "teaser": "Gastbeitrag Klimaschutz kann ein zentraler Hebel sein, um unseren Wirtschaftsstandort zukunftsfest zu machen. Aber er geht besser und billiger – wenn man Unternehmen nicht mit ständig neuen Regeln ausbremst.",
       "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cem-oezdemir-und-boris-palmer-fordern-schluss-mit-dem-kleinteiligen-reinregieren-accg-200786107.html",
       "image_url": "https://media0.faz.net/image/w730/034196619eac/w3453h1942x2295y1162/202604/f779d812-43c7-11f1-8527-64eaa3489506/tuebingen-macht-s-vor-die.webp",
       "image_title": "Tübingen macht’s vor: Die Radbrücke West"
@@ -250,15 +250,23 @@
     },
     {
       "title": "Gesundheitsreform: Warum wir beim Thema Pharmainnovation gerade den Anschluss verlieren",
+      "teaser": "Gastbeitrag Die vom Bundeskabinett beschlossene GKV-Reform entzieht der deutschen pharmazeutischen Industrie die Planungsgrundlage für die Zukunft. Der Chef von Boehringer Ingelheim fordert einen besseren Entwurf, um das deutsche Gesundheitssystem fit für die Zukunft zu machen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/shashank-deshpande-warum-wir-bei-pharmainnovationen-den-anschluss-verlieren-200785477.html",
       "image_url": "https://media0.faz.net/image/w730/9b1846e2d1fc/w8256h4644x0y603/202510/43601.0.1371721916/im-entwicklungszentrum-fuer.webp",
       "image_title": "Im Entwicklungszentrum für Biotechnologie von Boehringer Ingelheim werden Medikamente auf Zelltechnologie entwickelt."
     },
     {
+      "title": "FAZ+Döner: Frieden im Krispy-Kebab-Streit",
+      "teaser": "Eine Bielefelder Dönerkette streitet sich mit KFC. Am Ende inszenieren beide Seiten die Einigung auf Social Media – und aus dem Markenstreit wird eine Marketingkampagne. Ein Detail der Einigung bleibt jedoch offen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/doener-frieden-im-krispy-kebab-streit-200805773.html",
+      "image_url": "https://media0.faz.net/image/w920/924f55fb1036/w5622h2409x0y60/202604/43601.0.2004023881/zufrieden-ueber-beratung-durch.webp",
+      "image_title": "Zufrieden über Beratung durch KFC: der Bielefelder Döner-Unternehmer Sergen Kolcu"
+    },
+    {
       "title": "Iran-Krieg: Das MRT gegen die Heliumkrise",
       "teaser": "Das Edelgas Helium ist für die meisten Diagnostikgeräte nötig. Wegen des Irankriegs droht es knapp zu werden. Philips hält mit beinahe heliumfreien Geräten dagegen. Der Konzern meldet eine steigende Nachfrage.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/iran-krieg-das-mrt-gegen-die-heliumkrise-200804053.html",
-      "image_url": "https://media0.faz.net/image/w920/ff0430fa6b99/w6000h2571x0y714/202403/43601.0.188153996/mrt-geraet-von-philips.webp",
+      "image_url": "https://media0.faz.net/image/w730/efe4be015637/w6000h3375x0y313/202403/43601.0.188153996/mrt-geraet-von-philips.webp",
       "image_title": "MRT-Gerät von Philips"
     },
     {
@@ -269,13 +277,6 @@
       "image_title": "Hartem Wettbewerb ausgesetzt: Injektionsspritzen von Novo Nordisk."
     },
     {
-      "title": "Italienischer Rüstungsmanager: Der Leonardo-Chef verabschiedet sich mit starken Zahlen",
-      "teaser": "Der Rüstungsmanager Roberto Cingolani war Giorgia Meloni „zu europäisch“. Amerika machte Druck, weil er sich für ein Konkurrenzsystem starkmachte.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/leonardo-chef-cingolani-verabschiedet-sich-mit-starken-zahlen-200804675.html",
-      "image_url": "https://media0.faz.net/image/w730/3c664a2e2dba/w3072h1728x0y367/202603/43601.0.1872756756/roberto-cingolani-verlaesst.webp",
-      "image_title": "Roberto Cingolani verlässt Leonardo und will nun Motorrad fahren."
-    },
-    {
       "title": "FAZ+Großvermieter Vonovia: „Illegale Mietstrukturen und Untervermietungen treiben die Preise in die Höhe“",
       "teaser": "Der Druck auf Vermieter steigt – bis hin zu Enteignungsrufen. Der neue Vonovia-Chef wehrt sich in seinem ersten Interview gegen staatliche Eingriffe: Luka Mucic spricht über steigende Mieten, hohe Schulden – und die eigene Wohnungssuche.",
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/vonovia-chef-ueber-teure-mieten-illegale-strukturen-treiben-die-preise-accg-200795496.html",
@@ -284,12 +285,14 @@
     },
     {
       "title": "Immobilien vor Gericht: Wie Mieter nach der Vormiete fragen dürfen",
+      "teaser": "Gastbeitrag Auch wenn der Vermieter vor Vertragsschluss nicht über Ausnahmen von der Mietpreisbremse informiert hat, darf der Mieter nach der Höhe der Vormiete fragen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/mietrecht-wie-mieter-nach-der-vormiete-fragen-duerfen-accg-200741121.html",
       "image_url": "https://media0.faz.net/image/w730/ba99f0aa4767/w4500h2531x0y251/202402/43601.0.145469022/altbau-in-berlin-was-hat-der.webp",
       "image_title": "Altbau in Berlin: Was hat der Vormieter wohl gezahlt?"
     },
     {
       "title": "Immobilien vor Gericht: Weiterwohnen verlängert den Mietvertrag nicht",
+      "teaser": "Gastbeitrag Mietverträge können durch Klauseln eine stillschweigende Verlängerung ausschließen. Ein Vertragsausstieg schützt nicht vor Räumung. Die Mieter müssen gehen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/mieten-vermieten/mietvertrag-verlaengerung-durch-weiterwohnen-ausgeschlossen-accg-200715210.html",
       "image_url": "https://media0.faz.net/image/w730/f63d7bf01843/w8256h4643x0y861/202604/43601.0.2004042894/aufhebungsvertrag-wann-duerfen.webp",
       "image_title": "Aufhebungsvertrag: Wann dürfen Mieter wohnen bleiben?"
@@ -316,10 +319,17 @@
       "image_title": "Unter Druck: Mercedes vor wenigen Tagen auf der Auto China in Peking."
     },
     {
+      "title": "Irankrieg und Hormus-Blockade: Für Asien ist grüner Strom nicht Klimaschutz, sondern Sicherheit",
+      "teaser": "Von den Philippinen bis Pakistan schwenken die asiatischen Schwellenländer auf Sonnen- und Windkraft um. Klimaschutz ist jedoch nicht ihr Ansinnen, sondern etwas anderes.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/oelkrise-asiens-energiewende-200795977.html",
+      "image_url": "https://media0.faz.net/image/w920/810910df3d21/w3872h1659x0y782/202603/43601.0.1921904930/energiekrise-in-indien.webp",
+      "image_title": "Energiekrise in Indien: Menschen stehen Schlange, um einen LPG-Zylinder mit Kochgas zu ergattern."
+    },
+    {
       "title": "FAZ+Strommarkt spielt verrückt: Ein Tag, der das deutsche Stromsystem an seine Grenzen brachte",
       "teaser": "Weil viel mehr Strom erzeugt als verbraucht wurde, ist der Strompreis an Sonn- und Feiertagen zuletzt stark negativ geworden. Ein Energieökonom ruft dazu auf, Solaranlagen abzuschalten. Wie können solche Situationen künftig verhindert werden?",
       "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/warum-der-strommarkt-verruecktspielte-accg-200773033.html",
-      "image_url": "https://media0.faz.net/image/w920/f099a1a9e440/w3000h1285x0y389/202507/43601.0.1182099438/viel-solarstrom-hat-den.webp",
+      "image_url": "https://media0.faz.net/image/w730/06bc2f699436/w2727h1534x173y180/202507/43601.0.1182099438/viel-solarstrom-hat-den.webp",
       "image_title": "Viel Solarstrom hat den Energiepreis ins Bodenlose sinken lassen."
     },
     {
@@ -330,13 +340,8 @@
       "image_title": "Auch die Zahl der neuen Balkonkraftwerke ist gesunken."
     },
     {
-      "title": "FAZ+Özdemir und Palmer fordern: Schluss mit dem kleinteiligen Reinregieren!",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cem-oezdemir-und-boris-palmer-fordern-schluss-mit-dem-kleinteiligen-reinregieren-accg-200786107.html",
-      "image_url": "https://media0.faz.net/image/w730/034196619eac/w3453h1942x2295y1162/202604/f779d812-43c7-11f1-8527-64eaa3489506/tuebingen-macht-s-vor-die.webp",
-      "image_title": "Tübingen macht’s vor: Die Radbrücke West"
-    },
-    {
       "title": "FAZ+Der Volkswirt: Homeoffice stärkt Aktienkultur",
+      "teaser": "Gastbeitrag Mehr Zeit, weniger Pendeln: Mit dem Aufkommen des Homeoffice stieg auch der Anteil der Aktienbesitzer unter den Berufstätigen, besonders im unteren Viertel der Einkommensbezieher.",
       "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/der-volkswirt-wie-homeoffice-die-aktienkultur-staerkt-accg-200754224.html",
       "image_url": "https://media0.faz.net/image/w920/829eb6473073/w6447h2763x0y764/202602/43601.0.1784524962/bulle-und-baer-neben-dem.webp",
       "image_title": "Bulle und Bär neben dem Schreibtisch von Commerzbank-Chefin Bettina Orlopp"

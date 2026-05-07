@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T05:20:06",
+  "timestamp": "2026-05-07T08:10:00",
   "url": "https://www.faz.net/aktuell/stil/",
   "response": {
     "status": 200
@@ -18,20 +18,20 @@
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
+      "id": "clever-push",
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
       "id": "adobe-launch-head",
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
       "src": "https://atonato.de/fazscr",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
@@ -42,23 +42,30 @@
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://www.faz.net/_nuxt/O05Lpn30.js",
+      "type": "text/javascript",
+      "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://static.cleverpush.com/channel/loader/v3LddGcmHMyc4wNxg.js",
-      "id": "clever-push",
+      "type": "module",
+      "src": "https://www.faz.net/_nuxt/BEdAxtRF.js",
+      "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "FAZ+Kritik an Momfluencern: „Die Privatsphäre von Kindern wird gegen Geld getauscht“",
+      "teaser": "Autorin Fortesa Latifi hat ein Buch über „Momfluencer“ geschrieben. Für Geld teilen sie intime Details aus dem Leben ihrer Kinder. Was macht so ein Verhalten mit Kindern?",
+      "url": "https://www.faz.net/aktuell/stil/eltern-familie/momfluencerinnen-die-privatsphaere-von-kindern-wird-gegen-geld-getauscht-accg-200769724.html"
+    },
+    {
       "title": "Mode bei der Met Gala: Über diese Looks spricht man",
       "teaser": "Das wichtigste Modeevent des Jahres hat bleibende Eindrücke hinterlassen. Wir stellen sieben Looks von der Met Gala in New York vor, die den Tag überdauern werden.",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/ueber-diese-looks-spricht-man-noch-nach-der-met-gala-von-hailey-bieber-bis-sabrina-carpenter-200803603.html"
+      "url": "https://www.faz.net/aktuell/stil/mode-design/ueber-diese-looks-spricht-man-noch-nach-der-met-gala-von-hailey-bieber-bis-sabrina-carpenter-200803603.html",
+      "image_url": "https://media0.faz.net/image/w730/a3dcf4468476/w3000h1687x0y0/202605/43601.0.2048478397/fast-wie-eine-griechische.webp",
+      "image_title": "Fast wie eine griechische Skulptur: Kendall Jenner provoziert mit ihrem Look bei der Met Gala."
     },
     {
       "title": "FAZ+Katrin kocht: Emmis superfluffiger Biskuitboden mit Erdbeeren und Sahne",
@@ -94,13 +101,6 @@
       "url": "https://www.faz.net/aktuell/stil/leib-seele/wie-man-als-paar-konflikte-am-besten-loesen-kann-accg-200776885.html",
       "image_url": "https://media0.faz.net/image/w730/347e0b9b3c0f/w8129h4573x0y127/202604/43601.0.2026872938/bei-einem-streit-folgt-oft.webp",
       "image_title": "Bei einem Streit folgt oft Stressreaktion auf Stressreaktion."
-    },
-    {
-      "title": "Restaurant „Reichsstadt“: Hier arbeitet ein Talent",
-      "teaser": "Daniel Wallenstein vom „Reichsstadt“ in Gengenbach kriegt viel Lob. Ob er sein Handwerk beherrscht, hat unser Kulinarik-Experte getestet.",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/restaurants/wie-gut-ist-das-restaurant-reichsstadt-im-schwarzwald-accg-200737966.html",
-      "image_url": "https://media0.faz.net/image/w730/652ec02b52a7/w2979h1676x0y288/202604/cfaf5eee-38cb-11f1-8c04-9cd8fdbeadff/im-hotel-die-reichsstadt-gibt.webp",
-      "image_title": "Im Hotel „Die Reichsstadt“ gibt es gleich zwei Restaurants."
     },
     {
       "title": "FAZ+„Hi, Baby!“-Kolumne: „Wie, du stillst noch, wurde ich ständig gefragt“",
@@ -147,10 +147,17 @@
       "image_title": "Transparente Mesh-Version der Napoleonjacke: Entwurf der Berliner Marke Unvain"
     },
     {
+      "title": "Restaurant „Reichsstadt“: Hier arbeitet ein Talent",
+      "teaser": "Daniel Wallenstein vom „Reichsstadt“ in Gengenbach kriegt viel Lob. Ob er sein Handwerk beherrscht, hat unser Kulinarik-Experte getestet.",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/restaurants/wie-gut-ist-das-restaurant-reichsstadt-im-schwarzwald-accg-200737966.html",
+      "image_url": "https://media0.faz.net/image/w920/e36af503f569/w2979h1276x0y454/202604/cfaf5eee-38cb-11f1-8c04-9cd8fdbeadff/im-hotel-die-reichsstadt-gibt.webp",
+      "image_title": "Im Hotel „Die Reichsstadt“ gibt es gleich zwei Restaurants."
+    },
+    {
       "title": "Frühlingsgetränke: Mit diesen Weinen schmecken Erdbeeren am besten",
       "teaser": "Nie schmeckt der Frühling besser als zur Erdbeerzeit! Das sollten Sie feiern – indem Sie der zauberhaften Frucht einen passenden Wein zur Seite stellen.",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/mit-diesen-weinen-schmecken-erdbeeren-am-besten-accg-200761435.html",
-      "image_url": "https://media0.faz.net/image/w920/39358d928afc/w3955h1695x0y293/202604/0fd583ca-3d83-11f1-a9bb-63f79e308ac4/260426-pdf-0fd583ca-3d83-11f1.webp"
+      "image_url": "https://media0.faz.net/image/w730/042e56e49c16/w3955h2225x0y258/202604/0fd583ca-3d83-11f1-a9bb-63f79e308ac4/260426-pdf-0fd583ca-3d83-11f1.webp"
     },
     {
       "title": "So isst Politik: Nervennahrung für Beamte in der Krise",
@@ -158,13 +165,6 @@
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/kuechen-koeche/so-isst-politik-oman-laesst-gruessen-accg-200785195.html",
       "image_url": "https://media0.faz.net/image/w730/7dd0c3ed9f53/w3000h1688x0y53/202604/c047022a-43e5-11f1-8527-64eaa3489506/madfun-die-nervennahrung-fuer.webp",
       "image_title": "Madfun, die Nervennahrung für Beamte, nachgekocht von unserer Autorin"
-    },
-    {
-      "title": "Tischkultur: Warum wir öfter mit den Händen essen sollten",
-      "teaser": "In vielen Ländern ist es gängig, mit Händen statt mit Besteck zu essen. Das aktiviert die Sinne – und kann sogar gesundheitliche Vorteile haben.",
-      "url": "https://www.faz.net/aktuell/stil/essen-trinken/warum-essen-sich-positiv-auf-die-gesundheit-auswirken-kann-accg-200715740.html",
-      "image_url": "https://media0.faz.net/image/w730/c55827d1f410/w3100h1744x0y327/202604/e33ede7e-d8c4-4903-9200-7cff06e86553/ohne-besteck-koenigin.webp",
-      "image_title": "Ohne Besteck: Königin Elisabeth II. zu Besuch bei Marokkos König Hassan im Oktober 1980"
     },
     {
       "title": "FAZ+Hi, Baby!: Hilfe, mein Kind hat meine Spleens!",
