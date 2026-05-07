@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T01:45:05",
+  "timestamp": "2026-05-07T05:19:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,15 +20,60 @@
   ],
   "articles": [
     {
-      "title": "Nach dem AusfallProbleme mit .de-Domains: Was bisher bekannt ist",
-      "teaser": "Am Dienstag waren .de-Domains wegen DNSSEC-Fehlern nicht erreichbar. Einiges lässt sich rekonstruieren – noch schweigt die DENIC",
-      "url": "https://www.heise.de/news/Probleme-mit-de-Domains-Was-bisher-bekannt-ist-11284320.html",
-      "image_title": "Schlüssel, Sicherheit, DNS, DNSSEC"
+      "title": "KI-Sicherheitsrisiken: OWASP Top 10 for Agentic AI Applications",
+      "teaser": "OWASP veröffentlicht Ranglisten für die drängendsten Sicherheitsprobleme von IT-Systemen. Nun gibt es auch eine Ausgabe für agentische KI.",
+      "url": "https://www.heise.de/hintergrund/KI-Sicherheitsrisiken-OWASP-Top-10-for-Agentic-AI-Applications-11280779.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
-      "title": "Besuch in der SSD-Fabrik: Vom Chip-Wafer zum fertigen Speichermedium",
-      "teaser": "Der Hersteller Lexar zeigte uns, wie er NAND-Flash-Speicherchips aus einer Siliziumscheibe schneidet, sie testet und daraus SSDs und Speicherkarten baut.",
-      "url": "https://www.heise.de/hintergrund/Besuch-in-der-SSD-Fabrik-Vom-Chip-Wafer-zum-fertigen-Speichermedium-11210129.html"
+      "title": "Kritik an der geplanten Vorratsdatenspeicherung",
+      "teaser": "Die Bundesregierung wagt einen neuen Anlauf zur Vorratsdatenspeicherung. Diesmal soll sie europarechtskonform werden, doch daran kommen Zweifel auf.",
+      "url": "https://www.heise.de/hintergrund/Kritik-an-der-geplanten-Vorratsdatenspeicherung-11271011.html"
+    },
+    {
+      "title": "FAQ: So bootet Windows per UEFI",
+      "teaser": "Was steckt hinter UEFI-Boot, BCDedit und dem BCD-Store? Diese FAQ vertieft einzelne Themen.",
+      "url": "https://www.heise.de/ratgeber/FAQ-So-bootet-Windows-per-UEFI-11252332.html"
+    },
+    {
+      "title": "Minimalistischer Linux-Desktop: Der Tiling-Wayland-Compositor Niri im Test",
+      "teaser": "Niri bietet einen flinken Linux-Desktop mit horizontal gekachelten Fenstern zum Durchscrollen. Für Komfort und tolle Optik sorgt eine zusätzliche Desktop-Shell.",
+      "url": "https://www.heise.de/ratgeber/Minimalistischer-Linux-Desktop-Der-Tiling-Wayland-Compositor-Niri-im-Test-11229666.html"
+    },
+    {
+      "title": "HintergrundKI-Sicherheitsrisiken: OWASP Top 10 for Agentic AI Applications",
+      "url": "https://www.heise.de/hintergrund/KI-Sicherheitsrisiken-OWASP-Top-10-for-Agentic-AI-Applications-11280779.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "HintergrundKritik an der geplanten Vorratsdatenspeicherung",
+      "url": "https://www.heise.de/hintergrund/Kritik-an-der-geplanten-Vorratsdatenspeicherung-11271011.html"
+    },
+    {
+      "title": "RatgeberFAQ: So bootet Windows per UEFI",
+      "url": "https://www.heise.de/ratgeber/FAQ-So-bootet-Windows-per-UEFI-11252332.html"
+    },
+    {
+      "title": "#heiseshow: .de-Domain-Probleme, EU-Digitalsteuer, Commodore 64C",
+      "teaser": "In der #heiseshow: Ein kurioser Ausfall bei den .de-Domains, die EU will Big Tech zur Kasse bitten und der Commodore 64C feiert ein Comeback.",
+      "url": "https://www.heise.de/news/heiseshow-de-Domain-Probleme-EU-Digitalsteuer-Commodore-64C-11284643.html"
+    },
+    {
+      "title": "Anthropic erhöht Claude-Nutzung für KI-Abonnenten durch Kooperation mit SpaceX",
+      "teaser": "Die Nutzungslimits für Claude-Abonnenten werden enorm angehoben, da sich Anthropic neue KI-Rechenkapazitäten bei SpaceX sichert - wohl bald auch aus dem All.",
+      "url": "https://www.heise.de/news/Anthropic-erhoeht-Claude-Nutzung-fuer-KI-Abonnenten-durch-Kooperation-mit-SpaceX-11285015.html",
+      "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
+    },
+    {
+      "title": "Top 10: Der beste Mini-PC mit Windows 11 im Test",
+      "teaser": "Mini-PCs sind kompakt, sparsam und leistungsstark – ideal für Office bis Gaming. Wir zeigen die besten Modelle aus 80 Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-bezahlbar-trotz-speicherkrise/6cybv8w?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Probleme mit .de-Domains: Was bisher bekannt ist",
+      "teaser": "Dienstagabend waren .de-Domains wegen DNSSEC-Fehlern nicht erreichbar. Einiges lässt sich rekonstruieren – noch schweigt sich die DENIC über die Ursache aus.",
+      "url": "https://www.heise.de/news/Probleme-mit-de-Domains-Was-bisher-bekannt-ist-11284320.html",
+      "image_title": "Schlüssel, Sicherheit, DNS, DNSSEC"
     },
     {
       "title": "Souveräne KI aus Deutschland",
@@ -36,33 +81,15 @@
       "url": "https://www.heise.de/news/Souveraene-KI-aus-Deutschland-11282692.html"
     },
     {
-      "title": "SPEC CPU 2026Wichtigster Server-CPU-Benchmark bekommt ein Update nach 9 Jahren",
-      "teaser": "CPU-Designer satteln auf den Benchmark SPEC CPU 2026 um. Die neue Version läuft sogar auf einem Raspberry Pi.",
-      "url": "https://www.heise.de/news/Wichtigster-Server-CPU-Benchmark-bekommt-ein-Update-nach-9-Jahren-11284408.html",
-      "image_title": "Zwei Server nebeneinander"
-    },
-    {
-      "title": "TestsTeams-Alternativen: Diese Videokonferenz-Tools bietet der europäische Markt",
-      "url": "https://www.heise.de/tests/Teams-Alternativen-Diese-Videokonferenz-Tools-bietet-der-europaeische-Markt-11261301.html"
-    },
-    {
-      "title": "RatgeberFirefox-Tuning: Diese Einstellungen machen den Browser besser",
-      "url": "https://www.heise.de/ratgeber/Firefox-Tuning-Diese-Einstellungen-machen-den-Browser-besser-11283804.html"
-    },
-    {
-      "title": "RatgeberPowerPoint per Prompt: So erstellen Sie mit KI professionelle Folien ohne Frust",
-      "url": "https://www.heise.de/ratgeber/PowerPoint-per-Prompt-So-erstellen-Sie-mit-KI-professionelle-Folien-ohne-Frust-11282398.html",
-      "image_title": "KI-Illustration: Aus Texten und Icons erstellt ChatGPT eine Powerpoint-Präsentation."
-    },
-    {
-      "title": "Top 10: Der beste Mini-PC mit Windows 11 im Test – bezahlbar trotz Speicherkrise",
-      "teaser": "Mini-PCs sind kompakt, sparsam und leistungsstark – ideal für Office bis Gaming. Wir zeigen die besten Modelle aus über 80 Tests über alle Preisbereiche hinweg.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-mini-pc-mit-windows-11-im-test-bezahlbar-trotz-speicherkrise/6cybv8w?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
       "title": "Bürostuhl Yaasa Chair Plus im Test: Überraschend gut und bequem für 200 Euro",
       "teaser": "Der ergonomische Bürostuhl Yaasa Chair Plus bietet für unter 200 Euro eine ergonomische Ausstattung, die man in dieser Preisklasse sonst selten findet.",
       "url": "https://www.heise.de/bestenlisten/testbericht/buerostuhl-yaasa-chair-plus-im-test-ueberraschend-gut-und-bequem-fuer-200-euro/6rk0t7p?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Wichtigster Server-CPU-Benchmark bekommt ein Update nach 9 Jahren",
+      "teaser": "CPU-Designer satteln auf den Benchmark SPEC CPU 2026 um. Die neue Version läuft sogar auf einem Raspberry Pi.",
+      "url": "https://www.heise.de/news/Wichtigster-Server-CPU-Benchmark-bekommt-ein-Update-nach-9-Jahren-11284408.html",
+      "image_title": "Zwei Server nebeneinander"
     },
     {
       "title": "US-Behörde soll KI-Modelle vor Veröffentlichung überprüfen",
@@ -75,6 +102,11 @@
       "teaser": "Character.AI sieht sich mit einer weiteren Klage konfrontiert. Sie wirft erneut die Grundsatzfrage auf, wer rechtlich für Aussagen von KI-Chatbots haftet.",
       "url": "https://www.heise.de/news/Darf-sich-ein-Chatbot-als-Arzt-ausgeben-Pennsylvania-verklagt-KI-Plattform-11284118.html",
       "image_title": "Character.AI-Logo auf einem Smartphone vor einem Laptop mit geöffneter Chatbot-Plattform."
+    },
+    {
+      "title": "Teams-Alternativen: Diese Videokonferenz-Tools bietet der europäische Markt",
+      "teaser": "Videokonferenzen für Privatleute, Unternehmen oder Behörden: Das geht auch ganz ohne US-Dienste wie Microsoft. Wir stellen europäische Dienste und Ansätze vor.",
+      "url": "https://www.heise.de/tests/Teams-Alternativen-Diese-Videokonferenz-Tools-bietet-der-europaeische-Markt-11261301.html"
     },
     {
       "title": "Honor 600 Pro im Test: Smartphone mit exzellenter 200-MP-Kamera & Periskop-Tele",
@@ -100,54 +132,14 @@
       "image_title": "Apache HTTP Server Logo vor Matrix-Regen-Hintergrund"
     },
     {
-      "title": "Apple-KI: Nicht nur ChatGPT in iOS 27 – und Gemini soll den Mac kontrollieren",
-      "teaser": "Derzeit kann man in Siri und Co. nur ChatGPT einbinden – mit iOS 27 soll sich das ändern. Google bastelt unterdessen an einer Mac-Kontrolle für Gemini.",
-      "url": "https://www.heise.de/news/Apple-KI-Nicht-nur-ChatGPT-in-iOS-27-und-Gemini-soll-den-Mac-kontrollieren-11283872.html",
-      "image_title": "AI-Zeichen auf dem Bildschirm"
+      "title": "Firefox-Tuning: Diese Einstellungen machen den Browser besser",
+      "teaser": "Schon mit wenigen Handgriffen lässt sich Firefox spürbar verbessern: Diese Einstellungen bringen mehr Datenschutz und Ordnung in den Browser – ein Praxisguide.",
+      "url": "https://www.heise.de/ratgeber/Firefox-Tuning-Diese-Einstellungen-machen-den-Browser-besser-11283804.html"
     },
     {
-      "title": "Microsoft 365 soll Vertraulichkeit-Labels besser beachten",
-      "teaser": "In Microsoft-365-Dokumenten lassen sich Vertraulichkeit-Labels vergeben. Künftig sollen die stärker berücksichtigt werden.",
-      "url": "https://www.heise.de/news/Microsoft-365-soll-Vertraulichkeit-Labels-besser-beachten-11283866.html",
-      "image_title": "Apps von Microsoft 365"
-    },
-    {
-      "title": "KI-Agenten verstehen und bauen: Praxis-Webinar am 12.05.",
-      "teaser": "heise-Webinar am 12.05.: KI-Agenten verstehen und selbst entwickeln – von RAG vs. Fine-Tuning bis zur Integration in Systeme. Praxisnah, ohne Vorkenntnisse.",
-      "url": "https://www.heise.de/news/KI-Agenten-verstehen-und-bauen-Praxis-Webinar-am-12-05-11281762.html",
-      "image_title": "OOP Konferenz by heise 2026"
-    },
-    {
-      "title": "SAS: Viya als universelle KI-Plattform",
-      "teaser": "Analytics-Spezialist SAS erweitert sein Plattform-Angebot um neue Agenten- und Data-Management-Funktionen, die generative KI schneller produktiv machen sollen.",
-      "url": "https://www.heise.de/news/SAS-Viya-als-universelle-KI-Plattform-11283892.html",
-      "image_title": "Lockende Roboterhand"
-    },
-    {
-      "title": "Das sind Deutschlands digitalste Länder",
-      "teaser": "Hamburg bleibt Deutschlands digitalstes Bundesland, Hessen rückt auf Platz drei vor. Größter Aufsteiger im Bitkom-Länderindex 2026 ist das Saarland.",
-      "url": "https://www.heise.de/news/Hamburg-bleibt-das-digitalste-Bundesland-11283852.html",
-      "image_title": "Deutschland auf holografischer Landkarte"
-    },
-    {
-      "title": "Apple streicht weitere RAM-Konfigurationen beim Mac mini und Mac Studio",
-      "teaser": "Apple hat einige bisher vorhandene RAM-Ausbaustufen bei seinen beiden kompakten Desktop-Macs gestrichen. Schon zuvor gab es Einschränkungen.",
-      "url": "https://www.heise.de/news/Apple-streicht-weitere-RAM-Konfigurationen-beim-Mac-mini-und-Mac-Studio-11283772.html",
-      "image_title": "Innenleben des Mac Studio"
-    },
-    {
-      "title": "AlertJetzt patchen! Attacken auf WordPress-Plug-in Breeze Cache beobachtet",
-      "teaser": "Derzeit haben Angreifer WordPress-Websites mit dem Plug-in Breeze Cache im Visier und platzieren Hintertüren auf Servern.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-WordPress-Plug-in-Breeze-Cache-beobachtet-11283738.html"
-    },
-    {
-      "title": "NewsNeuer Antrieb für Marsmission: NASA erreicht Rekordleistung",
-      "url": "https://www.heise.de/news/NASA-testet-Lithium-Thruster-Meilenstein-fuer-bemannte-Marsfluege-11279497.html"
-    },
-    {
-      "title": "NewsAnthropics aussichtsloser Kampf gegen den Leak von Claude Code",
-      "url": "https://www.heise.de/news/Claude-Code-Leck-8100-Loeschantraege-und-die-Geburtsstunde-von-Claw-Code-11279601.html",
-      "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
+      "title": "UpdateNewsDNS-Probleme: .de-Domains nicht erreichbar",
+      "url": "https://www.heise.de/news/DNS-Probleme-de-Domains-nicht-erreichbar-11283192.html",
+      "image_title": "\"DNS\" als Hologramm über Laptop, eine Person tippt mit dem Zeigefinger auf das Hologramm"
     },
     {
       "title": "AlertNewsMicrosoft Edge: Passwörter landen als Klartext im Speicher",
@@ -155,9 +147,13 @@
       "image_title": "MS-Edge-Logo neben Speicherauszug vor Matrix-Regen-Hintergrund"
     },
     {
-      "title": "NewsTim Cook: Erster großer Fehler war Apple Maps",
-      "url": "https://www.heise.de/news/Tim-Cook-Erster-grosser-Fehler-war-Apple-Maps-11276421.html",
-      "image_title": "Tim Cook und die erste Version von Apple Maps"
+      "title": "NewsAnthropics aussichtsloser Kampf gegen den Leak von Claude Code",
+      "url": "https://www.heise.de/news/Claude-Code-Leck-8100-Loeschantraege-und-die-Geburtsstunde-von-Claw-Code-11279601.html",
+      "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
+    },
+    {
+      "title": "NewsNeuer Antrieb für Marsmission: NASA erreicht Rekordleistung",
+      "url": "https://www.heise.de/news/NASA-testet-Lithium-Thruster-Meilenstein-fuer-bemannte-Marsfluege-11279497.html"
     },
     {
       "title": "TestsE-Bus Kia PV5 Passenger Elite im Test: Die günstige Buzz-Alternative",
@@ -174,8 +170,8 @@
       "url": "https://www.heise.de/tests/Edel-NAS-mit-KI-im-Test-Ugreen-iDX6011-Pro-11112419.html"
     },
     {
-      "title": "RatgeberWie Sie Ihren alten Kindle nach dem Supportende weiternutzen",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-Ihren-alten-Kindle-nach-dem-Supportende-weiternutzen-11276435.html"
+      "title": "RatgeberKassettenspieler-Kaufberatung: Das richtige Gerät für das Tape-Comeback",
+      "url": "https://www.heise.de/ratgeber/Kassettenspieler-Kaufberatung-Das-richtige-Geraet-fuer-das-Tape-Comeback-11210063.html"
     }
   ]
 }
