@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-07T20:54:44",
+  "timestamp": "2026-05-07T21:43:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Urteil gegen 1&1: Kunden dürfen SIM-Karte in Modem stecken",
+      "url": "https://www.heise.de/news/Urteil-gegen-1-1-Kunden-duerfen-SIM-Karte-in-Modem-stecken-11286599.html"
+    },
     {
       "title": "„Macht süchtig”: Meta Platforms akzeptiert Urteil nicht",
       "url": "https://www.heise.de/news/Macht-suechtig-Meta-Platforms-akzeptiert-Urteil-nicht-11286579.html"
@@ -56,10 +60,6 @@
     {
       "title": "Nachfrage übertrifft Erwartungen: Apple stockt Neo-Produktion massiv auf",
       "url": "https://www.heise.de/news/MacBook-Neo-Apple-verdoppelt-angeblich-Produktion-wegen-hoher-Nachfrage-11286300.html"
-    },
-    {
-      "title": "Northrop Grumman testet Drohne mit hybrid-elektrischem Antrieb",
-      "url": "https://www.heise.de/news/Northrop-Grumman-testet-Drohne-mit-hybrid-elektrischem-Antrieb-11286306.html"
     },
     {
       "title": "Kein BetrugsversuchDENIC fordert zur Verifizierung von Domaininhaberdaten auf",
@@ -182,20 +182,26 @@
       "image_title": "Apache HTTP Server Logo vor Matrix-Regen-Hintergrund"
     },
     {
+      "title": "Urteil gegen 1&1: Kunden dürfen SIM-Karte in Modem stecken",
+      "teaser": "1&1 darf Mobilfunk-Verträge nicht automatisch um 1 Jahr verlängern. Auch das Verbot stationärer Endgeräte ist unzulässig.",
+      "url": "https://www.heise.de/news/Urteil-gegen-1-1-Kunden-duerfen-SIM-Karte-in-Modem-stecken-11286599.html",
+      "image_title": "Jemand unterschreibt einen Vertrag"
+    },
+    {
       "title": "„Macht süchtig”: Meta Platforms akzeptiert Urteil nicht",
       "teaser": "Grob fahrlässig hat Meta Online-Dienste designt, Kinder wurden süchtig und krank. Meta will nicht haften. Der Prozess sei falsch gelaufen, das Urteil aufzuheben",
       "url": "https://www.heise.de/news/Macht-suechtig-Meta-Platforms-akzeptiert-Urteil-nicht-11286579.html",
       "image_title": "Zwei Kleinkinder an je einem Smartphone"
     },
     {
-      "title": "Top 10: Der beste ergonomische Bürostuhl im Test – ab 170 Euro richtig gut",
-      "teaser": "Ergonomischer Bürostuhl im Test: Wir haben über 30 Modelle geprüft und zeigen hier die besten 10 Bürostühle für Büro & Homeoffice ab 170 Euro.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ergonomische-buerostuhl-im-test-ab-170-euro-richtig-gut/6le25ss?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
       "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
       "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
+      "title": "Top 10: Der beste ergonomische Bürostuhl im Test – ab 170 Euro richtig gut",
+      "teaser": "Ergonomischer Bürostuhl im Test: Wir haben über 30 Modelle geprüft und zeigen hier die besten 10 Bürostühle für Büro & Homeoffice ab 170 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ergonomische-buerostuhl-im-test-ab-170-euro-richtig-gut/6le25ss?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Rechtsverkehr: Berliner Kammergericht rügt Anwälte wegen KI-Halluzinationen",
@@ -225,12 +231,6 @@
       "teaser": "AMD nennt ein Leistungsziel seines kommenden GPU-Beschleunigers Instinct MI430X. Anders als die meisten Neuankündigungen spielt KI eine untergeordnete Rolle.",
       "url": "https://www.heise.de/news/Zurueck-zu-den-Wurzeln-AMDs-Instinct-MI430X-wird-ein-FP64-Beschleuniger-11286451.html",
       "image_title": "Renderbild von AMD-Beschleunigern in einem Rack"
-    },
-    {
-      "title": "Nachfrage übertrifft Erwartungen: Apple stockt Neo-Produktion massiv auf",
-      "teaser": "Apple soll die Produktion des MacBook Neo auf rund 10 Millionen Einheiten verdoppelt haben. Die Chip-Vorräte sind aufgebraucht, TSMC fertigt eine neue Charge.",
-      "url": "https://www.heise.de/news/MacBook-Neo-Apple-verdoppelt-angeblich-Produktion-wegen-hoher-Nachfrage-11286300.html",
-      "image_title": "MacBook Neo mit aufgeklapptem Bildschirm"
     },
     {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
@@ -324,6 +324,12 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Nachfrage übertrifft Erwartungen: Apple stockt Neo-Produktion massiv auf",
+      "teaser": "Apple soll die Produktion des MacBook Neo auf rund 10 Millionen Einheiten verdoppelt haben. Die Chip-Vorräte sind aufgebraucht, TSMC fertigt eine neue Charge.",
+      "url": "https://www.heise.de/news/MacBook-Neo-Apple-verdoppelt-angeblich-Produktion-wegen-hoher-Nachfrage-11286300.html",
+      "image_title": "MacBook Neo mit aufgeklapptem Bildschirm"
+    },
+    {
       "title": "Northrop Grumman testet Drohne mit hybrid-elektrischem Antrieb",
       "teaser": "Northrop Grumman hat eine Nurflügel-Drohne mit Hybridantrieb entwickelt. Mit zwei Jahren Verspätung ist XRQ-73 erstmals geflogen.",
       "url": "https://www.heise.de/news/Northrop-Grumman-testet-Drohne-mit-hybrid-elektrischem-Antrieb-11286306.html",
@@ -394,15 +400,15 @@
       "image_title": ", Nikon"
     },
     {
+      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
+      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
+    },
+    {
       "title": "Livetv.sx: DAZN und DFL gelingt Schlag gegen illegales Fußball-Streaming",
       "teaser": "Vor dem Halbfinale der Champions League konnten DAZN und die DFL eine bekannte Webseite für illegale Fußball-Streams sperren. Doch sie ist noch erreichbar.",
       "url": "https://www.heise.de/news/Livetv-sx-DAZN-und-DFL-gelingt-Schlag-gegen-illegales-Fussball-Streaming-11285790.html",
       "image_title": "Mann auf Sessel schaut Fußball auf Bildschirm"
-    },
-    {
-      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
-      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
     },
     {
       "title": "Windows Server: Microsoft bewirbt Upgrade auf Server 2025 über Windows Update",
@@ -455,12 +461,6 @@
       "teaser": "Die Sandbox-Komponente vm2 der Open-Source-JavaScript-Laufzeitumgebung Node.js ist mit bestimmten Einstellungen verwundbar.",
       "url": "https://www.heise.de/news/Node-js-25-Ausbrueche-aus-JavaScript-Sandbox-vm2-vorstellbar-11285063.html",
       "image_title": "Ein Schild mit einer symbolischen Updateerinnerung."
-    },
-    {
-      "title": "Elektroauto Lexus TZ vorgestellt: Großes E-SUV mit virtueller Gangschaltung",
-      "teaser": "Toyotas Nobelmarke Lexus unternimmt mit dem E-SUV TZ einen Anlauf auf das Luxussegment. Technisch bleibt das große Auto in einer Hinsicht blass.",
-      "url": "https://www.heise.de/news/Elektroauto-Lexus-TZ-vorgestellt-Grosses-E-SUV-mit-virtueller-Gangschaltung-11285218.html",
-      "image_title": "Lexus TZ"
     },
     {
       "title": "Probleme mit .de-Domains: Was bisher bekannt ist",
@@ -645,10 +645,9 @@
       "url": "https://www.heise.de/tests/reMarkable-Paper-Pure-im-Test-Puristisches-E-Ink-Tablet-fuer-400-Euro-11264256.html"
     },
     {
-      "title": "AMD Instinct MI350PUltraschneller KI-Beschleuniger als PCI-Express-Karte",
-      "teaser": "Instinct MI350P heißt die PCIe-Steckkarte, die AMDs aktuellen KI-Beschleuniger theoretisch auch normalen Rechnern zugänglich macht.",
-      "url": "https://www.heise.de/news/AMD-Instinct-MI350P-ultraschneller-KI-Beschleuniger-als-PCI-Express-Karte-11285578.html",
-      "image_title": "Renderbild einer nackten Instinct MI350P"
+      "title": "Teams-Alternativen: Diese Videokonferenz-Tools bietet der europäische Markt",
+      "teaser": "Videokonferenzen für Privatleute, Unternehmen oder Behörden: Das geht auch ganz ohne US-Dienste wie Microsoft. Wir stellen europäische Dienste und Ansätze vor.",
+      "url": "https://www.heise.de/tests/Teams-Alternativen-Diese-Videokonferenz-Tools-bietet-der-europaeische-Markt-11261301.html"
     },
     {
       "title": "NeatPass fürs iPhone im Test: Eintritt, bitte!",
@@ -657,10 +656,10 @@
       "image_title": "NeatPass wandelt zu Wallet-Pässen um"
     },
     {
-      "title": "UpdateKaufberatungWelchen Mac brauche ich?",
-      "teaser": "MacBook, Mac mini oder Mac Studio? Wie viel RAM, welche SSD-Größe und welches Display? Wir stellen Apples Modellpalette vor und geben Tipps zu Gebrauchten.",
-      "url": "https://www.heise.de/hintergrund/Kaufberatung-Welchen-Mac-brauche-ich-11253696.html",
-      "image_title": "Öffnung einer MacBook-Air-Verpackung"
+      "title": "Komoot vs. Strava vs. Indies: Watch-Apps im Routen-Test",
+      "teaser": "Ob Spaziergang, Wanderung oder Trailrun: Apple hat hier schlechte Karten. In die Bresche springen Komoot, Strava und Indie-Apps. Der Test zeigt, was sie taugen.",
+      "url": "https://www.heise.de/tests/Komoot-vs-Strava-vs-Indies-Watch-Apps-im-Routen-Test-11279633.html",
+      "image_title": "Wandern mit iPhone und Apple Watch"
     },
     {
       "title": "Apple Watch vs. Brustgurt: Wie genau ist die Apple-Uhr beim Sport?",
@@ -729,6 +728,12 @@
       "image_title": ", Vanessa Bahr / iX"
     },
     {
+      "title": "Virtuelle Gänge und Windschatten-AssistentGroßes E-SUV Lexus TZ vorgestellt",
+      "teaser": "Toyotas Nobelmarke Lexus unternimmt mit dem E-SUV TZ einen Anlauf auf das Luxussegment. Technisch bleibt das große Auto in einer Hinsicht blass.",
+      "url": "https://www.heise.de/news/Elektroauto-Lexus-TZ-vorgestellt-Grosses-E-SUV-mit-virtueller-Gangschaltung-11285218.html",
+      "image_title": "Lexus TZ"
+    },
+    {
       "title": "Honda storniert Elektroauto-Fabrik in Kanada, streicht E-SUV",
       "teaser": "Honda stellt das elektrische SUV Prologue ein. Zudem wird eine in Kanada geplante Fabrik für Akkus und E-Autos doch nicht gebaut.",
       "url": "https://www.heise.de/news/Honda-storniert-Elektroauto-Fabrik-in-Kanada-streicht-E-SUV-11285003.html",
@@ -747,16 +752,10 @@
       "image_title": "Frühe Vespa mit Lampe am Lenker"
     },
     {
-      "title": "Bilster Berg: Fahrbetrieb darf nicht lauter werden",
-      "teaser": "Das BVG untersagt die Ausweitung des Fahrbetriebs auf der Teststrecke Bilster Berg. Die Betreiber hatten auf eine weniger strenge Lärmregulierung gehofft.",
-      "url": "https://www.heise.de/news/Bilster-Berg-Keine-Ausweitung-des-Fahrbetriebs-tagsueber-erlaubt-11284218.html",
-      "image_title": "Bilster Berg Rennstrecke"
-    },
-    {
-      "title": "Erst Dürre, dann Frost: Warum der deutsche Frühling immer gefährlicher wird",
-      "teaser": "Extremes Wetter im Frühling trifft Wälder, Felder und Ernten hart – und die Ursache dahinter ist komplexer als viele denken.",
-      "url": "https://www.heise.de/article/Erst-Duerre-dann-Frost-Warum-der-deutsche-Fruehling-immer-gefaehrlicher-wird-11280675.html",
-      "image_title": "Zwei Thermometer, eines für Hitze und Dürre, eines für Nachtfrost, ungeben grünen Pfeil nach unten"
+      "title": "Studie zu ChatGPT-Vorteilen im Unterricht zurückgezogen",
+      "teaser": "Springer Nature zieht eine Meta-Analyse zurück, die großen Lerneffekt durch ChatGPT belegte. Das Paper wurde bereits über 500 Mal zitiert.",
+      "url": "https://www.heise.de/article/Studie-zu-ChatGPT-Vorteilen-im-Unterricht-zurueckgezogen-11282390.html",
+      "image_title": "Eine Frau steht vor einem Bildschirm mit mathematischen Kursangeboten."
     },
     {
       "title": "In eigener Sache: Telepolis als \"Bevorzugte Quelle\" bei Google festlegen",
@@ -764,10 +763,10 @@
       "url": "https://www.heise.de/article/Telepolis-als-Bevorzugte-Quelle-bei-Google-festlegen-11285510.html"
     },
     {
-      "title": "Deutschlands Doppeloffensive für ein wehrhaftes Europa",
-      "teaser": "Zwei deutsche Initiativen wollen die EU zur Verteidigungsmacht umbauen – doch die größte Hürde liegt im System selbst.",
-      "url": "https://www.heise.de/article/Deutschlands-Doppeloffensive-fuer-ein-wehrhaftes-Europa-11285186.html",
-      "image_title": "Der deutsche Außenminister Johann Wadephul mit einem Mikrofon vor einem Banner mit einem Staatswappen."
+      "title": "Aufrüstung statt Print: Druckmaschinenbauer suchen neue Märkte",
+      "teaser": "Während das Zeitungsgeschäft schrumpft, entdecken deutsche Maschinenbauer die Rüstungsindustrie – vom Patriot-Zulieferteil bis zur Drohnenabwehr.",
+      "url": "https://www.heise.de/article/Aufruestung-statt-Print-Druckmaschinenbauer-suchen-neue-Maerkte-11285460.html",
+      "image_title": "Druckmaschinen und ein Pfeil und im mnächsten Bildauschnitt eine Luftabwehrwaffe"
     },
     {
       "title": "Alles nur geklaut: Wie KI-Modelle aus KIs der Konkurrenz destilliert werden",
