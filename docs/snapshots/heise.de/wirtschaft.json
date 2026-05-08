@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-08T10:14:02",
+  "timestamp": "2026-05-08T12:02:43",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,28 +20,27 @@
   ],
   "articles": [
     {
+      "title": "KI-Einkaufsagenten: Welche Risiken Nutzer und Firmen kennen müssen",
+      "teaser": "Der Artikel zeigt, wie manipulierbar KI-Shopping-Agenten sind und beleuchtet neue Risiken für Sicherheit, Datenschutz und Kontrolle.",
+      "url": "https://www.heise.de/hintergrund/KI-Einkaufsagenten-Welche-Risiken-Nutzer-und-Firmen-kennen-muessen-11184812.html"
+    },
+    {
+      "title": "Claude Mythos: IWF sieht globales Finanzsystem in Gefahr",
+      "teaser": "Anthropics bislang nicht frei verfügbares KI-Modell Claude Mythos hat nicht nur die Security-Welt aufgewirbelt. Der IWF sorgt sich ums globale Finanzsystem.",
+      "url": "https://www.heise.de/news/Claude-Mythos-IWF-warnt-vor-makrofinanziellen-Schocks-durch-KI-Cybergefahren-11287353.html",
+      "image_title": "Älterer Mann schaut auf seine Kreditkarte und sitzt vor dem Laptop."
+    },
+    {
+      "title": "ChatGPT führt optionalen Vertrauenskontakt für psychische Krisenfälle ein",
+      "teaser": "Erwachsene ChatGPT-Nutzer können jetzt einen Vertrauenskontakt für Krisenfälle hinterlegen. Eine ähnliche Funktion gab es bisher nur für Minderjährige.",
+      "url": "https://www.heise.de/news/ChatGPT-fuehrt-optionalen-Vertrauenskontakt-fuer-psychische-Krisenfaelle-ein-11287222.html",
+      "image_title": "ChatGPT-App auf einem Smartphone"
+    },
+    {
       "title": "OpenAI: Neue Audio-Modelle für Echtzeit-KI-Support",
       "teaser": "OpenAI bringt drei neue Audio-Modelle für die API: GPT-Realtime-2 für Echtzeit-Gespräche, Translate für Übersetzungen und Whisper für Live-Transkription.",
       "url": "https://www.heise.de/news/OpenAI-Neue-Audio-Modelle-fuer-Echtzeit-KI-Support-11287248.html",
       "image_title": "OpenAI-Logo auf Bildschirm, davor Hand mit Smartphone in Silhouette"
-    },
-    {
-      "title": "iCloud-Lock-in: Apple droht weiter Milliardenstrafe in Großbritannien",
-      "teaser": "Bis zu 3 Milliarden Pfund möchte eine Verbraucherschutzorganisation für iCloud-Nutzer einklagen. Apple wollte, dass nur für zahlende Kunden geklagt werden kann.",
-      "url": "https://www.heise.de/news/iCloud-Lock-in-Apple-droht-weiter-Milliardenstrafe-in-Grossbritannien-11286923.html",
-      "image_title": "iCloud"
-    },
-    {
-      "title": "1X Neo-Haushaltsroboter soll noch 2026 an US-Privatkunden gehen",
-      "teaser": "1X gibt Gas und will seine humanoiden Neo-Haushaltsroboter so schnell wie möglich in US-Haushalte bringen. Mit der neuen Fabrik soll das gelingen.",
-      "url": "https://www.heise.de/news/1X-will-humanoiden-Haushaltsroboter-Neo-noch-2026-an-US-Kunden-ausliefern-11287035.html",
-      "image_title": "Humanoider Roboter Neo"
-    },
-    {
-      "title": "Dank KI: Im April so viele Firefox-Lücken geschlossen wie vorher in zwei Jahren",
-      "teaser": "Mit einem großen Update und kleineren Patches hat Mozilla im April 423 Firefox-Lücken geschlossen. Noch vor kurzem waren es pro Monat immer etwa zwei Dutzend.",
-      "url": "https://www.heise.de/news/Dank-KI-Im-April-so-viele-Firefox-Luecken-geschlossen-wie-vorher-in-zwei-Jahren-11287023.html",
-      "image_title": "Die Grafik zur Zahl der monatlich geschlossenen Firefox-Lücken: Bis zum Jahreswechsel imm so etwa 20, im April jetzt 423"
     },
     {
       "title": "RatgeberKaufpreis und Unterhalt im Vergleich: Die günstigsten Autos in Deutschland",
@@ -55,6 +54,18 @@
     {
       "title": "HintergrundAgentic Commerce: Wer haftet, wenn KI einkauft?",
       "url": "https://www.heise.de/hintergrund/Agentic-Commerce-Wer-haftet-wenn-KI-einkauft-11184822.html"
+    },
+    {
+      "title": "iCloud-Lock-in: Apple droht weiter Milliardenstrafe in Großbritannien",
+      "teaser": "Bis zu 3 Milliarden Pfund möchte eine Verbraucherschutzorganisation für iCloud-Nutzer einklagen. Apple wollte, dass nur für zahlende Kunden geklagt werden kann.",
+      "url": "https://www.heise.de/news/iCloud-Lock-in-Apple-droht-weiter-Milliardenstrafe-in-Grossbritannien-11286923.html",
+      "image_title": "iCloud"
+    },
+    {
+      "title": "1X Neo-Haushaltsroboter soll noch 2026 an US-Privatkunden gehen",
+      "teaser": "1X gibt Gas und will seine humanoiden Neo-Haushaltsroboter so schnell wie möglich in US-Haushalte bringen. Mit der neuen Fabrik soll das gelingen.",
+      "url": "https://www.heise.de/news/1X-will-humanoiden-Haushaltsroboter-Neo-noch-2026-an-US-Kunden-ausliefern-11287035.html",
+      "image_title": "Humanoider Roboter Neo"
     },
     {
       "title": "Counterpoint-Zahlen: Apple wächst bei Smartphones am schnellsten, iPhone 17 vorn",
@@ -132,18 +143,6 @@
       "teaser": "Private Haushalte müssen einen digitalen Stromzähler bekommen, aber nicht zwingend ein Smart Meter. Das klingt in Briefen eines alternativen Anbieters anders.",
       "url": "https://www.heise.de/news/Smart-Meter-Umstieg-Verbraucherschuetzer-warnt-vor-irrefuehrenden-Infobriefen-11286499.html",
       "image_title": "Two,Smart,Electric,Power,Meter,Counter,Measuring,Power,Usage.banner,advertisement.close-up,Of"
-    },
-    {
-      "title": "Streaming-Abgabe: So will Weimer Netflix & Co. zu Millioneninvestitionen zwingen",
-      "teaser": "Ein Gesetzentwurf von Kulturstaatsminister Weimer sieht vor, dass VoD-Riesen künftig acht Prozent ihres deutschen Umsatzes in lokale Produktionen reinvestieren.",
-      "url": "https://www.heise.de/news/Streaming-Abgabe-So-will-Weimer-Netflix-Co-zu-Millioneninvestitionen-zwingen-11286517.html",
-      "image_title": "Nahaufnahme eines Smartphone-Displays mit den Apps verschiedener Streaming-Dienste."
-    },
-    {
-      "title": "KI-Rechenzentren treiben ARM an",
-      "teaser": "Höhere Abgaben pro Prozessor und insgesamt mehr ARM-CPUs erhöhen ARMs Umsatz. Smartphones spielen kaum noch eine Rolle.",
-      "url": "https://www.heise.de/news/ARM-Der-Fokus-liegt-nur-noch-auf-KI-Rechenzentren-11286019.html",
-      "image_title": "Renderbild einer nackten CPU"
     },
     {
       "title": "UpdateNewsDNS-Probleme: .de-Domains nicht erreichbar",
