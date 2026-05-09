@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-09T07:03:39",
+  "timestamp": "2026-05-09T09:05:04",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -54,6 +54,12 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
       "src": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
       "id": null,
@@ -62,14 +68,38 @@
   ],
   "articles": [
     {
+      "title": "Uli Hoeneß im Interview: „Was mit den Preisen für die WM in den USA passiert, lehne ich total ab“",
+      "teaser": "Uli Hoeneß verrät im ausführlichen Gespräch, worum die Gegner den FC Bayern München beneiden, warum Handyfotos für ihn ein Fluch sind und welchen Fehler der Fußball-Weltverband FIFA begeht.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/uli-hoeness-im-interview-ueber-fc-bayern-muenchen-und-fifa-fussball-wm-accg-200812235.html"
+    },
+    {
+      "title": "Termine, Orte und Stadien: Spielplan der Fußball-WM 2026 in USA, Kanada und Mexiko",
+      "teaser": "Die Fußball-WM 2026 findet in den USA, Kanada und Mexiko statt. Vom 11. Juni bis 19. Juli stehen 104 Spiele an. Hier finden Sie alle Infos zum aktualisierten Spielplan mit Anstoßzeiten nach den Play-offs.",
+      "url": "https://www.faz.net/aktuell/sport/fussball-wm/spielplan-der-fussball-wm-2026-in-usa-kanada-und-mexiko-inklusive-pdf-110501704.html"
+    },
+    {
+      "title": "Fußball-WM und Diplomatie: Der Kanzler muss draußen bleiben",
+      "teaser": "Die Fußball-WM steht so kurz bevor, dass es wohl nicht mehr lange dauert, bis das deutsche Team aus dem Staate Trump zurückkehrt. Für den Kanzler könnte das Turnier zur diplomatischen Herausforderung werden.",
+      "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-bei-trump-wird-zur-herausforderung-fuer-kanzler-merz-200810754.html"
+    },
+    {
+      "title": "Liveblog Ukrainekrieg: Wie Putin die Militärparade in diesem Jahr inszeniert",
+      "teaser": "Russlands Präsident behauptet: „Unsere Helden schreiten voran“ +++ US-Präsident verkündet eine dreitägige Waffenruhe +++ Wadephul: „Sind bereit, mehr Verantwortung zu übernehmen“ +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wie-putin-die-militaerparade-in-diesem-jahr-inszeniert-faz-110683325.html",
+      "image_url": "https://media0.faz.net/image/w730/44fde943279a/w6144h3456x0y4/202605/43601.0.2062920681/russische-soldaten-am-samstag.webp",
+      "image_title": "Russische Soldaten am Samstag in Moskau"
+    },
+    {
+      "title": "Militärparade in Moskau: Trump erlöst Putin aus einem Dilemma",
+      "teaser": "Alles soll so sein wie immer, wenn Putin in Moskau zur Feier des Sieges von 1945 lädt. Doch das ist es nicht.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wie-putins-regime-zur-9-mai-feier-schwaeche-zeigt-accg-200811953.html",
+      "image_url": "https://media0.faz.net/image/w730/a437ce51a37a/w8192h4608x0y733/202605/43601.0.2056384670/sicherheitsvorkehrungen-vor.webp",
+      "image_title": "Sicherheitsvorkehrungen vor dem „Tag des Sieges“ in Moskau"
+    },
+    {
       "title": "Militärparade in Moskau: Trump erlöst Putin aus einem Dilemma",
       "teaser": "Alles soll so sein wie immer, wenn Putin in Moskau zur Feier des Sieges von 1945 lädt. Doch das ist es nicht.",
       "url": "https://www.faz.net/aktuell/politik/ausland/wie-putins-regime-zur-9-mai-feier-schwaeche-zeigt-accg-200811953.html"
-    },
-    {
-      "title": "Liveblog Ukrainekrieg: Trump: Russland und Ukraine tauschen je 1000 Gefangene aus",
-      "teaser": "US-Präsident verkündet eine dreitägige Waffenruhe +++ Wadephul: „Sind bereit, mehr Verantwortung zu übernehmen“ +++ Waldbrand bei Tschernobyl +++ Ukraine gehen Flugabwehrraketen aus +++ alle Neuigkeiten im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-trump-russland-und-ukraine-tauschen-je-1000-gefangene-aus-faz-110683325.html"
     },
     {
       "title": "Business-Ticker: Bahn kündigt Direktverbindung von Berlin nach Oslo an",
@@ -79,18 +109,32 @@
       "image_title": "Die Nachfrage nach Zügen des internationalen Fernverkehrs steigt nach Angaben der Deutschen Bahn stetig."
     },
     {
-      "title": "FAZ+Soziale Medien: Ist das das Ende des Social-Media-Zeitalters?",
-      "teaser": "Die sozialen Medien haben das vergangene Vierteljahrhundert geprägt wie keine andere Innovation. Doch ihre Bedeutung wächst nicht mehr.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/ist-das-das-ende-des-social-media-zeitalters-accg-200813278.html",
-      "image_url": "https://media0.faz.net/image/w730/183694d18c02/w3000h1687x0y0/202509/43601.0.1299884697/auf-instagram-werden-beitraege.webp",
-      "image_title": "Auf Instagram werden Beiträge seltener geteilt, geliket oder kommentiert."
+      "title": "Deutschland-Liveblog: Trump erwägt Verlegung von US-Truppen aus Deutschland nach Polen",
+      "teaser": "US-Präsident: Polen würde das begrüßen +++ Andreas Jung soll neuer Kultusminister in Baden-Württemberg werden +++ Bas sieht sich nach Migrations-Aussage falsch verstanden +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-trump-erwaegt-verlegung-von-us-truppen-aus-deutschland-nach-polen-faz-110093143.html",
+      "image_url": "https://media0.faz.net/image/w730/9cd78047bbb7/w6000h3375x0y416/202605/43601.0.2062445924/trump-am-freitag-in-washington.webp",
+      "image_title": "Trump am Freitag in Washington"
     },
     {
-      "title": "Gerichtsprozess: Ex-Mitarbeiterin von Sam Altman: „Sie wollen dich nicht“",
-      "teaser": "Der Rechtsstreit zwischen Elon Musk und Sam Altman wirft ein neues Licht auf eines der größten Führungsdramen der vergangenen Jahre im Silicon Valley. Eine prominente Zeugin zeichnet ein wenig schmeichelhaftes Bild von Altman.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ex-mitarbeiterin-von-sam-altman-sie-wollen-dich-nicht-200812886.html",
-      "image_url": "https://media0.faz.net/image/w730/193eb96cf2e4/w3606h2028x0y0/202605/43601.0.2054563847/ex-openai-mitarbeiterin-mira.webp",
-      "image_title": "Ex OpenAI-Mitarbeiterin Mira Murati"
+      "title": "FAZ+Die Woche an der Börse: So profitieren deutsche Chipaktien vom KI-Boom",
+      "teaser": "Das Aktientief aus dem März ist längst vergessen. Der deutsche Leitindex Dax springt auf mehr als 25.000 Punkte – und die US-Börsen feiern Rekorde.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/boerse-so-profitieren-deutsche-chipaktien-vom-ki-boom-accg-200812807.html",
+      "image_url": "https://media0.faz.net/image/w730/ec1af19921e9/w5941h3342x0y310/202602/43601.0.1731388853/hightech-made-in-germany.webp",
+      "image_title": "Hightech made in Germany: Chipfabrik von Infineon in Dresden, in der Mitte Bundeswirtschaftsministerin Reiche, links Sachsens Ministerpräsident Kretschmer"
+    },
+    {
+      "title": "3:2 gegen Eintracht: Echte BVB-Liebe zum Abschied",
+      "teaser": "Was hätten sie nicht alles erreichen können? Zum Abschied von Süle und Brandt feiern die Dortmunder sich und ihre Hochbegabten mit einer gewissen Wehmut.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-echte-liebe-beim-bvb-zum-abschied-von-suele-und-brandt-accg-200815654.html",
+      "image_url": "https://media0.faz.net/image/w730/dda9c6b4d67c/w6144h3456x0y320/202605/43601.0.2061753379/abschiedsstimmung-niklas-suele.webp",
+      "image_title": "Abschiedsstimmung: Niklas Süle, Julian Brandt und Salih Özcan (v.l.) werden beim BVB noch einmal gefeiert"
+    },
+    {
+      "title": "FAZ+Billie Eilish-Konzertfilm: Wenn Fans während der Vorführung durchs Kino tanzen",
+      "teaser": "Vegan und umweltbewusst, queer und radikal ehrlich: Mit fast 25 Jahren ist Billie Eilish erwachsen geworden. Jetzt läuft James Camerons Konzertfilm, „Hit Me Hard and Soft: The Tour“ im Kino. Beobachtungen eines Fans.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/billie-eilish-hit-me-hard-and-soft-the-tour-im-kino-accg-200810397.html",
+      "image_url": "https://media0.faz.net/image/w730/589ac1ae94d4/w3900h2194x0y240/202605/ae001307-c347-4401-a72a-114666a2566b/hit-me-hard-and-soft-ist-schon.webp",
+      "image_title": "„Hit Me Hard and Soft“ ist schon der dritte große Billie-Eilish-Film. Er orientiert sich an Justin Biebers „Never Say Never“ und „Believe“."
     },
     {
       "title": "FAZ+Dating-Kolumne: Wer bezahlt beim ersten Date?",
@@ -100,18 +144,11 @@
       "image_title": "Darf die Frau beim ersten Date die Rechnung übernehmen?"
     },
     {
-      "title": "Das Beste lesen mit FAZ+: Frühes Erbe und Hoffnung für ME/CFS-Betroffene",
-      "teaser": "Mit unserem Angebot FAZ+ erhalten Sie jeden Monat Zugriff auf exklusive Beiträge auf FAZ.NET. Unter anderem auf diese ausgewählten Stücke der Woche.",
-      "url": "https://www.faz.net/aktuell/das-beste-von-faz-plus/aerztin-mit-long-covid-hoffnung-fuer-me-cfs-betroffene-200809714.html",
-      "image_url": "https://media0.faz.net/image/w730/874771e97aa7/w2795h1572x0y104/202511/43601.0.1457484189/betroffene-von-me-cfs-sind-oft.webp",
-      "image_title": "Betroffene von ME/CFS sind oft von kleinen Alltagsaufgaben und Reizen erschöpft."
-    },
-    {
-      "title": "Digitalwirtschaft-Podcast: Google obenauf, Amazons Werbegeschäft brummt – und was ist mit Apple und Meta?",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-digitalwirtschaft/google-obenauf-amazons-werbegeschaeft-brummt-was-ist-mit-apple-200812189.html",
-      "image_url": "https://media0.faz.net/image/w730/834fcd06466b/w3221h1812x0y147/202601/43601.0.1655211667/alphabet-ceo-sundar-pichai.webp",
-      "image_title": "Alphabet-CEO Sundar Pichai: Sein Unternehmen ist bald wohl das wertvollste der Welt."
+      "title": "Bundesliga: Abstiegsherz",
+      "teaser": "Es wimmelt nur so von Vereinen, die angeblich unbedingt in die Erste Liga gehören. Zuletzt wurde sogar Wolfsburg genannt. Wer soll dann noch absteigen? Und was ist mit Elversberg?",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/erste-liga-wer-soll-absteigen-200813996.html",
+      "image_url": "https://media0.faz.net/image/w100/cf7761288ba2/w492h492x259y78/201108/1.1125993/juergen-kaube.webp",
+      "image_title": "Jürgen Kaube"
     },
     {
       "title": "Künstliche Intelligenz: Trumps KI-Politik war viel zu einseitig",
@@ -121,11 +158,11 @@
       "image_title": "Roland Lindner, New York"
     },
     {
-      "title": "Stephen Colbert geht: Warum kriegt das deutsche Fernsehen so einen nicht hin?",
-      "teaser": "Mit seiner „Late Show“ geht Stephen Colbert am 21. Mai zum letzten Mal auf Sendung. Eine taktische Entscheidung seines Senders, zu der auch Colberts Vorgänger David Letterman nichts mehr einfällt. Eine Frage aber bleibt.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow-aus-von-stephen-colbert-so-einen-brauchen-wir-auch-in-deutschland-200808288.html",
-      "image_url": "https://media0.faz.net/image/w100/f33d83f090cd/w412h412x282y94/201911/1.6467781/tobias-ruether.webp",
-      "image_title": "Tobias Rüther"
+      "title": "Cem Özdemir: Er ist jetzt der wichtigste Grüne",
+      "teaser": "Als Ministerpräsident von Baden-Württemberg steht Özdemir vor großen politischen Herausforderungen. Seine Antworten darauf werden in der Mitte mehrheitsfähig sein – und in die Partei hineinwirken.",
+      "url": "https://www.faz.net/aktuell/politik/inland/cem-oezdemir-ist-jetzt-der-wichtigste-gruene-200812747.html",
+      "image_url": "https://media0.faz.net/image/w100/0adbd0b5a26a/w479h479x256y84/201806/1.5639566/ruediger-soldt.webp",
+      "image_title": "Rüdiger Soldt, Stuttgart"
     },
     {
       "title": "Bundesrat stoppt Koalition: Die Entlastungsprämie war ein teurer Fehler",
@@ -140,11 +177,14 @@
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/karl-mannheim-die-urspruenge-der-wehrhaften-demokratie-200813350.html"
     },
     {
-      "title": "Nächtliche Ruhestörung: Ungebetener Gast",
-      "teaser": "Vor zwei Jahren hat das Insektenhotel auf dem Balkon eröffnet. Seitdem brummt und summt der Laden. Bis der Gartenschläfer Langeweile bekommt.",
-      "url": "https://www.faz.net/aktuell/technik-motor/gartenschlaefer-auf-dem-balkon-ungebetener-gast-200777237.html",
-      "image_url": "https://media0.faz.net/image/w100/a05342ef56e8/w414h414x281y65/202401/1.9476134/julia-fietz.webp",
-      "image_title": "Julia Fietz"
+      "title": "Gen-Daten ausgewertet: Warum die Völkerwanderung ein Mythos ist",
+      "teaser": "Was geschah im Grenzland nach dem Kollaps des Römischen Reichs? Mainzer Forscher haben Erbmaterial aus Gräbern analysiert. Ihre Ergebnisse räumen mit alten Irrtümern auf.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/gen-analysen-zeigen-voelkerwanderung-ist-ein-mythos-accg-200799364.html"
+    },
+    {
+      "title": "Geisel-Alarm: Tätersuche dauert nach Großeinsatz in Sinziger Bank an",
+      "teaser": "Eine mutmaßliche Geiselnahme in einer Bank sorgt am Freitag für einen Großeinsatz in Sinzig – doch als Einsatzkräfte das Gebäude durchsuchen, sind der oder die Täter weg. Was ist passiert?",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/taetersuche-dauert-nach-grosseinsatz-in-sinziger-bank-an-accg-200815685.html"
     },
     {
       "title": "Kurz bei Linnemann: Hat da jemand „Brandmauer“ gesagt?",
@@ -157,45 +197,35 @@
       "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/datenbankproblem-im-justizministerium-accg-200814031.html"
     },
     {
-      "title": "Liveblog Irankrieg: Qatars Regierungschef fordert Wiederbelebung von Verhandlungen",
-      "teaser": "Iran: Gefechte in Straße von Hormus beendet +++ Große Einschränkungen an iranischen Universitäten +++ Medien: Möglicher Ölteppich vor iranischer Insel Kharg +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-qatars-regierungschef-fordert-wiederbelebung-von-verhandlungen-faz-200583539.html"
-    },
-    {
-      "title": "Ausbruch auf Kreuzfahrt: WHO: Sechs Hantavirus-Fälle bestätigt",
-      "teaser": "In sechs der acht Verdachtsfälle bestätigt die Weltgesundheitsorganisation eine Infektionen mit dem Virus. Das betroffene Schiff soll am Sonntag auf Teneriffa ankommen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/who-sechs-hantavirus-faelle-bestaetigt-accg-200815357.html"
+      "title": "Zukunft der Kirche: Wie ein Pfarrer die Kirche in Ostdeutschland wiederbeleben will",
+      "teaser": "Pfarrer Justus Geilhufe will sich nicht damit abfinden, dass die Kirche in Ostdeutschland stirbt. Mit Social Media und Glaubenskursen kämpft er für ihr Überleben – und gegen die AfD.",
+      "url": "https://www.faz.net/aktuell/politik/inland/pfarrer-justus-geilhufe-kirche-im-osten-neu-beleben-200798991.html",
+      "image_url": "https://media0.faz.net/image/w920/831fd4de4ab7/w5200h2925x0y393/202604/43601.0.1991086306/mit-klarer-mission-justus.webp",
+      "image_title": "Mit klarer Mission: Justus Geilhufe ist Pfarrer einer evangelischen Dorfkirche im sächsischen Großschirma."
     },
     {
       "title": "FAZ+Familien unerwünscht: Kinder müssen draußen bleiben",
       "teaser": "Sie werden nicht zur Hochzeit eingeladen, aus Hallenbädern ausgesperrt und bekommen Stress im ICE. Sind die Deutschen kinderfeindlich?",
       "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/als-familie-im-ice-ruhebereich-sind-die-deutschen-kinderfeindlich-accg-200787156.html",
-      "image_url": "https://media0.faz.net/image/w920/d917a7110bf0/w5472h3078x0y513/202605/43601.0.2042711209/eine-zugfahrt-mit-kindern.webp",
+      "image_url": "https://media0.faz.net/image/w730/d917a7110bf0/w5472h3078x0y513/202605/43601.0.2042711209/eine-zugfahrt-mit-kindern.webp",
       "image_title": "Eine Zugfahrt mit Kindern könnte entspannt sein, wenn es mehr Platz für Familien gäbe."
     },
     {
-      "title": "FAZ+Konflikte in der Beziehung: „Niemand ist dafür da, unsere Bedürfnisse zu erfüllen“",
-      "teaser": "Hinter vielen Konflikten steht der Wunsch, dass der Partner sich verändert. Paartherapeut Eric Hegmann erklärt, warum das der falsche Ansatz ist, wie Paare stattdessen Probleme lösen können und wie echte Nähe entsteht.",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/wie-man-als-paar-konflikte-am-besten-loesen-kann-accg-200776885.html",
-      "image_url": "https://media0.faz.net/image/w730/347e0b9b3c0f/w8129h4573x0y127/202604/43601.0.2026872938/bei-einem-streit-folgt-oft.webp",
-      "image_title": "Bei einem Streit folgt oft Stressreaktion auf Stressreaktion."
+      "title": "FAZ+Familien unerwünscht: Kinder müssen draußen bleiben",
+      "teaser": "Sie werden nicht zur Hochzeit eingeladen, aus Hallenbädern ausgesperrt und bekommen Stress im ICE. Sind die Deutschen kinderfeindlich?",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/als-familie-im-ice-ruhebereich-sind-die-deutschen-kinderfeindlich-accg-200787156.html"
     },
     {
-      "title": "FAZ+Konflikte in der Beziehung: „Niemand ist dafür da, unsere Bedürfnisse zu erfüllen“",
-      "teaser": "Hinter vielen Konflikten steht der Wunsch, dass der Partner sich verändert. Paartherapeut Eric Hegmann erklärt, warum das der falsche Ansatz ist, wie Paare stattdessen Probleme lösen können und wie echte Nähe entsteht.",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/wie-man-als-paar-konflikte-am-besten-loesen-kann-accg-200776885.html"
+      "title": "FAZ+Besserung bei ME/CFS: „Nach drei Wochen konnte ich wieder am Sozialleben teilnehmen“",
+      "teaser": "Eine Ärztin erkrankt nach einer Corona-Infektion so schwer an ME/CFS, dass sie nicht mehr allein essen und zur Toilette gehen kann. Doch dann entdeckt sie nach und nach, was ihr hilft. Nun will sie anderen Betroffenen Mut machen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/sie-nimmt-wieder-am-leben-teil-aerztin-mit-me-cfs-macht-hoffnung-accg-200785387.html",
+      "image_url": "https://media0.faz.net/image/w730/3357a0a3653b/w2262h1272x0y0/202604/05ffbe76-43c1-11f1-9281-31aaf6e0cb39/me-cfs-patienten-beschreiben.webp",
+      "image_title": "ME/CFS-Patienten beschreiben ihren Zustand als permanente schwere Erschöpfung. Darüber hinaus leiden sie unter vielen weiteren Symptomen wie chronischen Schmerzen und „Brain Fog“."
     },
     {
-      "title": "Kolumne Gesundheitsmythen: Wie Cola auf die Stimmung schlägt",
-      "teaser": "Limonaden und Energy Drinks machen nicht nur dick, sie können Ängste und Depressionen begünstigen. Wissenschaftler haben nun herausgefunden, woran das liegt. Frauen sollten besonders vorsichtig sein.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-softdrinks-depressiv-machen-accg-200785122.html",
-      "image_url": "https://media0.faz.net/image/w730/eb93c042beda/w4909h2761x515y0/202605/43601.0.2045927077/macht-limonade-gluecklich.webp",
-      "image_title": "Macht Limonade glücklich?"
-    },
-    {
-      "title": "Kolumne Gesundheitsmythen: Wie Cola auf die Stimmung schlägt",
-      "teaser": "Limonaden und Energy Drinks machen nicht nur dick, sie können Ängste und Depressionen begünstigen. Wissenschaftler haben nun herausgefunden, woran das liegt. Frauen sollten besonders vorsichtig sein.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-softdrinks-depressiv-machen-accg-200785122.html"
+      "title": "FAZ+Besserung bei ME/CFS: „Nach drei Wochen konnte ich wieder am Sozialleben teilnehmen“",
+      "teaser": "Eine Ärztin erkrankt nach einer Corona-Infektion so schwer an ME/CFS, dass sie nicht mehr allein essen und zur Toilette gehen kann. Doch dann entdeckt sie nach und nach, was ihr hilft. Nun will sie anderen Betroffenen Mut machen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/sie-nimmt-wieder-am-leben-teil-aerztin-mit-me-cfs-macht-hoffnung-accg-200785387.html"
     },
     {
       "title": "Audioanlage von AVM: Alles auf einmal",
@@ -205,11 +235,11 @@
       "image_title": "Da klingen die Glocken: High-End-Anlage von AVM"
     },
     {
-      "title": "Physik des Footballs: Das Rätsel um den Spiralpass",
-      "teaser": "Warum eignet sich das Sportgerät im American Football für präzise Würfe? Die Lösung liegt in der außergewöhnlichen Aerodynamik.",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-des-footballs-warum-der-ball-so-praezise-fliegt-accg-200805701.html",
-      "image_url": "https://media0.faz.net/image/w920/d732477466d5/w4157h2338x0y118/202601/43601.0.1702168184/passempfaenger-jaxon-smith.webp",
-      "image_title": "Passempfänger Jaxon Smith-Njigba fängt den Ball zum Touchdown."
+      "title": "Naturparadies mit Golfplatz: Exzentrisch in Yorkshire",
+      "teaser": "Charles Waterton war nicht nur Naturforscher und Exzentriker – er war auch seiner Zeit voraus. Zu Besuch in seinem ummauerten Paradies in West-Yorkshire in England, wo man heute übernachten kann.",
+      "url": "https://www.faz.net/aktuell/reise/exzentrisch-in-yorkshire-naturparadies-mit-golfplatz-accg-200808282.html",
+      "image_url": "https://media0.faz.net/image/w920/4584fee3cd6c/w4373h2460x466y0/202605/a0170886-47a2-11f1-bb40-ba1c78b1c919/das-waterton-park-hotel-in.webp",
+      "image_title": "Das Waterton Park Hotel in West Yorkshire"
     },
     {
       "title": "Alltag im Büro: So baut KI eine Powerpoint-Datei in wenigen Minuten",
@@ -271,10 +301,17 @@
       "image_title": "Linsensalat – die pflanzliche Proteinbombe für gesunden Genuss"
     },
     {
+      "title": "Vilseck: Geplanter US-Truppenabzug aus Deutschland: „Die Folgen wären dramatisch“",
+      "teaser": "Video",
+      "url": "https://www.faz.net/video/geplanter-us-truppenabzug-aus-deutschland-die-folgen-waeren-dramatisch-200815684.html",
+      "image_url": "https://media0.faz.net/image/w920/f6a4a5fac399/w3544h1518x0y363/202605/43601.0.2039634720/dpa.webp",
+      "image_title": "dpa"
+    },
+    {
       "title": "Täter auf der Flucht: Geiselnahme in Sinziger Bank beendet",
       "teaser": "Video",
       "url": "https://www.faz.net/video/geiselnahme-in-sinziger-bank-beendet-taeter-auf-der-flucht-200814290.html",
-      "image_url": "https://media0.faz.net/image/w920/6d2adaf5d0eb/w5500h2357x0y655/202605/43601.0.2060978749/reuters.webp",
+      "image_url": "https://media0.faz.net/image/w730/57ccfe0ec517/w5500h3094x0y287/202605/43601.0.2060978749/reuters.webp",
       "image_title": "Reuters"
     },
     {
@@ -283,13 +320,6 @@
       "url": "https://www.faz.net/video/bundesrat-stoppt-1000-euro-entlastungspraemie-200814087.html",
       "image_url": "https://media0.faz.net/image/w730/618546981576/w4032h2268x0y210/202605/43601.0.2060234273/picture-alliance.webp",
       "image_title": "Picture Alliance"
-    },
-    {
-      "title": "Dax unter Druck: Iran-Konflikt belastet deutschen Aktienmarkt",
-      "teaser": "Video",
-      "url": "https://www.faz.net/video/iran-konflikt-belastet-deutschen-aktienmarkt-200813747.html",
-      "image_url": "https://media0.faz.net/image/w730/80e1aef7bca6/w960h540x0y0/202605/34b2f00a-9668-418b-9245-f19cf2a0708c/reuters.webp",
-      "image_title": "Reuters"
     },
     {
       "title": "F.A.Z. Machtprobe: Russlands Wirtschaft stottert: „Sitzt im Kreml noch ein 'Strongman'?“",
@@ -313,11 +343,39 @@
       "image_title": "Hauruckaktion: Helfer versuchen mit Gurten den gestrandeten Buckelwal vor der Insel Poel zu einem Transportschiff zu ziehen. Foto vom 28.04.2026"
     },
     {
-      "title": "Zukunft der Kirche: Wie ein Pfarrer die Kirche in Ostdeutschland wiederbeleben will",
-      "teaser": "Pfarrer Justus Geilhufe will sich nicht damit abfinden, dass die Kirche in Ostdeutschland stirbt. Mit Social Media und Glaubenskursen kämpft er für ihr Überleben – und gegen die AfD.",
-      "url": "https://www.faz.net/aktuell/politik/inland/pfarrer-justus-geilhufe-kirche-im-osten-neu-beleben-200798991.html",
-      "image_url": "https://media0.faz.net/image/w1200/831fd4de4ab7/w5200h2925x0y393/202604/43601.0.1991086306/mit-klarer-mission-justus.webp",
-      "image_title": "Mit klarer Mission: Justus Geilhufe ist Pfarrer einer evangelischen Dorfkirche im sächsischen Großschirma."
+      "title": "Fußball-WM und Hitze: Schuljahr in Mexiko soll 40 Tage früher enden",
+      "teaser": "Dass Kinder wegen einer erwarteten Hitzewelle und der Fußball-WM weniger Unterricht bekommen sollen, erregt die Gemüter in Mexiko. Ein Bundesstaat will sich der Regierung widersetzen.",
+      "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-in-mexiko-soll-schuljahr-frueher-enden-accg-200815620.html",
+      "image_url": "https://media0.faz.net/image/w1200/e066fdcffc18/w3000h1687x0y108/202511/43601.0.1446425507/die-mexikanische-praesidentin.webp",
+      "image_title": "Die mexikanische Präsidentin Claudia Sheinbaum (M.) schaut sich während einer Pressekonferenz eine Aufführung im Kulturkomplex Los Pinos an."
+    },
+    {
+      "title": "anschlusstor kommt zu spät: Nächste Niederlage für Rieras Frankfurt: Dortmund gewinnt letztes Heimspiel",
+      "teaser": "Frankfurt schockt Dortmund früh, doch der BVB dreht das Spiel und ist damit sicher Meisterschaftszweiter. Bei der Eintracht hingegen muss Riera weiter um seinen Job zittern.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/dortmund-schlaegt-frankfurt-in-der-bundesliga-200697247.html",
+      "image_url": "https://media0.faz.net/image/w730/89e58d46996e/w2581h1452x0y0/202605/43601.0.2062029153/im-letzten-heimspiel-der.webp",
+      "image_title": "Im letzten Heimspiel der Saison gewinnt Borussia Dortmund knapp mit 3:2 gegen Eintracht Frankfurt."
+    },
+    {
+      "title": "außenseiter schlägt idol: Djokovic scheitert beim Comeback früh in Rom",
+      "teaser": "Beim Masters in der italienischen Hauptstadt will sich Novak Djokovic für die French Open einspielen. Doch viel Spielpraxis sammelt er dort nicht – schon nach dem ersten Match ist für ihn Schluss.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/djokovic-scheitert-beim-masters-in-rom-frueh-200814947.html",
+      "image_url": "https://media0.faz.net/image/w730/7607929a769b/w3796h2135x0y0/202605/43601.0.2061735949/serbiens-superstar-novak.webp",
+      "image_title": "Serbiens Superstar Novak Djokovic (l.) muss sich beim Masters in Rom bereits früh verabschieden."
+    },
+    {
+      "title": "zweite bundesliga am Freitag: Paderborn patzt im Aufstiegsrennen – Bielefeld muss weiter zittern",
+      "teaser": "Der Tabellendritte aus Paderborn kommt zuhause nicht über ein Unentschieden hinaus und erlebt damit den nächsten Dämpfer. Bielefeld verliert derweil auf dem Betzenberg.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-bundesliga-paderborn-patzt-im-aufstiegsrennen-200683061.html",
+      "image_url": "https://media0.faz.net/image/w730/83d7a24129f3/w3499h1968x0y199/202605/43601.0.2061746393/im-aufstiegsrennen-musste.webp",
+      "image_title": "Im Aufstiegsrennen musste Paderborn zuhause gegen Karlsruhe zwei Gegentreffer hinnehmen."
+    },
+    {
+      "title": "Liveblog Irankrieg: Qatars Regierungschef fordert Wiederbelebung von Verhandlungen",
+      "teaser": "Iran: Gefechte in Straße von Hormus beendet +++ Große Einschränkungen an iranischen Universitäten +++ Medien: Möglicher Ölteppich vor iranischer Insel Kharg +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-iran-krieg-qatars-regierungschef-fordert-wiederbelebung-von-verhandlungen-faz-200583539.html",
+      "image_url": "https://media0.faz.net/image/w1200/5571c2e51440/w5500h3094x0y372/202605/43601.0.2062253616/qatars-regierungschef-mohammed.webp",
+      "image_title": "Qatars Regierungschef Mohammed bin Abdelrahman Al-Thani"
     },
     {
       "title": "Vom Saulus zum Paulus?: Wie ein Altnazi die Friedensbewegung mitprägte",
@@ -334,17 +392,24 @@
       "image_title": "„Kinder nutzen heute im Durchschnitt mit sieben Jahren bereits ein Smartphone, das ist viel zu früh.“"
     },
     {
-      "title": "Deutschland-Liveblog: Bas: „Es ging mir um Fachkräfte“",
-      "teaser": "Bundesarbeitsministerin sieht sich nach Migrations-Aussage falsch verstanden +++ Bundesrat stoppt 1000-Euro-Entlastungsprämie für Arbeitnehmer +++ Sozialverband enttäuscht +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveblog-bundespolitik-bas-fuehlt-sich-nach-migrations-aussage-falsch-verstanden-faz-110093143.html",
-      "image_url": "https://media0.faz.net/image/w730/e6b8b8e726a6/w6000h3375x0y117/202605/43601.0.2056045265/baerbel-bas-spricht-am-7-5-26.webp",
-      "image_title": "Bärbel Bas spricht am 7.5.26 in der Debatte im Plenarsaal im Bundestag."
+      "title": "Wahlen in Großbritannien: Starmer wehrt sich gegen Rücktrittsforderungen",
+      "teaser": "Nigel Farages Reform UK gewinnt die Kommunalwahlen in England. Verlierer Keir Starmer spricht von „harten Ergebnissen“ – und gerät in seiner Partei unter Druck.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/england-labour-partei-stuerzt-bei-kommunalwahlen-ab-accg-200811671.html",
+      "image_url": "https://media0.faz.net/image/w730/9fff62ad4939/w3068h1725x490y0/202605/43601.0.2059835167/ich-uebernehme-die.webp",
+      "image_title": "„Ich übernehme die Verantwortung dafür“: Keir Starmer am Tag nach der Wahl"
+    },
+    {
+      "title": "FAZ+Soziale Medien: Ist das das Ende des Social-Media-Zeitalters?",
+      "teaser": "Die sozialen Medien haben das vergangene Vierteljahrhundert geprägt wie keine andere Innovation. Doch ihre Bedeutung wächst nicht mehr.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ist-das-das-ende-des-social-media-zeitalters-accg-200813278.html",
+      "image_url": "https://media0.faz.net/image/w1200/183694d18c02/w3000h1687x0y0/202509/43601.0.1299884697/auf-instagram-werden-beitraege.webp",
+      "image_title": "Auf Instagram werden Beiträge seltener geteilt, geliket oder kommentiert."
     },
     {
       "title": "Kerosin-Engpässe: Flughafenverband warnt vor Millionen Flugstreichungen",
       "teaser": "Preise für den Flugtreibstoff Kerosin schnellten zuletzt wegen des Irankriegs in die Höhe. Flüge könnten deshalb dieses Jahr teurer werden – oder ganz ausfallen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/flugstreichungen-wegen-kerosinkrise-millionen-betroffen-accg-200815264.html",
-      "image_url": "https://media0.faz.net/image/w1200/59bb220d7a4c/w6000h3375x0y167/202605/43601.0.2051260914/viele-fluege-koennten-bald.webp",
+      "image_url": "https://media0.faz.net/image/w730/59bb220d7a4c/w6000h3375x0y167/202605/43601.0.2051260914/viele-fluege-koennten-bald.webp",
       "image_title": "Viele Flüge könnten bald gestrichen werden."
     },
     {
@@ -365,14 +430,14 @@
       "title": "Verzögertes Fregattenprojekt: Wie Rheinmetall an einen 12-Milliarden-Auftrag der Marine kommen könnte",
       "teaser": "Die Marine ist ein ganz neues Feld für Rheinmetall. Aber das Desaster um die Fregatte F126 beschert dem Konzern die Chance, sich als Retter zu positionieren – für gutes Geld natürlich.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-rheinmetall-an-einen-12-milliarden-auftrag-der-marine-kommen-koennte-200812135.html",
-      "image_url": "https://media0.faz.net/image/w730/842d3b0ac0b5/w7505h4222x0y0/202603/43601.0.1897539805/prestigeprojekt.webp",
+      "image_url": "https://media0.faz.net/image/w920/f8364cc5e5ba/w8256h3538x0y350/202603/43601.0.1897539805/prestigeprojekt.webp",
       "image_title": "Prestigeprojekt: Verteidigungsminister Boris Pistorius (SPD) spricht zur Kiellegung der Fregatte F126 Niedersachsen auf der Peene-Werft."
     },
     {
       "title": "Gender- und Klimaforschung: Wie die AfD die Universitäten umbauen will",
       "teaser": "Die AfD verspricht den Hochschulen Befreiung von Bürokratie und politischer Gängelung. Doch die Partei will selbst festlegen, welche Forschungsansätze legitim sind. Für unliebsame Fächer könnte das das Aus bedeuten.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/gegen-klimaforschung-und-genderstudies-die-wissenschaftspolitik-der-afd-200812528.html",
-      "image_url": "https://media0.faz.net/image/w920/65154c97ebe6/w2479h1062x0y113/202505/43601.0.1040725405/massgeblicher-kopf-hinter-der.webp",
+      "image_url": "https://media0.faz.net/image/w730/1a2a1ca8ac8f/w2727h1534x0y176/202505/43601.0.1040725405/massgeblicher-kopf-hinter-der.webp",
       "image_title": "Maßgeblicher Kopf hinter der Wissenschafts- und Kulturpolitik der AfD, nicht nur in Sachsen-Anhalt: Hans-Thomas Tillschneider."
     },
     {
@@ -381,13 +446,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/automobilzulieferer-kahlschlag-im-harz-bald-keine-auftraege-mehr-von-vw-accg-200808275.html",
       "image_url": "https://media0.faz.net/image/w730/d87fa4cb73e8/w5455h3068x0y1023/202605/15a4ccca-7d7c-4151-b8f4-a1ce09571834/ig-metall-kundgebung-die.webp",
       "image_title": "IG-Metall-Kundgebung: Die Feuerwehr hält Bengalos hinter den Teilnehmern hoch."
-    },
-    {
-      "title": "Präsidiale Hauptstadt: So will Trump Washington umbauen",
-      "teaser": "Donald Trumps Bauprojekte inszenieren vor allem seine Macht. Sie sollen aber auch eine andere amerikanische Geschichte erzählen. Seinem Revisionismus könnten auch Meisterwerke der amerikanischen Moderne zum Opfer fallen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/architektur/trumps-umbauplaene-fuer-washington-geschichtsrevisionismus-mit-goldglanz-accg-200809702.html",
-      "image_url": "https://media0.faz.net/image/w730/bdf8b60a05f9/w6144h3456x0y51/202604/43601.0.1967887552/us-praesident-donald-trump.webp",
-      "image_title": "US-Präsident Donald Trump zeigt bei einem Abendessen für Spender, die zum Bau des neuen Ballsaals im Weißen Haus beigetragen haben, das Modell (s)eines Triumphbogens."
     },
     {
       "title": "Neues vom Finanzplatz: Vorstand verkauft Deutsche-Bank-Aktien für fünf Millionen Euro",
@@ -467,38 +525,17 @@
       "image_title": "Homeschooling in den USA: Unterricht zu Hause in Morristown"
     },
     {
-      "title": "anschlusstor kommt zu spät: Nächste Niederlage für Rieras Frankfurt: Dortmund gewinnt letztes Heimspiel",
-      "teaser": "Frankfurt schockt Dortmund früh, doch der BVB dreht das Spiel und ist damit sicher Meisterschaftszweiter. Bei der Eintracht hingegen muss Riera weiter um seinen Job zittern.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/dortmund-schlaegt-frankfurt-in-der-bundesliga-200697247.html",
-      "image_url": "https://media0.faz.net/image/w1200/89e58d46996e/w2581h1452x0y0/202605/43601.0.2062029153/im-letzten-heimspiel-der.webp",
-      "image_title": "Im letzten Heimspiel der Saison gewinnt Borussia Dortmund knapp mit 3:2 gegen Eintracht Frankfurt."
-    },
-    {
-      "title": "außenseiter schlägt idol: Djokovic scheitert beim Comeback früh in Rom",
-      "teaser": "Beim Masters in der italienischen Hauptstadt will sich Novak Djokovic für die French Open einspielen. Doch viel Spielpraxis sammelt er dort nicht – schon nach dem ersten Match ist für ihn Schluss.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/djokovic-scheitert-beim-masters-in-rom-frueh-200814947.html",
-      "image_url": "https://media0.faz.net/image/w730/7607929a769b/w3796h2135x0y0/202605/43601.0.2061735949/serbiens-superstar-novak.webp",
-      "image_title": "Serbiens Superstar Novak Djokovic (l.) muss sich beim Masters in Rom bereits früh verabschieden."
-    },
-    {
-      "title": "zweite bundesliga am Freitag: Paderborn patzt im Aufstiegsrennen – Bielefeld muss weiter zittern",
-      "teaser": "Der Tabellendritte aus Paderborn kommt zuhause nicht über ein Unentschieden hinaus und erlebt damit den nächsten Dämpfer. Bielefeld verliert derweil auf dem Betzenberg.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-bundesliga-paderborn-patzt-im-aufstiegsrennen-200683061.html",
-      "image_url": "https://media0.faz.net/image/w730/83d7a24129f3/w3499h1968x0y199/202605/43601.0.2061746393/im-aufstiegsrennen-musste.webp",
-      "image_title": "Im Aufstiegsrennen musste Paderborn zuhause gegen Karlsruhe zwei Gegentreffer hinnehmen."
-    },
-    {
-      "title": "deutsches duell in runde zwei: Wechselhafter Zverev besiegt Altmaier in Rom",
-      "teaser": "Der erste Auftritt von Deutschlands Tennisstar Alexander Zverev beim Masters in Rom ist ein hartes Stück Arbeit. Gegen seinen Landsmann Daniel Altmaier lässt er viele Chancen zu – und das hat Gründe.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/atp-masters-in-rom-zverev-besiegt-altmaier-200814689.html",
-      "image_url": "https://media0.faz.net/image/w730/9e0a118f47fc/w3072h1728x0y186/202605/43601.0.2061407790/nach-einem-engen-duell-jubelt.webp",
-      "image_title": "Nach einem engen Duell jubelt Alexander Zverev am Ende über das Weiterkommen in der zweiten Runde in Rom."
+      "title": "Ausbruch auf Kreuzfahrt: WHO: Sechs Hantavirus-Fälle bestätigt",
+      "teaser": "Bei sechs der acht Verdachtsfälle bestätigt die Weltgesundheitsorganisation eine Infektion mit dem Hantavirus. Das betroffene Schiff soll am Sonntag auf Teneriffa ankommen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/who-sechs-hantavirus-faelle-bestaetigt-accg-200815357.html",
+      "image_url": "https://media0.faz.net/image/w1200/d3df46994fe4/w2924h1645x0y0/202605/43601.0.2062341086/kreuzfahrtschiff-hondius.webp",
+      "image_title": "Kreuzfahrtschiff „Hondius“"
     },
     {
       "title": "Hantavirus: Schiffs-Ankunft auf Teneriffa wird vorbereitet",
       "teaser": "Das vom Hantavirus betroffene Schiff steuert Teneriffa an. Die gute Nachricht: Derzeit hat niemand an Bord Symptome. Die schlechte Nachricht: Entwarnung ist erst nach acht Wochen möglich.",
       "url": "https://www.faz.net/aktuell/gesellschaft/hantavirus-schiffs-ankunft-auf-teneriffa-wird-vorbereitet-200814819.html",
-      "image_url": "https://media0.faz.net/image/w1200/9e93dcba674a/w2337h1315x0y122/202605/43601.0.2060605182/das-kreuzfahrtschiff-hondius.webp",
+      "image_url": "https://media0.faz.net/image/w730/9e93dcba674a/w2337h1315x0y122/202605/43601.0.2060605182/das-kreuzfahrtschiff-hondius.webp",
       "image_title": "Das Kreuzfahrtschiff Hondius soll schon bald bei der Kanarischen Insel Teneriffa eintreffen."
     },
     {
@@ -516,13 +553,6 @@
       "image_title": "Umstrittener Beitrag: Schauspieler Mark Hamill, hier im Februar in Hollywood, zieht sich Trumps Zorn zu."
     },
     {
-      "title": "München: Surfen an natürlicher Eisbachwelle wieder erlaubt",
-      "teaser": "Surfer müssen in Zukunft eine selbstlösende Sicherheitsleine nutzen und dürfen nur noch bis 22 Uhr auf dem Fluss sein. Vor einem Jahr war eine 33-Jährige beim nächtlichen Surfen tödlich verunglückt.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/surfen-an-eisbachwelle-wieder-erlaubt-200814235.html",
-      "image_url": "https://media0.faz.net/image/w730/6dd21e60af36/w3000h1687x0y223/202511/43601.0.1446157688/ein-surfer-reitet-bei.webp",
-      "image_title": "Ein Surfer reitet bei Dunkelheit mit seinem Board über die künstliche Welle des Eisbachs im Englischen Garten."
-    },
-    {
       "title": "FAZ+Wein kaufen: KI, such mir meinen Lieblingswein!",
       "teaser": "Wie gut sind elektronische Sommeliers, die einen beim Weinkauf beraten? Wir haben vier von ihnen getestet. Mit absurden Ergebnissen.",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/kann-mir-die-ki-einen-guten-wein-empfehlen-wir-haben-es-getestet-200784743.html",
@@ -537,10 +567,24 @@
       "image_title": "Klappe, die nächste! Die Kandidaten Anika und Tony probieren sich mit Lisa Rinna als Schauspieler."
     },
     {
+      "title": "ÖPNV: Zugausfälle und Umleitungen rund um Mainz bis Juli",
+      "teaser": "Bauarbeiten rund um Mainz führen ab heute bis zum 10. Juli zu Zugausfällen, Umleitungen und Ersatzverkehr. Welche Linien betroffen sind und worauf sich Pendler einstellen müssen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/oepnv-zugausfaelle-und-umleitungen-rund-um-mainz-bis-juli-accg-200815633.html",
+      "image_url": "https://media0.faz.net/image/w1200/88c77f15c34b/w6144h3456x0y320/202603/43601.0.1875288200/das-verkehrschaos-wirkt-sich.webp",
+      "image_title": "Das Verkehrschaos wirkt sich auf die S-Bahn-Linien S8, S9 und S1 aus."
+    },
+    {
+      "title": "Richter erkrankt: Prozess nach Freibad-Übergriffen in Gelnhausen verschoben",
+      "teaser": "Der Start des Verfahrens gegen zwei Männer, die in einem Schwimmbad im hessischen Gelnhausen mehrere Mädchen belästigt haben sollen, ist verschoben. Grund sind die Vertretungsregeln für Strafrichter.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/maedchen-im-freibad-belaestigt-prozess-um-vorfaelle-in-gelnhausen-verschoben-accg-200814599.html",
+      "image_url": "https://media0.faz.net/image/w730/76269ff2f877/w6144h3456x0y430/202603/43601.0.1865941473/die-ereignisse-dort-sorgten.webp",
+      "image_title": "Die Ereignisse dort sorgten 2025 für Schlagzeilen: Freibad in Gelnhausen"
+    },
+    {
       "title": "Tag des offenen wohnprojekts: Mit diesen Wohnungen wird kein Gewinn erzielt",
       "teaser": "Beim Tag des offenen Wohnprojekts präsentierten sich 16 gemeinschaftlich organisierte Wohngruppen aus Frankfurt. Das neue Haus der Genossenschaft Sonara in Höchst zeigt, wie kollektives Eigentum Sicherheit schaffen soll.",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-wie-neue-wohnprojekte-die-gemeinschaft-foerdern-accg-200808082.html",
-      "image_url": "https://media0.faz.net/image/w1200/a7d9264993b1/w3000h1688x0y562/202605/87031bf6-4a17-11f1-9b99-e7b69a9e8472/dem-markt-entzogen.webp",
+      "image_url": "https://media0.faz.net/image/w730/a7d9264993b1/w3000h1688x0y562/202605/87031bf6-4a17-11f1-9b99-e7b69a9e8472/dem-markt-entzogen.webp",
       "image_title": "Dem Markt entzogen: Einweihungsfest beim Wohnprojekt Sonara im Frankfurter Stadtteil Höchst"
     },
     {
@@ -551,18 +595,11 @@
       "image_title": "Großer Ansturm: Bis zu 17.000 Sportler – und sicher auch wieder seltsame Gestalten wie die Schwellköpp – wollen am Muttertag durch Mainz rennen."
     },
     {
-      "title": "Fotografie Forum Frankfurt: Was fühlt die Gen Z?",
-      "teaser": "Steht das Z für die Sehnsucht nach Zugehörigkeit? Die große Ausstellung „Gen Z. Shaping a New Gaze“ erzählt von Räumen, Biographien und Geschlecht mit junger Fotokunst aus aller Welt.",
-      "url": "https://www.faz.net/aktuell/rhein-main/kultur/die-genz-verstehen-fotografien-zeigen-wie-sie-die-welt-sehen-200811506.html",
-      "image_url": "https://media0.faz.net/image/w730/f4df8a3e7d7c/w3543h1993x0y369/202605/46dfbcde-56a0-4887-9653-4dce70b69d44/dazwischen-laurence-philom-ne.webp",
-      "image_title": "Dazwischen: Laurence Philomène, Paint Me Like One of Your Pre-Raphaelite Boy-Girls, 2019, aus der Serie „Puberty“ (seit 2019 fortlaufend)."
-    },
-    {
-      "title": "Umzug aus Rotterdam: Zoo Frankfurt nimmt drei neue Gorillas auf",
-      "teaser": "In den Frankfurter Zoo sind drei neue Gorillas eingezogen. Noch haben die Mutter und ihr Nachwuchs ein eigenes Gehege, bei der Annäherung an Haremschef Viatu ist Vorsicht geboten.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/zoo-frankfurt-drei-neue-gorillas-aus-rotterdam-200813760.html",
-      "image_url": "https://media0.faz.net/image/w730/3a8c02f7de76/w4636h2608x0y692/202605/df4fe8a7-b2f6-480c-83de-7e878a386aa4/posieren-wie-einst-vor-hundert.webp",
-      "image_title": "Posieren wie einst vor hundert Jahren: Die neuen Gorillas Aya, Ayba und Ayabu im Frankfurter Zoo"
+      "title": "Nächtliche Ruhestörung: Ungebetener Gast",
+      "teaser": "Vor zwei Jahren hat das Insektenhotel auf dem Balkon eröffnet. Seitdem brummt und summt der Laden. Bis der Gartenschläfer Langeweile bekommt.",
+      "url": "https://www.faz.net/aktuell/technik-motor/gartenschlaefer-auf-dem-balkon-ungebetener-gast-200777237.html",
+      "image_url": "https://media0.faz.net/image/w730/a2dd08683857/w3000h1687x0y235/202104/43600.0.636925638/niedlicher-giftzwerg-der.webp",
+      "image_title": "Niedlicher Giftzwerg: Der Gartenschläfer"
     },
     {
       "title": "FAZ+Rolls-Royce Black Badge Spectre: Stars unter Sternchen",
@@ -572,16 +609,17 @@
       "image_title": "Der Spectre ist das erste Elektroauto der Marke und setzt als Black Badge noch einen drauf."
     },
     {
-      "title": "Fünf am Freitag: Trommelwirbel",
-      "teaser": "Ein Kantenkürzer, das Zukunftsauto, eine harte Hülle, geräuschlose Kopfhörer und eine Waschmaschine mit drei Trommeln: Das sind unsere Neuheiten aus der Technikkiste.",
-      "url": "https://www.faz.net/aktuell/technik-motor/haier-multiwash-waschmaschine-mit-drei-trommeln-accg-200793165.html",
-      "image_url": "https://media0.faz.net/image/w730/6d2529508fcb/w4284h2410x0y414/202605/d823331a-4489-11f1-aa79-d61aa51e1f67/img-d823331a-4489-11f1-aa79.webp"
+      "title": "Physik des Footballs: Das Rätsel um den Spiralpass",
+      "teaser": "Warum eignet sich das Sportgerät im American Football für präzise Würfe? Die Lösung liegt in der außergewöhnlichen Aerodynamik.",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-des-footballs-warum-der-ball-so-praezise-fliegt-accg-200805701.html",
+      "image_url": "https://media0.faz.net/image/w920/ca31b036a1ca/w4157h1781x0y228/202601/43601.0.1702168184/passempfaenger-jaxon-smith.webp",
+      "image_title": "Passempfänger Jaxon Smith-Njigba fängt den Ball zum Touchdown."
     },
     {
       "title": "Digitales Kuratieren: Zuhause kann man auch ins Museum gehen",
       "teaser": "„Outreach“ ist das Zauberwort für Kulturinstitutionen, die inklusiv sein wollen und ihren Besuchern sehr weit entgegenkommen. In Münster tauschten Experten für digitale Publikumspflege Erfahrungen und Tricks aus.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/erfahrungen-mit-dem-digitalen-kuratieren-200797750.html",
-      "image_url": "https://media0.faz.net/image/w920/1891bd31708f/w1920h822x0y737/202605/0119cf98-47c5-11f1-80b4-1128950390bf/die-kuenstlerin-ist-praesent.webp",
+      "image_url": "https://media0.faz.net/image/w730/eb02c6b7eb09/w1920h1080x0y608/202605/0119cf98-47c5-11f1-80b4-1128950390bf/die-kuenstlerin-ist-praesent.webp",
       "image_title": "Die Künstlerin ist präsent, auch ohne im Kunstpalast Hof zu halten: Das Plakat für die Tagung in Münster gestaltete die Düsseldorfer Bildhauerin Anna Sokolova, die ihr eigenes virtuelles Museum betreibt."
     },
     {
@@ -590,13 +628,6 @@
       "url": "https://www.faz.net/aktuell/wissen/weltraum/atmosphaere-auf-einem-trans-neptun-objekt-200797828.html",
       "image_url": "https://media0.faz.net/image/w730/115ebeddb626/w3801h2138x100y408/202605/e8e06506-479f-11f1-80b4-1128950390bf/verraeterische-verfinsterung.webp",
       "image_title": "Verräterische Verfinsterung: Der Himmelskörper (612533) 2002 XV93 – hier in einer Illustration – kreist auf einer ähnlichen Bahn wie der Pluto, ist aber viel kleiner."
-    },
-    {
-      "title": "FAZ+Hype oder Heilung: Sind Mitochondrien der Grund für Ihre Müdigkeit?",
-      "teaser": "Geschädigte Mitochondrien sollen an Depressionen, Unfruchtbarkeit und sogar Krebs schuld sein. Was ist dran – und wer sollte seine Zellfitness testen lassen?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/biogenetic-health-index-sind-gestoerte-mitochondrien-die-ursache-fuer-schwaeche-erschoepfung-und-altern-accg-200787080.html",
-      "image_url": "https://media0.faz.net/image/w730/c0ff7a1e6079/w3000h1688x0y139/202604/87606c18-4470-11f1-9281-31aaf6e0cb39/postergirl-mitochondrien.webp",
-      "image_title": "Postergirl: Mitochondrien besitzen typische Falten (Cristae) in ihrem Inneren. Hier laufen viele Stoffwechselprozesse ab."
     },
     {
       "title": "Greser & Lenz: Immer im Bilde",
