@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T09:19:11",
+  "timestamp": "2026-05-10T10:51:46",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "KI-Bots als Täter-Software: Wenn Algorithmen Kindesmissbrauch simulieren",
+      "url": "https://www.heise.de/news/KI-Bots-als-Taeter-Software-Wenn-Algorithmen-Kindesmissbrauch-simulieren-11288576.html"
+    },
     {
       "title": "Kaufpreis und Unterhalt im Vergleich: Die günstigsten Autos in Deutschland",
       "url": "https://www.heise.de/ratgeber/Kaufpreis-und-Unterhalt-im-Vergleich-Die-guenstigsten-Autos-in-Deutschland-11269744.html",
@@ -62,10 +66,6 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-dreame-aqua-10-ultra-roller-im-test-klettert-faehrt-leise-und-ist-gut/7c7hbh8?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Porsche will drei Tochterfirmen schließen und Stellen streichen",
-      "url": "https://www.heise.de/news/Porsche-will-drei-Tochterfirmen-schliessen-und-Stellen-streichen-11288395.html"
-    },
-    {
       "title": "Missing LinkLange Nacht der Computerspiele – wie das Spielefestival entstand",
       "teaser": "An diesem Wochenende fand in Leipzig die 20. Lange Nacht der Computerspiele statt. Unser Autor hat das langlebigste Spiele-Festival mit ins Leben gerufen.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Lange-Nacht-der-Computerspiele-wie-das-Spielefestival-entstand-11288417.html"
@@ -105,9 +105,9 @@
       "image_title": "Ein Mann hält einen goldenen Gürtel mit der Aufschrift \"ODF 20 ISO\" über seinen Kopf."
     },
     {
-      "title": "Ab 170 Euro richtig gutTop 10: Der beste ergonomische Bürostuhl im Test",
-      "teaser": "Ergonomischer Bürostuhl im Test: Wir haben über 30 Modelle geprüft und zeigen die besten Bürostühle für Büro und Homeoffice.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ergonomische-buerostuhl-im-test-ab-170-euro-richtig-gut/6le25ss?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
+      "title": "Kamera, GPS oder LiDARTop 10: Der beste Mähroboter im Test",
+      "teaser": "Mähroboter ohne Begrenzungskabel versprechen eine schnelle Inbetriebnahme. Mit LiDAR-Navigation gelingt das einfacher.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
       "title": "Firefox-TuningDiese Einstellungen machen den Browser besser",
@@ -187,21 +187,27 @@
       "url": "https://www.heise.de/news/E-Autos-zu-Hause-laden-Wallbox-CEE-oder-Schuko-c-t-uplink-11286891.html"
     },
     {
+      "title": "KI-Bots als Täter-Software: Wenn Algorithmen Kindesmissbrauch simulieren",
+      "teaser": "Auf Plattformen wie Chub AI werden Sprachmodelle trainiert, sexualisierte Gewalt gegen Kinder darzustellen und Nutzer in Missbrauchsszenarien zu verwickeln.",
+      "url": "https://www.heise.de/news/KI-Bots-als-Taeter-Software-Wenn-Algorithmen-Kindesmissbrauch-simulieren-11288576.html",
+      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
+    },
+    {
       "title": "Kaufpreis und Unterhalt im Vergleich: Die günstigsten Autos in Deutschland",
       "teaser": "Wir zeigen die mit Blick auf Kauf und Unterhalt günstigsten Modelle der fünf wichtigsten Segmente – vom Kleinstwagen bis zum 5-Meter-SUV.",
       "url": "https://www.heise.de/ratgeber/Kaufpreis-und-Unterhalt-im-Vergleich-Die-guenstigsten-Autos-in-Deutschland-11269744.html",
       "image_title": "Hyundai Inster, VW Polo, Skoda Enyaq, Opel Astra Sports Tourer, Tesla Model 3 und Maszda CX-80"
     },
     {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: Cloud Security Masterclass – Angriff und Verteidigung in AWS",
       "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Cloud-Security-Masterclass-Angriff-und-Verteidigung-in-AWS-11272893.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "Brennende E-Autos: So löscht die Feuerwehr wirklich",
@@ -228,11 +234,6 @@
       "teaser": "Neue Besen kehren gut? Angesichts der Krise im eigenen Haus räumt der neue Porsche-Chef Michael Leiters auf – und macht drei Tochterfirmen dicht.",
       "url": "https://www.heise.de/news/Porsche-will-drei-Tochterfirmen-schliessen-und-Stellen-streichen-11288395.html",
       "image_title": "Portland,,Or,,Usa,December,8,,2023,Porsche,356,Coupe,Parked"
-    },
-    {
-      "title": "Eine Zusammenfassung der Angriffe auf Signal: App-Hack, OS-Bug oder Phishing?",
-      "teaser": "Attacken auf den Messenger offenbaren zwar keine technischen Lücken, aber bedenkenswerte Probleme. Erste Reaktionen sind jedoch fehlgeleitete Schnellschüsse.",
-      "url": "https://www.heise.de/hintergrund/Eine-Zusammenfassung-der-Angriffe-auf-Signal-App-Hack-OS-Bug-oder-Phishing-11276877.html"
     },
     {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
@@ -326,6 +327,11 @@
       "image_title": "heise+ Jahresabo"
     },
     {
+      "title": "Eine Zusammenfassung der Angriffe auf Signal: App-Hack, OS-Bug oder Phishing?",
+      "teaser": "Attacken auf den Messenger offenbaren zwar keine technischen Lücken, aber bedenkenswerte Probleme. Erste Reaktionen sind jedoch fehlgeleitete Schnellschüsse.",
+      "url": "https://www.heise.de/hintergrund/Eine-Zusammenfassung-der-Angriffe-auf-Signal-App-Hack-OS-Bug-oder-Phishing-11276877.html"
+    },
+    {
       "title": "Halb über, halb unter Wasser: c't Fotografie 3/26",
       "teaser": "Thomas Haider verrät, wie er mit Domeport, Spucke und viel Geduld faszinierende Halb-und-Halb-Bilder einfängt – und welche Physik dahinter steckt.",
       "url": "https://www.heise.de/news/Halb-ueber-halb-unter-Wasser-c-t-Fotografie-3-26-11275129.html"
@@ -393,15 +399,15 @@
       "image_title": "Zeitungen auf einem Laptop"
     },
     {
+      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
+      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
+    },
+    {
       "title": "Kärcher dampft zu Google Workspace: „Microsoft weitermachen wollte man nicht“",
       "teaser": "Kein Teams oder Copilot, dafür Workspace und Gemini: Kärcher setzt jetzt auf Google. CIO Kerscher sagt, wie das geht – und wie man das Thema Souveränität sieht.",
       "url": "https://www.heise.de/hintergrund/Kaercher-dampft-zu-Google-Workspace-Microsoft-weitermachen-wollte-man-nicht-11286015.html",
       "image_title": "Kärcher-Hochdruckreiniger"
-    },
-    {
-      "title": "Wenn eine Mail an die falsche Person geht ...",
-      "teaser": "Ein falscher Klick und schon landen vertrauliche Infos beim falschen Empfänger. In einem Webcast sprechen wir darüber, wie sich ein versehentlicher E-Mail-Versand in Echtzeit erkennen und stoppen lässt.",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wenn-daten-die-falschen-empfaenger-erreichen-wie-unternehmen-fehlversand-und-datenabfluss-wirksam-verhindern-5038/?source=hbsad-ersatz"
     },
     {
       "title": "Kaufpreis und Unterhalt im Vergleich: Die günstigsten Autos in Deutschland",
@@ -456,11 +462,6 @@
       "teaser": "Die DB-Tochter InfraGO bewertet den Zustand der Bahninfrastruktur erneut mit einer 3. Während sich Bahnhöfe leicht verbesserten, bleiben Stellwerke kritisch.",
       "url": "https://www.heise.de/news/Zustandsbericht-der-Deutschen-Bahn-Infrastruktur-bleibt-bei-Note-3-11288033.html",
       "image_title": "Abschnitt einer Schienenweiche"
-    },
-    {
-      "title": "Airseekers Tron im Test: Leistungsstarker Mähroboter mit speziellem Mulchsystem",
-      "teaser": "Der Airseekers Tron mäht ohne Kabel, mit RTK, fünf Kameras und Flowcut. Ob er damit im Alltag überzeugt, zeigt der Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/airseekers-tron-im-test-leistungsstarker-maehroboter-mit-speziellem-mulchsystem/j8jteyr?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Claude Mythos: IWF sieht globales Finanzsystem in Gefahr",
@@ -630,19 +631,19 @@
       "url": "https://www.heise.de/en/news/Claude-Code-Leak-8100-Takedown-Requests-and-the-Birth-of-Claw-Code-11279674.html"
     },
     {
-      "title": "Noise from loose change: World premieres at Superbooth combat boredom",
-      "teaser": "In Berlin, over 300 synth manufacturers like Buchla, Soma, Verbos, and Make Noise show how fun sound experiments can be with old keys and coins.",
-      "url": "https://www.heise.de/en/news/Noise-from-loose-change-World-premieres-at-Superbooth-combat-boredom-11288280.html"
+      "title": "Krach aus Kleingeld: Auf der Superbooth lärmen Weltpremieren gegen Langeweile",
+      "teaser": "In Berlin zeigen über 300 Synthi-Hersteller wie Buchla, Soma, Verbos und Make Noise, wie viel Spaß Klangexperimente mit alten Schlüsseln und Münzen machen.",
+      "url": "https://www.heise.de/news/Krach-aus-Kleingeld-Auf-der-Superbooth-laermen-Weltpremieren-gegen-Langeweile-11288101.html"
+    },
+    {
+      "title": "3D-Welten aus einem kurzen Video: Gaussian Splats selbst erstellen",
+      "teaser": "Insta360 und Splatica kooperieren, um aus 360-Grad-Videos fotorealistische, begehbare 3D-Szenen zu erzeugen – für Museen, Immobilienmakler oder die Industrie.",
+      "url": "https://www.heise.de/ratgeber/3D-Welten-aus-einem-kurzen-Video-Gaussian-Splats-selbst-erstellen-11275448.html"
     },
     {
       "title": "c’t uplinkE-Autos zu Hause laden: Wallbox, CEE oder Schuko",
       "teaser": "E-Autos machen mehr Spaß, wenn man sie zu Hause von der eigenen PV-Anlage lädt. Wir besprechen Anschlüsse, Fähigkeiten und Tarife.",
       "url": "https://www.heise.de/news/E-Autos-zu-Hause-laden-Wallbox-CEE-oder-Schuko-c-t-uplink-11286891.html"
-    },
-    {
-      "title": "Krach aus Kleingeld: Auf der Superbooth lärmen Weltpremieren gegen Langeweile",
-      "teaser": "In Berlin zeigen über 300 Synthi-Hersteller wie Buchla, Soma, Verbos und Make Noise, wie viel Spaß Klangexperimente mit alten Schlüsseln und Münzen machen.",
-      "url": "https://www.heise.de/news/Krach-aus-Kleingeld-Auf-der-Superbooth-laermen-Weltpremieren-gegen-Langeweile-11288101.html"
     },
     {
       "title": "Famos fensterlnSo behalten Sie im macOS-Fensterdschungel den Überblick",
@@ -747,22 +748,22 @@
       "image_title": "Elektroautos fahren auf einer breiten Straße einer Großstadt"
     },
     {
-      "title": "Zwischen allen Stühlen: Deutschlands riskantes Spiel am Mittelmeer",
-      "teaser": "Deutschlands Annäherung an die Türkei bringt Berlin in einen gefährlichen Konflikt – mit Folgen für Waffendeals und die Nato-Stabilität.",
-      "url": "https://www.heise.de/article/Zwischen-allen-Stuehlen-Deutschlands-riskantes-Spiel-am-Mittelmeer-11286591.html",
-      "image_title": "Zwei leere Stühle"
+      "title": "Saufen, Rauchen, Snacken: Wie teuer uns unsere Laster wirklich kommen",
+      "teaser": "Den Alkohol-Einnahmen von 3 Milliarden Euro stehen Gesundheitskosten von fast 60 Milliarden gegenüber – jetzt will der Staat die Rechnung umverteilen.",
+      "url": "https://www.heise.de/article/Saufen-Rauchen-Snacken-Wie-teuer-uns-unsere-Laster-wirklich-kommen-11281639.html",
+      "image_title": "Aschenbecher und Bierglas mit GKV-Aufdrucken"
     },
     {
-      "title": "Irans Antwort auf die US-Blockade rollt auf Schienen",
-      "teaser": "Die US-Blockade trifft Iran hart – doch Teheran hat eine überraschende Ausweichroute gefunden, die Peking eine neue Machtposition verschafft.",
-      "url": "https://www.heise.de/article/Irans-Antwort-auf-die-US-Blockade-rollt-auf-Schienen-11287948.html",
-      "image_title": "Zwei Flaggen auf Fahnenmasten vor blauem Himmel"
+      "title": "Der Golf zerbricht: Sechs Staaten, keine gemeinsame Front",
+      "teaser": "Irans Raketen trafen Manama, Doha und Dubai – und sprengten die Illusion einer gemeinsamen Golffront. Wie sich eine Region neu sortiert. Eine Analyse.",
+      "url": "https://www.heise.de/article/Der-Golf-zerbricht-Sechs-Staaten-keine-gemeinsame-Front-11280977.html",
+      "image_title": "Karte des arabischen Golfes"
     },
     {
-      "title": "Entlastungsprämie: Bundesrat stoppt steuerfreie 1000-Euro-Zahlung",
-      "teaser": "Die Länderkammer stoppt die geplante steuerfreie Entlastungsprämie von bis zu 1000 Euro. Streitpunkt: Steuerausfälle von 2,8 Milliarden Euro.",
-      "url": "https://www.heise.de/article/Entlastungspraemie-Bundesrat-stoppt-steuerfreie-1000-Euro-Zahlung-11287372.html",
-      "image_title": "Bundesrat-Schriftzug und Bundesadler an einem Gebäude, davor ein Zaun"
+      "title": "Die Realität hat ein Echtheitsproblem",
+      "teaser": "Deepfakes machen nicht nur Lügen möglich – sie zerstören die Grundlage, auf der wir Wahrheit überhaupt noch erkennen können.",
+      "url": "https://www.heise.de/article/Die-Realitaet-hat-ein-Echtheitsproblem-11282010.html",
+      "image_title": "Pendel zwischen Erdkugel mit Häkchen und Schaltkreislabyrinth mit Kreuz"
     },
     {
       "title": "Homeoffice: 15 nützliche Produkte, wenn es auch mal etwas teurer sein darf",
