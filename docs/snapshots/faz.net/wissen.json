@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T08:53:32",
+  "timestamp": "2026-05-11T11:54:23",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "Strahlung: Schädigen Bluetooth-Kopfhörer das Gehirn?",
+      "teaser": "Kabellose Kopfhörer sind im Alltag allgegenwärtig. Im Netz kursieren Warnungen, die Geräte seien krebserregend und schadeten dem Gehirn. Stimmt das?",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/sind-bluetooth-kopfhoerer-krebserregend-accg-200819691.html"
+    },
+    {
       "title": "FAZ+Seltene erkrankungen: Was hilft bei mutierten Mitochondrien?",
       "teaser": "Auf der Suche nach einer Therapie für das Leigh-Syndrom sind Forscher auf den Viagra-Wirkstoff Sildenafil gestoßen. Ein Experte erklärt, wie es dazu kam.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-ein-viagra-wirkstoff-beim-seltenem-leigh-syndrom-hilft-accg-200787081.html"
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/wie-ein-viagra-wirkstoff-beim-seltenem-leigh-syndrom-hilft-accg-200787081.html",
+      "image_url": "https://media0.faz.net/image/w730/34b7d9ea1661/w6699h3768x196y0/202605/43601.0.2053969124/wann-und-wie-laesst-sich.webp",
+      "image_title": "Wann und wie lässt sich erkennen, ob ein Kind an einer Mitochondrienerkrankung leidet?"
     },
     {
       "title": "Soziale Systeme: Kein Volk von Idealisten",
@@ -99,13 +106,6 @@
       "url": "https://www.faz.net/aktuell/wissen/leben-gene/neue-arten-warum-wir-die-nosferatu-spinne-nicht-loswerden-accg-200800614.html",
       "image_url": "https://media0.faz.net/image/w730/bb5c354dfbad/w4080h2295x163y0/202208/43600.0.1120515345/peter-jaeger-ist.webp",
       "image_title": "Peter Jäger ist Spinnenexperte des Senckenberg-Instituts."
-    },
-    {
-      "title": "Physik des Footballs: Das Rätsel um den Spiralpass",
-      "teaser": "Warum eignet sich das Sportgerät im American Football für präzise Würfe? Die Lösung liegt in der außergewöhnlichen Aerodynamik.",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-des-footballs-warum-der-ball-so-praezise-fliegt-accg-200805701.html",
-      "image_url": "https://media0.faz.net/image/w730/d732477466d5/w4157h2338x0y118/202601/43601.0.1702168184/passempfaenger-jaxon-smith.webp",
-      "image_title": "Passempfänger Jaxon Smith-Njigba fängt den Ball zum Touchdown."
     },
     {
       "title": "Schlankmacher-Hype: Aller guten Dinge sind fünf?",
@@ -178,18 +178,18 @@
       "image_title": "Manfred Lindinger"
     },
     {
+      "title": "Physik des Footballs: Das Rätsel um den Spiralpass",
+      "teaser": "Warum eignet sich das Sportgerät im American Football für präzise Würfe? Die Lösung liegt in der außergewöhnlichen Aerodynamik.",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-des-footballs-warum-der-ball-so-praezise-fliegt-accg-200805701.html",
+      "image_url": "https://media0.faz.net/image/w920/d732477466d5/w4157h2338x0y118/202601/43601.0.1702168184/passempfaenger-jaxon-smith.webp",
+      "image_title": "Passempfänger Jaxon Smith-Njigba fängt den Ball zum Touchdown."
+    },
+    {
       "title": "Digitales Kuratieren: Zuhause kann man auch ins Museum gehen",
       "teaser": "„Outreach“ ist das Zauberwort für Kulturinstitutionen, die inklusiv sein wollen und ihren Besuchern sehr weit entgegenkommen. In Münster tauschten Experten für digitale Publikumspflege Erfahrungen und Tricks aus.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/erfahrungen-mit-dem-digitalen-kuratieren-200797750.html",
       "image_url": "https://media0.faz.net/image/w920/eb02c6b7eb09/w1920h1080x0y608/202605/0119cf98-47c5-11f1-80b4-1128950390bf/die-kuenstlerin-ist-praesent.webp",
       "image_title": "Die Künstlerin ist präsent, auch ohne im Kunstpalast Hof zu halten: Das Plakat für die Tagung in Münster gestaltete die Düsseldorfer Bildhauerin Anna Sokolova, die ihr eigenes virtuelles Museum betreibt."
-    },
-    {
-      "title": "Jenseits des Neptun: Luft einer fernen Welt",
-      "teaser": "Am Rande des Sonnensystems finden Astronomen eine Atmosphäre auf einem Himmelskörper, auf dem es eigentlich gar keine geben dürfte.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/atmosphaere-auf-einem-trans-neptun-objekt-200797828.html",
-      "image_url": "https://media0.faz.net/image/w920/115ebeddb626/w3801h2138x100y408/202605/e8e06506-479f-11f1-80b4-1128950390bf/verraeterische-verfinsterung.webp",
-      "image_title": "Verräterische Verfinsterung: Der Himmelskörper (612533) 2002 XV93 – hier in einer Illustration – kreist auf einer ähnlichen Bahn wie der Pluto, ist aber viel kleiner."
     },
     {
       "title": "FAZ+Hype oder Heilung: Sind Mitochondrien der Grund für Ihre Müdigkeit?",
@@ -248,10 +248,17 @@
       "image_title": "Ob man Fleisch isst oder nicht, kann mit unterschiedlichen Krebsrisiken verbunden sein."
     },
     {
+      "title": "Jenseits des Neptun: Luft einer fernen Welt",
+      "teaser": "Am Rande des Sonnensystems finden Astronomen eine Atmosphäre auf einem Himmelskörper, auf dem es eigentlich gar keine geben dürfte.",
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/atmosphaere-auf-einem-trans-neptun-objekt-200797828.html",
+      "image_url": "https://media0.faz.net/image/w920/caf34c0c9658/w4000h1714x0y620/202605/e8e06506-479f-11f1-80b4-1128950390bf/verraeterische-verfinsterung.webp",
+      "image_title": "Verräterische Verfinsterung: Der Himmelskörper (612533) 2002 XV93 – hier in einer Illustration – kreist auf einer ähnlichen Bahn wie der Pluto, ist aber viel kleiner."
+    },
+    {
       "title": "Wasser auf dem Mond: Das Eis im ewigen Schatten",
       "teaser": "Auf dem Mond schlummert ein kalter Schatz. Eine neue Untersuchung zeigt, wie sich die Eisvorkommen am lunaren Südpol über Jahrmilliarden aufbauen.",
       "url": "https://www.faz.net/aktuell/wissen/weltraum/wie-das-wasser-auf-den-mond-kam-accg-200750886.html",
-      "image_url": "https://media0.faz.net/image/w920/3ddb38a4279b/w1244h533x0y213/202604/43601.0.1952844165/das-suedpolargebiet-des-mondes.webp",
+      "image_url": "https://media0.faz.net/image/w730/135ad0783e36/w1244h700x0y130/202604/43601.0.1952844165/das-suedpolargebiet-des-mondes.webp",
       "image_title": "Das Südpolargebiet des Mondes, markiert sind potenzielle Landegebiete für die Artemis IV-Mission der NASA"
     },
     {
@@ -260,13 +267,6 @@
       "url": "https://www.faz.net/aktuell/wissen/weltraum/blue-origin-rakete-new-glenn-verliert-satellit-accg-200747823.html",
       "image_url": "https://media0.faz.net/image/w730/ae5ce5491795/w3970h2233x0y170/202604/43601.0.1998025527/die-rakete-new-glenn-hebt-in.webp",
       "image_title": "Die Rakete „New Glenn“ hebt in Cape Canaveral ab."
-    },
-    {
-      "title": "Artemis-2-Astronautin: „Als dieser Mann hereingekommen ist, bin ich in Tränen ausgebrochen“",
-      "teaser": "Wie war es, wieder sicher auf der Erde zu landen? Die „Artemis 2“-Crew schildert in der ersten Pressekonferenz nach der Landung ihre „unbeschreibbare Freude“ – und wie sich die Schwerkraft seitdem anfühlt.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/artemis-2-crew-so-fuehlt-sich-die-schwerkraft-nach-der-mondumrundung-an-accg-200740425.html",
-      "image_url": "https://media0.faz.net/image/w730/d7127ef142b9/w5017h2822x0y261/202604/43601.0.1989454143/die-artemis-2-besatzung-der.webp",
-      "image_title": "Die „Artemis-2“-Besatzung der NASA: Reid Wiseman, Victor Glover und Christina Koch und der Astronaut Jeremy Hansen von der kanadischen Weltraumbehörde (CSA) bei der Pressekonferenz."
     },
     {
       "title": "Riechorgan: Dem Geruchssinn auf der Spur",
