@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-11T05:47:39",
+  "timestamp": "2026-05-11T08:53:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Kompromittierte WebseiteJDownloader verteilte Malware-Downloads",
+      "teaser": "Anfang Mai hat die Webseite von JDownloader Malware ausgeliefert. Das erinnert an die Daemon Tools, die inzwischen reagiert haben.",
+      "url": "https://www.heise.de/news/JDownloader-verteilte-Malware-Downloads-11288832.html",
+      "image_title": "JDownloader-Logo vor MAtrix-Regen-Hintergrund"
+    },
+    {
       "title": "Alert„Dirty Frag“Linux-Lücken verschaffen root-Rechte",
       "teaser": "Weitere Lücken mit dem Namen „Dirty Frag“ ermöglichen die Rechteausweitung. Betroffen sind wohl alle Distributionen.",
       "url": "https://www.heise.de/news/Dirty-Frag-Linux-Luecken-verschaffen-root-Rechte-11286691.html",
       "image_title": "Lücken-Maskottchen zur Dirty Frag vor Matrix-Regen-Hintergrund"
     },
     {
-      "title": "AlertApache HTTP ServerHochriskante Lücken ermöglichen Einschleusen von Schadcode",
-      "teaser": "Im Apache HTTP Server 2.4.67 stopfen die Entwickler mehrere Sicherheitslücken, die teils das Einschleusen von Schadcode ermöglichen.",
-      "url": "https://www.heise.de/news/Apache-HTTP-Server-Hochriskante-Luecken-ermoeglichen-Einschleusen-von-Schadcode-11284090.html",
-      "image_title": "Apache HTTP Server Logo vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertIvanti EPMM: Update stopft bereits angegriffene Sicherheitslücken",
-      "url": "https://www.heise.de/news/Ivanti-EPMM-Update-stopft-bereits-angegriffene-Sicherheitsluecken-11286825.html",
-      "image_title": "Finger tippt auf Update-Button"
+      "title": "AlertSchadcode-Lücke bedroht IBM App Connect Enterprise und IBM Integration Bus",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-IBM-App-Connect-Enterprise-und-IBM-Integration-Bus-11289112.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -47,6 +47,30 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Debian macht ernst: Nur noch reproduzierbare Pakete in „testing“",
+      "teaser": "Für Debian 14 müssen Pakete reproduzierbar sein, um nach „testing“ zu gelangen. Das Release Team hat die Regeln verschärft.",
+      "url": "https://www.heise.de/news/Debian-14-Reproduzierbare-Builds-werden-zur-Pflicht-11289259.html",
+      "image_title": "Das Debian-Logo mit einem roten Wirbel und dem Wort \"debian\" darunter."
+    },
+    {
+      "title": "AlertSchadcode-Lücke bedroht IBM App Connect Enterprise und IBM Integration Bus",
+      "teaser": "Angreifer können IBM App Connect Enterprise und IBM Integration Bus for z/OS attackieren. Updates lösen das Sicherheitsproblem.",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-IBM-App-Connect-Enterprise-und-IBM-Integration-Bus-11289112.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "AlertSicherheitspatch: Abermals Sicherheitslücken in cPanel und WHM geschlossen",
+      "teaser": "Angreifer können cPanel und WebHost Manager unter anderem mit Schadcode attackieren. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Abermals-Sicherheitsluecken-in-cPanel-und-WHM-geschlossen-11288962.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "BSI-Studie: Hohe Betroffenheitsquote bei Cyberkriminalität",
+      "teaser": "Phishing, Betrug, fremde Zugriffe: Die meisten Opfer zahlen drauf – und vertrauen Onlinediensten weniger. Viele glauben, ihnen könne nichts passieren.",
+      "url": "https://www.heise.de/news/Jeder-neunte-Onliner-von-Cyberkriminalitaet-betroffen-11288958.html",
+      "image_title": "Kreditkarte vor Laptop"
     },
     {
       "title": "iX-Workshop: Cloud Security Masterclass – Angriff und Verteidigung in AWS",
@@ -120,32 +144,9 @@
       "image_title": "Cisco logo near Cisco headquarters campus in Silicon Valley"
     },
     {
-      "title": "AlertGoogle Chrome 148: Neue Version schließt 127 Sicherheitslücken",
-      "teaser": "In der Nacht zum Mittwoch hat Google den Chrome-Webbrowser auf den Versionszweig 148 gehievt. Der schließt 127 Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Google-Chrome-Update-auf-Version-148-stopft-127-Sicherheitsluecken-11285035.html",
-      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
-    },
-    {
-      "title": "Welt-Passwort-Tag: Passkeys, Mehr-Faktor-Authentifizierung, alles ist besser",
-      "teaser": "Jeden ersten Donnerstag im Mai ist der Welt-Passwort-Tag. Zeit, sich um bessere Sicherheit zu kümmern.",
-      "url": "https://www.heise.de/news/Welt-Passwort-Tag-Passkeys-Mehr-Faktor-Authentifizierung-alles-ist-besser-11250220.html",
-      "image_title": "Passwort-Eingabe auf Smartphone vor einem Notebook"
-    },
-    {
-      "title": "Microsoft 365 soll Vertraulichkeit-Labels besser beachten",
-      "teaser": "In Microsoft-365-Dokumenten lassen sich Vertraulichkeit-Labels vergeben. Künftig sollen die stärker berücksichtigt werden.",
-      "url": "https://www.heise.de/news/Microsoft-365-soll-Vertraulichkeit-Labels-besser-beachten-11283866.html",
-      "image_title": "Apps von Microsoft 365"
-    },
-    {
-      "title": "AlertJetzt patchen! Attacken auf WordPress-Plug-in Breeze Cache beobachtet",
-      "teaser": "Derzeit haben Angreifer WordPress-Websites mit dem Plug-in Breeze Cache im Visier und platzieren Hintertüren auf Servern.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-WordPress-Plug-in-Breeze-Cache-beobachtet-11283738.html"
-    },
-    {
-      "title": "Workshop | 20. – 21.5.2026M365 Forensik und Incident Response: Angriffe erkennen, eindämmen & untersuchen",
-      "teaser": "Der Workshop zeigt den richtigen Umgang mit Angriffen auf ihre M365-Umgebung und wie Spuren gesichert und eingedämmt werden können.",
-      "url": "https://heise-academy.de/Workshops/m365-forensik?wt_mc=intern.conf.ix.ws_m365forensik.security_buehne_2.teaser.teaser"
+      "title": "Workshop | 26. – 28.5.2026Active Directory Hardening: Vom Audit zur sicheren Umgebung",
+      "teaser": "Der Workshop zeigt praxisnah, wie Windows-Administratoren Active-Directory-Sicherheitslücken erkennen und beheben.",
+      "url": "https://heise-academy.de/Workshops/ad-hardening?wt_mc=intern.conf.ix.ws_adhardening.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Classroom | 09.06. – 07.07.2026Ethical Hacking – Deep Dive ins Pentesting für Admins",
