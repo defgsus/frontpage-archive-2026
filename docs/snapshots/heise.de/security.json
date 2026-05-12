@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T11:09:04",
+  "timestamp": "2026-05-12T13:46:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertPi-holeUpdate schließt dnsmasq-Sicherheitslücken",
+      "teaser": "Das Pi-hole-Projekt hat das Update auf FTL 6.6.2 veröffentlicht. Es schließt Lücken in dnsmasq. Andere Projekte dürften folgen.",
+      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
+      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
+    },
+    {
       "title": "Von KI gefundene Zero-Day-LückeGoogle verhindert angeblich neuartigen Cyberangriff",
       "teaser": "Seit Wochen wird gewarnt, dass mit KI-Hilfe Sicherheitslücken gefunden und ausgenutzt werden könnten. Jetzt ist es angeblich so weit.",
       "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
       "image_title": "Google-Logo über einem Gebäudeeingang"
     },
     {
-      "title": "Kompromittierte WebseiteJDownloader verteilte Malware-Downloads",
-      "teaser": "Anfang Mai hat die Webseite von JDownloader Malware ausgeliefert. Das erinnert an die Daemon Tools, die inzwischen reagiert haben.",
-      "url": "https://www.heise.de/news/JDownloader-verteilte-Malware-Downloads-11288832.html",
-      "image_title": "JDownloader-Logo vor MAtrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertPi-hole-Update schließt dnsmasq-Sicherheitslücken",
-      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
-      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
+      "title": "AlertSAP-Patchday: Kritische Sicherheitslücken erlauben unbefugte Anmeldung",
+      "url": "https://www.heise.de/news/SAP-Patchday-Kritische-Sicherheitsluecken-erlauben-unbefugte-Anmeldung-11291173.html",
+      "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -49,16 +49,22 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "Mythos findet nur eine Sicherheitslücke in curl",
+      "teaser": "Daniel Stenberg hat das Angebot angenommen, mit der Mythos-KI nach Schwachstellen in curl zu suchen. Eine Lücke hat er entdeckt.",
+      "url": "https://www.heise.de/news/Mythos-findet-nur-eine-Sicherheitsluecke-in-curl-11291666.html",
+      "image_title": "cURL-Logo auf blauem Hintergrund"
+    },
+    {
+      "title": "AlertSAP-Patchday: Kritische Sicherheitslücken erlauben unbefugte Anmeldung",
+      "teaser": "SAP kümmert sich im Mai um 15 neue Sicherheitslücken. Zwei gelten als kritisch und erlauben die unbefugte Anmeldung oder SQL-Injection.",
+      "url": "https://www.heise.de/news/SAP-Patchday-Kritische-Sicherheitsluecken-erlauben-unbefugte-Anmeldung-11291173.html",
+      "image_title": "Zerstückeltes SAP-Logo, dahinter zerteilte SAP Netweaver GUI"
+    },
+    {
       "title": "Sicherheitsfixes: Warum man schnell auf iOS 26.5 & Co. aktualisieren sollte",
       "teaser": "Die gestern gelieferten Aktualisierungen sind wieder voll von sicherheitsrelevanten Fehlerbehebungen. User älterer macOS-Versionen warten auf ein neues Safari.",
       "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
       "image_title": "Aktualisierung auf einem iPhone"
-    },
-    {
-      "title": "AlertPi-hole-Update schließt dnsmasq-Sicherheitslücken",
-      "teaser": "Das Pi-hole-Projekt hat das Update auf FTL 6.6.2 veröffentlicht. Es schließt Lücken in dnsmasq. Andere Projekte dürften folgen.",
-      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
-      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "AlertNode.js: Abermals Ausbruch aus vm2-Sandbox möglich",
@@ -136,12 +142,6 @@
       "teaser": "Angreifer können cPanel und WebHost Manager unter anderem mit Schadcode attackieren. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitspatch-Abermals-Sicherheitsluecken-in-cPanel-und-WHM-geschlossen-11288962.html",
       "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "UpdateBSI-Studie: Hohe Betroffenheitsquote bei Cyberkriminalität",
-      "teaser": "Phishing, Betrug, fremde Zugriffe: Die meisten Opfer zahlen drauf – und vertrauen Onlinediensten weniger. Viele glauben, ihnen könne nichts passieren.",
-      "url": "https://www.heise.de/news/Jeder-neunte-Onliner-von-Cyberkriminalitaet-betroffen-11288958.html",
-      "image_title": "Kreditkarte vor Laptop"
     },
     {
       "title": "Workshop | 26. – 28.5.2026Active Directory Hardening: Vom Audit zur sicheren Umgebung",
