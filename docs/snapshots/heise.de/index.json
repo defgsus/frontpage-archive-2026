@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T18:28:52",
+  "timestamp": "2026-05-12T20:22:58",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Gigabit überholt endlich Schneckentempoanschlüsse in Deutschland",
+      "url": "https://www.heise.de/news/Gigabit-ueberholt-endlich-Schneckentempoanschluesse-in-Deutschland-11292434.html"
+    },
     {
       "title": "Top 10: Die beste Sportuhr im Test – Garmin vor Huawei und Polar",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-sportuhr-im-test-garmin-vor-huawei-und-polar/hxd2jx4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -56,10 +60,6 @@
     {
       "title": "Apple kauft deutsches Color-Grading-Tool Color.io",
       "url": "https://www.heise.de/news/Apple-kauft-deutsches-Color-Grading-Tool-Color-io-11292201.html"
-    },
-    {
-      "title": "SAP setzt auf KI: Autonomous Suite und Business AI Platform vorgestellt",
-      "url": "https://www.heise.de/news/Altes-Wissen-neue-KI-SAPs-Strategie-fuer-das-autonome-Unternehmen-11292097.html"
     },
     {
       "title": "Android 17Gemini Intelligence bringt agentische Funktionen",
@@ -182,20 +182,26 @@
       "image_title": "Eine Hand hält ein iPhone in die Luft."
     },
     {
+      "title": "Gigabit überholt endlich Schneckentempoanschlüsse in Deutschland",
+      "teaser": "Der deutsche Glasfasertraum steht noch länger auf der Leitung. Schnell geht fast nichts, aber ein Meilenstein wird 2026 gesetzt.",
+      "url": "https://www.heise.de/news/Gigabit-ueberholt-endlich-Schneckentempoanschluesse-in-Deutschland-11292434.html",
+      "image_title": "Schnecke mit Schneckenhaus kriecht über eine Betonplatte"
+    },
+    {
       "title": "Top 10: Die beste Sportuhr im Test – Garmin vor Huawei und Polar",
       "teaser": "Exaktes GPS, präzise Pulsmessung und lange Akkulaufzeit – wir zeigen die besten Sportuhren für das Lauf-, Rad- und Fitness-Training aus unseren Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-sportuhr-im-test-garmin-vor-huawei-und-polar/hxd2jx4?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "Mehr KI und neue Optik: Google aktualisiert Android Auto und Automotive",
       "teaser": "Google bringt mit einem Update mehr KI durch Gemini Intelligence, ein neues Material-3-Design sowie eine immersive 3D-Navigation in Android Auto und Automotive.",
       "url": "https://www.heise.de/news/Android-Auto-Mehr-Gemini-KI-und-immersive-Navigation-kommen-11291808.html",
       "image_title": "Android Auto Bildschirm mit verschiedenen Elementen"
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Hubschrauber mit Brennstoffzellenantrieb fliegt zum ersten Mal",
@@ -225,12 +231,6 @@
       "teaser": "In Sachen KI geht SAP all-in: Mit der Autonomous Suite auf Basis der Business AI Platform wird eine weitere nun agenten-gestützte Produktlinie vorgestellt.",
       "url": "https://www.heise.de/news/Altes-Wissen-neue-KI-SAPs-Strategie-fuer-das-autonome-Unternehmen-11292097.html",
       "image_title": "SAP-Logo auf einem Gebäude"
-    },
-    {
-      "title": "CERN öffnet seine KiCad-Bauteilbibliothek: 17.000 Komponenten für Maker",
-      "teaser": "Das CERN hat seine komplette KiCad-Bibliothek mit über 17.000 Bauteilen unter freier Lizenz veröffentlicht – nutzbar für eigene Schaltpläne und Platinenlayouts.",
-      "url": "https://www.heise.de/news/CERN-oeffnet-seine-KiCad-Bauteilbibliothek-17-000-Komponenten-fuer-Maker-11291640.html",
-      "image_title": "Eine mit KiCad entworfene Platine"
     },
     {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
@@ -323,6 +323,12 @@
       "image_title": "heise+ 50 % Rabatt"
     },
     {
+      "title": "CERN öffnet seine KiCad-Bauteilbibliothek: 17.000 Komponenten für Maker",
+      "teaser": "Das CERN hat seine komplette KiCad-Bibliothek mit über 17.000 Bauteilen unter freier Lizenz veröffentlicht – nutzbar für eigene Schaltpläne und Platinenlayouts.",
+      "url": "https://www.heise.de/news/CERN-oeffnet-seine-KiCad-Bauteilbibliothek-17-000-Komponenten-fuer-Maker-11291640.html",
+      "image_title": "Eine mit KiCad entworfene Platine"
+    },
+    {
       "title": "Dobrindt: „Abschrecken, abwehren und abschalten“ in Kürze",
       "teaser": "Innenminister Alexander Dobrindt kündigt gesetzliche Befugnisse für das BKA an, um die Infrastruktur von Cyberkriminellen aktiv stören und abschalten zu können.",
       "url": "https://www.heise.de/news/Dobrindt-Abschrecken-abwehren-und-abschalten-in-Kuerze-11292023.html",
@@ -394,15 +400,15 @@
       "image_title": "One UI 9 Schriftzug"
     },
     {
+      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
+      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
+    },
+    {
       "title": "Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung",
       "teaser": "Red Hat erweitert OpenShift um Funktionen für souveräne KI, Cloud-Dienste und verbesserte Virtualisierung. Auch Bare Metal as a Service kommt.",
       "url": "https://www.heise.de/news/Red-Hat-OpenShift-Souveraene-KI-Migration-und-Virtualisierung-11291049.html",
       "image_title": "Sticker mit Red-Hat-Logo auf Tastatur"
-    },
-    {
-      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
-      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
     },
     {
       "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
@@ -456,12 +462,6 @@
       "teaser": "Der EuGH stärkt Verlage: Nationale Gesetze dürfen Facebook & Co. zur Vergütung von Nachrichten zwingen, solange ihr Geschäftsmodell auf deren Nutzung basiert.",
       "url": "https://www.heise.de/news/EuGH-Urteil-zum-Leistungsschutz-Meta-muss-fuer-Presseinhalte-in-Italien-zahlen-11291400.html",
       "image_title": "Zeitungen auf einem Laptop"
-    },
-    {
-      "title": "„Blade Runner“ kehrt zurück: Neues XR-Erlebnis startet 2027",
-      "teaser": "Das Science-Fiction-Universum von „Blade Runner“ wird ab 2027 um ein ortsgebundenes, immersives Erlebnis erweitert.",
-      "url": "https://www.heise.de/news/Blade-Runner-kehrt-zurueck-Neues-XR-Erlebnis-startet-2027-11291302.html",
-      "image_title": "Blade Runner: The Immersive Experience – futuristisches Poster mit fliegendem Fahrzeug über düsterer Cyberpunk-Metropole in blau-goldener Neonstimmung."
     },
     {
       "title": "KI frisst Software: Top-Investor stößt Microsoft-Aktien ab",
@@ -642,9 +642,9 @@
       "url": "https://www.heise.de/ratgeber/Entwicklungsplattform-Forgejo-als-GitHub-Alternative-selbst-hosten-11243878.html"
     },
     {
-      "title": "Netzwerktechnik2,5 Gbit/s – Unterschätzt eure alte Telefonleitung nicht!",
-      "teaser": "Alte Telefonleitungen taugen nicht fürs Netzwerk? Wir beweisen im heise-Seminarhaus das Gegenteil.",
-      "url": "https://www.heise.de/news/Video-2-5-Gbit-s-Unterschaetzt-eure-alte-Telefonleitung-nicht-11290671.html"
+      "title": "Open-Source-Pager mit LoRa-Modem, GNSS, WLAN & Bluetooth im Test",
+      "teaser": "Der T-LoRaPager von LilyGo will eine Mischung aus Fertiggerät und Bastlerplattform sein. Wir haben uns das Gerät angesehen.",
+      "url": "https://www.heise.de/tests/Open-Source-Pager-mit-LoRa-Modem-GNSS-WLAN-Bluetooth-im-Test-11166374.html"
     },
     {
       "title": "Famos fensterlnSo behalten Sie im macOS-Fensterdschungel den Überblick",
@@ -746,22 +746,22 @@
       "image_title": "Portland,,Or,,Usa,December,8,,2023,Porsche,356,Coupe,Parked"
     },
     {
-      "title": "Helsing: Münchner Start-up knackt wohl die 18-Milliarden-Marke",
-      "teaser": "Eine neue Milliarden-Finanzierung macht das Münchner KI-Unternehmen Helsing zu einem der wertvollsten Rüstungs-Start-ups Europas.",
-      "url": "https://www.heise.de/article/Helsing-Muenchner-Start-up-knackt-wohl-die-18-Milliarden-Marke-11290493.html",
-      "image_title": "Ein graues HX2-Drohnenmodell."
+      "title": "Schuldner der Welt, vereinigt euch!",
+      "teaser": "54 Länder geben mehr für Schulden als für Bildung aus. Jetzt schließen sich Schuldnerstaaten erstmals zusammen – als Gegenmacht zu den Gläubigern.",
+      "url": "https://www.heise.de/article/Schuldner-der-Welt-vereinigt-euch-11288381.html",
+      "image_title": "Ein Mann rollt eine riesige Kugel bergauf, die mit dem Wort 'Schulden' beschriftet ist."
     },
     {
-      "title": "F&E-Studie: Europas KI-Rückstand gefährdet die wirtschaftliche Souveränität",
-      "teaser": "Fünf US-Konzerne investieren 16-mal mehr in F&E als alle 31 deutschen Top-Unternehmen zusammen. Die Gründe sind strukturell.",
-      "url": "https://www.heise.de/article/F-E-Studie-Europas-KI-Rueckstand-gefaehrdet-die-wirtschaftliche-Souveraenitaet-11292334.html",
-      "image_title": "Ein Techniker installiert neue Hardware in einem Server-Rack."
+      "title": "Indiens neue Atomstrategie: Mehr Sprengköpfe, mehr Reichweite, mehr Risiko",
+      "teaser": "Chinas Hyperschallwaffen und Pakistans Eskalationspolitik treiben Neu-Delhi in eine neue Phase nuklearer Aufrüstung. Eine Einschätzung.",
+      "url": "https://www.heise.de/article/Indiens-neue-Atomstrategie-Mehr-Sprengkoepfe-mehr-Reichweite-mehr-Risiko-11290651.html",
+      "image_title": "Raketen im gegenlicht, dahinter die indische Flagge"
     },
     {
-      "title": "Ölkrise als Chance: China verkauft der Welt die grüne Alternative",
-      "teaser": "Chinas Solarexporte verdoppelten sich im März – und das ist erst der Anfang einer gezielten geopolitischen Strategie.",
-      "url": "https://www.heise.de/article/Iran-Krieg-als-Turbo-China-flutet-die-Welt-mit-Clean-Tech-11291676.html",
-      "image_title": "Eine Drohnenaufnahme von Reihen von Solarmodulen auf einem Feld."
+      "title": "James-Webb-Teleskop analysiert erstmals fremde Planetenoberfläche",
+      "teaser": "Das Weltraumteleskop hat die Oberfläche des Planeten Kua'kua untersucht – und eine dunkle, atmosphärenlose Felswelt entdeckt, die dem Mond oder Merkur ähnelt.",
+      "url": "https://www.heise.de/article/James-Webb-Teleskop-analysiert-erstmals-fremde-Planetenoberflaeche-11282298.html",
+      "image_title": "Aufnahme des Merkur"
     },
     {
       "title": "Forscher blicken in Hirne von LLMs – und finden das geheime Leben der Modelle",
@@ -779,9 +779,9 @@
       "url": "https://t3n.de/news/schneller-als-nvidia-ki%e2%80%91chips-wie-der-boersengang-cerebras-zum-geheimen-ki-champion-macht-1741987/"
     },
     {
-      "title": "Hostinger Managed OpenClaw im Test: KI-Assistent ohne Geraffel?",
-      "teaser": "Der KI-Assistent OpenClaw kann das Leben leichter machen, doch das Aufsetzen und der Betrieb des Tools sind komplex. Hostinger greift Anfängern unter die Arme.",
-      "url": "https://www.heise.de/download/specials/Hostinger-Managed-OpenClaw-im-Test-KI-Assistent-ohne-Geraffel-11271212"
+      "title": "VPN-Test 2026: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2026 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Desinfec't",
