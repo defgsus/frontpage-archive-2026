@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T05:28:49",
+  "timestamp": "2026-05-12T08:18:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Von KI gefundene Zero-Day-LückeGoogle verhindert angeblich neuartigen Cyberangriff",
+      "teaser": "Seit Wochen wird gewarnt, dass mit KI-Hilfe Sicherheitslücken gefunden und ausgenutzt werden könnten. Jetzt ist es angeblich so weit.",
+      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
+      "image_title": "Google-Logo über einem Gebäudeeingang"
+    },
+    {
       "title": "Kompromittierte WebseiteJDownloader verteilte Malware-Downloads",
       "teaser": "Anfang Mai hat die Webseite von JDownloader Malware ausgeliefert. Das erinnert an die Daemon Tools, die inzwischen reagiert haben.",
       "url": "https://www.heise.de/news/JDownloader-verteilte-Malware-Downloads-11288832.html",
       "image_title": "JDownloader-Logo vor MAtrix-Regen-Hintergrund"
     },
     {
-      "title": "Alert„Dirty Frag“Linux-Lücken verschaffen root-Rechte",
-      "teaser": "Weitere Lücken mit dem Namen „Dirty Frag“ ermöglichen die Rechteausweitung. Betroffen sind wohl alle Distributionen.",
-      "url": "https://www.heise.de/news/Dirty-Frag-Linux-Luecken-verschaffen-root-Rechte-11286691.html",
-      "image_title": "Lücken-Maskottchen zur Dirty Frag vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertSchadcode-Lücke bedroht IBM App Connect Enterprise und IBM Integration Bus",
-      "url": "https://www.heise.de/news/Schadcode-Luecke-bedroht-IBM-App-Connect-Enterprise-und-IBM-Integration-Bus-11289112.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
+      "title": "AlertAnonymisierendes Linux Tails: Notfallupdate 7.7.3 fixt DirtyFrag-Lücke",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-Notfallupdate-7-7-3-fixt-DirtyFrag-Luecke-11290621.html",
+      "image_title": "Desktop von Tails 7.7.3 auf Notebook auf Tisch"
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -49,10 +49,28 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Google: Cyberangriff mittels per KI gefundener Zero-Day-Lücke abgewehrt",
-      "teaser": "Seit Wochen wird davor gewarnt, dass böswillige Cyberakteure bald mit KI-Hilfe Sicherheitslücken finden und ausnutzen könnten. Jetzt ist es angeblich so weit.",
-      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
-      "image_title": "Google-Logo über einem Gebäudeeingang"
+      "title": "Infostealer auf KI-Plattform Hugging Face tarnt sich als OpenAI-Repository",
+      "teaser": "Das Repository Open-OSS/privacy-filter enthielt einen Infostealer und wurde über 240.000 Mal heruntergeladen, bevor Hugging Face es entfernt hat.",
+      "url": "https://www.heise.de/news/Infostealer-auf-KI-Plattform-Hugging-Face-tarnt-sich-als-OpenAI-Repository-11290607.html",
+      "image_title": "Schlüssel auf einer Tastatur, der Schlüssel hängt an einem Haken"
+    },
+    {
+      "title": "Chrome: Wie privat ist die lokale KI in Googles Browser?",
+      "teaser": "Die aktuelle Version des Browsers enthält ein lokales KI-Modell, das künftig nicht nur Daten herunterladen, sondern auch mit Googles Servern reden darf.",
+      "url": "https://www.heise.de/news/Chrome-Wie-privat-ist-die-lokale-KI-in-Googles-Browser-11290687.html",
+      "image_title": "Chrome-Logo 2023 vor Farbverlauf"
+    },
+    {
+      "title": "AlertAnonymisierendes Linux Tails: Notfallupdate 7.7.3 fixt DirtyFrag-Lücke",
+      "teaser": "Das anonymisierende Linux Tails ist als nächstes Notfallupdate in Version 7.7.3 erschienen. Es schließt die DirtyFrag-Lücke.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-Notfallupdate-7-7-3-fixt-DirtyFrag-Luecke-11290621.html",
+      "image_title": "Desktop von Tails 7.7.3 auf Notebook auf Tisch"
+    },
+    {
+      "title": "iX-Workshop: Active Directory hacken und schützen",
+      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11280076.html",
+      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
     },
     {
       "title": "UpdateiOS 26.5, macOS 26.5 & Co. sind da: Das ist neu auf iPhones, iPads und Macs",
@@ -125,24 +143,6 @@
       "image_title": "Smartphone-Display mit Instagram-Logo, auf einer Tastatur liegend."
     },
     {
-      "title": "AlertIvanti EPMM: Update stopft bereits angegriffene Sicherheitslücken",
-      "teaser": "Ivanti hat Sicherheitsupdates für den Endpoint Manager Mobile (EPMM) veröffentlicht. Sie schließen auch bereits attackierte Lücken.",
-      "url": "https://www.heise.de/news/Ivanti-EPMM-Update-stopft-bereits-angegriffene-Sicherheitsluecken-11286825.html",
-      "image_title": "Finger tippt auf Update-Button"
-    },
-    {
-      "title": "Dank KI: Im April so viele Firefox-Lücken geschlossen wie vorher in zwei Jahren",
-      "teaser": "Mit einem großen Update und kleineren Patches hat Mozilla im April 423 Firefox-Lücken geschlossen. Noch vor kurzem waren es pro Monat immer etwa zwei Dutzend.",
-      "url": "https://www.heise.de/news/Dank-KI-Im-April-so-viele-Firefox-Luecken-geschlossen-wie-vorher-in-zwei-Jahren-11287023.html",
-      "image_title": "Die Grafik zur Zahl der monatlich geschlossenen Firefox-Lücken: Bis zum Jahreswechsel imm so etwa 20, im April jetzt 423"
-    },
-    {
-      "title": "QLNX: Neuer Remote-Access-Trojaner zielt auf Linux-Entwickler",
-      "teaser": "Hinter Quasar Linux (QLNX) steckt kein Betriebssystem, sondern ein Supply-Chain-Angriffstool, das sich nur schwer erkennen und entfernen lässt.",
-      "url": "https://www.heise.de/news/QLNX-Neuer-Remote-Access-Trojaner-zielt-auf-Linux-Entwickler-11285654.html",
-      "image_title": "Malware-Hinweis vor Display-Hintergrund"
-    },
-    {
       "title": "Workshop | 26. – 28.5.2026Active Directory Hardening: Vom Audit zur sicheren Umgebung",
       "teaser": "Der Workshop zeigt praxisnah, wie Windows-Administratoren Active-Directory-Sicherheitslücken erkennen und beheben.",
       "url": "https://heise-academy.de/Workshops/ad-hardening?wt_mc=intern.conf.ix.ws_adhardening.security_buehne_2.teaser.teaser"
@@ -201,8 +201,8 @@
       "url": "https://www.heise.de/news/DNS-Probleme-de-Domains-nicht-erreichbar-11283192.html"
     },
     {
-      "title": "Passwörter landen als Klartext im Speicher",
-      "url": "https://www.heise.de/news/Microsoft-Edge-Passwoerter-landen-als-Klartext-im-Speicher-11281407.html"
+      "title": "Student konnte nach Einbruch in Funksystem Schnellzüge stoppen",
+      "url": "https://www.heise.de/news/Student-konnte-nach-Einbruch-in-Funksystem-taiwanische-Schnellzuege-stoppen-11283264.html"
     }
   ]
 }

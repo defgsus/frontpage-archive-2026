@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T05:28:46",
+  "timestamp": "2026-05-12T08:18:44",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,96 @@
   ],
   "articles": [
     {
+      "title": "Infostealer auf KI-Plattform Hugging Face tarnt sich als OpenAI-Repository",
+      "teaser": "Das Repository Open-OSS/privacy-filter enthielt einen Infostealer und wurde über 240.000 Mal heruntergeladen, bevor Hugging Face es entfernt hat.",
+      "url": "https://www.heise.de/news/Infostealer-auf-KI-Plattform-Hugging-Face-tarnt-sich-als-OpenAI-Repository-11290607.html",
+      "image_title": "Schlüssel auf einer Tastatur, der Schlüssel hängt an einem Haken"
+    },
+    {
+      "title": "iX-Konferenz: Hilfreiche Architektur-Dokumentation in weniger als 60 Minuten",
+      "teaser": "Gebündeltes, praxisnahes Wissen zur Softwarearchitektur-Dokumentation gibt es auf der betterCode() ArchDoc: schneller Canvas, Docs-as-Code und Hilfe mit KI.",
+      "url": "https://www.heise.de/news/iX-Konferenz-Hilfreiche-Architektur-Dokumentation-in-weniger-als-60-Minuten-11286027.html",
+      "image_title": "Aufmacher Konferenz ArchDoc"
+    },
+    {
+      "title": "Zukunft von Microsofts Milliarden-Rechenzentrum in Kenia unsicher",
+      "teaser": "Ein KI-Prestigeprojekt von Microsoft in Ostafrika steht auf der Kippe. Neben dem immensen Strombedarf bereiten vor allem offene Zahlungsgarantien Probleme.",
+      "url": "https://www.heise.de/news/Zukunft-von-Microsofts-Milliarden-Rechenzentrum-in-Kenia-unsicher-11290027.html",
+      "image_title": "Rechenzentrum"
+    },
+    {
+      "title": "Interview zu Europas Bankwesen: „Regulierung könnte auch ein Vorteil sein“",
+      "teaser": "Die Deutsche Bank probiert sich in Sachen KI aus – und glaubt, dass die EU noch viel Innovationspotenzial hat, wie Strategiechef Christoph Rabenseifner sagt.",
+      "url": "https://www.heise.de/hintergrund/Banken-KI-und-die-Cloud-Regulierung-koennte-auch-ein-Vorteil-sein-11290533.html",
+      "image_title": "Hauptquartier der Deutschen Bank in Frankfurt"
+    },
+    {
+      "title": "HintergrundTokenbudget und Kosten für Vibe Coding schätzen",
+      "url": "https://www.heise.de/hintergrund/Tokenbudget-und-Kosten-fuer-Vibe-Coding-schaetzen-11284372.html",
+      "image_title": ", Vanessa Bahr / iX"
+    },
+    {
+      "title": "Ratgeber8-Watt-Mini: Kompakten, sparsamen und leisen Mini-PC selbst bauen",
+      "url": "https://www.heise.de/ratgeber/8-Watt-Mini-Kompakten-sparsamen-und-leisen-Mini-PC-selbst-bauen-11251816.html"
+    },
+    {
+      "title": "RatgeberEntwicklungsplattform Forgejo als GitHub-Alternative selbst hosten",
+      "url": "https://www.heise.de/ratgeber/Entwicklungsplattform-Forgejo-als-GitHub-Alternative-selbst-hosten-11243878.html"
+    },
+    {
+      "title": "Chrome: Wie privat ist die lokale KI in Googles Browser?",
+      "teaser": "Die aktuelle Version des Browsers enthält ein lokales KI-Modell, das künftig nicht nur Daten herunterladen, sondern auch mit Googles Servern reden darf.",
+      "url": "https://www.heise.de/news/Chrome-Wie-privat-ist-die-lokale-KI-in-Googles-Browser-11290687.html",
+      "image_title": "Chrome-Logo 2023 vor Farbverlauf"
+    },
+    {
+      "title": "Tipp: Falsch eingegebenen Apple Account am Mac ändern",
+      "teaser": "Vertippt man sich bei Eingabe der als Apple Account verwendeten E-Mail-Adresse und bemerkt das erst beim Fehlschlagen der Anmeldung, dann hilft ein Workaround.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Falsch-eingegebene-Apple-ID-am-Mac-aendern-4953327.html"
+    },
+    {
+      "title": "Video: 2,5 Gbit/s – Unterschätzt eure alte Telefonleitung nicht!",
+      "teaser": "Alte Telefonleitungen taugen nicht fürs Netzwerk? Wir beweisen im heise-Seminarhaus das Gegenteil.",
+      "url": "https://www.heise.de/news/Video-2-5-Gbit-s-Unterschaetzt-eure-alte-Telefonleitung-nicht-11290671.html"
+    },
+    {
+      "title": "Anthropic findet Antwort: Darum erpresste Claude Software-Entwickler",
+      "teaser": "Claude Opus 4 drohte in 96 Prozent der Tests mit Erpressung, um einer Abschaltung zu entgehen. Jetzt hat Anthropic eine Erklärung für das Verhalten gefunden.",
+      "url": "https://www.heise.de/news/Anthropic-findet-Antwort-Darum-erpresste-Claude-Software-Entwickler-11290625.html",
+      "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
+    },
+    {
+      "title": "AlertAnonymisierendes Linux Tails: Notfallupdate 7.7.3 fixt DirtyFrag-Lücke",
+      "teaser": "Das anonymisierende Linux Tails ist als nächstes Notfallupdate in Version 7.7.3 erschienen. Es schließt die DirtyFrag-Lücke.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-Notfallupdate-7-7-3-fixt-DirtyFrag-Luecke-11290621.html",
+      "image_title": "Desktop von Tails 7.7.3 auf Notebook auf Tisch"
+    },
+    {
+      "title": "Software Testing: Der Blaue Engel für Software",
+      "teaser": "Was hat es mit dem Blauen Engel für Software auf sich? Das klärt Richard Seidl im Gespräch mit Anita Schüttler, Expertin für digitale Nachhaltigkeit.",
+      "url": "https://www.heise.de/blog/Software-Testing-Der-Blaue-Engel-fuer-Software-11290279.html",
+      "image_title": "Software Testing: Der Blaue Engel für Software"
+    },
+    {
+      "title": "iX-Workshop: Active Directory hacken und schützen",
+      "teaser": "Werden Sie selbst zum Hacker und lernen, wie Angreifer gezielt Schwachstellen in Active Directory ausnutzen, um Server und Domänencontroller zu kompromittieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-hacken-und-schuetzen-11280076.html",
+      "image_title": "iX-Workshop: Active Directory aus Angreifersicht: Schwachstellen mit NetExec finden und ausnutzen"
+    },
+    {
+      "title": "Von KI gefundene Zero-Day-Lücke: Google verhindert angeblich Cyberangriff",
+      "teaser": "Seit Wochen wird davor gewarnt, dass böswillige Cyberakteure bald mit KI-Hilfe Sicherheitslücken finden und ausnutzen könnten. Jetzt ist es angeblich so weit.",
+      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
+      "image_title": "Google-Logo über einem Gebäudeeingang"
+    },
+    {
       "title": "Projektseite: Bauvorschlag 8-Watt-Mini",
       "teaser": "Stellen Sie sich Ihren leisen, sparsamen Büro-PC anhand unseres Bauvorschlags aus c’t 12/2026 zusammen. Er bietet Thunderbolt 4 und taugt auch als Server.",
       "url": "https://www.heise.de/ratgeber/Projektseite-Bauvorschlag-8-Watt-Mini-11278381.html"
     },
     {
-      "title": "UpdateiOS 26.5, macOS 26.5 & Co. sind daDas ist neu auf iPhones, iPads und Macs",
-      "teaser": "Die Betriebssysteme beseitigen in Version 26.5 Fehler. Zudem wird begonnen, Messaging mit Android durchgehend zu verschlüsseln.",
+      "title": "UpdateiOS 26.5, macOS 26.5 & Co. sind da: Das ist neu auf iPhones, iPads und Macs",
+      "teaser": "Die Betriebssysteme beseitigen in Version 26.5 mehrere Fehler. Apple beginnt endlich damit, das Messaging mit Android-Nutzern durchgehend zu verschlüsseln.",
       "url": "https://www.heise.de/news/iOS-26-5-macOS-26-5-Co-sind-da-Das-ist-neu-auf-iPhones-iPads-und-Macs-11290421.html",
       "image_title": "Eine Hand hält ein iPhone in die Luft."
     },
@@ -37,29 +120,10 @@
       "image_title": "Blue,Neon,Glowing,Weight,Balance,Scale,Holding,Red,Alphabet,Ai"
     },
     {
-      "title": "PC-SelbstbauMarkt steht vor einem massiven Einbruch",
-      "teaser": "Dem Markt für Selbstbau-PCs stehen düstere Zeiten bevor. Mainboard-Hersteller stellen sich auf einen erheblichen Einbruch ein.",
+      "title": "PC-Selbstbau: Markt steht vor einem massiven Einbruch",
+      "teaser": "Dem Markt für Selbstbau-PCs stehen düstere Zeiten bevor. Mainboard-Hersteller stellen sich auf einen Einbruch um bis zu einem Drittel ein.",
       "url": "https://www.heise.de/news/Einbruch-auf-ganzer-Linie-Mainboard-Hersteller-rechnen-mit-starkem-Rueckgang-11290387.html",
       "image_title": "Vier Mainboards übereinandergestapelt diagonal von oben fotografiert"
-    },
-    {
-      "title": "TestsOpen-Source-Pager mit LoRa-Modem, GNSS, WLAN & Bluetooth im Test",
-      "url": "https://www.heise.de/tests/Open-Source-Pager-mit-LoRa-Modem-GNSS-WLAN-Bluetooth-im-Test-11166374.html"
-    },
-    {
-      "title": "HintergrundKI und Digitalpakt: So soll die Schule der Zukunft aussehen",
-      "url": "https://www.heise.de/hintergrund/KI-und-Digitalpakt-So-soll-die-Schule-der-Zukunft-aussehen-11274422.html"
-    },
-    {
-      "title": "RatgeberAktive Sicherheitsstrategie: So funktioniert autonome IT-Abwehr im XDR-Verbund",
-      "url": "https://www.heise.de/ratgeber/Aktive-Sicherheitsstrategie-So-funktioniert-autonome-IT-Abwehr-im-XDR-Verbund-11283716.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "Google: Cyberangriff mittels per KI gefundener Zero-Day-Lücke abgewehrt",
-      "teaser": "Seit Wochen wird davor gewarnt, dass böswillige Cyberakteure bald mit KI-Hilfe Sicherheitslücken finden und ausnutzen könnten. Jetzt ist es angeblich so weit.",
-      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
-      "image_title": "Google-Logo über einem Gebäudeeingang"
     },
     {
       "title": "Fake-Module: Betrüger bauen Speicherchips mit Glasgewebe nach",
@@ -74,75 +138,9 @@
       "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
     },
     {
-      "title": "Microsoft Purview: KI-Prompts trotz Anonymisierung einsehbar",
-      "teaser": "Mit Microsofts Purview können IT-Teams auch KI-Prompts überwachen, die User sind pseudonymisiert. Analysten können sie deanonymisieren.",
-      "url": "https://www.heise.de/news/Microsoft-Purview-Analysten-koennen-KI-Prompts-und-Antworten-deanonymisieren-11290021.html",
-      "image_title": "Microsoft-Purview-Logo vor stilisertem Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Rheinmetall und Telekom entwickeln Anti-Drohnen-Abwehrschirm",
-      "teaser": "Rheinmetall und Telekom entwickeln gemeinsam einen Drohnen-Schutzschild.",
-      "url": "https://www.heise.de/news/Rheinmetall-und-Telekom-entwickeln-Anti-Drohnen-Abwehrschirm-11290017.html",
-      "image_title": "Rheinmetall Defence Schriftzug"
-    },
-    {
-      "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
-      "teaser": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11280761.html",
-      "image_title": "stilisierte Roboter stehen an einem Fließband und schweißen Teile zusammen; links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
-    },
-    {
-      "title": "Gmail: Erneut Probleme mit Exchange ActiveSync",
-      "teaser": "Die Android-Gmail-App beschert einigen Nutzern wieder erhöhten Puls, wenn sie Exchange-Online-Mails mit Exchange ActiveSync abholen.",
-      "url": "https://www.heise.de/news/Gmail-Erneut-Probleme-mit-Exchange-ActiveSync-11289841.html",
-      "image_title": "GMail-Logo: Es gibt Probleme"
-    },
-    {
-      "title": "Lime will an die Nasdaq: Börsengang soll Schuldenlast senken",
-      "teaser": "Uber-Partner Lime drängt an die Börse: Der Micromobility-Anbieter muss hohe Schulden abbauen und sieht im Börsengang einen möglichen Ausweg.",
-      "url": "https://www.heise.de/news/Micromobility-Anbieter-Lime-bereitet-Boersengang-vor-11289811.html",
-      "image_title": "Reihe grüner Lime-Leihfahrräder und E-Bikes auf einem Platz in einer europäischen Innenstadt."
-    },
-    {
-      "title": "Trellix-Einbruch: Cybergang RansomHouse behauptet Datenklau",
-      "teaser": "Neue Erkenntnisse im Fall des unbefugten Zugriffs auf Trellix-Quellcodes: Die kriminelle Bande RansomHouse bekennt sich zum Datenklau.",
-      "url": "https://www.heise.de/news/Trellix-Einbruch-Cybergang-RansomHouse-behauptet-Datenklau-11289457.html",
-      "image_title": "Trellix-Logo mit EIntrag auf RansomHouse-Darknet-Seite"
-    },
-    {
-      "title": "Digitale Selbsthilfe: App bietet Unterstützung für pflegende Angehörige",
-      "teaser": "Pflegende Angehörige sind oft stark belastet und isoliert. Die App in.kontakt bietet Raum für Austausch und soll für niedrigschwellige Unterstützung sorgen.",
-      "url": "https://www.heise.de/hintergrund/Digitale-Selbsthilfe-App-bietet-Unterstuetzung-fuer-pflegende-Angehoerige-11288928.html",
-      "image_title": "Zwei Cartoon-Figuren, in deren Mitte sich ein riesiges Smartphone befindet."
-    },
-    {
-      "title": "Nächste Woche: heise security Tour zu KI, Identität, Monitoring und Lieferketten",
-      "teaser": "Die heise security Tour liefert Sicherheitsverantwortlichen das praxisrelevante Hintergrundwissen zu den aktuellen Herausforderungen der IT-Sicherheit.",
-      "url": "https://www.heise.de/news/Naechste-Woche-heise-security-Tour-zu-KI-Identitaet-Monitoring-und-Lieferketten-11278197.html"
-    },
-    {
-      "title": "macOS 27: Apple soll Designänderungen planen",
-      "teaser": "Die Neuerungen in der nächsten Version des Mac-Betriebssystems fallen eher klein aus. Einem Bericht zufolge plant Apple aber wichtige Aufräumarbeiten.",
-      "url": "https://www.heise.de/news/macOS-27-Apple-soll-Designaenderungen-planen-11288690.html",
-      "image_title": "macOS 26 Tahoe auf verschiedenen Macs"
-    },
-    {
-      "title": "C++-Entwickler nutzen KI häufiger, bleiben aber skeptisch",
-      "teaser": "Die aktuelle Umfrage der Standard C++ Foundation zeigt, dass KI-Tools immer beliebter werden. Viele Entwickler misstrauen aber der Qualität der Ergebnisse.",
-      "url": "https://www.heise.de/news/C-Entwickler-nutzen-KI-haeufiger-bleiben-aber-skeptisch-11287695.html",
-      "image_title": "C++ Code"
-    },
-    {
-      "title": "Schnell aktualisieren: Parallels Desktop 26.3.2 behebt zahlreiche Fehler",
-      "teaser": "Es sind mehr als die üblichen Stabilitäts- und Sicherheitsverbesserungen, die das jüngste Update für die VM-Lösung von Parallels behebt. Das steckt drin.",
-      "url": "https://www.heise.de/news/Schnell-aktualisieren-Parallels-Desktop-26-3-2-behebt-zahlreiche-Fehler-11288664.html",
-      "image_title": "Parallels Desktop 26 auf dem Mac"
-    },
-    {
-      "title": "Debian macht ernst: Nur noch reproduzierbare Pakete in „testing“",
-      "teaser": "Für Debian 14 müssen Pakete reproduzierbar sein, um nach „testing“ zu gelangen. Das Release Team hat die Regeln verschärft.",
-      "url": "https://www.heise.de/news/Debian-14-Reproduzierbare-Builds-werden-zur-Pflicht-11289259.html",
-      "image_title": "Das Debian-Logo mit einem roten Wirbel und dem Wort \"debian\" darunter."
+      "title": "Open-Source-Pager mit LoRa-Modem, GNSS, WLAN & Bluetooth im Test",
+      "teaser": "Der T-LoRaPager von LilyGo will eine Mischung aus Fertiggerät und Bastlerplattform sein. Wir haben uns das Gerät angesehen.",
+      "url": "https://www.heise.de/tests/Open-Source-Pager-mit-LoRa-Modem-GNSS-WLAN-Bluetooth-im-Test-11166374.html"
     },
     {
       "title": "NewsKI frisst Software: Top-Investor stößt Microsoft-Aktien ab",
