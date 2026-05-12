@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T13:46:41",
+  "timestamp": "2026-05-12T16:09:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,77 @@
   ],
   "articles": [
     {
+      "title": "FAQ: So bootet Windows per UEFI",
+      "teaser": "Was steckt hinter UEFI-Boot, BCDedit und dem BCD-Store? Diese FAQ vertieft einzelne Themen.",
+      "url": "https://www.heise.de/ratgeber/FAQ-So-bootet-Windows-per-UEFI-11252332.html"
+    },
+    {
+      "title": "Mit Airflow Trends erkennen: So überwachen Sie Youtube-Kanäle & Co",
+      "teaser": "Mit Airflow können Sie automatisiert Daten aus dem Netz ziehen und für eigene Statistiken verwenden. Unser Workflow zeigt, wie das für YouTube-Kanäle gelingt.",
+      "url": "https://www.heise.de/ratgeber/Mit-Airflow-Trends-erkennen-So-ueberwachen-Sie-Youtube-Kanaele-Co-11290079.html",
+      "image_title": "KI-Illustration: Mit Airflow kann man Kanal- und Videodaten von Youtube automatisiert abziehen."
+    },
+    {
+      "title": "Apple kauft deutsches Color-Grading-Tool Color.io",
+      "teaser": "Apple hat die deutsche Ein-Mann-Firma Patchflyer übernommen, die das Farbkorrektur-Tool Color.io entwickelte. Auch das KI-Start-up PromptAI gehört nun zu Apple.",
+      "url": "https://www.heise.de/news/Apple-kauft-deutsches-Color-Grading-Tool-Color-io-11292201.html",
+      "image_title": "Apple-Logo auf einer Geräterückseite"
+    },
+    {
+      "title": "SAP setzt auf KI: Autonomous Suite und Business AI Platform vorgestellt",
+      "teaser": "In Sachen KI geht SAP all-in: Mit der Autonomous Suite auf Basis der Business AI Platform wird eine weitere nun agenten-gestützte Produktlinie vorgestellt.",
+      "url": "https://www.heise.de/news/Altes-Wissen-neue-KI-SAPs-Strategie-fuer-das-autonome-Unternehmen-11292097.html",
+      "image_title": "SAP-Logo auf einem Gebäude"
+    },
+    {
+      "title": "RatgeberMit Airflow Trends erkennen: So überwachen Sie Youtube-Kanäle & Co",
+      "url": "https://www.heise.de/ratgeber/Mit-Airflow-Trends-erkennen-So-ueberwachen-Sie-Youtube-Kanaele-Co-11290079.html",
+      "image_title": "KI-Illustration: Mit Airflow kann man Kanal- und Videodaten von Youtube automatisiert abziehen."
+    },
+    {
+      "title": "TestsPrivater Wissenssammler: Karakeep erschließt Bookmarks und Dateien per KI",
+      "url": "https://www.heise.de/tests/Privater-Wissenssammler-Karakeep-erschliesst-Bookmarks-und-Dateien-per-KI-11080855.html"
+    },
+    {
+      "title": "HintergrundTokenbudget und Kosten für Vibe Coding schätzen",
+      "url": "https://www.heise.de/hintergrund/Tokenbudget-und-Kosten-fuer-Vibe-Coding-schaetzen-11284372.html",
+      "image_title": ", Vanessa Bahr / iX"
+    },
+    {
+      "title": "Dobrindt: „Abschrecken, abwehren und abschalten“ in Kürze",
+      "teaser": "Innenminister Alexander Dobrindt kündigt gesetzliche Befugnisse für das BKA an, um die Infrastruktur von Cyberkriminellen aktiv stören und abschalten zu können.",
+      "url": "https://www.heise.de/news/Dobrindt-Abschrecken-abwehren-und-abschalten-in-Kuerze-11292023.html",
+      "image_title": "Pressefoto von Bundesinnenminister Alexander Dobrindt"
+    },
+    {
+      "title": "„Die Pflege braucht ihre eigene Informatik-Initiative“",
+      "teaser": "Warum wir an der Digitalisierung nicht mehr vorbeikommen und es eine Pflegeinformatik-Initiative braucht, erklärt Thomas Meißner vom Deutschen Pflegerat.",
+      "url": "https://www.heise.de/hintergrund/Digitalisierung-Warum-die-Pflege-mehr-Mitsprache-fordert-11291706.html",
+      "image_title": "Ältere Menschen im Stuhlkreis"
+    },
+    {
+      "title": "Red Hat AI 3.4: Eigene Inferenzplattformen statt externer API-Calls",
+      "teaser": "Red Hats neue Version der AI-Plattform bietet Model-as-a-Service, umfangreiche Agentenverwaltung und eine engere Nvidia-Anbindung.",
+      "url": "https://www.heise.de/news/Red-Hat-AI-3-4-mit-Agenten-Kontrolle-und-erweiterter-Inferenz-11291804.html",
+      "image_title": "Sticker mit Red-Hat-Logo auf Tastatur"
+    },
+    {
+      "title": "Entwickler-Infotag ONLINE am 16. Juni 2026 zu .NET 11.0, C# 15.0 und KI",
+      "teaser": "Der eintägige Online-Infotag widmet sich diversen Themen rund um die kommenden Versionen von C# und .NET sowie KI-unterstützte Softwareentwicklung.",
+      "url": "https://www.heise.de/blog/Entwickler-Infotag-ONLINE-am-16-Juni-2026-zu-NET-11-0-C-15-0-und-KI-11292117.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
+    },
+    {
+      "title": "Fedora plant KI-Linux-Desktop",
+      "teaser": "Fedora arbeitet an einem Linux-Desktop für KI-Entwickler. Das Projekt will die bislang oft komplexe Einrichtung lokaler KI-Stacks deutlich vereinfachen.",
+      "url": "https://www.heise.de/news/Fedora-plant-KI-Linux-Desktop-11291654.html",
+      "image_title": "Ein Roboterarm hält ein Logo mit einem stilisierten 'f' in einem Kreis."
+    },
+    {
       "title": "Mythos findet nur eine Sicherheitslücke in curl",
       "teaser": "Daniel Stenberg hat das Angebot angenommen, mit der Mythos-KI nach Schwachstellen in curl zu suchen. Eine Lücke hat er entdeckt.",
       "url": "https://www.heise.de/news/Mythos-findet-nur-eine-Sicherheitsluecke-in-curl-11291666.html",
       "image_title": "cURL-Logo auf blauem Hintergrund"
-    },
-    {
-      "title": "Bit-Rauschen: Riesige KI-Chips und winzige fürs In-Memory-Computing",
-      "teaser": "Google stellt extrem starke KI-Chips vor. Ganz anders arbeiten winzige KI-Chips für Kopfhörer. Elon Musks Terafab-Projekt treibt Börsenkurse durch die Decke.",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Riesige-KI-Chips-und-winzige-fuers-In-Memory-Computing-11147718.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
     },
     {
       "title": "Red Hat OpenShift: Souveräne KI, Migration und Virtualisierung",
@@ -42,19 +103,6 @@
       "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
       "url": "https://www.heise.de/news/iX-Workshop-Keycloak-der-fundierte-Einstieg-in-IAM-und-SSO-11280096.html",
       "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "TestsPrivater Wissenssammler: Karakeep erschließt Bookmarks und Dateien per KI",
-      "url": "https://www.heise.de/tests/Privater-Wissenssammler-Karakeep-erschliesst-Bookmarks-und-Dateien-per-KI-11080855.html"
-    },
-    {
-      "title": "HintergrundTokenbudget und Kosten für Vibe Coding schätzen",
-      "url": "https://www.heise.de/hintergrund/Tokenbudget-und-Kosten-fuer-Vibe-Coding-schaetzen-11284372.html",
-      "image_title": ", Vanessa Bahr / iX"
-    },
-    {
-      "title": "Ratgeber8-Watt-Mini: Kompakten, sparsamen und leisen Mini-PC selbst bauen",
-      "url": "https://www.heise.de/ratgeber/8-Watt-Mini-Kompakten-sparsamen-und-leisen-Mini-PC-selbst-bauen-11251816.html"
     },
     {
       "title": "Schattenbibliothek: Buchverlage wollen Anna's Archive abschalten",
@@ -96,53 +144,6 @@
       "teaser": "Neben iOS, iPadOS und macOS hat Apple auch seine kleineren Betriebssysteme aktualisiert. Ein Blick auf das, was bekannt ist.",
       "url": "https://www.heise.de/news/tvOS-visionOS-watchOS-und-HomePod-Software-Details-zu-Version-26-5-11291079.html",
       "image_title": "Apple TV 4K"
-    },
-    {
-      "title": "Microsoft veröffentlicht Evaluations-Tool für Copilot-Agenten",
-      "teaser": "Mit dem Tool Microsoft 365 Copilot Agent Evaluations CLI lassen sich Copilot‑Agenten systematisch testen und verbessern. Derzeit geht das kostenlos.",
-      "url": "https://www.heise.de/news/Microsoft-veroeffentlicht-Evaluations-Tool-fuer-Copilot-Agenten-11290815.html",
-      "image_title": "Eine Lupe vergrößert den Text \"Microsoft 365\""
-    },
-    {
-      "title": "Sicherheitsfixes: Warum man schnell auf iOS 26.5 & Co. aktualisieren sollte",
-      "teaser": "Die gestern gelieferten Aktualisierungen sind wieder voll von sicherheitsrelevanten Fehlerbehebungen. User älterer macOS-Versionen warten auf ein neues Safari.",
-      "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
-      "image_title": "Aktualisierung auf einem iPhone"
-    },
-    {
-      "title": "KI im Unternehmen: So gelingt der sichere GPT-Einsatz",
-      "teaser": "Wie Unternehmen KI sicher, skalierbar und praxisnah integrieren – mit Learnings zu Architektur, Sicherheit und Make-or-Buy-Strategien.",
-      "url": "https://www.heise.de/news/KI-im-Unternehmen-So-gelingt-der-sichere-GPT-Einsatz-11287713.html"
-    },
-    {
-      "title": "AlertPi-hole-Update schließt dnsmasq-Sicherheitslücken",
-      "teaser": "Das Pi-hole-Projekt hat das Update auf FTL 6.6.2 veröffentlicht. Es schließt Lücken in dnsmasq. Andere Projekte dürften folgen.",
-      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
-      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "AlertNode.js: Abermals Ausbruch aus vm2-Sandbox möglich",
-      "teaser": "Eine kritische Sicherheitslücke in der Node.js-Sandbox vm2 kann Schadcode passieren lassen. Ein Sicherheitspatch steht zum Download bereit.",
-      "url": "https://www.heise.de/news/Node-js-Abermals-Ausbruch-aus-vm2-Sandbox-moeglich-11290901.html",
-      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
-    },
-    {
-      "title": "Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert",
-      "teaser": "Zahlreiche TanStack-Pakete auf npm haben eine Supply-Chain-Attacke erlitten, offenbar im Rahmen der Angriffswelle „Mini Shai-Hulud“.",
-      "url": "https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html",
-      "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
-    },
-    {
-      "title": "Infostealer auf KI-Plattform Hugging Face tarnt sich als OpenAI-Repository",
-      "teaser": "Das Repository Open-OSS/privacy-filter enthielt einen Infostealer und wurde über 240.000 Mal heruntergeladen, bevor Hugging Face es entfernt hat.",
-      "url": "https://www.heise.de/news/Infostealer-auf-KI-Plattform-Hugging-Face-tarnt-sich-als-OpenAI-Repository-11290607.html",
-      "image_title": "Schlüssel auf einer Tastatur, der Schlüssel hängt an einem Haken"
-    },
-    {
-      "title": "iX-Konferenz: Hilfreiche Architektur-Dokumentation in weniger als 60 Minuten",
-      "teaser": "Gebündeltes, praxisnahes Wissen zur Softwarearchitektur-Dokumentation gibt es auf der betterCode() ArchDoc: schneller Canvas, Docs-as-Code und Hilfe mit KI.",
-      "url": "https://www.heise.de/news/iX-Konferenz-Hilfreiche-Architektur-Dokumentation-in-weniger-als-60-Minuten-11286027.html",
-      "image_title": "Aufmacher Konferenz ArchDoc"
     },
     {
       "title": "NewsKI frisst Software: Top-Investor stößt Microsoft-Aktien ab",
