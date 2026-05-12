@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-12T08:18:47",
+  "timestamp": "2026-05-12T11:09:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,9 +32,9 @@
       "image_title": "JDownloader-Logo vor MAtrix-Regen-Hintergrund"
     },
     {
-      "title": "AlertAnonymisierendes Linux Tails: Notfallupdate 7.7.3 fixt DirtyFrag-Lücke",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-Notfallupdate-7-7-3-fixt-DirtyFrag-Luecke-11290621.html",
-      "image_title": "Desktop von Tails 7.7.3 auf Notebook auf Tisch"
+      "title": "AlertPi-hole-Update schließt dnsmasq-Sicherheitslücken",
+      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
+      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -47,6 +47,30 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Sicherheitsfixes: Warum man schnell auf iOS 26.5 & Co. aktualisieren sollte",
+      "teaser": "Die gestern gelieferten Aktualisierungen sind wieder voll von sicherheitsrelevanten Fehlerbehebungen. User älterer macOS-Versionen warten auf ein neues Safari.",
+      "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
+      "image_title": "Aktualisierung auf einem iPhone"
+    },
+    {
+      "title": "AlertPi-hole-Update schließt dnsmasq-Sicherheitslücken",
+      "teaser": "Das Pi-hole-Projekt hat das Update auf FTL 6.6.2 veröffentlicht. Es schließt Lücken in dnsmasq. Andere Projekte dürften folgen.",
+      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
+      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
+    },
+    {
+      "title": "AlertNode.js: Abermals Ausbruch aus vm2-Sandbox möglich",
+      "teaser": "Eine kritische Sicherheitslücke in der Node.js-Sandbox vm2 kann Schadcode passieren lassen. Ein Sicherheitspatch steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Node-js-Abermals-Ausbruch-aus-vm2-Sandbox-moeglich-11290901.html",
+      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
+    },
+    {
+      "title": "Supply-Chain-Angriff auf TanStack: 42 Pakete kompromittiert",
+      "teaser": "Zahlreiche TanStack-Pakete auf npm haben eine Supply-Chain-Attacke erlitten, offenbar im Rahmen der Angriffswelle „Mini Shai-Hulud“.",
+      "url": "https://www.heise.de/news/Supply-Chain-Angriff-auf-TanStack-42-Pakete-kompromittiert-11290715.html",
+      "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
     },
     {
       "title": "Infostealer auf KI-Plattform Hugging Face tarnt sich als OpenAI-Repository",
@@ -118,29 +142,6 @@
       "teaser": "Phishing, Betrug, fremde Zugriffe: Die meisten Opfer zahlen drauf – und vertrauen Onlinediensten weniger. Viele glauben, ihnen könne nichts passieren.",
       "url": "https://www.heise.de/news/Jeder-neunte-Onliner-von-Cyberkriminalitaet-betroffen-11288958.html",
       "image_title": "Kreditkarte vor Laptop"
-    },
-    {
-      "title": "iX-Workshop: Cloud Security Masterclass – Angriff und Verteidigung in AWS",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Cloud-Security-Masterclass-Angriff-und-Verteidigung-in-AWS-11272893.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "DNS-Probleme mit .de-Domains: DENIC liefert erste Erklärung",
-      "teaser": "Fehlerhafte Signaturen haben am Mittwoch Ausfälle von .de-Domains verursacht. Die Verantwortlichen bei der DENIC haben jetzt Erklärungen geliefert.",
-      "url": "https://www.heise.de/news/DNS-Probleme-mit-de-Domains-DENIC-liefert-erste-Erklaerung-11288197.html",
-      "image_title": "DNS-Logo als Hologramm über Laptop"
-    },
-    {
-      "title": "Urteil gegen die Apobank: Finanzinstitut haftet für Phishing-Schaden",
-      "teaser": "Das Landgericht Berlin verpflichtet die Apobank zur Erstattung von über 200.000 Euro und fordert eine bessere Auswertung von IP-Adressen zur Betrugsprävention.",
-      "url": "https://www.heise.de/news/Urteil-gegen-die-Apobank-Finanzinstitut-haftet-fuer-Phishing-Schaden-11288231.html"
-    },
-    {
-      "title": "Ende-zu-Ende-Verschlüsselung: Instagram deaktiviert Privatsphärenschutz",
-      "teaser": "Metas Tochterunternehmen Instagram schaltet am 8. Mai die Ende-zu-Ende-Verschlüsselung für Direktnachrichten ab.",
-      "url": "https://www.heise.de/news/Ende-zu-Ende-Verschluesselung-Instagram-deaktiviert-Privatsphaerenschutz-11287210.html",
-      "image_title": "Smartphone-Display mit Instagram-Logo, auf einer Tastatur liegend."
     },
     {
       "title": "Workshop | 26. – 28.5.2026Active Directory Hardening: Vom Audit zur sicheren Umgebung",
