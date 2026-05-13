@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T20:25:40",
+  "timestamp": "2026-05-13T22:02:56",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "SAP investiert: n8n wird eines der wertvollsten deutschen KI-Startups",
+      "url": "https://www.heise.de/news/SAP-investiert-n8n-wird-eines-der-wertvollsten-deutschen-KI-Startups-11293900.html"
+    },
     {
       "title": "Linkedin: Mehr Umsatz, weniger Arbeitsplätze",
       "url": "https://www.heise.de/news/Linkedin-Mehr-Umsatz-weniger-Arbeitsplaetze-11294015.html"
@@ -56,10 +60,6 @@
     {
       "title": "Neue PC-Spiele im Juni 2026: „Gothic 1 Remake“",
       "url": "https://www.heise.de/news/Neue-PC-Spiele-im-Juni-2026-Gothic-1-Remake-11293541.html"
-    },
-    {
-      "title": "Digitaler Euro: Datenschützer fordern echtes digitales Bargeld statt Überwachung",
-      "url": "https://www.heise.de/news/Digitaler-Euro-Datenschuetzer-fordern-echtes-digitales-Bargeld-statt-Ueberwachung-11293892.html"
     },
     {
       "title": "Münchens IT-WendeOpen Source ist für die neue Koalition der Normalfall",
@@ -198,10 +198,15 @@
       "image_title": "Mensch sitzt in einem Mecha-artigen humanoiden Roboter."
     },
     {
-      "title": "ÖsterreichPaketsteuer 2 Euro: Klingt einfach, ist kompliziert",
-      "teaser": "Eine Paketsteuer in Österreich soll nicht nur große Händler treffen, sondern auch kleine, die über große Plattformen verkaufen.",
-      "url": "https://www.heise.de/hintergrund/Paketsteuer-2-Euro-Klingt-einfach-ist-kompliziert-11292562.html",
-      "image_title": "Ein offener Laptop, auf dessen Tastatur ein kleiner Miniatur-Einkaufswagen mit einem Paket platziert ist. Drumherum liegen auf der Tastatur vier weitere Miniaturpakete."
+      "title": "TerminbuchungOpenReception-Entwickler sehen „Ende der Passwort-Ära“",
+      "teaser": "Die Entwickler der freien Terminbuchungssoftware erklären, warum Open Source mehr Chancen für Datensicherheit bietet und Co.",
+      "url": "https://www.heise.de/hintergrund/Terminbuchungssoftware-OpenReception-Entwickler-sehen-Ende-der-Passwort-Aera-11293916.html"
+    },
+    {
+      "title": "SAP investiert: n8n wird eines der wertvollsten deutschen KI-Startups",
+      "teaser": "SAP ergänzt sein KI-Portfolio durch weitere Investitionen: Produkte der Start-ups n8n und Parloa sollen die Vision des autonomen Unternehmens verwirklichen.",
+      "url": "https://www.heise.de/news/SAP-investiert-n8n-wird-eines-der-wertvollsten-deutschen-KI-Startups-11293900.html",
+      "image_title": "SAP-Buchstaben an einem Glasgebäude"
     },
     {
       "title": "Linkedin: Mehr Umsatz, weniger Arbeitsplätze",
@@ -210,20 +215,15 @@
       "image_title": "Gekündigter Angestellter in Sakko mit Habseligkeiten in Papierbox"
     },
     {
-      "title": "Was das Gebäudemodernisierungsgesetz für Sie bedeutet",
-      "teaser": "Die neuen Regeln für Heizungen sind da. Das GModG ist besser als befürchtet. Es ändert sich jedoch in der Praxis viel weniger, als die meisten meinen.",
-      "url": "https://www.heise.de/hintergrund/Was-das-Gebaeudemodernisierungsgesetz-fuer-Sie-bedeutet-11291045.html",
-      "image_title": "Wärmepumpe und E-Auto im Schnee"
-    },
-    {
       "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
       "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
       "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
-      "title": "Terminbuchungssoftware: OpenReception-Entwickler sehen „Ende der Passwort-Ära“",
-      "teaser": "Die Entwickler der Terminbuchungssoftware OpenReception erklären im Digital-Health-Podcast, warum Open Source mehr Chancen für Datensicherheit bietet und mehr.",
-      "url": "https://www.heise.de/hintergrund/Terminbuchungssoftware-OpenReception-Entwickler-sehen-Ende-der-Passwort-Aera-11293916.html"
+      "title": "Was das Gebäudemodernisierungsgesetz für Sie bedeutet",
+      "teaser": "Die neuen Regeln für Heizungen sind da. Das GModG ist besser als befürchtet. Es ändert sich jedoch in der Praxis viel weniger, als die meisten meinen.",
+      "url": "https://www.heise.de/hintergrund/Was-das-Gebaeudemodernisierungsgesetz-fuer-Sie-bedeutet-11291045.html",
+      "image_title": "Wärmepumpe und E-Auto im Schnee"
     },
     {
       "title": "Top 10: Die beste PTZ-Überwachungskamera für außen im Test – Reolink vor Instar",
@@ -420,9 +420,9 @@
       "image_title": "Bild zeigt neue Sicherheitsfunktionen für Android 17"
     },
     {
-      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
-      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "KI-Update kompakt: Gemini Intelligence, digitale Täuschung, Israel, Purview",
@@ -652,10 +652,9 @@
       "url": "https://www.heise.de/en/news/South-Korea-Stock-market-plunges-on-calls-for-public-AI-profit-sharing-11290612.html"
     },
     {
-      "title": "Anker Solix Solarbank 4Mehr Speicher, mehr Leistung, mehr Wieland",
-      "teaser": "Anker Solix stellt ein kompaktes Balkonkraftwerk mit Speicher vor. Die Solarbank 4 hat unter anderem mehr Speicherkapazität.",
-      "url": "https://www.heise.de/news/Anker-Solix-Solarbank-4-Mehr-Speicher-mehr-Leistung-mehr-Wieland-11292263.html",
-      "image_title": "Hellgraue Solarbank"
+      "title": "Kompakt, sparsam, leise8-Watt-Mini-PC selber bauen",
+      "teaser": "Unser c't-Bauvorschlag: mit Thunderbolt 4 und für bis zu vier 4K-Displays.",
+      "url": "https://www.heise.de/ratgeber/8-Watt-Mini-Kompakten-sparsamen-und-leisen-Mini-PC-selbst-bauen-11251816.html"
     },
     {
       "title": "Mit oder ohne Wallbox: Wie Sie Ihr E-Auto günstig laden",
@@ -663,9 +662,10 @@
       "url": "https://www.heise.de/tests/Mit-oder-ohne-Wallbox-Wie-Sie-Ihr-E-Auto-guenstig-laden-11225677.html"
     },
     {
-      "title": "Kompakt, sparsam, leise8-Watt-Mini-PC selber bauen",
-      "teaser": "Unser c't-Bauvorschlag: mit Thunderbolt 4 und für bis zu vier 4K-Displays.",
-      "url": "https://www.heise.de/ratgeber/8-Watt-Mini-Kompakten-sparsamen-und-leisen-Mini-PC-selbst-bauen-11251816.html"
+      "title": "Anker Solix Solarbank 4Mehr Speicher, mehr Leistung, mehr Wieland",
+      "teaser": "Anker Solix stellt ein kompaktes Balkonkraftwerk mit Speicher vor. Die Solarbank 4 hat unter anderem mehr Speicherkapazität.",
+      "url": "https://www.heise.de/news/Anker-Solix-Solarbank-4-Mehr-Speicher-mehr-Leistung-mehr-Wieland-11292263.html",
+      "image_title": "Hellgraue Solarbank"
     },
     {
       "title": "Famos fensterlnSo behalten Sie im macOS-Fensterdschungel den Überblick",
@@ -768,22 +768,21 @@
       "image_title": "Wegen Überflutung abgesperrte Straße in den USA"
     },
     {
-      "title": "Trump veröffentlicht erste UFO-Akten",
-      "teaser": "Vor Monaten von US-Präsident Donald Trump angewiesen, wurde nun die erste Tranche der versprochenen US-UFO-Akten veröffentlicht. Eine erste Bestandsaufnahme.",
-      "url": "https://www.heise.de/article/Trump-veroeffentlicht-erste-UFO-Akten-11291248.html",
-      "image_title": "Ein UFO auf einem Foto, Logo des Pentagon"
+      "title": "USB-C-Pflicht: Was die EU verspricht und was sie hält",
+      "teaser": "Ein Kabel passt – aber lädt es auch richtig? Die EU-USB-C-Pflicht hat eine Lücke, die viele Nutzer erst beim Ausprobieren entdecken.",
+      "url": "https://www.heise.de/article/USB-C-Pflicht-Was-die-EU-verspricht-und-was-sie-haelt-11289617.html",
+      "image_title": "USB-C-Stecker vor EU-Sternen mit Strom-Logo"
     },
     {
-      "title": "Diplomatie statt Aufrüstung: Was Deutschland falsch macht",
-      "teaser": "Politikwissenschaftler Johannes Varwick im Interview über Sicherheitsinteressen, Alarmismus, Aufrüstungslogik und den Verlust diplomatischer Grautöne im Westen.",
-      "url": "https://www.heise.de/article/Diplomatie-statt-Aufruestung-Was-Deutschland-falsch-macht-11292670.html",
-      "image_title": "Deutsche Flagge, Geld und Patronen"
+      "title": "Ein Recht auf analoges Leben?",
+      "teaser": "Eine Petition fordert, das Recht auf ein Leben ohne Digitalzwang im Grundgesetz zu verankern. Zehntausende haben bereits unterschrieben. Worum geht es?",
+      "url": "https://www.heise.de/article/Ein-Recht-auf-analoges-Leben-11293308.html",
+      "image_title": "Alter Mann am Schalter mit Fragen, glücklicher junger Mann mit Smartphone"
     },
     {
-      "title": "Trumps Kuba-Strategie: Ein Desaster in Zeitlupe",
-      "teaser": "Trotz aller Gespräche über Abkommen scheint die Politik von Donald Trump nun darauf ausgerichtet zu sein, die Insel zu brechen. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/article/Trumps-Kuba-Strategie-Ein-Desaster-in-Zeitlupe-11292997.html",
-      "image_title": "Marco Rubio"
+      "title": "KIT-Forscher schicken Drohnen mit Mittelalter-Trick zu Boden",
+      "teaser": "Eine uralte Hirtentechnik aus Südamerika bringt moderne Hightech-Drohnen zum Absturz – und ist dabei billiger als jede andere Lösung.",
+      "url": "https://www.heise.de/article/KIT-Forscher-schicken-Drohnen-mit-Mittelalter-Trick-zu-Boden-11291224.html"
     },
     {
       "title": "So verändern KI und Roboter die künstliche Befruchtung",
