@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-13T08:29:39",
+  "timestamp": "2026-05-13T11:22:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,19 @@
   ],
   "articles": [
     {
-      "title": "AlertPi-holeUpdate schließt dnsmasq-Sicherheitslücken",
-      "teaser": "Das Pi-hole-Projekt hat das Update auf FTL 6.6.2 veröffentlicht. Es schließt Lücken in dnsmasq. Andere Projekte dürften folgen.",
-      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
-      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
+      "title": "SicherheitAngriff umgeht BitLocker mittels Windows Recovery Environment",
+      "teaser": "BitLocker soll vertrauliche Daten auch vor physischen Angriffen schützen. Die Windows Recovery Environment hebelt den Schutz aus.",
+      "url": "https://www.heise.de/news/Angriff-umgeht-BitLocker-mittels-Windows-Recovery-Environment-11292642.html",
+      "image_title": "Stilisiertes Schlossymbol auf leuchtenden Leiterbahnen"
     },
     {
-      "title": "Von KI gefundene Zero-Day-LückeGoogle verhindert angeblich neuartigen Cyberangriff",
-      "teaser": "Seit Wochen wird gewarnt, dass mit KI-Hilfe Sicherheitslücken gefunden und ausgenutzt werden könnten. Jetzt ist es angeblich so weit.",
-      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
-      "image_title": "Google-Logo über einem Gebäudeeingang"
+      "title": "AlertPatchday MicrosoftKritische DNS-Client-Lücke bedroht Windows",
+      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Azure, Edge, Office und Windows veröffentlicht.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Kritische-DNS-Client-Luecke-bedroht-Windows-11292506.html"
     },
     {
-      "title": "AlertPatchday: Adobe schließt mehr als 50 Lücken in After Effects & Co.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-mehr-als-50-Luecken-in-After-Effects-Co-11292536.html",
-      "image_title": "Aufmacher Adobe Patchday"
+      "title": "AlertFortinet stopft elf Sicherheitslücken in mehreren Produkten",
+      "url": "https://www.heise.de/news/Fortinet-stopft-elf-Sicherheitsluecken-in-mehreren-Produkten-11292861.html"
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -47,6 +45,11 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "AlertFortinet stopft elf Sicherheitslücken in mehreren Produkten",
+      "teaser": "Fortinet hat zum „Patch-Dienstag“ elf Sicherheitsflicken konzertiert veröffentlicht. Zwei der Lecks gelten als kritisch.",
+      "url": "https://www.heise.de/news/Fortinet-stopft-elf-Sicherheitsluecken-in-mehreren-Produkten-11292861.html"
     },
     {
       "title": "AlertPatchday: Adobe schließt mehr als 50 Lücken in After Effects & Co.",
@@ -67,20 +70,9 @@
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
-      "title": "Angriff umgeht BitLocker mittels Windows Recovery Environment",
-      "teaser": "BitLocker soll vertrauliche Daten auch vor physischen Angriffen schützen. Die Windows Recovery Environment hebelt den Schutz aus.",
-      "url": "https://www.heise.de/news/Angriff-umgeht-BitLocker-mittels-Windows-Recovery-Environment-11292642.html",
-      "image_title": "Stilisiertes Schlossymbol auf leuchtenden Leiterbahnen"
-    },
-    {
       "title": "„Passwort“ Folge 57: Fail-News mit KI-Fail, copy.fail und S/MIME-Fail",
       "teaser": "Die Copy-Fail-Lücke erlaubt den Hosts einen Abstecher in die Gefilde des Linuxkernels, KI löscht Unternehmensdaten und CAs machen mal wieder einen Rückzieher.",
-      "url": "https://www.heise.de/news/Passwort-Folge-58-Fail-News-mit-KI-Fail-copy-fail-und-S-MIME-Fail-11284855.html"
-    },
-    {
-      "title": "AlertPatchday Microsoft: Kritische DNS-Client-Lücke bedroht Windows",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Azure, Edge, Office und Windows veröffentlicht. Viele Lücken wurden mit KI-Agenten entdeckt.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Kritische-DNS-Client-Luecke-bedroht-Windows-11292506.html"
+      "url": "https://www.heise.de/news/Passwort-Folge-57-Fail-News-mit-KI-Fail-copy-fail-und-S-MIME-Fail-11284855.html"
     },
     {
       "title": "Android 17 bringt AirDrop-Support für weitere Geräte und neue Funktionen",
@@ -117,6 +109,12 @@
       "teaser": "Die gestern gelieferten Aktualisierungen sind wieder voll von sicherheitsrelevanten Fehlerbehebungen. User älterer macOS-Versionen warten auf ein neues Safari.",
       "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
       "image_title": "Aktualisierung auf einem iPhone"
+    },
+    {
+      "title": "AlertPi-hole-Update schließt dnsmasq-Sicherheitslücken",
+      "teaser": "Das Pi-hole-Projekt hat das Update auf FTL 6.6.2 veröffentlicht. Es schließt Lücken in dnsmasq. Andere Projekte dürften folgen.",
+      "url": "https://www.heise.de/news/Pi-hole-Update-schliesst-dnsmasq-Sicherheitsluecken-11291003.html",
+      "image_title": "Pi-hole-Oberfläche vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "AlertNode.js: Abermals Ausbruch aus vm2-Sandbox möglich",
