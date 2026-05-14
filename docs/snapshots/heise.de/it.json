@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-14T11:06:32",
+  "timestamp": "2026-05-14T13:23:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "UpdateSicherheitsfixes: Warum man schnell auf iOS 26.5 & Co. aktualisieren sollte",
+      "teaser": "Die gestern gelieferten Aktualisierungen sind wieder voll von sicherheitsrelevanten Fehlerbehebungen. User älterer macOS-Versionen warten auf ein neues Safari.",
+      "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
+      "image_title": "Aktualisierung auf einem iPhone"
+    },
+    {
+      "title": "Foxconn-Werke in Nordamerika von Ransomware-Gruppe Nitrogen angegriffen",
+      "teaser": "Der Auftragsfertiger bestätigt den Cyberangriff. Nitrogen prahlt damit, 11 Millionen Dateien zu Apple, Nvidia und weiteren Kunden gestohlen haben.",
+      "url": "https://www.heise.de/news/Foxconn-Werke-in-Nordamerika-von-Ransomware-Gruppe-Nitrogen-angegriffen-11294209.html",
+      "image_title": "Kaputtes Sicherheitsschloss"
+    },
+    {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
       "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-11280180.html",
@@ -30,18 +42,6 @@
       "teaser": "Vier Produkte für Apple-Nutzer im Test: Twelve South PlugBug 50, Lexar Professional Go, Ugreen MacBook Stand und Logitech Signature Slim Solar+.",
       "url": "https://www.heise.de/tests/Netzteil-mit-Wo-ist-iPhone-SSD-MacBook-Klappstaender-Solar-Keyboard-11280344.html",
       "image_title": "Apple-Peripherie im Kurztest"
-    },
-    {
-      "title": "BSI aktualisiert C5-Kriterienkatalog für Cloud-Sicherheit",
-      "teaser": "Wir fassen zusammen, was sich mit der Aktualisierung des Cloud Computing Compliance Criteria Catalogue (C5) ändert und was das für Anbieter und Nutzer bedeutet.",
-      "url": "https://www.heise.de/hintergrund/BSI-aktualisiert-C5-Kriterienkatalog-fuer-Cloud-Sicherheit-11289753.html",
-      "image_title": ", Laura-Sophie Gruhn / KI / iX"
-    },
-    {
-      "title": "IT-SicherheitÖffentliches Ladenetz zunehmend gefährlich",
-      "teaser": "Das BSI hat die IT-Sicherheit des öffentlichen Ladenetzes untersucht – und Probleme ausgemacht.",
-      "url": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html",
-      "image_title": "Ladestecker an einer Ladestation"
     },
     {
       "title": "TestsNetzteil mit „Wo ist?“, iPhone-SSD, MacBook-Klappständer, Solar-Keyboard",
@@ -59,6 +59,12 @@
       "image_title": "Current auf drei Apple-Plattformen"
     },
     {
+      "title": "Öffentliches Ladenetz zunehmend gefährlich",
+      "teaser": "Das BSI hat die IT-Sicherheit des öffentlichen Ladenetzes untersucht – und Probleme ausgemacht. Im schlimmsten Fall sei die Netzstabilität gefährdet.",
+      "url": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html",
+      "image_title": "Ladestecker an einer Ladestation"
+    },
+    {
       "title": "SAP investiert: n8n wird eines der wertvollsten deutschen KI-Startups",
       "teaser": "SAP ergänzt sein KI-Portfolio durch weitere Investitionen: Produkte der Start-ups n8n und Parloa sollen die Vision des autonomen Unternehmens verwirklichen.",
       "url": "https://www.heise.de/news/SAP-investiert-n8n-wird-eines-der-wertvollsten-deutschen-KI-Startups-11293900.html",
@@ -70,8 +76,8 @@
       "url": "https://www.heise.de/hintergrund/Terminbuchungssoftware-OpenReception-Entwickler-sehen-Ende-der-Passwort-Aera-11293916.html"
     },
     {
-      "title": "Top 10: Die beste PTZ-Überwachungskamera für außen im Test – Reolink vor Instar",
-      "teaser": "PTZ-Überwachungskameras behalten dank Schwenk- und Neigetechnik einen größeren Bereich im Blick als starre Varianten. Wir zeigen die besten Modelle.",
+      "title": "Top 10: Die beste PTZ-Überwachungskamera für außen",
+      "teaser": "PTZ-Überwachungskameras behalten dank Schwenk- und Neigetechnik einen größeren Bereich im Blick als starre Varianten.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-ptz-ueberwachungskamera-fuer-aussen-im-test-reolink-vor-instar/s50d3hb?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
@@ -138,12 +144,6 @@
       "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
       "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11280174.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Bericht: So soll die neue Siri-App aussehen – samt echtem Chatbot",
-      "teaser": "iOS 27 soll den gordischen KI-Knoten zerschlagen. Basis ist wohl die ungeliebte Siri, die mehr Apple Intelligence kriegt – und ein Gemini-Herz samt Chat.",
-      "url": "https://www.heise.de/news/Siri-als-Chatbot-Bericht-zu-Apples-Planungen-verraet-Details-11293180.html",
-      "image_title": "Siri auf einem iPhone"
     },
     {
       "title": "NewsRechenzentrum in Georgia entnimmt unbemerkt 110 Millionen Liter Wasser",
