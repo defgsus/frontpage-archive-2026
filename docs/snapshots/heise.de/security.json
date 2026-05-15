@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T08:35:04",
+  "timestamp": "2026-05-15T11:10:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Alert„Fragnesia“Nächste Rechteausweitungslücke im Linux-Kernel",
+      "teaser": "Microsoft warnt vor einer weiteren Variante der CopyFail-Lücke namens „Fragnesia“ im Linux-Kernel. Sie verschafft root-Rechte.",
+      "url": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html",
+      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
+    },
+    {
       "title": "AlertGoogle-WebbrowserUpdate stopft 79 Sicherheitslücken in Chrome",
       "teaser": "Das wöchentliche Chrome-Update schließt insgesamt 79 Sicherheitslücken. Davon gelten 14 als kritisch.",
       "url": "https://www.heise.de/news/Update-stopft-79-Sicherheitsluecken-in-Google-Chrome-11294547.html",
       "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
     },
     {
-      "title": "AlertPatchday MicrosoftKritische DNS-Client-Lücke bedroht Windows",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Azure, Edge, Office und Windows veröffentlicht.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Kritische-DNS-Client-Luecke-bedroht-Windows-11292506.html"
-    },
-    {
-      "title": "AlertIvanti EPM: Sicherheitslücken ermöglichen SQL-Iinjection und Rechteausweitung",
-      "url": "https://www.heise.de/news/Ivanti-EPM-Sicherheitsluecken-ermoeglichen-SQL-Iinjection-und-Rechteausweitung-11294605.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+      "title": "Alert„Fragnesia“Nächste Rechteausweitungslücke im Linux-Kernel",
+      "url": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html",
+      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -46,6 +47,17 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Apple untersucht von Claude Mythos entdecktes macOS-Problem",
+      "teaser": "Im Rahmen von „Project Glasswing“ arbeitet Anthropic mit Apple am Auffinden von Sicherheitslücken. Nun hat eine Security-Firma das Modell dafür verwendet.",
+      "url": "https://www.heise.de/news/Sicherheitsfirma-Claude-Mythos-findet-macOS-Exploit-11294837.html",
+      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
+    },
+    {
+      "title": "AlertF5 BIG-IP: Quartalssicherheitsupdate schließt zahlreiche Lücken",
+      "teaser": "Der Netzwerkausrüster F5 hat unter anderem für verschiedene BIG-IP-Produkte wichtige Sicherheitsupdates veröffentlicht.",
+      "url": "https://www.heise.de/news/F5-BIG-IP-Quartalssicherheitsupdate-schliesst-zahlreiche-Luecken-11294929.html"
     },
     {
       "title": "AlertIvanti EPM: Sicherheitslücken ermöglichen SQL-Iinjection und Rechteausweitung",
@@ -89,6 +101,12 @@
       "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
     },
     {
+      "title": "Öffentliches Ladenetz zunehmend gefährlich",
+      "teaser": "Das BSI hat die IT-Sicherheit des öffentlichen Ladenetzes untersucht – und Probleme ausgemacht. Im schlimmsten Fall sei die Netzstabilität gefährdet.",
+      "url": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html",
+      "image_title": "Ladestecker an einer Ladestation"
+    },
+    {
       "title": "Angeblich Malware: macOS wirft ChatGPT mitunter in den Papierkorb",
       "teaser": "Ältere Versionen von ChatGPT und Codex lassen sich in macOS nicht mehr starten, die Malware-Warnung erscheint. Grund ist wohl ein Sicherheitsvorfall bei OpenAI.",
       "url": "https://www.heise.de/news/Angeblich-Malware-macOS-wirft-ChatGPT-mitunter-in-den-Papierkorb-11293882.html",
@@ -124,23 +142,6 @@
       "image_title": "Screenshots: neue Android-Diebstahlschutzfunktion"
     },
     {
-      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
-      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11265576.html",
-      "image_title": "iX-Workshop: Advanced Kubernetes Security"
-    },
-    {
-      "title": "Angriff umgeht BitLocker mittels Windows Recovery Environment",
-      "teaser": "BitLocker soll vertrauliche Daten auch vor physischen Angriffen schützen. Die Windows Recovery Environment hebelt den Schutz aus.",
-      "url": "https://www.heise.de/news/Angriff-umgeht-BitLocker-mittels-Windows-Recovery-Environment-11292642.html",
-      "image_title": "Stilisiertes Schlossymbol auf leuchtenden Leiterbahnen"
-    },
-    {
-      "title": "„Passwort“ Folge 57: Fail-News mit KI-Fail, copy.fail und S/MIME-Fail",
-      "teaser": "Die Copy-Fail-Lücke erlaubt den Hosts einen Abstecher in die Gefilde des Linuxkernels, KI löscht Unternehmensdaten und CAs machen mal wieder einen Rückzieher.",
-      "url": "https://www.heise.de/news/Passwort-Folge-57-Fail-News-mit-KI-Fail-copy-fail-und-S-MIME-Fail-11284855.html"
-    },
-    {
       "title": "Workshop | 26. – 28.5.2026Active Directory Hardening: Vom Audit zur sicheren Umgebung",
       "teaser": "Der Workshop zeigt praxisnah, wie Windows-Administratoren Active-Directory-Sicherheitslücken erkennen und beheben.",
       "url": "https://heise-academy.de/Workshops/ad-hardening?wt_mc=intern.conf.ix.ws_adhardening.security_buehne_2.teaser.teaser"
@@ -161,17 +162,17 @@
       "url": "https://heise-conferences.de/workshop/physische-it-sicherheit-angriffswege-erkennen-zugange-absichern-iPBBXzkELP29Hc?wt_mc=intern.conf.ct.ws_physische_it-sicherheit.security_buehne_2.teaser.teaser"
     },
     {
+      "title": "Öffentliches Ladenetz zunehmend gefährlich",
+      "url": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html",
+      "image_title": "Ladestecker an einer Ladestation"
+    },
+    {
       "title": "Linux-Lücken verschaffen root-Rechte",
-      "url": "https://www.heise.de/news/Dirty-Frag-Linux-Luecken-verschaffen-root-Rechte-11286691.html",
-      "image_title": "Lücken-Maskottchen zur Dirty Frag vor Matrix-Regen-Hintergrund"
+      "url": "https://www.heise.de/news/Dirty-Frag-Linux-Luecken-verschaffen-root-Rechte-11286691.html"
     },
     {
       "title": "JDownloader verteilte Malware-Downloads",
       "url": "https://www.heise.de/news/JDownloader-verteilte-Malware-Downloads-11288832.html"
-    },
-    {
-      "title": "Mythos findet nur eine Sicherheitslücke in curl",
-      "url": "https://www.heise.de/news/Mythos-findet-nur-eine-Sicherheitsluecke-in-curl-11291666.html"
     },
     {
       "title": "Eine Zusammenfassung der Angriffe auf Signal: App-Hack, OS-Bug oder Phishing?",
@@ -190,17 +191,17 @@
       "image_title": "heise Plus"
     },
     {
+      "title": "Öffentliches Ladenetz zunehmend gefährlich",
+      "url": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html",
+      "image_title": "Ladestecker an einer Ladestation"
+    },
+    {
       "title": "Google verhindert angeblich neuartigen Cyberangriff",
-      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
-      "image_title": "Google-Logo über einem Gebäudeeingang"
+      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html"
     },
     {
       "title": "Nur noch reproduzierbare Pakete in „testing“",
       "url": "https://www.heise.de/news/Debian-14-Reproduzierbare-Builds-werden-zur-Pflicht-11289259.html"
-    },
-    {
-      "title": "JDownloader verteilte Malware-Downloads",
-      "url": "https://www.heise.de/news/JDownloader-verteilte-Malware-Downloads-11288832.html"
     }
   ]
 }

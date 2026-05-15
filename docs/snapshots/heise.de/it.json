@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T08:35:01",
+  "timestamp": "2026-05-15T11:10:14",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,68 @@
     }
   ],
   "articles": [
+    {
+      "title": "GitHub stellt Copilot-Abrechnung auf Flex-Modelle um",
+      "teaser": "Keine festen Token-Kontingente mehr und ein neuer Max-Tarif für Power-User: GitHub ändert sein Bezahlmodell für Copilot schon wieder.",
+      "url": "https://www.heise.de/news/GitHub-stellt-Copilot-Abrechnung-auf-Flex-Modelle-um-11294789.html",
+      "image_title": "Microsoft Copilot Logo auf Mosaik-Hintergrund"
+    },
+    {
+      "title": "Alert„Fragnesia“Nächste Rechteausweitungslücke im Linux-Kernel",
+      "teaser": "Microsoft warnt vor einer weiteren Variante der CopyFail-Lücke namens „Fragnesia“ im Linux-Kernel. Sie verschafft root-Rechte.",
+      "url": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html",
+      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
+    },
+    {
+      "title": "Nach langem Warten: AMD bringt FSR 4.1 für ältere Grafikkarten",
+      "teaser": "Radeon-GPUs der Serien RX 7000 und RX 6000 bekommen AMDs KI-Upscaler FSR 4.1. Davon profitieren auch das Steam Deck und die Steam Machine.",
+      "url": "https://www.heise.de/news/Nach-langem-Warten-AMD-bringt-FSR-4-1-fuer-aeltere-Grafikkarten-11295008.html",
+      "image_title": "Mehrere Grafikkarten von oben auf roter Unterlage"
+    },
+    {
+      "title": "c’t-Webinar: Keine Angst vor Linux – so klappt der Wechsel",
+      "teaser": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Keine-Angst-vor-Linux-so-klappt-der-Wechsel-11285784.html",
+      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
+    },
+    {
+      "title": "HintergrundGoogle vs. Wildberger: Wie der Bund US-Konzerne aus Staatsaufträgen drängen will",
+      "url": "https://www.heise.de/hintergrund/Google-vs-Wildberger-Wie-der-Bund-US-Konzerne-aus-Staatsauftraegen-draengen-will-11284765.html",
+      "image_title": "Karsten Wildberger"
+    },
+    {
+      "title": "HintergrundDas ZenDiS macht digitale Souveränität mit Kriterienkatalog messbar",
+      "url": "https://www.heise.de/hintergrund/Das-ZenDiS-macht-digitale-Souveraenitaet-mit-Kriterienkatalog-messbar-11287779.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "HintergrundC3A: Der neue BSI-Maßstab für souveräne Clouds im Überblick",
+      "url": "https://www.heise.de/hintergrund/C3A-Der-neue-BSI-Massstab-fuer-souveraene-Clouds-im-Ueberblick-11285742.html",
+      "image_title": ", Cathrin Kapell / KI / iX"
+    },
+    {
+      "title": "Apple untersucht von Claude Mythos entdecktes macOS-Problem",
+      "teaser": "Im Rahmen von „Project Glasswing“ arbeitet Anthropic mit Apple am Auffinden von Sicherheitslücken. Nun hat eine Security-Firma das Modell dafür verwendet.",
+      "url": "https://www.heise.de/news/Sicherheitsfirma-Claude-Mythos-findet-macOS-Exploit-11294837.html",
+      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
+    },
+    {
+      "title": "AlertF5 BIG-IP: Quartalssicherheitsupdate schließt zahlreiche Lücken",
+      "teaser": "Der Netzwerkausrüster F5 hat unter anderem für verschiedene BIG-IP-Produkte wichtige Sicherheitsupdates veröffentlicht.",
+      "url": "https://www.heise.de/news/F5-BIG-IP-Quartalssicherheitsupdate-schliesst-zahlreiche-Luecken-11294929.html"
+    },
+    {
+      "title": "Symphonia 0.6: Rust-Audioframework wird multimedial",
+      "teaser": "Das Rust-Multimediaframework Symphonia 0.6 baut seine Architektur grundlegend um und bereitet sich auf künftige Video- und Untertitel-Unterstützung vor.",
+      "url": "https://www.heise.de/news/Symphonia-0-6-Rust-Audioframework-wird-multimedial-11294775.html",
+      "image_title": "Ein Mikrofon, Kopfhörer und Tonbänder stehen auf einem Mischpult vor einer Kamera."
+    },
+    {
+      "title": "Apple-Chips von Intel: Kleinere Testproduktion soll angeblich bereits laufen",
+      "teaser": "Nach Berichten über ein Aufleben der Kooperation von Apple und Intel bei Chips gibt es nun Infos über erste Kleinserien, so ein bekannter Marktbeobachter.",
+      "url": "https://www.heise.de/news/Apple-Chips-von-Intel-Kleinere-Testproduktion-soll-angeblich-bereits-laufen-11294793.html",
+      "image_title": "Logos von Intel und Apple"
+    },
     {
       "title": "Ärztetag fordert praxistaugliche Digitalisierung & Änderungen der Notfallreform",
       "teaser": "Der Ärztetag unterstützt Digitalisierung und KI – aber nur, wenn sie Ärzte entlasten, Patienten schützen und keine neuen Bürokratien schaffen.",
@@ -42,21 +104,6 @@
       "teaser": "Ein Left (Outer) Join und ein Right (Outer) Join waren bisher schon in LINQ möglich. In .NET 10.0 gibt es dafür nun eigene Operatoren.",
       "url": "https://www.heise.de/blog/Neu-in-NET-10-0-23-Neue-LINQ-Operatoren-LeftJoin-und-RightJoin-11294483.html",
       "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "HintergrundDas ZenDiS macht digitale Souveränität mit Kriterienkatalog messbar",
-      "url": "https://www.heise.de/hintergrund/Das-ZenDiS-macht-digitale-Souveraenitaet-mit-Kriterienkatalog-messbar-11287779.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "HintergrundC3A: Der neue BSI-Maßstab für souveräne Clouds im Überblick",
-      "url": "https://www.heise.de/hintergrund/C3A-Der-neue-BSI-Massstab-fuer-souveraene-Clouds-im-Ueberblick-11285742.html",
-      "image_title": ", Cathrin Kapell / KI / iX"
-    },
-    {
-      "title": "TestsKurztests: „Wo ist?“-Netzteil, iPhone-SSD, MacBook-Klappständer, Solar-Keyboard",
-      "url": "https://www.heise.de/tests/Kurztests-Wo-ist-Netzteil-iPhone-SSD-MacBook-Klappstaender-Solar-Keyboard-11280344.html",
-      "image_title": "Apple-Peripherie im Kurztest"
     },
     {
       "title": "Extreme Networks: Wi-Fi 7, Ruggedized Switches und Fabric-Updates",
@@ -96,51 +143,6 @@
       "title": "AlertJetzt patchen! Angreifer attackieren Cisco Catalyst SD-WAN Controller",
       "teaser": "Angreifer nutzen derzeit eine kritische Sicherheitslücke in Cisco Catalyst SD-WAN Controller aus. Sicherheitsupdates sind verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Cisco-Catalyst-SD-WAN-Controller-11294491.html"
-    },
-    {
-      "title": "software-architektur.tv: John Romeros Prinzipien – mit Tom Asel",
-      "teaser": "In der Episode diskutieren Eberhard Wolff und Tom Asel über einige fundamentale Prinzipien des Gaming-Pioniers John Romero für die Softwareentwicklung.",
-      "url": "https://www.heise.de/news/software-architektur-tv-John-Romeros-Prinzipien-mit-Tom-Asel-11293294.html",
-      "image_title": "Logo software-architektur.tv: Wozu formale Methoden? mit Lars Hupel"
-    },
-    {
-      "title": "Extreme Networks: KI-Agent für die Netzwerk-Administration",
-      "teaser": "Extreme Networks präsentiert auf der Extreme Connect einen KI-Agenten für das Netzwerkmanagement und Updates für Platform ONE.",
-      "url": "https://www.heise.de/news/Extreme-Networks-KI-Agent-fuer-die-Netzwerk-Administration-11294463.html",
-      "image_title": "Eine Bühne mit zwei großen Bildschirmen, auf denen das Logo \"Extreme Connect\" und ein Zitat zu sehen sind."
-    },
-    {
-      "title": "Last Call: KI und Data Science im Unternehmen – von Rohdaten zu Erkenntnissen",
-      "teaser": "In fünf Sessions lernen Teilnehmende ab dem 03.06., wie sie KI und Data Science einsetzen, um Datenquellen effektiv zu erschließen und Strategien abzuleiten.",
-      "url": "https://www.heise.de/news/Last-Call-KI-und-Data-Science-im-Unternehmen-von-Rohdaten-zu-Erkenntnissen-11291055.html"
-    },
-    {
-      "title": "Von undefiniert zu definiert: Die Verwendung von std::launder in C++",
-      "teaser": "Laundering in C++ hilft dabei, einen Pointer zu „waschen“ und so Compiler-Optimierungen für das Objekt dahinter zu deaktivieren.",
-      "url": "https://www.heise.de/blog/Von-undefiniert-zu-definiert-Die-Verwendung-von-std-launder-in-C-11226028.html",
-      "image_title": "Gezeichneter Schraubenschlüssel mit Zahnrädern"
-    },
-    {
-      "title": "Verbraucherzentrale: Klage gegen Glasfaseranbieter wegen Vertragsklauseln",
-      "teaser": "Die Verbraucherzentrale NRW beschäftigt sich kritisch mit Glasfaserverträgen. Jetzt hat sie Klage gegen Deutsche Glasfaser und Deutsche Giganetz eingereicht.",
-      "url": "https://www.heise.de/news/Verbraucherzentrale-Klage-gegen-Glasfaseranbieter-wegen-Vertragsklauseln-11294407.html"
-    },
-    {
-      "title": "Lapdock für Maker: CrowView Note mit Arduino UNO Q",
-      "teaser": "Display, Tastatur und Akku im Notebook-Format: Das CrowView Note soll Arduino UNO Q mobiler machen.",
-      "url": "https://www.heise.de/news/Lapdock-fuer-Maker-CrowView-Note-mit-Arduino-UNO-Q-11294367.html",
-      "image_title": "Lapdock von vorn mit angeschlossenem Arduino UNO Q"
-    },
-    {
-      "title": "Ärztetag: Klare Absage an kassengesteuerte Digitalisierung im Gesundheitswesen",
-      "teaser": "Der 130. Ärztetag setzt dem neuen Gesundheits-Digitalisierungsgesetz klare Grenzen: Krankenkassen sollen nicht über medizinische Behandlung entscheiden.",
-      "url": "https://www.heise.de/news/Aerztetag-Klare-Absage-an-kassengesteuerte-Digitalisierung-im-Gesundheitswesen-11294349.html",
-      "image_title": "Foto des Plenums des 130. Ärztetages bei der Eröffnungsveranstaltung"
-    },
-    {
-      "title": "Top 10: Der beste Akku-Wischsauger im Test",
-      "teaser": "Akku-Wischsauger saugen und wischen Hartböden in einem Schritt – schnell, bequem und gründlich. Wir zeigen die besten Modelle.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-wischsauger-im-test-testsieger-dreame-vor-roborock-und-dyson/mel3jmn?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsRechenzentrum in Georgia entnimmt unbemerkt 110 Millionen Liter Wasser",
