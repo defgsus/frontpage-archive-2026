@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T05:43:57",
+  "timestamp": "2026-05-15T08:35:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "SicherheitAngriff umgeht BitLocker mittels Windows Recovery Environment",
-      "teaser": "BitLocker soll vertrauliche Daten auch vor physischen Angriffen schützen. Die Windows Recovery Environment hebelt den Schutz aus.",
-      "url": "https://www.heise.de/news/Angriff-umgeht-BitLocker-mittels-Windows-Recovery-Environment-11292642.html",
-      "image_title": "Stilisiertes Schlossymbol auf leuchtenden Leiterbahnen"
+      "title": "AlertGoogle-WebbrowserUpdate stopft 79 Sicherheitslücken in Chrome",
+      "teaser": "Das wöchentliche Chrome-Update schließt insgesamt 79 Sicherheitslücken. Davon gelten 14 als kritisch.",
+      "url": "https://www.heise.de/news/Update-stopft-79-Sicherheitsluecken-in-Google-Chrome-11294547.html",
+      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
     },
     {
       "title": "AlertPatchday MicrosoftKritische DNS-Client-Lücke bedroht Windows",
@@ -31,8 +31,9 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Kritische-DNS-Client-Luecke-bedroht-Windows-11292506.html"
     },
     {
-      "title": "AlertFortinet stopft elf Sicherheitslücken in mehreren Produkten",
-      "url": "https://www.heise.de/news/Fortinet-stopft-elf-Sicherheitsluecken-in-mehreren-Produkten-11292861.html"
+      "title": "AlertIvanti EPM: Sicherheitslücken ermöglichen SQL-Iinjection und Rechteausweitung",
+      "url": "https://www.heise.de/news/Ivanti-EPM-Sicherheitsluecken-ermoeglichen-SQL-Iinjection-und-Rechteausweitung-11294605.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
     },
     {
       "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
@@ -45,6 +46,23 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "AlertIvanti EPM: Sicherheitslücken ermöglichen SQL-Iinjection und Rechteausweitung",
+      "teaser": "Ivanti warnt vor drei Sicherheitslücken im Endpoint Manager (EPM). Sie ermöglichen SQL-Injection oder Rechteausweitung.",
+      "url": "https://www.heise.de/news/Ivanti-EPM-Sicherheitsluecken-ermoeglichen-SQL-Iinjection-und-Rechteausweitung-11294605.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
+      "title": "AlertVMware Fusion: Angreifer können sich root-Rechte verschaffen",
+      "teaser": "Die Broadcom-Entwickler haben einen wichtigen Sicherheitspatch für VMware Fusion veröffentlicht.",
+      "url": "https://www.heise.de/news/VMware-Fusion-Angreifer-koennen-sich-root-Rechte-verschaffen-11294685.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "AlertJetzt patchen! Angreifer attackieren Cisco Catalyst SD-WAN Controller",
+      "teaser": "Angreifer nutzen derzeit eine kritische Sicherheitslücke in Cisco Catalyst SD-WAN Controller aus. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Cisco-Catalyst-SD-WAN-Controller-11294491.html"
     },
     {
       "title": "Auslegungssache 159: \"Signal-Hack\" und Europol-Schatten-IT",
@@ -112,33 +130,15 @@
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
+      "title": "Angriff umgeht BitLocker mittels Windows Recovery Environment",
+      "teaser": "BitLocker soll vertrauliche Daten auch vor physischen Angriffen schützen. Die Windows Recovery Environment hebelt den Schutz aus.",
+      "url": "https://www.heise.de/news/Angriff-umgeht-BitLocker-mittels-Windows-Recovery-Environment-11292642.html",
+      "image_title": "Stilisiertes Schlossymbol auf leuchtenden Leiterbahnen"
+    },
+    {
       "title": "„Passwort“ Folge 57: Fail-News mit KI-Fail, copy.fail und S/MIME-Fail",
       "teaser": "Die Copy-Fail-Lücke erlaubt den Hosts einen Abstecher in die Gefilde des Linuxkernels, KI löscht Unternehmensdaten und CAs machen mal wieder einen Rückzieher.",
       "url": "https://www.heise.de/news/Passwort-Folge-57-Fail-News-mit-KI-Fail-copy-fail-und-S-MIME-Fail-11284855.html"
-    },
-    {
-      "title": "Android 17 bringt AirDrop-Support für weitere Geräte und neue Funktionen",
-      "teaser": "Google hat neue Funktionen für Android 17 angekündigt. Neben einer Ausweitung des AirDrop-Supports hat das Update weitere Features an Bord.",
-      "url": "https://www.heise.de/news/Android-17-Einfacher-Umzug-von-iOS-mehr-AirDrop-und-Tools-fuer-Kreative-11290699.html",
-      "image_title": "Android Figur"
-    },
-    {
-      "title": "Dobrindt: „Abschrecken, abwehren und abschalten“ in Kürze",
-      "teaser": "Innenminister Alexander Dobrindt kündigt gesetzliche Befugnisse für das BKA an, um die Infrastruktur von Cyberkriminellen aktiv stören und abschalten zu können.",
-      "url": "https://www.heise.de/news/Dobrindt-Abschrecken-abwehren-und-abschalten-in-Kuerze-11292023.html",
-      "image_title": "Pressefoto von Bundesinnenminister Alexander Dobrindt"
-    },
-    {
-      "title": "Darknet Diaries Deutsch: Eine Frau, das Netz und der Terror (Teil 2)",
-      "teaser": "Shannen Rossmiller wollte nach den Anschlägen vom 11. September 2001 Terroristen bekämpfen. Also ging sie online und tat genau das.",
-      "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Eine-Frau-das-Netz-und-der-Terror-Teil-2-11256179.html",
-      "image_title": "Aufmacherbild Darknet Diaries Deutsch"
-    },
-    {
-      "title": "Mythos findet nur eine Sicherheitslücke in curl",
-      "teaser": "Daniel Stenberg hat das Angebot angenommen, mit der Mythos-KI nach Schwachstellen in curl zu suchen. Eine Lücke hat er entdeckt.",
-      "url": "https://www.heise.de/news/Mythos-findet-nur-eine-Sicherheitsluecke-in-curl-11291666.html",
-      "image_title": "cURL-Logo auf blauem Hintergrund"
     },
     {
       "title": "Workshop | 26. – 28.5.2026Active Directory Hardening: Vom Audit zur sicheren Umgebung",
@@ -190,17 +190,17 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Linux-Lücken verschaffen root-Rechte",
-      "url": "https://www.heise.de/news/Dirty-Frag-Linux-Luecken-verschaffen-root-Rechte-11286691.html",
-      "image_title": "Lücken-Maskottchen zur Dirty Frag vor Matrix-Regen-Hintergrund"
-    },
-    {
       "title": "Google verhindert angeblich neuartigen Cyberangriff",
-      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html"
+      "url": "https://www.heise.de/news/Google-Cyberangriff-mittels-per-KI-gefundener-Zero-Day-Luecke-abgewehrt-11290551.html",
+      "image_title": "Google-Logo über einem Gebäudeeingang"
     },
     {
       "title": "Nur noch reproduzierbare Pakete in „testing“",
       "url": "https://www.heise.de/news/Debian-14-Reproduzierbare-Builds-werden-zur-Pflicht-11289259.html"
+    },
+    {
+      "title": "JDownloader verteilte Malware-Downloads",
+      "url": "https://www.heise.de/news/JDownloader-verteilte-Malware-Downloads-11288832.html"
     }
   ]
 }
