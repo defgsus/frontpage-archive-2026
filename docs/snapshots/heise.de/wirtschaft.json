@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-15T13:22:58",
+  "timestamp": "2026-05-15T15:53:43",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,27 +20,33 @@
   ],
   "articles": [
     {
+      "title": "AMD macht fast so viel Umsatz mit Serverprozessoren wie Intel",
+      "teaser": "Fast jeder dritte Serverprozessor mit x86-Architektur stammte zuletzt von AMD. Aufgrund höherer Preise ist der Umsatzanteil noch höher.",
+      "url": "https://www.heise.de/news/AMD-macht-fast-so-viel-Umsatz-mit-Serverprozessoren-wie-Intel-11295573.html",
+      "image_title": "Zwei offene Server nebeneinander"
+    },
+    {
+      "title": "Strom geschenkt: Wie Sie von negativen Börsenpreisen profitieren",
+      "teaser": "Negative Strompreise sind Fluch und Segen. Warum sie entstehen, wie Haushalte sie für sich nutzen können – und was das alles über Netze und Speicher sagt.",
+      "url": "https://www.heise.de/hintergrund/Einsteigerwissen-Geld-verdienen-mit-negativen-Strompreisen-was-dahintersteckt-11291087.html",
+      "image_title": "Electricity,Costs:,Person,Checking,Electricity,Bills,With,A,Light,Bulb"
+    },
+    {
+      "title": "Fedora Hummingbird LinuxNeue Container-basierte Distribution HummingbirdOS",
+      "teaser": "Fedora Hummingbird Linux ist eine vollständig Container-basierte Distribution, die auf rpm-ostree und bootc aufbaut.",
+      "url": "https://www.heise.de/news/Fedora-Hummingbird-Linux-Neue-Container-basierte-Distribution-11295489.html",
+      "image_title": "Ein stilisierter Kolibri mit Circuit-Board-Mustern fliegt vor einem blauen Hintergrund mit Kreisen und Linien."
+    },
+    {
       "title": "Broadcom und Arista vereinheitlichen Rechenzentrums-Netzwerke",
       "teaser": "Broadcom und Arista stellen eine Unified Network Fabric vor, die virtuelle und physische Server in Rechenzentren integriert.",
       "url": "https://www.heise.de/news/Broadcom-und-Arista-vereinheitlichen-Rechenzentrums-Netzwerke-11295433.html",
       "image_title": "Ethernet-Kabel und Switches"
     },
     {
-      "title": "Vergleichstest: Vier 700-Euro-Notebooks gegen das MacBook Neo",
-      "teaser": "Apples MacBook Neo krempelt die Mittelklasse um. Wo können sich Windows-Notebooks für 700 Euro noch absetzen, wo müssen sie sich hinten anstellen?",
-      "url": "https://www.heise.de/tests/Vergleichstest-Vier-700-Euro-Notebooks-gegen-das-MacBook-Neo-11253071.html"
-    },
-    {
-      "title": "Nach langem Warten: AMD bringt FSR 4.1 für ältere Grafikkarten",
-      "teaser": "Radeon-GPUs der Serien RX 7000 und RX 6000 bekommen AMDs KI-Upscaler FSR 4.1. Davon profitieren auch das Steam Deck und die Steam Machine.",
-      "url": "https://www.heise.de/news/Nach-langem-Warten-AMD-bringt-FSR-4-1-fuer-aeltere-Grafikkarten-11295008.html",
-      "image_title": "Mehrere Grafikkarten von oben auf roter Unterlage"
-    },
-    {
-      "title": "Apple-Chips von IntelKleinere Testproduktion soll angeblich bereits laufen",
-      "teaser": "Nach Berichten über ein Aufleben der Kooperation von Apple und Intel bei Chips gibt es nun Infos über erste Kleinserien.",
-      "url": "https://www.heise.de/news/Apple-Chips-von-Intel-Kleinere-Testproduktion-soll-angeblich-bereits-laufen-11294793.html",
-      "image_title": "Logos von Intel und Apple"
+      "title": "HintergrundStrom geschenkt: Wie Sie von negativen Börsenpreisen profitieren",
+      "url": "https://www.heise.de/hintergrund/Einsteigerwissen-Geld-verdienen-mit-negativen-Strompreisen-was-dahintersteckt-11291087.html",
+      "image_title": "Electricity,Costs:,Person,Checking,Electricity,Bills,With,A,Light,Bulb"
     },
     {
       "title": "HintergrundWas das Gebäudemodernisierungsgesetz für Sie bedeutet",
@@ -52,9 +58,10 @@
       "url": "https://www.heise.de/ratgeber/Frueher-in-die-Rente-Wie-Sie-mit-dem-FIRE-Prinzip-finanzielle-Freiheit-erreichen-11187341.html"
     },
     {
-      "title": "TestsErster Ausflug mit dem Cupra Raval VZ: Bissig und teuer",
-      "url": "https://www.heise.de/tests/Erster-Ausflug-mit-dem-Cupra-Raval-VZ-Bissig-und-teuer-11287771.html",
-      "image_title": "Cupra Raval VZ Extreme"
+      "title": "Apple-Chips von Intel: Kleinere Testproduktion soll angeblich bereits laufen",
+      "teaser": "Nach Berichten über ein Aufleben der Kooperation von Apple und Intel bei Chips gibt es nun Infos über erste Kleinserien, so ein bekannter Marktbeobachter.",
+      "url": "https://www.heise.de/news/Apple-Chips-von-Intel-Kleinere-Testproduktion-soll-angeblich-bereits-laufen-11294793.html",
+      "image_title": "Logos von Intel und Apple"
     },
     {
       "title": "Netflix: 250 Millionen Menschen schauen mit Werbeabo",
@@ -137,12 +144,6 @@
       "teaser": "Jahrelang haben die europäischen Netzbetreiber gefordert, dass sich Meta, Google und Co. an den Netzkosten beteiligen. Die Telekom gibt das jetzt auf.",
       "url": "https://www.heise.de/news/Netz-Maut-fuer-Big-Tech-Telekom-Chef-gibt-auf-11293948.html",
       "image_title": "Telekom-Chef Tim Höttges bei der Eröffnung der KI-Fabrik am 4. Februar 2026 in München."
-    },
-    {
-      "title": "Firma haftet für ihren Chatbot: Unlauterer Wettbewerb",
-      "teaser": "Das Oberlandesgericht Hamm hat Anbietern für Schönheitsbehandlungen für Falschangaben ihres Chatbots verantwortlich erklärt.",
-      "url": "https://www.heise.de/news/Dr-Rick-Dr-Nick-Aerzte-verlieren-wegen-KI-Halluzinationen-vor-Gericht-11293866.html",
-      "image_title": "Rumpf einer den Schönheitsstandards entsprechenden Frau. Auf Stirn und Lippen befinden sich Punkte mit Linien, die zu einem Netz führen. Das soll eine Gesichtsanalyse darstellen."
     },
     {
       "title": "NewsRechenzentrum in Georgia entnimmt unbemerkt 110 Millionen Liter Wasser",
