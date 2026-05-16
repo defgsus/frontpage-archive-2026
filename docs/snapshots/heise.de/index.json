@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T14:16:38",
+  "timestamp": "2026-05-16T15:45:05",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "KI-Papers bei arXiv: Sperre bei erstem Verstoß",
+      "url": "https://www.heise.de/news/KI-Papers-bei-arXiv-Sperre-bei-erstem-Verstoss-11296035.html"
+    },
     {
       "title": "Ecovacs Deebot Mini im Test: Günstiger Saugroboter für kleine Wohnungen",
       "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-deebot-mini-im-test-guenstiger-saugroboter-fuer-kleine-wohnungen/tw4fdmb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -58,10 +62,6 @@
     {
       "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11280571.html"
-    },
-    {
-      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11292947.html"
     },
     {
       "title": "AlertGegenmaßnahmen möglichMicrosoft Exchange: Zero-Day-Lücke wird angegriffen",
@@ -181,20 +181,26 @@
       "url": "https://www.heise.de/news/heiseshow-de-Domain-Probleme-EU-Digitalsteuer-Commodore-64C-11284643.html"
     },
     {
+      "title": "KI-Papers bei arXiv: Sperre bei erstem Verstoß",
+      "teaser": "Die Wissenschaftsplattform verschärft erneut ihre Regeln: Wer KI-Müll als Wissenschaft ausgibt, wird gesperrt – und danach genauer geprüft.",
+      "url": "https://www.heise.de/news/KI-Papers-bei-arXiv-Sperre-bei-erstem-Verstoss-11296035.html",
+      "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
+    },
+    {
       "title": "Ecovacs Deebot Mini im Test: Günstiger Saugroboter für kleine Wohnungen",
       "teaser": "Der Ecovacs Deebot Mini ist ein kompakter Wisch- und Saugroboter für kleine Wohnungen. Im Test überzeugt er preislich, schwächelt aber bei der Bedienlogik.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-deebot-mini-im-test-guenstiger-saugroboter-fuer-kleine-wohnungen/tw4fdmb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "„Doom“ läuft jetzt auch auf Meta Ray-Ban Smart Glasses",
       "teaser": "Meta hat die Meta Ray-Ban Display für Entwickler geöffnet. Eine der ersten getesteten Apps ist eine Portierung des Spieleklassikers „Doom“.",
       "url": "https://www.heise.de/news/Doom-laeuft-jetzt-auch-auf-Meta-Ray-Ban-Smart-Glasses-11295937.html",
       "image_title": "Meta Ray-Ban Display mit eingeblendeter Anzeige im rechten Brillenglas."
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "Xbox-Controller reparieren: Buttons reinigen, Stick-Drift mindern",
@@ -224,12 +230,6 @@
       "teaser": "Top-Investor TCI stößt Microsoft-Aktien ab. Das ist weit mehr als ein Börsenmanöver: KI bedroht das Geschäftsmodell der gesamten Softwareindustrie.",
       "url": "https://www.heise.de/meinung/Kommentar-Die-SaaSpocalypse-hat-begonnen-11295569.html",
       "image_title": "Zwei Roboterarme zerreißen eine Wolke."
-    },
-    {
-      "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
-      "teaser": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11280571.html",
-      "image_title": "Serverschrank in Metallketten, die mit einem Vorhängeschloss gesichert sind, Geldbündel davor gestapelt, einige Scheine wehen umher"
     },
     {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
@@ -282,12 +282,12 @@
       "image_title": "Vier Mainboards übereinandergestapelt diagonal von oben fotografiert"
     },
     {
-      "title": "Altersüberprüfung: EU-Rechtsberater warnen vor Umgehungsoption durch VPNs",
-      "url": "https://www.heise.de/news/Altersueberpruefung-EU-Rechtsberater-warnen-vor-Umgehungsoption-durch-VPNs-11288439.html"
-    },
-    {
       "title": "Hamburg: Verkehrsbetriebe schaffen wieder Busse mit Verbrenner an",
       "url": "https://www.heise.de/news/Hamburg-Verkehrsbetriebe-schaffen-wieder-Busse-mit-Verbrenner-an-11288880.html"
+    },
+    {
+      "title": "Unerlaubte Bildverwendung auf TV-Karton: Dua Lipa will Schadenersatz von Samsung",
+      "url": "https://www.heise.de/news/Unerlaubte-Bildverwendung-Dua-Lipa-fordert-15-Millionen-US-Dollar-von-Samsung-11288774.html"
     },
     {
       "title": "Reolink vor InstarTop 10: PTZ-Überwachungskamera für außen",
@@ -320,6 +320,12 @@
       "teaser": "50 % Rabatt für 5 Monate heise+ – mit allen Inhalten auf heise online inklusive Tests, Ratgebern und tiefgehende Hintergründe sowie digitaler Zugriff auf alle Magazine des heise-Kosmos.",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=37794&wt_mc=intern.abo.plus.hp_2026_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 50 % Rabatt"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
+      "teaser": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11280571.html",
+      "image_title": "Serverschrank in Metallketten, die mit einem Vorhängeschloss gesichert sind, Geldbündel davor gestapelt, einige Scheine wehen umher"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
@@ -392,15 +398,15 @@
       "image_title": "Post zum Freitag mit Foto von Volker Zota"
     },
     {
+      "title": "In wenigen Schritten zur eigenen KI – Best Practices mit Copilot Studio",
+      "teaser": "KI entfaltet ihren Mehrwert erst bei konkreten Geschäftsprozessen. In einem Webcast werden Sie erfahren, wie Sie mit Microsoft Copilot Studio ohne große Programmierkenntnisse KI-Agenten und KI-Assistenten entwickeln können. Highlight: Bau eines KI-Chatbots live in 12 Minuten!",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/in-wenigen-schritten-zur-eigenen-ki-best-practices-mit-copilot-studio-5047/?source=hbsadersatz"
+    },
+    {
       "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
       "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
       "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-11142307.html",
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
-      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
     },
     {
       "title": "Vergleichstest: Vier 700-Euro-Notebooks gegen das MacBook Neo",
@@ -455,12 +461,6 @@
       "url": "https://www.heise.de/ratgeber/Strom-versus-Sprit-Womit-Sie-guenstiger-fahren-11247154.html"
     },
     {
-      "title": "Apple untersucht von Claude Mythos entdecktes macOS-Problem",
-      "teaser": "Im Rahmen von „Project Glasswing“ arbeitet Anthropic mit Apple am Auffinden von Sicherheitslücken. Nun hat eine Security-Firma das Modell dafür verwendet.",
-      "url": "https://www.heise.de/news/Sicherheitsfirma-Claude-Mythos-findet-macOS-Exploit-11294837.html",
-      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
-    },
-    {
       "title": "KI-Portierung: Claude schreibt Bun-Codebasis in Rust neu",
       "url": "https://www.heise.de/news/KI-Portierung-Claude-schreibt-Bun-Codebasis-in-Rust-neu-9787350.html",
       "image_title": "Rust-Logo, Bleistift, Zirkel"
@@ -490,6 +490,11 @@
       "image_title": "Eine mit KiCad entworfene Platine"
     },
     {
+      "title": "Apple untersucht von Claude Mythos entdecktes macOS-Problem",
+      "url": "https://www.heise.de/news/Sicherheitsfirma-Claude-Mythos-findet-macOS-Exploit-11294837.html",
+      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
+    },
+    {
       "title": "Bericht: OpenAI verärgert über Apple-Partnerschaft, könnte klagen",
       "url": "https://www.heise.de/news/Bericht-OpenAI-veraergert-ueber-Apple-Partnerschaft-koennte-klagen-11294733.html",
       "image_title": "Sam Altman vor Leinwand mit OpenAI-Schriftzug."
@@ -497,11 +502,6 @@
     {
       "title": "iOS 27: Apple öffnet die Kamera-App für Profi-Fotografen",
       "url": "https://www.heise.de/news/Bericht-Apple-plant-frei-konfigurierbare-Kamera-App-in-iOS-27-11294171.html"
-    },
-    {
-      "title": "UpdateSicherheitsfixes: Warum man schnell auf iOS 26.5 & Co. aktualisieren sollte",
-      "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
-      "image_title": "Aktualisierung auf einem iPhone"
     },
     {
       "title": "125 Jahre Royal Enfield – Die große Unbekannte",
@@ -625,9 +625,9 @@
       "url": "https://www.heise.de/en/news/Shadow-library-Book-publishers-want-to-shut-down-Anna-s-Archive-11291713.html"
     },
     {
-      "title": "Alexa+: Amazons generative KI für das Smart Home ausprobiert",
-      "teaser": "Weniger „Das habe ich nicht verstanden“: Alexa+ bringt generative KI ins Smart Home – mit großen Versprechen, aber auch mit größeren Risiken.",
-      "url": "https://www.heise.de/hintergrund/Alexa-Amazons-generative-KI-fuer-das-Smart-Home-ausprobiert-11280967.html"
+      "title": "Wie Sie im Urlaub in Nicht-EU-Ländern günstig surfen und telefonieren",
+      "teaser": "Roaming außerhalb der EU ist eine Kostenfalle, mit Datenoptionen, Urlaubstarifen oder lokalen SIMs spart man viel Geld. Besonders einfach ist es mit einer eSIM.",
+      "url": "https://www.heise.de/tests/Wie-Sie-im-Urlaub-in-Nicht-EU-Laendern-guenstig-surfen-und-telefonieren-11160876.html"
     },
     {
       "title": "c’t-Webinar: Keine Angst vor Linux – so klappt der Wechsel",
@@ -636,9 +636,9 @@
       "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
     },
     {
-      "title": "Wie Sie im Urlaub in Nicht-EU-Ländern günstig surfen und telefonieren",
-      "teaser": "Roaming außerhalb der EU ist eine Kostenfalle, mit Datenoptionen, Urlaubstarifen oder lokalen SIMs spart man viel Geld. Besonders einfach ist es mit einer eSIM.",
-      "url": "https://www.heise.de/tests/Wie-Sie-im-Urlaub-in-Nicht-EU-Laendern-guenstig-surfen-und-telefonieren-11160876.html"
+      "title": "Alexa+: Amazons generative KI für das Smart Home ausprobiert",
+      "teaser": "Weniger „Das habe ich nicht verstanden“: Alexa+ bringt generative KI ins Smart Home – mit großen Versprechen, aber auch mit größeren Risiken.",
+      "url": "https://www.heise.de/hintergrund/Alexa-Amazons-generative-KI-fuer-das-Smart-Home-ausprobiert-11280967.html"
     },
     {
       "title": "Raus aus der WolkeSo funktionieren Apples lokale KI-Modelle",
@@ -665,15 +665,15 @@
       "image_title": "Lapdock von vorn mit angeschlossenem Arduino UNO Q"
     },
     {
+      "title": "Anleitung zum Bau einer leichten ArcadeBox mit zahlreichen Spielen",
+      "teaser": "Diese DIY-Konsole erfüllt dem Autor den Traum eines kleinen Spieleautomaten auf Raspi-Basis mit Display, Lautsprechern, Arcade-Buttons und tausenden Spielen.",
+      "url": "https://www.heise.de/ratgeber/Anleitung-zum-Bau-einer-leichten-ArcadeBox-mit-zahlreichen-Spielen-11286843.html",
+      "image_title": ","
+    },
+    {
       "title": "Makey:Lab jetzt erhältlich: Das Innovations-Labor für junge Erfinder",
       "teaser": "Technik nicht nur nutzen, sondern selbst gestalten: Mit Makey:Lab bringt Make ein Innovationslabor für IoT- und vernetzte Alltagsprojekte an den Start.",
       "url": "https://www.heise.de/news/Makey-Lab-jetzt-erhaeltlich-Das-Innovations-Labor-fuer-junge-Erfinder-11285907.html"
-    },
-    {
-      "title": "NE555Der unsterbliche Timer-Chip feiert den 55. Geburtstag",
-      "teaser": "Mit über einer Milliarde Exemplaren ist NE555 immer noch der meistproduzierte Chip. Er ist wohl in jedem Haushalt irgendwo verbaut.",
-      "url": "https://www.heise.de/news/NE555-Der-unsterbliche-Timer-Chip-feiert-den-55-Geburtstag-11282093.html",
-      "image_title": "555 als Plüschtier DIP und Waffer"
     },
     {
       "title": "Sony Alpha 7R VI bringt 67 Megapixel auf das Tempo des Spitzenmodells",
@@ -688,16 +688,16 @@
       "image_title": "Canon-Kamera auf beigefarbenem Untergrund"
     },
     {
+      "title": "Mond- und Sonnenfinsternis im August 2026: So planen Sie Beobachtung und Fotos",
+      "teaser": "Zwei Ereignisse, viele Fallstricke: Höhe, Horizont, Licht. Wir zeigen, wie Standort und Ausrüstung über Erfolg oder Enttäuschung entscheiden.",
+      "url": "https://www.heise.de/ratgeber/Mond-und-Sonnenfinsternis-im-August-2026-So-planen-Sie-Beobachtung-und-Fotos-11289577.html",
+      "image_title": "Foto einer totalen Sonnenfinsternis ist am Montag, dem 21. August 2017"
+    },
+    {
       "title": "Split-Level-Fotografie: So gelingen Halb-und-Halb-Bilder über und unter Wasser",
       "teaser": "Technik und Optik: Wie Split-Level-Fotos entstehen und warum Domeport, Fokus und Weitwinkel dabei entscheidend sind.",
       "url": "https://www.heise.de/ratgeber/Split-Level-Fotografie-So-gelingen-Halb-und-Halb-Bilder-ueber-und-unter-Wasser-11285728.html",
       "image_title": ", Alle Bilder: Thomas Haider"
-    },
-    {
-      "title": "Unerlaubte Bildverwendung auf TV-KartonDua Lipa will 15 Millionen US-Dollar Schadenersatz von Samsung",
-      "teaser": "Samsung verkauft seit 2025 einen Fernseher und nutzt auf dem Karton ein Foto von Dua Lipa. Die ist damit nicht einverstanden.",
-      "url": "https://www.heise.de/news/Unerlaubte-Bildverwendung-Dua-Lipa-fordert-15-Millionen-US-Dollar-von-Samsung-11288774.html",
-      "image_title": "TV-Karton mit dem gut sichtbaren Foto von Dua Lipa"
     },
     {
       "title": "EUDI-Wallet: Das ist der aktuelle Stand der digitalen europäischen Brieftasche",
@@ -742,22 +742,22 @@
       "image_title": "Tangermuende,,Germany,-,July,2014:,A,Woman,Cyclist,Going,With"
     },
     {
-      "title": "Kartellamt zerlegt Reiches Kraftwerksgesetz",
-      "teaser": "Das Kartellamt sieht Batteriespeicher faktisch ausgesperrt – und warnt vor einem Gesetz, das etablierte Anbieter bevorzugt.",
-      "url": "https://www.heise.de/article/Kartellamt-zerlegt-Reiches-Kraftwerksgesetz-11290659.html",
-      "image_title": "Deutschlandkarte als Spielbrett mit Spielfiguren in Form von Windrädern, Strommasten, Batterien, Karaftwerken und Gastanks"
+      "title": "MERKÜT: Die Massendrohne mit KI-Zielerfassung und 1.000 Stahlkugeln",
+      "teaser": "Erstmals wurde eine türkische Kamikaze-Drohne in Stückzahlen von 100.000 bestellt – mit KI-Zielerfassung, die sogar bei GPS-Störung funktionieren soll.",
+      "url": "https://www.heise.de/article/MERKUeT-Die-Massendrohne-mit-KI-Zielerfassung-und-1-000-Stahlkugeln-11295607.html",
+      "image_title": "Eine Drohne mit vier Propellern und zwei Kameras fliegt vor einem unscharfen Hintergrund."
     },
     {
-      "title": "Unbeliebter als Atomkraft: Warum niemand neben einem Rechenzentrum leben will",
-      "teaser": "Inzwischen scheitern auch in Deutschland Milliardenprojekte am Widerstand der Bürger. Ihre Gründe sind nachvollziehbar – und brisant.",
-      "url": "https://www.heise.de/article/Unbeliebter-als-Atomkraft-Warum-niemand-neben-einem-Rechenzentrum-leben-will-11294763.html",
-      "image_title": "Ein zentraler Chip mit der Aufschrift \"AI\" in einem Serverraum mit binärem Code."
+      "title": "Fischöl-Kapseln: Stärker ja, muskulöser nein",
+      "teaser": "Fischöl-Kapseln können Regeneration und Kraft verbessern – aber sie ersetzen weder hartes Training noch guten Schlaf.",
+      "url": "https://www.heise.de/article/Fischoel-Kapseln-Staerker-ja-muskuloeser-nein-11295917.html",
+      "image_title": "Zwei durchsichtige, gelbe Kapseln auf weißem Untergrund, im Hintergrund unscharf weitere Kapseln."
     },
     {
-      "title": "CIA-Chef in Havanna: Was der Besuch für Kubas Zukunft bedeutet",
-      "teaser": "Stromausfälle bis zu 22 Stunden täglich, ein CIA-Chef mit Ultimatum – und im Pentagon laufen bereits Pläne für Schlimmeres.",
-      "url": "https://www.heise.de/article/CIA-Chef-in-Havanna-Was-der-Besuch-fuer-Kubas-Zukunft-bedeutet-11295251.html",
-      "image_title": "Die Flaggen von Kuba und den USA sind auf einer rissigen Wand dargestellt."
+      "title": "Social-Media-Verbot: Von der Leyen überholt ihre eigenen Experten",
+      "teaser": "Die Chefin der EU-Kommission drängt auf ein Verbot, obwohl ihr eigenes Expertengremium noch gar keine Empfehlung abgegeben hat.",
+      "url": "https://www.heise.de/article/Social-Media-Verbot-Von-der-Leyen-ueberholt-ihre-eigenen-Experten-11295413.html",
+      "image_title": "Drei Kinder sitzen im Gras und schauen auf ihre Handys."
     },
     {
       "title": "Gehirn als Schwamm: Wie Bauchmuskeltraining die „Spülmaschine“ im Kopf aktiviert",
