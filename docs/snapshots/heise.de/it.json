@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-16T05:16:36",
+  "timestamp": "2026-05-16T07:45:16",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,27 @@
   ],
   "articles": [
     {
+      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu PSF, Python 3.15, GitHub, Wicket, Ditto, Hugging Face, GNUstep, MantisBT und Docker.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11292947.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Code lesen statt Code schreiben: Die unterschätzte Senior-Disziplin",
+      "teaser": "Joel Spolsky warnte schon 2000 davor, Code lieber neu zu schreiben als zu lesen. Mit LLMs wird seine Diagnose zur drängenden Frage für jedes Team.",
+      "url": "https://www.heise.de/blog/Code-lesen-statt-Code-schreiben-Die-unterschaetzte-Senior-Disziplin-11288309.html",
+      "image_title": "Szene in einem farbenarmen Büro: 2 Männer und 1 Frau, alle mit dunklerem Teint, sind vor einem Schreibtisch mit Bildschirm versammelt; die Frau (Mitte) zeigt auf den Bildschirm."
+    },
+    {
+      "title": "Ärzte wollen Schutz vor Reidentifizierung von Patienten und strengere KI-Regeln",
+      "teaser": "Ärzte stimmen für mehr Schutz von Gesundheitsdaten. KI und Cloud könnten dafür sorgen, Patienten zu reidentifizieren. Sie sehen die Schweigepflicht in Gefahr.",
+      "url": "https://www.heise.de/news/Aerztetag-fordert-strengere-Regeln-fuer-KI-und-Cloud-Nutzung-im-Gesundheitswesen-11295829.html",
+      "image_title": "Arzt zeigt mit Finger Richtung Cloud"
+    },
+    {
       "title": "Zoff um Open-Source-Office-Lösungen | c’t uplink",
       "teaser": "In dieser Folge sprechen wir über die Vorwürfe zwischen der Document Foundation und Collabora. Und: Was war da los bei OnlyOffice, Nextcloud und Ionos?",
       "url": "https://www.heise.de/news/Zoff-um-Open-Source-Office-Loesungen-c-t-uplink-11294958.html"
-    },
-    {
-      "title": "AlertGegenmaßnahmen möglichMicrosoft Exchange: Zero-Day-Lücke wird angegriffen",
-      "teaser": "In Microsofts Exchange klafft eine Zero-Day-Lücke, die Angreifer bereits missbrauchen. Admins sollten rasch handeln.",
-      "url": "https://www.heise.de/news/Microsoft-Exchange-Zero-Day-Luecke-wird-angegriffen-11295799.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Privilegienausweitung in LinuxLokale Nutzer können fremde Dateien lesen",
-      "teaser": "Die Lücke ist lang bekannt, behoben wurde sie erst jetzt. Nur Stunden später gibt es einen Exploit, derweil rüstet das Kernelteam auf.",
-      "url": "https://www.heise.de/news/Privilegienausweitung-in-Linux-Lokale-Nutzer-koennen-fremde-Dateien-lesen-11295751.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
-    },
-    {
-      "title": "AMD macht fast so viel Umsatz mit Serverprozessoren wie Intel",
-      "teaser": "Fast jeder dritte Serverprozessor mit x86-Architektur stammte zuletzt von AMD. Aufgrund höherer Preise ist der Umsatzanteil noch höher.",
-      "url": "https://www.heise.de/news/AMD-macht-fast-so-viel-Umsatz-mit-Serverprozessoren-wie-Intel-11295573.html",
-      "image_title": "Zwei offene Server nebeneinander"
     },
     {
       "title": "HintergrundGoogle vs. Wildberger: Wie der Bund US-Konzerne aus Staatsaufträgen drängen will",
@@ -56,6 +56,24 @@
       "title": "HintergrundC3A: Der neue BSI-Maßstab für souveräne Clouds im Überblick",
       "url": "https://www.heise.de/hintergrund/C3A-Der-neue-BSI-Massstab-fuer-souveraene-Clouds-im-Ueberblick-11285742.html",
       "image_title": ", Cathrin Kapell / KI / iX"
+    },
+    {
+      "title": "AlertMicrosoft Exchange: Zero-Day-Lücke wird angegriffen",
+      "teaser": "In Microsofts Exchange klafft eine Zero-Day-Lücke, die Angreifer bereits missbrauchen. Admins sollten rasch handeln.",
+      "url": "https://www.heise.de/news/Microsoft-Exchange-Zero-Day-Luecke-wird-angegriffen-11295799.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "Privilegienausweitung in Linux: Lokale Nutzer können fremde Dateien lesen",
+      "teaser": "Die Sicherheitslücke ist seit Jahren bekannt, behoben wurde sie erst am Donnerstag. Nur Stunden später gibt es einen Exploit, derweil rüstet das Kernelteam auf.",
+      "url": "https://www.heise.de/news/Privilegienausweitung-in-Linux-Lokale-Nutzer-koennen-fremde-Dateien-lesen-11295751.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
+    },
+    {
+      "title": "AMD macht fast so viel Umsatz mit Serverprozessoren wie Intel",
+      "teaser": "Fast jeder dritte Serverprozessor mit x86-Architektur stammte zuletzt von AMD. Aufgrund höherer Preise ist der Umsatzanteil noch höher.",
+      "url": "https://www.heise.de/news/AMD-macht-fast-so-viel-Umsatz-mit-Serverprozessoren-wie-Intel-11295573.html",
+      "image_title": "Zwei offene Server nebeneinander"
     },
     {
       "title": "Haftbefehl abgelehnt: KI-Treffer ist für Richter nur ein vager Hinweis",
@@ -126,23 +144,6 @@
       "teaser": "Radeon-GPUs der Serien RX 7000 und RX 6000 bekommen AMDs KI-Upscaler FSR 4.1. Davon profitieren auch das Steam Deck und die Steam Machine.",
       "url": "https://www.heise.de/news/Nach-langem-Warten-AMD-bringt-FSR-4-1-fuer-aeltere-Grafikkarten-11295008.html",
       "image_title": "Mehrere Grafikkarten von oben auf roter Unterlage"
-    },
-    {
-      "title": "c’t-Webinar: Keine Angst vor Linux – so klappt der Wechsel",
-      "teaser": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Keine-Angst-vor-Linux-so-klappt-der-Wechsel-11285784.html",
-      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
-    },
-    {
-      "title": "Apple untersucht von Claude Mythos entdecktes macOS-Problem",
-      "teaser": "Im Rahmen von „Project Glasswing“ arbeitet Anthropic mit Apple am Auffinden von Sicherheitslücken. Nun hat eine Security-Firma das Modell dafür verwendet.",
-      "url": "https://www.heise.de/news/Sicherheitsfirma-Claude-Mythos-findet-macOS-Exploit-11294837.html",
-      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
-    },
-    {
-      "title": "AlertF5 BIG-IP: Quartalssicherheitsupdate schließt zahlreiche Lücken",
-      "teaser": "Der Netzwerkausrüster F5 hat unter anderem für verschiedene BIG-IP-Produkte wichtige Sicherheitsupdates veröffentlicht.",
-      "url": "https://www.heise.de/news/F5-BIG-IP-Quartalssicherheitsupdate-schliesst-zahlreiche-Luecken-11294929.html"
     },
     {
       "title": "NewsÖffentliches Ladenetz zunehmend gefährlich",
