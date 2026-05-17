@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-17T05:38:10",
+  "timestamp": "2026-05-17T08:05:48",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: Netzwerkarchitekturen in Proxmox aufbauen, verwalten und schützen",
+      "url": "https://www.heise.de/news/iX-Workshop-Netzwerkarchitekturen-in-Proxmox-aufbauen-verwalten-und-schuetzen-11280663.html"
+    },
+    {
+      "title": "Video: Statt Microsoft — Diese vier Office-Pakete solltet ihr kennen",
+      "url": "https://www.heise.de/news/Video-Statt-Microsoft-Diese-vier-Office-Pakete-solltet-ihr-kennen-11269405.html"
+    },
+    {
+      "title": "Gamecontroller als universelles MIDI-Remote-Gerät einsetzen",
+      "url": "https://www.heise.de/tests/Gamecontroller-als-universelles-MIDI-Remote-Geraet-einsetzen-11289271.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "Top 10: Bestes kleines Smartphone bis 6,3 Zoll",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-kleines-smartphone-bis-63-zoll-xiaomi-schlaegt-apple/1rfdx2z?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -46,20 +60,6 @@
     {
       "title": "Xbox-Controller reparieren: Buttons reinigen, Stick-Drift mindern",
       "url": "https://www.heise.de/ratgeber/Xbox-Controller-reparieren-Buttons-reinigen-Stick-Drift-mindern-11191092.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Makey:Lab: Technik verstehen statt nur über Bildschirme zu wischen",
-      "url": "https://www.heise.de/news/Makey-Lab-Technik-verstehen-statt-nur-ueber-Bildschirme-zu-wischen-11293352.html"
-    },
-    {
-      "title": "SpaceX-Börsengang: 80 Milliarden US-Dollar Kapitalerhöhung geplant",
-      "url": "https://www.heise.de/news/SpaceX-plant-Boersengang-wohl-schon-fuer-Mitte-Juni-11295907.html"
-    },
-    {
-      "title": "Fototour durch Djursland: Architektur und Natur zwischen Ebeltoft und Aarhus",
-      "url": "https://www.heise.de/ratgeber/Fototour-durch-Djursland-Architektur-und-Natur-zwischen-Ebeltoft-und-Aarhus-11285292.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -182,6 +182,28 @@
       "image_title": "Zwei offene Server nebeneinander"
     },
     {
+      "title": "iX-Workshop: Netzwerkarchitekturen in Proxmox aufbauen, verwalten und schützen",
+      "teaser": "Lernen Sie, Proxmox-VE-Netzwerke professionell zu planen, abzusichern und zu optimieren – inklusive Multi-Tenant-Architekturen und Performance-Tuning.",
+      "url": "https://www.heise.de/news/iX-Workshop-Netzwerkarchitekturen-in-Proxmox-aufbauen-verwalten-und-schuetzen-11280663.html",
+      "image_title": "Stilisiertes Straßennetz mit Fahrzeugen und angedeuteten Gebäuden im Hintergrund, links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
+    },
+    {
+      "title": "Video: Statt Microsoft — Diese vier Office-Pakete solltet ihr kennen",
+      "teaser": "Wer nach datenschutzfreundlichem und günstigerem Ersatz für Microsoft Office sucht, findet mindestens vier gute Alternativen. Wir stellen sie im Video vor.",
+      "url": "https://www.heise.de/news/Video-Statt-Microsoft-Diese-vier-Office-Pakete-solltet-ihr-kennen-11269405.html"
+    },
+    {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Gamecontroller als universelles MIDI-Remote-Gerät einsetzen",
+      "teaser": "Die Firma Pounding Systems bietet eine App an, mit der sich Spiele-Controller zur Steuerung von Licht- und Musikequipment zweckentfremden lassen.",
+      "url": "https://www.heise.de/tests/Gamecontroller-als-universelles-MIDI-Remote-Geraet-einsetzen-11289271.html",
+      "image_title": "Hand,Hold,New,Joystick.,Gamer,Play,Game,With,Gamepad,Controller."
+    },
+    {
       "title": "Top 10: Bestes kleines Smartphone bis 6,3 Zoll",
       "teaser": "Handys werden immer größer? Es gibt Ausnahmen. Wir zeigen die besten kleinen Smartphones von Samsung, Motorola, Xiaomi & Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bestes-kleines-smartphone-bis-63-zoll-xiaomi-schlaegt-apple/1rfdx2z?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -191,11 +213,6 @@
       "teaser": "US-Nutzer von ChatGPT Pro können jetzt ihre Zahlungsein- und ausgänge von dem LLM auswerten lassen. Das Feature soll auch für andere ChatGPT-Abos kommen.",
       "url": "https://www.heise.de/news/ChatGPT-laesst-sich-jetzt-mit-dem-Bankkonto-verbinden-11296025.html",
       "image_title": "ChatGPT-App auf einem Smartphone"
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie im Live-Webcast am 21. Mai.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Digitale Souveränität: Wie Europa Chinas Griff nach Seltenen Erden brechen kann",
@@ -213,23 +230,6 @@
       "title": "Ecovacs Deebot Mini im Test: Günstiger Saugroboter für kleine Wohnungen",
       "teaser": "Der Ecovacs Deebot Mini ist ein kompakter Wisch- und Saugroboter für kleine Wohnungen. Im Test überzeugt er preislich, schwächelt aber bei der Bedienlogik.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-deebot-mini-im-test-guenstiger-saugroboter-fuer-kleine-wohnungen/tw4fdmb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "„Doom“ läuft jetzt auch auf Meta Ray-Ban Smart Glasses",
-      "teaser": "Meta hat die Meta Ray-Ban Display für Entwickler geöffnet. Eine der ersten getesteten Apps ist eine Portierung des Spieleklassikers „Doom“.",
-      "url": "https://www.heise.de/news/Doom-laeuft-jetzt-auch-auf-Meta-Ray-Ban-Smart-Glasses-11295937.html",
-      "image_title": "Meta Ray-Ban Display mit eingeblendeter Anzeige im rechten Brillenglas."
-    },
-    {
-      "title": "Xbox-Controller reparieren: Buttons reinigen, Stick-Drift mindern",
-      "teaser": "Wenn am Xbox-Controller Tasten klemmen oder Figuren von selbst loslaufen, helfen oft einfache Handgriffe. Wir zeigen, wie Sie die Probleme schnell beheben.",
-      "url": "https://www.heise.de/ratgeber/Xbox-Controller-reparieren-Buttons-reinigen-Stick-Drift-mindern-11191092.html"
-    },
-    {
-      "title": "Makey:Lab: Technik verstehen statt nur über Bildschirme zu wischen",
-      "teaser": "Raus aus dem Scroll-Modus, rein ins Machen: Makey:Lab bringt Jugendliche wieder dazu, selbst mit Technik zu experimentieren.",
-      "url": "https://www.heise.de/news/Makey-Lab-Technik-verstehen-statt-nur-ueber-Bildschirme-zu-wischen-11293352.html",
-      "image_title": "Makey:Lab"
     },
     {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
@@ -322,6 +322,23 @@
       "image_title": "heise+ 50 % Rabatt"
     },
     {
+      "title": "„Doom“ läuft jetzt auch auf Meta Ray-Ban Smart Glasses",
+      "teaser": "Meta hat die Meta Ray-Ban Display für Entwickler geöffnet. Eine der ersten getesteten Apps ist eine Portierung des Spieleklassikers „Doom“.",
+      "url": "https://www.heise.de/news/Doom-laeuft-jetzt-auch-auf-Meta-Ray-Ban-Smart-Glasses-11295937.html",
+      "image_title": "Meta Ray-Ban Display mit eingeblendeter Anzeige im rechten Brillenglas."
+    },
+    {
+      "title": "Xbox-Controller reparieren: Buttons reinigen, Stick-Drift mindern",
+      "teaser": "Wenn am Xbox-Controller Tasten klemmen oder Figuren von selbst loslaufen, helfen oft einfache Handgriffe. Wir zeigen, wie Sie die Probleme schnell beheben.",
+      "url": "https://www.heise.de/ratgeber/Xbox-Controller-reparieren-Buttons-reinigen-Stick-Drift-mindern-11191092.html"
+    },
+    {
+      "title": "Makey:Lab: Technik verstehen statt nur über Bildschirme zu wischen",
+      "teaser": "Raus aus dem Scroll-Modus, rein ins Machen: Makey:Lab bringt Jugendliche wieder dazu, selbst mit Technik zu experimentieren.",
+      "url": "https://www.heise.de/news/Makey-Lab-Technik-verstehen-statt-nur-ueber-Bildschirme-zu-wischen-11293352.html",
+      "image_title": "Makey:Lab"
+    },
+    {
       "title": "Fototour durch Djursland: Architektur und Natur zwischen Ebeltoft und Aarhus",
       "teaser": "Mit seinen historischen Städten, Küstenlandschaften und Nationalparks bietet Dänemark einzigartige Motive für die Landschafts- und Architekturfotografie.",
       "url": "https://www.heise.de/ratgeber/Fototour-durch-Djursland-Architektur-und-Natur-zwischen-Ebeltoft-und-Aarhus-11285292.html",
@@ -380,6 +397,11 @@
       "url": "https://www.heise.de/ratgeber/Ein-Blick-auf-den-Inhalt-der-EFI-System-Partition-11269203.html"
     },
     {
+      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
+      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
+    },
+    {
       "title": "Medizinregister: Psychotherapeuten warnen vor umfangreichen Gesundheitsprofilen",
       "teaser": "Das Deutsche Psychotherapeuten Netzwerk warnt vor wachsender Zusammenführung und Nutzung sensibler Gesundheitsdaten und Auswirkungen auf die Schweigepflicht.",
       "url": "https://www.heise.de/news/Medizinregistergesetz-Psychotherapeuten-warnen-vor-Datennutzung-ohne-Zustimmung-11295311.html",
@@ -396,11 +418,6 @@
       "teaser": "Die vierte Preview bringt neue Methoden in bestehenden Klassen der .NET-Basisklassenbibliothek sowie eine neue Konfigurationsdatei für Entity Framework Core.",
       "url": "https://www.heise.de/news/NET-11-0-Preview-4-Ein-bunter-Strauss-von-API-Erweiterungen-11294727.html",
       "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "NIS2 erfolgreich umsetzen: Von der Pflicht zur gelebten IT-Sicherheit",
-      "teaser": "Wer von NIS2 betroffen ist, braucht mehr als Tools und Checklisten – es geht um Prozesse, Verantwortlichkeiten und nachhaltige Compliance. Wie das gelingt, erfahren Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/nis-2-erfolgreich-umsetzen-von-der-pflicht-zur-gelebten-it-sicherheit-5039/?source=hbsadersatz"
     },
     {
       "title": "Post zum Freitag: Europas Raumfahrt, KI-Tools und effiziente Mini-PCs",
@@ -444,36 +461,19 @@
       "image_title": "Microsoft Copilot Logo auf Mosaik-Hintergrund"
     },
     {
-      "title": "CarPlay: Verbesserungen bei bekannten Apps – und einige Neuheiten",
-      "teaser": "Nutzer der iPhone-Fahrzeugintegration sollten einen Blick in den App Store werfen: Mehrere iOS-Tools wurden überarbeitet oder kommen erstmals auf die Plattform.",
-      "url": "https://www.heise.de/news/CarPlay-Verbesserungen-bei-bekannten-Apps-und-einige-Neuheiten-11294983.html",
-      "image_title": "Fahrzeug mit CarPlay (hier ein Rechtslenker)"
-    },
-    {
-      "title": "Alert„Fragnesia“: Nächste Rechteausweitungslücke im Linux-Kernel",
-      "teaser": "Microsoft warnt vor einer weiteren Variante der CopyFail-Lücke namens „Fragnesia“ im Linux-Kernel. Sie verschafft root-Rechte.",
-      "url": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html",
-      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
-    },
-    {
-      "title": "Nach langem Warten: AMD bringt FSR 4.1 für ältere Grafikkarten",
-      "teaser": "Radeon-GPUs der Serien RX 7000 und RX 6000 bekommen AMDs KI-Upscaler FSR 4.1. Davon profitieren auch das Steam Deck und die Steam Machine.",
-      "url": "https://www.heise.de/news/Nach-langem-Warten-AMD-bringt-FSR-4-1-fuer-aeltere-Grafikkarten-11295008.html",
-      "image_title": "Mehrere Grafikkarten von oben auf roter Unterlage"
-    },
-    {
       "title": "Apple untersucht von Claude Mythos entdecktes macOS-Problem",
       "url": "https://www.heise.de/news/Sicherheitsfirma-Claude-Mythos-findet-macOS-Exploit-11294837.html",
       "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
     },
     {
+      "title": "Alert„Fragnesia“: Nächste Rechteausweitungslücke im Linux-Kernel",
+      "url": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html",
+      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
+    },
+    {
       "title": "Bericht: OpenAI verärgert über Apple-Partnerschaft, könnte klagen",
       "url": "https://www.heise.de/news/Bericht-OpenAI-veraergert-ueber-Apple-Partnerschaft-koennte-klagen-11294733.html",
       "image_title": "Sam Altman vor Leinwand mit OpenAI-Schriftzug."
-    },
-    {
-      "title": "Verbraucherzentrale: Klage gegen Glasfaseranbieter wegen Vertragsklauseln",
-      "url": "https://www.heise.de/news/Verbraucherzentrale-Klage-gegen-Glasfaseranbieter-wegen-Vertragsklauseln-11294407.html"
     },
     {
       "title": "Ungeplantes Geoengineering: Aufbau von Starlink & Co. mit Folgen für Atmosphäre",
@@ -490,6 +490,11 @@
       "image_title": "Eine mit KiCad entworfene Platine"
     },
     {
+      "title": "CarPlay: Verbesserungen bei bekannten Apps – und einige Neuheiten",
+      "url": "https://www.heise.de/news/CarPlay-Verbesserungen-bei-bekannten-Apps-und-einige-Neuheiten-11294983.html",
+      "image_title": "Fahrzeug mit CarPlay (hier ein Rechtslenker)"
+    },
+    {
       "title": "Mehr KI und neue Optik: Google aktualisiert Android Auto und Automotive",
       "url": "https://www.heise.de/news/Android-Auto-Mehr-Gemini-KI-und-immersive-Navigation-kommen-11291808.html",
       "image_title": "Android Auto Bildschirm mit verschiedenen Elementen"
@@ -497,11 +502,6 @@
     {
       "title": "iOS 27: Apple öffnet die Kamera-App für Profi-Fotografen",
       "url": "https://www.heise.de/news/Bericht-Apple-plant-frei-konfigurierbare-Kamera-App-in-iOS-27-11294171.html"
-    },
-    {
-      "title": "UpdateSicherheitsfixes: Warum man schnell auf iOS 26.5 & Co. aktualisieren sollte",
-      "url": "https://www.heise.de/news/macOS-26-5-iOS-26-5-und-Co-Apple-stopft-zahlreiche-Sicherheitsluecken-11290897.html",
-      "image_title": "Aktualisierung auf einem iPhone"
     },
     {
       "title": "125 Jahre Royal Enfield – Die große Unbekannte",
@@ -524,14 +524,13 @@
       "image_title": "JCB Hydromax Hochgeschwindigkeitsfahrzeug"
     },
     {
+      "title": "Verbraucherzentrale: Klage gegen Glasfaseranbieter wegen Vertragsklauseln",
+      "url": "https://www.heise.de/news/Verbraucherzentrale-Klage-gegen-Glasfaseranbieter-wegen-Vertragsklauseln-11294407.html"
+    },
+    {
       "title": "Gartner: Souveräne Cloud nur in USA und China möglich",
       "url": "https://www.heise.de/news/Gartner-Souveraene-Cloud-nur-in-USA-und-China-moeglich-11292520.html",
       "image_title": "Eine zerfallende Wolke in Form der EU-Flagge vor einem dunklen, stürmischen Himmel."
-    },
-    {
-      "title": "Warum Prepaid-Handys an Bedeutung verlieren",
-      "url": "https://www.heise.de/news/Prepaid-Handys-kommen-aus-der-Mode-11292652.html",
-      "image_title": "Person hält Handy in Hand"
     },
     {
       "title": "1&1 muss Pornhub und YouPorn sperren, sagt auch das Oberverwaltungsgericht",
@@ -625,20 +624,20 @@
       "url": "https://www.heise.de/en/news/Microsoft-Exchange-Zero-day-vulnerability-is-being-attacked-11295808.html"
     },
     {
+      "title": "c’t uplinkZoff um Office als Open Source",
+      "teaser": "Es gibt Vorwürfe zwischen Document Foundation und Collabora. Und: Was war los bei OnlyOffice, Nextcloud und Ionos?",
+      "url": "https://www.heise.de/news/Zoff-um-Open-Source-Office-Loesungen-c-t-uplink-11294958.html"
+    },
+    {
       "title": "Alexa+: Amazons generative KI für das Smart Home ausprobiert",
       "teaser": "Weniger „Das habe ich nicht verstanden“: Alexa+ bringt generative KI ins Smart Home – mit großen Versprechen, aber auch mit größeren Risiken.",
       "url": "https://www.heise.de/hintergrund/Alexa-Amazons-generative-KI-fuer-das-Smart-Home-ausprobiert-11280967.html"
     },
     {
-      "title": "Wie Sie im Urlaub in Nicht-EU-Ländern günstig surfen und telefonieren",
-      "teaser": "Roaming außerhalb der EU ist eine Kostenfalle, mit Datenoptionen, Urlaubstarifen oder lokalen SIMs spart man viel Geld. Besonders einfach ist es mit einer eSIM.",
-      "url": "https://www.heise.de/tests/Wie-Sie-im-Urlaub-in-Nicht-EU-Laendern-guenstig-surfen-und-telefonieren-11160876.html"
-    },
-    {
-      "title": "c’t-Webinar: Keine Angst vor Linux – so klappt der Wechsel",
-      "teaser": "Das c’t-Webinar vermittelt die Grundlagen für den Umstieg auf Linux: Auswahl der Distribution, Installation, Software-Verwaltung und Alltagsnutzung.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Keine-Angst-vor-Linux-so-klappt-der-Wechsel-11285784.html",
-      "image_title": "3D-animierter Pinguin mit offenem Schnabel und vier roten Herzsymbolen vor blauem Hintergrund"
+      "title": "Google vs. Wildberger: Wie der Bund US-Konzerne aus Staatsaufträgen drängen will",
+      "teaser": "Deutschland versucht, digitale Souveränität bei Staatsaufträgen mitzudenken. In einem aktuellen Fall wehrt sich Google per Beschwerde und womöglich vor Gericht.",
+      "url": "https://www.heise.de/hintergrund/Google-vs-Wildberger-Wie-der-Bund-US-Konzerne-aus-Staatsauftraegen-draengen-will-11284765.html",
+      "image_title": "Karsten Wildberger"
     },
     {
       "title": "Raus aus der WolkeSo funktionieren Apples lokale KI-Modelle",
@@ -718,6 +717,11 @@
       "image_title": ", Vanessa Bahr / iX"
     },
     {
+      "title": "Missing LinkMonorails, Magnet- und Seilbahnen: Gadgetbahnen oder sinnvolle Systeme?",
+      "teaser": "Magnetbahnen und Monorails werden oft als „Gadgetbahnen“ verspottet. Doch viele haben ihre Berechtigung – wenn der Einsatzzweck stimmt.",
+      "url": "https://www.heise.de/hintergrund/Monorails-Magnet-und-Seilbahnen-Gadgetbahnen-oder-sinnvolle-Systeme-11295635.html"
+    },
+    {
       "title": "Ausprobiert: Autonom fahren ohne Lenkrad mit Zoox in Las Vegas",
       "teaser": "Die Amazon-Tochter Zoox schickt in Nevada eine ganze Flotte eigenentwickelter Robotaxis auf die Straße. Wir sind mitgefahren – und vergleichen mit Google Waymo.",
       "url": "https://www.heise.de/hintergrund/Ausprobiert-Autonom-fahren-ohne-Lenkrad-mit-Zoox-in-Las-Vegas-11265077.html",
@@ -736,28 +740,22 @@
       "image_title": "VW-Werk Emden"
     },
     {
-      "title": "Google Maps mit Kauf-Button für S-Bahnen und Regionalzüge",
-      "teaser": "Wie komme ich schnell von A nach B? Navi-Apps zeigen mehrere Verkehrsmittel als Optionen. Regionalzüge kommen bei Google Maps nun etwas besser zur Geltung.",
-      "url": "https://www.heise.de/news/Google-Maps-mit-Kauf-Button-fuer-S-Bahnen-und-Regionalzuege-11292572.html",
-      "image_title": "Tangermuende,,Germany,-,July,2014:,A,Woman,Cyclist,Going,With"
-    },
-    {
       "title": "Trockener als zur Dust Bowl: Die USA verdorren im Rekordtempo",
       "teaser": "Die USA trocknen so schnell aus wie seit Jahrzehnten nicht – und ein bisher kaum beachteter Messwert zeigt, warum es diesmal anders ist.",
       "url": "https://www.heise.de/article/Trockener-als-zur-Dust-Bowl-Die-USA-verdorren-im-Rekordtempo-11295743.html",
       "image_title": "Karte der USA mit farbigen Zonen, die Trockenheit anzeigen, und blauen Linien für Flüsse."
     },
     {
-      "title": "Osterinsel: Klimaschock und Kolonialismus statt Ökozid",
-      "teaser": "Die Osterinsel galt lange als Beispiel für selbstverschuldeten Untergang. Doch dieses Narrativ ist unhaltbar, wie die neuere Forschung zeigt.",
-      "url": "https://www.heise.de/article/Osterinsel-Klimaschock-und-Kolonialismus-statt-Oekozid-11288387.html",
-      "image_title": "Große, schroff-felsige Erhebung über grünem Hang."
+      "title": "Kartellamt zerlegt Reiches Kraftwerksgesetz",
+      "teaser": "Das Kartellamt sieht Batteriespeicher faktisch ausgesperrt – und warnt vor einem Gesetz, das etablierte Anbieter bevorzugt.",
+      "url": "https://www.heise.de/article/Kartellamt-zerlegt-Reiches-Kraftwerksgesetz-11290659.html",
+      "image_title": "Deutschlandkarte als Spielbrett mit Spielfiguren in Form von Windrädern, Strommasten, Batterien, Karaftwerken und Gastanks"
     },
     {
-      "title": "Alarmstufe Rot im Rathaus: Wirtschaftswachstum rettet Kommunen nicht mehr",
-      "teaser": "Deutscher Städtetag warnt vor drohender Handlungsunfähigkeit. Ölpreise gießen Öl ins Feuer. Paritätischer Wohlfahrtsverband fürchtet Kahlschlag im Sozialen.",
-      "url": "https://www.heise.de/article/Alarmstufe-Rot-im-Rathaus-Wirtschaftswachstum-rettet-Kommunen-nicht-mehr-11293984.html",
-      "image_title": "Grafik zeigt Schere, einen roten Pfeil nach unten und öffentliche Gebäude"
+      "title": "Schweizer Endlichkeit? Was hinter der 10-Millionen-Initiative steht",
+      "teaser": "Eine Zahl als Weltanschauung: Die SVP will die Schweiz abschotten. Bevölkerung begrenzen, Bilaterale EU-Abkommen begraben. Doch was wird damit gelöst?",
+      "url": "https://www.heise.de/article/Schweizer-Endlichkeit-Was-hinter-der-10-Millionen-Initiative-steht-11291788.html",
+      "image_title": "SVP Plakate in einer Innenstadt"
     },
     {
       "title": "Gehirn als Schwamm: Wie Bauchmuskeltraining die „Spülmaschine“ im Kopf aktiviert",
