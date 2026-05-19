@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-19T06:08:31",
+  "timestamp": "2026-05-19T10:28:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "AlertMicrosoft AuthenticatorLücke ermöglicht unbefugten Zugriff",
-      "teaser": "Microsoft warnt vor einer Sicherheitslücke im Authenticator. Angreifer können Sign-in-Token abgreifen und damit Zugriff erlangen.",
-      "url": "https://www.heise.de/news/Microsoft-Authenticator-Kritische-Sicherheitsluecke-ermoeglicht-Token-Diebstahl-11296717.html",
-      "image_title": "Microsoft-Authenticator-Icon neben Achtung-Schild vor blauem Mosaik-Hintergrund"
+      "title": "AlertNGINXDoS-Lücke wird angegriffen",
+      "teaser": "In NGINX Open Source und NGINX Plus von F5 klaffen Sicherheitslücken. Eine wird bereits attackiert und führt zu DoS-Zuständen.",
+      "url": "https://www.heise.de/news/NGINX-DoS-Luecke-wird-angegriffen-11298217.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette ATTACK"
     },
     {
       "title": "heise security Tour 2026: Mittwoch geht’s los - jetzt noch buchenKI, Identität, Monitoring und Lieferketten",
@@ -31,11 +31,12 @@
       "url": "https://www.heise.de/news/Naechste-Woche-heise-security-Tour-zu-KI-Identitaet-Monitoring-und-Lieferketten-11278197.html"
     },
     {
-      "title": "AlertPostgreSQLUpdates stopfen hochriskante Sicherheitslecks",
-      "url": "https://www.heise.de/news/PostgreSQL-Updates-stopfen-hochriskante-Sicherheitslecks-11297485.html"
+      "title": "AlertServer-Admin-Tool: Angreifer können 2FA von Webmin umgehen",
+      "url": "https://www.heise.de/news/Server-Admin-Tool-2FA-von-Webmin-umgehbar-11298189.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
-      "title": "Special: Schwarzwalddogs in Köln und Stuttgart im Einsatz!heise security Tour 2026",
+      "title": "Es geht los!heise security Tour 2026",
       "url": "https://security-tour.heise.de/?wt_mc=intern.conf.security.konf_sectour.hs_teaser.teaser.teaser"
     },
     {
@@ -45,6 +46,18 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "UpdateCyberangriff Grafana: Erpresser kopieren Codebasis und drohen mit Leak",
+      "teaser": "Bei Grafana Labs gab es einen IT-Sicherheitsvorfall. Dabei konnten Angreifer interne Daten kopieren. Nun fordern sie Lösegeld.",
+      "url": "https://www.heise.de/news/Cyberattacke-Angreifer-kopieren-Sourcecode-von-Grafana-11298389.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
+    },
+    {
+      "title": "AlertServer-Admin-Tool: Angreifer können 2FA von Webmin umgehen",
+      "teaser": "Webmin ist über mehrere Sicherheitslücken angreifbar. Neben 2FA- sind auch root-Attacken möglich. Nun haben die Entwickler Sicherheitspatches veröffentlicht.",
+      "url": "https://www.heise.de/news/Server-Admin-Tool-2FA-von-Webmin-umgehbar-11298189.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
     },
     {
       "title": "Niedersachsen: Datenabfluss bei Wirtschaftsprüferverein im Gesundheitswesen",
@@ -117,28 +130,16 @@
       "image_title": "Logo des Browsers Microsoft Edge mit Schriftzug Update"
     },
     {
+      "title": "AlertMicrosoft Authenticator: Lücke ermöglicht unbefugten Zugriff",
+      "teaser": "Microsoft warnt vor einer Sicherheitslücke im Authenticator. Angreifer können Sign-in-Token abgreifen und damit Zugriff erlangen.",
+      "url": "https://www.heise.de/news/Microsoft-Authenticator-Kritische-Sicherheitsluecke-ermoeglicht-Token-Diebstahl-11296717.html",
+      "image_title": "Microsoft-Authenticator-Icon neben Achtung-Schild vor blauem Mosaik-Hintergrund"
+    },
+    {
       "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
       "teaser": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11280571.html",
       "image_title": "Serverschrank in Metallketten, die mit einem Vorhängeschloss gesichert sind, Geldbündel davor gestapelt, einige Scheine wehen umher"
-    },
-    {
-      "title": "AlertMicrosoft Exchange: Zero-Day-Lücke wird angegriffen",
-      "teaser": "In Microsofts Exchange klafft eine Zero-Day-Lücke, die Angreifer bereits missbrauchen. Admins sollten rasch handeln.",
-      "url": "https://www.heise.de/news/Microsoft-Exchange-Zero-Day-Luecke-wird-angegriffen-11295799.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Privilegienausweitung in Linux: Lokale Nutzer können fremde Dateien lesen",
-      "teaser": "Die Sicherheitslücke ist seit Jahren bekannt, behoben wurde sie erst am Donnerstag. Nur Stunden später gibt es einen Exploit, derweil rüstet das Kernelteam auf.",
-      "url": "https://www.heise.de/news/Privilegienausweitung-in-Linux-Lokale-Nutzer-koennen-fremde-Dateien-lesen-11295751.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
-    },
-    {
-      "title": "Haftbefehl abgelehnt: KI-Treffer ist für Richter nur ein vager Hinweis",
-      "teaser": "Ein Amtsgericht bremst den Einsatz von Gesichtserkennung und stärkt die Rechte von Beschuldigten gegenüber undurchsichtigen IT-Ermittlungswerkzeugen.",
-      "url": "https://www.heise.de/news/Haftbefehl-abgelehnt-KI-Treffer-ist-fuer-Richter-nur-ein-vager-Hinweis-11295643.html",
-      "image_title": "Kamera an einer weißen Decke"
     },
     {
       "title": "Workshop | 02.06. – 03.06.2026DHCP-Automatisierung mit Kea und Stork",
