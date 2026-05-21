@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-21T06:08:17",
+  "timestamp": "2026-05-21T10:27:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
-      "title": "Nach 19 JahrenAngriffe über Lücken überholen die mit gestohlenen Zugangsdaten",
-      "teaser": "Fast 20 Jahre hat man bei Verizon mehr Cyberangriffe mittels gestohlener Zugangsdaten als solche über Sicherheitslücken gezählt. In der KI-Ära ändert sich das.",
-      "url": "https://www.heise.de/news/KI-Aera-Laut-Verizon-mehr-Angriffe-ueber-Luecken-als-mit-gestohlenen-Zugangsdaten-11299991.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "PrivatsphäreDiscord standardmäßig mit Ende-zu-Ende-Verschlüsselung – für Anrufe",
-      "teaser": "Ende-zu-Ende-Verschlüsselung soll Anbieter und Angreifer im Netz hindern, sensible Inhalte einzusehen. Discord aktiviert das für Anrufe.",
-      "url": "https://www.heise.de/news/Discord-standardmaessig-mit-Ende-zu-Ende-Verschluesselung-fuer-Anrufe-11300087.html",
-      "image_title": "Smartphone mit Discord-App darauf, im Hintergrund Controller und Tastatur"
-    },
-    {
-      "title": "AlertAttackierte MS-Defender-Lücken und BitLocker-Schutzmaßnahmen",
+      "title": "AlertCISA-WarnungAttackierte MS-Defender-Lücken und BitLocker-Schutzmaßnahmen",
+      "teaser": "Die CISA warnt vor Angriffen auf teils 18 Jahre alte Microsoft-Lücken. Patches und Gegenmaßnahmen schaffen Abhilfe.",
       "url": "https://www.heise.de/news/Attackierte-MS-Defender-Luecken-und-BitLocker-Schutzmassnahmen-11301580.html",
       "image_title": "Achtung-Schild neben Windows-Logo auf Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "AlertBrowser-UpdatesChrome, Firefox und Thunderbird stopfen Sicherheitslecks",
+      "teaser": "Aktualisierungen für die Webbrowser Chrome und Firefox sowie das Mailprogramm Thunderbird stopfen teils kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Browser-Updates-Chrome-Firefox-und-Thunderbird-stopfen-Sicherheitslecks-11301606.html",
+      "image_title": "Achtung-Schild neben verzerrten Chrome-, Firefox- und Thunderbird-Logo"
+    },
+    {
+      "title": "AlertGrafikkartentreiber von Nvidia unter Linux und Windows angreifbar",
+      "url": "https://www.heise.de/news/Grafikkartentreiber-von-Nvidia-unter-Linux-und-Windows-angreifbar-11301854.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "Es geht los!heise security Tour 2026",
@@ -49,10 +49,28 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertAttackierte MS-Defender-Lücken und BitLocker-Schutzmaßnahmen",
-      "teaser": "Die CISA warnt vor Angriffen auf teils 18 Jahre alte Microsoft-Lücken. Patches schützen den Defender und Gegenmaßnahmen vor BitLocker-Lücke.",
-      "url": "https://www.heise.de/news/Attackierte-MS-Defender-Luecken-und-BitLocker-Schutzmassnahmen-11301580.html",
-      "image_title": "Achtung-Schild neben Windows-Logo auf Matrix-Regen-Hintergrund"
+      "title": "Anonymisierendes Linux: Tails 7.8 macht Thunderbird zur Zusatzsoftware",
+      "teaser": "Das zum anonymen Surfen im Netz gedachte Linux Tails 7.8 schließt einige Kernel-Lücken und macht Thunderbird zu Zusatzsoftware.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-8-macht-Thunderbird-zur-Zusatzsoftware-11301984.html",
+      "image_title": "Desktop von Tails 7.8 auf einem Notebook"
+    },
+    {
+      "title": "AlertGrafikkartentreiber von Nvidia unter Linux und Windows angreifbar",
+      "teaser": "Nvidia hat 13 Sicherheitslücken in seinem GPU-Treiber für Linux und Windows geschlossen. Weitere Patches sichern vGPU ab.",
+      "url": "https://www.heise.de/news/Grafikkartentreiber-von-Nvidia-unter-Linux-und-Windows-angreifbar-11301854.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "AlertSicherheitspatches Atlassian: Bamboo, Confluence & Co. sind verwundbar",
+      "teaser": "Unter anderem DoS- und Schadcode-Sicherheitslücken bedrohen Anwendungen von Atlassian. Admins sollten die Patches zeitnah installieren.",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Atlassian-Bamboo-Confluence-Co-sind-verwundbar-11301596.html",
+      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "IT-Vorfall: Cybergang Rhysida erpresst Stadt Stuttgart",
+      "teaser": "Die kriminelle Vereinigung Rhysida behauptet, bei der Stadt Stuttgart umfangreiche Dokumente aus der IT geklaut zu haben und will Lösegeld.",
+      "url": "https://www.heise.de/news/Cybergang-Rhysida-behauptet-Datenklau-bei-Stadt-Stuttgart-11301736.html",
+      "image_title": "Darknet-Eintrag bei Rhysida vor Matrix-Regen-Hintergrund"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
@@ -85,6 +103,18 @@
       "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
     },
     {
+      "title": "Discord: Ende-zu-Ende-Verschlüsselung als Standard, aber nur für Anrufe",
+      "teaser": "Ende-zu-Ende-Verschlüsselung soll Anbieter und Angreifer im Netz hindern, sensible Inhalte einzusehen. Discord aktiviert das für Anrufe.",
+      "url": "https://www.heise.de/news/Discord-standardmaessig-mit-Ende-zu-Ende-Verschluesselung-fuer-Anrufe-11300087.html",
+      "image_title": "Smartphone mit Discord-App darauf, im Hintergrund Controller und Tastatur"
+    },
+    {
+      "title": "Nach 19 Jahren: Angriffe über Lücken überholen die mit gestohlenen Zugangsdaten",
+      "teaser": "Fast 20 Jahre hat man bei Verizon mehr Cyberangriffe mittels gestohlener Zugangsdaten als solche über Sicherheitslücken gezählt. In der KI-Ära ändert sich das.",
+      "url": "https://www.heise.de/news/KI-Aera-Laut-Verizon-mehr-Angriffe-ueber-Luecken-als-mit-gestohlenen-Zugangsdaten-11299991.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
       "title": "AlertCMS Drupal: Hochkritisches Drupal-Core-Update für den 20. Mai angekündigt",
       "teaser": "Für Drupal Core erscheint am Abend des Mittwochs, 20. Mai, ein dringendes Sicherheitsupdate. Admins sollten es zügig installieren.",
       "url": "https://www.heise.de/news/CMS-Drupal-Hochkritisches-Drupal-Core-Update-fuer-den-20-Mai-angekuendigt-11300021.html",
@@ -112,36 +142,6 @@
       "title": "Alertnpm-Wurm Shai-Hulud: Angriff der Klone",
       "teaser": "Die Malware-Autoren hinter dem npm-Wurm Shai-Hulud haben die Quelltexte veröffentlicht. Nun erscheinen die ersten Klone.",
       "url": "https://www.heise.de/news/npm-Wurm-Shai-Hulud-Angriff-der-Klone-11299094.html"
-    },
-    {
-      "title": "iX-Workshop: Industrial Security nach IEC 62443 – Ein Praxisleitfaden",
-      "teaser": "IEC 62443 für industrielle Automatisierungs- und Steuerungssysteme – Wie Sie Ihre Produktentwicklung von Anfang an sicher und normenkonform gestalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Industrial-Security-nach-IEC-62443-Ein-Praxisleitfaden-11288860.html",
-      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
-    },
-    {
-      "title": "AlertBigBlueButton: Mehrere Sicherheitslücken geschlossen",
-      "teaser": "Mehrere Sicherheitslücken in BigBlueButton ermöglichen Angreifern, Netze auszuforschen oder sich als andere User auszugeben.",
-      "url": "https://www.heise.de/news/BigBlueButton-Mehrere-Sicherheitsluecken-geschlossen-11298922.html",
-      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
-    },
-    {
-      "title": "UpdateCyberangriff Grafana: Erpresser kopieren Codebasis und drohen mit Leak",
-      "teaser": "Bei Grafana Labs gab es einen IT-Sicherheitsvorfall. Dabei konnten Angreifer interne Daten kopieren. Nun fordern sie Lösegeld.",
-      "url": "https://www.heise.de/news/Cyberattacke-Angreifer-kopieren-Sourcecode-von-Grafana-11298389.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
-    },
-    {
-      "title": "AlertServer-Admin-Tool: Angreifer können 2FA von Webmin umgehen",
-      "teaser": "Webmin ist über mehrere Sicherheitslücken angreifbar. Neben 2FA- sind auch root-Attacken möglich. Nun haben die Entwickler Sicherheitspatches veröffentlicht.",
-      "url": "https://www.heise.de/news/Server-Admin-Tool-2FA-von-Webmin-umgehbar-11298189.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "AlertNGINX: DoS-Lücke wird angegriffen",
-      "teaser": "In NGINX Open Source und NGINX Plus von F5 klaffen Sicherheitslücken. Eine wird bereits attackiert und führt zu DoS-Zuständen.",
-      "url": "https://www.heise.de/news/NGINX-DoS-Luecke-wird-angegriffen-11298217.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette ATTACK"
     },
     {
       "title": "Workshop | 02.06. – 03.06.2026DHCP-Automatisierung mit Kea und Stork",
