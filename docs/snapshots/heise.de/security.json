@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-22T06:36:49",
+  "timestamp": "2026-05-22T10:13:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Notepad++Update bessert Schwachstelle im Installer aus",
+      "teaser": "Ein Update für Notepad++ schließt eine Sicherheitslücke im Installer. Noch fehlt ein offizieller CVE-Eintrag mit Risikobewertung.",
+      "url": "https://www.heise.de/news/Notepad-Update-bessert-Schwachstelle-im-Installer-aus-11303525.html",
+      "image_title": "Notepad++-Logo neben Achtung-Schild"
+    },
+    {
       "title": "IT-VorfallCybergang Rhysida erpresst Stadt Stuttgart",
       "teaser": "Die Kriminellen von Rhysida behaupten, bei der Stadt Stuttgart umfangreiche Dokumente aus der IT geklaut zu haben und wollen Lösegeld.",
       "url": "https://www.heise.de/news/Cybergang-Rhysida-behauptet-Datenklau-bei-Stadt-Stuttgart-11301736.html",
       "image_title": "Darknet-Eintrag bei Rhysida vor Matrix-Regen-Hintergrund"
     },
     {
-      "title": "AlertCISA-WarnungAttackierte MS-Defender-Lücken und BitLocker-Schutzmaßnahmen",
-      "teaser": "Die CISA warnt vor Angriffen auf teils 18 Jahre alte Microsoft-Lücken. Patches und Gegenmaßnahmen schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Attackierte-MS-Defender-Luecken-und-BitLocker-Schutzmassnahmen-11301580.html",
-      "image_title": "Achtung-Schild neben Windows-Logo auf Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertTrend Micro Apex One und Langflow: Warnung vor Angriffen",
-      "url": "https://www.heise.de/news/Schwachstellen-in-Trend-Micro-Apex-One-und-Langflow-unter-Beschuss-11303311.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+      "title": "AlertApache-Airflow-Komponenten: Angreifer können Datenbank modifizieren",
+      "url": "https://www.heise.de/news/Apache-Airflow-Komponenten-Angreifer-koennen-Datenbank-modifizieren-11303487.html",
+      "image_title": "Eine symbolische Updateerinnerung."
     },
     {
       "title": "Es geht los!heise security Tour 2026",
@@ -47,6 +47,23 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 im Unternehmen",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-im-Unternehmen-11274747.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "AlertApache-Airflow-Komponenten: Angreifer können Datenbank modifizieren",
+      "teaser": "In Apache Airflow CNCF Kubernetes Provider und Apache Airflow Amazon Provider haben die Entwickler jeweils eine Sicherheitslücke geschlossen.",
+      "url": "https://www.heise.de/news/Apache-Airflow-Komponenten-Angreifer-koennen-Datenbank-modifizieren-11303487.html",
+      "image_title": "Eine symbolische Updateerinnerung."
+    },
+    {
+      "title": "AlertCisco stopft Sicherheitsleck mit Höchstwertung in Secure Workload",
+      "teaser": "Cisco stellt ein Update bereit, das eine Sicherheitslücke mit höchstmöglicher Risikoeinschätzung in Secure Workload schließt.",
+      "url": "https://www.heise.de/news/Cisco-stopft-Sicherheitsleck-mit-Hoechstwertung-in-Secure-Workload-11303363.html"
     },
     {
       "title": "AlertTrend Micro Apex One und Langflow: Warnung vor Angriffen",
@@ -97,6 +114,12 @@
       "image_title": "Achtung-Schild neben verzerrten Chrome-, Firefox- und Thunderbird-Logo"
     },
     {
+      "title": "AlertAttackierte MS-Defender-Lücken und BitLocker-Schutzmaßnahmen",
+      "teaser": "Die CISA warnt vor Angriffen auf teils 18 Jahre alte Microsoft-Lücken. Patches schützen den Defender und Gegenmaßnahmen vor BitLocker-Lücke.",
+      "url": "https://www.heise.de/news/Attackierte-MS-Defender-Luecken-und-BitLocker-Schutzmassnahmen-11301580.html",
+      "image_title": "Achtung-Schild neben Windows-Logo auf Matrix-Regen-Hintergrund"
+    },
+    {
       "title": "iX-Workshop IT-Sicherheit: Pentests methodisch planen, anfordern und analysieren",
       "teaser": "Schritt für Schritt zum sicheren System: Penetrationstests methodisch planen, beauftragen und auswerten, um Schwachstellen in der eigenen IT aufzuspüren.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Pentests-methodisch-planen-anfordern-und-analysieren-11288872.html",
@@ -119,30 +142,6 @@
       "teaser": "Canonical bietet im IoT-Linux Ubuntu Core in Version 26 optimierte OTA-Updates, Live-Kernel-Patching und bis zu 15 Jahre Sicherheitsupdates.",
       "url": "https://www.heise.de/news/IoT-Linux-Ubuntu-Core-Version-26-liefert-15-Jahre-Updates-11300222.html",
       "image_title": "Ubuntu-Schriftzug mit \"Update\"-Stempel"
-    },
-    {
-      "title": "AlertNode.js: Vier kritische Sicherheitslücken mit Höchstwertung in vm2 geschlossen",
-      "teaser": "Angreifer können abermals aus der Node.js-Sandbox vm2 ausbrechen und Schadcode im Hostsystem ausführen. Sicherheitsupdates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Node-js-Vier-kritische-Sicherheitsluecken-mit-Hoechstwertung-in-vm2-geschlossen-11300256.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "Discord: Ende-zu-Ende-Verschlüsselung als Standard, aber nur für Anrufe",
-      "teaser": "Ende-zu-Ende-Verschlüsselung soll Anbieter und Angreifer im Netz hindern, sensible Inhalte einzusehen. Discord aktiviert das für Anrufe.",
-      "url": "https://www.heise.de/news/Discord-standardmaessig-mit-Ende-zu-Ende-Verschluesselung-fuer-Anrufe-11300087.html",
-      "image_title": "Smartphone mit Discord-App darauf, im Hintergrund Controller und Tastatur"
-    },
-    {
-      "title": "Nach 19 Jahren: Angriffe über Lücken überholen die mit gestohlenen Zugangsdaten",
-      "teaser": "Fast 20 Jahre hat man bei Verizon mehr Cyberangriffe mittels gestohlener Zugangsdaten als solche über Sicherheitslücken gezählt. In der KI-Ära ändert sich das.",
-      "url": "https://www.heise.de/news/KI-Aera-Laut-Verizon-mehr-Angriffe-ueber-Luecken-als-mit-gestohlenen-Zugangsdaten-11299991.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "AlertCMS Drupal: Hochkritisches Drupal-Core-Update für den 20. Mai angekündigt",
-      "teaser": "Für Drupal Core erscheint am Abend des Mittwochs, 20. Mai, ein dringendes Sicherheitsupdate. Admins sollten es zügig installieren.",
-      "url": "https://www.heise.de/news/CMS-Drupal-Hochkritisches-Drupal-Core-Update-fuer-den-20-Mai-angekuendigt-11300021.html",
-      "image_title": "Röt leuchtendes Warndreieck auf einem futuristisch leuchtendem Display"
     },
     {
       "title": "Workshop | 02.06. – 03.06.2026DHCP-Automatisierung mit Kea und Stork",
@@ -199,12 +198,12 @@
       "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
     },
     {
-      "title": "Nächste Rechteausweitungslücke im Linux-Kernel",
-      "url": "https://www.heise.de/news/Fragnesia-Microsoft-warnt-vor-weiterer-Rechteausweitungsluecke-in-Linux-11294817.html"
-    },
-    {
       "title": "Lücke ermöglicht unbefugten Zugriff",
       "url": "https://www.heise.de/news/Microsoft-Authenticator-Kritische-Sicherheitsluecke-ermoeglicht-Token-Diebstahl-11296717.html"
+    },
+    {
+      "title": "KI-Treffer ist für Richter nur ein vager Hinweis",
+      "url": "https://www.heise.de/news/Haftbefehl-abgelehnt-KI-Treffer-ist-fuer-Richter-nur-ein-vager-Hinweis-11295643.html"
     }
   ]
 }
