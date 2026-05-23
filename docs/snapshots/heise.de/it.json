@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T05:30:25",
+  "timestamp": "2026-05-23T08:02:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,25 +20,26 @@
   ],
   "articles": [
     {
+      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Nuitka, Compose Multiplatform, Twig, IntelliJ, Google, Apache, VS Code, Barman und Crossplane.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11301862.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Plaintext statt Notion: Alltag und Beruf mit Textdateien effizient organisieren",
+      "teaser": "Die „Plaintext Productivity“ ist radikal einfach: Simple Textdateien helfen, Alltag und Beruf zu regeln. Nur wenige Regeln sind dafür nötig. Eine Anleitung.",
+      "url": "https://www.heise.de/ratgeber/Plaintext-statt-Notion-Alltag-und-Beruf-mit-Textdateien-effizient-organisieren-11297125.html"
+    },
+    {
       "title": "Sonnenenergie effizient speichern und nutzen | c’t uplink",
       "teaser": "Woher wissen Solarakkus, wie viel Strom der eigene Haushalt gerade benötigt? Im c’t-Podcast erklären wir, wie man sie effizient einspeisen lässt.",
       "url": "https://www.heise.de/news/Sonnenenergie-effizient-speichern-und-nutzen-c-t-uplink-11303877.html"
     },
     {
-      "title": "Patientendaten betroffen: Cyberangriff auf Abrechnungsdienstleister von Kliniken",
-      "teaser": "Ein Cyberangriff auf den Abrechnungsdienstleister Unimed betrifft zahlreiche Unikliniken und sensible Daten von zehntausenden Patienten.",
+      "title": "Cyberangriff auf Abrechnungsdienstleister betrifft viele Kliniken",
+      "teaser": "Ein Cyberangriff auf den Abrechnungsdienstleister Unimed betrifft zahlreiche Kliniken und sensible Daten von zehntausenden Patienten. Unimed hält sich bedeckt.",
       "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html",
       "image_title": "Wartebereich einer Klinik"
-    },
-    {
-      "title": "Lizenzstreit und Cloud-Zwang: Bambu Lab unter massivem Druck",
-      "teaser": "Ein polnischer Entwickler, eine DMCA-Drohung und fünf chinesische Gesetze: Der Streit um Bambu Labs geschlossenes Ökosystem erreicht eine neue Eskalationsstufe.",
-      "url": "https://www.heise.de/news/Bambu-Lab-vs-Community-Streit-um-offene-3D-Drucker-eskaliert-erneut-11304925.html"
-    },
-    {
-      "title": "Windows 11 ist ein kompletter Verkehrsunfall",
-      "teaser": "Windows 11 hat den Ruf, ziemlich fehlerhaft zu sein. Wir wollten wissen: Was genau ist aktuell kaputt?",
-      "url": "https://www.heise.de/news/Windows-11-ist-ein-kompletter-Verkehrsunfall-11304565.html"
     },
     {
       "title": "RatgeberPlaintext statt Notion: Alltag und Beruf mit Textdateien effizient organisieren",
@@ -52,6 +53,16 @@
     {
       "title": "RatgeberPV-Vorhersage für Home Assistant: E-Auto und smarte Geräte effizient laden",
       "url": "https://www.heise.de/ratgeber/PV-Vorhersage-fuer-Home-Assistant-E-Auto-und-smarte-Geraete-effizient-laden-11281519.html"
+    },
+    {
+      "title": "Lizenzstreit und Cloud-Zwang: Bambu Lab unter massivem Druck",
+      "teaser": "Ein polnischer Entwickler, eine DMCA-Drohung und fünf chinesische Gesetze: Der Streit um Bambu Labs geschlossenes Ökosystem erreicht eine neue Eskalationsstufe.",
+      "url": "https://www.heise.de/news/Bambu-Lab-vs-Community-Streit-um-offene-3D-Drucker-eskaliert-erneut-11304925.html"
+    },
+    {
+      "title": "Windows 11 ist ein kompletter Verkehrsunfall",
+      "teaser": "Windows 11 hat den Ruf, ziemlich fehlerhaft zu sein. Wir wollten wissen: Was genau ist aktuell kaputt?",
+      "url": "https://www.heise.de/news/Windows-11-ist-ein-kompletter-Verkehrsunfall-11304565.html"
     },
     {
       "title": "Proxmox VE 9.2 mit Dynamic Load Balancer und Linux Kernel 7.0",
@@ -129,17 +140,6 @@
       "teaser": "Auf seiner Hauskonferenz kündigte Camunda für seine Plattform ein Intelligence Layer an, das eigenständig aus Geschäftsprozessen lernen und sie verbessern soll.",
       "url": "https://www.heise.de/news/ProcessOS-Agentisches-Betriebssystem-optimiert-Geschaeftsprozesse-11303557.html",
       "image_title": "Roboter mit Sprachblasen, die Diagramme zeigen; daneben eine Frau"
-    },
-    {
-      "title": "macOS kann bald barrierefreien Sony-Access-Controller nutzen",
-      "teaser": "Menschen mit Behinderungen können seit längerem einen speziellen Sony-Controller für die Playstation nutzen. Apple macht den Access nun auch Mac-fähig.",
-      "url": "https://www.heise.de/news/macOS-kann-bald-barrierefreien-Sony-Access-Controller-nutzen-11301266.html",
-      "image_title": "Sony Access-Controller"
-    },
-    {
-      "title": "Zum Jahresende: Bundestag beschließt Ende der De-Mail",
-      "teaser": "Die De-Mail sollte ursprünglich die digitale Kommunikation mit staatlichen Behörden erleichtern. Wegen geringer Nutzung steht sie jetzt vor dem Aus.",
-      "url": "https://www.heise.de/news/Zum-Jahresende-Bundestag-beschliesst-Ende-der-De-Mail-11303787.html"
     },
     {
       "title": "UpdateNewsDeutsche Bahn verweigert Auskunft für Linuxer",
