@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T15:52:45",
+  "timestamp": "2026-05-23T16:45:30",
   "url": "https://www.faz.net/aktuell/sport/",
   "response": {
     "status": 200
@@ -52,13 +52,33 @@
       "src": "https://www.faz.net/_nuxt/BwDo7u1I.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/dpa/dpa-iframe.js",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
     {
+      "title": "WM-Gastgeber USA: Das Fest und die Schergen",
+      "teaser": "Alexi Lalas war mal der Zottelbart von Team USA 1994. Jetzt wirbt er für eine WM, bei der die Abschiebemaschine nebenher weiterläuft.",
+      "url": "https://www.faz.net/aktuell/sport/fussball-wm/fussball-wm-2026-gastgeber-usa-das-fest-und-die-schergen-glosse-200859391.html"
+    },
+    {
+      "title": "Giro d'Italia: Vingegaard übernimmt Führungstrikot in den Alpen",
+      "teaser": "Beim Giro geht es nach einigen flacheren Aufgaben hoch her. In den italienischen Alpen schnappt sich der dänische Topfavorit den Tagessieg – und das Rosa Trikot des Gesamtführenden.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/giro-d-italia-topfavorit-jonas-vingegaard-uebernimmt-fuehrungstrikot-accg-200862606.html",
+      "image_url": "https://media0.faz.net/image/w1200/b3b2969b3f17/w4961h2791x0y446/202605/43601.0.2132061800/jonas-vingegaard-jubelt-ueber.webp",
+      "image_title": "Jonas Vingegaard jubelt über seinen Etappensieg."
+    },
+    {
       "title": "Happy End beim Pokalfinale?: Goretzka geht bei Bayern nicht als Legende - aber im Guten",
       "teaser": "Nach Jahren zwischen Schlüsselrolle und Ergänzung endet die Münchner Zeit für Leon Goretzka mit dem Pokalabend in Berlin. Und danach könnte der WM-Sommer für den Bochumer Jungen die nächste Pointe bereithalten.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/leon-goretzka-abschied-vom-fc-bayern-neue-wege-accg-200858823.html"
+      "url": "https://www.faz.net/aktuell/sport/fussball/leon-goretzka-abschied-vom-fc-bayern-neue-wege-accg-200858823.html",
+      "image_url": "https://media0.faz.net/image/w1200/e299e7ef4dd2/w2084h1172x0y70/202605/43601.0.2088558454/noch-einmal-im-muenchner.webp",
+      "image_title": "Noch einmal im Münchner Trikot: Für Leon Goretzka endet beim Pokalfinale in Berliner seine Zeit beim FC Bayern."
     },
     {
       "title": "Rennstall in der Misere: Kein Welpenschutz für Audi in der Formel 1",
@@ -71,14 +91,14 @@
       "title": "Behandlung von Promi-Arzt: Der Mediziner, dem Zverev vertraut",
       "teaser": "Rückenschmerzen sind für Alexander Zverev ein wiederkehrendes Problem. Vor den French Open sucht der Weltranglistendritte erneut Hilfe bei Hans-Wilhelm Müller-Wohlfahrt - und hofft, dass die Wirkung diesmal länger hält.",
       "url": "https://www.faz.net/aktuell/sport/french-open/french-open-alexander-zverev-sucht-sich-hilfe-bei-mueller-wohlfahrt-accg-200862033.html",
-      "image_url": "https://media0.faz.net/image/w1200/e996993f578e/w2165h1218x0y126/202605/43601.0.2066840679/nach-der-ersten-spritzkur-von.webp",
+      "image_url": "https://media0.faz.net/image/w1100/e996993f578e/w2165h1218x0y126/202605/43601.0.2066840679/nach-der-ersten-spritzkur-von.webp",
       "image_title": "Nach der ersten Spritzkur von Hans-Wilhelm Müller-Wohlfahrt habe er sich „unglaublich“ gefühlt, sagt Alexander Zverev."
     },
     {
       "title": "FAZ+„Doping-Spiele“ in Las Vegas: Das steckt hinter dem Menschenversuch bei den „Enhanced Games“",
       "teaser": "Die „Enhanced Games“ sollen Peter Thiel, Donald Trump und der Pharmaindustrie vor allem noch mehr Gewinne im Anti-Aging-Geschäft bescheren. Was als Traum verkauft wird, nennt ein Experte „russisches Roulette“.",
       "url": "https://www.faz.net/aktuell/sport/sportpolitik/doping/enhanced-games-menschenversuch-als-milliardenwette-accg-200857318.html",
-      "image_url": "https://media0.faz.net/image/w1200/c90ff2f11811/w2500h1406x0y66/202503/43601.0.886368184/traum-und-mast-schon.webp",
+      "image_url": "https://media0.faz.net/image/w1100/c90ff2f11811/w2500h1406x0y66/202503/43601.0.886368184/traum-und-mast-schon.webp",
       "image_title": "Traum und Mast: Schon Michelangelo hat vor rund 520 Jahren den Körper idealisiert."
     },
     {
@@ -92,15 +112,8 @@
       "title": "WM-NominieRung des DFB: Nagelsmanns Kaderkino",
       "teaser": "Der DFB bietet auf Instagram nostalgisch gefilterte Heimvideos seiner Nationalspieler. Selbst Julian Nagelsmann bekommt ein eigenes Highlight-Reel. Was kommt als Nächstes?",
       "url": "https://www.faz.net/aktuell/sport/fussball-wm/kader-nominierung-fuer-fussball-wm-2026-grosses-kino-von-nagelsmann-200858841.html",
-      "image_url": "https://media0.faz.net/image/w1100/85c39768a71f/w7605h4278x0y59/202605/43601.0.2108450657/herzerwaermende-einspieler.webp",
-      "image_title": "Herzerwärmende Einspieler: Julian Nagelsmann und der DFB wissen, wie Bilder wirken."
-    },
-    {
-      "title": "FAZ+VfB-Trainer Hoeneß: „Ich sehe keinen, der besser ist“",
-      "teaser": "Sebastian Hoeneß hat den VfB Stuttgart verändert und zu einem der erfolgreichsten Klubs der Republik geformt. Wie wurde er selbst zu einem der aufregendsten Trainer? Eine Spurensuche in Berlin.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/vfb-stuttgart-mit-sebastian-hoeness-im-dfb-pokalfinale-keiner-ist-besser-accg-200858603.html",
-      "image_url": "https://media0.faz.net/image/w1100/e2cdaf86c522/w7763h4367x142y568/202605/fc53b48e-536c-11f1-8e72-935af61147ac/lob-uebertrifft-lob-wer-sich.webp",
-      "image_title": "Lob übertrifft Lob: Wer sich mit ehemaligen Wegbegleitern, Spielern oder Trainerkollegen unterhält, hört viel Gutes über Sebastian Hoeneß."
+      "image_url": "https://media0.faz.net/image/w100/1b4f07d37542/w407h407x208y58/201406/1.2973452/christoph-becker.webp",
+      "image_title": "Christoph Becker"
     },
     {
       "title": "Skepsis in Deutschland: WM-Begeisterung gibt es nicht auf Knopfdruck",
@@ -162,11 +175,11 @@
       "image_title": "Christopher Meltzer"
     },
     {
-      "title": "Keine Schiri-Kritik: Wirklich wertvoll",
-      "teaser": "Wer ist der MVP dieser Saison? Michael Olise? Oder doch Andrej Kramarić? Nicht weniger verdient hätte die Kür Joshua Kimmich. Weil er in einem Moment maximaler Aufregung maximale Größe zeigt.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayern-muenchen-warum-joshua-kimmich-der-mvp-der-bundesliga-ist-200826912.html",
-      "image_url": "https://media0.faz.net/image/w100/d2e2e7b2077d/w2784h2784x1380y406/202602/a363fa84-d750-4f60-9c80-36b607875837/christopher-meltzer.webp",
-      "image_title": "Christopher Meltzer"
+      "title": "FAZ+VfB-Trainer Hoeneß: „Ich sehe keinen, der besser ist“",
+      "teaser": "Sebastian Hoeneß hat den VfB Stuttgart verändert und zu einem der erfolgreichsten Klubs der Republik geformt. Wie wurde er selbst zu einem der aufregendsten Trainer? Eine Spurensuche in Berlin.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/vfb-stuttgart-mit-sebastian-hoeness-im-dfb-pokalfinale-keiner-ist-besser-accg-200858603.html",
+      "image_url": "https://media0.faz.net/image/w880/e2cdaf86c522/w7763h4367x142y568/202605/fc53b48e-536c-11f1-8e72-935af61147ac/lob-uebertrifft-lob-wer-sich.webp",
+      "image_title": "Lob übertrifft Lob: Wer sich mit ehemaligen Wegbegleitern, Spielern oder Trainerkollegen unterhält, hört viel Gutes über Sebastian Hoeneß."
     },
     {
       "title": "1:0-Sieg über Fürth: Essen macht ersten Schritt in Richtung zweite Bundesliga",
@@ -176,17 +189,17 @@
       "image_title": "In Essen ist der Jubel nach dem Sieg im Relegationshinspiel inklusive Traumtor riesig."
     },
     {
-      "title": "Nadine Keßler im Gespräch: „Zuschussgeschäft ist das falsche Wort“",
-      "teaser": "UEFA-Funktionärin Nadine Keßler spricht im Interview über die finanziellen Verhältnisse im Fußball der Frauen, Klasse und Masse im Europapokal und neue Dimensionen bei der EM 2029 in Deutschland.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/finanzen-im-frauenfussball-uefa-funktionaerin-nadine-kessler-im-interview-200847723.html",
-      "image_url": "https://media0.faz.net/image/w880/0f88bc52367b/w4624h2601x824y394/202605/c7c1a4b2-5428-11f1-813d-8f2bf5333936/frauen-power-der-fc-barcelona.webp",
-      "image_title": "Frauen-Power: Der FC Barcelona und Olympique Lyon bestreiten am Wochenende das Finale der Champions League."
+      "title": "FAZ+Das Bild des Bundestrainers: Simulierte Selbstkritik",
+      "teaser": "Gegen die Nominierungen von Bundestrainer Julian Nagelsmann für die Fußballweltmeisterschaft gibt es nichts zu sagen. Gegen seine Kommunikation schon.",
+      "url": "https://www.faz.net/aktuell/sport/fussball-wm/deutsches-team/wm-kader-mit-neuer-bundestrainer-nagelsmann-simuliert-selbstkritik-200854843.html",
+      "image_url": "https://media0.faz.net/image/w1200/37a1600fd503/w5830h3279x0y0/202605/43601.0.2108420736/sieht-das-team-geruestet-fuer.webp",
+      "image_title": "Sieht das Team gerüstet für die WM: Bundestrainer Julian Nagelsmann"
     },
     {
       "title": "FAZ+Was bringt es wirklich?: Wie ich auszog, mit einem Personal Trainer fit zu werden",
       "teaser": "Unser Autor und seine Frau gelten für ihr Alter als fit – doch spätes Essen und Wein hinterlassen Spuren. Darum setzen sie auf einen privaten Coach. Wie wirksam ist das? Und was muss man beachten?",
       "url": "https://www.faz.net/aktuell/sport/sport-tipps/fitness-fuer-alle-wie-der-personal-coach-hilft-ziele-zu-erreichen-accg-200813553.html",
-      "image_url": "https://media0.faz.net/image/w920/b34b5746495a/w5700h2442x0y1043/202605/43601.0.2105025846/auch-wer-sonst-nie-faul-war.webp",
+      "image_url": "https://media0.faz.net/image/w1100/ba322f694de1/w5700h3206x0y594/202605/43601.0.2105025846/auch-wer-sonst-nie-faul-war.webp",
       "image_title": "Auch wer sonst nie faul war, wird vom Qualitätsunterschied des Trainings überrascht. (Symbolbild)"
     },
     {
@@ -204,10 +217,17 @@
       "image_title": "Sieht man nicht: Hinter der eleganten Erscheinung von Athletinnen der Rhythmischen Sportgymnastik stecken mitunter menschenverachtende Methoden."
     },
     {
+      "title": "Nadine Keßler im Gespräch: „Zuschussgeschäft ist das falsche Wort“",
+      "teaser": "UEFA-Funktionärin Nadine Keßler spricht im Interview über die finanziellen Verhältnisse im Fußball der Frauen, Klasse und Masse im Europapokal und neue Dimensionen bei der EM 2029 in Deutschland.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/finanzen-im-frauenfussball-uefa-funktionaerin-nadine-kessler-im-interview-200847723.html",
+      "image_url": "https://media0.faz.net/image/w1200/0f88bc52367b/w4624h2601x824y394/202605/c7c1a4b2-5428-11f1-813d-8f2bf5333936/frauen-power-der-fc-barcelona.webp",
+      "image_title": "Frauen-Power: Der FC Barcelona und Olympique Lyon bestreiten am Wochenende das Finale der Champions League."
+    },
+    {
       "title": "Auch Alaba verlässt Madrid: Real-Trainer Arbeloa verkündet Abschied",
       "teaser": "Nach einer titellosen Saison zieht Real-Trainer Arbeloa Konsequenzen. Was er zu seinem Abschied sagt und warum eine Zusammenarbeit mit Mourinho für ihn nicht infrage kommt.",
       "url": "https://www.faz.net/aktuell/sport/fussball/alvaro-arbeloa-und-david-alaba-verlassen-real-madrid-in-der-spanischen-la-liga-200861155.html",
-      "image_url": "https://media0.faz.net/image/w1200/6c05c0399ee5/w4650h2616x0y259/202605/43601.0.2119772492/nach-dieser-saison-ist-schluss.webp",
+      "image_url": "https://media0.faz.net/image/w1100/6c05c0399ee5/w4650h2616x0y259/202605/43601.0.2119772492/nach-dieser-saison-ist-schluss.webp",
       "image_title": "Nach dieser Saison ist Schluss: Cheftrainer Álvaro Arbeloa wird bei den Königlichen nicht weitermachen."
     },
     {
@@ -223,13 +243,6 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bunesliga-relegation-der-sc-paderborn-ist-bereit-fuer-mehr-200859096.html",
       "image_url": "https://media0.faz.net/image/w1100/73c67656d553/w3098h1743x0y103/202605/43601.0.2119341564/mann-der-tat-der-paderborner.webp",
       "image_title": "Mann der Tat: Der Paderborner Torwart Dennis Seimen beherrscht sein Handwerk."
-    },
-    {
-      "title": "Vertrag bis 2028: Wagner bleibt Trainer des 1. FC Köln",
-      "teaser": "Die Entscheidung ist gefallen: Der 1. FC Köln geht mit René Wagner als Trainer in die neue Bundesliga-Saison. Trotz mauer Punkteausbeute hat der 37-Jährige die Klubführung überzeugt.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-koeln-geht-mit-rene-wagner-in-neue-bundesliga-saison-accg-200859605.html",
-      "image_url": "https://media0.faz.net/image/w1100/a03d2b8c2601/w6144h3456x0y320/202605/43601.0.2119963615/seit-maerz-cheftrainer-beim-1.webp",
-      "image_title": "Seit März Cheftrainer beim 1. FC Köln: René Wagner"
     },
     {
       "title": "Wichtiger Erfolg: DEB-Team in Torlaune: Hoffnung auf das Viertelfinale steigt",
