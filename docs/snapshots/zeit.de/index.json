@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T01:51:08",
+  "timestamp": "2026-05-23T05:30:26",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -98,11 +104,11 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); HateAid: Eben noch Vorzeigebürger, nun ein Feindbild",
-      "teaser": "HateAids Kampf gegen Hass im Netz galt lange als vorbildlich. Doch nun sind die Chefinnen selbst Reizfiguren im Kulturkampf. Der könnte am Ende existenzbedrohend werden.",
-      "url": "https://www.zeit.de/2026/23/hateaid-campact-collien-fernandes-anna-lena-von-hodenberg-josephine-ballon",
-      "image_url": "https://img.zeit.de/2026/23/das-eskalierte-schnell-bild-1/wide__1000x562",
-      "image_title": "HateAid: Die Aktivistin und HateAid-Chefin Anna-Lena von Hodenberg (l.) und die Anwältin und Co-Geschäftsführerin Josephine Ballon (r.)"
+      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Was hat unser Land gegen Familien?",
+      "teaser": "Elterngeld runter, Ehegattensplitting weg: Wenn man in Deutschland kürzen will, dann gern bei Eltern mit Kindern. Dass es kaum Gegenwehr gibt, hat tiefwurzelnde Gründe.",
+      "url": "https://www.zeit.de/familie/2026-05/elterngeld-reform-familienpolitik-kuerzungen",
+      "image_url": "https://img.zeit.de/familie/2026-05/elterngeld-reform-familienpolitik/wide__1000x562",
+      "image_title": "Elterngeld: Was hat unser Land gegen Familien?"
     },
     {
       "title": "Sozialreformen: Jens Spahn schließt höheres Elterngeld und Bafög vorerst aus",
@@ -117,25 +123,39 @@
       "url": "https://www.zeit.de/wissen/2026-04/nsdap-mitgliederkartei-karteikarten-familienmitglieder-suche"
     },
     {
-      "title": "Brandmauer zur AfD: Ex-Ministerpräsident Torsten Albig rät SPD zu Zusammenarbeit mit AfD",
-      "teaser": "Angesichts ihrer Wahlerfolge könne die AfD nicht wie »die Ausgeburt der Hölle« behandelt werden, sagt Torsten Albig. Er ruft dazu auf, mit der Partei zusammenzuarbeiten.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/brandmauer-afd-torsten-albig-zusammenarbeit-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-05/afd-brandmauer-torsten-albig/super__430x287",
-      "image_title": "Brandmauer zur AfD: Wahlplakate der AfD hängen an Laternenmasten am Rheinufer. Am Sonntag stehen die Landtagswahlen in Rheinland-Pfalz an."
+      "title": "Liveblog:Irankrieg: USA planen laut Berichten neue Angriffe im Iran",
+      "teaser": "Donald Trump prüft US-Medien zufolge weitere Militärschläge für den Fall, dass die laufenden Gespräche mit dem Iran scheitern. Die EU beschließt Sanktionen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-05/iran-usa-neue-angriffe-geplant-donald-trump-bild-2/super__430x287",
+      "image_title": "Irankrieg: FILE PHOTO: A woman walks past the mural showing U.S. flag with barbed wire and the Statue Of Liberty with skull face in Tehran, Iran June 25, 2019. Nazanin Tabatabaee/Nazanin Tabatabaee/West Asia News Agency via REUTERS. ATTENTION EDITORS - THIS PICTURE WAS PROVIDED BY A THIRD PARTY/File Photo"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); HateAid: Eben noch Vorzeigebürger, nun ein Feindbild",
+      "teaser": "HateAids Kampf gegen Hass im Netz galt lange als vorbildlich. Doch nun sind die Chefinnen selbst Reizfiguren im Kulturkampf. Der könnte am Ende existenzbedrohend werden.",
+      "url": "https://www.zeit.de/2026/23/hateaid-campact-collien-fernandes-anna-lena-von-hodenberg-josephine-ballon",
+      "image_url": "https://img.zeit.de/2026/23/das-eskalierte-schnell-bild-1/super__430x287",
+      "image_title": "HateAid: Die Aktivistin und HateAid-Chefin Anna-Lena von Hodenberg (l.) und die Anwältin und Co-Geschäftsführerin Josephine Ballon (r.)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Allein leben: Ihr Ex-Mann streicht die Wände, dann ist sie allein – und glücklich",
+      "teaser": "Beate Berger verlässt ihren Mann, zieht aus der Doppelhaushälfte aus. Mit den zwei Kindern lebt sie nun in einer kleinen Wohnung. Das Geld ist knapp, aber sie liebt es.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2026-05/alleine-leben-trennung-ehe-kinder-selbstbestimmung",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026-05/alleine-leben-trennung-ehe-kinder-selbstbestimmung-bild-2/wide__892x502",
+      "image_title": "Allein leben: Ihr Ex-Mann streicht die Wände, dann ist sie allein – und glücklich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stephen Colbert: Der Letzte macht das Licht aus",
       "teaser": "Nun hat Stephen Colbert also seine Late-Night-Show beendet, mit einer fabelhaften Sendung und einem perfekten letzten Gast. Und wir verlieren eine Menge.",
       "url": "https://www.zeit.de/feuilleton/film/2026-05/stephen-colbert-late-show-usa-fernsehen",
-      "image_url": "https://img.zeit.de/feuilleton/2026-05/stephen-colbert-late-show-usa/wide__892x502",
+      "image_url": "https://img.zeit.de/feuilleton/2026-05/stephen-colbert-late-show-usa/super__430x287",
       "image_title": "Stephen Colbert: NEW YORK - MAY 21: Stephen Colbert on the CBS series The Late Show with Stephen Colbert"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kink-Party: »Ein solches Gespräch hatte ich nicht erwartet«",
-      "teaser": "Mit Anfang 60 glaubt Teresa nicht mehr an die große Liebe – bis ein Sommerabend auf dem Partyschiff alles ändert. Eine Begegnung, die an ein Wunder grenzt.",
-      "url": "https://www.zeit.de/zeit-magazin/2026/23/kink-party-stuttgart-erotik-partyschiff-alter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026/23/bei-diesen-partys-geht-es-ums-tanzen-um-erotische-erlebnisse-ein-solches-gespraech-hatte-ich-nicht-e-bild-1/wide__892x502",
-      "image_title": "Kink-Party: »Ein solches Gespräch hatte ich nicht erwartet«"
+      "title": "Late-Night-Show: US-Präsident verhöhnt TV-Moderator Stephen Colbert mit Clip",
+      "teaser": "Im Internet hat Donald Trump ein wohl KI-generiertes Video veröffentlicht, in dem er den Comedian Colbert in eine Mülltonne wirft. Auch das Weiße Haus teilte den Beitrag.",
+      "url": "https://www.zeit.de/feuilleton/2026-05/stephen-colbert-donald-trump-ki-clip",
+      "image_url": "https://img.zeit.de/feuilleton/2026-05/weisses-haus-stephen-colbert/super__430x287",
+      "image_title": "Late-Night-Show: Eine Tafel am Theater weist auf die letzte «Late Show» mit Stephen Colbert hin. Im vergangenen Sommer hatte der TV-Sender CBS überraschend angekündigt, die Show abzusetzen."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Manfred Honeck: »Dieses Brennen hat nie aufgehört«",
@@ -159,46 +179,11 @@
       "image_title": "Hygge the Farm: HYGGE the farm"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Nato: Nato 3.0 – aber wer macht mit?",
-      "teaser": "Mark Rutte skizziert in Schweden die »Nato 3.0«. Im Jetzt kämpft das Bündnis mit widersprüchlichen Aussagen zum US-Engagement. Ein fatales Signal in Richtung Moskau.",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/nato-aussenminister-treffen-helsingborg-us-truppen-europa",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/nato-aussenminister-treffen-helsingborg-us-truppen-europa-bild/super__430x287",
-      "image_title": "Nato: NATO Ministers of Foreign Affairs (POLARIS) ///"
-    },
-    {
-      "title": "Lage in der Ukraine: Landbrücke unter Beschuss",
-      "teaser": "Die Ukraine greift die russische Logistik zur Krim an. Das soll die Versorgung der Südfront stören – und die Krim-Brücke wieder zum Faktor machen. Der Wochenrückblick",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/ukraine-lage-landbruecke-krim-drohnen-angriffe-logistik-russland-woche",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/ukraine-lage-landbruecke-krim-drohnen-angriffe-logistik-russland-woche-bild-donezk/super__430x287",
-      "image_title": "Lage in der Ukraine: Explosions at Russian drone storage facilities near Donetsk airport, in the course of the Russia-Ukraine conflict, in Donetsk Region, a Russian-controlled region of Ukraine, in this still image obtained from a handout video released on April 14, 2026. General Staff of Ukraine Armed Forces/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT. VERIFICATION: Vegetation, road layout and airport runways matched satellite imagery of the area. Exact time not verified but no older versions were found posted online before April 14. Ukrainian armed forces said it struck Russian drone storage facilities near Donetsk International Airport in a statement released on April 14."
-    },
-    {
-      "title": "Liveblog:Krieg gegen die Ukraine: UN verurteilen Angriff auf Berufsschule und Wohnheim in Luhansk",
-      "teaser": "Russland wirft der Ukraine vor, eine Berufsschule in Luhansk angegriffen zu haben. Die Ukraine spricht von einem Angriff auf eine Drohnenkommandoeinheit. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/ukraine-luhansk-angriff-bild/super__430x287",
-      "image_title": "Krieg gegen die Ukraine: A destroyed dormitory building of the Starobilsk College of Luhansk Pedagogical University following an overnight attack, what Russian-installed authorities called a Ukrainian drone strike, in the course of the Russia-Ukraine conflict in the town of Starobilsk (Starobelsk) in the Luhansk region, a Russian-controlled area of Ukraine, May 22, 2026. Leonid Pasechnik, head of the Russian-controlled parts of the Luhansk Region/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES. MANDATORY CREDIT."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Börsengang von SpaceX: So viel Geld verbrennt Musk mit SpaceX",
-      "teaser": "Elon Musks Raumfahrtunternehmen SpaceX geht an die Börse. Wir haben den Börsenprospekt gelesen: wo die Firma investiert, was Musk verdient – und warum Dinos vorkommen.",
-      "url": "https://www.zeit.de/digital/internet/2026-05/boersengang-space-x-elon-musk-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/digital/internet/2026-05/boersengang-space-x-elon-musk-kuenstliche-intelligenz-bild/super__430x287",
-      "image_title": "Börsengang von SpaceX: Booster 19, or ''B19'', is seen atop pad 2 at SpaceX's South Texas facility in Cameron County, Texas, ahead of an igniter test on April 13, 2026. (Photo by Reginald Mathalone/NurPhoto via Getty Images)"
-    },
-    {
-      "title": "Rheinmetall: Verteidigen wie die »Gelbe Wand«",
-      "teaser": "Auf der Südtribüne des Dortmunder Fußballstadions trafen sich Vertreter der Waffenindustrie und des BVB. Was lernt man da über den Stand der deutschen Aufrüstung?",
-      "url": "https://www.zeit.de/politik/deutschland/2026-05/rheinmetall-bvb-signal-iduna-park-veranstaltung-ruestungspolitik",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-05/rheinmetall-bvb-bild/super__430x287",
-      "image_title": "Rheinmetall: Verteidigen wie die »Gelbe Wand«"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Altersvorsorge: Rente retten mit über 50? Mit diesen fünf Tipps geht’s",
-      "teaser": "Viele haben Angst vor der Rentenlücke – besonders im letzten Drittel ihrer Karriere. Doch es gibt Tricks, um die eigene Rente um Hunderte Euro jeden Monat zu boostern.",
-      "url": "https://www.zeit.de/geld/2026-05/ltersvorsorge-rente-etfs-minijob-finanztipps",
-      "image_url": "https://img.zeit.de/geld/2026-05/altersvorsorge-rente-etfs-minijob-finanztipps-bild/super__430x287",
-      "image_title": "Altersvorsorge: Rente retten mit über 50? Mit diesen fünf Tipps geht’s"
+      "title": "Z+ (abopflichtiger Inhalt); Heimklimaanlage: Mein schlechtes Gewissen kühlt die Wohnung",
+      "teaser": "Die erste Hitze des Jahres: genau der richtige Moment, um ein Klimagerät anzuschaffen. Unser Autor, Mieter, hat erst die Moral und dann die baulichen Hürden überwunden.",
+      "url": "https://www.zeit.de/wissenschaft/2026-05/heim-klimaanlage-hitze-sommer-geraet",
+      "image_url": "https://img.zeit.de/wissenschaft/2026-05/heim-klimaanlage-hitze-sommer/wide__892x502",
+      "image_title": "Heimklimaanlage: Mein schlechtes Gewissen kühlt die Wohnung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Automatisierungsrisiko • Z+ Empfehlung: Wie ersetzbar ist Ihr Job durch KI?",
@@ -206,6 +191,41 @@
       "url": "https://www.zeit.de/wirtschaft/2026-05/automatisierungsrisiko-arbeitnehmer-ki-arbeitsmarkt-bedrohung",
       "image_url": "https://img.zeit.de/wirtschaft/2026-05/automatisierungsrisiko-arbeitnehmer-ki-arbeitsmarkt-bedrohung-teaserbild/super__430x287",
       "image_title": "Automatisierungsrisiko • Z+ Empfehlung: Wie ersetzbar ist Ihr Job durch KI?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kosten für Hunderassen • Z+ Empfehlung: So viel kostet Sie dieser Hund – über sein gesamtes Leben",
+      "teaser": "Ein Hund braucht Zeit, Liebe und Geld – oft mehr als man denkt. Hier können Sie die Ausgaben für die 50 beliebtesten Hunderassen Deutschlands berechnen und vergleichen.",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/hund-kosten-hunderassen-steuer-vergleich",
+      "image_url": "https://img.zeit.de/wirtschaft/2026-05/hund-kosten-hunderassen-steuer-vergleich-desktop-mobil/super__430x287",
+      "image_title": "Kosten für Hunderassen • Z+ Empfehlung: So viel kostet Sie dieser Hund – über sein gesamtes Leben"
+    },
+    {
+      "title": "Brandmauer zur AfD: Ex-Ministerpräsident Torsten Albig rät SPD zu Zusammenarbeit mit AfD",
+      "teaser": "Angesichts ihrer Wahlerfolge könne die AfD nicht wie »die Ausgeburt der Hölle« behandelt werden, sagt Torsten Albig. Er ruft dazu auf, mit der Partei zusammenzuarbeiten.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/brandmauer-afd-torsten-albig-zusammenarbeit-spd",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-05/afd-brandmauer-torsten-albig/super__430x287",
+      "image_title": "Brandmauer zur AfD: Wahlplakate der AfD hängen an Laternenmasten am Rheinufer. Am Sonntag stehen die Landtagswahlen in Rheinland-Pfalz an."
+    },
+    {
+      "title": "Einwanderungspolitik: USA verschärfen Zugang zur Greencard",
+      "teaser": "Die US-Regierung erhöht die Hürden für die Greencard: Die Antragsteller müssen sich künftig im Ausland aufhalten. Das soll illegale Migranten abschrecken.",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/usa-greencard-neue-regeln-verschaerft-ausland",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-05/new-york-manhattan-greencard-usa-bild/super__430x287",
+      "image_title": "Einwanderungspolitik: TOPSHOT - The iconic Empire State Building (L) stands out on the Manhattan skyline with The Statue of Liberty in the foreground, seen at dusk from Bayonne, New Jersey, on October 25, 2024. (Photo by CHARLY TRIBALLEAU / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images)"
+    },
+    {
+      "title": "SpaceX : Riesenrakete Starship absolviert Testflug trotz Triebwerksausfall",
+      "teaser": "Die größte Rakete aller Zeiten flog ins All und landete fast planmäßig im Meer. Das Manöver galt als wichtigste Prüfung vor dem Börsengang von Elon Musks Weltraumkonzern.",
+      "url": "https://www.zeit.de/wissenschaft/2026-05/starship-spacex-elon-musk-rakete-testflug-erfolg",
+      "image_url": "https://img.zeit.de/wissenschaft/2026-05/starship-spacex-elon-musk-rakete-testflug-erfolg-bild/super__430x287",
+      "image_title": "SpaceX: SpaceX's mega rocket Starship makes a test flight from Starbase, Texas, Friday, May 22, 2026. (AP Photo/Eric Gay)"
+    },
+    {
+      "title": "Nachrichtenpodcast: 77 Jahre Grundgesetz – ein Grund zum Feiern?",
+      "teaser": "Das Grundgesetz wird 77 Jahre alt. Was wurde in dieser Zeit aus den Grundrechten gemacht? Und: Ein türkisches Gericht setzt CHP-Chef Özgür Özel ab.",
+      "url": "https://www.zeit.de/politik/2026-05/grundgesetz-verfassung-demokratie-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2026-05/grundgesetz-verfassung-demokratie-nachrichtenpodcast-bild/super__430x287",
+      "image_title": "Nachrichtenpodcast: BERLIN, GERMANY - JANUARY 07: The fundamental Rights of country's basic law (Grundgesetz) of the Federal Republic of Germany written in a book on January 06, 2015 in Berlin, Germany. (Photo by Thomas Trutschel/Photothek via Getty Images)"
     },
     {
       "title": "Ausgabe 21/2026: Nachmittagshoch. Willkommen im Wochenende.",
@@ -257,11 +277,25 @@
       "image_title": "Gute Momente: Mely Kiyak erzählt Geschichten"
     },
     {
-      "title": "Sexueller Missbrauch: Autorin Claudia Wuttke wirft Ex-Partner sexuellen Missbrauch vor",
-      "teaser": "Laut einem Medienbericht wurde Claudia Wuttke über Jahre hinweg vergewaltigt und dabei gefilmt – ohne ihr Wissen. Der Fall erinnert an den der Französin Gisèle Pelicot.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-05/claudia-wuttke-bericht-sexueller-missbrauch-ermittlungen-gxe",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2026-05/claudia-wuttke-bericht-sexueller-missbrauch-bild/super__430x287",
-      "image_title": "Sexueller Missbrauch: Claudia Wuttke"
+      "title": "Freihandel: Europäische Union und Mexiko unterzeichnen Handelsabkommen",
+      "teaser": "Angesichts der US-Zollpolitik haben die EU und Mexiko ein Handelsabkommen geschlossen. Kommissionspräsidentin von der Leyen spricht von vielen Vorteile für beide Seiten.",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/mexiko-europaeische-union-handelsabkommen",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-05/mexiko-europaeische-union-handelsabkommen-bild/super__430x287",
+      "image_title": "Freihandel: Die mexikanische Präsidentin Claudia Sheinbaum (rechts) und die Präsidentin der Europäischen Kommission, Ursula von der Leyen, haben ein Freihandelsabkommen beschlossen."
+    },
+    {
+      "title": "Türkei: Proteste gegen Entmachtung von türkischem Oppositionschef Özel",
+      "teaser": "Ein Gericht hat den Chef der größten Oppositionspartei CHP abgesetzt. Der Politiker verschanzt sich seitdem in der Parteizentrale in Ankara. Seine Anhänger protestieren.",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/tuerkei-proteste-opposition-chp-oezguer-oezel",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-05/tuerkei-proteste-opposition-chp-oezguer-oezel-bild/super__430x287",
+      "image_title": "Türkei: Ein Mann verbrennt ein Foto des ehemaligen Vorsitzenden der oppositionellen Republikanischen Volkspartei (CHP) der Türkei, Kemal Kilicdaroglu, während Menschen zur Unterstützung des derzeitigen Parteivorsitzenden Özgur Özel demonstrieren. 22.05.2026 Istanbul"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); »The Mandalorian and Grogu«: Ach, ist der nicht niedlich",
+      "teaser": "Baby Yoda ist der Star des neuen »Star Wars«-Films. Am Ende sieht man ihn bei der Care-Arbeit. Auch sonst schimmern die großen Probleme unserer Zeit durch.",
+      "url": "https://www.zeit.de/feuilleton/film/2026-05/the-mandalorian-and-grogu-film-star-wars-kino",
+      "image_url": "https://img.zeit.de/feuilleton/film/2026-05/the-mandalorian-and-grogu-film-star-wars-kino-bild-4/wide__892x502",
+      "image_title": "»The Mandalorian and Grogu«: Grogu and Anzellans in Lucasfilm's THE MANDALORIAN AND GROGU. Photo courtesy of Lucasfilm. © 2026 Lucasfilm Ltd™. All Rights Reserved."
     },
     {
       "title": "Podcastserie »Der Vernichter« (1/5): Eine Hochzeit zwischen Gut und Böse",
@@ -299,25 +333,32 @@
       "image_title": "Der Vernichter (5/5): Der Showdown"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bahnprojekt in Norddeutschland: Kann Deutschland noch eine neue ICE-Strecke bauen?",
-      "teaser": "Eine neue Trasse zwischen Hamburg und Hannover soll die Bahn in ganz Deutschland pünktlicher machen. Doch der Plan hat mächtige Gegner, bis hinein in die Regierung.",
-      "url": "https://www.zeit.de/2026/23/bahn-ice-strecke-hamburg-hannover-lueneburger-heide",
-      "image_url": "https://img.zeit.de/2026/23/mit-tempo-250-durch-die-lueneburger-heide-bild-1/super__430x287",
-      "image_title": "Bahnprojekt in Norddeutschland: Neubau durchs Grüne: Die ICE-Strecke soll eng an Ortschaften entlanglaufen"
+      "title": "Z+ (abopflichtiger Inhalt); ADHS bei Erwachsenen: Einen Tag in der ADHS-Spezialklinik",
+      "teaser": "Wenig Selbstwert, impulsive Entscheidungen: In einer Münchner ADHS-Klinik zeigt sich für viele, was die Diagnose wirklich bedeuten kann. Dann geht es erst los.",
+      "url": "https://www.zeit.de/2026/19/adhs-erwachsene-diagnose-symptome-klinik-muenchen",
+      "image_url": "https://img.zeit.de/2026/19/mit-adhs-auf-insta-posen-willkommen-in-der-spezialklinik-bild-3/super__430x287",
+      "image_title": "ADHS bei Erwachsenen: ADHS"
     },
     {
-      "title": "Freihandel: Europäische Union und Mexiko unterzeichnen Handelsabkommen",
-      "teaser": "Angesichts der US-Zollpolitik haben die EU und Mexiko ein Handelsabkommen geschlossen. Kommissionspräsidentin von der Leyen spricht von vielen Vorteile für beide Seiten.",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/mexiko-europaeische-union-handelsabkommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/mexiko-europaeische-union-handelsabkommen-bild/super__430x287",
-      "image_title": "Freihandel: Die mexikanische Präsidentin Claudia Sheinbaum (rechts) und die Präsidentin der Europäischen Kommission, Ursula von der Leyen, haben ein Freihandelsabkommen beschlossen."
+      "title": "Z+ (abopflichtiger Inhalt); Extremsport Trailrunning: »Am Berg bin ich nur für mich verantwortlich«",
+      "teaser": "250 Menschen rennen einen Berg hoch – so oft, bis sie die Höhenmeter des Mount Everest erreicht haben. Wir haben die Trailrunner gefragt: Warum macht man so was?",
+      "url": "https://www.zeit.de/arbeit/2026-05/extremsport-trailrun-herausforderung-bergsteigen-erholung",
+      "image_url": "https://img.zeit.de/arbeit/2026-05/extremsport-trailrun-herausforderung-bergsteigen-erholung-bild-neu-bild-01/super__430x287",
+      "image_title": "Extremsport Trailrunning: »Am Berg bin ich nur für mich verantwortlich«"
     },
     {
-      "title": "Türkei: Proteste gegen Entmachtung von türkischem Oppositionschef Özel",
-      "teaser": "Ein Gericht hat den Chef der größten Oppositionspartei CHP abgesetzt. Der Politiker verschanzt sich seitdem in der Parteizentrale in Ankara. Seine Anhänger protestieren.",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/tuerkei-proteste-opposition-chp-oezguer-oezel",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/tuerkei-proteste-opposition-chp-oezguer-oezel-bild/super__430x287",
-      "image_title": "Türkei: Ein Mann verbrennt ein Foto des ehemaligen Vorsitzenden der oppositionellen Republikanischen Volkspartei (CHP) der Türkei, Kemal Kilicdaroglu, während Menschen zur Unterstützung des derzeitigen Parteivorsitzenden Özgur Özel demonstrieren. 22.05.2026 Istanbul"
+      "title": "Z+ (abopflichtiger Inhalt); Bauzinsen: Wie Immobilienbesitzer den Zinsschock vermeiden",
+      "teaser": "Vor zehn Jahren lagen die Bauzinsen bei gut einem Prozent, heute sind es fast vier. Wer damals gekauft hat, braucht jetzt oft eine Anschlussfinanzierung. So gelingt sie.",
+      "url": "https://www.zeit.de/geld/2026-04/bauzinsen-immobilien-anschlussfinanzierung-kredit",
+      "image_url": "https://img.zeit.de/geld/2026-04/bauzinsen-immobilien-anschlussfinanzierung-kredit-bild/super__430x287",
+      "image_title": "Bauzinsen: Wie Immobilienbesitzer den Zinsschock vermeiden"
+    },
+    {
+      "title": "Ebola: Nationalmannschaft aus dem Kongo soll vor WM doch Isolation einhalten",
+      "teaser": "Trotz des Ebolaausbruchs in der Demokratischen Republik Kongo hatten die USA dem Team eine Einreise zur WM zugesichert. Vorher müssen sie 21 Tage »isoliert« gewesen sein.",
+      "url": "https://www.zeit.de/sport/2026-05/ebola-demokratische-republik-kongo-einreise-wm-usa",
+      "image_url": "https://img.zeit.de/sport/2026-05/kongo-usa-wm-isolation/super__430x287",
+      "image_title": "Ebola: Fußball: Spieler der Demokratischen Republik Kongo stellen sich vor einem WM-Qualifikationsspiel gegen Kamerun für ein Mannschaftsfoto auf. Die Demokratische Republik Kongo nimmt an der Fußball-WM 2026 teil. (zu dpa: «DR Kongo sagt Trainingslager wegen Ebola-Ausbruch ab»)"
     },
     {
       "title": "USA: Gericht stellt Strafverfahren wegen angeblichen Menschenschmuggels ein",
@@ -327,46 +368,18 @@
       "image_title": "USA: Kilmar Abrego Garcia, the migrant whose wrongful deportation to El Salvador made him a symbol of U.S. President Donald Trump's aggressive immigration policies, walks outside U.S. District Court on the day of a hearing in his case, in Greenbelt, Maryland, U.S., December 22, 2025. REUTERS/Jonathan Ernst"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Georgien: Warum Georgien zu den schönsten Regionen Europas gehört",
-      "teaser": "Keine Seilbahnen, keine Kaiserschmarrnhütten – aber Bären und das Erlebnis unberührter Natur. Unsere Autorin genießt im Kaukasus die totale Einsamkeit.",
-      "url": "https://www.zeit.de/2026/21/georgien-reisen-kaukasus-urlaub-natur",
-      "image_url": "https://img.zeit.de/2026/21/georgien-reisen-kaukasus-urlaub-natur-teaserbild/super__430x287",
-      "image_title": "Georgien: Niemand da? Die Gergetier Dreifaltigkeitskirche nahe Stepandsminda. +++++ <br>The Gergeti Trinity Church against the Mount Kazbek mountain range. Taken in the Kazbegi (Stepantsminda) region, Georgia.; Shutterstock ID 2716735659; purchase_order: picturemaxx; job: picturemaxx; client: 186; other: Jutta.schein@zeit.de"
+      "title": "Rheinmetall: Verteidigen wie die »Gelbe Wand«",
+      "teaser": "Auf der Südtribüne des Dortmunder Fußballstadions trafen sich Vertreter der Waffenindustrie und des BVB. Was lernt man da über den Stand der deutschen Aufrüstung?",
+      "url": "https://www.zeit.de/politik/deutschland/2026-05/rheinmetall-bvb-signal-iduna-park-veranstaltung-ruestungspolitik",
+      "image_url": "https://img.zeit.de/wirtschaft/2026-05/rheinmetall-bvb-bild/super__430x287",
+      "image_title": "Rheinmetall: Verteidigen wie die »Gelbe Wand«"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Buchbranche: Lasst uns über Geld reden",
-      "teaser": "Auf offener Bühne vergleichen Mareice Kaiser und Hanno Sauer ihre Buchvorschüsse. Die Differenz ist riesig, die Empörung groß – und voll daneben.",
-      "url": "https://www.zeit.de/feuilleton/literatur/2026-05/buchbranche-literatur-buch-vorschuss-verlag-geld",
-      "image_url": "https://img.zeit.de/feuilleton/2026-05/buchbranche-literatur-buch-vorschuss-verlag-geld-bild/super__430x287",
-      "image_title": "Buchbranche: Session: UNSICHTBARE ORDNUNG? WAS KLASSE HEUTE BEDEUTET — Speaker: HANNO SAUER , MAREICE KAISER , GERALDINE DE BASTION"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Trennung: »Ich wollte diese heile Familie um jeden Preis«",
-      "teaser": "Sie wollten sich trennen – aber waren finanziell abhängig von ihrem Mann oder blieben wegen der Kinder. Drei Mütter berichten, warum sie früher hätten gehen sollen.",
-      "url": "https://www.zeit.de/familie/2025-09/trennung-familie-kinder-eltern-finanzen-abhaengigkeit",
-      "image_url": "https://img.zeit.de/familie/2025-09/trennung-familie-kinder-eltern-finanzen/super__430x287",
-      "image_title": "Trennung: »Ich wollte diese heile Familie um jeden Preis«"
-    },
-    {
-      "title": "Zweite Bundesliga: Essen gewinnt mit Freistoß gegen Fürth im Relegationshinspiel",
-      "teaser": "Essen ist dem Aufstieg in die zweite Bundesliga nach 19 Jahren einen Schritt näher. Der Drittligist setzt sich im Relegationshinspiel gegen Fürth durch. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2026-05/zweite-bundesliga-relegationshinspiel-essen-fuerth",
-      "image_url": "https://img.zeit.de/sport/2026-05/zweite-bundesliga-relegationshinspiel-essen-fuerth-bild-1/super__430x287",
-      "image_title": "Zweite Bundesliga: Torben Müsel (Rot-Weiss Essen) bejubelt sein Tor zum 1:0."
-    },
-    {
-      "title": "Anschlag in Magdeburg: Das Drama der Stadt kommt auf die Bühne",
-      "teaser": "In Magdeburg tritt ein Theaterstück gegen die AfD an. Es handelt von den Folgen des Anschlags auf einen Weihnachtsmarkt.",
-      "url": "https://www.zeit.de/2026/23/anschlag-weihnachtsmarkt-magdeburg-stadt-theater-afd",
-      "image_url": "https://img.zeit.de/2026/23/das-drama-der-stadt-kommt-auf-die-buehne-bild-2/wide__892x502",
-      "image_title": "Anschlag in Magdeburg: Probenbild von »Wunde Stadt« unter der Regie Sebastian Nüblings"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); »The Mandalorian and Grogu«: Ach, ist der nicht niedlich",
-      "teaser": "Baby Yoda ist der Star des neuen »Star Wars«-Films. Am Ende sieht man ihn bei der Care-Arbeit. Auch sonst schimmern die großen Probleme unserer Zeit durch.",
-      "url": "https://www.zeit.de/feuilleton/film/2026-05/the-mandalorian-and-grogu-film-star-wars-kino",
-      "image_url": "https://img.zeit.de/feuilleton/film/2026-05/the-mandalorian-and-grogu-film-star-wars-kino-bild-4/super__430x287",
-      "image_title": "»The Mandalorian and Grogu«: Grogu and Anzellans in Lucasfilm's THE MANDALORIAN AND GROGU. Photo courtesy of Lucasfilm. © 2026 Lucasfilm Ltd™. All Rights Reserved."
+      "title": "Diese Woche in der ZEIT: Die Unsterbliche",
+      "teaser": "Ihr Leben war kurz, ihr Nachleben ist endlos: Warum Marilyn Monroes Bild voller Rätsel ist und uns bis heute nicht loslässt. Ein Dossier zu ihrem 100. Geburtstag",
+      "url": "https://www.zeit.de/2026/23?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
+      "image_url": "https://img.zeit.de/2026/23/printbox/super__430x287",
+      "image_title": "Diese Woche in der ZEIT: Die Unsterbliche"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Albino-Büffel »Donald Trump«: Trump hat Beef",
@@ -374,6 +387,41 @@
       "url": "https://www.zeit.de/feuilleton/2026-05/albino-bueffel-donald-trump-bangladesh-popkultur-internet",
       "image_url": "https://img.zeit.de/feuilleton/2026-05/albino-bueffel-donald-trump-bangladesh-popkultur-internet-bild/super__430x287",
       "image_title": "Albino-Büffel »Donald Trump«: This photograph taken on May 17, 2026 shows a caretaker attending an albino buffalo nicknamed \"Donald Trump\" for sale ahead of Eid al-Adha at a livestock farm in Narayanganj. Crowds in Bangladesh are flocking to snap photographs with an unlikely social media star -- an albino buffalo with flowing blond hair nicknamed \"Donald Trump\" due to be sacrificed within days."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Mangold-Panir: Von wegen Omagemüse!",
+      "teaser": "Mangold hat nicht den besten Ruf. Völlig zu Unrecht, findet unsere Autorin. Und verarbeitet sowohl Stiele als auch Blätter in diesem indischen Panir.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/mangold-paneer-indische-kueche-vegetarisch-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/mangold-paneer-indische-kueche-vegetarisch-rezept-bild-1/super__320x213",
+      "image_title": "Mangold-Panir: Mangold-Paneer mit Basmatireis"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Räucherforellencrème: Forelle im Rauch, Forelle im Bauch",
+      "teaser": "Unsere Vorfahren haben geräuchert, um Fisch haltbar zu machen. Wir wollen vor allem das Aroma. Zum Beispiel in dieser Crème auf einer dicken Scheibe Sauerteigbrot.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/raeucherforellencreme-raeucher-brotzeit-vorspeise-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/aeucherforellencreme-raeucher-brotzeit-vorspeise-wochenmarkt-teaser/super__320x213",
+      "image_title": "Räucherforellencrème: Forelle im Rauch, Forelle im Bauch"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Château de Raymontpierre: Alle an einem Tisch",
+      "teaser": "An einem Hang des Juragebirges steht das 400 Jahre alte Château de Raymontpierre. Von April bis Oktober wird hier an einer langen Tafel serviert, was die Saison hergibt.",
+      "url": "https://www.zeit.de/zeit-magazin/2026/21/chateau-de-raymontpierre-jura-hotel-gastronomie-sydney-karolewski-timon-wolf",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026/21/alle-an-einem-tisch-bild-6/super__320x213",
+      "image_title": "Château de Raymontpierre: Sonderheft, die Küche in Deutschlands 9 Nachbarländern, Schweiz"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Œufs Mayonnaise mit Kaviar: So holen Sie sich das Bistro nach Hause",
+      "teaser": "Œufs Mayonnaise sind simpel, elegant und ein echter Klassiker. Als Horsd'œuvre, wenn Gäste kommen, oder zum Apéro – dieses Gericht schmeckt nach Feierabend in Paris.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/10/oeufs-mayonnaise-kaviar-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-04/oeufs-mayonnaise-kaviar-rezept-wochenmarkt-bild/super__320x213",
+      "image_title": "Œufs Mayonnaise mit Kaviar: So holen Sie sich das Bistro nach Hause"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Spargelrisotto: Versteckte Wurst",
+      "teaser": "In einem Risotto kann man nicht nur Gemüse verstecken. In dieser Variante mit Spargel verschwindet ein Würstchen, es übernimmt die Rolle eines Gewürzes.",
+      "url": "https://www.zeit.de/zeit-magazin/2026/23/spargelrisotto-salsiccia-weisser-spargel-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026/23/das-gewisse-extra-bild-1/super__320x213",
+      "image_title": "Spargelrisotto: Versteckte Wurst"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Altersvorsorge: Rente retten mit über 50? Mit diesen fünf Tipps geht’s",
@@ -427,25 +475,18 @@
       "url": "https://www.zeit.de/politik/ausland/2026-05/nato-marco-rubio-donald-trump-g7-enttaeuschung-iran-gxe"
     },
     {
-      "title": "Diese Woche in der ZEIT: Die Unsterbliche",
-      "teaser": "Ihr Leben war kurz, ihr Nachleben ist endlos: Warum Marilyn Monroes Bild voller Rätsel ist und uns bis heute nicht loslässt. Ein Dossier zu ihrem 100. Geburtstag",
-      "url": "https://www.zeit.de/2026/23?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
-      "image_url": "https://img.zeit.de/2026/23/printbox/super__430x287",
-      "image_title": "Diese Woche in der ZEIT: Die Unsterbliche"
+      "title": "Z+ (abopflichtiger Inhalt); Nato: Nato 3.0 – aber wer macht mit?",
+      "teaser": "Mark Rutte skizziert in Schweden die »Nato 3.0«. Im Jetzt kämpft das Bündnis mit widersprüchlichen Aussagen zum US-Engagement. Ein fatales Signal in Richtung Moskau.",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/nato-aussenminister-treffen-helsingborg-us-truppen-europa",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-05/nato-aussenminister-treffen-helsingborg-us-truppen-europa-bild/wide__892x502",
+      "image_title": "Nato: NATO Ministers of Foreign Affairs (POLARIS) ///"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Peter Badge: »Ich fand ihn am Pool, bekleidet nur mit einem Sonnenhut«",
       "teaser": "Der Fotograf Peter Badge kennt alle lebenden Nobelpreisträger und hat sie verewigt. Ein Gespräch über sein Leben mit Genies, Freundschaft – und einen nackten Physiker",
       "url": "https://www.zeit.de/feuilleton/2026-05/peter-badge-nobelpreis-fotograf-ausstellung-berlin",
-      "image_url": "https://img.zeit.de/feuilleton/2026-05/peter-badge-nobelpreis-fotograf-ausstellung-berlin-bild-13/wide__892x502",
+      "image_url": "https://img.zeit.de/feuilleton/2026-05/peter-badge-nobelpreis-fotograf-ausstellung-berlin-bild-13/super__430x287",
       "image_title": "Peter Badge: Steven Chu * 1948 The Nobel Prize in Physics 1997 was awarded jointly to Steven Chu, William D. Phillips and Claude Cohen-Tannoudji “for development of methods to cool and trap atoms with laser light”. Bad Schachen, Germany, 2000"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Christophe Cherix: »Es gibt Druck von allen Seiten«",
-      "teaser": "Christophe Cherix leitet das MoMA in New York. Hier spricht er über die Bedeutung des Museums in angsterfüllten Trump-Zeiten. Und erklärt, wie er es vor Gegnern schützt.",
-      "url": "https://www.zeit.de/2026/23/christophe-cherix-moma-direktor-new-york",
-      "image_url": "https://img.zeit.de/2026/23/wir-leben-in-zeiten-die-angst-erzeugen-bild-1/super__430x287",
-      "image_title": "Christophe Cherix: Der Blick durch die Glasfassaden des MoMA auf New York"
     },
     {
       "title": "Verlagsangebot: Sechs spektakuläre Naturwunder in Deutschland",
@@ -483,11 +524,9 @@
       "image_title": "Nazi Past: The Evidence Is Now Open to All"
     },
     {
-      "title": "USA: Tulsi Gabbard tritt als US-Geheimdienstchefin zurück",
-      "teaser": "Es gibt die nächste Veränderung in der Regierung von US-Präsident Donald Trump: Tulsi Gabbard tritt als Geheimdienstaufseherin zurück. Offenbar aus privaten Gründen",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/usa-tulsi-gabbard-ruecktritt",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/usa-tulsi-gabbard-ruecktritt-bild-3/wide__892x502",
-      "image_title": "USA: Donald Trump soll zuletzt auch über eine Entlassung Gabbards nachgedacht haben."
+      "title": "Einbürgerungen: Neuer Höchststand bei Einbürgerungen in Deutschland",
+      "teaser": "Im Jahr 2025 wurden einem Bericht zufolge mindestens 300.000 Menschen in Deutschland eingebürgert. Die Behörden erwarten auch im kommenden Jahr viele Anträge.",
+      "url": "https://www.zeit.de/politik/2026-05/einbuergerungen-2025-rekord"
     },
     {
       "title": "Verlagsangebot: Taschengeld: Ist das wichtig?",
@@ -497,11 +536,11 @@
       "image_title": "Taschengeld: Ist das wichtig?"
     },
     {
-      "title": "Dänemark: Rechtsliberale scheitern in Dänemark ebenfalls an Regierungsbildung",
-      "teaser": "Mette Frederiksens Sozialdemokraten wurden bei der Dänemarkwahl im März stärkste Kraft. Sie konnten keine Regierung bilden, nun scheiterten auch die Rechtsliberalen.",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/daenemark-regierungsbildung-troels-lund-poulsen-mette-frederiksen",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-05/rechtsliberaler-scheitert-mit-regierungsbildung-daenemark-bild/super__430x287",
-      "image_title": "Dänemark: Denmark Votes In General Election As US President Donald Trump's Greenland Claims Loom Troels Lund Poulsen, leader of the Liberal Party, speaks at their party's election night event at the Parliament in Copenhagen, Denmark, on Tuesday, March 24, 2026. Danish Prime Minister Mette Frederiksen kept alive the prospect of a third term after her party secured victory in a closely-fought election. Photographer: Nichlas Pollier/Bloomberg via Getty Images"
+      "title": "Liveblog:Krieg gegen die Ukraine: UN verurteilen Angriff auf Berufsschule und Wohnheim in Luhansk",
+      "teaser": "Russland wirft der Ukraine vor, eine Berufsschule in Luhansk angegriffen zu haben. Die Ukraine spricht von einem Angriff auf eine Drohnenkommandoeinheit. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-05/ukraine-luhansk-angriff-bild/super__430x287",
+      "image_title": "Krieg gegen die Ukraine: A destroyed dormitory building of the Starobilsk College of Luhansk Pedagogical University following an overnight attack, what Russian-installed authorities called a Ukrainian drone strike, in the course of the Russia-Ukraine conflict in the town of Starobilsk (Starobelsk) in the Luhansk region, a Russian-controlled area of Ukraine, May 22, 2026. Leonid Pasechnik, head of the Russian-controlled parts of the Luhansk Region/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE WAS PROVIDED BY A THIRD PARTY. NO RESALES. NO ARCHIVES. MANDATORY CREDIT."
     },
     {
       "title": "Zinsausgaben des Bundes: Auf dem Weg in die Schuldenfalle",
@@ -525,11 +564,11 @@
       "image_title": "Künstliche Intelligenz: Wenn KI zur Gefahr für die Mittelschicht wird"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Das KI-Risiko, das an der Börse keiner sehen will",
-      "teaser": "US-Techkonzerne machen gigantische Gewinne. Die Aktienmärkte feiern sie dafür. Kritiker vermuten dahinter Bilanzkosmetik – und ein tieferliegendes Problem.",
-      "url": "https://www.zeit.de/geld/2026-05/aktienmarkt-ki-crash-nvidia-hype",
-      "image_url": "https://img.zeit.de/geld/2026-05/aktienmarkt-ki-crash-nvidia-hype-bild-2/wide__892x502",
-      "image_title": "Künstliche Intelligenz: Das KI-Risiko, das an der Börse keiner sehen will"
+      "title": "Z+ (abopflichtiger Inhalt); Altersvorsorge: Rente retten mit über 50? Mit diesen fünf Tipps geht’s",
+      "teaser": "Viele haben Angst vor der Rentenlücke – besonders im letzten Drittel ihrer Karriere. Doch es gibt Tricks, um die eigene Rente um Hunderte Euro jeden Monat zu boostern.",
+      "url": "https://www.zeit.de/geld/2026-05/ltersvorsorge-rente-etfs-minijob-finanztipps",
+      "image_url": "https://img.zeit.de/geld/2026-05/altersvorsorge-rente-etfs-minijob-finanztipps-bild/wide__892x502",
+      "image_title": "Altersvorsorge: Rente retten mit über 50? Mit diesen fünf Tipps geht’s"
     },
     {
       "title": "Verlagsangebot: In 5 Tagen zu neuer Motivation",
@@ -539,11 +578,11 @@
       "image_title": "In 5 Tagen zu neuer Motivation"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Warren Buffett: Sind Aktien gerade zu teuer? Warren Buffetts Lieblingszahl sagt: Ja.",
-      "teaser": "Der US-Aktienmarkt ist mehr als doppelt so groß wie die US-Volkswirtschaft. Warren Buffett sieht darin ein Omen für magere Börsenjahre. Was das für Anleger heißt.",
-      "url": "https://www.zeit.de/geld/2026-05/warren-buffet-aktienmarkt-weltwirtschaft-us-boerse-kennzahlen",
-      "image_url": "https://img.zeit.de/geld/2026-05/warren-buffet-aktienmarkt-weltwirtschaft-us-boerse-kennzahlen-bild/super__430x287",
-      "image_title": "Warren Buffett: Sind Aktien gerade zu teuer? Warren Buffetts Lieblingszahl sagt: Ja."
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Das KI-Risiko, das an der Börse keiner sehen will",
+      "teaser": "US-Techkonzerne machen gigantische Gewinne. Die Aktienmärkte feiern sie dafür. Kritiker vermuten dahinter Bilanzkosmetik – und ein tieferliegendes Problem.",
+      "url": "https://www.zeit.de/geld/2026-05/aktienmarkt-ki-crash-nvidia-hype",
+      "image_url": "https://img.zeit.de/geld/2026-05/aktienmarkt-ki-crash-nvidia-hype-bild-2/super__430x287",
+      "image_title": "Künstliche Intelligenz: Das KI-Risiko, das an der Börse keiner sehen will"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frauen in der Medizin: »Frauen, die sich wehren, werden oft als hysterisch wahrgenommen«",
@@ -709,25 +748,25 @@
       "image_title": "Stärken Deutschlands: Deutschland, Du bist schon stabil"
     },
     {
+      "title": "Anschlag in Magdeburg: Das Drama der Stadt kommt auf die Bühne",
+      "teaser": "In Magdeburg tritt ein Theaterstück gegen die AfD an. Es handelt von den Folgen des Anschlags auf einen Weihnachtsmarkt.",
+      "url": "https://www.zeit.de/2026/23/anschlag-weihnachtsmarkt-magdeburg-stadt-theater-afd",
+      "image_url": "https://img.zeit.de/2026/23/das-drama-der-stadt-kommt-auf-die-buehne-bild-2/wide__892x502",
+      "image_title": "Anschlag in Magdeburg: Probenbild von »Wunde Stadt« unter der Regie Sebastian Nüblings"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Neue Opern: Das sind die neuen Opern",
       "teaser": "Dortmund, München, Berlin, Aachen: Hier sehen Sie die wichtigsten Uraufführungen in ganz Deutschland.",
       "url": "https://www.zeit.de/2026/23/neue-opern-berlin-komische-oper-dortmund-bayerische-staatsoper",
-      "image_url": "https://img.zeit.de/2026/23/queere-peepshow-bild-1/wide__892x502",
+      "image_url": "https://img.zeit.de/2026/23/queere-peepshow-bild-1/super__430x287",
       "image_title": "Neue Opern: Ema Nikolovska (links) als Orlando und Karolina Gumos als Queen in Berlin"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); »Du bist nicht allein«: Die Mission des Jan Fleischhauer",
-      "teaser": "Fällt seine Rebellion jetzt in sich zusammen? Jan Fleischhauer hat ein Sachbuch über politische Mehrheiten geschrieben. Es ist mitunter richtig erhellend.",
-      "url": "https://www.zeit.de/2026/23/jan-fleischhauer-du-bist-nicht-allein-mehrheitsparadox-buch-mitte-gesellschaft",
-      "image_url": "https://img.zeit.de/2026/23/die-mission-des-jan-fleischhauer-bild-2/super__430x287",
-      "image_title": "»Du bist nicht allein«: BU: Das neue Buch von Jan Fleischhauer liest sich erfrischend wie ein Sommerspritzer. Aber hat nicht der Mainstream inzwischen die Seite gewechselt? ++++++++++<br /> Jan Fleischhauer FOTO: FRANK BAUER www.frankbauer.com"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Emma Ruttkamp-Bloem: »Afrika droht ein algorithmischer Kolonialismus«",
-      "teaser": "Im KI-Zeitalter werden Menschen im Globalen Süden zu Datenlieferanten degradiert, warnt die Philosophin Emma Ruttkamp-Bloem. Dagegen helfe nur lokale Mitbestimmung.",
-      "url": "https://www.zeit.de/feuilleton/2026-05/emma-ruttkamp-bloem-kuenstliche-intelligenz-afrika-kolonialismus-algorithmus",
-      "image_url": "https://img.zeit.de/feuilleton/2026-05/emma-ruttkamp-bloem-kuenstliche-intelligenz-afrika/super__430x287",
-      "image_title": "Emma Ruttkamp-Bloem: »Afrika droht ein algorithmischer Kolonialismus«"
+      "title": "Z+ (abopflichtiger Inhalt); Christophe Cherix: »Es gibt Druck von allen Seiten«",
+      "teaser": "Christophe Cherix leitet das MoMA in New York. Hier spricht er über die Bedeutung des Museums in angsterfüllten Trump-Zeiten. Und erklärt, wie er es vor Gegnern schützt.",
+      "url": "https://www.zeit.de/2026/23/christophe-cherix-moma-direktor-new-york",
+      "image_url": "https://img.zeit.de/2026/23/wir-leben-in-zeiten-die-angst-erzeugen-bild-1/super__430x287",
+      "image_title": "Christophe Cherix: Der Blick durch die Glasfassaden des MoMA auf New York"
     },
     {
       "title": "Dokupodcast \"Der Koch von Gaza\" (1/5): Chef Mahmud – mein Kontakt, der getötet wurde",
@@ -861,10 +900,17 @@
       "image_title": "Demokratische Republik Kongo: MONGBWALU, DEMOCRATIC REPUBLIC OF CONGO - MAY 20: Workers line up to disinfect their protective equipment at General Referral Hospital of Mongbwalu during the Ebola outbreak response in Mongbwalu, Ituri province, eastern Democratic Republic of Congo, on May 20, 2026. The World Health Organization (WHO) has declared the Ebola outbreak in the Democratic Republic of Congo (DRC) and Uganda a \"public health emergency of international concern,\" as the death toll and number of confirmed cases continue to rise. The current epidemic is caused by the Bundibugyo virus, one of several Orthoebolaviruses that can cause Ebola disease, and for which there are no approved vaccines. The highest number of cases have been reported in Congo's eastern Ituri province, bordering Uganda. Global health officials have expressed grave concern over the capacity to contain the outbreak in a region already facing a humanitarian crisis, with highly mobile populations displaced by conflict and economic factors. (Photo by Michel Lunanga/Getty Images)"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Börsengang von SpaceX: So viel Geld verbrennt Musk mit SpaceX",
+      "teaser": "Elon Musks Raumfahrtunternehmen SpaceX geht an die Börse. Wir haben den Börsenprospekt gelesen: wo die Firma investiert, was Musk verdient – und warum Dinos vorkommen.",
+      "url": "https://www.zeit.de/digital/internet/2026-05/boersengang-space-x-elon-musk-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/digital/internet/2026-05/boersengang-space-x-elon-musk-kuenstliche-intelligenz-bild/wide__892x502",
+      "image_title": "Börsengang von SpaceX: Booster 19, or ''B19'', is seen atop pad 2 at SpaceX's South Texas facility in Cameron County, Texas, ahead of an igniter test on April 13, 2026. (Photo by Reginald Mathalone/NurPhoto via Getty Images)"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Andon Labs: Eine künstliche Intelligenz leitet dieses schwedische Café",
       "teaser": "Eine KI betreibt ein Café. Dafür hat sie Mitarbeiter rekrutiert und Möbel eingekauft. Wir haben die Macherin dahinter gefragt: Wann braucht es den Menschen nicht mehr?",
       "url": "https://www.zeit.de/digital/internet/2026-05/andon-labs-kuenstliche-intelligenz-mona-schwedisches-cafe-leitung",
-      "image_url": "https://img.zeit.de/digital/internet/2026-05/andon-labs-kuenstliche-intelligenz-mona-schwedisches-cafe-leitung-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/digital/internet/2026-05/andon-labs-kuenstliche-intelligenz-mona-schwedisches-cafe-leitung-bild/super__430x287",
       "image_title": "Andon Labs: Barista Kajetan Grzelczak im Andon Café in Stockholm – einem vollständig von KI betriebenen Café."
     },
     {
@@ -873,13 +919,6 @@
       "url": "https://www.zeit.de/digital/internet/2026-05/google-papst-alexa-newsletter-kuenstliche-intelligenz",
       "image_url": "https://img.zeit.de/digital/internet/2026-05/google-papst-alexa-newsletter-kuenstliche-intelligenz-bild/super__430x287",
       "image_title": "Google I/O: Googles radikale KI-Metamorphose"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Google I/O: Googeln ist am Ende",
-      "teaser": "Auf seiner I/O-Konferenz kündigt Google seine Pläne für die Zukunft der Suche an. Sie wird künftig noch mehr zu einem Chatbot – ein Kalkül, das aufgehen könnte.",
-      "url": "https://www.zeit.de/digital/2026-05/google-konferenz-funktion-suchmaschine-chatbot",
-      "image_url": "https://img.zeit.de/digital/2026-05/google-konferenz-funktion-suchmaschine-chatbot-bild-1/super__430x287",
-      "image_title": "Google I/O: MOUNTAIN VIEW, CALIFORNIA - MAY 19: Attendees walk past an I/O sign displayed at Google I/O on May 19, 2026 in Mountain View, California. The two day developers conference highlights Google's new products and technologies including their AI developments."
     },
     {
       "title": "Inhalte merken: So sichern Sie Artikel, Rezepte und mehr für später",
@@ -899,18 +938,18 @@
       "image_title": "Giovanni di Lorenzo: Folge 8: Verstehst du das?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Kink-Party: »Ein solches Gespräch hatte ich nicht erwartet«",
+      "teaser": "Mit Anfang 60 glaubt Teresa nicht mehr an die große Liebe – bis ein Sommerabend auf dem Partyschiff alles ändert. Eine Begegnung, die an ein Wunder grenzt.",
+      "url": "https://www.zeit.de/zeit-magazin/2026/23/kink-party-stuttgart-erotik-partyschiff-alter",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026/23/bei-diesen-partys-geht-es-ums-tanzen-um-erotische-erlebnisse-ein-solches-gespraech-hatte-ich-nicht-e-bild-1/wide__892x502",
+      "image_title": "Kink-Party: »Ein solches Gespräch hatte ich nicht erwartet«"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rechnung beim Date: Warum ich als Mann nicht bei Dates zahlen will",
       "teaser": "Gleichberechtigung muss was kosten, sagt unser Autor. Wenn Frauen und Männer die Rechnung teilen, ist das nicht nur ein Zeichen von Augenhöhe. Sondern auch von Zuneigung.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2026-05/date-rechnung-zahlen-gleichberechtigung-maenner-frauen",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026-05/date-mann-rechnung-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026-05/date-mann-rechnung-bild/super__430x287",
       "image_title": "Rechnung beim Date: Warum ich als Mann nicht bei Dates zahlen will"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Insel Hydra: Ist das Kunst, oder kann man da anlegen?",
-      "teaser": "Hydra, ein entlegener Felsen im Meer, wird zum Hotspot der internationalen Kunstwelt – obwohl hier nicht nur Autos und Swimmingpools verboten sind. Wie kam es dazu?",
-      "url": "https://www.zeit.de/2026/21/hydra-griechenland-insel-denkmalschutz-kuenstler",
-      "image_url": "https://img.zeit.de/2026/21/die-inselbegabung-bild-1/super__430x287",
-      "image_title": "Insel Hydra: Die gut neun Meter hohe Sonne aus Bronze grüßt die Besucher"
     },
     {
       "title": "Buchstabensalat: Wortgeflecht",
@@ -969,39 +1008,39 @@
       "image_title": "Lebensmittelkontrolle: »Manchmal fühlt es sich an wie bei der Kripo«"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Mangold-Panir: Von wegen Omagemüse!",
-      "teaser": "Mangold hat nicht den besten Ruf. Völlig zu Unrecht, findet unsere Autorin. Und verarbeitet sowohl Stiele als auch Blätter in diesem indischen Panir.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/mangold-paneer-indische-kueche-vegetarisch-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/mangold-paneer-indische-kueche-vegetarisch-rezept-bild-1/super__320x213",
-      "image_title": "Mangold-Panir: Mangold-Paneer mit Basmatireis"
+      "title": "Z+ (abopflichtiger Inhalt); Pasta mit Zucchini und Safran: Ein Hauch von Amalfiküste",
+      "teaser": "Für dieses Rezept hat unsere Autorin ihre italienischen und persischen Einflüsse vermählt. Heraus kommt eine Pasta mit Safran, Zucchinipesto – und natürlich Zitrone.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/pasta-zucchini-safran-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/pasta-zucchini-safran-bild/super__320x213",
+      "image_title": "Pasta mit Zucchini und Safran: Ein Hauch von Amalfiküste"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Räucherforellencrème: Forelle im Rauch, Forelle im Bauch",
-      "teaser": "Unsere Vorfahren haben geräuchert, um Fisch haltbar zu machen. Wir wollen vor allem das Aroma. Zum Beispiel in dieser Crème auf einer dicken Scheibe Sauerteigbrot.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/raeucherforellencreme-raeucher-brotzeit-vorspeise-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/aeucherforellencreme-raeucher-brotzeit-vorspeise-wochenmarkt-teaser/super__320x213",
-      "image_title": "Räucherforellencrème: Forelle im Rauch, Forelle im Bauch"
+      "title": "Z+ (abopflichtiger Inhalt); Wurstcrostini mit Apfelmostarda: Knusper, knusper, Crostini",
+      "teaser": "Wenn ein dänischer Koch mit deutschen Zutaten ein italienisches Gericht zaubert, kommt dieses kleine Wunder dabei heraus: ein Snack zwischen Smørrebrød und Bruschetta.",
+      "url": "https://www.zeit.de/zeit-magazin/2026/21/crostini-salsicce-apfelmostarda-meerrettich-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026/21/wurstcrostini-mit-apfelmostarda-bild-1/super__320x213",
+      "image_title": "Wurstcrostini mit Apfelmostarda: Knusper, knusper, Crostini"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Château de Raymontpierre: Alle an einem Tisch",
-      "teaser": "An einem Hang des Juragebirges steht das 400 Jahre alte Château de Raymontpierre. Von April bis Oktober wird hier an einer langen Tafel serviert, was die Saison hergibt.",
-      "url": "https://www.zeit.de/zeit-magazin/2026/21/chateau-de-raymontpierre-jura-hotel-gastronomie-sydney-karolewski-timon-wolf",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026/21/alle-an-einem-tisch-bild-6/super__320x213",
-      "image_title": "Château de Raymontpierre: Sonderheft, die Küche in Deutschlands 9 Nachbarländern, Schweiz"
+      "title": "Z+ (abopflichtiger Inhalt); Gurken-Kichererbsen-Salat: Voll am Start mit diesem Salat",
+      "teaser": "Leichtes Hauptgericht oder sättigende Beilage? Dieser Gurkensalat mit Kichererbsen und Chiliöl-Topping fühlt sich in beiden Rollen wohl. Den Schärfegrad entscheiden Sie.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-05/gurken-kichererbsen-salat-tahini-joghurt-chilioel-sonntagsessen",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-05/gurken-kichererbsen-salat-bild/super__320x213",
+      "image_title": "Gurken-Kichererbsen-Salat: Gurken-Kichererbsen-Salat mit Tahini-Joghurt-Dressing und Chiliöl"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Œufs Mayonnaise mit Kaviar: So holen Sie sich das Bistro nach Hause",
-      "teaser": "Œufs Mayonnaise sind simpel, elegant und ein echter Klassiker. Als Horsd'œuvre, wenn Gäste kommen, oder zum Apéro – dieses Gericht schmeckt nach Feierabend in Paris.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026/10/oeufs-mayonnaise-kaviar-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-04/oeufs-mayonnaise-kaviar-rezept-wochenmarkt-bild/super__320x213",
-      "image_title": "Œufs Mayonnaise mit Kaviar: So holen Sie sich das Bistro nach Hause"
+      "title": "Z+ (abopflichtiger Inhalt); Grüner Nudelsalat: Nudeln, die so frisch schmecken wie ein grüner Salat",
+      "teaser": "Es grünt so grün da draußen, warum also nicht auch auf dem Teller? Mit Fenchel, Frühlingszwiebeln und Kresse kein Problem! Dieser Nudelsalat passt perfekt ins Farbschema.",
+      "url": "https://www.zeit.de/zeit-magazin/2026/22/gruener-nudelsalat-fenchel-dill-petersilie-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2026/22/es-gruent-so-gruen-bild-1/super__320x213",
+      "image_title": "Grüner Nudelsalat: Nudeln, die so frisch schmecken wie ein grüner Salat"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Spargelrisotto: Versteckte Wurst",
-      "teaser": "In einem Risotto kann man nicht nur Gemüse verstecken. In dieser Variante mit Spargel verschwindet ein Würstchen, es übernimmt die Rolle eines Gewürzes.",
-      "url": "https://www.zeit.de/zeit-magazin/2026/23/spargelrisotto-salsiccia-weisser-spargel-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026/23/das-gewisse-extra-bild-1/super__320x213",
-      "image_title": "Spargelrisotto: Versteckte Wurst"
+      "title": "Z+ (abopflichtiger Inhalt); Linsenbratling-Wraps mit Rhabarber-Pickle: Ein Herz für herzhaften Rhabarber",
+      "teaser": "Noch Rhabarber übrig? Statt im süßen Kuchen zu landen, wird er in diesem Rezept zu einer säuerlichen Füllung für selbst gemachte Linsenbratling-Wraps mit Joghurt.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2025-12/linsenbratling-wraps-rhabarber-pickle-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2025-12/linsenbratling-wraps-rhabarber-pickle-rezept-wochenmarkt-bild/super__320x213",
+      "image_title": "Linsenbratling-Wraps mit Rhabarber-Pickle: Tamal Rays Linsenbratling-Wraps mit eingelegtem Rhabarber."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); KI und Arbeit: Kannst du mit KI Karriere machen?",
@@ -1011,11 +1050,11 @@
       "image_title": "KI und Arbeit: Kannst du mit KI Karriere machen?"
     },
     {
-      "title": "Verlagsangebot : Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Technische Universität Berlin: Uni kaputt, aber der Zynismus funktioniert",
@@ -1032,18 +1071,18 @@
       "image_title": "Tipps für Lernen: »Entscheidend ist, zu lernen, wenn man lieber Reels schauen würde«"
     },
     {
+      "title": "Zweite Bundesliga: Essen gewinnt mit Freistoß gegen Fürth im Relegationshinspiel",
+      "teaser": "Essen ist dem Aufstieg in die zweite Bundesliga nach 19 Jahren einen Schritt näher. Der Drittligist setzt sich im Relegationshinspiel gegen Fürth durch. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2026-05/zweite-bundesliga-relegationshinspiel-essen-fuerth",
+      "image_url": "https://img.zeit.de/sport/2026-05/zweite-bundesliga-relegationshinspiel-essen-fuerth-bild-1/wide__892x502",
+      "image_title": "Zweite Bundesliga: Torben Müsel (Rot-Weiss Essen) bejubelt sein Tor zum 1:0."
+    },
+    {
       "title": "Fußballweltmeister: Ex-Weltmeister Lukas Podolski beendet seine Profikarriere",
       "teaser": "Nach der Saison will Lukas Podolski seine aktive Fußballkarriere beenden. »Ein Kapitel endet, eine neue Ära beginnt«, teilten Podolski und sein Club Górnik Zabrze mit.",
       "url": "https://www.zeit.de/sport/2026-05/lukas-podolski-profifussballer-ende-karriere",
-      "image_url": "https://img.zeit.de/sport/2026-05/lukas-podolski-karriereende-gornik-zabrze-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/sport/2026-05/lukas-podolski-karriereende-gornik-zabrze-bild/super__430x287",
       "image_title": "Fußballweltmeister: Jetzt Editorial-Bilder suchen Editorial-Bilder Creative-Bilder & -Videos Bilder Creative Editorial Videos Creative Editorial Nach Bild oder Video suchen Polish Cup Final Gornik Zabrze - Rakow Czestochowa Lukas Podolski after the Polish Cup Final Gornik Zabrze - Rakow Czestochowa at National Stadium in Warsaw, Poland on May 2, 2026. (Photo by Jakub Porzycki/NurPhoto via Getty Images)"
-    },
-    {
-      "title": "Eishockey-Weltmeisterschaft: Deutsche Eishockey-Nationalmannschaft gewinnt gegen Ungarn",
-      "teaser": "Erster Sieg im fünften Spiel: Gegen Ungarn gewinnt das DEB-Team deutlich. Ein Erreichen des Viertelfinales ist weiter möglich.",
-      "url": "https://www.zeit.de/sport/2026-05/eishockey-weltmeisterschaft-deutschland-ungarn",
-      "image_url": "https://img.zeit.de/sport/2026-05/deutschland-ungarn-eishockey-wm-bild/super__430x287",
-      "image_title": "Eishockey-Weltmeisterschaft: Eishockey: WM, Ungarn - Deutschland, Vorrunde, Gruppe A, Gruppenspielrunde, Deutschlands Samuel Dove-McFalls (r) schießt den Puck gegen Ungarns Torhüter Bence Balizs (l). Service +++ dpa-Bildfunk +++ Aufnahmedatum 22.05.2026 Bildnachweis picture alliance/dpa/KEYSTONE | Claudio Thoma"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Saitenwurm: »Würmer sind wie kleine Aliens«",
@@ -1060,36 +1099,36 @@
       "image_title": "Funkstreifenwagen in Hamburg: Drei Polizeiwagen der Polizei Hamburg stehen bei einem Medientermin zur Vorstellung des neuen, sogenannten Polizeilichen Präsenzlichts (PPL) in einer Halle. Die Polizei Hamburg setzt als erste Polizei in Deutschland ein dauerhaft eingeschaltetes, nicht blinkendes blaues LED-Licht im Blaulichtbalken der Funkstreifenwagen ein."
     },
     {
-      "title": "Farbenfrohes Spektakel: Kultur, Küche und Kracher - Japantag in Düsseldorf",
-      "url": "https://www.zeit.de/news/2026-05/23/kultur-kueche-und-kracher-japantag-in-duesseldorf"
+      "title": "Getunter E-Scooter: Mit 85 km/h auf dem E-Scooter – Polizei stoppt Jugendlichen",
+      "url": "https://www.zeit.de/news/2026-05/23/mit-85-km-h-auf-dem-e-scooter-polizei-stoppt-jugendlichen"
     },
     {
-      "title": "DFB-Pokal: Bayern gehen ohne Neuer auf Double-Jagd gegen Stuttgart",
-      "url": "https://www.zeit.de/news/2026-05/23/bayern-gehen-ohne-neuer-auf-double-jagd-gegen-stuttgart"
+      "title": "Verkehr: Mehrere Verletzte bei Unfall auf A5",
+      "url": "https://www.zeit.de/news/2026-05/22/mehrere-verletzte-bei-unfall-auf-a5"
     },
     {
-      "title": "Lotterie: Lotto-Glückspilz im Saarland gewinnt mehr als zwei Millionen",
-      "url": "https://www.zeit.de/news/2026-05/23/lotto-glueckspilz-im-saarland-gewinnt-mehr-als-zwei-millionen"
+      "title": "Blutsauger unterwegs: Erst Regen, nun Sonne - Kommen jetzt die Stechmücken?",
+      "url": "https://www.zeit.de/news/2026-05/23/erst-regen-nun-sonne-kommen-jetzt-die-stechmuecken"
     },
     {
-      "title": "SpaceX-Projekt: Überarbeitete Riesen-Rakete Starship absolviert Testflug",
-      "url": "https://www.zeit.de/news/2026-05/23/ueberarbeitete-riesen-rakete-starship-absolviert-testflug"
+      "title": "Fernsehen: TV-Star Hendrik Duryn rechnet mit Generation-Z-Kritik ab",
+      "url": "https://www.zeit.de/news/2026-05/23/tv-star-hendrik-duryn-rechnet-mit-generation-z-kritik-ab"
     },
     {
-      "title": "Kohlebergwerk: Mindestens acht Tote nach Minenunglück in China",
-      "url": "https://www.zeit.de/news/2026-05/23/mindestens-acht-tote-nach-minenunglueck-in-china"
+      "title": "Getränke von Einsatzkräften: Zug mit 200 Passagieren liegengeblieben – Feuerwehr hilft",
+      "url": "https://www.zeit.de/news/2026-05/23/zug-mit-200-passagieren-liegengeblieben-feuerwehr-hilft"
     },
     {
-      "title": "Strategische Handelsbeziehung: EU und Mexiko stärken Partnerschaft mit neuem Abkommen",
-      "url": "https://www.zeit.de/news/2026-05/23/eu-und-mexiko-staerken-partnerschaft-mit-neuem-abkommen"
+      "title": "Gemälde werden versteigert: Kunstauktion in Wieck – Feininger und Mattheuer",
+      "url": "https://www.zeit.de/news/2026-05/23/kunstauktion-in-wieck-feininger-und-mattheuer"
     },
     {
-      "title": "Sommerliche Pfingsten: Vorsicht beim Anbaden - Was der DLRG rät",
-      "url": "https://www.zeit.de/news/2026-05/23/vorsicht-beim-anbaden-was-der-dlrg-raet"
-    },
-    {
-      "title": "Großbrand: Dach von Schulturnhalle steht komplett in Flammen",
+      "title": "Großbrand: Brand in Turnhalle – Löscharbeiten sollen ganzen Tag dauern",
       "url": "https://www.zeit.de/news/2026-05/22/dachstuhl-von-grundschule-in-nuernberg-brennt"
+    },
+    {
+      "title": "DFB-Pokal: Double, Torhüter, Prämien: Wissenswertes vorm Pokalfinale",
+      "url": "https://www.zeit.de/news/2026-05/23/double-torhueter-praemien-wissenswertes-vorm-pokalfinale"
     }
   ]
 }

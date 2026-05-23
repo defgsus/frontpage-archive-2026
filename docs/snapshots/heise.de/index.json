@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-23T01:51:02",
+  "timestamp": "2026-05-23T05:30:20",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sonnenenergie effizient speichern und nutzen | c’t uplink",
+      "url": "https://www.heise.de/news/Sonnenenergie-effizient-speichern-und-nutzen-c-t-uplink-11303877.html"
+    },
     {
       "title": "Patientendaten betroffen: Cyberangriff auf Abrechnungsdienstleister von Kliniken",
       "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html"
@@ -56,10 +60,6 @@
     {
       "title": "Googles XR-Brillen auf der I/O: Project Aura & Prototyp ausprobiert",
       "url": "https://www.heise.de/news/XR-Brillen-auf-der-I-O-Project-Aura-und-Googles-Prototyp-ausprobiert-11304538.html"
-    },
-    {
-      "title": "Proxmox VE 9.2 mit Dynamic Load Balancer und Linux Kernel 7.0",
-      "url": "https://www.heise.de/news/Proxmox-VE-9-2-mit-Dynamic-Load-Balancer-und-Linux-Kernel-7-0-11304611.html"
     },
     {
       "title": "KI beweistMathematiker lagen bei Erdős-Problem falsch",
@@ -180,20 +180,25 @@
       "image_title": "Die Erde aus demm All"
     },
     {
+      "title": "Sonnenenergie effizient speichern und nutzen | c’t uplink",
+      "teaser": "Woher wissen Solarakkus, wie viel Strom der eigene Haushalt gerade benötigt? Im c’t-Podcast erklären wir, wie man sie effizient einspeisen lässt.",
+      "url": "https://www.heise.de/news/Sonnenenergie-effizient-speichern-und-nutzen-c-t-uplink-11303877.html"
+    },
+    {
       "title": "Patientendaten betroffen: Cyberangriff auf Abrechnungsdienstleister von Kliniken",
       "teaser": "Ein Cyberangriff auf den Abrechnungsdienstleister Unimed betrifft zahlreiche Unikliniken und sensible Daten von zehntausenden Patienten.",
       "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html",
       "image_title": "Wartebereich einer Klinik"
     },
     {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
       "title": "Lizenzstreit und Cloud-Zwang: Bambu Lab unter massivem Druck",
       "teaser": "Ein polnischer Entwickler, eine DMCA-Drohung und fünf chinesische Gesetze: Der Streit um Bambu Labs geschlossenes Ökosystem erreicht eine neue Eskalationsstufe.",
       "url": "https://www.heise.de/news/Bambu-Lab-vs-Community-Streit-um-offene-3D-Drucker-eskaliert-erneut-11304925.html"
-    },
-    {
-      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
-      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
     },
     {
       "title": "TV-Deals zur WM: Die besten Fernseher von OLED bis XXL zum Tiefstpreis",
@@ -223,12 +228,6 @@
       "image_title": "Serverboard mit zwei CPUs liegt auf einem Holztisch"
     },
     {
-      "title": "KI-Gateways: Tools für Kostenkontrolle im Check",
-      "teaser": "Um keine Überraschung bei der KI-Rechnung zu erleben, lohnt es sich, ein KI-Gateway wie Helicone, Kong, LiteLLM und Portkey einzusetzen. Eine Übersicht.",
-      "url": "https://www.heise.de/hintergrund/Kostenkontrolle-mit-KI-Gateways-11296957.html",
-      "image_title": ", Vanessa Bahr / iX"
-    },
-    {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
       "teaser": "Balkonkraftwerke mit Speicher versprechen einen automatischen Ausgleich des Stromverbrauchs. Vier Systeme im Test.",
       "url": "https://www.heise.de/tests/XXL-Speicher-fuer-Balkonkraftwerke-im-Test-10640165.html"
@@ -245,11 +244,6 @@
       "image_title": "Photovoltaikanlagen auf einem Ziegeldach"
     },
     {
-      "title": "Öffentliches Ladenetz zunehmend gefährlich",
-      "url": "https://www.heise.de/news/BSI-zu-Risiko-oeffentlicher-Ladestationen-11294135.html",
-      "image_title": "Ladestecker an einer Ladestation"
-    },
-    {
       "title": "Deutsche Bahn verweigert Auskunft für Linuxer",
       "url": "https://www.heise.de/news/Deutsche-Bahn-Keine-Auskunft-unter-Linux-11300742.html"
     },
@@ -258,18 +252,22 @@
       "url": "https://www.heise.de/news/Nach-Kritik-Justizministerium-plant-Schutz-der-ePA-vor-Beschlagnahme-11298569.html"
     },
     {
+      "title": "LaneSaber: Radfahrender Maker baut sich LED-Lichtschwert gegen zu enge Überholer",
+      "url": "https://www.heise.de/news/LaneSaber-Radfahrender-Maker-baut-sich-LED-Lichtschwert-gegen-zu-enge-Ueberholer-11297012.html"
+    },
+    {
       "title": "Früher in die Rente: Wie Sie mit dem FIRE-Prinzip finanzielle Freiheit erreichen",
       "url": "https://www.heise.de/ratgeber/Frueher-in-die-Rente-Wie-Sie-mit-dem-FIRE-Prinzip-finanzielle-Freiheit-erreichen-11187341.html"
     },
     {
-      "title": "Strom versus Sprit: Womit Sie günstiger fahren",
-      "url": "https://www.heise.de/ratgeber/Strom-versus-Sprit-Womit-Sie-guenstiger-fahren-11247154.html",
+      "title": "iPhone-Klau auf Reisen: So minimiert man den Schaden",
+      "url": "https://www.heise.de/ratgeber/iPhone-Klau-auf-Reisen-So-minimiert-man-den-Schaden-11241371.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "8-Watt-Mini: Kompakten, sparsamen und leisen Mini-PC selbst bauen",
-      "url": "https://www.heise.de/ratgeber/8-Watt-Mini-Kompakten-sparsamen-und-leisen-Mini-PC-selbst-bauen-11251816.html",
+      "title": "Tschüss Google Maps: Navigations-Apps mit OpenStreetMap im Vergleich",
+      "url": "https://www.heise.de/ratgeber/Tschuess-Google-Maps-Navigations-Apps-mit-OpenStreetMap-im-Vergleich-11268273.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -316,6 +314,12 @@
       "teaser": "50 % Rabatt für 5 Monate heise+ – mit allen Inhalten auf heise online inklusive Tests, Ratgebern und tiefgehende Hintergründe sowie digitaler Zugriff auf alle Magazine des heise-Kosmos.",
       "url": "https://www.heise.de/plus/abo/aktionsangebot?affiliateId=37794&wt_mc=intern.abo.plus.hp_2026_fruehjahr.ho_advt.ad1.ad1",
       "image_title": "heise+ 50 % Rabatt"
+    },
+    {
+      "title": "KI-Gateways: Tools für Kostenkontrolle im Check",
+      "teaser": "Um keine Überraschung bei der KI-Rechnung zu erleben, lohnt es sich, ein KI-Gateway wie Helicone, Kong, LiteLLM und Portkey einzusetzen. Eine Übersicht.",
+      "url": "https://www.heise.de/hintergrund/Kostenkontrolle-mit-KI-Gateways-11296957.html",
+      "image_title": ", Vanessa Bahr / iX"
     },
     {
       "title": "Googles XR-Brillen auf der I/O: Project Aura & Prototyp ausprobiert",
@@ -387,14 +391,14 @@
       "url": "https://www.heise.de/tests/Steam-Controller-im-Test-Flexibel-aber-nicht-ohne-Kompromisse-11276861.html"
     },
     {
+      "title": "Identitätsmanagement im Zeitalter von Agentic AI",
+      "teaser": "Im Webcast am 18.6. geht es darum, welche speziellen Anpassungen beim Identitäts- und Zugriffsmanagement es braucht, wenn Unternehmen Agentic AI sicher einsetzen möchten.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/identitaetsmanagement-im-zeitalter-von-agentic-ai-5061/?source=hbsadersatz"
+    },
+    {
       "title": "c't-Podcast: „KI kann allein keine Cyberangriffe entwickeln“",
       "teaser": "Eine erfolgreich ausgenutzte Zeroday-Schwachstelle auf der Basis von KI? Haya Schulmann über Hype und Realität rund um KI und IT-Sicherheit.",
       "url": "https://www.heise.de/news/c-t-Podcast-KI-kann-allein-keine-Cyberangriffe-entwickeln-11304391.html"
-    },
-    {
-      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
-      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
     },
     {
       "title": "Avatare und Augmented Reality: Apple schnappt sich kleines Start-up",
@@ -447,25 +451,23 @@
       "url": "https://www.heise.de/tests/GMX-bringt-KI-ins-Postfach-Wir-haben-den-Assistenten-ausprobiert-11284711.html"
     },
     {
-      "title": "Verbraucherschützer fordern Schadensersatz für Nutzer bei Smart-Meter-Problemen",
-      "teaser": "Der Wechsel in einen dynamischen Stromtarif scheitert häufig an Smart-Meter-Problemen. Verbraucherschützer fordern deshalb nun einen neuen Erstattungsanspruch.",
-      "url": "https://www.heise.de/news/VZBV-Nutzer-sollen-bei-Smart-Meter-Problemen-Schadensersatz-erhalten-11303947.html",
-      "image_title": "Smart Meter Gateway"
+      "title": "Software Testing: So ändert Agentic Engineering die Softwareentwicklung",
+      "url": "https://www.heise.de/blog/Software-Testing-Agentic-Engineering-statt-Vibe-Coding-11303681.html",
+      "image_title": "Aufmacher Software-Testing"
     },
     {
-      "title": "Nvidia im KI-Rausch: GeForce verschwindet in der Versenkung",
-      "url": "https://www.heise.de/news/Nvidia-Alles-fuer-die-Anleger-Spieler-gehen-unter-11301498.html",
-      "image_title": "Nvidia-Chef Jensen Huang auf einer Bühne vor Servern"
+      "title": "Satelliten-Internet: Starlink hebt die Preise an",
+      "url": "https://www.heise.de/news/Starlink-erhoeht-Preise-in-Deutschland-11302622.html",
+      "image_title": "Starlink Antenne"
     },
     {
-      "title": "RTL-SDR V4 eingestellt: Beliebter SDR-Stick erreicht das Aus",
-      "url": "https://www.heise.de/news/RTL-SDR-V4-eingestellt-Beliebter-SDR-Stick-erreicht-das-Aus-11300874.html",
-      "image_title": "Ein schwarzer RTL-SDR V4 USB-Dongle mit SMA-Antennenanschluss und USB-Stecker, überlagert von einem roten Verbotssymbol auf grauem Hintergrund."
+      "title": "Kupfer-Glas-Migration: „Homes connected macht keinen Sinn“",
+      "url": "https://www.heise.de/news/Kupfer-Glas-Migration-Homes-connected-macht-keinen-Sinn-11303095.html"
     },
     {
-      "title": "IT-Vorfall: Cybergang Rhysida erpresst Stadt Stuttgart",
-      "url": "https://www.heise.de/news/Cybergang-Rhysida-behauptet-Datenklau-bei-Stadt-Stuttgart-11301736.html",
-      "image_title": "Darknet-Eintrag bei Rhysida vor Matrix-Regen-Hintergrund"
+      "title": "Hyperschallflug: Jaxa testet Mach-5-Triebwerk",
+      "url": "https://www.heise.de/news/Hyperschallflug-Jaxa-testet-Mach-5-Triebwerk-11300025.html",
+      "image_title": "Konzept eines Hyperschallpassagierflugzeugs der Jaxa"
     },
     {
       "title": "Marsrover: Forscher entwickeln Räder nach dem Vorbild einer Sahara-Eidechse",
@@ -478,24 +480,19 @@
       "image_title": "Roboter Atlas hebt Kühlschrank."
     },
     {
-      "title": "James-Webb-Teleskop enthüllt neue Details des kosmischen Netzes",
-      "url": "https://www.heise.de/news/James-Webb-Teleskop-enthuellt-neue-Details-des-kosmischen-Netzes-11301186.html",
-      "image_title": "Stunning,Galaxy,-,Elements,Of,This,Image,Furnished,By,Nasa"
+      "title": "Kopfhörer mit KI-Chip made in Germany: Soundcore Liberty 5 Pro ausprobiert",
+      "url": "https://www.heise.de/news/Kopfhoerer-mit-KI-Chip-made-in-Germany-Soundcore-Liberty-5-Pro-ausprobiert-11303271.html",
+      "image_title": "Soundcore Liberty 5 Pro in zwei Farbvarianten"
     },
     {
-      "title": "Surface Laptop: Microsoft bricht mit eigener Speicheranforderung",
-      "url": "https://www.heise.de/news/Surface-Laptop-Microsoft-bricht-mit-eigener-Speicheranforderung-11301236.html",
-      "image_title": "Zwei aufgeklappte Microsoft-Surface-Geräte vor weißem Hintergrund"
+      "title": "Waymo stoppt Autobahnfahrten und Robotaxi-Dienste in Städten mit Starkregen",
+      "url": "https://www.heise.de/news/Waymo-stoppt-Autobahnfahrten-und-Robotaxi-Dienste-in-Staedten-mit-Starkregen-11303285.html",
+      "image_title": "Waymo-Robotaxi fährt auf US-amerikanischer Autobahn"
     },
     {
-      "title": "Mac-Thunderbolt-5-Dock mit 26 Ports von Ivanky – darunter 12 Mal USB-C",
-      "url": "https://www.heise.de/news/Mac-Thunderbolt-5-Dock-mit-26-Ports-von-Ivanky-darunter-12-Mal-USB-C-11297310.html",
-      "image_title": "Fusion Dock Ultra von Ivanky"
-    },
-    {
-      "title": "MMS in Deutschland vor dem Aus",
-      "url": "https://www.heise.de/news/MMS-in-Deutschland-vor-dem-Aus-11301494.html",
-      "image_title": "Symbol eines Kuverts auf einem Bildschirm"
+      "title": "Elektro-Sportenduro Radian EXR vorgestellt: Viel Kraft aus Wechselakkus",
+      "url": "https://www.heise.de/news/Elektro-Sportenduro-Radian-EXR-vorgestellt-Viel-Kraft-aus-Wechselakkus-11301956.html",
+      "image_title": "Radian EXR"
     },
     {
       "title": "Apples angestrebte Weltrechte für die Formel 1: Drei Länder sind raus",
@@ -503,34 +500,38 @@
       "image_title": "Formel-1-Rennen, hier in Monaco"
     },
     {
-      "title": "Googles 3D-Weltgenerator erzeugt jetzt echte Orte aus Street View",
-      "url": "https://www.heise.de/news/Googles-3D-Weltgenerator-erzeugt-jetzt-echte-Orte-aus-Street-View-11300366.html",
-      "image_title": "Street-View-Aufnahme der Golden Gate Bridge neben einer von Project Genie erzeugten Unterwasserwelt mit Brücke."
+      "title": "Destiny-Ära endet: Bungie beendet Entwicklung von „Destiny 2\"",
+      "url": "https://www.heise.de/news/Bungie-Destiny-2-bekommt-am-9-Juni-sein-letztes-Update-11303329.html",
+      "image_title": "Screenshot aus Destiny 2"
     },
     {
-      "title": "Skoda Epiq vorgestellt: Fern jeder Aufregung",
-      "url": "https://www.heise.de/news/Skoda-Epiq-vorgestellt-Fern-jeder-Aufregung-11299068.html",
-      "image_title": "Skoda Epiq"
+      "title": "Panasonic Lumix L10: Edelkompakte mit großem Four-Thirds-Sensor",
+      "url": "https://www.heise.de/news/Panasonic-Lumix-L10-Edelkompakte-mit-grossem-Four-Thirds-Sensor-11301025.html",
+      "image_title": "Digitalkamera Lumix L10 von Panasonic"
     },
     {
-      "title": "SpaceX drängt mit Milliardenverlusten an die Börse",
-      "url": "https://www.heise.de/news/SpaceX-draengt-mit-Milliardenverlusten-an-die-Boerse-11301562.html",
-      "image_title": "SpaceX-Schriftzug am Standort in Texas"
+      "title": "Citroën kündigt Elektroauto mit dem Namen „2CV“ an",
+      "url": "https://www.heise.de/news/Citroen-kuendigt-Elektroauto-mit-dem-Namen-2CV-an-11304027.html",
+      "image_title": "2CV von oben"
     },
     {
-      "title": "PC-Hersteller: CPU-Mangel bereits akuter als Speichermangel",
-      "url": "https://www.heise.de/news/PC-Hersteller-CPU-Mangel-bereits-akuter-als-Speichermangel-11300358.html",
-      "image_title": "Intel Core Ultra 200S im Mainboard"
+      "title": "Verbraucherschützer fordern Schadensersatz für Nutzer bei Smart-Meter-Problemen",
+      "url": "https://www.heise.de/news/VZBV-Nutzer-sollen-bei-Smart-Meter-Problemen-Schadensersatz-erhalten-11303947.html",
+      "image_title": "Smart Meter Gateway"
     },
     {
-      "title": "Analyse zur Google I/O: Überfällige Ehrlichkeit",
-      "url": "https://www.heise.de/meinung/Analyse-zur-Google-I-O-Ueberfaellige-Ehrlichkeit-11299955.html",
-      "image_title": "Reinigungsarbeiten vor dem Auftakt der Google I/O 2026"
+      "title": "Riesenrakete Starship: SpaceX hat den nächsten Testflug erneut verschoben",
+      "url": "https://www.heise.de/news/Riesenrakete-Starship-SpaceX-hat-den-naechsten-Testflug-erneut-verschoben-11303345.html",
+      "image_title": "Das Raumschiff an einer Halterung"
     },
     {
-      "title": "Bitcoin Depot: Nordamerikas größter Bitcoin-Automatenbetreiber ist pleite",
-      "url": "https://www.heise.de/news/Bitcoin-Depot-Nordamerikas-groesster-Bitcoin-Automatenbetreiber-ist-pleite-11298077.html",
-      "image_title": "Zerbrechende Münze mit Bitcoin-Logo"
+      "title": "Mit dem Deutschland-Stack samt Zertifizierung zur digitalen Souveränität",
+      "url": "https://www.heise.de/news/Cloud-KI-Co-Wie-der-Deutschland-Stack-digitale-Souveraenitaet-schaffen-soll-11303221.html",
+      "image_title": "2 Herren und 3 Damen sitzen auf einer Bühne; darüber wird auf eine Leindwand projiziert: \"Why so many Standards? Digital Sovereignty between SCS, C3A & Co.\""
+    },
+    {
+      "title": "Zum Jahresende: Bundestag beschließt Ende der De-Mail",
+      "url": "https://www.heise.de/news/Zum-Jahresende-Bundestag-beschliesst-Ende-der-De-Mail-11303787.html"
     },
     {
       "title": "Disput um Glasfaser in Gebäuden: Marktversagen oder Überregulierung",
@@ -538,23 +539,18 @@
       "image_title": "Kabelrollen stehen neben einem offenen Schacht"
     },
     {
-      "title": "Verbraucherschützer kritisieren mangelndes Vorgehen gegen Finanzbetrug",
-      "url": "https://www.heise.de/news/Europaweite-Beschwerden-gegen-Finanzwerbung-bei-Google-Co-11302016.html",
-      "image_title": "Frau an Smartphone"
+      "title": "Vorsicht, Kunde! – Wenn der Gutschein plötzlich wertlos wird",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Wenn-der-Gutschein-ploetzlich-wertlos-wird-11302953.html",
+      "image_title": "Gutschein mit Schleife vor blau-goldenem Hintergrund"
     },
     {
-      "title": "Musk v Altman: Das Gfrett mit Geschworenen",
-      "url": "https://www.heise.de/hintergrund/Musk-v-Altman-Das-Gfrett-mit-Geschworenen-11299999.html",
-      "image_title": "Negativ eines Ausschnitts einer handschriftlichen Mitteilung \"From: Juror no:9\" Text: \"# Was MR. Greg & MR. Altman hired... #Was They seeing him (MR. Musk) as ... contribute any money to start the compan...\" Hervorgehoben sind \"MR. Altman\" und \"(MR. Musk)\""
+      "title": "Freitag: Robotaxi-Probleme in den USA, Australiens Kinderschutz-Strafe gegen X",
+      "url": "https://www.heise.de/news/Freitag-Robotaxi-Probleme-in-den-USA-Australiens-Kinderschutz-Strafe-gegen-X-11303295.html",
+      "image_title": "Wegen Überflutung abgesperrte Straße in den USA; Freitag: Robotaxi-Probleme, X-Kinderschutz, Chatbot-Anonymisierung, Souveränität-Ansätze & Verbraucherschutz-Podcast"
     },
     {
-      "title": "Donnerstag: Nvidia-KI verdrängt GeForce, OpenAI nach Musk-Klage vor Börsengang",
-      "url": "https://www.heise.de/news/Donnerstag-Nvidia-KI-verdraengt-GeForce-OpenAI-nach-Musk-Klage-vor-Boersengang-11301554.html",
-      "image_title": "Verschiedene Grafikkarten nebeneinander in diffusem Licht; Donnerstag: GeForce-Randnotiz, OpenAI-Börsenantrag, Samsung-Streikabsage, GMX-KI-Funktionen & #heiseshow"
-    },
-    {
-      "title": "#heiseshow: Google I/O, Glasfaserausbau, Mini-Kameras",
-      "url": "https://www.heise.de/news/heiseshow-Google-I-O-Glasfaserausbau-Mini-Kameras-11300738.html"
+      "title": "GMX bringt KI ins Postfach: Wir haben den Assistenten ausprobiert",
+      "url": "https://www.heise.de/tests/GMX-bringt-KI-ins-Postfach-Wir-haben-den-Assistenten-ausprobiert-11284711.html"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -606,21 +602,22 @@
       "image_title": "Microsoft Authenticator icon next to a warning sign against a blue mosaic background"
     },
     {
-      "title": "Apple's new Hardware Chief Johny Srouji Restructures Product Design Department",
-      "url": "https://www.heise.de/en/news/Apple-s-new-Hardware-Chief-Johny-Srouji-Restructures-Product-Design-Department-11302342.html"
+      "title": "Attack on GitHub: Data from 3800 internal repositories stolen",
+      "url": "https://www.heise.de/en/news/Attack-on-GitHub-Data-from-3800-internal-repositories-stolen-11300697.html"
     },
     {
-      "title": "Volvo integrates Google Gemini and immersive navigation into new vehicles",
-      "url": "https://www.heise.de/en/news/Volvo-integrates-Google-Gemini-and-immersive-navigation-into-new-vehicles-11302430.html"
+      "title": "Reading code instead of writing code: The underestimated senior discipline",
+      "url": "https://www.heise.de/en/blog/Reading-code-instead-of-writing-code-The-underestimated-senior-discipline-11295136.html"
     },
     {
-      "title": "Nvidia: All for the investors – gamers go under",
-      "url": "https://www.heise.de/en/news/Nvidia-All-for-the-investors-gamers-go-under-11301517.html"
+      "title": "Digital Sovereignty: OpenDesk Not Full Microsoft Alternative, Study Finds",
+      "url": "https://www.heise.de/en/news/Digital-Sovereignty-OpenDesk-Not-Full-Microsoft-Alternative-Study-Finds-11303164.html"
     },
     {
-      "title": "Windows 11 ist ein kompletter Verkehrsunfall",
-      "teaser": "Windows 11 hat den Ruf, ziemlich fehlerhaft zu sein. Wir wollten wissen: Was genau ist aktuell kaputt?",
-      "url": "https://www.heise.de/news/Windows-11-ist-ein-kompletter-Verkehrsunfall-11304565.html"
+      "title": "Verbraucherschützer fordern Schadensersatz für Nutzer bei Smart-Meter-Problemen",
+      "teaser": "Der Wechsel in einen dynamischen Stromtarif scheitert häufig an Smart-Meter-Problemen. Verbraucherschützer fordern deshalb nun einen neuen Erstattungsanspruch.",
+      "url": "https://www.heise.de/news/VZBV-Nutzer-sollen-bei-Smart-Meter-Problemen-Schadensersatz-erhalten-11303947.html",
+      "image_title": "Smart Meter Gateway"
     },
     {
       "title": "Kommentar zur überarbeiteten SucheGoogle macht Ernst",
@@ -629,10 +626,9 @@
       "image_title": "Zeichnung eines Rattenfängers mit Google-Logo, der Menschen zu Gebäuden mit der Aufschrift KI lockt."
     },
     {
-      "title": "Verbraucherschützer fordern Schadensersatz für Nutzer bei Smart-Meter-Problemen",
-      "teaser": "Der Wechsel in einen dynamischen Stromtarif scheitert häufig an Smart-Meter-Problemen. Verbraucherschützer fordern deshalb nun einen neuen Erstattungsanspruch.",
-      "url": "https://www.heise.de/news/VZBV-Nutzer-sollen-bei-Smart-Meter-Problemen-Schadensersatz-erhalten-11303947.html",
-      "image_title": "Smart Meter Gateway"
+      "title": "Sonnenenergie effizient speichern und nutzen | c’t uplink",
+      "teaser": "Woher wissen Solarakkus, wie viel Strom der eigene Haushalt gerade benötigt? Im c’t-Podcast erklären wir, wie man sie effizient einspeisen lässt.",
+      "url": "https://www.heise.de/news/Sonnenenergie-effizient-speichern-und-nutzen-c-t-uplink-11303877.html"
     },
     {
       "title": "Die besten Rad-Pfad-FinderZehn Fahrrad-Navi-Apps für iOS im Test",
@@ -653,28 +649,28 @@
       "image_title": "Netzwerk-Management am Mac"
     },
     {
+      "title": "Dual-Laser von AtomStack Kraft im Test",
+      "teaser": "Gravieren und Schneiden in einem einzigen Arbeitsgang dank eingebautem Dual-Laser – das ist das Alleinstellungsmerkmal des Lasercutters AtomStack Kraft.",
+      "url": "https://www.heise.de/tests/Dual-Laser-von-AtomStack-Kraft-im-Test-11299230.html",
+      "image_title": ","
+    },
+    {
       "title": "FireflyRack-Server mit bis zu 128 RISC-V-Modulen und 1024 CPU-Kernen",
       "teaser": "Die chinesische Marke Firefly verkauft Server mit 48 RISC-V-Modulen, 384 CPU-Kernen und 768 GByte RAM ab 34.150 Euro.",
       "url": "https://www.heise.de/news/Rack-Server-mit-bis-zu-128-RISC-V-Modulen-und-1024-CPU-Kernen-11301051.html",
       "image_title": "RISC-V-Server Firefly CSC2-N48SPK3"
     },
     {
-      "title": "Mischung aus Shaper Origin und Maslov CNC: mobiler Fräsroboter Cubiio-Gordix",
-      "teaser": "Gordix möchte die Portalfräse durch ein mobiles CNC-Robotersystem für große Werkstücke auf kleinem Raum ersetzen. Umbaubar zu Laser-Cutter und Plotter.",
-      "url": "https://www.heise.de/news/Kickstarter-Cubiio-Gordix-mobiler-Fraesroboter-11299639.html",
-      "image_title": "Mobiler Fräsroboter Cubiio-Gordix im Einsatz"
+      "title": "RTL-SDR V4 eingestelltBeliebter SDR-Stick erreicht das Aus",
+      "teaser": "Der RTL-SDR V4 verschwindet vom Markt. Ein Nachfolger mit Einschränkungen ist bereits geplant.",
+      "url": "https://www.heise.de/news/RTL-SDR-V4-eingestellt-Beliebter-SDR-Stick-erreicht-das-Aus-11300874.html",
+      "image_title": "Ein schwarzer RTL-SDR V4 USB-Dongle mit SMA-Antennenanschluss und USB-Stecker, überlagert von einem roten Verbotssymbol auf grauem Hintergrund."
     },
     {
-      "title": "Makey:Lab: Technik verstehen statt nur über Bildschirme zu wischen",
-      "teaser": "Raus aus dem Scroll-Modus, rein ins Machen: Makey:Lab bringt Jugendliche wieder dazu, selbst mit Technik zu experimentieren.",
-      "url": "https://www.heise.de/news/Makey-Lab-Technik-verstehen-statt-nur-ueber-Bildschirme-zu-wischen-11293352.html",
-      "image_title": "Makey:Lab"
-    },
-    {
-      "title": "Panasonic Lumix L10: Edelkompakte mit großem Four-Thirds-Sensor",
-      "teaser": "Panasonic bringt mit der Lumix L10 eine Premium-Kompaktkamera mit lichtstarkem Leica-Zoom, KI-Autofokus und Videofunktionen.",
-      "url": "https://www.heise.de/news/Panasonic-Lumix-L10-Edelkompakte-mit-grossem-Four-Thirds-Sensor-11301025.html",
-      "image_title": "Digitalkamera Lumix L10 von Panasonic"
+      "title": "Festivalfotografie: Tipps für perfekte Bilder im Fotograben",
+      "teaser": "Nur 15 Minuten für das perfekte Foto: Erfahren Sie, welche Kameraeinstellungen im Fotograben helfen und wie Sie Feuer, Nebel und buntes Licht perfekt einfangen.",
+      "url": "https://www.heise.de/ratgeber/Festivalfotografie-Tipps-fuer-perfekte-Bilder-im-Fotograben-11293473.html",
+      "image_title": "Pyroeffekte auf einer Bühne auf dem Wacken Open-Air-Musik-Festival"
     },
     {
       "title": "Festivalfotografie vorbereiten: Tipps zu Planung und Equipment",
@@ -713,18 +709,6 @@
       "image_title": ", Vanessa Bahr / iX"
     },
     {
-      "title": "Elektroauto „Citroën 2CV“ angekündigtE-Kleinwagen von Stellantis",
-      "teaser": "Citroën kündigt ein neues Elektroauto im Geist des legendären 2CV an. Details sollen auf dem Pariser Autosalon im Oktober 2026 folgen.",
-      "url": "https://www.heise.de/news/Citroen-kuendigt-Elektroauto-mit-dem-Namen-2CV-an-11304027.html",
-      "image_title": "2CV von oben"
-    },
-    {
-      "title": "Viel Kraft aus WechselakkusE-Enduro Radian EXR vorgestellt",
-      "teaser": "Das niederländische Start-up Radian präsentiert die EXR, eine elektrische Sportenduro mit patentiertem Wechselakkusystem und beeindruckenden Leistungsdaten.",
-      "url": "https://www.heise.de/news/Elektro-Sportenduro-Radian-EXR-vorgestellt-Viel-Kraft-aus-Wechselakkus-11301956.html",
-      "image_title": "Radian EXR"
-    },
-    {
       "title": "Neue Basis für eine neue StrategieStellantis stellt Fünfjahresplan vor",
       "teaser": "Stellantis hat seinen Fünfjahresplan „FaSTLAne 2030“ vorgestellt. Herzstück ist die modulare Plattform STLA One für Klein- bis Mittelklassewagen.",
       "url": "https://www.heise.de/news/Stellantis-stellt-neue-Plattform-fuer-neuen-Strategieplan-vor-11303569.html",
@@ -737,22 +721,34 @@
       "image_title": "Jeep"
     },
     {
-      "title": "Wie ein Minister Israels Propagandaapparat in Sekunden demontierte",
-      "teaser": "Ben-Gvir postet ein Video – und richtet damit mehr Schaden an als jede Boykottkampagne zuvor. Zurücktreten muss er trotzdem nicht. Ein Überblick.",
-      "url": "https://www.heise.de/article/Wie-ein-Minister-Israels-Propagandaapparat-in-Sekunden-demontierte-11303987.html",
-      "image_title": "Israelische Flagge hinter Stacheldraht"
+      "title": "Volvo integriert Google Gemini und immersive Navigation in neue Fahrzeuge",
+      "teaser": "Volvo rüstet seine Fahrzeuge mit Google Gemini und immersiver Navigation auf. Die KI soll Verkehrszeichen analysieren und beim Parken assistieren.",
+      "url": "https://www.heise.de/news/Volvo-integriert-Google-Gemini-und-immersive-Navigation-in-neue-Fahrzeuge-11302265.html",
+      "image_title": "Volvo Auto mit Google Gemini und Text \"Hey Google, kann ich hier parken?\""
     },
     {
-      "title": "Kuba: Die reife Frucht",
-      "teaser": "Ein Trump-Vertrauter übernimmt Kubas Nickelbergbau, Reedereien kappen Handelsrouten: Wie Washington versucht, ein Land auf die Knie zu zwingen. Ein Kommentar.",
-      "url": "https://www.heise.de/article/Kuba-Die-reife-Frucht-11302215.html",
-      "image_title": "Karte von Kuba"
+      "title": "Berlin muss schneller Straßenbäume pflanzen",
+      "teaser": "Ein neues Gesetz erfordert Nachpflanzungen, um Berlin bis 2040 an den Klimawandel anzupassen. Dem Ziel von 750.000 Bäumen entspräche einer je 15 Meter Straße.",
+      "url": "https://www.heise.de/news/Berlin-muss-schneller-Strassenbaeume-pflanzen-11302191.html",
+      "image_title": "Bundestag und Bundskanzleramt"
     },
     {
-      "title": "Die Deutsche Frage ist zurück – und Europa zittert",
-      "teaser": "Deutschlands Militärmacht wächst rasant – und alte Ängste vor deutscher Hegemonie in Europa kehren mit voller Wucht zurück.",
-      "url": "https://www.heise.de/article/Die-Deutsche-Frage-ist-zurueck-und-Europa-zittert-11299754.html",
-      "image_title": "Deutsche Flagge weht über einem Gebäude mit Säulen und Statuen."
+      "title": "NS-Richter in Karlsruhe: Jetzt müssen auch die Urteile auf den Prüfstand",
+      "teaser": "Belastete NS-Richter im Verfassungsgericht: Eine Studie öffnet die Akten – doch die eigentliche Konsequenz steht noch aus. Ein Leitartikel.",
+      "url": "https://www.heise.de/article/NS-Richter-in-Karlsruhe-Jetzt-muessen-auch-die-Urteile-auf-den-Pruefstand-11303981.html",
+      "image_title": "Schild des Bundesverfassungsgerichts"
+    },
+    {
+      "title": "Schlaf bestimmt, wie schnell deine Organe altern",
+      "teaser": "Forscher haben erstmals gemessen, wie stark Schlaf das biologische Alter deiner Organe verändert – das Ergebnis überrascht.",
+      "url": "https://www.heise.de/article/Schlaf-bestimmt-wie-schnell-deine-Organe-altern-11301668.html",
+      "image_title": "Eine Frau schläft auf einem Kissen mit einer Decke über sich."
+    },
+    {
+      "title": "Baltikum: Wo eine Drohne den nächsten Weltkrieg auslösen könnte",
+      "teaser": "Drohnen im Nato-Luftraum heizen die Lage rund um Kaliningrad auf. Russland droht, der Westen rüstet. Warum es jetzt De-Eskalation braucht. Ein Gastbeitrag.",
+      "url": "https://www.heise.de/article/Baltikum-Wo-ein-Drohne-den-naechsten-Weltkrieg-ausloesen-koennte-11300702.html",
+      "image_title": "Eine Drohne auf einem Feld"
     },
     {
       "title": "Wann gute Jobs unglücklich machen und was die Gehirngesundheit damit zu tun hat",
