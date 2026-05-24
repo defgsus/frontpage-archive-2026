@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-24T17:48:35",
+  "timestamp": "2026-05-24T18:56:51",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Top 10: Der beste Offroad-E-Scooter – Top-Federung & Riesen-Akku ab 500 Euro",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-offroad-e-scooter-top-federung-und-riesen-akku-ab-500-euro/mtwzmjq?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
     {
       "title": "Papst veröffentlicht Enzyklika zu Künstlicher Intelligenz",
       "url": "https://www.heise.de/news/Papst-veroeffentlicht-Enzyklika-zu-Kuenstlicher-Intelligenz-11305510.html"
@@ -58,10 +62,6 @@
       "url": "https://www.heise.de/hintergrund/Wie-KI-Forschungsberichte-vehunzt-zum-Teil-sogar-mit-Fake-Quellen-11288185.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
-      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-11299558.html"
     },
     {
       "title": "Missing LinkAus für De-Mail – warum das „@“ das eingekringelte „e“ besiegte",
@@ -184,21 +184,26 @@
       "url": "https://www.heise.de/news/Sonnenenergie-effizient-speichern-und-nutzen-c-t-uplink-11303877.html"
     },
     {
+      "title": "Top 10: Der beste Offroad-E-Scooter – Top-Federung & Riesen-Akku ab 500 Euro",
+      "teaser": "Über Bordstein, Wald und Wiese: Ein Offroad-E-Scooter braucht gute Federung und robuste Verarbeitung. Wir zeigen die 10 besten Modelle mit Straßenzulassung.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-offroad-e-scooter-top-federung-und-riesen-akku-ab-500-euro/mtwzmjq?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
       "title": "Papst veröffentlicht Enzyklika zu Künstlicher Intelligenz",
       "teaser": "Das Thema KI beschäftigt Papst Leo XIV. schon länger. Seine erste Enzyklika dazu gilt sozusagen als Regierungserklärung – mit einem besonderen Gast.",
       "url": "https://www.heise.de/news/Papst-veroeffentlicht-Enzyklika-zu-Kuenstlicher-Intelligenz-11305510.html",
       "image_title": "Menschen auf dem Petersplatz, im Hintergrund eine Leinwand, auf der Papst Leo XIV. zu sehen ist."
     },
     {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
       "title": "Künstliche Intelligenz bei Gericht: Wie die Justiz digital aufrüstet",
       "teaser": "Automatisierte KI-Software zur Urteilsanonymisierung läuft im Echtbetrieb, doch die finale Entscheidung im Gerichtssaal muss zwingend ein Mensch fällen.",
       "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-bei-Gericht-Wie-die-Justiz-digital-aufruestet-11305468.html",
       "image_title": "Waage, auf die ein Finger zeigt, umgeben von Justiz-Symbolen."
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Trump stoppt wichtige Verordnung für KI-Modelle",
@@ -227,11 +232,6 @@
       "title": "Wie KI Forschungsberichte vehunzt, zum Teil sogar mit Fake-Quellen",
       "teaser": "Forscher unter Veröffentlichungsdruck lassen Paper von Sprachmodellen schreiben. Inzwischen fallen inhaltlich flache Abhandlungen auf – und sogar Fake-Quellen.",
       "url": "https://www.heise.de/hintergrund/Wie-KI-Forschungsberichte-vehunzt-zum-Teil-sogar-mit-Fake-Quellen-11288185.html"
-    },
-    {
-      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
-      "teaser": "Ab dem 26.08. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
-      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-11299558.html"
     },
     {
       "title": "Im Test(XXL-)Speicher für Balkonkraftwerke",
@@ -322,6 +322,11 @@
       "image_title": "heise+ 50 % Rabatt"
     },
     {
+      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
+      "teaser": "Ab dem 26.08. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
+      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-11299558.html"
+    },
+    {
       "title": "Studie: KI bleibt oft im Testlauf stecken",
       "teaser": "Der Hype um Künstliche Intelligenz in der deutschen Wirtschaft ist groß. Doch einer Studie zufolge geht es bislang selten über die Testphase hinaus.",
       "url": "https://www.heise.de/news/Studie-KI-bleibt-oft-im-Testlauf-stecken-11305332.html"
@@ -389,15 +394,15 @@
       "url": "https://www.heise.de/ratgeber/PV-Vorhersage-fuer-Home-Assistant-E-Auto-und-smarte-Geraete-effizient-laden-11281519.html"
     },
     {
+      "title": "KI-Agenten effektiv und sicher einsetzen – Praxisbeispiele und Strategien",
+      "teaser": "KI-Agenten revolutionieren die Automatisierung, werfen aber Fragen zu Kontrolle und Sicherheit auf. Im Live-Webcast am 28.5. um 11 Uhr zeigen Experten, wie man KI souverän nutzt und typische Fehler vermeidet.",
+      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/KI-agenten-effektiv-und-sicher-einsetzen-praxisbeispiele-und-strategien-5056/?source=hbsad-ersatz"
+    },
+    {
       "title": "Krankenhaus-IT: Geldmangel und schlechte Prozesse gefährden Digitalisierung",
       "teaser": "Für viele durch das Krankenhauszukunftsgesetz angeschobenen Digitalprojekte fehlt die Folgefinanzierung. Warum das für Krankenhäuser zum Risiko wird.",
       "url": "https://www.heise.de/news/Krankenhaus-IT-Leiter-schlagen-Alarm-Geldmangel-gefaehrdet-Digitalisierung-11305062.html",
       "image_title": "Person an einer Tastatur, darüber zentral ein Stethoskop mit roter Farbe umkreist"
-    },
-    {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
     },
     {
       "title": "Google Pics und Tiger-Selfies – die Fotonews der Woche 21/2025",
@@ -449,11 +454,6 @@
       "teaser": "Der Bundestag hat ein Justiz-Reformpaket verabschiedet: Das polizeiliche Führungszeugnis wird digitalisiert, Online-Verfahren bei Notaren werden ausgeweitet.",
       "url": "https://www.heise.de/news/Vom-Postweg-ins-BundID-Konto-Bundestag-stimmt-fuer-digitales-Fuehrungszeugnis-11304887.html",
       "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
-    },
-    {
-      "title": "Europol legt VPN-Dienst lahm",
-      "teaser": "Europäische Polizeibehörden haben einen VPN-Dienst lahmgelegt, der Cyberkriminelle als Zielgruppe hatte.",
-      "url": "https://www.heise.de/news/Europol-legt-VPN-Dienst-lahm-11304520.html"
     },
     {
       "title": "Kommentar zur überarbeiteten Suche: Google macht Ernst",
@@ -516,6 +516,10 @@
       "image_title": "Digitalkamera Lumix L10 von Panasonic"
     },
     {
+      "title": "Europol legt VPN-Dienst lahm",
+      "url": "https://www.heise.de/news/Europol-legt-VPN-Dienst-lahm-11304520.html"
+    },
+    {
       "title": "Verbraucherschützer fordern Schadensersatz für Nutzer bei Smart-Meter-Problemen",
       "url": "https://www.heise.de/news/VZBV-Nutzer-sollen-bei-Smart-Meter-Problemen-Schadensersatz-erhalten-11303947.html",
       "image_title": "Smart Meter Gateway"
@@ -524,11 +528,6 @@
       "title": "Nvidia will mit Vera-Prozessoren nach der CPU-Krone greifen",
       "url": "https://www.heise.de/news/Nvidia-will-der-groesste-Prozessoranbieter-werden-11304715.html",
       "image_title": "Serverboard mit zwei CPUs liegt auf einem Holztisch"
-    },
-    {
-      "title": "Drei Fragen und Antworten: Wann sich KI-Coding wirklich rechnet",
-      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-man-Kostentreiber-beim-Vibe-Coding-vermeidet-11304542.html",
-      "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
     },
     {
       "title": "Mit dem Deutschland-Stack samt Zertifizierung zur digitalen Souveränität",
@@ -621,20 +620,20 @@
       "url": "https://www.heise.de/en/news/Microsoft-Authenticator-Critical-vulnerability-allows-token-theft-11296758.html"
     },
     {
-      "title": "c't 3003Windows 11 ist ein kompletter Verkehrsunfall",
-      "teaser": "Windows 11 hat den Ruf, ziemlich fehlerhaft zu sein. Wir wollten wissen: Was genau ist aktuell kaputt?",
-      "url": "https://www.heise.de/news/Windows-11-ist-ein-kompletter-Verkehrsunfall-11304565.html"
-    },
-    {
-      "title": "Wie KI Forschungsberichte vehunzt, zum Teil sogar mit Fake-Quellen",
-      "teaser": "Forscher unter Veröffentlichungsdruck lassen Paper von Sprachmodellen schreiben. Inzwischen fallen inhaltlich flache Abhandlungen auf – und sogar Fake-Quellen.",
-      "url": "https://www.heise.de/hintergrund/Wie-KI-Forschungsberichte-vehunzt-zum-Teil-sogar-mit-Fake-Quellen-11288185.html"
+      "title": "c’t uplinkSonnenenergie effizient speichern und nutzen",
+      "teaser": "Woher wissen Solarakkus, wie viel Strom der eigene Haushalt gerade benötigt? Im c’t-Podcast erklären wir, wie man sie effizient einspeisen lässt.",
+      "url": "https://www.heise.de/news/Sonnenenergie-effizient-speichern-und-nutzen-c-t-uplink-11303877.html"
     },
     {
       "title": "Verbraucherschützer fordern Schadensersatz für Nutzer bei Smart-Meter-Problemen",
       "teaser": "Der Wechsel in einen dynamischen Stromtarif scheitert häufig an Smart-Meter-Problemen. Verbraucherschützer fordern deshalb nun einen neuen Erstattungsanspruch.",
       "url": "https://www.heise.de/news/VZBV-Nutzer-sollen-bei-Smart-Meter-Problemen-Schadensersatz-erhalten-11303947.html",
       "image_title": "Smart Meter Gateway"
+    },
+    {
+      "title": "c't 3003Windows 11 ist ein kompletter Verkehrsunfall",
+      "teaser": "Windows 11 hat den Ruf, ziemlich fehlerhaft zu sein. Wir wollten wissen: Was genau ist aktuell kaputt?",
+      "url": "https://www.heise.de/news/Windows-11-ist-ein-kompletter-Verkehrsunfall-11304565.html"
     },
     {
       "title": "Die besten Rad-Pfad-FinderZehn Fahrrad-Navi-Apps für iOS im Test",
@@ -739,22 +738,22 @@
       "image_title": "STLA ONE"
     },
     {
+      "title": "NS-Richter in Karlsruhe: Jetzt müssen auch die Urteile auf den Prüfstand",
+      "teaser": "Belastete NS-Richter im Verfassungsgericht: Eine Studie öffnet die Akten – doch die eigentliche Konsequenz steht noch aus. Ein Leitartikel.",
+      "url": "https://www.heise.de/article/NS-Richter-in-Karlsruhe-Jetzt-muessen-auch-die-Urteile-auf-den-Pruefstand-11303981.html",
+      "image_title": "Schild des Bundesverfassungsgerichts"
+    },
+    {
+      "title": "Palantir: Wie Polizeibehörden in die Abhängigkeitsfalle tappen",
+      "teaser": "Londons Bürgermeister blockiert einen Millionen-Deal mit Palantir. Was dahintersteckt, sollten auch deutsche Behörden kennen.",
+      "url": "https://www.heise.de/article/Palantir-Wie-Polizeibehoerden-in-die-Abhaengigkeitsfalle-tappen-11304437.html",
+      "image_title": "Person arbeitet an einem Schreibtisch mit zwei Monitoren, auf denen komplexe Software- und Netzwerkdiagramme angezeigt werden."
+    },
+    {
       "title": "Pharma-Produktion in Europa: Warum der Plan an der Finanzierung scheitern könnte",
       "teaser": "Die EU will Medikamente wieder in Europa produzieren – doch wer die milliardenschweren Subventionen zahlen soll, ist völlig offen.",
       "url": "https://www.heise.de/article/Pharma-Produktion-in-Europa-Warum-der-Plan-an-der-Finanzierung-scheitern-koennte-11303081.html",
       "image_title": "Geld und Pillen"
-    },
-    {
-      "title": "Hoffnung bei Depression: Ketamin, Lachgas und Hirnstimulation",
-      "teaser": "Für Menschen mit therapieresistenter Depression gibt es bisher kaum Hilfen. Schnell wirkende Medikamente und Neuromodulation könnten das in Zukunft ändern.",
-      "url": "https://www.heise.de/article/Hoffnung-bei-Depression-Ketamin-Lachgas-und-Hirnstimulation-11304303.html",
-      "image_title": "Junge Frau mit einem weißen, Stirn und Schläfen umschließenden Gerät. Im Hintergrund ein Überwachungsmonitor."
-    },
-    {
-      "title": "Inferno RTC: Turm mit 54 Läufen schießt auf Drohnen in alle Richtungen",
-      "teaser": "Kein Radar, kein Schwenken: Der Inferno-Turm erkennt Drohnen per Mikrofon – und das hat im Gefecht einen entscheidenden Haken.",
-      "url": "https://www.heise.de/article/Inferno-RTC-Turm-mit-54-Laeufen-schiesst-auf-Drohnen-in-alle-Richtungen-11303193.html",
-      "image_title": "Ein kugelförmiges Objekt mit Löchern steht auf einem Tisch in einem Labor mit elektronischen Geräten und einer US-Flagge."
     },
     {
       "title": "Wann gute Jobs unglücklich machen und was die Gehirngesundheit damit zu tun hat",
