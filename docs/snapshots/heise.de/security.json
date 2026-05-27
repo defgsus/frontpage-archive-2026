@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T12:11:22",
+  "timestamp": "2026-05-27T16:30:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "AlertUniFi OS ServerUpdate gegen kritische Sicherheitslücken",
-      "teaser": "In UniFi OS Server und damit ausgestatteten Produkten können Angreifer fünf Lücken missbrauchen, um unbefugt Änderungen vorzunehmen.",
-      "url": "https://www.heise.de/news/UniFi-OS-Server-Kritische-Sicherheitsluecken-ermoeglichen-Angriffe-11307509.html",
-      "image_title": "Hand auf Smartphone, die durch Text scrollt."
+      "title": "AlertHochriskante Lücke7-Zip erlaubt Einschleusen von Schadcode",
+      "teaser": "Das populäre Packprogramm 7-Zip enthält eine Schwachstelle, die das Einschleusen von Schadcode ermöglicht. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/7-Zip-Update-schliesst-Codeschmuggel-Luecke-11308241.html",
+      "image_title": "7-zip-Logo mit Update-Stempel"
     },
     {
       "title": "„Passwort“ Folge 58News mit Failzwiebel, Lösegeld und rostigen Coreutils",
@@ -32,7 +32,7 @@
       "image_title": "Symbolbild „Passwort – der Podcast von heise security“"
     },
     {
-      "title": "Alert7-Zip: Update schließt Codeschmuggel-Lücke",
+      "title": "AlertHochriskante Lücke7-Zip erlaubt Einschleusen von Schadcode",
       "url": "https://www.heise.de/news/7-Zip-Update-schliesst-Codeschmuggel-Luecke-11308241.html",
       "image_title": "7-zip-Logo mit Update-Stempel"
     },
@@ -49,16 +49,22 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "Kommentar: Open-Source-Entwickler arbeiten sich an AI-Bugs krank",
+      "teaser": "Arbeitsverdichtung erzeugt Überlastung bei Entwicklern. Unternehmen scheffeln Milliarden dank Open Source und geben kaum zurück, findet Christopher Kunz.",
+      "url": "https://www.heise.de/meinung/Kommentar-Open-Source-Entwickler-arbeiten-sich-an-AI-Bugs-krank-11308345.html",
+      "image_title": "curl Kommentarkasten"
+    },
+    {
+      "title": "Umstrittene Befugnisse: BKA erhält Zugriff auf Angreifer-Infrastruktur",
+      "teaser": "Das Kabinett hat den Weg für neue Befugnisse freigemacht: Das Bundeskriminalamt soll künftig IT-Systeme von Angreifern stören oder zerstören dürfen.",
+      "url": "https://www.heise.de/news/Hackback-Erlaubnis-Kabinett-macht-Weg-frei-11308323.html",
+      "image_title": "Abstrakte Linien, die zusammen einen blauen Planeten bilden"
+    },
+    {
       "title": "iX-Workshop Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
       "teaser": "Lernen Sie, wie Sie Honeypots in Netzwerken und Clouds einrichten, um Angreifer zu täuschen und Ihre IT effektiv zu schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Cyber-Deception-Angreifer-mit-Honeypots-gezielt-in-die-Falle-locken-11298251.html",
       "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
-    },
-    {
-      "title": "Alert7-Zip: Update schließt Codeschmuggel-Lücke",
-      "teaser": "Das populäre Packprogramm 7-Zip enthält eine Schwachstelle, die das Einschleusen von Schadcode ermöglicht. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/7-Zip-Update-schliesst-Codeschmuggel-Luecke-11308241.html",
-      "image_title": "7-zip-Logo mit Update-Stempel"
     },
     {
       "title": "AlertFehler in Docker Model Runner erlaubt Sandboxausbruch unter macOS",
@@ -91,6 +97,12 @@
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
+      "title": "AlertUniFi OS Server: Update gegen kritische Sicherheitslücken",
+      "teaser": "In UniFi OS Server und damit ausgestatteten Produkten können Angreifer fünf Lücken missbrauchen, um unbefugt Änderungen vorzunehmen.",
+      "url": "https://www.heise.de/news/UniFi-OS-Server-Kritische-Sicherheitsluecken-ermoeglichen-Angriffe-11307509.html",
+      "image_title": "Hand auf Smartphone, die durch Text scrollt."
+    },
+    {
       "title": "AlertLiteSpeed cPanel-Plugin: Angriffe auf Schwachstelle beobachtet",
       "teaser": "LiteSpeed stellt für diverse CMS Plugins her. Das für cPanel weist eine Sicherheitslücke auf, die Angreifer bereits ausnutzen.",
       "url": "https://www.heise.de/news/LiteSpeed-cPanel-Plugin-Angriffe-auf-Schwachstelle-beobachtet-11307435.html",
@@ -120,7 +132,7 @@
       "url": "https://www.heise.de/news/Naechste-Woche-heise-security-Tour-Online-zu-KI-Identitaet-und-Lieferketten-11305566.html"
     },
     {
-      "title": "Motorola-Smartphones: Vorinstallierte App schleust offenbar Affiliate-Links ein",
+      "title": "UpdateMotorola-Smartphones: Vorinstallierte App schleust offenbar Affiliate-Links ein",
       "teaser": "Eine vorinstallierte App auf Motorola-Smartphones leitet Amazon-Aufrufe um und injiziert Affiliate-Codes. Betroffene können die App deaktivieren.",
       "url": "https://www.heise.de/news/Motorola-Smartphones-Vorinstallierte-App-schleust-offenbar-Affiliate-Links-ein-11306456.html",
       "image_title": "Motorola Razr 60 Telefone"
@@ -130,18 +142,6 @@
       "teaser": "Angreifer haben es derzeit auf mit dem CMS Drupal erstellte Websites abgesehen. Seiten sind aber nur verwundbar, wenn sie PostgreSQL nutzen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-nutzen-kritische-Schadcode-Luecke-in-Drupal-aus-11305870.html",
       "image_title": "Warnsymbol vor Quellcode"
-    },
-    {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11288918.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Cyberangriff auf Abrechnungsdienstleister betrifft viele Kliniken",
-      "teaser": "Ein Cyberangriff auf den Abrechnungsdienstleister Unimed betrifft zahlreiche Kliniken und sensible Daten von zehntausenden Patienten. Unimed hält sich bedeckt.",
-      "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html",
-      "image_title": "Wartebereich einer Klinik"
     },
     {
       "title": "Workshop | 02.06. – 03.06.2026DHCP-Automatisierung mit Kea und Stork",
@@ -202,8 +202,8 @@
       "url": "https://www.heise.de/news/Cybergang-Rhysida-behauptet-Datenklau-bei-Stadt-Stuttgart-11301736.html"
     },
     {
-      "title": "Cyberangriff auf Abrechnungsdienstleister betrifft viele Kliniken",
-      "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html"
+      "title": "Open-Source-Entwickler arbeiten sich an AI-Bugs krank",
+      "url": "https://www.heise.de/meinung/Kommentar-Open-Source-Entwickler-arbeiten-sich-an-AI-Bugs-krank-11308345.html"
     }
   ]
 }
