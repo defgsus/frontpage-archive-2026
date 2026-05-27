@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T08:56:06",
+  "timestamp": "2026-05-27T12:11:19",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,83 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop Cyber Deception: Angreifer mit Honeypots gezielt in die Falle locken",
+      "teaser": "Lernen Sie, wie Sie Honeypots in Netzwerken und Clouds einrichten, um Angreifer zu täuschen und Ihre IT effektiv zu schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cyber-Deception-Angreifer-mit-Honeypots-gezielt-in-die-Falle-locken-11298251.html",
+      "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
+    },
+    {
+      "title": "AlertFehler in Docker Model Runner erlaubt Sandboxausbruch unter macOS",
+      "teaser": "Ein Sicherheitsupdate schließt eine Schadcode-Schwachstelle in Docker für macOS.",
+      "url": "https://www.heise.de/news/Fehler-in-Docker-Model-Runner-erlaubt-Sandboxausbruch-unter-macOS-11308267.html",
+      "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
+    },
+    {
+      "title": "Google Health: Mehr Funktionen und Fehlerbehebungen angekündigt",
+      "teaser": "Die Google Health App ist nach Marktstart nicht ausgereift. Google hat nun eine Roadmap für kommende Bugfixes und Funktionen veröffentlicht.",
+      "url": "https://www.heise.de/news/Google-Health-Roadmap-verspricht-mehr-Funktionen-und-Fehlerbehebungen-11308217.html",
+      "image_title": "Google Health App Screenshot"
+    },
+    {
+      "title": "Grundschutz++: BSI nennt Termin für Zertifizierung ab 2027",
+      "teaser": "Das BSI hat offene Fragen zum neuen Grundschutz++ geklärt. Ab Anfang 2027 kann nach dem neuen Standard zertifiziert werden, WiBA-Checklisten bleiben erhalten.",
+      "url": "https://www.heise.de/news/Grundschutz-BSI-nennt-Termin-fuer-Zertifizierung-ab-2027-11308053.html",
+      "image_title": "BSI-Schild"
+    },
+    {
+      "title": "HintergrundGoogle unter Druck: Kampf um wertvolle Suchdaten in der EU",
+      "url": "https://www.heise.de/hintergrund/Google-unter-Druck-Kampf-um-wertvolle-Suchdaten-in-der-EU-11301230.html"
+    },
+    {
+      "title": "HintergrundFlüssig auf Reisen: Wie Sie im Ausland am besten bezahlen",
+      "url": "https://www.heise.de/hintergrund/Fluessig-auf-Reisen-Wie-Sie-im-Ausland-am-besten-bezahlen-11295733.html"
+    },
+    {
+      "title": "HintergrundFlaky Tests stabilisieren: Warum Locators wichtiger sind als komplexe XPaths",
+      "url": "https://www.heise.de/hintergrund/Flaky-Tests-stabilisieren-Warum-Locators-wichtiger-sind-als-komplexe-XPaths-11306360.html",
+      "image_title": "Illustration einer CI/CD-Pipeline mit erfolgreichen und fehlgeschlagenen Builds."
+    },
+    {
+      "title": "Alert7-Zip: Update schließt Codeschmuggel-Lücke",
+      "teaser": "Das populäre Packprogramm 7-Zip enthält eine Schwachstelle, die das Einschleusen von Schadcode ermöglicht. Ein Update steht bereit.",
+      "url": "https://www.heise.de/news/7-Zip-Update-schliesst-Codeschmuggel-Luecke-11308241.html",
+      "image_title": "7-zip-Logo mit Update-Stempel"
+    },
+    {
+      "title": "US-Bundesstaaten: Keine Alterskontrolle für Linux in Kalifornien und Colorado",
+      "teaser": "Gesetze, die eine Altersverifikation in Betriebssystemen vorsehen, nehmen zumindest in Kalifornien und Colorado wohl Open-Source aus.",
+      "url": "https://www.heise.de/news/Keine-Alterskontrolle-fuer-Linux-11308021.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund"
+    },
+    {
+      "title": "Dell AI Factory 2.0: Neue Server mit Nvidia B300 und eigenes Dateisystem",
+      "teaser": "Dell stellt auf seiner Hausmesse neue KI-Integrationen, die AI Data Platform und Project Lightning vor, um KI näher an Unternehmensdaten zu bringen.",
+      "url": "https://www.heise.de/news/Dell-AI-Factory-2-0-Neue-Server-mit-Nvidia-B300-und-eigenes-Dateisystem-11307866.html",
+      "image_title": "Ein Dell PowerEdge Server mit herausziehbaren Laufwerksschächten und Anschlüssen an der Vorderseite."
+    },
+    {
+      "title": "Windows-Update-Vorschau: App-Start-Turbo und bekannte Installationsprobleme",
+      "teaser": "Die Vorschau auf die nicht sicherheitsrelevanten Teile des Windows-Update für den Juni-Patchday beschleunigt den App-Start.",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-App-Start-Turbo-und-bekannte-Installationsprobleme-11307840.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "Pro & Contra: Hat der Mac Pro ein Comeback verdient?",
+      "teaser": "Apple hat im Frühjahr den Verkauf des Mac Pro eingestellt. Doch benötigen professionelle Mac-Anwender nicht einen erweiterbaren Tower?",
+      "url": "https://www.heise.de/meinung/Pro-Contra-Hat-der-Mac-Pro-ein-Comeback-verdient-11306715.html",
+      "image_title": "Pro & Contra Mac & i-Redakteure Johannes Schuster und Holger Zelder"
+    },
+    {
+      "title": "Gmail: Entwickler lösen Probleme mit Microsoft-Exchange-Online-Konten",
+      "teaser": "Die Gmail-App hat nicht zum ersten Mal Probleme mit Exchange-Online-Konten gehabt. Google hat nun die jüngsten Aussetzer behoben.",
+      "url": "https://www.heise.de/news/Gmail-Probleme-mit-Exchange-ActiveSync-geloest-11307723.html",
+      "image_title": "Das Gmail-Logo auf einem Smartphone, hier mit 5590 Benachrichtigungen"
+    },
+    {
       "title": "Nach 88 Tagen: Iran beendet längste Internetsperre der Geschichte",
       "teaser": "Verschiedene Beobachtungsdaten bestätigen, dass die totale Internetblockade im Iran beendet wurde. Das heißt aber nicht, dass die Menschen alles nutzen können.",
       "url": "https://www.heise.de/news/Willkommen-zurueck-Komplette-Internetsperre-im-Iran-nach-88-Tagen-beendet-11307539.html",
       "image_title": "Blick auf die Skyline von Teheran, im Hintergrund die Berge"
-    },
-    {
-      "title": "Passiv-PC Arctic senza AI 370 im Test: Schnell, lautlos, unsichtbar",
-      "teaser": "Arctic hängt seinen passiv gekühlten Mini-PC unter den Schreibtisch. Mit Mobiltechnik inklusive KI-Beschleuniger liefert er hohe Performance zum stolzen Preis.",
-      "url": "https://www.heise.de/tests/Passiv-PC-Arctic-senza-AI-370-im-Test-Schnell-lautlos-unsichtbar-11286683.html",
-      "image_title": "Ein Bild des passiven Komplett-PCs Arctic senta AI 370, der unter den Schreibtisch geschraubt wird."
     },
     {
       "title": "AlertRoundcube-Webmail-Instanzen mit Schadcode attackierbar",
@@ -42,21 +109,6 @@
       "teaser": "Mit OpenVPN 2.7 und Data Channel Offloading steigt der VPN-Durchsatz in IPFire auf bis zu 10 GBit/s. Dazu schließt das Update kritische Kernel-Lücken.",
       "url": "https://www.heise.de/news/Update-fuer-IPFire-Schnelleres-VPN-dank-OpenVPN-2-7-11307529.html",
       "image_title": "Ein Pinguin baut eine Ziegelmauer mit Werkzeug und Ziegeln."
-    },
-    {
-      "title": "HintergrundFlaky Tests stabilisieren: Warum Locators wichtiger sind als komplexe XPaths",
-      "url": "https://www.heise.de/hintergrund/Flaky-Tests-stabilisieren-Warum-Locators-wichtiger-sind-als-komplexe-XPaths-11306360.html",
-      "image_title": "Illustration einer CI/CD-Pipeline mit erfolgreichen und fehlgeschlagenen Builds."
-    },
-    {
-      "title": "Ratgeber9 Tipps: Monitorprobleme am Mac beheben",
-      "url": "https://www.heise.de/ratgeber/9-Tipps-Monitorprobleme-am-Mac-beheben-11296569.html",
-      "image_title": ", Madlen Grunert, Laura-Sophie Gruhn / heise medien"
-    },
-    {
-      "title": "RatgeberWie portless lokales Entwickeln vereinfacht",
-      "url": "https://www.heise.de/ratgeber/Wie-portless-lokales-Entwickeln-vereinfacht-11304512.html",
-      "image_title": ","
     },
     {
       "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
@@ -93,59 +145,6 @@
       "teaser": "LiteSpeed stellt für diverse CMS Plugins her. Das für cPanel weist eine Sicherheitslücke auf, die Angreifer bereits ausnutzen.",
       "url": "https://www.heise.de/news/LiteSpeed-cPanel-Plugin-Angriffe-auf-Schwachstelle-beobachtet-11307435.html",
       "image_title": "Trojanisches Pferd aus 0 und 1"
-    },
-    {
-      "title": "CLC 2026: KI-Agenten, Platform Engineering und Software Delivery im Fokus",
-      "teaser": "Die CLC 2026 vom 10. bis 12. November bietet Workshops und Vorträge zu KI-gestützter Softwareentwicklung, DevEx, Platform Engineering und Kubernetes-Betrieb.",
-      "url": "https://www.heise.de/news/CLC-2026-KI-Agenten-Platform-Engineering-und-Software-Delivery-im-Fokus-11306452.html",
-      "image_title": "CLC 2026: Call for Proposals gestartet"
-    },
-    {
-      "title": "340.000 Euro für die einen, 3400 für die anderen: Samsung-Angestellte für Boni",
-      "teaser": "Eine große Mehrheit der Gewerkschaftsmitglieder hat bei Samsung für die erzielte Einigung gestimmt. Zufrieden ist man aber nur in der Halbleiterproduktion.",
-      "url": "https://www.heise.de/news/340-000-Euro-fuer-die-einen-3400-fuer-die-anderen-Samsung-Angestellte-fuer-Boni-11307367.html",
-      "image_title": "Samsung-Schriftzug an einem Bürogebäude"
-    },
-    {
-      "title": "Speicherkrise: SK Hynix und Micron jetzt eine Billion US-Dollar wert",
-      "teaser": "Die enorme Nachfrage nach Speicher-Chips treibt die Aktienkurse der Hersteller weiter. Sowohl SK Hynix als auch Micron sind nun eine Billion US-Dollar wert.",
-      "url": "https://www.heise.de/news/Speicherkrise-SK-Hynix-und-Micron-jetzt-eine-Billion-US-Dollar-wert-11307343.html",
-      "image_title": "Steigender Aktienkurs"
-    },
-    {
-      "title": "Nvidia: GeForce Control Panel wird nach 20 Jahren eingestellt",
-      "teaser": "Mit dem Treiber 610.47 beendet Nvidia die Ära des GeForce Control Panels – mehr oder weniger. Alle wichtigen Funktionen seien in die Nvidia-App gewandert.",
-      "url": "https://www.heise.de/news/Nvidia-GeForce-Control-Panel-wird-nach-20-Jahren-eingestellt-11307339.html",
-      "image_title": "Nvidia App"
-    },
-    {
-      "title": "Top 10: Beste NVMe-SSD für PC und Laptop im Test – Kingston vor Corsair & Co.",
-      "teaser": "Kompakt, schnell und sparsam: NVMe-SSDs liefern bis zu 14.000 MB/s, lange Lebensdauer und passen in PC, Laptop und PS5.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-beste-nvme-ssd-fuer-pc-und-laptop-im-test-kingston-vor-corsair-und-co/kj0r95c?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Klage gegen Cloud-Abgabe: Der Verband CISPE zieht in Italien vor Gericht",
-      "teaser": "Die Ausweitung der Geräteabgabe auf die Cloud bedroht laut CISPE den europäischen Binnenmarkt und führt zu einer Doppelbesteuerung digitaler Infrastrukturen.",
-      "url": "https://www.heise.de/news/Klage-gegen-Cloud-Abgabe-Der-Verband-CISPE-zieht-in-Italien-vor-Gericht-11307185.html",
-      "image_title": "Copyright-Zeichen auf Europaflagge"
-    },
-    {
-      "title": "Europäische Antwort auf Mythos: Mistral und BNP kooperieren bei Bankensicherheit",
-      "teaser": "Das französische KI-Start-up Mistral hat angeblich ein eigenes KI-Modell für Cybersicherheit entwickelt und testet es gemeinsam mit der Großbank BNP Paribas.",
-      "url": "https://www.heise.de/news/Europaeische-Antwort-auf-Mythos-Mistral-und-BNP-kooperieren-bei-Bankensicherheit-11307195.html",
-      "image_title": "EU-Flagge weht vor blauem Himmel."
-    },
-    {
-      "title": "Aus für Ubuntu Pastebin: Abschaltung Ende Juni 2026",
-      "teaser": "Ende Juni 2026 ist Schluss für Ubuntu Pastebin. Zahllose Links könnten ins Leere laufen – ein Ersatzdienst ist bislang nicht angekündigt.",
-      "url": "https://www.heise.de/news/Aus-fuer-Ubuntu-Pastebin-Abschaltung-Ende-Juni-2026-11306893.html",
-      "image_title": "Das Ubuntu-Logo mit dem Schriftzug \"ubuntu\" und dem Kreis-Symbol daneben auf einem violetten Hintergrund."
-    },
-    {
-      "title": "Chip-Lithografie: Huawei will Moore's Law ablösen",
-      "teaser": "Huawei hat aufgrund der Sanktionen Schwierigkeiten, Transistoren weiter zu schrumpfen. Kurze Signalwege mit gestapelten Chips sollen die Probleme kaschieren.",
-      "url": "https://www.heise.de/news/Chip-Lithografie-Huawei-will-Moore-s-Law-abloesen-11306875.html",
-      "image_title": "Chipstrukturen auf Silizium-Wafer"
     },
     {
       "title": "HintergrundMissing Link: Aus für De-Mail – warum das „@“ das eingekringelte „e“ besiegte",
