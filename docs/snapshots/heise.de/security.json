@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-27T05:06:31",
+  "timestamp": "2026-05-27T08:56:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertUniFi OS ServerUpdate gegen kritische Sicherheitslücken",
+      "teaser": "In UniFi OS Server und damit ausgestatteten Produkten können Angreifer fünf Lücken missbrauchen, um unbefugt Änderungen vorzunehmen.",
+      "url": "https://www.heise.de/news/UniFi-OS-Server-Kritische-Sicherheitsluecken-ermoeglichen-Angriffe-11307509.html",
+      "image_title": "Hand auf Smartphone, die durch Text scrollt."
+    },
+    {
       "title": "AlertSicherheitsupdatesDoS- und Schadcode-Attacken auf NGINX-Webserver vorstellbar",
       "teaser": "In aktuellen Versionen von NGINX Open Source und NGINX Plus haben die Entwickler eine Sicherheitslücke geschlossen.",
       "url": "https://www.heise.de/news/DoS-und-Schadcode-Attacken-auf-NGINX-Webserver-vorstellbar-11306588.html",
       "image_title": "Ein symbolischer Updateknopf."
     },
     {
-      "title": "Verschlüsselung abgewehrtCyberangriff auf Abrechnungsdienstleister betrifft viele Kliniken",
-      "teaser": "Ein Cyberangriff auf den Abrechnungsdienstleister Unimed betrifft zahlreiche Kliniken und sensible Daten von zehntausenden Patienten. Unimed hält sich bedeckt.",
-      "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html",
-      "image_title": "Wartebereich einer Klinik"
-    },
-    {
-      "title": "AlertIBM QRadar SIEM: Schwachstellen in Komponenten von Drittanbietern geschlossen",
-      "url": "https://www.heise.de/news/IBM-QRadar-SIEM-Schwachstellen-in-Komponenten-von-Drittanbietern-geschlossen-11306682.html",
-      "image_title": "Ein symbolsicher Updatebalken füllt sich."
+      "title": "AlertRoundcube-Webmail-Instanzen mit Schadcode attackierbar",
+      "url": "https://www.heise.de/news/Roundcube-Webmail-Instanzen-mit-Schadcode-attackierbar-11307545.html",
+      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
     },
     {
       "title": "Es geht los!heise security Tour 2026",
@@ -47,6 +47,36 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "AlertRoundcube-Webmail-Instanzen mit Schadcode attackierbar",
+      "teaser": "In aktuellen Version haben die Entwickler von Roundcube Webmail mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Roundcube-Webmail-Instanzen-mit-Schadcode-attackierbar-11307545.html",
+      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
+    },
+    {
+      "title": "Freie Firewall: IPFire wird deutlich schneller",
+      "teaser": "Mit OpenVPN 2.7 und Data Channel Offloading steigt der VPN-Durchsatz in IPFire auf bis zu 10 GBit/s. Dazu schließt das Update kritische Kernel-Lücken.",
+      "url": "https://www.heise.de/news/Update-fuer-IPFire-Schnelleres-VPN-dank-OpenVPN-2-7-11307529.html",
+      "image_title": "Ein Pinguin baut eine Ziegelmauer mit Werkzeug und Ziegeln."
+    },
+    {
+      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11306582.html",
+      "image_title": "iX-Workshop: Advanced Kubernetes Security"
+    },
+    {
+      "title": "„Passwort“ Folge 58: News mit Failzwiebel, Lösegeld und rostigen Coreutils",
+      "teaser": "Vielschichtiges Sicherheitsversagen bei einer CA analysieren die Hosts ebenso wie den Wechsel der Linux-Coreutils auf Rust. Und es gibt Neues zu Ransomware.",
+      "url": "https://www.heise.de/news/Passwort-Folge-58-News-mit-Failzwiebel-Loesegeld-und-rostigen-Coreutils-11307108.html",
+      "image_title": "Symbolbild „Passwort – der Podcast von heise security“"
+    },
+    {
+      "title": "AlertLiteSpeed cPanel-Plugin: Angriffe auf Schwachstelle beobachtet",
+      "teaser": "LiteSpeed stellt für diverse CMS Plugins her. Das für cPanel weist eine Sicherheitslücke auf, die Angreifer bereits ausnutzen.",
+      "url": "https://www.heise.de/news/LiteSpeed-cPanel-Plugin-Angriffe-auf-Schwachstelle-beobachtet-11307435.html",
+      "image_title": "Trojanisches Pferd aus 0 und 1"
     },
     {
       "title": "AlertIBM QRadar SIEM: Schwachstellen in Komponenten von Drittanbietern geschlossen",
@@ -84,6 +114,12 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
+      "title": "Cyberangriff auf Abrechnungsdienstleister betrifft viele Kliniken",
+      "teaser": "Ein Cyberangriff auf den Abrechnungsdienstleister Unimed betrifft zahlreiche Kliniken und sensible Daten von zehntausenden Patienten. Unimed hält sich bedeckt.",
+      "url": "https://www.heise.de/news/Patientendaten-betroffen-Cyberangriff-auf-Abrechnungsdienstleister-von-Kliniken-11304982.html",
+      "image_title": "Wartebereich einer Klinik"
+    },
+    {
       "title": "Gelöscht und doch nicht weg: Signal speichert Nachrichten länger als erwartet",
       "teaser": "Je nachdem, wie intensiv man den Messenger nutzt, kann es Tage dauern, bis eine gelöschte Nachricht weg ist. Signal ignorierte den Fehler ein halbes Jahr.",
       "url": "https://www.heise.de/news/Geloescht-und-doch-nicht-weg-Signal-speichert-Nachrichten-laenger-als-erwartet-11304561.html",
@@ -106,41 +142,6 @@
       "teaser": "In Apache Airflow CNCF Kubernetes Provider und Apache Airflow Amazon Provider haben die Entwickler jeweils eine Sicherheitslücke geschlossen.",
       "url": "https://www.heise.de/news/Apache-Airflow-Komponenten-Angreifer-koennen-Datenbank-modifizieren-11303487.html",
       "image_title": "Eine symbolische Updateerinnerung."
-    },
-    {
-      "title": "Notepad++: Update bessert Schwachstelle im Installer aus",
-      "teaser": "Ein Update für Notepad++ schließt eine Sicherheitslücke im Installer. Noch fehlt ein offizieller CVE-Eintrag mit Risikobewertung.",
-      "url": "https://www.heise.de/news/Notepad-Update-bessert-Schwachstelle-im-Installer-aus-11303525.html",
-      "image_title": "Notepad++-Logo neben Achtung-Schild"
-    },
-    {
-      "title": "AlertCisco stopft Sicherheitsleck mit Höchstwertung in Secure Workload",
-      "teaser": "Cisco stellt ein Update bereit, das eine Sicherheitslücke mit höchstmöglicher Risikoeinschätzung in Secure Workload schließt.",
-      "url": "https://www.heise.de/news/Cisco-stopft-Sicherheitsleck-mit-Hoechstwertung-in-Secure-Workload-11303363.html"
-    },
-    {
-      "title": "AlertTrend Micro Apex One und Langflow: Warnung vor Angriffen",
-      "teaser": "In Trend Micro Apex One und Langflow klaffen Sicherheitslücken, die Cyberkriminelle aktiv attackieren. Davor warnt die CISA.",
-      "url": "https://www.heise.de/news/Schwachstellen-in-Trend-Micro-Apex-One-und-Langflow-unter-Beschuss-11303311.html",
-      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Kann WhatsApp verschlüsselte Nachrichten einsehen? Texas reicht Klage ein",
-      "teaser": "Seit Monaten kursieren in den USA wenig glaubhafte Vorwürfe, dass WhatsApp komplett verschlüsselte Inhalte einsehen kann. Jetzt reicht Texas Klage ein.",
-      "url": "https://www.heise.de/news/Texas-klagt-gegen-Meta-WhatsApp-kann-Verschluesselung-angeblich-umgehen-11303299.html",
-      "image_title": "WhatsApp-Logo auf einem Smartphone, das in einer Hand liegt."
-    },
-    {
-      "title": "Privacy Guardrail: Chrome-Erweiterung will sensible Daten vor Chatbots schützen",
-      "teaser": "Wer Texte in KI-Chatbots einfügt, gibt oft unbeabsichtigt sensible Daten weiter. Eine neue Chrome-Erweiterung des DFKI soll das verhindern.",
-      "url": "https://www.heise.de/news/Privacy-Guardrail-Chrome-Erweiterung-will-sensible-Daten-vor-Chatbots-schuetzen-11303231.html",
-      "image_title": "Screenshot \"Privacy Guardrail\""
-    },
-    {
-      "title": "Modularer Kleincomputer: Flipper One wird universelles Linux-Cyberdeck",
-      "teaser": "Der Flipper One soll kein bloßer Nachfolger des erfolgreichen Gadgets werden, sondern ein vielseitiger mobiler Begleiter. Die Community soll mitentwickeln.",
-      "url": "https://www.heise.de/news/Modularer-Kleincomputer-Flipper-One-wird-universelles-Linux-Cyberdeck-11300412.html",
-      "image_title": "Flipper One"
     },
     {
       "title": "Workshop | 02.06. – 03.06.2026DHCP-Automatisierung mit Kea und Stork",
