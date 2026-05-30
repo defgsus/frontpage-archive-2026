@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T09:47:59",
+  "timestamp": "2026-05-30T11:09:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Mastering GitOps 2026: Jetzt noch Frühbuchertickets sichern",
+      "teaser": "Wer bei der Online-Konferenz zu praxisrelevanten GitOps-Themen am 25. Juni 2026 zum vergünstigten Tarif dabei sein will, hat noch bis zum 3. Juni Zeit.",
+      "url": "https://www.heise.de/news/Mastering-GitOps-2026-Jetzt-noch-Fruehbuchertickets-sichern-11309389.html",
+      "image_title": "Mastering GitOps 2026"
+    },
+    {
+      "title": "Kritik an BSI-Rahmen: Scheinsouveränität für die europäische Cloud?",
+      "teaser": "Der neue C3A-Kriterienkatalog des BSI schützt laut dem EU-Cloudverband CISPE nicht vor US-Gesetzen, sondern zementiert die Abhängigkeit von Tech-Giganten.",
+      "url": "https://www.heise.de/news/Kritik-an-BSI-Rahmen-Scheinsouveraenitaet-fuer-die-europaeische-Cloud-11312411.html",
+      "image_title": "In der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
+    },
+    {
       "title": "Googles KI-Chip-Boss: „Wir sind uns der Inflation natürlich bewusst“",
       "teaser": "Amin Vahdat leitet das KI- und Infrastrukturteam bei Google. Im Interview erklärt er die TPU-Strategie – und wie viel Leistung KI-Agenten wirklich brauchen.",
       "url": "https://www.heise.de/hintergrund/Googles-KI-Chip-Boss-Wir-sind-uns-der-Inflation-natuerlich-bewusst-11311929.html",
@@ -30,18 +42,6 @@
       "teaser": "Einem geleakten Memo zufolge arbeitet Meta neben mehreren neuen Smart Glasses auch an einem KI-Anhänger und will die Geräte eng mit KI-Abonnements verzahnen.",
       "url": "https://www.heise.de/news/Meta-entwickelt-einen-KI-Anhaenger-11312357.html",
       "image_title": "Werbedisplay für Ray-Ban Meta Smart Glasses in einem Geschäft mit Produktmustern, Tablet und Werbeplakat im Hintergrund."
-    },
-    {
-      "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
-      "teaser": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11298305.html",
-      "image_title": "stilisierte Roboter stehen an einem Fließband und schweißen Teile zusammen; links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
-    },
-    {
-      "title": "KI-Agent im Browser: „Let's Build K.I.T.T. With JavaScript“",
-      "teaser": "Mit WebAssembly, WebGPU und anderen modernen Browsertechnologien entsteht in diesem Vortrag auf der enterJS ein KI-Agent, der autonome Entscheidungen trifft.",
-      "url": "https://www.heise.de/hintergrund/KI-Agent-im-Browser-Let-s-Build-K-I-T-T-With-JavaScript-11293527.html",
-      "image_title": "Futuristischer Weihnachtsbaum"
     },
     {
       "title": "HintergrundBarrierefreie Webentwicklung: Was automatisierte Tests wirklich leisten",
@@ -57,6 +57,18 @@
       "title": "RatgeberLokale Bild-KI für ältere Gaming-Hardware: So erzeugen Sie Bilder in Sekunden",
       "url": "https://www.heise.de/ratgeber/Lokale-Bild-KI-fuer-aelterer-Gaming-Hardware-So-erzeugen-Sie-Bilder-in-Sekunden-11309751.html",
       "image_title": "Eisvogel jagd Fisch: Ansprechende KI-Bilder lassen sich auch mit wenig VRAM schnell lokal generieren."
+    },
+    {
+      "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
+      "teaser": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11298305.html",
+      "image_title": "stilisierte Roboter stehen an einem Fließband und schweißen Teile zusammen; links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
+    },
+    {
+      "title": "KI-Agent im Browser: „Let's Build K.I.T.T. With JavaScript“",
+      "teaser": "Mit WebAssembly, WebGPU und anderen modernen Browsertechnologien entsteht in diesem Vortrag auf der enterJS ein KI-Agent, der autonome Entscheidungen trifft.",
+      "url": "https://www.heise.de/hintergrund/KI-Agent-im-Browser-Let-s-Build-K-I-T-T-With-JavaScript-11293527.html",
+      "image_title": "Futuristischer Weihnachtsbaum"
     },
     {
       "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
@@ -133,18 +145,6 @@
       "teaser": "Bare Bones Software bringt seinen klassischen Editor auf einen aktuellen Stand. Diesmal kann man in Bildern suchen, (noch) tiefer konfigurieren und mehr.",
       "url": "https://www.heise.de/news/BBEdit-16-Mehr-KI-mehr-Shortcuts-mehr-Konfigurierbarkeit-11310581.html",
       "image_title": "BBEdit 16"
-    },
-    {
-      "title": "Mistrals Chatbot heißt jetzt „Vibe“ und erhält neue Fähigkeiten",
-      "teaser": "Le Chat wird in „Vibe“ umbenannt. Das französische KI-Start-up Mistral bündelt darin einen Agenten für mehrstufige Aufgaben mit Programmierwerkzeugen.",
-      "url": "https://www.heise.de/news/Mistrals-Chatbot-heisst-jetzt-Vibe-und-erhaelt-neue-Faehigkeiten-11311506.html",
-      "image_title": "Smartphone mit Mistral-AI-Logo."
-    },
-    {
-      "title": "Uber erlaubt Tonaufnahmen – neue Sicherheitsfunktion startet",
-      "teaser": "Uber ermöglicht Fahrgästen ab sofort, Fahrten per Tonaufnahme zu dokumentieren. Wie das neue Feature funktioniert und welche Datenschutzregeln gelten.",
-      "url": "https://www.heise.de/news/Uber-erlaubt-Tonaufnahmen-neue-Sicherheitsfunktion-startet-11311482.html",
-      "image_title": "Vor einem Auto stehende Frau hält Smartphone in der Hand"
     },
     {
       "title": "UpdateNews25.000 Dollar für ein paar Minuten: Neuer Starlink-Tarif für US-Kamikazedrohnen",
