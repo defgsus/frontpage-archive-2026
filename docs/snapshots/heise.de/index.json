@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-30T14:25:16",
+  "timestamp": "2026-05-30T15:56:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Mistral Vibe: Die neuen agentischen Oberflächen Work und Code ausprobiert",
+      "url": "https://www.heise.de/news/Mistral-Vibe-Die-neuen-agentischen-Oberflaechen-Work-und-Code-ausprobiert-11311346.html"
+    },
     {
       "title": "Mähroboter Ecovacs Goat O600 RTK im Test: Günstig, für kleine Gärten gut",
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-ecovacs-goat-o600-rtk-im-test-guenstig-fuer-kleine-gaerten-gut/l4rshwz?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -58,10 +62,6 @@
     {
       "title": "KI-Ärger und Gletscher-Abschied – die Fotonews der Woche 22/2026",
       "url": "https://www.heise.de/news/KI-Aerger-und-Gletscher-Abschied-die-Fotonews-der-Woche-22-2026-11311740.html"
-    },
-    {
-      "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
-      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11298305.html"
     },
     {
       "title": "Künstliche IntelligenzAnthropic bringt „ehrlicheres“ Claude Opus 4.8",
@@ -181,20 +181,26 @@
       "image_title": "Aufmacherbild TGIQF"
     },
     {
+      "title": "Mistral Vibe: Die neuen agentischen Oberflächen Work und Code ausprobiert",
+      "teaser": "Mistral benennt Le Chat in Vibe um und führt agentische Arbeitsoberflächen ein. Wir haben sie uns näher angeschaut.",
+      "url": "https://www.heise.de/news/Mistral-Vibe-Die-neuen-agentischen-Oberflaechen-Work-und-Code-ausprobiert-11311346.html",
+      "image_title": "Mistral-Logo auf einem Smartphone-Bildschirm, im Hintergrund nochmal das Mistral-Logo auf weißem Hintergrund."
+    },
+    {
       "title": "Mähroboter Ecovacs Goat O600 RTK im Test: Günstig, für kleine Gärten gut",
       "teaser": "Ecovacs bewirbt den Goat O600 RTK für bis zu 600 m². In der Praxis ist deutlich früher Schluss. Wer das akzeptiert, bekommt einen günstigen RTK-Mäher.",
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-ecovacs-goat-o600-rtk-im-test-guenstig-fuer-kleine-gaerten-gut/l4rshwz?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Drei entscheidende Punkte für die Erneuerung der PC-Flotte",
+      "teaser": "Explodierende Kosten, hohe Sicherheitsvorgaben, stagnierende Budgets und fehlendes Personal erschweren oft die Erneuerung von PC-Flotten in Unternehmen und Behörden. Doch es gibt einen Ausweg.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7260981753&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Tschüss Tim Cook – Apples CEO-Wechsel",
       "teaser": "Apple hat mit John Ternus bald einen neuen Chef – und dieses Mal ging es fast ohne Drama. Das sind die Hintergründe und das plant Tim Cook.",
       "url": "https://www.heise.de/hintergrund/Tschuess-Tim-Cook-Apples-CEO-Wechsel-11296585.html",
       "image_title": "Tim Cook und John Ternus"
-    },
-    {
-      "title": "Ein europäischer Hyperscaler-Standard",
-      "teaser": "Der europäische Hyperscaler STACKIT schafft Fakten bei der digitalen Souveränität. Mit seiner Architektur und offenen Standards bietet er eine Antwort auf Abhängigkeiten von US-Anbietern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7318277714&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Mastering GitOps 2026: Jetzt noch Frühbuchertickets sichern",
@@ -224,12 +230,6 @@
       "teaser": "Einem geleakten Memo zufolge arbeitet Meta neben mehreren neuen Smart Glasses auch an einem KI-Anhänger und will die Geräte eng mit KI-Abonnements verzahnen.",
       "url": "https://www.heise.de/news/Meta-entwickelt-einen-KI-Anhaenger-11312357.html",
       "image_title": "Werbedisplay für Ray-Ban Meta Smart Glasses in einem Geschäft mit Produktmustern, Tablet und Werbeplakat im Hintergrund."
-    },
-    {
-      "title": "Flaky Tests stabilisieren: Warum Locators wichtiger sind als komplexe XPaths",
-      "teaser": "Flaky Tests sind ein unterschätztes Problem der Testautomatisierung. So werden instabile UI-Test-Suiten durch bessere Locators und Synchronisation stabilisiert.",
-      "url": "https://www.heise.de/hintergrund/Flaky-Tests-stabilisieren-Warum-Locators-wichtiger-sind-als-komplexe-XPaths-11306360.html",
-      "image_title": "Illustration einer CI/CD-Pipeline mit erfolgreichen und fehlgeschlagenen Builds."
     },
     {
       "title": "Statement versprochen - und geliefertBMW iX3 im Test: Mehr Reichweite als ich",
@@ -318,6 +318,12 @@
       "image_title": "Der Chatbot mit dem physischen Botti"
     },
     {
+      "title": "Flaky Tests stabilisieren: Warum Locators wichtiger sind als komplexe XPaths",
+      "teaser": "Flaky Tests sind ein unterschätztes Problem der Testautomatisierung. So werden instabile UI-Test-Suiten durch bessere Locators und Synchronisation stabilisiert.",
+      "url": "https://www.heise.de/hintergrund/Flaky-Tests-stabilisieren-Warum-Locators-wichtiger-sind-als-komplexe-XPaths-11306360.html",
+      "image_title": "Illustration einer CI/CD-Pipeline mit erfolgreichen und fehlgeschlagenen Builds."
+    },
+    {
       "title": "KI-Ärger und Gletscher-Abschied – die Fotonews der Woche 22/2026",
       "teaser": "Eine New Yorker Galerie verkauft KI-Kopien von Ansel Adams, Capture One wird teurer und ein Film zeigt, wie Islands Gletscher verschwinden.",
       "url": "https://www.heise.de/news/KI-Aerger-und-Gletscher-Abschied-die-Fotonews-der-Woche-22-2026-11311740.html"
@@ -388,14 +394,14 @@
       "image_title": "Roboterhände halten eine leuchtende Wolke mit dem AWS-Logo"
     },
     {
+      "title": "Braucht eine IT-Abteilung wirklich 15 Tools?",
+      "teaser": "In vielen Betrieben gibt es einen Wildwuchs an Tools für die Verwaltung und Steuerung der Endgeräte. Mit einer einheitlichen Plattform ließen sich jedoch Komplexität, Kosten und Risiken senken. Mehr dazu in einem Webcast",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/braucht-ihre-it-wirklich-15-tools-wie-it-teams-unkompliziert-arbeiten-und-kosten-senken-koennen-5062/?source=hbsad-ersatz"
+    },
+    {
       "title": "Lankeleisi Golf-X im Test: Klapprad-E-Bike mit tiefem Einstieg & 200 kg Zuladung",
       "teaser": "Das Lankeleisi Golf-X mit 200 kg Zuladung und kräftigem Heckmotor mischt Tiefeinsteiger, Fatbike und Klapprad zu einem ungewöhnlichen Gesamtpaket.",
       "url": "https://www.heise.de/bestenlisten/testbericht/lankeleisi-golf-x-im-test-klapprad-e-bike-mit-tiefem-einstieg-und-200-kg-zuladung/j9nj01q?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Digitale Souveränität oder Cloud-Abhängigkeit?",
-      "teaser": "Auch bei der Verwaltung von Endgeräten muss klar geregelt sein, wer auf Daten und Infrastrukturen zugreifen kann („souveräne Kontrolle“). Genau darum geht es in einem Webcast.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/digitale-souveraenitaet-oder-cloud-abhaengigkeit-uem-zwischen-cloud-act-dsgvo-5020/?source=hbsad-ersatz"
     },
     {
       "title": "Cybersicherheit: Kritische Infrastrukturen holen auf, doch „Risiko-Zone“ wächst",
@@ -449,12 +455,6 @@
       "teaser": "Bare Bones Software bringt seinen klassischen Editor auf einen aktuellen Stand. Diesmal kann man in Bildern suchen, (noch) tiefer konfigurieren und mehr.",
       "url": "https://www.heise.de/news/BBEdit-16-Mehr-KI-mehr-Shortcuts-mehr-Konfigurierbarkeit-11310581.html",
       "image_title": "BBEdit 16"
-    },
-    {
-      "title": "9 Tipps: Monitorprobleme am Mac beheben",
-      "teaser": "Von falscher Bildschirmanordnung bis zu zusätzlichen Displays: So holen Sie das Meiste aus Ihrem Mac-Monitor heraus und bezwingen Herausforderungen.",
-      "url": "https://www.heise.de/ratgeber/9-Tipps-Monitorprobleme-am-Mac-beheben-11296569.html",
-      "image_title": ", Madlen Grunert, Laura-Sophie Gruhn / heise medien"
     },
     {
       "title": "„Ohne Hintertüren und Kill-Switch“: Europas Rhea1-CPU läuft",
@@ -628,15 +628,14 @@
       "url": "https://www.heise.de/news/Digitalisieren-und-Restaurieren-So-retten-Sie-alte-Fotos-Filme-c-t-uplink-11311536.html"
     },
     {
+      "title": "Test: Günstige Mähroboter von Eufy, Mova, Navimow und Terramow",
+      "teaser": "Es muss nicht immer der 3000-Euro-Nobelmäher sein: Vier Mähroboter zeigen, was man in der Einstiegsklasse erwarten kann – und was nicht.",
+      "url": "https://www.heise.de/tests/Test-Guenstige-Maehroboter-von-Eufy-Mova-Navimow-und-Terramow-11296783.html"
+    },
+    {
       "title": "c't 3003Nie wieder Daten verlieren",
       "teaser": "Backup ist nicht gleich Backup. c't 3003 zeigt, wie ein dreistufiges Backup-System vor allen Worst-Case-Szenarien schützt.",
       "url": "https://www.heise.de/news/Nie-wieder-Daten-verlieren-c-t-3003-11311857.html"
-    },
-    {
-      "title": "Quantenphysik liefert erstmals perfekte, zertifizierbare Zufallszahlen",
-      "teaser": "Ein Team der ETH Zürich konnte mithilfe der Quantenphysik erstmals perfekte, zertifizierbare Zufallszahlen erzeugen. Ein Gewinn für die Cybersicherheit.",
-      "url": "https://www.heise.de/hintergrund/Wenn-Gott-wuerfelt-Quantenexperiment-erzeugt-perfekte-Zufallszahlen-11311971.html",
-      "image_title": "Verrauschtes Bild von einem Schaf"
     },
     {
       "title": "Smarter GesundheitscheckBlutdruckmessgeräte mit Apple Health",
@@ -746,16 +745,16 @@
       "image_title": "Pete Hegseth spricht vor einem Mikrofon, im Hintergrund das Logo des Weißen Hauses."
     },
     {
-      "title": "Kanzlersturz in der CDU? Merz kämpft gegen die eigene Partei",
-      "teaser": "Merz ist der unbeliebteste Regierungschef unter 24 Demokratien – und die eigene Partei tuschelt bereits. Doch ein Sturz ist kaum möglich. Leitartikel.",
-      "url": "https://www.heise.de/article/Kanzlersturz-in-der-CDU-Merz-kaempft-gegen-die-eigene-Partei-11310659.html",
-      "image_title": "Friedrich Merz lächelt in die Kamera."
+      "title": "Der Sozialstaat braucht Nachwuchs – die Moderne nicht",
+      "teaser": "Kinder sind heute Privatsache. Doch Renten, Pflege und Krankenversicherung beruhen darauf, dass genügend Menschen trotzdem welche bekommen.",
+      "url": "https://www.heise.de/article/Der-Sozialstaat-braucht-Nachwuchs-die-Moderne-nicht-11312485.html",
+      "image_title": "Kinder mit Vater im Boot"
     },
     {
-      "title": "Italiens neue Regel: Wer Äcker mit Rechenzentren zubetoniert, zahlt dreifach",
-      "teaser": "Die Lombardei zeigt Europa, wie man den ungehemmten KI-Boom bremst – mit einem Gesetz, das selbst Konzerne wie Google und Amazon spüren sollen.",
-      "url": "https://www.heise.de/article/Italiens-neue-Regel-Wer-Aecker-mit-Rechenzentren-zubetoniert-zahlt-dreifach-11309367.html",
-      "image_title": "Luftaufnahme eines Meta-Rechenzentrums hinter einem Wald"
+      "title": "Neuhardenberg: Das Dorf, in dem ganz Deutschland steckt",
+      "teaser": "Quilitz, Neu-Hardenberg, Marxwalde: An einem Ort lassen sich 250 Jahre deutscher Geschichte ablesen – von Preußen bis Tesla.",
+      "url": "https://www.heise.de/article/Neuhardenberg-Das-Dorf-in-dem-ganz-Deutschland-steckt-11312395.html",
+      "image_title": "Neuhardenberg: die Schinkel-Kirche"
     },
     {
       "title": "Mit europäischer KI arbeiten: So gut funktioniert es ohne ChatGPT oder Gemini",
