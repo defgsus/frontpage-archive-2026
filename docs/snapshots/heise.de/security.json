@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-03T10:28:41",
+  "timestamp": "2026-06-03T15:23:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Entwicklerkonferenz BuildWindows soll sicherer werden",
+      "teaser": "Neben den KI-Ergänzungen für Entwickler bringt Microsoft auch für Windows-Nutzer Verbesserungen etwa bei der Sicherheit.",
+      "url": "https://www.heise.de/news/MS-Build-2026-Windows-soll-sicherer-werden-11316512.html",
+      "image_title": "Ein Finger zeigt auf den Windows-11-Startbildschirm."
+    },
+    {
       "title": "SchutzfunktionAndroid bekommt Anrufererkennung gegen Betrugsanrufe",
-      "teaser": "Google verpasst Android einen neuen Mechanismus zur Anrufererkennung. Das soll Betrugsversuche mit gefälschten Kontakten stoppen.",
+      "teaser": "Google verpasst Android einen neuen Mechanismus zur Anrufererkennung. Das soll Betrug mit gefälschten Kontakten stoppen.",
       "url": "https://www.heise.de/news/Android-bekommt-Anrufererkennung-gegen-Betrugsanrufe-11316362.html",
       "image_title": "Android-Handy warnt vor möglicherweise betrügerischer Kontaktfälschung"
     },
     {
-      "title": "AndroidGoogle vereinfacht sicheren Transfer von Passkeys und Passwörtern",
-      "teaser": "Mit dem Juni-Update der Play-System-Dienste für Android können Nutzer Passwörter und Passkeys nun sicher zwischen verschiedenen Passwortmanagern austauschen.",
-      "url": "https://www.heise.de/news/Android-Google-vereinfacht-sicheren-Transfer-von-Passkeys-und-Passwoertern-11315823.html",
-      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
-    },
-    {
-      "title": "AlertSicherheitsmechanismen in IBM WebSphere Application Server umgehbar",
-      "url": "https://www.heise.de/news/Sicherheitsmechanismen-in-IBM-WebSphere-Application-Server-umgehbar-11316410.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
+      "title": "AlertAngreifer können SolarWinds Web Help Desk lahmlegen",
+      "url": "https://www.heise.de/news/Angreifer-koennen-SolarWinds-Web-Help-Desk-lahmlegen-11317094.html",
+      "image_title": "Eine symbolische Updateerrinerung."
     },
     {
       "title": "Nächster Halt: digitalheise security Tour 2026",
@@ -49,16 +49,34 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertAngreifer können SolarWinds Web Help Desk lahmlegen",
+      "teaser": "Mehrere Sicherheitslücken gefährden SolarWinds Web Help Desk. Ein Sicherheitspatche ist verfügbar.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-SolarWinds-Web-Help-Desk-lahmlegen-11317094.html",
+      "image_title": "Eine symbolische Updateerrinerung."
+    },
+    {
+      "title": "Bundesbeauftragte: Informationsfreiheit soll ins Grundgesetz",
+      "teaser": "Neben einem Transparenzgesetz brauche es verfassungsrechtliche Absicherung des Anspruchs auf staatliche Informationen, fordert Louisa Specht-Riemenschneider.",
+      "url": "https://www.heise.de/news/Bundesbeauftragte-Informationsfreiheit-soll-ins-Grundgesetz-11317290.html",
+      "image_title": "Paragrafzeichen auf einem Holfwürfel, der auf einer Tastatur liegt."
+    },
+    {
+      "title": "Palantir ohne Blackbox: Neo4j kündigt offene Alternative an",
+      "teaser": "Aus dem Zusammenschluss der Datenanalyseplattform Neo4j und der Polizeisoftware Hume von GraphAware soll eine offene Alternative zu Palantir entstehen.",
+      "url": "https://www.heise.de/news/Palantir-ohne-Blackbox-Neo4j-kuendigt-offene-Alternative-an-11317084.html",
+      "image_title": "Grafik: Zwei Polizisten durchsuchen ein Handy"
+    },
+    {
+      "title": "AlertBurst Statistics: Angriffe auf kritische Lücke im populären WordPress-Plugin",
+      "teaser": "Angreifer missbrauchen eine kritische Lücke im WordPress-Plugin Burst Statistics. Sie ermöglicht die Übernahme von Instanzen.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Burst-Statistics-Plugin-fuer-WordPress-11317017.html",
+      "image_title": "WordPress-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
       "title": "AlertSicherheitsmechanismen in IBM WebSphere Application Server umgehbar",
       "teaser": "Es sind wichtige Sicherheitsupdates für IBM WebSphere Application Server und Business Automation Workflow erschienen.",
       "url": "https://www.heise.de/news/Sicherheitsmechanismen-in-IBM-WebSphere-Application-Server-umgehbar-11316410.html",
       "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
-      "title": "MS Build 2026: Windows soll sicherer werden",
-      "teaser": "Neben den KI-Ergänzungen für Entwickler bringt Microsoft auch für Windows-Nutzer Verbesserungen etwa bei der Sicherheit.",
-      "url": "https://www.heise.de/news/MS-Build-2026-Windows-soll-sicherer-werden-11316512.html",
-      "image_title": "Ein Finger zeigt auf den Windows-11-Startbildschirm."
     },
     {
       "title": "Linux App Summit 2026: Treffen der Linux-Desktop-Avantgarde",
@@ -71,6 +89,12 @@
       "teaser": "In „Project Glasswing“ dürften Verantwortliche von sicherheitsrelevanter Software mit der KI Mythos nach Schwachstellen suchen. Nun auch in Deutschland.",
       "url": "https://www.heise.de/news/Absicherung-von-Software-Anthropic-oeffnet-Project-Glasswing-fuer-Europa-11316440.html",
       "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
+    },
+    {
+      "title": "Android: Google vereinfacht sicheren Transfer von Passkeys und Passwörtern",
+      "teaser": "Mit dem Juni-Update der Play-System-Dienste für Android können Nutzer Passwörter und Passkeys nun sicher zwischen verschiedenen Passwortmanagern austauschen.",
+      "url": "https://www.heise.de/news/Android-Google-vereinfacht-sicheren-Transfer-von-Passkeys-und-Passwoertern-11315823.html",
+      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
     },
     {
       "title": "Trump gibt sich exklusiven Zugriff auf neue KI vor allen anderen",
@@ -118,30 +142,6 @@
       "teaser": "Google hat zahlreiche Softwareschwachstellen in verschiedenen Android-Versionen geschlossen. Es kann Schadcode auf Geräte gelangen.",
       "url": "https://www.heise.de/news/Patchday-18-kritische-Sicherheitsluecken-bedrohen-Android-14-15-16-11314546.html",
       "image_title": "Grüne Android-Figur vor Schloss-Symbol"
-    },
-    {
-      "title": "Android 17 Beta 4.1: Google behebt offenbar letzte Fehler vor Release",
-      "teaser": "Google hat eine weitere Beta für Android 17 veröffentlicht. Das Update auf Beta-Version 4.1 dürfte die letzten Bugs vor dem erwarteten Release ausbügeln.",
-      "url": "https://www.heise.de/news/Android-17-Beta-4-1-Google-behebt-offenbar-letzte-Fehler-vor-Release-11314670.html",
-      "image_title": "Android 17 Logo"
-    },
-    {
-      "title": "KI-Chatbot von Meta hat Angreifern bei Übernahme von Instagram-Accounts geholfen",
-      "teaser": "Im Frühjahr hat Meta einen KI-Chatbot für den IT-Support freigegeben. Jetzt wurde bekannt, dass der auch bereitwillig bei der Kaperung von Konten geholfen hat.",
-      "url": "https://www.heise.de/news/KI-Chatbot-von-Meta-hat-Angreifern-bei-Uebernahme-von-Instagram-Accounts-geholfen-11314502.html",
-      "image_title": "Smartphone-Display mit Instagram-Logo, auf einer Tastatur liegend."
-    },
-    {
-      "title": "CVSS: NIST schränkt Bewertung von IT-Sicherheitslücken ein",
-      "teaser": "Das US-amerikanische NIST betreibt die Schwachstellendatenbank NVD. Der Rückstau an Analysen ist groß, die Kritik des Rechnungshofes harsch.",
-      "url": "https://www.heise.de/news/CVSS-NIST-schraenkt-Bewertung-von-IT-Sicherheitsluecken-ein-11314492.html",
-      "image_title": "Von innen erleuchtete Serverschränke"
-    },
-    {
-      "title": "Android öffnet ein paar Server-Ports",
-      "teaser": "Android sperrt seit jeher Ports bis 1023. Seit Anbeginn verlangen Developer mehr Offenheit, jetzt wagt Google sich vor. Ein bisschen.",
-      "url": "https://www.heise.de/news/Android-oeffnet-ein-paar-well-known-Ports-11314472.html",
-      "image_title": "Android-Bot vor einem Schloss-Symbol"
     },
     {
       "title": "Workshop | 16. – 19.6.2026Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
@@ -198,12 +198,12 @@
       "image_title": "T-Shirt mit Aufschrift \"All you need is love, all you get is 0day\""
     },
     {
-      "title": "Open-Source-Entwickler arbeiten sich an AI-Bugs krank",
-      "url": "https://www.heise.de/meinung/Kommentar-Open-Source-Entwickler-arbeiten-sich-an-AI-Bugs-krank-11308345.html"
-    },
-    {
       "title": "Wie SSD-Zugriffszeiten zum digitalen Fingerabdruck werden",
       "url": "https://www.heise.de/news/Webbrowser-koennen-Informationen-durch-SSD-Zugriffszeiten-ausspaehen-11311895.html"
+    },
+    {
+      "title": "Trump gibt sich exklusiven Zugriff auf neue KI vor allen anderen",
+      "url": "https://www.heise.de/news/Trump-gibt-sich-exklusiven-Zugriff-auf-neue-KI-vor-allen-anderen-11316188.html"
     }
   ]
 }
