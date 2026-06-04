@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T09:38:56",
+  "timestamp": "2026-06-04T12:35:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,68 @@
     }
   ],
   "articles": [
+    {
+      "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
+      "teaser": "Der Workshop zeigt, wie man Informationssicherheit im Unternehmen mit dem Sicherheitsstandard ISO 27001 umsetzt und welche Herausforderungen sich dabei stellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-nach-ISO-27001-Herausforderungen-und-Chancen-11308079.html",
+      "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
+    },
+    {
+      "title": "Perplexity verteilt automatisiert KI-Rechenbedarf zwischen Gerät und Cloud",
+      "teaser": "Perplexity kündigt einen hybriden Inferenz-Orchestrator an, der KI-Aufgaben automatisch zwischen lokalem Gerät und Cloud aufteilt.",
+      "url": "https://www.heise.de/news/Perplexity-verteilt-automatisiert-KI-Rechenbedarf-zwischen-Geraet-und-Cloud-11318486.html",
+      "image_title": "Hand tippt auf einem Laptop etwas ins Perplexity-Chatfenster"
+    },
+    {
+      "title": "Lokale Spracherkennung für Windows – ohne Cloud",
+      "teaser": "Lokale KI-Funktionen nicht mehr nur auf Copilot+-PCs: Microsoft bringt die Windows AI APIs auf CPUs und GPUs – plus eine neue Spracherkennung.",
+      "url": "https://www.heise.de/news/Lokale-Spracherkennung-fuer-Windows-ohne-Cloud-11318466.html",
+      "image_title": "Ein Mann spricht in ein Mikrofon, Noten fliegen aus seinem Mund."
+    },
+    {
+      "title": "Noctua: Erste Wasserkühlung, Wärmeleitpad mit Nanoröhren und Low-Profile-Kühler",
+      "teaser": "Der Kühlerhersteller Noctua zeigt auf der IT-Messe Computex seine erste AIO-Wasserkühlung sowie Prototypen eines Thermosiphon- und Low-Profile-Luftkühlers.",
+      "url": "https://www.heise.de/news/Noctua-Erste-Wasserkuehlung-Waermeleitpad-mit-Nanoroehren-und-Low-Profile-Kuehler-11318416.html",
+      "image_title": "Mini-ITX-System mit Noctua-Wasserkühlung hängt an einer braunen Wand"
+    },
+    {
+      "title": "HintergrundWarum Softwarequalität im Zeitalter generativer KI trotzdem ein Handwerk bleibt",
+      "url": "https://www.heise.de/hintergrund/Warum-Softwarequalitaet-im-Zeitalter-generativer-KI-trotzdem-ein-Handwerk-bleibt-11310290.html",
+      "image_title": "Koch bedient Herdknöpfe in einer Küche mit Edelstahltöpfen."
+    },
+    {
+      "title": "TestsKI-Schreibhilfe: Cotypist für macOS im Test",
+      "url": "https://www.heise.de/tests/KI-Schreibhilfe-Cotypist-fuer-macOS-im-Test-11296557.html",
+      "image_title": "Cotypist für den Mac"
+    },
+    {
+      "title": "RatgeberDiagram as Code neu gedacht: Mermaid und LLMs",
+      "url": "https://www.heise.de/ratgeber/Diagram-as-Code-neu-gedacht-Mermaid-und-LLMs-11311175.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Cisco Live US 2026: Neue Catalyst Switches, Router und WLAN-APs",
+      "teaser": "Cisco hat auf der Hausmesse Live US 2026 neue Core Switches, Access Points und Router vorgestellt, die 400G-Campus-Netze, Wi-Fi 7 und mehr Sicherheit bringen.",
+      "url": "https://www.heise.de/news/Cisco-Live-US-2026-Neue-Catalyst-Switches-Router-und-WLAN-APs-11318354.html",
+      "image_title": "Ein Schild mit Cisco-Logo"
+    },
+    {
+      "title": "Apples neues Developer Center: Warum die Wahl auf Berlin fiel",
+      "teaser": "Apple eröffnet in Berlin sein erstes europäisches Developer Center. Apple-VP Susan Prescott erläutert, warum es Berlin wurde, und wozu das Center noch dient.",
+      "url": "https://www.heise.de/hintergrund/Apples-neues-Developer-Center-Warum-die-Wahl-auf-Berlin-fiel-11318538.html",
+      "image_title": "Blick in einen Trainingsraum des neuen Developer Centers in Berlin"
+    },
+    {
+      "title": "Amazon stellt nächste Generation seines Lagerroboters Proteus vor",
+      "teaser": "Amazon hat die zweite Generation seines Lagerroboters Proteus vorgestellt. Das System versteht nun natürliche Sprache.",
+      "url": "https://www.heise.de/news/Amazon-stellt-naechste-Generation-seines-Lagerroboters-Proteus-vor-11318250.html"
+    },
+    {
+      "title": "Rosetta 2: Wann das Ende für Intel-Apps auf dem Mac wirklich kommt",
+      "teaser": "Die Tage der x86-Unterstützung im Apple-Ökosystem sind gezählt. Dabei geht es eigentlich um zwei Termine – und Apple verwirrt derweil mit Warnmeldungen.",
+      "url": "https://www.heise.de/news/Rosetta-2-Wann-das-Ende-fuer-Intel-Apps-auf-dem-Mac-wirklich-kommt-11317146.html",
+      "image_title": "Intel-Hauptsitz in Santa Clara, 2023"
+    },
     {
       "title": "Malware: KI erzeugt kaum aufhaltbaren Wurm",
       "teaser": "IT-Forscher haben getestet, ob KI Malware zur schlimmeren Bedrohung macht. Ein dabei entwickelter Wurm ist äußerst anpassungsfähig.",
@@ -41,21 +103,6 @@
       "teaser": "Google hat eine neue Android-Canary-Version veröffentlicht. Sie bringt erweiterte Farb-Theming-Optionen und das „Screen Reactions“-Feature für Screencasts.",
       "url": "https://www.heise.de/news/Android-Canary-Google-testet-umfangreiches-Farb-Theming-11318031.html",
       "image_title": "Android Canary Juni 2026 auf Pixel 8 Pro in Hand"
-    },
-    {
-      "title": "HintergrundWarum Softwarequalität im Zeitalter generativer KI trotzdem ein Handwerk bleibt",
-      "url": "https://www.heise.de/hintergrund/Warum-Softwarequalitaet-im-Zeitalter-generativer-KI-trotzdem-ein-Handwerk-bleibt-11310290.html",
-      "image_title": "Koch bedient Herdknöpfe in einer Küche mit Edelstahltöpfen."
-    },
-    {
-      "title": "TestsKI-Schreibhilfe: Cotypist für macOS im Test",
-      "url": "https://www.heise.de/tests/KI-Schreibhilfe-Cotypist-fuer-macOS-im-Test-11296557.html",
-      "image_title": "Cotypist für den Mac"
-    },
-    {
-      "title": "RatgeberDiagram as Code neu gedacht: Mermaid und LLMs",
-      "url": "https://www.heise.de/ratgeber/Diagram-as-Code-neu-gedacht-Mermaid-und-LLMs-11311175.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "Dev Configs: Windows-Entwicklerrechner per Einzeiler",
@@ -98,47 +145,6 @@
       "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11308069.html",
       "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
-    },
-    {
-      "title": "Cisco Cloud Control: Eine Managementebene für Netzwerk, Security und Compute",
-      "teaser": "Cisco bündelt Netzwerk, Security, Compute und Observability in einer KI-gestützten Managementebene: Cloud Control soll IT-Infrastrukturen agentisch steuern.",
-      "url": "https://www.heise.de/news/Cisco-Cloud-Control-Eine-Managementebene-fuer-Netzwerk-Security-und-Compute-11317539.html",
-      "image_title": "Netzwerk-Dashboard mit Anwendungs-QoS-Richtlinie, Netzwerk-Topologie und Bedrohungen."
-    },
-    {
-      "title": "Warum Europa bei der KI-Entwicklung den Anschluss verliert",
-      "teaser": "Interview mit Hans Uszkoreit, einem deutschen KI-Pionier, über den Rückstand Europas bei der KI, Regulierung und die kommende Superintelligenz",
-      "url": "https://www.heise.de/hintergrund/Warum-Europa-bei-der-KI-Entwicklung-den-Anschluss-verliert-11313310.html"
-    },
-    {
-      "title": "Secure-Boot-Desaster: Was Sie tun können",
-      "teaser": "Wenn Microsofts Secure Boot-Zertifikate ablaufen, drohen auf vielen PCs Bootprobleme. Hier finden Sie Tipps, wie Sie sich davor schützen können.",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-Desaster-Was-Sie-tun-koennen-11293302.html"
-    },
-    {
-      "title": "Secure Boot: UEFI-Bootmanager unter Windows prüfen",
-      "teaser": "Secure Boot braucht Updates, doch booten Windows und Linux danach noch? Was ist mit Ihren bootfähigen USB-Laufwerken? Unser Skript prüfen das alles.",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-UEFI-Bootmanager-unter-Windows-pruefen-11293288.html"
-    },
-    {
-      "title": "Secure Boot: Was im UEFI-Zertifikatsspeicher Ihres PC steckt",
-      "teaser": "Ein PC mit aktivem Secure Boot vergleicht die Signaturen von Bootmanagern mit Zertifikaten, die in der Firmware stecken. Ein Skript zeigt sie an.",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-Was-im-UEFI-Zertifikatsspeicher-Ihres-PC-steckt-11293270.html"
-    },
-    {
-      "title": "Secure Boot und seine Probleme",
-      "teaser": "Eigentlich soll Secure Boot vor infizierten Bootmanagern schützen. Doch derzeit kämpft die Funktion vor allem mit Problemen, und zwar mit erschreckend vielen.",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-und-seine-Probleme-11293264.html"
-    },
-    {
-      "title": "Achtung, Fälschung: Samsung-SSDs ohne Samsung-Teile erreichen Deutschland",
-      "teaser": "Die Verpackung stimmt, der erste Augenschein auch – doch unter dem Samsung-Aufkleber verbirgt sich Billighardware aus der Ramschkiste.",
-      "url": "https://www.heise.de/hintergrund/Achtung-Faelschung-Samsung-SSDs-ohne-Samsung-Teile-erreichen-Deutschland-11291861.html"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D2 Effizienztuning: Kühler und sparsamer ohne Leistungsverlust",
-      "teaser": "Die High-End-CPU Ryzen 9 9950X3D2 ist zwar rasend schnell, wird aber sehr heiß. Mit wenigen Handgriffen und etwas Glück lässt sich das Problem selbst beheben.",
-      "url": "https://www.heise.de/ratgeber/AMD-Ryzen-9-9950X3D2-Effizienztuning-Kuehler-und-sparsamer-ohne-Leistungsverlust-11290235.html"
     },
     {
       "title": "NewsVW kappt mit API-Änderung Besitzern Zugriff auf eigene Fahrzeugdaten",
