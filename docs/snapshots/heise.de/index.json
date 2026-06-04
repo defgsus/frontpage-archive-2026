@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T19:10:28",
+  "timestamp": "2026-06-04T21:20:52",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Höchstgericht: Ein „Like” einer Beleidigung ist (k)eine Beleidigung",
+      "url": "https://www.heise.de/news/Hoechstgericht-Ein-Like-einer-Beleidigung-ist-k-eine-Beleidigung-11319148.html"
+    },
     {
       "title": "Top 10: Die besten Bluetooth-Lautsprecher für Garten, Balkon und WM 2026",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-bluetooth-lautsprecher-fuer-garten-balkon-und-wm-2026/9t2vjzx?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -56,10 +60,6 @@
     {
       "title": "Post-Quantum ohne aufgeblähte Handshakes: Let's Encrypts neuer Weg",
       "url": "https://www.heise.de/news/Post-Quantum-ohne-aufgeblaehte-Handshakes-Let-s-Encrypts-neuer-Weg-11318855.html"
-    },
-    {
-      "title": "NAS mit ARM-Chips von Qualcomm: Radxa DragonBay und DragonStation mit \"Fygo OS\"",
-      "url": "https://www.heise.de/news/NAS-mit-ARM-Chips-von-Qualcomm-Radxa-DragonBay-und-DragonStation-mit-Fygo-OS-11318835.html"
     },
     {
       "title": "MessengerOrts- und Bürozeiterfassung in Microsoft Teams kommt",
@@ -203,20 +203,26 @@
       "image_title": "Eine Frau arbeitet Zuhause am Laptop."
     },
     {
+      "title": "Höchstgericht: Ein „Like” einer Beleidigung ist (k)eine Beleidigung",
+      "teaser": "Ein Vermählter wird auf Facebook beleidigt, Dritte „liken” das. Der Gemahl klagt auf Unterlassung. Doch haben Likes „diffusen Charakter”.",
+      "url": "https://www.heise.de/news/Hoechstgericht-Ein-Like-einer-Beleidigung-ist-k-eine-Beleidigung-11319148.html",
+      "image_title": "Facebook-Daumen"
+    },
+    {
       "title": "Top 10: Die besten Bluetooth-Lautsprecher für Garten, Balkon und WM 2026",
       "teaser": "Bluetooth-Lautsprecher sind ideal für Garten, Balkon und Public-Viewing zur WM 2026. Wir zeigen die zehn besten aus über 40 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-bluetooth-lautsprecher-fuer-garten-balkon-und-wm-2026/9t2vjzx?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Die versteckten Kosten des falschen ITSM-Tools",
+      "teaser": "Ohne es zu ahnen, arbeiten viele IT-Teams mit Tools, die sie eher ausbremsen als voranbringen. Klare Hinweise zeigen jedoch an, wenn ein Tool für das IT-Service-Management nicht mehr optimal passt.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7284609977&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Forscher finden Hinweis auf Protoplaneten in extrem seltenem Meteorit",
       "teaser": "US-Forscher haben einen Meteorit untersucht und sind überzeugt, dass er der Überrest eines großen Himmelskörpers aus der Frühzeit des Sonnensystems ist.",
       "url": "https://www.heise.de/news/Forscher-finden-Hinweis-auf-Protoplaneten-in-extrem-seltenem-Meteorit-11319084.html",
       "image_title": "Künstlerische Darstellung einer protoplanetaren Scheibe"
-    },
-    {
-      "title": "DSGVO-Anforderungen sind nur im Team zu lösen",
-      "teaser": "Unternehmen müssen heute mehr regulatorische Anforderungen bewältigen als je zuvor. Geeignete Datenschutzmanagement-Software kann dabei helfen – aber nur, wenn die zugrunde liegenden Prozesse stimmen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7214699231&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Deutschland fehlt: 17 Staaten beschließen Abkommen zum Schutz von Unterseekabeln",
@@ -246,12 +252,6 @@
       "teaser": "Cloudflare übernimmt VoidZero und damit das Team hinter Vite, Vitest und Co. Die Werkzeuge sollen quelloffen und herstellerneutral bleiben.",
       "url": "https://www.heise.de/news/Cloudflare-uebernimmt-VoidZero-Team-hinter-Vite-wechselt-komplett-11318973.html",
       "image_title": "Logos von VOID und Cloudflare mit einem Pluszeichen dazwischen."
-    },
-    {
-      "title": "Post-Quantum ohne aufgeblähte Handshakes: Let's Encrypts neuer Weg",
-      "teaser": "Let's Encrypt legt sich fest: Statt großer Post-Quantum-Signaturen sollen Merkle Tree Certificates das Web-PKI quantensicher machen. Tests beginnen Ende 2026.",
-      "url": "https://www.heise.de/news/Post-Quantum-ohne-aufgeblaehte-Handshakes-Let-s-Encrypts-neuer-Weg-11318855.html",
-      "image_title": "Quantencomputer mit Zahnrädern und Binärcode"
     },
     {
       "title": "Statement versprochen - und geliefertBMW iX3 im Test: Mehr Reichweite als ich",
@@ -341,6 +341,12 @@
       "image_title": "Der Chatbot mit dem physischen Botti"
     },
     {
+      "title": "Post-Quantum ohne aufgeblähte Handshakes: Let's Encrypts neuer Weg",
+      "teaser": "Let's Encrypt legt sich fest: Statt großer Post-Quantum-Signaturen sollen Merkle Tree Certificates das Web-PKI quantensicher machen. Tests beginnen Ende 2026.",
+      "url": "https://www.heise.de/news/Post-Quantum-ohne-aufgeblaehte-Handshakes-Let-s-Encrypts-neuer-Weg-11318855.html",
+      "image_title": "Quantencomputer mit Zahnrädern und Binärcode"
+    },
+    {
       "title": "NAS mit ARM-Chips von Qualcomm: Radxa DragonBay und DragonStation mit \"Fygo OS\"",
       "teaser": "Der für Einplatinencomputer bekannte chinesische Hersteller Radxa kündigt NAS-Komplettgeräte mit ARM-Prozessoren von Qualcomm an.",
       "url": "https://www.heise.de/news/NAS-mit-ARM-Chips-von-Qualcomm-Radxa-DragonBay-und-DragonStation-mit-Fygo-OS-11318835.html",
@@ -411,15 +417,15 @@
       "image_title": "Ein Mann spricht in ein Mikrofon, Noten fliegen aus seinem Mund."
     },
     {
+      "title": "Braucht eine IT-Abteilung wirklich 15 Tools?",
+      "teaser": "In vielen Betrieben gibt es einen Wildwuchs an Tools für die Verwaltung und Steuerung der Endgeräte. Mit einer einheitlichen Plattform ließen sich jedoch Komplexität, Kosten und Risiken senken. Mehr dazu in einem Webcast",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/braucht-ihre-it-wirklich-15-tools-wie-it-teams-unkompliziert-arbeiten-und-kosten-senken-koennen-5062/?source=hbsad-ersatz"
+    },
+    {
       "title": "Noctua: Erste Wasserkühlung, Wärmeleitpad mit Nanoröhren und Low-Profile-Kühler",
       "teaser": "Der Kühlerhersteller Noctua zeigt auf der IT-Messe Computex seine erste AIO-Wasserkühlung sowie Prototypen eines Thermosiphon- und Low-Profile-Luftkühlers.",
       "url": "https://www.heise.de/news/Noctua-Erste-Wasserkuehlung-Waermeleitpad-mit-Nanoroehren-und-Low-Profile-Kuehler-11318416.html",
       "image_title": "Mini-ITX-System mit Noctua-Wasserkühlung hängt an einer braunen Wand"
-    },
-    {
-      "title": "Braucht eine IT-Abteilung wirklich 15 Tools?",
-      "teaser": "In vielen Betrieben gibt es einen Wildwuchs an Tools für die Verwaltung und Steuerung der Endgeräte. Mit einer einheitlichen Plattform ließen sich jedoch Komplexität, Kosten und Risiken senken. Mehr dazu in einem Webcast",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/braucht-ihre-it-wirklich-15-tools-wie-it-teams-unkompliziert-arbeiten-und-kosten-senken-koennen-5062/?source=hbsad-ersatz"
     },
     {
       "title": "Fotofilter im Check: Was Polfilter & Co. besser können als Photoshop",
@@ -473,12 +479,6 @@
       "teaser": "Bei der Facebook-Mutter hofft man, sein eigenes KI-System attraktiver zu machen. Dabei hilft bei iOS künftig der Türöffner WhatsApp.",
       "url": "https://www.heise.de/news/Meta-KI-Dokumenten-Upload-bald-direkt-vom-iPhone-11317033.html",
       "image_title": "Logos von Apple und Meta"
-    },
-    {
-      "title": "Elgato Wave XLR MK.2 im Test: Das Schreibtischstudio",
-      "teaser": "Egal of Shure, Sennheiser oder Røde: Mit dem Elgato Wave XLR MK.2 lassen sich Profimikrofone am Mac anschließen.",
-      "url": "https://www.heise.de/tests/Elgato-Wave-XLR-MK-2-im-Test-Das-Schreibtischstudio-11296577.html",
-      "image_title": "Elgato Wave XLR MK.2"
     },
     {
       "title": "Trump gibt sich exklusiven Zugriff auf neue KI vor allen anderen",
@@ -649,20 +649,20 @@
       "url": "https://www.heise.de/en/news/SAP-Only-half-of-employees-trust-management-11310427.html"
     },
     {
-      "title": "Zertifikats-AblaufSecure-Boot-Desaster: Was Sie tun können",
-      "teaser": "Wenn Microsofts Secure Boot-Zertifikate ablaufen, drohen auf vielen PCs Bootprobleme. So schützen Sie sich.",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-Desaster-Was-Sie-tun-koennen-11293302.html"
-    },
-    {
-      "title": "SparsamMini-PCs mit Snapdragon und Core 300",
-      "teaser": "Asus zeigt den ersten Mini-PC mit schnellem ARM-Prozessor. Zudem gibt es neue lüfterlose Modelle.",
-      "url": "https://www.heise.de/news/Sparsame-Mini-PCs-mit-Qualcomm-Snapdragon-X2-Elite-und-Intel-Core-300-11316708.html",
-      "image_title": "Mehrere Mini-PCs mit Produktschildern"
-    },
-    {
       "title": "Secure Boot: UEFI-Bootmanager unter Windows prüfen",
       "teaser": "Secure Boot braucht Updates, doch booten Windows und Linux danach noch? Was ist mit Ihren bootfähigen USB-Laufwerken? Unser Skript prüfen das alles.",
       "url": "https://www.heise.de/ratgeber/Secure-Boot-UEFI-Bootmanager-unter-Windows-pruefen-11293288.html"
+    },
+    {
+      "title": "Ubuntu: Single Sign-on bis ins Betriebssystem",
+      "teaser": "Ubuntu 26.04 LTS lässt sich mit Canonicals authd gegen OIDC-Provider authentifizieren. Das klappt auch mit selbst gehosteten Providern wie Pocket ID.",
+      "url": "https://www.heise.de/ratgeber/Ubuntu-Single-Sign-on-bis-ins-Betriebssystem-11298970.html"
+    },
+    {
+      "title": "Nvidia RTX SparkWas von der CPU zu erwarten ist",
+      "teaser": "Nvidia verrät bislang keine Details zum Prozessor RTX Spark. Wir erfuhren sie dennoch.",
+      "url": "https://www.heise.de/news/Nvidia-RTX-Spark-Was-von-der-Notebook-CPU-und-ihrem-Ableger-N1-zu-erwarten-ist-11317643.html",
+      "image_title": "Auf einem Podest steht ein Plexiglass-Aufsteler, in dem ein RTX-Spark-Prozessor eingegosen ist; dahinter ist an die Wand gerkitzelt: \"Jensen was here and saw 'the' spark\", darunter ein Autogram Jensen Huangs"
     },
     {
       "title": "Sonne tankenVier Powerstationen mit Solarpanels im Test",
@@ -771,15 +771,16 @@
       "image_title": "Ein Mann sitzt an einem Schreibtisch und legt einen Finger auf seine Lippen."
     },
     {
-      "title": "Kiews umstrittene Heldenverehrung: Melnyk-Beisetzung sorgt für Kritik",
-      "teaser": "Mit einem Staatsakt hat die Ukraine den OUN-Führer Melnyk bei Kiew beigesetzt. Die Ehrung stößt international auf Kritik – insbesondere aus Israel und Polen.",
-      "url": "https://www.heise.de/article/Kiews-umstrittene-Heldenverehrung-Melnyk-Beisetzung-sorgt-fuer-Kritik-11317360.html"
+      "title": "Eigenheim als Spardose: Warum Hausbesitzer reicher werden als Mieter",
+      "teaser": "Mieter könnten mit ETFs theoretisch mehr Vermögen aufbauen. In der Praxis scheitert das an der menschlichen Psychologie.",
+      "url": "https://www.heise.de/article/Eigenheim-als-Spardose-Warum-Hausbesitzer-reicher-werden-als-Mieter-11312809.html",
+      "image_title": "Ein Paar rechnet durch, ob es sich mehr lohnt, zur Miete zu wohnen oder ein Eigenheim zu kaufen."
     },
     {
-      "title": "Chinas Antwort auf die Falcon 9: Langer Marsch 12B hebt erstmals ab",
-      "teaser": "Chinas neue Rakete ähnelt SpaceX' Falcon 9 – und soll bald ebenfalls landen können. Die Entwicklung erfolgte in Rekordzeit. Der Start sorgte jedoch für Kritik.",
-      "url": "https://www.heise.de/article/Chinas-Antwort-auf-die-Falcon-9-Langer-Marsch-12B-hebt-erstmals-ab-11316828.html",
-      "image_title": "Eine Rakete hebt ab"
+      "title": "DDR5-RAM kostet fast 400 Euro: KI-Boom macht PC-Bau zum Luxushobby",
+      "teaser": "32 GB Arbeitsspeicher für unter 100 Euro? Das war einmal. Die KI-Nachfrage treibt RAM-Preise auf das Vierfache – mit Folgen für den gesamten PC-Markt.",
+      "url": "https://www.heise.de/article/DDR5-RAM-kostet-fast-400-Euro-KI-Boom-macht-PC-Bau-zum-Luxushobby-11318212.html",
+      "image_title": "Zwei DDR5-RAM-Module liegen nebeneinander auf dunklem Untergrund."
     },
     {
       "title": "EU-Entgelttransparenzrichtlinie: Wovon Mitarbeitende profitieren – und wo nicht",
