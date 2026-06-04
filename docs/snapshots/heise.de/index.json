@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-04T21:20:52",
+  "timestamp": "2026-06-04T22:58:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "TSMC: Chipmangel ist gekommen, um zu bleiben",
+      "url": "https://www.heise.de/news/TSMC-Chipmangel-ist-gekommen-um-zu-bleiben-11319170.html"
+    },
     {
       "title": "Höchstgericht: Ein „Like” einer Beleidigung ist (k)eine Beleidigung",
       "url": "https://www.heise.de/news/Hoechstgericht-Ein-Like-einer-Beleidigung-ist-k-eine-Beleidigung-11319148.html"
@@ -56,10 +60,6 @@
     {
       "title": "Cloudflare kauft Vite: Open Source und herstellerneutral – mit Millionenfonds",
       "url": "https://www.heise.de/news/Cloudflare-uebernimmt-VoidZero-Team-hinter-Vite-wechselt-komplett-11318973.html"
-    },
-    {
-      "title": "Post-Quantum ohne aufgeblähte Handshakes: Let's Encrypts neuer Weg",
-      "url": "https://www.heise.de/news/Post-Quantum-ohne-aufgeblaehte-Handshakes-Let-s-Encrypts-neuer-Weg-11318855.html"
     },
     {
       "title": "MessengerOrts- und Bürozeiterfassung in Microsoft Teams kommt",
@@ -203,20 +203,26 @@
       "image_title": "Eine Frau arbeitet Zuhause am Laptop."
     },
     {
+      "title": "TSMC: Chipmangel ist gekommen, um zu bleiben",
+      "teaser": "„Es wird lange dauern, bis wie die Nachfrage bedienen können”, sagt Prozessorfabrikant CC Wei. Preissprünge lehnt der TSMC-Chef ab.",
+      "url": "https://www.heise.de/news/TSMC-Chipmangel-ist-gekommen-um-zu-bleiben-11319170.html",
+      "image_title": "Eine Person in Reinraum-Kleidung betrachtet einen Computerchip"
+    },
+    {
       "title": "Höchstgericht: Ein „Like” einer Beleidigung ist (k)eine Beleidigung",
       "teaser": "Ein Vermählter wird auf Facebook beleidigt, Dritte „liken” das. Der Gemahl klagt auf Unterlassung. Doch haben Likes „diffusen Charakter”.",
       "url": "https://www.heise.de/news/Hoechstgericht-Ein-Like-einer-Beleidigung-ist-k-eine-Beleidigung-11319148.html",
       "image_title": "Facebook-Daumen"
     },
     {
+      "title": "Überprivilegierte Agenten – das unterschätzte KI-Risiko",
+      "teaser": "KI-Agenten greifen auf Unternehmensdaten zu wie Mitarbeiter – nur schneller, automatisiert und mit deutlich mehr Rechten. Doch was passiert, wenn ein Agent außer Kontrolle gerät?",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7262147886&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Top 10: Die besten Bluetooth-Lautsprecher für Garten, Balkon und WM 2026",
       "teaser": "Bluetooth-Lautsprecher sind ideal für Garten, Balkon und Public-Viewing zur WM 2026. Wir zeigen die zehn besten aus über 40 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-bluetooth-lautsprecher-fuer-garten-balkon-und-wm-2026/9t2vjzx?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Die versteckten Kosten des falschen ITSM-Tools",
-      "teaser": "Ohne es zu ahnen, arbeiten viele IT-Teams mit Tools, die sie eher ausbremsen als voranbringen. Klare Hinweise zeigen jedoch an, wenn ein Tool für das IT-Service-Management nicht mehr optimal passt.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7284609977&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Forscher finden Hinweis auf Protoplaneten in extrem seltenem Meteorit",
@@ -246,12 +252,6 @@
       "title": "Ubuntu: Single Sign-on bis ins Betriebssystem",
       "teaser": "Ubuntu 26.04 LTS lässt sich mit Canonicals authd gegen OIDC-Provider authentifizieren. Das klappt auch mit selbst gehosteten Providern wie Pocket ID.",
       "url": "https://www.heise.de/ratgeber/Ubuntu-Single-Sign-on-bis-ins-Betriebssystem-11298970.html"
-    },
-    {
-      "title": "Cloudflare kauft Vite: Open Source und herstellerneutral – mit Millionenfonds",
-      "teaser": "Cloudflare übernimmt VoidZero und damit das Team hinter Vite, Vitest und Co. Die Werkzeuge sollen quelloffen und herstellerneutral bleiben.",
-      "url": "https://www.heise.de/news/Cloudflare-uebernimmt-VoidZero-Team-hinter-Vite-wechselt-komplett-11318973.html",
-      "image_title": "Logos von VOID und Cloudflare mit einem Pluszeichen dazwischen."
     },
     {
       "title": "Statement versprochen - und geliefertBMW iX3 im Test: Mehr Reichweite als ich",
@@ -341,6 +341,12 @@
       "image_title": "Der Chatbot mit dem physischen Botti"
     },
     {
+      "title": "Cloudflare kauft Vite: Open Source und herstellerneutral – mit Millionenfonds",
+      "teaser": "Cloudflare übernimmt VoidZero und damit das Team hinter Vite, Vitest und Co. Die Werkzeuge sollen quelloffen und herstellerneutral bleiben.",
+      "url": "https://www.heise.de/news/Cloudflare-uebernimmt-VoidZero-Team-hinter-Vite-wechselt-komplett-11318973.html",
+      "image_title": "Logos von VOID und Cloudflare mit einem Pluszeichen dazwischen."
+    },
+    {
       "title": "Post-Quantum ohne aufgeblähte Handshakes: Let's Encrypts neuer Weg",
       "teaser": "Let's Encrypt legt sich fest: Statt großer Post-Quantum-Signaturen sollen Merkle Tree Certificates das Web-PKI quantensicher machen. Tests beginnen Ende 2026.",
       "url": "https://www.heise.de/news/Post-Quantum-ohne-aufgeblaehte-Handshakes-Let-s-Encrypts-neuer-Weg-11318855.html",
@@ -411,15 +417,15 @@
       "image_title": "Hand tippt auf einem Laptop etwas ins Perplexity-Chatfenster"
     },
     {
+      "title": "Drittanbieter-Software in hybriden IT-Umgebungen sicher patchen",
+      "teaser": "Drittanbieter-Apps sind ein häufiges Einfallstor für Angreifer – gerade in hybriden IT-Teams. Um das zu verhindern, müssen Sie Patches zeitnah und zuverlässig einspielen. Wie das automatisiert erfolgreich gelingen kann, erfahren Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/drittanbieter-software-in-hybriden-it-umgebungen-sicher-patchen-5037/?source=hbsad_ersatz"
+    },
+    {
       "title": "Lokale Spracherkennung für Windows – ohne Cloud",
       "teaser": "Lokale KI-Funktionen nicht mehr nur auf Copilot+-PCs: Microsoft bringt die Windows AI APIs auf CPUs und GPUs – plus eine neue Spracherkennung.",
       "url": "https://www.heise.de/news/Lokale-Spracherkennung-fuer-Windows-ohne-Cloud-11318466.html",
       "image_title": "Ein Mann spricht in ein Mikrofon, Noten fliegen aus seinem Mund."
-    },
-    {
-      "title": "Braucht eine IT-Abteilung wirklich 15 Tools?",
-      "teaser": "In vielen Betrieben gibt es einen Wildwuchs an Tools für die Verwaltung und Steuerung der Endgeräte. Mit einer einheitlichen Plattform ließen sich jedoch Komplexität, Kosten und Risiken senken. Mehr dazu in einem Webcast",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/braucht-ihre-it-wirklich-15-tools-wie-it-teams-unkompliziert-arbeiten-und-kosten-senken-koennen-5062/?source=hbsad-ersatz"
     },
     {
       "title": "Noctua: Erste Wasserkühlung, Wärmeleitpad mit Nanoröhren und Low-Profile-Kühler",
@@ -473,12 +479,6 @@
       "teaser": "Amazon investiert eine Milliarde US-Dollar in sein Weiterbildungsprogramm „Career Choice“, um Angestellte auf die Zukunft der Arbeit vorzubereiten.",
       "url": "https://www.heise.de/news/Amazon-investiert-eine-Milliarde-US-Dollar-in-Weiterbildungsprogramm-11318067.html",
       "image_title": "Amazon-Logo an der Fassade eines Gebäudes aus rotem Backstein mit großen Fenstern darunter."
-    },
-    {
-      "title": "iOS: Meta-KI schnappt sich auf Wunsch demnächst Files vom iPhone",
-      "teaser": "Bei der Facebook-Mutter hofft man, sein eigenes KI-System attraktiver zu machen. Dabei hilft bei iOS künftig der Türöffner WhatsApp.",
-      "url": "https://www.heise.de/news/Meta-KI-Dokumenten-Upload-bald-direkt-vom-iPhone-11317033.html",
-      "image_title": "Logos von Apple und Meta"
     },
     {
       "title": "Trump gibt sich exklusiven Zugriff auf neue KI vor allen anderen",
@@ -649,14 +649,15 @@
       "url": "https://www.heise.de/en/news/SAP-Only-half-of-employees-trust-management-11310427.html"
     },
     {
+      "title": "SparsamMini-PCs mit Snapdragon und Core 300",
+      "teaser": "Asus zeigt den ersten Mini-PC mit schnellem ARM-Prozessor. Zudem gibt es neue lüfterlose Modelle.",
+      "url": "https://www.heise.de/news/Sparsame-Mini-PCs-mit-Qualcomm-Snapdragon-X2-Elite-und-Intel-Core-300-11316708.html",
+      "image_title": "Mehrere Mini-PCs mit Produktschildern"
+    },
+    {
       "title": "Secure Boot: UEFI-Bootmanager unter Windows prüfen",
       "teaser": "Secure Boot braucht Updates, doch booten Windows und Linux danach noch? Was ist mit Ihren bootfähigen USB-Laufwerken? Unser Skript prüfen das alles.",
       "url": "https://www.heise.de/ratgeber/Secure-Boot-UEFI-Bootmanager-unter-Windows-pruefen-11293288.html"
-    },
-    {
-      "title": "Ubuntu: Single Sign-on bis ins Betriebssystem",
-      "teaser": "Ubuntu 26.04 LTS lässt sich mit Canonicals authd gegen OIDC-Provider authentifizieren. Das klappt auch mit selbst gehosteten Providern wie Pocket ID.",
-      "url": "https://www.heise.de/ratgeber/Ubuntu-Single-Sign-on-bis-ins-Betriebssystem-11298970.html"
     },
     {
       "title": "Nvidia RTX SparkWas von der CPU zu erwarten ist",
@@ -765,22 +766,22 @@
       "image_title": "Tesla Model Y"
     },
     {
-      "title": "KI schlägt Jura-Professoren – und die merken es nicht mal",
-      "teaser": "Rechtsprofessoren bevorzugen in Blindtests KI-Antworten gegenüber denen ihrer Kollegen. Eine Stanford-Studie liefert unbequeme Zahlen.",
-      "url": "https://www.heise.de/article/KI-schlaegt-Jura-Professoren-und-die-merken-es-nicht-mal-11317469.html",
-      "image_title": "Ein Mann sitzt an einem Schreibtisch und legt einen Finger auf seine Lippen."
+      "title": "Junge Frauen swipen politisch – und filtern rigoros",
+      "teaser": "Wer auf Dating-Apps politisch falsch tickt, hat keine Chance – schon das Parteilabel reicht, um vor dem ersten Wort aussortiert zu werden.",
+      "url": "https://www.heise.de/article/Junge-Frauen-swipen-politisch-und-filtern-rigoros-11318019.html",
+      "image_title": "Ein Mann und eine Frau lachen und schauen sich an."
     },
     {
-      "title": "Eigenheim als Spardose: Warum Hausbesitzer reicher werden als Mieter",
-      "teaser": "Mieter könnten mit ETFs theoretisch mehr Vermögen aufbauen. In der Praxis scheitert das an der menschlichen Psychologie.",
-      "url": "https://www.heise.de/article/Eigenheim-als-Spardose-Warum-Hausbesitzer-reicher-werden-als-Mieter-11312809.html",
-      "image_title": "Ein Paar rechnet durch, ob es sich mehr lohnt, zur Miete zu wohnen oder ein Eigenheim zu kaufen."
+      "title": "Film und Zensur: Die 30 Sekunden von Sodom",
+      "teaser": "Eine Medienkampagne: Wim Wenders und Nastassja Kinski als Spielbälle einer hysterisierten Öffentlichkeit. Ein Kommentar.",
+      "url": "https://www.heise.de/article/Film-und-Zensur-Die-30-Sekunden-von-Sodom-11318314.html",
+      "image_title": "Porträt Wim Wenders"
     },
     {
-      "title": "DDR5-RAM kostet fast 400 Euro: KI-Boom macht PC-Bau zum Luxushobby",
-      "teaser": "32 GB Arbeitsspeicher für unter 100 Euro? Das war einmal. Die KI-Nachfrage treibt RAM-Preise auf das Vierfache – mit Folgen für den gesamten PC-Markt.",
-      "url": "https://www.heise.de/article/DDR5-RAM-kostet-fast-400-Euro-KI-Boom-macht-PC-Bau-zum-Luxushobby-11318212.html",
-      "image_title": "Zwei DDR5-RAM-Module liegen nebeneinander auf dunklem Untergrund."
+      "title": "Frankreich in der Hitzefalle: Wenn der Klimawandel die Wirtschaft trifft",
+      "teaser": "Rekordtemperaturen im Mai belasten Atomkraft, Landwirtschaft und Bauwirtschaft. Die Zentralbank warnt vor schweren wirtschaftlichen Folgen.",
+      "url": "https://www.heise.de/article/Frankreich-in-der-Hitzefalle-Wenn-der-Klimawandel-die-Wirtschaft-trifft-11317777.html",
+      "image_title": "Brunnen in Paris"
     },
     {
       "title": "EU-Entgelttransparenzrichtlinie: Wovon Mitarbeitende profitieren – und wo nicht",
