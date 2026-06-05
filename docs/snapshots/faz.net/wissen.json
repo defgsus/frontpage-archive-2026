@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T00:03:56",
+  "timestamp": "2026-06-05T05:07:26",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Migräne oder Hirnblutung?: Ist das wirklich ein Notfall?",
+      "teaser": "Notaufnahmen quellen über, Ärzte beklagen mangelhaftes Gesundheitswissen. Welche Symptome echte „Red Flags“ sind, mit denen man so schnell wie möglich in die Klinik sollte.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warnsignale-wann-sind-schmerzen-ein-notfall-accg-200876339.html"
+    },
+    {
       "title": "Topologie: So falten Sie einen Ring aus Ecken und Kanten",
       "teaser": "Mathematiker Richard Evan Schwartz findet den effizientesten Bauplan für einen Origami-Ring. Wer ihn nachfalten will, findet hier das Schnittmuster.",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/origami-torus-und-geometrie-accg-200876745.html"
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/origami-torus-und-geometrie-accg-200876745.html",
+      "image_url": "https://media0.faz.net/image/w1200/a169b8a5c0db/w4032h2268x0y129/202606/3a1bb83d-c383-412e-9eab-d0d60713e7e3/diese-faltanleitung-loeste-ein.webp",
+      "image_title": "Diese Faltanleitung löste ein jahrzehntealtes mathematisches Problem."
     },
     {
       "title": "Biermann im Pour le mérite: Geschichtsstunde mit Gesangseinlage",
@@ -84,7 +91,7 @@
       "title": "Der FalL Rivière: Tragisch umverteilte Geschlechterrollen",
       "teaser": "Michel Foucault edierte 1973 die Akten zum Fall eines Bauern, der 1835 seine Mutter ermordet und schriftlich Bericht erstattet hatte. Die Anthropologin Jeanne Favret-Saada hat sich die Sache jetzt noch einmal vorgenommen.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/wiederaufnahme-des-falls-riviere-accg-200822284.html",
-      "image_url": "https://media0.faz.net/image/w1200/3d0672c11d83/w2854h1605x85y177/202605/a87b2980-4a18-11f1-bb40-ba1c78b1c919/ren-allio-drehte-1976-seinen.webp",
+      "image_url": "https://media0.faz.net/image/w1100/3d0672c11d83/w2854h1605x85y177/202605/a87b2980-4a18-11f1-bb40-ba1c78b1c919/ren-allio-drehte-1976-seinen.webp",
       "image_title": "René Allio drehte 1976 seinen Film über Pierre Rivière mit Laiendarstellern aus der bäuerlichen Region. Der Hauptdarsteller Claude Hébert wanderte später nach Haiti aus, empfing die Priesterweihe und erhielt 2009 einen Preis der Académie française für seine Missionsarbeit mit Waisenkindern."
     },
     {
@@ -100,13 +107,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/genderdysphorie-psychische-beschwerden-bleiben-bestehen-accg-200886330.html",
       "image_url": "https://media0.faz.net/image/w1100/e8dd151eeb3f/w4500h2531x0y469/202301/43600.0.1377823179/die-flagge-der-transgender.webp",
       "image_title": "Die Flagge der Transgender-Community"
-    },
-    {
-      "title": "Mikroben: In Ötzis Magen regt sich noch was",
-      "teaser": "Ötzi ist seit mehr als 5000 Jahren tot. Nun finden Forscher in seinem Magen Hinweise auf Mikroorganismen, die wohl noch leben. Wie kann das sein?",
-      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/mikroben-in-oetzis-magen-regt-sich-noch-was-accg-200893330.html",
-      "image_url": "https://media0.faz.net/image/w1100/75b227cc6ddc/w1533h862x0y47/201803/431.0.20763686/eine-rekonstruktion-des.webp",
-      "image_title": "Eine Rekonstruktion des Gletschermannes Ötzi."
     },
     {
       "title": "Pflanzenschutzmittel: Genehmigung für die Ewigkeit",
@@ -179,6 +179,13 @@
       "image_title": "Johanna Kuroczik"
     },
     {
+      "title": "Mikroben: In Ötzis Magen regt sich noch was",
+      "teaser": "Ötzi ist seit mehr als 5000 Jahren tot. Nun finden Forscher in seinem Magen Hinweise auf Mikroorganismen, die wohl noch leben. Wie kann das sein?",
+      "url": "https://www.faz.net/aktuell/wissen/archaeologie-altertum/mikroben-in-oetzis-magen-regt-sich-noch-was-accg-200893330.html",
+      "image_url": "https://media0.faz.net/image/w880/75b227cc6ddc/w1533h862x0y47/201803/431.0.20763686/eine-rekonstruktion-des.webp",
+      "image_title": "Eine Rekonstruktion des Gletschermannes Ötzi."
+    },
+    {
       "title": "Botanik-Kolumne: Lass Gras wachsen",
       "teaser": "Das Mähen von Wiesen und Rasen ist für Insekten doppelt schädlich. Deshalb fordern Ökologen, das Gras vor allem im Frühsommer wachsen zu lassen.",
       "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/garten-wissen-warum-man-gras-nicht-maehen-sollte-200856508.html",
@@ -186,24 +193,10 @@
       "image_title": "Wer seinen Rasen nicht mäht, wird früher oder später mit Pusteblumen belohnt."
     },
     {
-      "title": "Sentimentale Zukunftsvisionen: So blaue Augen",
-      "teaser": "Eine Tagung in Marbach untersucht das Sentimentale als Zukunftscode. Was bedeutet es für unsere Zeit, dass Nachwuchswissenschaftler sich so viel von der Versenkung in Gefühle versprechen?",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/zukunftsvisionen-der-sentimentalitaet-200822035.html",
-      "image_url": "https://media0.faz.net/image/w880/068539d444a5/w5600h3150x0y293/202508/43601.0.1221539361/wer-nichts-zu-beissen-bekommt.webp",
-      "image_title": "Wer nichts zu beißen bekommt und sich nicht sattsehen kann, den nennt man wohl sentimental: Im August 2025 wurden in London Requisiten der Fernsehserie „Downton Abbey“ versteigert."
-    },
-    {
-      "title": "Herzrasen und Luftnot: Ist das wirklich ein Notfall?",
-      "teaser": "Notaufnahmen quellen über, Ärzte beklagen mangelhaftes Gesundheitswissen in der Bevölkerung. Diese Symptome müssen Sie wirklich ernst nehmen.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warnsignale-wann-sind-schmerzen-ein-notfall-accg-200876339.html",
-      "image_url": "https://media0.faz.net/image/w920/386f35a58e9f/w1568h672x0y344/202605/43601.0.2161729447/schmerzen-stechen-flimmern.webp",
-      "image_title": "Schmerzen, Stechen, Flimmern – viele Signale des Körpers wirken bedrohlich. Aber sind sie es auch?"
-    },
-    {
       "title": "Kolumne Gesundheitsmythen: Wie ungesund sind Konservierungsstoffe?",
       "teaser": "Lieber Fleisch als Fleischersatz voller Chemie, heißt es. Wer viele Konservierungsstoffe isst, hat eher Bluthochdruck, Krebs und Diabetes, berichten Forscher. Stimmt das? Welche Lebensmittel sollte man meiden?",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ernaehrung-warum-konservierungsmittel-vermutlich-nicht-das-problem-sind-accg-200886386.html",
-      "image_url": "https://media0.faz.net/image/w1100/62f1c264c565/w5988h3368x12y0/202605/43601.0.2162628512/man-ahnt-schon-dass.webp",
+      "image_url": "https://media0.faz.net/image/w920/2682d9ff22c2/w6000h2571x0y495/202605/43601.0.2162628512/man-ahnt-schon-dass.webp",
       "image_title": "Man ahnt schon, dass hochverarbeitete Lebensmittel keine Vitaminbomben sind"
     },
     {
@@ -212,6 +205,13 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/lebende-therapien-schaffen-den-durchbruch-200843942.html",
       "image_url": "https://media0.faz.net/image/w1100/306d83f874d1/w6500h3656x0y329/202605/43601.0.2119588939/car-t-zellen-sind-eine.webp",
       "image_title": "CAR-T-Zellen sind eine Alternative zur Chemotherapie in der Krebsbehandlung."
+    },
+    {
+      "title": "Psychologie: Asozial in der Antarktis",
+      "teaser": "In der Antarktis wurde über Monate hinweg verfolgt, was Isolation in einer feindlichen Umwelt mit Menschen macht. Offenbar sind Sozialkontakte nicht der Schlüssel zu einer guten Stimmung.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/antarktis-experiment-wie-isolation-die-psyche-der-menschen-veraendert-accg-200855336.html",
+      "image_url": "https://media0.faz.net/image/w1100/476b0b0151ca/w5184h2916x0y540/202605/43601.0.2108155932/die-concordia-station-ist.webp",
+      "image_title": "Die Concordia-Station ist selbst für antarktische Verhältnisse sehr abgelegen. Sie liegt auf 3200 Meter Höhe."
     },
     {
       "title": "Neue Früherkennung: Was nützt das Krebsscreening für Raucher?",
@@ -361,10 +361,17 @@
       "image_title": "Mit diesem Fund in der versunkenen Stadt Pompeji fertigen Forscher eine KI-Konstruktion eines Opfers des Vesuv-Ausbruchs vor fast 2.000 Jahren an."
     },
     {
+      "title": "Sentimentale Zukunftsvisionen: So blaue Augen",
+      "teaser": "Eine Tagung in Marbach untersucht das Sentimentale als Zukunftscode. Was bedeutet es für unsere Zeit, dass Nachwuchswissenschaftler sich so viel von der Versenkung in Gefühle versprechen?",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/zukunftsvisionen-der-sentimentalitaet-200822035.html",
+      "image_url": "https://media0.faz.net/image/w920/e9a0170f01f8/w5600h2400x0y667/202508/43601.0.1221539361/wer-nichts-zu-beissen-bekommt.webp",
+      "image_title": "Wer nichts zu beißen bekommt und sich nicht sattsehen kann, den nennt man wohl sentimental: Im August 2025 wurden in London Requisiten der Fernsehserie „Downton Abbey“ versteigert."
+    },
+    {
       "title": "Monroe und die Kühltechnik: Kalt und kälter die Deko",
       "teaser": "Verhaltenslehren aus Hollywood: Technologien der Abkühlung sind das Leitmotiv von Billy Wilders Film „Das verflixte 7. Jahr“, auch jenseits der berühmten Szene mit Marilyn Monroe über dem Lüftungsschacht.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/marilyn-monroe-und-die-geschichte-der-kuehltechnik-accg-200858502.html",
-      "image_url": "https://media0.faz.net/image/w920/881a3450b805/w594h254x0y79/202605/43601.0.2094655607/ich-bin-permanent-nur-cool-in.webp",
+      "image_url": "https://media0.faz.net/image/w1100/9a98809f739d/w594h334x0y39/202605/43601.0.2094655607/ich-bin-permanent-nur-cool-in.webp",
       "image_title": "Ich bin permanent nur cool: In diesem von Sam Shaw eingefan­ge­nen Moment schien Marilyn Monroe von ihrer Rolle gelangweilt."
     },
     {
@@ -373,13 +380,6 @@
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/eine-neue-these-zur-kriegsschuld-1914-200822288.html",
       "image_url": "https://media0.faz.net/image/w1100/160541ae4df9/w5711h3212x0y278/201407/431.0.38073889/nach-der-ermordung-des.webp",
       "image_title": "Nach der Ermordung des österreichisch-ungarischen Thronfolgers Franz Ferdinand am 28. Juni 1914 hielt die österreichische Infanterie Schießübungen an der Grenze zu Serbien ab. Im Sommer 1914 lag nach Auffassung Joachim Doleziks nur ein einziger vom Völkerrecht gedeckter Bündnisfall vor, nämlich der zwischen Österreich-Ungarn und dem Deutschen Reich."
-    },
-    {
-      "title": "Schutz vor Abstieg: Einmal oben, immer oben",
-      "teaser": "Wer den gesellschaftlichen Aufstieg geschafft hat, kann darauf bauen, dass sein Netzwerk den Abstieg verhindert. Die sozialen Kontakte müssen allerdings bestimmte Bedingungen erfüllen.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/welt-des-reichtums-was-vor-sozialem-abstieg-schuetzt-200856506.html",
-      "image_url": "https://media0.faz.net/image/w1100/31326988c90a/w2000h1125x0y209/202605/431d5c6f9e-4a31-11f1-8eb2-f130c12c3b9d/netzwerke-erhoehen-die-chancen.webp",
-      "image_title": "Netzwerke erhöhen die Chancen, in der Welt der Reichen zu verbleiben."
     },
     {
       "title": "Hightech-Agenda im Kabinett: Wir dürfen keine neuen Abhängigkeiten schaffen",

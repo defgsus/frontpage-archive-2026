@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-05T00:03:39",
+  "timestamp": "2026-06-05T05:07:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,15 +20,48 @@
   ],
   "articles": [
     {
+      "title": "Systemereignisse analysieren mit dem Open-Source-Werkzeug Stratoshark",
+      "teaser": "Stratoshark analysiert Systemereignisse direkt auf dem Host. Unter Linux erfasst es Syscalls in Echtzeit, auf anderen Plattformen untersucht es Capture-Dateien.",
+      "url": "https://www.heise.de/ratgeber/Systemereignisse-analysieren-mit-dem-Open-Source-Werkzeug-Stratoshark-11314019.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Badezimmerlüfter zu Taupunktlüfter mit Shelly-Produkten umrüsten",
+      "teaser": "Zwei Shelly-Sensoren und ein smarter Schalter rüsten einen simplen Badezimmerlüfter in wenigen Schritten zur intelligenten Taupunktsteuerung auf.",
+      "url": "https://www.heise.de/ratgeber/Badezimmerluefter-zu-Taupunktluefter-mit-Shelly-Produkten-umruesten-11304149.html",
+      "image_title": ", KI generiert / Akos Fodor / Maker Media GmbH"
+    },
+    {
+      "title": "Mythos Preview: Anthropic unterstützt NSA angeblich bei offensivem KI-Einsatz",
+      "teaser": "Mehrere Angestellte von Anthropic arbeiten einem Zeitungsbericht zufolge direkt bei der NSA daran, die mächtige Mythos-KI für offensive Einsätze fit zu machen.",
+      "url": "https://www.heise.de/news/Mythos-Preview-Anthropic-unterstuetzt-NSA-angeblich-bei-offensivem-KI-Einsatz-11319206.html",
+      "image_title": "Digitall verzerrte US-Flagge"
+    },
+    {
+      "title": "Vorsicht, Kunde: Glasfaserausbau – Rechte bei Verzögerung und Schäden",
+      "teaser": "Wer einen Glasfaseranschluss bestellt hat, sollte Verzögerungen nicht aussitzen. Wir klären, was Verbraucher über Verträge, Laufzeit und Haftung wissen müssen.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Glasfaserausbau-Rechte-bei-Verzoegerung-und-Schaeden-11319056.html",
+      "image_title": "Glasfaser-Leitungen der Telekom beim Verlegen"
+    },
+    {
+      "title": "RatgeberSystemereignisse analysieren mit dem Open-Source-Werkzeug Stratoshark",
+      "url": "https://www.heise.de/ratgeber/Systemereignisse-analysieren-mit-dem-Open-Source-Werkzeug-Stratoshark-11314019.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "RatgeberBadezimmerlüfter zu Taupunktlüfter mit Shelly-Produkten umrüsten",
+      "url": "https://www.heise.de/ratgeber/Badezimmerluefter-zu-Taupunktluefter-mit-Shelly-Produkten-umruesten-11304149.html",
+      "image_title": ", KI generiert / Akos Fodor / Maker Media GmbH"
+    },
+    {
+      "title": "HintergrundIT-Gehälter 2026: Das verdienen Entwickler in Deutschland",
+      "url": "https://www.heise.de/hintergrund/IT-Gehaelter-2026-Das-verdienen-Entwickler-in-Deutschland-11281523.html"
+    },
+    {
       "title": "Deutschland fehlt: 17 Staaten beschließen Abkommen zum Schutz von Unterseekabeln",
       "teaser": "Ein Bündnis mit Vertretern aus Europa, Nahem Osten und Indopazifik will die maritime Netzinfrastruktur besser vor Sabotage abschirmen. Deutschland fehlt dabei.",
       "url": "https://www.heise.de/news/Meeresnetzwerke-17-Staaten-beschliessen-Abkommen-zum-Schutz-von-Unterseekabeln-11319062.html",
       "image_title": "Ein Kabel, das von einem Sandstrand ins Meer führt"
-    },
-    {
-      "title": "Ubuntu: Single Sign-on bis ins Betriebssystem",
-      "teaser": "Ubuntu 26.04 LTS lässt sich mit Canonicals authd gegen OIDC-Provider authentifizieren. Das klappt auch mit selbst gehosteten Providern wie Pocket ID.",
-      "url": "https://www.heise.de/ratgeber/Ubuntu-Single-Sign-on-bis-ins-Betriebssystem-11298970.html"
     },
     {
       "title": "Cloudflare kauft Vite: Open Source und herstellerneutral – mit Millionenfonds",
@@ -41,20 +74,6 @@
       "teaser": "Let's Encrypt legt sich fest: Statt großer Post-Quantum-Signaturen sollen Merkle Tree Certificates das Web-PKI quantensicher machen. Tests beginnen Ende 2026.",
       "url": "https://www.heise.de/news/Post-Quantum-ohne-aufgeblaehte-Handshakes-Let-s-Encrypts-neuer-Weg-11318855.html",
       "image_title": "Quantencomputer mit Zahnrädern und Binärcode"
-    },
-    {
-      "title": "HintergrundIT-Gehälter 2026: Das verdienen Entwickler in Deutschland",
-      "url": "https://www.heise.de/hintergrund/IT-Gehaelter-2026-Das-verdienen-Entwickler-in-Deutschland-11281523.html"
-    },
-    {
-      "title": "HintergrundWarum Softwarequalität im Zeitalter generativer KI trotzdem ein Handwerk bleibt",
-      "url": "https://www.heise.de/hintergrund/Warum-Softwarequalitaet-im-Zeitalter-generativer-KI-trotzdem-ein-Handwerk-bleibt-11310290.html",
-      "image_title": "Koch bedient Herdknöpfe in einer Küche mit Edelstahltöpfen."
-    },
-    {
-      "title": "TestsKI-Schreibhilfe: Cotypist für macOS im Test",
-      "url": "https://www.heise.de/tests/KI-Schreibhilfe-Cotypist-fuer-macOS-im-Test-11296557.html",
-      "image_title": "Cotypist für den Mac"
     },
     {
       "title": "NAS mit ARM-Chips von Qualcomm: Radxa DragonBay und DragonStation mit \"Fygo OS\"",
@@ -128,57 +147,40 @@
       "image_title": "Mini-ITX-System mit Noctua-Wasserkühlung hängt an einer braunen Wand"
     },
     {
-      "title": "Cisco Live US 2026: Neue Catalyst Switches, Router und WLAN-APs",
-      "teaser": "Cisco hat auf der Hausmesse Live US 2026 neue Core Switches, Access Points und Router vorgestellt, die 400G-Campus-Netze, Wi-Fi 7 und mehr Sicherheit bringen.",
-      "url": "https://www.heise.de/news/Cisco-Live-US-2026-Neue-Catalyst-Switches-Router-und-WLAN-APs-11318354.html",
-      "image_title": "Ein Schild mit Cisco-Logo"
-    },
-    {
-      "title": "Apples neues Developer Center: Warum die Wahl auf Berlin fiel",
-      "teaser": "Apple eröffnet in Berlin sein erstes europäisches Developer Center. Apple-VP Susan Prescott erläutert, warum es Berlin wurde, und wozu das Center noch dient.",
-      "url": "https://www.heise.de/hintergrund/Apples-neues-Developer-Center-Warum-die-Wahl-auf-Berlin-fiel-11318538.html",
-      "image_title": "Blick in einen Trainingsraum des neuen Developer Centers in Berlin"
-    },
-    {
-      "title": "Amazon stellt nächste Generation seines Lagerroboters Proteus vor",
-      "teaser": "Amazon hat die zweite Generation seines Lagerroboters Proteus vorgestellt. Das System versteht nun natürliche Sprache.",
-      "url": "https://www.heise.de/news/Amazon-stellt-naechste-Generation-seines-Lagerroboters-Proteus-vor-11318250.html"
-    },
-    {
-      "title": "NewsVW kappt mit API-Änderung Besitzern Zugriff auf eigene Fahrzeugdaten",
-      "url": "https://www.heise.de/news/VW-kappt-mit-API-Aenderung-Besitzern-Zugriff-auf-eigene-Fahrzeugdaten-11312757.html",
-      "image_title": "Volkswagen in Wolfsburg"
-    },
-    {
-      "title": "NewsBlue Origin-Explosion wird auch für die NASA zum Problem",
-      "url": "https://www.heise.de/news/Blue-Origin-Explosion-wird-auch-fuer-die-NASA-zum-Problem-11312481.html"
+      "title": "NewsAndroid bekommt Anrufererkennung gegen Betrugsanrufe",
+      "url": "https://www.heise.de/news/Android-bekommt-Anrufererkennung-gegen-Betrugsanrufe-11316362.html",
+      "image_title": "Android-Handy warnt vor möglicherweise betrügerischer Kontaktfälschung"
     },
     {
       "title": "NewsNvidia: Keine Produkte mehr für Menschen",
       "url": "https://www.heise.de/news/Nvidia-Keine-Produkte-mehr-fuer-Menschen-11314488.html"
     },
     {
-      "title": "AlertNewsHome Assistant: Smartphone-Apps ermöglichen Übernahme durch Angreifer",
-      "url": "https://www.heise.de/news/Home-Assistant-Smartphone-Apps-ermoeglichen-Uebernahme-durch-Angreifer-11313360.html",
-      "image_title": "Home-Assistant-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
+      "title": "NewsHoffnungsträger Elektro-Kleinwagen: VW beginnt mit Produktion in Spanien",
+      "url": "https://www.heise.de/news/Hoffnungstraeger-Elektro-Kleinwagen-VW-beginnt-mit-Produktion-in-Spanien-11316426.html",
+      "image_title": "Cupra Raval"
     },
     {
-      "title": "HintergrundWarum (kleine) Autos so teuer geworden sind",
-      "url": "https://www.heise.de/hintergrund/Warum-kleine-Autos-so-teuer-geworden-sind-11299174.html",
-      "image_title": "Kia Picanto in kleiner Dorfstraße"
+      "title": "NewsAirbus absolviert Erstflug mit Ultra-Langstreckenjet A350-1000ULR",
+      "url": "https://www.heise.de/news/Airbus-A350-1000ULR-Ultra-Langstreckenjet-absolviert-Erstflug-11316288.html",
+      "image_title": "A350-1000ULR in der Luft."
+    },
+    {
+      "title": "RatgeberWas 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten",
+      "url": "https://www.heise.de/ratgeber/Was-100-km-mit-dem-Elektroauto-im-Sommer-2026-wirklich-kosten-11187500.html",
+      "image_title": "Skoda Elroq und BMW iX3"
+    },
+    {
+      "title": "RatgeberSecure-Boot-Desaster: Was Sie tun können",
+      "url": "https://www.heise.de/ratgeber/Secure-Boot-Desaster-Was-Sie-tun-koennen-11293302.html"
     },
     {
       "title": "TestsMarktübersicht: Funkgeräte für jedermann",
       "url": "https://www.heise.de/tests/Marktuebersicht-Funkgeraete-fuer-jedermann-11244744.html"
     },
     {
-      "title": "TestsSmart-Home-Aktoren von Wago im Test: Mit 16 Ampere und Matter",
-      "url": "https://www.heise.de/tests/Smart-Home-Aktoren-von-Wago-im-Test-Mit-16-Ampere-und-Matter-11302642.html"
-    },
-    {
-      "title": "RatgeberDer DIY- Klingel-Repeater im Eigenbau",
-      "url": "https://www.heise.de/ratgeber/Der-DIY-Klingel-Repeater-im-Eigenbau-11302495.html",
-      "image_title": ", KI generiert / Daniel Schwabe / Maker Media GmbH"
+      "title": "RatgeberKlimaanlagen-Tuning: Mehr Kühlleistung dank Fensterdurchführung und Isolierung",
+      "url": "https://www.heise.de/ratgeber/Klimaanlagen-Tuning-Mehr-Kuehlleistung-dank-Fensterdurchfuehrung-und-Isolierung-11191516.html"
     }
   ]
 }
