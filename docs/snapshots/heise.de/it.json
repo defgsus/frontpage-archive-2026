@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-06T09:15:09",
+  "timestamp": "2026-06-06T11:13:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Google mietet für viel Geld Rechenleistung bei Musks SpaceX",
+      "teaser": "Elon Musk hat mehr Computerkapazität als seine KI-Aktivitäten brauchen. Nun gibt es schon den zweiten Riesen-Deal, in dem die Rechenzentren vermietet werden.",
+      "url": "https://www.heise.de/news/Google-mietet-fuer-viel-Geld-Rechenleistung-bei-Musks-SpaceX-11320566.html",
+      "image_title": "Das Logo von xAI, im Hintergrund die Silhouette von Elon Musk"
+    },
+    {
+      "title": "Bots übernehmen Internet früher als gedacht",
+      "teaser": "Laut Cloudflare fragen Bots im Netz mehr HTML-Inhalte an als Menschen. Das sollte eigentlich erst nächstes Jahr passieren.",
+      "url": "https://www.heise.de/news/Bots-uebernehmen-Internet-frueher-als-gedacht-11320530.html",
+      "image_title": "Business-Mann starrt Robotergesicht an"
+    },
+    {
       "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
       "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
       "url": "https://www.heise.de/news/iX-Workshop-Keycloak-der-fundierte-Einstieg-in-IAM-und-SSO-11306994.html",
@@ -30,18 +42,6 @@
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Python, CSS, APISIX, Kubara, Apache Kafka, GitHub, Ember, Gastown, Hibernate und Grafana.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11316614.html",
       "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Kommentar: Warum Microsoft jetzt auf Open Source setzt",
-      "teaser": "Ausgerechnet Microsoft setzt heute auf Open Source. Doch der Konzern verschenkt nichts – er verlagert nur die Maut in die Cloud, meint Moritz Förster.",
-      "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Open-Source-Liebe-hat-einen-Preis-11320098.html",
-      "image_title": "Drei zerfallende Buchstaben E aus braunem Material auf dunklem Hintergrund."
-    },
-    {
-      "title": "KI-Modelle auf Apple-Geräten anbindenIntelligente Kurzbefehle bauen, so geht's",
-      "teaser": "Seit Apple Kurzbefehle mit seinen KI-Modellen verbindet, holen Sie noch mehr aus ihnen heraus. Wir zeigen, wie Sie damit Zeit sparen.",
-      "url": "https://www.heise.de/ratgeber/KI-Kurzbefehle-fuer-Apple-Geraete-selbst-bauen-So-geht-s-11310541.html",
-      "image_title": ", Laura-Sophie Gruhn / heise medien"
     },
     {
       "title": "RatgeberKI-Kurzbefehle für Apple-Geräte selbst bauen: So geht's",
@@ -57,6 +57,17 @@
       "title": "RatgeberEinstieg in Kurzbefehle: So geht's auf iPhone, iPad, Apple Watch und Mac",
       "url": "https://www.heise.de/ratgeber/Einstieg-in-Kurzbefehle-So-geht-s-auf-iPhone-iPad-Apple-Watch-und-Mac-11310535.html",
       "image_title": "Apples Kurzbefehle-App kann viel"
+    },
+    {
+      "title": "Eiswürfelmaschine Euhomy DE-IM004 im Test: 24 Würfel in 15 Minuten",
+      "teaser": "Die Eiswürfelmaschine von Euhomy verspricht 24 Eiswürfel pro Durchgang, eine Selbstreinigungsfunktion und bis zu 20,5 kg Eis pro Tag.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/eiswuerfelmaschine-euhomy-de-im004-im-test-24-wuerfel-in-15-minuten/0erdgmg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Kommentar: Warum Microsoft jetzt auf Open Source setzt",
+      "teaser": "Ausgerechnet Microsoft setzt heute auf Open Source. Doch der Konzern verschenkt nichts – er verlagert nur die Maut in die Cloud, meint Moritz Förster.",
+      "url": "https://www.heise.de/meinung/Kommentar-Microsofts-Open-Source-Liebe-hat-einen-Preis-11320098.html",
+      "image_title": "Drei zerfallende Buchstaben E aus braunem Material auf dunklem Hintergrund."
     },
     {
       "title": "E-Bikes: technische Fortschritte und drohende Regulierung | c’t uplink",
@@ -133,18 +144,6 @@
       "teaser": "Die Google-Health-App erhält ein erstes größeres Update. Die neue App-Version 5.01 steht sowohl für iOS als auch für Android bereit.",
       "url": "https://www.heise.de/news/Google-Health-App-Update-5-01-bringt-Fehlerbehebungen-und-neue-Funktionen-11319446.html",
       "image_title": "Google Health App Startscreen"
-    },
-    {
-      "title": "Visual Studio Code 1.123 synchronisiert Agenten-Sessions über Geräte hinweg",
-      "teaser": "Entwickler können begonnene VS-Code-Chats nun auf anderen Geräten fortführen und OpenAI- sowie Anthropic-Modelle erhalten ein vergrößertes Kontextfenster.",
-      "url": "https://www.heise.de/news/Visual-Studio-Code-1-123-synchronisiert-Agenten-Sessions-ueber-Geraete-hinweg-11319338.html",
-      "image_title": "Frau tippt an Laptop Kommentare"
-    },
-    {
-      "title": "AlertWarten auf Sicherheitspatch: Zugangsdaten von Acer-Wave-7-Router einsehbar",
-      "teaser": "Kritische Schwachstellen bedrohen Acer-Router der Wave-7-Serie. Sicherheitsupdates sind bislang nicht verfügbar.",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Zugangsdaten-von-Acer-Wave-7-Router-einsehbar-11318035.html",
-      "image_title": "Orang leuchtendes Warndreieck vor blauem Cyber-Hintergrund"
     },
     {
       "title": "NewsAndroid bekommt Anrufererkennung gegen Betrugsanrufe",
