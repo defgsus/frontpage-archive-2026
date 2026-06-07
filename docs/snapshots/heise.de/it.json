@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-07T15:16:10",
+  "timestamp": "2026-06-07T17:02:07",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,26 +20,27 @@
   ],
   "articles": [
     {
+      "title": "WTF: Metas KI-Chatbot half beim Knacken zehntausender Instagram-Accounts",
+      "teaser": "Ein KI-Chatbot, der auch Opfern gehackter Instagram-Accounts helfen sollte, ermöglichte stattdessen, etliche Accounts zu hacken.",
+      "url": "https://www.heise.de/news/WTF-Metas-KI-Chatbot-half-beim-Knacken-zehntausender-Instagram-Accounts-11320886.html",
+      "image_title": "Smartphone-Display mit Instagram-Logo, auf einer Tastatur liegend."
+    },
+    {
+      "title": "ChatGPT soll zur integrierten „Superapp“ werden",
+      "teaser": "Vor seinem Börsengang will OpenAI nach eigenen Angaben sein bekanntestes Produkt gründlich umbauen. Viele Funktionen werden vereint.",
+      "url": "https://www.heise.de/news/ChatGPT-soll-zur-integrierten-Superapp-werden-11320934.html",
+      "image_title": "ChatGPT-App auf einem Smartphone"
+    },
+    {
       "title": "KI-Revolution oder Jobkiller: Haben wir demnächst mehr Freizeit?",
       "teaser": "KI verändert die Arbeitswelt, soweit klar. Auf der SXSW in London diskutierten Experten über die Folgen für Arbeitnehmer und Unternehmen.",
       "url": "https://www.heise.de/news/KI-Revolution-oder-Jobkiller-Haben-wir-demnaechst-mehr-Freizeit-11320844.html"
     },
     {
-      "title": "Server-Lizenz abgelaufen: Motorola-App streikt",
+      "title": "Neueinrichtung nicht möglichServer-Lizenz abgelaufen: Motorola-App streikt",
       "teaser": "Die MotoSync+-App dient eigentlich dazu, Motorola-Router zu steuern. Doch App-Probleme machen die Router teilweise sogar unbenutzbar.",
       "url": "https://www.heise.de/news/Motorolas-App-legt-die-eigenen-Router-lahm-11320798.html",
       "image_title": "Motorola-Logo an einem Motorola-Messestand"
-    },
-    {
-      "title": "VideoWarum ihr (keine) Glasfaser braucht!",
-      "teaser": "Direktvermarkter machen Druck, selbsternannte Experten halten Glasfaser für Schwachsinn. Was stimmt?",
-      "url": "https://www.heise.de/news/Video-Warum-ihr-keine-Glasfaser-braucht-11319966.html"
-    },
-    {
-      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
-      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
-      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-11308235.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "RatgeberKI-Kurzbefehle für Apple-Geräte selbst bauen: So geht's",
@@ -60,6 +61,17 @@
       "title": "Saugroboter Mova P50 Ultra im Test: Saugt und wischt gut für unter 500 Euro",
       "teaser": "Der Mova P50 Ultra saugt gut, wischt ordentlich und bietet eine Reinigungsstation mit Heißwasser und Trocknung – für unter 500 Euro. Wo ist der Haken?",
       "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-mova-p50-ultra-im-test-saugt-und-wischt-gut-fuer-unter-500-euro/h5bb7d6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Video: Warum ihr (keine) Glasfaser braucht!",
+      "teaser": "An der Tür machen Direktvermarkter Druck, gleichzeitig erklären selbsternannte Experten den Glasfaser-Ausbau für Schwachsinn. Was stimmt, erklären wir im Video.",
+      "url": "https://www.heise.de/news/Video-Warum-ihr-keine-Glasfaser-braucht-11319966.html"
+    },
+    {
+      "title": "iX-Workshop: API-Design und -Entwicklung mit HTTP, REST und OpenAPI",
+      "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
+      "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-11308235.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
     },
     {
       "title": "Günstiger Saugroboter Bosch Spotless+ im Test: Starkes Saugen, schwaches Wischen",
@@ -127,18 +139,6 @@
       "teaser": "Microsofts neuer PostgreSQL-Dienst Azure HorizonDB ist als Public Preview verfügbar. Er skaliert bis 128 TByte und 3072 vCores und bringt Vektorsuche mit.",
       "url": "https://www.heise.de/news/Microsoft-bringt-Azure-HorizonDB-mit-Vektorsuche-in-die-Public-Preview-11319972.html",
       "image_title": "Ein Raketen-Raumschiff mit einem Elefanten-Logo fliegt durch eine Wolke, verbunden mit Datenbanken und Netzwerken."
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11308141.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Angriff auf GitHub.dev stiehlt das OAuth-Token für alle Repos",
-      "teaser": "Eine Lücke auf Github.dev – VS Code im Browser – ermöglichte es Angreifern, alle Repos eines Anwenders zu verseuchen, um verschiedene Angriffe zu starten.",
-      "url": "https://www.heise.de/news/Angriff-auf-GitHub-dev-stiehlt-das-OAuth-Token-fuer-alle-Repos-11319754.html",
-      "image_title": "Grafik: Wurm bricht aus der Sandbox aus"
     },
     {
       "title": "NewsMalware: KI erzeugt kaum aufhaltbaren Wurm",
