@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-07T11:40:38",
+  "timestamp": "2026-06-07T13:14:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,17 @@
   ],
   "articles": [
     {
+      "title": "Server-Lizenz abgelaufen: Motorola-App streikt",
+      "teaser": "Die MotoSync+-App dient eigentlich dazu, Motorola-Router zu steuern. Doch App-Probleme machen die Router teilweise sogar unbenutzbar.",
+      "url": "https://www.heise.de/news/Motorolas-App-legt-die-eigenen-Router-lahm-11320798.html",
+      "image_title": "Motorola-Logo an einem Motorola-Messestand"
+    },
+    {
+      "title": "Wie wir die 1401.-größte Primzahl der Welt entdeckten",
+      "teaser": "Wir haben uns auf die Primzahlsuche begeben und erklären, wie Sie selbst zum Primzahljäger werden können.",
+      "url": "https://www.heise.de/hintergrund/Wie-wir-die-1401-groesste-Primzahl-der-Welt-entdeckten-11218038.html"
+    },
+    {
       "title": "VideoWarum ihr (keine) Glasfaser braucht!",
       "teaser": "Direktvermarkter machen Druck, selbsternannte Experten halten Glasfaser für Schwachsinn. Was stimmt?",
       "url": "https://www.heise.de/news/Video-Warum-ihr-keine-Glasfaser-braucht-11319966.html"
@@ -29,17 +40,6 @@
       "teaser": "Lernen Sie, wie man effiziente und benutzerfreundliche APIs entwickelt, HTTP- und REST-Standards anwendet und standardisierte Referenzdokumentationen erstellt.",
       "url": "https://www.heise.de/news/iX-Workshop-API-Design-und-Entwicklung-mit-HTTP-REST-und-OpenAPI-11308235.html",
       "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Google warntAngreifer geben sich als IT-Techniker aus und betreten Büros",
-      "teaser": "Neue Masche der Gruppe UNC3753: Die Angreifer geben sich vor Ort als IT-Techniker aus, um Daten zu stehlen.",
-      "url": "https://www.heise.de/news/Google-warnt-Angreifer-geben-sich-als-IT-Techniker-aus-und-betreten-Bueros-11320590.html"
-    },
-    {
-      "title": "Google mietet für viel Geld Rechenleistung bei Musks SpaceX",
-      "teaser": "Elon Musk hat mehr Computerkapazität als seine KI-Aktivitäten brauchen. Nun gibt es schon den zweiten Riesen-Deal, in dem die Rechenzentren vermietet werden.",
-      "url": "https://www.heise.de/news/Google-mietet-fuer-viel-Geld-Rechenleistung-bei-Musks-SpaceX-11320566.html",
-      "image_title": "Das Logo von xAI, im Hintergrund die Silhouette von Elon Musk"
     },
     {
       "title": "RatgeberKI-Kurzbefehle für Apple-Geräte selbst bauen: So geht's",
@@ -60,6 +60,17 @@
       "title": "Günstiger Saugroboter Bosch Spotless+ im Test: Starkes Saugen, schwaches Wischen",
       "teaser": "Der Bosch Spotless+ saugt stark, navigiert ordentlich und leert Staub automatisch. Beim Wischen bleibt er aber klar limitiert.",
       "url": "https://www.heise.de/bestenlisten/testbericht/guenstiger-saugroboter-bosch-spotless-im-test-starkes-saugen-schwaches-wischen/t1vhd5g?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Google warnt: Angreifer geben sich als IT-Techniker aus und betreten Büros",
+      "teaser": "Die Google Threat Intelligence Group warnt vor der Gruppe UNC3753. Die Angreifer geben sich vor Ort als IT-Techniker aus, um Daten per USB-Stick zu stehlen.",
+      "url": "https://www.heise.de/news/Google-warnt-Angreifer-geben-sich-als-IT-Techniker-aus-und-betreten-Bueros-11320590.html"
+    },
+    {
+      "title": "Google mietet für viel Geld Rechenleistung bei Musks SpaceX",
+      "teaser": "Elon Musk hat mehr Computerkapazität als seine KI-Aktivitäten brauchen. Nun gibt es schon den zweiten Riesen-Deal, in dem die Rechenzentren vermietet werden.",
+      "url": "https://www.heise.de/news/Google-mietet-fuer-viel-Geld-Rechenleistung-bei-Musks-SpaceX-11320566.html",
+      "image_title": "Das Logo von xAI, im Hintergrund die Silhouette von Elon Musk"
     },
     {
       "title": "Eiswürfelmaschine Euhomy DE-IM004 im Test: 24 Würfel in 15 Minuten",
@@ -129,18 +140,6 @@
       "teaser": "Die KI-Schmiede Anthropic warnt vor einer „rekursiven Selbstoptimierung“ von KI-Modellen und fordert eine globale Verlangsamung der Entwicklung.",
       "url": "https://www.heise.de/news/Skynet-Szenario-Anthropic-warnt-vor-KI-die-sich-selbst-entwickelt-11319846.html",
       "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
-    },
-    {
-      "title": "AlertCisco warnt vor neuer attackierter SD-WAN-Sicherheitslücke",
-      "teaser": "Erst vor Kurzem hatten bösartige Akteure Ciscos SD-WAN-Geräte im Visier. Aktuell greifen sie eine neue Lücke an, warnt Cisco.",
-      "url": "https://www.heise.de/news/Cisco-warnt-vor-neuer-attackierter-SD-WAN-Sicherheitsluecke-11319678.html",
-      "image_title": "view of Cisco company logo with selective focus."
-    },
-    {
-      "title": "Die ersten PCIe-6.0-SSDs auf der Computex",
-      "teaser": "Ab Mitte 2027 sollen Server-SSDs mit Phisons schnellstem Controller X3 erhältlich sein. Erste Modelle sind schon auf der Computex zu sehen.",
-      "url": "https://www.heise.de/news/SSDs-Phison-gibt-bei-PCI-Express-6-0-Vollgas-11319708.html",
-      "image_title": "Server-SSDs auf blauem Untergrund"
     },
     {
       "title": "NewsMalware: KI erzeugt kaum aufhaltbaren Wurm",
