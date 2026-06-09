@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-09T01:52:13",
+  "timestamp": "2026-06-09T05:57:55",
   "url": "https://www.heise.de/newsticker/mobiles/",
   "response": {
     "status": 200
@@ -20,27 +20,31 @@
   ],
   "articles": [
     {
+      "title": "Vergleichstest: Vier Notebooks mit Core Ultra 300 alias Panther Lake",
+      "teaser": "Intel nimmt den Kampf gegen die erstarkte ARM-Konkurrenz auf. Wir checken, wie sich vier Notebooks hinsichtlich Performance und Akkulaufzeit schlagen.",
+      "url": "https://www.heise.de/tests/Vergleichstest-Vier-Notebooks-mit-Core-Ultra-300-alias-Panther-Lake-11168671.html"
+    },
+    {
+      "title": "Google ganz nah – und doch auf Distanz: So erklärt Apple seinen KI-Deal",
+      "teaser": "Verabschiedet sich Apple mit der Google-Kooperation von seiner Datenschutzidee? Ganz und gar nicht, beteuert Apples Softwarechef in ungewohnter Direktheit.",
+      "url": "https://www.heise.de/news/Google-ganz-nah-und-doch-auf-Distanz-So-erklaert-Apple-seinen-KI-Deal-11322434.html",
+      "image_title": "KI-Diskussionsrunde mit Apple-Verantwortlichen"
+    },
+    {
+      "title": "Kommentar zur WWDC-KeynoteApple baut Fundamente statt Hochhäuser",
+      "teaser": "Einiges war anders an der WWDC-Keynote. Und nicht alles gefällt. Dabei zeigt sich Apple einsichtig.",
+      "url": "https://www.heise.de/meinung/Kommentar-zur-WWDC-Keynote-Fundamente-statt-Hochhaeuser-11322452.html",
+      "image_title": "Besucher der WWDC26 in Cupertino"
+    },
+    {
       "title": "iOS 27: Apple lässt Siri AI nicht in die EU",
       "teaser": "Wenn iOS 27 im Herbst erscheint, werden in Deutschland viele Funktionen fehlen. Apple zeigt mit dem Finger auf die EU-Kommission.",
       "url": "https://www.heise.de/news/Wegen-DMA-Wettbewerbsregeln-Keine-KI-Siri-fuer-EU-iPhones-11322380.html",
       "image_title": "Europa-Flagge und ein iPhone mit Apple-Logo"
     },
     {
-      "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
-      "teaser": "Mexikos Präsidentin Claudia Sheinbaum macht eine Probefahrt im ersten mexikanischen Elektroauto und träumt vom Aufbau einer nationalen E-Auto-Industrie.",
-      "url": "https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html",
-      "image_title": "Mexikos erstes Elektroauto: Olinia 1"
-    },
-    {
-      "title": "iOS 27Mehr Tempo, besserer Kinderschutz, neue Siri",
-      "teaser": "Das neue iOS soll auch ältere Geräte flott machen und unter anderem den Kinderschutz verbessern.",
-      "url": "https://www.heise.de/news/iOS-27-Mehr-Tempo-besserer-Schutz-neue-Siri-11321931.html",
-      "image_title": "iOS 27"
-    },
-    {
-      "title": "Siri AIApple verspricht Neustart für Apple Intelligence",
-      "teaser": "Mithilfe von Google Gemini nimmt Apple Intelligence einen neuen Anlauf – aber in der EU vorerst nicht.",
-      "url": "https://www.heise.de/news/Siri-AI-Apple-verspricht-umfassenden-KI-Neustart-fuer-Apple-Intelligence-11322101.html"
+      "title": "TestsVergleichstest: Vier Notebooks mit Core Ultra 300 alias Panther Lake",
+      "url": "https://www.heise.de/tests/Vergleichstest-Vier-Notebooks-mit-Core-Ultra-300-alias-Panther-Lake-11168671.html"
     },
     {
       "title": "RatgeberKI-Kurzbefehle für Apple-Geräte selbst bauen: So geht's",
@@ -52,9 +56,21 @@
       "url": "https://www.heise.de/tests/Datensammler-Fitnesstracker-Google-Fitbit-Air-im-Test-11307603.html"
     },
     {
-      "title": "RatgeberEinstieg in Kurzbefehle: So geht's auf iPhone, iPad, Apple Watch und Mac",
-      "url": "https://www.heise.de/ratgeber/Einstieg-in-Kurzbefehle-So-geht-s-auf-iPhone-iPad-Apple-Watch-und-Mac-11310535.html",
-      "image_title": "Apples Kurzbefehle-App kann viel"
+      "title": "„Keimzelle einer nationalen Industrie“: Mexiko präsentiert erstes Elektroauto",
+      "teaser": "Mexikos Präsidentin Claudia Sheinbaum macht eine Probefahrt im ersten mexikanischen Elektroauto und träumt vom Aufbau einer nationalen E-Auto-Industrie.",
+      "url": "https://www.heise.de/news/Keimzelle-einer-nationalen-Industrie-Mexiko-praesentiert-erstes-Elektroauto-11322306.html",
+      "image_title": "Mexikos erstes Elektroauto: Olinia 1"
+    },
+    {
+      "title": "iOS 27: Mehr Tempo, besserer Kinderschutz, neue Siri für iPhone & iPad",
+      "teaser": "Die neuen Betriebssysteme sollen ältere iPhones und iPads flott machen. Den Kinderschutz will Apple endlich verbessert haben.",
+      "url": "https://www.heise.de/news/iOS-27-Mehr-Tempo-besserer-Schutz-neue-Siri-11321931.html",
+      "image_title": "iOS 27"
+    },
+    {
+      "title": "„Siri AI“: Apple verspricht umfassenden KI-Neustart für Apple Intelligence",
+      "teaser": "Mithilfe von Google Gemini nimmt Apple Intelligence einen neuen Anlauf. In iOS 27 kommt Siri AI in der EU vorerst nicht.",
+      "url": "https://www.heise.de/news/Siri-AI-Apple-verspricht-umfassenden-KI-Neustart-fuer-Apple-Intelligence-11322101.html"
     },
     {
       "title": "Analyst zu Gemini auf dem iPhone: Rettet Google Apples KI-Ambitionen?",
@@ -127,40 +143,23 @@
       "image_title": "Gemini App-Icon auf Smartphone"
     },
     {
-      "title": "Splitscreen wie bei Android: iOS 27 angeblich mit neuer Funktion",
-      "teaser": "Derzeit lassen sich auf dem iPhone keine zwei Apps gleichzeitig anzeigen. Aus chinesischen Quellen heißt es nun, dass sich das ändern könnte.",
-      "url": "https://www.heise.de/news/Multitasking-fuer-iOS-Angeblich-Splitscreen-Funktion-im-Anmarsch-11318622.html",
-      "image_title": "iOS-26-Übersicht"
-    },
-    {
-      "title": "Tipp: Fotos und Videos bei vollem iPhone-Speicher sofort löschen",
-      "teaser": "Wer ein iPhone mit (zu) kleinem Speicher hat, muss große Dateien regelmäßig löschen. So geht man bei 4K-Videos & Co. aus der Fotos-App vor.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Fotos-und-Videos-bei-vollem-iPhone-Speicher-sofort-loeschen-4231774.html",
-      "image_title": "iPhone Air"
-    },
-    {
-      "title": "Ray-Ban Meta: Begleit-App enthält Code für Gesichtserkennung",
-      "teaser": "In der Meta-AI-App steckt offenbar bereits weit entwickelter Code für Gesichtserkennung per Smart Glasses. Freigeschaltet ist die Funktion allerdings nicht.",
-      "url": "https://www.heise.de/news/Ray-Ban-Meta-Begleit-App-enthaelt-Code-fuer-Gesichtserkennung-11316322.html",
-      "image_title": "Werbedisplay für Ray-Ban Meta Smart Glasses in einem Geschäft mit Produktmustern, Tablet und Werbeplakat im Hintergrund."
-    },
-    {
       "title": "NewsKünstliches „Blatt“ stellt flüssigen Kraftstoff aus Licht, Wasser und CO₂ her",
       "url": "https://www.heise.de/news/Kuenstliches-Blatt-stellt-fluessigen-Kraftstoff-aus-Licht-Wasser-und-CO-her-11319292.html",
       "image_title": "Künstliches Blatt in einem durchsichtigen Zylinder."
-    },
-    {
-      "title": "NewsMalware: KI erzeugt kaum aufhaltbaren Wurm",
-      "url": "https://www.heise.de/news/IT-Forscher-zeigen-anpassungsfaehigen-KI-Wurm-11318083.html"
     },
     {
       "title": "NewsVideo: Warum ihr (keine) Glasfaser braucht!",
       "url": "https://www.heise.de/news/Video-Warum-ihr-keine-Glasfaser-braucht-11319966.html"
     },
     {
-      "title": "Hintergrund„Masters of the Universe“: Zum Fremdschämen platt und schlecht gespielt",
-      "url": "https://www.heise.de/hintergrund/Masters-of-the-Universe-im-Test-Helden-aus-der-Personalabteilung-11318238.html",
-      "image_title": "Screenshot aus Masters of the Universe"
+      "title": "NewsGreenpeace bringt Tempo-100-Schilder an Autobahnen an",
+      "url": "https://www.heise.de/news/Greenpeace-bringt-Tempo-100-Schilder-an-Autobahnen-an-11321394.html",
+      "image_title": "Tempo 100 Schild"
+    },
+    {
+      "title": "NewsBots übernehmen Internet früher als gedacht",
+      "url": "https://www.heise.de/news/Bots-uebernehmen-Internet-frueher-als-gedacht-11320530.html",
+      "image_title": "Business-Mann starrt Robotergesicht an"
     },
     {
       "title": "HintergrundPV-Akku-Steuerung: Fritz SmartEnergy 250 als Smart-Meter-Ersatz",
@@ -168,16 +167,18 @@
       "image_title": "Fritz SmartEnergy 250 auf einer intelligenten Messeinrichtung"
     },
     {
-      "title": "RatgeberSecure-Boot-Desaster: Was Sie tun können",
-      "url": "https://www.heise.de/ratgeber/Secure-Boot-Desaster-Was-Sie-tun-koennen-11293302.html"
-    },
-    {
-      "title": "HintergrundAngebliche \"Auto-Reports\": Das steckt hinter der Betrugsmasche beim Kfz-Verkauf",
-      "url": "https://www.heise.de/hintergrund/Angebliche-Auto-Reports-Das-steckt-hinter-der-Betrugsmasche-beim-Kfz-Verkauf-11319902.html"
+      "title": "RatgeberWas 100 km mit dem Elektroauto im Sommer 2026 wirklich kosten",
+      "url": "https://www.heise.de/ratgeber/Was-100-km-mit-dem-Elektroauto-im-Sommer-2026-wirklich-kosten-11187500.html",
+      "image_title": "Skoda Elroq und BMW iX3"
     },
     {
       "title": "HintergrundIT-Gehälter 2026: Das verdienen Entwickler in Deutschland",
       "url": "https://www.heise.de/hintergrund/IT-Gehaelter-2026-Das-verdienen-Entwickler-in-Deutschland-11281523.html"
+    },
+    {
+      "title": "HintergrundSolar aus Deutschland und Europa: Eine Analyse dessen, was noch möglich ist",
+      "url": "https://www.heise.de/hintergrund/Solar-aus-Deutschland-und-Europa-Eine-Analyse-dessen-was-noch-moeglich-ist-11317961.html",
+      "image_title": "Nahaufnahme einer Hand auf einem Solarpaneel mit leuchtenden Linien"
     }
   ]
 }
