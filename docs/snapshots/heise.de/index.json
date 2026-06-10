@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-10T20:04:39",
+  "timestamp": "2026-06-10T22:44:52",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "SK Hynix: Börsengang in den USA steht bevor",
+      "url": "https://www.heise.de/news/SK-Hynix-Boersengang-in-den-USA-moeglichrweise-schon-sehr-bald-11328074.html"
+    },
     {
       "title": "Medizinregistergesetz: Maximale Löschfrist mit 100 Jahren praktisch unbefristet",
       "url": "https://www.heise.de/news/Medizinregistergesetz-Maximale-Loeschfrist-mit-100-Jahren-praktisch-unbefristet-11328032.html"
@@ -56,10 +60,6 @@
       "url": "https://www.heise.de/ratgeber/Trick-17-Guenstigen-Balkonkraftwerksakku-mit-grosser-Solaranlage-kombinieren-11321596.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Nebenkostenprivileg: Kabelnetzbetreiber fordern Schadenersatz",
-      "url": "https://www.heise.de/news/Kabelanschluss-Ist-der-Wegfall-der-Umlagefaehigkeit-verfassungswidrig-11327862.html"
     },
     {
       "title": "TKG-NovelleBundesregierung will Glasfaser-Ausbau im Haus beschleunigen",
@@ -180,21 +180,27 @@
       "image_title": "Screenshot aus Starminer"
     },
     {
+      "title": "SK Hynix: Börsengang in den USA steht bevor",
+      "teaser": "Chiphersteller SK Hynix aus Südkorea strebt eine US-Börsennotierung womöglich schon im August an. Die Zulassung könnte bereits in wenigen Tagen erfolgen.",
+      "url": "https://www.heise.de/news/SK-Hynix-Boersengang-in-den-USA-moeglichrweise-schon-sehr-bald-11328074.html",
+      "image_title": "Silizium-Wafer in der Produktion"
+    },
+    {
       "title": "Medizinregistergesetz: Maximale Löschfrist mit 100 Jahren praktisch unbefristet",
       "teaser": "Bei der Anhörung zum Medizinregistergesetz dominierten Fragen zum Datenschutz und Kritik an der geplanten Umsetzung der Forschungskennziffer und Datenqualität.",
       "url": "https://www.heise.de/news/Medizinregistergesetz-Maximale-Loeschfrist-mit-100-Jahren-praktisch-unbefristet-11328032.html",
       "image_title": "Bundestagsanhörung zum Thema Medizinregistergesetz"
     },
     {
+      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
+      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie in dieser Webcast-Aufzeichnung.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+    },
+    {
       "title": "Uber verklagt New York City wegen Gesetz zum Schutz von Fahrern",
       "teaser": "Der Fahrdienstvermittler Uber klagt gegen die Stadt New York, um ein Gesetz zur „ungerechtfertigten Deaktivierung“ von Fahrern zu Fall zu bringen.",
       "url": "https://www.heise.de/news/Uber-verklagt-New-York-City-wegen-Gesetz-zum-Schutz-von-Fahrern-11328050.html",
       "image_title": "Uber-Schriftzug an der vorderen Passagiertür eines schwarzen Pkw"
-    },
-    {
-      "title": "Ist Agentic AI die Lösung für Business-Präsentationen?",
-      "teaser": "KI kann Firmen-Präsentationen beschleunigen und Erstentwürfe liefern. Doch ohne menschliches Zutun geht es nicht. Benötigt wird ein echter KI-Assistent, der strukturiert zuarbeitet und Zeit spart.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7226252356&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Die beste Handykamera im Test – Vivo schlägt Apple und Xiaomi",
@@ -224,12 +230,6 @@
       "teaser": "Die EU-Kommission hat den finalen Verhaltenskodex zur Kennzeichnung von KI-Inhalten vorgelegt, der Anbietern zweckmäßige Wege zur Einhaltung des AI Act weist.",
       "url": "https://www.heise.de/news/KI-Transparenz-Wie-die-EU-kuenstlich-generierte-Inhalte-entlarven-will-11327956.html",
       "image_title": "Eine Frau hält eine Lupe über ein EU-Logo mit der Inschrift AI Act in der Mitte"
-    },
-    {
-      "title": "Trick 17: Günstigen Balkonkraftwerksakku mit großer Solaranlage kombinieren",
-      "teaser": "Kleinerer Akku, mehr Zyklen, höhere Rendite. Wir probieren, wie sich ein kleiner 2-kWh-Balkonkraftwerkakku an einer 7 kWp großen Solaranlage schlägt.",
-      "url": "https://www.heise.de/ratgeber/Trick-17-Guenstigen-Balkonkraftwerksakku-mit-grosser-Solaranlage-kombinieren-11321596.html",
-      "image_title": "Ecotracker vor Ecoflow"
     },
     {
       "title": "Statement versprochen - und geliefertBMW iX3 im Test: Mehr Reichweite als ich",
@@ -626,14 +626,15 @@
       "url": "https://www.heise.de/en/news/EU-Parliament-Compromise-reached-for-digital-euro-11320315.html"
     },
     {
-      "title": "Chromebooks \"upgraden\"ChromeOS entfernen und stattdessen Linux oder Windows installieren",
-      "teaser": "Auf Chromebooks läuft nicht nur ChromeOS. Wenige Handgriffe verwandeln sie in vollwertige Notebooks mit Linux oder Windows.",
-      "url": "https://www.heise.de/ratgeber/Chromebooks-ChromeOS-entfernen-und-stattdessen-Linux-oder-Windows-installieren-11320182.html"
+      "title": "Von MS-Office zu LibreOffice wechseln: So migriert man Dokumentvorlagen",
+      "teaser": "Wer von Microsoft Office zu LibreOffice wechselt, möchte auch seine mühsam gestalteten Dokumentvorlagen mitnehmen. Wir zeigen, wie das am einfachsten geht.",
+      "url": "https://www.heise.de/ratgeber/Von-MS-Office-zu-LibreOffice-wechseln-So-migriert-man-Dokumentvorlagen-11306278.html"
     },
     {
-      "title": "Wie KI die Softwareentwicklung erobert",
-      "teaser": "Dank KI gibt es plötzlich so viel Code wie nie. Die Technik senkt Einstiegshürden und ändert, wie Entwickler arbeiten.",
-      "url": "https://www.heise.de/ratgeber/Wie-KI-die-Softwareentwicklung-erobert-11273866.html"
+      "title": "MS-Office-AlternativeÖffentliche Beta von SoftMaker Office 2026 gestartet",
+      "teaser": "Seit heute kann man die neue Version des deutschen Office-Pakets von SoftMaker kostenlos herunterladen und bis Ende Juli ausprobieren.",
+      "url": "https://www.heise.de/news/MS-Office-Alternative-Oeffentliche-Beta-von-SoftMaker-Office-2026-gestartet-11326201.html",
+      "image_title": "SoftMaker-Office-Logo vor weißem Hintergrund"
     },
     {
       "title": "Vergleichstest: Vier Notebooks mit Core Ultra 300 alias Panther Lake",
@@ -683,6 +684,12 @@
       "image_title": ", Stockbym / adobe.stock.com"
     },
     {
+      "title": "Wie Japan zur Kamera-Weltmacht wurde: Der Aufstieg von Nikon, Canon und Co.",
+      "teaser": "Von Leica bis Nikon: Wie Japan mit Technik, Industriepolitik und Serienfertigung die Kameraindustrie revolutionierte.",
+      "url": "https://www.heise.de/hintergrund/Wie-Japan-zur-Kamera-Weltmacht-wurde-Der-Aufstieg-von-Nikon-Canon-und-Co-11304333.html",
+      "image_title": ", Stockbym / adobe.stock.com"
+    },
+    {
       "title": "Zwischen Uniform und Identität: Click Boom Flash # 64 „Frauen in der Bundeswehr\"",
       "teaser": "„Ich wollte wissen, wie das Leben hinter NATO-Drahtzäunen aussieht\", sagt Fotografin Teresa Halbreiter über ihre preisgekrönte Reportage „Stillgestanden\".",
       "url": "https://www.heise.de/news/Zwischen-Uniform-und-Identitaet-Click-Boom-Flash-64-Frauen-in-der-Bundeswehr-11320046.html",
@@ -693,12 +700,6 @@
       "teaser": "GoPro warnt vor dem eigenen Ende, der Kameramarkt wächst trotzdem munter weiter, und ein Achtjähriger düpiert mit dem Handy die Profis der Food-Fotografie.",
       "url": "https://www.heise.de/news/GoPro-wankt-Kamera-Markt-boomt-die-Fotonews-der-Woche-23-2026-11319624.html",
       "image_title": "Nahaufnahme des blauen GoPro-Logos auf einer Kamera."
-    },
-    {
-      "title": "Licht, Linien, Lebenswelten: Die Bilder der Woche 23",
-      "teaser": "In dieser Woche zeigen sieben Schwarz-Weiß-Fotografien, wie Licht, Kontraste und Perspektiven Alltägliches in starke Bildgeschichten verwandeln.",
-      "url": "https://www.heise.de/news/Licht-Linien-Lebenswelten-Die-Bilder-der-Woche-23-11317142.html",
-      "image_title": "Mehrere Wollgrasbüschel auf langen, dunklen Stängeln leuchten in einer Schwarz-Weiß-Aufnahme im Abendlicht vor einem unscharfen dunklen Hintergrund."
     },
     {
       "title": "EUDI-Wallet: Das ist der aktuelle Stand der digitalen europäischen Brieftasche",
@@ -743,22 +744,22 @@
       "image_title": "BMW iX3"
     },
     {
-      "title": "Das 2-Billionen-Problem: Wie die EU um ihre Wirtschaft bangt",
-      "teaser": "Ein Konflikt um Taiwan könnte Europas Wirtschaft ruinieren. Bei einer Eskalation droht Deutschland ein beispielloser Absturz.",
-      "url": "https://www.heise.de/article/Das-2-Billionen-Problem-Wie-die-EU-um-ihre-Wirtschaft-bangt-11322330.html",
-      "image_title": "Conflict,Between,China,And,Taiwan.,Chinaâ€“taiwan,Relations.,3d,Illustration."
+      "title": "OneDrive: Microsoft löscht Firmendaten ab Juli automatisch",
+      "teaser": "Nicht lizenzierte OneDrive-Konten durchlaufen ab Juli 2026 einen festen Lösch-Zyklus. Admins sollten jetzt ihre Altlasten prüfen.",
+      "url": "https://www.heise.de/article/OneDrive-Microsoft-loescht-Firmendaten-ab-Juli-automatisch-11321775.html",
+      "image_title": "Microsoft office building"
     },
     {
-      "title": "Hightech: Erste funktionierende Quantenbatterie vorgestellt",
-      "teaser": "Forscher haben ein System entwickelt, das Energie auf Quantenebene laden, speichern und abgeben kann. Die Batterie lädt umso schneller, je größer sie wird.",
-      "url": "https://www.heise.de/article/Hightech-Erste-funktionierende-Quantenbatterie-vorgestellt-11320580.html",
-      "image_title": "Leuchtendes, von bunten Lasern befeuertes Objekt in einer Laborumgebung"
+      "title": "Kampfjet-Knall: Berlin serviert Paris ab und will jetzt die Luft-Führung",
+      "teaser": "Das Mega-Projekt FCAS ist tot: Deutschland bricht mit Frankreich und greift mit Milliarden-Macht nach der Führung in der europäischen Luftfahrt.",
+      "url": "https://www.heise.de/article/Kampfjet-Knall-Berlin-serviert-Paris-ab-und-will-jetzt-die-Luft-Fuehrung-11327680.html",
+      "image_title": "Modell des europäischen Kampfjets FCAS (Next Generation Fighter) auf der Paris Air Show neben dem Stand von Textron Bell."
     },
     {
-      "title": "Iran: \"Krieg und Isolation stärken nicht die demokratischen Kräfte\"",
-      "teaser": "Der Iran steht unter Beschuss – von außen und innen. Was Sanktionen und Krieg mit einer Gesellschaft machen und was Europa dabei vergisst. Ein Interview.",
-      "url": "https://www.heise.de/article/Iran-Krieg-und-Isolation-staerken-nicht-die-demokratischen-Kraefte-11327056.html",
-      "image_title": "Eine Marktszene"
+      "title": "Neues Krebsmedikament macht Tumore wieder sichtbar fürs Immunsystem",
+      "teaser": "Ein experimentelles Präparat soll Krebszellen für das Immunsystem sichtbar machen. Frühe Studien wecken Hoffnung bei schwer behandelbaren Tumorarten.",
+      "url": "https://www.heise.de/article/Neues-Krebsmedikament-macht-Tumore-wieder-sichtbar-fuers-Immunsystem-11315103.html",
+      "image_title": "3D-Rendering der körpereigenen Antwort auf Krebszellen mittels T-Zellen des Immunsystems"
     },
     {
       "title": "Einige Meter kürzer? Was Physiker zur Flugbahn des WM-Fußballs 2026 sagen",
