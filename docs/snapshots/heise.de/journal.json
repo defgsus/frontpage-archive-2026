@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T00:12:46",
+  "timestamp": "2026-06-12T05:23:41",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Freitag: Google-TPUs von TSMC und Samsung, US-Spionage ohne US-Spionagegesetz",
+      "teaser": "Co-Produktion von Googles KI-Chips + US-Spionagegesetz nicht verlängert + Robotaxi-Treueprogramm für Vielfahrer + Samsungs Akku-Probleme + Datenschutz-Podcast",
+      "url": "https://www.heise.de/news/Freitag-Google-TPUs-von-TSMC-und-Samsung-US-Spionage-ohne-US-Spionagegesetz-11329604.html",
+      "image_title": "Ein Wafer in einer Produktionsanlage, Freitag: TPU-Auftragsfertigung, Spionage-Politikschacher, Waymo-Treueprogramm, Galaxy-Updateprobleme & Datenschutz-Podcast"
+    },
+    {
+      "title": "Auslegungssache 161: Löschpflicht trifft Speicherzwang",
+      "teaser": "Der c’t-Datenschutz-Podcast behandelt ein Dilemma: Daten sollen gelöscht werden – stecken aber in Logs, Backups oder gesetzlich vorgeschriebenen Aufzeichnungen.",
+      "url": "https://www.heise.de/hintergrund/Auslegungssache-161-Loeschpflicht-trifft-Speicherzwang-11327364.html",
+      "image_title": "Sylvester Tremmel (links oben), Joerg Heidrich (rechts oben) und Carsten Strottmann (unten)"
+    },
+    {
       "title": "OECD zu Altersgrenzen für Social Media: Genug des Wartens",
       "teaser": "20 Jahre des Bittens und Diskutierens zeugen von viel Geduld, sie haben aber auch mütend gemacht – müde und wütend. Geduld scheint keine mehr übrig zu sein.",
       "url": "https://www.heise.de/hintergrund/OECD-zu-Altersgrenzen-fuer-Social-Media-Genug-des-Wartens-11327656.html",
@@ -30,18 +42,6 @@
       "teaser": "Die Philosophin Dorothea Winter warnt davor, gesellschaftliche Probleme technisch zu lösen und erklärt, warum man KI-Systemen nicht vertrauen kann.",
       "url": "https://www.heise.de/news/c-t-Podcast-Vertrauenswuerdige-KI-ist-ein-Kategorienfehler-11327194.html",
       "image_title": "Titelbild They Talk Tech"
-    },
-    {
-      "title": "Donnerstag: Xbox soll erschwinglich bleiben, Smart-Glasses-Produktion in Italien",
-      "teaser": "Gaming für Xbox-Chefin zu teuer + EU-Fertigung als Meta-Vorteil + Uber gegen New Yorker Fahrerschutz + Kritik am Medizinregistergesetz + SK Hynix vor Börsengang",
-      "url": "https://www.heise.de/news/Donnerstag-Xbox-soll-erschwinglich-bleiben-Smart-Glasses-Produktion-in-Italien-11328148.html",
-      "image_title": "Xbox-Controller in zwei Händen; Donnerstag: Xbox-Geschäftsmodell, EU-Smart-Glasses, Uber-Fahrerschutz, Medizinregistergesetz-Zwist & SK-Hynix-Börsengang"
-    },
-    {
-      "title": "KI-Update: WWDC, Google soll haften, KI-Sicherheit, Mythos ist da, KI-Airhockey",
-      "teaser": "Das „KI-Update“ liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-WWDC-Google-soll-haften-KI-Sicherheit-Mythos-ist-da-KI-Airhockey-11322960.html",
-      "image_title": "Titelbild KI Update"
     },
     {
       "title": "HintergrundAngebliche \"Auto-Reports\": Das steckt hinter der Betrugsmasche beim Kfz-Verkauf",
@@ -56,6 +56,18 @@
       "title": "HintergrundEnergiewende in Zahlen: Wo wir stehen und wo wir hinwollen",
       "url": "https://www.heise.de/hintergrund/Energiewende-in-Zahlen-Wo-wir-stehen-und-wo-wir-hinwollen-11309541.html",
       "image_title": "Installateure montieren ein Modul eine Photovoltaik-Anlage"
+    },
+    {
+      "title": "Donnerstag: Xbox soll erschwinglich bleiben, Smart-Glasses-Produktion in Italien",
+      "teaser": "Gaming für Xbox-Chefin zu teuer + EU-Fertigung als Meta-Vorteil + Uber gegen New Yorker Fahrerschutz + Kritik am Medizinregistergesetz + SK Hynix vor Börsengang",
+      "url": "https://www.heise.de/news/Donnerstag-Xbox-soll-erschwinglich-bleiben-Smart-Glasses-Produktion-in-Italien-11328148.html",
+      "image_title": "Xbox-Controller in zwei Händen; Donnerstag: Xbox-Geschäftsmodell, EU-Smart-Glasses, Uber-Fahrerschutz, Medizinregistergesetz-Zwist & SK-Hynix-Börsengang"
+    },
+    {
+      "title": "KI-Update: WWDC, Google soll haften, KI-Sicherheit, Mythos ist da, KI-Airhockey",
+      "teaser": "Das „KI-Update“ liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-WWDC-Google-soll-haften-KI-Sicherheit-Mythos-ist-da-KI-Airhockey-11322960.html",
+      "image_title": "Titelbild KI Update"
     },
     {
       "title": "„Passwort“ Folge 59: Vom DNSSEC-Fail beim DENIC, Domainklau und anderen News",
@@ -135,28 +147,6 @@
       "image_title": "ki-update Bild"
     },
     {
-      "title": "#TGIQF: Das Quiz rund um Tetris",
-      "teaser": "Tetris ist eins der erfolgreichsten Puzzle-Computerspiele aller Zeiten. Wir würdigen den Zeitfresser mit einem Nerdquiz. Knobeln Sie mit!",
-      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Tetris-11287542.html",
-      "image_title": "Tetris auf dem Gameboy"
-    },
-    {
-      "title": "Post zum Freitag: Wie Sie die Leistung Ihrer Monoblock-Klimaanlage optimieren",
-      "teaser": "Mobile Klimaanlagen kühlen mehr schlecht als recht. Mit etwas Bastelarbeit lässt sich deren Leistung steigern. Dies und weitere Themen in der Post zum Freitag.",
-      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Wie-Sie-die-Leistung-Ihrer-Monoblock-Klimaanlage-optimieren-11319012.html",
-      "image_title": "heise+ Update"
-    },
-    {
-      "title": "UpdateNewsGoogle bringt 12-Milliarden-Parameter-Modell auf den Laptop",
-      "url": "https://www.heise.de/news/Google-Neues-KI-Modell-laeuft-auch-auf-Laptops-mit-nur-16GB-RAM-11318979.html",
-      "image_title": "Google Deepmind-Logo wird auf einem Bildschrim angezeigt."
-    },
-    {
-      "title": "NewsPixel Studio: Google beendet KI-Bildbearbeitung auf Pixel-Smartphones",
-      "url": "https://www.heise.de/news/Google-stellt-KI-Bildbearbeitungs-App-Pixel-Studio-ein-11321204.html",
-      "image_title": "Google Pixel Studio App-Icon auf Smartphone"
-    },
-    {
       "title": "NewsEuro-Office: Erste Version des quelloffenen Web-Office ist da",
       "url": "https://www.heise.de/news/Euro-Office-Erste-Version-des-quelloffenen-Web-Office-ist-da-11320254.html",
       "image_title": "Euro-Office-Screenshot neben Euro-Office-Logo auf blauem Mosaik-Hintergrund"
@@ -167,22 +157,32 @@
       "image_title": "Umriss eines menschlichen Kopfes auf orangem Hintergrund; im Kopf Gekritzel"
     },
     {
-      "title": "RatgeberSpaceX: Was der Börsengang für Anleger bedeutet",
-      "url": "https://www.heise.de/ratgeber/SpaceX-Was-der-Boersengang-fuer-Anleger-bedeutet-11307447.html"
+      "title": "NewsuBlock Origin: Die letzten Chrome-Workarounds fallen",
+      "url": "https://www.heise.de/news/uBlock-Origin-Die-letzten-Chrome-Workarounds-fallen-11327170.html",
+      "image_title": "Rotes Schild mit weißem \"u\" und einem roten Verbotsschild darüber, Hintergrund mit Chrome-Logos."
     },
     {
-      "title": "HintergrundFünf Tools für Spec-driven Development im Überblick",
-      "url": "https://www.heise.de/hintergrund/Fuenf-Tools-fuer-Spec-driven-Development-im-Ueberblick-11314972.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
+      "title": "NewsEU reagiert auf Apples Siri-AI-Blockade, weist DMA-Vorwürfe zurück",
+      "url": "https://www.heise.de/news/EU-reagiert-auf-Apples-Siri-AI-Blockade-weist-DMA-Vorwuerfe-zurueck-11326126.html",
+      "image_title": "Siri AI"
+    },
+    {
+      "title": "RatgeberSpaceX: Was der Börsengang für Anleger bedeutet",
+      "url": "https://www.heise.de/ratgeber/SpaceX-Was-der-Boersengang-fuer-Anleger-bedeutet-11307447.html"
     },
     {
       "title": "RatgeberChromebooks: ChromeOS entfernen und stattdessen Linux oder Windows installieren",
       "url": "https://www.heise.de/ratgeber/Chromebooks-ChromeOS-entfernen-und-stattdessen-Linux-oder-Windows-installieren-11320182.html"
     },
     {
-      "title": "HintergrundPV-Akku-Steuerung: Fritz SmartEnergy 250 als Smart-Meter-Ersatz",
-      "url": "https://www.heise.de/hintergrund/Fritz-SmartEnergy-250-Mit-Emulation-zur-PV-Akku-Steuerung-11319322.html",
-      "image_title": "Fritz SmartEnergy 250 auf einer intelligenten Messeinrichtung"
+      "title": "RatgeberTrick 17: Günstigen Balkonkraftwerksakku mit großer Solaranlage kombinieren",
+      "url": "https://www.heise.de/ratgeber/Trick-17-Guenstigen-Balkonkraftwerksakku-mit-grosser-Solaranlage-kombinieren-11321596.html",
+      "image_title": "Ecotracker vor Ecoflow"
+    },
+    {
+      "title": "HintergrundFünf Tools für Spec-driven Development im Überblick",
+      "url": "https://www.heise.de/hintergrund/Fuenf-Tools-fuer-Spec-driven-Development-im-Ueberblick-11314972.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
     }
   ]
 }

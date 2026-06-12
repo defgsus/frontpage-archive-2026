@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-12T00:12:38",
+  "timestamp": "2026-06-12T05:23:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,48 @@
   ],
   "articles": [
     {
+      "title": "Claude Code Channels: KI-Assistent fernsteuern",
+      "teaser": "Mit der Channels-Funktion rückt Claude Code näher an die Orte, an denen Teams ohnehin arbeiten. Sie macht aus kleinen Impulsen im Messenger Entwickleraktionen.",
+      "url": "https://www.heise.de/ratgeber/Claude-Code-Channels-KI-Assistent-fernsteuern-11318532.html",
+      "image_title": ","
+    },
+    {
+      "title": "Funk am Bau: PMR446-Digitalfunkgeräte programmieren",
+      "teaser": "DMR-Digitalfunkgeräte gibt es mittlerweile günstig für lizenzfreie Bänder. So stimmen Sie Geräte unterschiedlicher Hersteller aufeinander ab.",
+      "url": "https://www.heise.de/hintergrund/Funk-am-Bau-PMR446-Digitalfunkgeraete-programmieren-11289671.html"
+    },
+    {
+      "title": "Funk am Bau: PMR446-Analogfunkgeräte programmieren",
+      "teaser": "In raueren Umgebungen kann man günstige PMR-Funkgeräte mit teureren kombinieren, um die Kosten zu reduzieren. Die richtige Programmierung ist der Schlüssel.",
+      "url": "https://www.heise.de/hintergrund/Funk-am-Bau-PMR446-Analogfunkgeraete-programmieren-11289653.html"
+    },
+    {
+      "title": "Google könnte zur Fertigung neuer TPU-Generation neben TSMC auch Samsung nutzen",
+      "teaser": "Die für 2028 geplante 10. TPU-Generation Googles könnte zum Teil von TSMC und von Samsung kommen. Für Samsung wäre dies ein großer Erfolg als Auftragsfertiger.",
+      "url": "https://www.heise.de/news/Google-koennte-zur-Fertigung-neuer-TPU-Generation-neben-TSMC-auch-Samsung-nutzen-11329594.html",
+      "image_title": "Ein Wafer wird belichtet"
+    },
+    {
+      "title": "RatgeberClaude Code Channels: KI-Assistent fernsteuern",
+      "url": "https://www.heise.de/ratgeber/Claude-Code-Channels-KI-Assistent-fernsteuern-11318532.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundFunk am Bau: PMR446-Digitalfunkgeräte programmieren",
+      "url": "https://www.heise.de/hintergrund/Funk-am-Bau-PMR446-Digitalfunkgeraete-programmieren-11289671.html"
+    },
+    {
+      "title": "HintergrundFunk am Bau: PMR446-Analogfunkgeräte programmieren",
+      "url": "https://www.heise.de/hintergrund/Funk-am-Bau-PMR446-Analogfunkgeraete-programmieren-11289653.html"
+    },
+    {
       "title": "Schnelle Glasfaser zur WM? Verbraucherzentrale mahnt 1&1 ab",
       "teaser": "Mit einem Werbebrief verspricht 1&1 superschnelles Internet pünktlich zum Fußball-Großereignis 2026. Laut Verfügbarkeitscheck dauert der Ausbau aber noch lange.",
       "url": "https://www.heise.de/news/Schnelle-Glasfaser-zur-WM-Verbraucherzentrale-mahnt-1-1-ab-11329454.html",
       "image_title": "Männer auf einer Couch gucken aufs Handy, im Arm ein Fußball"
     },
     {
-      "title": "I2C DoctorDiagnosegerät für Maker und Hardware-Entwickler",
+      "title": "Diagnosegerät für Maker und Hardware-Entwickler",
       "teaser": "Statt Oszilloskop-Kurven liefert der I2C Doctor verständliche Hinweise zur Fehlerursache auf dem I²C-Bus.",
       "url": "https://www.heise.de/news/Dieses-Tool-spuert-I2C-Probleme-in-Sekunden-auf-11329380.html"
     },
@@ -40,18 +75,6 @@
       "title": "Grundlagen in Python: Dictionarys meistern und Daten effizient organisieren",
       "teaser": "Mit Schlüssel-Wert-Paaren lassen sich Daten clever strukturieren. Wir zeigen, wie Sie Python-Dictionarys effizient erstellen und steuern.",
       "url": "https://www.heise.de/ratgeber/Grundlagen-in-Python-Dictionarys-meistern-und-Daten-effizient-organisieren-11281699.html"
-    },
-    {
-      "title": "RatgeberGrundlagen in Python: Dictionarys meistern und Daten effizient organisieren",
-      "url": "https://www.heise.de/ratgeber/Grundlagen-in-Python-Dictionarys-meistern-und-Daten-effizient-organisieren-11281699.html"
-    },
-    {
-      "title": "TestsSpielergrafikkarte: Radeon RX 9060 – Geheimtipp oder zu Recht versteckt?",
-      "url": "https://www.heise.de/tests/Spielergrafikkarte-Radeon-RX-9060-Geheimtipp-oder-zu-Recht-versteckt-11288125.html"
-    },
-    {
-      "title": "RatgeberGickup: Automatische Backups von GitHub und GitLab einrichten",
-      "url": "https://www.heise.de/ratgeber/Gickup-Automatische-Backups-von-GitHub-und-GitLab-einrichten-11314456.html"
     },
     {
       "title": "KVM-Switch mit HDMI für zwei Monitore kostet unter 50 Euro: Unitek V1312 im Test",
@@ -117,66 +140,42 @@
       "url": "https://www.heise.de/news/gamescom-jobs-career-2026-Recruiting-Messe-und-Fachkonferenz-11326269.html"
     },
     {
-      "title": "macOS 27: Apple nimmt Touchscreen-Steuerung vorweg – via iPad",
-      "teaser": "Wer testen will, wie sich ein Finger-gesteuerter Mac anfühlt, kann dies mit dem neuen macOS über einen Umweg ausprobieren: per Sidecar-Feature auf dem iPad.",
-      "url": "https://www.heise.de/news/Touchscreen-testen-iPad-erlaubt-vollstaendige-Finger-Steuerung-von-macOS-27-11328112.html",
-      "image_title": "Touch-Bedienung eines Mac via iPad"
-    },
-    {
-      "title": "KI-Skandal um Thüringens Ministerpräsidenten: FAZ depubliziert Gastartikel",
-      "teaser": "Zahlreiche Reden und Gastbeiträge von Mario Voigt sollen KI-generiert sein, darunter auch eine zum Holocaustgedenken. Nun hat eine Zeitung reagiert.",
-      "url": "https://www.heise.de/news/KI-Skandal-um-Thueringens-Ministerpraesidenten-FAZ-depubliziert-Gastartikel-11328504.html",
-      "image_title": "Eine Roboterhand auf einer Tastatur"
-    },
-    {
-      "title": "AlertGeräteverwaltung: Root-Attacken auf Ivanti Endpoint Manager Mobile möglich",
-      "teaser": "Zwei Sicherheitslücken bedrohen Ivanti Endpoint Manager Mobile. Sicherheitspatches schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Geraeteverwaltung-Root-Attacken-auf-Ivanti-Endpoint-Manager-Mobile-moeglich-11328488.html",
-      "image_title": "Ein Zettel mit einer symbolischen Updateerrinerung."
-    },
-    {
-      "title": "Fable 5 blockiert auch sicheren Code",
-      "teaser": "Schon das Stichwort „Security Audit“ reicht: Forscher kritisieren Anthropics Fable 5, weil dessen Cybersecurity-Filter auch harmlose Anfragen ausbremsen.",
-      "url": "https://www.heise.de/news/Fable-5-blockiert-auch-sicheren-Code-11328448.html",
-      "image_title": "Umriss eines menschlichen Kopfes auf orangem Hintergrund; im Kopf Gekritzel"
-    },
-    {
-      "title": "NewsGreenpeace bringt Tempo-100-Schilder an Autobahnen an",
-      "url": "https://www.heise.de/news/Greenpeace-bringt-Tempo-100-Schilder-an-Autobahnen-an-11321394.html",
-      "image_title": "Tempo 100 Schild"
-    },
-    {
-      "title": "UpdateNewsGoogle bringt 12-Milliarden-Parameter-Modell auf den Laptop",
-      "url": "https://www.heise.de/news/Google-Neues-KI-Modell-laeuft-auch-auf-Laptops-mit-nur-16GB-RAM-11318979.html",
-      "image_title": "Google Deepmind-Logo wird auf einem Bildschrim angezeigt."
-    },
-    {
-      "title": "NewsPixel Studio: Google beendet KI-Bildbearbeitung auf Pixel-Smartphones",
-      "url": "https://www.heise.de/news/Google-stellt-KI-Bildbearbeitungs-App-Pixel-Studio-ein-11321204.html",
-      "image_title": "Google Pixel Studio App-Icon auf Smartphone"
-    },
-    {
       "title": "NewsEuro-Office: Erste Version des quelloffenen Web-Office ist da",
       "url": "https://www.heise.de/news/Euro-Office-Erste-Version-des-quelloffenen-Web-Office-ist-da-11320254.html",
       "image_title": "Euro-Office-Screenshot neben Euro-Office-Logo auf blauem Mosaik-Hintergrund"
+    },
+    {
+      "title": "NewsDas wird teuer: Anthropics Claude Mythos 5 erscheint als Fable 5 mit Schranken",
+      "url": "https://www.heise.de/news/Anthropic-veroeffentlicht-Claude-Mythos-5-als-Fable-5-mit-Einschraenkungen-11326637.html",
+      "image_title": "Umriss eines menschlichen Kopfes auf orangem Hintergrund; im Kopf Gekritzel"
+    },
+    {
+      "title": "NewsuBlock Origin: Die letzten Chrome-Workarounds fallen",
+      "url": "https://www.heise.de/news/uBlock-Origin-Die-letzten-Chrome-Workarounds-fallen-11327170.html",
+      "image_title": "Rotes Schild mit weißem \"u\" und einem roten Verbotsschild darüber, Hintergrund mit Chrome-Logos."
+    },
+    {
+      "title": "NewsEU reagiert auf Apples Siri-AI-Blockade, weist DMA-Vorwürfe zurück",
+      "url": "https://www.heise.de/news/EU-reagiert-auf-Apples-Siri-AI-Blockade-weist-DMA-Vorwuerfe-zurueck-11326126.html",
+      "image_title": "Siri AI"
     },
     {
       "title": "RatgeberSpaceX: Was der Börsengang für Anleger bedeutet",
       "url": "https://www.heise.de/ratgeber/SpaceX-Was-der-Boersengang-fuer-Anleger-bedeutet-11307447.html"
     },
     {
-      "title": "HintergrundFünf Tools für Spec-driven Development im Überblick",
-      "url": "https://www.heise.de/hintergrund/Fuenf-Tools-fuer-Spec-driven-Development-im-Ueberblick-11314972.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
       "title": "RatgeberChromebooks: ChromeOS entfernen und stattdessen Linux oder Windows installieren",
       "url": "https://www.heise.de/ratgeber/Chromebooks-ChromeOS-entfernen-und-stattdessen-Linux-oder-Windows-installieren-11320182.html"
     },
     {
-      "title": "HintergrundPV-Akku-Steuerung: Fritz SmartEnergy 250 als Smart-Meter-Ersatz",
-      "url": "https://www.heise.de/hintergrund/Fritz-SmartEnergy-250-Mit-Emulation-zur-PV-Akku-Steuerung-11319322.html",
-      "image_title": "Fritz SmartEnergy 250 auf einer intelligenten Messeinrichtung"
+      "title": "RatgeberTrick 17: Günstigen Balkonkraftwerksakku mit großer Solaranlage kombinieren",
+      "url": "https://www.heise.de/ratgeber/Trick-17-Guenstigen-Balkonkraftwerksakku-mit-grosser-Solaranlage-kombinieren-11321596.html",
+      "image_title": "Ecotracker vor Ecoflow"
+    },
+    {
+      "title": "HintergrundFünf Tools für Spec-driven Development im Überblick",
+      "url": "https://www.heise.de/hintergrund/Fuenf-Tools-fuer-Spec-driven-Development-im-Ueberblick-11314972.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
     }
   ]
 }
