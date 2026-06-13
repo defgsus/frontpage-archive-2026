@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-13T13:19:03",
+  "timestamp": "2026-06-13T15:23:26",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -86,25 +92,32 @@
   ],
   "articles": [
     {
-      "title": "Bundeswehr in Litauen: Sie wollen kriegstüchtig werden",
-      "teaser": "Um die Nato-Ostflanke zu schützen, hat die Bundeswehr Soldaten in Litauen stationiert. Ein Besuch zeigt: Die Brigade ist bestens versorgt, muss aber noch üben.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundeswehr-litauen-brigade-christiand-freuding-nato",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/bundeswehr-litauen-brigade-christiand-freuding-nato-bild/wide__1000x562",
-      "image_title": "Bundeswehr in Litauen: KAUNAS, LITHUANIA - FEBRUARY 4: German Bundeswehr troops march during a public ceremony to mark the expansion of Germany's Lithuania military commitment on February 4, 2026 in Kaunas, Lithuania. Germany leads a multi-national, NATO contingent in Lithuania with its Lithuania Armoured Brigade 45. The unit was recently expanded to include two additional armoured infantry battalions. Germany is building a new military base in southeastern Lithuania that will accommodate up to 5,000 personnel. (Photo by Paulius Peleckis/Getty Images)"
+      "title": "Z+ (abopflichtiger Inhalt); Karsten Wildberger: »Das komfortable Gefühl einer in sich stimmigen Erzählung«",
+      "teaser": "Der Bundesdigitalminister hat offenbar mehrere Reden und Gastbeiträge weitgehend von einer KI schreiben lassen, zeigt eine ZEIT-Recherche. Man merkt es den Texten an.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/karsten-wildberger-bundesdigitalminister-reden-ki-generierung",
+      "image_url": "https://img.zeit.de/digital/2026-06/ki-texte-karsten-wildberger-bild/wide__1000x562",
+      "image_title": "Karsten Wildberger: »Das komfortable Gefühl einer in sich stimmigen Erzählung«"
     },
     {
-      "title": "Abkommen zwischen USA und Iran: Pakistan sieht Einigung zwischen USA und Iran wohl binnen 24 Stunden",
-      "teaser": "Pakistan vermittelt zwischen den USA und Iran. Nun stellt Premierminister Shehbaz Sharif in Aussicht, dass ein Abkommen zur Beendigung des Kriegs bald fertig sein könnte.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/abkommen-usa-iran-pakistan-friedensverhandlungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/abkommen-usa-iran-pakistan-friedensverhandlungen-foto-1/super__430x287",
-      "image_title": "Abkommen USA Iran Pakistan Friedensverhandlungen"
+      "title": "Z+ (abopflichtiger Inhalt); Abgrenzung zur AfD: Vielleicht gibt es die Brandmauer längst nicht mehr",
+      "teaser": "Peer Steinbrück, ein CDU-Landespolitiker und der FDP-Generalsekretär sprechen sich gegen die Ausgrenzung der AfD aus. Aber gibt es einen besseren Weg?",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/abgrenzung-afd-rechtsextremismus-brandmauer-cdu-peer-steinbrueck",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/abgrenzung-afd-rechtsextremismus-brandmauer-cdu-peer-steinbrueck-bild/super__430x287",
+      "image_title": "Abgrenzung zur AfD: SCHONEBECK, GERMANY - MAY 1: A supporter with a cloth bag featuring a picture of Ulrich Siegmund, lead candidate of the far-right Alternative for Germany (AfD), takes part at a May Day AfD family fest on May 1, 2026 in Schonebeck, Germany. The AfD is leading by a wide margin in polls ahead of Saxony-Anhalt state elections scheduled for September. Should the AfD win enough votes to have a majority of seats in the state parliament, it could appoint the first AfD state premier. (Photo by Jens Schlueter/Getty Images)"
     },
     {
-      "title": "Abschiebungen: In Zellen zusammengepfercht, von Kameras beobachtet – jahrelang",
-      "teaser": "Wo landen all die Abgeschobenen eigentlich? Einige in einem Lager in Bulgarien. Sie leben dort unter unsäglichen Umständen. Was passiert, wenn man klingelt und reinwill?",
-      "url": "https://www.zeit.de/politik/2026-06/abschiebung-europa-lager-asyl-eu-bulgarien",
-      "image_url": "https://img.zeit.de/politik/2026-06/abschiebung-europa-lager-bild-02/super__430x287",
-      "image_title": "Abschiebungen: In Zellen zusammengepfercht, von Kameras beobachtet – jahrelang"
+      "title": "Pflegereform: Warken will größere steuerliche Förderung von privater Pflegevorsorge",
+      "teaser": "Die Gesundheitsministerin will Anreize schaffen, dass Privatpersonen künftig zusätzlich eine eigene Pflegeversicherung abschließen. Das will sie steuerlich fördern.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/warken-pflegereform-gesundheitsministerium-privat-vorsorge",
+      "image_url": "https://img.zeit.de/politik/2026-06/nina-warken-bild/square__430x430",
+      "image_title": "Pflegereform: Nina Warken (CDU), Bundesministerin für Gesundheit, spricht während einer Pressekonferenz zur geplanten Finanzreform für die gesetzliche Krankenkasse (GKV). (zu dpa: «Was bringt der Puffer gegen höhere Krankenkassenbeiträge?») +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Steuer: Bas fordert Steuerentlastungen für Arbeiter, Familien und Pflegende",
+      "teaser": "SPD-Chefin Bärbel Bas ruft die Koalition zu maßvollen Reformen auf. Bei den geplanten Steuersenkungen müsse es mehr Verteilungsgerechtigkeit geben.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/baerbel-bas-spd-steuerreform-reformpaket",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/baerbel-bas-spd-steuerreform-reformpaket-foto-1/square__430x430",
+      "image_title": "Bärbel Bas SPD Steuerreform Reformpaket"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); NSDAP-Mitgliederkartei : Recherchieren Sie hier die NSDAP-Vergangenheit Ihrer Familie",
@@ -119,11 +132,18 @@
       "image_title": "Persönlichkeitstest: Wie narzisstisch sind Sie?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Édouard Louis: »Familie ist permanenter Krieg«",
-      "teaser": "Mit Anfang 20 wurde Édouard Louis mit seinem ersten Roman über seine Kindheit in Armut und voller Gewalt berühmt. Wie er dennoch gute Beziehungen aufbaute.",
-      "url": "https://www.zeit.de/familie/2026-06/edouard-louis-familie-armut-gewalt-roman",
-      "image_url": "https://img.zeit.de/familie/2026-05/edouard-louis-familie-armut-gewalt-roman/square__500x500",
-      "image_title": "Édouard Louis: »Familie ist permanenter Krieg«"
+      "title": "Bundeswehr in Litauen: Sie wollen kriegstüchtig werden",
+      "teaser": "Um die Nato-Ostflanke zu schützen, hat die Bundeswehr Soldaten in Litauen stationiert. Ein Besuch zeigt: Die Brigade ist bestens versorgt, muss aber noch üben.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/bundeswehr-litauen-brigade-christiand-freuding-nato",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/bundeswehr-litauen-brigade-christiand-freuding-nato-bild/super__430x287",
+      "image_title": "Bundeswehr in Litauen: KAUNAS, LITHUANIA - FEBRUARY 4: German Bundeswehr troops march during a public ceremony to mark the expansion of Germany's Lithuania military commitment on February 4, 2026 in Kaunas, Lithuania. Germany leads a multi-national, NATO contingent in Lithuania with its Lithuania Armoured Brigade 45. The unit was recently expanded to include two additional armoured infantry battalions. Germany is building a new military base in southeastern Lithuania that will accommodate up to 5,000 personnel. (Photo by Paulius Peleckis/Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Anthropic Claude Fable 5: Donald Trump zeigt, dass er am längsten KI-Hebel sitzt",
+      "teaser": "Die US-Regierung stuft die zwei mächtigsten KI-Modelle von Anthropic als zu gefährlich für Ausländer ein. Das mag übertrieben sein. Für Europa ist es ein Alarmsignal.",
+      "url": "https://www.zeit.de/digital/2026-06/anthropic-claude-fable-5-us-regierung-bann-ki",
+      "image_url": "https://img.zeit.de/digital/2026-06/anthropic-claude-fable-5-us-regierung-bann-ki-bild/wide__892x502",
+      "image_title": "Anthropic Claude Fable 5: Donald Trump zeigt, dass er am längsten KI-Hebel sitzt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Smartphone für Kinder • Z+ Empfehlung: Wer hat mich denn gezwungen, meinem Kind ein Smartphone zu kaufen?",
@@ -154,16 +174,9 @@
       "image_title": "Carsten Brosda: Carsten Brosda, 51, in einem Zentrum der linken Stadtkultur, dem ehemals besetzten Gängeviertel"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tim Meyer: »Das Wichtigste bei so einem Turnier ist, dass das Essen schmeckt«",
-      "teaser": "Wie bringt man eine Mannschaft durch eine WM? Der ehemalige deutsche Teamarzt Tim Meyer über die richtige Vorbereitung, Reanimationen auf dem Spielfeld und Schlafhygiene.",
-      "url": "https://www.zeit.de/gesundheit/2026-06/tim-meyer-fussball-nationalmannschaft-sportmedizin-weltmeisterschaft",
-      "image_url": "https://img.zeit.de/gesundheit/2026-06/tim-meyer-fussball-nationalmannschaft-sportmedizin-weltmeisterschaft-3/square__430x430",
-      "image_title": "Tim Meyer: »Das Wichtigste bei so einem Turnier ist, dass das Essen schmeckt«"
-    },
-    {
-      "title": "Liveblog:Fußball-WM 2026: Matthäus kritisiert Klopps »Einmischung« in deutsche Aufstellung",
-      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
-      "image_url": "https://img.zeit.de/sport/2026-06/fussball-wm-2026-liveblog-lotharrr/super__165x110"
+      "title": "Fußball-WM heute: An der Flasche geht Schottland in Führung",
+      "url": "https://www.zeit.de/sport/2026-06/fussball-wm-heute-brasilien-marokko-schottland-schweiz",
+      "image_url": "https://img.zeit.de/sport/2026-06/schottische-fans-wm/super__165x110"
     },
     {
       "title": "Fußball-WM in den USA: Die Maga-Fifa-WM 2026",
@@ -172,28 +185,25 @@
       "image_title": "Fußball-WM in den USA: Die Maga-Fifa-WM 2026"
     },
     {
-      "title": "Fußballweltmeisterschaft: »Wir ertragen den Zufall schlecht – als Fußballfans und als Menschen«",
-      "url": "https://www.zeit.de/sport/2026-06/fussballweltmeisterschaft-christoph-biermann-zufall-niederlage",
-      "image_url": "https://img.zeit.de/sport/2026-06/fussballweltmeisterschaft-christoph-biermann-zufall-niederlage-bild/super__165x110"
+      "title": "Liveblog:Fußball-WM 2026: Matthäus kritisiert Klopps »Einmischung« in deutsche Aufstellung",
+      "teaser": "Lothar Matthäus hofft auf einen Einsatz Jamal Musialas, Jürgen Klopp wirft er fehlendes »Feingefühl« vor. Die Prämienverhandlungen im DFB laufen weiter. Das Liveblog",
+      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
+      "image_url": "https://img.zeit.de/sport/2026-06/fussball-wm-2026-liveblog-lotharrr/super__430x287",
+      "image_title": "Fußball-WM 2026: BASEL, SWITZERLAND - OCTOBER 02: Former footballer of Germany Lothar Matthaus during an interview prior to the UEFA Europa League 2025/26 League Phase MD2 match between FC Basel 1893 and VfB Stuttgart at St. Jakob-Park on October 02, 2025 in Basel, Switzerland. (Photo by Daniela Porcelli/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-WM-Rezepte: Wir bringen Italien doch noch zur WM",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-06/fussball-wm-rezepte-italien",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026/10/koch-das-cover-bild-1/super__165x110"
+      "title": "Abkommen zwischen USA und Iran: Pakistan sieht Friedensabkommen »binnen 24 Stunden« – Iran relativiert",
+      "teaser": "Pakistans Premierminister Shehbaz Sharif stellt ein Abkommen zur Beendigung des Kriegs noch am Sonntag in Aussicht. Der Iran will sich auf einen Termin nicht festlegen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/abkommen-usa-iran-pakistan-friedensverhandlungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/abkommen-usa-iran-pakistan-friedensverhandlungen-foto-1/super__430x287",
+      "image_title": "Abkommen USA Iran Pakistan Friedensverhandlungen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Leben im Pflegeheim: Dabei hat er immer gearbeitet",
-      "teaser": "Kurt Rosipka, 88, bekommt eine gute Rente. Im Pflegeheim lebt er trotzdem von Sozialhilfe. Wegen der geplanten Pflegereform könnte das auch vielen anderen drohen.",
-      "url": "https://www.zeit.de/2026/26/leben-pflegeheim-kosten-eigenanteil-sozialhilfe-nina-warken",
-      "image_url": "https://img.zeit.de/2026/26/dabei-hat-er-immer-gearbeitet-bild-4/super__430x287",
-      "image_title": "Leben im Pflegeheim: Dabei hat er immer gearbeitet"
-    },
-    {
-      "title": "Bücherpodcast: Vier fantastische Sachbücher für den Sommer",
-      "teaser": "Die Seele Großbritanniens, die Zukunft der Alpen und die Geschichte eines Wohnhauses in Paris. Diese Sachbücher sollten Sie unbedingt mit in den Urlaub nehmen.",
-      "url": "https://www.zeit.de/feuilleton/2026-06/sachbuecher-urlaub-freizeit-buecherpodcast",
-      "image_url": "https://img.zeit.de/feuilleton/2026-06/buecher-podcast-sachbuecher-dittert-bild/super__430x287",
-      "image_title": "Bücherpodcast: Die Londoner ARD-Korrespondentin Annette Dittert (Aufnahmedatum unbekannt). Fast zwei Jahrzehnte lang war Dittert eine der bekanntesten deutschen Stimmen an der Themse. Doch jetzt hört Annette Dittert auf. Ab Jahresende wird sie zumindest nicht mehr im Ersten als Korrespondentin aus London berichten. +++ dpa-Bildfunk +++"
+      "title": "Abschiebungen: In Zellen zusammengepfercht, von Kameras beobachtet – jahrelang",
+      "teaser": "Wo landen all die Abgeschobenen eigentlich? Einige in einem Lager in Bulgarien. Sie leben dort unter unsäglichen Umständen. Was passiert, wenn man klingelt und reinwill?",
+      "url": "https://www.zeit.de/politik/2026-06/abschiebung-europa-lager-asyl-eu-bulgarien",
+      "image_url": "https://img.zeit.de/politik/2026-06/abschiebung-europa-lager-bild-02/super__430x287",
+      "image_title": "Abschiebungen: In Zellen zusammengepfercht, von Kameras beobachtet – jahrelang"
     },
     {
       "title": "Ausgabe 24/2026: Das Runde muss ins Dreckige. Willkommen im Wochenende.",
@@ -245,11 +255,11 @@
       "image_title": "Persönlichkeitstest: Wie narzisstisch sind Sie wirklich?"
     },
     {
-      "title": "CDU und AfD: CDU-Politiker warnen vor Zusammenarbeit mit AfD",
-      "teaser": "Vor den Wahlen im Osten lehnen führende CDU-Politiker ein Ende der Brandmauer ab. Der Hamburger CDU-Vorsitzende Dennis Thering sagt: »Das wäre der Anfang vom Ende.«",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/cdu-afd-zusammenarbeit-ostdeutschland-landtagswahlen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/cdu-afd-zusammenarbeit-ostdeutschland-landtagswahlen-foto-1/super__430x287",
-      "image_title": "CDU AfD Zusammenarbeit Ostdeutschland Landtagswahlen"
+      "title": "Landtagswahl in Sachsen-Anhalt: Schulze schließt bei Wiederwahl AfD- oder Linkspartei-Minister aus",
+      "teaser": "Sachsen-Anhalts Ministerpräsident Schulze lehnt eine Zusammenarbeit mit AfD und Linke nach einer Wiederwahl ab. Auch die Landes-CDU stehe hinter dieser Position.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/sachsen-anhalt-landtagswahl-2026-sven-schulze-cdu-afd-koalition",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/sachsen-anhalt-landtagswahl-2026-sven-schulze-cdu-afd-koalition-foto-1/super__430x287",
+      "image_title": "Sachsen-Anhalt Landtagswahl 2026 Sven Schulze CDU AfD Koalition"
     },
     {
       "title": "Landtagswahlen: SPD-Spitzenkandidaten in NRW und Mecklenburg-Vorpommern gekürt",
@@ -259,11 +269,25 @@
       "image_title": "Manuela Schwesig SPD Spitzenkandidatin Landtagswahl Mecklenburg-Vorpommern"
     },
     {
-      "title": "Datenauswertung bei der Polizei: Herbert Reul fordert europäische Alternative zu Palantir-Software",
-      "teaser": "Der NRW-Innenminister hält es für »wahnsinnig«, auf moderne Technik zur Verhinderung von Kriminalität zu verzichten. Europa brauche eine Alternative zur US-Software.",
-      "url": "https://www.zeit.de/digital/2026-06/palantir-polizei-nrw-software-herbert-reul",
-      "image_url": "https://img.zeit.de/digital/2026-06/palantir-polizei-nrw-software-herbert-reul-foto-1/super__430x287",
-      "image_title": "Palantir Polizei NRW Software Herbert Reul"
+      "title": "Z+ (abopflichtiger Inhalt); Leben im Pflegeheim: Dabei hat er immer gearbeitet",
+      "teaser": "Kurt Rosipka, 88, bekommt eine gute Rente. Im Pflegeheim lebt er trotzdem von Sozialhilfe. Wegen der geplanten Pflegereform könnte das auch vielen anderen drohen.",
+      "url": "https://www.zeit.de/2026/26/leben-pflegeheim-kosten-eigenanteil-sozialhilfe-nina-warken",
+      "image_url": "https://img.zeit.de/2026/26/dabei-hat-er-immer-gearbeitet-bild-4/super__430x287",
+      "image_title": "Leben im Pflegeheim: Dabei hat er immer gearbeitet"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fall Lyhanna in Frankreich: Sieben Anzeigen wegen sexueller Gewalt, und nichts geschah",
+      "teaser": "Die Justiz in Frankreich soll nun 70.000 Anzeigen wegen sexuellen Missbrauchs an Kindern vorrangig bearbeiten. Auslöser ist der Fall der elfjährigen Lyhanna.",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/fall-lyhanna-frankreich-sexualmord-kindesmissbrauch-justiz",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/fall-lyhanna-frankreich-sexualmord-kindesmissbrauch-justiz-bild-02/super__430x287",
+      "image_title": "Fall Lyhanna in Frankreich: A demonstrator kisses the temple of another in tears and holds her in an embrace during a gathering on Place Vendome in Paris, France, on June 8, 2026. Gatherings were held across France that day to pay tribute to Lyhanna, an eleven year old girl from Fleurance in the Gers whose body was found on June 4, and to call for stronger child protection, after revelations that the main suspect had faced earlier complaints for sexual offences on minors without being questioned. (Photo by Laurent Demartini / Hans Lucas / AFP via Getty Images)"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Partnerschaft: Je enger die Beziehung, desto schwieriger wird es",
+      "teaser": "Ein Paar zu sein, ist nicht so leicht: Was bringt jeder Einzelne mit? Und wie zur Hölle ist man gut gemeinsam? Fünf Übungen von Therapeuten zum Durchbrechen von Mustern",
+      "url": "https://www.zeit.de/zeit-wissen/2026/03/partnerschaft-beziehung-alltag-rollen-muster",
+      "image_url": "https://img.zeit.de/zeit-wissen/2026/03/partnerschaft-beziehung-alltag-rollen-muster-bild/super__430x287",
+      "image_title": "Partnerschaft: Duong Zai Illustration"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bevölkerungsobergrenze in der Schweiz : Die Schweiz, aber als Menschenschutzgebiet",
@@ -273,53 +297,39 @@
       "image_title": "Bevölkerungsobergrenze in der Schweiz: Seit die Menschheit sich eine Vorstellung macht von Landesgrenzen und Bevölkerung, treibt sie auch die Frage um, wie viele Menschen in ein Land passen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Orte in Europa: Wie gut kennen Sie Europa?",
-      "teaser": "Paris, Rom, Barcelona: Mit hoher Wahrscheinlichkeit waren Sie schon dort. Doch Europa bietet so viel mehr. Können Sie Amiens verorten? Brescia? Und wo liegt Fuenlabrada?",
-      "url": "https://www.zeit.de/zeit-magazin/2026-05/regionen-europa-gemeinden-geografie-vergleich",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026-05/regionen-europa-gemeinden-geografie-vergleich-bild-2/super__430x287",
-      "image_title": "Orte in Europa: Wie gut kennen Sie Europa?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Neurowissenschaftler Tobias Esch: »Glück ist oft eine Entscheidung«",
-      "teaser": "Vor vielen Jahren durchlebte der Neurowissenschaftler Tobias Esch eine Sinnkrise. Wie fand er wieder heraus? Und welchen Rat hat er heute für mehr Zufriedenheit?",
-      "url": "https://www.zeit.de/2026/24/neurowissenschaft-tobias-esch-krisen-lebenszufriedenheit-zuversicht",
-      "image_url": "https://img.zeit.de/2026/24/glueck-ist-oft-eine-entscheidung-bild-1/super__430x287",
-      "image_title": "Neurowissenschaftler Tobias Esch: Was trägt, ist das Gefühl, Teil von etwas Größerem zu sein"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Alpha-Männer: Mein Leben als Anführer",
       "teaser": "Wie wird man eine Gewinnerin? Unsere Autorin hat mit Ikkimel, Kollegah und Ratschlägen aus dem Internet versucht, das Siegen zu lernen.",
       "url": "https://www.zeit.de/2026/26/alpha-maenner-manosphere-maskulinismus-ikkimel-kollegah-internet",
-      "image_url": "https://img.zeit.de/2026/26/alpha-maenner-manosphere-maskulinismus-ikkimel-kollegah-internet-teaserbild/wide__892x502",
+      "image_url": "https://img.zeit.de/2026/26/alpha-maenner-manosphere-maskulinismus-ikkimel-kollegah-internet-teaserbild/super__430x287",
       "image_title": "Alpha-Männer: Starker Körper, starke Worte: Im Leben geht es um Erfolg und Aura."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Italo gegen Deutsche Bahn: Italiener wollen Deutschland zeigen, wie Bahn geht",
-      "teaser": "Italo plant, dem ICE Konkurrenz zu machen. Und zwar billiger, pünktlicher und mit echtem WLAN. Der Chef hat aber eine Bedingung: neue Regeln auf der Schiene.",
-      "url": "https://www.zeit.de/2026/26/italo-deutsche-bahn-hochgeschwindigkeitszuege-konkurrenz-fernverkehr",
-      "image_url": "https://img.zeit.de/2026/26/gleis-frei-fuer-signor-la-rocca-bild-1/super__430x287",
-      "image_title": "Italo gegen Deutsche Bahn: In Italien setzt Italo auf rot lackierte Züge. In Deutschland will das Unternehmen die Farbe Blau nutzen – wohl um ja nicht mit der Deutschen Bahn verwechselt zu werden"
+      "title": "Z+ (abopflichtiger Inhalt); Dating: Gut aussehend, aber rechts? Nö, dann lieber nicht",
+      "teaser": "Wird das was mit einem Date? Hängt heute mehr denn je auch von politischen Überzeugungen ab, zeigt eine Studie: Die falsche Partei, schon passt es für viele nicht.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/dating-polarisierung-politische-orientierung-soziologie-ansgar-hudde",
+      "image_url": "https://img.zeit.de/politik/2026-06/dating-polarisierung-politische-orientierung-soziologie-ansgar-hudde-bild-2/super__430x287",
+      "image_title": "Dating: Politische Überzeugungen spielen auch bei der Partnersuche eine immer größere Rolle. Für viele Menschen entscheidet längst nicht mehr nur die Chemie, sondern auch die Weltanschauung über ein mögliches Match. FRANCE-DEMONSTRATION-AGAINST-RACISM-AND-FAR-RIGHT-PARIS A couple kisses in the cortege during a demonstration as part of the international day against racism and fascism in Paris, France, March 22, 2025. (Photo by Laurent Demartini / Hans Lucas / Hans Lucas via AFP) (Photo by LAURENT DEMARTINI/Hans Lucas/AFP via Getty Images)"
     },
     {
-      "title": "Deutsche Bahn: Was das Ende der Streckensperrung Hamburg-Berlin bedeutet",
-      "teaser": "Die Zugstrecke zwischen den zwei größten deutschen Städten wird wieder befahrbar. Damit haben 30.000 Menschen kürzere Fahrzeiten. Die wichtigsten Fragen und Antworten",
-      "url": "https://www.zeit.de/mobilitaet/2026-06/generalsanierung-deutsche-bahn-hamburg-berlin-faq",
-      "image_url": "https://img.zeit.de/mobilitaet/2026-06/generalsanierung-deutsche-bahn-hamburg-berlin-faq-bild/super__430x287",
-      "image_title": "Deutsche Bahn: ICE am Hauptbahnhof Berlin Ein ICE steht am Hauptbahnhof, aufgenommen in Berlin, 04.06.2026. Berlin Deutschland *** An ICE train stands at the main station, taken in Berlin, 04 06 2026 Berlin Germany Copyright: xFlorianxGaertnerx"
+      "title": "Z+ (abopflichtiger Inhalt); Édouard Louis: »Familie ist permanenter Krieg«",
+      "teaser": "Mit Anfang 20 wurde Édouard Louis mit seinem ersten Roman über seine Kindheit in Armut und voller Gewalt berühmt. Wie er dennoch gute Beziehungen aufbaute.",
+      "url": "https://www.zeit.de/familie/2026-06/edouard-louis-familie-armut-gewalt-roman",
+      "image_url": "https://img.zeit.de/familie/2026-05/edouard-louis-familie-armut-gewalt-roman/super__430x287",
+      "image_title": "Édouard Louis: »Familie ist permanenter Krieg«"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dokuserie »Brombeerland«: Einer vom BSW weinte, ein AfD-Politiker ebenso",
-      "teaser": "Noch keine Pläne für den Sommer? Die Dokuserie »Brombeerland« erzählt in über 14 Stunden von Thüringen – und damit vom Drama der deutschen Politik.",
-      "url": "https://www.zeit.de/2026/26/dokuserie-brombeerland-thueringen-brombeerkoalition-landtagswahl",
-      "image_url": "https://img.zeit.de/2026/26/beerenhunger-bild-1/super__430x287",
-      "image_title": "Dokuserie »Brombeerland«: Szene aus der Dokumentation »Brombeerland«: Sie wollen »Verständnis schaffen«, sagen die Filmemacher"
+      "title": "Z+ (abopflichtiger Inhalt); Tim Meyer: »Das Wichtigste bei so einem Turnier ist, dass das Essen schmeckt«",
+      "teaser": "Wie bringt man eine Mannschaft durch eine WM? Der ehemalige deutsche Teamarzt Tim Meyer über die richtige Vorbereitung, Reanimationen auf dem Spielfeld und Schlafhygiene.",
+      "url": "https://www.zeit.de/gesundheit/2026-06/tim-meyer-fussball-nationalmannschaft-sportmedizin-weltmeisterschaft",
+      "image_url": "https://img.zeit.de/gesundheit/2026-06/tim-meyer-fussball-nationalmannschaft-sportmedizin-weltmeisterschaft-3/super__430x287",
+      "image_title": "Tim Meyer: »Das Wichtigste bei so einem Turnier ist, dass das Essen schmeckt«"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Quiche mit Fenchel und Edamame: Die Queen der Quiches",
-      "teaser": "Diese Quiche wurde vom Krönungsgebäck des britischen Monarchen inspiriert. Sie ist also etwas für ganz besondere Anlässe. Schmeckt aber auch sonst immer.",
-      "url": "https://www.zeit.de/zeit-magazin/2026/26/quiche-fenchel-edamame-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2026/26/ausgezeichnet-gebacken-bild-1/super__430x287",
-      "image_title": "Quiche mit Fenchel und Edamame: Die Queen der Quiches"
+      "title": "Z+ (abopflichtiger Inhalt); Fußball-WM-Rezepte: Wir bringen Italien doch noch zur WM",
+      "teaser": "Die Azzurri bleiben wieder zu Hause. Noch eine WM ohne Italien wollen wir aber nicht hinnehmen. Also gibt’s Italien im Mund: mit unseren Snackrezepten zum Fußballgucken.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-06/fussball-wm-rezepte-italien",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026/10/koch-das-cover-bild-1/super__430x287",
+      "image_title": "Fußball-WM-Rezepte: Wir bringen Italien doch noch zur WM"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Persönlichkeitstest: Wie narzisstisch sind Sie?",
@@ -445,11 +455,11 @@
       "image_title": "»Sie brauchten einen Mörder« (6/6): Das Ende der Lügen"
     },
     {
-      "title": "USA: US-Regierung muss Eingriffe in Erinnerungskultur zurücknehmen",
-      "teaser": "Entfernte Informationstafeln zu Themen wie Sklaverei muss die Trump-Regierung einem Gericht zufolge wieder aufstellen. Die Frist läuft an einem historischen Datum ab.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/donald-trump-dekret-nationalparks-denkmaeler-usa-boston",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/donald-trump-dekret-nationalparks-denkmaeler-usa-boston-foto-1/wide__892x502",
-      "image_title": "Donald Trump Dekret Nationalparks Denkmäler USA Boston"
+      "title": "Datenauswertung bei der Polizei: Herbert Reul fordert europäische Alternative zu Palantir-Software",
+      "teaser": "Der NRW-Innenminister hält es für »wahnsinnig«, auf moderne Technik zur Verhinderung von Kriminalität zu verzichten. Europa brauche eine Alternative zur US-Software.",
+      "url": "https://www.zeit.de/digital/2026-06/palantir-polizei-nrw-software-herbert-reul",
+      "image_url": "https://img.zeit.de/digital/2026-06/palantir-polizei-nrw-software-herbert-reul-foto-1/wide__892x502",
+      "image_title": "Palantir Polizei NRW Software Herbert Reul"
     },
     {
       "title": "Verlagsangebot: Sieben Rückzugsorte in Deutschland",
@@ -459,18 +469,18 @@
       "image_title": "Freunde der ZEIT: Sieben Rückzugsorte in Deutschland"
     },
     {
-      "title": "Künstliche Intelligenz: Anthropic sperrt Zugang zu neuen KI-Modellen",
-      "teaser": "Die US-Regierung hat die Firma Anthropic angewiesen, ihre KI-Modelle nur noch US-Bürgern zugänglich zu machen. Das Unternehmen sperrt sie nun für alle.",
-      "url": "https://www.zeit.de/digital/2026-06/anthropic-ki-modelle-mythos-5-fable-5-usa",
-      "image_url": "https://img.zeit.de/digital/2026-06/anthropic-ki-modelle-mythos-5-fable-5-usa-foto-1/super__430x287",
-      "image_title": "Anthropic KI-Modelle Mythos 5 Fable 5 USA"
+      "title": "Liveblog:Irankrieg: Pakistan bereitet Unterzeichnung von Friedensabkommen vor",
+      "teaser": "Die USA und der Iran stehen kurz vor einem Abkommen, laut Pakistan laufen finale Vorbereitungen. Die israelischen Angriffe im Libanon gehen dennoch weiter. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/iran-krieg-donald-trump-hormus-live-pakistan-bild/super__430x287",
+      "image_title": "Irankrieg: Pakistan's Prime Minister Shehbaz Sharif attends a meeting with Chinese President Xi Jinping (not pictured) at the Great Hall of the People, in Beijing, China May 25, 2026. REUTERS/Tingshu Wang/Pool"
     },
     {
-      "title": "Deutsche Bahn: Bahn gibt ICE-Strecke zwischen Berlin und Hamburg wieder frei",
-      "teaser": "Am Sonntag wird die Strecke Hamburg–Berlin wiedereröffnet, die Fahrtzeit verkürzt sich auf weniger als zwei Stunden. Auch an anderen Orten gibt es Fahrplanänderungen.",
-      "url": "https://www.zeit.de/mobilitaet/2026-06/fahrplanwechsel-deutsche-bahn-berlin-hamburg",
-      "image_url": "https://img.zeit.de/mobilitaet/2026-06/fahrplanwechsel-deutsche-bahn-berlin-hamburg-foto-1/wide__892x502",
-      "image_title": "Fahrplanwechsel Deutsche Bahn Berlin Hamburg"
+      "title": "Deutsche Bahn: Was das Ende der Streckensperrung Hamburg-Berlin bedeutet",
+      "teaser": "Die Zugstrecke zwischen den zwei größten deutschen Städten wird wieder befahrbar. Damit haben 30.000 Menschen kürzere Fahrzeiten. Die wichtigsten Fragen und Antworten",
+      "url": "https://www.zeit.de/mobilitaet/2026-06/generalsanierung-deutsche-bahn-hamburg-berlin-faq",
+      "image_url": "https://img.zeit.de/mobilitaet/2026-06/generalsanierung-deutsche-bahn-hamburg-berlin-faq-bild/wide__892x502",
+      "image_title": "Deutsche Bahn: ICE am Hauptbahnhof Berlin Ein ICE steht am Hauptbahnhof, aufgenommen in Berlin, 04.06.2026. Berlin Deutschland *** An ICE train stands at the main station, taken in Berlin, 04 06 2026 Berlin Germany Copyright: xFlorianxGaertnerx"
     },
     {
       "title": "Verlagsangebot: Warum gute Beziehungen für uns so bedeutsam sind",
@@ -480,11 +490,11 @@
       "image_title": "Warum gute Beziehungen für uns so bedeutsam sind"
     },
     {
-      "title": "Filmindustrie: Medienkonzern Paramount darf Warner Bros. übernehmen",
-      "teaser": "Das US-Justizministerium stimmt dem Zusammenschluss der Filmkonzerne Paramount und Warner Bros. Discovery zu. Kritiker sehen Gefahr für unabhängige Berichterstattung.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-06/paramount-warner-bros-uebernahme-justizministerium-usa-gxe",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2026-06/paramount-warner-bros-uebernahme-justizministerium-usa-bild/super__430x287",
-      "image_title": "Filmindustrie: A Paramount logo is shown on the top of a building in Hollywood before the Paramount Global $8.4 billion merger with Skydance Media is expected to be completed this week, in Los Angeles, California, U.S., August 5, 2025. After the deal closes, the company will be renamed Paramount Skydance Corp. REUTERS/Mike Blake"
+      "title": "Deutsche Bahn: Bahn gibt ICE-Strecke zwischen Berlin und Hamburg wieder frei",
+      "teaser": "Am Sonntag wird die Strecke Hamburg–Berlin wiedereröffnet, die Fahrtzeit verkürzt sich auf weniger als zwei Stunden. Auch an anderen Orten gibt es Fahrplanänderungen.",
+      "url": "https://www.zeit.de/mobilitaet/2026-06/fahrplanwechsel-deutsche-bahn-berlin-hamburg",
+      "image_url": "https://img.zeit.de/mobilitaet/2026-06/fahrplanwechsel-deutsche-bahn-berlin-hamburg-foto-1/super__430x287",
+      "image_title": "Fahrplanwechsel Deutsche Bahn Berlin Hamburg"
     },
     {
       "title": "Podcastserie »Der Vernichter« (1/5): Eine Hochzeit zwischen Gut und Böse",
@@ -557,6 +567,13 @@
       "image_title": "IW-Bericht: Dachdecker der Firma «Dachdecker Ditscheid» arbeiten unter der sengenden Sonne bei über 30 Grad auf dem Dach eines Hauses im Rhein-Sieg-Kreis. Aufnahmedatum: 26.05.2026"
     },
     {
+      "title": "Reclam: Das gelbe gallische Dorf",
+      "teaser": "Reclam ist Kult, aber für die meisten trotzdem nur das gelbe Heft aus der Schule. Jetzt will der Verlag sichtbarer werden, aber nicht beliebig. Ein Ortstermin.",
+      "url": "https://www.wiwo.de/unternehmen/dienstleister/reclam-mit-dieser-strategie-will-der-verlag-relevant-bleiben/100219035.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/dl4ZMYyWCuMb/cover/900/506/0/0/304/303/0.5/0.5/reclam.jpg/super__430x287",
+      "image_title": "Das gelbe gallische Dorf"
+    },
+    {
       "title": "Wirtschaft von oben: Ist das die Trendwende im russischen Automarkt?",
       "teaser": "Das frühere VW-Werk in Kaluga ist eine Art Gradmesser, wie es um den Automarkt in Putins Reich steht. Satellitenbilder zeigen bemerkenswerte Bewegungen.",
       "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/russland-ist-das-die-trendwende-im-russischen-automarkt/100230585.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
@@ -564,11 +581,11 @@
       "image_title": "Ist das die Trendwende im russischen Automarkt?"
     },
     {
-      "title": "SpaceX, Anthropic, OpenAI: Das Silicon Valley erlebt einen neuen Goldrausch – und zahlt einen hohen Preis",
-      "teaser": "Der Börsengang von SpaceX elektrisiert das Silicon Valley und San Francisco. Wenn Anthropic und OpenAI bald folgen, trifft die Geldwelle eine Region, die der KI-Boom schon jetzt spaltet.",
-      "url": "https://www.wiwo.de/unternehmen/it/anthropic-openai-ki-boom-spaltet-san-francisco-millionaere-und-jobverluste/100232695.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/QsfKgZrOWyve/cover/900/506/0/0/208/208/0.5/0.5/a-general-view-of-a-spacex-building-and-starship-rocket-on-the-day-of-the-companys-initial-public-o.jpg/super__430x287",
-      "image_title": "Das Silicon Valley erlebt einen neuen Goldrausch – und zahlt einen hohen Preis"
+      "title": "Bücherpodcast: Vier fantastische Sachbücher für den Sommer",
+      "teaser": "Die Seele Großbritanniens, die Zukunft der Alpen und die Geschichte eines Wohnhauses in Paris. Diese Sachbücher sollten Sie unbedingt mit in den Urlaub nehmen.",
+      "url": "https://www.zeit.de/feuilleton/2026-06/sachbuecher-urlaub-freizeit-buecherpodcast",
+      "image_url": "https://img.zeit.de/feuilleton/2026-06/buecher-podcast-sachbuecher-dittert-bild/super__320x213",
+      "image_title": "Bücherpodcast: Die Londoner ARD-Korrespondentin Annette Dittert (Aufnahmedatum unbekannt). Fast zwei Jahrzehnte lang war Dittert eine der bekanntesten deutschen Stimmen an der Themse. Doch jetzt hört Annette Dittert auf. Ab Jahresende wird sie zumindest nicht mehr im Ersten als Korrespondentin aus London berichten. +++ dpa-Bildfunk +++"
     },
     {
       "title": "Politikpodcast: »Dann fängt Politik an, und dann beginnt das Grauen«",
@@ -611,13 +628,6 @@
       "url": "https://www.zeit.de/politik/2026-06/dennis-ross-nahostkonflikt-nur-eine-frage-interview-podcast-english",
       "image_url": "https://img.zeit.de/politik/2026-06/nur-eine-frage-dennis-ross-podcast-duo/super__320x213",
       "image_title": "Interviewpodcast »Nur eine Frage«: Can the Middle East Conflict Be Resolved, Dennis Ross?"
-    },
-    {
-      "title": "Interviewpodcast »Nur eine Frage« : KI-Übersetzung: Kann der Nahostkonflikt gelöst werden, Dennis Ross?",
-      "teaser": "Kaum ein US-Diplomat war dem israelisch-palästinensischen Friedensprozess über so viele Jahre so nah wie Dennis Ross. Er sagt: Es gibt eine Lösung. Aber sie dauert.",
-      "url": "https://www.zeit.de/politik/2026-06/dennis-ross-nahostkonflikt-nur-eine-frage-interview-podcast",
-      "image_url": "https://img.zeit.de/politik/2026-06/nur-eine-frage-dennis-ross-podcast-duo/super__320x213",
-      "image_title": "Interviewpodcast »Nur eine Frage«: KI-Übersetzung: Kann der Nahostkonflikt gelöst werden, Dennis Ross?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lästern in Familien: Wenn Eltern lästern, schaden sie ihren Kindern",
@@ -912,18 +922,18 @@
       "image_title": "»FIFA World Cup: Launch Edition«: Man mag es nicht glauben, aber noch unheimlicher als bei diesem Jubel sehen die grob gerenderten Spieler der deutschen Nationalmannschaft in Bewegung aus."
     },
     {
+      "title": "Künstliche Intelligenz: Anthropic sperrt Zugang zu neuen KI-Modellen",
+      "teaser": "Die US-Regierung hat die Firma Anthropic angewiesen, ihre KI-Modelle nur noch US-Bürgern zugänglich zu machen. Das Unternehmen sperrt sie nun für alle.",
+      "url": "https://www.zeit.de/digital/2026-06/anthropic-ki-modelle-mythos-5-fable-5-usa",
+      "image_url": "https://img.zeit.de/digital/2026-06/anthropic-ki-modelle-mythos-5-fable-5-usa-foto-1/super__430x287",
+      "image_title": "Anthropic KI-Modelle Mythos 5 Fable 5 USA"
+    },
+    {
       "title": "SpaceX-Börsengang: Apple stolpert hinterher. Anthropic prescht vor",
       "teaser": "SpaceX steht kurz vor seinem Megabörsengang. Apple präsentiert die KI-Siri. Und: Wie gefährlich ist das eingeschränkte Mythos-Modell von Anthropic? Der KI-Newsletter",
       "url": "https://www.zeit.de/digital/internet/2026-06/spacex-boersengang-openai-newsletter-kuenstliche-intelligenz",
       "image_url": "https://img.zeit.de/digital/2026-06/anthropic-dario-amodei-ki/super__430x287",
       "image_title": "SpaceX-Börsengang: Dario Amodei, co-founder and chief executive officer of Anthropic, at Bloomberg House during the World Economic Forum (WEF) in Davos, Switzerland, on Tuesday, Jan. 20, 2026. The annual Davos gathering of political leaders, top executives and celebrities runs from Jan. 19-23. Photographer: Chris Ratcliffe/Bloomberg via Getty Images"
-    },
-    {
-      "title": "Siri AI: Warum die neue Siri nicht nach Europa kommt und wie vielleicht doch",
-      "teaser": "Die gute Nachricht ist: Apples neue KI-Assistenz funktioniert tatsächlich. Die schlechte: nur in den USA. Dahinter steckt ein alter Streit. Aber es gibt Hoffnung.",
-      "url": "https://www.zeit.de/digital/mobil/2026-06/siri-ai-apple-ki-assistenz-usa-iphone",
-      "image_url": "https://img.zeit.de/digital/2026-06/craig-federighi-apple-ki-sirieu-dma-bild/super__430x287",
-      "image_title": "Siri AI: Warum die neue Siri nicht nach Europa kommt und wie vielleicht doch"
     },
     {
       "title": "Inhalte merken: So sichern Sie Artikel, Rezepte und mehr für später",
@@ -1055,11 +1065,11 @@
       "image_title": "Spargelzeit: Agriculture, Harvest ready asparagus spears in the ground, near Tracy, San Joaquin County, California, USA."
     },
     {
-      "title": "Verlagsangebot : Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot : Nicht nur irgendwas studieren",
+      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
+      "url": "https://studiengaenge.zeit.de/sit",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
+      "image_title": "Nicht nur irgendwas studieren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hans-Dieter Hermann: »Wer lernen will, mit Druck umzugehen, muss sich stellen«",
@@ -1076,18 +1086,18 @@
       "image_title": "Studium: Vor der CDU-Zentrale in Berlin haben junge Menschen schon einmal demonstriert. Diese Aufnahme entstand bei einer Kundgebung gegen die Wehrpflicht; die Studierenden im Text versammelten sich aus Protest gegen die verschobene BAföG-Reform."
     },
     {
+      "title": "Handball-Champions League: Füchse Berlin nach Sieg gegen Magdeburg im Champions League-Finale",
+      "teaser": "Erstmals stehen die Handballer der Füchse Berlin im Finale der Champions League. Sie besiegten den Titelverteidiger SC Magdeburg mit 40:35 (19:17).",
+      "url": "https://www.zeit.de/sport/2026-06/fuechse-berlin-sc-magdeburg-champions-league-handball",
+      "image_url": "https://img.zeit.de/sport/2026-06/fuechse-berlin-sc-magdeburg-champions-league-handball-foto-1/wide__892x502",
+      "image_title": "Füchse Berlin SC Magdeburg Champions League Handball"
+    },
+    {
       "title": "Fußball-WM: Die deutsche Seele in ein Brötchen gepackt",
       "teaser": "Döner, Pizza, Carbonara: Aus den Vorlieben deutscher Fußballstars hat der ehemalige DFB- und Sternekoch Holger Stromberg ein Nationalgericht entwickelt. Wir beißen rein.",
       "url": "https://www.zeit.de/sport/2026-06/holger-stromberg-koch-dfb-fussball-nationalmannschaft",
-      "image_url": "https://img.zeit.de/sport/2026-06/holger-stromberg-koch-dfb-fussball-nationalmannschaft-teaser-bild-04/wide__892x502",
+      "image_url": "https://img.zeit.de/sport/2026-06/holger-stromberg-koch-dfb-fussball-nationalmannschaft-teaser-bild-04/super__430x287",
       "image_title": "Fußball-WM: Die deutsche Seele in ein Brötchen gepackt"
-    },
-    {
-      "title": "WM-Auftaktsieg der USA: »Eine wahre Dampfwalze«",
-      "teaser": "Die USA gewinnen ihr WM-Auftaktspiel deutlich. US-Medien zeigen sich begeistert und auch aus anderen Ländern erhält das Team viel Lob. Die Pressestimmen",
-      "url": "https://www.zeit.de/sport/2026-06/wm-usa-paraguay-pressestimmen",
-      "image_url": "https://img.zeit.de/sport/2026-06/fifa-world-cup-2026-group-d-united-states-v-paraguay-bild/super__430x287",
-      "image_title": "WM-Auftaktsieg der USA: Soccer Football - FIFA World Cup 2026 - Group D - United States v Paraguay - Los Angeles Stadium, Inglewood, California, U.S. - June 12, 2026 Malik Tillman of the U.S. in action with Paraguay's Gustavo Velazquez and Ramon Sosa REUTERS/Lisi Niesner"
     },
     {
       "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: 40 Jahre Spitzenküche: Happy Birthday, Landhaus Scherrer!",
@@ -1104,36 +1114,36 @@
       "image_title": "Tanztriennale in Hamburg: »Einfach zu tanzen – das ist in der Stadt offenbar nicht erwünscht«"
     },
     {
-      "title": "Royale Goldhochzeit: Schwedens Königspaar feiert die Liebe – nur Estelle fehlt",
-      "url": "https://www.zeit.de/news/2026-06/13/schwedens-koenigspaar-feiert-die-liebe-nur-estelle-fehlt"
+      "title": "Tennis: Ehrung für Zverev in Halle schon vor Turnierbeginn",
+      "url": "https://www.zeit.de/news/2026-06/13/ehrung-fuer-zverev-in-halle-schon-vor-turnierbeginn"
     },
     {
-      "title": "Relegation der Frauen: Hertha-Frauen legen Basis für Aufstieg in die zweite Liga",
-      "url": "https://www.zeit.de/news/2026-06/13/hertha-frauen-legen-basis-fuer-aufstieg-in-die-zweite-liga"
+      "title": "Bei Oldenburg: Friedliche Proteste gegen Veranstaltung von AfD-Nachwuchs",
+      "url": "https://www.zeit.de/news/2026-06/13/friedliche-proteste-gegen-veranstaltung-von-afd-nachwuchs"
     },
     {
-      "title": "Queere Community: CSD in Eberswalde wird begleitet von rechtem Protest",
-      "url": "https://www.zeit.de/news/2026-06/13/csd-in-eberswalde-wird-begleitet-von-rechtem-protest"
+      "title": "Feuer: Zwei Einfamilienhäuser brennen in Leimbach",
+      "url": "https://www.zeit.de/news/2026-06/13/zwei-einfamilienhaeuser-brennen-in-leimbach"
     },
     {
-      "title": "Musikfestivals: Dresdner Musikfestspiele gehen mit Rekordergebnis zu Ende",
-      "url": "https://www.zeit.de/news/2026-06/13/dresdner-musikfestspiele-gehen-mit-rekordergebnis-zu-ende"
+      "title": "Schifffahrt: Fähre «Funny Girl» manövrierunfähig vor Helgoland",
+      "url": "https://www.zeit.de/news/2026-06/13/faehre-funny-girl-manoevrierunfaehig-vor-helgoland"
     },
     {
-      "title": "Landtagswahlkampf: Aufregung um CDU/AfD-Foto aus Sachsen-Anhalt",
-      "url": "https://www.zeit.de/news/2026-06/13/aufregung-um-cdu-afd-foto-aus-sachsen-anhalt"
+      "title": "Iran-Krieg: Pakistan: Iran-Deal voraussichtlich innerhalb von 24 Stunden",
+      "url": "https://www.zeit.de/news/2026-06/13/pakistan-iran-deal-voraussichtlich-innerhalb-von-24-stunden"
     },
     {
-      "title": "Verkehr: Betrunkener Autofahrer verursacht 30.000 Euro Schaden",
-      "url": "https://www.zeit.de/news/2026-06/13/betrunkener-autofahrer-verursacht-30-000-euro-schaden"
+      "title": "Festspiele MV: Festspiele Mecklenburg-Vorpommern eröffnet",
+      "url": "https://www.zeit.de/news/2026-06/13/festspiele-mecklenburg-vorpommern-eroeffnet"
     },
     {
-      "title": "Verstoß gegen Waffengesetz: Echte Schusswaffe? Wasserpistole sorgt für Polizeieinsatz",
-      "url": "https://www.zeit.de/news/2026-06/13/echte-schusswaffe-wasserpistole-sorgt-fuer-polizeieinsatz"
+      "title": "Stadt für alle: Toleranzfest in Potsdam - Ministerin wirbt für Offenheit",
+      "url": "https://www.zeit.de/news/2026-06/13/toleranzfest-in-potsdam-ministerin-wirbt-fuer-offenheit"
     },
     {
-      "title": "Kultur: Neues Museumsquartier am Berliner Hauptbahnhof eröffnet",
-      "url": "https://www.zeit.de/news/2026-06/13/neues-museumsquartier-am-berliner-hauptbahnhof-eroeffnet"
+      "title": "Reanimation erfolglos: Mann kommt bei Bootsunfall ums Leben",
+      "url": "https://www.zeit.de/news/2026-06/13/mann-kommt-bei-bootsunfall-ums-leben"
     }
   ]
 }
