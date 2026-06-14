@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-14T15:02:46",
+  "timestamp": "2026-06-14T17:05:43",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Intels „Raptor Lake Next“ – DDR4 und angeblich Anfang 2027 fertig",
+      "url": "https://www.heise.de/news/Intel-plant-angeblich-Neuauflage-von-Raptor-Lake-fuer-DDR4-11331623.html"
+    },
     {
       "title": "VW setzt auf die Telekom: T-Systems baut weltweite Cloud für Volkswagen",
       "url": "https://www.heise.de/news/VW-setzt-auf-die-Telekom-T-Systems-baut-weltweite-Cloud-fuer-Volkswagen-11331601.html"
@@ -60,10 +64,6 @@
       "url": "https://www.heise.de/news/Video-Wie-weit-kommt-das-E-Bike-11328961.html"
     },
     {
-      "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
-      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11321274.html"
-    },
-    {
       "title": "Missing LinkWarum Deutschlands Behörden bei der Digitalisierung stagnieren",
       "teaser": "Trotz hoher Investitionen bleibt die digitale Verwaltung hinter den Erwartungen zurück. Das Problem sind nicht die Mittel, sondern die Strukturen",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Warum-Deutschlands-Behoerden-bei-der-Digitalisierung-stagnieren-11331433.html",
@@ -99,7 +99,7 @@
       "url": "https://www.heise.de/hintergrund/Empfangswege-gemessen-So-kommt-die-Fussball-WM-verzoegerungsfrei-auf-den-Schirm-11330963.html"
     },
     {
-      "title": "Ministerium bestätigtDigitalminister ließ Reden und Gastbeiträge von KI schreiben",
+      "title": "UpdateMinisterium bestätigtDigitalminister ließ Reden und Gastbeiträge von KI schreiben",
       "teaser": "Manchmal teilweise, manchmal komplett – einige Beiträge von Karsten Wildberger stammen aus einem Chatbot. Sein Haus hat das bestätigt.",
       "url": "https://www.heise.de/news/Digitalminister-Wildberger-liess-Reden-und-Gastbeitraege-von-KI-schreiben-11331531.html"
     },
@@ -186,19 +186,25 @@
       "image_title": "Fußballnetz"
     },
     {
+      "title": "Intels „Raptor Lake Next“ – DDR4 und angeblich Anfang 2027 fertig",
+      "teaser": "Im Januar nächsten Jahres könnte ein alter Bekannter wiederauferstehen: Dann sollen neue PC-Prozessoren mit Raptor-Lake-Architektur kommen.",
+      "url": "https://www.heise.de/news/Intel-plant-angeblich-Neuauflage-von-Raptor-Lake-fuer-DDR4-11331623.html",
+      "image_title": "Intels CPU-Topmodell Core i9-13900K aus der Raptor-Lake-Generation."
+    },
+    {
       "title": "VW setzt auf die Telekom: T-Systems baut weltweite Cloud für Volkswagen",
       "teaser": "Großer Deal gegen die Abhängigkeit von US-Hyperscalern: T-Systems übernimmt die neue Cloud-Infrastruktur der ganzen Volkswagen-Gruppe. Doch es bleiben Risiken.",
       "url": "https://www.heise.de/news/VW-setzt-auf-die-Telekom-T-Systems-baut-weltweite-Cloud-fuer-Volkswagen-11331601.html"
     },
     {
-      "title": "Saugroboter Dreame Matrix 10 Ultra im Test: Wechselt Mopps & Reinigungsmittel",
-      "teaser": "Der Saugroboter Dreame Matrix 10 Ultra wechselt seine Wischmopps automatisch mit einer Art Aufzug und dosiert drei verschiedene Reinigungsmittel je nach Raum.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-dreame-matrix-10-ultra-im-test-wechselt-mopps-und-reinigungsmittel/y8xfm4y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Die versteckten Kosten des falschen ITSM-Tools",
       "teaser": "Ohne es zu ahnen, arbeiten viele IT-Teams mit Tools, die sie eher ausbremsen als voranbringen. Klare Hinweise zeigen jedoch an, wenn ein Tool für das IT-Service-Management nicht mehr optimal passt.",
       "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7284609977&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "Saugroboter Dreame Matrix 10 Ultra im Test: Wechselt Mopps & Reinigungsmittel",
+      "teaser": "Der Saugroboter Dreame Matrix 10 Ultra wechselt seine Wischmopps automatisch mit einer Art Aufzug und dosiert drei verschiedene Reinigungsmittel je nach Raum.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-dreame-matrix-10-ultra-im-test-wechselt-mopps-und-reinigungsmittel/y8xfm4y?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Secrets Management: IT-Pipelines mit dynamischen Secrets absichern",
@@ -227,11 +233,6 @@
       "title": "ThinkTab X11 Gen 1 im Test: Android-Tablet für den Arbeitsalltag",
       "teaser": "Das ThinkTab X11 punktet mit Robustheit und verlässlicher Performance – passend für allerlei Office-Aufgaben.",
       "url": "https://www.heise.de/tests/ThinkTab-X11-Gen-1-im-Test-Android-Tablet-fuer-den-Arbeitsalltag-11307617.html"
-    },
-    {
-      "title": "Bundesrat will KI-Überwachung und Quick Freeze durch BKA",
-      "teaser": "Die Internetwirtschaft warnt vor einem „staatlichen Suchraum“ im Netz. Trotzdem rufen die Länder nach noch laxeren Hürden für den automatisierten Datenabgleich.",
-      "url": "https://www.heise.de/news/Biometrische-Rasterfahndung-Bundesrat-will-noch-schaerfere-KI-Ueberwachung-11331325.html"
     },
     {
       "title": "Chromebooks \"upgraden\"ChromeOS entfernen und stattdessen Linux oder Windows installieren",
@@ -318,6 +319,11 @@
       "image_title": "Der Chatbot mit dem physischen Botti"
     },
     {
+      "title": "Bundesrat will KI-Überwachung und Quick Freeze durch BKA",
+      "teaser": "Die Internetwirtschaft warnt vor einem „staatlichen Suchraum“ im Netz. Trotzdem rufen die Länder nach noch laxeren Hürden für den automatisierten Datenabgleich.",
+      "url": "https://www.heise.de/news/Biometrische-Rasterfahndung-Bundesrat-will-noch-schaerfere-KI-Ueberwachung-11331325.html"
+    },
+    {
       "title": "Microsoft erwägt, Xbox auszugliedern",
       "teaser": "Bei Microsoft scheinen für die Marke Xbox alle Optionen auf dem Tisch – bis hin zu einer Abspaltung.",
       "url": "https://www.heise.de/news/Microsoft-erwaegt-Xbox-auszugliedern-11331339.html",
@@ -388,14 +394,14 @@
       "image_title": "Windrose Siebenbäumen"
     },
     {
-      "title": "Funk am Bau: PMR446-Analogfunkgeräte programmieren",
-      "teaser": "In raueren Umgebungen kann man günstige PMR-Funkgeräte mit teureren kombinieren, um die Kosten zu reduzieren. Die richtige Programmierung ist der Schlüssel.",
-      "url": "https://www.heise.de/hintergrund/Funk-am-Bau-PMR446-Analogfunkgeraete-programmieren-11289653.html"
-    },
-    {
       "title": "Braucht eine IT-Abteilung wirklich 15 Tools?",
       "teaser": "In vielen Betrieben gibt es einen Wildwuchs an Tools für die Verwaltung und Steuerung der Endgeräte. Mit einer einheitlichen Plattform ließen sich jedoch Komplexität, Kosten und Risiken senken. Mehr dazu in einem Webcast",
       "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/braucht-ihre-it-wirklich-15-tools-wie-it-teams-unkompliziert-arbeiten-und-kosten-senken-koennen-5062/?source=hbsad-ersatz"
+    },
+    {
+      "title": "Funk am Bau: PMR446-Analogfunkgeräte programmieren",
+      "teaser": "In raueren Umgebungen kann man günstige PMR-Funkgeräte mit teureren kombinieren, um die Kosten zu reduzieren. Die richtige Programmierung ist der Schlüssel.",
+      "url": "https://www.heise.de/hintergrund/Funk-am-Bau-PMR446-Analogfunkgeraete-programmieren-11289653.html"
     },
     {
       "title": "Drei freie Office-Suiten gegen Microsoft 365 – und ihre Technik im Vergleich",
@@ -449,12 +455,6 @@
       "teaser": "Der Bundestag hat das nationale Umsetzungsgesetz für den AI Act verabschiedet und die Bundesnetzagentur als zentrale Marktüberwachungsbehörde für KI eingesetzt.",
       "url": "https://www.heise.de/news/Bundestag-beschliesst-KI-Gesetz-Bundesnetzagentur-wird-zentrale-Aufsicht-11330801.html",
       "image_title": "Schild der Bundesnetzagentur"
-    },
-    {
-      "title": "Proxmox Mail Gateway 9.1 erleichtert Kampf gegen Spam und verschlüsselt Backups",
-      "teaser": "Das neue Proxmox Mail Gateway will mehr Komfort beim Mail-Handling bieten und die Möglichkeit, ihre Backups zu verschlüsseln.",
-      "url": "https://www.heise.de/news/Proxmox-Mail-Gateway-9-1-erleichtert-Kampf-gegen-Spam-und-verschluesselt-Backups-11330653.html",
-      "image_title": "Ein Screenshot des Dashboards des Proxmox Mail Gateway 9.1"
     },
     {
       "title": "Samsung Galaxy: Akku-Probleme nach Software-Updates",
@@ -628,20 +628,19 @@
       "url": "https://www.heise.de/en/news/FreeBSD-Privilege-Escalation-Vulnerability-with-Tongue-in-Cheek-Codename-11329109.html"
     },
     {
-      "title": "Digitale Souveränität in der EU: Workflow für sicherheitskritische Chips",
-      "teaser": "Globalfoundries Dresden fertigt einen GNSS-Chip der niederländischen Firma Qualinx, wobei Entwürfe, Daten und Wafer vollständig in der EU bleiben.",
-      "url": "https://www.heise.de/news/Digitale-Souveraenitaet-in-der-EU-Workflow-fuer-sicherheitskritische-Chips-11330819.html",
-      "image_title": "Entwicklerboard mit dem GNSS-Chip Qualinx QLX3Gx."
+      "title": "Mindestzoll für China-Importe: Was Verbraucher jetzt wissen müssen",
+      "teaser": "Am 1. Juli 2026 fällt die Freigrenze von 150 Euro auf Warensendungen von außerhalb der EU. Ab dann werden pro Paket mindestens drei Euro Zoll fällig.",
+      "url": "https://www.heise.de/hintergrund/Mindestzoll-fuer-China-Importe-Was-Verbraucher-jetzt-wissen-muessen-11304273.html"
     },
     {
-      "title": "c’t uplinkKI geht einkaufen",
-      "teaser": "Agentische KIs sollen für uns einkaufen. Doch wie sicher ist das? Der c't uplink beleuchtet Chancen, Risiken und rechtliche Fragen.",
-      "url": "https://www.heise.de/news/KI-geht-einkaufen-c-t-uplink-11329834.html"
+      "title": "ThinkTab X11 Gen 1 im Test: Android-Tablet für den Arbeitsalltag",
+      "teaser": "Das ThinkTab X11 punktet mit Robustheit und verlässlicher Performance – passend für allerlei Office-Aufgaben.",
+      "url": "https://www.heise.de/tests/ThinkTab-X11-Gen-1-im-Test-Android-Tablet-fuer-den-Arbeitsalltag-11307617.html"
     },
     {
-      "title": "Empfangswege gemessenSo kommt die Fußball-WM verzögerungsfrei auf den Schirm",
-      "teaser": "Am Sonntag starten die deutschen Fußballer ins WM-Turnier. Wer vor den Nachbarn jubeln möchte, braucht einen latenzarmen Empfang.",
-      "url": "https://www.heise.de/hintergrund/Empfangswege-gemessen-So-kommt-die-Fussball-WM-verzoegerungsfrei-auf-den-Schirm-11330963.html"
+      "title": "VideoWie weit kommt das E-Bike?",
+      "teaser": "Wie lang fährt ein E-Bike wirklich, bevor der Akku leer ist? Wie realistisch ist die Reichweitenanzeige? Ein Test als Video.",
+      "url": "https://www.heise.de/news/Video-Wie-weit-kommt-das-E-Bike-11328961.html"
     },
     {
       "title": "Mit Bordmitteln und spezialisierten AppsBesser zu Fuß mit iPhone, iPad und Mac",
@@ -720,6 +719,12 @@
       "image_title": ", Vanessa Bahr / iX"
     },
     {
+      "title": "Evergreen wird aggressiverKawasaki Z650 S im Test",
+      "teaser": "Kawasaki überarbeitet den Bestseller Z 650 zum Modelljahr 2026. Die Z 650 S kommt mit aggressiverem Design und neuen Features. Wir konnten sie schon testen.",
+      "url": "https://www.heise.de/tests/Kawasaki-Z650-S-im-Test-Der-Evergreen-wird-aggressiver-11327798.html",
+      "image_title": "Kawasaki Z 650 S"
+    },
+    {
       "title": "Robotertaxis: Waymo startet Treueprogramm",
       "teaser": "Alphabet-Tochter Waymo führt ein Treueprogramm namens „Waymo Premier“ ein, das regelmäßigen Nutzern seiner Robotaxis verschiedene Vorteile bietet.",
       "url": "https://www.heise.de/news/Robotertaxis-Waymo-startet-Treueprogramm-11329530.html",
@@ -738,22 +743,16 @@
       "image_title": "Freigestellter autonomer Laderoboter mit Blick auf Greifarm"
     },
     {
-      "title": "c’t-Webinar: Energiekosten senken mit dem Elektroauto",
-      "teaser": "Wann lohnt sich Überschussladen, wann ein dynamischer Tarif? Das Webinar trennt technische Spielereien von wirtschaftlich sinnvollen Lösungen rund ums E-Auto.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Energiekosten-senken-mit-dem-Elektroauto-11322896.html",
-      "image_title": "Rotes Elektroauto mit großer Batterie auf dem Dach."
+      "title": "Wer hat recht? Warum sich Nato-Generäle öffentlich widersprechen",
+      "teaser": "Zu Russland widersprechen sich zwei Nato-Generäle offen auf derselben Messe. Dahinter stecken Milliarden, Macht und ein leiser Abzug. Ein Leitartikel.",
+      "url": "https://www.heise.de/article/Wer-hat-recht-Warum-sich-Nato-Generaele-oeffentlich-widersprechen-11330719.html",
+      "image_title": "Zwei getarnte Panzer fahren durch aufgewirbelten Sand, Soldaten sind sichtbar."
     },
     {
-      "title": "England und Niederlande: Rivalen um die Seeherrschaft",
-      "teaser": "Zwei Republiken, ein Ozean – und kein Platz für beide: Wie die Niederlande und England drei Jahrzehnte lang um die Hegemonie auf den Weltmeeren kämpften.",
-      "url": "https://www.heise.de/article/England-und-Niederlande-Rivalen-um-die-Seeherrschaft-11326072.html",
-      "image_title": "Ölgemälde von Schiffen auf See"
-    },
-    {
-      "title": "WM-Auftakt gegen Curaçao: Droht Deutschland die nächste historische Blamage?",
-      "teaser": "Deutschland trifft auf 150.000-Einwohner-Insel Curaçao unter Dick Advocaat. Droht nach internem Prämien-Streit die nächste Auftakt-Pleite? WM Blog – Folge 02.",
-      "url": "https://www.heise.de/article/WM-Auftakt-gegen-Curacao-Droht-Deutschland-die-naechste-historische-Blamage-11331425.html",
-      "image_title": "Deutsche Flagge und die von Curaçao, dazwischen ein Fußball."
+      "title": "Nach SpaceX-Rekord: Zeigen Daten jetzt den Kapitalabzug bei Bitcoin?",
+      "teaser": "Milliarden fließen aus Krypto-ETFs ab. Investoren schichten ihr Kapital offenbar direkt in Elon Musks Raumfahrt-Konzern um.",
+      "url": "https://www.heise.de/article/Nach-SpaceX-Rekord-Zeigen-Daten-jetzt-den-Kapitalabzug-bei-Bitcoin-11331569.html",
+      "image_title": "Eine Bitcoin-Münze, dahinter rote Pfeile, die nach unten zeigen"
     },
     {
       "title": "Bis zu 11.000 Dollar Sold: Ukraine wirbt Ausländer mit EU-Milliarden an",
