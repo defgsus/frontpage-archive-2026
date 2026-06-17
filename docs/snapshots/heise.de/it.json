@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-17T05:56:24",
+  "timestamp": "2026-06-17T10:26:02",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,121 @@
   ],
   "articles": [
     {
+      "title": "KI-Wearables: Qualcomm positioniert sich als zentraler Technologiepartner",
+      "teaser": "Mit Snapdragon START will Qualcomm die Grundlage für ein Ökosystem persönlicher KI-Wearables schaffen. Den Anfang machen Smart Glasses.",
+      "url": "https://www.heise.de/news/KI-Wearables-Qualcomm-positioniert-sich-als-zentraler-Technologiepartner-11335545.html",
+      "image_title": "Ray-Ban Meta Smart-Glasses in einem Geschäft. Mehrere Modelle liegen auf beleuchteten Regalen."
+    },
+    {
+      "title": "Unternehmen wünschen sich deutsche Hyperscaler und buchen US-Cloud",
+      "teaser": "Nach wie vor fehlen deutschen Firmen bei der Cloud gleichwertige Hyperscaler-Alternativen aus Deutschland. Zugleich steigen bei der Mehrheit die Cloud-Kosten.",
+      "url": "https://www.heise.de/news/Unternehmen-wuenschen-sich-deutsche-Hyperscaler-und-buchen-US-Cloud-11335451.html",
+      "image_title": "Illustration mehrer Personen, die von einer Wolke mit US-Flagge zu einer Wolke mit deutscher Flagge springen"
+    },
+    {
+      "title": "software-architektur.tv: Macht KI Software billiger – und Projekte einfacher?",
+      "teaser": "In dieser Episode diskutiert Eberhard Wolff live mit Gästen darüber, wie KI die Kosten- und Komplexitätswahrnehmung in der Softwareentwicklung beeinflusst.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Macht-KI-Software-billiger-und-Projekte-einfacher-11332455.html",
+      "image_title": "Logo software-architektur.tv: KI macht Software vermeintlich billiger. Macht sie Projekte einfacher?"
+    },
+    {
+      "title": "Datenleck bei Ozempic-Hersteller Novo Nordisk",
+      "teaser": "Eine Cybergang hat bei Novo Nordisk, bekannt etwa durch das Medikament Ozempic, Daten geklaut. Sensible Informationen sind darunter.",
+      "url": "https://www.heise.de/news/Datenleck-bei-Ozempic-Hersteller-Novo-Nordisk-11335371.html",
+      "image_title": "Eintrag auf Darknet-Leaksite von Cybergang FulcrumSec"
+    },
+    {
+      "title": "RatgeberGEO und SEO: So optimieren Betreiber ihre Websites für ChatGPT & Co.",
+      "url": "https://www.heise.de/ratgeber/GEO-und-SEO-So-optimieren-Betreiber-ihre-Websites-fuer-ChatGPT-Co-11332182.html"
+    },
+    {
+      "title": "HintergrundKurz erklärt: Agent Harness",
+      "url": "https://www.heise.de/hintergrund/Kurz-erklaert-Agent-Harness-11330445.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "TestsApp to date: Updatest für den Mac im Test",
+      "url": "https://www.heise.de/tests/App-to-date-Updatest-fuer-den-Mac-im-Test-11310551.html",
+      "image_title": "Updatest auf dem Mac"
+    },
+    {
+      "title": "c’t Windows 2026: Sonderheft jetzt bestellbar",
+      "teaser": "Das diesjährige c’t-Sonderheft zum Thema Windows ist ab sofort verfügbar und bietet Tipps und Wissenswertes zu Windows 11, PC-Umzug, Notfallhilfe und mehr.",
+      "url": "https://www.heise.de/news/c-t-Windows-2026-Sonderheft-jetzt-bestellbar-11332986.html"
+    },
+    {
+      "title": "Meta-Harness für KI-Agenten: Databricks veröffentlicht Omnigent als Open Source",
+      "teaser": "Der Meta-Harness Omnigent vereint KI-Agenten wie Claude Code und Codex unter einer gemeinsamen Policy- und Kollaborationsschicht – unter Apache-2.0-Lizenz.",
+      "url": "https://www.heise.de/news/Meta-Harness-fuer-KI-Agenten-Databricks-veroeffentlicht-Omnigent-als-Open-Source-11334159.html",
+      "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
+    },
+    {
+      "title": "AlertCritical Security Patch Update: Oracle veröffentlicht 245 Sicherheitsupdates",
+      "teaser": "Nach einem Notfall-Sicherheitsupdate für PeopleSoft veröffentlicht Oracle nun seine Quartalssicherheitspatches.",
+      "url": "https://www.heise.de/news/Critical-Security-Patch-Update-Oracle-veroeffentlicht-245-Sicherheitsupdates-11335248.html"
+    },
+    {
+      "title": "AlertNvidias KI-Agenten-Plattform NeMo ist über drei Sicherheitslücken angreifbar",
+      "teaser": "Angreifer können Nvidia NeMO-Instanzen unter anderem mit Schadcode attackieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Nvidias-KI-Agenten-Plattform-NeMo-ist-ueber-drei-Sicherheitsluecken-angreifbar-11335058.html",
+      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
+    },
+    {
+      "title": "Servermarkt im Umbruch: KI-Infrastruktur verdrängt klassische Systeme",
+      "teaser": "KI-Infrastruktur treibt den weltweiten Servermarkt zu Rekorden. Während die Nachfrage explodiert, bremsen Lieferengpässe bei Speicherchips das Wachstum.",
+      "url": "https://www.heise.de/news/Servermarkt-im-Umbruch-KI-Infrastruktur-verdraengt-klassische-Systeme-11335114.html",
+      "image_title": "Serverschränke mit Servern in einem Rechenzentrum"
+    },
+    {
+      "title": "AlertMehrere Plug-ins für JetBrains-IDEs stehlen API-Keys für OpenAI, DeepSeek & Co.",
+      "teaser": "Mindestens 15 Plug-ins für JetBrains-IDEs übermitteln API-Keys an einen externen Server. Dabei bieten sie ansonsten die versprochenen Funktionen.",
+      "url": "https://www.heise.de/news/Mehrere-Plug-ins-fuer-JetBrains-IDEs-stehlen-API-Keys-fuer-OpenAI-DeepSeek-Co-11335021.html",
+      "image_title": "Schlüssel an Angelhaken auf Tastatur"
+    },
+    {
+      "title": "Ein Klick: Neuer Widerrufsbutton für Onlinekäufe startet",
+      "teaser": "Kurz geklickt und schon bestellt – nun soll es genauso leicht sein, den Deal zu widerrufen. Ein neuer Button macht es möglich.",
+      "url": "https://www.heise.de/news/Ein-Klick-Neuer-Widerrufsbutton-fuer-Onlinekaeufe-startet-11335138.html",
+      "image_title": "Junge Frau mit rotblonden Locken und orangefarbenem Pullover am Smartphone in einem Wohnzimmer."
+    },
+    {
+      "title": "Fußball-WM: FIFA-Streaming war einfach knackbar",
+      "teaser": "Eine IT-Forscherin hätte mangels korrekter Sicherheitsprüfungen das Live-Streaming der FIFA zur Fußball-WM 2026 manipulieren können.",
+      "url": "https://www.heise.de/news/Fussball-WM-FIFA-Streaming-war-einfach-knackbar-11335082.html",
+      "image_title": "Mann blickt auf Fernseher, auf dem Fußball läuft."
+    },
+    {
+      "title": "Tipp: Spielekonsolen-Controller am Mac verwenden",
+      "teaser": "Am Mac lassen sich mittlerweile sowohl Xbox- als auch Playstation-Controller nutzen. Manchmal hakt es aber. So beheben Sie Schwierigkeiten.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Spielekonsolen-Controller-am-Mac-verwenden-4141850.html",
+      "image_title": "Controller einer Playstation"
+    },
+    {
+      "title": "Schluss mit Sidecar-Files: AWS führt S3 Annotations ein",
+      "teaser": "AWS S3 Annotations ermöglichen bis zu 1 GByte strukturierte Metadaten pro Objekt. Das vereinfacht Datenmanagement und KI-Workflows.",
+      "url": "https://www.heise.de/news/Schluss-mit-Sidecar-Files-AWS-fuehrt-S3-Annotations-ein-11335068.html",
+      "image_title": "AWS-Cloud-Symbol mit vielen blauen Eimern und Wolken"
+    },
+    {
+      "title": "Analysefirma zu KI-Nutzung: Marktanteil von ChatGPT unter 50 Prozent gefallen",
+      "teaser": "ChatGPT ist weiterhin die beliebteste KI-Technik, aber vor allem Googles Gemini holt auf. Zuletzt ist zudem Claude stark gewachsen. Das sagt eine Analysefirma.",
+      "url": "https://www.heise.de/news/Analysefirma-zu-KI-Nutzung-Marktanteil-von-ChatGPT-unter-50-Prozent-gefallen-11334993.html",
+      "image_title": "ChatGPT-App auf einem Smartphone"
+    },
+    {
+      "title": "iX-Workshop: Sicherer Betrieb von Windows 11 im Unternehmen",
+      "teaser": "Lernen Sie an praktischen Beispielen, wie Sie Windows 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicherer-Betrieb-von-Windows-11-im-Unternehmen-11321258.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
       "title": "Testautomatisierung: Warum die Testpyramide in der Praxis oft scheitert",
       "teaser": "Testautomatisierung scheitert in der Praxis oft an starren Modellen. Ein Blick auf Projekte zeigt, wie man die Testpyramide als Kompass statt als Dogma nutzt.",
       "url": "https://www.heise.de/hintergrund/Testautomatisierung-Warum-die-Testpyramide-in-der-Praxis-oft-scheitert-11312171.html",
       "image_title": "Graue Pyramide mit den Ebenen Unit Tests, Integration Tests und System Tests."
     },
     {
-      "title": "E-Ink-Notiztablets im Vergleich: Das richtige Gerät für Ihre Zwecke finden",
+      "title": "E-Ink-Notiztablets im Vergleich: Das richtige Gerät für Ihre Zwecke",
       "teaser": "E-Ink-Notiztablets sind vielseitig: Ob als Schreibkladde, E-Reader oder KI-Helfer. Unser Ratgeber hilft Ihnen, das richtige Gerät für Ihren Zweck zu finden.",
       "url": "https://www.heise.de/tests/E-Ink-Notiztablets-im-Vergleich-Das-richtige-Geraet-fuer-Ihre-Zwecke-finden-11284278.html"
     },
@@ -37,111 +145,13 @@
       "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
     },
     {
-      "title": "Erfahrungsbericht Alexa+: Amazons KI-Sprachassistentin im Test",
-      "teaser": "Wir haben Erfahrungen mit der neuesten Generation von Amazons Sprachassistentin gesammelt. Im ersten Teil geht es um Alexa+ als persönliche Assistentin.",
-      "url": "https://www.heise.de/tests/Erfahrungsbericht-Alexa-Amazons-KI-Sprachassistentin-im-Test-11319328.html"
-    },
-    {
-      "title": "HintergrundTestautomatisierung: Warum die Testpyramide in der Praxis oft scheitert",
-      "url": "https://www.heise.de/hintergrund/Testautomatisierung-Warum-die-Testpyramide-in-der-Praxis-oft-scheitert-11312171.html",
-      "image_title": "Graue Pyramide mit den Ebenen Unit Tests, Integration Tests und System Tests."
-    },
-    {
-      "title": "TestsE-Ink-Notiztablets im Vergleich: Das richtige Gerät für Ihre Zwecke finden",
-      "url": "https://www.heise.de/tests/E-Ink-Notiztablets-im-Vergleich-Das-richtige-Geraet-fuer-Ihre-Zwecke-finden-11284278.html"
-    },
-    {
-      "title": "TestsErfahrungsbericht Alexa+: Amazons KI-Sprachassistentin im Test",
-      "url": "https://www.heise.de/tests/Erfahrungsbericht-Alexa-Amazons-KI-Sprachassistentin-im-Test-11319328.html"
-    },
-    {
-      "title": "„Pixel Drop“ inklusive: Google veröffentlicht Android 17 für Pixel-Smartphones",
-      "teaser": "Google hat die stabile Version von Android 17 mitsamt „Pixel Drop” veröffentlicht. Das Update bringt neue Multitasking-Funktionen und mehr.",
-      "url": "https://www.heise.de/news/Android-17-Pixel-Drop-sind-da-Google-verteilt-grosses-Update-fuer-Pixel-Geraete-11332126.html",
-      "image_title": "Pixel-Smartphone mit Android 17 Easteregg in Hand"
-    },
-    {
-      "title": "Flexispot Apollo im Test: Stylischer Premium-Bürostuhl mit toller Bedienung",
-      "teaser": "Der schicke Flexispot Apollo kommt mit angepasster Synchronmechanik, adaptiver Lordosenstütze und ausziehbarer Fußstütze. Rund 1000 Euro kostet der Bürostuhl.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/flexispot-apollo-im-test-stylischer-premium-buerostuhl-mit-toller-bedienung/sy41sk6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Andere Farben, hohe Preise: Surface Pro und Laptop jetzt mit Snapdragon X2",
-      "teaser": "Microsoft aktualisiert sein Tablet Surface Pro 13 und seine Notebooks Surface Laptop 13,8 und 15: Qualcomms Snapdragon X2 fährt darin zehn oder zwölf Kerne aus.",
-      "url": "https://www.heise.de/news/Andere-Farben-hohe-Preise-Surface-Pro-und-Laptop-jetzt-mit-Snapdragon-X2-11334643.html"
-    },
-    {
-      "title": "Qualcomm stellt Chip für die nächste Generation VR-Brillen vor",
-      "teaser": "Mit dem neuen XR-Chip Snapdragon Reality Elite definiert Qualcomm, was immersive Computerbrillen jenseits von Apple in den nächsten Jahren leisten können.",
-      "url": "https://www.heise.de/news/Qualcomm-stellt-Chip-fuer-die-naechste-Generation-VR-Brillen-vor-11333333.html",
-      "image_title": "Logo von Snapdragon Reality Elite zwischen VR-Headset, Smart Glasses und AR-Brillen mit ausgelagerter Recheneinheit."
-    },
-    {
-      "title": "Smart Glasses: Meta testete angeblich Gesichtserkennung von Pentagon-Zulieferer",
-      "teaser": "Meta prüfte offenbar Gesichtserkennung für Smart Glasses mit Technologie eines behördennahen US-Anbieters. Entsprechende Spuren fanden sich in der Meta-AI-App.",
-      "url": "https://www.heise.de/news/Smart-Glasses-Meta-testete-angeblich-Gesichtserkennung-von-Pentagon-Zulieferer-11333952.html",
-      "image_title": "Nahaufnahme einer schwarzen Ray-Ban-Meta-Smart-Brille mit integrierter Kamera am Brillenscharnier."
-    },
-    {
-      "title": "Das Fritzbox-Kompendium: Einrichten, absichern und optimieren",
-      "teaser": "Eine Fritzbox bietet viele Funktionen und Optionen. Da verliert man schon mal den Überblick. Wir erklären, welche Einstellung bei der Fritzbox was bewirkt.",
-      "url": "https://www.heise.de/ratgeber/Das-Fritzbox-Kompendium-Einrichten-absichern-und-optimieren-11333247.html"
-    },
-    {
-      "title": "Firefox 152: Mozilla räumt in den Einstellungen auf",
-      "teaser": "Firefox 152 ist da: Mozilla überarbeitet das Einstellungsmenü grundlegend, bringt neue Video-Kontrollen und führt Tab-Gruppen für Android ein.",
-      "url": "https://www.heise.de/news/Firefox-152-Mozilla-raeumt-in-den-Einstellungen-auf-11334561.html",
-      "image_title": "Firefox-Einstellungen mit Optionen für Browserlayout, Website-Kontrast, Zahlungsarten, Sprachen und Suchmaschinen."
-    },
-    {
-      "title": "Fritz-WLAN-Stick 6700: Wi-Fi 7 zum Anstöpseln",
-      "teaser": "Fritzens frischer WLAN-Stick holt ältere PCs in moderne Funknetze – solange sie unter Windows 11 laufen.",
-      "url": "https://www.heise.de/news/Fritz-WLAN-Stick-6700-Wi-Fi-7-zum-Anstoepseln-11334505.html",
-      "image_title": "Fritz WLAN-Stick 6700"
-    },
-    {
-      "title": "KI-Wettrüsten: Elon Musks SpaceX schluckt Entwickler-Tool Cursor",
-      "teaser": "SpaceX übernimmt das KI-Coding-Tool Cursor für 60 Milliarden Dollar in Aktien. Die Tochtergesellschaft soll das KI-Portfolio von Elon Musk strategisch stärken.",
-      "url": "https://www.heise.de/news/SpaceX-uebernimmt-KI-Coding-Tool-Cursor-fuer-60-Milliarden-Dollar-11334487.html",
-      "image_title": "SpaceX-Logo auf einem Smartphone"
-    },
-    {
-      "title": "Medizin: Führende LLMs schlagen spezialisierte kleine Sprachmodelle klar",
-      "teaser": "Führende große Sprachmodelle erzielen in medizinischen Tests bessere Ergebnisse als spezialisierte kleine Modelle. Das zeigt eine Studie.",
-      "url": "https://www.heise.de/news/Medizin-Fuehrende-LLMs-schlagen-spezialisierte-kleine-Sprachmodelle-klar-11334435.html",
-      "image_title": "Schematische Darstellung einer Person. Drum herum Symbole, die eine Gentherapie andeuten."
-    },
-    {
-      "title": "Eiswürfelmaschine Sweetcrispy im Test: über 10 kg Eis pro Tag für 79 Euro",
-      "teaser": "Kompakt, leise und mit zwei Eisgrößen: Die Sweetcrispy Eiswürfelmaschine verspricht frische tropfenförmige Eiswürfel in unter 10 Minuten.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/eiswuerfelmaschine-sweetcrispy-im-test-ueber-10-kg-eis-pro-tag-fuer-79-euro/fg8pylc?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "BSI-Affäre: Urteil gegen Böhmermanns ZDF Magazin Royale bestätigt",
-      "teaser": "Ex-BSI-Chef Arne Schönbohm setzt sich mit seiner Unterlassungsforderung gegen das ZDF auch in der nächsten Instanz durch, erhält aber keinen Schadensersatz.",
-      "url": "https://www.heise.de/news/BSI-Affaere-Urteil-gegen-Boehmermanns-ZDF-Magazin-Royale-bestaetigt-11334455.html"
-    },
-    {
-      "title": "Oracle halbiert kostenlose Cloud-Ressourcen",
-      "teaser": "Oracle hat die kostenlosen Ampere-A1-Compute-Ressourcen im Free Tier der Oracle Cloud Infrastructure reduziert. Nutzer sollten ihre Konfiguration prüfen.",
-      "url": "https://www.heise.de/news/Oracle-halbiert-kostenlose-Cloud-Ressourcen-11334393.html",
-      "image_title": "Oracle-Logo"
-    },
-    {
-      "title": "Rüstungsindustrie sucht Softwareentwickler so stark wie nie",
-      "teaser": "Softwareentwicklung ist das meistgesuchte Profil bei Europas Rüstungsfirmen. Der Branche gelingt, was andere Industrien nicht schaffen: Wachstum.",
-      "url": "https://www.heise.de/news/Ruestungsindustrie-sucht-Softwareentwickler-so-stark-wie-nie-11333817.html",
-      "image_title": "AR-Headset im Militär"
-    },
-    {
-      "title": "Analyse: Wie Siri, Gemini und Copilot Ihr persönlicher Butler werden wollen",
-      "teaser": "KI-Agenten sollen Nutzer besser kennenlernen als jede App – und an die Plattformen von Apple, Google & Co. binden. Die enge Verzahnung erschwert den Umzug.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Wie-Siri-Gemini-und-Copilot-Ihr-persoenlicher-Butler-werden-wollen-11327088.html"
-    },
-    {
       "title": "NewsAmazon-CEO soll Fable-Sperre ausgelöst haben",
       "url": "https://www.heise.de/news/Berichte-Amazon-steckt-hinter-ploetzlichem-Fable-Aus-11331565.html",
       "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
+    },
+    {
+      "title": "NewsBSI-Affäre: Urteil gegen Böhmermanns ZDF Magazin Royale bestätigt",
+      "url": "https://www.heise.de/news/BSI-Affaere-Urteil-gegen-Boehmermanns-ZDF-Magazin-Royale-bestaetigt-11334455.html"
     },
     {
       "title": "NewsViel Geduld: Chinesische IT-Spione lauerten lange in Forschungseinrichtungen",
@@ -152,11 +162,6 @@
       "title": "NewsPrototyp deutscher Langstreckendrohne mit hoher Tragkraft fertig",
       "url": "https://www.heise.de/news/Unbemannte-deutsche-AeroForce-X-soll-bis-zu-40-Stunden-in-der-Luft-bleiben-11331777.html",
       "image_title": "AeroForce X vor Hangar"
-    },
-    {
-      "title": "NewsKräftige Preiserhöhung bei Hetzner: Cloud-Server teilweise dreimal so teuer",
-      "url": "https://www.heise.de/news/Bis-zu-200-Prozent-Cloud-Hoster-Hetzner-dreht-erneut-an-der-Preisschraube-11332994.html",
-      "image_title": "Rechenzentrum"
     },
     {
       "title": "TestsE-Auto Leapmotor B10 im Test: Ein E-SUV, das die Konkurrenz unter Druck setzt",
