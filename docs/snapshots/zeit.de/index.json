@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T00:17:32",
+  "timestamp": "2026-06-19T06:04:41",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://quiz.zeit.de/embed/quiz-daily.js",
       "id": null,
       "text": null
     },
@@ -86,18 +92,58 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Konservative und Migration: Die Politik hat geliefert, die Kundschaft wütet weiter",
-      "teaser": "Die AfD wächst, obwohl weniger Migranten ins Land kommen. Konservative hatten das Gegenteil versprochen. Und nun? Eskalieren sie ihre Fehler, anstatt sie zu korrigieren.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/konservative-migration-christliche-werte-zuwachs",
-      "image_url": "https://img.zeit.de/feuilleton/2026-06/konservative-migration-christliche-werte-zuwachs-bild-2/wide__1000x562",
-      "image_title": "Konservative und Migration: Die Politik hat geliefert, die Kundschaft wütet weiter"
+      "title": "Z+ (abopflichtiger Inhalt); Luigi Pantisano: »Ich mag es, wenn es mal knallt«",
+      "teaser": "Luigi Pantisano will neuer Chef der Linken werden. Er ist Sohn von Gastarbeitern, gelernter Architekt und politischer Aktivist. Kann er die Partei zusammenhalten?",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/luigi-pantisano-linke-parteivorsitz-bundestag",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/luigi-pantisano-linke-parteivorsitz-bundestag-bild-5/wide__1000x562",
+      "image_title": "Luigi Pantisano: Luigi Pantisano, DIE LINKE, aufgenommen am 13.05.2026 in Waiblingen."
     },
     {
-      "title": "Irankrieg: Republikaner kritisieren Iran-Rahmenabkommen",
-      "teaser": "Das Abkommen des US-Präsidenten zur Beendigung des Irankriegs stößt auf Kritik. Trumps Parteikollegen sprechen vom »schlimmsten außenpolitischen Fehler seit Jahrzehnten«.",
+      "title": "Z+ (abopflichtiger Inhalt); Russland im Krieg: Was hier zusammenbricht, ist Putins Kernidee von Wirtschaft",
+      "teaser": "Drohnen über Moskau, leere Restaurants, abgeschaltetes Internet: Im fünften Kriegsjahr spüren auch die Russen Zermürbung. Wird das gefährlich für Putin?",
+      "url": "https://www.zeit.de/2026/27/russland-alltag-ukraine-krieg-wirtschaft",
+      "image_url": "https://img.zeit.de/2026/27/vaeterchen-frust-bild-1/super__430x287",
+      "image_title": "Russland im Krieg: Der Rote Platz in Moskau, derzeit mal nicht mit Buden vollgestellt"
+    },
+    {
+      "title": "Liveblog:Krieg gegen die Ukraine: Kontaktaufnahme zu Russland durch EU-Ratspräsident stößt auf Kritik",
+      "teaser": "EU-Ratspräsident António Costa will diplomatische Kanäle zu Russland öffnen. Aus deutschen Regierungskreisen ist von einem »Affront« die Rede. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/ukraine-krieg-news-liveblog-bild-costa/super__430x287",
+      "image_title": "Krieg gegen die Ukraine: António Costa, Präsident des Europäischen Rates, nimmt an einem Gespräch mit Journalistinnen und Journalisten des European Newsroom (enr) teil. (zu dpa: «EU-Ratschef will Gespräche mit Russland vorbereiten») +++ dpa-Bildfunk +++"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); NSDAP-Mitgliederkartei : Recherchieren Sie hier die NSDAP-Vergangenheit Ihrer Familie",
+      "teaser": "Die ZEIT hat die Mitgliederkartei der NSDAP aufbereitet. Mit unserem Tool lassen sich Millionen Dokumente einsehen.",
+      "url": "https://www.zeit.de/wissen/2026-04/nsdap-mitgliederkartei-karteikarten-familienmitglieder-suche"
+    },
+    {
+      "title": "Hitzewarnungen: Wetterdienst weitet Hitzewarnung auf ganz Deutschland aus",
+      "teaser": "Es wird das erste Mal in diesem Jahr richtig heiß. Bis zu 38 Grad können laut Wetterdienst am Freitag erreicht werden. Einzige Ausnahme: die Ostseeküste.",
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-06/hitzewarnung-dwd-extreme-hitze-deutschland",
+      "image_url": "https://img.zeit.de/wissenschaft/umwelt/2026-06/hitzewarnung-dwd-extreme-hitze-deutschland-foto-1/super__430x287",
+      "image_title": "Hitzewarnung DWD extreme Hitze Deutschland"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wirkung von Medikamenten: »Bei Sommertemperaturen ist das Risiko für viele Medikamente erhöht«",
+      "teaser": "Hitze verändert, wie Arzneien wirken. Selbst viele Ärzte unterschätzen das. Die Wissenschaftlerin Beate Müller erklärt, was man über seine Hausapotheke wissen sollte.",
+      "url": "https://www.zeit.de/gesundheit/2026-06/wirkung-medikamente-hitze-sommer-auswirkung-risiko-beate-mueller",
+      "image_url": "https://img.zeit.de/gesundheit/2026-06/wirkung-medikamente-hitze-sommer-auswirkung-risiko-beate-mueller-bild/wide__892x502",
+      "image_title": "Wirkung von Medikamenten: Close-up of stacked amber prescription pill bottles filled with yellow and red capsules and tablets."
+    },
+    {
+      "title": "Beendigung des Irankriegs: Republikaner halten US-Iran-Abkommen für »außenpolitischen Fehler«",
+      "teaser": "In den USA sprechen sich Republikaner offen gegen das Abkommen zur Beendigung des Irankriegs aus. Die US-Regierung habe militärische Erfolge »wegverhandelt«.",
       "url": "https://www.zeit.de/politik/ausland/2026-06/iran-usa-rahmenabkommen-kritik-republikaner",
       "image_url": "https://img.zeit.de/politik/ausland/2026-06/iran-usa-rahmenabkommen-kritik-republikaner-bild/super__320x213",
-      "image_title": "Irankrieg: Beschreibung Das Kapitol, Sitz des US-Kongresses (zu dpa: «US-Republikaner spalten erneut mehrheitlich schwarzen Bezirk») Service +++ dpa-Bildfunk +++ Aufnahmedatum 19.12.2025 Bildnachweis picture alliance/dpa/AP | J. Scott Applewhite"
+      "image_title": "Beendigung des Irankriegs: Beschreibung Das Kapitol, Sitz des US-Kongresses (zu dpa: «US-Republikaner spalten erneut mehrheitlich schwarzen Bezirk») Service +++ dpa-Bildfunk +++ Aufnahmedatum 19.12.2025 Bildnachweis picture alliance/dpa/AP | J. Scott Applewhite"
+    },
+    {
+      "title": "Irankrieg: Schweiz bestätigt Absage der Gespräche zwischen USA und Iran",
+      "teaser": "US-Vizepräsident JD Vance reist nicht wie geplant in die Schweiz, um das Rahmenabkommen mit dem Iran zu präzisieren. Einen neuen Termin gibt es offenbar noch nicht.",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/gespraeche-usa-iran-schweiz-absage-buergenstock",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/gespraeche-usa-iran-schweiz-absage-buergenstock-foto-1/super__320x213",
+      "image_title": "Gespräche USA Iran Schweiz Absage Bürgenstock"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abkommen zwischen Iran und USA: Zeile für Zeile ein schwieriger Deal",
@@ -107,32 +153,11 @@
       "image_title": "Abkommen zwischen Iran und USA: President Donald Trump at the G7 Summit in Evian-les-Bains, France, on Monday, June 15, 2026. The framework agreement President Trump has signed with Iran appears to contain, broadly speaking, two parts: Terms for an immediate 60-day cease-fire, and plans for negotiations in that time on a long-term peace deal."
     },
     {
-      "title": "Kaja Kallas: Friedrich Merz kritisiert Israeläußerungen von EU-Außenbeauftragter",
-      "teaser": "Wegen eines mutmaßlichen Apartheid-Vorwurfs hat Israel die Beziehungen zu Kaja Kallas gekappt. Auch der Bundeskanzler hält die Äußerungen der EU-Beauftragten für falsch.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/kaja-kallas-israel-apartheid-vorwurf-friedrich-merz",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/kaja-kallas-israel-apartheid-vorwurf-friedrich-merz-foto-1/super__320x213",
-      "image_title": "Kaja Kallas Israel Apartheid Vorwurf Friedrich Merz"
-    },
-    {
-      "title": "Liveblog:Irankrieg: Irans oberster Führer stimmt Rahmenabkommen mit den USA zu",
-      "teaser": "Nach dem iranischen Präsidenten hat auch das geistliche Oberhaupt das Abkommen mit den USA gebilligt. Das US-Militär hebt seine Seeblockade auf. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/iran-usa-liveblog-modschtaba-chamenei-abkommen-bild/super__320x213",
-      "image_title": "Irankrieg: IRAN-US-ISRAEL-WAR-TRANSPORT-DAILYLIFE Two commuters walk past a large tiled image of Iran's current leader Ayatollah Mojtaba Khamenei, as they enter the metro station in Tehran on May 9, 2026. Iran questioned the seriousness of American diplomacy on May 9, in the wake of renewed naval clashes in the Gulf, while keeping Washington waiting for a response to its latest negotiating position. (Photo by ATTA KENARE / AFP via Getty Images) /"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Minenräumung in der Straße von Hormus: Minenräumung ohne Eile",
       "teaser": "Zwei deutsche Schiffe machen sich bereit für eine mögliche Mission in der Straße von Hormus. Ob sie zum Einsatz kommen? Dafür müssten vier Bedingungen erfüllt sein.",
       "url": "https://www.zeit.de/politik/ausland/2026-06/minenraeumung-strasse-von-hormus-deutsche-marine-schiffe",
       "image_url": "https://img.zeit.de/politik/ausland/2026-06/minenraeumung-strasse-von-hormus-deutsche-marine-schiffe-bild/super__320x213",
       "image_title": "Minenräumung in der Straße von Hormus: STRAIT OF HORMUZ, OMAN/IRAN -- JUNE 16, 2026: 01 -- Maps4media-processed Sentinel-2 satellite imagery shows a broad overview of the Strait of Hormuz, including the Musandam Peninsula, nearby islands, coastal shallows, and the narrow maritime corridor linking the Persian Gulf with the Gulf of Oman. The image documents one of the world's most strategically important shipping chokepoints. Please use: Sentinel-2 satellite image processed by Maps4media. Please use: Satellite image (c) 2026 Maps4media. (Photo enhanced and published by maps4media via Getty Images)"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Iranabkommen: Wie Donald Trump einmal Friedrich Merz die Kanzlerschaft rettete",
-      "teaser": "Das Abkommen mit dem Iran könnte eine Erholung der deutschen Wirtschaft ermöglichen. Nicht nur die Treibstoffpreise entspannen sich. Die Koalition schöpft Hoffnung.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/iranabkommen-friedrich-merz-wirtschaft-usa-iran-gxe",
-      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/iranabkommen-friedrich-merz-wirtschaft-usa-iran-bild-2/super__320x213",
-      "image_title": "Iranabkommen: EVIAN-LES-BAINS, FRANCE - JUNE 16: U.S. President Donald Trump speaks with German Chancellor Friedrich Merz at a working lunch with leaders of G7 and the Middle East, on June 16, 2026 in Evian-les-Bains, France. Leaders from the Group of 7 (G7) countries convened in Evian, France, near the Swiss border, for their annual summit to discuss challenges to peace and security for Ukraine and Europe, the situation in the Middle East, and other geopolitical issues. (Photo by Evelyn Hockstein - Pool/Getty Images)"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Shimon Stein: »Wir brauchen auch ein politisches Angebot. Das hat Netanjahu nicht«",
@@ -142,45 +167,6 @@
       "image_title": "Shimon Stein: Shimon Stein war acht Jahre lang israelischer Botschafter in Berlin."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); NSDAP-Mitgliederkartei : Recherchieren Sie hier die NSDAP-Vergangenheit Ihrer Familie",
-      "teaser": "Die ZEIT hat die Mitgliederkartei der NSDAP aufbereitet. Mit unserem Tool lassen sich Millionen Dokumente einsehen.",
-      "url": "https://www.zeit.de/wissen/2026-04/nsdap-mitgliederkartei-karteikarten-familienmitglieder-suche"
-    },
-    {
-      "title": "Liveblog:Fußball-WM 2026: Katar soll Fans auf Staatskosten nach Vancouver gebracht haben",
-      "teaser": "Der Emir von Katar hat offenbar mehrere Tausend Fans nach Kanada einfliegen lassen. Elye Wahi kann nach Einreiseproblemen für Côte d'Ivoire antreten. Liveblog",
-      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
-      "image_url": "https://img.zeit.de/sport/2026-06/fussball-weltmeisterschaft-liveblog-kanada-katar-bild/wide__1000x562",
-      "image_title": "Fußball-WM 2026: Soccer Football - FIFA World Cup 2026 - Group B - Canada v Qatar - BC Place, Vancouver, Canada - June 18, 2026 Qatar fas inside the stadium before the match REUTERS/Albert Gea"
-    },
-    {
-      "title": "Fußballweltmeisterschaft 2026: Schweiz gewinnt deutlich gegen Bosnien-Herzegowina",
-      "url": "https://www.zeit.de/sport/2026-06/wm-2026-schweiz-bosnien-herzegowina",
-      "image_url": "https://img.zeit.de/sport/2026-06/wm-2026-schweiz-bosnien-herzegowina-bild-2/super__165x110"
-    },
-    {
-      "title": "Fußball-WM: Südafrika und Tschechien trennen sich unentschieden",
-      "url": "https://www.zeit.de/sport/2026-06/fussball-weltmeisterschaft-gruppenphase-suedafrika-tschechien",
-      "image_url": "https://img.zeit.de/sport/2026-06/ussball-wm-2026-tschechien-suedafrika-bild/super__165x110"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Matthias Brandt: »Undav ist eigentlich der Normalzustand«",
-      "url": "https://www.zeit.de/2026/27/matthias-brandt-fussball-wm-48-mannschaften-dfb",
-      "image_url": "https://img.zeit.de/2026/27/auch-der-ball-hat-ein-gedaechtnis-bild-1/super__165x110"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Messi und Ronaldo: Der Unverwechselbare und der Unauswechselbare",
-      "url": "https://www.zeit.de/sport/2026-06/lionel-messi-cristiano-ronaldo-wm-2026",
-      "image_url": "https://img.zeit.de/sport/2026-06/lionel-messi-cristiano-ronaldo-wm-2026-bild/super__165x110"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sibel Kekilli: »In mich wurde viel Gift geschüttet«",
-      "teaser": "Die Schauspielerin Sibel Kekilli erlebte in ihrer Familie jahrelang Gewalt. Hier spricht sie erstmals darüber, was das mit ihrem Leben gemacht hat.",
-      "url": "https://www.zeit.de/2026/27/sibel-kekilli-familie-gewalt-patriarchat",
-      "image_url": "https://img.zeit.de/2026/27/in-mich-wurde-viel-gift-geschuettet-bild-1/wide__892x502",
-      "image_title": "Sibel Kekilli: »Opfer zu sein, hat was Beschämendes, weil man als schwach abgestempelt wird«, sagt Sibel Kekilli"
-    },
-    {
       "title": "Diese Woche in der ZEIT: Schaut auf diese Frau!",
       "teaser": "Liebe, Angst, ein freies Leben in einer kaputten Welt: Ingeborg Bachmann ging es immer um alles. Eine Verneigung vor der Jahrhundert-Schriftstellerin",
       "url": "https://www.zeit.de/2026/27?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.link.link&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_link_link",
@@ -188,60 +174,40 @@
       "image_title": "Diese Woche in der ZEIT: Schaut auf diese Frau!"
     },
     {
-      "title": "Ukrainekrieg: EU-Länder wollen Russlandsanktionen um zwölf Monate verlängern",
-      "teaser": "Bisher hatte Viktor Orbán längere Russlandsanktionen der EU blockiert. Laut EU-Ratspräsident Costa gelten neue Maßnahmen für ein Ende des Ukrainekriegs nun ein Jahr.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/ukraine-krieg-sanktionen-eu-russland-zwoelf-monate",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/ukraine-krieg-sanktionen-eu-russland-zwoelf-monate-bild/super__430x287",
-      "image_title": "Ukrainekrieg: European Council President Antonio Costa and Ukrainian President Volodymyr Zelenskiy meet with the media on the day of a European Union leaders' summit in Brussels, Belgium, June 18, 2026. REUTERS/Laia Ros"
+      "title": "Z+ (abopflichtiger Inhalt); Markus Söder: Höchste Zeit für seine bislang größte Volte",
+      "teaser": "Markus Söders Macht wackelt. Helfen würde jetzt eine abrupte Wende, und zwar nicht nur ihm, sondern dem ganzen Land: Er sollte die Mütterrente aufgeben.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/markus-soeder-muetterrente-csu-5vor8",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/markus-soeder-muetterrente-csu-5vor8-bild-neu/super__430x287",
+      "image_title": "Markus Söder: Markus Söder, Ministerpräsident Bayern, als Gast der Gesprächsreihe TALK 60 in der Bayerischen LandesvertretungT"
     },
     {
-      "title": "Liveblog:Krieg gegen die Ukraine: Russland droht nach Luftschlägen auf Moskau mit »massiven« Angriffen",
-      "teaser": "Nach den ukrainischen Drohnenattacken gegen Moskau droht Russland mit Vergeltung. Deutschland und Ukraine beschließen Kooperation bei Raketenabwehr. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/ukraine-krieg-news-liveblog-bild-4/super__430x287",
-      "image_title": "Krieg gegen die Ukraine: Der russische Präsident Wladimir Putin spricht, während er und der philippinische Präsident Ferdinand Marcos Jr. im Anschluss an den Russland-ASEAN-Gipfel, der an das 35-jährige Bestehen der Zusammenarbeit zwischen Russland und den ASEAN-Staaten erinnert, am 18. Juni 2026 in Kasan, Russland, Presseerklärungen abgeben."
+      "title": "Z+ (abopflichtiger Inhalt); Rechtliche Betreuung: »Der Beruf war die beste Entscheidung meines Lebens«",
+      "teaser": "Jeder, der keine hohen Schulden und keinen Eintrag im Strafregister hat, kann rechtlicher Betreuer werden. Hier erzählen Quereinsteiger, wie sie der neue Job bereichert.",
+      "url": "https://www.zeit.de/arbeit/2026-06/rechtliche-betreuung-unterstuetzung-psychische-krankheit",
+      "image_url": "https://img.zeit.de/arbeit/2026-06/curated-lifestyle-2v97el093go-unsplash-bild/wide__892x502",
+      "image_title": "Rechtliche Betreuung: »Der Beruf war die beste Entscheidung meines Lebens«"
     },
     {
-      "title": "Kuba: Kubas Ministerpräsident kündigt weitreichende Wirtschaftsreformen an",
-      "teaser": "Nach Sanktionen durch die USA steckt das sozialistische Kuba in einer schweren Wirtschaftskrise. Nun will sich der Karibikstaat für Privatisierungen öffnen.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/kuba-reformen-wirtschaft-sozialismus-oeffnung",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/kuba-reformen-wirtschaft-sozialismus-oeffnung-bild/super__430x287",
-      "image_title": "Kuba: A woman sits beside stacks of plastic household goods, including baskets, containers and electric fans, at her private business on a street in Havana on June 18, 2026. Cuban Prime Minister Manuel Marrero on June 18 unveiled a vast package of nearly 200 free-market reforms aimed at rescuing the country from a severe crisis linked to a US fuel blockade. (Photo by YAMIL LAGE / AFP via Getty Images)"
+      "title": "WM 2026: Mexiko in der K.-o.-Runde, Kanada zerlegt Katar – das war die WM-Nacht",
+      "teaser": "Eine schwere Verletzung überschattet die Partie zwischen Kanada und Katar. Im Spiel Schweiz gegen Bosnien fallen in der Schlussphase fünf Tore. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2026-06/wm-2026-tschechien-suedafrika-schweiz-bosnien-herzegowina-kanada-katar-mexiko-suedkorea",
+      "image_url": "https://img.zeit.de/sport/2026-06/wm-2026-kanada-katar-bild/wide__1000x562",
+      "image_title": "WM 2026: Fußball, Männer: WM 2026, Kanada - Katar, Vorrunde, Gruppe B, 2. Spieltag, BC Place Vancouver. Der Kanadier Jonathan David (r) feiert sein Tor zum 3:0 mit Stephen Eustaquio. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lesen: Fuck me, Goethe",
-      "teaser": "Wer sich auf Tinder mit Büchern präsentiert, kommt zu mehr und besseren Dates. Muss man sie auch gelesen haben?",
-      "url": "https://www.zeit.de/feuilleton/2026-06/lesen-dating-tinder-poser-literatur",
-      "image_url": "https://img.zeit.de/feuilleton/2026-06/lesen-dating-tinder-poser-literatur-bild/wide__892x502",
-      "image_title": "Lesen: Fuck me, Goethe"
+      "title": "Liveblog:Fußball-WM 2026: Irans Fußballverband kündigt Beschwerde bei der Fifa an",
+      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog",
+      "image_url": "https://img.zeit.de/sport/2026-06/wm-2026-iran-neuseeland-bild-2/super__165x110"
     },
     {
-      "title": "Barack Obama Presidential Center in Chicago: Angela Merkel nimmt überraschend an Einweihung von Obama-Museum teil",
-      "teaser": "In Chicago ist das Museum für Ex-US-Präsident Barack Obama eröffnet worden. Mit dabei waren neben den Bidens und Clintons auch George W. Bush – und die Altkanzlerin.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/angela-merkel-barack-obama-museum-chicago-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/angela-merkel-barack-obama-museum-chicago-usa-foto-1/super__430x287",
-      "image_title": "Angela Merkel Barack Obama Museum Chicago USA"
+      "title": "Z+ (abopflichtiger Inhalt); Matthias Brandt: »Undav ist eigentlich der Normalzustand«",
+      "url": "https://www.zeit.de/2026/27/matthias-brandt-fussball-wm-48-mannschaften-dfb",
+      "image_url": "https://img.zeit.de/2026/27/auch-der-ball-hat-ein-gedaechtnis-bild-1/super__165x110"
     },
     {
-      "title": "Bayreuther Festspiele: Veranstaltung mit Michel Friedman soll nach Entschuldigung stattfinden",
-      "teaser": "Nach Kritik an der Absage einer Veranstaltung mit Michel Friedman rudert die Festspielleitung zurück. »Es tut mir wirklich sehr leid«, schreibt Katharina Wagner.",
-      "url": "https://www.zeit.de/feuilleton/2026-06/bayreuther-festspiele-michel-friedman-katharina-wagner-entschuldigung-antisemitismus",
-      "image_url": "https://img.zeit.de/feuilleton/2026-06/michel-friedman-festspiele-bayreuth-entschuldigung/super__430x287",
-      "image_title": "Bayreuther Festspiele: Michel Friedman spricht während der Parlamentarischen Gedenkstunde des Saarländischen Landtags zum Tag des Gedenkens an die Opfer des Nationalsozialmus. (zu dpa: ««Selbstmord» - Friedmann kritisiert Absage von Gedenkfeier») Service +++ dpa-Bildfunk +++ Aufnahmedatum 27.01.2025 Bildnachweis picture alliance/dpa | Oliver Dietze"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Eis für Kinder: Warum ein Kind jeden Tag Eis essen sollte",
-      "teaser": "Unter Eltern hat sich eine Gewohnheit eingeschlichen: Eis gibt’s jetzt jeden Nachmittag. Oh, Gott, oh, Gott, der ganze Zucker?! Nein, das ist schon genau richtig so!",
-      "url": "https://www.zeit.de/zeit-magazin/2026/27/eis-kinder-gesundheit-ernaehrung-erziehung-alltag",
-      "image_url": "https://img.zeit.de/video/2026-06/6398537220112-still/super__430x287",
-      "image_title": "Eis für Kinder: Warum ein Kind jeden Tag Eis essen sollte"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Arbeitszeitgesetz: Ein Kompromiss, der keiner ist",
-      "teaser": "Bundesarbeitsministerin Bärbel Bas ist bereit, die Arbeitszeit zu flexibilisieren. Im Gegenzug fordert sie eine strikte Zeiterfassung. Die Union dürfte da kaum mitgehen.",
-      "url": "https://www.zeit.de/wirtschaft/2026-06/arbeitszeitgesetz-reform-arbeitszeiterfassung-arbeitnehmer",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-06/planet-volumes-n-6icpj-4-s-unsplash-bild/super__430x287",
-      "image_title": "Arbeitszeitgesetz: Ein Kompromiss, der keiner ist"
+      "title": "Z+ (abopflichtiger Inhalt); England – Kroatien: Ein Mentalcoach für England",
+      "url": "https://www.zeit.de/sport/2026-06/england-kroatien-wm-thomas-tuchel",
+      "image_url": "https://img.zeit.de/sport/2026-06/england-kroatien-wm-tuchel-2/super__165x110"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Christian Stocker: Nach der Pflicht",
@@ -258,53 +224,98 @@
       "image_title": "Tschutti Heftli: Das Tschutti Heftli ist die kleine, wilde Schwester des Panini-Albums."
     },
     {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Bei Jobs im öffentlichen Dienst redet jetzt der Verfassungsschutz mit",
-      "teaser": "Die Elbvertiefung am Donnerstag – Mit der neuen Regelanfrage, den alten Berufsverboten, dem größten Schachturnier der Welt und Perlen im Untergrund",
-      "url": "https://www.zeit.de/hamburg/2026-06/elbvertiefung-18-06-2026",
-      "image_url": "https://img.zeit.de/hamburg/2026-06/jusos/super__430x287",
-      "image_title": "Die DGB-Vorsitzende Tanja Chawla spricht bei einer Kundgebung von Jusos und Grüner Jugend gegen die Regelanfrage am Dienstag, 16. Juni 2026, dem Tag vor dem Beschluss der Bürgerschaft."
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Ein Hoch auf die kapverdische Nationalmannschaft!",
+      "teaser": "Die Elbvertiefung am Freitag – Mit Blickwinkeln auf die Weltmeisterschaft, der Hoffnung auf gut koordinierte Grabearbeiten und einer Warnung vor einem heißen Tag",
+      "url": "https://www.zeit.de/hamburg/2026-06/elbvertiefung-19-06-2026",
+      "image_url": "https://img.zeit.de/hamburg/2026-06/calamari/super__430x287",
+      "image_title": "In Hamburg kann man kapverdisch essen, unser Autor hat es ausprobiert. Unser Symbolbild zeigt gebackene Calamari."
+    },
+    {
+      "title": "Großbritannien: Parteirivale von Keir Starmer gewinnt Nachwahl in Makerfield",
+      "teaser": "Andy Burnham sichert sich einen Sitz im britischen Parlament. Er kann nun Starmer in eine Führungswahl zwingen und möglicherweise als Premierminister ablösen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/grossbritannien-andy-burnham-makerfield-sieg",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/grossbritannien-andy-burnham-makerfield-sieg-bild/super__286x191",
+      "image_title": "Großbritannien: Newly elected Makerfield MP Andy Burnham of Britain's Labour Party attends a press conference after winning the by-election in the northwest England constituency, in Wigan, Britain, June 19, 2026. REUTERS/Temilade Adelaja TPX IMAGES OF THE DAY"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Großbritannien und die EU: Dingdong! Wir sind wieder da!",
       "teaser": "Großbritannien diskutiert die Rückkehr in die EU – auf etwas seltsame Weise. Selbstbezogenheit? Darin sind wir Briten immer noch Weltmeister, schreibt Timothy Garton Ash.",
       "url": "https://www.zeit.de/feuilleton/2026-06/grossbritannien-eu-beziehungen-brexit-rueckkehr",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/brexit-rueckkehr-europa-garton-ash-bild/square__430x430",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/brexit-rueckkehr-europa-garton-ash-bild/super__286x191",
       "image_title": "Großbritannien und die EU: Dingdong! Wir sind wieder da!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wahlkampf in Großbritannien: Sie meinen es nicht böse. Sie verachten einfach die Eliten",
       "teaser": "Vor zehn Jahren stimmten die Bewohner Makerfields für den Brexit. Heute könnten sie den Mann ins Parlament wählen, der geeignet wäre, Premier Keir Starmer zu stürzen.",
       "url": "https://www.zeit.de/politik/ausland/2026-06/wahlkampf-grossbritanien-makerfield-nachwahl-keir-starmer-labour",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/wahlkampf-grossbritanien-makerfield-nachwahl-keir-starmer-labour-bild-2/square__430x430",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/wahlkampf-grossbritanien-makerfield-nachwahl-keir-starmer-labour-bild-2/super__286x191",
       "image_title": "Wahlkampf in Großbritannien: WIGAN, ENGLAND - MAY 20: Andy Burnham, Mayor of Greater Manchester speaks with a local resident as he goes door to door Canvassing on May 20, 2026 in Wigan, England. The Makerfield by-election will take place on Thursday 18 June 2026 after Labour MP Josh Simons resigned to make way for Greater Manchester Mayor Andy Burnham to run giving him a route back to Westminster. While Labour won this seat at the 2024 general election with 45.2% of the vote to Reform UK's 31.8%, recent local council elections in May 2026 saw a shift, with Reform UK winning 49.8% of the area's vote compared to Labour's 24.3%. (Photo by Ryan Jenkinson/Getty Images)"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Marcel Reif: »Jede Trennung ist eine Niederlage«",
-      "teaser": "Zwei Ehen scheiterten und belasteten das Verhältnis von Sportkommentator Marcel Reif zu seinen Söhnen. Warum er seinen erwachsenen Kindern heute so nah sein kann.",
-      "url": "https://www.zeit.de/familie/2026-06/marcel-reif-familie-vater-grossvater-trennung-fussball-wm",
-      "image_url": "https://img.zeit.de/familie/2026-06/marcel-reif-familie-vater-grossvater-trennung-fussball-wm-2/super__430x287",
-      "image_title": "Marcel Reif: »Jede Trennung ist eine Niederlage«"
+      "title": "Pharmaindustrie: USA wollen Preise für deutsche Medikamente prüfen",
+      "teaser": "Der US-Handelsbeauftragte Greer ist besorgt über die geplante Gesundheitsreform. Er will untersuchen, ob in Deutschland für innovative Arzneimittel zu wenig bezahlt wird.",
+      "url": "https://www.zeit.de/wirtschaft/2026-06/pharmaindustrie-usa-deutschland-medikamente-preise",
+      "image_url": "https://img.zeit.de/wirtschaft/2026-06/pharmaindustrie-usa-deutschland-medikamente-preise-bild/super__430x287",
+      "image_title": "Pharmaindustrie: Mediennummer 596337224 Beschreibung Medikamente liegen in einem Regal der Feilitzsch Apotheke. Die Versorgung mit Arzneimitteln ist Teil des Gesundheitssystems und spielt eine Rolle in der Diskussion um Reformen der Krankenversicherung. (zu dpa: «Neue Angebote in Apotheken - was kommt für Patienten?») Service +++ dpa-Bildfunk +++ Aufnahmedatum 28.04.2026 Bildnachweis picture alliance/dpa | Malin Wunderlich Besondere Hinweise - Release Model release nicht verfügbar Verwendung Zur redaktionellen Verwendung. Nicht redaktionelle Verwendung nach Absprache. Etwaige Marken- und ggf. weitere Schutzrechte sind zu beachten. Mindesthonorar - Bildgröße 69.8 MB | 6048 x 4032 px | 52.19 x 34.80 cm @ 300 DPI Details Schlagworte Gesundheit bay Gesundheit lby Medizin Bilddetails Stadt München Personen - Region Bayern Quelle dpa Land Deutschland Kollektion - Ereignis - Mediennummer -"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); »Backrooms«: YouTube schlägt Hollywood",
-      "teaser": "Die Produktionsfirma A24 steht für klugen Horror. Jetzt haben sie mit einem 20-jährigen Youtuber ein Meme verfilmt. »Backrooms« wird überraschend zum Riesenerfolg.",
-      "url": "https://www.zeit.de/feuilleton/film/2026-06/backrooms-horrorfilm-youtube-hollywood-erfolg",
-      "image_url": "https://img.zeit.de/feuilleton/film/2026-06/backrooms-horrorfilm-youtube-hollywood-erfolg-film/mary-kline-tape-wall-still-bild/super__430x287",
-      "image_title": "»Backrooms«: Durch Türen zu gehen, ist immer eine fragwürdige Entscheidung in Horrorfilmen: Renate Reinsve in \"Backdoors\""
+      "title": "Bayreuther Festspiele: Veranstaltung mit Michel Friedman soll nach Entschuldigung stattfinden",
+      "teaser": "Nach Kritik an der Absage einer Veranstaltung mit Michel Friedman rudert die Festspielleitung zurück. »Es tut mir wirklich sehr leid«, schreibt Katharina Wagner.",
+      "url": "https://www.zeit.de/feuilleton/2026-06/bayreuther-festspiele-michel-friedman-katharina-wagner-entschuldigung-antisemitismus",
+      "image_url": "https://img.zeit.de/feuilleton/2026-06/michel-friedman-festspiele-bayreuth-entschuldigung/super__430x287",
+      "image_title": "Bayreuther Festspiele: Michel Friedman spricht während der Parlamentarischen Gedenkstunde des Saarländischen Landtags zum Tag des Gedenkens an die Opfer des Nationalsozialmus. (zu dpa: ««Selbstmord» - Friedmann kritisiert Absage von Gedenkfeier») Service +++ dpa-Bildfunk +++ Aufnahmedatum 27.01.2025 Bildnachweis picture alliance/dpa | Oliver Dietze"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geschlechtsidentität: Warum wollen so viele biologische Mädchen ein Junge sein?",
-      "teaser": "Wiederholt wird berichtet, dass sich mehr biologische Mädchen in Behandlung begeben, weil sie sich als Jungs identifizieren als umgekehrt. Experten haben Theorien, warum.",
-      "url": "https://www.zeit.de/familie/2026-06/geschlechtsidentitaet-hamburg-trans-jugendliche-psychologie",
-      "image_url": "https://img.zeit.de/familie/2026-06/trans-jugendliche-biologische-maedchen/super__430x287",
-      "image_title": "Geschlechtsidentität: Warum wollen so viele biologische Mädchen ein Junge sein?"
+      "title": "Kraftstoffpreise: Bauernverband fordert Verlängerung des Tankrabatts bis Herbst",
+      "teaser": "Der Tankrabatt läuft Ende Juni aus. Der Präsident des Deutschen Bauernverbands, Joachim Rukwied, hält eine Steuerreduzierung für Diesel bis nach der Ernte für sinnvoll.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/bauernverband-verlaengerung-tankrabatt-herbst",
+      "image_url": "https://img.zeit.de/politik/deutschland/2026-06/bauernverband-verlaengerung-tankrabatt-herbst-bild/super__430x287",
+      "image_title": "Kraftstoffpreise: Beschreibung Joachim Rukwied, Präsident Deutscher Bauernverband, spricht in einer Diskussionsveranstaltung auf der Landwirtschaftsmesse «agra 2026». Vom 09. bis 12. April zeigen rund 1000 Aussteller alles zum Thema Landwirtschaft. Service +++ dpa-Bildfunk +++ Aufnahmedatum 09.04.2026 Bildnachweis picture alliance/dpa | Jan Woitas Besondere Hinweise"
     },
     {
-      "title": "Livepodcast »Alles gesagt?«: Sebastian Fitzek, wie schreibt man einen Thriller? (Teil 2)",
-      "teaser": "Fitzeks erster Auftritt bei »Alles gesagt?« endete jäh. In der Fortsetzung spricht er über Selbstzweifel beim Schreiben – und plottet mit dem Publikum einen Roman.",
-      "url": "https://www.zeit.de/feuilleton/literatur/2026-06/sebastian-fitzek-interviewpodcast-alles-gesagt-teil-2",
-      "image_url": "https://img.zeit.de/feuilleton/2026-06/sebastian-fitzek-interviewpodcast-alles-gesagt-teil-aufmacher/square__500x500",
-      "image_title": "Livepodcast »Alles gesagt?«: Sebastian Fitzek, wie schreibt man einen Thriller? (Teil 2)"
+      "title": "Z+ (abopflichtiger Inhalt); Sibel Kekilli: »In mich wurde viel Gift geschüttet«",
+      "teaser": "Die Schauspielerin Sibel Kekilli erlebte in ihrer Familie jahrelang Gewalt. Hier spricht sie erstmals darüber, was das mit ihrem Leben gemacht hat.",
+      "url": "https://www.zeit.de/2026/27/sibel-kekilli-familie-gewalt-patriarchat",
+      "image_url": "https://img.zeit.de/2026/27/in-mich-wurde-viel-gift-geschuettet-bild-1/wide__892x502",
+      "image_title": "Sibel Kekilli: »Opfer zu sein, hat was Beschämendes, weil man als schwach abgestempelt wird«, sagt Sibel Kekilli"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Marius Borg Høiby: Nur weil Frauen Mut hatten, wieder mal",
+      "teaser": "Das Urteil gegen Marius zeigt: Auch ein Kronprinzessinnen-Sohn darf nicht tun, was er will. Die Frauen, mit denen er zusammenlebte, haben Unfassbares erlebt.",
+      "url": "https://www.zeit.de/2026/27/marius-borg-hoeyby-mette-marit-urteil-oslo-vergewaltigung",
+      "image_url": "https://img.zeit.de/2026/27/nur-weil-frauen-mut-hatten-wieder-mal-bild-2/super__430x287",
+      "image_title": "Marius Borg Høiby: Marius Borg Høiby in Oslo auf dem Weg zu seinen Anwälten am 8. Januar 2026."
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hitzewelle: Wie bekomme ich meine Wohnung kühl?",
+      "teaser": "Wenn es drinnen über 30 Grad heiß wird, muss eine Lösung her. Sofort denkt man an Klimaanlagen. Doch es gibt günstigere Alternativen – und Tricks.",
+      "url": "https://www.zeit.de/wissen/2025-08/hitzewelle-wohnung-kuehlen-klimaanlage-ventilator-tipps",
+      "image_url": "https://img.zeit.de/wissen/2025-08/hitzewelle-wohnung-kuehlen-klimaanlage-ventilator-tipps-bild/super__430x287",
+      "image_title": "Hitzewelle: Building; Ceiling fan"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Andrea Nahles: »Berufserfahrung allein schützt einen nicht mehr«",
+      "teaser": "Andrea Nahles, die Chefin der Bundesagentur für Arbeit, sagt: KI werde alle Jobs verändern. Hier verrät sie, warum kein Abschluss immun ist – und wie man sich wappnet.",
+      "url": "https://www.zeit.de/digital/internet/2026-06/andrea-nahles-bundesagentur-arbeitsmarkt-ki-auswirkungen",
+      "image_url": "https://img.zeit.de/digital/2026-05/andrea-nahles-vorstandsvorsitzende-bundesagentur-fuer-arbeit-ki/super__430x287",
+      "image_title": "Andrea Nahles: Andrea Nahles, Vorstandsvorsitzende der Bundesagentur fuer Arbeit, aufgenommen im Rahmen eines Interviews. Berlin, 21.09.2022. Berlin Deutschland *** Andrea Nahles, Chairwoman of the Federal Employment Agency, recorded during an interview Berlin, 21 09 2022 Berlin Germany Copyright: xJaninexSchmitz/photothek.dex"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Konservative und Migration: Die Politik hat geliefert, die Kundschaft wütet weiter",
+      "teaser": "Die AfD wächst, obwohl weniger Migranten ins Land kommen. Konservative hatten das Gegenteil versprochen. Und nun? Eskalieren sie ihre Fehler, anstatt sie zu korrigieren.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/konservative-migration-christliche-werte-zuwachs",
+      "image_url": "https://img.zeit.de/feuilleton/2026-06/konservative-migration-christliche-werte-zuwachs-bild-2/super__430x287",
+      "image_title": "Konservative und Migration: Die Politik hat geliefert, die Kundschaft wütet weiter"
+    },
+    {
+      "title": "Kommunale Haushaltskrise: Verschuldung der Kommunen steigt auf fast 200 Milliarden Euro",
+      "teaser": "Hohe Personalausgaben und eine schwache Wirtschaft: Das Defizit der Kommunen wächst. Auch Bayern und Baden-Württemberg sind laut einer Studie erheblich betroffen.",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/kommunale-haushaltskrise-defizit-kommunen-bertelsmann-stiftung"
+    },
+    {
+      "title": "Kuba: Kubas Ministerpräsident kündigt weitreichende Wirtschaftsreformen an",
+      "teaser": "Nach Sanktionen durch die USA steckt das sozialistische Kuba in einer schweren Wirtschaftskrise. Nun will sich der Karibikstaat für Privatisierungen öffnen.",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/kuba-reformen-wirtschaft-sozialismus-oeffnung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bachelorarbeit: Auch Sitzen ist ein Extremsport",
@@ -401,7 +412,7 @@
       "image_title": "Arbeitszeitgesetz: Bärbel Bas (SPD), Bundesministerin für Arbeit und Soziales, wartet auf den Beginn der Sitzung des Bundeskabinetts im Kanzleramt. +++ dpa-Bildfunk +++27/05/2026"
     },
     {
-      "title": "Kaja Kallas: Friedrich Merz kritisiert Israeläußerungen von EU-Außenbeauftragter",
+      "title": "Kaja Kallas: Friedrich Merz kritisiert Israel-Äußerungen von EU-Außenbeauftragter",
       "teaser": "Wegen eines mutmaßlichen Apartheid-Vorwurfs hat Israel die Beziehungen zu Kaja Kallas gekappt. Auch der Bundeskanzler hält die Äußerungen der EU-Beauftragten für falsch.",
       "url": "https://www.zeit.de/politik/ausland/2026-06/kaja-kallas-israel-apartheid-vorwurf-friedrich-merz"
     },
@@ -411,18 +422,18 @@
       "url": "https://www.zeit.de/politik/deutschland/2026-06/uno-johann-wadephul-kuerzungen-vereinte-nationen-gxe"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Lesen: Fuck me, Goethe",
+      "teaser": "Wer sich auf Tinder mit Büchern präsentiert, kommt zu mehr und besseren Dates. Muss man sie auch gelesen haben?",
+      "url": "https://www.zeit.de/feuilleton/2026-06/lesen-dating-tinder-poser-literatur",
+      "image_url": "https://img.zeit.de/feuilleton/2026-06/lesen-dating-tinder-poser-literatur-bild/wide__892x502",
+      "image_title": "Lesen: Fuck me, Goethe"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Neuer Wohnraum: Deshalb wird so oft am falschen Ort gebaut",
       "teaser": "Neue Wohnungen entstehen häufig nicht dort, wo sie gebraucht werden. Das klingt nach Marktversagen. Der wahre Grund ist viel einfacher – und umso schwerer zu beheben.",
       "url": "https://www.zeit.de/wirtschaft/2026-06/neuer-wohnraum-einfamilienhaeuser-wohnungen-land-stadt-marktversagen-nachfrage",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-06/neuer-wohnraum-einfamilienhaeuser-wohnungen-land-stadt-marktversagen-nachfrage-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/wirtschaft/2026-06/neuer-wohnraum-einfamilienhaeuser-wohnungen-land-stadt-marktversagen-nachfrage-bild/super__430x287",
       "image_title": "Neuer Wohnraum: Deshalb wird so oft am falschen Ort gebaut"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ernährung und Lebenserwartung: »Der Proteintrend wird große gesundheitliche Probleme verursachen«",
-      "teaser": "Protein in Schokoriegel, Brot und Pasta: Hält satt? Baut Muskeln auf? Das Problem: Es könnte uralte Schalter im Körper umlegen, sagt Langlebigkeitsforscher Valter Longo.",
-      "url": "https://www.zeit.de/gesundheit/2026-04/ernaehrung-lebenserwartung-proteine-langlebigkeitsforschung-valter-longo",
-      "image_url": "https://img.zeit.de/gesundheit/2026-04/altersforschung-valter-longo-proteine-bild/super__430x287",
-      "image_title": "Ernährung und Lebenserwartung: Valter Longo, Professor of Gerontology and Biological Sciences and Director of the Longevity Institute at the University of Southern California, and Director of the Longevity and Cancer Program at the IFOM Institute of Molecular Oncology, at the IFOM facilities in Milan, on Jan. 10, 2023. Longo, who wants to live to a healthy 120 or 130, sees the key to longevity in diet -- legumes and fish -- and faux fasting."
     },
     {
       "title": "Verlagsangebot: Ist Urlaub in den USA moralisch noch vertretbar?",
@@ -474,11 +485,11 @@
       "image_title": "»Sie brauchten einen Mörder« (6/6): Das Ende der Lügen"
     },
     {
-      "title": "Brandanschlag auf Umspannwerk in Reutlingen: Ermittler prüfen nach Stromausfall weitere Sabotageversuche",
-      "teaser": "Nach einem mutmaßlichen Anschlag auf ein Umspannwerk waren Tausende Menschen in Reutlingen ohne Strom. Nun gibt es Hinweise auf weitere Sabotageversuche in der Region.",
-      "url": "https://www.zeit.de/politik/deutschland/2026-06/reutlingen-brandanschlag-umspannwerk-stromausfall-sabotage",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/reutlingen-brandanschlag-umspannwerk-stromausfall-sabotage-foto-1/wide__892x502",
-      "image_title": "Reutlingen Brandanschlag Umspannwerk Stromausfall Sabotage"
+      "title": "Nachrichtenpodcast: Ein Deal auf Kosten des iranischen Volkes?",
+      "teaser": "Das Abkommen mit den USA verspricht dem Iran Milliarden für den Wiederaufbau. Wird davon auch die Zivilgesellschaft profitieren? Und: Die EU ringt um Umgang mit China.",
+      "url": "https://www.zeit.de/politik/2026-06/abkommen-usa-iran-rahmen-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/2026-06/iran-usa-rahmenabkommen-beendigung-krieg-bild/wide__892x502",
+      "image_title": "Nachrichtenpodcast: A man reads a copy of the Iranian daily newspaper Hamshahri bearing an image of the US president and a headline that reads \"Gone with the wind\" at a kiosk in Tehran on June 18, 2026. The United States and Iran have signed a deal to end the Middle East war, with a ceremony set for June 19 in Switzerland that will mark the start of a 60-day negotiation period. The memorandum of understanding aims to put an end to months of conflict initiated by US-Israeli strikes on Iran in February, which wreaked chaos across the region and rattled the global economy."
     },
     {
       "title": "Verlagsangebot: Ausflugstipp: Acht schöne Badeseen in Deutschland",
@@ -488,18 +499,18 @@
       "image_title": "Freunde der ZEIT: Ausflugstipp: Acht schöne Badeseen in Deutschland"
     },
     {
-      "title": "EU-Gipfel in Brüssel: EU-Gipfel beginnt, Merz lehnt neue europäische Schulden ab",
-      "teaser": "Der EU-Finanzrahmen, die Chinapolitik, der Ukrainekrieg: Beim EU-Gipfel in Brüssel stehen große Themen auf der Tagesordnung. Auch Wolodymyr Selenskyj ist dabei.",
-      "url": "https://www.zeit.de/politik/ausland/2026-06/eu-gipfel-bruessel-finanzrahmen-china-friedrich-merz",
-      "image_url": "https://img.zeit.de/politik/ausland/2026-06/eu-finanzrahmen-haushalt-schulden-deutschland-pedro-sanchez-foto-1/super__430x287",
-      "image_title": "EU-Finanzrahmen Haushalt Schulden Deutschland Pedro Sánchez"
+      "title": "Westafrika: Tote nach Angriff auf internationalen Flughafen im Niger",
+      "teaser": "Regierungstruppen im Niger haben einen Angriff auf den Flughafen der Hauptstadt abgewehrt. Ein Ableger der Terrororganisation »Islamischer Staat« bekannte sich zur Tat.",
+      "url": "https://www.zeit.de/politik/ausland/2026-06/westafrika-niger-angriff-flughafen-niamey-tote",
+      "image_url": "https://img.zeit.de/politik/ausland/2026-06/westafrika-niger-angriff-flughafen-niamey-tote-bild/super__430x287",
+      "image_title": "Westafrika: A screengrab of a satellite image shows the view of Airbase 101, next to Diori Hamani International Airport in Niamey, Niger, April 21, 2024. 2024 Planet Labs Inc./Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. MANDATORY CREDIT."
     },
     {
-      "title": "Volkswagen: Susanne Wiegand verlässt Aufsichtsrat von VW",
-      "teaser": "Erst 2025 war Susanne Wiegand in den VW-Aufsichtsrat eingezogen, auf der Hauptversammlung sollte sie wiedergewählt werden. Doch sie erklärte überraschend ihren Verzicht.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-06/susanne-wiegand-vw-aufsichtsrat-rueckzug-gxe",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2026-06/susanne-wiegand-vw-aufsichtsrat-rueckzug-foto-1/wide__892x502",
-      "image_title": "Susanne Wiegand VW Aufsichtsrat Rückzug"
+      "title": "Z+ (abopflichtiger Inhalt); Arbeitszeitgesetz: Ein Kompromiss, der keiner ist",
+      "teaser": "Bundesarbeitsministerin Bärbel Bas ist bereit, die Arbeitszeit zu flexibilisieren. Im Gegenzug fordert sie eine strikte Zeiterfassung. Die Union dürfte da kaum mitgehen.",
+      "url": "https://www.zeit.de/wirtschaft/2026-06/arbeitszeitgesetz-reform-arbeitszeiterfassung-arbeitnehmer",
+      "image_url": "https://img.zeit.de/wirtschaft/2026-06/planet-volumes-n-6icpj-4-s-unsplash-bild/wide__892x502",
+      "image_title": "Arbeitszeitgesetz: Ein Kompromiss, der keiner ist"
     },
     {
       "title": "Verlagsangebot: Die richtige Ernährung kann so schön und einfach sein",
@@ -509,11 +520,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Industriebeschäftigte in Deutschland: Zahl der Beschäftigten in der Industrie fällt auf Zehnjahrestief",
-      "teaser": "Der Anteil der Industriebeschäftigten am Arbeitsmarkt ist laut einer Studie der Bertelsmann Stiftung gesunken. Unternehmen zögern, Stellen neu zu besetzen.",
-      "url": "https://www.zeit.de/wirtschaft/2026-06/industriebeschaeftigte-deutschland-bertelsmann-stiftung-industrie-gxe",
-      "image_url": "https://img.zeit.de/wirtschaft/2026-06/industriebeschaeftigte-deutschland-bertelsmann-stiftung-industrie-foto-1/super__430x287",
-      "image_title": "Industriebeschäftigte Deutschland Bertelsmann Stiftung Industrie"
+      "title": "Volkswagen: Susanne Wiegand verlässt Aufsichtsrat von VW",
+      "teaser": "Erst 2025 war Susanne Wiegand in den VW-Aufsichtsrat eingezogen, auf der Hauptversammlung sollte sie wiedergewählt werden. Doch sie erklärte überraschend ihren Verzicht.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-06/susanne-wiegand-vw-aufsichtsrat-rueckzug-gxe",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2026-06/susanne-wiegand-vw-aufsichtsrat-rueckzug-foto-1/super__430x287",
+      "image_title": "Susanne Wiegand VW Aufsichtsrat Rückzug"
     },
     {
       "title": "Podcastserie »Der Vernichter« (1/5): Eine Hochzeit zwischen Gut und Böse",
@@ -586,11 +597,11 @@
       "image_title": "Homeoffice und KI: Warum finden Berufseinsteiger gerade keine Jobs?"
     },
     {
-      "title": "Arbeitsmarkt: Fünf Führungskräfte erzählen von ihrer Jobsuche – und wie sie es geschafft haben",
+      "title": "Arbeitsmarkt: Jetzt wird die Jobsuche zur Mutprobe für Manager",
       "teaser": "In keiner anderen Gruppe steigt die Arbeitslosigkeit so stark wie unter Führungskräften. Die Jobsuche wird zum Wettlauf gegen die Zeit. Wie lässt er sich gewinnen?",
       "url": "https://www.wiwo.de/erfolg/jobsuche/fuehrungskraefte-jobsuche-arbeitsmarkt/100234127.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/nTcjtprnbGUs/cover/900/506/0/0/0/0/0.5/0.5/jobsuche.jpg/super__430x287",
-      "image_title": "Fünf Führungskräfte erzählen von ihrer Jobsuche – und wie sie es geschafft haben"
+      "image_title": "Jetzt wird die Jobsuche zur Mutprobe für Manager"
     },
     {
       "title": "Autobranche auf Rüstungsmesse: Der Mercedes-Stern glänzt jetzt auch in olivgrün",
@@ -598,6 +609,13 @@
       "url": "https://www.wiwo.de/unternehmen/industrie/autobranche-auf-ruestungsmesse-mercedes-setzt-nun-auch-auf-militaerfahrzeuge/100233800.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/fw4yUaFOaRdZ/cover/900/506/296/160/0/120/0.5/0.5/eurosatory-2024-ruestungsmesse-paris-frankreich-pre-opening-press-day.jpg/super__430x287",
       "image_title": "Der Mercedes-Stern glänzt jetzt auch in olivgrün"
+    },
+    {
+      "title": "Livepodcast »Alles gesagt?«: Sebastian Fitzek, wie schreibt man einen Thriller? (Teil 2)",
+      "teaser": "Fitzeks erster Auftritt bei »Alles gesagt?« endete jäh. In der Fortsetzung spricht er über Selbstzweifel beim Schreiben – und plottet mit dem Publikum einen Roman.",
+      "url": "https://www.zeit.de/feuilleton/literatur/2026-06/sebastian-fitzek-interviewpodcast-alles-gesagt-teil-2",
+      "image_url": "https://img.zeit.de/feuilleton/2026-06/sebastian-fitzek-interviewpodcast-alles-gesagt-teil-aufmacher/super__320x213",
+      "image_title": "Livepodcast »Alles gesagt?«: Sebastian Fitzek, wie schreibt man einen Thriller? (Teil 2)"
     },
     {
       "title": "Vereinbarung mit dem Iran: Ein Deal, der keiner ist und Trump nicht hilft",
@@ -642,18 +660,18 @@
       "image_title": "Sexualforschung: Der Psychiater und Sexualwissenschaftler Johannes Fuß leitet das Sexlab an der Universität Duisburg-Essen."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); »Alles gesagt?«-Podcast: Sebastian Fitzek, warum gruseln wir uns so gern? (Teil­ 1)",
-      "teaser": "Mit über 20 Millionen verkauften Büchern ist er der erfolgreichste deutschsprachige Schriftsteller unserer Zeit. Unser Gespräch mit Fitzek nahm ein thrillerartiges Ende.",
-      "url": "https://www.zeit.de/gesellschaft/2025-10/sebastian-fitzek-interviewpodcast-alles-gesagt",
-      "image_url": "https://img.zeit.de/kultur/2025-10/sebastian-fitzek-interviewpodcast-alles-gesagt-aufmacher/super__320x213",
-      "image_title": "»Alles gesagt?«-Podcast: Sebastian Fitzek, warum gruseln wir uns so gern? (Teil­ 1)"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Ehe: Die stille Macht der Ehe",
       "teaser": "Liebe und Familie kennen heute viele Formen. Wir leben zusammen, wie es uns gefällt. Doch an der Spitze von Politik und Wirtschaft reüssiert fast immer die Ehe.",
       "url": "https://www.zeit.de/familie/2026-06/ehe-politik-wirtschaft-fuehrung-vertrauen",
       "image_url": "https://img.zeit.de/familie/2026-06/ehe-politik-wirtschaft-fuehrung-vertrauen-2/wide__892x502",
       "image_title": "Ehe: Die stille Macht der Ehe"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Geschlechtsidentität: Warum wollen so viele biologische Mädchen ein Junge sein?",
+      "teaser": "Wiederholt wird berichtet, dass sich mehr biologische Mädchen in Behandlung begeben, weil sie sich als Jungs identifizieren als umgekehrt. Experten haben Theorien, warum.",
+      "url": "https://www.zeit.de/familie/2026-06/geschlechtsidentitaet-hamburg-trans-jugendliche-psychologie",
+      "image_url": "https://img.zeit.de/familie/2026-06/trans-jugendliche-biologische-maedchen/super__430x287",
+      "image_title": "Geschlechtsidentität: Warum wollen so viele biologische Mädchen ein Junge sein?"
     },
     {
       "title": "Gemeinheiten in Beziehungen: Was war das Gemeinste, das Ihr Partner je von Ihnen verlangt hat?",
@@ -663,11 +681,10 @@
       "image_title": "Gemeinheiten in Beziehungen: Was war das Gemeinste, das Ihr Partner je von Ihnen verlangt hat?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erstausstattung fürs Baby: 20 Ideen, die das erste Jahr mit Baby besser machen (unter fünf Euro)",
-      "teaser": "Kleine Dinge können einen großen Unterschied machen. Eltern mehrerer Kinder verraten, welche Hacks und Hilfsmittel sie gern schon beim ersten Baby gekannt hätten.",
-      "url": "https://www.zeit.de/familie/2026-06/erstausstattung-baby-alltag-tipps-kosten",
-      "image_url": "https://img.zeit.de/familie/2026-06/erstausstattung-baby-alltag-tipps-kosten-2/super__430x287",
-      "image_title": "Erstausstattung fürs Baby: 20 Ideen, die das erste Jahr mit Baby besser machen (unter fünf Euro)"
+      "title": "Z+ (abopflichtiger Inhalt); Fingernägel: Was Fingernägel über Ihre Gesundheit verraten",
+      "url": "https://www.zeit.de/wissenschaft/2026-06/fingernaegel-vitaminmangel-ernaehrung-nagelpilz-schuppenflechte",
+      "image_url": "https://img.zeit.de/wissen/2026-05/fingernaegel-vitaminmangel-ernaehrung-nagelpilz-schuppenflechte-teaser/square__1000x1000",
+      "image_title": "Fingernägel: Was Fingernägel über Ihre Gesundheit verraten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Collien Fernandes und Christian Ulmen: Herr Ulmen möchte nun doch nicht",
@@ -706,12 +723,6 @@
       "image_title": "Arbeitslosigkeit: Wie junge Menschen am Arbeitsmarkt bestehen können"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fingernägel: Was Fingernägel über Ihre Gesundheit verraten",
-      "url": "https://www.zeit.de/wissenschaft/2026-06/fingernaegel-vitaminmangel-ernaehrung-nagelpilz-schuppenflechte",
-      "image_url": "https://img.zeit.de/wissen/2026-05/fingernaegel-vitaminmangel-ernaehrung-nagelpilz-schuppenflechte-teaser/square__1000x1000",
-      "image_title": "Fingernägel: Was Fingernägel über Ihre Gesundheit verraten"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Neubeginn: Wie findet man die Kraft, neu anzufangen?",
       "url": "https://www.zeit.de/2026/25/neubeginn-angst-entscheidung-aufbrechen-gewohnheit",
       "image_url": "https://img.zeit.de/2026/25/wie-findet-man-die-kraft-neu-anzufangen-bild-1/square__1000x1000",
@@ -728,6 +739,13 @@
       "url": "https://www.zeit.de/2026/26/radikale-rechte-propaganda-rechtsextremismus-desinformation",
       "image_url": "https://img.zeit.de/2026/26/radikale-rechte-propaganda-rechtsextremismus-desinformation-bild/square__1000x1000",
       "image_title": "Radikale Rechte: Hitler nannte es »Objektivitätsfimmel«. Radikale Rechte setzen da an"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Fingernägel: Was Fingernägel über Ihre Gesundheit verraten",
+      "teaser": "Natürliche Flecken, Mangelerscheinung oder Hautkrebs? Wer seine Nägel genau ansieht, entdeckt Rillen, Flecken, Verfärbungen. Was harmlos ist und wann man zum Arzt sollte.",
+      "url": "https://www.zeit.de/wissenschaft/2026-06/fingernaegel-vitaminmangel-ernaehrung-nagelpilz-schuppenflechte",
+      "image_url": "https://img.zeit.de/wissen/2026-05/fingernaegel-vitaminmangel-ernaehrung-nagelpilz-schuppenflechte-teaser/wide__892x502",
+      "image_title": "Fingernägel: Was Fingernägel über Ihre Gesundheit verraten"
     },
     {
       "title": "EU-Asylpolitik: Der Preis von Europas neuer Härte",
@@ -758,13 +776,6 @@
       "image_title": "Rechtschreibung: Ist Rechtschreibung noch wichtig?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bahnfahren • Das Beste aus Z+: 100 Dinge, die ich in der Bahn gelernt habe",
-      "teaser": "Etwa 15 Stunden jede Woche sitzt unser Autor im Zug. Er weiß alles über die Bahn: a-l-l-e-s. Mit seinen gesammelten Weisheiten sind Sie für den nächsten Ausfall gerüstet.",
-      "url": "https://www.zeit.de/2026/25/bahnfahren-pendeln-verspaetungen-deutsche-bahn-erfahrungen",
-      "image_url": "https://img.zeit.de/2026/25/100-dinge-die-ich-in-der-bahn-gelernt-habe-bild-3/wide__892x502",
-      "image_title": "Bahnfahren • Das Beste aus Z+: Bahn fahren, 100 Dinge , die ich gelernt habe"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Rechtschreibtest: Wie gut ist Ihre Rechtschreibung?",
       "teaser": "Beantworten Sie die Fragen in unserem Test – und wir sagen Ihnen, wie gut Ihre Rechtschreibkenntnisse im Vergleich zu denen anderer Leserinnen und Leser sind.",
       "url": "https://www.zeit.de/wissen/2024-06/rechtschreibtest-grammatik-deutsche-sprache-quiz",
@@ -772,11 +783,11 @@
       "image_title": "Rechtschreibtest: Wie gut ist Ihre Rechtschreibung?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Krebsbehandlung: Krebsforscher haben gute Nachrichten",
-      "teaser": "Die Tumortherapie wird wirksamer, verträglicher und individueller. Drei neue Studien zeigen, was das für Bauchspeicheldrüsenkrebs, Melanom und Brustkrebs heißt.",
-      "url": "https://www.zeit.de/gesundheit/2026-06/krebsbehandlung-tumortherapie-brustkrebs-bauchspeicheldruesenkrebs-melanom",
-      "image_url": "https://img.zeit.de/gesundheit/2026-06/krebsbehandlung-tumortherapie-brustkrebs-bauchspeicheldruesenkrebs-melanom-bild-2/wide__892x502",
-      "image_title": "Krebsbehandlung: Das Pankreaskarzinom gehört zu den gefährlichsten Tumoren. Nun gibt es eine neue Behandlung."
+      "title": "Z+ (abopflichtiger Inhalt); Bahnfahren • Das Beste aus Z+: 100 Dinge, die ich in der Bahn gelernt habe",
+      "teaser": "Etwa 15 Stunden jede Woche sitzt unser Autor im Zug. Er weiß alles über die Bahn: a-l-l-e-s. Mit seinen gesammelten Weisheiten sind Sie für den nächsten Ausfall gerüstet.",
+      "url": "https://www.zeit.de/2026/25/bahnfahren-pendeln-verspaetungen-deutsche-bahn-erfahrungen",
+      "image_url": "https://img.zeit.de/2026/25/100-dinge-die-ich-in-der-bahn-gelernt-habe-bild-3/wide__892x502",
+      "image_title": "Bahnfahren • Das Beste aus Z+: Bahn fahren, 100 Dinge , die ich gelernt habe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dieter Rams: Lass dich drücken",
@@ -1053,18 +1064,18 @@
       "image_title": "Einfach – mittel – schwer: Sudoku für Einsteiger"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Eis für Kinder: Warum ein Kind jeden Tag Eis essen sollte",
+      "teaser": "Unter Eltern hat sich eine Gewohnheit eingeschlichen: Eis gibt’s jetzt jeden Nachmittag. Oh, Gott, oh, Gott, der ganze Zucker?! Nein, das ist schon genau richtig so!",
+      "url": "https://www.zeit.de/zeit-magazin/2026/27/eis-kinder-gesundheit-ernaehrung-erziehung-alltag",
+      "image_url": "https://img.zeit.de/video/2026-06/6398537220112-still/wide__892x502",
+      "image_title": "Eis für Kinder: Warum ein Kind jeden Tag Eis essen sollte"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Süßigkeiten und Stoffwechsel: Macht es einen Unterschied, wann ich etwas Süßes esse?",
       "teaser": "Vor oder nach dem Essen, morgens oder abends: Süßes hat nicht immer den gleichen Effekt auf den Stoffwechsel. Ein Experte erklärt, wann der Zeitpunkt fürs Naschen ist.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-06/suessigkeiten-stoffwechsel-zucker-zeitpunkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-06/frage-ernaehrung-zucker-zeitpunkt-bild/wide__892x502",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026-06/frage-ernaehrung-zucker-zeitpunkt-bild/super__430x287",
       "image_title": "Süßigkeiten und Stoffwechsel: Macht es einen Unterschied, wann ich etwas Süßes esse?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-WM-Rezepte: Wir bringen Italien doch noch zur WM",
-      "teaser": "Die Azzurri bleiben wieder zu Hause. Noch eine WM ohne Italien wollen wir aber nicht hinnehmen. Also gibt’s Italien im Mund: mit unseren Snackrezepten zum Fußballgucken.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2026-06/fussball-wm-rezepte-italien",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2026/10/koch-das-cover-bild-1/super__430x287",
-      "image_title": "Fußball-WM-Rezepte: Wir bringen Italien doch noch zur WM"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gebackene Seebrasse mit rotem Paprika-Bulgur und Koriandersalsa: Auf den Tisch kommt heut’ ein Fisch!",
@@ -1109,11 +1120,11 @@
       "image_title": "Arbeitslosigkeit: »Ich arbeite gerade ehrenamtlich, um mich gebraucht zu fühlen«"
     },
     {
-      "title": "Verlagsangebot : Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__430x286__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot : Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__430x286__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Südafrika: »Ich bekomme Gänsehaut, wenn 40.000 Menschen die Nationalhymne singen«",
@@ -1130,64 +1141,64 @@
       "image_title": "Außergewöhnliche Hochschulen: Luisa Joa studiert seit sieben Monaten an der Cairo University. Am Anfang war es verwirrend für sie, dass die Uni gar nicht in Kairo, sondern in Giseh liegt, einer Stadt auf der anderen Nilseite."
     },
     {
-      "title": "Fußball-WM heute: Wie schlecht kann man sein, ohne rauszufliegen?",
-      "teaser": "Der härteste Verteidiger der Welt trifft auf den wütendsten Schweizer Kapitän. Die Deutschen beten weiter. Und: Hefte raus, Fußball-Mathearbeit! Das bringt der WM-Abend.",
-      "url": "https://www.zeit.de/sport/2026-06/fussball-wm-schweiz-bosnien-lionel-messi-granit-xhaka",
-      "image_url": "https://img.zeit.de/sport/2026-06/granit-xhaka-schweiz-wm/wide__892x502",
-      "image_title": "Granit Xhakas Schweizer müssen unter Umständen schon bald mit dem Rechnen anfangen."
+      "title": "Fußballweltmeisterschaft 2026: Schweiz gewinnt deutlich gegen Bosnien und Herzegowina",
+      "teaser": "Die Schweizer machen dank Johan Manzambi und Rubén Vargas einen großen Schritt Richtung K.-o.-Runde. Bosnien steht nach der Niederlage unter Druck. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2026-06/wm-2026-schweiz-bosnien-herzegowina",
+      "image_url": "https://img.zeit.de/sport/2026-06/wm-2026-schweiz-bosnien-herzegowina-bild-2/wide__892x502",
+      "image_title": "Fußballweltmeisterschaft 2026: Fußball, Männer, WM, Schweiz - Bosnien-Herzegowina, Vorrunde, Gruppe B, 2. Spieltag, Los-Angeles-Stadion. Der Schweizer Johan Manzambi (l) jubelt nach seinem Tor zum 1:0 mit den Teamgefährten. +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); England – Kroatien: Ein Mentalcoach für England",
-      "teaser": "Beim 4:2 gegen Kroatien überzeugt Englands Offensive. Für Thomas Tuchel aber ist etwas anderes entscheidend: der Glaube.",
-      "url": "https://www.zeit.de/sport/2026-06/england-kroatien-wm-thomas-tuchel",
-      "image_url": "https://img.zeit.de/sport/2026-06/england-kroatien-wm-tuchel-2/super__430x287",
-      "image_title": "England – Kroatien: Thomas Tuchel umarmt nach dem Auftaktsieg gegen Kroatien alle, hier: Ezri Konsa."
+      "title": "Fußball-WM: Südafrika und Tschechien trennen sich unentschieden",
+      "teaser": "Ein spät verwandelter Handelfmeter gegen Tschechien sichert Südafrika einen Punkt. Zudem kam erstmals bei dieser WM eine Schiedsrichterin zum Einsatz. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2026-06/fussball-weltmeisterschaft-gruppenphase-suedafrika-tschechien",
+      "image_url": "https://img.zeit.de/sport/2026-06/ussball-wm-2026-tschechien-suedafrika-bild/super__430x287",
+      "image_title": "Fußball-WM: Der Südafrikaner Mbekezeli Mbokazi (rechts) versucht, den Tschechen Lukas Cerv während des Fußball-WM-Gruppenspiels der Gruppe A zwischen Tschechien und Südafrika am Donnerstag, dem 18. Juni 2026, in Atlanta zu stoppen."
+    },
+    {
+      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Bei Jobs im öffentlichen Dienst redet jetzt der Verfassungsschutz mit",
+      "teaser": "Die Elbvertiefung am Donnerstag – Mit der neuen Regelanfrage, den alten Berufsverboten, dem größten Schachturnier der Welt und Perlen im Untergrund",
+      "url": "https://www.zeit.de/hamburg/2026-06/elbvertiefung-18-06-2026",
+      "image_url": "https://img.zeit.de/hamburg/2026-06/jusos/wide__892x502",
+      "image_title": "Die DGB-Vorsitzende Tanja Chawla spricht bei einer Kundgebung von Jusos und Grüner Jugend gegen die Regelanfrage am Dienstag, 16. Juni 2026, dem Tag vor dem Beschluss der Bürgerschaft."
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Offspaces in Hamburg: Perlen im Untergrund",
       "teaser": "In Hamburg gibt es etliche verborgene Orte, die Kunst zeigen. Unsere Autorin hat an einem Offspace mitgewirkt und sagt: Für das kulturelle Leben sind sie unverzichtbar.",
       "url": "https://www.zeit.de/2026/24/offspaces-hamburg-kunst-galerien-ausstellungen",
-      "image_url": "https://img.zeit.de/2026/24/perlen-im-untergrund-bild-1/wide__892x502",
+      "image_url": "https://img.zeit.de/2026/24/perlen-im-untergrund-bild-1/super__430x287",
       "image_title": "Offspaces in Hamburg: »Clouding« von Simone Fezer war 2023 in der xpon-art gallery zu sehen"
     },
     {
-      "title": "Elbvertiefung: Der tägliche Newsletter aus Hamburg: Wenn 600 Schiffe durch ein Nadelöhr wollen",
-      "teaser": "Die Elbvertiefung am Mittwoch – Mit dem Boom bei Wärmepumpen, einem Drohnenflugverbot und dem Siegeszug der Schiffscontainer",
-      "url": "https://www.zeit.de/hamburg/2026-06/elbvertiefung-17-06-2026",
-      "image_url": "https://img.zeit.de/hamburg/2026-06/container/super__430x287",
-      "image_title": "Containerschiffe liegen am Hamburger HHLA Burchardtkai."
+      "title": "Verunglückter Radfahrer: Mann stirbt bei Fahrradunfall auf Campingplatz",
+      "url": "https://www.zeit.de/news/2026-06/19/mann-stirbt-bei-fahrradunfall-auf-campingplatz"
     },
     {
-      "title": "Co-Gastgeber trumpft auf: Kanada jubelt trotz Verletzungsschock: 6:0 gegen Katar",
-      "url": "https://www.zeit.de/news/2026-06/19/schockszene-bei-kanada-spiel-kon-mit-trage-vom-platz"
+      "title": "Suche nach Kleinkind: Polizei sucht vermissten Säugling in Renningen",
+      "url": "https://www.zeit.de/news/2026-06/19/polizei-sucht-vermissten-saeugling-in-renningen"
     },
     {
-      "title": "Verkehrsunfall: A8 bei Odelzhausen: Auto überschlägt sich nach Auffahrunfall",
-      "url": "https://www.zeit.de/news/2026-06/19/a8-bei-odelzhausen-auto-ueberschlaegt-sich-nach-auffahrunfall"
+      "title": "Wettervorhersage: Mehr als 30 Grad und Unwetter am Wochenende im Norden",
+      "url": "https://www.zeit.de/news/2026-06/19/mehr-als-30-grad-und-unwetter-am-wochenende-im-norden"
     },
     {
-      "title": "Verkehrsunfall: Motorradfahrer bei Unfall in Saarbrücken schwer verletzt",
-      "url": "https://www.zeit.de/news/2026-06/19/motorradfahrer-bei-unfall-in-saarbruecken-schwer-verletzt"
+      "title": "Wetter: Extreme Hitze im Westen Deutschlands erwartet",
+      "url": "https://www.zeit.de/news/2026-06/19/extreme-hitze-im-westen-deutschlands-erwartet"
     },
     {
-      "title": "Krieg gegen die Ukraine: EU verlängert Russland-Sanktionen erstmals um zwölf Monate",
-      "url": "https://www.zeit.de/news/2026-06/18/eu-verlaengert-russland-sanktionen-erstmals-um-zwoelf-monate"
+      "title": "Baumärkte: Hornbach steigert Umsatz - Höhere Kosten belasten Gewinn",
+      "url": "https://www.zeit.de/news/2026-06/19/hornbach-steigert-umsatz-hoehere-kosten-belasten-gewinn"
     },
     {
-      "title": "Krieg gegen die Ukraine: Ärger bei EU-Gipfel um Russland-Initiative Costas",
-      "url": "https://www.zeit.de/news/2026-06/19/aerger-bei-eu-gipfel-um-russland-initiative-costas"
+      "title": "Unglück in Hohnstein: Flugzeug mit Triebwerksausfall – Pilot schwer verletzt",
+      "url": "https://www.zeit.de/news/2026-06/19/flugzeug-mit-triebwerksausfall-pilot-schwer-verletzt"
     },
     {
-      "title": "Tödlicher Unfall: Radfahrer stirbt bei Unfall auf Campingplatz in Wallenstein",
-      "url": "https://www.zeit.de/news/2026-06/19/radfahrer-stirbt-bei-unfall-auf-campingplatz-in-wallenstein"
+      "title": "Temperaturen bis zu 36 Grad: Hitzewelle trifft Sachsen, Sachsen-Anhalt und Thüringen",
+      "url": "https://www.zeit.de/news/2026-06/19/hitzewelle-trifft-sachsen-sachsen-anhalt-und-thueringen"
     },
     {
-      "title": "Kalenderblatt: Was geschah am 19. Juni?",
-      "url": "https://www.zeit.de/news/2026-06/18/was-geschah-am-19-juni"
-    },
-    {
-      "title": "Unter Druck aus Washington: Kuba legt 176-Punkte-Plan zur Wirtschaftsöffnung vor",
-      "url": "https://www.zeit.de/news/2026-06/18/kuba-legt-176-punkte-plan-zur-wirtschaftsoeffnung-vor"
+      "title": "Schutz gegen Hitze: Wassernebel kühlt Dresdner Höfe – TU lädt zum Test ein",
+      "url": "https://www.zeit.de/news/2026-06/19/wassernebel-kuehlt-dresdner-hoefe-tu-laedt-zum-test-ein"
     }
   ]
 }
