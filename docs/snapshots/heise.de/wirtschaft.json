@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T14:36:57",
+  "timestamp": "2026-06-19T17:08:45",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,28 +20,27 @@
   ],
   "articles": [
     {
-      "title": "AMD und Intel spezifizieren KI-Befehlssatz „ACE“ für x86-Prozessorkerne",
-      "teaser": "CPU-Kerne künftiger x86-Prozessoren von AMD und Intel haben zusätzliche Rechenwerke unter anderem für Matrix-Multiplikationen, die AI Compute Extensions (ACE).",
+      "title": "Datenschutz im Umbruch: Aufsichtsbehörden fordern digitale Modernisierung",
+      "teaser": "Mit den „Stuttgarter Impulsen“ reagieren die Landesdatenschützer auf anhaltende Kritik und unterstützen eine Reform für mehr Effizienz und weniger Bürokratie.",
+      "url": "https://www.heise.de/news/Datenschutz-im-Umbruch-Aufsichtsbehoerden-fordern-digitale-Modernisierung-11339193.html"
+    },
+    {
+      "title": "Peloton tauscht Bike+-Sattelstützen auch hierzulande",
+      "teaser": "Peloton bietet Bike+-Besitzern in Deutschland und weiteren Ländern einen kostenlosen Tausch der Sattelstütze an.",
+      "url": "https://www.heise.de/news/Peloton-tauscht-Bike-Sattelstuetzen-auch-hierzulande-11338892.html",
+      "image_title": "Füße einer Person strampeln auf einem Peloton-Hometrainer."
+    },
+    {
+      "title": "400-Milliarden-Parameter-ModellKonsortium „Europa“ gewinnt KI-Wettbewerb",
+      "teaser": "Die EU-Kommission kürt ein Konsortium um die Firma Domyn zum Sieger der „Frontier AI Grand Challenge“ für ein europäisches KI-Modell.",
+      "url": "https://www.heise.de/news/400-Milliarden-Parameter-Modell-Konsortium-Europa-gewinnt-KI-Wettbewerb-11339003.html",
+      "image_title": "EU-Flagge weht vor blauem Himmel."
+    },
+    {
+      "title": "AI Compute ExtensionAMD und Intel spezifizieren KI-Befehlssatz „ACE“ für x86-Kerne",
+      "teaser": "CPU-Kerne künftiger x86-Prozessoren von AMD und Intel bekommen zusätzliche Rechenwerke unter anderem für Matrix-Multiplikationen.",
       "url": "https://www.heise.de/news/AMD-und-Intel-spezifizieren-KI-Befehlssatz-ACE-fuer-x86-Prozessorkerne-11338878.html",
       "image_title": "Logo x86 Ecosystem Advisory Group und Blockschaltbild ACE/AVX."
-    },
-    {
-      "title": "Anthropics KI Mythos: Unternehmen haben weiter Zugriff auf Preview-Version",
-      "teaser": "Trotz US-Anordnung haben manche Unternehmen weiterhin Zugriff auf eine Preview-Version von Anthropics KI-Modell Mythos.",
-      "url": "https://www.heise.de/news/Anthropics-KI-Mythos-Unternehmen-haben-weiter-Zugriff-auf-Preview-Version-11338742.html",
-      "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
-    },
-    {
-      "title": "Hinterland of Things: Kernfusion und Drohnentechnik suchen Kapital",
-      "teaser": "Fusions- und Drohnentechnologien gehörten in diesem Jahr zu den Kernthemen der Start-up-Konferenz Hinterland of Things.",
-      "url": "https://www.heise.de/news/Hinterland-of-Things-Kernfusion-und-Drohnentechnik-suchen-Kapital-11338514.html",
-      "image_title": "Frederike Holewik, Dr. Sarah Theinert, Armin Reinartz"
-    },
-    {
-      "title": "Geschlossener Apple Store mit Tarifvertrag: Politik erhöht Druck auf Apple",
-      "teaser": "Der Laden in Towson war der erste Store des iPhone-Konzerns, in dem es eine gewerkschaftliche Vertretung gab. Trotzdem wird dieser nun ersatzlos geschlossen.",
-      "url": "https://www.heise.de/news/Geschlossener-Apple-Store-mit-Tarifvertrag-Politik-erhoeht-Druck-auf-Apple-11337105.html",
-      "image_title": "Apple Store in China"
     },
     {
       "title": "HintergrundGehälter 2026: Das verdienen IT-Berater in Deutschland",
@@ -55,6 +54,18 @@
     {
       "title": "HintergrundAnalyse: Wie Siri, Gemini und Copilot Ihr persönlicher Butler werden wollen",
       "url": "https://www.heise.de/hintergrund/Analyse-Wie-Siri-Gemini-und-Copilot-Ihr-persoenlicher-Butler-werden-wollen-11327088.html"
+    },
+    {
+      "title": "Anthropics KI Mythos: Unternehmen haben weiter Zugriff auf Preview-Version",
+      "teaser": "Trotz US-Anordnung haben manche Unternehmen weiterhin Zugriff auf eine Preview-Version von Anthropics KI-Modell Mythos.",
+      "url": "https://www.heise.de/news/Anthropics-KI-Mythos-Unternehmen-haben-weiter-Zugriff-auf-Preview-Version-11338742.html",
+      "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
+    },
+    {
+      "title": "Geschlossener Apple Store mit Tarifvertrag: Politik erhöht Druck auf Apple",
+      "teaser": "Der Laden in Towson war der erste Store des iPhone-Konzerns, in dem es eine gewerkschaftliche Vertretung gab. Trotzdem wird dieser nun ersatzlos geschlossen.",
+      "url": "https://www.heise.de/news/Geschlossener-Apple-Store-mit-Tarifvertrag-Politik-erhoeht-Druck-auf-Apple-11337105.html",
+      "image_title": "Apple Store in China"
     },
     {
       "title": "App-Store-Anwendung: Apple trackt eingegebene Zeichen",
@@ -131,18 +142,6 @@
       "title": "Wie entsteht mein Schufa-Score? BGH prüft Auskunftsanspruch",
       "teaser": "Der Schufa-Score gilt unter Kritikern als „Blackbox“. Der BGH prüft, inwieweit die Auskunftei Betroffene über ihr Berechnungsverfahren aufklären muss.",
       "url": "https://www.heise.de/news/Wie-entsteht-mein-Schufa-Score-BGH-prueft-Auskunftsanspruch-11337447.html"
-    },
-    {
-      "title": "Deutsch-belgisches Konsortium baut Offshore-Konverter für 50 Hertz",
-      "teaser": "Der Übertragungsnetzbetreiber 50Hertz hat den Auftrag für den Bau einer Konverteranlage für einen Offshore-Windpark vergeben. Eine Werft in Rostock profitiert.",
-      "url": "https://www.heise.de/news/50Hertz-vergibt-Auftrag-fuer-Offshore-Anlage-nach-Rostock-11337284.html",
-      "image_title": "Offshore,Wind,Farm,And,Energy,Platform,In,Open,Sea.,Renewable"
-    },
-    {
-      "title": "Midjourney: Nach KI-Bildgenerator nun ein Körperscanner für die Menschheit",
-      "teaser": "Der KI-Bildgenerator Midjourney ist etwas in Vergessenheit geraten. Nun erweitert die Firma ihren Fokus drastisch und will direkt die Medizin revolutionieren.",
-      "url": "https://www.heise.de/news/Midjourney-Nach-KI-Bildgenerator-nun-ein-Koerperscanner-fuer-die-Menschheit-11336817.html",
-      "image_title": "Ein Frauenkörper, darum ein leuchtender KReis"
     },
     {
       "title": "NewsBSI-Affäre: Urteil gegen Böhmermanns ZDF Magazin Royale bestätigt",
