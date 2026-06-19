@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-19T06:04:39",
+  "timestamp": "2026-06-19T11:10:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,14 +20,116 @@
   ],
   "articles": [
     {
-      "title": "Secrets Management: Mit IT-Pipelines und statischen Secrets umgehen",
-      "teaser": "Statische Secrets stellen hohe Anforderungen an Zugriffsschutz, Speichern und Rotation. Kurzlebigen Ressourcen und Write-only-Attribute erfüllen diese.",
+      "title": "Anonymisierendes Linux: Tails 7.9 pflegt Kernkomponenten",
+      "teaser": "In der Version 7.9 der anonymisierenden Linux-Distribution Tails betreiben die Entwickler nur leichte Software-Pflege.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-7-9-pflegt-Kernkomponenten-11338456.html",
+      "image_title": "Desktop von Tails 7.9 auf Notebook (Montage)"
+    },
+    {
+      "title": "AlertCisco ISE: Kritische Sicherheitslücke trotz benötigter Adminrechte",
+      "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Identity Services Engine (ISE) erschienen. Netzwerkadmins sollten zeitnah tätig werden.",
+      "url": "https://www.heise.de/news/Cisco-ISE-Kritische-Sicherheitsluecke-trotz-benoetigter-Adminrechte-11338116.html",
+      "image_title": "Update-Schriftzug"
+    },
+    {
+      "title": "Extensions-PlattformOpen VSX: Version 1.0 der Microsoft-Alternative von Eclipse erschienen",
+      "teaser": "Die Eclipse Foundation bietet die Registry für Visual Studio Code Extensions als offene Alternative zu Microsofts Visual Studio Marketplace an.",
+      "url": "https://www.heise.de/news/Eclipse-Alternative-zu-Microsofts-Marketplace-Open-VSX-1-0-erschienen-11338008.html",
+      "image_title": "Marktstände von Microsoft und Eclipse"
+    },
+    {
+      "title": "AlertF5 patcht außerplanmäßig kritische Nginx-Sicherheitslücken",
+      "teaser": "Hersteller F5 bessert außer der Reihe in Nginx vier Schwachstellen aus, von denen zwei als kritisches Risiko gelten.",
+      "url": "https://www.heise.de/news/F5-patcht-ausserplanmaessig-kritische-Nginx-Sicherheitsluecken-11338310.html"
+    },
+    {
+      "title": "HintergrundVom Umgang mit Sicherheitslücken im Linux-Kernel",
+      "url": "https://www.heise.de/hintergrund/Vom-Umgang-mit-Sicherheitsluecken-im-Linux-Kernel-11293828.html",
+      "image_title": "Ein Mann mit Brille schaut erschrocken auf eine lange Liste von Fehlern, die ein Drucker ausgibt."
+    },
+    {
+      "title": "HintergrundJuristische Fallstricke in Cloud-Architekturen",
+      "url": "https://www.heise.de/hintergrund/Juristische-Fallstricke-in-Cloud-Architekturen-11314986.html",
+      "image_title": "Cloud, Rechenzentrum,"
+    },
+    {
+      "title": "RatgeberSecrets Management: Mit IT-Pipelines und statischen Secrets umgehen",
       "url": "https://www.heise.de/ratgeber/Secrets-Management-Mit-IT-Pipelines-und-statischen-Secrets-umgehen-11333451.html",
       "image_title": ", Cathrin Kapell / KI / iX"
     },
     {
-      "title": "Vorsicht, KundeZu hohe Stromrechnung durch Smart-Meter-Fehler",
-      "teaser": "Wer bei seinem Smart Meter ungewöhnlichen Stromverbrauch feststellt, sollte schnell handeln. Wir erklären, wie.",
+      "title": "Homepilot Rollotron Classic Smart im Test: Rolladenmotor mit Zufallssteuerung",
+      "teaser": "Der Rolladenmotor Rollotron Classic Smart hat eine optionale Zufallssteuerung, die im Urlaub die Anwesenheit daheim simuliert.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/homepilot-rollotron-classic-smart-im-test-rolladenmotor-mit-zufallssteuerung/bzhsnjj?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Google Cloud: Souveräne Cloud in Deutschland bis Ende 2026",
+      "teaser": "Google Cloud hat den Zeitplan für seine souveräne Cloud in Deutschland vorgestellt. Thales betreibt die Plattform, die bis Ende 2026 verfügbar sein soll.",
+      "url": "https://www.heise.de/news/Google-Cloud-Souveraene-Cloud-in-Deutschland-bis-Ende-2026-11338334.html",
+      "image_title": "Gebäude von Google Cloud"
+    },
+    {
+      "title": "GitLab 19.1: Admins erhalten Hoheit über GitLab-Duo-Aktivierung",
+      "teaser": "Admins beziehungsweise Besitzer können GitLab Duo für eine Instanz oder Top-Level-Gruppe zentral aktivieren. Die Secrets-Erkennung erhält KI-Unterstützung.",
+      "url": "https://www.heise.de/news/GitLab-19-1-Admins-erhalten-Hoheit-ueber-GitLab-Duo-Aktivierung-11338138.html",
+      "image_title": "Businesswoman,Pressing,Unlocking,On,Virtual,Screens,,Technology,For,Cyber,Attack,"
+    },
+    {
+      "title": "AlertPTC Windchill: BSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
+      "teaser": "Ein Anruf des BSI um 2:30 holte kürzlich Windchill-Kunden aus dem Schlaf. Jetzt wird klar, wieso. Doch welche Rolle spielte das BKA dieses Mal?",
+      "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html",
+      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
+    },
+    {
+      "title": "Neu in .NET 10.0 [28]: Asynchrone ZIP-Operationen",
+      "teaser": "Die Operation für die ZIP-Komprimierung gibt es in .NET 10.0 nun auch in asynchroner Form.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-28-Asynchrone-ZIP-Operationen-11337968.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
+    },
+    {
+      "title": "Android-Verifizierung: Google bestätigt Zeitplan und nennt App-Stores",
+      "teaser": "Noch im Juni führt Google einen neuen Android-Systemdienst ein, bevor ab Ende September größere Änderungen für Entwickler in Kraft treten.",
+      "url": "https://www.heise.de/news/Android-Google-nennt-Zeitplan-fuer-Entwickler-Verifizierung-und-erste-App-Stores-11338038.html",
+      "image_title": "Android-Logos auf grünem Hintergrund"
+    },
+    {
+      "title": "Firmen unterschätzen ihre KI-Abhängigkeiten massiv",
+      "teaser": "Eine IBM-Studie zeigt: Viele deutsche Unternehmen sprechen über KI-Souveränität, kennen aber ihre Abhängigkeiten kaum.",
+      "url": "https://www.heise.de/news/Firmen-unterschaetzen-ihre-KI-Abhaengigkeiten-massiv-11337683.html",
+      "image_title": "Eine zerbrochene Kette vor der deutschen Flagge mit einem Lichteffekt"
+    },
+    {
+      "title": "ASML im „Krisenmodus“: EUV-Lithografie-System laut Washington nach China gelangt",
+      "teaser": "Nur ASML kann die modernsten Systeme für die Halbleiterherstellung produzieren. Der Export nach China ist untersagt. Die USA erheben nun einen schweren Vorwurf.",
+      "url": "https://www.heise.de/news/ASML-im-Krisenmodus-EUV-Lithografie-System-laut-Washington-nach-China-gelangt-11337944.html",
+      "image_title": "Offenes Lithografie-System in einem Reinraum mit Menschen daneben"
+    },
+    {
+      "title": "HPE greift VMware an: Kostenlose Lizenzen für Umsteiger",
+      "teaser": "HPE will VMware-Kunden mit kostenlosen Lizenzen und Migrationssoftware überzeugen. Zudem wird die KVM-basierte Plattform ausgebaut.",
+      "url": "https://www.heise.de/news/Bis-zu-90-Prozent-Einsparungen-HPE-lockt-geprellte-VMware-Kunden-11337988.html",
+      "image_title": "Serverracks in einem Raum, durch eine Blase betrachtet."
+    },
+    {
+      "title": "AlertSplunk Enterprise: Angriffe auf Codeschmuggel-Lücke",
+      "teaser": "Splunk warnt, dass bösartige Akteure eine kritische Codeschmuggel-Lücke in Splunk Enterprise angreifen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Splunk-Enterprise-Angriffe-auf-Codeschmuggel-Luecke-11337978.html"
+    },
+    {
+      "title": "Databricks: Lakehouse//RT soll separate Echtzeitdatenbanken überflüssig machen",
+      "teaser": "Databricks bringt mit Lakehouse//RT eine Echtzeitanalyse-Engine für Delta-Lake- und Apache-Iceberg-Tabellen, um spezialisierte Echtzeitdatenbanken zu ersetzen.",
+      "url": "https://www.heise.de/news/Databricks-Lakehouse-RT-soll-separate-Echtzeitdatenbanken-ueberfluessig-machen-11336849.html",
+      "image_title": "Eine Person sitzt am Laptop. Davor ein Symbol für einen offenen Ordner. Drumherum verschiedene Dateien, ebenfalls als Symbole."
+    },
+    {
+      "title": "iX-Workshop: BCM und IT-Notfallplanung – vorbereitet für den Ernstfall",
+      "teaser": "Erstellen Sie für Ihr Unternehmen einen Leitfaden zur professionellen IT-Notfallplanung im interaktiven Workshop.",
+      "url": "https://www.heise.de/news/iX-Workshop-BCM-und-IT-Notfallplanung-vorbereitet-fuer-den-Ernstfall-11321448.html",
+      "image_title": "Online-Workshop: BCM-Notfallplanung für den Security-Ernstfall"
+    },
+    {
+      "title": "Vorsicht, Kunde: Zu hohe Stromrechnung durch Smart-Meter-Fehler",
+      "teaser": "Wer bei seinem Smart Meter ungewöhnlichen Stromverbrauch feststellt, sollte schnell handeln. Wir erklären, wie Sie Fehler aufdecken und Ihre Rechte durchsetzen.",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Zu-hohe-Stromrechnung-durch-Smart-Meter-Fehler-11331705.html",
       "image_title": "Smart Meter"
     },
@@ -38,110 +140,9 @@
       "image_title": "Businessman,Holding,Digital,Chatbot,Are,Assistant,Conversation,For,Provide,Access"
     },
     {
-      "title": "EuGH zu Datenschutz vor GerichtAuch illegale Beweise dürfen verwertet werden",
-      "teaser": "Der Europäische Gerichtshof feilt am Recht auf ein faires Verfahren: Richter dürfen unrechtmäßig erlangte Daten nutzen.",
-      "url": "https://www.heise.de/news/EuGH-zu-Datenschutz-vor-Gericht-Auch-illegale-Beweise-duerfen-verwertet-werden-11337718.html",
-      "image_title": "An,Image,Of,A,Justitia,-,Justice"
-    },
-    {
-      "title": "RatgeberSecrets Management: Mit IT-Pipelines und statischen Secrets umgehen",
-      "url": "https://www.heise.de/ratgeber/Secrets-Management-Mit-IT-Pipelines-und-statischen-Secrets-umgehen-11333451.html",
-      "image_title": ", Cathrin Kapell / KI / iX"
-    },
-    {
-      "title": "HintergrundGehälter 2026: Das verdienen IT-Berater in Deutschland",
-      "url": "https://www.heise.de/hintergrund/Gehaelter-2026-Das-verdienen-IT-Berater-in-Deutschland-11281597.html"
-    },
-    {
-      "title": "Hintergrundc’t-Umfrage zu Videokonferenzsoftware: Teams-Alternativen erwünscht",
-      "url": "https://www.heise.de/hintergrund/c-t-Umfrage-zu-Videokonferenzsoftware-Teams-Alternativen-erwuenscht-11336274.html"
-    },
-    {
       "title": "Top 10: Der beste ergonomische Bürostuhl im Test",
       "teaser": "Wir haben etwa 35 ergonomische Bürostühle für Büro und Homeoffice getestet und zeigen hier die besten Modelle.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ergonomische-buerostuhl-im-test-herman-miller-vor-flexispot/6le25ss?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Outdoor-Handy Oscal Pilot 6 im Test: Großer Akku & Wärmebildkamera für 270 Euro",
-      "teaser": "Großer Akku, Wärmebildkamera und 108-MP-Kamera für rund 270 Euro: Das Oscal Pilot 6 will als günstiges Outdoor-Handy überzeugen. Ob das gelingt?",
-      "url": "https://www.heise.de/bestenlisten/testbericht/outdoor-handy-oscal-pilot-6-im-test-grosser-akku-und-waermebildkamera-fuer-270-euro/t3p7lg1?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "HPEs neuer Switch: QFX5140 liefert 16 Tbit/s auf 1 HE",
-      "teaser": "Auf der HPE Discover 2026 stellte HPE Neuigkeiten für den Netzwerkbereich vor, darunter KI-gestützte Automatisierung und neue Juniper-Switches.",
-      "url": "https://www.heise.de/news/HPEs-neuer-Switch-QFX5140-liefert-16-Tbit-s-auf-1-HE-11337577.html",
-      "image_title": "Ein Mann in einem Serverraum zwischen Reihen von Server-Racks."
-    },
-    {
-      "title": "Operation Endgame: Ermittler säubern tausende Blogs von SocGholish",
-      "teaser": "Strafverfolger aus vier Ländern zerschlugen ein Botnet und Wordpress-Blogs, die Kriminelle als Verteilstationen für Schadsoftware mißbrauchten.",
-      "url": "https://www.heise.de/news/Operation-Endgame-Ermittler-saeubern-tausende-Blogs-von-SocGholish-11337399.html",
-      "image_title": "Logo Operation Endgame"
-    },
-    {
-      "title": "KDE Plasma 6.7 bringt Detailverbesserungen",
-      "teaser": "Versionspflege: KDE hievt den Plasma-Desktop auf Stand 6.7. Jeder Bildschirm kann nun einen virtuellen Desktop bekommen.",
-      "url": "https://www.heise.de/news/KDE-Plasma-6-7-bringt-Detailverbesserungen-11337326.html",
-      "image_title": "KDE PLasma 6.7 Desktop auf Notebook"
-    },
-    {
-      "title": "US-Präsident lässt Intel-Aktie steigen, bestätigt Aufträge von Apple",
-      "teaser": "Im vorbörslichen US-Handel stieg der Kurs der Intel-Aktie erheblich, weil US-Präsident Donald Trump Aufträge von Apple bestätigte, die bisher Spekulation waren.",
-      "url": "https://www.heise.de/news/US-Praesident-laesst-Intel-Aktie-steigen-bestaetigt-Auftraege-von-Apple-11337261.html",
-      "image_title": "Intel-Logo vor dem Hauptsitz in Santa Clara, 2023"
-    },
-    {
-      "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
-      "teaser": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11321296.html",
-      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
-    },
-    {
-      "title": "Register-Plantage: „Pharma will die Ernte, aber nicht den Acker pflegen“",
-      "teaser": "Auf den Registertagen streiten Forschung und Industrie über die Finanzierung medizinischer Register.",
-      "url": "https://www.heise.de/news/Register-Plantage-Pharma-will-die-Ernte-aber-nicht-den-Acker-pflegen-11336337.html",
-      "image_title": "Diskussion zur Finanzierung der Register. Dr. Jessica Vasseur übernahm spotan die Moderation, Isabell Wirmer, Dr. Anna Niemeyer, Prof. Rainer Röhrig, Prof. Jens Peters und Bernhard Liebenhoff."
-    },
-    {
-      "title": "Matter 1.6 nimmt neuen Anlauf bei plattformübergreifender Geräteverwaltung",
-      "teaser": "Matter 1.6 bringt neue Funktionen für gemeinsame Geräteverwaltung, NFC-Einrichtung und vernetzte Thermostate.",
-      "url": "https://www.heise.de/news/Matter-1-6-nimmt-neuen-Anlauf-bei-plattformuebergreifender-Geraeteverwaltung-11336903.html",
-      "image_title": "Smart Speaker auf einer Kücheninsel, während im Hintergrund eine Person an einem Tisch mit einem Tablet arbeitet."
-    },
-    {
-      "title": "UpdateLinuxer ärgert sich über AMD wegen Abschaltung der RAM-Verschlüsselung TSME",
-      "teaser": "Neuere Versionen der UEFI-BIOS-Komponente AGESA schalten bei manchen AMD-Ryzen-Prozessoren eine Funktion ab, die sie nie haben sollten – das verärgert manche.",
-      "url": "https://www.heise.de/news/Linuxer-aergert-sich-ueber-AMD-wegen-Abschaltung-der-RAM-Verschluesselung-TSME-11337031.html",
-      "image_title": "Drei AMD-Ryzen-Prozessoren."
-    },
-    {
-      "title": "Maker Faire Solothurn 2026: Zwei Tage voller Innovation, Kreativität und Technik",
-      "teaser": "Über 70 Aussteller, spannende Technik, 3D-Druck, KI und DIY-Projekte warten am 20. und 21. Juni in Derendingen.",
-      "url": "https://www.heise.de/news/Maker-Faire-Solothurn-2026-Zwei-Tage-voller-Innovation-Kreativitaet-und-Technik-11335926.html",
-      "image_title": "Titelbild der Veranstaltung"
-    },
-    {
-      "title": "„Mit Apple anmelden“ und „E-Mail-Adresse verbergen“ bekommen einheitliche Domain",
-      "teaser": "Bislang nutzt Apple verschiedene Absenderadressen für zwei seiner beliebtesten iCloud-Dienste. Nun wird es einheitlicher – aber leider auch filterbarer.",
-      "url": "https://www.heise.de/news/Mit-Apple-anmelden-und-E-Mail-Adresse-verbergen-bekommen-einheitliche-Domain-11336719.html",
-      "image_title": "iCloud-Logo"
-    },
-    {
-      "title": "Windows Update: Nebenwirkungen verhindern Office-Start durch Programme",
-      "teaser": "Microsoft räumt Probleme mit den Sicherheitsupdates aus dem Juni ein. Drittanbieter-Apps können Office-Apps nicht mehr starten.",
-      "url": "https://www.heise.de/news/Windows-Update-Nebenwirkungen-verhindern-Office-Start-durch-Programme-11336689.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Proaktive IT-Security mit Pentesting – Ethical Hacking für Admins",
-      "teaser": "In fünf Terminen lernen Admins und Security-Verantwortliche ab dem 20. August, wie sie mit Ethical Hacking Systeme absichern und Schwachstellen aufdecken.",
-      "url": "https://www.heise.de/news/Proaktive-IT-Security-mit-Pentesting-Ethical-Hacking-fuer-Admins-11327184.html"
-    },
-    {
-      "title": "software-architektur.tv: KI-Einsatz im Alltag – zwischen KI-Hype und KI-Vampir",
-      "teaser": "In dieser Episode diskutiert Ralf D. Müller mit Martin Lippert darüber, wie sich KI auf den Alltag von Softwareentwicklerinnen und -entwicklern auswirkt.",
-      "url": "https://www.heise.de/news/software-architektur-tv-KI-Einsatz-im-Alltag-zwischen-KI-Hype-und-KI-Vampir-11332735.html",
-      "image_title": "Logo software-architektur.tv: Zwischen KI-Hype und KI-Vampire - wie wir den Einsatz von KI im Alltag erleben"
     },
     {
       "title": "NewsBSI-Affäre: Urteil gegen Böhmermanns ZDF Magazin Royale bestätigt",
