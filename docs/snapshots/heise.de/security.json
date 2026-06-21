@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-21T11:36:59",
+  "timestamp": "2026-06-21T13:30:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,20 @@
   ],
   "articles": [
     {
+      "title": "IT-Sicherheitsvorfall bei Amazons One MedicalAngreifer drohen mit Veröffentlichung von Daten",
+      "teaser": "Nach einem Sicherheitsvorfall bei One Medical droht ShinyHunters mit der Veröffentlichung angeblich erbeuteter Daten.",
+      "url": "https://www.heise.de/news/One-Medical-Nach-Cyberangriff-auf-Amazons-Gesundheitsdienst-droht-Daten-Leak-11339487.html",
+      "image_title": "one medical"
+    },
+    {
       "title": "AlertPTC WindchillBSI ruft Admins nachts wegen kritischer Sicherheitslücke an",
       "teaser": "Ein Anruf des BSI um 2:30 holte kürzlich Windchill-Kunden aus dem Schlaf. Jetzt wird klar, wieso. Doch welche Rolle spielte das BKA?",
       "url": "https://www.heise.de/news/PTC-Windchill-BSI-ruft-Admins-nachts-wegen-kritischer-Sicherheitsluecke-an-11338090.html",
       "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
-      "title": "UpdateAMDLinuxer ärgert sich wegen Abschaltung der RAM-Verschlüsselung TSME",
-      "teaser": "Neuere Versionen der UEFI-BIOS-Komponente AGESA schalten bei manchen AMD-Ryzen-Prozessoren eine Funktion ab, die sie nie haben sollten.",
-      "url": "https://www.heise.de/news/Linuxer-aergert-sich-ueber-AMD-wegen-Abschaltung-der-RAM-Verschluesselung-TSME-11337031.html",
-      "image_title": "Drei AMD-Ryzen-Prozessoren."
-    },
-    {
-      "title": "AlertUpdateJetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angriffe-auf-Wordpress-Websites-mit-Gravity-SMTP-Plug-in-11339529.html"
+      "title": "AlertSicherheitslücken gefährden Verbindungen über libssh2",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html"
     },
     {
       "title": "Nächster Halt: Stuttgartheise security Tour 2026",
@@ -48,6 +48,11 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertSicherheitslücken gefährden Verbindungen über libssh2",
+      "teaser": "Unter anderem eine kritische Lücke bedrohtIT-Infrastrukturen mit libssh2. Patches sind da, aber offensichtlich bislang nicht flächendeckend implementiert.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-gefaehrden-Verbindungen-ueber-libssh2-11339571.html"
+    },
+    {
       "title": "AlertUpdateJetzt patchen! Angriffe auf Wordpress-Websites mit Gravity-SMTP-Plug-in",
       "teaser": "Angreifer verschaffen sich auf Wordpress-Websites mit Gravity-SMTP-Plug-in Zugriff auf eigentlich geschützte Daten.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angriffe-auf-Wordpress-Websites-mit-Gravity-SMTP-Plug-in-11339529.html"
@@ -57,12 +62,6 @@
       "teaser": "Angreifer können Softwareprodukte von Atlassian attackieren und im schlimmsten Fall Schadcode auf Computer schieben und ausführen.",
       "url": "https://www.heise.de/news/Bamboo-Confluence-Co-Atlassian-schliesst-100-Sicherheitsluecken-11336541.html",
       "image_title": "Ein symbolische Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Nach IT-Vorfall bei Amazons One Medical droht Veröffentlichung von Daten",
-      "teaser": "Nach einem Sicherheitsvorfall bei One Medical droht ShinyHunters mit der Veröffentlichung angeblich erbeuteter Daten.",
-      "url": "https://www.heise.de/news/One-Medical-Nach-Cyberangriff-auf-Amazons-Gesundheitsdienst-droht-Daten-Leak-11339487.html",
-      "image_title": "one medical"
     },
     {
       "title": "Anonymisierendes Linux: Tails 7.9 pflegt Kernkomponenten",
@@ -111,6 +110,12 @@
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
     },
     {
+      "title": "UpdateLinuxer ärgert sich über AMD wegen Abschaltung der RAM-Verschlüsselung TSME",
+      "teaser": "Neuere Versionen der UEFI-BIOS-Komponente AGESA schalten bei manchen AMD-Ryzen-Prozessoren eine Funktion ab, die sie nie haben sollten – das verärgert manche.",
+      "url": "https://www.heise.de/news/Linuxer-aergert-sich-ueber-AMD-wegen-Abschaltung-der-RAM-Verschluesselung-TSME-11337031.html",
+      "image_title": "Drei AMD-Ryzen-Prozessoren."
+    },
+    {
       "title": "Windows Update: Nebenwirkungen verhindern Office-Start durch Programme",
       "teaser": "Microsoft räumt Probleme mit den Sicherheitsupdates aus dem Juni ein. Drittanbieter-Apps können Office-Apps nicht mehr starten.",
       "url": "https://www.heise.de/news/Windows-Update-Nebenwirkungen-verhindern-Office-Start-durch-Programme-11336689.html",
@@ -133,12 +138,6 @@
       "teaser": "Sicherheitsforscher entdeckten einen Großangriff auf Sicherheits-Appliances: Tausende geknackte Firewalls und Milliarden durchprobierte Passwörter.",
       "url": "https://www.heise.de/news/Massiver-Angriff-auf-Fortinet-Firewalls-74-000-Geraete-von-FortiBleed-betroffen-11336220.html",
       "image_title": "closeup of Fortinet logo sign on the company headquarters office building in Silicon Valley, SF Bay Area"
-    },
-    {
-      "title": "CPU-Schwachstellen Spectre und Meltdown: Acht Jahre Dauerbeschuss, eine Chronik",
-      "teaser": "Neuartige CPU-Sicherheitslücken lösten 2018 große Befürchtungen aus. Sie veränderten die Entwicklung von Prozessoren grundlegend und auf Dauer.",
-      "url": "https://www.heise.de/hintergrund/CPU-Schwachstellen-Spectre-und-Meltdown-Acht-Jahre-Dauerbeschuss-eine-Chronik-11178019.html",
-      "image_title": "Prozessor mit Atompilz (Symbolbild)"
     },
     {
       "title": "Workshop | 01. – 03.7.2026Angriffsziel lokales Active Directory: Effiziente Absicherung",
