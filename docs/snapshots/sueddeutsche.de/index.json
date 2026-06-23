@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-23T18:59:22",
+  "timestamp": "2026-06-23T20:59:21",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
     {
       "type": "module",
       "src": "https://www.sueddeutsche.de/szde-assets/js/header-full-0a0990b818795e191dce.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
       "id": null,
       "text": null
     }
@@ -63,29 +69,29 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/22/6ff6175c-9337-4789-88e7-f5a1c5c3a1fe.jpg?rect=1000,0,1988,2650&width=178&fm=jpeg&q=60"
     },
     {
+      "title": "LiveKrieg in Nahost:Dämpfer für Trump: US-Senat stimmt für Ende der Angriffe auf Iran",
+      "url": "https://www.sueddeutsche.de/politik/liveblog-nahost-senat-usa-abstimmung-li.3500746",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/728ff970-c295-450d-acc8-13d9aecbb63b.jpg?rect=290,0,3420,2565&width=115&fm=jpeg&q=60"
+    },
+    {
+      "title": "LiveKrieg in der Ukraine:„Trick der USA“: Russlands Kritik an Trump wächst",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-krim-russland-putin-trump-alaska-kritik-li.3500126",
+      "image_url": "https://www.sueddeutsche.de/2025/08/17/aef291af-9743-4497-afb7-1693ea97bb3a.jpg?rect=104,0,1665,1249&width=115&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ PlusGastronomie:Michelin-Sterne vergeben: Das sind die Ausgezeichneten",
+      "url": "https://www.sueddeutsche.de/panorama/michelin-sterne-2026-restaurants-li.3499721",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/6d536f0d-f583-49f3-966a-b674c82945de.jpg?rect=802,0,2671,2003&width=115&fm=jpeg&q=60"
+    },
+    {
       "title": "Fall Collien Fernandes:Christian Ulmens Beschwerde gegen den „Spiegel“ hat teilweise Erfolg",
       "url": "https://www.sueddeutsche.de/medien/christian-ulmen-spiegel-verfahren-beschwerde-collien-fernandes-li.3503803",
       "image_url": "https://www.sueddeutsche.de/2026/05/26/0e244816-2e2f-4ca8-9d50-9d09a61df17d.jpg?rect=186,0,2980,2235&width=115&fm=jpeg&q=60"
     },
     {
-      "title": "LiveKrieg in der Ukraine:„Trick der USA“: Russlands Kritik an Trump wächst",
-      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-krim-russland-putin-trump-alaska-kritik-li.3500126",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/01fac804-8b5a-4f76-a245-6872b55b3b0d.jpg?rect=1424,511,1640,1230&width=115&fm=jpeg&q=60"
-    },
-    {
-      "title": "LiveWetter:Städte und Kommunen fordern zum Wassersparen auf",
-      "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-wasser-sparen-staedte-li.3502376",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/4790740d-b45d-426c-9110-6e15444609fa.jpg?rect=597,369,3088,2317&width=115&fm=jpeg&q=60"
-    },
-    {
-      "title": "SZ PlusExklusivTSV 1860 München:Frist abgelaufen: Löwen vor dem Insolvenzantrag",
-      "url": "https://www.sueddeutsche.de/sport/tsv-1860-insolvenz-ismaik-news-li.3502599",
+      "title": "SZ PlusExklusivTSV 1860 München:Frist abgelaufen: Löwen stellen Insolvenzantrag",
+      "url": "https://www.sueddeutsche.de/sport/tsv-1860-insolvenz-bestaetigt-ismaik-li.3502599",
       "image_url": "https://www.sueddeutsche.de/2026/06/23/71a64fde-661b-41ac-98e6-1a6c87d486c7.jpg?rect=212,0,3576,2682&width=115&fm=jpeg&q=60"
-    },
-    {
-      "title": "Börse:Die Space-X-Aktie beendet ihren Höhenflug",
-      "url": "https://www.sueddeutsche.de/wirtschaft/boerse-spacex-kursrueckgang-elon-musk-li.3503663",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/b1114988-600a-4e7a-9c4f-ee42b8ea4e60.jpg?rect=565,307,2573,1930&width=115&fm=jpeg&q=60"
     },
     {
       "title": "Meinung:Das ist der beste Plan zur Rettung der Renten seit vielen Jahren",
@@ -101,29 +107,40 @@
       "url": "https://www.sueddeutsche.de/politik/renten-reform-deutschland-vorbild-schweden-li.3503182"
     },
     {
-      "title": "Ist Großbritannien unregierbar?",
-      "teaser": "Das Vereinigte Königreich wird nach dem Rücktritt von Keir Starmer den siebten Premierminister in zehn Jahren bekommen. Was ist bloß los in diesem Land?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/grossbritannien-ruecktritt-premierminister-starmer-e935450/",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/5fc93768-cded-4ed5-8073-fc1c4b02f1d8.jpg?rect=0,182,3500,1968&width=1000&fm=jpeg&q=60"
+      "title": "Sechste WM, zum sechsten Mal Torschütze",
+      "teaser": "Nach dem ersten WM-Spiel wurde Portugals Bekanntheit noch gescholten. Beim 5:0 gegen Usbekistan zeigt Cristiano Ronaldo sich voller Trotz, erzielt zwei Treffer und stellt historische Rekorde auf.",
+      "url": "https://www.sueddeutsche.de/sport/fussball-wm-wm-2026-ronaldo-portugal-usbekistan-rekord-li.3504044",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/46ee7e3d-8cf5-4dbc-8457-218b9288f4b2.jpg?rect=0,83,4000,2250&width=1000&fm=jpeg&q=60"
     },
     {
-      "title": "Äußerlich unerfahren",
-      "teaser": "Andy Burnham wird sehr wahrscheinlich der nächste britische Premierminister werden. Auf welche Außenpolitik müssen sich Europa und der Rest der Welt mit ihm einstellen?",
-      "url": "https://www.sueddeutsche.de/politik/grossbritannien-ruecktritt-starmer-nachfolge-burnham-li.3503298"
-    },
-    {
-      "title": "Live:Zweimal Ronaldo – Portugal führt 5:0",
-      "teaser": "Gegen Usbekistan besorgt Cristiano Ronaldo früh das 1:0. Er ist damit der erste Spieler der Geschichte, der bei sechs verschiedenen Weltmeisterschaften getroffen hat. Danach dreht Portugal so richtig auf.",
-      "url": "https://www.sueddeutsche.de/sport-liveticker/fussball/fifa-wm/ma10713929/portugal_usbekistan/?utm_source=hs_data&utm_medium=widget&utm_campaign=sportsevents",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/0a393b56-fe03-45e1-b679-c79ed0635a6a.jpg?rect=0,100,3500,1969&width=1000&fm=jpeg&q=60"
-    },
-    {
-      "title": "Live:Schlotterbeck soll Mannschaft zum Spiel gegen Ecuador begleiten",
+      "title": "Live:Trauerfall: Deschamps verpasst Frankreichs Spiel gegen Norwegen",
       "url": "https://www.sueddeutsche.de/sport/wm-2026-liveblog-news-schlotterbeck-ecuador-li.3492650"
     },
     {
       "title": "Schotten trinken in Boston die Alkoholbestände fast leer",
       "url": "https://www.sueddeutsche.de/sport/wm-2026-schottland-fans-boston-party-usa-liebe-li.3503424"
+    },
+    {
+      "title": "Live:Ganz schwache erste Hälfte – England enttäuscht gegen Ghana",
+      "teaser": "Mbappé, Messi, Ronaldo, Haaland: Diese WM ist das Turnier der bekannten Angreifer. Auch Harry Kane traf schon zweimal – doch er und seine Engländer tun sich schwer gegen Ghana.",
+      "url": "https://www.sueddeutsche.de/sport-liveticker/fussball/fifa-wm/ma10713947/england_ghana/?utm_source=hs_data&utm_medium=widget&utm_campaign=sportsevents",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/fac3aef7-a56f-44c4-83d6-c48c457e8018.jpg?rect=0,112,4000,2250&width=630&fm=jpeg&q=60"
+    },
+    {
+      "title": "Rücktritt von Keir Starmer:Ist Großbritannien unregierbar?",
+      "teaser": "Das Vereinigte Königreich wird nach dem Rücktritt von Keir Starmer den siebten Premierminister in zehn Jahren bekommen. Was ist bloß los in diesem Land?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/politik/grossbritannien-ruecktritt-premierminister-starmer-e935450/",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/5fc93768-cded-4ed5-8073-fc1c4b02f1d8.jpg?rect=0,182,3500,1968&width=630&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ PlusGroßbritannien:Nachfolger Andy Burnham: Auf welche Politik muss sich Europa einstellen?",
+      "url": "https://www.sueddeutsche.de/politik/grossbritannien-ruecktritt-starmer-nachfolge-burnham-li.3503298"
+    },
+    {
+      "title": "SZ Magazin:„Gegen das wirksamste Medikament bestehen die meisten Vorurteile“",
+      "teaser": "Millionen Menschen haben auch weit über die Pubertät hinaus Akne. Die Erkrankung hinterlässt oft Narben und belastet die Psyche. Ein Dermatologe erklärt, wie man sie dauerhaft loswerden kann.",
+      "url": "https://www.sueddeutsche.de/magazin/gesundheit/akne-hautgesundheit-therapie-narben-li.3497267",
+      "image_url": "https://www.sueddeutsche.de/2026/06/11/af6645cc-b6fe-49d8-b0b1-53f83929cde4.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
       "title": "Hitzewelle:Ist das ein normaler Sommer – oder der Klimawandel?",
@@ -132,14 +149,8 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/23/1fc97148-b20e-42cc-9f5e-e39766492e74.jpg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "SZ PlusBadespaß:„Was Freibäder angeht, ist Deutschland ein großartiges Land“",
-      "url": "https://www.sueddeutsche.de/reise/freibad-schwimmbad-erfahrungen-tipps-li.3495565"
-    },
-    {
-      "title": "Medizin:Mehr Darmkrebs bei jungen Menschen: Warum Experten trotzdem nicht alarmiert sind",
-      "teaser": "Die Zahl der Krankheitsfälle steigt in Deutschland deutlich langsamer als in den USA. Auf welche Warnzeichen auch jüngere Menschen dennoch achten sollten.",
-      "url": "https://www.sueddeutsche.de/gesundheit/darmkrebs-deutschland-faelle-anstieg-junge-menschen-li.3503660",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/0e2c60d0-0335-4c1d-885c-441b97eba114.jpg?rect=0,142,4000,2250&width=630&fm=jpeg&q=60"
+      "title": "LiveWetter:Städte und Kommunen fordern zum Wassersparen auf",
+      "url": "https://www.sueddeutsche.de/panorama/wetter-hitze-news-liveblog-wasser-sparen-staedte-li.3502376"
     },
     {
       "title": "„Ich finde es schade, dass Sie leiser geworden sind“",
@@ -148,19 +159,19 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/23/f833b86b-a3e2-40c7-8db1-b1fbc415526c.jpg?rect=0,149,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
+      "title": "Meinungsfreiheit in Deutschland:Die Kritik der UN hat Gewicht",
+      "url": "https://www.sueddeutsche.de/meinung/deutschland-israel-kritik-gaza-meinungsfreiheit-kommentar-li.3503675",
+      "image_url": "https://www.sueddeutsche.de/2024/12/20/778210d1-97e2-491c-a0c0-ea32a49cb1f8.jpeg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
+    },
+    {
       "title": "Hitzewelle:Fast 40 Grad und der bayerische Landtag schafft sein Klimaziel ab",
       "url": "https://www.sueddeutsche.de/bayern/hitze-40-grad-bayern-klimaziel-abgeschafft-soeder-landtag-li.3503627",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/7ac63e48-c28f-4747-8b0d-b12d2712f328.jpg?rect=0,99,3203,1802&width=630&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2025/04/07/dc7436ec-e134-4fe4-b8d4-fd5a86b154fa.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
+      "image_title": "Portrait undefined Thomas Balbierer"
     },
     {
       "title": "Commerzbank:Der Bund sollte seinen Einfluss in dieser Übernahmeschlacht nutzen",
       "url": "https://www.sueddeutsche.de/meinung/commerzbank-unicredit-staat-einfluss-kommentar-li.3502074"
-    },
-    {
-      "title": "Großbritannien:Dieser Rücktritt erzählt so viel über den Zustand von Gesellschaft und Politik",
-      "url": "https://www.sueddeutsche.de/meinung/grossbritannien-labour-keir-starmer-ruecktritt-brexit-kommentar-li.3502075",
-      "image_url": "https://www.sueddeutsche.de/2024/07/15/e770cc38-7406-496a-80c2-5e293513e44f.png?width=45&ar=1:1&fit=crop&fm=png&q=60",
-      "image_title": "Portrait Korrespondent Vereinigtes Königreich und Irland Michael Neudecker"
     },
     {
       "title": "US-Notenbank:Greenspans Vermächtnis gilt es zu wahren – mehr denn je",
@@ -175,10 +186,10 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/19/50ac5904-60bf-44cf-805a-de3fc321b901.jpg?rect=0,0,1920,1080&width=1000&fm=jpeg&q=60"
     },
     {
-      "title": "„Tatort“ und „Polizeiruf“:„Was passiert hier mit dem Osten?“",
-      "teaser": "Die Schauspielerin Claudia Michelsen ermittelt im „Polizeiruf“ Magdeburg – der wie der Dresdner „Tatort“ für drei Jahre eingespart werden soll. Sie und Produzent Sascha Schwingel protestieren.",
-      "url": "https://www.sueddeutsche.de/medien/claudia-michelsen-polizeiruf-tatort-mdr-pause-kritik-li.3501620",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/a42cd05f-5c15-4a2c-a603-744a9ed6be87.jpg?rect=0,0,4000,2250&width=465&fm=jpeg&q=60"
+      "title": "Mehr Darmkrebs bei jungen Menschen: Warum Experten trotzdem nicht alarmiert sind",
+      "teaser": "Die Zahl der Krankheitsfälle steigt in Deutschland deutlich langsamer als in den USA. Auf welche Warnzeichen auch jüngere Menschen dennoch achten sollten.",
+      "url": "https://www.sueddeutsche.de/gesundheit/darmkrebs-deutschland-faelle-anstieg-junge-menschen-li.3503660",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/0e2c60d0-0335-4c1d-885c-441b97eba114.jpg?rect=0,142,4000,2250&width=465&fm=jpeg&q=60"
     },
     {
       "title": "USA:Der hat gut reden",
@@ -187,20 +198,20 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/23/d855006b-3b4e-4337-8d7a-2919a2304638.jpg?rect=0,0,2048,1152&width=465&fm=jpeg&q=60"
     },
     {
-      "title": "Guide Michelin:Das lukrative Geschäft mit den Sternen",
-      "teaser": "Der Gourmetführer Michelin richtet sich neu aus. Die grünen Sterne für Nachhaltigkeit werden gestrichen, dafür gibt es Bewertungen in mehr Regionen und Ländern. Damit die Tester überhaupt kommen, fließt Geld.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/michelin-guide-deutschland-sterne-hotels-wein-li.3485876",
-      "image_url": "https://www.sueddeutsche.de/2026/06/22/f5646678-0bb7-4343-aac7-51d70c0ad9f3.jpg?rect=0,417,4000,2250&width=465&fm=jpeg&q=60"
+      "title": "„Tatort“ und „Polizeiruf“:„Was passiert hier mit dem Osten?“",
+      "teaser": "Die Schauspielerin Claudia Michelsen ermittelt im „Polizeiruf“ Magdeburg – der wie der Dresdner „Tatort“ für drei Jahre eingespart werden soll. Sie und Produzent Sascha Schwingel protestieren.",
+      "url": "https://www.sueddeutsche.de/medien/claudia-michelsen-polizeiruf-tatort-mdr-pause-kritik-li.3501620",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/a42cd05f-5c15-4a2c-a603-744a9ed6be87.jpg?rect=0,0,4000,2250&width=465&fm=jpeg&q=60"
     },
     {
-      "title": "Medien:Burda-CEO Jan Wachtel verlässt Unternehmen wieder",
-      "teaser": "Erst im Januar hatte er im Medienkonzern hinter „Bunte“ und „Focus“ angefangen. Seine Umbaupläne konnte er im Verwaltungsrat und bei den Verlagserben Jacob und Elisabeth Burda offenbar nicht durchsetzen.",
-      "url": "https://www.sueddeutsche.de/medien/burda-jan-wachtel-eli-varn-ceo-erben-welte-li.3503631"
+      "title": "Wissenschaft:Bayern führt Strafenkatalog für Studierende ein – und verspricht eine Milliarde für marode Gebäude",
+      "teaser": "Das Kabinett von Markus Söder befasst sich mit einer Reihe von Wissenschaftsthemen. Störenden Studenten droht in Zukunft der Rauswurf.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-strafe-studierende-soeder-blume-milliarde-bau-sanierung-uni-li.3503606"
     },
     {
-      "title": "Statistisches Bundesamt:Jeder Fünfte kann sich keinen Urlaub leisten",
-      "teaser": "Eine Woche Erholung am Meer oder in den Bergen? Das ist für viele Menschen hierzulande finanziell nicht drin. Für eine Bevölkerungsgruppe fällt der Urlaub besonders oft aus.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/urlaub-deutschland-fuenfte-reise-li.3503624"
+      "title": "Öffentlich-rechtlicher Rundfunk:Rekonstruktion eines teuren Streits",
+      "teaser": "Ist die Erhöhung des Rundfunkbeitrags politische Selbstzerstörung? Das Bundesverfassungsgericht verhandelt die Klage von ARD und ZDF gegen die Verweigerung der Bundesländer – mit erstaunlichen Einsichten.",
+      "url": "https://www.sueddeutsche.de/medien/rundfunkbeitrag-bundesverfassungsgericht-ard-zdf-klage-laender-li.3483739"
     },
     {
       "title": "TSV 1860 München:Von diesem Stadion träumen die Löwen",
@@ -219,9 +230,9 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/23/2c1e61d6-f6d8-48ae-a783-755c5a77ceda.jpg?rect=288,0,2357,1768&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "ExklusivTSV 1860 München:Frist abgelaufen: Löwen vor dem Insolvenzantrag",
-      "teaser": "Mehr als sieben Millionen Euro fehlen: Welches Angebot Hasan Ismaik gemacht hat, warum der Verein es nicht annahm – und was ein Insolvenzverwalter tun könnte, um die Profigesellschaft der Löwen doch noch am Leben zu halten.",
-      "url": "https://www.sueddeutsche.de/sport/tsv-1860-insolvenz-ismaik-news-li.3502599",
+      "title": "ExklusivTSV 1860 München:Frist abgelaufen: Löwen stellen Insolvenzantrag",
+      "teaser": "Mehr als sieben Millionen Euro fehlen: Welches Angebot Hasan Ismaik gemacht hat, warum der Verein es nicht annahm – und was der Insolvenzverwalter nun tun könnte, um die Profigesellschaft des TSV 1860 München doch noch am Leben zu halten.",
+      "url": "https://www.sueddeutsche.de/sport/tsv-1860-insolvenz-bestaetigt-ismaik-li.3502599",
       "image_url": "https://www.sueddeutsche.de/2026/06/23/71a64fde-661b-41ac-98e6-1a6c87d486c7.jpg?rect=0,432,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
@@ -241,10 +252,10 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/23/57516f72-4e82-47e6-b0e6-b10e8975c0c6.jpg?rect=89,94,1283,722&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "US-Doku:So konzentriert geht es im deutschen Fernsehen selten zu",
-      "teaser": "Der Arte-Zweiteiler „America, who are you?“ erzählt erhellend und originell die Mentalitätsgeschichte des uns fremdgewordenen Landes.",
-      "url": "https://www.sueddeutsche.de/medien/usa-unabhaengigkeitserklaerung-arte-doku-us-geschichte-li.3497352",
-      "image_url": "https://www.sueddeutsche.de/2026/06/22/6bc2c324-da22-45fc-8ad2-35fd7e627c27.jpg?rect=0,144,2953,1661&width=465&fm=jpeg&q=60"
+      "title": "Alpencrash in Oberstaufen:Frust ablassen mit Baseballschläger und Vorschlaghammer",
+      "teaser": "Manchmal tut es gut, einfach mal um sich zu schlagen: Im Alpencrash im Allgäu darf man das - gegen Bezahlung und mit Schutzausrüstung. Warum nicht nur Männer hier die Sau rauslassen.",
+      "url": "https://www.sueddeutsche.de/bayern/oberstaufen-allgaeu-alpencrash-wutraum-frust-vorschlaghammer-li.3501570",
+      "image_url": "https://www.sueddeutsche.de/2026/06/19/b362339a-fe7d-4088-92b9-606f929ee045.jpg?rect=197,0,987,555&width=465&fm=jpeg&q=60"
     },
     {
       "title": "SZ JetztWhatsapp-Kolumne:„Du hast meine Hochzeit als Werbeplattform ausgenutzt“",
@@ -494,14 +505,14 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/23/67624493-b5cf-4603-8c90-5f5694a545c8.jpg?rect=0,144,3000,1687&width=630&fm=jpeg&q=60"
     },
     {
-      "title": "Wissenschaft:Bayern führt Strafenkatalog für Studierende ein – und verspricht eine Milliarde für marode Gebäude",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-strafe-studierende-soeder-blume-milliarde-bau-sanierung-uni-li.3503606",
-      "image_url": "https://www.sueddeutsche.de/2026/06/23/fdb8046b-d7f5-495b-8337-6ef3e7cfcfa0.jpg?rect=323,0,3355,2516&width=217&fm=jpeg&q=60"
-    },
-    {
       "title": "SZ PlusBergretter:„Wir urteilen nicht darüber, was die Leute in den Bergen so treiben“",
       "url": "https://www.sueddeutsche.de/bayern/bergwacht-grainau-br-serie-in-hoechster-not-zugspitze-interview-einsaetze-li.3497509",
       "image_url": "https://www.sueddeutsche.de/2026/06/22/e75511df-fecf-47b4-9bd8-f9a6a7419729.jpg?rect=1221,10,2109,1582&width=217&fm=jpeg&q=60"
+    },
+    {
+      "title": "Prozess in Nürnberg:200 000 Euro aus der Asservatenkammer – Polizeiangestellte gesteht",
+      "url": "https://www.sueddeutsche.de/bayern/nuernberg-polizeipraesidium-geld-asservatenkammer-prozess-gericht-li.3503986",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/1d782053-94e2-4eb4-83ae-4304ff0e4354.jpg?rect=0,0,3556,2667&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Rücktritt in Großbritannien:Warum sich Keir Starmer dem Druck beugen muss",
@@ -641,14 +652,14 @@
       "image_url": "https://www.sueddeutsche.de/2024/04/21/1acb4ef0-73a7-45d0-85ab-ac096344c132.jpeg?rect=0,209,4000,2250&width=630&fm=jpeg&q=60"
     },
     {
+      "title": "SZ PlusDebatte:Hier unterschreibt ein Dealmaker seine Kapitulation",
+      "url": "https://www.sueddeutsche.de/kultur/trump-snyder-iran-krieg-li.3503746",
+      "image_url": "https://www.sueddeutsche.de/2026/06/23/745fedee-5f63-40f1-a8b7-fb03071307ce.jpg?rect=0,1200,2400,1800&width=217&fm=jpeg&q=60"
+    },
+    {
       "title": "SZ PlusGroßbritannien:Wir sind raus",
       "url": "https://www.sueddeutsche.de/kultur/uk-starmer-eu-farage-ukip-brejoin-breturn-li.3464302",
       "image_url": "https://www.sueddeutsche.de/2026/06/22/6ff6175c-9337-4789-88e7-f5a1c5c3a1fe.jpg?rect=695,562,2413,1810&width=217&fm=jpeg&q=60"
-    },
-    {
-      "title": "SZ PlusTheaterfestival in Chemnitz:Am Limit",
-      "url": "https://www.sueddeutsche.de/kultur/chemnitz-theater-der-welt-festival-schauspielhaus-sanierung-li.3502766",
-      "image_url": "https://www.sueddeutsche.de/2026/06/22/de7119eb-0ff7-4b26-b992-b5e529d8f312.jpg?rect=222,0,3556,2667&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Streaming:Erst Drachen, dann Demokratie",
@@ -683,20 +694,20 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/19/ad19ed48-af37-4c3f-8439-7901f2266ab8.jpg?rect=125,0,749,562&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "SZ MagazinGesundheit:»Gegen das wirksamste Medikament bestehen die meisten Vorurteile«",
-      "teaser": "Millionen Menschen haben auch weit über die Pubertät hinaus Akne. Die Erkrankung hinterlässt oft Narben und belastet die Psyche enorm. Der Dermatologe Alexander Kreuter erklärt, wie man sie nachhaltig loswerden kann.",
-      "url": "https://www.sueddeutsche.de/magazin/gesundheit/akne-hautgesundheit-therapie-narben-li.3497267",
-      "image_url": "https://www.sueddeutsche.de/2026/06/11/af6645cc-b6fe-49d8-b0b1-53f83929cde4.jpg?rect=0,0,4000,2250&width=630&fm=jpeg&q=60"
-    },
-    {
-      "title": "SZ PlusMedizin:„Aus den Sonnenbränden von damals kann heute noch Krebs entstehen“",
+      "title": "Medizin:„Aus den Sonnenbränden von damals kann heute noch Krebs entstehen“",
+      "teaser": "Dass man sich besser keinen Sonnenbrand holen soll, ist mittlerweile Volkswissen. Aber wie schlimm ist es, wenn man doch mal einen bekommt? Die Umweltmedizinerin Claudia Traidl-Hoffmann im Interview.",
       "url": "https://www.sueddeutsche.de/gesundheit/hautkrebsrisiko-sonnenbraende-schutz-praevention-li.3492016",
-      "image_url": "https://www.sueddeutsche.de/2026/06/20/184393e9-6b8f-4c62-b8d7-6ca88d58de25.jpg?rect=215,0,3435,2576&width=217&fm=jpeg&q=60"
+      "image_url": "https://www.sueddeutsche.de/2026/06/20/184393e9-6b8f-4c62-b8d7-6ca88d58de25.jpg?rect=0,201,3864,2173&width=630&fm=jpeg&q=60"
     },
     {
       "title": "SZ PlusPsychiatrie:Wie man bei mehr als 30 Grad einen kühlen Kopf bewahrt",
       "url": "https://www.sueddeutsche.de/gesundheit/hitze-deutschland-psyche-auswirkungen-gesundheit-li.3278111",
       "image_url": "https://www.sueddeutsche.de/2026/06/19/d8953b95-83c7-4bae-918d-c9fcc47a085d.jpg?rect=222,0,3556,2667&width=217&fm=jpeg&q=60"
+    },
+    {
+      "title": "SZ PlusMedizin:Warum bekam Mette-Marit so schnell eine neue Lunge?",
+      "url": "https://www.sueddeutsche.de/gesundheit/mette-marit-lungentransplantation-li.3500946",
+      "image_url": "https://www.sueddeutsche.de/2026/06/18/34514f4f-fefa-4fee-ab77-f14aa15e0535.jpg?rect=0,126,2703,2027&width=217&fm=jpeg&q=60"
     },
     {
       "title": "Nationalparks in Kalifornien:Das schönere Amerika",
@@ -763,36 +774,36 @@
       "image_url": "https://www.sueddeutsche.de/2026/06/10/1df041f1-faf3-4469-ae3f-a49d5164b191.jpg?rect=0,1417,2835,2126&width=217&fm=jpeg&q=60"
     },
     {
-      "title": "Guide Michelin:Zwei Zwei-Sterne-Restaurants in Schleswig-Holstein",
-      "url": "https://www.sueddeutsche.de/stil/guide-michelin-zwei-zwei-sterne-restaurants-in-schleswig-holstein-dpa.urn-newsml-dpa-com-20090101-260623-930-271276"
+      "title": "Bahn:Bahnverkehr wegen Funkstörung bundesweit eingestellt",
+      "url": "https://www.sueddeutsche.de/bayern/bahn-bahnverkehr-wegen-funkstoerung-bundesweit-eingestellt-dpa.urn-newsml-dpa-com-20090101-260623-930-271551"
     },
     {
       "title": "Judentum in Berlin:Jüdische Gemeinde mit eigenem blauen Buddy-Bär",
       "url": "https://www.sueddeutsche.de/leben/judentum-in-berlin-juedische-gemeinde-mit-eigenem-blauen-buddy-baer-dpa.urn-newsml-dpa-com-20090101-260623-930-271264"
     },
     {
-      "title": "Fußball-Nationalmannschaft:Nach Frisuren-Scherz: Der „echte Ronaldo“ beschenkt Leweling",
-      "url": "https://www.sueddeutsche.de/sport/fussball-nationalmannschaft-nach-frisuren-scherz-der-echte-ronaldo-beschenkt-leweling-dpa.urn-newsml-dpa-com-20090101-260623-930-271255"
+      "title": "Falsch geraten:NBA-Star Wagner hält „Winston-Salem“ für WM-Kicker",
+      "url": "https://www.sueddeutsche.de/sport/falsch-geraten-nba-star-wagner-haelt-winston-salem-fuer-wm-kicker-dpa.urn-newsml-dpa-com-20090101-260623-930-271544"
     },
     {
-      "title": "Spitzengastronomie:Münchner „The Cloud“ erhält zwei Michelin-Sterne zum Start",
-      "url": "https://www.sueddeutsche.de/bayern/spitzengastronomie-muenchner-the-cloud-erhaelt-zwei-michelin-sterne-zum-start-dpa.urn-newsml-dpa-com-20090101-260623-930-271240"
+      "title": "Unfälle:18-Jähriger stirbt bei Badeunfall in Höxter",
+      "url": "https://www.sueddeutsche.de/panorama/unfaelle-18-jaehriger-stirbt-bei-badeunfall-in-hoexter-dpa.urn-newsml-dpa-com-20090101-260623-930-271057"
     },
     {
-      "title": "Verletzung des Verteidigers:WM-Aus: Wie Keven Schlotterbeck mit seinem Bruder leidet",
-      "url": "https://www.sueddeutsche.de/sport/verletzung-des-verteidigers-wm-aus-wie-keven-schlotterbeck-mit-seinem-bruder-leidet-dpa.urn-newsml-dpa-com-20090101-260623-930-271233"
+      "title": "Fußball-WM:Tod der Mutter: Frankreichs WM-Coach Deschamps reist ab",
+      "url": "https://www.sueddeutsche.de/sport/fussball-wm-tod-der-mutter-frankreichs-wm-coach-deschamps-reist-ab-dpa.urn-newsml-dpa-com-20090101-260623-930-271512"
     },
     {
-      "title": "Sterneköche:Restaurant in Deidesheim steigt in Drei-Sterne-Liga auf",
-      "url": "https://www.sueddeutsche.de/stil/sternekoeche-restaurant-in-deidesheim-steigt-in-drei-sterne-liga-auf-dpa.urn-newsml-dpa-com-20090101-260623-930-271224"
+      "title": "Ursache noch unklar:Brand in Filderhalle - drei Verletzte und Millionenschaden",
+      "url": "https://www.sueddeutsche.de/panorama/ursache-noch-unklar-brand-in-filderhalle-drei-verletzte-und-millionenschaden-dpa.urn-newsml-dpa-com-20090101-260623-930-268430"
     },
     {
       "title": "„Michelin Guide“:Sterneregen für Spitzenköche - Frauen fehlen",
       "url": "https://www.sueddeutsche.de/stil/michelin-guide-sterneregen-fuer-spitzenkoeche-frauen-fehlen-dpa.urn-newsml-dpa-com-20090101-260623-930-271213"
     },
     {
-      "title": "Restaurantführer:Wenig Bewegung am Hamburger Gastro-Sternenhimmel",
-      "url": "https://www.sueddeutsche.de/stil/restaurantfuehrer-wenig-bewegung-am-hamburger-gastro-sternenhimmel-dpa.urn-newsml-dpa-com-20090101-260623-930-271200"
+      "title": "Fußball-Weltmeisterschaft:US-Regierung lockert Reiseauflagen für Irans WM-Team",
+      "url": "https://www.sueddeutsche.de/sport/fussball-weltmeisterschaft-us-regierung-lockert-reiseauflagen-fuer-irans-wm-team-dpa.urn-newsml-dpa-com-20090101-260623-930-271499"
     },
     {
       "title": "SZ PlusKreuzworträtsel:15 mal 15 – füllt Ihr Wissen alle Felder?",
