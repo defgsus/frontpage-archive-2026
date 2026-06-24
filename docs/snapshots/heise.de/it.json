@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T06:02:30",
+  "timestamp": "2026-06-24T10:11:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,120 @@
   ],
   "articles": [
     {
+      "title": "Vom Umgang mit Sicherheitslücken im Linux-Kernel",
+      "teaser": "Sicherheitslücke im Kernel gefixt, von den Distributionen aber nicht bemerkt: Der Fall „Copy Fail“ zeigt, was in der Kommunikation der Entwickler schiefläuft.",
+      "url": "https://www.heise.de/hintergrund/Vom-Umgang-mit-Sicherheitsluecken-im-Linux-Kernel-11293828.html",
+      "image_title": "Ein Mann mit Brille schaut erschrocken auf eine lange Liste von Fehlern, die ein Drucker ausgibt."
+    },
+    {
+      "title": "Windows Update: Vorschau macht Rechtsklick-Bereich auf Touchpads einstellbar",
+      "teaser": "Microsoft verteilt die Update-Vorschau für Windows 11 auf den Software-Flicken für den Juli-Patchday. Es gibt kleinere Verbesserungen.",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-macht-Rechtsklick-Bereich-auf-Touchpads-einstellbar-11342693.html",
+      "image_title": "Windows Updates verfügbar: Herunterladen"
+    },
+    {
+      "title": "Neue Hardware: Diese Produkte stehen bei Apple in diesem Jahr noch aus",
+      "teaser": "Wie oft gab es auf Apples Entwicklerkonferenz WWDC in diesem Monat keine neue Hardware zu sehen. Die Pipeline für Herbst und Winter ist dennoch gut gefüllt.",
+      "url": "https://www.heise.de/news/Neue-Hardware-Diese-Produkte-stehen-bei-Apple-in-diesem-Jahr-noch-aus-11332781.html",
+      "image_title": "Apple-Geräte mit aktuellen Betriebssystemen"
+    },
+    {
+      "title": "Claude mischt sich ein: Der neue proaktive KI-Kollege für Slack",
+      "teaser": "Mit Claude Tag macht Anthropic sein KI-Modell zum aktiven Teamkollegen in Slack. Er lernt aus dem Kanalverlauf und erledigt Aufgaben selbstständig.",
+      "url": "https://www.heise.de/news/Delegieren-statt-chatten-Claude-Tag-uebernimmt-in-Slack-die-Arbeit-11342617.html",
+      "image_title": "Ein orangefarbenes Schild mit dem Text \"@Claude\" in weißer Schrift."
+    },
+    {
+      "title": "RatgeberChiphersteller im Höhenflug: So profitieren Anleger von der zweiten KI-Welle",
+      "url": "https://www.heise.de/ratgeber/Chiphersteller-im-Hoehenflug-So-profitieren-Anleger-von-der-zweiten-KI-Welle-11312877.html"
+    },
+    {
+      "title": "TestsZweit-Tresor: Sicherer Datenspeicher Uplock im Test",
+      "url": "https://www.heise.de/tests/Zweit-Tresor-Sicherer-Datenspeicher-Uplock-im-Test-11332189.html",
+      "image_title": "Uplock auf verschiedenen Plattformen"
+    },
+    {
+      "title": "RatgeberKI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann",
+      "url": "https://www.heise.de/ratgeber/KI-Kosten-reduzieren-Wie-man-mit-Prompt-Caching-messbar-Token-sparen-kann-11335003.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "BSI warnt vor Auswirkungen von KI auf Cybersicherheit",
+      "teaser": "Das BSI hat sich mit den Auswirkungen der massiven Verbreitung von Künstlicher Intelligenz auf die IT-Sicherheit auseinandergesetzt.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-Auswirkungen-von-KI-auf-Cybersicherheit-11342418.html",
+      "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
+    },
+    {
+      "title": "Lange Vorgeschichte: Wikipedia-Mitgründer auf der Online-Enzyklopädie gesperrt",
+      "teaser": "Kurz nach der Gründung der Wikipedia haben sich die beiden Gründer überworfen. Jetzt wurde Larry Sanger wegen des Verstoßes gegen Regeln der Community gesperrt.",
+      "url": "https://www.heise.de/news/Lange-Vorgeschichte-Wikipedia-Mitgruender-auf-der-Online-Enzyklopaedie-gesperrt-11342498.html",
+      "image_title": "Wikipedia-Startseite auf einem Smartphone"
+    },
+    {
+      "title": "Softwarebranche muss Geschäftsmodelle umbauen",
+      "teaser": "Der Bitkom prognostiziert einen tiefgreifenden Umbau der Softwarebranche. KI-Agenten verschieben den Fokus von Arbeitszeit zu messbaren Ergebnissen.",
+      "url": "https://www.heise.de/news/Softwarebranche-muss-Geschaeftsmodelle-umbauen-11342506.html",
+      "image_title": "3,5-Zoll-Diskette"
+    },
+    {
+      "title": "Zweite Entwicklerbeta von iOS 27 und macOS 27: Das ist neu",
+      "teaser": "Apple legt zwei Wochen nach den ersten Vorabversionen neue Entwicklerbetas seiner frischen Betriebssysteme vor. Es gibt einige Optimierungen.",
+      "url": "https://www.heise.de/news/Zweite-Entwicklerbeta-von-iOS-27-und-macOS-27-Das-ist-neu-11341442.html",
+      "image_title": "iOS 27 mit Siri AI"
+    },
+    {
+      "title": "Warum das Healthtech-Unternehmen Heidi auf den deutschen Markt setzt",
+      "teaser": "Das australische Unternehmen Heidi baut weltweit seine Präsenz aus. Im Interview erklärt Heidis Chief Medical Officer, warum Deutschland so besonders ist.",
+      "url": "https://www.heise.de/hintergrund/Warum-das-Healthtech-Unternehmen-Heidi-auf-den-deutschen-Markt-setzt-11342030.html",
+      "image_title": "Arzt mit einem Tablet, darüber dgitale Symbole für KI etc."
+    },
+    {
+      "title": "Webentwicklung: Vite 8.1 soll große Anwendungen beschleunigen",
+      "teaser": "Ein experimenteller neuer Modus des Frontend-Build-Tools soll die Performance großer Anwendungen verbessern.",
+      "url": "https://www.heise.de/news/Webentwicklung-Vite-8-1-soll-grosse-Anwendungen-beschleunigen-11342384.html",
+      "image_title": "Laufende Sanduhr im Vordergrund. Im Hintergrund sitzt eine Person in weißem Hemd am Laptop."
+    },
+    {
+      "title": "Thunderbird: Webmail-Alpha kommt im nächsten Monat",
+      "teaser": "Thunderbird passt Roadmap an: Eine Webmail-Oberfläche kommt schon bald als frühe Alpha. Auch 2FA, Mailzustellung und Onboarding werden verbessert.",
+      "url": "https://www.heise.de/news/Thunderbird-Webmail-Alpha-kommt-im-naechsten-Monat-11342374.html",
+      "image_title": "E-Mail-Icon auf einem Bildschirm"
+    },
+    {
+      "title": "AlertHome Assistant: Update stopft Informationsleck",
+      "teaser": "Die jüngeren Home-Assistant-Updates stopfen unter anderem Informationslecks. Zudem gibt es das Home Assistant OS in neuer Version.",
+      "url": "https://www.heise.de/news/Home-Assistant-Update-stopft-Informationsleck-11342266.html",
+      "image_title": "Home-Assistant-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "„Passwort“ Folge 60: Sinn und Unsinn von CVSS, SSVC, EPSS und Co",
+      "teaser": "Der Podcast widmet sich der Bewertung von Sicherheitslücken und inspiziert verschiedene dafür vorgesehene Kennzahlen kritisch.",
+      "url": "https://www.heise.de/news/Passwort-Folge-60-Sinn-und-Unsinn-von-CVSS-SSVC-EPSS-und-Co-11327316.html",
+      "image_title": "Bild des Podcasts"
+    },
+    {
+      "title": "Ergebnis ohne Erkenntnis: Was uns AlphaGo über GenAI lehrt",
+      "teaser": "Generative KI liefert Ergebnisse, die niemand mehr nachvollzieht. AlphaGo zeigte das Muster 2016. Wann genügt Verlässlichkeit und wann braucht es Verstehen?",
+      "url": "https://www.heise.de/blog/Ergebnis-ohne-Erkenntnis-Was-uns-AlphaGo-ueber-GenAI-lehrt-11321016.html",
+      "image_title": "Abstrahiertes Schaubild, das die Eingangsfrage des Artikel stellt: Wann genügt es bei Ergebnissen von generativer KI Verlässlichkeit und wann braucht es Verstehen?"
+    },
+    {
+      "title": "Spuren von Cyberangriffen führen oft nach Russland",
+      "teaser": "Deutschland ist Hotspot für Ransomware. Experte erklärt, warum Kliniken im Visier sind und Russland als sicherer Hafen für Cyberkriminelle dient.",
+      "url": "https://www.heise.de/news/Spuren-von-Cyberangriffen-fuehren-oft-nach-Russland-11342220.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
+      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11331962.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
       "title": "Ausgehend von Südkorea: Tech- und IT-Aktien teils deutlich gefallen",
       "teaser": "Die Aktienkurse von SK Hynix und Samsung haben am Dienstag nachgegeben, weltweit sind in der Folge primär Tech-Aktien gefallen. Am Mittwoch ging es weiter.",
       "url": "https://www.heise.de/news/Ausgehend-von-Suedkorea-Tech-und-IT-Aktien-teils-deutlich-gefallen-11342186.html",
       "image_title": "Rote Handelskurve, die nach unten zeigt"
-    },
-    {
-      "title": "KI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann",
-      "teaser": "Prompt-Caching zählt zu den wirksamsten und gleichzeitig einfachsten Methoden, Antworten von Sprachmodellen zu beschleunigen und Kosten zu sparen.",
-      "url": "https://www.heise.de/ratgeber/KI-Kosten-reduzieren-Wie-man-mit-Prompt-Caching-messbar-Token-sparen-kann-11335003.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "Warum humanoide Roboter die nächste große Chip-Wachstumswelle sein könnten",
@@ -41,107 +145,6 @@
       "title": "10-Gigabit-Netzwerk für zu Hause: Voraussetzungen und Verkabelung",
       "teaser": "Die Preise für 10G-Hardware fallen und machen das Thema so auch für kleine Büros und daheim spannend. Wir beleuchten die Voraussetzungen und den Nutzen.",
       "url": "https://www.heise.de/ratgeber/10-Gigabit-Netzwerk-fuer-zu-Hause-Voraussetzungen-und-Verkabelung-11259946.html"
-    },
-    {
-      "title": "RatgeberKI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann",
-      "url": "https://www.heise.de/ratgeber/KI-Kosten-reduzieren-Wie-man-mit-Prompt-Caching-messbar-Token-sparen-kann-11335003.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "HintergrundWarum humanoide Roboter die nächste große Chip-Wachstumswelle sein könnten",
-      "url": "https://www.heise.de/hintergrund/Warum-humanoide-Roboter-die-naechste-grosse-Chip-Wachstumswelle-sein-koennten-11317364.html",
-      "image_title": "Ein Roboter mit leuchtenden Augen nimmt Prozessoren in den Mund."
-    },
-    {
-      "title": "Ratgeber10-Gigabit-Netzwerk für zu Hause: Voraussetzungen und Verkabelung",
-      "url": "https://www.heise.de/ratgeber/10-Gigabit-Netzwerk-fuer-zu-Hause-Voraussetzungen-und-Verkabelung-11259946.html"
-    },
-    {
-      "title": "Effiziente KI: Wie neue Modelle die Token-Kosten und RAM-Preise senken könnten",
-      "teaser": "Dass KI Ressourcen verschwendet, ist kein Naturgesetz. Es liegt an den ineffizienten Mechanismen der großen Sprachmodelle. Alternativen kommen, auch aus Europa.",
-      "url": "https://www.heise.de/hintergrund/Effiziente-KI-Wie-neue-Modelle-die-Token-Kosten-und-RAM-Preise-senken-koennten-11098273.html",
-      "image_title": "Zwei Prozessoren auf einer Leiterplatte, einer überhitzt und rauchend."
-    },
-    {
-      "title": "Meta setzt das Mitarbeiter-Tracking für KI-Training nach möglichem Datenleck aus",
-      "teaser": "Die für das KI-Training erfassten Daten vom Mitarbeiter-Tracking sollen nicht ausreichend geschützt sein. Meta Platforms hat die Überwachung vorerst gestoppt.",
-      "url": "https://www.heise.de/news/Meta-setzt-das-Mitarbeiter-Tracking-fuer-KI-Training-nach-moeglichem-Datenleck-aus-11342168.html",
-      "image_title": "Giant,Surveillance,Camera,Spies,A,Man.,No,Secrets,,No,Privacy"
-    },
-    {
-      "title": "3D-Drucker-Deals: Die besten Schnäppchen zum Prime Day – Bambu günstig wie nie",
-      "teaser": "Farbdrucker von Flashforge für 269 Euro, mehrere Bambu-Lab-Drucker zum ersten Mal rabattiert und weitere gute Gründe, um diese Woche einen 3D-Drucker zu kaufen.",
-      "url": "https://www.heise.de/bestenlisten/deals/3d-drucker-deals-die-besten-schnaeppchen-zum-prime-day-bambu-guenstig-wie-nie/dl57txg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Video-KI: ByteDance gibt Vorschau auf Seedance 2.5 mit 30-Sekunden-Clips",
-      "teaser": "Mit Seedance 2.5 plant ByteDance laut einer Vorschau längere Videoclips und verbesserte multimodale Eingaben. Das Modell soll zudem natives 4K unterstützen.",
-      "url": "https://www.heise.de/news/Video-KI-ByteDance-gibt-Vorschau-auf-Seedance-2-5-mit-30-Sekunden-Clips-11341886.html",
-      "image_title": "Bosnia,And,Hercegovina,,Sarajevo,,20.6.2025:,Concept,Of,Using,Seedance,Ai"
-    },
-    {
-      "title": "Erste Krankenkasse bringt Arzttermine in ihre Service-App",
-      "teaser": "Die SBK Krankenkasse integriert die 116117-Terminvermittlung in ihre App. Damit ist sie nach eigenen Angaben Vorreiterin unter den gesetzlichen Kassen.",
-      "url": "https://www.heise.de/news/Erste-Krankenkasse-bringt-Arzttermine-in-ihre-Service-App-11339949.html",
-      "image_title": "Behandlungszimmer"
-    },
-    {
-      "title": "Samsung produziert ab Jahresende High-End-Speicher UFS 5.0",
-      "teaser": "Das Galaxy S27 kommendes Jahr könnte doppelt so schnellen Massenspeicher bekommen wie das S26. Samsung kündigt die UFS-5.0-Serienproduktion an.",
-      "url": "https://www.heise.de/news/Samsung-produziert-ab-Jahresende-High-End-Speicher-UFS-5-0-11341704.html",
-      "image_title": "Renderbild von Speicherbausteinen vor weißem Hintergrund"
-    },
-    {
-      "title": "Fokus auf Nacktheit viel zu eng: Neue Regeln für Weitergabe von Fotos gefordert",
-      "teaser": "Für Millionen Frauen kann die Verbreitung von Fotos dramatische Folgen haben, auch wenn sie harmlos scheinen. Das sollen Berichte aus Pakistan deutlich machen.",
-      "url": "https://www.heise.de/news/Missbrauch-durch-Bilder-Fokus-auf-Nacktheit-laut-Bericht-viel-zu-eng-11341510.html",
-      "image_title": "Zwei Frauenhände, die ein Smartphone halten"
-    },
-    {
-      "title": "Überwachungskamera Eufycam S4 im Test: Top-Tracking & lokales Speichern ohne Abo",
-      "teaser": "Drei Objektive, gutes Tracking und lokale Speicherung überzeugen. Die Homebase Professional S1 bringt Ausfallschutz, aber auch hohe Zusatzkosten.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ueberwachungskamera-eufycam-s4-im-test-top-tracking-und-lokales-speichern-ohne-abo/dnvwx3f?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "HPE: AI-Factory als Turnkey-System",
-      "teaser": "HPE baut seine Private Cloud AI zu einem vorintegrierten Komplettsystem für produktive KI aus.",
-      "url": "https://www.heise.de/news/HPE-AI-Factory-als-Turnkey-System-11341564.html",
-      "image_title": "Glasfaserkabel"
-    },
-    {
-      "title": "BenQ Creative Pro PV3250U: Kontraststarker Profi-Monitor mit hoher Farbtreue",
-      "teaser": "BenQ stellt einen besonders farbtreuen 4K-Monitor mit Thunderbolt 4 vor. Trotz IPS-Panel soll auch der Kontrast hoch sein.",
-      "url": "https://www.heise.de/news/BenQ-Creative-Pro-PV3250U-Kontraststarker-Profi-Monitor-mit-hoher-Farbtreue-11341542.html",
-      "image_title": "BenQ-Monitor auf einem Schreibtisch"
-    },
-    {
-      "title": "heise jobs IT Tag Köln 2026: IT-Jobmesse mit Karriereprogramm",
-      "teaser": "Der heise jobs IT Tag in Köln bringt IT-Fachkräfte und Unternehmen zusammen. Das Rahmenprogramm umfasst Bewerbungsfotos, Speed-Talks und Lebenslaufchecks.",
-      "url": "https://www.heise.de/news/heise-jobs-IT-Tag-Koeln-2026-IT-Jobmesse-mit-Karriereprogramm-11336004.html",
-      "image_title": "Grafik zum heise jobs IT Tag mit sitzender Person, Laptop und großem Veranstaltungslogo auf blauem Hintergrund."
-    },
-    {
-      "title": "GPT-5.5-Cyber schlägt Mythos: Update für Sicherheitsmodell von OpenAI",
-      "teaser": "Mit einer Sicherheitsinitiative geht OpenAI in Konkurrenz zu Anthropics Mythos und bietet zudem einen Sicherheits-Review-Service für Open-Source-Projekte.",
-      "url": "https://www.heise.de/news/GPT-5-5-Cyber-schlaegt-Mythos-Update-fuer-Sicherheitsmodell-von-OpenAI-11341394.html",
-      "image_title": "Humanoide patcht eine Lücke"
-    },
-    {
-      "title": "Machine Learning mit Python – KI und Deep Learning in 5 Sessions erklärt",
-      "teaser": "Ab dem 26.08. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
-      "url": "https://www.heise.de/news/Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-erklaert-11338919.html"
-    },
-    {
-      "title": "Neuer Terminalschutz: So will Apple ClickFix-Angriffe abwehren",
-      "teaser": "Aktuelle macOS-Versionen können potenziell problematische Terminal-Eingaben abfangen. Die Angriffsform wird populärer.",
-      "url": "https://www.heise.de/news/Neuer-Terminalschutz-So-will-Apple-ClickFix-Angriffen-abwehren-11340313.html",
-      "image_title": "macOS-Terminal (Illustration)"
-    },
-    {
-      "title": "Teams: Microsoft verpasst Benachrichtigungen einen Feinschliff",
-      "teaser": "Microsoft kündigt Verbesserungen und Optimierungen bei den Benachrichtigungen in Teams an und liefert erste bereits aus.",
-      "url": "https://www.heise.de/news/Teams-Microsoft-verpasst-Benachrichtigungen-einen-Feinschliff-11341212.html",
-      "image_title": "Das Microsoft Teams Logo wird auf einem Smartphone Bildschirm angezeigt."
     },
     {
       "title": "NewsSatellit erfasst starke GPS-Störungen von Frankreich bis Pakistan",
