@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T10:11:01",
+  "timestamp": "2026-06-24T13:08:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,71 @@
   ],
   "articles": [
     {
-      "title": "Vom Umgang mit Sicherheitslücken im Linux-Kernel",
-      "teaser": "Sicherheitslücke im Kernel gefixt, von den Distributionen aber nicht bemerkt: Der Fall „Copy Fail“ zeigt, was in der Kommunikation der Entwickler schiefläuft.",
-      "url": "https://www.heise.de/hintergrund/Vom-Umgang-mit-Sicherheitsluecken-im-Linux-Kernel-11293828.html",
-      "image_title": "Ein Mann mit Brille schaut erschrocken auf eine lange Liste von Fehlern, die ein Drucker ausgibt."
+      "title": "Faire KI in der Hautmedizin: Wenn der Rechner Krebs erfindet",
+      "teaser": "KI-Bildgeneratoren erstellen hübsche Fotos. Wer will schon Bilder von Hautkrebs generieren? Im Interview erklärt Stanislav Frolov, warum das sinnvoll ist.",
+      "url": "https://www.heise.de/hintergrund/Faire-KI-in-der-Hautmedizin-Wenn-der-Rechner-Krebs-erfindet-11327176.html"
+    },
+    {
+      "title": "KI-Coding-Tools: Geschwindigkeit ohne Kontrolle als Risiko",
+      "teaser": "Der GitLab AI Accountability Report zeigt: Der Einsatz von KI macht das Coding schneller, aber ohne Kontrolle entstehen neue Risiken und technische Schulden.",
+      "url": "https://www.heise.de/news/GitLab-Umfrage-KI-beschleunigtes-Coding-erzeugt-Sicherheitsprobleme-11342894.html",
+      "image_title": "Symbolbild: KI-generierte Inhalte und die (Sicherheits-)Prüfung durch den Menschen."
+    },
+    {
+      "title": "AlertUbiquiti UniFi OSSicherheitslücken werden angegriffen",
+      "teaser": "Ende Mai wurden kritische Sicherheitslücken in Ubiquiti UniFi OS bekannt. Inzwischen haben Angreifer diese im Visier.",
+      "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html",
+      "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
+    },
+    {
+      "title": "iX-Workshop: ISO 27001 als Admin im Unternehmen praktisch umsetzen",
+      "teaser": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-11332010.html",
+      "image_title": "iX-Workshop ISO 27001 für Admins – ISMS praktisch umsetzen"
+    },
+    {
+      "title": "RatgeberChiphersteller im Höhenflug: So profitieren Anleger von der zweiten KI-Welle",
+      "url": "https://www.heise.de/ratgeber/Chiphersteller-im-Hoehenflug-So-profitieren-Anleger-von-der-zweiten-KI-Welle-11312877.html"
+    },
+    {
+      "title": "TestsZweit-Tresor: Sicherer Datenspeicher Uplock im Test",
+      "url": "https://www.heise.de/tests/Zweit-Tresor-Sicherer-Datenspeicher-Uplock-im-Test-11332189.html",
+      "image_title": "Uplock auf verschiedenen Plattformen"
+    },
+    {
+      "title": "RatgeberKI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann",
+      "url": "https://www.heise.de/ratgeber/KI-Kosten-reduzieren-Wie-man-mit-Prompt-Caching-messbar-Token-sparen-kann-11335003.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "AlertZoho Corp. ManageEngine: Kritische SSO-Lücke ermöglicht Kontenübernahme",
+      "teaser": "Angreifer können eine kritische Sicherheitslücke in mehreren Zoho Corp. ManageEngine-Produkten missbrauchen, um Konten zu übernehmen.",
+      "url": "https://www.heise.de/news/Zoho-Corp-ManageEngine-Kritische-SSO-Luecke-ermoeglicht-Kontenuebernahme-11342888.html",
+      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+    },
+    {
+      "title": "Siri AI: Was in der Beta geht und was noch nicht",
+      "teaser": "Apple stellt Entwicklern Betaversionen seiner neuen Systeme bereit. Wer die Siri-AI-Warteschleife genommen hat, kann aber noch immer nicht alle Features testen.",
+      "url": "https://www.heise.de/news/Siri-AI-Was-in-der-Beta-geht-und-was-noch-nicht-11341222.html",
+      "image_title": "Siri AI"
+    },
+    {
+      "title": "Speicherriesen priorisieren offenbar wieder DDR5-DRAM",
+      "teaser": "Nach Samsung soll auch SK Hynix wieder mehr DDR5-Arbeitsspeicher herstellen. Die Marge soll irrsinnig hoch sein.",
+      "url": "https://www.heise.de/news/Speicherriesen-priorisieren-offenbar-wieder-DDR5-DRAM-11342882.html",
+      "image_title": "DDR5-Speichermodul"
+    },
+    {
+      "title": "Minimus stellt tausende CVE-freie Container-Images kostenlos bereit",
+      "teaser": "Entwickler erhalten uneingeschränkten Zugriff auf tausende nahezu CVE-freie Images aus dem Minimus-Katalog distroloser, gehärteter Container-Images.",
+      "url": "https://www.heise.de/news/Minimus-oeffnet-Katalog-gehaerteter-Container-Images-fuer-alle-Entwickler-11342569.html",
+      "image_title": "Miniaturisierter Globus und Container mit Paketen auf einer Computertastatur"
+    },
+    {
+      "title": "Serverless mit Pausenfunktion: AWS stellt Lambda MicroVMs vor",
+      "teaser": "AWS führt Lambda MicroVMs ein, die VM-Isolation mit schnellen Startzeiten und Zustandserhaltung für serverlose Workloads verbinden.",
+      "url": "https://www.heise.de/news/Serverless-mit-Pausenfunktion-AWS-stellt-Lambda-MicroVMs-vor-11342792.html",
+      "image_title": "AWS-Schriftzug (Amazon Web Services)"
     },
     {
       "title": "Windows Update: Vorschau macht Rechtsklick-Bereich auf Touchpads einstellbar",
@@ -42,20 +103,6 @@
       "teaser": "Mit Claude Tag macht Anthropic sein KI-Modell zum aktiven Teamkollegen in Slack. Er lernt aus dem Kanalverlauf und erledigt Aufgaben selbstständig.",
       "url": "https://www.heise.de/news/Delegieren-statt-chatten-Claude-Tag-uebernimmt-in-Slack-die-Arbeit-11342617.html",
       "image_title": "Ein orangefarbenes Schild mit dem Text \"@Claude\" in weißer Schrift."
-    },
-    {
-      "title": "RatgeberChiphersteller im Höhenflug: So profitieren Anleger von der zweiten KI-Welle",
-      "url": "https://www.heise.de/ratgeber/Chiphersteller-im-Hoehenflug-So-profitieren-Anleger-von-der-zweiten-KI-Welle-11312877.html"
-    },
-    {
-      "title": "TestsZweit-Tresor: Sicherer Datenspeicher Uplock im Test",
-      "url": "https://www.heise.de/tests/Zweit-Tresor-Sicherer-Datenspeicher-Uplock-im-Test-11332189.html",
-      "image_title": "Uplock auf verschiedenen Plattformen"
-    },
-    {
-      "title": "RatgeberKI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann",
-      "url": "https://www.heise.de/ratgeber/KI-Kosten-reduzieren-Wie-man-mit-Prompt-Caching-messbar-Token-sparen-kann-11335003.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "BSI warnt vor Auswirkungen von KI auf Cybersicherheit",
@@ -98,53 +145,6 @@
       "teaser": "Thunderbird passt Roadmap an: Eine Webmail-Oberfläche kommt schon bald als frühe Alpha. Auch 2FA, Mailzustellung und Onboarding werden verbessert.",
       "url": "https://www.heise.de/news/Thunderbird-Webmail-Alpha-kommt-im-naechsten-Monat-11342374.html",
       "image_title": "E-Mail-Icon auf einem Bildschirm"
-    },
-    {
-      "title": "AlertHome Assistant: Update stopft Informationsleck",
-      "teaser": "Die jüngeren Home-Assistant-Updates stopfen unter anderem Informationslecks. Zudem gibt es das Home Assistant OS in neuer Version.",
-      "url": "https://www.heise.de/news/Home-Assistant-Update-stopft-Informationsleck-11342266.html",
-      "image_title": "Home-Assistant-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "„Passwort“ Folge 60: Sinn und Unsinn von CVSS, SSVC, EPSS und Co",
-      "teaser": "Der Podcast widmet sich der Bewertung von Sicherheitslücken und inspiziert verschiedene dafür vorgesehene Kennzahlen kritisch.",
-      "url": "https://www.heise.de/news/Passwort-Folge-60-Sinn-und-Unsinn-von-CVSS-SSVC-EPSS-und-Co-11327316.html",
-      "image_title": "Bild des Podcasts"
-    },
-    {
-      "title": "Ergebnis ohne Erkenntnis: Was uns AlphaGo über GenAI lehrt",
-      "teaser": "Generative KI liefert Ergebnisse, die niemand mehr nachvollzieht. AlphaGo zeigte das Muster 2016. Wann genügt Verlässlichkeit und wann braucht es Verstehen?",
-      "url": "https://www.heise.de/blog/Ergebnis-ohne-Erkenntnis-Was-uns-AlphaGo-ueber-GenAI-lehrt-11321016.html",
-      "image_title": "Abstrahiertes Schaubild, das die Eingangsfrage des Artikel stellt: Wann genügt es bei Ergebnissen von generativer KI Verlässlichkeit und wann braucht es Verstehen?"
-    },
-    {
-      "title": "Spuren von Cyberangriffen führen oft nach Russland",
-      "teaser": "Deutschland ist Hotspot für Ransomware. Experte erklärt, warum Kliniken im Visier sind und Russland als sicherer Hafen für Cyberkriminelle dient.",
-      "url": "https://www.heise.de/news/Spuren-von-Cyberangriffen-fuehren-oft-nach-Russland-11342220.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "iX-Workshop: OWASP Top 10 – Sicherheitsrisiken für Webanwendungen verstehen",
-      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Sicherheitsrisiken-fuer-Webanwendungen-verstehen-11331962.html",
-      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Ausgehend von Südkorea: Tech- und IT-Aktien teils deutlich gefallen",
-      "teaser": "Die Aktienkurse von SK Hynix und Samsung haben am Dienstag nachgegeben, weltweit sind in der Folge primär Tech-Aktien gefallen. Am Mittwoch ging es weiter.",
-      "url": "https://www.heise.de/news/Ausgehend-von-Suedkorea-Tech-und-IT-Aktien-teils-deutlich-gefallen-11342186.html",
-      "image_title": "Rote Handelskurve, die nach unten zeigt"
-    },
-    {
-      "title": "Warum humanoide Roboter die nächste große Chip-Wachstumswelle sein könnten",
-      "teaser": "Damit in Zukunft jeder Haushalt einen Roboter kaufen kann, sind riesige Mengen an Halbleitern nötig. Auch europäische Firmen wollen vom Wachstum profitieren.",
-      "url": "https://www.heise.de/hintergrund/Warum-humanoide-Roboter-die-naechste-grosse-Chip-Wachstumswelle-sein-koennten-11317364.html",
-      "image_title": "Ein Roboter mit leuchtenden Augen nimmt Prozessoren in den Mund."
-    },
-    {
-      "title": "10-Gigabit-Netzwerk für zu Hause: Voraussetzungen und Verkabelung",
-      "teaser": "Die Preise für 10G-Hardware fallen und machen das Thema so auch für kleine Büros und daheim spannend. Wir beleuchten die Voraussetzungen und den Nutzen.",
-      "url": "https://www.heise.de/ratgeber/10-Gigabit-Netzwerk-fuer-zu-Hause-Voraussetzungen-und-Verkabelung-11259946.html"
     },
     {
       "title": "NewsSatellit erfasst starke GPS-Störungen von Frankreich bis Pakistan",
