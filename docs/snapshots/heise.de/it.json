@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-24T13:08:34",
+  "timestamp": "2026-06-24T16:05:01",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,9 +20,56 @@
   ],
   "articles": [
     {
-      "title": "Faire KI in der Hautmedizin: Wenn der Rechner Krebs erfindet",
-      "teaser": "KI-Bildgeneratoren erstellen hübsche Fotos. Wer will schon Bilder von Hautkrebs generieren? Im Interview erklärt Stanislav Frolov, warum das sinnvoll ist.",
-      "url": "https://www.heise.de/hintergrund/Faire-KI-in-der-Hautmedizin-Wenn-der-Rechner-Krebs-erfindet-11327176.html"
+      "title": "GitHub-Alternative Forgejo mit Actions zur automatisierten Codeschmiede machen",
+      "teaser": "Die Open-Source-Codeschmiede Forgejo können Sie selbst hosten. Ein Runner ergänzt die Plattform um CI/CD-Pipelines, die kompatibel zu GitHub-Actions sind.",
+      "url": "https://www.heise.de/ratgeber/GitHub-Alternative-Forgejo-mit-Actions-zur-automatisierten-Codeschmiede-machen-11318264.html"
+    },
+    {
+      "title": "Juristische Fallstricke in Cloud-Architekturen",
+      "teaser": "Viele Sicherheitskonzepte setzen Cloud-Standorte mit Datensouveränität gleich. Doch oft ist der Rechtsrahmen des Anbieters entscheidend für den Datenschutz.",
+      "url": "https://www.heise.de/hintergrund/Juristische-Fallstricke-in-Cloud-Architekturen-11314986.html",
+      "image_title": "Cloud, Rechenzentrum,"
+    },
+    {
+      "title": "Mistral OCR 4: Dokumentenanalyse für 170 Sprachen",
+      "teaser": "Mistral AI hat OCR 4 vorgestellt. Das Modell liest nicht nur Text aus, sondern strukturiert Inhalte für Enterprise Search und RAG-Pipelines.",
+      "url": "https://www.heise.de/news/Dokumente-verstehen-statt-nur-lesen-Mistral-OCR-4-ist-da-11343027.html",
+      "image_title": "Das Mistral AI-Logo erscheint auf dem Bildschirm eines Smartphones."
+    },
+    {
+      "title": "Quantensicherer NFC- und eSIM-Chip für Smartphones und Smartwatches",
+      "teaser": "Im winzigen ST54M vereint STMicroelectronics zwei ARM-Kerne mit einem Hardware-Beschleuniger für die PQC-Algorithmen ML-KEM (FIPS-203) und ML-DSA (FIPS-204).",
+      "url": "https://www.heise.de/news/Quantensicherer-NFC-und-eSIM-Chip-fuer-Smartphones-und-Smartwatches-11343305.html",
+      "image_title": "PQC-tauglicher eSIM-Controller STMicroelectronics ST54M"
+    },
+    {
+      "title": "RatgeberGitHub-Alternative Forgejo mit Actions zur automatisierten Codeschmiede machen",
+      "url": "https://www.heise.de/ratgeber/GitHub-Alternative-Forgejo-mit-Actions-zur-automatisierten-Codeschmiede-machen-11318264.html"
+    },
+    {
+      "title": "TestsDie Klimaanlage fürs Bett im Test: Kühler schlafen in heißen Nächten",
+      "url": "https://www.heise.de/tests/Die-Klimaanlage-fuers-Bett-im-Test-Kuehler-schlafen-in-heissen-Naechten-11229882.html"
+    },
+    {
+      "title": "RatgeberChiphersteller im Höhenflug: So profitieren Anleger von der zweiten KI-Welle",
+      "url": "https://www.heise.de/ratgeber/Chiphersteller-im-Hoehenflug-So-profitieren-Anleger-von-der-zweiten-KI-Welle-11312877.html"
+    },
+    {
+      "title": "Meaco Sefte 6 Tischventilator im Test: Leiser Powerzwerg mit Wechsel-Akku",
+      "teaser": "Klein, leise, ausdauernd: Der Meaco Sefte 6 mit Akku ist der kompakteste Ventilator der Sefte-Reihe. Wir haben den Tischventilator getestet.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/meaco-sefte-6-tischventilator-im-test-leiser-powerzwerg-mit-wechsel-akku/xxj7fsz?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Linux-Touchpanel mit A20-Rechner",
+      "teaser": "Das LCD7-PANEL-LIME2 kombiniert einen Linux-Rechner mit einem 7-Zoll-Touchscreen und kommt komplett vormontiert.",
+      "url": "https://www.heise.de/news/Linux-Touchpanel-mit-A20-Rechner-11343187.html",
+      "image_title": "Vormontiertes Linux-Touchpanel LCD7-PANEL-LIME2 mit schwarzem Gehäuse und 7-Zoll-Touchdisplay. Auf dem Bildschirm ist die Debian-Desktopoberfläche zu sehen."
+    },
+    {
+      "title": "Sichere API-Zugriffe für Agenten mit Postman Passport",
+      "teaser": "Mit Passport führt Postman ein sicheres Zugangssystem für APIs ein, das nicht mehr auf Credentials, sondern auf Access Control basiert.",
+      "url": "https://www.heise.de/news/Sichere-API-Zugriffe-fuer-Agenten-mit-Postman-Passport-11343121.html",
+      "image_title": "Zugangskontrolle zur API mit Zertifikat"
     },
     {
       "title": "KI-Coding-Tools: Geschwindigkeit ohne Kontrolle als Risiko",
@@ -31,7 +78,7 @@
       "image_title": "Symbolbild: KI-generierte Inhalte und die (Sicherheits-)Prüfung durch den Menschen."
     },
     {
-      "title": "AlertUbiquiti UniFi OSSicherheitslücken werden angegriffen",
+      "title": "AlertUbiquiti UniFi OS-Sicherheitslücken werden angegriffen",
       "teaser": "Ende Mai wurden kritische Sicherheitslücken in Ubiquiti UniFi OS bekannt. Inzwischen haben Angreifer diese im Visier.",
       "url": "https://www.heise.de/news/Ubiquiti-UniFi-OS-Sicherheitsluecken-werden-angegriffen-11343015.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
@@ -41,20 +88,6 @@
       "teaser": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
       "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-11332010.html",
       "image_title": "iX-Workshop ISO 27001 für Admins – ISMS praktisch umsetzen"
-    },
-    {
-      "title": "RatgeberChiphersteller im Höhenflug: So profitieren Anleger von der zweiten KI-Welle",
-      "url": "https://www.heise.de/ratgeber/Chiphersteller-im-Hoehenflug-So-profitieren-Anleger-von-der-zweiten-KI-Welle-11312877.html"
-    },
-    {
-      "title": "TestsZweit-Tresor: Sicherer Datenspeicher Uplock im Test",
-      "url": "https://www.heise.de/tests/Zweit-Tresor-Sicherer-Datenspeicher-Uplock-im-Test-11332189.html",
-      "image_title": "Uplock auf verschiedenen Plattformen"
-    },
-    {
-      "title": "RatgeberKI-Kosten reduzieren: Wie man mit Prompt-Caching messbar Token sparen kann",
-      "url": "https://www.heise.de/ratgeber/KI-Kosten-reduzieren-Wie-man-mit-Prompt-Caching-messbar-Token-sparen-kann-11335003.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "AlertZoho Corp. ManageEngine: Kritische SSO-Lücke ermöglicht Kontenübernahme",
@@ -109,42 +142,6 @@
       "teaser": "Das BSI hat sich mit den Auswirkungen der massiven Verbreitung von Künstlicher Intelligenz auf die IT-Sicherheit auseinandergesetzt.",
       "url": "https://www.heise.de/news/BSI-warnt-vor-Auswirkungen-von-KI-auf-Cybersicherheit-11342418.html",
       "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
-    },
-    {
-      "title": "Lange Vorgeschichte: Wikipedia-Mitgründer auf der Online-Enzyklopädie gesperrt",
-      "teaser": "Kurz nach der Gründung der Wikipedia haben sich die beiden Gründer überworfen. Jetzt wurde Larry Sanger wegen des Verstoßes gegen Regeln der Community gesperrt.",
-      "url": "https://www.heise.de/news/Lange-Vorgeschichte-Wikipedia-Mitgruender-auf-der-Online-Enzyklopaedie-gesperrt-11342498.html",
-      "image_title": "Wikipedia-Startseite auf einem Smartphone"
-    },
-    {
-      "title": "Softwarebranche muss Geschäftsmodelle umbauen",
-      "teaser": "Der Bitkom prognostiziert einen tiefgreifenden Umbau der Softwarebranche. KI-Agenten verschieben den Fokus von Arbeitszeit zu messbaren Ergebnissen.",
-      "url": "https://www.heise.de/news/Softwarebranche-muss-Geschaeftsmodelle-umbauen-11342506.html",
-      "image_title": "3,5-Zoll-Diskette"
-    },
-    {
-      "title": "Zweite Entwicklerbeta von iOS 27 und macOS 27: Das ist neu",
-      "teaser": "Apple legt zwei Wochen nach den ersten Vorabversionen neue Entwicklerbetas seiner frischen Betriebssysteme vor. Es gibt einige Optimierungen.",
-      "url": "https://www.heise.de/news/Zweite-Entwicklerbeta-von-iOS-27-und-macOS-27-Das-ist-neu-11341442.html",
-      "image_title": "iOS 27 mit Siri AI"
-    },
-    {
-      "title": "Warum das Healthtech-Unternehmen Heidi auf den deutschen Markt setzt",
-      "teaser": "Das australische Unternehmen Heidi baut weltweit seine Präsenz aus. Im Interview erklärt Heidis Chief Medical Officer, warum Deutschland so besonders ist.",
-      "url": "https://www.heise.de/hintergrund/Warum-das-Healthtech-Unternehmen-Heidi-auf-den-deutschen-Markt-setzt-11342030.html",
-      "image_title": "Arzt mit einem Tablet, darüber dgitale Symbole für KI etc."
-    },
-    {
-      "title": "Webentwicklung: Vite 8.1 soll große Anwendungen beschleunigen",
-      "teaser": "Ein experimenteller neuer Modus des Frontend-Build-Tools soll die Performance großer Anwendungen verbessern.",
-      "url": "https://www.heise.de/news/Webentwicklung-Vite-8-1-soll-grosse-Anwendungen-beschleunigen-11342384.html",
-      "image_title": "Laufende Sanduhr im Vordergrund. Im Hintergrund sitzt eine Person in weißem Hemd am Laptop."
-    },
-    {
-      "title": "Thunderbird: Webmail-Alpha kommt im nächsten Monat",
-      "teaser": "Thunderbird passt Roadmap an: Eine Webmail-Oberfläche kommt schon bald als frühe Alpha. Auch 2FA, Mailzustellung und Onboarding werden verbessert.",
-      "url": "https://www.heise.de/news/Thunderbird-Webmail-Alpha-kommt-im-naechsten-Monat-11342374.html",
-      "image_title": "E-Mail-Icon auf einem Bildschirm"
     },
     {
       "title": "NewsSatellit erfasst starke GPS-Störungen von Frankreich bis Pakistan",
