@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-27T05:46:03",
+  "timestamp": "2026-06-27T08:22:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,25 +20,27 @@
   ],
   "articles": [
     {
-      "title": "Wie ihr euer NAS am besten für Datei-Sharing nutzt | c’t uplink",
-      "teaser": "Wie kommt man am Besten an seine Dateien auf dem NAS? SMB/AFS/NFS/Webdav, Nextcloud, Syncthing, Qsync? Der Podcast bringt Tipps und Ideen aus der c’t-Redaktion.",
+      "title": "iX-Workshop: Active Directory Hardening – Vom Audit zur sicheren Umgebung",
+      "teaser": "Lernen in einer Übungsumgebung: Sicherheitsrisiken in der Windows-Active-Directory-Infrastruktur erkennen und beheben, um die IT vor Cyberangriffen zu schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Active-Directory-Hardening-Vom-Audit-zur-sicheren-Umgebung-11332062.html",
+      "image_title": "Active Directory Hardening - Vom Audit zur sicheren Umgebung"
+    },
+    {
+      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Slint, VS Code, Spring Boot, Next.js, Vaadin, curl, Stack Overflow, Drupal und Rust.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11345467.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "KI-Hype vs. Realität: Warum Technologie allein nicht reicht",
+      "teaser": "Warum der Erfolg von KI in der Praxis vom Zusammenspiel zwischen Mensch und Technik abhängt, erklärt Michael Zimmer in seiner Keynote von der data2day 2025.",
+      "url": "https://www.heise.de/hintergrund/KI-Hype-vs-Realitaet-Warum-Technologie-allein-nicht-reicht-11340363.html",
+      "image_title": "Menschliche Hände umfassen einen Roboterkopf von hinten"
+    },
+    {
+      "title": "c’t uplinkWie ihr euer NAS am besten für Datei-Sharing nutzt",
+      "teaser": "Wie kommt man am Besten an seine Dateien auf dem NAS? Der Podcast bringt Tipps und Ideen aus der c’t-Redaktion.",
       "url": "https://www.heise.de/news/Wie-ihr-euer-NAS-am-besten-fuer-Datei-Sharing-nutzt-c-t-uplink-11345075.html"
-    },
-    {
-      "title": "Pimax Dream Air im Test: VR-Brille mit scharfem Bild und Schönheitsfehlern",
-      "teaser": "Pimax verspricht mit der Dream Air ein PC-VR-Leichtgewicht mit Spitzenoptik. Wir testen, ob endlich die Balance aus Komfort und Bildqualität gelingt.",
-      "url": "https://www.heise.de/tests/Pimax-Dream-Air-im-Test-VR-Brille-mit-scharfem-Bild-und-Schoenheitsfehlern-11342396.html"
-    },
-    {
-      "title": "Xcode 26.6: Google Gemini zieht als Programmierassistent in Apples IDE ein",
-      "teaser": "Mit Xcode 26.6 bringt Apple Google Gemini direkt in die Entwicklungsumgebung. Die Integration war bereits in Xcode 27 beta aufgetaucht, das noch weiter geht.",
-      "url": "https://www.heise.de/news/Xcode-26-6-Google-Gemini-zieht-als-Programmierassistent-in-Apples-IDE-ein-11346467.html",
-      "image_title": "Bildschirmfoto der integrierten Coding-Agents in Xcode 27"
-    },
-    {
-      "title": "KI-Überwachung in der Straßenbahn: Mehr Sicherheit im Fahrgastraum?",
-      "teaser": "Aggression frühzeitig erkennen: Die Bremer Straßenbahn AG testet ein KI-Überwachungssystem. Ein Videobeitrag zu „AI Watch“.",
-      "url": "https://www.heise.de/hintergrund/KI-Ueberwachung-in-der-Strassenbahn-Mehr-Sicherheit-im-Fahrgastraum-11344140.html"
     },
     {
       "title": "HintergrundKI-Überwachung in der Straßenbahn: Mehr Sicherheit im Fahrgastraum?",
@@ -56,6 +58,12 @@
       "title": "Top 10: Der beste Ventilator im Test",
       "teaser": "Wir zeigen die zehn besten Ventilatoren aus unseren Tests. Testsieger, Preis-Leistungs-Sieger und Kaufberatung im Überblick.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ventilator-im-test-switchbot-siegt-dreo-pustet-alle-weg/3vw0k3j?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Xcode 26.6: Google Gemini zieht als Programmierassistent in Apples IDE ein",
+      "teaser": "Mit Xcode 26.6 bringt Apple Google Gemini direkt in die Entwicklungsumgebung. Die Integration war bereits in Xcode 27 beta aufgetaucht, das noch weiter geht.",
+      "url": "https://www.heise.de/news/Xcode-26-6-Google-Gemini-zieht-als-Programmierassistent-in-Apples-IDE-ein-11346467.html",
+      "image_title": "Bildschirmfoto der integrierten Coding-Agents in Xcode 27"
     },
     {
       "title": "Google setzt Verlage bei KI-Lizenzen offenbar unter Druck",
@@ -133,12 +141,6 @@
       "teaser": "Die Online-Konferenz zeigt, für welche Anwendungen sich lokale Modelle lohnen, welche Hardware dafür erforderlich ist und wie man die Performance optimiert.",
       "url": "https://www.heise.de/news/LLMs-im-eigenen-Rechenzentrum-Online-Konferenz-zu-Anforderungen-und-Anwendung-11344168.html",
       "image_title": "Schemabild für die Online-Konferenz LLMs im Unternehmen"
-    },
-    {
-      "title": "Notion Mail wird abgeschaltet: Was Nutzer jetzt tun müssen",
-      "teaser": "Notion stellt seinen E-Mail-Client Notion Mail am 22. September 2026 ein. Nutzer müssen bestimmte Daten bis dahin sichern.",
-      "url": "https://www.heise.de/news/Notion-Mail-wird-abgeschaltet-Was-Nutzer-jetzt-tun-muessen-11345780.html",
-      "image_title": "E-Mail-Client mit Ordnern, Suchleiste und E-Mail-Liste"
     },
     {
       "title": "NewsAutos sind zu vernetzt: Polestar gibt den US-Markt auf",
