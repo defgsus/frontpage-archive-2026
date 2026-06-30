@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T13:00:52",
+  "timestamp": "2026-06-30T16:12:51",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,45 @@
   ],
   "articles": [
     {
+      "title": "Nvidia bringt 5,5 Jahre alte Grafikkarte zurück",
+      "teaser": "Die GeForce RTX 3060 soll es in der Mittelklasse richten. Für sie sprechen die 12 GByte Speicher, sonst aber nichts.",
+      "url": "https://www.heise.de/news/Nvidia-bringt-5-5-Jahre-alte-Grafikkarte-zurueck-11349673.html",
+      "image_title": "Grafikkarte von vorn vor weißem Hintergrund"
+    },
+    {
+      "title": "Interview zur Deutschland-App: Wie KI komplizierte Anträge entwirren soll",
+      "teaser": "Die Deutschland-App soll Anträge stark vereinfachen – per Chat, Formular oder KI-Avatar. Zum technischen Konzept und KI-Risiken haben wir nachgehakt.",
+      "url": "https://www.heise.de/hintergrund/Interview-zur-Deutschland-App-Wie-KI-komplizierte-Antraege-entwirren-soll-11306572.html"
+    },
+    {
+      "title": "Vodafone: Mehr Datenvolumen und neue Namen für Mobilfunktarife",
+      "teaser": "Vodafone strukturiert seine Laufzeittarife um. Ab dem 16. Juli gibt es deutlich mehr Datenvolumen, doch die GigaDepot-Funktion zur Datenmitnahme entfällt.",
+      "url": "https://www.heise.de/news/Vodafone-Mehr-Datenvolumen-und-neue-Namen-fuer-Mobilfunktarife-11349485.html",
+      "image_title": "Vodafone-Logo"
+    },
+    {
+      "title": "Sprachmodelle mit Open WebUI: LLM-Server für kleine Teams selbst hosten",
+      "teaser": "Es gibt genug Gründe, mit selbstgehosteten LLMs unabhängiger zu werden. Mit diesen Open-Source-Werkzeugen wird aus einer Linux-Maschine mit GPU ein KI-Server.",
+      "url": "https://www.heise.de/ratgeber/Sprachmodelle-mit-Open-WebUI-LLM-Server-fuer-kleine-Teams-selbst-hosten-11333185.html"
+    },
+    {
+      "title": "RatgeberSprachmodelle mit Open WebUI: LLM-Server für kleine Teams selbst hosten",
+      "url": "https://www.heise.de/ratgeber/Sprachmodelle-mit-Open-WebUI-LLM-Server-fuer-kleine-Teams-selbst-hosten-11333185.html"
+    },
+    {
+      "title": "HintergrundChatGPT als Layoutwerkzeug: OpenAI-Produktleiterin Adele Li im Interview",
+      "url": "https://www.heise.de/hintergrund/OpenAI-Produktleiterin-Adele-Li-Haltet-die-Prompts-einfach-11338452.html"
+    },
+    {
+      "title": "RatgeberKabel testen: So gut ist Ihr USB-C-Kabel wirklich",
+      "url": "https://www.heise.de/ratgeber/Kabel-testen-So-gut-ist-Ihr-USB-C-Kabel-wirklich-11274048.html"
+    },
+    {
+      "title": "Graviert, schneidet & druckt: Klasse-1-Laser-Engraver xTool M2 überzeugt im Test",
+      "teaser": "Der xTool M2 kombiniert einen Diodenlaser und CMYK-Farbdruck in einem geschlossenen Klasse-1-Gehäuse – eine ungewöhnliche Mischung.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/graviert-schneidet-und-druckt-klasse-1-laser-engraver-xtool-m2-ueberzeugt-im-test/0hjww1q?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
       "title": "Kühlerklassiker: Scythe kehrt nach Deutschland zurück",
       "teaser": "Der japanische Hersteller Scythe verkauft hierzulande wieder CPU-Kühler – jetzt ohne die insolvente deutsche Tochter.",
       "url": "https://www.heise.de/news/Kuehlerklassiker-Scythe-kehrt-nach-Deutschland-zurueck-11349314.html",
@@ -36,23 +75,6 @@
       "teaser": "Mit iPadOS 27 öffnet Apple seine Handschrifterkennung für Drittanbieter. Die neue API ermöglicht es, Notizen lokal zu durchsuchen und in Text umzuwandeln.",
       "url": "https://www.heise.de/news/iPadOS-27-Apple-oeffnet-Handschrifterkennung-fuer-Dritt-Apps-11349128.html",
       "image_title": "Schreiben mit dem Apple Pencil"
-    },
-    {
-      "title": "OpenAI-Produktleiterin Adele Li: „Haltet die Prompts einfach“",
-      "teaser": "OpenAI-Produktleiterin Adele Li erklärt im Interview, warum ChatGPT Bilder, Text und Layout besser kombiniert als zuvor und weshalb kurze Prompts ausreichen.",
-      "url": "https://www.heise.de/hintergrund/OpenAI-Produktleiterin-Adele-Li-Haltet-die-Prompts-einfach-11338452.html"
-    },
-    {
-      "title": "HintergrundOpenAI-Produktleiterin Adele Li: „Haltet die Prompts einfach“",
-      "url": "https://www.heise.de/hintergrund/OpenAI-Produktleiterin-Adele-Li-Haltet-die-Prompts-einfach-11338452.html"
-    },
-    {
-      "title": "RatgeberKabel testen: So gut ist Ihr USB-C-Kabel wirklich",
-      "url": "https://www.heise.de/ratgeber/Kabel-testen-So-gut-ist-Ihr-USB-C-Kabel-wirklich-11274048.html"
-    },
-    {
-      "title": "HintergrundSo funktioniert Langzeitarchivierung mit Voxeln in Quarzglas",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-Langzeitarchivierung-mit-Voxeln-in-Quarzglas-11290951.html"
     },
     {
       "title": "„Schlechteste App, die ich genutzt habe“: Openclaws Android-App verärgert Nutzer",
@@ -119,30 +141,6 @@
       "teaser": "Was positives Führen bedeutet und mit welchen konkreten Maßnahmen man es umsetzen kann, besprechen Richard Seidl und Christian Thiele.",
       "url": "https://www.heise.de/blog/Software-Testing-Positives-Fuehren-Was-dahinter-steckt-und-was-nicht-11341668.html",
       "image_title": "Software Testing: Positives Führen"
-    },
-    {
-      "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
-      "teaser": "Lernen Sie, RAG-Systeme professionell zu analysieren und gezielt zu optimieren – mit praxiserprobten Techniken und echten Anwendungsfällen.",
-      "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-11298247.html",
-      "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "iOS 26.5.2, iPadOS 26.5.2 und macOS 26.5.2: Wichtige Sicherheitsfixes wegen KI",
-      "teaser": "In der Nacht zum Dienstag hat Apple drei Betriebssystem-Updates und ein neues Safari für ältere macOS-Versionen publiziert. Apple fürchtet schnellere Angriffe.",
-      "url": "https://www.heise.de/news/iOS-26-5-2-iPadOS-26-5-2-und-macOS-26-5-2-Wichtige-Sicherheitsfixes-wegen-KI-11348504.html",
-      "image_title": "Apple und die Sicherheit"
-    },
-    {
-      "title": "Chips übertrumpfen Autos: Mexiko profitiert vom KI-Boom",
-      "teaser": "Server für KI-Rechenzentren in den USA werden zunehmend in Mexiko montiert. Auch deutsche Unternehmen im Land sind Nutznießer der steigenden Nachfrage.",
-      "url": "https://www.heise.de/news/Chips-uebertrumpfen-Autos-Mexiko-profitiert-vom-KI-Boom-11348522.html",
-      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
-    },
-    {
-      "title": "WhatsApp führt Benutzernamen ein – Handynummer bleibt privat",
-      "teaser": "WhatsApp-Nutzer können bald mit Benutzernamen chatten, ohne ihre Mobilfunknummer preiszugeben. Die weltweite Reservierung der Namen startet in Kürze.",
-      "url": "https://www.heise.de/news/WhatsApp-fuehrt-Benutzernamen-ein-Handynummer-bleibt-privat-11348395.html",
-      "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
     },
     {
       "title": "UpdateHintergrundLukratives Sommergeschäft: Wie Geschäftemacher an Fake-Klimaanlagen verdienen",

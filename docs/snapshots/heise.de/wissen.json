@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-30T13:00:54",
+  "timestamp": "2026-06-30T16:12:53",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,8 +20,20 @@
   ],
   "articles": [
     {
-      "title": "Zahlen, bitte! 172 unvollendete Kanal-Kilometer quer durch Florida",
-      "teaser": "Durch Florida war einst eine Kanal-Abkürzung zwischen Golf von Mexiko und Atlantik geplant. Mit dem Scheitern wurde es zum teuersten Infrastrukturflop der USA.",
+      "title": "DLR-Projekt Loki: KI soll Fluglotsen und Piloten bei der Arbeit unterstützen",
+      "teaser": "Der Flugverkehr nimmt zu, aber es gibt weniger Fluglotsen. Das DLR hat einen KI-Fluglotsen entwickelt, der künftig die Menschen im Tower unterstützen soll.",
+      "url": "https://www.heise.de/news/Loki-DLR-entwickelt-KI-Assistenten-fuer-Fluglotsen-und-Piloten-11349451.html",
+      "image_title": "Testlauf mit dem digitalen Fluglotsen Dirc"
+    },
+    {
+      "title": "In fünf Milliarden JahrenErde könnte Aufblähung der Sonne doch überstehen",
+      "teaser": "In fünf Milliarden Jahren wird die Sonne die inneren Planeten verschlingen. Eine Analyse zeigt die Folgen für die Erde.",
+      "url": "https://www.heise.de/news/Analyse-Erde-koennte-Aufblaehung-der-Sonne-zum-Roten-Riesen-doch-ueberstehen-11349028.html",
+      "image_title": "Vier Bilder, jeweils mit unterschiedlich großer Sonne, immer umschlossen vom Orbit der Erde"
+    },
+    {
+      "title": "Zahlen, bitte!172 unvollendete Kanal-Kilometer quer durch Florida",
+      "teaser": "Durch Florida war einst eine Kanal-Abkürzung zwischen Golf von Mexiko und Atlantik geplant. Es wurde zum teuren Infrastrukturflop.",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-172-unvollendete-Kilometer-des-Florida-Kanals-11348998.html",
       "image_title": "Titelbild von Zahlen bitte"
     },
@@ -30,18 +42,6 @@
       "teaser": "Der Kampf gegen das Ozonloch gilt als ein großer Erfolg. Laut einer Studie hat nicht FCKW die ersten Schäden verursacht.",
       "url": "https://www.heise.de/news/Ozonloch-Schaedigung-der-Ozonschicht-begann-viel-frueher-und-durch-anderen-Stoff-11348759.html",
       "image_title": "Darstellung einer Erdkugel mit einer alten Karte der Antarktis, darum symbolhaft die Ozonschicht und die auf sie treffende Strahlung"
-    },
-    {
-      "title": "Dank TaucheranzugFerngesteuerte Cyborg-Kakerlaken können unter Wasser atmen",
-      "teaser": "Cyborg-Kakerlaken sollen auch unter Wasser ihren Dienst verrichten. Ein Taucheranzug mit Sauerstoffgenerator sorgt für Atemluft.",
-      "url": "https://www.heise.de/news/Taucheranzug-ermoeglicht-ferngesteuerten-Cyborg-Kakerlaken-das-Atmen-unter-Wasser-11348666.html",
-      "image_title": "Cyborg-Kakerlake im Taucheranzug."
-    },
-    {
-      "title": "c’t-Webinar: Die faszinierende Welt der Quantenphysik verstehen",
-      "teaser": "Was steckt hinter Superposition, Verschränkung und Quantencomputern? Das Webinar erklärt einsteigerfreundlich die wichtigsten Grundbegriffe der Quantenphysik.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Die-faszinierende-Welt-der-Quantenphysik-verstehen-11344336.html",
-      "image_title": "Stilisierte Darstellung eines Atoms mit einer roten Kugel im Zentrum und mehreren farbigen Kugeln auf elliptischen Bahnen."
     },
     {
       "title": "HintergrundEffiziente KI: Wie neue Modelle die Token-Kosten und RAM-Preise senken könnten",
@@ -56,6 +56,18 @@
     {
       "title": "HintergrundFaire KI in der Hautmedizin: Wenn der Rechner Krebs erfindet",
       "url": "https://www.heise.de/hintergrund/Faire-KI-in-der-Hautmedizin-Wenn-der-Rechner-Krebs-erfindet-11327176.html"
+    },
+    {
+      "title": "Taucheranzug ermöglicht ferngesteuerten Cyborg-Kakerlaken das Atmen unter Wasser",
+      "teaser": "Cyborg-Kakerlaken sollen auch unter Wasser ihren Dienst verrichten. Ein Taucheranzug mit Sauerstoffgenerator sorgt für ausreichend Atemluft.",
+      "url": "https://www.heise.de/news/Taucheranzug-ermoeglicht-ferngesteuerten-Cyborg-Kakerlaken-das-Atmen-unter-Wasser-11348666.html",
+      "image_title": "Cyborg-Kakerlake im Taucheranzug."
+    },
+    {
+      "title": "c’t-Webinar: Die faszinierende Welt der Quantenphysik verstehen",
+      "teaser": "Was steckt hinter Superposition, Verschränkung und Quantencomputern? Das Webinar erklärt einsteigerfreundlich die wichtigsten Grundbegriffe der Quantenphysik.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Die-faszinierende-Welt-der-Quantenphysik-verstehen-11344336.html",
+      "image_title": "Stilisierte Darstellung eines Atoms mit einer roten Kugel im Zentrum und mehreren farbigen Kugeln auf elliptischen Bahnen."
     },
     {
       "title": "KI-Update kompakt: KI-Moderation, Finanzmarkt, Datenschutz, GPT-Images",
@@ -132,17 +144,6 @@
       "teaser": "DHL will ab 2027 Fracht von der französischen Reederei Vela über den Atlantik transportieren lassen. Deren Schiffe fahren emissionsfrei.",
       "url": "https://www.heise.de/news/DHL-laesst-Fracht-ueber-den-Atlantik-segeln-11343137.html",
       "image_title": "Frachtsegler von Vela mit DHL-Lkw"
-    },
-    {
-      "title": "KI-Update kompakt: Five-Eyes-Warnung, GPT-5.5-Cyber, Vibecoding, Filmbranche",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-Five-Eyes-Warnung-GPT-5-5-Cyber-Vibecoding-Filmbranche-11342366.html"
-    },
-    {
-      "title": "Intersolar 2026: Klimaneutralität technisch machbar, politisch nicht auf Kurs",
-      "teaser": "Eine Studie zur Intersolar 2026 skizziert den Umbau des Energiesystems hin zu Wind, PV, Speicher und Wasserstoff. Sie mahnt zudem den politischen Rückstand an.",
-      "url": "https://www.heise.de/news/Intersolar-2026-Klimaneutralitaet-technisch-machbar-politisch-nicht-auf-Kurs-11342808.html",
-      "image_title": "Impression von der Messe Intersolar"
     },
     {
       "title": "UpdateHintergrundLukratives Sommergeschäft: Wie Geschäftemacher an Fake-Klimaanlagen verdienen",
