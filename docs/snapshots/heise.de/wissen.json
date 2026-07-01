@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T07:00:41",
+  "timestamp": "2026-07-01T10:59:27",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "WHO:Hitzewelle war die „Generalprobe“, Sommer werden „härter“",
+      "title": "Erster Klimaturm der Welt in Bremen eingeweiht",
+      "teaser": "Das Bremer Unternehmen Towergy hat den ersten Klimaturm der Welt in Betrieb genommen. Die Großwärmepumpe soll einen Campus in Bremen heizen und kühlen.",
+      "url": "https://www.heise.de/news/Erster-Klimaturm-der-Welt-in-Bremen-eingeweiht-11350315.html",
+      "image_title": "Künstlerische Darstellung eines Klimaturms"
+    },
+    {
+      "title": "Fahrrad-Assistent unterscheidet zwischen Kurvenfahrten und möglichem Umkippen",
+      "teaser": "Ein Steer-by-Wire-Fahrrad ermöglicht die zuverlässige Unterscheidung zwischen Kurvenfahrten und instabilen Fahrzuständen, was die Fahrsicherheit erhöht.",
+      "url": "https://www.heise.de/news/Steer-by-Wire-Fahrrad-unterscheidet-Kurvenfahrten-von-moeglichem-Umkippen-11350014.html",
+      "image_title": "Steer-by-Wire-Fahrrad abgestellt auf einer Straße."
+    },
+    {
+      "title": "WHOHitzewelle war die „Generalprobe“, Sommer werden „härter“",
       "teaser": "Die große Hitzewelle ist vorbei, aber sie war nur ein Vorgeschmack. Davor warnt der WHO-Regionaldirektor für Europa.",
       "url": "https://www.heise.de/news/WHO-Juengste-Hitzewelle-war-nur-die-Generalprobe-die-Sommer-werden-haerter-11349933.html"
     },
@@ -28,18 +40,6 @@
       "title": "Batterien für ElektroautosWas kommt nach Lithium?",
       "teaser": "Die Forschung an Batteriezellen geht weit über das Elektroauto hinaus. Neue Zellchemien sollen Kosten und Abhängigkeiten senken und die Energiedichte steigern.",
       "url": "https://www.heise.de/hintergrund/Batterien-fuer-Elektroautos-Was-kommt-nach-Lithium-11347691.html"
-    },
-    {
-      "title": "Solarmodul zerlegt Plastikmüll in Wasserstoff und andere Chemikalien",
-      "teaser": "Forscher haben ein Verfahren entwickelt, um Plastikmüll mithilfe von Sonnenlicht zu zerlegen und daraus Wasserstoff sowie weitere nützliche Stoffe zu gewinnen.",
-      "url": "https://www.heise.de/news/Solarmodul-zerlegt-Plastikmuell-in-Wasserstoff-und-andere-Chemikalien-11349741.html",
-      "image_title": "Arbeiter sortieren Plastikflaschen an einem Fließband"
-    },
-    {
-      "title": "DLR-Projekt Loki: KI soll Fluglotsen und Piloten bei der Arbeit unterstützen",
-      "teaser": "Der Flugverkehr nimmt zu, aber es gibt weniger Fluglotsen. Das DLR hat einen KI-Fluglotsen entwickelt, der künftig die Menschen im Tower unterstützen soll.",
-      "url": "https://www.heise.de/news/Loki-DLR-entwickelt-KI-Assistenten-fuer-Fluglotsen-und-Piloten-11349451.html",
-      "image_title": "Testlauf mit dem digitalen Fluglotsen Dirc"
     },
     {
       "title": "HintergrundBatterien für Elektroautos: Was kommt nach Lithium?",
@@ -54,6 +54,24 @@
       "title": "HintergrundModellraketen entwerfen und simulieren mit OpenRocket",
       "url": "https://www.heise.de/hintergrund/Modellraketen-entwerfen-und-simulieren-mit-OpenRocket-11334117.html",
       "image_title": "Start einer Modellrakete und Simulation am Laptop"
+    },
+    {
+      "title": "UpdateLadetarife für Elektroautos im Vergleich",
+      "teaser": "Die Preise an Ladesäulen unterscheiden sich enorm. Wer mit Gleichstrom lädt, zahlt unter Umständen 40 Cent/kWh mehr. Einige Fußnoten sollten Sie deshalb kennen.",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html",
+      "image_title": "Ladesäule"
+    },
+    {
+      "title": "Solarmodul zerlegt Plastikmüll in Wasserstoff und andere Chemikalien",
+      "teaser": "Forscher haben ein Verfahren entwickelt, um Plastikmüll mithilfe von Sonnenlicht zu zerlegen und daraus Wasserstoff sowie weitere nützliche Stoffe zu gewinnen.",
+      "url": "https://www.heise.de/news/Solarmodul-zerlegt-Plastikmuell-in-Wasserstoff-und-andere-Chemikalien-11349741.html",
+      "image_title": "Arbeiter sortieren Plastikflaschen an einem Fließband"
+    },
+    {
+      "title": "DLR-Projekt Loki: KI soll Fluglotsen und Piloten bei der Arbeit unterstützen",
+      "teaser": "Der Flugverkehr nimmt zu, aber es gibt weniger Fluglotsen. Das DLR hat einen KI-Fluglotsen entwickelt, der künftig die Menschen im Tower unterstützen soll.",
+      "url": "https://www.heise.de/news/Loki-DLR-entwickelt-KI-Assistenten-fuer-Fluglotsen-und-Piloten-11349451.html",
+      "image_title": "Testlauf mit dem digitalen Fluglotsen Dirc"
     },
     {
       "title": "In fünf Milliarden Jahren: Erde könnte Aufblähung der Sonne doch überstehen",
@@ -125,24 +143,6 @@
       "teaser": "„Quake“, der Shooter, der erstmals mit echtem 3D und diversen Netzwerkfunktionen die Spielewelt prägte, wird 30. Wir bieten ein Quiz dazu.",
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Quake-11345756.html",
       "image_title": "Spielgrafik aus dem Computerspiel \"Quake\": Zu sehen sind geschwungene 3D-Arkaden. An Wänden sind vereinzelt Fackeln zu sehen. Unten ist angedeutet der von der Kameraperspektive weg zeigendeLauf einer Waffe."
-    },
-    {
-      "title": "Aktuelle Hitzewelle die schlimmste in Westeuropa seit Beginn der Aufzeichnungen",
-      "teaser": "In Deutschland steht jetzt der Höhepunkt einer extremen Hitzewelle an, die noch 2003 mehrere Grad kühler ausgefallen wäre. Darauf weist ein Forschungsteam hin.",
-      "url": "https://www.heise.de/news/Aktuelle-Hitzewelle-die-schlimmste-in-Westeuropa-seit-Beginn-der-Aufzeichnungen-11345407.html",
-      "image_title": "Sonnenbeschienene Straße mit Straßebahnschienen"
-    },
-    {
-      "title": "Mars-Rover Perseverance: Marathon absolviert und aus dem All fotografiert",
-      "teaser": "Überhaupt erst als zweiter Rover auf einem anderen Himmelskörper hat Perseverance die Marathondistanz erreicht. Kurz zuvor wurde er aus dem All abgelichtet.",
-      "url": "https://www.heise.de/news/Mars-Rover-Perseverance-Anlaesslich-der-Marathondistanz-aus-dem-All-fotografiert-11344757.html",
-      "image_title": "Marslandschaft von oben, darauf lange STreifen und ein grünlicher Punkt"
-    },
-    {
-      "title": "Niederländischer Energieversorger baut 1-Gigawattstunden-Langzeitspeicher",
-      "teaser": "Europäische Energieversorger setzen stark auf Windstrom. In den Niederlanden wird ein großer Netzspeicher gebaut, der den Windstrom mehrere Tage speichern kann.",
-      "url": "https://www.heise.de/news/Niederlaendischer-Energieversorger-baut-1-Gigawattstunden-Langzeitspeicher-11344418.html",
-      "image_title": "Rendering des Netzspeichers von Ore Energy"
     },
     {
       "title": "UpdateHintergrundLukratives Sommergeschäft: Wie Geschäftemacher an Fake-Klimaanlagen verdienen",
