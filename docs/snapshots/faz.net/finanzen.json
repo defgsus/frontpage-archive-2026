@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-03T13:28:57",
+  "timestamp": "2026-07-03T15:46:36",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "BörsenRekord: Der Dax läuft und läuft",
+      "teaser": "Der Dax stellt einen neuen Rekord auf. An der Börse gibt es keine Garantien, aber verlässlich ist sie doch.",
+      "url": "https://www.faz.net/aktuell/finanzen/dax-bricht-rekord-was-treibt-die-boerse-ueber-25-000-punkte-200995351.html"
+    },
+    {
       "title": "Dax stellt Rekorde auf: Was die Börse treibt",
       "teaser": "Bayer treibt den Dax, die T-Aktie verliert. Und wer will, kann so manche Parallele zum arg gebeutelten deutschen Fußball erkennen.",
-      "url": "https://www.faz.net/aktuell/finanzen/bayer-treibt-den-dax-rekord-dank-glyphosat-erfolg-accg-200994450.html"
+      "url": "https://www.faz.net/aktuell/finanzen/bayer-treibt-den-dax-rekord-dank-glyphosat-erfolg-accg-200994450.html",
+      "image_url": "https://media0.faz.net/image/w1200/3c185897a772/w3744h2106x0y67/202606/43601.0.2216892338/fuer-den-eigentuemer-des.webp",
+      "image_title": "Für den Eigentümer des ehemaligen Vereins läuft es besser: Jonathan Tah im Gebetskreis beim WM-Spiel gegen Curaçao"
     },
     {
       "title": "Europäische Zentralbank: Höhere Mindestreserve im Gespräch",
@@ -78,7 +85,7 @@
       "title": "Rekordjagd: Dax zeitweise über 25.800 Punkten",
       "teaser": "Eine Erholung von KI-Aktien und ein technischer Short Squeeze heben den Dax auf ein neues Rekordhoch. Die Kurse von Rüstungsaktien hängen derweil stark von Unternehmensnachrichten ab.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-auf-rekordhoch-zeitweise-ueber-25-800-punkte-accg-200994582.html",
-      "image_url": "https://media0.faz.net/image/w1200/fa6cc41cfcce/w4000h2250x0y417/202607/43601.0.2291583221/im-handelssaal-der-frankfurter.webp",
+      "image_url": "https://media0.faz.net/image/w1100/fa6cc41cfcce/w4000h2250x0y417/202607/43601.0.2291583221/im-handelssaal-der-frankfurter.webp",
       "image_title": "Im Handelssaal der Frankfurter Börse: Der Dax sprang in dieser Woche über alte Rekordwerte."
     },
     {
@@ -94,13 +101,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-erreicht-neuen-hoechststand-200992324.html",
       "image_url": "https://media0.faz.net/image/w1100/0884d36e3aff/w4916h2765x0y8/202605/43601.0.2146871300/aufwind-fuer-aktien-am.webp",
       "image_title": "Aufwind für Aktien: Am Donnerstag erreichte der deutsche Leitindex Dax seinen bisherigen Höchststand"
-    },
-    {
-      "title": "FAZ+Credit-Suisse-Übernahme: Schweizer Notenbank pocht auf schärfere Regulierung der UBS",
-      "teaser": "Die Schweizer Großbank könne die geplanten neuen Kapitalvorgaben schon jetzt erfüllen, schreibt die SNB. Damit stärkt sie der Regierung in Bern den Rücken. Im Parlament aber finden Lobbyisten zunehmend Gehör.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ubs-snb-fordert-schaerfere-kapitalvorgaben-fuer-die-grossbank-200990574.html",
-      "image_url": "https://media0.faz.net/image/w1100/04a4749f48b7/w3903h2195x0y0/202605/43601.0.2139043167/einst-die-zentrale-der-credit.webp",
-      "image_title": "Einst die Zentrale der Credit Suisse: Gebäude der UBS am Paradeplatz in Zürich."
     },
     {
       "title": "Wie Gebühren wirken: Das Eis schmilzt, die ETF-Kosten bleiben",
@@ -173,6 +173,13 @@
       "image_title": "Archibald Preuschat"
     },
     {
+      "title": "FAZ+Credit-Suisse-Übernahme: Schweizer Notenbank pocht auf schärfere Regulierung der UBS",
+      "teaser": "Die Schweizer Großbank könne die geplanten neuen Kapitalvorgaben schon jetzt erfüllen, schreibt die SNB. Damit stärkt sie der Regierung in Bern den Rücken. Im Parlament aber finden Lobbyisten zunehmend Gehör.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ubs-snb-fordert-schaerfere-kapitalvorgaben-fuer-die-grossbank-200990574.html",
+      "image_url": "https://media0.faz.net/image/w880/04a4749f48b7/w3903h2195x0y0/202605/43601.0.2139043167/einst-die-zentrale-der-credit.webp",
+      "image_title": "Einst die Zentrale der Credit Suisse: Gebäude der UBS am Paradeplatz in Zürich."
+    },
+    {
       "title": "Sicher vor Teuerung?: Das hehre Versprechen der inflationsgeschützten Anleihen",
       "teaser": "Steigen die Preise, scheinen die sogenannten Linker eine naheliegende Absicherung. Doch ihr Nutzen hängt nicht nur von der Teuerungsrate selbst ab.",
       "url": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/inflationsgeschuetzte-anleihen-wann-lohnen-sich-linker-200987325.html",
@@ -180,17 +187,17 @@
       "image_title": "Sitzungssaal des EZB-Rats: Die Notenbank soll sich um die Inflation kümmern."
     },
     {
-      "title": "„The Big Short“: Leerverkäufer Burry wettet gegen Tesla, Caterpillar und KI",
-      "teaser": "Michael Burry sieht Übertreibungen in Aktienkursen, die von der KI-Konjunktur profitieren. Mancher Index zeige ähnliche Bewegungen wie während der Dotcom-Blase.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ueberbewertung-in-reinform-micheal-burry-wettet-gegen-halbleiter-etf-accg-200991146.html",
-      "image_url": "https://media0.faz.net/image/w880/8d2c096331d6/w5880h3307x0y0/202604/43601.0.1983494093/nachhaltiger-aufschwung.webp",
-      "image_title": "Nachhaltiger Aufschwung? Maschinen von Caterpillar kommen beim Bau von Rechenzentren zum Einsatz."
+      "title": "FAZ+Marketing: Warum die Deutschen teure Dosentomaten kaufen",
+      "teaser": "Die Deutschen mögen billige Lebensmittel. Doch der italienische Hersteller Mutti erobert das Land mit teuren Konserven – und einem simplen Trick.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/warum-die-deutschen-teure-dosentomaten-kaufen-200932264.html",
+      "image_url": "https://media0.faz.net/image/w1200/f5b18c429f65/w4240h2385x0y447/202503/43601.0.890055374/zwei-loewen-als.webp",
+      "image_title": "Zwei Löwen als Erkennungssymbol: Als Mutti Anfang des 20. Jahrhunderts sein Logo erfand, konnten viele Italiener nicht lesen."
     },
     {
       "title": "FAZ+Soziologe Steffen Mau: „Die Vermögen der jungen Leute sind immer ungleicher geworden“",
       "teaser": "Der Soziologe Steffen Mau analysiert, was der Aufstieg der AfD mit dem Geld zu tun hat – und wie Reformen aussehen können, die im Land Zustimmung finden.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/die-vermoegen-der-jungen-leute-sind-immer-ungleicher-geworden-soziologe-im-gespraech-accg-200962378.html",
-      "image_url": "https://media0.faz.net/image/w1200/c92777ec0623/w4592h2583x237y587/202510/43601.0.1387304050/der-soziologe-steffen-mau.webp",
+      "image_url": "https://media0.faz.net/image/w1100/c92777ec0623/w4592h2583x237y587/202510/43601.0.1387304050/der-soziologe-steffen-mau.webp",
       "image_title": "Der Soziologe Steffen Mau leitet die Abteilung „Ungleichheit, Transformation und Konflikt“ am Max-Planck-Institut in Göttingen."
     },
     {
@@ -206,13 +213,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-das-kompromisspaket-der-koalition-kein-grund-zur-freude-ist-200991705.html",
       "image_url": "https://media0.faz.net/image/w1100/88a5df62ce1f/w5574h3135x0y232/202607/43601.0.2288533055/grund-zur-freude-bundeskanzler.webp",
       "image_title": "Grund zur Freude? Bundeskanzler Friedrich Merz (CDU), Lars Klingbeil (SPD), Bundesminister der Finanzen, Bärbel Bas (SPD), Bundesministerin für Arbeit und Soziales, und Markus Söder (CSU), Ministerpräsident von Bayern und CSU- Vorsitzender, nach dem Koalitionsausschuss"
-    },
-    {
-      "title": "FAZ+Karrieretipps von ManagerN: „Eiern Sie nicht so herum“",
-      "teaser": "Mit dem Aufsichtsratsvorsitz der Lufthansa hat Karl-Ludwig Kley sein letztes großes Mandat abgegeben. Im Rückblick spricht der Fünfundsiebzigjährige über Besitzstandswahrer in der Belegschaft, eigene Fehler im Krisenmanagement und wertvolle Tipps vom Betriebsrat.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/eiern-sie-nicht-so-herum-karrieretipps-von-karl-ludwig-kley-accg-200967215.html",
-      "image_url": "https://media0.faz.net/image/w1100/2d6d5b230441/w4252h2392x0y15/202102/43600.0.667198397/karl-ludwig-kley.webp",
-      "image_title": "Karl-Ludwig Kley"
     },
     {
       "title": "Scherbaums Börse: Grüner Stahl, verdoppelter Gewinn",
@@ -236,10 +236,17 @@
       "image_title": "„Financial Doomscrolling“: Was anderen ein falsches Körperbild durch Instagram gibt, funktioniert ähnlich in Bezug auf das eigene Konto."
     },
     {
+      "title": "„The Big Short“: Leerverkäufer Burry wettet gegen Tesla, Caterpillar und KI",
+      "teaser": "Michael Burry sieht Übertreibungen in Aktienkursen, die von der KI-Konjunktur profitieren. Mancher Index zeige ähnliche Bewegungen wie während der Dotcom-Blase.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ueberbewertung-in-reinform-micheal-burry-wettet-gegen-halbleiter-etf-accg-200991146.html",
+      "image_url": "https://media0.faz.net/image/w920/283e5fa49cb6/w5880h2520x0y476/202604/43601.0.1983494093/nachhaltiger-aufschwung.webp",
+      "image_title": "Nachhaltiger Aufschwung? Maschinen von Caterpillar kommen beim Bau von Rechenzentren zum Einsatz."
+    },
+    {
       "title": "FAZ+Trade Republic: „Die niedrigen Gebühren bleiben“",
       "teaser": "Trade Republic erwirbt Einblicke in die Orderbücher der Börsen. Die Zeit der Rückvergütungen ist vorbei. Im Interview erklärt Gründer Christian Hecker, warum dies eine Chance für den Neobroker ist.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/die-niedrigen-gebuehren-bleiben-trade-republic-gruender-christian-hecker-accg-200986927.html",
-      "image_url": "https://media0.faz.net/image/w920/d784dc55ced9/w3305h1416x0y131/202604/43601.0.1982591795/christian-hecker-ceo-of-trade.webp",
+      "image_url": "https://media0.faz.net/image/w1100/d5343c2f69a9/w3305h1859x0y172/202604/43601.0.1982591795/christian-hecker-ceo-of-trade.webp",
       "image_title": "Christian Hecker CEO of Trade Republic is at Italian Tech Week 2024"
     },
     {
@@ -248,13 +255,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ats-aktie-verzwoelffacht-hauptaktionaere-verkaufen-accg-200987307.html",
       "image_url": "https://media0.faz.net/image/w1100/fd85efdfdea3/w3000h1687x0y331/202310/43600.0.2123038735/gang-durchs-werk-die-zentrale.webp",
       "image_title": "Gang durchs Werk: Die Zentrale von AT&S liegt in Leoben."
-    },
-    {
-      "title": "Wegen SpaceX: Rekordvolumen an den Börsen",
-      "teaser": "Die Zahl der Börsengänge im vergangenen Quartal war eher gering. Dennoch erlösten diese so viel Geld wie nie. Das liegt vor allem an einem Unternehmen.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/boersengang-rekord-spacex-dominiert-globales-ipo-volumen-200986777.html",
-      "image_url": "https://media0.faz.net/image/w1100/3bfaa120d960/w8192h4608x0y819/202606/43601.0.2210730923/traegt-die-ipo-bilanz-des.webp",
-      "image_title": "Trägt die IPO-Bilanz des zweiten Quartals: das Raumfahrtunternehmen SpaceX"
     }
   ]
 }
