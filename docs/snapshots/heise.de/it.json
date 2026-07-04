@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-04T05:33:24",
+  "timestamp": "2026-07-04T08:18:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: IT-Infrastrukturen mit OpenTofu aufbauen und verwalten",
+      "teaser": "Erfahren Sie, wie Sie mit OpenTofu die IT-Infrastruktur im Unternehmen als Code definieren, bereitstellen und administrieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Infrastrukturen-mit-OpenTofu-aufbauen-und-verwalten-11343654.html",
+      "image_title": "iX-Workshop: OpenTofu Fundamentals: Infrastructure as Code aufbauen und verwalten"
+    },
+    {
+      "title": "Developer-Häppchen fürs Wochenende – kleinere News der Woche",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Flux, Dragonfly, Endive, Kotlin Notebook, Spring AI, SharePoint, VS Code, Kai, CMake und W3C.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11350126.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "So laufen Nicht-Steam-Spiele unter Linux | c't 3003",
       "teaser": "Steam-Spiele laufen unter Linux längst reibungslos. Aber wie sieht es mit GOG, Epic, Battle.net & Co. aus? c't 3003 hat Lutris, Heroic und Faugus getestet.",
       "url": "https://www.heise.de/news/So-laufen-Nicht-Steam-Spiele-unter-Linux-c-t-3003-11353554.html"
@@ -28,18 +40,6 @@
       "title": "Projekt Aion: Video-Leak zeigt Konzept, wie Microsoft Windows auf KI trimmt",
       "teaser": "Ein Video aus dem Jahr 2024 zeigt, wie KI-zentrisch Microsoft sich Windows vorstellen konnte: Von der etablierten Bedienoberfläche blieb nicht viel übrig.",
       "url": "https://www.heise.de/news/Projekt-Aion-Video-Leak-zeigt-Konzept-wie-Microsoft-Windows-auf-KI-trimmt-11353620.html"
-    },
-    {
-      "title": "SAP will mit Sparmaßnahmen KI-Ausbau finanzieren",
-      "teaser": "Software-Konzern SAP macht seinen KI-Ausbau zur größten Priorität und will dafür bei Ausgaben wie Neueinstellungen kürzen.",
-      "url": "https://www.heise.de/news/SAP-will-mit-Sparmassnahmen-KI-Ausbau-finanzieren-11353486.html",
-      "image_title": "SAP-Buchstaben an einem Glasgebäude"
-    },
-    {
-      "title": "KommentarCISA-Übereifer macht CVSS-Scores wertlos",
-      "teaser": "Zwei „Low“-Lücken in Apache Tomcat wären dank äußerst eigenwilligem CISA-Vulnrichment beinahe zu heisec-Alert-Kandidaten geworden.",
-      "url": "https://www.heise.de/meinung/Kommentar-CISA-Uebereifer-macht-CVSS-Scores-wertlos-11353573.html",
-      "image_title": "Laufende Sanduhr im Vordergrund. Im Hintergrund sitzt eine Person in weißem Hemd am Laptop."
     },
     {
       "title": "HintergrundSpiele-Engines: Warum erfolgreiche Game-Studios die Unreal Engine bevorzugen",
@@ -58,6 +58,12 @@
       "title": "Wasserzerstäuber für Terrasse und Garten im Praxistest",
       "teaser": "Hitzewelle auf Balkon und Terrasse? Günstige Sprühnebler-Systeme sorgen mit feinem Wassernebel für spürbare Abkühlung – ohne die Stromrechnung zu belasten.",
       "url": "https://www.heise.de/bestenlisten/ratgeber/spruehnebel-statt-klimaanlage-wasserzerstaeuber-fuer-terrasse-und-garten/2h26kcp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Kommentar: CISA-Übereifer macht CVSS-Scores wertlos",
+      "teaser": "CVSS ad absurdum: Zwei „Low“-Lücken in Apache Tomcat wären dank äußerst eigenwilligem CISA-Vulnrichment beinahe zu heisec-Alert-Kandidaten geworden.",
+      "url": "https://www.heise.de/meinung/Kommentar-CISA-Uebereifer-macht-CVSS-Scores-wertlos-11353573.html",
+      "image_title": "Laufende Sanduhr im Vordergrund. Im Hintergrund sitzt eine Person in weißem Hemd am Laptop."
     },
     {
       "title": "Intel verteuert seinen beliebtesten Desktop-Prozessor",
@@ -136,12 +142,6 @@
       "teaser": "MongoDB stellt seine Volltext- und Vektorsuche für selbst verwaltete Installationen bereit, auch in der Community Edition.",
       "url": "https://www.heise.de/news/MongoDB-bringt-KI-Suche-in-die-Community-Edition-11352592.html",
       "image_title": "Datenbank-Symbol vor einem Netzwerk aus Linien und Punkten"
-    },
-    {
-      "title": "„Play“-App für SwiftUI-Developer: Entwickler gehen zu Apple",
-      "teaser": "2025 gewann eine nützliche App für Entwickler einen Apple Design Award. Die Mannschaft dahinter ist nun in Cupertino gelandet – und dürfte Xcode verbessern.",
-      "url": "https://www.heise.de/news/Play-App-fuer-SwiftUI-Developer-Entwickler-gehen-zu-Apple-11351561.html",
-      "image_title": "Play-App"
     },
     {
       "title": "NewsUS-Urteil erschüttert das Fundament des transatlantischen Datentransfers",
