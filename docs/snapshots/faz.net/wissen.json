@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-05T12:08:45",
+  "timestamp": "2026-07-05T14:23:24",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Shifting Baseline: Heute brutal, morgen normal",
+      "teaser": "Die Hitzewelle war heftig, aber wird sie den Klimaschutz vorantreiben? Ein Blick auf die Psyche der Menschen gibt einen wichtigen Hinweis.",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/gewoehnungseffekt-was-ist-das-shifting-baseline-syndrome-und-warum-bringen-hitzewellen-uns-nicht-ins-handeln-accg-200987322.html"
+    },
+    {
       "title": "Quantencomputer: Ionen lernen das perfekte Rechnen",
       "teaser": "In den Wettlauf um den leistungsfähigsten Quantencomputer ist erneut Bewegung gekommen. Ein Quantencomputer aus 98 gespeicherten Ionen macht den bisherigen Platzhirschen Konkurrenz.",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/quantencomputer-helios-wie-das-start-up-quantinuum-google-und-ibm-herausfordert-200964908.html"
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/quantencomputer-helios-wie-das-start-up-quantinuum-google-und-ibm-herausfordert-200964908.html",
+      "image_url": "https://media0.faz.net/image/w1200/693109357172/w1299h731x109y36/202606/43601.0.2261077636/nahaufnahme-des.webp",
+      "image_title": "Nahaufnahme des Quantenprozessors Helios mit Ringspeicher, Vorbereitungszone und Rechenwerk (von links)"
     },
     {
       "title": "Netzrätsel: Schalten Sie den Computer nicht aus",
@@ -83,7 +90,7 @@
       "title": "Junge Öffentlichrechtler: Habituskritik als Habitusmerkmal",
       "teaser": "Wie wird man Staatsrechtslehrer? Oder Staatsrechtslehrerin? Die „Assistententagung“ heißt nicht mehr so. Das Karrieremuster der wohlwollenden Verfassungsgerichtshermeneutik wird nicht so bald verschwinden.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/der-habitus-der-jungen-oeffentlichrechtler-accg-200869686.html",
-      "image_url": "https://media0.faz.net/image/w1200/ac52c431acf4/w6000h3375x0y201/202309/43600.0.2019139467/hier-kann-man-fast-schon.webp",
+      "image_url": "https://media0.faz.net/image/w1100/ac52c431acf4/w6000h3375x0y201/202309/43600.0.2019139467/hier-kann-man-fast-schon.webp",
       "image_title": "Hier kann man fast schon verdächtig entspannt über den Kern des Kerns der Verfassungsordnung nachdenken: der Campus der Bucerius Law School – Hochschule für Rechtswissenschaft in Hamburg."
     },
     {
@@ -99,13 +106,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/bequemlichkeit-warum-sie-eine-sackgasse-ist-accg-200850057.html",
       "image_url": "https://media0.faz.net/image/w1100/43937329ed17/w1709h961x0y210/202605/43601.0.2108450794/a-woman-sitting-on-a-mountain.webp",
       "image_title": "A woman sitting on a mountain summit with her mixed-breed dog whilst on a walk/hike overlooking the ocean. In Cape Town, South Africa."
-    },
-    {
-      "title": "Sternenstaub in der Tiefsee: Strahlender Regen kosmischer Explosionen",
-      "teaser": "Radioaktive Asche aus der Milchstraße rieselt permanent auf die Erde. Ablagerungen auf dem Grund des Pazifiks zeigen nun: Mindestens drei Detonationen in der Milchstraße sind dafür verantwortlich.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/kilonova-in-der-milchstrasse-dominik-kolls-fund-200985425.html",
-      "image_url": "https://media0.faz.net/image/w1100/4b0d09bd25ad/w5000h2812x0y240/201710/431.0.22897724/kuenstlerische-darstellung.webp",
-      "image_title": "Künstlerische Darstellung einer Kilomova"
     },
     {
       "title": "Embryonenforschung: Sie optimieren Methoden, keine Menschen",
@@ -178,6 +178,13 @@
       "image_title": "Piotr Heller"
     },
     {
+      "title": "Sternenstaub in der Tiefsee: Strahlender Regen kosmischer Explosionen",
+      "teaser": "Radioaktive Asche aus der Milchstraße rieselt permanent auf die Erde. Ablagerungen auf dem Grund des Pazifiks zeigen nun: Mindestens drei Detonationen in der Milchstraße sind dafür verantwortlich.",
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/kilonova-in-der-milchstrasse-dominik-kolls-fund-200985425.html",
+      "image_url": "https://media0.faz.net/image/w880/4b0d09bd25ad/w5000h2812x0y240/201710/431.0.22897724/kuenstlerische-darstellung.webp",
+      "image_title": "Künstlerische Darstellung einer Kilomova"
+    },
+    {
       "title": "Hantavirus: Was vom Hantavirus-Ausbruch auf der Hondius bleibt",
       "teaser": "Der Ausbruch des Hantavirus auf dem Kreuzfahrtschiff Hondius sorgte für weltweite Aufmerksamkeit. Nun gibt es eine Bilanz.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kreuzfahrtschiff-die-lehren-aus-dem-hantavirus-ausbruch-auf-der-hondius-accg-200994186.html",
@@ -185,24 +192,31 @@
       "image_title": "Passagiere wurden auf Teneriffa vom Schiff evakuiert."
     },
     {
+      "title": "FAZ+Kolumne „Gesundheitsmythen“: „Der Fruchtzucker aus Obst fällt nicht groß ins Gewicht“",
+      "teaser": "Konkurrenzkampf im Obstregal: Es heißt, Beeren seien besonders gesund, Weintrauben hätten zu viel Zucker. Was davon stimmt und wer mit Obstexzessen vorsichtig sein sollte.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/welches-obst-hat-am-meisten-zucker-accg-200984012.html",
+      "image_url": "https://media0.faz.net/image/w1100/f908e446a32c/w7447h4189x362y361/202606/43601.0.2273711915/eigentlich-ein-schmackhafter.webp",
+      "image_title": "Eigentlich ein schmackhafter Anblick. Doch weniger als 15 Prozent essen genug Obst und Gemüse."
+    },
+    {
       "title": "FAZ+Krank durch Käse?: Wie man sich vor Listerien schützen kann",
       "teaser": "In Europa erkranken immer mehr Menschen an Listeriose. Die Bakterien verursachen eine Hirnhautentzündung. Wer besonders aufpassen muss.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/krank-durch-kaese-so-schuetzen-sie-sich-vor-listerien-200978455.html",
-      "image_url": "https://media0.faz.net/image/w880/47706fa9eb3e/w8192h4608x0y428/202606/43601.0.2280750517/rohmilchkaese-ist-dafuer.webp",
+      "image_url": "https://media0.faz.net/image/w1100/47706fa9eb3e/w8192h4608x0y428/202606/43601.0.2280750517/rohmilchkaese-ist-dafuer.webp",
+      "image_title": "Rohmilchkäse ist dafür bekannt, dass er Listerien enthalten kann."
+    },
+    {
+      "title": "FAZ+Krank durch Käse?: Wie man sich vor Listerien schützen kann",
+      "teaser": "In Europa erkranken immer mehr Menschen an Listeriose. Die Bakterien verursachen eine Hirnhautentzündung. Wer besonders aufpassen muss.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/krank-durch-kaese-so-schuetzen-sie-sich-vor-listerien-200978455.html",
+      "image_url": "https://media0.faz.net/image/w920/fd70e0829b2c/w8192h3510x0y977/202606/43601.0.2280750517/rohmilchkaese-ist-dafuer.webp",
       "image_title": "Rohmilchkäse ist dafür bekannt, dass er Listerien enthalten kann."
     },
     {
       "title": "FAZ+Kolumne „Gesundheitsmythen“: „Der Fruchtzucker aus Obst fällt nicht groß ins Gewicht“",
       "teaser": "Konkurrenzkampf im Obstregal: Es heißt, Beeren seien besonders gesund, Weintrauben hätten zu viel Zucker. Was davon stimmt und wer mit Obstexzessen vorsichtig sein sollte.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/welches-obst-hat-am-meisten-zucker-accg-200984012.html",
-      "image_url": "https://media0.faz.net/image/w1800/f908e446a32c/w7447h4189x362y361/202606/43601.0.2273711915/eigentlich-ein-schmackhafter.webp",
-      "image_title": "Eigentlich ein schmackhafter Anblick. Doch weniger als 15 Prozent essen genug Obst und Gemüse."
-    },
-    {
-      "title": "FAZ+Kolumne „Gesundheitsmythen“: „Der Fruchtzucker aus Obst fällt nicht groß ins Gewicht“",
-      "teaser": "Konkurrenzkampf im Obstregal: Es heißt, Beeren seien besonders gesund, Weintrauben hätten zu viel Zucker. Was davon stimmt und wer mit Obstexzessen vorsichtig sein sollte.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/welches-obst-hat-am-meisten-zucker-accg-200984012.html",
-      "image_url": "https://media0.faz.net/image/w920/32fb69bc8a1e/w8192h3510x0y783/202606/43601.0.2273711915/eigentlich-ein-schmackhafter.webp",
+      "image_url": "https://media0.faz.net/image/w1100/f908e446a32c/w7447h4189x362y361/202606/43601.0.2273711915/eigentlich-ein-schmackhafter.webp",
       "image_title": "Eigentlich ein schmackhafter Anblick. Doch weniger als 15 Prozent essen genug Obst und Gemüse."
     },
     {
@@ -211,13 +225,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/olivenoel-betrug-woran-man-gefaelschtes-oel-erkennt-200947575.html",
       "image_url": "https://media0.faz.net/image/w1100/085003aa4acd/w3000h1687x0y156/202411/43601.0.693331347/olivenhain-in-spanien-in-dem.webp",
       "image_title": "Olivenhain in Spanien. In dem Land haben Missernten dazu geführt, dass das Öl teuer geworden ist."
-    },
-    {
-      "title": "Ewigkeitschemikalien in der Medizin: Medikamente ohne PFAS",
-      "teaser": "Ewigkeitschemikalien stecken auch in Medikamenten und verbreiten sich so in Wasser und Lebensmitteln. Das muss nicht sein, auch wenn manche etwas anderes behaupten.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/pfas-sogenannte-ewigkeitschemikalien-sind-als-medikamente-nicht-notwendig-200948348.html",
-      "image_url": "https://media0.faz.net/image/w1100/40835032e1b4/w2052h1154x0y126/201606/431.0.29349031/fluotexin-der-wirkstoff-des.webp",
-      "image_title": "Fluotexin, der Wirkstoff des Antidepressivum Prozac, zählt zu den PFAS."
     },
     {
       "title": "Neue Früherkennung: Was nützt das Krebsscreening für Raucher?",
