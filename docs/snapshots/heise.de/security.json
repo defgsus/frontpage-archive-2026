@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T06:15:40",
+  "timestamp": "2026-07-06T11:19:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertNASSchwachstellen in Synology MailPlus Server lassen Angreifer passieren",
-      "teaser": "Netzwerkspeicher von Synology mit MailPlus Server sind attackierbar. Ein Sicherheitspatch schafft Abhilfe.",
-      "url": "https://www.heise.de/news/Schwachstellen-in-Synology-MailPlus-Server-lassen-Angreifer-passieren-11351331.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
+      "title": "AlertSelf-HostingCoolify: Kritische Lücken können Remote-Angriffe ermöglichen",
+      "teaser": "Sicherheitslücken in der Self-Hosting-Plattform bieten Angriffsmöglichkeiten auf Basis geringer, jedoch eng definierter Zugriffsrechte. Updates sind verfügbar.",
+      "url": "https://www.heise.de/news/Coolify-Kritische-Luecken-koennen-Remote-Angriffe-ermoeglichen-11354554.html",
+      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
-      "title": "ExploitariumAnonymer Sicherheitsforscher veröffentlicht zwei Dutzend Zero-Days",
-      "teaser": "Der Unbekannte hat mit KI-Unterstützung Sicherheitslücken in allerlei quelloffener Software entdeckt und publik gemacht – als Geschenk.",
-      "url": "https://www.heise.de/news/Exploitarium-Anonymer-Sicherheitsforscher-veroeffentlicht-zwei-Dutzend-Zero-Days-11350036.html",
-      "image_title": "Aufkleber auf Macbook: Dropping 0-days faster than Newton's apple"
+      "title": "KommentarCISA-Übereifer macht CVSS-Scores wertlos",
+      "teaser": "Zwei „Low“-Lücken in Apache Tomcat wären dank äußerst eigenwilligem CISA-Vulnrichment beinahe zu heisec-Alert-Kandidaten geworden.",
+      "url": "https://www.heise.de/meinung/Kommentar-CISA-Uebereifer-macht-CVSS-Scores-wertlos-11353573.html",
+      "image_title": "Laufende Sanduhr im Vordergrund. Im Hintergrund sitzt eine Person in weißem Hemd am Laptop."
     },
     {
-      "title": "AlertJetzt updaten: Kritische Lücken in Ubiquiti UniFi erlauben Remote-Angriffe",
-      "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Luecken-in-Ubiquiti-UniFi-erlauben-Remote-Angriffe-11352622.html",
-      "image_title": "Warnsymbol"
+      "title": "AlertDell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
+      "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html",
+      "image_title": "Server-Hardware"
     },
     {
       "title": "Nächster Halt: Digital im Septemberheise security Tour 2026",
@@ -49,6 +49,17 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertDell dichtet PowerProtect Data Domain gegen gefährliche Angriffsszenarien ab",
+      "teaser": "Als „kritisch“ stuft Dell ein bereitgestelltes Update-Paket für mehrere Versionen des PowerProtect DD-Betriebssystems ein. Remote-Angriffe sind möglich.",
+      "url": "https://www.heise.de/news/Dell-dichtet-PowerProtect-Data-Domain-gegen-gefaehrliche-Angriffsszenarien-ab-11354750.html",
+      "image_title": "Server-Hardware"
+    },
+    {
+      "title": "Identitäten als Grundlage der IT-Sicherheit: Beiträge für neue Konferenz gesucht",
+      "teaser": "Identitätsmanagement wird immer mehr zum zentralen Hebel für die IT-Sicherheit in Unternehmen. Der ICC Summit bietet Antworten, wie identity-first funktioniert.",
+      "url": "https://www.heise.de/news/Identitaeten-als-Grundlage-der-IT-Sicherheit-Beitraege-fuer-neue-Konferenz-gesucht-11342836.html"
+    },
+    {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
       "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11347445.html",
@@ -59,12 +70,6 @@
       "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11343682.html",
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
-    },
-    {
-      "title": "Kommentar: CISA-Übereifer macht CVSS-Scores wertlos",
-      "teaser": "CVSS ad absurdum: Zwei „Low“-Lücken in Apache Tomcat wären dank äußerst eigenwilligem CISA-Vulnrichment beinahe zu heisec-Alert-Kandidaten geworden.",
-      "url": "https://www.heise.de/meinung/Kommentar-CISA-Uebereifer-macht-CVSS-Scores-wertlos-11353573.html",
-      "image_title": "Laufende Sanduhr im Vordergrund. Im Hintergrund sitzt eine Person in weißem Hemd am Laptop."
     },
     {
       "title": "Cloud wird zur Achillesferse der deutschen Wirtschaft",
@@ -89,6 +94,12 @@
       "teaser": "Cloudflare erweitert die Steuerung von KI-Crawlern. Websitebetreiber können Zugriffe nun nach Einsatzzweck unterscheiden und blockieren.",
       "url": "https://www.heise.de/news/Statt-Totalblockade-Cloudflare-trennt-KI-Crawler-nach-Zweck-11351571.html",
       "image_title": "Roboter interagieren mit einem Browserfenster, Büchern und einem Dokument."
+    },
+    {
+      "title": "AlertSchwachstellen in Synology MailPlus Server lassen Angreifer passieren",
+      "teaser": "Netzwerkspeicher von Synology mit MailPlus Server sind attackierbar. Ein Sicherheitspatch schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Schwachstellen-in-Synology-MailPlus-Server-lassen-Angreifer-passieren-11351331.html",
+      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
     },
     {
       "title": "Fehler in „E-Mail-Adresse verbergen“ von Apple weiter ohne Fix",
@@ -133,35 +144,24 @@
       "image_title": "Smartphone-Sperrbildschirm mit PIN-Anzeige"
     },
     {
-      "title": "secIT digital: Diese Anti-Phishing-Ansätze helfen wirklich",
-      "teaser": "Ende September auf der secIT digital: hilfreiche Tipps zur Umsetzung vom Cyber Resilience Act und Grundschutz++. Außerdem: mit Passkeys & Co. gegen Phishing.",
-      "url": "https://www.heise.de/news/secIT-digital-Diese-Anti-Phishing-Ansaetze-helfen-wirklich-11347799.html"
-    },
-    {
-      "title": "AlertAngreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
-      "teaser": "Die Citrix-Entwickler haben im Load-Balancer NetScaler ADC und in der Fernzugriffslösung NetScaler Gateway insgesamt sechs Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11350144.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
-      "title": "Workshop | 14. – 16.7.2026IT-Grundschutz-Praktiker mit Zertifikat",
-      "teaser": "Lernen Sie die IT-Grundschutz-Methodik des BSI kennen und erwerben Sie das offizielle Zertifikat.",
-      "url": "https://heise-conferences.de/workshop/it-grundschutz-praktiker-mit-zertifikat-C55fj4n99qdY6T?wt_mc=intern.conf.ix.ws_itgrundschutz.security_buehne_2.teaser.teaser"
-    },
-    {
-      "title": "Classroom | 20.08. – 17.09.2026Ethical Hacking für Admins – Pentesting für eine sichere IT",
-      "teaser": "In fünf Sessions zum Pentester werden: die Sicht eines Angreifers kennenlernen und Systeme, Netzwerke und Cloud-Umgebungen optimal absichern.",
-      "url": "https://heise-academy.de/kurs/classroom-ethical-hacking-fuer-admins-pentesting-fuer-eine-s-3b5a38?LPID=38470&wt_mc=intern.academy.academy.cr_ethical-hacking.security_buehne_2.teaser.teaser&utm_campaign=298392774-ha_2026_01-12_classrooms&utm_source=heise&utm_medium=buehne_ho&utm_content=buehne_ho-security_2&utm_term=cr_ethical-hacking"
-    },
-    {
-      "title": "Online-Konferenz | 29. – 30.09.2026secIT by heise digital",
-      "teaser": "Digitale Kongressmesse für IT-Sicherheitsbeauftragte, Rechenzentrumsleiter, Netzwerkadministratoren und Entscheider in Sicherheitsfragen. Kostenfrei anmelden!",
-      "url": "https://secit-digital.de/?wt_mc=intern.conf.conf.konf_secit-digital.heisec_de.teaser.teaser"
+      "title": "Workshop | 20. – 21.7.2026ISO 27001 für Admins: ISMS praktisch umsetzen",
+      "teaser": "In diesem Workshop lernen Sie, wie Sie ein Informationssicherheits-Managementsystem nach ISO 27001 aus technischer Sicht praxisnah umsetzen können.",
+      "url": "https://heise-conferences.de/workshop/iso-27001-fur-admins-isms-praktisch-umsetzen-gefHm7vaQHDXlQ?wt_mc=intern.conf.ix.ws_isms.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Konferenz | 28. – 19.10.2026Public IT",
       "teaser": "Die c’t-Konferenz für den öffentlichen Sektor mit zwei zentralen Themenfeldern: souveräne Cloud- und On-Premise-Lösungen sowie Automatisierung und KI",
       "url": "https://public-it.de/?wt_mc=intern.conf.ct.konf_public-it.heisec_de.teaser.teaser"
+    },
+    {
+      "title": "Workshop | 25.11. – 26.11.2026DHCP-Automatisierung mit Kea und Stork",
+      "teaser": "Im Workshop lernen Sie, Kea mit Datenbank-Backend und HA-Cluster aufzubauen, sicher zu betreiben und per API zu automatisieren.",
+      "url": "https://heise-conferences.de/workshop/dhcp-automatisierung-mit-kea-und-stork-_awtwYYgAtGBip?wt_mc=intern.conf.ct.ws_kea.security_buehne_2.teaser.teaser"
+    },
+    {
+      "title": "Workshop | 18.11.2026Einführung ins Threat Modeling",
+      "teaser": "Etablieren Sie IT-Security als Mindset und lernen Sie Threat Modeling als leichtgewichtige Methode kennen, um Security frühzeitig zu adressieren.",
+      "url": "https://heise-conferences.de/workshop/einfuhrung-ins-threat-modeling-iSzYRFxCRMILG1?wt_mc=intern.conf.ct.ws_threat-modeling.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Cloud wird zur Achillesferse der deutschen Wirtschaft",
