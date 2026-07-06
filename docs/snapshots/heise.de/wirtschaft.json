@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-06T14:51:34",
+  "timestamp": "2026-07-06T17:32:34",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,27 +20,28 @@
   ],
   "articles": [
     {
-      "title": "Nvidia verkauft KI-Beschleuniger jetzt gegen Umsatzbeteiligung",
-      "teaser": "Ein neues Geschäftsmodell soll Nvidia noch mehr Geld in die Kasse spülen. Neoclouds bekommen vergünstigte Hardware gegen Umsatzbeteiligung.",
+      "title": "Elektrische Schulbusse in den USA werden als Netzspeicher eingesetzt",
+      "teaser": "In den USA werden über 200 elektrische Schulbusse in der Ferienzeit als Netzspeicher eingesetzt und speisen bei Spitzenlast Strom ins Netz.",
+      "url": "https://www.heise.de/news/Elektrische-Schulbusse-in-den-USA-werden-als-Netzspeicher-eingesetzt-11355543.html",
+      "image_title": "Elektrischer US-Schulbus an der Ladestation"
+    },
+    {
+      "title": "China verschärft KI-Regeln: ByteDance und Alibaba entfernen menschenähnliche KI",
+      "teaser": "Nachdem China die Regeln für menschenähnliche KI-Begleiter verschärft hat, entfernen ByteDance und Alibaba entsprechende Funktionen aus ihren KI-Apps.",
+      "url": "https://www.heise.de/news/China-reguliert-emotionale-KI-ByteDance-und-Alibaba-schalten-App-Funktionen-ab-11355417.html",
+      "image_title": "Eine Person tippt auf einem Laptop, während eine Roboterhand aus dem Bildschirm heraus einer menschlichen Hand entgegenreicht."
+    },
+    {
+      "title": "Gaming-SparteMicrosoft bestätigt Entlassungen und Studio-Verkauf bei Xbox",
+      "teaser": "Microsoft baut die Spiele-Sparte Xbox um und streicht 3200 Jobs. Auch im Geschäftskunden-Bereich fallen tausende Stellen weg.",
+      "url": "https://www.heise.de/news/Xbox-Microsoft-will-fuenf-Studios-loswerden-und-3200-Stellen-streichen-11355465.html",
+      "image_title": "Xbox-Logo und Buttons vor grünem Hintergrund"
+    },
+    {
+      "title": "Neues GeschäftsmodellNvidia verkauft KI-Beschleuniger jetzt gegen Umsatzbeteiligung",
+      "teaser": "Ein neues Geschäftsmodell soll Nvidia noch mehr Geld in die Kasse spülen: Vergünstigte Hardware gegen Umsatzbeteiligung.",
       "url": "https://www.heise.de/news/Nvidia-verkauft-KI-Beschleuniger-jetzt-gegen-Umsatzbeteiligung-11355200.html",
       "image_title": "Nvidia-Chef Jensen Huang hält auf einer Bühne seine Arm hoch"
-    },
-    {
-      "title": "Bau von neuem Rechenzentrum: Erneuerbare Energiequellen waren eine Lüge?",
-      "teaser": "DataVita, Co-Betreiber eines neuen Rechenzentrums in Schottland, plante offenbar nie, es wie versprochen mit erneuerbaren Energien zu betreiben.",
-      "url": "https://www.heise.de/news/Bau-von-neuem-Rechenzentrum-Erneuerbare-Energiequellen-waren-eine-Luege-11354990.html",
-      "image_title": "Rechenzentrum, das mit Absperrband abgesperrt ist"
-    },
-    {
-      "title": "Ubuntu macht ARM64 zur Plattform erster Klasse",
-      "teaser": "Canonical treibt den Ausbau von Ubuntu für ARM64 voran. Mit Ubuntu 26.04 LTS erreicht ARM64 in vielen Bereichen Parität mit AMD64.",
-      "url": "https://www.heise.de/news/Ubuntu-macht-ARM64-zur-Plattform-erster-Klasse-11355190.html",
-      "image_title": "Das Ubuntu-Logo mit dem Schriftzug \"ubuntu\" auf einem violetten Hintergrund."
-    },
-    {
-      "title": "Deutscher DSA-Koordinator geht gegen eBay vor",
-      "teaser": "Der Onlinemarktplatz soll wesentliche Regeln des Digitale-Dienste-Gesetzes bislang nicht einhalten, meint der DSA-Koordinator bei der Bundesnetzagentur.",
-      "url": "https://www.heise.de/news/Deutscher-DSA-Koordinator-geht-gegen-eBay-vor-11354986.html"
     },
     {
       "title": "RatgeberInvestieren in die Rüstungsbranche: Aktien, ETFs & Fonds im Check",
@@ -54,6 +55,17 @@
     {
       "title": "HintergrundWero nutzen: Wie weit Europas neue Bezahlart wirklich ist",
       "url": "https://www.heise.de/hintergrund/Wero-nutzen-Wie-weit-Europas-neue-Bezahlart-wirklich-ist-11221040.html"
+    },
+    {
+      "title": "Schottisches Rechenzentrum: Zweifel an versprochener Versorgung mit Erneuerbaren",
+      "teaser": "DataVita, Co-Betreiber eines neuen Rechenzentrums in Schottland, plante laut einem Medienbericht nie, es wie versprochen mit erneuerbaren Energien zu betreiben.",
+      "url": "https://www.heise.de/news/Bau-von-neuem-Rechenzentrum-Erneuerbare-Energiequellen-waren-eine-Luege-11354990.html",
+      "image_title": "Rechenzentrum, das mit Absperrband abgesperrt ist"
+    },
+    {
+      "title": "Deutscher DSA-Koordinator geht gegen eBay vor",
+      "teaser": "Der Onlinemarktplatz soll wesentliche Regeln des Digitale-Dienste-Gesetzes bislang nicht einhalten, meint der DSA-Koordinator bei der Bundesnetzagentur.",
+      "url": "https://www.heise.de/news/Deutscher-DSA-Koordinator-geht-gegen-eBay-vor-11354986.html"
     },
     {
       "title": "Tech-Startups wollen die EU Inc.",
@@ -131,17 +143,6 @@
       "teaser": "Aus Angst vor Überwachung dürfen Alibaba-Mitarbeiter Anthropics KI Claude nicht mehr nutzen. Anthropic hatte das eigentlich schon vorher verboten.",
       "url": "https://www.heise.de/news/Alibaba-verbietet-Beschaeftigten-die-Nutzung-von-Claude-KI-11353982.html",
       "image_title": "Alibaba-Schriftzug an einer Glasfassade eines Hochhauses"
-    },
-    {
-      "title": "Sparpläne: Beschäftigte von Mercedes und VW demonstrieren",
-      "teaser": "Tausende Mercedes-Mitarbeiter gehen bundesweit auf die Straße. Bei Volkswagen in Emden gibt es ebenfalls einen großen Protest.",
-      "url": "https://www.heise.de/news/Sparplaene-Beschaeftigte-von-Mercedes-und-VW-demonstrieren-11353858.html"
-    },
-    {
-      "title": "UN-Bericht zu KI-Risiken: „Die Welt kann nicht regieren, was sie nicht versteht“",
-      "teaser": "Ein neues UN-Expertengremium warnt: Die KI-Entwicklung überholt die Politik. Nur durch wissenschaftliches Verständnis lassen sich Risiken effektiv steuern.",
-      "url": "https://www.heise.de/news/UN-Bericht-zu-KI-Risiken-Die-Welt-kann-nicht-regieren-was-sie-nicht-versteht-11353726.html",
-      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
     },
     {
       "title": "NewsUS-Startup Valar Atomics demonstriert funktionierenden Atomreaktor",
