@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-07T09:25:24",
+  "timestamp": "2026-07-07T12:19:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,71 @@
   ],
   "articles": [
     {
-      "title": "Vertrauenswürdigkeit von KI-Systemen: BSI veröffentlicht Prüfkatalogsentwurf",
+      "title": "AlertZimbra Collaboration Suite: Kritische Lücke macht Classic Web Client angreifbar",
+      "teaser": "Wer den Webclient der Zimbra Collaboration Suite nutzt, sollte zügig ein Update durchführen, um Angriffsversuche per Mail abzuschmettern.",
+      "url": "https://www.heise.de/news/Zimbra-Collaboration-Suite-Kritische-Luecke-macht-Classic-Web-Client-angreifbar-11356522.html",
+      "image_title": "Finger tippt auf Update-Button"
+    },
+    {
+      "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
+      "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11347463.html",
+      "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
+    },
+    {
+      "title": "Shoppen ohne Tracking: Datensparsam bei Amazon & Co. einkaufen",
+      "teaser": "Beim Onlineshopping erzeugt jeder Klick Datenspuren, die sich an der Kasse dem Kunden zuordnen lassen. Mit unserem Einkaufszettel shoppen Sie ohne Historie.",
+      "url": "https://www.heise.de/ratgeber/Shoppen-ohne-Tracking-Datensparsam-bei-Amazon-Co-einkaufen-11296645.html",
+      "image_title": "Ein Karton mit einem lachenden Gesicht, aus dem Tentakel wachsen."
+    },
+    {
+      "title": "SSD voll: Windows-11-Update stoppt Speicheraufblähung einer Datei",
+      "teaser": "Die Datei CapabilityAccessManager.db-wal kann Hunderte Gigabyte Speicherplatz fressen. Ein Windows-Update soll Abhilfe schaffen.",
+      "url": "https://www.heise.de/news/Windows-Update-behebt-Speicherloch-11356555.html",
+      "image_title": "SSDs als M.2-Kärtchen"
+    },
+    {
+      "title": "RatgeberShoppen ohne Tracking: Datensparsam bei Amazon & Co. einkaufen",
+      "url": "https://www.heise.de/ratgeber/Shoppen-ohne-Tracking-Datensparsam-bei-Amazon-Co-einkaufen-11296645.html",
+      "image_title": "Ein Karton mit einem lachenden Gesicht, aus dem Tentakel wachsen."
+    },
+    {
+      "title": "RatgeberProton Lumo 2.0: Wie Sie mehr aus der privaten KI rausholen",
+      "url": "https://www.heise.de/ratgeber/Proton-Lumo-2-0-Wie-Sie-mehr-aus-der-privaten-KI-rausholen-11351301.html"
+    },
+    {
+      "title": "HintergrundFür Mac und mehr: Fragen und Antworten zu Festplatten und SSDs",
+      "url": "https://www.heise.de/hintergrund/Fuer-Mac-und-mehr-Fragen-und-Antworten-zu-Festplatten-und-SSDs-11348751.html",
+      "image_title": "Eine Festplatte"
+    },
+    {
+      "title": "Jadepuffer: Die erste KI-Ransomware-Attacke verbaselt nicht nur den Schlüssel",
+      "teaser": "Forscher dokumentieren den ersten LLM-gesteuerten Ransomware-Angriff. Doch die KI scheiterte an grundlegenden Fehlern. Eine Mahnung für Admins.",
+      "url": "https://www.heise.de/news/Jadepuffer-Die-erste-KI-Ransomware-Attacke-verbaselt-nicht-nur-den-Schluessel-11356105.html",
+      "image_title": "Ein Malware-Warnhinweis"
+    },
+    {
+      "title": "Samsung-Sicherheitsupdate: Juli-Patches für Galaxy-Geräte",
+      "teaser": "Samsung hat sein Security-Bulletin für Juli 2026 veröffentlicht und verteilt wichtige Sicherheitspatches vor allem für die Topmodelle der Galaxy-Reihe.",
+      "url": "https://www.heise.de/news/Samsung-Sicherheitsupdate-Juli-Patches-fuer-Galaxy-Geraete-11356339.html",
+      "image_title": "Ein Samsung-Galaxy-Smartphone erhält ein Update."
+    },
+    {
+      "title": "MedConf 2026: Mit Ihrem Vortrag die Medizintechnik mitgestalten",
+      "teaser": "Teilen Sie Ihre Expertise: Bis zum 30. August können Sie Vorträge für die Medizintechnik-Konferenz „MedConf“einreichen.",
+      "url": "https://www.heise.de/news/MedConf-2026-Mit-Ihrem-Vortrag-die-Medizintechnik-mitgestalten-11354872.html"
+    },
+    {
+      "title": "Agentic AI fürs Smart Home: openHAB 5.2 bringt Chat-Interface und MCP-Server",
+      "teaser": "Die Open-Source-Plattform openHAB bietet eine Anbindung an LLMs für Abfragen und Steuerung via Chat sowie einen eigenen MCP-Server für Agentic AI.",
+      "url": "https://www.heise.de/news/Agentic-AI-fuers-Smart-Home-openHAB-5-2-bringt-Chat-Interface-und-MCP-Server-11355811.html",
+      "image_title": "Ein Bot sitzt vor einem Modellhaus"
+    },
+    {
+      "title": "BSI veröffentlicht Prüfkatalogsentwurf zur Vertrauenswürdigkeit von KI-Systemen",
       "teaser": "Kommentare erwünscht: Ein erster \"Community Draft\" des neuen A5-Prüfkatalogs des Bundesamts für Sicherheit in der Informationstechnik liegt nun vor.",
       "url": "https://www.heise.de/news/Vertrauenswuerdigkeit-von-KI-Systemen-BSI-veroeffentlicht-Pruefkatalogsentwurf-11356007.html",
       "image_title": "Person am Laptop"
-    },
-    {
-      "title": "KI- und Workstationgrafikkarte Asrock Arc Pro B70 Creator mit Intel-GPU im Test",
-      "teaser": "Die Arc Pro B70 ist die billigste 32-GByte-Karte für Workstations und KI. Was sie kann und wer davon profitiert, verrät unser Test.",
-      "url": "https://www.heise.de/tests/Test-KI-und-Workstationgrafikkarte-Asrock-Arc-Pro-B70-Creator-mit-Intel-GPU-11139872.html",
-      "image_title": "Eine ASRock Arc Pro B70 Creator Grafikkarte mit Intel GPU"
     },
     {
       "title": "KI-ROI messen: Was bringt der KI-Einsatz wirtschaftlich wirklich?",
@@ -42,20 +97,6 @@
       "teaser": "Vom Protokoll bis zur Aktenanalyse, mehr als die Hälfte der Rathäuser im Land nutzt oder erprobt einer Umfrage zufolge KI. Die Hoffnung: Schnellere Bearbeitung.",
       "url": "https://www.heise.de/news/Umfrage-Jedes-zweite-Rathaus-nutzt-oder-testet-KI-11355911.html",
       "image_title": "Starke Untersicht auf den Turm des Roten Rathauses in Berlin mit ominösen Wolken am Himmel."
-    },
-    {
-      "title": "RatgeberProton Lumo 2.0: Wie Sie mehr aus der privaten KI rausholen",
-      "url": "https://www.heise.de/ratgeber/Proton-Lumo-2-0-Wie-Sie-mehr-aus-der-privaten-KI-rausholen-11351301.html"
-    },
-    {
-      "title": "HintergrundFür Mac und mehr: Fragen und Antworten zu Festplatten und SSDs",
-      "url": "https://www.heise.de/hintergrund/Fuer-Mac-und-mehr-Fragen-und-Antworten-zu-Festplatten-und-SSDs-11348751.html",
-      "image_title": "Eine Festplatte"
-    },
-    {
-      "title": "RatgeberGit für Maker erklärt, Teil 4: Wie man in Github Actions Workflows anlegt",
-      "url": "https://www.heise.de/ratgeber/Git-fuer-Maker-erklaert-Teil-4-Wie-man-in-Github-Actions-Workflows-anlegt-11342212.html",
-      "image_title": ","
     },
     {
       "title": "Tipp: Gelöschtes Home-Assistant-Dashboard retten",
@@ -104,47 +145,6 @@
       "teaser": "Mehrere Fraunhofer-Institute haben gemeinsam ein Secure Element auf Basis des offengelegten OpenTitan entwickelt, das Globalfoundries in Dresden fertigt.",
       "url": "https://www.heise.de/news/Fuer-digitale-Souveraenitaet-RISC-V-Sicherheitschip-aus-Deutschland-11355168.html",
       "image_title": "RISC-V Secure Element aus der 22FDX-Fertigung von Globalfoundries."
-    },
-    {
-      "title": "Node.js kämpft mit Flut an automatisierten Sicherheitsreports",
-      "teaser": "In der Node.js-Community ist eine Diskussion darüber entstanden, wie sie weiter mit der Vielzahl an LLM-generierten Sicherheitsmeldungen verfahren soll.",
-      "url": "https://www.heise.de/news/Sicherheitswarnungen-Node-js-will-KI-Flut-mit-KI-bekaempfen-11355142.html",
-      "image_title": "Arbeiter, die versuchen, einen Knoten zu lösen"
-    },
-    {
-      "title": "Nvidia verkauft KI-Beschleuniger jetzt gegen Umsatzbeteiligung",
-      "teaser": "Ein neues Geschäftsmodell soll Nvidia noch mehr Geld in die Kasse spülen. Neoclouds bekommen vergünstigte Hardware gegen Umsatzbeteiligung.",
-      "url": "https://www.heise.de/news/Nvidia-verkauft-KI-Beschleuniger-jetzt-gegen-Umsatzbeteiligung-11355200.html",
-      "image_title": "Nvidia-Chef Jensen Huang hält auf einer Bühne seine Arm hoch"
-    },
-    {
-      "title": "AlertOPNsense-Update beseitigt kritische Rootlücke und weitere Sicherheitsrisiken",
-      "teaser": "Aktuelle Versionen der Open-Source-Firewall-Distribution schließen mehrere Einfallstore. Eine als kritisch bewertete Lücke macht das Update besonders dringlich.",
-      "url": "https://www.heise.de/news/OPNsense-Update-beseitigt-kritische-Rootluecke-und-weitere-Sicherheitsrisiken-11355118.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
-    },
-    {
-      "title": "Schottisches Rechenzentrum: Zweifel an versprochener Versorgung mit Erneuerbaren",
-      "teaser": "DataVita, Co-Betreiber eines neuen Rechenzentrums in Schottland, plante laut einem Medienbericht nie, es wie versprochen mit erneuerbaren Energien zu betreiben.",
-      "url": "https://www.heise.de/news/Bau-von-neuem-Rechenzentrum-Erneuerbare-Energiequellen-waren-eine-Luege-11354990.html",
-      "image_title": "Rechenzentrum, das mit Absperrband abgesperrt ist"
-    },
-    {
-      "title": "Ubuntu macht ARM64 zur Plattform erster Klasse",
-      "teaser": "Canonical treibt den Ausbau von Ubuntu für ARM64 voran. Mit Ubuntu 26.04 LTS erreicht ARM64 in vielen Bereichen Parität mit AMD64.",
-      "url": "https://www.heise.de/news/Ubuntu-macht-ARM64-zur-Plattform-erster-Klasse-11355190.html",
-      "image_title": "Das Ubuntu-Logo mit dem Schriftzug \"ubuntu\" auf einem violetten Hintergrund."
-    },
-    {
-      "title": "Thread und Matter: Die Zukunft des Smart Home? | c’t uplink",
-      "teaser": "Die Standards Thread und Matter sollen das Funk- und App-Chaos im Smart Home beseitigen. Mit Ikea ist ein großer Name an Bord.",
-      "url": "https://www.heise.de/news/Thread-und-Matter-Die-Zukunft-des-Smart-Home-c-t-uplink-11352306.html"
-    },
-    {
-      "title": "Tech-Startups wollen die EU Inc.",
-      "teaser": "Eine Bitkom-Umfrage zeigt: 62 Prozent der Tech-Startups in Deutschland würden ihr nächstes Unternehmen als „EU Inc.“ gründen.",
-      "url": "https://www.heise.de/news/Tech-Startups-wollen-die-EU-Inc-11354966.html",
-      "image_title": "EU-Flagge"
     },
     {
       "title": "NewsMetallkugeln am Strand: Wieder Aufregung um Weltraumschrott in Australien",
