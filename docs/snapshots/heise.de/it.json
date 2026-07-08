@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-08T15:05:29",
+  "timestamp": "2026-07-08T17:15:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,69 @@
   ],
   "articles": [
     {
+      "title": "EU-Datenschützer: Neue Leitlinien für Anonymisierung und Web-Scraping",
+      "teaser": "Zwei Richtlinien des Europäischen Datenschutzausschusses sollen mehr Klarheit beim Web-Scraping für generative KI bringen. Sie definieren Anonymisierung neu.",
+      "url": "https://www.heise.de/news/EU-Datenschuetzer-Neue-Leitlinien-fuer-Anonymisierung-und-Web-Scraping-11358641.html",
+      "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
+    },
+    {
+      "title": "Infineon hätte gern ein TSMC-Werk für feinste Chipstrukturen in Deutschland",
+      "teaser": "Der Stein für ein zweites deutsches TSMC-Halbleiterwerk gerät ins Rollen. Infineon wünscht sich konkret eine Möglichkeit für modernste Strukturbreiten.",
+      "url": "https://www.heise.de/news/Infineon-haette-gern-ein-TSMC-Werk-fuer-feinste-Chipstrukturen-in-Deutschland-11358501.html",
+      "image_title": "Mehrere Wafer nebeneinander"
+    },
+    {
+      "title": "Trotz Chaos an Grenzen: EU lehnt Stopp des neuen Einreisesystems ab",
+      "teaser": "Die Luftfahrtbranche fordert nach Verzögerungen beim biometrischen Entry-Exit-System (EES) eine Pause. Doch die EU-Kommission sieht keinen Anlass für Ausnahmen.",
+      "url": "https://www.heise.de/news/Trotz-Chaos-an-Grenzen-EU-lehnt-Stopp-des-neuen-Einreisesystems-ab-11358595.html",
+      "image_title": "Hinweisschild zur Zollkontrolle bei der Einreise in die EU auf einem Flughafen."
+    },
+    {
+      "title": "Bundeswehr plant Konstellation mit über 1000 Satelliten",
+      "teaser": "Die Bundeswehr plant in den kommenden Jahren mehrere Projekte im All. Dazu gehört der Aufbau einer der weltweit größten Satellitenkonstellationen.",
+      "url": "https://www.heise.de/news/Bundeswehr-plant-Konstellation-mit-ueber-1000-Satelliten-11358591.html",
+      "image_title": "Ein Satellit umkreist die Erde"
+    },
+    {
+      "title": "HintergrundDigitale Souveränität: Wie der Plattformwechsel gelingt",
+      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Wie-der-Plattformwechsel-gelingt-11357901.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "RatgeberAnleitung: Lokale KI mit Llama.cpp nutzen",
+      "url": "https://www.heise.de/ratgeber/Lokale-KI-mit-Llama-cpp-nutzen-Vorteile-zu-Ollama-und-LM-Studio-11355853.html",
+      "image_title": "Mit Llama.cpp steuert man lokale KI über CLI und Browser mit vielen Einstellungsmöglichkeiten."
+    },
+    {
+      "title": "TestsConsul für macOS im Test: Der Formatwandler",
+      "url": "https://www.heise.de/tests/Consul-fuer-macOS-im-Test-Der-Formatwandler-11348800.html",
+      "image_title": "Consul im Einsatz"
+    },
+    {
+      "title": "heise meets … „Diskutiere nie etwas Unsichtbares“ beim Modellieren",
+      "teaser": "Software-Consultant Stefan Priebsch sagt, kollaboratives Modellieren per Rollenspiel verkürze Feedback-Schleifen und verhindere teure Fehlentwicklungen.",
+      "url": "https://www.heise.de/news/heise-meets-Diskutiere-nie-etwas-Unsichtbares-beim-Modellieren-11358461.html",
+      "image_title": "Aufmacher heise meets"
+    },
+    {
+      "title": "AlertFoxit-Entwickler schließen Schwachstellen in PDF Reader und Editor",
+      "teaser": "Nicht kritisch, aber zahlreich: Aktuelle Sicherheitsupdates dichten Foxits PDF Reader und Editor gegen eine lange Lückenliste ab.",
+      "url": "https://www.heise.de/news/Foxit-Entwickler-schliessen-Schwachstellen-in-PDF-Reader-und-Editor-11358393.html",
+      "image_title": "Schild mit der Aufschrift Update auf einer Holzoberfläche"
+    },
+    {
       "title": "Offene Datenbank: Nextcloud GmbH behebt potenzielles Datenleck",
       "teaser": "Daten des Unternehmens hinter der populären Kollaborationslösung standen wegen einer Fehlkonfiguration offen im Netz. Die Software ist nicht betroffen.",
       "url": "https://www.heise.de/news/Offene-Datenbank-Nextcloud-GmbH-behebt-potenzielles-Datenleck-11358275.html",
       "image_title": "Nextcloud-Logo"
     },
     {
-      "title": "Open SourceRootAsRole 4.0: Mehr Kontrolle als bei sudo",
+      "title": "Höhenverstellbarer Eckschreibtisch Vernal Core 3 im Test: groß, stabil, 750 Euro",
+      "teaser": "Der Vernal Core 3 ist ein höhenverstellbarer, L-förmiger Eckschreibtisch mit viel Platz und 180 kg Tragkraft. Er überzeugt – doch nicht alles ist perfekt.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/hoehenverstellbarer-eckschreibtisch-vernal-core-3-im-test-gross-stabil-750-euro/wrxn1t0?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "RootAsRole 4.0: Mehr Kontrolle als bei sudo",
       "teaser": "RootAsRole 4.0 erweitert die sudo-Alternative um ein neues Ausführungsmodell und feinere Richtlinien für privilegierte Linux-Befehle.",
       "url": "https://www.heise.de/news/RootAsRole-4-0-Mehr-Kontrolle-als-bei-sudo-11358217.html",
       "image_title": "Abzeichen mit Bergen, Fluss und einem stilisierten Netzwerk."
@@ -42,26 +98,6 @@
       "teaser": "Weniger Stress am Bahnsteig: Die Bahn verspricht, Infos zu Gleiswechseln in Sekunden aufs Handy zu senden – unter anderem dank 50 Millionen Euro für KI.",
       "url": "https://www.heise.de/news/Deutsche-Bahn-KI-Assistenz-und-neue-App-sollen-Reiseinfos-verbessern-11358241.html",
       "image_title": "Evelyn Palla und Patrick Schnieder stellen das Sofortprogramm Bessere Kundenkommunikation vor"
-    },
-    {
-      "title": "HintergrundDigitale Souveränität: Wie der Plattformwechsel gelingt",
-      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Wie-der-Plattformwechsel-gelingt-11357901.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "RatgeberLokale KI mit Llama.cpp nutzen: Vorteile zu Ollama und LM Studio",
-      "url": "https://www.heise.de/ratgeber/Lokale-KI-mit-Llama-cpp-nutzen-Vorteile-zu-Ollama-und-LM-Studio-11355853.html",
-      "image_title": "Mit Llama.cpp steuert man lokale KI über CLI und Browser mit vielen Einstellungsmöglichkeiten."
-    },
-    {
-      "title": "TestsConsul für macOS im Test: Der Formatwandler",
-      "url": "https://www.heise.de/tests/Consul-fuer-macOS-im-Test-Der-Formatwandler-11348800.html",
-      "image_title": "Consul im Einsatz"
-    },
-    {
-      "title": "Höhenverstellbarer Eckschreibtisch Vernal Core 3 im Test: groß, stabil, 750 Euro",
-      "teaser": "Der Vernal Core 3 ist ein höhenverstellbarer, L-förmiger Eckschreibtisch mit viel Platz und 180 kg Tragkraft. Er überzeugt – doch nicht alles ist perfekt.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/hoehenverstellbarer-eckschreibtisch-vernal-core-3-im-test-gross-stabil-750-euro/wrxn1t0?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "GitHub-Alternative für KI-Entwickler: Entire startet eigenes Git-Netzwerk",
@@ -108,41 +144,6 @@
       "teaser": "Ein neues Allzeithoch beim Datenverkehr: Die Fußball-WM sorgt für Rekordwerte am Internetknoten DE-CIX in Frankfurt und weltweit.",
       "url": "https://www.heise.de/news/DE-CIX-Fussball-WM-sorgt-fuer-neuen-Datenverkehrsrekord-11357841.html",
       "image_title": "Netzwerkkabel"
-    },
-    {
-      "title": "Kompaktes Wissen in zwei Webinaren: Apple-Geräte souverän supporten",
-      "teaser": "Fundiertes Apple-Support-Wissen für IT-Teams und angehende Apple Certified Support Professionals.",
-      "url": "https://www.heise.de/news/Kompaktes-Wissen-in-zwei-Webinaren-Apple-Geraete-souveraen-supporten-11355895.html"
-    },
-    {
-      "title": "ILIAS: Wichtige Aktualisierungen für Lernplattform beseitigen Schwachstellen",
-      "teaser": "Wichtige Updates für drei Versionsreihen der E-Learning-Plattform ILIAS schließen insgesamt sechs Sicherheitslücken mit teils hoher Gefahrenbewertung.",
-      "url": "https://www.heise.de/news/Lernplattform-ILIAS-Aktualisierungen-beseitigen-mehrere-Angriffsmoeglichkeiten-11357739.html",
-      "image_title": "Mehrere menschen sitzen vor Bildschirm,en im Hintergrund steht eine Person"
-    },
-    {
-      "title": "Apples neue Betriebssysteme: Dann ist mit den Public Betas zu rechnen",
-      "teaser": "Momentan dürfen nur registrierte Entwickler an die Betas von Apples 27er Systemen. Die Public Beta benötigt aber zum Glück nicht mehr lange.",
-      "url": "https://www.heise.de/news/Apples-neue-Betriebssysteme-Dann-ist-mit-den-Public-Betas-zu-rechnen-11357729.html",
-      "image_title": "iOS 27, macOS 27, iPadOS 27, watchOS 27 und visionOS 27"
-    },
-    {
-      "title": "Freie Alternative zu Jira: OpenProject 17.6 integriert XWiki",
-      "teaser": "Die neue Version von OpenProject bindet XWiki ein, bringt Sprint-Ziele und erweitert Backlogs, Meetings und Administration. Dazu kommen Sicherheitsupdates.",
-      "url": "https://www.heise.de/news/Freie-Alternative-zu-Jira-OpenProject-17-6-integriert-XWiki-11357205.html",
-      "image_title": "Blick auf einen Schreibtisch mit verschiedenen Dokumenten und bunten Klebezetteln."
-    },
-    {
-      "title": "Cloud und KI befeuern deutsche Digitalwirtschaft – international abgehängt",
-      "teaser": "Cloud und KI sorgen dafür, dass die deutsche Digitalwirtschaft auf solidem Wachstumskurs bleibt. International bleibt die Branche allerdings abgehängt.",
-      "url": "https://www.heise.de/news/Deutsche-Digitalwirtschaft-waechst-weiter-11357663.html",
-      "image_title": "Illustration einer deutschen Flagge auf einem Schaltkreis"
-    },
-    {
-      "title": "Apples Safari bekommt MCP-Server – Test läuft",
-      "teaser": "Mit speziellen KI-Browsern und via Plug-ins lässt sich MCP bereits nutzen. Nun legt Apple es direkt in Safari nach.",
-      "url": "https://www.heise.de/news/Apples-Safari-bekommt-MCP-Server-Test-laeuft-11356777.html",
-      "image_title": "Safari von Apple"
     },
     {
       "title": "News3D-gedruckte, autonome VTOL-Drohne bekämpft Drohnen-Schwärme mit bis zu 560 km/h",
