@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T11:25:06",
+  "timestamp": "2026-07-16T13:13:04",
   "url": "https://www.zeit.de/news/index",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/zustimmungsverwaltung.51b5d039dd3ed74e.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/zustimmungsverwaltung.9fb88d2fae2c6967.js",
       "id": null,
       "text": null
     },
@@ -19,18 +19,286 @@
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/site.917bc414bf0a3549.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/site.e9cdc2259948ce2a.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.ef6bf9d21c984b67.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.1a93c224f919be70.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Kriminalität: Hotelgäste überfallen und beraubt - Angeklagter gesteht",
+      "url": "https://www.zeit.de/news/2026-07/16/hotelgaeste-ueberfallen-und-beraubt-angeklagter-gesteht"
+    },
+    {
+      "title": "Landesamt für Statistik: Geburtenziffer in Bayern geht zurück",
+      "url": "https://www.zeit.de/news/2026-07/16/geburtenziffer-in-bayern-geht-zurueck"
+    },
+    {
+      "title": "Hubschrauber im Einsatz: Großbrand im Müritz-Nationalpark - Hoffen auf Regen",
+      "url": "https://www.zeit.de/news/2026-07/16/feuer-im-mueritz-nationalpark-es-brennt-es-auf-318-hektar"
+    },
+    {
+      "title": "Migration: EU-Bericht: Italien blockiert Rücknahme von Asylbewerbern",
+      "url": "https://www.zeit.de/news/2026-07/16/eu-bericht-italien-blockiert-ruecknahme-von-asylbewerbern"
+    },
+    {
+      "title": "Hunger: Welthungerhilfe beklagt Gefährdung ihrer Arbeit durch Mittelkürzungen",
+      "url": "https://www.zeit.de/gesellschaft/2026-07/welthungerhilfe-entwicklungszusammenarbeit-kuerzungen-bundeshaushalt-humanitaere-hilfe"
+    },
+    {
+      "title": "Prozessauftakt: Gefährliche Täuschung: Falscher Notfallsanitäter vor Gericht",
+      "url": "https://www.zeit.de/news/2026-07/16/vorwurf-totschlag-vermeintlicher-sanitaeter-vor-gericht"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hitze als Gesunheitsrisiko: »Die backen hier wie die Hähnchen«",
+      "url": "https://www.zeit.de/wissenschaft/2026-07/hitze-gesundheitsrisiko-schutz-krise-bundesregierung"
+    },
+    {
+      "title": "Gesellschaft: Bund will Heimatgefühl stärken - Hilft das gegen Frust?",
+      "url": "https://www.zeit.de/news/2026-07/16/bund-will-heimatgefuehl-staerken-alltagsprobleme-im-blick"
+    },
+    {
+      "title": "Formel 1 in Belgien: «Alles sehr frustrierend» - Was wird aus Max Verstappen?",
+      "url": "https://www.zeit.de/news/2026-07/16/alles-sehr-frustrierend-was-wird-aus-max-verstappen"
+    },
+    {
+      "title": "Fußball-Rekordmeister: Bayerns neuer WM-Star freut sich auf «Münchner Lebensgefühl»",
+      "url": "https://www.zeit.de/news/2026-07/16/saebener-schnupperkurs-fuer-bayerns-neuen-wm-star"
+    },
+    {
+      "title": "Formel 1 in Belgien: Verstappen genervt von Spekulationen: «Gibt nichts zu sagen»",
+      "url": "https://www.zeit.de/news/2026-07/16/verstappen-genervt-von-spekulationen-gibt-nichts-zu-sagen"
+    },
+    {
+      "title": "Angriff im Jugendamt: Mann bedroht Jugendamts-Mitarbeiterin und legt Feuer",
+      "url": "https://www.zeit.de/news/2026-07/16/mann-legt-feuer-in-behoerde-mehrere-menschen-in-klinik"
+    },
+    {
+      "title": "Giovanni Castellucci: Zwölf Jahre Haft für Ex-Chef des italienischen Autobahnbetreibers",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/giovanni-castellucci-autobahnbetreiber-italien-haft-urteil"
+    },
+    {
+      "title": "Ermittlungen: Tote 15-Jährige in Bramfeld - Ermittler nennen Todesursache",
+      "url": "https://www.zeit.de/news/2026-07/16/tote-15-jaehrige-in-bramfeld-ermittler-nennen-todesursache"
+    },
+    {
+      "title": "Steuern: Wie der Staat härter gegen Steuerbetrüger vorgehen will",
+      "url": "https://www.zeit.de/news/2026-07/16/wie-der-staat-haerter-gegen-steuerbetrueger-vorgehen-will"
+    },
+    {
+      "title": "Versammlungsfreiheit: Kein Verbot von Pro-Palästina-Demo in Frankfurt",
+      "url": "https://www.zeit.de/news/2026-07/16/kein-verbot-von-pro-palaestina-demo-in-frankfurt"
+    },
+    {
+      "title": "Iran-Krieg: USA wollen Druck auf Iran erhöhen - was will Teheran?",
+      "url": "https://www.zeit.de/news/2026-07/16/usa-erhoehen-mit-neuen-angriffen-und-drohungen-druck-auf-iran"
+    },
+    {
+      "title": "Rauschgifthandel: Illegales Drogenlabor diente zur Produktion von Crystal Meth",
+      "url": "https://www.zeit.de/news/2026-07/16/drogenlabor-aufgeflogen-durchsuchung-geht-weiter"
+    },
+    {
+      "title": "Katastrophe in Italien: Zwölf Jahre Haft wegen Brückeneinsturz in Genua",
+      "url": "https://www.zeit.de/news/2026-07/16/zwoelf-jahre-haft-wegen-brueckeneinsturz-in-genua"
+    },
+    {
+      "title": "DEL: Haukeland-Ersatz gefunden: Straubing holt Keeper Skarek",
+      "url": "https://www.zeit.de/news/2026-07/16/haukeland-ersatz-gefunden-straubing-holt-keeper-skarek"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); »Die Odyssee«: 270 Kilogramm wiegt die Filmrolle auf dem riesigen Abspielteller",
+      "url": "https://www.zeit.de/2026/31/70-mm-imax-projektion-film-kinos-christopher-nolan"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); »Die Odyssee«: Die Route wird neu berechnet",
+      "url": "https://www.zeit.de/2026/31/die-odyssee-christopher-nolan-matt-damon-lupita-nyongo"
+    },
+    {
+      "title": "Liveblog:Fußball-WM: Britische Regierung fordert Fifa-Untersuchung zur Falkland-Provokation",
+      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog"
+    },
+    {
+      "title": "Kampf gegen Antisemitismus: Fall für den Verfassungsschutz? Linke winkt ab",
+      "url": "https://www.zeit.de/news/2026-07/16/fall-fuer-den-verfassungsschutz-linke-winkt-ab"
+    },
+    {
+      "title": "Fußball-Bundesliga: Darum fehlte Leverkusen-Talent Eichhorn beim Trainingsstart",
+      "url": "https://www.zeit.de/news/2026-07/16/darum-fehlte-leverkusen-talent-eichhorn-beim-trainingsstart"
+    },
+    {
+      "title": "Alarm auf der Südinsel: Erdbeben erschüttert Neuseeland – Tsunami-Warnung aufgehoben",
+      "url": "https://www.zeit.de/news/2026-07/16/tsunami-warnung-nach-erdbeben-in-neuseeland"
+    },
+    {
+      "title": "Brenner-Route: Tirols Brenner-Beschränkungen für Lkw verstoßen wohl gegen EU-Recht",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/brenner-lkw-verbot-tirol-eugh-gutachten"
+    },
+    {
+      "title": "Immaterielles Kulturerbe: «Ein Stück Heimat» – Unesco-Urkunde für Küstenfischerei",
+      "url": "https://www.zeit.de/news/2026-07/16/ein-stueck-heimat-unesco-urkunde-fuer-kuestenfischerei"
+    },
+    {
+      "title": "Sachsen-Anhalt: Steimle verteidigt Singen der DDR-Hymne bei AfD-Auftritt",
+      "url": "https://www.zeit.de/news/2026-07/16/steimle-verteidigt-singen-der-ddr-hymne-bei-afd-auftritt"
+    },
+    {
+      "title": "Gruppenphase: Reisen nach Osteuropa: Triers Europapokal-Gegner stehen",
+      "url": "https://www.zeit.de/news/2026-07/16/reisen-nach-osteuropa-triers-europapokal-gegner-stehen"
+    },
+    {
+      "title": "Niedersachsen: Statistik: Mehr Kinder mit mindestens zwei Geschwistern",
+      "url": "https://www.zeit.de/news/2026-07/16/statistik-mehr-kinder-mit-mindestens-zwei-geschwistern"
+    },
+    {
+      "title": "Münchner Double-Siegerinnen: Mit Rückkehrerin Oberdorf: Bayern-Frauen wieder im Training",
+      "url": "https://www.zeit.de/news/2026-07/16/mit-rueckkehrerin-oberdorf-bayern-frauen-wieder-im-training"
+    },
+    {
+      "title": "Frauen-Bundesliga: FC-Frauen verpflichten weitere isländische Nationalspielerin",
+      "url": "https://www.zeit.de/news/2026-07/16/fc-frauen-verpflichten-weitere-islaendische-nationalspielerin"
+    },
+    {
+      "title": "Feuerwehreinsatz: Sportboot kentert in Mainzer Jachthafen - Öl ausgelaufen",
+      "url": "https://www.zeit.de/news/2026-07/16/sportboot-kentert-in-mainzer-jachthafen-oel-ausgelaufen"
+    },
+    {
+      "title": "Verärgerte Bahnkunden: Nach Generalsanierung noch wochenlang Einschränkungen",
+      "url": "https://www.zeit.de/news/2026-07/16/nach-generalsanierung-noch-wochenlang-einschraenkungen"
+    },
+    {
+      "title": "90-Jährige unter den Opfern: Betrüger ergaunern Geld und Wertsachen von Senioren",
+      "url": "https://www.zeit.de/news/2026-07/16/betrueger-ergaunern-geld-und-wertsachen-von-senioren"
+    },
+    {
+      "title": "Frei statt Arbeit?: Feiertag am Wochenende: Linke will Kindertag nachholen",
+      "url": "https://www.zeit.de/news/2026-07/16/feiertag-am-wochenende-linke-will-kindertag-nachholen"
+    },
+    {
+      "title": "Sexuelle Sprüche und Mobbing: Ärztinnen und Ärzte beklagen Machtmissbrauch und Belästigung",
+      "url": "https://www.zeit.de/news/2026-07/16/aerztinnen-und-aerzte-beklagen-machtmissbrauch-und-belaestigung"
+    },
+    {
+      "title": "Fotografie: Bilder des Tages",
+      "url": "https://www.zeit.de/news/2026-07/16/bilder-des-tages"
+    },
+    {
+      "title": "Katastrophe in Genua: Zwölf Jahre Haft wegen Brückeneinsturz in Italien",
+      "url": "https://www.zeit.de/news/2026-07/16/zwoelf-jahre-haft-wegen-brueckeneinsturz-in-italien"
+    },
+    {
+      "title": "Plötzliches Ende: Känguru-Tragödie am Niederrhein",
+      "url": "https://www.zeit.de/news/2026-07/16/kaenguru-tragoedie-am-niederrhein"
+    },
+    {
+      "title": "Debatte um Amtszeitbegrenzung: Warum die kleine ÖDP Söders CSU gefährlich werden kann",
+      "url": "https://www.zeit.de/news/2026-07/16/oedp-volksbegehren-nicht-gegen-soeder-gerichtet"
+    },
+    {
+      "title": "Haus beschossen: Täter nach Schüssen auf Würzburger Haus weiter flüchtig",
+      "url": "https://www.zeit.de/news/2026-07/16/taeter-nach-schuessen-auf-wuerzburger-haus-weiter-fluechtig"
+    },
+    {
+      "title": "Wohnen im Studium: Mehr als jeder vierte Studierende lebt bei den Eltern",
+      "url": "https://www.zeit.de/bildung/2026-07/wohnen-studium-eltern-mietwohnung-wg"
+    },
+    {
+      "title": "Verfahren eröffnet: Göttinger Steidl-Verlag in vorläufiger Insolvenz",
+      "url": "https://www.zeit.de/news/2026-07/16/goettinger-steidl-verlag-in-vorlaeufiger-insolvenz"
+    },
+    {
+      "title": "70 Menschen gerettet: Giftiges Chlorgas - Klinik in Wildenfels teilweise evakuiert",
+      "url": "https://www.zeit.de/news/2026-07/16/giftiges-chlorgas-klinik-in-wildenfels-teilweise-evakuiert"
+    },
+    {
+      "title": "Angriff in Behörde: Polizei ermittelt wegen Verdachts der versuchten Tötung",
+      "url": "https://www.zeit.de/news/2026-07/16/polizei-ermittelt-wegen-verdachts-der-versuchten-toetung"
+    },
+    {
+      "title": "Angriffe im Gazastreifen: US-Experten melden Zunahme israelischer Angriffe in Gaza",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/israel-angriffe-gazastreifen-acled-benjamin-netanjahu"
+    },
+    {
+      "title": "Unfall während Fahrstunde: Fahrschülerin auf Roller übersieht Auto – schwer verletzt",
+      "url": "https://www.zeit.de/news/2026-07/16/fahrschuelerin-auf-roller-uebersieht-auto-schwer-verletzt"
+    },
+    {
+      "title": "Vermutlich Pfefferspray: Rund 70 verletzte Schüler wegen Reizgas im Gymnasium",
+      "url": "https://www.zeit.de/news/2026-07/16/grosseinsatz-an-gymnasium-wegen-reizgas-viele-verletzte"
+    },
+    {
+      "title": "Täter schwer verletzt: Schüsse vor Dresdner Supermarkt - Täter noch nicht vernommen",
+      "url": "https://www.zeit.de/news/2026-07/16/schuesse-vor-dresdner-supermarkt-taeter-noch-nicht-vernommen"
+    },
+    {
+      "title": "Flüsse: Niedrige Pegelstände in deutschen Flüssen beeinträchtigen Schifffahrt",
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-07/niedrigwasser-rhein-elbe-donau-schifffahrt"
+    },
+    {
+      "title": "Sturz mit drei Promille: Bus fährt über Fuß von betrunkenem Radfahrer",
+      "url": "https://www.zeit.de/news/2026-07/16/bus-faehrt-ueber-fuss-von-betrunkenem-radfahrer"
+    },
+    {
+      "title": "Deutscher Fußballbund: DFB-Mitgliederanzahl steigt trotz Misserfolgen der Nationalmannschaft",
+      "url": "https://www.zeit.de/sport/2026-07/dfb-mitglieder-rekord-fussball-bund"
+    },
+    {
+      "title": "Transfers: Mainz 05 verkauft Ben Bobzien an Dresden",
+      "url": "https://www.zeit.de/news/2026-07/16/mainz-05-verkauft-ben-bobzien-an-dresden"
+    },
+    {
+      "title": "Ermittlungen laufen: Schweigeminute für getöteten Studenten - Blumen am Tatort",
+      "url": "https://www.zeit.de/news/2026-07/16/schweigeminute-fuer-getoeteten-studenten-blumen-am-tatort"
+    },
+    {
+      "title": "Riesenblüte: Knolle von seltener Titanwurz gestohlen",
+      "url": "https://www.zeit.de/news/2026-07/16/knolle-von-seltener-titanwurz-gestohlen"
+    },
+    {
+      "title": "Bei AfD-Veranstaltung: SED-Opferbeauftragte: Singen der DDR-Hymne «Verharmlosung»",
+      "url": "https://www.zeit.de/news/2026-07/16/sed-opferbeauftragte-singen-der-ddr-hymne-verharmlosung"
+    },
+    {
+      "title": "Verkehr: Brenner-Streit: EuGH-Gutachter rügt Tiroler Beschränkungen",
+      "url": "https://www.zeit.de/news/2026-07/16/brenner-streit-eugh-gutachter-ruegt-tiroler-beschraenkungen"
+    },
+    {
+      "title": "Fußball-Regionalliga: 1860 vermeldet erste Zugänge und sieht «historischen Moment»",
+      "url": "https://www.zeit.de/news/2026-07/16/1860-vermeldet-erste-zugaenge-und-sieht-historischen-moment"
+    },
+    {
+      "title": "Ministerrat in Brühl: Deutschland und Frankreich starten Atom-Kooperation",
+      "url": "https://www.zeit.de/news/2026-07/16/deutschland-und-frankreich-starten-atom-kooperation"
+    },
+    {
+      "title": "Jens Spahn im Familienglück: Baby mit Leihmutter? Wie das geht und warum es Kritik gibt",
+      "url": "https://www.zeit.de/news/2026-07/16/baby-mit-leihmutter-wie-das-geht-und-warum-es-kritik-gibt"
+    },
+    {
+      "title": "Gegen Steinmauer gefahren: Motorradfahrerin stürzt Böschung hinunter und stirbt",
+      "url": "https://www.zeit.de/news/2026-07/16/motorradfahrerin-stuerzt-boeschung-hinunter-und-stirbt"
+    },
+    {
+      "title": "Badeunfall: Mann gerät beim Schwimmen in der Isar in Not",
+      "url": "https://www.zeit.de/news/2026-07/16/mann-geraet-beim-schwimmen-in-der-isar-in-not"
+    },
+    {
+      "title": "Reformrufe: Sanfter Druck auf CSU von befreundeten Verbandschefs",
+      "url": "https://www.zeit.de/news/2026-07/16/sanfter-druck-auf-csu-von-befreundeten-verbandschefs"
+    },
+    {
+      "title": "Festivals: «One Last Dance» - das Highfield-Festival gibt auf",
+      "url": "https://www.zeit.de/news/2026-07/16/one-last-dance-das-highfield-festival-gibt-auf"
+    },
+    {
+      "title": "2. Fußball-Bundesliga: Dresden startet mit Neuzugang Bobzien ins Trainingslager",
+      "url": "https://www.zeit.de/news/2026-07/16/dresden-startet-mit-neuzugang-bobzien-ins-trainingslager"
+    },
     {
       "title": "Fußball-Nationalmannschaft: Der zähe Klopp-Deal und die erstaunliche Stille der Bayern",
       "url": "https://www.zeit.de/news/2026-07/16/der-zaehe-klopp-deal-und-die-erstaunliche-stille-der-bayern"
@@ -52,16 +320,8 @@
       "url": "https://www.zeit.de/news/2026-07/16/groesserer-rettungseinsatz-wegen-reizstoffs-an-schule"
     },
     {
-      "title": "90-Jährige unter den Opfern: Betrüger ergaunern Geld und Wertsachen von Senioren",
-      "url": "https://www.zeit.de/news/2026-07/16/betrueger-ergaunern-geld-und-wertsachen-von-senioren"
-    },
-    {
       "title": "Gefährliches Virus: Symptome von Ebola-Patient in Frankfurt bessern sich",
       "url": "https://www.zeit.de/news/2026-07/16/symptome-von-ebola-patient-in-frankfurt-bessern-sich"
-    },
-    {
-      "title": "Alarm auf der Südinsel: Tsunami-Warnung nach Erdbeben in Neuseeland",
-      "url": "https://www.zeit.de/news/2026-07/16/tsunami-warnung-nach-erdbeben-in-neuseeland"
     },
     {
       "title": "Erneuerbare Energien: Weiterer Gegenwind für Windkraft im Wald",
@@ -70,10 +330,6 @@
     {
       "title": "Fußball-Weltmeisterschaft 2026: Livechat: Was bleibt von dieser WM?",
       "url": "https://www.zeit.de/sport/2026-07/fussball-weltmeisterschaft-2026-analyse-spiele-ueberraschungen-enttaeuschungen"
-    },
-    {
-      "title": "Liveblog:Fußball-WM: Britische Regierung fordert Fifa-Untersuchung zur Falkland-Provokation",
-      "url": "https://www.zeit.de/sport/2026-05/fussball-wm-2026-liveblog"
     },
     {
       "title": "Ermittlungen: Nach tödlichem Arbeitsunfall: Polizei sucht Zeugen",
@@ -92,10 +348,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2026-07/leihmutterschaft-jens-spahn-cdu-usa-verbot"
     },
     {
-      "title": "Verkehr: Brenner-Streit: EuGH-Gutachter rügt Tiroler Beschränkungen",
-      "url": "https://www.zeit.de/news/2026-07/16/brenner-streit-eugh-gutachter-ruegt-tiroler-beschraenkungen"
-    },
-    {
       "title": "Silvesternacht: Messerattacke in Düsseldorfer Altstadt - Männer verurteilt",
       "url": "https://www.zeit.de/news/2026-07/16/messerattacke-in-duesseldorfer-altstadt-maenner-verurteilt"
     },
@@ -110,10 +362,6 @@
     {
       "title": "Ferienjobs: Zoo-Direktor Knieriem: «Wochenlang nach Fisch gestunken»",
       "url": "https://www.zeit.de/news/2026-07/16/zoo-direktor-knieriem-wochenlang-nach-fisch-gestunken"
-    },
-    {
-      "title": "Kriminalität: Mann legt Feuer in Behörde - mehrere Menschen in Klinik",
-      "url": "https://www.zeit.de/news/2026-07/16/mann-legt-feuer-in-behoerde-mehrere-menschen-in-klinik"
     },
     {
       "title": "Staatsanwaltschaft Bielefeld: Leiche in Gefriertruhe - Anklage nach tödlichem Streit",
@@ -136,10 +384,6 @@
       "url": "https://www.zeit.de/news/2026-07/16/18-jaehriger-faehrt-frontal-gegen-lastwagen-vollsperrung"
     },
     {
-      "title": "Vermutlich Pfefferspray: Großeinsatz an Gymnasium wegen Reizgas - viele Verletzte",
-      "url": "https://www.zeit.de/news/2026-07/16/grosseinsatz-an-gymnasium-wegen-reizgas-viele-verletzte"
-    },
-    {
       "title": "Mychajlo Fedorow: Zurückgetretener Verteidigungsminister wirft Militärchef Spaltung vor",
       "url": "https://www.zeit.de/politik/ausland/2026-07/mychajlo-fedorow-ruecktritt-verteidigungsminister-ukraine"
     },
@@ -156,10 +400,6 @@
       "url": "https://www.zeit.de/news/2026-07/16/maehdrescher-brennt-bei-erntearbeiten"
     },
     {
-      "title": "Haus beschossen: Täter nach Schüssen auf Würzburger Haus weiter flüchtig",
-      "url": "https://www.zeit.de/news/2026-07/16/taeter-nach-schuessen-auf-wuerzburger-haus-weiter-fluechtig"
-    },
-    {
       "title": "Flüchtlinge: Mehr als 500 tote Flüchtlinge vor Myanmar befürchtet",
       "url": "https://www.zeit.de/news/2026-07/16/bootunfaelle-mit-ueber-500-fluechtlingen-vor-myanmar-befuerchtet"
     },
@@ -174,14 +414,6 @@
     {
       "title": "Leben auf dem Lande: Dorftreffs sollen Zusammenhalt in Sachsens Dörfern stärken",
       "url": "https://www.zeit.de/news/2026-07/16/dorftreffs-sollen-zusammenhalt-in-sachsens-doerfern-staerken"
-    },
-    {
-      "title": "Debatte um Amtszeitbegrenzung: ÖDP: Volksbegehren nicht gegen Söder gerichtet",
-      "url": "https://www.zeit.de/news/2026-07/16/oedp-volksbegehren-nicht-gegen-soeder-gerichtet"
-    },
-    {
-      "title": "Fußball-Rekordmeister: Säbener-Schnupperkurs für Bayerns neuen WM-Star",
-      "url": "https://www.zeit.de/news/2026-07/16/saebener-schnupperkurs-fuer-bayerns-neuen-wm-star"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Falklandinseln: Diese Botschaft ist nun in der Welt",
@@ -272,14 +504,6 @@
       "url": "https://www.zeit.de/news/2026-07/16/brueckenschluss-ueber-dem-nord-ostsee-kanal"
     },
     {
-      "title": "Kampf gegen das Feuer: Großbrand im Nationalpark - Bundeswehr schickt Hubschrauber",
-      "url": "https://www.zeit.de/news/2026-07/16/feuer-im-mueritz-nationalpark-es-brennt-es-auf-318-hektar"
-    },
-    {
-      "title": "Versammlungsfreiheit: Kein Verbot von Pro-Palästina-Demo in Frankfurt",
-      "url": "https://www.zeit.de/news/2026-07/16/kein-verbot-von-pro-palaestina-demo-in-frankfurt"
-    },
-    {
       "title": "Fußball-Bundesliga: Neuer Spielplan da: HSV-Frauen starten im Volksparkstadion",
       "url": "https://www.zeit.de/news/2026-07/16/neuer-spielplan-da-hsv-frauen-starten-im-volksparkstadion"
     },
@@ -308,10 +532,6 @@
       "url": "https://www.zeit.de/news/2026-07/16/elbe-in-magdeburg-vor-historischem-niedrigwasser"
     },
     {
-      "title": "Gesellschaft: Bund will Heimatgefühl stärken – Alltagsprobleme im Blick",
-      "url": "https://www.zeit.de/news/2026-07/16/bund-will-heimatgefuehl-staerken-alltagsprobleme-im-blick"
-    },
-    {
       "title": "Männer und Schönheitsdruck: Ist die Wade der neue Waschbrettbauch?",
       "url": "https://www.zeit.de/news/2026-07/16/ist-die-wade-der-neue-waschbrettbauch"
     },
@@ -322,10 +542,6 @@
     {
       "title": "Amateur-Fußball: Mitglieder-Rekord beim Bayerischen Fußball-Verband",
       "url": "https://www.zeit.de/news/2026-07/16/mitglieder-rekord-beim-bayerischen-fussball-verband"
-    },
-    {
-      "title": "Prozessauftakt: Falscher Notfallsanitäter gibt Täuschung vor Gericht zu",
-      "url": "https://www.zeit.de/news/2026-07/16/vorwurf-totschlag-vermeintlicher-sanitaeter-vor-gericht"
     },
     {
       "title": "Silicon Valley: Wie das Silicon Valley wirklich tickt",
@@ -464,20 +680,12 @@
       "url": "https://www.zeit.de/news/2026-07/16/oelteppich-auf-mosel-124-schiffspassagiere-sitzen-fest"
     },
     {
-      "title": "Iran-Krieg: USA erhöhen mit neuen Angriffen und Drohungen Druck auf Iran",
-      "url": "https://www.zeit.de/news/2026-07/16/usa-erhoehen-mit-neuen-angriffen-und-drohungen-druck-auf-iran"
-    },
-    {
       "title": "Liveblog:Irankrieg: Irans Militär droht mit Angriffen auf Infrastruktur in Nachbarländern",
       "url": "https://www.zeit.de/politik/ausland/2026-05/iran-krieg-donald-trump-hormus-live"
     },
     {
       "title": "Zusammenstoß: 56-Jähriger bei Unfall schwer verletzt",
       "url": "https://www.zeit.de/news/2026-07/16/56-jaehriger-bei-unfall-schwer-verletzt"
-    },
-    {
-      "title": "Fotografie: Bilder des Tages",
-      "url": "https://www.zeit.de/news/2026-07/16/bilder-des-tages"
     },
     {
       "title": "Wetter in Bayern: Gewittergefahr in Bayern bleibt",
@@ -570,10 +778,6 @@
     {
       "title": "Fußball-Bundesliga: Bericht: Ex-Leipziger Schlager nach Nottingham",
       "url": "https://www.zeit.de/news/2026-07/16/bericht-ex-leipziger-schlager-nach-nottingham"
-    },
-    {
-      "title": "Formel 1 in Belgien: «Alles sehr frustrierend» - Was wird aus Max Verstappen?",
-      "url": "https://www.zeit.de/news/2026-07/16/alles-sehr-frustrierend-was-wird-aus-max-verstappen"
     },
     {
       "title": "Migration: Weniger Asylbewerber: Freistaat reduziert Plätze",
@@ -770,10 +974,6 @@
     {
       "title": "Bergisches Land: Leerstehende Villa in Wuppertal - Feuer unter Kontrolle",
       "url": "https://www.zeit.de/news/2026-07/15/leerstehende-villa-in-wuppertal-steht-in-flammen"
-    },
-    {
-      "title": "Durchsuchungen in Ludwigsfelde: Drogenlabor aufgeflogen - Durchsuchung geht weiter",
-      "url": "https://www.zeit.de/news/2026-07/16/drogenlabor-aufgeflogen-durchsuchung-geht-weiter"
     },
     {
       "title": "Wettermix: Nach Hitze: Wetterdienst erwartet Unwetter für Hessen",
@@ -1460,10 +1660,6 @@
       "url": "https://www.zeit.de/news/2026-07/15/torhueter-daehne-wechselt-abloesefrei-zum-1-fc-heidenheim"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); »Die Odyssee«: Die Route wird neu berechnet",
-      "url": "https://www.zeit.de/2026/31/die-odyssee-christopher-nolan-matt-damon-lupita-nyongo"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Gülen-Bewegung: »Baut Schulen statt Moscheen!«",
       "url": "https://www.zeit.de/2026/31/guelen-bewegung-tuerkei-fethullah-guelen-schulen-deutschland"
     },
@@ -1494,10 +1690,6 @@
     {
       "title": "Z+ (abopflichtiger Inhalt); Fußball-WM: Jetzt lügt sogar schon der Ball!",
       "url": "https://www.zeit.de/2026/31/fussball-wm-norwegen-argentinien-frankreich-schiedsrichter"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); 70-mm-IMAX-Projektion: 270 Kilogramm wiegt die Filmrolle auf dem riesigen Abspielteller",
-      "url": "https://www.zeit.de/2026/31/70-mm-imax-projektion-film-kinos-christopher-nolan"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Grüner Veltliner: Geht uns der gute Wein aus?",
@@ -3038,198 +3230,6 @@
     {
       "title": "5 Jahre Flutkatastrophe: Merz beim Gedenken im Ahrtal: Keinen allein lassen",
       "url": "https://www.zeit.de/news/2026-07/14/steinmeier-wuerdigt-solidaritaet-nach-ahrtalflut"
-    },
-    {
-      "title": "Sachsen-Anhalt: Chrupalla über Siegmund: «Er wird liefern müssen»",
-      "url": "https://www.zeit.de/news/2026-07/14/chrupalla-ueber-siegmund-er-wird-liefern-muessen"
-    },
-    {
-      "title": "Wasserbericht: Bericht: Keine Beeinträchtigung des Wassers durch Tesla-Werk",
-      "url": "https://www.zeit.de/news/2026-07/14/bericht-keine-beeintraechtigung-des-wassers-durch-tesla-werk"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Angriffe auf den Iran: Wird der Iran gerade zum Failed State?",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/iran-israel-usa-angriffe-militaerische-infrastruktur"
-    },
-    {
-      "title": "Gedenkfeier zur Hochwasserkatastrophe: Schnieder bittet nach Ahrtal-Katastrophe um Entschuldigung",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-07/hochwasser-katastrophe-ahrtal-gordon-schnieder-entschuldigung"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Krieg im Iran: Wie mit der Nato, so mit dem Golf",
-      "url": "https://www.zeit.de/politik/2026-07/krieg-iran-usa-israel-nahost"
-    },
-    {
-      "title": "Sommerwetter in Bayern: Gewitter in Mittelfranken und Oberpfalz",
-      "url": "https://www.zeit.de/news/2026-07/14/gewitter-in-mittelfranken-und-oberpfalz"
-    },
-    {
-      "title": "Neuss: Halbzeit-Bilanz: 265.000 Besucher auf der Landesgartenschau",
-      "url": "https://www.zeit.de/news/2026-07/14/halbzeit-bilanz-265-000-besucher-auf-der-landesgartenschau"
-    },
-    {
-      "title": "Sabotage bei der Deutschen Bahn: Sabotage gegen Bahninfrastruktur nimmt offenbar zu",
-      "url": "https://www.zeit.de/mobilitaet/2026-07/sabotage-deutsche-bahn-infrastruktur-brandstiftung"
-    },
-    {
-      "title": "Gedenken an die Flut: Merz: Niemanden mit Furcht vor Katastrophen alleine lassen",
-      "url": "https://www.zeit.de/news/2026-07/14/merz-niemanden-mit-furcht-vor-katastrophen-alleine-lassen"
-    },
-    {
-      "title": "Venezuela: Venezuelas Interimsregierung kündigt Gespräche mit Opposition an",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/venezuela-nicolas-maduro-opposition-usa-nationalversammlung"
-    },
-    {
-      "title": "Wohnungsbrand: Feuerwehrmann bei Löscheinsatz in Dresden verletzt",
-      "url": "https://www.zeit.de/news/2026-07/14/feuerwehrmann-bei-loescheinsatz-in-dresden-verletzt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sekten und ihre Anführer: Sie folgten ihnen bis in den Tod",
-      "url": "https://www.zeit.de/zeit-verbrechen/2026/39/sekten-anfuehrer-scientology-prophet-glauben-predigen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sonnentempler-Sekte: Bei den Sonnentemplern fühlte er sich zum ersten Mal gesehen",
-      "url": "https://www.zeit.de/zeit-verbrechen/2026/39/sonnentempler-sekte-schweiz-cheiry-forschung-ermittlungen"
-    },
-    {
-      "title": "Spektakuläre Notlandung: «Held vom Hudson»-Pilot Sullenberger an Alzheimer erkrankt",
-      "url": "https://www.zeit.de/news/2026-07/14/held-vom-hudson-pilot-sullenberger-an-alzheimer-erkrankt"
-    },
-    {
-      "title": "Notfall: Aufzüge stürzen auf Baustelle in Brüssel ab - Sechs Tote",
-      "url": "https://www.zeit.de/news/2026-07/14/mehrere-tote-nach-gebaeudebrand-in-bruessel-gefunden"
-    },
-    {
-      "title": "Briefe, die nie ankamen: Ex-Zusteller gesteht Verstecken von Zehntausenden Briefen",
-      "url": "https://www.zeit.de/news/2026-07/14/ex-zusteller-gesteht-verstecken-von-zehntausenden-briefen"
-    },
-    {
-      "title": "Gedenken an Ahr-Katastrophe: Entschuldigung am fünften Jahrestag der Katastrophe",
-      "url": "https://www.zeit.de/news/2026-07/14/schnieder-entschuldigt-sich-nach-ahrtal-flut"
-    },
-    {
-      "title": "Verkehr: Mutmaßlicher Brandanschlag legt Zugverkehr im Norden lahm",
-      "url": "https://www.zeit.de/news/2026-07/14/mutmasslicher-brandanschlag-legt-zugverkehr-lahm"
-    },
-    {
-      "title": "Tour de France: Pogačar siegt bei Tour de France am Nationalfeiertag",
-      "url": "https://www.zeit.de/sport/2026-07/tour-de-france-tadej-pogacar-10-etappe-aurillac-le-lioran"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Beziehung: Kommst du ins Bett, Schatz?",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-06/beziehung-schlaf-kommunikation-zeit-smartphone"
-    },
-    {
-      "title": "Bahnverkehr: Regionalverkehr läuft nach mutmaßlichem Brandanschlag an",
-      "url": "https://www.zeit.de/news/2026-07/14/regionalverkehr-laeuft-nach-mutmasslichem-brandanschlag-an"
-    },
-    {
-      "title": "Donald Trump und E. Jean Carroll: Trump zahlt Carroll Entschädigung wegen sexueller Nötigung",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/donald-trump-e-jean-carroll-entschaedigung-sexueller-missbrauch-usa"
-    },
-    {
-      "title": "Kriminalität: Buntmetall aus Firma gestohlen - 23-Jähriger in U-Haft",
-      "url": "https://www.zeit.de/news/2026-07/13/grosse-menge-buntmetall-aus-firma-gestohlen"
-    },
-    {
-      "title": "Tierschutz: Brandenburgs Tierschutzbund rät vor Urlaub: Betreuung planen",
-      "url": "https://www.zeit.de/news/2026-07/14/brandenburgs-tierschutzbund-raet-vor-urlaub-betreuung-planen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Marina Mahler: »Nennen Sie es Offenbarung«",
-      "url": "https://www.zeit.de/2026/30/marina-mahler-gustav-mahler-mahler-competition-bamberg-dirigentinnen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Unterhalt: Wie Mütter dafür bestraft werden sollen, dass Väter nicht zahlen",
-      "url": "https://www.zeit.de/familie/2026-07/unterhalt-zahlung-deutschland-kinder-gesetz-eu"
-    },
-    {
-      "title": "Flüchtlingsverbände dagegen: Flughafen-Aufsichtsrat macht Weg für Abschiebeterminal frei",
-      "url": "https://www.zeit.de/news/2026-07/14/flughafen-aufsichtsrat-macht-weg-fuer-abschiebeterminal-frei"
-    },
-    {
-      "title": "Fußballweltmeisterschaft: Deutscher Schiedsrichter Felix Zwayer reist vorzeitig von WM ab",
-      "url": "https://www.zeit.de/sport/2026-07/fussball-weltmeisterschaft-felix-zwayer-schiedsrichter-abgereist"
-    },
-    {
-      "title": "Unfall: Fußgänger in Schwerin von Auto erfasst und mitgeschleift",
-      "url": "https://www.zeit.de/news/2026-07/14/unfall-mit-mehreren-verletzten-in-schwerin"
-    },
-    {
-      "title": "Brände: Sechster Toter in abgestürztem Aufzug in Brüssel",
-      "url": "https://www.zeit.de/news/2026-07/14/sechster-toter-in-abgestuerztem-aufzug-in-bruessel"
-    },
-    {
-      "title": "Gesundheitsreform: Ärzte in Berlin und Brandenburg: Reform hat negative Folgen",
-      "url": "https://www.zeit.de/news/2026-07/14/aerzte-in-berlin-und-brandenburg-reform-hat-negative-folgen"
-    },
-    {
-      "title": "Hochschulen: Dresdner Kunsthochschule warnt vor existenzieller Schieflage",
-      "url": "https://www.zeit.de/news/2026-07/14/hfbk-dresden-warnt-vor-existenzieller-schieflage"
-    },
-    {
-      "title": "Digitalisierung: Bund plant Entlastung von 600 Millionen Euro durch Bürokratieabbau",
-      "url": "https://www.zeit.de/digital/2026-07/buerokratieabbau-regierung-karsten-wildberger-cdu-unternehmen"
-    },
-    {
-      "title": "Befragung: Umfrage: Nord-CDU büßt weiter ein, AfD zweitstärkste Kraft",
-      "url": "https://www.zeit.de/news/2026-07/14/umfrage-nord-cdu-buesst-weiter-ein-afd-zweitstaerkste-kraft"
-    },
-    {
-      "title": "Teure Knochen: Rekord: T-Rex-Skelett für 50 Millionen Dollar versteigert",
-      "url": "https://www.zeit.de/news/2026-07/14/rekord-t-rex-skelett-fuer-50-millionen-dollar-versteigert"
-    },
-    {
-      "title": "Wald von Fontainebleau: Feuerwehrmann gesteht Mitschuld an Waldbrand bei Paris",
-      "url": "https://www.zeit.de/news/2026-07/14/feuerwehrmann-gesteht-mitschuld-an-waldbrand-bei-paris"
-    },
-    {
-      "title": "Verteidigung: Poseck: Nato bleibt Grundpfeiler für Europas Sicherheit",
-      "url": "https://www.zeit.de/news/2026-07/14/poseck-nato-bleibt-grundpfeiler-fuer-europas-sicherheit"
-    },
-    {
-      "title": "Raumfahrt: Artemis-Crew dankt europäischen Ingenieuren",
-      "url": "https://www.zeit.de/news/2026-07/14/artemis-crew-dankt-europaeischen-ingenieuren"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Staatsbürgerschaft: Zwei Posts auf Instagram, und er ist den Pass wieder los",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-06/deutsche-staatsbuergerschaft-entzug-palaestinenser-social-media"
-    },
-    {
-      "title": "EU-Parlament: EVP-Abgeordnete stimmen mit Rechtsaußen-Bündnis in Affäre um EU-Gelder",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/patrioten-fuer-europa-eu-gelder-evp-cdu-csu"
-    },
-    {
-      "title": "Jahrestag der Flutkatastrophe: Flut in Sinzig: «Die schlimmste Nacht, die ich erlebt habe»",
-      "url": "https://www.zeit.de/news/2026-07/14/flut-in-sinzig-die-schlimmste-nacht-die-ich-erlebt-habe"
-    },
-    {
-      "title": "Unfall: 19-Jähriger stirbt nach Unfall am Autobahndreieck Nossen",
-      "url": "https://www.zeit.de/news/2026-07/14/19-jaehriger-stirbt-nach-unfall-am-autobahndreieck-nossen"
-    },
-    {
-      "title": "Basketball-Bundesliga: JJ Mann verlässt Gladiators Trier nach drei Jahren",
-      "url": "https://www.zeit.de/news/2026-07/14/jj-mann-verlaesst-gladiators-trier-nach-drei-jahren"
-    },
-    {
-      "title": "Wassersparen: Wasser knapp: Münchner dürfen nicht mehr Rasen sprengen",
-      "url": "https://www.zeit.de/news/2026-07/14/muenchen-verbietet-rasenbewaesserung-und-das-fuellen-von-pools"
-    },
-    {
-      "title": "Innovationsstrategie: KI und Verteidigung: Berlin-Brandenburg will stärker werden",
-      "url": "https://www.zeit.de/news/2026-07/14/ki-und-verteidigung-berlin-brandenburg-will-staerker-werden"
-    },
-    {
-      "title": "Abschiebeterminal : Flughafen-Aufsichtsrat stimmt für Bau von Abschiebeterminal in München",
-      "url": "https://www.zeit.de/politik/ausland/2026-07/abschiebeterminal-flughafen-muenchen-bund-abschiebungen-aufsichtsrat"
-    },
-    {
-      "title": "Kriminalität: Mann wegen Verdachts auf versuchten Mord in U-Haft",
-      "url": "https://www.zeit.de/news/2026-07/14/mann-wegen-verdachts-auf-versuchten-mord-in-u-haft"
-    },
-    {
-      "title": "Französischer Nationalfeiertag: Größte Militärparade unter Macron - Ukraine im Fokus",
-      "url": "https://www.zeit.de/news/2026-07/14/polen-kuendigt-erste-manoever-der-koalition-der-willigen-an"
     }
   ]
 }

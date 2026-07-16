@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-16T11:24:31",
+  "timestamp": "2026-07-16T13:12:49",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "KI-Assistent Bob 2.0 modernisiert IBM Z und Power-Systeme",
+      "title": "Newcomer gegen Altmeister : Ryzen 7 7700X3D und Ryzen 7 5800X3D im Gaming-Test",
+      "teaser": "AMD bringt zwei Achtkerner mit großem Cache für AM4- und AM5-Mainboards. Wir prüfen anhand von fps und Effizienz, für welche Anwender sich die X3D-CPUs lohnen.",
+      "url": "https://www.heise.de/tests/Newcomer-gegen-Altmeister-Ryzen-7-7700X3D-und-Ryzen-7-5800X3D-im-Gaming-Test-11349685.html",
+      "image_title": "Zwei AMD Ryzen Prozessoren, der 7700X3D und der 5800X3D, liegen auf einer Leiterplatte."
+    },
+    {
+      "title": "Weitreichende Folgen für den AlpentransitFahrverbote am Brenner vor dem Aus",
+      "teaser": "Der Generalanwalt am EuGH hält die Tiroler Lkw-Fahrverbote am Brenner für unvereinbar mit dem freien Warenverkehr. Ein Urteil wird im Herbst erwartet.",
+      "url": "https://www.heise.de/news/Brenner-Streit-Gutachten-stellt-Tirols-Lkw-Fahrverbote-infrage-11367434.html",
+      "image_title": "Wipptal mit Brennerautobahn"
+    },
+    {
+      "title": "KI-AssistentBob 2.0 modernisiert IBM Z und Power-Systeme",
       "teaser": "IBM Bob 2.0 soll auch Jahrzehnte alten Code verstehen und modernisieren können – mit KI-Agenten und Premium-Paketen für Z, i und Java.",
       "url": "https://www.heise.de/news/KI-Assistent-Bob-2-0-modernisiert-IBM-Z-und-Power-Systeme-11367017.html",
       "image_title": "Bucharest,,Romania,-,June,06,,2019:,The,Ibm,Logo,Is"
@@ -30,18 +42,6 @@
       "teaser": "Spezialisierte Prozessoren für Training und Inferenz müssen nicht von Nvidia kommen. Davon ist man offenbar bei Apple überzeugt und streckt die Fühler aus.",
       "url": "https://www.heise.de/news/Kaufbegierden-Apple-sucht-nach-KI-Chip-Firmen-11366368.html",
       "image_title": "Apple-Laden in Shanghai"
-    },
-    {
-      "title": "TSMC: Erste Umsätze mit 2-Nanometer-Chips für Apple und AMD",
-      "teaser": "Ein Jahresvergleich des weltweit wichtigen Chipherstellers zeigt, wie Prozessoren, GPUs und Beschleuniger teurer werden.",
-      "url": "https://www.heise.de/news/Teurere-Chips-TSMCs-Gewinn-steigt-doppelt-so-stark-wie-der-Umsatz-11367226.html",
-      "image_title": "Zwei bunte Wafer übereinanderliegend"
-    },
-    {
-      "title": "Gabler und Flanq erproben unbemanntes Überwasserschiff gestartet aus Torpedorohr",
-      "teaser": "Die autonomen Boote \"Ranger\" und \"Raider\" sollen aus Torpedorohren von U-Booten abgesetzt werden, um an der Wasseroberfläche Militäroperationen durchzuführen.",
-      "url": "https://www.heise.de/news/Gabler-und-Flanq-erproben-unbemanntes-Ueberwasserschiff-gestartet-aus-Torpedorohr-11367106.html",
-      "image_title": "Röhrenförmiges Boet schwimmt auf dem Wasser."
     },
     {
       "title": "HintergrundOnlinebanking-Betrug: EU will Banken stärker in die Pflicht nehmen",
@@ -56,6 +56,18 @@
     {
       "title": "HintergrundFlash-Talk: Die Speicherkrise verschärft sich weiter",
       "url": "https://www.heise.de/hintergrund/Flash-Talk-Die-Speicherkrise-verschaerft-sich-weiter-11318784.html"
+    },
+    {
+      "title": "TSMC: Erste Umsätze mit 2-Nanometer-Chips für Apple und AMD",
+      "teaser": "Ein Jahresvergleich des weltweit wichtigen Chipherstellers zeigt, wie Prozessoren, GPUs und Beschleuniger teurer werden.",
+      "url": "https://www.heise.de/news/Teurere-Chips-TSMCs-Gewinn-steigt-doppelt-so-stark-wie-der-Umsatz-11367226.html",
+      "image_title": "Zwei bunte Wafer übereinanderliegend"
+    },
+    {
+      "title": "Gabler und Flanq erproben unbemanntes Überwasserschiff gestartet aus Torpedorohr",
+      "teaser": "Die autonomen Boote \"Ranger\" und \"Raider\" sollen aus Torpedorohren von U-Booten abgesetzt werden, um an der Wasseroberfläche Militäroperationen durchzuführen.",
+      "url": "https://www.heise.de/news/Gabler-und-Flanq-erproben-unbemanntes-Ueberwasserschiff-gestartet-aus-Torpedorohr-11367106.html",
+      "image_title": "Röhrenförmiges Boet schwimmt auf dem Wasser."
     },
     {
       "title": "Apple-Klage: OpenAI sieht „keine Beweise“ für Diebstahl geistigen Eigentums",
@@ -134,17 +146,6 @@
       "teaser": "Nur Wochen nach einer milliardenschweren Finanzierungsrunde soll DeepSeek die nächste Runde und parallel einen Börsengang planen.",
       "url": "https://www.heise.de/news/DeepSeek-will-offenbar-an-die-Boerse-IPO-Einreichung-noch-2026-moeglich-11365782.html",
       "image_title": "Ein schwarzer Handybildschirm in einer Hand, darauf steht in Blau deepseek"
-    },
-    {
-      "title": "c’t KI-Wissen 2026: Vibe-Coding, KI-Slop und die Zukunft der Arbeit",
-      "teaser": "Wie sinnvoll ist KI im Job, beim Coden und Einkaufen? Wo verdichtet sie Arbeit, statt Fachkräfte zu entlasten? Antworten gibt das neue Sonderheft der c't.",
-      "url": "https://www.heise.de/news/c-t-KI-Wissen-2026-Vibe-Coding-KI-Slop-und-die-Zukunft-der-Arbeit-11364229.html"
-    },
-    {
-      "title": "Moia nimmt kostenlosen Testbetrieb mit autonomen Shuttles in Hamburg auf",
-      "teaser": "In Hamburg können registrierte Nutzer ab sofort kostenlos in autonomen VW ID. Buzz mitfahren. Ende 2026 soll der Regelbetrieb ohne Sicherheitsfahrer starten.",
-      "url": "https://www.heise.de/news/Moia-nimmt-kostenlosen-Testbetrieb-mit-autonomen-Shuttles-in-Hamburg-auf-11365444.html",
-      "image_title": "Moia Shuttle"
     },
     {
       "title": "NewsDuckDuckGo-Browser blockiert jetzt YouTube-Werbung",
