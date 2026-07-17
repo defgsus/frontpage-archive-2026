@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-17T04:50:28",
+  "timestamp": "2026-07-17T07:07:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,12 +20,68 @@
   ],
   "articles": [
     {
-      "title": "Steam Machine im Test: Mit FSR 4 gegen Preis- und Leistungsprobleme",
-      "teaser": "Die Steam Machine soll Konsolenkomfort mit der Flexibilität eines Linux-PCs verbinden. Unser Test zeigt, ob die Rechnung auch in der Hardware-Krise aufgeht.",
+      "title": "Won’t fix! – Teil 5: Tests schaffen Vertrauen, beweisen aber nie Korrektheit",
+      "teaser": "100 Prozent Code Coverage und alle Tests grün geben kein verlässliches Korrektheitsurteil. Hinter dieser Beobachtung steckt mehr als nur Pech.",
+      "url": "https://www.heise.de/hintergrund/Won-t-fix-Teil-5-Tests-schaffen-Vertrauen-beweisen-aber-nie-Korrektheit-11355919.html",
+      "image_title": "Symbolbild für die Schwierigkeit, die Korrektheit von Tests zu beweisen."
+    },
+    {
+      "title": "AlertGoogle Chrome: Außerplanmäßiges zweites Update in der Woche",
+      "teaser": "Google aktualisiert Chrome eigentlich jeden Mittwoch. Diese Woche folgt ein zweites Update, das mehrere kritische Lücken schließt.",
+      "url": "https://www.heise.de/news/Google-Chrome-Ungeplantes-Sicherheitsupdate-Nummer-zwei-in-dieser-Woche-11368362.html",
+      "image_title": "Chrome-Logo mit Achtung-Schild vor Matrix-Hintergrund; alles vom Winde verweht."
+    },
+    {
+      "title": "Neu in .NET 10.0 [32]: Wahl des Hash-Algorithmus bei der Suche nach Zertifikaten",
+      "teaser": "Die neue Methode FindByThumbprint() sucht ein digitales Zertifikat anhand des SHA-Fingerabdrucks.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-32-Wahl-des-Hash-Algorithmus-bei-der-Suche-nach-Zertifikaten-11368310.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
+    },
+    {
+      "title": "AlertSicherheitsupdate verfügbar7-Zip stopft Codeschmuggel-Lücke",
+      "teaser": "Das Packprogramm 7-Zip patzt bei der Verarbeitung präparierter xz-Daten. Das kann zum Ausführen eingeschmuggelten Codes führen.",
+      "url": "https://www.heise.de/news/7-Zip-Update-stopft-Codeschmuggel-Luecke-11368288.html",
+      "image_title": "7-zip-Logo mit Update-Stempel"
+    },
+    {
+      "title": "TestsSteam Machine im Test: Mit FSR 4 gegen Preis- und Leistungsprobleme",
       "url": "https://www.heise.de/tests/Steam-Machine-im-Test-Mit-FSR-4-gegen-Preis-und-Leistungsprobleme-11348644.html"
     },
     {
-      "title": "AlertDer Cursor Zero DayFull Disclosure als Notwehr",
+      "title": "TestsNewcomer gegen Altmeister : Ryzen 7 7700X3D und Ryzen 7 5800X3D im Gaming-Test",
+      "url": "https://www.heise.de/tests/Newcomer-gegen-Altmeister-Ryzen-7-7700X3D-und-Ryzen-7-5800X3D-im-Gaming-Test-11349685.html",
+      "image_title": "Zwei AMD Ryzen Prozessoren, der 7700X3D und der 5800X3D, liegen auf einer Leiterplatte."
+    },
+    {
+      "title": "HintergrundSouveränität in der Cloud: Von Abhängigkeit zu Eigenverantwortung",
+      "url": "https://www.heise.de/hintergrund/Souveraenitaet-in-der-Cloud-Von-Abhaengigkeit-zu-Eigenverantwortung-11345611.html",
+      "image_title": "Tinted,Glass,In,The,House.,Window,Dimming,By,Dark,Film."
+    },
+    {
+      "title": "Chinas Staatschef Xi fordert Kontrolle und Offenheit bei KI",
+      "teaser": "Im KI-Wettstreit mit den USA fordert Chinas Präsident Xi Jinping mehr Kontrolle und einen offeneren Zugang zu mächtigen KI-Technologien.",
+      "url": "https://www.heise.de/news/Chinas-Staatschef-Xi-fordert-Kontrolle-und-Offenheit-bei-KI-11368326.html",
+      "image_title": "Porträtaufnahme des chinesischen Staatschefs Xi Jinping"
+    },
+    {
+      "title": "Letzte Chance: heise security Tour Online zu KI, Identität und Lieferketten",
+      "teaser": "Die heise security Tour liefert Sicherheitsverantwortlichen das praxisrelevante Hintergrundwissen zu den aktuellen Herausforderungen der IT-Sicherheit.",
+      "url": "https://www.heise.de/news/Letzte-Chance-heise-security-Tour-Online-zu-KI-Identitaet-und-Lieferketten-11367546.html"
+    },
+    {
+      "title": "OpenAI: Erstes Hardware-Gerät ist ein Makro-Pad für 230 US-Dollar",
+      "teaser": "OpenAIs erstes eigenes Gerät heißt Codex Micro und ist ein Makro-Pad. Es kostet 230 US-Dollar und steuert KI-Agenten, wird aber nicht von OpenAI selbst gebaut.",
+      "url": "https://www.heise.de/news/OpenAI-Erstes-Hardware-Geraet-ist-ein-Makro-Pad-fuer-230-US-Dollar-11368264.html",
+      "image_title": "Codex Micro von OpenAI und Work Louder"
+    },
+    {
+      "title": "„Teure Schnittstellen blockieren Gesundheitsdigitalisierung“",
+      "teaser": "Überteuerte Schnittstellen bremsen die Digitalisierung im Gesundheitswesen und gefährden die Patientenversorgung, meint Bastian Stockhausen.",
+      "url": "https://www.heise.de/meinung/Todesursache-EBIT-Teure-Schnittstellen-blockieren-Gesundheitsdigitalisierung-11359458.html",
+      "image_title": "Mensch im Anzug zeigt mit einem Stift auf den Schriftzug \"API\"."
+    },
+    {
+      "title": "AlertFull Disclosure als Notwehr: Der Cursor Zero Day",
       "teaser": "Jürgen Schmidt, Leiter von heise security, erklärt, warum Responsible und Coordinated Disclosure keine Zukunft mehr haben.",
       "url": "https://www.heise.de/meinung/Full-Disclosure-als-Notwehr-Der-Cursor-Zero-Day-11367342.html",
       "image_title": "Security Alert (Analyse)"
@@ -41,20 +97,6 @@
       "teaser": "Rudy Sengupta warnt die Embedded-Branche: Wer noch mit bisherigen Methoden testet, wird mit exponenti^ell steigenden Kosten und Testzeiten zu kämpfen haben.",
       "url": "https://www.heise.de/news/heise-meets-Wenn-Tests-der-Produktkomplexitaet-hinterherhinken-11368036.html",
       "image_title": "Aufmacher heise meets"
-    },
-    {
-      "title": "TestsSteam Machine im Test: Mit FSR 4 gegen Preis- und Leistungsprobleme",
-      "url": "https://www.heise.de/tests/Steam-Machine-im-Test-Mit-FSR-4-gegen-Preis-und-Leistungsprobleme-11348644.html"
-    },
-    {
-      "title": "TestsNewcomer gegen Altmeister : Ryzen 7 7700X3D und Ryzen 7 5800X3D im Gaming-Test",
-      "url": "https://www.heise.de/tests/Newcomer-gegen-Altmeister-Ryzen-7-7700X3D-und-Ryzen-7-5800X3D-im-Gaming-Test-11349685.html",
-      "image_title": "Zwei AMD Ryzen Prozessoren, der 7700X3D und der 5800X3D, liegen auf einer Leiterplatte."
-    },
-    {
-      "title": "HintergrundSouveränität in der Cloud: Von Abhängigkeit zu Eigenverantwortung",
-      "url": "https://www.heise.de/hintergrund/Souveraenitaet-in-der-Cloud-Von-Abhaengigkeit-zu-Eigenverantwortung-11345611.html",
-      "image_title": "Tinted,Glass,In,The,House.,Window,Dimming,By,Dark,Film."
     },
     {
       "title": "Thinking Machines stellt sein erstes KI-Modell „Inkling“ vor",
@@ -103,48 +145,6 @@
       "teaser": "Spezialisierte Prozessoren für Training und Inferenz müssen nicht von Nvidia kommen. Davon ist man offenbar bei Apple überzeugt und streckt die Fühler aus.",
       "url": "https://www.heise.de/news/Kaufbegierden-Apple-sucht-nach-KI-Chip-Firmen-11366368.html",
       "image_title": "Apple-Laden in Shanghai"
-    },
-    {
-      "title": "software-architektur.tv: Souveränität und der PRIVA SCORE als Datenschutz-Ampel",
-      "teaser": "In der Episode diskutiert Eberhard Wolff mit Dr. Felix Sühlmann-Faul über digitale Souveränität und die Bedeutung des PRIVA SCORE für Architekturentscheidungen.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Souveraenitaet-und-der-PRIVA-SCORE-als-Datenschutz-Ampel-11364666.html",
-      "image_title": "Logo software-architektur.tv: Digitale Souveränität und Datenschutz mit Dr. Felix Sühlmann-Faul"
-    },
-    {
-      "title": "LLMs im eigenen Rechenzentrum: Zwei zusätzliche Workshops zur Online-Konferenz",
-      "teaser": "Neben der Konferenz zu LLMs im eigenen Rechenzentrum gibt es zwei Workshops, die sich intensiv mit Feintuning und dem effizienten Betrieb auseinandersetzen.",
-      "url": "https://www.heise.de/news/LLMs-im-eigenen-Rechenzentrum-Zwei-zusaetzliche-Workshops-zur-Online-Konferenz-11363960.html",
-      "image_title": "Bot mit Diagrammen und Linien"
-    },
-    {
-      "title": "Quantensoftware: Der blinde Fleck im Quantenhype",
-      "teaser": "Hardware dominiert die Debatte um Quantencomputer, doch ohne Software bleiben sie nutzlos. Wir zeigen, was sie leisten muss und wer gerade neue Wege geht.",
-      "url": "https://www.heise.de/hintergrund/Quantensoftware-Der-blinde-Fleck-im-Quantenhype-11304653.html",
-      "image_title": "Ein Dirigent leitet ein Orchester aus Violinen und Atommodellen."
-    },
-    {
-      "title": "Kinderleicht auszutricksen: Apples Bildschirmzeit vor Neustart | Mac & i-Podcast",
-      "teaser": "Was bei Apples Kindersicherung bislang schiefläuft, wie es iOS 27 besser machen will und warum sich damit trotzdem nicht alle Probleme lösen lassen.",
-      "url": "https://www.heise.de/news/Kinderleicht-auszutricksen-Apples-Bildschirmzeit-vor-Neustart-Mac-i-Podcast-11367170.html",
-      "image_title": "Kinderleicht auszutricksen: Apples Bildschirmzeit vor Neustart Mac & i-Podcast"
-    },
-    {
-      "title": "Have I Been Pwned: 821.100 Datensätze von Messgerätehersteller Fluke ergänzt",
-      "teaser": "Das Have-I-Been-Pwned-Projekt hat 821.100 Kontodaten des Messgeräteherstellers Fluke zur Datenhalde hinzugefügt.",
-      "url": "https://www.heise.de/news/Have-I-Been-Pwned-821-100-Datensaetze-von-Messgeraetehersteller-Fluke-ergaenzt-11367041.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
-    },
-    {
-      "title": "Apple Intelligence: Erlaubnis für China soll vorliegen",
-      "teaser": "Bisher darf Apple nicht einmal die alte Variante seines KI-Systems im Reich der Mitte liefern. Chinas Cyberspace-Behörde gab nun nach – Alibaba hilft.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-Erlaubnis-fuer-China-soll-vorliegen-11366464.html",
-      "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
-    },
-    {
-      "title": "c’t-Webinar: Vom Prompt-Schreiber zum Art Director",
-      "teaser": "Prompts liefern oft Ergebnisse, die vom Gewünschten deutlich abweichen. Im Webinar lernen Sie, wie Sie mit Referenzbildern konsistente Ergebnisse erzielen.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Vom-Prompt-Schreiber-zum-Art-Director-11354614.html",
-      "image_title": "Comic-Affe mit oranger Mütze, Brille und Pullover sitzt auf einem gelben Hocker und hält eine Banane vor eine Staffelei mit gelbem Farbklecks"
     },
     {
       "title": "NewsDuckDuckGo-Browser blockiert jetzt YouTube-Werbung",
