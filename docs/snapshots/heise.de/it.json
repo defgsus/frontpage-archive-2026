@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-19T07:23:39",
+  "timestamp": "2026-07-19T09:41:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,41 @@
   ],
   "articles": [
     {
+      "title": "Stecken oder SchraubenZuhause für Festplatten: 3,5-Zoll-Gehäuse für den Mac im Test",
+      "teaser": "Eine Festplatte als externen Speicher am Mac einsetzen: Dazu benötigen Sie nur minimales bastlerisches Können und ein USB-Gehäuse. Wir testen fünf mit 3,5 Zoll.",
+      "url": "https://www.heise.de/tests/Zuhause-fuer-Festplatten-3-5-Zoll-Gehaeuse-fuer-den-Mac-im-Test-11357645.html",
+      "image_title": "Festplatte mit 3,5 Zoll"
+    },
+    {
+      "title": "Microsoft verteilt außerplanmäßiges Windows-Update",
+      "teaser": "Microsoft verteilt ein ungeplantes Windows-Update. Es soll Probleme beheben, die insbesondere bei Dell-Computern aufgetreten sind.",
+      "url": "https://www.heise.de/news/Windows-Update-ausser-der-Reihe-korrigiert-Performanceprobleme-11369968.html",
+      "image_title": "Windows Updates verfügbar: Neustart erforderlich"
+    },
+    {
+      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
+      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11354468.html",
+      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+    },
+    {
       "title": "„Wir sehen, dass Telemedizin inzwischen auch bei sehr alten Menschen ankommt“",
       "teaser": "Die Nutzung von Videosprechstunden wächst bei Senioren. TeleClinic-Chef Benedikt Luber spricht im Interview über Hürden, Technik und einen Datenschutzvorfall.",
       "url": "https://www.heise.de/hintergrund/Wir-sehen-dass-Telemedizin-inzwischen-auch-bei-sehr-alten-Menschen-ankommt-11368521.html",
       "image_title": "Ältere Person am Smartphone"
+    },
+    {
+      "title": "RatgeberMidea PortaSplit: Das Maximum herausholen mit Home Assistant",
+      "url": "https://www.heise.de/ratgeber/Midea-PortaSplit-Das-Maximum-herausholen-mit-Home-Assistant-11348755.html"
+    },
+    {
+      "title": "HintergrundConfidential AI: So funktionieren vertrauliche Berechnungen auf der GPU",
+      "url": "https://www.heise.de/hintergrund/Confidential-AI-So-funktionieren-vertrauliche-Berechnungen-auf-der-GPU-11329114.html",
+      "image_title": "Ein Mann installiert Grafikkarten in einem Serverrack."
+    },
+    {
+      "title": "HintergrundEx-GitHub-Chef im Interview: Über den Unterschied zwischen Vibecoding und Pfusch",
+      "url": "https://www.heise.de/hintergrund/Ex-GitHub-Chef-im-Interview-Ueber-den-Unterschied-zwischen-Vibecoding-und-Pfusch-11203998.html"
     },
     {
       "title": "OpenAI-Überläufer: Apple nimmt weitere Ex-Beschäftigte ins Visier",
@@ -42,19 +73,6 @@
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Git Browser, Microsoft, Mirantis, Google, Flux, JetBrains, W3C, Gradle und OllyGarden.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11363727.html",
       "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "RatgeberMidea PortaSplit: Das Maximum herausholen mit Home Assistant",
-      "url": "https://www.heise.de/ratgeber/Midea-PortaSplit-Das-Maximum-herausholen-mit-Home-Assistant-11348755.html"
-    },
-    {
-      "title": "HintergrundConfidential AI: So funktionieren vertrauliche Berechnungen auf der GPU",
-      "url": "https://www.heise.de/hintergrund/Confidential-AI-So-funktionieren-vertrauliche-Berechnungen-auf-der-GPU-11329114.html",
-      "image_title": "Ein Mann installiert Grafikkarten in einem Serverrack."
-    },
-    {
-      "title": "HintergrundEx-GitHub-Chef im Interview: Über den Unterschied zwischen Vibecoding und Pfusch",
-      "url": "https://www.heise.de/hintergrund/Ex-GitHub-Chef-im-Interview-Ueber-den-Unterschied-zwischen-Vibecoding-und-Pfusch-11203998.html"
     },
     {
       "title": "Observability als Engineering-Problem: Weniger sammeln, mehr verstehen",
@@ -123,24 +141,6 @@
       "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
       "url": "https://www.heise.de/news/iX-Workshop-Netzwerkprobleme-mit-Wireshark-analysieren-und-beheben-11354446.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "mailbox.org erhöht Preise – und verdoppelt Speicher",
-      "teaser": "mailbox.org erhöht ab September 2026 die Preise für Geschäfts- und Privatkunden. Dafür gibt es mehr Speicherplatz.",
-      "url": "https://www.heise.de/news/mailbox-org-erhoeht-Preise-und-verdoppelt-Speicher-11369019.html",
-      "image_title": "Kleine Bausteine mit dem E-Mail-Symbol"
-    },
-    {
-      "title": "Microsoft macht IRC-Client Comic Chat zu Open Source",
-      "teaser": "Microsofts IRC-Client aus den 90er-Jahren sollte den „Internet Relay Chat“ mit grafischen Elementen aufpeppen. Nun wird er Open Source.",
-      "url": "https://www.heise.de/news/Microsoft-macht-IRC-Client-Comic-Chat-zu-Open-Source-11368917.html",
-      "image_title": "Comicstrip von Microsoft zu ComicChat"
-    },
-    {
-      "title": "AlertVMware Avi Load Balancer: Kritische Lücke erlaubt Umgehung von Anmeldung",
-      "teaser": "VMware warnt vor zum Teil kritischen Lücken im Avi Load Balancer. Angreifer können Authentifizierung und Autorisierung umgehen.",
-      "url": "https://www.heise.de/news/VMware-Avi-Load-Balancer-Kritische-Luecke-erlaubt-Umgehung-von-Anmeldung-11368661.html",
-      "image_title": "Update-Text mit VMware-Logo vor Farbverlauf"
     },
     {
       "title": "NewsRohbau der Gittermastkonstruktion des weltgrößten Windrades in Deutschland steht",
