@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T11:32:43",
+  "timestamp": "2026-07-20T13:42:32",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,26 +20,27 @@
   ],
   "articles": [
     {
-      "title": "KI-Plattform „Primary“ bewertet die Arbeit von Journalisten",
-      "teaser": "Das von Peter Thiel finanzierte Startup Primary bewertet die Arbeit von Journalisten mithilfe von KI und baut ein Ranking auf.",
-      "url": "https://www.heise.de/hintergrund/KI-Plattform-Primary-bewertet-die-Arbeit-von-Journalisten-11333075.html"
+      "title": "Confidential AI: So funktionieren vertrauliche Berechnungen auf der GPU",
+      "teaser": "Confidential Computing schützt Daten in fremden Clouds. Wir zeigen, wie die Erweiterung auf GPUs diese Technik auch für KI-Anwendungen nutzbar macht.",
+      "url": "https://www.heise.de/hintergrund/Confidential-AI-So-funktionieren-vertrauliche-Berechnungen-auf-der-GPU-11329114.html",
+      "image_title": "Ein Mann installiert Grafikkarten in einem Serverrack."
     },
     {
-      "title": "AliExpress: EU-Kommission verhängt DSA-Rekordstrafe",
-      "teaser": "Der chinesische Onlinemarktplatz AliExpress hat über Jahre gegen den Digital Services Act verstoßen und muss nun 550 Millionen Euro zahlen.",
-      "url": "https://www.heise.de/news/AliExpress-EU-Kommission-verhaengt-DSA-Rekordstrafe-11370852.html",
-      "image_title": "Paketscheine auf mehreren Paketen, alle von AliExpress"
+      "title": "Studie zu E-Auto-PreisenPreisverfall seit 2020, aber immer teurere Autos",
+      "teaser": "Vergleichbare E-Auto-Modelle kosten real 18 Prozent weniger als 2020. Doch der Trend zu größeren Fahrzeugen treibt den Medianpreis auf 53.000 Euro.",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-Sinkende-Preise-aber-wachsende-Modell-und-Preisluecke-11370606.html",
+      "image_title": "VW ID.3 Neo"
     },
     {
-      "title": "Digitalisierung: Lässt sich der Staat von Beratern ausnehmen?",
-      "teaser": "Der Staat schließt für IT-Projekte große Rahmenverträge. Aus Sicht der Behörden ist das effizient, Kritiker warnen vor Steuergeldverschwendung. Eine Analyse.",
-      "url": "https://www.heise.de/hintergrund/Digitalisierung-Laesst-sich-der-Staat-von-Beratern-ausnehmen-11356765.html"
+      "title": "Spritpreise steigen rasant: Kein neuer Tankrabatt geplant",
+      "teaser": "Diesel hat sich binnen zwei Wochen um 23 Cent verteuert. Bei E10 ist es nicht mehr weit zu Rekordniveaus. Einen neuen Tankrabatt soll es vorerst nicht geben.",
+      "url": "https://www.heise.de/news/Sprit-immer-teurer-Regierung-plant-keine-Entlastungen-11371006.html",
+      "image_title": "Esso Tankstelle"
     },
     {
-      "title": "UpdatePreise für DiensteApple zieht Preise an, Deutschland betroffen",
-      "teaser": "Apple macht seinen populären Musikstreamingdienst teurer, Deutschland inklusive. iCloud+ ist in anderen Regionen betroffen.",
-      "url": "https://www.heise.de/news/Apples-Dienstepreise-werden-teurer-auch-in-Deutschland-11370158.html",
-      "image_title": "Apple Music auf dem Mac"
+      "title": "Stromausfall Berlin: Beschuldigte wehren sich gegen Auswertung von Mobilgeräten",
+      "teaser": "Nach einem Anschlag auf die Berliner Stromversorgung wehren sich vier Tatverdächtige gegen die Beschlagnahmung von Smartphones und anderen Geräten.",
+      "url": "https://www.heise.de/news/Stromausfall-Berlin-Beschuldigte-wehren-sich-gegen-Auswertung-von-Mobilgeraeten-11370842.html"
     },
     {
       "title": "HintergrundDigitalisierung: Lässt sich der Staat von Beratern ausnehmen?",
@@ -53,6 +54,18 @@
     {
       "title": "HintergrundKI-Plattform „Primary“ bewertet die Arbeit von Journalisten",
       "url": "https://www.heise.de/hintergrund/KI-Plattform-Primary-bewertet-die-Arbeit-von-Journalisten-11333075.html"
+    },
+    {
+      "title": "AliExpress: EU-Kommission verhängt DSA-Rekordstrafe",
+      "teaser": "Der chinesische Onlinemarktplatz AliExpress hat über Jahre gegen den Digital Services Act verstoßen und muss nun 550 Millionen Euro zahlen.",
+      "url": "https://www.heise.de/news/AliExpress-EU-Kommission-verhaengt-DSA-Rekordstrafe-11370852.html",
+      "image_title": "Paketscheine auf mehreren Paketen, alle von AliExpress"
+    },
+    {
+      "title": "UpdatePreise für Dienste: Apple zieht Preise an, Deutschland betroffen",
+      "teaser": "Apple macht seinen populären Musikstreamingdienst teurer, Deutschland inklusive. iCloud+ ist in anderen Regionen betroffen.",
+      "url": "https://www.heise.de/news/Apples-Dienstepreise-werden-teurer-auch-in-Deutschland-11370158.html",
+      "image_title": "Apple Music auf dem Mac"
     },
     {
       "title": "iPhone-Preise beginnen zu steigen – aber vorerst nur in einem Land",
@@ -130,18 +143,6 @@
       "teaser": "Nvidia war dank KI-Chips ein Jahr lang das wertvollste Unternehmen. Doch Apple holte zuletzt stark auf.",
       "url": "https://www.heise.de/news/Apple-mal-kurz-wieder-wertvollstes-Unternehmen-der-Welt-11369742.html",
       "image_title": "Apple-Chef Tim Cook bei einer früheren Produktvorstellung"
-    },
-    {
-      "title": "Manuelle Kontrollen von KI-Output kosten Finanzteams jede Woche wertvolle Zeit",
-      "teaser": "Laut einer Studie im Auftrag von Sage werden mühsam mit KI gewonnene Effizienzgewinne durch den Aufwand bei der händischen Prüfung häufig wieder aufgefressen.",
-      "url": "https://www.heise.de/news/Manuelle-Kontrollen-von-KI-Output-kosten-Finanzteams-jede-Woche-wertvolle-Zeit-11369574.html",
-      "image_title": "Ai,Legal,Regulations,And,Laws,Concept,,Artificial,Intelligence,Ethics,Standards"
-    },
-    {
-      "title": "Vorsicht, Kunde: Defekte Neuware erhalten? So setzen Sie Ihre Ansprüche durch",
-      "teaser": "Wer Neuware ordert und beschädigte oder gebrauchte erhält, hat Anspruch auf Ersatz. Doch nicht jede schon mal ausgepackte Ware gilt rechtlich als gebraucht.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Defekte-Neuware-erhalten-So-setzen-Sie-Ihre-Ansprueche-durch-11369360.html",
-      "image_title": "Zwei Pakete liegen auf der Türschwelle"
     },
     {
       "title": "NewsCD-Verkäufe in den USA steigen, obwohl viele Käufer keinen CD-Player haben",
