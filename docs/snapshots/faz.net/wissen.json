@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-20T05:26:24",
+  "timestamp": "2026-07-20T08:33:16",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Emotionen: Ich fühle, was du fühlst",
+      "teaser": "Empathie gilt als Schlüssel zum guten sozialen Miteinander. Manchmal geht sie verloren – aber es gibt Möglichkeiten, das Mitfühlen zu trainieren.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ich-fuehle-was-du-fuehlst-empathie-ist-trainierbar-accg-201024108.html"
+    },
+    {
       "title": "heiße sommer: Brauchen wir eine Mückenpolizei?",
       "teaser": "West-Nil-Virus auf Berliner Friedhöfen, Malaria am Frankfurter Flughafen. Und die Tigermücke breitet sich aus. Wie funktioniert der beste Schutz vor tropischen Erregern?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/globalisierung-und-klimawandel-braucht-deutschland-eine-mueckenpolizei-accg-201024117.html"
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/globalisierung-und-klimawandel-braucht-deutschland-eine-mueckenpolizei-accg-201024117.html",
+      "image_url": "https://media0.faz.net/image/w1200/5895c6037255/w5616h3159x0y293/202607/43601.0.2322271076/das-ende-eines-blutreichen.webp",
+      "image_title": "Das Ende eines blutreichen Lebens."
     },
     {
       "title": "FAZ+Veganes Eis: „Vanille ist die anspruchsvollste Sorte“",
@@ -83,7 +90,7 @@
       "title": "Ediacara Fauna: Eine frühe Rechtshänderin",
       "teaser": "Vor 550 Millionen Jahren krochen die ersten Lebewesen über den Meeresgrund, an denen sich Vorne und Hinten unterscheiden lassen. Bei einem davon stellt sich heraus: Es bog lieber nach rechts ab als nach links.",
       "url": "https://www.faz.net/aktuell/wissen/leben-gene/spriggina-floundersi-war-sie-eine-fruehe-rechtshaenderin-accg-201017426.html",
-      "image_url": "https://media0.faz.net/image/w1200/06dc194b0074/w3353h1886x83y0/202607/43601.0.2317303181/der-steinerne-schatten-von.webp",
+      "image_url": "https://media0.faz.net/image/w1100/06dc194b0074/w3353h1886x83y0/202607/43601.0.2317303181/der-steinerne-schatten-von.webp",
       "image_title": "Der steinerne Schatten von Spriggina floundersi aus Südaustralien. Erhalten blieb hier der nach links gekrümmte Abdruck des Wesens im darüberliegenden Sediment. Dieses Exemplar war also in einer Rechtskurve begriffen, als es plötzlich verschüttet wurde."
     },
     {
@@ -99,13 +106,6 @@
       "url": "https://www.faz.net/aktuell/wissen/erde-klima/wm-klimabilanz-wie-heiss-war-es-in-den-stadien-accg-201037546.html",
       "image_url": "https://media0.faz.net/image/w1100/44a059bb8fc2/w2917h1641x0y161/202607/43601.0.2339415860/im-halbfinale-konnten-sich-die.webp",
       "image_title": "Im Halbfinale konnten sich die Engländer nach Extrembedingungen endlich über ein klimatisiertes Stadium freuen, zu jubeln gab es am Ende dennoch wenig."
-    },
-    {
-      "title": "Erdbebengefahr in Kalifornien: Vorzeichen einer Katastrophe?",
-      "teaser": "Im Raum Los Angeles gibt es Hinweise, dass ein schweres Erdbeben bevorsteht. Tektonische Spannungen entlang der San-Andreas-Verwerfung nehmen zu.",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/droht-eine-katastrophe-am-cajon-pass-in-kalifornien-accg-200984251.html",
-      "image_url": "https://media0.faz.net/image/w1100/a669fc99da5c/w10000h5625x0y34/202606/43601.0.2255667100/erdbebenhotspot-in.webp",
-      "image_title": "Erdbebenhotspot in Südkalifornien: Der vielbefahrene Cajon Pass Richtung Los Angeles"
     },
     {
       "title": "Extreme Regeneration: Seegurken, wollt ihr ewig leben?",
@@ -178,6 +178,13 @@
       "image_title": "Ulf von Rauchhaupt"
     },
     {
+      "title": "Erdbebengefahr in Kalifornien: Vorzeichen einer Katastrophe?",
+      "teaser": "Im Raum Los Angeles gibt es Hinweise, dass ein schweres Erdbeben bevorsteht. Tektonische Spannungen entlang der San-Andreas-Verwerfung nehmen zu.",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/droht-eine-katastrophe-am-cajon-pass-in-kalifornien-accg-200984251.html",
+      "image_url": "https://media0.faz.net/image/w880/a669fc99da5c/w10000h5625x0y34/202606/43601.0.2255667100/erdbebenhotspot-in.webp",
+      "image_title": "Erdbebenhotspot in Südkalifornien: Der vielbefahrene Cajon Pass Richtung Los Angeles"
+    },
+    {
       "title": "Gehirn-Computer-Schnittstelle: Er war vom Hals abwärts gelähmt, jetzt kann er wieder seinen Hund streicheln",
       "teaser": "Keith Thomas war nach einem Tauchunfall vom Hals abwärts gelähmt. Dank eines Chips im Gehirn kann er wieder greifen und fühlen. Die Technologie könnte Millionen helfen – doch bis dahin ist es noch ein weiter Weg.",
       "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/keith-thomas-wie-ein-gehirn-chip-ihm-das-fuehlen-zurueckgab-accg-201036867.html",
@@ -188,15 +195,8 @@
       "title": "FAZ+Kolumne „Gesundheitsmythen“: Was Longevity-Supplements taugen",
       "teaser": "Viele Menschen, die jung und gesund bleiben wollen, schlucken NAD+-Präparate. Sie sollen Energie schenken und das Leben verlängern. Stimmt das?",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/longevity-supplements-halten-nad-praeparate-wirklich-jung-und-gesund-accg-201031995.html",
-      "image_url": "https://media0.faz.net/image/w880/c6c3a681cb57/w3555h2000x397y868/202607/43601.0.2334782835/praeparate-mit-nad-vorstufen.webp",
+      "image_url": "https://media0.faz.net/image/w1200/c6c3a681cb57/w3555h2000x397y868/202607/43601.0.2334782835/praeparate-mit-nad-vorstufen.webp",
       "image_title": "Präparate mit NAD+-Vorstufen sind beliebt."
-    },
-    {
-      "title": "FAZ+Auffällige Blutwerte: Kann zu viel Sport das Herz krank machen?",
-      "teaser": "Wer sehr viel Rad fährt oder läuft, kann ähnliche kardiologische Befunde haben wie ein Herzpatient. Wie gefährlich ist das?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/kann-zu-viel-sport-das-herz-krank-machen-accg-200911694.html",
-      "image_url": "https://media0.faz.net/image/w1200/d37ff2540800/w3000h1687x0y337/202503/43601.0.891276227/bis-in-den-sonnenuntergang.webp",
-      "image_title": "Bis in den Sonnenuntergang: Für viele Läufer sind gerade die langen Strecken reizvoll."
     },
     {
       "title": "Klimaschutz: Wieso Hoffnung beim Klimawandel keine Illusion ist",
@@ -220,10 +220,17 @@
       "image_title": "epa13061887 Closed blinds and empty balconies in a residential building during a hot afternoon in Berlin, Germany, 24 June 2026. The German Weather Service forecasted strong to extreme heat stress in large parts of the country. EPA/FILIP SINGER"
     },
     {
+      "title": "FAZ+Kolumne „Gesundheitsmythen“: Was Longevity-Supplements taugen",
+      "teaser": "Viele Menschen, die jung und gesund bleiben wollen, schlucken NAD+-Präparate. Sie sollen Energie schenken und das Leben verlängern. Stimmt das?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/longevity-supplements-halten-nad-praeparate-wirklich-jung-und-gesund-accg-201031995.html",
+      "image_url": "https://media0.faz.net/image/w920/028f51681da7/w4302h1843x0y978/202607/43601.0.2334782835/praeparate-mit-nad-vorstufen.webp",
+      "image_title": "Präparate mit NAD+-Vorstufen sind beliebt."
+    },
+    {
       "title": "Wissenschaft vom Sommer: Warum Urlaube in der Erinnerung so schön sind",
       "teaser": "Wie ungesund ist Schwimmbadwasser? Wieso schützt grüne Kleidung vor UV-Strahlen? Und wonach riecht Sommerregen? Die Wissenschaft hat viel zum Sommer erforscht. Hier kommen die nützlichsten Fakten.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warum-urlaube-in-der-erinnerung-noch-viel-schoener-sind-200983648.html",
-      "image_url": "https://media0.faz.net/image/w920/7365bc223538/w5163h2212x0y1192/202607/43601.0.2334061866/am-meer-wird-es-schnell-zu.webp",
+      "image_url": "https://media0.faz.net/image/w1100/d82ddeb5941c/w4267h2400x189y1060/202607/43601.0.2334061866/am-meer-wird-es-schnell-zu.webp",
       "image_title": "Am Meer wird es schnell zu heiß und sonnig."
     },
     {
@@ -232,13 +239,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/social-media-verbot-fuer-teenager-was-sechs-wochen-bewirken-accg-201028555.html",
       "image_url": "https://media0.faz.net/image/w1100/7cbd1cf71bf1/w8256h4644x0y814/202602/43601.0.1825812685/eine-junge-frau-nutzt-die.webp",
       "image_title": "Eine junge Frau nutzt die Social-Media-App Tiktok."
-    },
-    {
-      "title": "Schutz Gegen Tumoren: Warum Krebs ausgerechnet das Herz verschont",
-      "teaser": "Herztumoren gehören zu den seltensten Krebserkrankungen. Nun haben Forscher einen überraschenden Mechanismus dahinter entdeckt. Ließen sich damit auch andere Organe schützen?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schutz-vor-tumoren-warum-krebs-das-herz-kaum-befaellt-accg-201025638.html",
-      "image_url": "https://media0.faz.net/image/w1100/2ca942ea7c43/w3000h1687x0y156/200805/431.0.62496982/hemmt-mechanische-belastung.webp",
-      "image_title": "Hemmt mechanische Belastung die Bildung von Tumoren? Eine Wissenschaftlerin betrachtet Muskelzellen unter dem Mikroskop. (Symbolbild)"
     },
     {
       "title": "Neue Früherkennung: Was nützt das Krebsscreening für Raucher?",
