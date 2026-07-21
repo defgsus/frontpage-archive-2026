@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T07:25:37",
+  "timestamp": "2026-07-21T10:11:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "AlertKritische SicherheitslückeSchadcode kann auf Nginx-Server schlüpfen",
-      "teaser": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
+      "title": "Coca Cola-Molkereispartefairlife stellt Produktion nach Cyberangriff ein",
+      "teaser": "Der Molkereiprodukte-Zweig fairlife von Coca Cola muss nach einem Ransomware-Vorfall temporär die Produktion einstellen.",
+      "url": "https://www.heise.de/news/Coca-Cola-Molkereisparte-fairlife-stellt-Produktion-nach-Cyberangriff-ein-11371577.html",
+      "image_title": "CocaCola- und fairlife-Logos auf blauem Mosaik-Hintergrund"
     },
     {
       "title": "secIT digitalGrundschutz++/Cyber Resilience Act richtig und effektiv umsetzen",
@@ -31,9 +31,9 @@
       "url": "https://www.heise.de/news/secIT-digital-Grundschutz-Cyber-Resilience-Act-richtig-und-effektiv-umsetzen-11351647.html"
     },
     {
-      "title": "Alert„HollowByte“: Denial-of-Service-Lücke in OpenSSL",
-      "url": "https://www.heise.de/news/HollowByte-Denial-of-Service-Luecke-in-OpenSSL-11370866.html",
-      "image_title": "Ein Kreis-Pfeil, auf den ein Mensch mit Finger klickt."
+      "title": "AlertSicherheitspatch Grafana: Angreifer können sensible Daten abgreifen",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Grafana-Angreifer-koennen-sensible-Daten-abgreifen-11371859.html",
+      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
     },
     {
       "title": "Nächster Halt: Digital im Septemberheise security Tour 2026",
@@ -48,10 +48,40 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "Coca Cola: Molkereisparte fairlife stellt Produktion nach Cyberangriff ein",
-      "teaser": "Der Molkereiprodukte-Zweig fairlife von Coca Cola muss nach einem Ransomware-Vorfall temporär die Produktion einstellen.",
-      "url": "https://www.heise.de/news/Coca-Cola-Molkereisparte-fairlife-stellt-Produktion-nach-Cyberangriff-ein-11371577.html",
-      "image_title": "CocaCola- und fairlife-Logos auf blauem Mosaik-Hintergrund"
+      "title": "heise devSec: Jetzt noch Frühbuchertickets für die Konferenz in Marburg sichern",
+      "teaser": "Die zehnte heise devSec behandelt im September Themen von Supply-Chain-Security über sichere KI-gestützte Softwareentwicklung bis zu Post-Quantum-Kryptologie.",
+      "url": "https://www.heise.de/news/heise-devSec-Jetzt-noch-Fruehbuchertickets-fuer-die-Konferenz-in-Marburg-sichern-11370706.html",
+      "image_title": "Schloss mit Linien auf Kreis"
+    },
+    {
+      "title": "Nextcloud: Cyberangriff auf Webserver mit ungeschickter Kommunikation",
+      "teaser": "Am Sonntag ging die Webseite von Nextcloud vorübergehend offline. Der Anbieter bestätigt auf Anfrage einen Cyberangriff.",
+      "url": "https://www.heise.de/news/Nextcloud-Cyberangriff-auf-Webserver-mit-ungeschickter-Kommunikation-11371959.html",
+      "image_title": "Nextcloud-Logo mit Achtung-Schild vor Matrix-Hintergrund"
+    },
+    {
+      "title": "Suno-Datenleck: Have I Been Pwned ergänzt 55 Millionen Konten",
+      "teaser": "Das Have-I-Been-Pwned-Projekt hat mehr als 55 Millionen Konten aus dem Suno-Datenleck zur Datenhalde hinzugefügt.",
+      "url": "https://www.heise.de/news/Suno-Datenleck-Have-I-Been-Pwned-ergaenzt-55-Millionen-Konten-11371843.html",
+      "image_title": "Smartphone mit geöffneter Suno-App im App-Store. Im unscharfen Hintergrund ist ein Richterhammer zu sehen."
+    },
+    {
+      "title": "AlertSicherheitspatch Grafana: Angreifer können sensible Daten abgreifen",
+      "teaser": "Das Open-Source-Visualisierungs- und Monitoring-Tool Grafana ist verwundbar. Nun haben die Entwickler eine kritische Sicherheitslücke geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-Grafana-Angreifer-koennen-sensible-Daten-abgreifen-11371859.html",
+      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
+    },
+    {
+      "title": "TeamViewer: BaFin verhängt Bußgeld nach Cyberangriff",
+      "teaser": "Die Finanzaufsicht BaFin hat TeamViewer ein Bußgeld von 240.000 Euro aufgebrummt. Grund ist ein Cyberangriff aus dem Jahr 2024.",
+      "url": "https://www.heise.de/news/TeamViewer-BaFin-verhaengt-Bussgeld-nach-Cyberangriff-11371639.html",
+      "image_title": "Bildschimr mit dem Schriftzug Teamviewer, betrachtet durch ein Verößerungsglas"
+    },
+    {
+      "title": "Passkeys in der Praxis – Teil 1: Die Architektur von Passkeys",
+      "teaser": "So funktionieren Passkeys: Der erste Teil der Praxis-Serie für Entwickler zeigt im Detail die Architektur, die auf FIDO2 und WebAuthn aufbaut.",
+      "url": "https://www.heise.de/hintergrund/Passkeys-in-der-Praxis-Teil-1-Die-Architektur-von-Passkeys-11364345.html",
+      "image_title": "Symbolbild für Passkeys, unter anderem mit Fingerabdrücken, Schloss, Schlüssel, Hardware-Key"
     },
     {
       "title": "Rumänien: Cyberkrimineller löscht die gesamte Grundbuchdatenbank des Landes",
@@ -100,46 +130,16 @@
       "image_title": "Ai-powered,Automated,Debugging,Or,Troubleshooting.,Artificial,Intelligence,Diagnostics,And,Detection."
     },
     {
+      "title": "AlertKritische Sicherheitslücke: Schadcode kann auf Nginx-Server schlüpfen",
+      "teaser": "Angreifer können Nginx Open Source und Nginx Plus attackieren. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Schadcode-kann-auf-Nginx-Server-schluepfen-11370300.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
       "title": "AlertUpdateShark-Saugroboter: Sicherheitslücke ermöglicht Übernahme aus dem Netz",
       "teaser": "Ein IT-Sicherheitsforscher hat eine Schwachstelle in Shark-Saugrobotern entdeckt, die die Übernahme aus dem Internet ermöglicht.",
       "url": "https://www.heise.de/news/Shark-Saugroboter-Sicherheitsluecke-ermoeglicht-Uebernahme-aus-dem-Netz-11370282.html",
       "image_title": "Shark-Saugroboter vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Googles cleverer KI-Schachzug – oder: wer kontrolliert zukünftig den KI-Markt?",
-      "teaser": "Macht das Modell den entscheidenden Unterschied? Google zumindest scheint eher auf den richtigen Rahmen zu setzen als das eigene Top-Modell. Eine Analyse.",
-      "url": "https://www.heise.de/hintergrund/Googles-cleverer-KI-Schachzug-oder-wer-kontrolliert-zukuenftig-den-KI-Markt-11368887.html",
-      "image_title": "Google-Schriftzug an einer Glasfassade eines Bürogebäudes."
-    },
-    {
-      "title": "Microsoft verteilt außerplanmäßiges Windows-Update",
-      "teaser": "Microsoft verteilt ein ungeplantes Windows-Update. Es soll Probleme beheben, die insbesondere bei Dell-Computern aufgetreten sind.",
-      "url": "https://www.heise.de/news/Windows-Update-ausser-der-Reihe-korrigiert-Performanceprobleme-11369968.html",
-      "image_title": "Windows Updates verfügbar: Neustart erforderlich"
-    },
-    {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor künftigen Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11354468.html",
-      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
-    },
-    {
-      "title": "Alert„wp2shell“: Kritische WordPress-Lücke erlaubt Codeeinschleusung über API",
-      "teaser": "Durch Verkettung einer SQL-Injection- und einer API-Lücke können Angreifer Code einschleusen. WordPress hat ein Update veröffentlicht, die Finder einen Hotfix.",
-      "url": "https://www.heise.de/news/wp2shell-Kritische-WordPress-Luecke-erlaubt-Codeeinschleusung-ueber-API-11369660.html",
-      "image_title": "WordPress-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "AlertVMware Avi Load Balancer: Kritische Lücke erlaubt Umgehung von Anmeldung",
-      "teaser": "VMware warnt vor zum Teil kritischen Lücken im Avi Load Balancer. Angreifer können Authentifizierung und Autorisierung umgehen.",
-      "url": "https://www.heise.de/news/VMware-Avi-Load-Balancer-Kritische-Luecke-erlaubt-Umgehung-von-Anmeldung-11368661.html",
-      "image_title": "Update-Text mit VMware-Logo vor Farbverlauf"
-    },
-    {
-      "title": "Windows Server 2022: Mainstream-Support endet in 90 Tagen",
-      "teaser": "Windows Server 2022 fällt in 90 Tagen aus dem Mainstream-Support. Erweiterte Sicherheitsupdates gibt es bis 2031 – und danach ESU.",
-      "url": "https://www.heise.de/news/Windows-Server-2022-Mainstream-Support-endet-in-90-Tagen-11368549.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
       "title": "Workshop | 11. – 12.8.2026OWASP® Top 10: Kritische Sicherheitsrisiken für Webanwendungen verstehen",
@@ -196,12 +196,12 @@
       "url": "https://www.heise.de/news/Volkswagen-sperrt-Nutzer-von-Custom-ROMs-aus-der-VW-App-aus-11370478.html"
     },
     {
-      "title": "Neuer Rekord mit 622 gefixten Schwachstellen",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html"
+      "title": "Cyberkrimineller löscht die nationale Grundbuchdatenbank",
+      "url": "https://www.heise.de/news/Rumaenien-Cyberkrimineller-loescht-die-gesamte-Grundbuchdatenbank-des-Landes-11371451.html"
     },
     {
-      "title": "Software-Update Ursache von IT-Problemen der Berliner Justiz",
-      "url": "https://www.heise.de/news/Software-Update-Ursache-von-IT-Problemen-der-Berliner-Justiz-11365024.html"
+      "title": "Neuer Rekord mit 622 gefixten Schwachstellen",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Neuer-Rekord-mit-622-gefixten-Schwachstellen-11365248.html"
     }
   ]
 }
