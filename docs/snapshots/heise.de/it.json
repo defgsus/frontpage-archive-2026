@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T10:55:51",
+  "timestamp": "2026-07-23T12:17:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,8 +20,20 @@
   ],
   "articles": [
     {
-      "title": "uniVersa: KI-Crawler von OpenAI griff Kundendaten ab",
-      "teaser": "Bei den uniVersa-Versicherungen gab es einen Datenschutzvorfall. Ein KI-Crawler hat Kundendaten abgegriffen, darunter Namen, Adressen und teilweise Bankdaten.",
+      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
+      "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11362200.html",
+      "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
+    },
+    {
+      "title": "KI-Angriff auf Hugging Face sorgte für Aufregung bei OpenAI – trotz Vorwarnung",
+      "teaser": "Der KI-Angriff auf Hugging Face sorgt weit über die IT-Welt hinaus für Aufregung. Nun gibt es Einblicke in die unmittelbaren Reaktionen bei OpenAI selbst.",
+      "url": "https://www.heise.de/news/KI-Angriff-auf-Hugging-Face-sorgte-fuer-Aufregung-bei-OpenAI-trotz-Vorwarnung-11375680.html",
+      "image_title": "OpenAI-Schriftzug auf einem Smartphone vor dem Logo"
+    },
+    {
+      "title": "Datenschutzvorfall bei uniVersaKI-Crawler von OpenAI griff Daten ab",
+      "teaser": "Bei den uniVersa-Versicherungen gab es einen Datenschutzvorfall. Ein KI-Crawler hat Kundendaten abgegriffen.",
       "url": "https://www.heise.de/news/uniVersa-KI-Crawler-von-OpenAI-griff-Kundendaten-ab-11372741.html",
       "image_title": "Schloss- und weitere Symbole vor Mnesch mit Tablet im Hintergrund"
     },
@@ -30,18 +42,6 @@
       "teaser": "Seit Monaten untersucht Brüssel mögliche Verstöße von Google gegen den Digital Markets Act. Jetzt wurden Strafen über zusammen fast 900 Millionen Euro verhängt.",
       "url": "https://www.heise.de/news/Google-Verstoesse-gegen-DMA-EU-verhaengt-insgesamt-890-Millionen-Euro-Strafe-11375724.html",
       "image_title": "Umrisse des Google-Logos hinter einer Glasscheibe"
-    },
-    {
-      "title": "AlertRechteausweitungslücke in Ubuntu durch snap",
-      "teaser": "Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.",
-      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
-      "image_title": "Ubuntu-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Blick ins Heft c’t 16/2026: Desinfec't",
-      "teaser": "c't präsentiert das runderneuerte Sicherheitstool Desinfec't 2026. Außerdem: Politiker und Journalisten im Visier von KI-Detektoren.",
-      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-16-2026-Desinfec-t-11375440.html",
-      "image_title": "Titelbild des c't Magazins mit dem Thema \"Desinfec't 2026\" und einer Illustration von Viren, die von einem Staubsauger angegriffen werden."
     },
     {
       "title": "HintergrundBooking.com-Phishing: So erkennen Sie gefälschte Hotel-Nachrichten",
@@ -55,6 +55,18 @@
     {
       "title": "RatgeberVorsicht, Kunde: Glasfaseranschluss fertig gemeldet, aber nie gebaut",
       "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Glasfaseranschluss-fertig-gemeldet-aber-nie-gebaut-11326726.html"
+    },
+    {
+      "title": "AlertRechteausweitungslücke in Ubuntu durch snap",
+      "teaser": "Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.",
+      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
+      "image_title": "Ubuntu-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "Blick ins Heft c’t 16/2026: Desinfec't",
+      "teaser": "c't präsentiert das runderneuerte Sicherheitstool Desinfec't 2026. Außerdem: Politiker und Journalisten im Visier von KI-Detektoren.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-16-2026-Desinfec-t-11375440.html",
+      "image_title": "Titelbild des c't Magazins mit dem Thema \"Desinfec't 2026\" und einer Illustration von Viren, die von einem Staubsauger angegriffen werden."
     },
     {
       "title": "Neuer ClickFix-Angriff auf Mac-Nutzer im Umlauf: Erpressung trifft auf Datenklau",
@@ -131,18 +143,6 @@
       "title": "Kommentar: Wie wollen wir in Zukunft noch Sicherheit lernen?",
       "teaser": "Gute Securityexperten haben nicht nur viel Know-how, sondern auch ein Security Mindset, ein Gespür für Sicherheitslücken. Das muss man sich mühsam erarbeiten.",
       "url": "https://www.heise.de/hintergrund/Kommentar-Wie-wollen-wir-in-Zukunft-noch-Sicherheit-lernen-11371649.html"
-    },
-    {
-      "title": "Balkonkraftwerke mit Speicher: Vier Modelle im Vergleich",
-      "teaser": "Vor der „großen“ PV-Anlage scheuen noch immer viele Kunden zurück. Die vier Kompaktlösungen im Test leisten viel und sind stressfrei zu installieren.",
-      "url": "https://www.heise.de/tests/Balkonkraftwerke-mit-Speicher-Vier-Modelle-im-Vergleich-11248336.html",
-      "image_title": "Ein Haus mit Solarzellen und mehreren Batterien, verbunden durch eine gestrichelte Linie."
-    },
-    {
-      "title": "Cyberattacken auf Landesverwaltung nehmen weiter zu",
-      "teaser": "Cyberangriffe nehmen in Sachsen-Anhalt deutlich zu: Im ersten Halbjahr meldet die Landesverwaltung mehr als doppelt so viele Vorfälle wie zuvor.",
-      "url": "https://www.heise.de/news/Cyberattacken-auf-Landesverwaltung-nehmen-weiter-zu-11374292.html",
-      "image_title": "Gitternetz mit Leuchtpunkten und Linien"
     },
     {
       "title": "NewsRumänien: Cyberkrimineller löscht die gesamte Grundbuchdatenbank des Landes",
