@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T14:58:39",
+  "timestamp": "2026-07-23T16:23:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,11 @@
   ],
   "articles": [
     {
+      "title": "BGH-Urteil: Vereinsmitglieder haben Anspruch auf E-Mail-Listen",
+      "teaser": "Ein Verein verweigert einem Mitglied die E-Mail-Adressen der anderen – der BGH sieht darin einen Mangel mit Sprengkraft für gefasste Beschlüsse.",
+      "url": "https://www.heise.de/hintergrund/BGH-Urteil-Vereinsmitglieder-haben-Anspruch-auf-E-Mail-Listen-11350158.html"
+    },
+    {
       "title": "Elgato Key Light Air MK.2: Streaming-Leuchte mit MagSafe",
       "teaser": "Die Neuauflage ist heller als ihr Vorgänger, lädt per USB-C und haftet an Magnethalterungen für iPhones. Auch bei Bedienung und WLAN gibt es Verbesserungen.",
       "url": "https://www.heise.de/news/Elgato-Key-Light-Air-MK-2-Streaming-Leuchte-mit-MagSafe-11376234.html",
@@ -31,16 +36,10 @@
       "url": "https://www.heise.de/hintergrund/IT-Gehaelter-2026-Das-verdienen-Security-Experten-in-Deutschland-11348804.html"
     },
     {
-      "title": "Milliardenlast für Europas Netze: Der teure Abschied von Huawei und ZTE",
-      "teaser": "Ein Verbot chinesischer Netzwerkausrüster würde europäische Mobilfunker laut Studie bis zu 40 Milliarden Euro kosten – viermal mehr als von Brüssel geschätzt.",
+      "title": "Milliardenlast für Europas NetzeDer teure Abschied von Huawei und ZTE",
+      "teaser": "Ein Verbot chinesischer Netzwerkausrüster würde europäische Mobilfunker laut Studie bis zu 40 Milliarden Euro kosten.",
       "url": "https://www.heise.de/news/Milliardenlast-fuer-Europas-Netze-Der-teure-Abschied-von-Huawei-und-ZTE-11376401.html",
       "image_title": "Detailaufnahme einer Netzwerkkomponente mit dem Logo des chinesischen Herstellers Huwei und zahlreichen optischen Kabeln."
-    },
-    {
-      "title": "Collabora Online: lokale oder Cloud-KI nach Nutzerwunsch",
-      "teaser": "Collabora Online 26.04 bringt einen integrierten KI-Assistenten für Writer, Calc und Impress. Nutzer wählen Modell und Anbieter selbst.",
-      "url": "https://www.heise.de/news/Collabora-Online-lokale-oder-Cloud-KI-nach-Nutzerwunsch-11376039.html",
-      "image_title": "Ein Dokument mit dem Titel 'Riverside Arena - Event Safety Risk Assessment & Crowd Management Plan' wird auf einem Laptop angezeigt."
     },
     {
       "title": "HintergrundIT-Gehälter 2026: Das verdienen Security-Experten in Deutschland",
@@ -56,8 +55,14 @@
       "image_title": "Ugreen Maxidok mit 17 Ports"
     },
     {
-      "title": "Roborock Rockneo Q1 im Test: Mähroboter für kleine Gärten unter 800 Euro",
-      "teaser": "Der Rockneo Q1 ist Roborocks Einstiegsmodell in den Mähroboter-Markt ohne Begrenzungskabel. Aber ist eine RTK-Antenne im Garten 2026 noch zeitgemäß?",
+      "title": "Collabora Online: lokale oder Cloud-KI nach Nutzerwunsch",
+      "teaser": "Collabora Online 26.04 bringt einen integrierten KI-Assistenten für Writer, Calc und Impress. Nutzer wählen Modell und Anbieter selbst.",
+      "url": "https://www.heise.de/news/Collabora-Online-lokale-oder-Cloud-KI-nach-Nutzerwunsch-11376039.html",
+      "image_title": "Ein Dokument mit dem Titel 'Riverside Arena - Event Safety Risk Assessment & Crowd Management Plan' wird auf einem Laptop angezeigt."
+    },
+    {
+      "title": "Roborock Rockneo Q1 im Test: Mähroboter für kleine Gärten",
+      "teaser": "Der Rockneo Q1 ist Roborocks Einstiegsmodell in den Mähroboter-Markt ohne Begrenzungskabel. Ist eine RTK-Antenne noch zeitgemäß?",
       "url": "https://www.heise.de/bestenlisten/testbericht/roborock-rockneo-q1-im-test-maehroboter-fuer-kleine-gaerten-unter-800-euro/sltk0mk?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
@@ -67,7 +72,7 @@
       "image_title": "Eine Berglandschaft mit einer Straße, die mit verschiedenen Programmiersprachen-Logos markiert ist."
     },
     {
-      "title": "8.000 PCs über Steam infiziert: Cyberkriminelle verteilen Malware via Fake-Games",
+      "title": "8000 PCs über Steam infiziert: Cyberkriminelle verteilen Malware via Fake-Games",
       "teaser": "Cyberkriminelle haben Steam genutzt, um zahlreiche PCs mit Malware zu infizieren. Die Schadsoftware war in Spielen versteckt und wurde gezielt beworben.",
       "url": "https://www.heise.de/news/8-000-PCs-ueber-Steam-infiziert-Cyberkriminelle-verteilen-Malware-via-Fake-Games-11376061.html"
     },
@@ -136,12 +141,6 @@
       "teaser": "Thunderbird 153 „Meadow“ bringt einen neuen Einrichtungsdialog, native Exchange-Anbindung per EWS und mehr Funktionen in Benachrichtigungen.",
       "url": "https://www.heise.de/news/Thunderbird-Neue-ESR-Version-mit-Exchange-Support-11375490.html",
       "image_title": "Der Text \"Thunderbird 153\" über einem blauen Oval mit dem Text \"Meadow\" und einem grünen Kreis mit einer Landschaft."
-    },
-    {
-      "title": "AlertAtlassian: Bamboo und Bitbucket für Schadcode-Attacken anfällig",
-      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in verschiedenen Anwendungen von Atlassian.",
-      "url": "https://www.heise.de/news/Atlassian-Schadcode-Luecken-bedrohen-Bamboo-und-Bitbucket-11375008.html",
-      "image_title": "Eine symbolische Updatetaste auf einer Tastatur."
     },
     {
       "title": "NewsRumänien: Cyberkrimineller löscht die gesamte Grundbuchdatenbank des Landes",
