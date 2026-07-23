@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-23T08:06:10",
+  "timestamp": "2026-07-23T10:55:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertSicherheitslücke in Linux-DistributionRechteausweitungslücke in Ubuntu durch snap",
+      "teaser": "Standardinstallationen von Ubuntu sind für eine Schwachstelle anfällig, die die Rechteausweitung zu root ermöglicht. Auslöser ist snap.",
+      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
+      "image_title": "Ubuntu-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
+    },
+    {
       "title": "KommentarOpenAI – KI-Sicherheit nur ein Marketing-Gag?",
       "teaser": "Eine KI bricht aus und übernimmt fremde Server. Droht uns jetzt das Ende der Menschheit? Falsche Frage, meint Jürgen Schmidt.",
       "url": "https://www.heise.de/meinung/Kommentar-OpenAIs-KI-laeuft-Amok-so-oder-so-11373435.html",
       "image_title": "Digitale Darstellung zweier Köpfe, die sich angucken, einer ist von einem Roboter."
     },
     {
-      "title": "EingeständnisKI-Modelle von OpenAI steckten hinter IT-Angriff auf Hugging Face",
-      "teaser": "Bei einem Test neuer KI-Modelle von OpenAI sind die aus ihrer Umgebung ausgebrochen und haben Hugging Face kompromittiert.",
-      "url": "https://www.heise.de/news/KI-Modelle-von-OpenAI-haben-Cyberangriff-auf-Hugging-Face-autonom-ausgefuehrt-11372797.html",
-      "image_title": "OpenAI-Logo und -Schriftzug auf einer Visitenkarte"
-    },
-    {
-      "title": "AlertMicrosoft SharePoint: Angriffe auf weitere Sicherheitslücke",
-      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angriffe-auf-weitere-Sicherheitsluecke-11374506.html",
-      "image_title": "Stilsiiertes Holzpferd"
+      "title": "AlertSicherheitslücke in Linux-DistributionRechteausweitungslücke in Ubuntu durch snap",
+      "url": "https://www.heise.de/news/Rechteausweitungsluecke-in-Ubuntu-durch-snap-11375280.html",
+      "image_title": "Ubuntu-Logo und -Schriftzug vor Matrix-Regen-Hintergrund"
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -51,6 +51,24 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "uniVersa: KI-Crawler von OpenAI griff Kundendaten ab",
+      "teaser": "Bei den uniVersa-Versicherungen gab es einen Datenschutzvorfall. Ein KI-Crawler hat Kundendaten abgegriffen, darunter Namen, Adressen und teilweise Bankdaten.",
+      "url": "https://www.heise.de/news/uniVersa-KI-Crawler-von-OpenAI-griff-Kundendaten-ab-11372741.html",
+      "image_title": "Schloss- und weitere Symbole vor Mnesch mit Tablet im Hintergrund"
+    },
+    {
+      "title": "Neuer ClickFix-Angriff auf Mac-Nutzer im Umlauf: Erpressung trifft auf Datenklau",
+      "teaser": "ClickLock Stealer soll bisher über 100 Personen per Shellscript angegriffen haben. Er geht dabei recht fies vor, um ans Passwort zu kommen und Daten abzuziehen.",
+      "url": "https://www.heise.de/news/Neuer-ClickFix-Angriff-auf-Mac-Nutzer-im-Umlauf-Erpressung-trifft-auf-Datenklau-11373483.html",
+      "image_title": "Malware-Angriff (Symbolbild)"
+    },
+    {
+      "title": "AlertAtlassian: Bamboo und Bitbucket für Schadcode-Attacken anfällig",
+      "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen in verschiedenen Anwendungen von Atlassian.",
+      "url": "https://www.heise.de/news/Atlassian-Schadcode-Luecken-bedrohen-Bamboo-und-Bitbucket-11375008.html",
+      "image_title": "Eine symbolische Updatetaste auf einer Tastatur."
     },
     {
       "title": "AlertMicrosoft SharePoint: Angriffe auf weitere Sicherheitslücke",
@@ -117,34 +135,16 @@
       "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
     },
     {
+      "title": "KI-Modelle von OpenAI steckten hinter IT-Angriff auf Hugging Face",
+      "teaser": "Bei einem Test der Fähigkeiten neuer KI-Modelle sind die aus ihrer Umgebung ausgebrochen und haben Hugging Face kompromittiert. Das hat OpenAI eingestanden.",
+      "url": "https://www.heise.de/news/KI-Modelle-von-OpenAI-haben-Cyberangriff-auf-Hugging-Face-autonom-ausgefuehrt-11372797.html",
+      "image_title": "OpenAI-Logo und -Schriftzug auf einer Visitenkarte"
+    },
+    {
       "title": "Virenjäger im neuen Gewand: Desinfec’t 2026",
       "teaser": "Herunterladen, einrichten, Trojaner jagen: So legen Sie mit dem komplett überarbeiteten Desinfec’t 2026 los.",
       "url": "https://www.heise.de/ratgeber/Virenjaeger-im-neuen-Gewand-Desinfec-t-2026-11315579.html",
       "image_title": "Virenfiguren mit Reinigungsgeräten wie Besen und Staubsauger"
-    },
-    {
-      "title": "Google bringt Gemini 3.6 Flash und 3.5 Flash-Lite, hadert mit 3.5 Pro",
-      "teaser": "Google legt neue Light-Varianten seines LLMs auf. Bei der mächtigeren Pro-Variante spießt es sich weiter.",
-      "url": "https://www.heise.de/news/Google-bringt-Gemini-3-6-Flash-und-3-5-Flash-Lite-hadert-mit-3-5-Pro-11372719.html",
-      "image_title": "EIn Finger schwebt über Gemini-App-Icon auf einem Smartphone-Bildschirm"
-    },
-    {
-      "title": "So einfach war Apples Hide my Email auszuhebeln",
-      "teaser": "Apples Dienst „E-Mail-Adresse verbergen” schaffte das nur schlecht. Die echten Adressen aufzudecken, war simpel.",
-      "url": "https://www.heise.de/news/Apple-korrigiert-Hide-my-Email-im-dritten-Anlauf-11372689.html",
-      "image_title": "Illustration zeigt eine schwarze Fahne mit güldenem Apple-Logo"
-    },
-    {
-      "title": "AlertWordPress-Lücke „wp2shell“ wird angegriffen",
-      "teaser": "Zum Wochenende wurde die „wp2shell“-WordPress-Lücke bekannt. Seitdem beobachten IT-Sicherheitsforscher Attacken im Internet darauf.",
-      "url": "https://www.heise.de/news/WordPress-Luecke-wp2shell-wird-angegriffen-11372213.html",
-      "image_title": "WordPress-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
-      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11362158.html",
-      "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
       "title": "Workshop | 11. – 12.8.2026OWASP® Top 10: Kritische Sicherheitsrisiken für Webanwendungen verstehen",
@@ -179,7 +179,7 @@
       "url": "https://www.heise.de/news/Windows-Update-ausser-der-Reihe-korrigiert-Performanceprobleme-11369968.html"
     },
     {
-      "title": "Virenjäger im neuen Gewand: Desinfec’t 2026",
+      "title": "Virenjäger im neuen Gewand",
       "url": "https://www.heise.de/ratgeber/Virenjaeger-im-neuen-Gewand-Desinfec-t-2026-11315579.html",
       "image_title": "Virenfiguren mit Reinigungsgeräten wie Besen und Staubsauger"
     },
