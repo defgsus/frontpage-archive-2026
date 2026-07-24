@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-24T04:57:13",
+  "timestamp": "2026-07-24T07:26:24",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -62,9 +62,16 @@
   ],
   "articles": [
     {
+      "title": "Krebs: Die unterschätzte Gefahr des Übergewichts",
+      "teaser": "Fettgewebe ist nicht einfach nur ein Energiespeicher, sondern beeinflusst den Stoffwechsel. Und es trägt offenbar doppelt so viel zur Entstehung von Krebs bei als bisher angenommen.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/uebergewicht-krebsrisiko-doppelt-so-hoch-wie-gedacht-accg-201040007.html"
+    },
+    {
       "title": "Geoengineering: Sonnenschein auf Bestellung",
       "teaser": "Ein amerikanisches Start-up will mit Weltraumspiegeln Sonnenstrahlen zur Erde lenken. Damit könnte auch nachts Solarstrom gewonnen werden. Schon dieses Jahr soll der erste Testsatellit starten – trotz Protesten.",
-      "url": "https://www.faz.net/aktuell/wissen/weltraum/reflect-orbital-weltraumspiegel-fuer-solarstrom-bei-nacht-201055766.html"
+      "url": "https://www.faz.net/aktuell/wissen/weltraum/reflect-orbital-weltraumspiegel-fuer-solarstrom-bei-nacht-201055766.html",
+      "image_url": "https://media0.faz.net/image/w1200/341f1e1a8805/w3000h1687x0y157/201310/431.0.41338136/auf-der-erde-wird-sonnenlicht.webp",
+      "image_title": "Auf der Erde wird Sonnenlicht mit Hilfe großer Spiegel bereits dorthin gelenkt, wo die Sonne nur selten zu sehen ist. Diese Spiegel werfen die Sonnenstrahlen im Winterhalbjahr auf den Marktplatz der norwegischen Stadt Rjukan."
     },
     {
       "title": "Longevity am Limit: 156 Jahre, wer will mehr?",
@@ -84,7 +91,7 @@
       "title": "Botanik-Kolumne: Der neue Sommerduft",
       "teaser": "Mit der richtigen Pflanzenauswahl können Gießfaule auch im Sommer bei 37 Grad und Dürre Blütenpracht auf dem Balkon erleben. Die riecht mitunter nach Schokolade oder Weingummi.",
       "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/welche-balkonpflanzen-die-hitze-ueberstehen-201033880.html",
-      "image_url": "https://media0.faz.net/image/w1200/388a46a3d734/w4421h2487x0y230/201807/431.0.19364536/geranien-sind-besonders.webp",
+      "image_url": "https://media0.faz.net/image/w1100/388a46a3d734/w4421h2487x0y230/201807/431.0.19364536/geranien-sind-besonders.webp",
       "image_title": "Geranien sind besonders resistent gegen Dürre und Hitze."
     },
     {
@@ -100,13 +107,6 @@
       "url": "https://www.faz.net/aktuell/wissen/erde-klima/klimawandel-mehr-saharastaub-ueber-europa-accg-201037899.html",
       "image_url": "https://media0.faz.net/image/w1100/a751ca301409/w6000h3375x0y625/202607/43601.0.2346880445/die-sonne-steht-hinter-einem.webp",
       "image_title": "Die Sonne steht hinter einem Schleier aus Saharastaub über dem niedersächsischen Wurmberg."
-    },
-    {
-      "title": "Gefährlicher Trend: In reichen Ländern werden zu viele Antibiotika verordnet",
-      "teaser": "Für die schwierigsten Infektionen braucht die Medizin die Reserveantibiotika. Die kommen immer noch zu oft zum Einsatz. Das fördert resistente Keime, mahnen Forscher. Der Verbrauch ist weltweit ungleich verteilt.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/antibiotika-resistenzen-in-vielen-laendern-werden-zu-viele-antibiotika-verordnet-accg-201050901.html",
-      "image_url": "https://media0.faz.net/image/w1100/99b7ba205e9e/w3000h1687x0y261/202309/43601.0.448140763/auch-kinder-bekommen-zu.webp",
-      "image_title": "Auch Kinder bekommen zu häufig Antibiotika verschrieben, schätzen Experten."
     },
     {
       "title": "Extreme Regeneration: Seegurken, wollt ihr ewig leben?",
@@ -179,6 +179,13 @@
       "image_title": "Ulf von Rauchhaupt"
     },
     {
+      "title": "Gefährlicher Trend: In reichen Ländern werden zu viele Antibiotika verordnet",
+      "teaser": "Für die schwierigsten Infektionen braucht die Medizin die Reserveantibiotika. Die kommen immer noch zu oft zum Einsatz. Das fördert resistente Keime, mahnen Forscher. Der Verbrauch ist weltweit ungleich verteilt.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/antibiotika-resistenzen-in-vielen-laendern-werden-zu-viele-antibiotika-verordnet-accg-201050901.html",
+      "image_url": "https://media0.faz.net/image/w880/99b7ba205e9e/w3000h1687x0y261/202309/43601.0.448140763/auch-kinder-bekommen-zu.webp",
+      "image_title": "Auch Kinder bekommen zu häufig Antibiotika verschrieben, schätzen Experten."
+    },
+    {
       "title": "Schutz Gegen Tumoren: Warum Krebs ausgerechnet das Herz verschont",
       "teaser": "Herztumoren gehören zu den seltensten Krebserkrankungen. Nun haben Forscher einen überraschenden Mechanismus dahinter entdeckt. Ließen sich damit auch andere Organe schützen?",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warum-krebs-ausgerechnet-das-herz-verschont-accg-201025638.html",
@@ -186,17 +193,10 @@
       "image_title": "Hemmt mechanische Belastung die Bildung von Tumoren? Eine Wissenschaftlerin betrachtet Muskelzellen unter dem Mikroskop. (Symbolbild)"
     },
     {
-      "title": "Ungewöhnliche Fangmethode: Wenn Spinnen mit ihren Netzen werfen",
-      "teaser": "Um Beute zu fangen, spannen viele Spinnen ein Netz auf. Kescherspinnen haben eine andere Methode gefunden. Sie könnte für Ingenieure interessant sein.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/ungewoehnliche-fangmethode-kescherspinnen-werfen-mit-ihren-netzen-accg-200856243.html",
-      "image_url": "https://media0.faz.net/image/w880/7f3efc30da23/w4220h2374x0y207/202607/43601.0.2331116300/kescherspinnen-werfen-ein-netz.webp",
-      "image_title": "Kescherspinnen werfen ein Netz über die erspähte Beute."
-    },
-    {
       "title": "FAZ+Medizinische Wunder: Wie neue Therapien bei Autoimmunleiden helfen",
       "teaser": "„Lebende Therapien“ kommen eigentlich aus der Krebsbehandlung. Im Einsatz gegen Autoimmunerkrankungen entfachen sie nun neue Bereitschaft, an Medizinwunder zu glauben.",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/medizin-wunder-wie-therapien-bei-autoimmunleiden-helfen-accg-201019020.html",
-      "image_url": "https://media0.faz.net/image/w1200/d4ae9bdcfd89/w1729h973x0y0/202607/43601.0.2358058915/in-deutschland-leiden.webp",
+      "image_url": "https://media0.faz.net/image/w920/a186e31c7dbb/w1729h741x0y18/202607/43601.0.2358058915/in-deutschland-leiden.webp",
       "image_title": "In Deutschland leiden schätzungsweise sechs Millionen Menschen an ganz unterschiedlichen Autoimmunerkrankungen. Sie alle haben eines gemeinsam: die Entgleisung des Immunsystems."
     },
     {
@@ -211,13 +211,6 @@
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/longevity-ist-auch-nur-modernes-heilfasten-201019139.html",
       "image_url": "https://media0.faz.net/image/w1100/b308bf1e602f/w5672h3190x0y295/202607/43601.0.2318430552/4360102318430552.webp"
-    },
-    {
-      "title": "Erdbebengefahr in Kalifornien: Vorzeichen einer Katastrophe?",
-      "teaser": "Im Raum Los Angeles gibt es Hinweise, dass ein schweres Erdbeben bevorsteht. Tektonische Spannungen entlang der San-Andreas-Verwerfung nehmen zu.",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/droht-eine-katastrophe-am-cajon-pass-in-kalifornien-accg-200984251.html",
-      "image_url": "https://media0.faz.net/image/w1100/a669fc99da5c/w10000h5625x0y34/202606/43601.0.2255667100/erdbebenhotspot-in.webp",
-      "image_title": "Erdbebenhotspot in Südkalifornien: Der vielbefahrene Cajon Pass Richtung Los Angeles"
     },
     {
       "title": "FAZ+Emotionen: Kann man Empathie lernen?",
@@ -283,10 +276,17 @@
       "image_title": "Jedes Jahr Dutzende neue Welten: Die Starburst-Galaxie M 82 im Sternbild der Großen Bärin"
     },
     {
+      "title": "Ungewöhnliche Fangmethode: Wenn Spinnen mit ihren Netzen werfen",
+      "teaser": "Um Beute zu fangen, spannen viele Spinnen ein Netz auf. Kescherspinnen haben eine andere Methode gefunden. Sie könnte für Ingenieure interessant sein.",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/ungewoehnliche-fangmethode-kescherspinnen-werfen-mit-ihren-netzen-accg-200856243.html",
+      "image_url": "https://media0.faz.net/image/w920/703b2373cafb/w4220h1808x0y489/202607/43601.0.2331116300/kescherspinnen-werfen-ein-netz.webp",
+      "image_title": "Kescherspinnen werfen ein Netz über die erspähte Beute."
+    },
+    {
       "title": "Ediacara Fauna: Eine frühe Rechtshänderin",
       "teaser": "Vor 550 Millionen Jahren krochen die ersten Lebewesen über den Meeresgrund, an denen sich Vorne und Hinten unterscheiden lassen. Bei einem davon stellt sich heraus: Es bog lieber nach rechts ab als nach links.",
       "url": "https://www.faz.net/aktuell/wissen/leben-gene/spriggina-floundersi-war-sie-eine-fruehe-rechtshaenderin-accg-201017426.html",
-      "image_url": "https://media0.faz.net/image/w920/cd73003f592d/w3518h1507x0y189/202607/43601.0.2317303181/der-steinerne-schatten-von.webp",
+      "image_url": "https://media0.faz.net/image/w1100/06dc194b0074/w3353h1886x83y0/202607/43601.0.2317303181/der-steinerne-schatten-von.webp",
       "image_title": "Der steinerne Schatten von Spriggina floundersi aus Südaustralien. Erhalten blieb hier der nach links gekrümmte Abdruck des Wesens im darüberliegenden Sediment. Dieses Exemplar war also in einer Rechtskurve begriffen, als es plötzlich verschüttet wurde."
     },
     {
@@ -295,13 +295,6 @@
       "url": "https://www.faz.net/aktuell/wissen/leben-gene/kongo-neue-affenart-im-regenwald-entdeckt-accg-201031334.html",
       "image_url": "https://media0.faz.net/image/w1100/f0904e3b9062/w920h517x150y0/202607/43601.0.2336677962/huebsches-maskengesicht.webp",
       "image_title": "Hübsches Maskengesicht: Colobus congoensis trägt umgangssprachlich den Namen „Likweli“."
-    },
-    {
-      "title": "Klimawandel im See: Der neue Klimagewinner",
-      "teaser": "Wenn es warm wird, profitieren nur wenige Wildtiere. Der Wels gehört dazu. Zum Leidwesen vieler Badeseefreunde – und der Ökosysteme.",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/welszahl-in-badeseen-steigt-wie-badegaeste-und-oekosysteme-darunter-leiden-201010159.html",
-      "image_url": "https://media0.faz.net/image/w1100/07063645fdc6/w4393h2471x703y906/202607/43601.0.2314470404/der-europaeische-wels-silurus.webp",
-      "image_title": "Der Europäische Wels (Silurus glanis) lebt in trüben Gewässern."
     },
     {
       "title": "Klimawandel: In Teufels Küche",
