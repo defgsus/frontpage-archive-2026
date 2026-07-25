@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T16:41:54",
+  "timestamp": "2026-07-25T17:46:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Kulturstaatsminister fordert Plattformabgabe und TikTok-Verkauf",
+      "url": "https://www.heise.de/news/Kulturstaatsminister-fordert-Plattformabgabe-und-TikTok-Verkauf-11378152.html"
+    },
     {
       "title": "Gegen heiße Hände: Maus mit Noctua-Lüfter",
       "url": "https://www.heise.de/news/Gamingmaus-mit-Handflaechenkuehler-11378112.html"
@@ -58,10 +62,6 @@
       "url": "https://www.heise.de/ratgeber/Altersvorsorgedepot-So-funktioniert-die-neue-Zusatzrente-mit-Foerderung-11279871.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "iX-Workshop: Windows Server absichern und härten",
-      "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11362214.html"
     },
     {
       "title": "Offener BriefMicrosoft, Nvidia & Co. fordern offenes KI-Ökosystem",
@@ -180,20 +180,26 @@
       "image_title": "Transportschiff für 10.800 Fahrzeuge auf dem Wasser."
     },
     {
+      "title": "Kulturstaatsminister fordert Plattformabgabe und TikTok-Verkauf",
+      "teaser": "Kulturstaatsminister Wolfram Weimer fordert einen europäischen Kauf von TikTok und kündigt die Einführung einer Plattformabgabe für Streamer noch für 2026 an.",
+      "url": "https://www.heise.de/news/Kulturstaatsminister-fordert-Plattformabgabe-und-TikTok-Verkauf-11378152.html",
+      "image_title": "Google-Startverknüpfung und die und diverser anderer Big-Tech-Dienste auf einem Smartphone-Bildschirm."
+    },
+    {
       "title": "Gegen heiße Hände: Maus mit Noctua-Lüfter",
       "teaser": "Pulsar hat eine Noctua-Version der Gamingmaus Feinmann F01 herausgebracht: Ein kleiner Noctua-Lüfter kühlt bei hitzigen Gefechten die Handfläche des Spielers.",
       "url": "https://www.heise.de/news/Gamingmaus-mit-Handflaechenkuehler-11378112.html"
+    },
+    {
+      "title": "Warum Open-Ear-Kopfhörer mehr sind als ein Stück Technik",
+      "teaser": "Je länger Kopfhörer getragen werden, desto wichtiger werden Komfort, Klang und Design. Moderne Open-Ear-Kopfhörer bieten deshalb ausgezeichnete Sound-Qualität und höchsten Tragekomfort.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319602234&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Anthropic: Neues Claude Opus 5 soll Sicherheitslücken auf Mythos-5-Niveau finden",
       "teaser": "Claude Opus 5 findet Sicherheitslücken ähnlich gut wie Mythos 5, sagt Anthropic. Beim Ausnutzen der Lücken sehe es aber anders aus.",
       "url": "https://www.heise.de/news/Claude-Opus-5-soll-Sicherheitsluecken-auf-Mythos-Niveau-finden-11378138.html",
       "image_title": "Anthropic Claude Logo auf Handy"
-    },
-    {
-      "title": "Warum sich ein leistungsstärkerer Solarspeicher lohnen kann",
-      "teaser": "Viele Solarpaneele sind auf eine bestimmte Anlagengröße ausgelegt. Wer den Eigenverbrauch steigern möchte, stößt oft an Grenzen. Die Lösung: Ein Speicher, der mit der Anzahl der Paneele mitwächst.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7333532620&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Smart Lock Switchbot Lock Ultra Vision Pro im Test: Nuki sieht dagegen alt aus",
@@ -222,12 +228,6 @@
       "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11362214.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "KI-Halluzinationen: Wie Bibliotheksdaten helfen könnten",
-      "teaser": "Eine riesige einheitliche Datenbank soll das Wissen aus Kultur- und Forschungseinrichtungen vernetzen. Doch wie funktioniert die „Gemeinsame Normdatei“?",
-      "url": "https://www.heise.de/hintergrund/KI-Halluzinationen-Wie-Bibliotheksdaten-helfen-koennten-11343215.html",
-      "image_title": "Computerterminals in einer modernen Bibliothek mit unscharfen Katalogschränken im Hintergrund"
     },
     {
       "title": "Urlaub ohne Stress:So plant KI Ihre Touren in Minuten – ein Prompt-Leitfaden",
@@ -387,9 +387,9 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
-      "title": "Zero Trust und NIS2 – So meistern Unternehmen neue Sicherheitsanforderungen",
-      "teaser": "Wie können Unternehmen NIS2-Anforderungen mit Zero-Trust-Strategien effektiv umsetzen? Und welche Rolle spielt ein Managed Security Operations Center (SOC) dabei? Die Antwort auf diese Fragen bekommen Sie in dieser Webcast-Aufzeichnung.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/zero-trust-und-nis2-so-meistern-unternehmen-neue-sicherheitsanforderungen-5048/?source=hbsadersatz"
+      "title": "Braucht eine IT-Abteilung wirklich 15 Tools?",
+      "teaser": "In vielen Betrieben gibt es einen Wildwuchs an Tools für die Verwaltung und Steuerung der Endgeräte. Mit einer einheitlichen Plattform ließen sich jedoch Komplexität, Kosten und Risiken senken. Mehr dazu in einem Webcast",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/braucht-ihre-it-wirklich-15-tools-wie-it-teams-unkompliziert-arbeiten-und-kosten-senken-koennen-5062/?source=hbsad-ersatz"
     },
     {
       "title": "Kommentar: Wie wollen wir in Zukunft noch Sicherheit lernen?",
@@ -618,21 +618,22 @@
       "url": "https://www.heise.de/en/news/Anthropic-Fable-5-usable-only-in-expensive-subscriptions-without-surcharge-11371542.html"
     },
     {
-      "title": "Gemeinsame NormdateiKI-Halluzinationen: Wie Bibliotheksdaten helfen könnten",
-      "teaser": "Eine riesige einheitliche Datenbank soll das Wissen aus Kultur- und Forschungseinrichtungen vernetzen. Doch wie funktioniert die „Gemeinsame Normdatei“?",
-      "url": "https://www.heise.de/hintergrund/KI-Halluzinationen-Wie-Bibliotheksdaten-helfen-koennten-11343215.html",
-      "image_title": "Computerterminals in einer modernen Bibliothek mit unscharfen Katalogschränken im Hintergrund"
-    },
-    {
       "title": "c’t-Webinar: Photovoltaik für Einsteiger",
       "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
       "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11355332.html",
       "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
     },
     {
-      "title": "Smartphone-Fotografie: So holen Sie mehr aus Ihrer Kamera heraus",
-      "teaser": "Das Smartphone ist heutzutage die Kamera, die jederzeit greifbar ist – und sie kann mehr als Schnappschüsse. Man muss nur nutzen, was bereits vorhanden ist.",
-      "url": "https://www.heise.de/ratgeber/Smartphone-Fotografie-So-holen-Sie-mehr-aus-Ihrer-Kamera-heraus-11335798.html"
+      "title": "Wie ein wilder StierRaging Bull im Heimkino-Test",
+      "teaser": "Wie gut ist die 4K-Restauration von Martin Scorseses Raging Bull tatsächlich?",
+      "url": "https://www.heise.de/tests/Raging-Bull-im-Heimkino-Test-De-Niro-wie-ein-wilder-Stier-11362500.html",
+      "image_title": "Raging Bull"
+    },
+    {
+      "title": "Gemeinsame NormdateiKI-Halluzinationen: Wie Bibliotheksdaten helfen könnten",
+      "teaser": "Eine riesige einheitliche Datenbank soll das Wissen aus Kultur- und Forschungseinrichtungen vernetzen. Doch wie funktioniert die „Gemeinsame Normdatei“?",
+      "url": "https://www.heise.de/hintergrund/KI-Halluzinationen-Wie-Bibliotheksdaten-helfen-koennten-11343215.html",
+      "image_title": "Computerterminals in einer modernen Bibliothek mit unscharfen Katalogschränken im Hintergrund"
     },
     {
       "title": "Stecken oder SchraubenGehäuse für 3,5-Zoll-Festplatten im Test",
@@ -735,22 +736,22 @@
       "image_title": "Mercedes-Stern"
     },
     {
-      "title": "Personalwechsel im Kabinett: Warken soll künftig das Kanzleramt führen",
-      "teaser": "Nina Warken soll als erste Frau das Kanzleramt führen. Auslöser der Rochade ist der Rücktritt von Jens Spahn. Doch auch ein weiterer Posten wird neu besetzt.",
-      "url": "https://www.telepolis.de/article/Personalwechsel-im-Kabinett-Warken-soll-kuenftig-das-Kanzleramt-fuehren-11376723.html",
-      "image_title": "Zwei Herren in Anzug"
+      "title": "Saarland: Warum sich diese Region immer wieder neu erfinden musste",
+      "teaser": "Von Volksabstimmungen über Vaubans Festungen bis zum Strukturwandel: Das Saarland war selten Randgebiet – sondern oft Europas Brennpunkt. (Teil 2 und Schluss.)",
+      "url": "https://www.telepolis.de/article/Saarland-Warum-sich-diese-Region-immer-wieder-neu-erfinden-musste-11377988.html",
+      "image_title": "Der Marktplatz in Saarlouis"
     },
     {
-      "title": "Wälle bei Dahschur: Rätsel um Pyramidenstrukturen erhält neue Deutung",
-      "teaser": "Zwei mehrere hundert Meter lange Strukturen westlich der Roten Pyramide galten lange als Transportwege für den Pyramidenbau. Eine neue Studie deutet sie anders.",
-      "url": "https://www.telepolis.de/article/Waelle-bei-Dahschur-Raetsel-um-Pyramidenstrukturen-erhaelt-neue-Deutung-11377525.html",
-      "image_title": "Eine Pyramide"
+      "title": "Kein Ideenmanagement: Wie Manager \"Made in Germany\" gefährden",
+      "teaser": "Deutsche Manager setzen auf Kostensenkung statt Innovation. Doch Experten warnen: Fehlende Technologiekompetenz bedroht den Standort. Wer hat bessere Ideen?",
+      "url": "https://www.telepolis.de/article/Kein-Ideenmanagement-Wie-Manager-Made-in-Germany-gefaehrden-11370958.html",
+      "image_title": "Lichtschalter und Manager mit ausgeschaltete Glühbirne als Kopf vor BRD-Flagge"
     },
     {
-      "title": "Zölle durch die Hintertür: Trump schreibt das Handelsrecht um",
-      "teaser": "Nachdem Trumps globale Importsteuern scheiterten, sind seit Freitag neue Zölle auf Waren aus 60 Ländern in Kraft – diesmal mit Zwangsarbeit als Begründung.",
-      "url": "https://www.telepolis.de/article/Zoelle-durch-die-Hintertuer-Trump-schreibt-das-Handelsrecht-um-11377662.html",
-      "image_title": "Trump im Oval Office"
+      "title": "Geschichte der USA: Wie dreizehn Kolonien ihre Eigenständigkeit durchsetzten",
+      "teaser": "Vor 250 Jahren trotzten dreizehn Kolonien dem mächtigsten Imperium der Welt. Doch der Weg zur Unabhängigkeit war blutig. Ein Blick in die Geschichte der USA.",
+      "url": "https://www.telepolis.de/article/Geschichte-der-USA-Wie-dreizehn-Kolonien-ihre-Eigenstaendigkeit-durchsetzten-11371118.html",
+      "image_title": "Mehrere Männer auf einem Boot"
     },
     {
       "title": "10 praktische Gadgets, mit denen ihr unterwegs besser arbeiten könnt",
