@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-25T10:59:01",
+  "timestamp": "2026-07-25T12:02:00",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,27 @@
   ],
   "articles": [
     {
+      "title": "Speicherfehler aufspüren: Kostenlose Testprogramme für RAM",
+      "teaser": "Defekte Speichermodule verursachen Abstürze und beschädigen Daten, sind aber schwer zu diagnostizieren. Wir geben Tipps, welche PC-Software RAM-Fehler aufdeckt.",
+      "url": "https://www.heise.de/ratgeber/Speicherfehler-aufspueren-Kostenlose-Testprogramme-fuer-RAM-11359860.html"
+    },
+    {
+      "title": "c’t-Webinar: Photovoltaik für Einsteiger",
+      "teaser": "Kommt Sonne, kommt Strom. Das Webinar liefert Informationen zu Grundlagen, Angebotsprüfung und Wirtschaftlichkeit einer Photovoltaikanlage.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Photovoltaik-fuer-Einsteiger-11355332.html",
+      "image_title": "Glühbirne mit einem kleinen Hausdach und Solarpanel als Symbol für Solarenergie, daneben das Logo 'c't webinar"
+    },
+    {
       "title": "iX-Workshop: Windows Server absichern und härten",
       "teaser": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11362214.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
-      "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
-      "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "c’t uplinkKinderschutz im Netz: Was die Politik plant, was Eltern tun können",
-      "teaser": "Im Podcast besprechen wir, was die Politik beim Thema plant und was Tiktok und Co. tun. Außerdem gibt‘s Tipps für Eltern und Jugendliche.",
-      "url": "https://www.heise.de/news/Kinderschutz-im-Netz-Was-die-Politik-plant-was-Eltern-tun-koennen-c-t-uplink-11375604.html"
-    },
-    {
-      "title": "Klimageräterechner: Kühlbedarf, Kosten und passende Geräte einschätzen",
-      "teaser": "Wie viel Kühlleistung braucht eine Wohnung? Unser Rechner schätzt Kosten, Strombedarf und passende Gerätetypen für eine belastbare erste Orientierung.",
-      "url": "https://www.heise.de/ratgeber/Klimageraeterechner-Kuehlbedarf-Kosten-und-passende-Geraete-einschaetzen-11369926.html",
-      "image_title": "Außengerät eines Klimageräts"
+      "title": "Gemeinsame NormdateiKI-Halluzinationen: Wie Bibliotheksdaten helfen könnten",
+      "teaser": "Eine riesige einheitliche Datenbank soll das Wissen aus Kultur- und Forschungseinrichtungen vernetzen. Doch wie funktioniert die „Gemeinsame Normdatei“?",
+      "url": "https://www.heise.de/hintergrund/KI-Halluzinationen-Wie-Bibliotheksdaten-helfen-koennten-11343215.html",
+      "image_title": "Computerterminals in einer modernen Bibliothek mit unscharfen Katalogschränken im Hintergrund"
     },
     {
       "title": "HintergrundKI-Halluzinationen: Wie Bibliotheksdaten helfen könnten",
@@ -56,6 +56,17 @@
       "title": "TestsAusprobiert: Workstation mit viermal Intel Arc Pro B70 mit 384 GByte Speicher",
       "url": "https://www.heise.de/tests/Ausprobiert-Workstation-mit-viermal-Intel-Arc-Pro-B70-mit-384-GByte-Speicher-11139876.html",
       "image_title": "Computer-Gehäuse mit vier Intel Arc Pro B70 Grafikkarten und Wasserkühlung."
+    },
+    {
+      "title": "GitLab 19.2, Kotlin feiert Geburtstag, Unity CLI",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GitLab, Kotlin, Unity, WebAuthn, Nuxt, Angular, distr, Apache Arrow, VS Code und GitHub.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-fuers-Wochenende-kleinere-News-der-Woche-11372973.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Kinderschutz im Netz: Was die Politik plant, was Eltern tun können | c’t uplink",
+      "teaser": "Im Podcast besprechen wir, wie die Politik junge Menschen online schützen will und was Tiktok und Co. tun. Außerdem gibt‘s Tipps für Eltern und Jugendliche.",
+      "url": "https://www.heise.de/news/Kinderschutz-im-Netz-Was-die-Politik-plant-was-Eltern-tun-koennen-c-t-uplink-11375604.html"
     },
     {
       "title": "Hauseigene IT-Dienstleister bleiben auf Wachstumskurs",
@@ -133,18 +144,6 @@
       "teaser": "Die neue, auf Racket basierende Sprache Rhombus erlaubt mächtige, flexible und saubere Makroprogrammierung bei einfach zu lesender Syntax.",
       "url": "https://www.heise.de/hintergrund/Lisp-Makro-Power-ohne-Klammerflut-Die-neue-Sprache-Rhombus-11368404.html",
       "image_title": "Stilisiert Rhomubs"
-    },
-    {
-      "title": "Neu in .NET 10.0 [33]: Verbesserungen bei ValidationContext",
-      "teaser": "ValidationContext funktioniert nun auch mit dem Native AOT-Compiler.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-33-Verbesserungen-bei-ValidationContext-11377007.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "AlertRussische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
-      "teaser": "Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra.",
-      "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
     },
     {
       "title": "NewsKI-Modelle von OpenAI steckten hinter IT-Angriff auf Hugging Face",
