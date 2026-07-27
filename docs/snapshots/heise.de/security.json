@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-27T09:21:52",
+  "timestamp": "2026-07-27T12:47:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "Bislang unbekannte GruppeCyberbande behauptet Datenklau bei Microsoft",
-      "teaser": "Eine bislang unbekannte Cyberbande behauptet, vertrauliche Informationen bei Microsoft gestohlen zu haben. Vieles bleibt unklar.",
-      "url": "https://www.heise.de/news/Junge-Cyberbande-behauptet-Datenklau-bei-Microsoft-11378430.html",
-      "image_title": "Microsoft-Logo vor mehreren Glasfassaden"
+      "title": "Russische AngreiferMicrosoft-365-Zugangsklau durch Hotel-Router",
+      "teaser": "IT-Forscher haben unterwanderte Hotel-WLAN-Router entdeckt, durch die russische Angreifer Microsoft-365-Zugangsdaten abgreifen.",
+      "url": "https://www.heise.de/news/Russische-Angreifer-Microsoft-365-Zugangsklau-durch-Hotel-Router-11378714.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
     },
     {
       "title": "Alles neu in Desinfec’t 2026PC-Schädlinge komfortabel aufspüren und beseitigen",
@@ -52,22 +52,45 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "SourTrade: Malvertising-Malware im Browser kompiliert",
+      "teaser": "IT-Forscher haben eine mittels Malvertising verteilte Malware entdeckt. Die wird erst im Browser zusammengebaut.",
+      "url": "https://www.heise.de/news/SourTrade-Malvertising-Malware-im-Browser-kompiliert-11378977.html",
+      "image_title": "Ub der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
+    },
+    {
+      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
+      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11363683.html",
+      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "CySecMed: Noch bis 7. August Blind Bird Ticket sichern",
+      "teaser": "Bis zum 02.08. Vorträge einreichen und bis 07.08. Blind Bird Ticket sichern. 13.–14.10.2026 in München-Unterhaching.",
+      "url": "https://www.heise.de/news/CySecMed-Noch-bis-7-August-Blind-Bird-Ticket-sichern-11376997.html"
+    },
+    {
+      "title": "Supply-Chain-Security: GitHub Dependabot verzögert Package-Updates um drei Tage",
+      "teaser": "Aus Sicherheitsgründen wartet das GitHub-Tool nun drei Tage bis zum Erstellen von Pull Requests, wenn Versionsupdates für Dependencies erscheinen.",
+      "url": "https://www.heise.de/news/Supply-Chain-Security-GitHub-Dependabot-verzoegert-Package-Updates-um-drei-Tage-11378632.html",
+      "image_title": "Sanduhr auf einem aufgeklappten Laptop"
+    },
+    {
       "title": "AlertAngreifer können MongoDB abstürzen lassen und Daten manipulieren",
       "teaser": "Die MongoDB-Entwickler haben in aktuellen Versionen zahlreiche Sicherheitslücken geschlossen. Bislang gibt es keine Hinweise auf laufende Attacken.",
       "url": "https://www.heise.de/news/Angreifer-koennen-MongoDB-abstuerzen-lassen-und-Daten-manipulieren-11378494.html",
       "image_title": "Ein symbolisches Schloss simybolisiert Sicherheit."
     },
     {
-      "title": "Russische Angreifer: Microsoft-365-Zugangsklau durch Hotel-Router",
-      "teaser": "IT-Forscher haben unterwanderte Hotel-WLAN-Router entdeckt, durch die russische Angreifer Microsoft-365-Zugangsdaten abgreifen.",
-      "url": "https://www.heise.de/news/Russische-Angreifer-Microsoft-365-Zugangsklau-durch-Hotel-Router-11378714.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
       "title": "UpdateLücke in macOS: Code von vertrauten Apps lässt sich unbemerkt austauschen",
       "teaser": "Zwei Entwickler demonstrieren, wie Angreifer unter bestimmten Umständen Code in Apps ersetzen können, den macOS anschließend ohne Warnung ausführt.",
       "url": "https://www.heise.de/news/Luecke-in-macOS-Code-von-vertrauten-Apps-laesst-sich-unbemerkt-austauschen-11378296.html",
       "image_title": "Screenshots von drei Apps, die nach dem beschriebenen Verfahren manipuliert wurden."
+    },
+    {
+      "title": "Junge Cyberbande behauptet Datenklau bei Microsoft",
+      "teaser": "Eine bislang unbekannte Cyberbande behauptet, vertrauliche Informationen bei Microsoft gestohlen zu haben. Vieles bleibt unklar.",
+      "url": "https://www.heise.de/news/Junge-Cyberbande-behauptet-Datenklau-bei-Microsoft-11378430.html",
+      "image_title": "Microsoft-Logo vor mehreren Glasfassaden"
     },
     {
       "title": "iX-Workshop: Linux-Server absichern – effektiv und umfassend",
@@ -124,28 +147,14 @@
       "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
-      "title": "IETF: Warnung vor Nebenwirkungen eines Social-Media-Verbots für Jugendliche",
-      "teaser": "Auf dem IETF-Treffen in Wien warnten Entwickler vor den Risiken von Altersverifikationssystemen. Diese könnten Sicherheit und Vertraulichkeit im Netz gefährden.",
-      "url": "https://www.heise.de/news/IETF-Warnung-vor-Nebenwirkungen-eines-Social-Media-Verbots-fuer-Jugendliche-11376975.html",
-      "image_title": "Blick von unten in einen Kreis junger Menschen, die Smartphones in ihren Händen halten"
+      "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
+      "teaser": "Dieser Workshop zeigt, warum man IT-Infrastrukturen auch physisch gegen Eindringlinge schützen muss.",
+      "url": "https://heise-conferences.de/workshop/physische-it-sicherheit-angriffswege-erkennen-zugange-absichern-iPBBXzkELP29Hc?wt_mc=intern.conf.ct.ws_physische_it-sicherheit.security_buehne_2.teaser.teaser"
     },
     {
-      "title": "AlertAdobe-Chrome-Erweiterung ermöglichte Datenklau",
-      "teaser": "In der Chrome-Erweiterung Adobe Acrobat mit 312 Millionen Nutzern klaffte eine Schwachstelle. Dadurch konnten Angreifer Daten stehlen.",
-      "url": "https://www.heise.de/news/Adobe-Chrome-Erweiterung-ermoeglichte-Datenklau-11376957.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "AlertRussische Angreifer missbrauchen Zero-Click-Lücke in Zimbra",
-      "teaser": "Russische Angreifer attackieren seit Juli 2025 westliche Regierungen und Einrichtungen durch eine Zero-Click-Lücke in Zimbra.",
-      "url": "https://www.heise.de/news/Russische-Angreifer-missbrauchen-Zero-Click-Luecke-in-Zimbra-11376873.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
-    },
-    {
-      "title": "Auslegungssache 164: Angriff auf die Informationsfreiheit",
-      "teaser": "Die Regierung will das Informationsfreiheitsgesetz \"modernisieren\". Im c't-Podcast warnt ein prominenter Gast vor der faktischen Abschaffung eines Grundrechts.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-164-Angriff-auf-die-Informationsfreiheit-11376735.html",
-      "image_title": "Arne Semsrott (links), Joerg Heirich (rechts), Holger Bleich (unten)"
+      "title": "Workshop | 17. – 18.08.2026Windows Server absichern und härten",
+      "teaser": "Der Workshop vermittelt Systemadministratoren, wie sie Windows Server absichern, Schutzmaßnahmen umsetzen und Systeme nachhaltig härten.",
+      "url": "https://heise-conferences.de/workshop/windows-server-absichern-und-harten-xVwB5VvrPFRYez?wt_mc=intern.conf.ix.ws_windowshaerten.developer_buehne_2.teaser.teaser"
     },
     {
       "title": "Konferenz | Dortmund 16.09.26IT-Sicherheitstag in Dortmund",
@@ -153,19 +162,9 @@
       "url": "https://it-sicherheitstage.de/dortmund/?wt_mc=intern.conf.conf.konf_itsi_do.security_buehne_2.teaser.teaser"
     },
     {
-      "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
-      "teaser": "Dieser Workshop zeigt, warum man IT-Infrastrukturen auch physisch gegen Eindringlinge schützen muss.",
-      "url": "https://heise-conferences.de/workshop/physische-it-sicherheit-angriffswege-erkennen-zugange-absichern-iPBBXzkELP29Hc?wt_mc=intern.conf.ct.ws_physische_it-sicherheit.security_buehne_2.teaser.teaser"
-    },
-    {
       "title": "Classroom | 06.10. – 03.11.2026M365 Security – Sicherer Einsatz der Microsoft-Cloud im Unternehmen",
       "teaser": "M365 und Entra ID vor Cyberangriffen schützen: Sichere Konfiguration, Defender, Zero Trust und kostenlose Tools – praxisnah in 5 Live-Sessions.",
       "url": "https://heise-academy.de/kurs/classroom-m365-security-sicherer-einsatz-der-microsoft-clo-cf5317?LPID=38823&wt_mc=intern.academy.academy.cr_m365-security.security_buehne_2.teaser.teaser&utm_campaign=298392774-ha_2026_01-12_classrooms&utm_source=heise&utm_medium=buehne_ho&utm_content=buehne_ho-security_2&utm_term=cr_m365-security"
-    },
-    {
-      "title": "Workshop | 17. – 18.08.2026Windows Server absichern und härten",
-      "teaser": "Der Workshop vermittelt Systemadministratoren, wie sie Windows Server absichern, Schutzmaßnahmen umsetzen und Systeme nachhaltig härten.",
-      "url": "https://heise-conferences.de/workshop/windows-server-absichern-und-harten-xVwB5VvrPFRYez?wt_mc=intern.conf.ix.ws_windowshaerten.developer_buehne_2.teaser.teaser"
     },
     {
       "title": "Cyberkrimineller löscht die nationale Grundbuchdatenbank",
