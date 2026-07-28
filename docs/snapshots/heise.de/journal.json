@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-28T07:29:15",
+  "timestamp": "2026-07-28T10:19:21",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -20,26 +20,28 @@
   ],
   "articles": [
     {
+      "title": "Claude-DatenleckTausende Chats in Suchmaschinen gelandet",
+      "teaser": "Eine Suche mit bestimmten Parametern gab auf Google tausende KI-Chats mit Claude preis. Google zeigt sie inzwischen nicht mehr an.",
+      "url": "https://www.heise.de/news/Claude-Datenleck-Tausende-Chats-in-Suchmaschinen-gelandet-11379831.html",
+      "image_title": "Anthropic Claude Logo auf Handy"
+    },
+    {
+      "title": "Programmierfehler führt zu falschen Abiturschnitten in Baden-Württemberg",
+      "teaser": "Wegen eines Softwarefehlers bei der Zeugnisverwaltung müssen rund 100 Abiturienten in Baden-Württemberg ihre Noten korrigieren lassen.",
+      "url": "https://www.heise.de/news/Programmierfehler-fuehrt-zu-falschen-Abiturschnitten-in-Baden-Wuerttemberg-11379968.html",
+      "image_title": "Genervte Frau mit einem Brief in der Hand."
+    },
+    {
+      "title": "Interdisziplinäre SoftwareentwicklungSoftware Testing: Warum andere Disziplinen bessere Software bauen",
+      "teaser": "Blinde Flecken in der Softwareentwicklung durch homogene Teams: Dagegen hilft Interdisziplinarität, wie Prof. Claudia Nass Bauer im Gespräch erläutert.",
+      "url": "https://www.heise.de/blog/Software-Testing-Warum-andere-Disziplinen-bessere-Software-bauen-11379718.html",
+      "image_title": "Software Testing: Warum andere Disziplinen bessere Software bauen"
+    },
+    {
       "title": "Dienstag: Amazon Leo mit D2D-Service, Ausweiszwang für Soziale Netzwerke",
       "teaser": "Direktvernetzung mit Amazon Leo + Altersverifikation in Österreich + Allianz gegen China + Nvidia versammelt Tech-Riesen + BWM baut Elektrofahrzeuge in Mexiko",
       "url": "https://www.heise.de/news/Dienstag-Amazon-Leo-mit-D2D-Service-Ausweiszwang-fuer-Soziale-Netzwerke-11379652.html",
       "image_title": "Künstlerische Darstellung eines Teils der Erdkugel mit vielen Satelliten; im Hintergrund ein Sonnenuntergang, dazu Text: DIENSTAG Amazon Leo, Altersverifikation, 6G-Sicherheitspakt, KI-Allianz & E-Autos"
-    },
-    {
-      "title": "Podcast: Berliner Social-Start-up Wedium startet TikTok-Alternative",
-      "teaser": "Ein deutsches Start-up wagt sich an einen Markt, den globale Plattformen dominieren. Der Zugang zu Wedium setzt eine Verifikation per Personalausweis voraus.",
-      "url": "https://www.heise.de/news/Podcast-Berliner-Social-Start-up-Wedium-startet-TikTok-Alternative-11379217.html",
-      "image_title": "Titelbild Haken dran"
-    },
-    {
-      "title": "Steffen Bilger: Neuer Verkehrsminister, alte Probleme",
-      "teaser": "Steffen Bilger von der CDU soll auf Patrick Schnieder folgen und neuer Verkehrsminister werden. Die Aufgaben, die ihm bevorstehen, sind umfangreich und bekannt.",
-      "url": "https://www.heise.de/news/Neuer-Verkehrsminister-aber-dieselben-Probleme-11379313.html"
-    },
-    {
-      "title": "KI-Update kompakt: KI-Kill-Switch, Kimi 3, Smart Glasses, Flux 3",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Kill-Switch-Kimi-3-Smart-Glasses-Flux-3-11378878.html"
     },
     {
       "title": "RatgeberLangzeit-Einsatz: Wie c’t-Leser wertvolle Hardware mit Alt-PCs steuern",
@@ -53,6 +55,17 @@
     {
       "title": "HintergrundBGH-Urteil: Vereinsmitglieder haben Anspruch auf E-Mail-Listen",
       "url": "https://www.heise.de/hintergrund/BGH-Urteil-Vereinsmitglieder-haben-Anspruch-auf-E-Mail-Listen-11350158.html"
+    },
+    {
+      "title": "Podcast: Berliner Social-Start-up Wedium startet TikTok-Alternative",
+      "teaser": "Ein deutsches Start-up wagt sich an einen Markt, den globale Plattformen dominieren. Der Zugang zu Wedium setzt eine Verifikation per Personalausweis voraus.",
+      "url": "https://www.heise.de/news/Podcast-Berliner-Social-Start-up-Wedium-startet-TikTok-Alternative-11379217.html",
+      "image_title": "Titelbild Haken dran"
+    },
+    {
+      "title": "KI-Update kompakt: KI-Kill-Switch, Kimi 3, Smart Glasses, Flux 3",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Kill-Switch-Kimi-3-Smart-Glasses-Flux-3-11378878.html"
     },
     {
       "title": "software-architektur.tv: Kollaborative Modellierung, EventStorming im Praxistest",
@@ -130,18 +143,6 @@
       "teaser": "Die Sparkassen bieten in ihrer Sparkassen-App mit S-Neo ein kostenloses Wertpapier-Depot an. Es macht Neobrokern Konkurrenz.",
       "url": "https://www.heise.de/news/S-Neo-Sparkassen-kontern-Neobrokern-11372284.html",
       "image_title": "Foto von einer Sparkassenfiliale in Berlin"
-    },
-    {
-      "title": "Software Testing: Autismus im Software-Testing-Bereich",
-      "teaser": "Wie Personen mit Autismusdiagnose ihre Fähigkeiten gut im Software-Testing einsetzen können, erklären Helmut Pichler und Markus Kalbhenn.",
-      "url": "https://www.heise.de/blog/Software-Testing-Autismus-im-Software-Testing-Bereich-11371595.html",
-      "image_title": "Software Testing: Autismus im Software-Testing"
-    },
-    {
-      "title": "Dienstag: Gericht stoppt Fusion, Cyberkrimineller legt Immobilienmarkt lahm",
-      "teaser": "Warner-Übernahme auf Eis + Cyberangriff auf Katasteramt + Telekom bleibt am Ball + Tankrabatt wird nicht erneuert + Leitlinien zur Kennzeichnung von KI-Inhalten",
-      "url": "https://www.heise.de/news/Dienstag-Gericht-stoppt-Fusion-Cyberkrimineller-legt-Immobilienmarkt-lahm-11371461.html",
-      "image_title": "Warner Bros.-Logo an Gebäude, dazu Text: DIENSTAG Paramount-Warner-Fusion, Cyberangriff, WM-Übertragungsrechte, Tankrabatt & KI-Inhalte"
     },
     {
       "title": "NewsOffener Brief: Microsoft, Nvidia & Co. fordern offenes KI-Ökosystem",
