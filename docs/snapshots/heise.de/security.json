@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T12:53:09",
+  "timestamp": "2026-07-29T15:02:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertServer-Fernwartung24.650 Server für 20 Jahre alte Lücke anfällig",
+      "teaser": "Eine seit 2004 im IPMI-Protokoll zur Server-Fernwartung vorhandene und seit 2013 bekannte Sicherheitslücke betrifft tausende Geräte.",
+      "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
+      "image_title": "Person an einer Tastatur"
+    },
+    {
       "title": "Möglicher KontrollverlsutÜber 1000 Experten fordern KI-Bremsmechanismus",
       "teaser": "Ein eigenständig von KI durchgeführter Cyberangriff schreckte die Tech-Branche auf. Jetzt folgt der Ruf nach einem internationalen Bremsmechanismus.",
       "url": "https://www.heise.de/news/Ueber-1000-Experten-fordern-KI-Bremsmechanismus-11381185.html",
       "image_title": "Roboter erstellen KI-Inhalte in einer dytopischen Welt."
     },
     {
-      "title": "Claude-DatenleckTausende Chats in Suchmaschinen gelandet",
-      "teaser": "Eine Suche mit bestimmten Parametern gab auf Google tausende KI-Chats mit Claude preis. Google zeigt sie inzwischen nicht mehr an.",
-      "url": "https://www.heise.de/news/Claude-Datenleck-Tausende-Chats-in-Suchmaschinen-gelandet-11379831.html",
-      "image_title": "Anthropic Claude Logo auf Handy"
-    },
-    {
-      "title": "AlertSicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
+      "title": "AlertTeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
+      "url": "https://www.heise.de/news/TeamViewer-Zwei-Faktor-Authentifizierung-unter-macOS-umgehbar-11382884.html",
+      "image_title": "Eine symbolische Updateerinnerung."
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -53,16 +53,16 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertTeamViewer: Zwei-Faktor-Authentifizierung unter macOS umgehbar",
+      "teaser": "Unter bestimmten Bedingungen können Angreifer TeamViewer-Remotesessions unter macOS erstellen.",
+      "url": "https://www.heise.de/news/TeamViewer-Zwei-Faktor-Authentifizierung-unter-macOS-umgehbar-11382884.html",
+      "image_title": "Eine symbolische Updateerinnerung."
+    },
+    {
       "title": "AlertSicherheitsupdates: Angreifer können Apache Traffic Server crashen lassen",
       "teaser": "In aktuellen Versionen haben die Entwickler von Apache Traffic Server mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Apache-Traffic-Server-crashen-lassen-11382689.html",
       "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "AlertServer-Fernwartung: 24.650 Server für 20 Jahre alte Lücke anfällig",
-      "teaser": "Eine seit 2004 im IPMI-Protokoll zur Server-Fernwartung vorhandene und seit 2013 bekannte Sicherheitslücke betrifft tausende Geräte.",
-      "url": "https://www.heise.de/news/Server-Fernwartung-24-650-Server-fuer-20-Jahre-alte-Luecke-anfaellig-11382232.html",
-      "image_title": "Person an einer Tastatur"
     },
     {
       "title": "Kritische Schwachstelle in JetBrains TeamCity entdeckt",
@@ -119,6 +119,12 @@
       "image_title": "Apple-Logo mit einem Schloss"
     },
     {
+      "title": "Claude-Datenleck: Tausende Chats in Suchmaschinen gelandet",
+      "teaser": "Eine Suche mit bestimmten Parametern gab auf Google tausende KI-Chats mit Claude preis. Google zeigt sie inzwischen nicht mehr an.",
+      "url": "https://www.heise.de/news/Claude-Datenleck-Tausende-Chats-in-Suchmaschinen-gelandet-11379831.html",
+      "image_title": "Anthropic Claude Logo auf Handy"
+    },
+    {
       "title": "UpdateNeobank Revolut: Angeblich 75 Millionen Datensätze im Untergrund angeboten",
       "teaser": "Ein Krimineller bietet im digitalen Untergrund eine Datenbank mit 75 Millionen Einträgen an, die von der Neobank Revolut stammen sollen.",
       "url": "https://www.heise.de/news/Neobank-Revolut-Angeblich-75-Millionen-Datensaetze-im-Untergrund-angeboten-11379742.html",
@@ -141,12 +147,6 @@
       "teaser": "IT-Forscher haben eine mittels Malvertising verteilte Malware entdeckt. Die wird erst im Browser zusammengebaut.",
       "url": "https://www.heise.de/news/SourTrade-Malvertising-Malware-im-Browser-kompiliert-11378977.html",
       "image_title": "Ub der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
-    },
-    {
-      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
-      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
-      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11363683.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
       "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
