@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T07:24:54",
+  "timestamp": "2026-07-30T10:08:20",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,26 +20,28 @@
   ],
   "articles": [
     {
+      "title": "Quantencomputer: IBM demonstriert dreifachen Quantenvorteil",
+      "teaser": "Gemeinsam mit Partnern präsentiert IBM drei Szenarien, in denen Quantenrechner herkömmlichen überlegen sind. Erstmals seien die Ergebnisse dabei verifizierbar.",
+      "url": "https://www.heise.de/hintergrund/Quantencomputer-IBM-demonstriert-dreifachen-Quantenvorteil-11380076.html",
+      "image_title": "Ein Quantencomputer von IBM"
+    },
+    {
+      "title": "Tipps, Tests, Reports: Mac & i 4/2026 jetzt vorab als Heft und PDF erhältlich",
+      "teaser": "Ab Freitag gibt’s die neue Mac & i am Kiosk, ab heute bekommen Sie das Heft versandkostenfrei im heise shop.",
+      "url": "https://www.heise.de/news/Tipps-Tests-Reports-Mac-i-4-2026-jetzt-vorab-als-Heft-und-PDF-erhaeltlich-11379111.html",
+      "image_title": "Mac & i Heft 4/2026"
+    },
+    {
+      "title": "Wartende Schiffe in Straße von Hormus können biologische \"Super Spreader\" werden",
+      "teaser": "Schiffe, die vor der Straße von Hormus seit Wochen festliegen, nehmen invasive Arten auf. Bei Weiterfahrt könnten sie die Organismen weltweit verteilen.",
+      "url": "https://www.heise.de/news/Blockierte-Strasse-von-Hormus-koennte-Ausbreitung-invasiver-Arten-beguenstigen-11384663.html",
+      "image_title": "Zahlreiche Containerschiffe im Gegenlicht der untergehenden Sonne"
+    },
+    {
       "title": "Drei Forschungs-Hubs: Deutschland will Spitze in der Kernfusion werden",
       "teaser": "In Deutschland wollen verschiedene Akteure jeweils das erste Fusionskraftwerk bauen. Um die Forschung zu fördern, richtet die Regierung drei Forschungshubs ein.",
       "url": "https://www.heise.de/news/Drei-neue-Forschungs-Hubs-sollen-die-Kernfusion-in-Deutschland-voranbringen-11383736.html",
       "image_title": "Blick in das Plasmagefäß von Wendelstein 7-X"
-    },
-    {
-      "title": "KI-Update kompakt: KI-Allianz, Claude Cowork, MAI-Cyber, Expenditure Horizons",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Allianz-Claude-Cowork-MAI-Cyber-Expenditure-Horizons-11381575.html"
-    },
-    {
-      "title": "Gestein von der Mondrückseite liefert Erkenntnisse über Asteroideneinschläge",
-      "teaser": "Die Erforschung des Gesteins von der Mondrückseite liefert neue Erkenntnisse über das Bombardement von Asteroiden auf die Erde und unseren Trabanten.",
-      "url": "https://www.heise.de/news/Gestein-von-der-Mondrueckseite-liefert-Erkenntnisse-ueber-Asteroideneinschlaege-11382701.html",
-      "image_title": "Künstlerische Darstellung eines verglühenden Meteors über der Erde"
-    },
-    {
-      "title": "KI-MüdigkeitDrei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
-      "teaser": "Eigentlich sollte sie die Produktivität steigern – inzwischen sind Mitarbeiter frustriert von KI.",
-      "url": "https://www.heise.de/news/KI-Muedigkeit-Fast-drei-Viertel-wuenschen-sich-die-Arbeitswelt-vor-ChatGPT-zurueck-11381313.html"
     },
     {
       "title": "HintergrundKI-Erkennung: Detektor Pangram im Test",
@@ -55,6 +57,22 @@
       "title": "HintergrundGeheimschriften der Geschichte: Fleißner-Schablone und der IRA-Code",
       "url": "https://www.heise.de/hintergrund/Geheimschriften-der-Geschichte-Fleissner-Schablone-und-der-IRA-Code-11346251.html",
       "image_title": "Eine Frau zeigt auf eine Tafel mit Buchstaben und Wörtern."
+    },
+    {
+      "title": "KI-Update kompakt: KI-Allianz, Claude Cowork, MAI-Cyber, Expenditure Horizons",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Allianz-Claude-Cowork-MAI-Cyber-Expenditure-Horizons-11381575.html"
+    },
+    {
+      "title": "Gestein von der Mondrückseite liefert Erkenntnisse über Asteroideneinschläge",
+      "teaser": "Die Erforschung des Gesteins von der Mondrückseite liefert neue Erkenntnisse über das Bombardement von Asteroiden auf die Erde und unseren Trabanten.",
+      "url": "https://www.heise.de/news/Gestein-von-der-Mondrueckseite-liefert-Erkenntnisse-ueber-Asteroideneinschlaege-11382701.html",
+      "image_title": "Künstlerische Darstellung eines verglühenden Meteors über der Erde"
+    },
+    {
+      "title": "KI-Müdigkeit: Fast drei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
+      "teaser": "Eigentlich sollte sie die Produktivität steigern – inzwischen sind Mitarbeiter frustriert von KI. Viele würden die Technologie am liebsten abschaffen.",
+      "url": "https://www.heise.de/news/KI-Muedigkeit-Fast-drei-Viertel-wuenschen-sich-die-Arbeitswelt-vor-ChatGPT-zurueck-11381313.html"
     },
     {
       "title": "Rätsel um Stern Beteigeuze nach langer Suche wohl gelöst",
@@ -126,21 +144,6 @@
       "teaser": "Der QuadBoat-Roboter hat vier Beine, mit denen er übers Wasser laufen kann. Er soll bei Rettungsmissionen Ertrinkende bergen können.",
       "url": "https://www.heise.de/news/Vierbeiniger-Roboter-laeuft-ueber-Wasser-und-soll-Ertrinkende-retten-11378652.html",
       "image_title": "Vierbeiniger Quad-Boat-Roboter auf dem Wasser."
-    },
-    {
-      "title": "Drei Raumfahrer von der ISS zurückgekehrt",
-      "teaser": "Sie verbrachten acht Monate im Weltall. Nun sind zwei russische Kosmonauten und ein US-Astronaut wieder zurück auf der Erde.",
-      "url": "https://www.heise.de/news/Drei-Raumfahrer-von-der-ISS-zurueckgekehrt-11378336.html"
-    },
-    {
-      "title": "SpaceX: Starship-Testflug gelingt im zweiten Startversuch",
-      "teaser": "SpaceX kann mit seiner Starship-Rakete den nächsten Testflug abhaken. Der erste Startversuch dafür war Mitte Juli gescheitert.",
-      "url": "https://www.heise.de/news/SpaceX-Starship-Testflug-gelingt-im-zweiten-Startversuch-11378034.html"
-    },
-    {
-      "title": "Jetzt in der Make 4/26: C64 im Internet",
-      "teaser": "Wir zeigen euch, wie man ein C64-Diskettenlaufwerk günstig durch einen ESP32 ersetzt und den Brotkasten sogar per WLAN ins Internet bringt.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-26-C64-im-Internet-11373713.html"
     },
     {
       "title": "UpdateNewsDisney+ entfernt 4K und HDR – auch im teuersten Abo",
