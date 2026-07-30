@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-30T01:13:12",
+  "timestamp": "2026-07-30T04:43:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
   ],
   "articles": [
     {
+      "title": "OpenAIs KI-Agent knackte nicht nur Hugging Face – was genau passierte",
+      "teaser": "OpenAI-Modelle attackierten vergangene Woche scheinbar weitere Software. Die Firma erklärt nun ausführlicher, was genau passiert ist.",
+      "url": "https://www.heise.de/news/OpenAIs-KI-Agent-knackte-nicht-nur-Hugging-Face-was-genau-passierte-11382132.html",
+      "image_title": "Schriftzug AI in einem stilisierten Schädel"
+    },
+    {
       "title": "Effiziente KühlungWann sich die Wärmepumpe als Klimaanlage lohnt",
       "teaser": "Eine Wärmepumpe kann meistens auch kühlen. Wir erklären, worauf es bei der Heizungsplanung ankommt, wenn Heizen und Kühlen implementiert werden sollen.",
       "url": "https://www.heise.de/ratgeber/Kuehlen-mit-der-Waermepumpe-Warum-die-naheliegende-Idee-selten-zum-Einsatz-kommt-11378924.html"
@@ -35,12 +41,6 @@
       "teaser": "Stackable stellt die Data Platform 26.7 auf Qualität und Supply-Chain-Sicherheit um. Neben SLSA-Provenance drohen bei der Registry-Logik Breaking Changes.",
       "url": "https://www.heise.de/news/Stackable-Data-Platform-26-7-Sicherheit-SBOMs-und-flexible-Registries-11380921.html",
       "image_title": "Stackable-Data-Platform-SBOM-SLSA-Supply-Chain-Registry"
-    },
-    {
-      "title": "Shell statt Webmail: Himalaya steuert Gmail und Microsoft",
-      "teaser": "Gmail REST API, Microsoft Graph und JSON Schema: Himalaya 2.0 richtet die Mail-CLI stärker auf Automatisierung aus.",
-      "url": "https://www.heise.de/news/Gmail-und-Microsoft-Mails-automatisieren-direkt-aus-der-Shell-11382819.html",
-      "image_title": "Berg mit einem dunklen Rechteck und einem orangen Fähnchen auf dem Gipfel."
     },
     {
       "title": "RatgeberKühlen mit der Wärmepumpe: Warum die naheliegende Idee selten zum Einsatz kommt",
@@ -59,6 +59,12 @@
       "title": "Stromspeicher Zendure Solarflow 800 Plus im Test: günstig & sehr effizient",
       "teaser": "Zendure Solarflow 800 Plus überzeugt mit hohem Wirkungsgrad & flexibler Erweiterung. Der ideale Speicher für kleine Balkonkraftwerke.",
       "url": "https://www.heise.de/bestenlisten/testbericht/stromspeicher-zendure-solarflow-800-plus-im-test-guenstig-und-sehr-effizient/vt19bgv?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Shell statt Webmail: Himalaya steuert Gmail und Microsoft",
+      "teaser": "Gmail REST API, Microsoft Graph und JSON Schema: Himalaya 2.0 richtet die Mail-CLI stärker auf Automatisierung aus.",
+      "url": "https://www.heise.de/news/Gmail-und-Microsoft-Mails-automatisieren-direkt-aus-der-Shell-11382819.html",
+      "image_title": "Berg mit einem dunklen Rechteck und einem orangen Fähnchen auf dem Gipfel."
     },
     {
       "title": "Amazon fährt die meisten hauseigenen Nova-KI-Modelle zurück",
@@ -139,12 +145,6 @@
       "image_title": "Ein Mann hält eine Liste, ein Roboter mit einem Tablett mit Daten und einem Schild."
     },
     {
-      "title": "AlertAdmin-Sicherheitslücke bedroht Apache Airflow mit FAB-Authentifizierung",
-      "teaser": "Stimmen die Voraussetzungen, können Angreifer Apache Airflow attackieren und als Admin Systemeinstellungen verbiegen.",
-      "url": "https://www.heise.de/news/Admin-Sicherheitsluecke-bedroht-Apache-Airflow-mit-FAB-Authentifizierung-11381355.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
       "title": "UpdateNewsDisney+ entfernt 4K und HDR – auch im teuersten Abo",
       "url": "https://www.heise.de/news/Disney-4K-und-HDR-in-Deutschland-komplett-verschwunden-11379684.html",
       "image_title": "Disney+-Logo auf Fernseher, auf den eine Fernsteuerung gerichtet ist"
@@ -160,14 +160,9 @@
       "image_title": "Schwarze RAM-Riegel in einem Mainboard"
     },
     {
-      "title": "HintergrundGepardenforellen schützen: Wie ein fiktives Gesetz den Bundestag durchläuft",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Mit-der-Gepardenforelle-durch-die-Gesetzesmaschinerie-11377521.html",
-      "image_title": "Blick von oben auf den Reichstag und die umliegenden Gebäude."
-    },
-    {
-      "title": "RatgeberElektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt",
-      "url": "https://www.heise.de/ratgeber/Elektroauto-vs-Verbrenner-Wer-wirklich-schneller-von-Freiburg-nach-Ruegen-faehrt-11347632.html",
-      "image_title": "Mercedes CLA"
+      "title": "NewsBörsen-Beben bei KI-Profiteuren: Speicherhersteller verlieren massiv an Wert",
+      "url": "https://www.heise.de/news/Boersengerangel-Speicherhersteller-im-Abwaertssog-Apple-vor-Nvidia-11380480.html",
+      "image_title": "Rote Handelskurve, die nach unten zeigt"
     },
     {
       "title": "RatgeberSkoda Elroq: Das kostet Ihre Wunschvariante tatsächlich",
@@ -178,6 +173,11 @@
       "title": "TestsAusprobiert: Workstation mit viermal Intel Arc Pro B70 mit 384 GByte Speicher",
       "url": "https://www.heise.de/tests/Ausprobiert-Workstation-mit-viermal-Intel-Arc-Pro-B70-mit-384-GByte-Speicher-11139876.html",
       "image_title": "Computer-Gehäuse mit vier Intel Arc Pro B70 Grafikkarten und Wasserkühlung."
+    },
+    {
+      "title": "RatgeberElektroauto vs. Verbrenner: Wer wirklich schneller von Freiburg nach Rügen fährt",
+      "url": "https://www.heise.de/ratgeber/Elektroauto-vs-Verbrenner-Wer-wirklich-schneller-von-Freiburg-nach-Ruegen-faehrt-11347632.html",
+      "image_title": "Mercedes CLA"
     },
     {
       "title": "TestsSpeicher für Balkonkraftwerke: Vier Modelle im Vergleich",
