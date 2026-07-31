@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-31T05:21:02",
+  "timestamp": "2026-07-31T08:27:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,76 @@
   ],
   "articles": [
     {
-      "title": "Auch KI des OpenAI-Rivalen Anthropic griff echte Firmen an",
+      "title": "GitHub vereinfacht große Codeänderungen: Stacked Pull Requests als Preview",
+      "teaser": "Die öffentliche Preview-Phase für Stacked Pull Requests hat begonnen. Das Feature bricht größere Codeänderungen auf kleinere, leichter handhabbare PRs herunter.",
+      "url": "https://www.heise.de/news/GitHub-vereinfacht-grosse-Codeaenderungen-Stacked-Pull-Requests-als-Preview-11387965.html",
+      "image_title": "Stacked Pull Requests"
+    },
+    {
+      "title": "AlertSolarWinds Web Help Desk: Update bessert umgehbare Authentifizierung aus",
+      "teaser": "SolarWinds schließt Sicherheitslücken in Web Help Desk. Eine gilt als kritisch und ermöglicht Angreifern, die Authentifizierung zu umgehen.",
+      "url": "https://www.heise.de/news/SolarWinds-Web-Help-Desk-Update-bessert-umgehbare-Authentifizierung-aus-11388191.html",
+      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur"
+    },
+    {
+      "title": "Business-Monitor mit Doppeldisplay und 120 Hertz: Philips 24B2D5300 im Test",
+      "teaser": "Philips packt zwei 24-Zoll-Displays Rücken an Rücken in ein Gehäuse. Damit taugt der 24B2D5300 fürs Kundengespräch ebenso wie als geteilter Monitor.",
+      "url": "https://www.heise.de/tests/Business-Monitor-mit-Doppeldisplay-und-120-Hertz-Philips-24B2D5300-im-Test-11354982.html"
+    },
+    {
+      "title": "scriptc von Vercel bringt TypeScript nativ zum Laufen",
+      "teaser": "TypeScript ist zusammen mit Node.js eine der meistgenutzten Webtechniken. scriptc vereint beides in einem nativen Stack für Server und CLI-Tools.",
+      "url": "https://www.heise.de/news/scriptc-von-Vercel-bringt-TypeScript-nativ-zum-Laufen-11385947.html",
+      "image_title": "Symbolbild: scriptc wandelt TypeScript in natives JavaScript um."
+    },
+    {
+      "title": "TestsBusiness-Monitor mit Doppeldisplay und 120 Hertz: Philips 24B2D5300 im Test",
+      "url": "https://www.heise.de/tests/Business-Monitor-mit-Doppeldisplay-und-120-Hertz-Philips-24B2D5300-im-Test-11354982.html"
+    },
+    {
+      "title": "HintergrundStreit um Post-Quantum-Schlüsselverfahren: Mit oder ohne Sicherheitsgurt?",
+      "url": "https://www.heise.de/hintergrund/Streit-um-Post-Quantum-Schluesselverfahren-Mit-oder-ohne-Sicherheitsgurt-11376023.html"
+    },
+    {
+      "title": "HintergrundEuropäische Cloud 2026: Anspruch und Wirklichkeit digitaler Souveränität",
+      "url": "https://www.heise.de/hintergrund/Europaeische-Cloud-2026-Anspruch-und-Wirklichkeit-digitaler-Souveraenitaet-11344697.html",
+      "image_title": "Fahrradfahrer auf einer Bahn mit Bewegungsunschärfe"
+    },
+    {
+      "title": "Neu in .NET 10.0 [34]: DateOnly in der Klasse ISOWeek",
+      "teaser": "In der Klasse für das ISO-Wochendatum kann man nun auch DateOnly verwenden.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-34-DateOnly-in-der-Klasse-ISOWeek-11387947.html",
+      "image_title": "Verkehrsschild mit Aufschrift .NET"
+    },
+    {
+      "title": "Pro & Contra: Gehen Apples Foto-Tools mit KI zu weit?",
+      "teaser": "Ein Foto zeigt, was wirklich passiert. Das von Apple hochgehaltene Mantra torpediert die KI-Bildbearbeitungs-Tools in iOS 27. Ist eine Grenze überschritten?",
+      "url": "https://www.heise.de/meinung/Pro-Contra-Gehen-Apples-Foto-Tools-mit-KI-zu-weit-11371068.html",
+      "image_title": "Redakteure Becker und Trepesch"
+    },
+    {
+      "title": "AlertRussische Akteure greifen über Outlook-Web-Access-Lücke an",
+      "teaser": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
+      "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
+      "image_title": "Briefsymbol mit umgebenenen Männchen"
+    },
+    {
+      "title": "iX-Workshop: KI-Methoden und -Werkzeuge für die IT-Sicherheit",
+      "teaser": "Erfahren Sie, wie künstliche Intelligenz in der IT-Sicherheit eingesetzt werden kann: Überblick, Methoden, Werkzeuge und praktische Anwendung.",
+      "url": "https://www.heise.de/news/iX-Workshop-KI-Methoden-und-Werkzeuge-fuer-die-IT-Sicherheit-11366066.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "Entwicklungsumgebung Warp: Vom Terminal zur Agentenzentrale",
+      "teaser": "Warp ist eine agentenbasierte Entwicklungsumgebung mit KI-Agenten, Terminal und Cloud-Orchestrierung. Befehle erfolgen in natürlicher Sprache.",
+      "url": "https://www.heise.de/ratgeber/Entwicklungsumgebung-Warp-Vom-Terminal-zur-Agentenzentrale-11382220.html",
+      "image_title": ","
+    },
+    {
+      "title": "KI-Attacke: Auch Anthropic-Modelle griffen echte Unternehmen an",
       "teaser": "Nach einem Vorfall bei OpenAI räumt nun auch Anthropic ein, dass eigene KI-Modelle bei Sicherheitstests ungeplant echte Firmensysteme angegriffen haben.",
       "url": "https://www.heise.de/news/Auch-KI-des-OpenAI-Rivalen-Anthropic-griff-echte-Firmen-an-11387741.html",
       "image_title": "Digital,Brain,With,Circuit,And,Ai,Cocept.,3d,Rendering.Gehirn mit Schaltkreisen"
-    },
-    {
-      "title": "E-Auto-Ladeinfrastruktur: Schnelllade-Anteil steigt auf über 25 Prozent",
-      "teaser": "Die Bundesnetzagentur zählt über 209.000 öffentliche Ladepunkte in Deutschland. Das Ziel von einer Million bis 2030 erfordert aber ein höheres Ausbautempo.",
-      "url": "https://www.heise.de/news/E-Auto-Ladeinfrastruktur-Schnelllade-Anteil-steigt-auf-ueber-25-Prozent-11386058.html",
-      "image_title": "Renault Twingo an einer Schnellladesäule"
     },
     {
       "title": "ESP32-Projekt: Wie man mit Meatloaf den C64 ins Internet bringt",
@@ -42,21 +102,6 @@
       "teaser": "Cybergrooming zielt oft auf junge Menschen ab. Durch Bildung und Prävention können sich Jugendliche jedoch effektiv vor gefährlichen Kontakten schützen.",
       "url": "https://www.heise.de/news/Gefahren-beim-Online-Spiel-Wie-sich-Jugendliche-schuetzen-11387731.html",
       "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
-    },
-    {
-      "title": "RatgeberESP32-Projekt: Wie man mit Meatloaf den C64 ins Internet bringt",
-      "url": "https://www.heise.de/ratgeber/ESP32-Projekt-Wie-man-mit-Meatloaf-den-C64-ins-Internet-bringt-11370778.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberDatenbankanwendungen einfach zusammenklicken mit Grist",
-      "url": "https://www.heise.de/ratgeber/Datenbankanwendungen-einfach-zusammenklicken-mit-Grist-11317503.html",
-      "image_title": "Drei stilisierte Tabellen nebeneinander, mit grünen Akzenten."
-    },
-    {
-      "title": "TestsMultitool für Text: BBEdit 16 im Test",
-      "url": "https://www.heise.de/tests/Multitool-fuer-Text-BBEdit-16-im-Test-11378102.html",
-      "image_title": "BBEdit 16"
     },
     {
       "title": "Kommentar: Was sollen KI-Verbote in Open-Source-Projekten?",
@@ -98,54 +143,6 @@
       "teaser": "Die IETF beschäftigt sich verstärkt mit KI. Auf dem 126. Treffen in Wien wurden erste Weichen gestellt, um Protokolle für KI-Agenten zu definieren.",
       "url": "https://www.heise.de/news/IETF-126-Was-KI-fuer-die-Standardisierung-bedeutet-11387207.html",
       "image_title": "Businessman,Control,Smart,Ai,Technology,Big,Data,System,Cyberspace,,Developer"
-    },
-    {
-      "title": "Pollin Electronic stellt Insolvenzantrag",
-      "teaser": "Der traditionsreiche Elektronikversandhändler Pollin Electronic hat einen Insolvenzantrag gestellt. Der Geschäftsbetrieb läuft vorerst weiter.",
-      "url": "https://www.heise.de/news/Pollin-Electronic-kaempft-um-Fortbestand-11387418.html",
-      "image_title": "Das Logo von Pollin Electronic vor weißem Hintergrund."
-    },
-    {
-      "title": "KI-„Gigafactorys“: EU-Kommission startet Ausschreibung",
-      "teaser": "Mit spezialisierten KI-Großrechenzentren soll der erwartete EU-Bedarf an Rechenkapazität in den kommenden Jahren gedeckt werden.",
-      "url": "https://www.heise.de/news/AI-Gigafactorys-EU-Kommission-startet-Ausschreibung-11387125.html",
-      "image_title": "Server"
-    },
-    {
-      "title": "Clipboard-Manager Pastebot 3 mit deutlich mehr Power",
-      "teaser": "Das klassische Werkzeug für die Zwischenablage ist wieder da: Pastebot 3 kommt mit Filtern, smarten Regeln, Konvertierungsoptionen und vielem mehr.",
-      "url": "https://www.heise.de/news/Clipboard-Manager-Pastebot-3-mit-deutlich-mehr-Power-11384059.html",
-      "image_title": "Pastebot 3"
-    },
-    {
-      "title": "AlertIBM WebSphere Application Server: Sicherheitsproblem in Admin-Konsole gelöst",
-      "teaser": "Mehrere Sicherheitslücken bedrohen IBM WebSphere Application Server und WebSphere Application Server Liberty.",
-      "url": "https://www.heise.de/news/IBM-WebSphere-Application-Server-Sicherheitsproblem-in-Admin-Konsole-geloest-11386356.html",
-      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur"
-    },
-    {
-      "title": "AlertVMware ESX, vCenter, Workstation und Fusion: Updates schließen kritische Lücken",
-      "teaser": "VMware-Updates für ESX, vCenter, Workstation und Fusion schließen Sicherheitslücken, die etwa die Umgehung der Authentifizierung erlauben.",
-      "url": "https://www.heise.de/news/VMware-ESX-vCenter-Workstation-und-Fusion-Updates-schliessen-kritische-Luecken-11386401.html",
-      "image_title": "Update-Text mit VMware-Logo vor Farbverlauf"
-    },
-    {
-      "title": "Betrüger kapern Autohändler-Accounts: Hoher Schaden, zwei Festnahmen in Rumänien",
-      "teaser": "Zwei mutmaßliche Täter sollen Konten von Fahrzeughändlern auf Verkaufsplattformen gekapert haben. Der Schaden beträgt über 660.000 Euro.",
-      "url": "https://www.heise.de/news/Betrug-im-Online-Autohandel-Zwei-Festnahmen-100-000-Euro-in-Bar-beschlagnahmt-11386192.html",
-      "image_title": "Beschlagnahmtes Geld"
-    },
-    {
-      "title": "iX-Workshop: RAG-Systeme effizient evaluieren und optimieren",
-      "teaser": "Lernen Sie, RAG-Systeme professionell zu analysieren und gezielt zu optimieren – mit praxiserprobten Techniken und echten Anwendungsfällen.",
-      "url": "https://www.heise.de/news/iX-Workshop-RAG-Systeme-effizient-evaluieren-und-optimieren-11366046.html",
-      "image_title": "iX-Workshop IT-Governance planen und implementieren"
-    },
-    {
-      "title": "AlertSicherheitslücken: GitLab-Entwickler raten zu zügigem Update",
-      "teaser": "Die Softwareentwicklungsumgebung GitLab ist verwundbar. Reparierte Ausgaben lösen mehrere Sicherheitsprobleme.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Entwickler-raten-zu-zuegigem-Update-11384515.html",
-      "image_title": "Ein Schloss symbolsiert Sicherheit."
     },
     {
       "title": "UpdateNewsDisney+ entfernt 4K und HDR – auch im teuersten Abo",
