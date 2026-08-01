@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T16:43:52",
+  "timestamp": "2026-08-01T17:48:33",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Smart-Home-Spezialist Shelly vor möglicher Übernahme",
+      "url": "https://www.heise.de/news/Smart-Home-Spezialist-Shelly-vor-moeglicher-Uebernahme-11394506.html"
+    },
     {
       "title": "Datenschutz kontra Meta Smart Glasses: Droht ein Verbot in Deutschland?",
       "url": "https://www.heise.de/news/Datenschutz-kontra-Meta-Smart-Glasses-Droht-ein-Verbot-in-Deutschland-11394520.html"
@@ -56,10 +60,6 @@
     {
       "title": "Glasfaserausbau: Gericht verfügt Rückbau von Telekom-Anschluss",
       "url": "https://www.heise.de/news/Glasfaserausbau-Gericht-verfuegt-Rueckbau-von-Telekom-Anschluss-11394316.html"
-    },
-    {
-      "title": "Schlüsselklau bei Ruby on Rails – Kritische Lücke mit präparierten Bildern",
-      "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html"
     },
     {
       "title": "GerichtsurteilGlasfaser: Telekom muss Anschluss zurückbauen",
@@ -180,21 +180,27 @@
       "url": "https://www.heise.de/news/Desinfec-t-2026-Das-Virenscan-Live-Linux-von-c-t-c-t-uplink-11387513.html"
     },
     {
+      "title": "Smart-Home-Spezialist Shelly vor möglicher Übernahme",
+      "teaser": "Der für preisgünstige Elektrokomponenten bekannte Hersteller Shelly verhandelt mit einem französischen Konzern über seine mögliche Übernahme.",
+      "url": "https://www.heise.de/news/Smart-Home-Spezialist-Shelly-vor-moeglicher-Uebernahme-11394506.html",
+      "image_title": "Module vom Typ Shelly Pro 4PM im Sicherungskasten eines Wohnhauses."
+    },
+    {
       "title": "Datenschutz kontra Meta Smart Glasses: Droht ein Verbot in Deutschland?",
       "teaser": "Hamburgs Datenschutzbeauftragter Thomas Fuchs warnt vor heimlichen Kameras am Kopf. Nun prüfen Behörden sogar ein Verkaufsverbot für Metas Datenbrillen.",
       "url": "https://www.heise.de/news/Datenschutz-kontra-Meta-Smart-Glasses-Droht-ein-Verbot-in-Deutschland-11394520.html",
       "image_title": "Ray-Ban Meta Smart Glasses im Store-Display mit Demo-Tablet, Produktinfos und Werbeslogan „Just ask your AI glasses“."
     },
     {
+      "title": "Wenn die KI ein Handwerker-Angebot erstellt",
+      "teaser": "Kaum ist das Haus des Kunden verlassen, schon ist das Angebot fertig. Ein spezielles Programm macht’s möglich: Einfach die wichtigsten Eckdaten in den Chat eingeben – den Rest übernimmt die KI.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7359528205&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Neuer E-Government-Pakt: Bund und Mittelstand setzen auf offene Standards",
       "teaser": "Eine Allianz von Digitalministerium und Databund will mit dem Deutschland-Stack und offenen Schnittstellen den Knoten bei der Verwaltungsdigitalisierung lösen.",
       "url": "https://www.heise.de/news/Neuer-E-Government-Pakt-Bund-und-Mittelstand-setzen-auf-offene-Standards-11394510.html",
       "image_title": "Digital,Government,And,Online,Public,Services,Technology.,Financial,Management,Checking"
-    },
-    {
-      "title": "Vom Urlaubsfoto zur druckbaren 3D-Figur",
-      "teaser": "Die 3D-Modellierung war lange Spezialisten vorbehalten. Dialogbasierte KI-Agenten könnten das ändern. Künftig kann jeder mithilfe von Text-Prompts oder Bildern druckbare 3D-Modelle erstellen.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7365122533&iu=%2F6514%2FClicktracking%2Ftextlink"
     },
     {
       "title": "Mini-PC Minisforum AI X1 470 im Test: Mit Ryzen AI 9 flüsterleise unter Last",
@@ -224,12 +230,6 @@
       "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Binutils, OpenJDK, IntelliJ IDEA, ESLint, SystemDS, glibc, kubara, KotlinLLM und PSF.",
       "url": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LLM-SimCity-Vibes-und-gestopfte-Luecken-bei-glibc-11381748.html",
       "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "AlertSchlüsselklau bei Ruby on Rails – Kritische Lücke mit präparierten Bildern",
-      "teaser": "Über kompromittierte Bilder können Angreifer Umgebungsvariablen des Servers einschließlich der Secrets auslesen und sich damit weitere Türen ins System öffnen.",
-      "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html",
-      "image_title": "Zug, der auf ein Loch in den Schienen zufährt"
     },
     {
       "title": "Urlaub ohne Stress:So plant KI Ihre Touren in Minuten – ein Prompt-Leitfaden",
@@ -310,6 +310,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-besten-poolroboter-mit-akku-im-test-aiper-vor-beatbot-und-mammotion/c9wkf56?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "AlertSchlüsselklau bei Ruby on Rails – Kritische Lücke mit präparierten Bildern",
+      "teaser": "Über kompromittierte Bilder können Angreifer Umgebungsvariablen des Servers einschließlich der Secrets auslesen und sich damit weitere Türen ins System öffnen.",
+      "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html",
+      "image_title": "Zug, der auf ein Loch in den Schienen zufährt"
+    },
+    {
       "title": "Mähroboter Roborock RockMow im Test: Starke Hardware, schwache Software",
       "teaser": "Statt den Boden zu putzen will Saugbothersteller Roborock mit Mährobotern erstmals den Rasen kürzen. Doch der Sprung in den Garten birgt viele Tücken.",
       "url": "https://www.heise.de/tests/Maehroboter-Roborock-RockMow-im-Test-Starke-Hardware-schwache-Software-11365036.html"
@@ -377,15 +383,15 @@
       "image_title": "ix-Tagesworkshop IT-Recht für Administrator:innen"
     },
     {
+      "title": "Vom Urlaubsfoto zur druckbaren 3D-Figur",
+      "teaser": "Die 3D-Modellierung war lange Spezialisten vorbehalten. Dialogbasierte KI-Agenten könnten das ändern. Künftig kann jeder mithilfe von Text-Prompts oder Bildern druckbare 3D-Modelle erstellen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7365122533&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "Java auf Trab: Ein Toolkit für rechenintensive Apps",
       "teaser": "Die JVM wandelt Bytecode zur Laufzeit in Maschinencode für die ausführende CPU um und lässt die GPU außen vor. Das Heterogeneous Accelerator Toolkit ändert das.",
       "url": "https://www.heise.de/ratgeber/Java-auf-Trab-Ein-Toolkit-fuer-rechenintensive-Apps-11381848.html",
       "image_title": ", Vanessa / KI / iX"
-    },
-    {
-      "title": "Infrastruktur in der KI-Ära: Netz rückt in die erste Reihe",
-      "teaser": "Welche Infrastruktur brauchen Unternehmen, damit KI im Betrieb sicher Wirkung entfaltet? Das Netzwerk rückt hierbei aus dem Hintergrund in die erste Reihe der unternehmerischen Wertschöpfung.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7335847810&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Australiens Social-Media-Ban: Ineffektiv durch unwillige Plattformbetreiber?",
@@ -437,12 +443,6 @@
       "title": "Digitalisierung: Lässt sich der Staat von Beratern ausnehmen?",
       "teaser": "Der Staat schließt für IT-Projekte große Rahmenverträge. Aus Sicht der Behörden ist das effizient, Kritiker warnen vor Steuergeldverschwendung. Eine Analyse.",
       "url": "https://www.heise.de/hintergrund/Digitalisierung-Laesst-sich-der-Staat-von-Beratern-ausnehmen-11356765.html"
-    },
-    {
-      "title": "UpdateKI-Musik: Suno unterliegt im Rechtsstreit gegen GEMA",
-      "teaser": "Im Rechtsstreit zwischen dem Rechteverwerter und dem Audio-KI-Anbieter Suno hat das Landgericht München I der GEMA-Klage stattgegeben.",
-      "url": "https://www.heise.de/news/KI-Musik-GEMA-gewinnt-Rechtsstreit-gegen-Suno-11388868.html",
-      "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
     },
     {
       "title": "Pollin Electronic stellt Insolvenzantrag",
@@ -505,6 +505,11 @@
       "image_title": "Xbox-Konsole"
     },
     {
+      "title": "UpdateKI-Musik: Suno unterliegt im Rechtsstreit gegen GEMA",
+      "url": "https://www.heise.de/news/KI-Musik-GEMA-gewinnt-Rechtsstreit-gegen-Suno-11388868.html",
+      "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
+    },
+    {
       "title": "Samsung macht über 99 Prozent seines Gewinns mit Speicher",
       "url": "https://www.heise.de/news/Samsung-macht-ueber-99-Prozent-seines-Gewinns-mit-Speicher-11385993.html",
       "image_title": "Samsung-SSD in einem Mainboard"
@@ -513,11 +518,6 @@
       "title": "Verbrenner-Aus: Bayern und Ungarn fordern Kurskorrektur",
       "url": "https://www.heise.de/news/Soeder-und-Magyar-fordern-Lockerung-beim-Verbrennerverbot-11386069.html",
       "image_title": "BMW 123 Motorraum"
-    },
-    {
-      "title": "Vorsicht, Kunde: Überzogene Laufzeit beim Glasfaservertrag",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Ueberzogene-Laufzeit-beim-Glasfaservertrag-11387649.html",
-      "image_title": "Glasfaser"
     },
     {
       "title": "EU verhängt Sanktionen gegen Scam-Center in Südostasien",
@@ -539,14 +539,14 @@
       "image_title": "Beschlagnahmtes Geld"
     },
     {
+      "title": "Vorsicht, Kunde: Überzogene Laufzeit beim Glasfaservertrag",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Ueberzogene-Laufzeit-beim-Glasfaservertrag-11387649.html",
+      "image_title": "Glasfaser"
+    },
+    {
       "title": "Freitag: Apple und Amazon mit guten Ergebnissen, aber Börse reagiert verschieden",
       "url": "https://www.heise.de/news/Freitag-Apple-und-Amazon-mit-guten-Ergebnissen-aber-Boerse-reagiert-verschieden-11387723.html",
       "image_title": "Smartphone mit Aktien-App in Händen, vor Monitor mit Kursdiagramm; Freitag: Apple-Wachstum, AWS-Höhenflug, KI-Begrenzungen, Offline-Kartenzahlungen & Verbraucherschutz-Podcast"
-    },
-    {
-      "title": "Claude-Datenleck: Tausende Chats in Suchmaschinen gelandet",
-      "url": "https://www.heise.de/news/Claude-Datenleck-Tausende-Chats-in-Suchmaschinen-gelandet-11379831.html",
-      "image_title": "Anthropic Claude Logo auf Handy"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -615,14 +615,15 @@
       "url": "https://www.heise.de/en/news/Disney-4K-and-HDR-completely-disappeared-in-Germany-11379707.html"
     },
     {
-      "title": "Potensic Atom 3 im Test: Lohnt sich die neue 4K-Mini-Drohne?",
-      "teaser": "Potensics neue Atom 3 überzeugt mit starker Kamera und flotten Videos. Doch schon zum Marktstart hat sie starke Konkurrenz.",
-      "url": "https://www.heise.de/tests/Potensic-Atom-3-im-Test-Lohnt-sich-die-neue-4K-Mini-Drohne-11368737.html"
+      "title": "Vorsicht, Kunde: Überzogene Laufzeit beim Glasfaservertrag",
+      "teaser": "Neue Tarife klingen oft attraktiv, können aber unerwartete Folgen haben. Wer Angebote sorgfältig prüft und seine Rechte kennt, vermeidet teure Überraschungen.",
+      "url": "https://www.heise.de/news/Vorsicht-Kunde-Ueberzogene-Laufzeit-beim-Glasfaservertrag-11387649.html",
+      "image_title": "Glasfaser"
     },
     {
-      "title": "c't 3003Keine Steam Machine nötig: SteamOS auf Standard-PC",
-      "teaser": "SteamOS unterstützt offiziell AMD-Grafikkarten. Wir haben es mit einer RX 9060 XT (16 GByte) und einem Ryzen AI Max+ 395 ausprobiert.",
-      "url": "https://www.heise.de/news/Man-braucht-gar-keine-Steam-Machine-SteamOS-auf-Standard-PC-getestet-11392867.html"
+      "title": "c’t uplinkDesinfec’t 2026: Das Virenscan-Live-Linux von c’t",
+      "teaser": "In der 2026er-Ausgabe unseres Virenscansystems gibts viel Neues, und was das ist, darüber sprechen wir in dieser Folge des c’t uplink.",
+      "url": "https://www.heise.de/news/Desinfec-t-2026-Das-Virenscan-Live-Linux-von-c-t-c-t-uplink-11387513.html"
     },
     {
       "title": "Wie man den Passwortsafe Vaultwarden selbst hostet",
@@ -732,22 +733,22 @@
       "image_title": "Robotaxi von Zoox"
     },
     {
-      "title": "KI im deutschen Wald: Wie das Projekt KI4Forst Schäden per Satellit erkennt",
-      "teaser": "Copernicus-Satelliten überwachen deutsche Wälder. Das Projekt KI4Forst zeigt Erfolge, während das BMUV auch die hohen Klima-Risiken von KI betont.",
-      "url": "https://www.telepolis.de/article/KI-im-deutschen-Wald-Wie-das-Projekt-KI4Forst-Schaeden-per-Satellit-erkennt-11378782.html",
-      "image_title": "Eine Roboterhand hält einen Eichensetzling, der in einem kleinen Erdhaufen steckt."
+      "title": "Letzter Osprey ausgeliefert: US-Marine setzt auf Betrieb bis 2055",
+      "teaser": "Mit 359 Maschinen ist die MV-22B-Beschaffung abgeschlossen – doch die Osprey-Flotte soll bis 2055 fliegen. Ob sie das schafft, ist offen. Ein Überblick.",
+      "url": "https://www.telepolis.de/article/Letzter-Osprey-ausgeliefert-Marine-setzt-auf-Betrieb-bis-2055-11382152.html",
+      "image_title": "Ein Bell-Boeing V-22 (\"Osprey\") in der Luft"
     },
     {
-      "title": "Zwischen Brüssel und Moskau: Armenien ringt um seine wirtschaftliche Zukunft",
-      "teaser": "Armenien gerät zwischen Russland und die EU: Während Moskau Importbeschränkungen erhebt, setzt Premier Paschinjan auf Annäherung an Europa. Eine Analyse.",
-      "url": "https://www.telepolis.de/article/Zwischen-Bruessel-und-Moskau-Armenien-ringt-um-seine-wirtschaftliche-Zukunft-11386235.html",
-      "image_title": "Eine Stadt vor Bergen bei Sonnenaufgang"
+      "title": "Ceuta im Ausnahmezustand: Zehntausende stürmen Spaniens Vorposten",
+      "teaser": "Binnen 24 Stunden sollen bis zu 49.000 Menschen die Grenze zur spanischen Exklave Ceuta überwunden haben – ausgelöst durch ein Gerichtsurteil. Ein Überblick.",
+      "url": "https://www.telepolis.de/article/Ceuta-im-Ausnahmezustand-Zehntausende-stuermen-Spaniens-Vorposten-11388948.html",
+      "image_title": "Stacheldrahtzaun, dahinter das Meer"
     },
     {
-      "title": "Wie Europa seine LNG-Abhängigkeit eindämmen kann",
-      "teaser": "Bis 2030 könnte die EU mit Erneuerbaren doppelt so viel Gas einsparen, wie sie derzeit aus Katar importiert. Doch ausgerechnet der Strompreis bremst.",
-      "url": "https://www.telepolis.de/article/Wie-Europa-seine-LNG-Abhaengigkeit-eindaemmen-kann-11384927.html",
-      "image_title": "Drei Gastanks mit durch Windkraft, Photovoltaik und Wärmepumpe abgesenktem Pegel"
+      "title": "Stallbrände in Deutschland: Warum tausende Tiere im System qualvoll sterben",
+      "teaser": "Brandschutz fehlt oft: Komplexe Technik und wirtschaftlicher Druck führen in deutschen Mastbetrieben regelmäßig zu tödlichen Katastrophen.",
+      "url": "https://www.telepolis.de/article/Stallbraende-in-Deutschland-Warum-tausende-Tiere-im-System-qualvoll-sterben-11378556.html",
+      "image_title": "Brennende Ställe mit Schwein, Kuh und Pute"
     },
     {
       "title": "Entspannt zu Hause arbeiten: 8 nützliche Smarthome-Automationen fürs Homeoffice",
