@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-01T07:57:54",
+  "timestamp": "2026-08-01T09:53:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,46 @@
   ],
   "articles": [
     {
+      "title": "AlertSchlüsselklau bei Ruby on Rails – Kritische Lücke mit präparierten Bildern",
+      "teaser": "Über kompromittierte Bilder können Angreifer Umgebungsvariablen des Servers einschließlich der Secrets auslesen und sich damit weitere Türen ins System öffnen.",
+      "url": "https://www.heise.de/news/Schluesselklau-bei-Ruby-on-Rails-Kritische-Luecke-mit-praeparierten-Bildern-11394386.html",
+      "image_title": "Zug, der auf ein Loch in den Schienen zufährt"
+    },
+    {
+      "title": "Mähroboter Roborock RockMow im Test: Starke Hardware, schwache Software",
+      "teaser": "Statt den Boden zu putzen will Saugbothersteller Roborock mit Mährobotern erstmals den Rasen kürzen. Doch der Sprung in den Garten birgt viele Tücken.",
+      "url": "https://www.heise.de/tests/Maehroboter-Roborock-RockMow-im-Test-Starke-Hardware-schwache-Software-11365036.html"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
+      "teaser": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11367838.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
+    },
+    {
       "title": "Zeiss verknüpft DORA-Metriken und FinOps über Backstage und Argo CD",
       "teaser": "Cloud-Architekt Alexander Troppmann zeigt, wie bei Zeiss durchgängige Metadaten Deployment-Performance und Kostentransparenz verbinden.",
       "url": "https://www.heise.de/hintergrund/Zeiss-verknuepft-DORA-Metriken-und-FinOps-ueber-Backstage-und-Argo-CD-11367974.html",
       "image_title": "Metadatenmanagement für DORA-Metriken und FinOps mit GitOps"
+    },
+    {
+      "title": "RatgeberWie man den Passwortsafe Vaultwarden selbst hostet",
+      "url": "https://www.heise.de/ratgeber/Wie-man-den-Passwortsafe-Vaultwarden-selbst-hostet-11250955.html",
+      "image_title": "Ein Gerät in Steinoptik mit der Aufschrift \"Château de Passwort\" auf einem Bücherregal."
+    },
+    {
+      "title": "HintergrundErstellen und Verwenden von Annotations in Java, Teil 1",
+      "url": "https://www.heise.de/hintergrund/Erstellen-und-Verwenden-von-Annotations-in-Java-Teil-1-11383334.html",
+      "image_title": "Ein \"@\"-Symbol aus Papier in mehreren Schichten."
+    },
+    {
+      "title": "TestsBusiness-Monitor mit Doppeldisplay und 120 Hertz: Philips 24B2D5300 im Test",
+      "url": "https://www.heise.de/tests/Business-Monitor-mit-Doppeldisplay-und-120-Hertz-Philips-24B2D5300-im-Test-11354982.html"
+    },
+    {
+      "title": "Midea Portasplit ab 2027 verboten! Jetzt noch kaufen?",
+      "teaser": "Portasplit steht vor Kältemittel-Verbot: Noch ist offen, wann der Verkauf endet. Wir erklären, was das für Käufer bedeutet.",
+      "url": "https://www.heise.de/bestenlisten/ratgeber/midea-portasplit-ab-2027-verboten-jetzt-noch-kaufen/v5yn6eg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Desinfec’t 2026: Das Virenscan-Live-Linux von c’t | c’t uplink",
@@ -39,20 +75,6 @@
       "title": "Man braucht gar keine Steam Machine: SteamOS auf Standard-PC getestet",
       "teaser": "Seit Version 3.8 unterstützt SteamOS offiziell PCs mit AMD-Grafikkarten. Wir haben es mit einer RX 9060 XT (16 GByte) und einem Ryzen AI Max+ 395 ausprobiert.",
       "url": "https://www.heise.de/news/Man-braucht-gar-keine-Steam-Machine-SteamOS-auf-Standard-PC-getestet-11392867.html"
-    },
-    {
-      "title": "RatgeberWie man den Passwortsafe Vaultwarden selbst hostet",
-      "url": "https://www.heise.de/ratgeber/Wie-man-den-Passwortsafe-Vaultwarden-selbst-hostet-11250955.html",
-      "image_title": "Ein Gerät in Steinoptik mit der Aufschrift \"Château de Passwort\" auf einem Bücherregal."
-    },
-    {
-      "title": "HintergrundErstellen und Verwenden von Annotations in Java, Teil 1",
-      "url": "https://www.heise.de/hintergrund/Erstellen-und-Verwenden-von-Annotations-in-Java-Teil-1-11383334.html",
-      "image_title": "Ein \"@\"-Symbol aus Papier in mehreren Schichten."
-    },
-    {
-      "title": "TestsBusiness-Monitor mit Doppeldisplay und 120 Hertz: Philips 24B2D5300 im Test",
-      "url": "https://www.heise.de/tests/Business-Monitor-mit-Doppeldisplay-und-120-Hertz-Philips-24B2D5300-im-Test-11354982.html"
     },
     {
       "title": "„Katastrophal teuer“: KI ließ bei Amazon Projekt-Kosten aus dem Ruder laufen",
@@ -115,29 +137,6 @@
       "teaser": "TypeScript ist zusammen mit Node.js eine der meistgenutzten Webtechniken. scriptc vereint beides in einem nativen Stack für Server und CLI-Tools.",
       "url": "https://www.heise.de/news/scriptc-von-Vercel-bringt-TypeScript-nativ-zum-Laufen-11385947.html",
       "image_title": "Symbolbild: scriptc wandelt TypeScript in natives JavaScript um."
-    },
-    {
-      "title": "Neu in .NET 10.0 [34]: DateOnly in der Klasse ISOWeek",
-      "teaser": "In der Klasse für das ISO-Wochendatum kann man nun auch DateOnly verwenden.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-34-DateOnly-in-der-Klasse-ISOWeek-11387947.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "Streit um Post-Quantum-Schlüsselverfahren: Mit oder ohne Sicherheitsgurt?",
-      "teaser": "Google-Kryptografin Sophie Schmieg erklärt im Interview die IETF-Debatte um reines ML-KEM und warum sie meint, dass das Verfahren spezifiziert werden sollte.",
-      "url": "https://www.heise.de/hintergrund/Streit-um-Post-Quantum-Schluesselverfahren-Mit-oder-ohne-Sicherheitsgurt-11376023.html"
-    },
-    {
-      "title": "Pro & Contra: Gehen Apples Foto-Tools mit KI zu weit?",
-      "teaser": "Ein Foto zeigt, was wirklich passiert. Das von Apple hochgehaltene Mantra torpediert die KI-Bildbearbeitungs-Tools in iOS 27. Ist eine Grenze überschritten?",
-      "url": "https://www.heise.de/meinung/Pro-Contra-Gehen-Apples-Foto-Tools-mit-KI-zu-weit-11371068.html",
-      "image_title": "Redakteure Becker und Trepesch"
-    },
-    {
-      "title": "AlertRussische Akteure greifen über Outlook-Web-Access-Lücke an",
-      "teaser": "Eine Sicherheitslücke in OWA ermöglicht durch Anzeigen von Mails das Ausführen von JavaScript-Code. Russische Akteure nutzen das aus.",
-      "url": "https://www.heise.de/news/Russische-Akteure-greifen-ueber-Outlook-Web-Access-Luecke-an-11387751.html",
-      "image_title": "Briefsymbol mit umgebenenen Männchen"
     },
     {
       "title": "NewsKI-Müdigkeit: Fast drei Viertel wünschen sich die Arbeitswelt vor ChatGPT zurück",
