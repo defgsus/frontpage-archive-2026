@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T15:13:27",
+  "timestamp": "2026-08-04T17:26:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "„Uh-oh“ ist zurück: Fanprojekt will ICQ-Messenger wiederbeleben",
+      "teaser": "Der Kult-Messenger ICQ kehrt als inoffizielles Fanprojekt zurück, inklusive UINs, Kontaktliste und „Uh-oh“-Sound. Über die Betreiber ist wenig bekannt.",
+      "url": "https://www.heise.de/news/Uh-oh-ist-zurueck-Fanprojekt-will-ICQ-Messenger-wiederbeleben-11398962.html",
+      "image_title": "Verschiedene UI-Ansichten von ICQ Reborn."
+    },
+    {
+      "title": "High Bandwidth Flash für extrem schnellen KI-Speicher ist fertig",
+      "teaser": "Sandisk und SK Hynix haben HBF abschließend spezifiziert. 512-GByte-Stapel schaffen die Transferrate von HBM.",
+      "url": "https://www.heise.de/news/High-Bandwidth-Flash-fuer-extrem-schnellen-KI-Speicher-ist-fertig-11398882.html",
+      "image_title": "Renderbild eines gestapelten Chips"
+    },
+    {
       "title": "Scaleup-Europe-Fonds: 5 Milliarden Euro für Europas High-Tech-Hoffnungen",
       "teaser": "Die EU-Kommission und Geldgeber legen einen Milliardenfonds auf, damit vielversprechende Tech-Startups nicht länger zur Kapitalaufstockung ins Ausland müssen.",
       "url": "https://www.heise.de/news/Scaleup-Europe-Fonds-5-Milliarden-Euro-fuer-Europas-High-Tech-Hoffnungen-11398894.html",
@@ -30,18 +42,6 @@
       "teaser": "Die Standardisierungsorganisation NVM Express hat Standards veröffentlicht, die Speicherlösungen für KI, Cloud und Enterprise sicherer und nachhaltiger machen.",
       "url": "https://www.heise.de/news/Neue-NVMe-Spezifikationen-Mehr-Sicherheit-und-Effizienz-fuer-schnelle-SSDs-11398343.html",
       "image_title": "SSDs als M.2-Kärtchen"
-    },
-    {
-      "title": "LibreOffice Impress Remote: Präsentationen per Smartphone steuern",
-      "teaser": "Mit der neuen Impress Remote-Erweiterung für LibreOffice lassen sich Präsentationen bequem per Smartphone oder Browser steuern.",
-      "url": "https://www.heise.de/news/LibreOffice-Impress-Remote-Praesentationen-per-Smartphone-steuern-11398813.html",
-      "image_title": "Symbol mit einem Computerbildschirm und einem Smartphone mit Pfeil"
-    },
-    {
-      "title": "Rechtsstreit zwischen Apple und OpenAI: iMessage-Chats und Mails veröffentlicht",
-      "teaser": "OpenAI reagiert auf Apples Klage wegen angeblichen Diebstahls von Geschäftsgeheimnissen mit der Veröffentlichung von E-Mails und Chatverläufen.",
-      "url": "https://www.heise.de/news/Rechtsstreit-zwischen-Apple-und-OpenAI-iMessage-Chats-und-Mails-veroeffentlicht-11398513.html",
-      "image_title": "OpenAI und Apple"
     },
     {
       "title": "RatgeberEine App für alles: Mit Apple Notizen (nicht nur) studieren und lernen",
@@ -56,6 +56,23 @@
       "title": "HintergrundLinux fürs Firmennetz: Von Protokollstack bis Switch-Hardware",
       "url": "https://www.heise.de/hintergrund/Linux-fuers-Firmennetz-Von-Protokollstack-bis-Switch-Hardware-11368579.html",
       "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Acgam im Test: Ergonomischer Bürostuhl für schwere Personen kostet nur 219 Euro",
+      "teaser": "Der ergonomische Bürostuhl Acgam CG-5245M setzt auf Netz statt Polster, versteckt eine Fußstütze unter der Sitzfläche, trägt 136 kg und kostet 219 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/acgam-im-test-ergonomischer-buerostuhl-fuer-schwere-personen-kostet-nur-219-euro/3vtv294?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "LibreOffice Impress Remote: Präsentationen per Smartphone steuern",
+      "teaser": "Mit der neuen Impress Remote-Erweiterung für LibreOffice lassen sich Präsentationen bequem per Smartphone oder Browser steuern.",
+      "url": "https://www.heise.de/news/LibreOffice-Impress-Remote-Praesentationen-per-Smartphone-steuern-11398813.html",
+      "image_title": "Symbol mit einem Computerbildschirm und einem Smartphone mit Pfeil"
+    },
+    {
+      "title": "Rechtsstreit zwischen Apple und OpenAI: iMessage-Chats und Mails veröffentlicht",
+      "teaser": "OpenAI reagiert auf Apples Klage wegen angeblichen Diebstahls von Geschäftsgeheimnissen mit der Veröffentlichung von E-Mails und Chatverläufen.",
+      "url": "https://www.heise.de/news/Rechtsstreit-zwischen-Apple-und-OpenAI-iMessage-Chats-und-Mails-veroeffentlicht-11398513.html",
+      "image_title": "OpenAI und Apple"
     },
     {
       "title": "Betrug bei Online-Tests: Universität wiederholt 58.000 Aufnahmeprüfungen",
@@ -128,24 +145,6 @@
       "teaser": "Wer Container produktiv betreibt, muss mehr beherrschen als Docker-Befehle. Lernen Sie, Images sicher zu verwalten und Deployments gezielt zu automatisieren.",
       "url": "https://www.heise.de/news/c-t-Workshop-Container-sicher-planen-automatisieren-und-betreiben-11357403.html",
       "image_title": "Blaues Walmodell mit Containern und kleiner Robbe auf dem Rücken vor gelbem Hintergrund"
-    },
-    {
-      "title": "NuGet-Sicherheit: Microsoft verkürzt Gültigkeit von API-Keys auf 30 Tage",
-      "teaser": "Eine kürzere Gültigkeit von API-Keys zur Paketveröffentlichung soll die Sicherheit von NuGet stärken. Sie betrifft sowohl bestehende als auch neue Keys.",
-      "url": "https://www.heise.de/news/NuGet-Sicherheit-Microsoft-verkuerzt-Gueltigkeit-von-API-Keys-auf-30-Tage-11396124.html",
-      "image_title": "Frau dreht an der Uhr"
-    },
-    {
-      "title": "Software Testing: Vibe Coding und das fehlende Systemverständnis in der Praxis",
-      "teaser": "Die Mittelschicht an Entwicklern bricht weg, was nicht ohne Konsequenzen bleibt. Darüber diskutiert Richard Seidl mit Marc Bless und Thomas Ronzon.",
-      "url": "https://www.heise.de/blog/Software-Testing-Vibe-Coding-und-das-fehlende-Systemverstaendnis-in-der-Praxis-11384740.html",
-      "image_title": "Software Testing: Vibe Coding"
-    },
-    {
-      "title": "iX-Workshop: Kommunizieren und Entscheiden nach der Ransomware-Attacke",
-      "teaser": "Lernen Sie, wie Sie unter Druck klare Entscheidungen treffen und ruhig kommunizieren, um Ihr IT-Team sicher durch Krisensituationen zu steuern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Kommunizieren-und-Entscheiden-nach-der-Ransomware-Attacke-11378582.html",
-      "image_title": "Mann am Schreibtisch, einen schweren Felsen auf dem Kopf balancierend, oben links ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
     },
     {
       "title": "NewsGlasfaserausbau: Gericht verfügt Rückbau von Telekom-Anschluss",
