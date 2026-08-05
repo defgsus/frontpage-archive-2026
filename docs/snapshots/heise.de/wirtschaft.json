@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-05T01:19:32",
+  "timestamp": "2026-08-05T04:51:42",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Mittwoch: Ärger über Kinowerbung in BMWs, SpaceX-Verluste drücken Aktienkurs",
+      "teaser": "Reklame beim Anlassen eines BMW + Starlink einziger SpaceX-Gewinner + AMD-Aktienrutsch trotz Wachstum + Spotify-Gewinne dank Bezahlabos + Solaranlage flexibel",
+      "url": "https://www.heise.de/news/Mittwoch-Aerger-ueber-Kinowerbung-in-BMWs-SpaceX-Verluste-druecken-Aktienkurs-11399046.html",
+      "image_title": "Innenraum des BMW X5 mit großem Display in der Mitte; Mittwoch: BMW-Cockpit-Reklame, SpaceX-Verluste, AMD-Wachstum, Spotify-Nutzeranstieg & Solaranlagen-Faltung"
+    },
+    {
+      "title": "SpaceX-Umsätze übertreffen Erwartungen, aber Verluste lassen Aktie fallen",
+      "teaser": "Der erste Quartalsbericht seit dem SpaceX-Börsengang zeigt gemischte Ergebnisse. Nur Starlink verdient Geld, Raumfahrt und KI sind defizitär: Aktienkurs fällt.",
+      "url": "https://www.heise.de/news/SpaceX-Umsaetze-uebertreffen-Erwartungen-aber-Verluste-lassen-Aktie-fallen-11399036.html",
+      "image_title": "SpaceX-Logo an Gebäudefassade"
+    },
+    {
       "title": "Trotz guter Zahlen: AMDs Aktie ohne erkennbaren Grund im Minus",
       "teaser": "Eigentlich gibt es in AMDs Geschäftsbericht nichts zu meckern. Die Börse verpasst AMD trotzdem -9 Prozent.",
       "url": "https://www.heise.de/news/Trotz-guter-Zahlen-AMDs-Aktie-ohne-erkennbaren-Grund-im-Minus-11399024.html",
@@ -30,18 +42,6 @@
       "teaser": "Spotify hatte Ende Juni 300 Millionen zahlenden Abonnenten. Doch fast 500 Millionen zahlen nicht. In Entwicklungsländern soll mehr Werbung zu Bezahlabos drängen.",
       "url": "https://www.heise.de/news/Spotify-hat-erstmals-mehr-verdient-als-investiert-11399012.html",
       "image_title": "Ein Handy mit angesteckten In-Ear-Kopfhörern. Auf dem Display prangt das Spotify-Logo."
-    },
-    {
-      "title": "High Bandwidth Flash für extrem schnellen KI-Speicher ist fertig",
-      "teaser": "Sandisk und SK Hynix haben HBF abschließend spezifiziert. 512-GByte-Stapel schaffen die Transferrate von HBM.",
-      "url": "https://www.heise.de/news/High-Bandwidth-Flash-fuer-extrem-schnellen-KI-Speicher-ist-fertig-11398882.html",
-      "image_title": "Renderbild eines gestapelten Chips"
-    },
-    {
-      "title": "Disney+: Sonderkündigungsrecht für Premium-Kunden nach Wegfall von 4K und HDR",
-      "teaser": "Weil 4K auf manchen Geräten fehlt und HDR ganz abgeschaltet ist, dürfen einige Disney+-Kunden vorzeitig kündigen. Disney erstattet Abo-Gebühren anteilig zurück.",
-      "url": "https://www.heise.de/news/Disney-Sonderkuendigungsrecht-fuer-Premium-Kunden-nach-Wegfall-von-4K-und-HDR-11398857.html",
-      "image_title": "Disney+-Logo auf Fernseher, auf den eine Fernsteuerung gerichtet ist"
     },
     {
       "title": "HintergrundTim Cook tritt ab: Was der Apple-Chef in 15 Jahren verändert hat",
@@ -56,6 +56,23 @@
     {
       "title": "RatgeberExpertentalk Hauselektrik: Risiken erkennen, Ausfälle vermeiden",
       "url": "https://www.heise.de/ratgeber/Expertentalk-Hauselektrik-Risiken-erkennen-Ausfaelle-vermeiden-11385563.html"
+    },
+    {
+      "title": "Wasserkraft: Stromproduktion sinkt wegen Trockenheit",
+      "teaser": "Die anhaltende Trockenheit wirkt sich auch auf Wasserkraftwerke aus. Kleine Kraftwerke drosseln mitunter die Stromproduktion oder haben den Betrieb eingestellt.",
+      "url": "https://www.heise.de/news/Wasserkraft-Stromproduktion-sinkt-wegen-Trockenheit-11399050.html"
+    },
+    {
+      "title": "High Bandwidth Flash für extrem schnellen KI-Speicher ist fertig",
+      "teaser": "Sandisk und SK Hynix haben HBF abschließend spezifiziert. 512-GByte-Stapel schaffen die Transferrate von HBM.",
+      "url": "https://www.heise.de/news/High-Bandwidth-Flash-fuer-extrem-schnellen-KI-Speicher-ist-fertig-11398882.html",
+      "image_title": "Renderbild eines gestapelten Chips"
+    },
+    {
+      "title": "Disney+: Sonderkündigungsrecht für Premium-Kunden nach Wegfall von 4K und HDR",
+      "teaser": "Weil 4K auf manchen Geräten fehlt und HDR ganz abgeschaltet ist, dürfen einige Disney+-Kunden vorzeitig kündigen. Disney erstattet Abo-Gebühren anteilig zurück.",
+      "url": "https://www.heise.de/news/Disney-Sonderkuendigungsrecht-fuer-Premium-Kunden-nach-Wegfall-von-4K-und-HDR-11398857.html",
+      "image_title": "Disney+-Logo auf Fernseher, auf den eine Fernsteuerung gerichtet ist"
     },
     {
       "title": "Scaleup-Europe-Fonds: 5 Milliarden Euro für Europas High-Tech-Hoffnungen",
@@ -130,24 +147,6 @@
       "image_title": "Software Testing: Vibe Coding"
     },
     {
-      "title": "China verschärft Schutz für Chip-Designs",
-      "teaser": "China überarbeitet erstmals seit 2001 den Schutz von IC-Layout-Designs. Ab Oktober drohen bei Verstößen Bußgelder bis zu 740.000 US-Dollar.",
-      "url": "https://www.heise.de/news/China-verschaerft-Schutz-fuer-Chip-Designs-11395974.html",
-      "image_title": "Netzwerkgeräte, im Vordergrund eine chinesische Flagge"
-    },
-    {
-      "title": "Zerlegehalle für DDR-Atomkraftwerksteile soll frühestens 2028 in Betrieb gehen",
-      "teaser": "Der Bau der Zerlegehalle für Teile ehemaliger DDR-Kernkraftwerke verzögert sich. Eigentlich hätte sie 2025 fertig sein sollen. Nun wird es 2027 soweit sein.",
-      "url": "https://www.heise.de/news/Zerlegehalle-fuer-DDR-Atomkraftwerksteile-soll-fruehestens-2028-in-Betrieb-gehen-11395964.html",
-      "image_title": "Symbol Atomkraft"
-    },
-    {
-      "title": "Hughes: Satelliten-Internet-Sparte von EchoStar meldet Insolvenz an",
-      "teaser": "Die EchoStar-Tochter stellt in den USA einen freiwilligen Insolvenzantrag nach Chapter 11 und peilt eine finanzielle und operative Neuaufstellung an.",
-      "url": "https://www.heise.de/news/Hughes-Satelliten-Internet-Sparte-von-EchoStar-meldet-Insolvenz-an-11395922.html",
-      "image_title": "Künstlerische Darstellung eines Teils der Erdkugel mit vielen Satelliten; im Hintergrund ein Sonnenuntergang"
-    },
-    {
       "title": "NewsGlasfaserausbau: Gericht verfügt Rückbau von Telekom-Anschluss",
       "url": "https://www.heise.de/news/Glasfaserausbau-Gericht-verfuegt-Rueckbau-von-Telekom-Anschluss-11394316.html",
       "image_title": "Ein geöffneter Glasfaser-Übergabepunkt im Keller eines Hauses mit sichtbarer Glasfaser-Zuleitung und den Adern für die verschiedenen Endpunkte."
@@ -163,13 +162,13 @@
       "image_title": "Junge, nur halb sichtbare Frau präsentiert vor einer Kamera verschiedene Kosmetik-Gegenstände."
     },
     {
-      "title": "NewsFalcon-9-Einschlag auf dem Mond: Simulationen sagen sichtbare Staubwolke voraus",
-      "url": "https://www.heise.de/news/Falcon-9-Einschlag-auf-dem-Mond-Simulationen-sagen-sichtbare-Staubwolke-voraus-11394650.html",
-      "image_title": "Mond mit seinen Kratern"
+      "title": "TestsErste Fahrt im Audi A2 e-tron: Retro-Design für moderne Elektroauto-Technik",
+      "url": "https://www.heise.de/tests/Erste-Fahrt-im-Audi-A2-e-tron-Retro-Design-fuer-moderne-Elektroauto-Technik-11395600.html",
+      "image_title": "Audi_A2_etron"
     },
     {
-      "title": "RatgeberKühlen mit der Wärmepumpe: Warum die naheliegende Idee selten zum Einsatz kommt",
-      "url": "https://www.heise.de/ratgeber/Kuehlen-mit-der-Waermepumpe-Warum-die-naheliegende-Idee-selten-zum-Einsatz-kommt-11378924.html"
+      "title": "MeinungKlimaanlagen-Feindlichkeit: Warum Ideologie bei Hitze nicht hilft",
+      "url": "https://www.heise.de/meinung/Klimaanlagen-Feindlichkeit-Warum-Ideologie-bei-Hitze-nicht-hilft-11395004.html"
     },
     {
       "title": "TestsE-Auto Mercedes CLA 350 Shooting Brake im Test: Schick, schnell, schmal",
@@ -177,13 +176,14 @@
       "image_title": "Mercedes CLA Shooting Brake"
     },
     {
-      "title": "MeinungKlimaanlagen-Feindlichkeit: Warum Ideologie bei Hitze nicht hilft",
-      "url": "https://www.heise.de/meinung/Klimaanlagen-Feindlichkeit-Warum-Ideologie-bei-Hitze-nicht-hilft-11395004.html"
+      "title": "HintergrundRecht: DSGVO-Löschpflichten im Clinch mit Backups und Logfiles",
+      "url": "https://www.heise.de/hintergrund/Recht-DSGVO-Loeschpflichten-im-Clinch-mit-Backups-und-Logfiles-11340657.html",
+      "image_title": "Ein Mann wirft eine Festplatte in einen Aktenvernichter, ein anderer Mann versucht, sie aufzuhalten."
     },
     {
-      "title": "HintergrundWarum LLM-basierte Business Intelligence oft nicht in den Betrieb kommt",
-      "url": "https://www.heise.de/hintergrund/Warum-LLM-basierte-BI-oft-nicht-in-den-Betrieb-kommt-11353073.html",
-      "image_title": "Eine Frau sitzt an Bildschirmen und wertet Daten aus. Dabei zeigt sie mit dem Finger auf einen Graphen."
+      "title": "RatgeberKI-Agenten verstehen: OpenClaw selbst gebaut",
+      "url": "https://www.heise.de/ratgeber/KI-Agenten-verstehen-OpenClaw-selbst-gebaut-11371835.html",
+      "image_title": ", Ronja Leppert / KI / iX"
     }
   ]
 }
