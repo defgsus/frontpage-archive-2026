@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T12:47:52",
+  "timestamp": "2026-08-06T15:03:26",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,8 +20,20 @@
   ],
   "articles": [
     {
-      "title": "AlertVeam One und Service Provider Console für Schadcode-Attacken anfällig",
-      "teaser": "Die Backupmanagementlösungen Veam One und Service Provider Console sind für verschiedene Attacken empfänglich. Sicherheitsupdates schaffen Abhilfe.",
+      "title": "MistralKI-Modell mit neuer Technik für Sicherheitsklassifikationen",
+      "teaser": "Mistrals Shieldstral klassifiziert die Sicherheit von KI-Inhalten. Sie soll sich flexibel an veränderte Kontexte anpassen.",
+      "url": "https://www.heise.de/news/Mistral-veroeffentlicht-Modell-mit-neuer-Technik-fuer-Sicherheitsklassifikationen-11400596.html",
+      "image_title": "Das Mistral AI-Logo erscheint auf dem Bildschirm eines Smartphones."
+    },
+    {
+      "title": "AWS DynamoDB: Vektorsuche jetzt allgemein verfügbar",
+      "teaser": "Amazon DynamoDB bietet jetzt eine integrierte Vektorsuche. Eine separate Vektordatenbank ist nicht mehr nötig, was den Betriebsaufwand reduziert.",
+      "url": "https://www.heise.de/news/AWS-DynamoDB-Vektorsuche-jetzt-allgemein-verfuegbar-11401156.html",
+      "image_title": "Ein Netzwerk aus blauen Punkten und Linien mit einem Stapel orangefarbener Datenträger."
+    },
+    {
+      "title": "AlertVeeam One und Service Provider Console für Schadcode-Attacken anfällig",
+      "teaser": "Die Backupmanagementlösungen Veeam One und Service Provider Console sind für verschiedene Attacken empfänglich. Sicherheitsupdates schaffen Abhilfe.",
       "url": "https://www.heise.de/news/Veam-One-und-Service-Provider-Console-fuer-Schadcode-Attacken-anfaellig-11400855.html",
       "image_title": "Ein symbolsiches Updateschild auf einem Holztisch."
     },
@@ -30,18 +42,6 @@
       "teaser": "Lernen Sie, Proxmox-VE-Netzwerke professionell zu planen, abzusichern und zu optimieren – inklusive Multi-Tenant-Architekturen und Performance-Tuning.",
       "url": "https://www.heise.de/news/iX-Workshop-Netzwerkarchitekturen-in-Proxmox-aufbauen-verwalten-und-schuetzen-11313622.html",
       "image_title": "Stilisiertes Straßennetz mit Fahrzeugen und angedeuteten Gebäuden im Hintergrund, links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
-    },
-    {
-      "title": "Google verliert weitere KI-Spitzenforscher in kritischer Phase",
-      "teaser": "Google ordnet seine KI-Führung neu: Demis Hassabis wechselt in eine strategische Rolle, während Jeff Dean mit drei Spitzenforschern den Konzern verlässt.",
-      "url": "https://www.heise.de/news/Umbau-bei-Googles-KI-Fuehrung-DeepMind-unter-neuer-Leitung-11400995.html",
-      "image_title": "Google Logo"
-    },
-    {
-      "title": "Maker Faire Hannover 2026: Stahlblumen, Blitze und jede Menge neue Projekte",
-      "teaser": "Am 15. und 16. August wird Hannover zum Treffpunkt für Maker: Mehr als 200 Aussteller zeigen auf der Maker Faire ihre Projekte und Ideen.",
-      "url": "https://www.heise.de/news/Maker-Faire-Hannover-2026-Stahlblumen-Blitze-und-jede-Menge-neue-Projekte-11399934.html",
-      "image_title": "Makey begrüßt die Besucher"
     },
     {
       "title": "HintergrundKI-Detektor im Praxistest: Warum auf Pangram 4.0 kein Verlass ist",
@@ -55,6 +55,23 @@
     {
       "title": "HintergrundComputer Use Agents: Wenn KI Maus und Tastatur übernimmt",
       "url": "https://www.heise.de/hintergrund/Computer-Use-Agents-Wenn-KI-Maus-und-Tastatur-uebernimmt-11351545.html"
+    },
+    {
+      "title": "Segway Navimow X420 im Test: Starker Allrad-Mähroboter im Raumschiff-Look",
+      "teaser": "Der Segway Navimow X420 ist ein Allrad-Mähroboter, der dank lenkbarer Vorderräder besonders rasenschonend sein soll. Was er sonst noch kann, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/segway-navimow-x420-im-test-starker-allrad-maehroboter-im-raumschiff-look/fhx9yzh?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Google verliert weitere KI-Spitzenforscher in kritischer Phase",
+      "teaser": "Google ordnet seine KI-Führung neu: Demis Hassabis wechselt in eine strategische Rolle, während Jeff Dean mit drei Spitzenforschern den Konzern verlässt.",
+      "url": "https://www.heise.de/news/Umbau-bei-Googles-KI-Fuehrung-DeepMind-unter-neuer-Leitung-11400995.html",
+      "image_title": "Google Logo"
+    },
+    {
+      "title": "Maker Faire Hannover 2026: Stahlblumen, Blitze und jede Menge neue Projekte",
+      "teaser": "Am 15. und 16. August wird Hannover zum Treffpunkt für Maker: Mehr als 200 Aussteller zeigen auf der Maker Faire ihre Projekte und Ideen.",
+      "url": "https://www.heise.de/news/Maker-Faire-Hannover-2026-Stahlblumen-Blitze-und-jede-Menge-neue-Projekte-11399934.html",
+      "image_title": "Makey begrüßt die Besucher"
     },
     {
       "title": "11,5 Stunden pro Woche: Cloud-Anbindung bremst IT-Teams aus",
@@ -93,7 +110,7 @@
     },
     {
       "title": "AlertSicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
-      "teaser": "Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.",
+      "teaser": "Die n8n-Entwickler haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
       "image_title": "Ein symbolsicher Updatebalken füllt sich."
     },
@@ -125,24 +142,6 @@
       "teaser": "Nach OpenAI und Anthropic räumt nun auch Meta ein, dass sich eigene KI-Software in fremde Systeme gehackt hat.",
       "url": "https://www.heise.de/news/Auch-KI-von-Meta-hackte-sich-in-eine-andere-Firma-11400425.html",
       "image_title": "Leuchtendes Meta-Logo auf einem dunklen Bildschirm, umgeben von blau beleuchteten Tastaturtasten."
-    },
-    {
-      "title": "Okularkameras im Test: Das ganz Kleine auf dem Bildschirm",
-      "teaser": "Spezialkameras ersetzen Lichtmikroskop-Okulare und übertragen Bilder per USB auf den PC. Ein Modell passt auch an Ferngläser und funkt das Bild aufs Smartphone.",
-      "url": "https://www.heise.de/tests/Okularkameras-im-Test-Das-ganz-Kleine-auf-dem-Bildschirm-11327062.html",
-      "image_title": "Mikroskop mit Laptop und Präparierbesteck"
-    },
-    {
-      "title": "Vorsicht, Kunde: Wenn der Provider den Router aus der Ferne falsch konfiguriert",
-      "teaser": "Nach einer Fritzbox-Störung bei TNG klingeln fremde Anrufe bei einem Kunden; seine eigenen Nummern sind tot. Die Reaktion des Anbieters fällt merkwürdig aus.",
-      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Wenn-der-Provider-den-Router-aus-der-Ferne-falsch-konfiguriert-11326736.html",
-      "image_title": "Telefonschaltung"
-    },
-    {
-      "title": "Bayern zahlt rund 360 Millionen Euro an Microsoft",
-      "teaser": "Bayerns Verwaltung arbeitet mit Software von Microsoft. Neue Zahlen zeigen, dass der Freistaat in acht Jahren rund 360 Millionen Euro an den Konzern zahlt.",
-      "url": "https://www.heise.de/news/Bayern-zahlt-rund-360-Millionen-Euro-an-Microsoft-11400421.html",
-      "image_title": "Smartphone mit Microsoft-Logo inmitten von Geldscheinen"
     },
     {
       "title": "UpdateNewsBMW: Belästigt Mit Werbung",
