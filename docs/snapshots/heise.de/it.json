@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T07:30:00",
+  "timestamp": "2026-08-06T10:22:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,70 @@
   ],
   "articles": [
     {
+      "title": "KI-Detektor im Praxistest: Warum auf Pangram 4.0 kein Verlass ist",
+      "teaser": "Der KI-Detektor Pangram richtet über Texte. Version 4.0 soll gar erkennen, wenn eine KI bloß redigiert hat. Unsere Tests zeigen jedoch gravierende Fehlurteile.",
+      "url": "https://www.heise.de/hintergrund/KI-Detektor-im-Praxistest-Warum-auf-Pangram-4-0-kein-Verlass-ist-11394192.html",
+      "image_title": "Pangram"
+    },
+    {
+      "title": "USB-C-Hubs im Test: Mehr Buchsen für das MacBook – inklusive Neo",
+      "teaser": "USB-C-Hubs geben Apple-Geräten mehr Ports. Wir testen neun Geräte mit HDMI und Power Delivery, die sich besonders gut fürs MacBook Neo eignen – aber nicht nur.",
+      "url": "https://www.heise.de/tests/USB-C-Hubs-im-Test-Mehr-Buchsen-fuer-das-MacBook-inklusive-Neo-11379552.html",
+      "image_title": "Hub am MacBook Neo"
+    },
+    {
+      "title": "Last Call: Machine Learning mit Python – KI und Deep Learning in 5 Sessions",
+      "teaser": "Ab dem 26.08. lernen Sie in fünf Sessions künstliche Intelligenz zu entwickeln: Machine Learning, neuronale Netze und Deep Learning – alles effizient in Python.",
+      "url": "https://www.heise.de/news/Last-Call-Machine-Learning-mit-Python-KI-und-Deep-Learning-in-5-Sessions-11338937.html"
+    },
+    {
+      "title": "Sicherheitsforscher hackt Nordkorea-Hacker",
+      "teaser": "Ein Sicherheitsforscher hat Einblick in nordkoreanische Hackergruppen gewonnen. Die Bilanz: Tausende betroffene Firmen und Milliardenbeute für das Regime.",
+      "url": "https://www.heise.de/news/Nordkoreanische-Hacker-Sicherheitsforscher-deckt-weltweite-Angriffe-auf-11400679.html",
+      "image_title": "Nordkoreanische Flagge"
+    },
+    {
+      "title": "HintergrundKI-Detektor im Praxistest: Warum auf Pangram 4.0 kein Verlass ist",
+      "url": "https://www.heise.de/hintergrund/KI-Detektor-im-Praxistest-Warum-auf-Pangram-4-0-kein-Verlass-ist-11394192.html",
+      "image_title": "Pangram"
+    },
+    {
+      "title": "RatgeberAuswirkungen der neuen Secure-Boot-Zertifikate für Linux",
+      "url": "https://www.heise.de/ratgeber/Auswirkungen-der-neuen-Secure-Boot-Zertifikate-fuer-Linux-11371220.html"
+    },
+    {
+      "title": "HintergrundComputer Use Agents: Wenn KI Maus und Tastatur übernimmt",
+      "url": "https://www.heise.de/hintergrund/Computer-Use-Agents-Wenn-KI-Maus-und-Tastatur-uebernimmt-11351545.html"
+    },
+    {
+      "title": "Wen kann ich noch einplanen? OpenProject zeigt es",
+      "teaser": "OpenProject 17.7.0 führt neue Funktionen für Kapazitäts- und Einsatzplanung sowie agile Sprints ein.",
+      "url": "https://www.heise.de/news/Wen-kann-ich-noch-einplanen-OpenProject-zeigt-es-11400546.html",
+      "image_title": "Benutzerprofil von Nadia Becker mit Arbeitszeitplan und zukünftigen Zeitplänen."
+    },
+    {
+      "title": "Muse Code: Metas Antwort auf Coding-Agenten von OpenAI und Anthropic",
+      "teaser": "Metas neuer Programmieragent Muse Code nutzt parallele Hintergrundagenten und das Sprachmodell Muse Spark 1.2 zu vergleichsweise günstigen Preisen.",
+      "url": "https://www.heise.de/news/Muse-Code-Metas-Antwort-auf-Coding-Agenten-von-OpenAI-und-Anthropic-11400592.html",
+      "image_title": "Meta-Logo auf Schild vor der Zentrale"
+    },
+    {
+      "title": "AlertSicherheitspatches: Angreifer können Schadcode auf n8n-Servern ausführen",
+      "teaser": "Die n8n-Entwicklwer haben in aktuellen Versionen insgesamt 18 Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Angreifer-koennen-Schadcode-auf-n8n-Servern-ausfuehren-11400494.html",
+      "image_title": "Ein symbolsicher Updatebalken füllt sich."
+    },
+    {
+      "title": "iX-Workshop: Schritt für Schritt – VMware zu Proxmox VE",
+      "teaser": "Praktische Schritte, Fallstricke vermeiden: Lernen Sie, wie Sie Ihre VMware-Infrastruktur effizient und sicher auf Proxmox VE umstellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schritt-fuer-Schritt-VMware-zu-Proxmox-VE-11380062.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
       "title": "Tipp: Mac startet nach Zurücksetzen mit Ausrufezeichen",
       "teaser": "Beim Versuch, einen Mac auf den Werkszustand zurückzusetzen, kann manchmal etwas schiefgehen. So kommen Sie aus solchen Situationen.",
       "url": "https://www.heise.de/ratgeber/Tipp-Mac-startet-nach-Zuruecksetzen-mit-Ausrufezeichen-11394588.html",
       "image_title": "Mensch mit Mac"
-    },
-    {
-      "title": "iPhone weg: Indizien sammeln per Kurzbefehl",
-      "teaser": "Die Kurzbefehle-App kann helfen, ein vermisstes iPhone zu finden. Dank Automatisierungen macht es ein Foto und versendet es samt Orts- und Gerätedaten per Mail.",
-      "url": "https://www.heise.de/ratgeber/iPhone-weg-Indizien-sammeln-per-Kurzbefehl-11332445.html",
-      "image_title": "Mann mit Smartphone macht ein Foto von einer Frau mit Hut und Tasche am Strand."
     },
     {
       "title": "Leserumfrage: Wie schlägt sich openDesk in Behörden und Unternehmen?",
@@ -43,23 +97,16 @@
       "url": "https://www.heise.de/news/secIT-digital-Unser-Active-Directory-ist-sicher-wirklich-11399293.html"
     },
     {
-      "title": "RatgeberAuswirkungen der neuen Secure-Boot-Zertifikate für Linux",
-      "url": "https://www.heise.de/ratgeber/Auswirkungen-der-neuen-Secure-Boot-Zertifikate-fuer-Linux-11371220.html"
-    },
-    {
-      "title": "HintergrundComputer Use Agents: Wenn KI Maus und Tastatur übernimmt",
-      "url": "https://www.heise.de/hintergrund/Computer-Use-Agents-Wenn-KI-Maus-und-Tastatur-uebernimmt-11351545.html"
-    },
-    {
-      "title": "TestsOkularkameras im Test: Das ganz Kleine auf dem Bildschirm",
-      "url": "https://www.heise.de/tests/Okularkameras-im-Test-Das-ganz-Kleine-auf-dem-Bildschirm-11327062.html",
-      "image_title": "Mikroskop mit Laptop und Präparierbesteck"
-    },
-    {
       "title": "Auch KI von Meta hackte sich in eine andere Firma",
       "teaser": "Nach OpenAI und Anthropic räumt nun auch Meta ein, dass sich eigene KI-Software in fremde Systeme gehackt hat.",
       "url": "https://www.heise.de/news/Auch-KI-von-Meta-hackte-sich-in-eine-andere-Firma-11400425.html",
       "image_title": "Leuchtendes Meta-Logo auf einem dunklen Bildschirm, umgeben von blau beleuchteten Tastaturtasten."
+    },
+    {
+      "title": "Okularkameras im Test: Das ganz Kleine auf dem Bildschirm",
+      "teaser": "Spezialkameras ersetzen Lichtmikroskop-Okulare und übertragen Bilder per USB auf den PC. Ein Modell passt auch an Ferngläser und funkt das Bild aufs Smartphone.",
+      "url": "https://www.heise.de/tests/Okularkameras-im-Test-Das-ganz-Kleine-auf-dem-Bildschirm-11327062.html",
+      "image_title": "Mikroskop mit Laptop und Präparierbesteck"
     },
     {
       "title": "Vorsicht, Kunde: Wenn der Provider den Router aus der Ferne falsch konfiguriert",
@@ -95,53 +142,6 @@
       "teaser": "Eine US-Untersuchung belegt: Viele Werbe-SDKs leiten Standorte ab Werk weiter. Unklare Dokus und Monetarisierungsdruck wiegen Entwickler in falscher Sicherheit.",
       "url": "https://www.heise.de/news/Voreingestellte-Datenlecks-Wie-Werbe-SDKs-Entwickler-zum-Tracking-verleiten-11400263.html",
       "image_title": "Dashboard mit Positionsdaten"
-    },
-    {
-      "title": "Kioxias XL-Flash kommt mit 10 Millionen IOPS",
-      "teaser": "Die zweite XL-Flash-Generation ist für direkte GPU-Zugriffe gedacht. Kioxia zeigt erste SSD-Ableger für Server.",
-      "url": "https://www.heise.de/news/Kioxias-XL-Flash-kommt-mit-10-Millionen-IOPS-11400139.html",
-      "image_title": "Zwei SSDs auf einem Tisch neben einer Auszeichnung"
-    },
-    {
-      "title": "CIOs investieren vor allem in Sicherheit und IT-Modernisierung",
-      "teaser": "Deutsche CIOs stehen vor der Herausforderung, steigende IT-Budgets effizient einzusetzen. Cybersecurity und Modernisierung sind Top-Prioritäten.",
-      "url": "https://www.heise.de/news/CIOs-investieren-vor-allem-in-Sicherheit-und-IT-Modernisierung-11400089.html",
-      "image_title": "Gestapelte Münzen mit einer Hand"
-    },
-    {
-      "title": "Trumps neuer KI-Prüfrahmen: Offene Modelle bleiben verschont",
-      "teaser": "Die US-Regierung will Open-Weight-Modelle vorerst nicht auf Cybersicherheit hin prüfen. Was aus Medienberichten über den neuen KI-Prüfrahmen bekannt ist.",
-      "url": "https://www.heise.de/news/Trumps-neuer-KI-Pruefrahmen-Offene-Modelle-bleiben-verschont-11400095.html",
-      "image_title": "Weißes Haus in Washington hinter einem Zaun, mit US-Flagge auf dem Dach und blauem Himmel im Hintergrund."
-    },
-    {
-      "title": "KI-Blase: Wie Google mithilfe der Wall Street Anthropics Chips finanziert",
-      "teaser": "Google hat mit Broadcom, Apollo und Blackstone eine Finanzierungsstruktur über 200 Milliarden US-Dollar aufgebaut, um Anthropic mit Hardware zu versorgen.",
-      "url": "https://www.heise.de/news/KI-Blase-Wie-Google-Finanzierungsrisiken-auslagert-11399694.html",
-      "image_title": "Grüne Handelskurve"
-    },
-    {
-      "title": "Ringconn Smart Gen 3 im Test: Starke Alternative zum Oura Ring ohne Abo",
-      "teaser": "Der Ringconn Smart Ring Gen 3 überwacht Gesundheit, Schlaf und erkennt Anzeichen von Bluthochdruck und Schlafapnoe. Wie stark ist der Smart Ring ohne Abo?",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ringconn-smart-gen-3-im-test-starke-alternative-zum-oura-ring-ohne-abo/ed065kb?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Programmiersprache C++: Mehr Prüfungen zur Compile-Zeit mit std::nullptr_t",
-      "teaser": "Prüfungen zur Compile-Zeit schützen den Code besser als Assertions und können manches undefinierte Verhalten bereits beim Kompilieren erkennen.",
-      "url": "https://www.heise.de/blog/Programmiersprache-C-Mehr-Pruefungen-zur-Compile-Zeit-mit-std-nullptr-t-11307112.html",
-      "image_title": "Gezeichneter Schraubenschlüssel mit Zahnrädern"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
-      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11378598.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Leasing gegen den Preisschock: Apples Weg zum Ultra-Abo | Mac & i-Podcast",
-      "teaser": "Preiserhöhungen, Lieferengpässe und iPhone-Leasing: Wir diskutieren, warum Apple aktuell kräftig aufschlägt und was das für die Nutzer bedeutet.",
-      "url": "https://www.heise.de/news/Leasing-gegen-den-Preisschock-Apples-Weg-zum-Ultra-Abo-Mac-i-Podcast-11399688.html",
-      "image_title": "Leasing gegen den Preisschock: Apples Weg zum Ultra-Abo Mac & i-Podcast"
     },
     {
       "title": "UpdateNewsBMW: Belästigt Mit Werbung",
