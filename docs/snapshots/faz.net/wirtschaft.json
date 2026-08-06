@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-06T10:22:39",
+  "timestamp": "2026-08-06T12:47:54",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Künstliche Intelligenz: Das amerikanische KI-Dilemma",
+      "teaser": "Cyberpannen und der Aufstieg chinesischer Rivalen bringen Open AI und Anthropic in Bedrängnis – und stellen die US-Regierung vor schwierige Entscheidungen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/openai-und-anthropic-das-amerikanische-ki-dilemma-201095870.html"
+    },
+    {
       "title": "FAZ+Vorschriften am Bau: Drei Zimmer mit 47 Steckdosen?",
       "teaser": "Immer mehr Vorschriften verteuern den Bau? Stimmt so gar nicht. Viele Normen sind schlicht Empfehlungen. Nur weil sich alle daran halten, werden sie zum Problem.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/din-normen-beim-bau-falschmeldungen-halten-sich-hartnaeckig-201084283.html"
+      "url": "https://www.faz.net/aktuell/wirtschaft/din-normen-beim-bau-falschmeldungen-halten-sich-hartnaeckig-201084283.html",
+      "image_url": "https://media0.faz.net/image/w1200/c9018e99e148/w3975h2236x0y829/202110/43600.0.366858004/falschmeldungen-halten-sich.webp",
+      "image_title": "Falschmeldungen halten sich hartnäckig: Zum Beispiel, dass für eine Dreizimmerwohnung siebenundvierzig Steckdosen vorgeschrieben seien."
     },
     {
       "title": "FAZ+Hausverkauf: „Privatleute sind bei Immobiliengeschäften oft erstaunlich naiv“",
@@ -68,13 +75,6 @@
       "image_title": "Was ist dieses Häuschen wohl wert?"
     },
     {
-      "title": "FAZ+Binnenschifffahrt: Der Wirtschaft geht das Wasser aus",
-      "teaser": "Der Rhein hat in dieser Woche an vielen Orten historische Niedrigstände erreicht. Für die Stahl-, Chemie- oder Pharmabranche ist die Schifffahrt auf dem Fluss lebenswichtig. Doch dafür sind die Pegel zu tief gefallen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wie-das-niedrigwasser-im-rhein-teile-der-deutschen-industrie-bedroht-201089672.html",
-      "image_url": "https://media0.faz.net/image/w1200/2c56ec6f6289/w3226h1815x0y0/202608/43601.0.2402906917/schwierig-zu-manoevrieren-das.webp",
-      "image_title": "Schwierig zu manövrieren: Das Niedrigwasser des Rheins wird für die Binnenschifffahrt zur Herausforderung."
-    },
-    {
       "title": "Business-Ticker: Siemens meldet ein Rekordquartal",
       "teaser": "Google-KI-Chef gibt seinen Posten ab +++ Ifo-Institut: Die Autoindustrie schöpft Hoffnung +++ Großaufträge aus Übersee retten Maschinenhersteller +++ Neuigkeiten im Unternehmen-Liveblog.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-siemens-meldet-ein-rekordquartal-faz-200452404.html",
@@ -82,32 +82,25 @@
       "image_title": "Siemens-Chef Roland Busch präsentiert gute Geschäftszahlen."
     },
     {
-      "title": "Hexagon Robotics: Menschenähnliche Roboter für die Autofabrik",
-      "teaser": "Menschenähnliche KI-Robote könnten, so die Hoffnung, in einigen Jahren in Scharen Fabriken bevölkern. Der Schweizer Hersteller Hexagon Robotics macht dabei einiges anders als die Konkurrenz – und punktet bei den Kunden.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bmw-menschenaehnliche-ki-roboter-sollen-die-fabriken-revolutionieren-accg-201072245.html",
-      "image_url": "https://media0.faz.net/image/w1100/ac21a169d42b/w5000h2812x0y938/202607/43601.0.2386231300/humanoider-roboter-von-hexagon.webp",
-      "image_title": "Humanoider Roboter von Hexagon im Leipziger Werk von BMW"
+      "title": "FAZ+Binnenschifffahrt: Der Wirtschaft geht das Wasser aus",
+      "teaser": "Der Rhein hat in dieser Woche an vielen Orten historische Niedrigstände erreicht. Für die Stahl-, Chemie- oder Pharmabranche ist die Schifffahrt auf dem Fluss lebenswichtig. Doch dafür sind die Pegel zu tief gefallen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wie-das-niedrigwasser-im-rhein-teile-der-deutschen-industrie-bedroht-201089672.html",
+      "image_url": "https://media0.faz.net/image/w1100/2c56ec6f6289/w3226h1815x0y0/202608/43601.0.2402906917/schwierig-zu-manoevrieren-das.webp",
+      "image_title": "Schwierig zu manövrieren: Das Niedrigwasser des Rheins wird für die Binnenschifffahrt zur Herausforderung."
     },
     {
-      "title": "Rekordaufträge: Siemens meldet Rekordquartal – Aktien verlieren trotzdem",
-      "teaser": "Auftragsbestand und -eingang des Technologiekonzerns erreichen Rekordwerte. Siemens hebt die Prognose an, aber der Börse reicht das nicht. Trotz erhöhter Gewinnprognose verlor der Aktienkurs sechs Prozent. Warum?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-meldet-rekordquartal-aktien-verlieren-trotzdem-accg-201100671.html",
-      "image_url": "https://media0.faz.net/image/w1100/f469dca518e0/w5500h3094x0y287/202605/43601.0.2076238442/ki-und-rechenzentren-treiben.webp",
-      "image_title": "KI und Rechenzentren treiben das Geschäft von Siemens: Vorstandsvorsitzender Roland Busch hebt deshalb den Gewinnausblick an."
+      "title": "Licht aus in Budapest: Donau-Niedrigwasser zwingt zum Energiesparen",
+      "teaser": "Ungarn muss Strom sparen und schaltet Lichter in der Hauptstadt aus. Das einzige Atomkraftwerk des Landes ist auf Kühlung aus der Donau angewiesen. Doch das Wasser im Fluss ist knapp.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/licht-aus-in-budapest-donau-niedrigwasser-zwingt-zum-energiesparen-accg-201102039.html",
+      "image_url": "https://media0.faz.net/image/w1100/518fd647c369/w3984h2241x0y415/202608/43601.0.2407015313/energiekrise-in-der-hauptstadt.webp",
+      "image_title": "Energiekrise in der Hauptstadt: Das Parlamentsgebäude bleibt dunkel."
     },
     {
-      "title": "FAZ+Wer bekommt was?: Streit um Offshore-Millionen in Niedersachsen",
-      "teaser": "Die Gewerbesteuer für Offshore-Windparks geht grundsätzlich nach Wilhelmshaven, entschied das Land Niedersachsen. Doch das passt vielen Kommunen gar nicht – denn ihnen gehen dadurch Millionen verloren.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wer-bekommt-die-offshore-gewerbesteuern-streit-um-millionen-in-niedersachsen-accg-201095095.html",
-      "image_url": "https://media0.faz.net/image/w1100/281d18464027/w7505h4222x91y516/202608/43601.0.2404002269/sonnenaufgang-ueber.webp",
-      "image_title": "Sonnenaufgang über Nordergründe – auch das ist einer der Windparks in küstennahen Gewässern vor Niedersachsen."
-    },
-    {
-      "title": "Künstliche Intelligenz: Das amerikanische KI-Dilemma",
-      "teaser": "Cyberpannen und der Aufstieg chinesischer Rivalen bringen Open AI und Anthropic in Bedrängnis – und stellen die US-Regierung vor schwierige Entscheidungen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/openai-und-anthropic-das-amerikanische-ki-dilemma-201095870.html",
-      "image_url": "https://media0.faz.net/image/w100/5e65bde9491f/w509h509x260y68/201801/1.5413248/roland-lindner.webp",
-      "image_title": "Roland Lindner, New York"
+      "title": "Open AI & Co.: KI greift an – was hinter den jüngsten Attacken steckt",
+      "teaser": "Künstliche Intelligenz von Open AI, Anthropic und Meta führen Cyberattacken durch. Worum geht es? Hier kommen Antworten auf die wichtigsten Fragen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/openai-meta-anthropic-was-hinter-den-ki-attacken-steckt-accg-201101843.html",
+      "image_url": "https://media0.faz.net/image/w1100/b35a223587d2/w3952h2223x0y206/202608/43601.0.2397595823/ki-untergraebt-die.webp",
+      "image_title": "KI untergräbt die Cybersicherheit."
     },
     {
       "title": "Dürre in Deutschland: Neuer Tiefstand",
@@ -133,14 +126,14 @@
     {
       "title": "Energiesorgen: Ungarns Strom hängt am Schicksal eines Kraftwerks",
       "teaser": "Ungarns Strom hängt am Atomkraftwerk Paks. Ministerpräsident Peter Magyar will die Abhängigkeit entschärfen und Kernenergie stärker einbetten.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/energie-ungarns-strom-haengt-am-schicksal-eines-kraftwerks-201094210.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ungarns-strom-die-abhaengigkeit-vom-kernkraftwerk-paks-201094210.html",
       "image_url": "https://media0.faz.net/image/w100/a038a1ea5898/w667h667x0y92/201108/1.1126579/michaela-seiser.webp",
       "image_title": "Michaela Seiser"
     },
     {
       "title": "Hitze in der Stadt: Kühlung wird zum Wertfaktor",
       "teaser": "Sommerhitze lässt deutsche Städte aufheizen. Langfristig zählt für Eigentümer, wie gut die Gebäude zu kühlen sind. Das kann auch Kosten verursachen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/kuehlung-als-wertfaktor-was-sommerhitze-mit-immobilien-macht-200990852.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/sommerhitze-wie-kuehlung-den-wert-von-immobilien-veraendert-200990852.html",
       "image_url": "https://media0.faz.net/image/w100/7a4625473e59/w391h391x308y101/201907/1.6279890/jan-hauser.webp",
       "image_title": "Jan Hauser"
     },
@@ -173,6 +166,13 @@
       "image_title": "Gerald Braunberger"
     },
     {
+      "title": "Pharma-Fusion: Keine Traum-Hochzeit",
+      "teaser": "Die Börse reagiert besorgt auf die Gerüchte um eine Fusion von Astra-Zeneca und BMS. Denn es stellt sich die Frage, was der Mehrwert für den britischen Konzern sein sollte.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/pharma-fusion-von-astra-zeneca-und-bms-keine-traum-hochzeit-201090912.html",
+      "image_url": "https://media0.faz.net/image/w100/a9427c381d93/w426h426x267y119/201907/1.6281670/philip-plickert.webp",
+      "image_title": "Philip Plickert"
+    },
+    {
       "title": "FAZ+Die VW-Story – Folge 6: Endspiel um VW",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/vw-story/vw-podcast-endspiel-um-volkswagen-stirbt-die-autoindustrie-200888443.html",
@@ -203,18 +203,18 @@
       "url": "https://www.faz.net/podcasts/vw-story/vw-story-als-sich-betriebsraete-luxusreisen-und-prostituierte-vom-konzern-bezahlen-liessen-faz-podcast-200852342.html"
     },
     {
-      "title": "Künstliche Intelligenz: Meta-KI hackt bei Sicherheitstest andere Firma",
-      "teaser": "Schon wieder ist ein KI-Modell aus seiner Testumgebung ausgebrochen und in das System einer anderen Firma eingedrungen. Dieses Mal handelt es sich um einen Agenten der Facebook-Mutter.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/meta-ki-hackt-firma-bei-sicherheitstest-accg-201099872.html",
-      "image_url": "https://media0.faz.net/image/w880/d5cde58d4e47/w5500h3094x0y173/202608/43601.0.2406062584/auch-der-facebook-konzern-meta.webp",
-      "image_title": "Auch der Facebook-Konzern Meta hat eigene KI-Modelle entwickelt."
+      "title": "Nach F126-Aus: Rheinmetall senkt die Umsatzprognose",
+      "teaser": "Der Abbruch des milliardenschweren Fregattenprojekts trifft den größten deutschen Rüstungshersteller. Über mangelnde Nachfrage kann sich der Dax-Konzern nicht beschweren – die Aktie fällt dennoch.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-umsatzprognose-nach-fregattenprojekt-stopp-accg-201100709.html",
+      "image_url": "https://media0.faz.net/image/w880/03ecc22613aa/w7942h4467x0y828/202606/43601.0.2256123027/es-blieb-beim-modell-das.webp",
+      "image_title": "Es blieb beim Modell: Das Bundesverteidigungsministerium stoppte das F126-Fregattenprojekt."
     },
     {
-      "title": "Künstliche Intelligenz: Ein Paukenschlag in Googles KI-Geschäft",
-      "teaser": "KI-Superstar und Nobelpreisträger Demis Hassabis übernimmt neue Rollen, andere Manager verlassen den Konzern ganz. Diese Wechsel werfen einige Fragen auf und beunruhigen die Börse.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/google-deepmind-demis-hassabis-uebernimmt-neue-rolle-201099577.html",
-      "image_url": "https://media0.faz.net/image/w880/c0444b5603f7/w7460h4196x0y169/202608/43601.0.2405367846/eine-in-einer-serie-von.webp",
-      "image_title": "Eine in einer Serie von Personalveränderungen in Googles KI-Geschäft: Demis Hassabis gibt den Vorstandsvorsitz von Google Deepmind auf."
+      "title": "Spielgeräte im Garten: Gut geplante Rutschpartie",
+      "teaser": "Spielturm, Reckstange, Schaukel – oder eine Kombination aus allen dreien? Es gibt viele Möglichkeiten, den eigenen Garten für die Kinder umzugestalten. Wäre da nicht die Sache mit dem Abstand.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/garten/so-klappt-es-mit-spielgeraeten-im-garten-accg-201028847.html",
+      "image_url": "https://media0.faz.net/image/w880/0fdd3a4f43ce/w5937h3340x0y316/202607/43601.0.2337134713/ein-spielturm-ist-eine-feine.webp",
+      "image_title": "Ein Spielturm ist eine feine Sache. Allerdings nicht ganz unaufwendig."
     },
     {
       "title": "FAZ+So viele wie noch nie: Sie sind dann mal weg – warum Auswandern gerade angesagt ist",
@@ -266,10 +266,17 @@
       "image_title": "funk"
     },
     {
+      "title": "FAZ+Wer bekommt was?: Streit um Offshore-Millionen in Niedersachsen",
+      "teaser": "Die Gewerbesteuer für Offshore-Windparks geht grundsätzlich nach Wilhelmshaven, entschied das Land Niedersachsen. Doch das passt vielen Kommunen gar nicht – denn ihnen gehen dadurch Millionen verloren.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wer-bekommt-die-offshore-gewerbesteuern-streit-um-millionen-in-niedersachsen-accg-201095095.html",
+      "image_url": "https://media0.faz.net/image/w920/9ae98de506bd/w8256h3538x0y1160/202608/43601.0.2404002269/sonnenaufgang-ueber.webp",
+      "image_title": "Sonnenaufgang über Nordergründe – auch das ist einer der Windparks in küstennahen Gewässern vor Niedersachsen."
+    },
+    {
       "title": "Einschlag ohne Kontrolle: SpaceX-Weltraumschrott wohl ungeplant auf dem Mond aufgeprallt",
       "teaser": "Auf dem Mond ist allem Anschein nach ein schulbusgroßes Relikt einer Falcon-9-Rakete eingeschlagen. Solche Vorfälle sind selten – und befeuern die Debatte um Weltraumschrott.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spacex-weltraumschrott-wohl-auf-dem-mond-eingeschlagen-accg-201097628.html",
-      "image_url": "https://media0.faz.net/image/w920/9b09de63fe0f/w4500h1928x0y482/202608/43601.0.2401951653/was-passiert-mit-ausgedienter.webp",
+      "image_url": "https://media0.faz.net/image/w1100/e2b4aaa76801/w4500h2531x0y181/202608/43601.0.2401951653/was-passiert-mit-ausgedienter.webp",
       "image_title": "Was passiert mit ausgedienter Hardware im All? Eine Falcon-9-Rakete von SpaceX befördert Starlink-Satelliten in den Weltraum."
     },
     {
@@ -280,32 +287,25 @@
       "image_title": "Chinesische Lkw werden für den Export verladen."
     },
     {
-      "title": "wahl in Sachsen-Anhalt: „Das Wahlprogramm der AfD ist ein Luftschloss“",
-      "teaser": "Die AfD macht den Wählern in Sachsen-Anhalt viele Versprechungen. Forscher aus Halle haben nachgerechnet – und eine Finanzierungslücke von mehr als zwei Milliarden Euro ausgemacht.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/im-afd-wahlprogramm-klafft-eine-milliardenschwere-finanzierungsluecke-accg-201093563.html",
-      "image_url": "https://media0.faz.net/image/w1100/40fdcf764128/w3000h1687x0y145/202607/43601.0.2349228936/nicht-alles-ist-finanzierbar.webp",
-      "image_title": "Nicht alles ist finanzierbar. Ulrich Siegmund, Spitzenkandidat der AfD in Sachsen-Anhalt"
+      "title": "Hexagon Robotics: Menschenähnliche Roboter für die Autofabrik",
+      "teaser": "Humanoide KI-Roboter könnten, so die Hoffnung, in einigen Jahren in Scharen Fabriken bevölkern. Der Schweizer Hersteller Hexagon Robotics macht dabei einiges anders als die Konkurrenz – und punktet bei den Kunden.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bmw-menschenaehnliche-ki-roboter-sollen-die-fabriken-revolutionieren-accg-201072245.html",
+      "image_url": "https://media0.faz.net/image/w920/9a7dfdf26086/w5000h2142x0y804/202607/43601.0.2386231300/humanoider-roboter-von-hexagon.webp",
+      "image_title": "Humanoider Roboter von Hexagon im Leipziger Werk von BMW"
     },
     {
-      "title": "Künstliche Intelligenz: Wenn die KI zum Mail-Betrüger mutiert",
-      "teaser": "Britische Forscher haben in Tests festgestellt, dass das KI-Modell Mythos falsche Identitäten annimmt und Phishing-Mails verschickt hat. Es ist nicht der erste ernste Vorfall dieser Art.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-ki-mythos-hackt-selbstaendig-phishing-und-schadsoftware-201097834.html",
-      "image_url": "https://media0.faz.net/image/w920/bbfcaf87b6f4/w3993h1711x0y476/202608/43601.0.2404748803/eigentlich-ganz-putzig.webp",
-      "image_title": "Eigentlich ganz putzig: Maskottchen der Künstlichen Intelligenz Claude von Anthropic"
+      "title": "Rekordaufträge: Siemens meldet Rekordquartal – Aktien verlieren trotzdem",
+      "teaser": "Auftragsbestand und -eingang des Technologiekonzerns erreichen Rekordwerte. Siemens hebt die Prognose an, aber der Börse reicht das nicht. Trotz erhöhter Gewinnprognose verlor der Aktienkurs sechs Prozent. Warum?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-meldet-rekordquartal-aktien-verlieren-trotzdem-accg-201100671.html",
+      "image_url": "https://media0.faz.net/image/w1100/f469dca518e0/w5500h3094x0y287/202605/43601.0.2076238442/ki-und-rechenzentren-treiben.webp",
+      "image_title": "KI und Rechenzentren treiben das Geschäft von Siemens: Vorstandsvorsitzender Roland Busch hebt deshalb den Gewinnausblick an."
     },
     {
-      "title": "Gewichtsreduktion: Novo Nordisk führt Abnehmpille bald in Deutschland ein",
-      "teaser": "Das dänische Unternehmen spricht von einer „erfreulichen Nutzung“ seiner Abnehmpille Wegovy in den USA. Nun soll das Medikament auch den europäischen Markt erobern. Aber Konkurrent Eli Lilly ist dicht auf den Fersen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/novo-nordisk-wegovy-pille-kommt-im-september-nach-deutschland-201098105.html",
-      "image_url": "https://media0.faz.net/image/w1100/ebf55352656b/w6000h3375x0y625/202606/43601.0.2226412189/wegovy-ist-einer-der-grossen.webp",
-      "image_title": "Wegovy ist einer der großen Umsatzgaranten beim dänischen Pharmaunternehmen Novo Nordisk."
-    },
-    {
-      "title": "Logistikkonzern: DHL verdient deutlich mehr",
-      "teaser": "Das Sparprogramm des Bonner Logistikkonzerns fruchtet, und das Express-Geschäft wächst stark. Jetzt will das Unternehmen verstärkt eigene Aktien zurückkaufen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dhl-steigert-gewinn-um-24-prozent-express-boomt-201097849.html",
-      "image_url": "https://media0.faz.net/image/w1100/01ae753c77c7/w5279h2969x0y551/202607/43601.0.2364738387/gewinnbringer-die.webp",
-      "image_title": "Gewinnbringer: Die Flugzeugflotte von DHL war im ersten Halbjahr gut ausgelastet."
+      "title": "Künstliche Intelligenz: Ein Paukenschlag in Googles KI-Geschäft",
+      "teaser": "KI-Superstar und Nobelpreisträger Demis Hassabis übernimmt neue Rollen, andere Manager verlassen den Konzern ganz. Diese Wechsel werfen einige Fragen auf und beunruhigen die Börse.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/google-deepmind-demis-hassabis-uebernimmt-neue-rolle-201099577.html",
+      "image_url": "https://media0.faz.net/image/w1100/c0444b5603f7/w7460h4196x0y169/202608/43601.0.2405367846/eine-in-einer-serie-von.webp",
+      "image_title": "Eine in einer Serie von Personalveränderungen in Googles KI-Geschäft: Demis Hassabis gibt den Vorstandsvorsitz von Google Deepmind auf."
     },
     {
       "title": "Bücherregal: Das Auge liest mit",
