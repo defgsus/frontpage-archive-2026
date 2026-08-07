@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T09:46:55",
+  "timestamp": "2026-08-07T10:39:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "Fehlende KontaktmöglichkeitDeutschland verschläft Sicherheit per security.txt",
-      "teaser": "Nur 1,8 Prozent der deutschen Webseiten bieten eine standardisierte security.txt an. Das BSI warnt vor den Risiken.",
-      "url": "https://www.heise.de/news/Fehlende-Kontaktmoeglichkeit-Deutschland-verschlaeft-Sicherheit-per-security-txt-11402270.html",
-      "image_title": "Eine animierte Grafik zeigt einen Stapel von Akten, daran lehnt eine blaue Sprechblase mit einem weißen Informations-i darin."
+      "title": "AlertDurch Metabase-0dayDatenleck bei Laptophersteller Framework",
+      "teaser": "Nur wenige Stunden nach Bekanntwerden einer Sicherheitslücke informiert der Framework seine Kunden. Metabase veröffentlichte eigene Sicherheitshinweise.",
+      "url": "https://www.heise.de/news/Durch-Metabase-0day-Datenleck-bei-Laptophersteller-Framework-11403050.html",
+      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
       "title": "„Passwort“ Folge 63Ein Rotes Kreuz für den Cyberspace",
@@ -32,9 +32,9 @@
       "image_title": "Das Logo des Podcasts. Es zeigt ein Quadrant mit Zeichensalat, in dem die Phrasen „P@a$“ und „w0r7“ (für „Passwort“) hervorgehoben sind."
     },
     {
-      "title": "AlertScreen Sharing in macOS: Lücke ermöglichte Zugriff ohne Authentifizierung",
-      "url": "https://www.heise.de/news/Screen-Sharing-in-macOS-Luecke-ermoeglichte-Zugriff-ohne-Authentifizierung-11402599.html",
-      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
+      "title": "AlertAngreifer attackieren IBM Langflow und Apache-Tomcat-Server",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html",
+      "image_title": "Eine symbolische Updateerinnerung."
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -51,6 +51,12 @@
     {
       "title": "Aufzeichnung im Shop verfügbarMicrosoft Cloud: Sicherheit systematisch testen und verbessern",
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "AlertAngreifer attackieren IBM Langflow und Apache-Tomcat-Server",
+      "teaser": "Derzeit schieben Angreifer Schadcode auf IBM-Langflow-Instanzen. Im Cluster-Betrieb von Apache Tomcat können sie Datenverkehr mitlesen.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html",
+      "image_title": "Eine symbolische Updateerinnerung."
     },
     {
       "title": "AlertScreen Sharing in macOS: Lücke ermöglichte Zugriff ohne Authentifizierung",
@@ -74,6 +80,12 @@
       "teaser": "Nach dem Datenklau beim US-Cloud-Anbieter Snowflake hat ein Kanadier Millionen von dessen Kunden erpresst. Nach Schuldbekenntnis drohen ihm 2 bis 30 Jahre Haft.",
       "url": "https://www.heise.de/news/Cyberkrimineller-bekennt-sich-der-Millionen-Erpressung-von-Cloud-Kunden-schuldig-11402603.html",
       "image_title": "Handschellen auf Computer-Tastatur"
+    },
+    {
+      "title": "Fehlende Kontaktmöglichkeit: Deutschland verschläft Sicherheit per security.txt",
+      "teaser": "Nur 1,8 Prozent der deutschen Webseiten bieten eine standardisierte security.txt an. Das BSI warnt vor den Risiken und verweist auf kommende Meldepflichten.",
+      "url": "https://www.heise.de/news/Fehlende-Kontaktmoeglichkeit-Deutschland-verschlaeft-Sicherheit-per-security-txt-11402270.html",
+      "image_title": "Eine animierte Grafik zeigt einen Stapel von Akten, daran lehnt eine blaue Sprechblase mit einem weißen Informations-i darin."
     },
     {
       "title": "AlertVeeam One und Service Provider Console für Schadcode-Attacken anfällig",
@@ -132,18 +144,6 @@
       "teaser": "Aufgrund einer Sicherheitslücke können Angreifer die IT-Sicherheitslösung Security Management von Check Point attackieren. Hotfixes stehen zum Download.",
       "url": "https://www.heise.de/news/Check-Point-Angreifer-koennen-Security-Management-Server-uebernehmen-11398187.html",
       "image_title": "Eine Frau drück einen symbolischen Updateknopf."
-    },
-    {
-      "title": "iX-Workshop: NIS-2-Richtlinie im Unternehmen umsetzen",
-      "teaser": "Erfahren Sie, welche NIS-2-Pflichten für Ihr Unternehmen gelten – und wie Sie passende Sicherheitsmaßnahmen für Ihre IT gezielt planen und umsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Richtlinie-im-Unternehmen-umsetzen-11378588.html",
-      "image_title": "Ein Gruppe von Zahnrädern, zwei davon stilisiert als Sterne der EU-Flagge, einer in rot und einer in blau; links oben ein gelber Kreis mit weißer Schrift: \"iX Workshops\""
-    },
-    {
-      "title": "AlertJetzt patchen! Angreifer attackieren N-able N-central",
-      "teaser": "N-ables Endpoint-Managementlösung N-central ist verwundbar und Angreifer attackieren bereits Instanzen. Admins sollten zügig handeln.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-N-able-N-central-11397397.html",
-      "image_title": "Malware-Warnung auf einem Computerbildschirm"
     },
     {
       "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
