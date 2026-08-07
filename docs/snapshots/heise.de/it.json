@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T10:39:34",
+  "timestamp": "2026-08-07T11:35:26",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,13 +20,44 @@
   ],
   "articles": [
     {
+      "title": "KI und Java: Warum Unternehmen jetzt ihre Schulden bereinigen sollten",
+      "teaser": "Java ist für KI-Anwendungen im Enterprise-Bereich unverzichtbar. Doch technische Schulden und anstehende LTS-Upgrades zwingen Unternehmen zur Modernisierung.",
+      "url": "https://www.heise.de/hintergrund/KI-und-Java-Warum-Unternehmen-jetzt-ihre-Schulden-bereinigen-sollten-11394164.html"
+    },
+    {
+      "title": "KI-Agenten im AngriffsmodusOpenAI liefert mehr Details zum Hugging-Face-Vorfall",
+      "teaser": "Mitarbeiter von OpenAI enthüllen weitere Details rund um den Einbruch ihrer KI-Agenten bei anderen Firmen und offenbaren erschreckende Fahrlässigkeit.",
+      "url": "https://www.heise.de/news/OpenAI-liefert-mehr-Details-zum-Hugging-Face-Vorfall-11403154.html",
+      "image_title": "OpenAI-Schriftzug auf einem Smartphone vor dem Logo"
+    },
+    {
+      "title": "SicherheitLieferketten-Angriff auf keyv: Shai-Hulud-Wurm infiziert mehr als 440 npm-Pakete",
+      "teaser": "Die populäre Key‑Value‑Datenbank keyv und andere weit verbreitete npm-Pakete waren Ziel einer Lieferkettenattacke. Der potenzielle Schaden ist groß.",
+      "url": "https://www.heise.de/news/Lieferketten-Angriff-auf-keyv-Shai-Hulud-Wurm-infiziert-mehr-als-440-npm-Pakete-11403078.html",
+      "image_title": "Symbolbild für den Lieferkettenangriff auf keyv."
+    },
+    {
       "title": "Proxmox jetzt auch für Arm – aber nicht auf Raspberry Pi",
       "teaser": "Ab sofort steht die quelloffene Virtualisierungsplattform Proxmox VE 9.2 auch für Arm64-Server zur Verfügung – zunächst für Systeme mit Nvidia Grace und Vera.",
       "url": "https://www.heise.de/news/Proxmox-jetzt-auch-fuer-Arm-aber-nicht-auf-Raspberry-Pi-11403136.html",
       "image_title": "Screenshot der Bedienoberfläche von Proxmox VE 9.2"
     },
     {
-      "title": "ChatGPT: OpenAI wertet kostenlosen Tarif auf",
+      "title": "HintergrundDisney+ gegen InterDigital: Warum 4K-Streaming wegen eines Patents ausfiel",
+      "url": "https://www.heise.de/hintergrund/Disney-gegen-InterDigital-Warum-4K-Streaming-wegen-eines-Patents-ausfiel-11394942.html"
+    },
+    {
+      "title": "TestsKreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
+      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
+      "image_title": "Logoist 6 gibt es für mehrere Plattformen"
+    },
+    {
+      "title": "RatgeberLAYSIE: KI-Songs mit Raspberry Pi generieren",
+      "url": "https://www.heise.de/ratgeber/LAYSIE-KI-Songs-mit-Raspberry-Pi-generieren-11368294.html",
+      "image_title": ","
+    },
+    {
+      "title": "ChatGPT knackt Milliardenmarke und hebt Chat-Limit für Gratisnutzer auf",
       "teaser": "ChatGPT erreicht die Marke von einer Milliarde wöchentlicher Nutzer und wertet den kostenlosen Zugang mit unbegrenzten Text-Chats über GPT-5.6 Luna auf.",
       "url": "https://www.heise.de/news/ChatGPT-OpenAI-wertet-kostenlosen-Tarif-auf-11403006.html",
       "image_title": "ChatGPT-App auf einem Smartphone"
@@ -42,20 +73,6 @@
       "teaser": "Meta soll nach einem US-Gerichtsurteil über 500 Mio. Dollar für Kinder-Hilfen zahlen. Zudem gibt es strenge Nutzungslimits für Minderjährige in New Mexico.",
       "url": "https://www.heise.de/news/Gericht-Meta-soll-halbe-Milliarde-Dollar-in-Fonds-fuer-Kinder-zahlen-11403170.html",
       "image_title": "Leuchtendes Meta-Logo auf einem dunklen Bildschirm, umgeben von blau beleuchteten Tastaturtasten."
-    },
-    {
-      "title": "HintergrundDisney+ gegen InterDigital: Warum 4K-Streaming wegen eines Patents ausfiel",
-      "url": "https://www.heise.de/hintergrund/Disney-gegen-InterDigital-Warum-4K-Streaming-wegen-eines-Patents-ausfiel-11394942.html"
-    },
-    {
-      "title": "TestsKreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
-      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
-      "image_title": "Logoist 6 gibt es für mehrere Plattformen"
-    },
-    {
-      "title": "RatgeberLAYSIE: KI-Songs mit Raspberry Pi generieren",
-      "url": "https://www.heise.de/ratgeber/LAYSIE-KI-Songs-mit-Raspberry-Pi-generieren-11368294.html",
-      "image_title": ","
     },
     {
       "title": "AlertDurch Metabase-0day: Datenleck bei Laptophersteller Framework",
@@ -126,23 +143,6 @@
       "title": "Informationssicherheit in Behörden – ISMS nach IT-Grundschutz aufbauen",
       "teaser": "Praxisnah zum gelebten ISMS: IT-Grundschutz, BSI-Standards und die Aufgaben des Informationssicherheitsbeauftragten (ISB) in Behörden etablieren.",
       "url": "https://www.heise.de/news/Informationssicherheit-in-Behoerden-ISMS-nach-IT-Grundschutz-aufbauen-11382827.html"
-    },
-    {
-      "title": "Apps für Mobilgeräte und Web entwickeln mit Compose und Kotlin Multiplatform",
-      "teaser": "Kotlin Multiplatform ermöglicht es, eine Android-App ohne viel Aufwand auch für iOS, Desktop und das Web zu veröffentlichen. Wir probieren das aus.",
-      "url": "https://www.heise.de/ratgeber/Apps-fuer-Mobilgeraete-und-Web-entwickeln-mit-Compose-und-Kotlin-Multiplatform-11350821.html"
-    },
-    {
-      "title": "„MFA-Börse“: Online-Plattform soll gegen Personalmangel in Praxen helfen",
-      "teaser": "Die MFA-Börse ist eine neue Online-Plattform, die Praxen und Medizinische Fachangestellte (MFA) zusammenbringt, um Personalengpässe zu lindern.",
-      "url": "https://www.heise.de/news/MFA-Boerse-Online-Plattform-soll-gegen-Personalmangel-in-Praxen-helfen-11400813.html",
-      "image_title": "Ärztin auf der Intensivstation hält über einen Videocall, auch Telekonsil genannt, Rücksprache mit einem anderen Arzt."
-    },
-    {
-      "title": "Cyberkrimineller bekennt sich der Millionen-Erpressung von Cloud-Kunden schuldig",
-      "teaser": "Nach dem Datenklau beim US-Cloud-Anbieter Snowflake hat ein Kanadier Millionen von dessen Kunden erpresst. Nach Schuldbekenntnis drohen ihm 2 bis 30 Jahre Haft.",
-      "url": "https://www.heise.de/news/Cyberkrimineller-bekennt-sich-der-Millionen-Erpressung-von-Cloud-Kunden-schuldig-11402603.html",
-      "image_title": "Handschellen auf Computer-Tastatur"
     },
     {
       "title": "UpdateNewsBMW: Belästigt Mit Werbung",
