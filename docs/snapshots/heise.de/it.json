@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T12:34:40",
+  "timestamp": "2026-08-07T14:02:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Vorsicht, Kunde: Wenn der Provider den Router aus der Ferne falsch konfiguriert",
+      "teaser": "Nach einer Fritzbox-Störung bei TNG klingeln fremde Anrufe bei einem Kunden; seine eigenen Nummern sind tot. Die Reaktion des Anbieters fällt merkwürdig aus.",
+      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Wenn-der-Provider-den-Router-aus-der-Ferne-falsch-konfiguriert-11326736.html",
+      "image_title": "Telefonschaltung"
+    },
+    {
+      "title": "M365 Copilot: Domain Exclusion angekündigt – und sofort zurückgezogen",
+      "teaser": "Microsoft kündigte eine Domain Exclusion für M365 Copilot an, zog die Funktion aber kurz darauf zurück. Die Gründe sind unklar.",
+      "url": "https://www.heise.de/news/M365-Copilot-Domain-Exclusion-angekuendigt-und-sofort-zurueckgezogen-11403452.html",
+      "image_title": "Schriftzug \"Microsoft 365\" unter einer Lupe"
+    },
+    {
       "title": "iX-Workshop: Netzwerkprobleme mit Wireshark analysieren und beheben",
       "teaser": "Praktische Übungen, Experten-Tipps und fundiertes Wissen: Lernen Sie, wie Sie mit Wireshark Netzwerkprobleme erkennen und beheben.",
       "url": "https://www.heise.de/news/iX-Workshop-Netzwerkprobleme-mit-Wireshark-analysieren-und-beheben-11378618.html",
@@ -29,18 +41,6 @@
       "title": "FAQ: Desinfec’t 2026",
       "teaser": "Wir haben Desinfec’t 2026 vollständig überarbeitet. Hier bündeln wir die Antworten auf häufig gestellte Fragen.",
       "url": "https://www.heise.de/ratgeber/FAQ-Desinfec-t-2026-11329056.html"
-    },
-    {
-      "title": "KI-Agenten im AngriffsmodusOpenAI liefert mehr Details zum Hugging-Face-Vorfall",
-      "teaser": "Mitarbeiter von OpenAI enthüllen weitere Details rund um den Einbruch ihrer KI-Agenten bei anderen Firmen und offenbaren erschreckende Fahrlässigkeit.",
-      "url": "https://www.heise.de/news/OpenAI-liefert-mehr-Details-zum-Hugging-Face-Vorfall-11403154.html",
-      "image_title": "OpenAI-Schriftzug auf einem Smartphone vor dem Logo"
-    },
-    {
-      "title": "SicherheitLieferketten-Angriff auf keyv: Shai-Hulud-Wurm infiziert mehr als 440 npm-Pakete",
-      "teaser": "Die populäre Key‑Value‑Datenbank keyv und andere weit verbreitete npm-Pakete waren Ziel einer Lieferkettenattacke. Der potenzielle Schaden ist groß.",
-      "url": "https://www.heise.de/news/Lieferketten-Angriff-auf-keyv-Shai-Hulud-Wurm-infiziert-mehr-als-440-npm-Pakete-11403078.html",
-      "image_title": "Eine Szene aus dem Film \"Dune\" mit drei riesigen Sandwürmern, die über den Wüstensand rasen.."
     },
     {
       "title": "RatgeberFAQ: Desinfec’t 2026",
@@ -54,6 +54,18 @@
       "title": "TestsKreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
       "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
       "image_title": "Logoist 6 gibt es für mehrere Plattformen"
+    },
+    {
+      "title": "OpenAI: Neue, erschreckende Details zum Hugging-Face-Vorfall",
+      "teaser": "Mitarbeiter von OpenAI enthüllen weitere Details rund um den Einbruch ihrer KI-Agenten bei anderen Firmen und offenbaren erschreckende Fahrlässigkeit.",
+      "url": "https://www.heise.de/news/OpenAI-liefert-mehr-Details-zum-Hugging-Face-Vorfall-11403154.html",
+      "image_title": "OpenAI-Schriftzug auf einem Smartphone vor dem Logo"
+    },
+    {
+      "title": "Lieferketten-Angriff auf keyv: Shai-Hulud-Wurm infiziert mehr als 440 npm-Pakete",
+      "teaser": "Die populäre Key‑Value‑Datenbank keyv und andere weit verbreitete npm-Pakete waren Ziel einer Lieferkettenattacke. Der potenzielle Schaden ist groß.",
+      "url": "https://www.heise.de/news/Lieferketten-Angriff-auf-keyv-Shai-Hulud-Wurm-infiziert-mehr-als-440-npm-Pakete-11403078.html",
+      "image_title": "Eine Szene aus dem Film \"Dune\" mit drei riesigen Sandwürmern, die über den Wüstensand rasen.."
     },
     {
       "title": "Proxmox jetzt auch für Arm – aber nicht auf Raspberry Pi",
@@ -131,18 +143,6 @@
       "teaser": "Kleine Hacks sind oft harmlos – wie die meisten Notlügen. Aber sie können sich aufsummieren und zu technischen Schulden werden.",
       "url": "https://www.heise.de/hintergrund/Von-kleinen-Hacks-technischen-Schulden-und-Notluegen-11400065.html",
       "image_title": "Ein Programmierer denkt an das wackelige Gebäude, das sein Code iunzwischen ist"
-    },
-    {
-      "title": "Neu in .NET 10.0 [34]: Keine doppelten Attributwerte bei JSON-Deserialisierung",
-      "teaser": "Die neue Einstellung \"AllowDuplicateProperties = false\" löst bei doppelten Werten in der JSON-Deserialisierung einen Laufzeitfehler aus.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-34-Keine-doppelten-Attributwerte-bei-JSON-Deserialisierung-11401838.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "Branchenbündnis setzt auf Open Access statt staatlicher Regulierung",
-      "teaser": "Ein Branchenbündnis setzt beim Breitbandausbau auf Kooperation statt neuer Gesetze: Eine freiwillige Öffnung der Netze soll den Glasfaserausbau vorantreiben.",
-      "url": "https://www.heise.de/news/Fairplay-Vereinbarung-soll-Internet-Ausbau-beschleunigen-11402705.html",
-      "image_title": "Symbolbild für Datenverbindungen"
     },
     {
       "title": "UpdateNewsBMW: Belästigt Mit Werbung",
