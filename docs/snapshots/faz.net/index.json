@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T16:16:45",
+  "timestamp": "2026-08-08T17:18:29",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -54,6 +54,12 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://core.dpa-infocom.net/js/dpa.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
       "src": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
       "id": null,
@@ -62,6 +68,30 @@
   ],
   "articles": [
     {
+      "title": "Neues KI-Modell „Astra“: Open AI zieht die Notbremse",
+      "teaser": "Der ChatGPT-Entwickler stellt die Arbeit an einem KI-Modell aus Sicherheitsgründen teilweise ein. Er sagt, es verfüge über „kritische Cyberfähigkeiten“. Was folgt daraus?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/entwicklung-an-astra-modell-teils-gestoppt-open-ai-zieht-notbremse-accg-201107993.html",
+      "image_url": "https://media0.faz.net/image/w1200/e008770b6f2e/w6500h3656x0y586/202607/43601.0.2388194136/open-ai-chef-sam-altman-ende.webp",
+      "image_title": "Open AI-Chef Sam Altman Ende Juli in Washington"
+    },
+    {
+      "title": "FAZ+Umbau beim Versicherer: Das große KI-Experiment der Allianz",
+      "teaser": "Der Versicherer wird zum Testfall dafür, was Künstliche Intelligenz mit unseren Jobs macht. Sie soll Arbeit erleichtern und neue Geschäfte ermöglichen. Zugleich wächst die Sorge um die Arbeitsplätze.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-grosse-ki-experiment-der-allianz-accg-201094131.html"
+    },
+    {
+      "title": "FAZ+Schneller Schlau: Was kostet eine KI Anfrage?",
+      "teaser": "ChatGPT, Claude oder Gemini gehören für viele inzwischen zum Alltag. Wie viel Strom, Geld und Technik steckt hinter einer einzigen Anfrage – und wer zahlt am Ende die Rechnung?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/chatgpt-gemini-claude-und-co-was-eine-ki-anfrage-kostet-201069075.html"
+    },
+    {
+      "title": "Vermeintliche hintermänner: ARD-Korrespondent Restle postet Verschwörungstheorie",
+      "teaser": "Georg Restle ist seit kurzem Afrika-Korrespondent der ARD. Nun postet er Mutmaßungen zum Migranten-Ansturm auf Ceuta. Belege hat er nicht. Kritiker verweisen auf den dubiosen Kern von Restles vermeintlicher Erklärung.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ard-mann-restle-verbreitet-verschwoerungstheorie-zu-ansturm-auf-ceuta-accg-201107803.html",
+      "image_url": "https://media0.faz.net/image/w920/8e090642d036/w3428h1928x0y178/202506/435e4278ec-3fe6-11f0-8366-9ce1424c0355/denkt-er-hat-den-bogen-raus.webp",
+      "image_title": "Denkt, er hat den Bogen raus. ARD-Korrespondent Georg Restle."
+    },
+    {
       "title": "Spanische Enklave Ceuta: Für den 15. August ist der nächste Ansturm geplant",
       "teaser": "In Ceuta herrscht immer noch der Ausnahmezustand. Die Bewohner sprechen von einer „Invasion“, schimpfen aber auch über Rechtspopulisten, die ihre Not ausnutzen.",
       "url": "https://www.faz.net/aktuell/politik/ausland/in-ceuta-herrscht-immer-noch-der-ausnahmezustand-accg-201093698.html",
@@ -69,9 +99,16 @@
       "image_title": "Eine Einwohnerin von Ceuta sitzt an einer Bushaltestelle, während Soldaten hinter ihr Migranten abführen."
     },
     {
-      "title": "Vermeintliche hintermänner: ARD-Korrespondent Restle postet Verschwörungstheorie",
-      "teaser": "Georg Restle ist seit kurzem Afrika-Korrespondent der ARD. Nun postet er Mutmaßungen zum Migranten-Ansturm auf Ceuta. Belege hat er nicht. Kritiker verweisen auf den dubiosen Kern von Restles vermeintlicher Erklärung.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ard-mann-restle-verbreitet-verschwoerungstheorie-zu-ansturm-auf-ceuta-accg-201107803.html"
+      "title": "Spanische Enklave Ceuta: Für den 15. August ist der nächste Ansturm geplant",
+      "teaser": "In Ceuta herrscht immer noch der Ausnahmezustand. Die Bewohner sprechen von einer „Invasion“, schimpfen aber auch über Rechtspopulisten, die ihre Not ausnutzen.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/in-ceuta-herrscht-immer-noch-der-ausnahmezustand-accg-201093698.html"
+    },
+    {
+      "title": "Fake News: In Ceuta glauben viele an eine Verschwörung",
+      "teaser": "Für die spanischen Bewohner von Ceuta tragen Marokko, die USA und Israel die Hauptschuld am Migrantenansturm. Die wirkliche Ursache waren offenbar Gerüchte in den sozialen Medien.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ceuta-verschwoerungstheorien-rund-um-den-migrantenansturm-accg-201093718.html",
+      "image_url": "https://media0.faz.net/image/w1200/ae4232069e97/w7321h4118x0y454/202608/43601.0.2397539425/spanische-soldaten-beobachten.webp",
+      "image_title": "Spanische Soldaten beobachten Migranten, die an der Küste von Ceuta angekommen sind."
     },
     {
       "title": "Fake News: In Ceuta glauben viele an eine Verschwörung",
@@ -119,36 +156,6 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/chinas-wirtschaftsangriff-ist-deutschland-zu-lieb-zu-china-accg-201093681.html",
       "image_url": "https://media0.faz.net/image/w1100/291adef2db81/w5712h3213x0y536/202605/43601.0.2157405063/wirtschaftsministerin.webp",
       "image_title": "Wirtschaftsministerin Katherina Reiche lässt sich in China ein Flugtaxi vorführen."
-    },
-    {
-      "title": "FAZ+Umbau beim Versicherer: Das große KI-Experiment der Allianz",
-      "teaser": "Der Versicherer wird zum Testfall dafür, was Künstliche Intelligenz mit unseren Jobs macht. Sie soll Arbeit erleichtern und neue Geschäfte ermöglichen. Zugleich wächst die Sorge um die Arbeitsplätze.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/das-grosse-ki-experiment-der-allianz-accg-201094131.html",
-      "image_url": "https://media0.faz.net/image/w920/04f67667e0c9/w2260h1271x0y0/202511/43601.0.1493149507/ein-mann-mit-aktentasche-geht.webp",
-      "image_title": "Ein Mann mit Aktentasche geht ins Büro."
-    },
-    {
-      "title": "FAZ+Streit ums Schreiben: Warum ein KI-Roman völlig wertlos ist",
-      "teaser": "Gastbeitrag Ein Leipziger Professor behauptet, Algorithmen schreiben schneller und besser als Menschen. Das ist Unfug. Wer den mühsamen Schreibprozess durch Prompts ersetzen will, versteht nicht, warum wir Bücher lesen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/besser-als-der-mensch-warum-ki-romane-voellig-wertlos-sind-accg-201102501.html",
-      "image_url": "https://media0.faz.net/image/w1200/130a0811b756/w4409h2480x0y0/202608/cf71b8e8-6a4e-4b36-b293-ae7073897b37/echte-obsession-laesst-sich.webp",
-      "image_title": "Echte Obsession lässt sich nicht prompten: Jack Nicholson am Verzweifeln vor der Schreibmaschine im Horrorklassiker „The Shining“."
-    },
-    {
-      "title": "FAZ+Streit ums Schreiben: Warum ein KI-Roman völlig wertlos ist",
-      "teaser": "Gastbeitrag Ein Leipziger Professor behauptet, Algorithmen schreiben schneller und besser als Menschen. Das ist Unfug. Wer den mühsamen Schreibprozess durch Prompts ersetzen will, versteht nicht, warum wir Bücher lesen.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/besser-als-der-mensch-warum-ki-romane-voellig-wertlos-sind-accg-201102501.html"
-    },
-    {
-      "title": "FAZ+Schneller Schlau: Was kostet eine KI Anfrage?",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/chatgpt-gemini-claude-und-co-was-eine-ki-anfrage-kostet-201069075.html",
-      "image_url": "https://media0.faz.net/image/w1200/5b72fbd32fbd/w1922h1081x490y0/202607/6f0a8bca-45a9-48e7-9122-833224856476/zuybzkkczxzf.webp"
-    },
-    {
-      "title": "FAZ+Schneller Schlau: Was kostet eine KI Anfrage?",
-      "teaser": "ChatGPT, Claude oder Gemini gehören für viele inzwischen zum Alltag. Wie viel Strom, Geld und Technik steckt hinter einer einzigen Anfrage – und wer zahlt am Ende die Rechnung?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/chatgpt-gemini-claude-und-co-was-eine-ki-anfrage-kostet-201069075.html"
     },
     {
       "title": "Alkoholsucht: Generation Vollrausch",
@@ -207,7 +214,7 @@
       "image_title": "Christian Meier"
     },
     {
-      "title": "Nach Explosion: In Bulgarien explodierte Drohne stammte laut Ministerium wohl aus der Ukraine",
+      "title": "Explosion in Bulgarien: Drohne stammte laut Ministerium wohl aus der Ukraine",
       "teaser": "Eine Drohne ist in Bulgariens Luftraum eingedrungen. Derzeit deute nichts auf einen vorsätzlichen Vorfall hin, teilt das Verteidigungsministerium in Sofia mit.",
       "url": "https://www.faz.net/aktuell/politik/ausland/in-bulgarien-explodierte-drohne-stammte-laut-ministerium-wohl-aus-ukraine-accg-201107911.html"
     },
@@ -217,9 +224,9 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/wie-russlands-eingefrorenes-vermoegen-genutzt-werde-koennte-accg-201093744.html"
     },
     {
-      "title": "Fußball-Ikone: Lionel Messi trauert um seinen Vater",
-      "teaser": "Jorge Messi, Vater und Manager von Fußball-Superstar Lionel Messi, ist im Alter von 68 Jahren gestorben. Schon bei der WM hatte es Spekulationen um seinen Gesundheitszustand gegeben.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-lionel-messi-trauert-um-seinen-vater-jorge-accg-201108069.html"
+      "title": "Mehrere Verletzte: Bus mit deutschen Touristen in Norwegen verunglückt",
+      "teaser": "Ein Reisebus mit 34 deutschen Touristen ist in der Region Trøndelag in einer Kurve umgekippt. Die Unfallursache ist noch unklar.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/norwegen-34-deutsche-in-reisebus-verunglueckt-accg-201108208.html"
     },
     {
       "title": "Irrtum in Klinik: Frau in Italien bekommt falschen Embryo eingesetzt",
@@ -227,19 +234,19 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/italien-frau-in-mailand-bekommt-falschen-embryo-eingesetzt-accg-201107581.html"
     },
     {
+      "title": "Zum Tode Klaus Oesterlings: Mehr als nur ein hervorragender Verkehrspolitiker",
+      "teaser": "Im Alter von 74 Jahren ist Klaus Oesterling gestorben. Über Jahrzehnte war er eine der prägenden Figuren in der Frankfurter Kommunalpolitik.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/klaus-oesterling-frankfurts-praegender-verkehrsdezernent-accg-201108061.html"
+    },
+    {
       "title": "Ender der Isolation: Ist es Zeit für Gespräche mit Myanmars Regime?",
       "teaser": "Thailand rollt Machthaber Min Aung Hlaing den roten Teppich aus. Und selbst einige Rebellen wollen nun verhandeln. Manche nennen das „Verrat“.",
       "url": "https://www.faz.net/aktuell/politik/ausland/myanmar-ist-es-zeit-fuer-gespraeche-mit-dem-regime-accg-201103906.html"
     },
     {
-      "title": "Business-Ticker: Berkshire Hathaway steigert Gewinn und kauft Aktien zurück",
-      "teaser": "Amazon finanziert riesiges Gaskraftwerk in Texas +++ Nvidia plant nächsten Milliardendeal +++ US-Arbeitsmarkt beruhigt Anleger +++ Siemens investiert in den USA +++ Neuigkeiten im Unternehmen-Liveblog.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-berkshire-hathaway-steigert-gewinn-und-kauft-aktien-zurueck-faz-200452404.html"
-    },
-    {
-      "title": "Nach Lawinenunglück: Leichen von deutschem Bergsteiger und vier weiteren Vermissten in Nepal gefunden",
-      "teaser": "Die Bergsteiger waren im November am Yalung Ri nahe der Grenze zu Tibet unterwegs, als eine Lawine sie erfasste. Nun wurden ihre Leichen geborgen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/nepal-leichen-von-bergsteigern-nach-lawinenunglueck-gefunden-accg-201107889.html"
+      "title": "Nur 8 Sekunden Vorsprung: Vollering übernimmt Gelb vor dem Finale in Nizza",
+      "teaser": "2024 gewann Kasia Niewiadoma die Tour de France mit nur vier Sekunden Vorsprung auf Demi Vollering. Diesmal geht Vollering als Führende ins Finale – acht Sekunden vor der Polin.",
+      "url": "https://www.faz.net/aktuell/sport/tour-de-france/tour-de-france-der-frauen-vollering-geht-mit-acht-sekunden-vorsprung-ins-finale-accg-201108224.html"
     },
     {
       "title": "High Diving am Eiffelturm: Maike Halbisch springt zu EM-Bronze",
@@ -402,6 +409,13 @@
       "image_title": "Sicherheit in unsicheren Zeiten: Vieles wird hinterfragt, sagt Baron, der Lieblingsverein nicht."
     },
     {
+      "title": "Fußball-Ikone: Lionel Messi trauert um seinen Vater",
+      "teaser": "Jorge Messi, Vater und Manager von Fußball-Superstar Lionel Messi, ist im Alter von 68 Jahren gestorben. Schon bei der WM hatte es Spekulationen um seinen Gesundheitszustand gegeben.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-lionel-messi-trauert-um-seinen-vater-jorge-accg-201108069.html",
+      "image_url": "https://media0.faz.net/image/w1100/ebfa270e1dd7/w5332h2999x0y0/202511/43601.0.1535141997/jorge-messi-l-mit-ehefrau.webp",
+      "image_title": "Jorge Messi (l.) mit Ehefrau Celia Cuccittini"
+    },
+    {
       "title": "Fußball-Transferticker: Guimaraes geht zu den Gunners",
       "teaser": "Bayer verlängert mit Carro und Rolfes +++ Wechsel von Asllani nach Leipzig geplatzt +++ Diomande geht für Rekordsumme nach Madrid +++ Ebimbe wechselt zu Schalke +++ alle Infos im Transferticker.",
       "url": "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-guimaraes-geht-zu-den-gunners-faz-18134600.html",
@@ -414,13 +428,6 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-bundesliga-braunschweig-mit-kantersieg-an-der-spitze-accg-201101386.html",
       "image_url": "https://media0.faz.net/image/w1100/0c9ba0c5fc88/w3500h1969x0y0/202608/43601.0.2413392374/magdeburgs-alexander.webp",
       "image_title": "Magdeburgs Alexander Nollenberger kann nicht hinsehen, während die Spieler von Eintracht Braunschweig jubeln."
-    },
-    {
-      "title": "Schwimm-EM in Paris: Freiwasserstaffel um Wellbrock gewinnt Gold",
-      "teaser": "Forian Wellbrock gewinnt mit der Mixed-Staffel seinen dritten Titel bei dieser Schwimm-EM in der Seine. Er zeigt sich „dankbar, dass ich das noch mal erleben durfte“.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/schwimm-em-deutsche-freiwasserschwimmer-um-florian-wellbrock-gewinnen-gold-in-mixed-staffel-accg-201107638.html",
-      "image_url": "https://media0.faz.net/image/w1100/4d02494c962f/w5316h2990x0y36/202608/43601.0.2413028805/zieht-die-deutsche-staffel-zu.webp",
-      "image_title": "Zieht die deutsche Staffel zu Gold: Florian Wellbrock in der Seine"
     },
     {
       "title": "USA unter Trump: US-Senat bestätigt Todd Blanche als Justizminister",
@@ -451,10 +458,17 @@
       "image_title": "Blick auf Saudi-Arabiens Hauptstadt Riad"
     },
     {
+      "title": "Business-Ticker: Berkshire Hathaway steigert Gewinn und kauft Aktien zurück",
+      "teaser": "Amazon finanziert riesiges Gaskraftwerk in Texas +++ Nvidia plant nächsten Milliardendeal +++ US-Arbeitsmarkt beruhigt Anleger +++ Siemens investiert in den USA +++ Neuigkeiten im Unternehmen-Liveblog.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-berkshire-hathaway-steigert-gewinn-und-kauft-aktien-zurueck-faz-200452404.html",
+      "image_url": "https://media0.faz.net/image/w1200/a368e97407a1/w5783h3253x0y301/202605/43601.0.2038693095/berkshire-hathaway-chef-greg.webp",
+      "image_title": "Berkshire Hathaway-Chef Greg Abel"
+    },
+    {
       "title": "FAZ+Atommüll in Finnland: „Das nächste Endlager könnten wir noch schneller bauen“",
       "teaser": "Als erstes Land der Welt hat Finnland ein Endlager für seinen Atommüll gebaut. Was kann Deutschland davon lernen?",
       "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/finnlands-endlager-was-deutschland-von-posiva-lernen-kann-accg-201101449.html",
-      "image_url": "https://media0.faz.net/image/w1200/1571bc7f7909/w4833h2719x0y252/202604/43601.0.1961655853/450-meter-unter-der-erde-ein.webp",
+      "image_url": "https://media0.faz.net/image/w1100/1571bc7f7909/w4833h2719x0y252/202604/43601.0.1961655853/450-meter-unter-der-erde-ein.webp",
       "image_title": "450 Meter unter der Erde: ein Stollen im Atommüllendlager an der finnischen Ostseeküste"
     },
     {
@@ -472,17 +486,17 @@
       "image_title": "Blick auf die Hauptbühne im Jahr 2025"
     },
     {
-      "title": "Trotz Branchenkrise: Guinness will Bierabsatz verdoppeln",
-      "teaser": "Von wegen Brauereisterben: Die irische Traditionsmarke boomt – auch dank eines Hypes in den sozialen Medien. Nun ist eine Milliardeninvestition geplant.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/guinness-plant-verdopplung-der-braukapazitaet-bei-diageo-accg-201104960.html",
-      "image_url": "https://media0.faz.net/image/w1100/ad344be6ace2/w3000h1688x0y156/202406/1.9783561/guinness-hat-in-den.webp",
-      "image_title": "Guinness hat in den vergangenen Jahren zweistellige Wachstumsraten erreicht."
+      "title": "FAZ+Streit ums Schreiben: Warum ein KI-Roman völlig wertlos ist",
+      "teaser": "Gastbeitrag Ein Leipziger Professor behauptet, Algorithmen schreiben schneller und besser als Menschen. Das ist Unfug. Wer den mühsamen Schreibprozess durch Prompts ersetzen will, versteht nicht, warum wir Bücher lesen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/besser-als-der-mensch-warum-ki-romane-voellig-wertlos-sind-accg-201102501.html",
+      "image_url": "https://media0.faz.net/image/w920/58635d2f37d9/w4409h1889x0y295/202608/cf71b8e8-6a4e-4b36-b293-ae7073897b37/echte-obsession-laesst-sich.webp",
+      "image_title": "Echte Obsession lässt sich nicht prompten: Jack Nicholson am Verzweifeln vor der Schreibmaschine im Horrorklassiker „The Shining“."
     },
     {
       "title": "Kolumne „So isst Politik“: Wo Merkel sich einen Döner holt",
       "teaser": "Der Bundestag ist in der Sommerpause. Aber Döner geht immer. Welcher Imbiss ist bei Politikern besonders beliebt?",
       "url": "https://www.faz.net/aktuell/besser-leben/stil/angela-merkel-und-ihr-lieblingsdoener-in-berlin-mitte-accg-201093751.html",
-      "image_url": "https://media0.faz.net/image/w920/cebd07a56a71/w4032h1728x0y453/202608/43601.0.2404747515/beweisfoto-mit-kanzlerin.webp",
+      "image_url": "https://media0.faz.net/image/w1100/b064794ad35c/w4032h2268x0y0/202608/43601.0.2404747515/beweisfoto-mit-kanzlerin.webp",
       "image_title": "Beweisfoto mit Kanzlerin: Merkel kommt gerne her."
     },
     {
@@ -491,13 +505,6 @@
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ki-kann-jetzt-auch-viren-designen-accg-201104483.html",
       "image_url": "https://media0.faz.net/image/w1100/08079161d2a6/w5500h3094x0y104/202608/43601.0.2410756517/visualisierung-von-phagen-die.webp",
       "image_title": "Visualisierung von Phagen, die ein Bakterium infizieren."
-    },
-    {
-      "title": "„Taktisch Wählen 2026“: Ist das verkappte Wahlwerbung?",
-      "teaser": "Die Kampagne „Taktisch Wählen 2026“ will mit Wahlempfehlungen eine AfD-Mehrheit in Sachsen-Anhalt verhindern. Politiker von CDU, FDP, BSW und Linke kritisieren sie.",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-sachsen-anhalt/taktisch-waehlen-kampagne-gegen-afd-mehrheit-in-sachsen-anhalt-in-der-kritik-accg-201099098.html",
-      "image_url": "https://media0.faz.net/image/w1100/4535e9fbc574/w4000h2250x0y329/202607/43601.0.2287444604/die-kampagne-taktisch-waehlen.webp",
-      "image_title": "Die Kampagne „Taktisch Wählen 2026“ will eine AfD-Mehrheit im Landtag von Sachsen-Anhalt verhindern."
     },
     {
       "title": "Anleihenmarkt: Haben die Renditen ihren Höchststand erreicht?",
@@ -577,10 +584,17 @@
       "image_title": "Studenten in einem Hörsaal des Campus Westend der Goethe-Universität Frankfurt."
     },
     {
+      "title": "Nach Lawinenunglück: Leichen von deutschem Bergsteiger und vier weiteren Vermissten in Nepal gefunden",
+      "teaser": "Die Bergsteiger waren im November am Yalung Ri nahe der Grenze zu Tibet unterwegs, als eine Lawine sie erfasste. Nun wurden ihre Leichen geborgen.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/nepal-leichen-von-bergsteigern-nach-lawinenunglueck-gefunden-accg-201107889.html",
+      "image_url": "https://media0.faz.net/image/w1200/fac56db879d6/w6559h3689x0y724/202608/43601.0.2413590215/schoen-und-zugleich.webp",
+      "image_title": "Schön und zugleich gefährlich: Bergsteigen im Himalaya in Nepal"
+    },
+    {
       "title": "F.A.S. exklusiv: Zahl der Väter in Deutschland ist deutlich gesunken",
       "teaser": "Exklusive Daten zeigen, wie stark die Zahl der kinderlosen Männer gestiegen ist. Insbesondere in dem Alter, in dem viele eine Familie gründen.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/kinderlose-maenner-in-deutschland-anstieg-auf-40-prozent-accg-201101546.html",
-      "image_url": "https://media0.faz.net/image/w1200/ee272d3e1d47/w4509h2536x0y267/202605/43601.0.2072373181/immer-weniger-maenner-werden.webp",
+      "image_url": "https://media0.faz.net/image/w1100/ee272d3e1d47/w4509h2536x0y267/202605/43601.0.2072373181/immer-weniger-maenner-werden.webp",
       "image_title": "Immer weniger Männer werden in Deutschland Väter."
     },
     {
@@ -598,13 +612,6 @@
       "image_title": "Die weitere Ausbreitung des Feuers am Gros Bessillon konnte verhindert werden."
     },
     {
-      "title": "Virusinfektion: Mehr als 240 Fälle von West-Nil-Fieber in Europa",
-      "teaser": "Seit Beginn der Saison meldet Europa mehr als 240 Fälle von West-Nil-Fieber. Besonders betroffen ist Italien. Auch in Deutschland ist das Virus aktiv.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mehr-als-240-faelle-von-west-nil-fieber-in-europa-accg-201107303.html",
-      "image_url": "https://media0.faz.net/image/w1100/f15d0dff469e/w3583h2015x0y187/202607/43601.0.2286624998/ein-forscher-untersucht-eine.webp",
-      "image_title": "Ein Forscher untersucht eine Stechmücke."
-    },
-    {
       "title": "Fila Slantshot A wmn: Solide, sportlich und ein bisschen oldschool",
       "teaser": "Der Sneaker für den schnellen, nicht für den großen Auftritt: Das Leomuster macht den Slantshot A wmn zu einem Shortcut, mit dem ein simples Outfit nicht unsichtbar bleibt.",
       "url": "https://www.faz.net/aktuell/besser-leben/stil/fila-slantshot-a-wmn-kleiner-stoerer-fuer-ein-simples-outfit-accg-201018346.html",
@@ -619,17 +626,10 @@
       "image_title": "Komplett zerlegbar: Die Birne Re 27 hat eine gute Farbwiedergabe und flackert auch kaum."
     },
     {
-      "title": "Ehemaliger Stadtrat: Frankfurter Verkehrspolitiker Klaus Oesterling gestorben",
-      "teaser": "Er war immer unterwegs, aber er fuhr kein Auto. Das war nur eine der vielen bemerkenswerten Eigenschaften des SPD-Politikers und früheren Frankfurter Stadtrats Klaus Oesterling. Am Freitag ist er gestorben.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-spd-politiker-und-stadtrat-a-d-klaus-oesterling-gestorben-accg-201108018.html",
-      "image_url": "https://media0.faz.net/image/w1200/f3c25c1881b9/w4706h2647x0y0/202107/43600.0.261516025/klaus-oesterling-waehrend.webp",
-      "image_title": "Klaus Oesterling während eines Interviews mit der F.A.Z. im Juli 2021"
-    },
-    {
       "title": "Apfelweinfest in Frankfurt: Der Treff für die „Äppelwoi Ultras“",
       "teaser": "Die Begeisterung für den hessischen Apfelwein wächst. Beim Frankfurter Apfelweinfest kann man nun rund 100 verschiedene unterschiedliche Fruchtweine probieren. Aufgetischt wird auch ein Hessen-Döner.",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/das-apfelweinfest-in-frankfurt-hat-begonnen-accg-201101634.html",
-      "image_url": "https://media0.faz.net/image/w1100/68be5ac9b531/w8046h4526x0y96/202608/43601.0.2412155451/der-bembel-verbindet-besucher.webp",
+      "image_url": "https://media0.faz.net/image/w1200/68be5ac9b531/w8046h4526x0y96/202608/43601.0.2412155451/der-bembel-verbindet-besucher.webp",
       "image_title": "Der Bembel verbindet: Besucher der Eröffnung des Frankfurter Apfelweinfests"
     },
     {
@@ -645,6 +645,13 @@
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-gesichter/auch-fuer-schwere-faelle-warum-die-psychiatrische-klinik-bamberger-hof-in-frankfurt-nur-ambulant-arbeitet-accg-201098978.html",
       "image_url": "https://media0.faz.net/image/w1100/f7353c007a8d/w5600h3150x0y525/202607/43601.0.2364212987/sabine-kress-direktorin-der.webp",
       "image_title": "Sabine Kreß, Direktorin der Vitos Klinik Bamberger Hof, in ihrem Büro"
+    },
+    {
+      "title": "Rhein-Main-Liveblog: Bis zu 36 Grad in Hessen",
+      "teaser": "Grundwasser vielerorts auf historisch niedrigem Stand +++ Auto kollidiert mit U-Bahn in Oberursel: Zwei Verletzte +++ Fahrgast von drei Männern in Zug zusammengeschlagen +++ Liveblog zu Rhein-Main und Hessen",
+      "url": "https://www.faz.net/aktuell/rhein-main/bis-zu-36-grad-in-hessen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "image_url": "https://media0.faz.net/image/w1100/fc2b45f38a9c/w6144h3456x0y319/202607/43601.0.2332698835/die-sonne-brennt-am-wochenende.webp",
+      "image_title": "Die Sonne brennt am Wochenende, doch nachts wird’s angenehm frisch."
     },
     {
       "title": "FAZ+Energie aus der Sahara: Strömt der Wüstenstrom?",
