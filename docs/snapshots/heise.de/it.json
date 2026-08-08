@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T06:29:52",
+  "timestamp": "2026-08-08T07:38:20",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Developer-Häppchen: Kotlin-LSP für Cursor und Sneak Peak für Kubernetes",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "openDesk: Für wen ist die Community-Version überhaupt gedacht?",
+      "teaser": "Die Bundes-Office-Suite für Behörden ist zwar souverän – aber der Eigenbetrieb klappt wohl nur mit eigenem Plattformteam.",
+      "url": "https://www.heise.de/hintergrund/openDesk-Fuer-wen-ist-die-Community-Version-ueberhaupt-gedacht-11403534.html",
+      "image_title": "Zwei Hände auf einem Laptop, daneben Logos von Open-Source-Projekten wie Nextcloud"
+    },
+    {
       "title": "Was selbstreinigende Katzenklos, Futterautomaten und Catcams taugen | c’t uplink",
       "teaser": "Wie sinnvoll vernetzte Katzen-Gadgets sind und wie sie sich im Alltag bewähren, darüber sprechen wir im Podcast c’t uplink.",
       "url": "https://www.heise.de/news/Was-selbstreinigende-Katzenklos-Futterautomaten-und-Catcams-taugen-c-t-uplink-11400335.html"
@@ -29,17 +41,6 @@
       "teaser": "Die EU-Kommission stockt das neue Satellitennetzwerk IRIS² auf 348 Orbiter auf. Ziel sind ab 2029 abhörsichere Dienste für Staaten, Militär und Rettungskräfte.",
       "url": "https://www.heise.de/news/Europas-Starlink-Konkurrenz-EU-und-SpaceRise-besiegeln-Ausbau-von-IRIS2-11403772.html",
       "image_title": "Stillistische Darstellung einer Erdkugel mit vielen Linien"
-    },
-    {
-      "title": "SandiskEine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
-      "teaser": "Einer der größten SSD-Hersteller gibt einen Einblick in seine Langzeitverträge. Der meiste Speicher ist schon zugewiesen.",
-      "url": "https://www.heise.de/news/Eine-einzige-Herstellerfolie-zeigt-wie-schlecht-es-um-SSD-Preise-steht-11403644.html"
-    },
-    {
-      "title": "Digitale SouveränitätUnternehmen fürchten US-Kill-Switch für kritische IT-Dienste",
-      "teaser": "74 Prozent der Unternehmen befürchten, dass US-Anbieter auf Druck der US-Regierung wichtige Dienste sperren könnten.",
-      "url": "https://www.heise.de/news/Unternehmen-fuerchten-US-Kill-Switch-fuer-kritische-IT-Dienste-11403600.html",
-      "image_title": "Ein großer Schalter mit den Symbolen I und O, der auf einem Server-Rack sitzt."
     },
     {
       "title": "Ratgeber16 GByte für lokale KI: Budget-Grafikkarten von AMD und Nvidia im Vergleich",
@@ -55,9 +56,20 @@
       "url": "https://www.heise.de/hintergrund/Disney-gegen-InterDigital-Warum-4K-Streaming-wegen-eines-Patents-ausfiel-11394942.html"
     },
     {
-      "title": "Top 10: Der beste Smart Ring im Test – Oura Ring 5 ist Testsieger",
-      "teaser": "Ein Smart Ring ist die diskrete Alternative zur Smartwatch für Fitness-Tracking und Schlafanalyse. Wir zeigen die besten Modelle – mit und ohne Abo.",
+      "title": "Top 10: Der beste Smart Ring im Test",
+      "teaser": "Ein Smart Ring ist die diskrete Alternative für Fitness-Tracking und Schlafanalyse. Wir zeigen die besten Modelle.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-smart-ring-im-test-oura-ring-5-ist-testsieger/rgglr38?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Eine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
+      "teaser": "Einer der größten SSD-Hersteller gibt einen Einblick in seine Langzeitverträge. Der meiste Speicher für die nächsten zwei Jahre ist schon zugewiesen.",
+      "url": "https://www.heise.de/news/Eine-einzige-Herstellerfolie-zeigt-wie-schlecht-es-um-SSD-Preise-steht-11403644.html"
+    },
+    {
+      "title": "Unternehmen fürchten US-Kill-Switch für kritische IT-Dienste",
+      "teaser": "74 Prozent der Unternehmen befürchten, dass US-Anbieter auf Druck der US-Regierung wichtige Dienste sperren könnten.",
+      "url": "https://www.heise.de/news/Unternehmen-fuerchten-US-Kill-Switch-fuer-kritische-IT-Dienste-11403600.html",
+      "image_title": "Ein großer Schalter mit den Symbolen I und O, der auf einem Server-Rack sitzt."
     },
     {
       "title": "M365 Copilot: Domain Exclusion angekündigt – und sofort zurückgezogen",
@@ -130,18 +142,6 @@
       "teaser": "Cloudflare meldet über 50 Prozent nichtmenschlichen Traffic, angetrieben von KI-Crawlern und Agenten. Die Zahlen sind jedoch komplex.",
       "url": "https://www.heise.de/news/Das-Internet-gehoert-bald-den-Bots-meint-Cloudflare-11402921.html",
       "image_title": "Eine stilisierte Weltkugel mit einem Netzwerk aus weißen Linien und Punkten."
-    },
-    {
-      "title": "AlertScreen Sharing in macOS: Lücke ermöglichte Zugriff ohne Authentifizierung",
-      "teaser": "Apple hat in der Nacht zum Freitag für die letzten drei macOS-Versionen wichtige Updates vorgelegt. Sie beheben eine schwere Lücke in internen Netzwerken.",
-      "url": "https://www.heise.de/news/Screen-Sharing-in-macOS-Luecke-ermoeglichte-Zugriff-ohne-Authentifizierung-11402599.html",
-      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
-    },
-    {
-      "title": "Nächste große China-KI: TikTok-Mutter ByteDance trainiert Riesenmodell",
-      "teaser": "ByteDance will zur KI-Weltspitze aufschließen und trainiert ein besonders großes Modell, das westliche Systeme bei der Parameterzahl übertreffen könnte.",
-      "url": "https://www.heise.de/news/Naechste-grosse-China-KI-TikTok-Mutter-ByteDance-trainiert-Riesenmodell-11402958.html",
-      "image_title": "Smartphone mit TikTok-Logo vor chinesischer Flagge"
     },
     {
       "title": "NewsSicherheitsforscher hackt Nordkorea-Hacker",
