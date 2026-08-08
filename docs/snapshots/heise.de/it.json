@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-08T10:18:32",
+  "timestamp": "2026-08-08T11:17:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,11 @@
   ],
   "articles": [
     {
+      "title": "Komplett überarbeitetes Desinfec't 2026 ab sofort auf USB-Stick erhältlich",
+      "teaser": "Jetzt kaufen und Windows-PCs komfortabler scannen: Dank der neuen technischen Basis von Desinfec’t 2026 laufen Signaturupdates und Scans wesentlich stabiler.",
+      "url": "https://www.heise.de/news/Komplett-ueberarbeitetes-Desinfec-t-2026-ab-sofort-auf-USB-Stick-erhaeltlich-11401846.html"
+    },
+    {
       "title": "KI ohne Cloud: So nutzen Sie AMD Lemonade auf Ryzen-Prozessoren",
       "teaser": "Die Gratis-Software Lemonade vereinfacht die Nutzung von KI-Modellen auf Ryzen-NPUs. Wir prüfen, welche KI-Aufgaben lokal laufen und wo die NPU scheitert.",
       "url": "https://www.heise.de/ratgeber/KI-ohne-Cloud-So-nutzen-Sie-AMD-Lemonade-auf-Ryzen-Prozessoren-11373128.html",
@@ -38,23 +43,24 @@
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
-      "title": "Developer-Häppchen: Kotlin-LSP für Cursor und Sneak Peak für Kubernetes",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
-      "image_title": "Mexikanische Häppchen"
-    },
-    {
       "title": "Ratgeber16 GByte für lokale KI: Budget-Grafikkarten von AMD und Nvidia im Vergleich",
       "url": "https://www.heise.de/ratgeber/16-GByte-fuer-lokale-KI-Budget-Grafikkarten-von-AMD-und-Nvidia-im-Vergleich-11400165.html",
       "image_title": "Vergleich der KI-Inferenz: AMDs Radeon RX 9060 XT gegen die Nvidia RTX 5060 Ti."
     },
     {
-      "title": "RatgeberFAQ: Desinfec’t 2026",
-      "url": "https://www.heise.de/ratgeber/FAQ-Desinfec-t-2026-11329056.html"
-    },
-    {
       "title": "HintergrundDisney+ gegen InterDigital: Warum 4K-Streaming wegen eines Patents ausfiel",
       "url": "https://www.heise.de/hintergrund/Disney-gegen-InterDigital-Warum-4K-Streaming-wegen-eines-Patents-ausfiel-11394942.html"
+    },
+    {
+      "title": "TestsKreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
+      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
+      "image_title": "Logoist 6 gibt es für mehrere Plattformen"
+    },
+    {
+      "title": "Developer-Häppchen: Kotlin-LSP für Cursor und Sneak Peak für Kubernetes",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Kubernetes, Servo, Symfony Polyfill, Python, Rust, Pandoc, Coreutils, JetBrains und Quasar.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html",
+      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "openDesk: Für wen ist die Community-Version überhaupt gedacht?",
@@ -102,6 +108,11 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
+      "title": "FAQ: Desinfec’t 2026",
+      "teaser": "Wir haben Desinfec’t 2026 vollständig überarbeitet. Hier bündeln wir die Antworten auf häufig gestellte Fragen.",
+      "url": "https://www.heise.de/ratgeber/FAQ-Desinfec-t-2026-11329056.html"
+    },
+    {
       "title": "OpenAI: Neue, erschreckende Details zum Hugging-Face-Vorfall",
       "teaser": "Mitarbeiter von OpenAI enthüllen weitere Details rund um den Einbruch ihrer KI-Agenten bei anderen Firmen und offenbaren erschreckende Fahrlässigkeit.",
       "url": "https://www.heise.de/news/OpenAI-liefert-mehr-Details-zum-Hugging-Face-Vorfall-11403154.html",
@@ -130,18 +141,6 @@
       "teaser": "Derzeit schieben Angreifer Schadcode auf IBM-Langflow-Instanzen. Im Cluster-Betrieb von Apache Tomcat können sie Datenverkehr mitlesen.",
       "url": "https://www.heise.de/news/Angreifer-attackieren-IBM-Langflow-und-Apache-Tomcat-Server-11403178.html",
       "image_title": "Eine symbolische Updateerinnerung."
-    },
-    {
-      "title": "Gericht: Meta soll halbe Milliarde Dollar in Fonds für Kinder zahlen",
-      "teaser": "Meta soll nach einem US-Gerichtsurteil über 500 Mio. Dollar für Kinder-Hilfen zahlen. Zudem gibt es strenge Nutzungslimits für Minderjährige in New Mexico.",
-      "url": "https://www.heise.de/news/Gericht-Meta-soll-halbe-Milliarde-Dollar-in-Fonds-fuer-Kinder-zahlen-11403170.html",
-      "image_title": "Leuchtendes Meta-Logo auf einem dunklen Bildschirm, umgeben von blau beleuchteten Tastaturtasten."
-    },
-    {
-      "title": "AlertDurch Metabase-0day: Datenleck bei Laptophersteller Framework",
-      "teaser": "Nur wenige Stunden nach Bekanntwerden einer Sicherheitslücke informiert der Framework seine Kunden. Metabase veröffentlichte eigene Sicherheitshinweise.",
-      "url": "https://www.heise.de/news/Durch-Metabase-0day-Datenleck-bei-Laptophersteller-Framework-11403050.html",
-      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
       "title": "NewsSicherheitsforscher hackt Nordkorea-Hacker",
