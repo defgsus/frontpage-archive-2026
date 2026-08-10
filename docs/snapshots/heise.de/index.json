@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T14:09:23",
+  "timestamp": "2026-08-10T15:45:48",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,28 @@
     }
   ],
   "articles": [
+    {
+      "title": "Meta veröffentlicht Muse Glimmer: Offenes 30-Milliarden-Parameter-Modell",
+      "url": "https://www.heise.de/news/Meta-veroeffentlicht-Muse-Glimmer-Offenes-30-Milliarden-Parameter-Modell-11409218.html"
+    },
+    {
+      "title": "Erste Lufthansa-Maschine mit Starlink-Internet an Bord startet in Kürze",
+      "url": "https://www.heise.de/news/Erste-Lufthansa-Maschine-mit-Starlink-Internet-an-Bord-startet-in-Kuerze-11409248.html"
+    },
+    {
+      "title": "USB-C-Hubs im Test: Mehr Buchsen für das MacBook – inklusive Neo",
+      "url": "https://www.heise.de/tests/USB-C-Hubs-im-Test-Mehr-Buchsen-fuer-das-MacBook-inklusive-Neo-11379552.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "„Agent 64: Spies Never Die“ angespielt: Willkommen zurück im Jahr 1997!",
+      "url": "https://www.heise.de/tests/Agent-64-Spies-Never-Die-angespielt-Willkommen-zurueck-im-Jahr-1997-11403588.html"
+    },
+    {
+      "title": "curl: Niemand will mit Windows arbeiten",
+      "url": "https://www.heise.de/news/curl-Niemand-will-mit-Windows-arbeiten-11408872.html"
+    },
     {
       "title": "Oppo Pad 5 im Test: Tablet mit hellem LCD zum Streamen und Surfen ab 379 Euro",
       "url": "https://www.heise.de/bestenlisten/testbericht/oppo-pad-5-im-test-tablet-mit-hellem-lcd-zum-streamen-und-surfen-ab-379-euro/4w21xbb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -40,28 +62,6 @@
       "url": "https://www.heise.de/news/Super-Nintendo-fuer-unterwegs-Retro-Handheld-SupaBoy-kommt-nach-Europa-11407343.html"
     },
     {
-      "title": "KI-Update kompakt: KI-Robotik, DiffusionGemma, Google DeepMind, Bakteriophagen",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Robotik-DiffusionGemma-Google-DeepMind-Bakteriophagen-11406292.html"
-    },
-    {
-      "title": "Kreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
-      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "US Space Force gibt Flatellites für Luftraumüberwachung in Auftrag",
-      "url": "https://www.heise.de/news/US-Space-Force-gibt-Flatellites-fuer-Luftraumueberwachung-in-Auftrag-11407678.html"
-    },
-    {
-      "title": "iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html"
-    },
-    {
-      "title": "Voyager 2: Verbleibende Instrumente entgehen dank Stromsparmaßnahmen Abschaltung",
-      "url": "https://www.heise.de/news/Voyager-2-Verbleibende-Instrumente-entgehen-dank-Stromsparmassnahmen-Abschaltung-11406792.html"
-    },
-    {
       "title": "Signale nach ChinaBritische Marine kappt Überwasserdrohnen das Internet",
       "teaser": "Kameras eines Drittherstellers haben von Überwasserdrohnen der britischen Marine Lebenszeichen nach China geschickt.",
       "url": "https://www.heise.de/news/Signale-nach-China-Britische-Marine-kappt-Ueberwasserdrohnen-das-Internet-11404378.html",
@@ -73,10 +73,10 @@
       "url": "https://www.heise.de/tests/Zero-LS1-im-Test-E-Grossroller-mit-ABS-und-Mittelmotor-11382156.html"
     },
     {
-      "title": "Zentimetergenau ortenUWB-Devboard mit ESP32-S3 und Touchscreen für 60 Dollar",
-      "teaser": "Das MaTouch ESP32-S3 MaUWB von Makerfabs vereint Touchscreen und UWB-Funk – und zeigt Indoor-Positionen direkt auf dem Display.",
-      "url": "https://www.heise.de/news/Zentimetergenau-orten-UWB-Devboard-mit-ESP32-S3-und-Touchscreen-fuer-60-Dollar-11404554.html",
-      "image_title": "MaTouch ESP32-S3 MaUWB"
+      "title": "Open-Source-Projektcurl: Niemand will mit Windows arbeiten",
+      "teaser": "Das siebenköpfige Security-Team von curl nutzt kein Windows. Nun sucht Entwickler Daniel Stenberg dringend Unterstützung.",
+      "url": "https://www.heise.de/news/curl-Niemand-will-mit-Windows-arbeiten-11408872.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
     },
     {
       "title": "Am 12. AugustTotale Sonnenfinsternis 2026: Wann und wo sie in Europa zu sehen ist",
@@ -148,14 +148,16 @@
       "image_title": "Raumsonde mit langen Antennen vor dunklem Sternenhimmel"
     },
     {
-      "title": "SandiskEine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
-      "teaser": "Einer der größten SSD-Hersteller gibt einen Einblick in seine Langzeitverträge. Der meiste Speicher ist schon zugewiesen.",
-      "url": "https://www.heise.de/news/Eine-einzige-Herstellerfolie-zeigt-wie-schlecht-es-um-SSD-Preise-steht-11403644.html"
+      "title": "Super Nintendo für unterwegsRetro-Handheld „SupaBoy“ kommt nach Europa",
+      "teaser": "Der US-Hersteller Hyperkin kündigt zwei neue Farbvarianten seiner tragbaren Retro-Konsole an und öffnet den Vertrieb in Europa.",
+      "url": "https://www.heise.de/news/Super-Nintendo-fuer-unterwegs-Retro-Handheld-SupaBoy-kommt-nach-Europa-11407343.html",
+      "image_title": "Hyperkin SupaBoy Crimson und SupaBoy Prime mit SNES-Modulen von The Jungle Book und FIFA International Soccer auf einem Holztisch."
     },
     {
-      "title": "Missing LinkDigitalisierungswüste? Was die Grafschaft Bentheim besser macht",
-      "teaser": "Die digitale Verwaltung lahmt. Ein niedersächsischer Landkreis zeigt, wie konsequentes E-Government mit Bürgerservices von innen heraus gelingen kann.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Digitalisierungswueste-Was-die-Grafschaft-Bentheim-besser-macht-11403797.html"
+      "title": "Apple-Watch-UmbauNeues Design – und ein Tracker ohne Bildschirm",
+      "teaser": "Apple will bei seiner Computeruhr nachlegen und künftig angeblich erstmals einen Tracker ohne Display im Whoop-Stil anbieten.",
+      "url": "https://www.heise.de/news/Apple-Watch-Umbau-Neues-Design-und-ein-Tracker-ohne-Bildschirm-11405895.html",
+      "image_title": "iPhone und Apple Watch"
     },
     {
       "title": "Gardena-Pumpe im TestSmarte Bewässerung ohne Internet",
@@ -163,10 +165,9 @@
       "url": "https://www.heise.de/tests/Smarte-Bewaesserung-ohne-Internet-Gardena-Pumpe-im-Praxistest-11370900.html"
     },
     {
-      "title": "Angriffe auf Wildberries5 Milliarden US-Dollar Schaden bei „Russlands Amazon“",
-      "teaser": "Die ukrainischen Drohnenangriffe auf Lager von Wildberries sorgen weiterhin für enormen wirtschaftlichen Schaden.",
-      "url": "https://www.heise.de/news/Russlands-Amazon-5-Milliarden-US-Dollar-Schaden-durch-ukrainische-Angriffe-11404366.html",
-      "image_title": "Beleuchteter Wlldberries-Schriftzug an einem Haus"
+      "title": "SandiskEine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
+      "teaser": "Einer der größten SSD-Hersteller gibt einen Einblick in seine Langzeitverträge. Der meiste Speicher ist schon zugewiesen.",
+      "url": "https://www.heise.de/news/Eine-einzige-Herstellerfolie-zeigt-wie-schlecht-es-um-SSD-Preise-steht-11403644.html"
     },
     {
       "title": "MehrzweckschiffAutonome Saugsegel-Technik treibt zusätzlich an",
@@ -181,6 +182,35 @@
       "image_title": "Frau mit Laptop"
     },
     {
+      "title": "Meta veröffentlicht Muse Glimmer: Offenes 30-Milliarden-Parameter-Modell",
+      "teaser": "Meta hat mit Muse Glimmer ein offenes 30-Milliarden-Parameter-Modell veröffentlicht, das lokal auf Consumer-Hardware läuft und kommerziell nutzbar ist.",
+      "url": "https://www.heise.de/news/Meta-veroeffentlicht-Muse-Glimmer-Offenes-30-Milliarden-Parameter-Modell-11409218.html",
+      "image_title": "Silhouetten zweier Laptop-Nutzer vor einem unscharfen Meta-AI-Logo mit blauem Meta-Symbol."
+    },
+    {
+      "title": "Erste Lufthansa-Maschine mit Starlink-Internet an Bord startet in Kürze",
+      "teaser": "Fluggäste von Lufthansa können in Kürze in einem ersten Airbus schnelles Internet von Starlink nutzen.",
+      "url": "https://www.heise.de/news/Erste-Lufthansa-Maschine-mit-Starlink-Internet-an-Bord-startet-in-Kuerze-11409248.html",
+      "image_title": "Mann mit Smartphone im Flugzeug"
+    },
+    {
+      "title": "Neue Speicherkonzepte für das Supercomputing",
+      "teaser": "Wer mit riesigen Datenmengen arbeitet, kennt das Problem: Die Daten wachsen schneller als die Infrastruktur. Klassische Speicherarchitekturen stoßen an ihre Grenzen. Doch es gibt eine Lösung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319745106&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "USB-C-Hubs im Test: Mehr Buchsen für das MacBook – inklusive Neo",
+      "teaser": "USB-C-Hubs geben Apple-Geräten mehr Ports. Wir testen neun Geräte mit HDMI und Power Delivery, die sich besonders gut fürs MacBook Neo eignen – aber nicht nur.",
+      "url": "https://www.heise.de/tests/USB-C-Hubs-im-Test-Mehr-Buchsen-fuer-das-MacBook-inklusive-Neo-11379552.html",
+      "image_title": "Hub am MacBook Neo"
+    },
+    {
+      "title": "„Agent 64: Spies Never Die“ angespielt: Willkommen zurück im Jahr 1997!",
+      "teaser": "Ein brandneues Spiel sieht mit voller Absicht so aus, als würde es auf einer 30 Jahre alten Konsole laufen. Und spielt sich auch genau so.",
+      "url": "https://www.heise.de/tests/Agent-64-Spies-Never-Die-angespielt-Willkommen-zurueck-im-Jahr-1997-11403588.html",
+      "image_title": "Screenshot aus Agent 64"
+    },
+    {
       "title": "Oppo Pad 5 im Test: Tablet mit hellem LCD zum Streamen und Surfen ab 379 Euro",
       "teaser": "Günstig und gut? Das Oppo Pad 5 bietet als Mittelklasse-Gerät ein scharfes Display mit kräftigen Farben.",
       "url": "https://www.heise.de/bestenlisten/testbericht/oppo-pad-5-im-test-tablet-mit-hellem-lcd-zum-streamen-und-surfen-ab-379-euro/4w21xbb?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -190,11 +220,6 @@
       "teaser": "Sonntagsfahrverbot in mehreren Ländern wegen Niedrigwasser gelockert: Speditionen und Verbände halten Maßnahme für kaum wirksam, Umweltverbände für schädlich.",
       "url": "https://www.heise.de/news/Lkw-Fahrverbot-gelockert-Branche-sieht-kaum-Entlastung-durch-Sonntagsfahrten-11408127.html",
       "image_title": "Lastwagen Autobahn"
-    },
-    {
-      "title": "Mit UEM zu mehr IT-Effizienz",
-      "teaser": "Durch Automatisierung der Vorgänge im Hard- und Softwaremanagement sorgt Unified Endpoint Management für stets aktuelle und sichere Netzwerklandschaften – mit minimalem manuellen Aufwand.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7342782231&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Grünes Licht aus Brüssel: Mercedes-Benz verkauft Niederlassungen",
@@ -207,30 +232,6 @@
       "teaser": "Viele Kamerabesitzer verstecken bereits AirTags in ihre teuren Geräte. Ulanzi / Falcam stecken den Tracker nun direkt in einen Akku – samt Sonderfunktion.",
       "url": "https://www.heise.de/news/Batterie-mit-Apples-Wo-ist-fuer-Sony-Kameras-11403482.html",
       "image_title": "Sony-Kameraakku mit „Wo ist?“"
-    },
-    {
-      "title": "Super Nintendo für unterwegs: Retro-Handheld „SupaBoy“ kommt nach Europa",
-      "teaser": "Der US-Hersteller Hyperkin kündigt zwei neue Farbvarianten seiner tragbaren Retro-Konsole an und öffnet den Vertrieb für den europäischen Markt.",
-      "url": "https://www.heise.de/news/Super-Nintendo-fuer-unterwegs-Retro-Handheld-SupaBoy-kommt-nach-Europa-11407343.html",
-      "image_title": "Hyperkin SupaBoy Crimson und SupaBoy Prime mit SNES-Modulen von The Jungle Book und FIFA International Soccer auf einem Holztisch."
-    },
-    {
-      "title": "KI-Update kompakt: KI-Robotik, DiffusionGemma, Google DeepMind, Bakteriophagen",
-      "teaser": "Das „KI-Update“ liefert dreimal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Robotik-DiffusionGemma-Google-DeepMind-Bakteriophagen-11406292.html",
-      "image_title": "Aufmacherbild KI Update"
-    },
-    {
-      "title": "Kreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
-      "teaser": "Ob mit Vorlagen oder KI: Die Vektorgrafik-Lösung Logoist 6 erstellt im Nu ansprechende Grafiken und Logos, die sich weiterverwenden lassen.",
-      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
-      "image_title": "Logoist 6 gibt es für mehrere Plattformen"
-    },
-    {
-      "title": "US Space Force gibt Flatellites für Luftraumüberwachung in Auftrag",
-      "teaser": "Den Luftraum über Gefechtsfeldern sollen Satelliten überwachen. Unter anderem sollen die flachen Satelliten von Rocket Lab diese Aufgabe übernehmen.",
-      "url": "https://www.heise.de/news/US-Space-Force-gibt-Flatellites-fuer-Luftraumueberwachung-in-Auftrag-11407678.html",
-      "image_title": "Flatellite von Rocket Lab"
     },
     {
       "title": "Elektroauto vs. VerbrennerWer wirklich schneller von Freiburg nach Rügen fährt",
@@ -292,9 +293,9 @@
       "url": "https://www.heise.de/tests/Erste-Fahrt-im-Audi-A2-e-tron-Retro-Design-fuer-moderne-Elektroauto-Technik-11395600.html"
     },
     {
-      "title": "Testsieger mit GesichtserkennungTop 10: Das beste Smart Lock im Test",
-      "teaser": "Unser Testsieger öffnet die Haustür berührungsfrei per Gesicht oder Hand. Aber auch andere Smart Locks bieten Vorzüge.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smart-lock-im-test-testsieger-mit-gesichtserkennung-vor-nuki/8nlt4e6?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+      "title": "Diese Modelle gibt es nochTestsieger: Die beste mobile Klimaanlage im Test",
+      "teaser": "Mobile Klimaanlagen schaffen Abhilfe, wenn es im Sommer heiß wird. Wir zeigen die besten Monoblock-Klimageräte.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/testsieger-die-beste-mobile-klimaanlage-im-test-diese-modelle-gibt-es-noch/hkk399y?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
       "title": "Oura Ring 5 ist TestsiegerTop 10: Der beste Smart Ring im Test",
@@ -312,16 +313,28 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kompressor-kuehlbox-im-test-echte-kuehlung-bis-minus-20-grad/8jwmngt?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "KI-Update kompakt: KI-Robotik, DiffusionGemma, Google DeepMind, Bakteriophagen",
+      "teaser": "Das „KI-Update“ liefert dreimal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Robotik-DiffusionGemma-Google-DeepMind-Bakteriophagen-11406292.html",
+      "image_title": "Aufmacherbild KI Update"
+    },
+    {
+      "title": "Kreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
+      "teaser": "Ob mit Vorlagen oder KI: Die Vektorgrafik-Lösung Logoist 6 erstellt im Nu ansprechende Grafiken und Logos, die sich weiterverwenden lassen.",
+      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
+      "image_title": "Logoist 6 gibt es für mehrere Plattformen"
+    },
+    {
+      "title": "US Space Force gibt Flatellites für Luftraumüberwachung in Auftrag",
+      "teaser": "Den Luftraum über Gefechtsfeldern sollen Satelliten überwachen. Unter anderem sollen die flachen Satelliten von Rocket Lab diese Aufgabe übernehmen.",
+      "url": "https://www.heise.de/news/US-Space-Force-gibt-Flatellites-fuer-Luftraumueberwachung-in-Auftrag-11407678.html",
+      "image_title": "Flatellite von Rocket Lab"
+    },
+    {
       "title": "iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Apple-Watch-Umbau: Neues Design – und ein Tracker ohne Bildschirm",
-      "teaser": "Apple will bei seiner designtechnisch vernachlässigten Computeruhr nachlegen und künftig angeblich erstmals einen Tracker ohne Screen im Whoop-Stil anbieten.",
-      "url": "https://www.heise.de/news/Apple-Watch-Umbau-Neues-Design-und-ein-Tracker-ohne-Bildschirm-11405895.html",
-      "image_title": "iPhone und Apple Watch"
     },
     {
       "title": "Claude Code fragt künftig seltener: „Darf ich das?“",
@@ -375,6 +388,11 @@
       "url": "https://www.heise.de/news/Immer-mehr-E-Scooter-aber-weniger-Leihgeraete-11405082.html"
     },
     {
+      "title": "Vom Urlaubsfoto zur druckbaren 3D-Figur",
+      "teaser": "Die 3D-Modellierung war lange Spezialisten vorbehalten. Dialogbasierte KI-Agenten könnten das ändern. Künftig kann jeder mithilfe von Text-Prompts oder Bildern druckbare 3D-Modelle erstellen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7365122533&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
       "title": "Juni und Juli in Westeuropa so warm wie noch nie",
       "teaser": "Mehrere Hitzewellen treiben Temperaturen in Westeuropa auf Rekordwerte. Auch die Meere erreichen ungekannte globale Höchstwerte.",
       "url": "https://www.heise.de/news/Juni-und-Juli-in-Westeuropa-so-warm-wie-noch-nie-11404781.html",
@@ -387,11 +405,6 @@
       "image_title": "Roboter hält geöffneten Laptop, der ein Flugzeugsymbol und einen grünen Haken zeigt"
     },
     {
-      "title": "In fünf Monaten zum kompletten Systemwechsel",
-      "teaser": "Ein komplexer Carve-out, nur fünf Monate Zeit und ein laufender Hotelbetrieb: Mit SAP Cloud ERP Public gelang den Airport Hotels Frankfurt eine erfolgreiche Transformation.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7375713984&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Google Maps kann bald Essen bestellen: Welche Einschränkungen es noch gibt",
       "teaser": "Google Maps soll dir künftig einige Aufgaben abnehmen können. Der Kartendienst kann künftig sogar Essen bestellen oder ein Hotelzimmers buchen.",
       "url": "https://www.heise.de/news/Google-Maps-kann-bald-Essen-bestellen-Welche-Einschraenkungen-es-noch-gibt-11404622.html",
@@ -402,6 +415,12 @@
       "teaser": "Der Subkontinent könnte China für Apple als wichtigsten Markt überflügeln – zumindest längerfristig. Das Potenzial zeigen neue Zahlen.",
       "url": "https://www.heise.de/news/Indien-Apple-nimmt-wichtige-Umsatzhuerde-10-Milliarden-US-Dollar-erreicht-11400945.html",
       "image_title": "Apple Store in Mumbai"
+    },
+    {
+      "title": "Zentimetergenau orten: UWB-Devboard mit ESP32-S3 und Touchscreen für 60 Dollar",
+      "teaser": "Das MaTouch ESP32-S3 MaUWB von Makerfabs vereint 3,95-Zoll-Touchscreen und UWB-Funk – und zeigt Indoor-Positionen per Trilateration direkt auf dem Display.",
+      "url": "https://www.heise.de/news/Zentimetergenau-orten-UWB-Devboard-mit-ESP32-S3-und-Touchscreen-fuer-60-Dollar-11404554.html",
+      "image_title": "MaTouch ESP32-S3 MaUWB"
     },
     {
       "title": "AlertJetzt patchen! Admin-Attacken auf Metabase beobachtet",
@@ -432,22 +451,8 @@
       "url": "https://www.heise.de/tests/Zero-LS1-im-Test-E-Grossroller-mit-ABS-und-Mittelmotor-11382156.html"
     },
     {
-      "title": "Roblox erwartet sinkende Nutzerausgaben – Aktie bricht ein",
-      "teaser": "Roblox erwartet erstmals sinkende Nutzerausgaben. Der Umbau von Jugendschutz und Algorithmus drückt die Buchungen – die Aktie brach weiter ein.",
-      "url": "https://www.heise.de/news/Roblox-erwartet-sinkende-Nutzerausgaben-Aktie-bricht-ein-11404372.html",
-      "image_title": "Person hält ein Smartphone mit Roblox-Logo, im Hintergrund eine unscharfe Auswahl bunter Spielekacheln."
-    },
-    {
-      "title": "E-Auto Porsche Cayenne Turbo Coupé im Test: Wuchtiges Druckmittel",
-      "teaser": "Mag sein, dass andere noch schneller laden, und die 850 kW des Cayenne Turbo werden sicher auch übertroffen. Doch die Liebe zum Detail macht den Unterschied.",
-      "url": "https://www.heise.de/tests/E-Auto-Porsche-Cayenne-Turbo-Coupe-im-Test-Wuchtiges-Druckmittel-11380796.html",
-      "image_title": "Porsche Cayenne Turbo Coupe"
-    },
-    {
-      "title": "Studie: Drohnenabwehr in Europa nicht ausreichend",
-      "teaser": "Eine Studie kommt zu dem Schluss, dass Europa nur unzureichend auf Drohnenangriffe vorbereitet ist. Es gebe kaum Zusammenarbeit in der EU.",
-      "url": "https://www.heise.de/news/Studie-Drohnenabwehr-in-Europa-nicht-ausreichend-11404362.html",
-      "image_title": "Drohne und Flugzeug in der Luft"
+      "title": "Missing Link: Digitalisierungswüste? Was die Grafschaft Bentheim besser macht",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Digitalisierungswueste-Was-die-Grafschaft-Bentheim-besser-macht-11403797.html"
     },
     {
       "title": "Edge-Browser blockt bald Adblocker",
@@ -457,11 +462,6 @@
       "title": "openDesk: Für wen ist die Community-Version überhaupt gedacht?",
       "url": "https://www.heise.de/hintergrund/openDesk-Fuer-wen-ist-die-Community-Version-ueberhaupt-gedacht-11403534.html",
       "image_title": "Zwei Hände auf einem Laptop, daneben Logos von Open-Source-Projekten wie Nextcloud"
-    },
-    {
-      "title": "US-Zölle auf Polysilizium: Trumps neuer Schlag gegen Chinas Chip-Industrie",
-      "url": "https://www.heise.de/news/US-Zoelle-auf-Polysilizium-Trumps-neuer-Schlag-gegen-Chinas-Chip-Industrie-11404164.html",
-      "image_title": "Mehrere bunt funkelnde Wafer in einer Plastikhalterung"
     },
     {
       "title": "Waldbrände aus dem All: Copernicus Browser erleichtert Überwachung",
@@ -513,13 +513,13 @@
       "image_title": "Mercedes CLA 350 EQ"
     },
     {
-      "title": "Autonomes Fahren: China beschließt Pflicht-Sicherheitsregeln für Level 3 und 4",
-      "url": "https://www.heise.de/news/Autonomes-Fahren-China-beschliesst-Pflicht-Sicherheitsregeln-fuer-Level-3-und-4-11404242.html"
+      "title": "US-Zölle auf Polysilizium: Trumps neuer Schlag gegen Chinas Chip-Industrie",
+      "url": "https://www.heise.de/news/US-Zoelle-auf-Polysilizium-Trumps-neuer-Schlag-gegen-Chinas-Chip-Industrie-11404164.html",
+      "image_title": "Mehrere bunt funkelnde Wafer in einer Plastikhalterung"
     },
     {
-      "title": "John Ternus: Kommender Apple-Chef setzt erste Management-Zeichen",
-      "url": "https://www.heise.de/news/John-Ternus-Kommender-Apple-Chef-setzt-erste-Management-Zeichen-11401093.html",
-      "image_title": "John Ternus, hier mit einem Mac mini M4"
+      "title": "Autonomes Fahren: China beschließt Pflicht-Sicherheitsregeln für Level 3 und 4",
+      "url": "https://www.heise.de/news/Autonomes-Fahren-China-beschliesst-Pflicht-Sicherheitsregeln-fuer-Level-3-und-4-11404242.html"
     },
     {
       "title": "Kinderärzte werfen Eltern Versagen beim Social-Media-Schutz vor",
@@ -619,10 +619,10 @@
       "url": "https://www.heise.de/en/news/BMW-Annoyed-by-Advertising-11399005.html"
     },
     {
-      "title": "E-Government: Wie BundID und E-Perso ihre Nutzer in die Verzweiflung treiben",
-      "teaser": "Häufige Systembrüche, überbordende Anleitungen, komplexe Technik: Eine aktuelle Studie zeigt, warum Bürger an Onlinediensten von Behörden scheitern.",
-      "url": "https://www.heise.de/hintergrund/E-Government-Wie-BundID-und-E-Perso-ihre-Nutzer-in-die-Verzweiflung-treiben-11368539.html",
-      "image_title": "Ein Mann sitzt vor einem Computer mit verschiedenen Dokumenten und Apps auf dem Bildschirm und dem Tisch."
+      "title": "Am 12. AugustTotale Sonnenfinsternis 2026: Wann und wo sie in Europa zu sehen ist",
+      "teaser": "Am 12. August verdunkelt sich die Sonne über Europa. Wo Sie das Phänomen sehen können, wie es entsteht und was es für die Forschung bedeutet.",
+      "url": "https://www.heise.de/hintergrund/Totale-Sonnenfinsternis-2026-Wann-und-wo-sie-in-Europa-zu-sehen-ist-11362360.html",
+      "image_title": "Zeitraffer einer Sonnenfinsternis von der teilweisen zur totalen und zurück."
     },
     {
       "title": "Wie sich KI-Rechenzentren von gewöhnlichen Rechenzentren unterscheiden",
@@ -631,10 +631,10 @@
       "image_title": "Luftbild von KI-Rechenzentren in Abilene/Texas für das Projekt Stargate."
     },
     {
-      "title": "Am 12. AugustTotale Sonnenfinsternis 2026: Wann und wo sie in Europa zu sehen ist",
-      "teaser": "Am 12. August verdunkelt sich die Sonne über Europa. Wo Sie das Phänomen sehen können, wie es entsteht und was es für die Forschung bedeutet.",
-      "url": "https://www.heise.de/hintergrund/Totale-Sonnenfinsternis-2026-Wann-und-wo-sie-in-Europa-zu-sehen-ist-11362360.html",
-      "image_title": "Zeitraffer einer Sonnenfinsternis von der teilweisen zur totalen und zurück."
+      "title": "E-Government: Wie BundID und E-Perso ihre Nutzer in die Verzweiflung treiben",
+      "teaser": "Häufige Systembrüche, überbordende Anleitungen, komplexe Technik: Eine aktuelle Studie zeigt, warum Bürger an Onlinediensten von Behörden scheitern.",
+      "url": "https://www.heise.de/hintergrund/E-Government-Wie-BundID-und-E-Perso-ihre-Nutzer-in-die-Verzweiflung-treiben-11368539.html",
+      "image_title": "Ein Mann sitzt vor einem Computer mit verschiedenen Dokumenten und Apps auf dem Bildschirm und dem Tisch."
     },
     {
       "title": "iPhone weg: Indizien sammeln per Kurzbefehl",
@@ -655,6 +655,12 @@
       "image_title": "Hub am MacBook Neo"
     },
     {
+      "title": "Wuchtiges DruckmittelE-Auto Porsche Cayenne Turbo Coupé im Test",
+      "teaser": "Mag sein, dass andere noch schneller laden, und die 850 kW des Cayenne Turbo werden sicher auch übertroffen. Doch die Liebe zum Detail macht den Unterschied.",
+      "url": "https://www.heise.de/tests/E-Auto-Porsche-Cayenne-Turbo-Coupe-im-Test-Wuchtiges-Druckmittel-11380796.html",
+      "image_title": "Porsche Cayenne Turbo Coupe"
+    },
+    {
       "title": "Elektronik-Experimente: Testlabor für Raspi Pico, Arduino Nano und Co.",
       "teaser": "Spannungen messen, Signale generieren oder Prototypen testen. Mit dem TestLab wird der Mikrocontroller zum flexiblen Werkzeugkasten für Elektronik-Experimente.",
       "url": "https://www.heise.de/ratgeber/Elektronik-Experimente-Testlabor-fuer-Raspi-Pico-Arduino-Nano-und-Co-11365468.html",
@@ -665,12 +671,6 @@
       "teaser": "AMD Radeon RX 9060 XT vs. Nvidia GeForce RTX 5060 Ti: Wir lassen die 16-GByte-Karten auf drei LLMs los und beurteilen, ob sich der Nvidia-Aufpreis lohnt.",
       "url": "https://www.heise.de/ratgeber/16-GByte-fuer-lokale-KI-Budget-Grafikkarten-von-AMD-und-Nvidia-im-Vergleich-11400165.html",
       "image_title": "Vergleich der KI-Inferenz: AMDs Radeon RX 9060 XT gegen die Nvidia RTX 5060 Ti."
-    },
-    {
-      "title": "LAYSIE: KI-Songs mit Raspberry Pi generieren",
-      "teaser": "Kein Instrument, keine Übung – kein Problem. LAYSIE generiert per KI individuelle Songs aus gesprochenen Ideen und spielt sie über Bluetooth ab.",
-      "url": "https://www.heise.de/ratgeber/LAYSIE-KI-Songs-mit-Raspberry-Pi-generieren-11368294.html",
-      "image_title": ","
     },
     {
       "title": "Das eigene Magazin drucken: Sieben Anbieter im Vergleich",
@@ -741,16 +741,16 @@
       "image_title": "Filmbild: eine Gruppe von Kindern am Meer bei Sonnenuntergang - die Sonne ist ein Quadrat"
     },
     {
-      "title": "KI-Singularität: Ist der OpenAI-Hack nur ein Marketing-Trick?",
-      "teaser": "Nach einem autonomen ChatGPT-Ausbruch bei einem Test warnt OpenAI vor Kontrollverlust. Fachleute betonen dagegen die Bedeutung menschlicher Arbeit.",
-      "url": "https://www.telepolis.de/article/KI-Singularitaet-Ist-der-OpenAI-Hack-nur-ein-Marketing-Trick-11403448.html",
-      "image_title": "Frau im Büro, die enttäuscht auf einen weiblichen Androiden blickt, der an einem Laptop arbeitet."
+      "title": "Patriot-Krise: Wie die Ukraine mit der FP-7.x eigene Raketen baut",
+      "teaser": "Kiew gehen die Patriot-Abfangraketen aus. Das Projekt Freyja soll ab 2027 Abhilfe schaffen – doch die FP-7.x muss ihre Leistung erst noch beweisen.",
+      "url": "https://www.telepolis.de/article/Patriot-Krise-Wie-die-Ukraine-mit-der-FP-7-x-eigene-Raketen-baut-11404506.html",
+      "image_title": "KI-generierte Grafik zeigt plakativ-zeichnerisch eine Rakete auf einer Patriot-ähnlichen Abschussrampe, die losgefeuert wird"
     },
     {
-      "title": "Nepal: Ist das Land im Himalaya noch eine Reise wert?",
-      "teaser": "Straßen, Baustellen und Menschenmassen verändern den Himalaya. Warum Nepal trotzdem noch immer eine besondere Reise wert ist.",
-      "url": "https://www.telepolis.de/article/Nepal-Ist-das-Land-im-Himalaya-noch-eine-Reise-wert-11404076.html",
-      "image_title": "Der Berg und das Dorf: Das Dorf Manang in Nepal und der Annapurna III wie auch der Gangapurna"
+      "title": "Eine Billion Euro Steuern – wer entscheidet, wofür das Geld ausgegeben wird?",
+      "teaser": "Der Staat verfügt über gewaltige Summen. Doch über Einnahmen, Ausgaben und Prioritäten wird erstaunlich wenig konkret gestritten.",
+      "url": "https://www.telepolis.de/article/Eine-Billion-Euro-Steuern-wer-entscheidet-wofuer-das-Geld-ausgegeben-wird-11403551.html",
+      "image_title": "Die Grafik illustriert die Höhe von Geldstapeln, anhand eines Hauses, eines Flugzeugs und der Erdkugel"
     },
     {
       "title": "Chatbots vor der Wahl: KI überzeugt mehr als Menschen – es gibt aber eine Hürde",
