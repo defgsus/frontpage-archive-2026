@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T16:39:28",
+  "timestamp": "2026-08-10T17:41:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,42 @@
   ],
   "articles": [
     {
-      "title": "Debatte um Drohnenabwehr: Bundespolizei soll mehr können",
+      "title": "ChatGPT im Gerichtssaal: Hessische Richter kopieren erkennbar KI-Quellen",
+      "teaser": "Am Hessischen Verwaltungsgerichtshof hinterlässt ChatGPT Spuren in einem Beschluss für den EuGH. Das verschärft die Debatte über Risiken von KI in der Justiz.",
+      "url": "https://www.heise.de/news/ChatGPT-im-Gerichtssaal-Hessische-Richter-kopieren-erkennbar-KI-Quellen-11409312.html",
+      "image_title": "Waage, auf die ein Finger zeigt, umgeben von Justiz-Symbolen."
+    },
+    {
+      "title": "Lahmer x86-Befehl hebelt triviale Schutzfunktion aus",
+      "teaser": "Der mächtige System Management Mode (SMM) von x86-Prozessoren ist ein bevorzugtes Ziel von Angriffen. Ein Trick hebelt eine SMM-Schutzfunktion aus.",
+      "url": "https://www.heise.de/news/Lahmer-x86-Befehl-hebelt-triviale-Schutzfunktion-aus-11409272.html",
+      "image_title": "Zwei Prozessoren von Intel und AMD lehnen an einem Motherboard."
+    },
+    {
+      "title": "Grafikkarten werden nochmals rund 20 Prozent teurer",
+      "teaser": "Spiele-Grafikkarten werden erneut teurer, weil Nvidia die Preise für Bundles aus GPU und RAM erhöht hat. Auch AMD-Karten sind betroffen.",
+      "url": "https://www.heise.de/news/Grafikkarten-werden-nochmals-rund-20-Prozent-teurer-11409262.html",
+      "image_title": "Verschiedene aktuelle Grafikkarten."
+    },
+    {
+      "title": "Dobrindt baut Drohnenabwehr nach Vorfall in Leipzig massiv aus",
       "teaser": "Nach dem versuchten Drohnenanschlag auf dem Leipziger Flughafen wächst der politische Druck. Innenminister Dobrindt reagiert mit mehr Abwehreinheiten.",
       "url": "https://www.heise.de/news/Debatte-um-Drohnenabwehr-Bundespolizei-soll-mehr-koennen-11409300.html",
       "image_title": "Eine riesige ukrainische Antonow An-124 parkt am Frachtterminal des Flughafens Leipzig/Halle, dahinter eine im Vergleich klein wirkende Boeing 757 der Swiftair."
+    },
+    {
+      "title": "HintergrundRevolution im Daten-Dschungel: KI erfindet die Testdatengenerierung neu",
+      "url": "https://www.heise.de/hintergrund/Revolution-im-Daten-Dschungel-KI-erfindet-die-Testdatengenerierung-neu-11394240.html"
+    },
+    {
+      "title": "TestsFestplatten-Neuheiten im Test: 3,5 Zoll ohne Netzteil und RAID mit Thunderbolt 5",
+      "url": "https://www.heise.de/tests/Festplatten-Neuheiten-im-Test-3-5-Zoll-ohne-Netzteil-und-RAID-mit-Thunderbolt-5-11404000.html",
+      "image_title": "Festplatten von Seagate"
+    },
+    {
+      "title": "HintergrundSoftwarelieferkette: \"Bill of Behavior\" als Packungsbeilage für Container",
+      "url": "https://www.heise.de/hintergrund/Softwarelieferkette-Bill-of-Behavior-als-Packungsbeilage-fuer-Container-11384719.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "Bundesregierung nutzt KI als Arbeitswerkzeug ohne Kennzeichnungspflicht",
@@ -42,20 +74,6 @@
       "teaser": "Fluggäste von Lufthansa können in Kürze in einem ersten Airbus schnelles Internet von Starlink nutzen.",
       "url": "https://www.heise.de/news/Erste-Lufthansa-Maschine-mit-Starlink-Internet-an-Bord-startet-in-Kuerze-11409248.html",
       "image_title": "Mann mit Smartphone im Flugzeug"
-    },
-    {
-      "title": "HintergrundRevolution im Daten-Dschungel: KI erfindet die Testdatengenerierung neu",
-      "url": "https://www.heise.de/hintergrund/Revolution-im-Daten-Dschungel-KI-erfindet-die-Testdatengenerierung-neu-11394240.html"
-    },
-    {
-      "title": "TestsFestplatten-Neuheiten im Test: 3,5 Zoll ohne Netzteil und RAID mit Thunderbolt 5",
-      "url": "https://www.heise.de/tests/Festplatten-Neuheiten-im-Test-3-5-Zoll-ohne-Netzteil-und-RAID-mit-Thunderbolt-5-11404000.html",
-      "image_title": "Festplatten von Seagate"
-    },
-    {
-      "title": "HintergrundSoftwarelieferkette: \"Bill of Behavior\" als Packungsbeilage für Container",
-      "url": "https://www.heise.de/hintergrund/Softwarelieferkette-Bill-of-Behavior-als-Packungsbeilage-fuer-Container-11384719.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "curl: Niemand will mit Windows arbeiten",
@@ -128,24 +146,6 @@
       "teaser": "Angreifer nutzen zurzeit eine kritische Sicherheitslücke in der Business-Intelligence-Plattform Metabase aus. Admins müssen jetzt handeln.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Admin-Attacken-auf-Metabase-beobachtet-11404526.html",
       "image_title": "Bildschirm mit einem roten Warndreieck, das vor Malware warnt"
-    },
-    {
-      "title": "iX-Workshop: Active Defense & Hardening – Systeme aktiv schützen",
-      "teaser": "Üben Sie in einer praxisnahen Laborumgebung, wie Sie Schwachstellen in Ihrer IT-Infrastruktur finden und Ihre Systeme gegen Angriffe effektiv absichern können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Active-Defense-Hardening-Systeme-aktiv-schuetzen-11378566.html",
-      "image_title": "Stilisierter Serverraum, davor ein stilisierter Ritter mit rot leuchtendem Schwert und blau leuchtendem Schutzschild. Oben links ein gelber Kreis mit weißer Schrift: iX-Workshops"
-    },
-    {
-      "title": "Signale nach China: Britische Marine kappt Überwasserdrohnen das Internet",
-      "teaser": "Kameras eines Drittherstellers haben von Überwasserdrohnen der britischen Marine Lebenszeichen nach China geschickt. Deshalb wurde ihnen das Internet abgedreht.",
-      "url": "https://www.heise.de/news/Signale-nach-China-Britische-Marine-kappt-Ueberwasserdrohnen-das-Internet-11404378.html",
-      "image_title": "Draufsicht auf eine Kraken K3 Scout"
-    },
-    {
-      "title": "Elektronik-Experimente: Testlabor für Raspi Pico, Arduino Nano und Co.",
-      "teaser": "Spannungen messen, Signale generieren oder Prototypen testen. Mit dem TestLab wird der Mikrocontroller zum flexiblen Werkzeugkasten für Elektronik-Experimente.",
-      "url": "https://www.heise.de/ratgeber/Elektronik-Experimente-Testlabor-fuer-Raspi-Pico-Arduino-Nano-und-Co-11365468.html",
-      "image_title": ","
     },
     {
       "title": "NewsEine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
