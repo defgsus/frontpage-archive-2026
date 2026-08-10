@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T12:38:44",
+  "timestamp": "2026-08-10T14:09:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Kreativkomplize: Logoist 6 für Mac, iPhone und iPad im Test",
+      "teaser": "Ob mit Vorlagen oder KI: Die Vektorgrafik-Lösung Logoist 6 erstellt im Nu ansprechende Grafiken und Logos, die sich weiterverwenden lassen.",
+      "url": "https://www.heise.de/tests/Kreativkomplize-Logoist-6-fuer-Mac-iPhone-und-iPad-im-Test-11379666.html",
+      "image_title": "Logoist 6 gibt es für mehrere Plattformen"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
       "title": "Claude Code fragt künftig seltener: „Darf ich das?“",
       "teaser": "Anthropic aktiviert den Auto Mode in Claude Code standardmäßig. Die KI arbeitet dann selbstständig bei Shell-, Git- und Tool-Aufrufen.",
       "url": "https://www.heise.de/news/Weniger-Klicks-mehr-Kontrolle-Claude-Code-standardmaessig-im-Auto-Mode-11406246.html",
@@ -29,18 +41,6 @@
       "title": "Revolution im Daten-Dschungel: KI erfindet die Testdatengenerierung neu",
       "teaser": "Die Bereitstellung von Testdaten ist komplex. GenAI ermöglicht eine automatisierte, effiziente Erzeugung plausibler und datenschutzkonformer Testdatensätze.",
       "url": "https://www.heise.de/hintergrund/Revolution-im-Daten-Dschungel-KI-erfindet-die-Testdatengenerierung-neu-11394240.html"
-    },
-    {
-      "title": "KI-Agent hackt FitnessstudioWie sich Claude Zugang zu Kursen verschaffte",
-      "teaser": "Über Openclaw und Claude wollte ein Nutzer einen Platz im Fitnessstudio reservieren. Der KI-Agent hat allerdings die Webseite gehackt.",
-      "url": "https://www.heise.de/news/KI-Agent-hackt-Fitnessstudio-Wie-sich-Claude-Zugang-zu-Kursen-verschaffte-11406206.html",
-      "image_title": "Anthropic Claude Logo auf Handy"
-    },
-    {
-      "title": "AlertSchadcode-Attacken auf Progress LoadMaster im Gange",
-      "teaser": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
-      "image_title": "Ub der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
     },
     {
       "title": "HintergrundRevolution im Daten-Dschungel: KI erfindet die Testdatengenerierung neu",
@@ -57,10 +57,16 @@
       "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
-      "title": "iX-Workshop: Linux-Server absichern – effektiv und umfassend",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
+      "title": "KI-Agent hackt Fitnessstudio: Wie sich Claude Zugang zu Kursen verschaffte",
+      "teaser": "Über Openclaw und Claude wollte ein Nutzer einen Platz im Fitnessstudio reservieren. Der KI-Agent hat dabei allerdings die Webseite des Studios gehackt.",
+      "url": "https://www.heise.de/news/KI-Agent-hackt-Fitnessstudio-Wie-sich-Claude-Zugang-zu-Kursen-verschaffte-11406206.html",
+      "image_title": "Anthropic Claude Logo auf Handy"
+    },
+    {
+      "title": "AlertSchadcode-Attacken auf Progress LoadMaster im Gange",
+      "teaser": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
+      "image_title": "Ub der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
     },
     {
       "title": "Angriff auf Apples Private Cloud Compute: 150.000 Dollar für Sicherheitsforscher",
@@ -137,11 +143,6 @@
       "title": "18 Monate Haft in Südkorea wegen Industriespionage bei SK Hynix",
       "teaser": "Weil ein Ex-Beschäftigter von SK Hynix für chinesische Unternehmen spioniert hat, geht er ins Gefängnis. Dies wurde in zweiter Instanz in Südkorea bestätigt.",
       "url": "https://www.heise.de/news/18-Monate-Haft-in-Suedkorea-wegen-Industriespionage-bei-SK-Hynix-11404298.html"
-    },
-    {
-      "title": "Edge-Browser blockt bald Adblocker",
-      "teaser": "Das Ende des MV2-Supports in Edge naht. Betroffen ist auch der beliebte Adblocker uBlock Origin. So sieht der Zeitplan aus.",
-      "url": "https://www.heise.de/news/Edge-Browser-Termin-fuer-Ende-von-Manifest-V2-steht-Aus-fuer-uBlock-Origin-11404178.html"
     },
     {
       "title": "NewsEine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
