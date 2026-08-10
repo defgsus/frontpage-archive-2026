@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T15:45:53",
+  "timestamp": "2026-08-10T16:39:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Debatte um Drohnenabwehr: Bundespolizei soll mehr können",
+      "teaser": "Nach dem versuchten Drohnenanschlag auf dem Leipziger Flughafen wächst der politische Druck. Innenminister Dobrindt reagiert mit mehr Abwehreinheiten.",
+      "url": "https://www.heise.de/news/Debatte-um-Drohnenabwehr-Bundespolizei-soll-mehr-koennen-11409300.html",
+      "image_title": "Eine riesige ukrainische Antonow An-124 parkt am Frachtterminal des Flughafens Leipzig/Halle, dahinter eine im Vergleich klein wirkende Boeing 757 der Swiftair."
+    },
+    {
+      "title": "Bundesregierung nutzt KI als Arbeitswerkzeug ohne Kennzeichnungspflicht",
+      "teaser": "Die Bundesregierung nutzt KI zunehmend als Werkzeug. Während Schulungen für Beamte verpflichtend sind, bleibt die Transparenz bei KI-generierten Reden vage.",
+      "url": "https://www.heise.de/news/KI-in-der-Bundesregierung-Wenn-ein-Sprachmodell-die-Ministerrede-schreibt-11409212.html",
+      "image_title": "Tippende Hände, darüber schweben Symbole und die Buchstaben AI."
+    },
+    {
       "title": "Meta veröffentlicht Muse Glimmer: Offenes 30-Milliarden-Parameter-Modell",
       "teaser": "Meta hat mit Muse Glimmer ein offenes 30-Milliarden-Parameter-Modell veröffentlicht, das lokal auf Consumer-Hardware läuft und kommerziell nutzbar ist.",
       "url": "https://www.heise.de/news/Meta-veroeffentlicht-Muse-Glimmer-Offenes-30-Milliarden-Parameter-Modell-11409218.html",
@@ -30,18 +42,6 @@
       "teaser": "Fluggäste von Lufthansa können in Kürze in einem ersten Airbus schnelles Internet von Starlink nutzen.",
       "url": "https://www.heise.de/news/Erste-Lufthansa-Maschine-mit-Starlink-Internet-an-Bord-startet-in-Kuerze-11409248.html",
       "image_title": "Mann mit Smartphone im Flugzeug"
-    },
-    {
-      "title": "Open-Source-Projektcurl: Niemand will mit Windows arbeiten",
-      "teaser": "Das siebenköpfige Security-Team von curl nutzt kein Windows. Nun sucht Entwickler Daniel Stenberg dringend Unterstützung.",
-      "url": "https://www.heise.de/news/curl-Niemand-will-mit-Windows-arbeiten-11408872.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "HintergrundRevolution im Daten-Dschungel: KI erfindet die Testdatengenerierung neu",
@@ -56,6 +56,18 @@
       "title": "HintergrundSoftwarelieferkette: \"Bill of Behavior\" als Packungsbeilage für Container",
       "url": "https://www.heise.de/hintergrund/Softwarelieferkette-Bill-of-Behavior-als-Packungsbeilage-fuer-Container-11384719.html",
       "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "curl: Niemand will mit Windows arbeiten",
+      "teaser": "Das siebenköpfige Security-Team von curl nutzt kein Windows. Nun sucht Entwickler Daniel Stenberg dringend Unterstützung für das Projekt.",
+      "url": "https://www.heise.de/news/curl-Niemand-will-mit-Windows-arbeiten-11408872.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "iX-Workshop: Linux-Server härten mit Verschlüsselung und Zugriffskontrolle",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen – von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-absichern-effektiv-und-umfassend-11398193.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Claude Code fragt künftig seltener: „Darf ich das?“",
@@ -134,17 +146,6 @@
       "teaser": "Spannungen messen, Signale generieren oder Prototypen testen. Mit dem TestLab wird der Mikrocontroller zum flexiblen Werkzeugkasten für Elektronik-Experimente.",
       "url": "https://www.heise.de/ratgeber/Elektronik-Experimente-Testlabor-fuer-Raspi-Pico-Arduino-Nano-und-Co-11365468.html",
       "image_title": ","
-    },
-    {
-      "title": "Wie sich KI-Rechenzentren von gewöhnlichen Rechenzentren unterscheiden",
-      "teaser": "KI-Rechenzentren schießen wie Pilze aus dem Boden. Sie verheizen nicht nur mehr Strom als normale Rechenzentren, sondern haben auch technische Besonderheiten.",
-      "url": "https://www.heise.de/hintergrund/Wie-sich-KI-Rechenzentren-von-gewoehnlichen-Rechenzentren-unterscheiden-11355216.html",
-      "image_title": "Luftbild von KI-Rechenzentren in Abilene/Texas für das Projekt Stargate."
-    },
-    {
-      "title": "Top 10: Das beste Smart Lock im Test",
-      "teaser": "Unser Testsieger öffnet die Haustür berührungsfrei per Gesicht oder Hand. Aber auch andere Smart Locks bieten Vorzüge.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-smart-lock-im-test-testsieger-mit-gesichtserkennung-vor-nuki/8nlt4e6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsEine einzige Herstellerfolie zeigt, wie schlecht es um SSD-Preise steht",
