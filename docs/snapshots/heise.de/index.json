@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-11T16:43:14",
+  "timestamp": "2026-08-11T17:45:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Brandenburg: Cyberangriff legt IT-System der Gedenkstätten lahm",
+      "url": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html"
+    },
     {
       "title": "Heimliche Filmerei: Petition gegen Metas Smart Glasses",
       "url": "https://www.heise.de/news/Kamerabrillen-Digitalrechtler-starten-Petition-gegen-Metas-Smart-Glasses-11410637.html"
@@ -56,10 +60,6 @@
     {
       "title": "Deutschland-Stack: Mit vier Studien zur digitalen Verwaltung",
       "url": "https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html"
-    },
-    {
-      "title": "Intel verwässert sich für 20 Milliarden US-Dollar",
-      "url": "https://www.heise.de/news/Intel-verwaessert-sich-fuer-20-Milliarden-US-Dollar-11410327.html"
     },
     {
       "title": "Erster EinblickThunderbird plant neuen Desktop-Kalender",
@@ -103,10 +103,16 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-android-auto-wireless-nachruesten-die-besten-adapter-im-test/nv5rxl9?wt_mc=intern.red.bestenlisten.topteaser.startseite.teaser.teaser"
     },
     {
-      "title": "KI-Agenten verstehenOpenClaw selbst gebaut",
-      "teaser": "Ein Weg, die ausgefeilte OpenClaw-Architektur zu begreifen, ist die Nachbildung der Kernkonzepte in Python.",
-      "url": "https://www.heise.de/ratgeber/KI-Agenten-verstehen-OpenClaw-selbst-gebaut-11371835.html",
-      "image_title": ", Ronja Leppert / KI / iX"
+      "title": "Sieben AnbieterDas eigene Magazin drucken",
+      "teaser": "Ob Hochzeit, Reise oder Jubiläum: Wir haben sieben Fotobuchanbieter getestet.",
+      "url": "https://www.heise.de/tests/Das-eigene-Magazin-drucken-Sieben-Anbieter-im-Vergleich-11398048.html",
+      "image_title": ", Titelbild Magazine: EVERST/stock.adobe.com"
+    },
+    {
+      "title": "Elektronik-ExperimenteTestlabor für Raspi Pico, Arduino Nano und Co.",
+      "teaser": "Spannungen messen, Signale generieren oder Prototypen testen. Per TestLab wird der Mikrocontroller zum Werkzeugkasten.",
+      "url": "https://www.heise.de/ratgeber/Elektronik-Experimente-Testlabor-fuer-Raspi-Pico-Arduino-Nano-und-Co-11365468.html",
+      "image_title": ","
     },
     {
       "title": "RechtDSGVO-Löschpflichten vs. Backups und Logfiles",
@@ -115,13 +121,7 @@
       "image_title": "Ein Mann wirft eine Festplatte in einen Aktenvernichter, ein anderer Mann versucht, sie aufzuhalten."
     },
     {
-      "title": "Vier Modelle im VergleichSpeicher für Balkonkraftwerke",
-      "teaser": "Die Systeme von Anker Solix, Conow, Jackery und Zendure versprechen einen stressfreien PV-Einstieg.",
-      "url": "https://www.heise.de/tests/Balkonkraftwerke-mit-Speicher-Vier-Modelle-im-Vergleich-11248336.html",
-      "image_title": "Ein Haus mit Solarzellen und mehreren Batterien, verbunden durch eine gestrichelte Linie."
-    },
-    {
-      "title": "Lange verboten, jetzt in 4KStanley Kubricks \"Wege zum Ruhm\" im Heimkinotest",
+      "title": "Lange verboten, jetzt in 4KStanley Kubricks \"Wege zum Ruhm\"",
       "teaser": "Weil Kubrick das unmenschliche Militärsystem demaskierte, wurde sein Antikriegsfilm verbannt. Wir testen die 4K-Restauration.",
       "url": "https://www.heise.de/tests/Jahrelang-verboten-jetzt-in-4K-Kubricks-Wege-zum-Ruhm-im-Heimkinotest-11380208.html"
     },
@@ -162,9 +162,10 @@
       "image_title": "Zwei Prozessoren von Intel und AMD lehnen an einem Motherboard."
     },
     {
-      "title": "Gardena-Pumpe im TestSmarte Bewässerung ohne Internet",
-      "teaser": "Die getestete Gardena-Pump erlaubt smartes Gießen ohne Internet. Ein Praxistest.",
-      "url": "https://www.heise.de/tests/Smarte-Bewaesserung-ohne-Internet-Gardena-Pumpe-im-Praxistest-11370900.html"
+      "title": "KI-Agenten verstehenOpenClaw selbst gebaut",
+      "teaser": "Ein Weg, die ausgefeilte OpenClaw-Architektur zu begreifen, ist die Nachbildung der Kernkonzepte in Python.",
+      "url": "https://www.heise.de/ratgeber/KI-Agenten-verstehen-OpenClaw-selbst-gebaut-11371835.html",
+      "image_title": ", Ronja Leppert / KI / iX"
     },
     {
       "title": "Open-Source-ProjektNiemand will bei curl mit Windows arbeiten",
@@ -185,21 +186,26 @@
       "image_title": "Raumsonde mit langen Antennen vor dunklem Sternenhimmel"
     },
     {
+      "title": "Brandenburg: Cyberangriff legt IT-System der Gedenkstätten lahm",
+      "teaser": "Die Stiftung Brandenburgische Gedenkstätten wurde Opfer eines Ransomware-Angriffs. IT-Systeme sind derzeit außer Betrieb, ein Datenabfluss wird vermutet.",
+      "url": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html"
+    },
+    {
       "title": "Heimliche Filmerei: Petition gegen Metas Smart Glasses",
       "teaser": "Das Zentrum für Digitalrechte und Demokratie verlangt ein Eingreifen der Bundesnetzagentur gegen heimliche Videoaufnahmen im Alltag. Es drängt auf ein Verbot.",
       "url": "https://www.heise.de/news/Kamerabrillen-Digitalrechtler-starten-Petition-gegen-Metas-Smart-Glasses-11410637.html",
       "image_title": "Mann mit Smart Glass von Ray Ban/Meta"
     },
     {
+      "title": "Neue Speicherkonzepte für das Supercomputing",
+      "teaser": "Wer mit riesigen Datenmengen arbeitet, kennt das Problem: Die Daten wachsen schneller als die Infrastruktur. Klassische Speicherarchitekturen stoßen an ihre Grenzen. Doch es gibt eine Lösung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319745106&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Windows 11 für Komplett-PCs und Notebooks soll teurer werden",
       "teaser": "Microsoft verlangt für OEM-Windows-Lizenzen angeblich bis zu zehn Prozent mehr Geld. Preiserhöhungen gingen bisher wohl unter.",
       "url": "https://www.heise.de/news/Windows-11-fuer-Komplett-PCs-und-Notebooks-soll-teurer-werden-11410587.html",
       "image_title": "Windows-Taste auf einer Notebook-Tastatur"
-    },
-    {
-      "title": "Neue Speicherkonzepte für das Supercomputing",
-      "teaser": "Wer mit riesigen Datenmengen arbeitet, kennt das Problem: Die Daten wachsen schneller als die Infrastruktur. Klassische Speicherarchitekturen stoßen an ihre Grenzen. Doch es gibt eine Lösung.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319745106&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "KI-Ethikchefin verlässt OpenAI nach weniger als einem Jahr",
@@ -228,12 +234,6 @@
       "teaser": "Das Kompetenznetzwerk Digitale Verwaltung fördert vier Kurzstudien zum Deutschland-Stack. Sie sollen die Digitalisierung von Behörden vorantreiben.",
       "url": "https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html",
       "image_title": "Eine zerbrochene Kette vor der deutschen Flagge"
-    },
-    {
-      "title": "Bahnchefin Palla will Pläne für Generalsanierungen anpassen",
-      "teaser": "Bis Mitte der 2030er plant die Deutsche Bahn Generalsanierungen auf einer Reihe von Strecken. Nach Problemen und Kritik will die Bahnchefin das Konzept ändern.",
-      "url": "https://www.heise.de/news/Bahnchefin-Palla-will-Plaene-fuer-Generalsanierungen-anpassen-11410341.html",
-      "image_title": "Baustelle der Deutschen Bahn"
     },
     {
       "title": "Elektroauto vs. VerbrennerWer wirklich schneller von Freiburg nach Rügen fährt",
@@ -315,6 +315,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kompressor-kuehlbox-im-test-echte-kuehlung-bis-minus-20-grad/8jwmngt?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Bahnchefin Palla will Pläne für Generalsanierungen anpassen",
+      "teaser": "Bis Mitte der 2030er plant die Deutsche Bahn Generalsanierungen auf einer Reihe von Strecken. Nach Problemen und Kritik will die Bahnchefin das Konzept ändern.",
+      "url": "https://www.heise.de/news/Bahnchefin-Palla-will-Plaene-fuer-Generalsanierungen-anpassen-11410341.html",
+      "image_title": "Baustelle der Deutschen Bahn"
+    },
+    {
       "title": "Zeitzeugen berichten: AR-App zum Mauerbau von WDR und MDR",
       "teaser": "Ab sofort berichten drei Zeitzeugen via kostenloser AR-App von der deutschen Teilung. Das Projekt ist offen für weitere Schülerfragen bis Anfang Oktober.",
       "url": "https://www.heise.de/news/Zeitzeugen-berichten-AR-App-zum-Mauerbau-von-WDR-und-MDR-11404642.html",
@@ -386,15 +392,15 @@
       "url": "https://www.heise.de/news/Horizons-by-heise-Online-Meetup-Zwischen-KI-und-Klischees-11408648.html"
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "Wie sich KI-Rechenzentren von gewöhnlichen Rechenzentren unterscheiden",
       "teaser": "KI-Rechenzentren schießen wie Pilze aus dem Boden. Sie verheizen nicht nur mehr Strom als normale Rechenzentren, sondern haben auch technische Besonderheiten.",
       "url": "https://www.heise.de/hintergrund/Wie-sich-KI-Rechenzentren-von-gewoehnlichen-Rechenzentren-unterscheiden-11355216.html",
       "image_title": "Luftbild von KI-Rechenzentren in Abilene/Texas für das Projekt Stargate."
-    },
-    {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
     },
     {
       "title": "AlertIBM Db2: Sicherheitslücke macht Passwörter im Klartext einsehbar",
@@ -449,12 +455,6 @@
       "teaser": "Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html",
       "image_title": "Ein symbolischer Updatebalken füllt sich."
-    },
-    {
-      "title": "iX-Workshop Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
-      "teaser": "Lernen Sie anhand praktischer Beispiele, wie Sie Ihre Kubernetes-Umgebung durch effektive Methoden und Werkzeuge vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Advanced-Kubernetes-Security-Effektive-Massnahmen-und-Best-Practices-11389280.html",
-      "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
       "title": "Signale nach China: Britische Marine kappt Überwasserdrohnen das Internet",
@@ -628,10 +628,10 @@
       "url": "https://www.heise.de/en/news/Roblox-expects-declining-user-spending-stock-plunges-11404399.html"
     },
     {
-      "title": "Aufrüsten statt Neukauf: c’t-Bauvorschlag von 2019 gezielt upgraden",
-      "teaser": "Der alte PC lahmt, aber RAM ist teuer. Der Tausch von CPU und GPU katapultiert einen sieben Jahre alten Rechner auf aktuelles Leistungsniveau und spart Strom.",
-      "url": "https://www.heise.de/ratgeber/Aufruesten-statt-Neukauf-c-t-Bauvorschlag-von-2019-gezielt-upgraden-11340109.html",
-      "image_title": "Ein geöffneter Computer mit Komponenten und Werkzeugen daneben"
+      "title": "E-Government: Wie BundID und E-Perso ihre Nutzer in die Verzweiflung treiben",
+      "teaser": "Häufige Systembrüche, überbordende Anleitungen, komplexe Technik: Eine aktuelle Studie zeigt, warum Bürger an Onlinediensten von Behörden scheitern.",
+      "url": "https://www.heise.de/hintergrund/E-Government-Wie-BundID-und-E-Perso-ihre-Nutzer-in-die-Verzweiflung-treiben-11368539.html",
+      "image_title": "Ein Mann sitzt vor einem Computer mit verschiedenen Dokumenten und Apps auf dem Bildschirm und dem Tisch."
     },
     {
       "title": "AnalyseWas KI-Rechenzentren besonders macht",
@@ -640,10 +640,10 @@
       "image_title": "Luftbild von KI-Rechenzentren in Abilene/Texas für das Projekt Stargate."
     },
     {
-      "title": "SMM-SchutzfunktionLahmer x86-Befehl hebelt triviale Schutzfunktion aus",
-      "teaser": "Der System Management Mode (SMM) von x86-Prozessoren ist ein bevorzugtes Ziel von Angriffen. Ein Trick hebelt eine Schutzfunktion aus.",
-      "url": "https://www.heise.de/news/Lahmer-x86-Befehl-hebelt-triviale-Schutzfunktion-aus-11409272.html",
-      "image_title": "Zwei Prozessoren von Intel und AMD lehnen an einem Motherboard."
+      "title": "Aufrüsten statt Neukauf: c’t-Bauvorschlag von 2019 gezielt upgraden",
+      "teaser": "Der alte PC lahmt, aber RAM ist teuer. Der Tausch von CPU und GPU katapultiert einen sieben Jahre alten Rechner auf aktuelles Leistungsniveau und spart Strom.",
+      "url": "https://www.heise.de/ratgeber/Aufruesten-statt-Neukauf-c-t-Bauvorschlag-von-2019-gezielt-upgraden-11340109.html",
+      "image_title": "Ein geöffneter Computer mit Komponenten und Werkzeugen daneben"
     },
     {
       "title": "iPhone weg: Indizien sammeln per Kurzbefehl",
@@ -664,12 +664,6 @@
       "image_title": "Hub am MacBook Neo"
     },
     {
-      "title": "Elektronik-Experimente: Testlabor für Raspi Pico, Arduino Nano und Co.",
-      "teaser": "Spannungen messen, Signale generieren oder Prototypen testen. Mit dem TestLab wird der Mikrocontroller zum flexiblen Werkzeugkasten für Elektronik-Experimente.",
-      "url": "https://www.heise.de/ratgeber/Elektronik-Experimente-Testlabor-fuer-Raspi-Pico-Arduino-Nano-und-Co-11365468.html",
-      "image_title": ","
-    },
-    {
       "title": "LAYSIE: KI-Songs mit Raspberry Pi generieren",
       "teaser": "Kein Instrument, keine Übung – kein Problem. LAYSIE generiert per KI individuelle Songs aus gesprochenen Ideen und spielt sie über Bluetooth ab.",
       "url": "https://www.heise.de/ratgeber/LAYSIE-KI-Songs-mit-Raspberry-Pi-generieren-11368294.html",
@@ -682,16 +676,16 @@
       "image_title": "Makey begrüßt die Besucher"
     },
     {
+      "title": "Okularkameras im Test: Das ganz Kleine auf dem Bildschirm",
+      "teaser": "Spezialkameras ersetzen Lichtmikroskop-Okulare und übertragen Bilder per USB auf den PC. Ein Modell passt auch an Ferngläser und funkt das Bild aufs Smartphone.",
+      "url": "https://www.heise.de/tests/Okularkameras-im-Test-Das-ganz-Kleine-auf-dem-Bildschirm-11327062.html",
+      "image_title": "Mikroskop mit Laptop und Präparierbesteck"
+    },
+    {
       "title": "Batterie mit Apples „Wo ist?“ für Sony-Kameras",
       "teaser": "Viele Kamerabesitzer verstecken bereits AirTags in ihre teuren Geräte. Ulanzi / Falcam stecken den Tracker nun direkt in einen Akku – samt Sonderfunktion.",
       "url": "https://www.heise.de/news/Batterie-mit-Apples-Wo-ist-fuer-Sony-Kameras-11403482.html",
       "image_title": "Sony-Kameraakku mit „Wo ist?“"
-    },
-    {
-      "title": "Das eigene Magazin drucken: Sieben Anbieter im Vergleich",
-      "teaser": "Ob Hochzeit, Reise oder Jubiläum: Wir haben sieben Fotobuchanbieter getestet – von Layout-Software bis Druckqualität.",
-      "url": "https://www.heise.de/tests/Das-eigene-Magazin-drucken-Sieben-Anbieter-im-Vergleich-11398048.html",
-      "image_title": ", Titelbild Magazine: EVERST/stock.adobe.com"
     },
     {
       "title": "Die Bilder der Woche 32: Farbwirbel und grafische Momentaufnahmen",
@@ -703,6 +697,12 @@
       "teaser": "Rheinland-Pfalz steckt voller Fotospots: Vulkankrater, Moselschleifen und Sandsteinfelsen. Mit Profi-Tipps und GPS-Daten Fotografieren und Entdecken.",
       "url": "https://www.heise.de/ratgeber/Fototour-durch-Rheinland-Pfalz-Burgen-Maare-und-wilde-Felsen-11381400.html",
       "image_title": ", Alle Bilder: Bastian Werner"
+    },
+    {
+      "title": "Luminar: KI-Update für Nebel-Effekte und natürlichen Foto-Look",
+      "teaser": "Die Bildbearbeitung Luminar soll schneller arbeiten und erhält neue Werkzeuge für atmosphärische Effekte, automatische Bildvorschläge und KI-Bearbeitung.",
+      "url": "https://www.heise.de/news/Luminar-KI-Update-fuer-Nebel-Effekte-und-natuerlichen-Foto-Look-11401031.html",
+      "image_title": "Tools_Panel von Luminar"
     },
     {
       "title": "Umstieg von M365 auf Nextcloud – eine Anleitung",
@@ -745,22 +745,22 @@
       "url": "https://www.heise.de/news/Daimler-Truck-setzt-nach-Gewinneinbruch-auf-zweites-Halbjahr-11403958.html"
     },
     {
-      "title": "Nepal: Ist das Land im Himalaya noch eine Reise wert?",
-      "teaser": "Straßen, Baustellen und Menschenmassen verändern den Himalaya. Warum Nepal trotzdem noch immer eine besondere Reise wert ist.",
-      "url": "https://www.telepolis.de/article/Nepal-Ist-das-Land-im-Himalaya-noch-eine-Reise-wert-11404076.html",
-      "image_title": "Der Berg und das Dorf: Das Dorf Manang in Nepal und der Annapurna III wie auch der Gangapurna"
+      "title": "Polens Wirtschaftsboom: Warum das neue EU-Schwergewicht ein Scheinriese ist",
+      "teaser": "Eurostat-Daten zeigen: Polen klettert auf Platz 6 der EU-Staaten. Doch beim Pro-Kopf-Einkommen hinkt das Land dem Durchschnitt hinterher.",
+      "url": "https://www.telepolis.de/article/Polens-Wirtschaftsboom-Warum-das-neue-EU-Schwergewicht-ein-Scheinriese-ist-11409330.html",
+      "image_title": "Industrielle Anlage mit Schornsteinen, Kränen und Gebäuden."
     },
     {
-      "title": "UN-Bericht: Meeresspiegel steigt doppelt so schnell wie vor zehn Jahren",
-      "teaser": "Laut einem neuen UN-Bericht hat sich das Tempo des Meeresspiegelanstiegs binnen eines Jahrzehnts verdoppelt. Forscher warnen vor den Folgen.",
-      "url": "https://www.telepolis.de/article/Ozeane-in-der-Krise-UN-Bericht-dokumentiert-rasanten-Pegelanstieg-11404771.html",
-      "image_title": "Wellen und Luftblasen unter blauem Himmel mit dünnen Wolken"
+      "title": "Steuern und Staatsausgaben: Wie viel Staat können wir uns leisten?",
+      "teaser": "Eine Billion Euro Steuern reichen nicht. Doch wer bestimmt eigentlich, welche Aufgaben der Staat übernehmen soll – und was sie den Bürger kosten dürfen?",
+      "url": "https://www.telepolis.de/article/Steuern-und-Staatsausgaben-Wie-viel-Staat-koennen-wir-uns-leisten-11409628.html",
+      "image_title": "Porträt Friedrick Merz mit einem Glas Wasser am Mund"
     },
     {
-      "title": "Konrad Zuses Z3: Wie Nachbauten Technikgeschichte bewahren",
-      "teaser": "Zuses Z3 existiert heute nur noch als Nachbau. Mehrere Rekonstruktionen bewahren das 1943 zerstörte Original. Doch welche kommt dem echten Z3 am nächsten?",
-      "url": "https://www.telepolis.de/article/Konrad-Zuses-Z3-Wie-Nachbauten-Technikgeschichte-bewahren-11367214.html",
-      "image_title": "Schaltschränke und Holz-Terminal"
+      "title": "Glyphosat an den Grenzen: Wie Israel \"Pufferzonen\" in Libanon und Syrien schafft",
+      "teaser": "Um Hisbollah-Kräfte zu vertreiben, soll Israel Herbizide in bis zu 50-facher Dosierung auf Felder im Südlibanon und in Syrien sprühen lassen.",
+      "url": "https://www.telepolis.de/article/Glyphosat-an-den-Grenzen-Wie-Israel-Pufferzonen-in-Libanon-und-Syrien-schafft-11404984.html",
+      "image_title": "Libanesische Flagge mit unten verdorrter Zeder und Sprüh-Flugzeug"
     },
     {
       "title": "Meeting-Notizen aus der KI: So fehleranfällig sind sie wirklich",
