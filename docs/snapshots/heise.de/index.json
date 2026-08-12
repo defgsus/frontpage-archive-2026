@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T08:56:57",
+  "timestamp": "2026-08-12T09:54:09",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,26 @@
     }
   ],
   "articles": [
+    {
+      "title": "WordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+      "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html"
+    },
+    {
+      "title": "Gratis Delphi 13 Vollversion bietet komplette IDE für Windows und Mobile",
+      "url": "https://www.heise.de/news/Windows-und-Mobile-Entwicklung-gratis-mit-Delphi-13-11411085.html"
+    },
+    {
+      "title": "Medizininformatik-Initiative standardisiert Einwilligung für Obduktionen",
+      "url": "https://www.heise.de/news/Medizininformatik-Initiative-standardisiert-Einwilligung-fuer-Obduktionen-11411165.html"
+    },
+    {
+      "title": "XXL-Windpark in der Nordsee: Was das für die Energiewende bedeutet",
+      "url": "https://www.heise.de/news/XXL-Windpark-in-der-Nordsee-Was-das-fuer-die-Energiewende-bedeutet-11411161.html"
+    },
+    {
+      "title": "Rechenzentren: Kritik an Umgang der Bundesregierung mit Ausbauplänen",
+      "url": "https://www.heise.de/news/Rechenzentren-Kritik-an-Umgang-der-Bundesregierung-mit-Ausbauplaenen-11411251.html"
+    },
     {
       "title": "Patchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html"
@@ -42,26 +62,6 @@
       "url": "https://www.heise.de/news/KI-Einsatz-Viele-Firmen-erwarten-sinkende-Loehne-11411115.html"
     },
     {
-      "title": "iX-Workshop: Software und Updates mit Ansible automatisiert bereitstellen",
-      "url": "https://www.heise.de/news/iX-Workshop-Software-und-Updates-mit-Ansible-automatisiert-bereitstellen-11389355.html"
-    },
-    {
-      "title": "Indiens Notenbank: Kreditunwürdige Menschen sollen Dank KI doch Geld bekommen",
-      "url": "https://www.heise.de/news/Indiens-Notenbank-Kreditunwuerdige-Menschen-sollen-Dank-KI-doch-Geld-bekommen-11410831.html"
-    },
-    {
-      "title": "Patchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html"
-    },
-    {
-      "title": "KI-Brillen: Strafanzeige gegen Meta, Ray-Ban und Optiker",
-      "url": "https://www.heise.de/news/KI-Brillen-Strafanzeige-gegen-Meta-Ray-Ban-und-Optiker-11410967.html"
-    },
-    {
-      "title": "Ein gutes Produkt reicht nicht: Sales für Entwicklerinnen und Entwickler",
-      "url": "https://www.heise.de/blog/Ein-gutes-Produkt-reicht-nicht-Sales-fuer-Entwicklerinnen-und-Entwickler-11403884.html"
-    },
-    {
       "title": "Partielle SonnenfinsternisWarnung vor Fotoversuchen mit dem Smartphone",
       "teaser": "Am Abend kann man eine partielle Sonnenfinsternis beobachten. Mit dem ungeschützten Smartphone sollte man sie nicht fotografieren.",
       "url": "https://www.heise.de/news/Partielle-Sonnenfinsternis-Fotos-mit-dem-Smartphone-koennen-Bildsensor-zerstoeren-11410817.html",
@@ -74,7 +74,7 @@
       "image_title": "Foto einer totalen Sonnenfinsternis ist am Montag, dem 21. August 2017"
     },
     {
-      "title": "KI-BrillenStrafanzeige gegen Meta, Ray-Ban und Optiker",
+      "title": "UpdateKI-BrillenStrafanzeige gegen Meta, Ray-Ban und Optiker",
       "teaser": "HateAid hat Strafanzeige gegen Meta und mehrere Optik-Ketten eingereicht. Die Smart Glasses sollen gegen das TDDDG verstoßen.",
       "url": "https://www.heise.de/news/KI-Brillen-Strafanzeige-gegen-Meta-Ray-Ban-und-Optiker-11410967.html",
       "image_title": "Nahaufnahme einer der Brillen"
@@ -187,6 +187,41 @@
       "image_title": "Detailansicht einer Anzeigetafel eines Flughafens voler \"Cancelled\"-Angaben"
     },
     {
+      "title": "AlertWordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+      "teaser": "Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.",
+      "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
+      "image_title": "Ein Frau drückt einen symbolischen Updateknopf."
+    },
+    {
+      "title": "Gratis Delphi 13 Vollversion bietet komplette IDE für Windows und Mobile",
+      "teaser": "Mit der Community Edition stellt Embarcadero eine komplette Entwicklungsumgebung für Windows und Mobile gratis zur Verfügung.",
+      "url": "https://www.heise.de/news/Windows-und-Mobile-Entwicklung-gratis-mit-Delphi-13-11411085.html",
+      "image_title": "Griechischer Tempel"
+    },
+    {
+      "title": "Vom Urlaubsfoto zur druckbaren 3D-Figur",
+      "teaser": "Die 3D-Modellierung war lange Spezialisten vorbehalten. Dialogbasierte KI-Agenten könnten das ändern. Künftig kann jeder mithilfe von Text-Prompts oder Bildern druckbare 3D-Modelle erstellen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7365122533&iu=%2F6514%2FClicktracking%2Ftextlink"
+    },
+    {
+      "title": "Medizininformatik-Initiative standardisiert Einwilligung für Obduktionen",
+      "teaser": "Patienten können künftig bundesweit einheitlich über Obduktionen und die Nutzung ihrer Daten für die Forschung entscheiden. Das soll Angehörige entlasten.",
+      "url": "https://www.heise.de/news/Medizininformatik-Initiative-standardisiert-Einwilligung-fuer-Obduktionen-11411165.html",
+      "image_title": "Todesbescheinigung von einer Frau wird von einer Ärztin ausgestellt, die neben der Leiche sitzt"
+    },
+    {
+      "title": "XXL-Windpark in der Nordsee: Was das für die Energiewende bedeutet",
+      "teaser": "Sechs Fußballfelder Fläche pro Rotor, Stromleitungen quer durchs Meer: Was hinter dem größten Offshore-Projekt vor der deutschen Küste steckt.",
+      "url": "https://www.heise.de/news/XXL-Windpark-in-der-Nordsee-Was-das-fuer-die-Energiewende-bedeutet-11411161.html",
+      "image_title": "Zahlreiche Windkraftanlagen im Meer"
+    },
+    {
+      "title": "Rechenzentren: Kritik an Umgang der Bundesregierung mit Ausbauplänen",
+      "teaser": "Die Bundesregierung hat keinen vollständigen Überblick über neue Rechenzentren und will ihre Ausbauziele erst 2029 überprüfen. Dafür wird sie kritisiert.",
+      "url": "https://www.heise.de/news/Rechenzentren-Kritik-an-Umgang-der-Bundesregierung-mit-Ausbauplaenen-11411251.html",
+      "image_title": "Rechenzentrum"
+    },
+    {
       "title": "AlertPatchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen an Adobe-Anwendungen.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
@@ -199,45 +234,10 @@
       "image_title": "Das iPad kann mehr als nur ein Tablet zu sein"
     },
     {
-      "title": "Mit UEM zu mehr IT-Effizienz",
-      "teaser": "Durch Automatisierung der Vorgänge im Hard- und Softwaremanagement sorgt Unified Endpoint Management für stets aktuelle und sichere Netzwerklandschaften – mit minimalem manuellen Aufwand.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7342782231&iu=%2F6514%2FClicktracking"
-    },
-    {
       "title": "Böse Screen-Sharing-Lücke in macOS: Exploit aus Apples Patch gebaut",
       "teaser": "Wer Apples praktische Bildschirm-teilen-Funktion auf dem Mac nutzt, muss sein Betriebssystem aktualisieren. Ein Exploit ließ sich schnell entwickeln.",
       "url": "https://www.heise.de/news/Boese-Screen-Sharing-Luecke-in-macOS-Exploit-aus-Apples-Patch-gebaut-11411035.html",
       "image_title": "Apple Remote Desktop in einer älteren Version"
-    },
-    {
-      "title": "Deep Robotics' beräderter Roboterhund Lynx M20 überwacht Antilopenpopulation",
-      "teaser": "Den Roboterhund Lynx M20 setzen Forscher zur Wildtierbeobachtung ein. Das Verhalten und die Population tibetischer Antilopen soll so erforscht werden.",
-      "url": "https://www.heise.de/news/Deep-Robotics-beraederter-Roboterhund-Lynx-M20-ueberwacht-Antilopenpopulation-11410909.html",
-      "image_title": "Roboterhund nähert sich Antilopen"
-    },
-    {
-      "title": "KI-Einsatz: Viele Firmen erwarten sinkende Löhne",
-      "teaser": "Eine Ifo-Umfrage unter 3.000 Unternehmen zeigt: Viele Betriebe erwarten durch KI sinkende Löhne, besonders für Berufseinsteiger.",
-      "url": "https://www.heise.de/news/KI-Einsatz-Viele-Firmen-erwarten-sinkende-Loehne-11411115.html",
-      "image_title": "Füße eines Mannes im Anzug, der auf einer Treppe sitztdaneben eine Hand mit Brille."
-    },
-    {
-      "title": "iX-Workshop: Software und Updates mit Ansible automatisiert bereitstellen",
-      "teaser": "Trainieren Sie praxisnah, wie Sie die Systeme in Ihrem Unternehmen mit Ansible verwalten können, um Konfigurationen und Updates automatisiert zu verteilen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Software-und-Updates-mit-Ansible-automatisiert-bereitstellen-11389355.html",
-      "image_title": "iX-Workshop: Systemdeployment und -management mit Ansible"
-    },
-    {
-      "title": "Indiens Notenbank: Kreditunwürdige Menschen sollen Dank KI doch Geld bekommen",
-      "teaser": "Die indische Notenbank prüft den Einsatz von KI, um Kredite an mehr Menschen zu vergeben und den Zugang zu Bankdienstleistungen zu verbessern.",
-      "url": "https://www.heise.de/news/Indiens-Notenbank-Kreditunwuerdige-Menschen-sollen-Dank-KI-doch-Geld-bekommen-11410831.html",
-      "image_title": "Euro,Money,Eur,Finance,Symbol,Digital,Concept.,Network,,Cyber,Technology"
-    },
-    {
-      "title": "Ein gutes Produkt reicht nicht: Sales für Entwicklerinnen und Entwickler",
-      "teaser": "Vertrieb gilt vielen Entwicklerinnen und Entwicklern als notwendiges Übel. Oliver Gehrmann erklärt im Interview, warum Sales vor allem ein Handwerk ist.",
-      "url": "https://www.heise.de/blog/Ein-gutes-Produkt-reicht-nicht-Sales-fuer-Entwicklerinnen-und-Entwickler-11403884.html",
-      "image_title": "Symbolbild, das die Tätigkeiten eines Vertriebsmitarbeitenden zeigt."
     },
     {
       "title": "Elektroauto vs. VerbrennerWer wirklich schneller von Freiburg nach Rügen fährt",
@@ -318,6 +318,36 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kompressor-kuehlbox-im-test-echte-kuehlung-bis-minus-20-grad/8jwmngt?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Deep Robotics' beräderter Roboterhund Lynx M20 überwacht Antilopenpopulation",
+      "teaser": "Den Roboterhund Lynx M20 setzen Forscher zur Wildtierbeobachtung ein. Das Verhalten und die Population tibetischer Antilopen soll so erforscht werden.",
+      "url": "https://www.heise.de/news/Deep-Robotics-beraederter-Roboterhund-Lynx-M20-ueberwacht-Antilopenpopulation-11410909.html",
+      "image_title": "Roboterhund nähert sich Antilopen"
+    },
+    {
+      "title": "KI-Einsatz: Viele Firmen erwarten sinkende Löhne",
+      "teaser": "Eine Ifo-Umfrage unter 3.000 Unternehmen zeigt: Viele Betriebe erwarten durch KI sinkende Löhne, besonders für Berufseinsteiger.",
+      "url": "https://www.heise.de/news/KI-Einsatz-Viele-Firmen-erwarten-sinkende-Loehne-11411115.html",
+      "image_title": "Füße eines Mannes im Anzug, der auf einer Treppe sitztdaneben eine Hand mit Brille."
+    },
+    {
+      "title": "iX-Workshop: Software und Updates mit Ansible automatisiert bereitstellen",
+      "teaser": "Trainieren Sie praxisnah, wie Sie die Systeme in Ihrem Unternehmen mit Ansible verwalten können, um Konfigurationen und Updates automatisiert zu verteilen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Software-und-Updates-mit-Ansible-automatisiert-bereitstellen-11389355.html",
+      "image_title": "iX-Workshop: Systemdeployment und -management mit Ansible"
+    },
+    {
+      "title": "Indiens Notenbank: Kreditunwürdige Menschen sollen Dank KI doch Geld bekommen",
+      "teaser": "Die indische Notenbank prüft den Einsatz von KI, um Kredite an mehr Menschen zu vergeben und den Zugang zu Bankdienstleistungen zu verbessern.",
+      "url": "https://www.heise.de/news/Indiens-Notenbank-Kreditunwuerdige-Menschen-sollen-Dank-KI-doch-Geld-bekommen-11410831.html",
+      "image_title": "Euro,Money,Eur,Finance,Symbol,Digital,Concept.,Network,,Cyber,Technology"
+    },
+    {
+      "title": "Ein gutes Produkt reicht nicht: Sales für Entwicklerinnen und Entwickler",
+      "teaser": "Vertrieb gilt vielen Entwicklerinnen und Entwicklern als notwendiges Übel. Oliver Gehrmann erklärt im Interview, warum Sales vor allem ein Handwerk ist.",
+      "url": "https://www.heise.de/blog/Ein-gutes-Produkt-reicht-nicht-Sales-fuer-Entwicklerinnen-und-Entwickler-11403884.html",
+      "image_title": "Symbolbild, das die Tätigkeiten eines Vertriebsmitarbeitenden zeigt."
+    },
+    {
       "title": "KI-Einsatz: Viele Start-ups verzichten auf Neueinstellungen",
       "teaser": "Eine Bitkom-Umfrage zeigt: Viele Tech-Start-ups verzichten wegen KI auf Neueinstellungen, einige bauen sogar Stellen ab.",
       "url": "https://www.heise.de/news/KI-Einsatz-Viele-Start-ups-verzichten-auf-Neueinstellungen-11410935.html",
@@ -364,6 +394,11 @@
       "image_title": "Magnetschwebebahn fährt unter einem Flugzeug; Mittwoch: Wettbörsen-Klage, Manus-Eigenständigkeit, Sharepoint-Angriffe, Überschall-Trebuchet & Bit-Rauschen"
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Speichermedien für Jahrhunderte",
       "teaser": "Datenarchive sollen lange überdauern und Widrigkeiten trotzen. Dafür sind neuartige Speichermedien in der Entwicklung: Folge 2025/16 des Podcasts Bit-Rauschen.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Speichermedien-fuer-Jahrhunderte-11346287.html",
@@ -393,11 +428,6 @@
       "image_title": "Mann mit Smart Glass von Ray Ban/Meta"
     },
     {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
-    },
-    {
       "title": "Windows 11 für Komplett-PCs und Notebooks soll teurer werden",
       "teaser": "Microsoft verlangt für OEM-Windows-Lizenzen angeblich bis zu zehn Prozent mehr Geld. Preiserhöhungen gingen bisher wohl unter.",
       "url": "https://www.heise.de/news/Windows-11-fuer-Komplett-PCs-und-Notebooks-soll-teurer-werden-11410587.html",
@@ -424,36 +454,6 @@
       "title": "Akku-Rasenmäher Litheli U20 33 cm im Test: mäht sehr leise und ist wendig",
       "teaser": "Leise, wendig und leicht: Der Akku-Rasenmäher Litheli U20 33 cm ist bestens ausgestattet, um in kleinen Gärten für einen sauber gemähten Rasen zu sorgen.",
       "url": "https://www.heise.de/bestenlisten/testbericht/akku-rasenmaeher-litheli-u20-33-cm-im-test-maeht-sehr-leise-und-ist-wendig/2048j3c?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Deutschland-Stack: Mit vier Studien zur digitalen Verwaltung",
-      "teaser": "Das Kompetenznetzwerk Digitale Verwaltung fördert vier Kurzstudien zum Deutschland-Stack. Sie sollen die Digitalisierung von Behörden vorantreiben.",
-      "url": "https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html",
-      "image_title": "Eine zerbrochene Kette vor der deutschen Flagge"
-    },
-    {
-      "title": "Intel verwässert sich für 20 Milliarden US-Dollar",
-      "teaser": "Intel füllt die eigene Investitionskasse durch neu herausgegebene Aktien. Damit könnte der Konzern etwa seine Halbleiterwerke ausbauen.",
-      "url": "https://www.heise.de/news/Intel-verwaessert-sich-fuer-20-Milliarden-US-Dollar-11410327.html",
-      "image_title": "Intel-Hauptsitz in Santa Clara, 2023"
-    },
-    {
-      "title": "Bahnchefin Palla will Pläne für Generalsanierungen anpassen",
-      "teaser": "Bis Mitte der 2030er plant die Deutsche Bahn Generalsanierungen auf einer Reihe von Strecken. Nach Problemen und Kritik will die Bahnchefin das Konzept ändern.",
-      "url": "https://www.heise.de/news/Bahnchefin-Palla-will-Plaene-fuer-Generalsanierungen-anpassen-11410341.html",
-      "image_title": "Baustelle der Deutschen Bahn"
-    },
-    {
-      "title": "Zeitzeugen berichten: AR-App zum Mauerbau von WDR und MDR",
-      "teaser": "Ab sofort berichten drei Zeitzeugen via kostenloser AR-App von der deutschen Teilung. Das Projekt ist offen für weitere Schülerfragen bis Anfang Oktober.",
-      "url": "https://www.heise.de/news/Zeitzeugen-berichten-AR-App-zum-Mauerbau-von-WDR-und-MDR-11404642.html",
-      "image_title": "Screenshot aus einer AR-App"
-    },
-    {
-      "title": "Softwarelieferkette: \"Bill of Behavior\" als Packungsbeilage für Container",
-      "teaser": "Die Software Bill of Behavior (SBOB) beschreibt das Laufzeitverhalten von Software präskriptiv – als signierte Absichtserklärung des Herstellers.",
-      "url": "https://www.heise.de/hintergrund/Softwarelieferkette-Bill-of-Behavior-als-Packungsbeilage-fuer-Container-11384719.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
       "title": "curl: Niemand will mit Windows arbeiten",
@@ -541,9 +541,9 @@
       "image_title": "Blick von unten in einen Kreis junger Menschen, die Smartphones in ihren Händen halten"
     },
     {
-      "title": "Bundesregierung nutzt KI als Arbeitswerkzeug ohne Kennzeichnungspflicht",
-      "url": "https://www.heise.de/news/KI-in-der-Bundesregierung-Wenn-ein-Sprachmodell-die-Ministerrede-schreibt-11409212.html",
-      "image_title": "Tippende Hände, darüber schweben Symbole und die Buchstaben AI."
+      "title": "Deutschland-Stack: Mit vier Studien zur digitalen Verwaltung",
+      "url": "https://www.heise.de/news/Deutschland-Stack-Mit-vier-Studien-zur-digitalen-Verwaltung-11410335.html",
+      "image_title": "Eine zerbrochene Kette vor der deutschen Flagge"
     },
     {
       "title": "Zahlen, bitte! 7 Millionen Sammelpunkte für einen Flieger",
@@ -634,16 +634,16 @@
       "image_title": "Warnschild: Auto rutscht auf binärem Code aus, darunter Zusatzschild mit Pfeilen und KI."
     },
     {
-      "title": "E-Government: Wie BundID und E-Perso ihre Nutzer in die Verzweiflung treiben",
-      "teaser": "Häufige Systembrüche, überbordende Anleitungen, komplexe Technik: Eine aktuelle Studie zeigt, warum Bürger an Onlinediensten von Behörden scheitern.",
-      "url": "https://www.heise.de/hintergrund/E-Government-Wie-BundID-und-E-Perso-ihre-Nutzer-in-die-Verzweiflung-treiben-11368539.html",
-      "image_title": "Ein Mann sitzt vor einem Computer mit verschiedenen Dokumenten und Apps auf dem Bildschirm und dem Tisch."
-    },
-    {
       "title": "SMM-SchutzfunktionLahmer x86-Befehl hebelt triviale Schutzfunktion aus",
       "teaser": "Der System Management Mode (SMM) von x86-Prozessoren ist ein bevorzugtes Ziel von Angriffen. Ein Trick hebelt eine Schutzfunktion aus.",
       "url": "https://www.heise.de/news/Lahmer-x86-Befehl-hebelt-triviale-Schutzfunktion-aus-11409272.html",
       "image_title": "Zwei Prozessoren von Intel und AMD lehnen an einem Motherboard."
+    },
+    {
+      "title": "E-Government: Wie BundID und E-Perso ihre Nutzer in die Verzweiflung treiben",
+      "teaser": "Häufige Systembrüche, überbordende Anleitungen, komplexe Technik: Eine aktuelle Studie zeigt, warum Bürger an Onlinediensten von Behörden scheitern.",
+      "url": "https://www.heise.de/hintergrund/E-Government-Wie-BundID-und-E-Perso-ihre-Nutzer-in-die-Verzweiflung-treiben-11368539.html",
+      "image_title": "Ein Mann sitzt vor einem Computer mit verschiedenen Dokumenten und Apps auf dem Bildschirm und dem Tisch."
     },
     {
       "title": "iPhone weg: Indizien sammeln per Kurzbefehl",
@@ -682,6 +682,12 @@
       "image_title": "Makey begrüßt die Besucher"
     },
     {
+      "title": "Vogelfotografie in Polen: Feuchtgebiete, Wälder und Ostseeküste",
+      "teaser": "Polen ist ein Geheimtipp für Vogelfotografen: naturbelassene Lebensräume, wenig Touristen und beeindruckende Artenvielfalt – von Biebrza bis zur Tatra.",
+      "url": "https://www.heise.de/ratgeber/Vogelfotografie-in-Polen-Feuchtgebiete-Waelder-und-Ostseekueste-11399598.html",
+      "image_title": ", Alle Bilder: Mateusz Piesiak"
+    },
+    {
       "title": "Batterie mit Apples „Wo ist?“ für Sony-Kameras",
       "teaser": "Viele Kamerabesitzer verstecken bereits AirTags in ihre teuren Geräte. Ulanzi / Falcam stecken den Tracker nun direkt in einen Akku – samt Sonderfunktion.",
       "url": "https://www.heise.de/news/Batterie-mit-Apples-Wo-ist-fuer-Sony-Kameras-11403482.html",
@@ -697,12 +703,6 @@
       "teaser": "Rheinland-Pfalz steckt voller Fotospots: Vulkankrater, Moselschleifen und Sandsteinfelsen. Mit Profi-Tipps und GPS-Daten Fotografieren und Entdecken.",
       "url": "https://www.heise.de/ratgeber/Fototour-durch-Rheinland-Pfalz-Burgen-Maare-und-wilde-Felsen-11381400.html",
       "image_title": ", Alle Bilder: Bastian Werner"
-    },
-    {
-      "title": "Luminar: KI-Update für Nebel-Effekte und natürlichen Foto-Look",
-      "teaser": "Die Bildbearbeitung Luminar soll schneller arbeiten und erhält neue Werkzeuge für atmosphärische Effekte, automatische Bildvorschläge und KI-Bearbeitung.",
-      "url": "https://www.heise.de/news/Luminar-KI-Update-fuer-Nebel-Effekte-und-natuerlichen-Foto-Look-11401031.html",
-      "image_title": "Tools_Panel von Luminar"
     },
     {
       "title": "Umstieg von M365 auf Nextcloud – eine Anleitung",
@@ -747,22 +747,22 @@
       "image_title": "Porsche Cayenne Turbo Coupe"
     },
     {
-      "title": "Royal Navy: Kameras auf Seedrohnen funkten heimlich nach China",
-      "teaser": "Chinesische Bauteile in K3-Scout-Drohnen sendeten Statussignale an eine IP-Adresse in China. Laut Ministerium flossen keine Militärdaten ab.",
-      "url": "https://www.telepolis.de/article/Royal-Navy-Kameras-auf-Seedrohnen-funkten-heimlich-nach-China-11410373.html",
-      "image_title": "Seedrohne von Kraken Technology in einer Lagerhalle"
+      "title": "US-Ölreserve fällt unter 300-Millionen-Barrel-Marke",
+      "teaser": "Die strategische Erdölreserve der USA ist auf dem niedrigsten Stand seit 1983. Experten warnen vor strukturellen Risiken der Lagerstätten. Ein Überblick.",
+      "url": "https://www.telepolis.de/article/US-Oelreserve-faellt-unter-300-Millionen-Barrel-Marke-11410089.html",
+      "image_title": "Ölfeld mit Pumpen"
     },
     {
-      "title": "Türkischer Kampfjet: Zweiter Kaan-Prototyp absolviert erste Rollversuche",
-      "teaser": "Der Prototyp des türkischen Tarnkappenjägers TF Kaan hat erste Rollversuche absolviert. Mit dem Erstflug wird noch vor Jahresende gerechnet. Ein Überblick.",
-      "url": "https://www.telepolis.de/article/Tuerkischer-Kampfjet-Zweiter-Kaan-Prototyp-absolviert-erste-Rollversuche-11395437.html",
-      "image_title": "Kampfjet auf einem Rollfeld"
+      "title": "Mindestlohnbetrug – der geduldete Milliarden-Raub",
+      "teaser": "Während Politik über Sozialkürzungen debattiert, zeigt DGB-Auswertung: Zwei Millionen Beschäftigten wird Mindestlohn vorenthalten. Ein Kommentar.",
+      "url": "https://www.telepolis.de/article/Mindestlohnbetrug-der-geduldete-Milliarden-Raub-11406274.html",
+      "image_title": "Ein Polizeiauto rast vorbei"
     },
     {
-      "title": "Mekka-Pakt: Saudi-Arabien, Pakistan und Türkei bündeln ihre Kräfte",
-      "teaser": "Saudi-Arabien, Pakistan und die Türkei besiegeln in Mekka einen Beistandspakt nach Nato-Vorbild. Doch gegen wen – und wie ernst meinen sie es? Eine Analyse.",
-      "url": "https://www.telepolis.de/article/Mekka-Pakt-Saudi-Arabien-Pakistan-und-Tuerkei-buendeln-ihre-Kraefte-11409746.html",
-      "image_title": "Militärs auf einer Straße"
+      "title": "Rechte im Job: Wie Betriebsräte illegale Überstunden-Tricks stoppen können",
+      "teaser": "Ob Union Busting oder KI im Büro: Betriebsräte müssen oft fehlende Gesetze ausgleichen. So wehren sich Arbeitnehmer gegen Druck vom Chef.",
+      "url": "https://www.telepolis.de/article/Rechte-im-Job-Wie-Betriebsraete-illegale-Ueberstunden-Tricks-stoppen-koennen-11406270.html",
+      "image_title": "Flüstertüter mit aufgedruckten Arbeitern"
     },
     {
       "title": "Meeting-Notizen aus der KI: So fehleranfällig sind sie wirklich",

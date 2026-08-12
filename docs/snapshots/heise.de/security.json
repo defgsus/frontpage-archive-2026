@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-12T08:57:05",
+  "timestamp": "2026-08-12T09:54:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,20 @@
   ],
   "articles": [
     {
-      "title": "SMM-SchutzfunktionLahmer x86-Befehl hebelt triviale Schutzfunktion aus",
-      "teaser": "Der System Management Mode (SMM) von x86-Prozessoren ist ein bevorzugtes Ziel von Angriffen. Ein Trick hebelt eine Schutzfunktion aus.",
-      "url": "https://www.heise.de/news/Lahmer-x86-Befehl-hebelt-triviale-Schutzfunktion-aus-11409272.html",
-      "image_title": "Zwei Prozessoren von Intel und AMD lehnen an einem Motherboard."
+      "title": "AlertPatchdayAngreifer attackieren Windows und verschaffen sich System-Rechte",
+      "teaser": "Microsoft kümmert sich um rund 400 Sicherheitsprobleme in Azure, Office, Windows & Co. Mehrere Lücken gelten als kritisch.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
+      "image_title": "Windows-Logo von Nullen und Einsen zerfressen"
     },
     {
-      "title": "Steam MachineKäufer müssen nach Cyberangriff mit Betrugsmails rechnen",
-      "teaser": "Bei Valves Logistikpartner CEVA sind Namen und Adressen europäischer Steam-Hardware-Käufer abgeflossen. Valve warnt vor falschen Nachrichten.",
-      "url": "https://www.heise.de/news/Steam-Hardware-Kaeufer-muessen-nach-Cyberangriff-mit-Betrugsmails-rechnen-11409514.html",
-      "image_title": "Steam Machine"
+      "title": "BrandenburgCyberangriff legt IT-System der Gedenkstätten lahm",
+      "teaser": "Die Stiftung Brandenburgische Gedenkstätten wurde Opfer eines Ransomware-Angriffs. IT-Systeme sind derzeit außer Betrieb, ein Datenabfluss wird vermutet.",
+      "url": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html"
     },
     {
-      "title": "AlertPatchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
-      "image_title": "Aufmacher Adobe Patchday"
+      "title": "AlertWordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+      "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
+      "image_title": "Ein Frau drückt einen symbolischen Updateknopf."
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -53,6 +52,12 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertWordPress-Lücke: Login-Seite öffnet Tür zur Serverübernahme",
+      "teaser": "Die WordPress-Entwickler haben eine Schadcode-Sicherheitslücke mit der Bezeichnung XSS2Shell geschlossen.",
+      "url": "https://www.heise.de/news/WordPress-Luecke-Login-Seite-oeffnet-Tuer-zur-Serveruebernahme-11411209.html",
+      "image_title": "Ein Frau drückt einen symbolischen Updateknopf."
+    },
+    {
       "title": "AlertPatchday Adobe: Schadcode-Schlupflöcher bedrohen Campaign Classic und ColdFusion",
       "teaser": "Wichtige Sicherheitsupdates schließen mehrere Schwachstellen an Adobe-Anwendungen.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Schlupfloecher-bedrohen-Campaign-Classic-und-ColdFusion-11410951.html",
@@ -65,21 +70,10 @@
       "image_title": "Apple Remote Desktop in einer älteren Version"
     },
     {
-      "title": "AlertPatchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
-      "teaser": "Microsoft kümmert sich um rund 400 Sicherheitsprobleme in Azure, Office, Windows & Co. Mehrere Lücken gelten als kritisch.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
-      "image_title": "Windows-Logo von Nullen und Einsen zerfressen"
-    },
-    {
       "title": "Patch seit Mai verfügbar: Ransomware attackiert Microsoft Sharepoint",
       "teaser": "Eine schwere Sicherheitslücke in Microsoft SharePoint wird nun von Ransomware ausgenutzt. Ein Patch steht bereit, ungeschützte Systeme auch.",
       "url": "https://www.heise.de/news/Ransomware-attackiert-ungepatchte-Sharepoint-Instanzen-11410721.html",
       "image_title": "Microsoft Sharepoint App auf einem Bildschirm; ein Finger zeigt auf das Symbol."
-    },
-    {
-      "title": "Brandenburg: Cyberangriff legt IT-System der Gedenkstätten lahm",
-      "teaser": "Die Stiftung Brandenburgische Gedenkstätten wurde Opfer eines Ransomware-Angriffs. IT-Systeme sind derzeit außer Betrieb, ein Datenabfluss wird vermutet.",
-      "url": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html"
     },
     {
       "title": "AlertPatchday: SAP Commerce Cloud komplett kompromittierbar",
@@ -118,10 +112,22 @@
       "image_title": "iX-Workshop: Advanced Kubernetes Security"
     },
     {
+      "title": "Steam-Hardware: Käufer müssen nach Cyberangriff mit Betrugsmails rechnen",
+      "teaser": "Bei Valves Logistikpartner CEVA sind Namen und Adressen europäischer Steam-Hardware-Käufer abgeflossen. Valve warnt vor falschen Nachrichten.",
+      "url": "https://www.heise.de/news/Steam-Hardware-Kaeufer-muessen-nach-Cyberangriff-mit-Betrugsmails-rechnen-11409514.html",
+      "image_title": "Steam Machine"
+    },
+    {
       "title": "Wie KI die IT-Sicherheit revolutioniert und neue Bedrohungen schafft",
       "teaser": "KI verändert die IT-Security, aber es wäre falsch, sie nur als Bedrohung zu sehen. Sie ist nicht das eigentliche Problem – und kann bei der Lösung helfen.",
       "url": "https://www.heise.de/ratgeber/Wie-KI-die-IT-Sicherheit-revolutioniert-und-neue-Bedrohungen-schafft-11363008.html",
       "image_title": "Warnschild: Auto rutscht auf binärem Code aus, darunter Zusatzschild mit Pfeilen und KI."
+    },
+    {
+      "title": "Lahmer x86-Befehl hebelt triviale Schutzfunktion aus",
+      "teaser": "Der mächtige System Management Mode (SMM) von x86-Prozessoren ist ein bevorzugtes Ziel von Angriffen. Ein Trick hebelt eine SMM-Schutzfunktion aus.",
+      "url": "https://www.heise.de/news/Lahmer-x86-Befehl-hebelt-triviale-Schutzfunktion-aus-11409272.html",
+      "image_title": "Zwei Prozessoren von Intel und AMD lehnen an einem Motherboard."
     },
     {
       "title": "Dobrindt baut Drohnenabwehr nach Vorfall in Leipzig massiv aus",
@@ -140,12 +146,6 @@
       "teaser": "Derzeit haben Angreifer Progress LoadMaster auf dem Schirm und attackieren aktiv Systeme. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Progress-LoadMaster-im-Gange-11404612.html",
       "image_title": "Ub der Mitte ein rotes Sicherheitsschloss mit Finger darauf, drumherum weitere Sicherheitsschlösser in Blau. Schematische Darstellung."
-    },
-    {
-      "title": "Angriff auf Apples Private Cloud Compute: 150.000 Dollar für Sicherheitsforscher",
-      "teaser": "Im Rahmen des PCC-Bug-Bounty-Programms, das seit 2024 Sicherheitsexperten offensteht, kam es zu einem erfolgreichen Angriff. Telemetrie-Daten konnten abfließen.",
-      "url": "https://www.heise.de/news/Angriff-auf-Apples-Private-Cloud-Compute-150-000-Dollar-fuer-Sicherheitsforscher-11405384.html",
-      "image_title": "Virtual Research Environment für PCC"
     },
     {
       "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
