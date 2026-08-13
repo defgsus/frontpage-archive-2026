@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-13T05:25:11",
+  "timestamp": "2026-08-13T07:06:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,20 @@
   ],
   "articles": [
     {
-      "title": "AlertPatchdayAngreifer attackieren Windows und verschaffen sich System-Rechte",
-      "teaser": "Microsoft kümmert sich um rund 400 Sicherheitsprobleme in Azure, Office, Windows & Co. Mehrere Lücken gelten als kritisch.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
-      "image_title": "Windows-Logo von Nullen und Einsen zerfressen"
+      "title": "Phishing-WellenCyberangriffe auf IT-Dienstleister für Hotels",
+      "teaser": "Nach einem erfolgreichen Phishing-Angriff auf einen IT-Dienstleister für Hotels müssen Kunden und Gäste wachsam sein.",
+      "url": "https://www.heise.de/news/Phishing-Wellen-Cyberangriffe-auf-IT-Dienstleister-fuer-Hotels-11412013.html"
     },
     {
-      "title": "BrandenburgCyberangriff legt IT-System der Gedenkstätten lahm",
-      "teaser": "Die Stiftung Brandenburgische Gedenkstätten wurde Opfer eines Ransomware-Angriffs. IT-Systeme sind derzeit außer Betrieb, ein Datenabfluss wird vermutet.",
-      "url": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html"
+      "title": "TPM-LückenDer Security-Coprozessor in vielen CPUs ist unsicher",
+      "teaser": "Das Trusted Platform Module ist das wichtigste Glied in der Vertrauenskette von PCs. Ausgerechnet dieses TPM ist angreifbar.",
+      "url": "https://www.heise.de/news/Der-Security-Ko-Prozessor-in-vielen-CPUs-ist-unsicher-11411837.html",
+      "image_title": "Diverse aneinandergereihte Prozessoren mit bunter Beleuchtung"
     },
     {
-      "title": "AlertCisco warnt vor Attacken auf Secure Firewall Adaptive Security Appliance",
-      "url": "https://www.heise.de/news/Cisco-warnt-vor-Attacken-auf-Secure-Firewall-Adaptive-Security-Appliance-11411427.html",
-      "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
+      "title": "AlertAttacken auf VMware vCenter durch Path-Traversal-Lücke",
+      "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html",
+      "image_title": "Logo \"vmware by Broadcom\" auf einem Smartphone"
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -52,15 +52,16 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "AlertAttacken auf VMware vCenter durch Path-Traversal-Lücke",
+      "teaser": "Eine Ende Juli bekannt gewordene Path-Traversal-Lücke in VMware vCenter Syslog Server dient Angreifern zum Einbrechen und Einnisten.",
+      "url": "https://www.heise.de/news/VMware-vCenter-Angreifer-nisten-sich-durch-Path-Traversal-Luecke-ein-11412317.html",
+      "image_title": "Logo \"vmware by Broadcom\" auf einem Smartphone"
+    },
+    {
       "title": "WhatsApp-Benutzernamen: Vor- und Nachteile im Überblick",
       "teaser": "Wie schützt ein WhatsApp-Benutzername vor Betrug – und welche Daten gibt man preis? Verbraucherschützer bewerten den Status quo beim Meta-Messenger.",
       "url": "https://www.heise.de/news/WhatsApp-Benutzername-Das-sind-die-Vor-und-Nachteile-11412273.html",
       "image_title": "Finger zeigt auf Whatsapp-App auf dem Smartphone-Bildschirm"
-    },
-    {
-      "title": "Phishing-Wellen: Cyberangriffe auf IT-Dienstleister für Hotels",
-      "teaser": "Nach einem Sicherheitsvorfall bei einem österreichischen IT-Dienstleister sehen sich Hotels mit gezielten Phishing-Angriffen auf ihre Gäste konfrontiert.",
-      "url": "https://www.heise.de/news/Phishing-Wellen-Cyberangriffe-auf-IT-Dienstleister-fuer-Hotels-11412013.html"
     },
     {
       "title": "Architektur-Schwachstelle bei GPT-5, Claude und Gemini aufgedeckt",
@@ -73,12 +74,6 @@
       "teaser": "BND und Verfassungsschutz sollen künftig mehr Befugnisse erhalten, um aktiv Gefahren abzuwehren. Es ist ein Bruch mit Grundsatzprinzipien.",
       "url": "https://www.heise.de/news/Geheimdienst-Reform-Mehr-Befugnisse-fuer-BND-und-Verfassungsschutz-11412017.html",
       "image_title": "Logo des BND"
-    },
-    {
-      "title": "Der Security-Coprozessor in vielen CPUs ist unsicher",
-      "teaser": "Das Trusted Platform Module ist das wichtigste Glied in der Vertrauenskette von PCs. Ausgerechnet dieses TPM ist angreifbar.",
-      "url": "https://www.heise.de/news/Der-Security-Ko-Prozessor-in-vielen-CPUs-ist-unsicher-11411837.html",
-      "image_title": "Diverse aneinandergereihte Prozessoren mit bunter Beleuchtung"
     },
     {
       "title": "AlertCisco warnt vor Attacken auf Secure Firewall Adaptive Security Appliance",
@@ -111,10 +106,21 @@
       "image_title": "Apple Remote Desktop in einer älteren Version"
     },
     {
+      "title": "AlertPatchday: Angreifer attackieren Windows und verschaffen sich System-Rechte",
+      "teaser": "Microsoft kümmert sich um rund 400 Sicherheitsprobleme in Azure, Office, Windows & Co. Mehrere Lücken gelten als kritisch.",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-Windows-und-verschaffen-sich-System-Rechte-11410875.html",
+      "image_title": "Windows-Logo von Nullen und Einsen zerfressen"
+    },
+    {
       "title": "Patch seit Mai verfügbar: Ransomware attackiert Microsoft Sharepoint",
       "teaser": "Eine schwere Sicherheitslücke in Microsoft SharePoint wird nun von Ransomware ausgenutzt. Ein Patch steht bereit, ungeschützte Systeme auch.",
       "url": "https://www.heise.de/news/Ransomware-attackiert-ungepatchte-Sharepoint-Instanzen-11410721.html",
       "image_title": "Microsoft Sharepoint App auf einem Bildschirm; ein Finger zeigt auf das Symbol."
+    },
+    {
+      "title": "Brandenburg: Cyberangriff legt IT-System der Gedenkstätten lahm",
+      "teaser": "Die Stiftung Brandenburgische Gedenkstätten wurde Opfer eines Ransomware-Angriffs. IT-Systeme sind derzeit außer Betrieb, ein Datenabfluss wird vermutet.",
+      "url": "https://www.heise.de/news/Brandenburg-Cyberangriff-legt-IT-System-der-Gedenkstaetten-lahm-11410695.html"
     },
     {
       "title": "AlertPatchday: SAP Commerce Cloud komplett kompromittierbar",
@@ -139,12 +145,6 @@
       "teaser": "Mit GPT-5.6-Cyber will OpenAI anspruchsvollere Sicherheitsaufgaben abdecken und seine Cyber-KI zugleich breiter in Unternehmen bringen.",
       "url": "https://www.heise.de/news/OpenAI-fuehrt-GPT-5-6-Cyber-ein-und-weitet-Cybersecurity-Programm-aus-11409878.html",
       "image_title": "OpenAI-Logo auf einem grünen Schild an einer Gebäudefassade."
-    },
-    {
-      "title": "AlertSicherheitslücken: Angreifer können Wachdienst von ClamAV stören",
-      "teaser": "Der Open-Source-Virenscanner ClamAV ist verwundbar. Im schlimmsten Fall kann Schadcode auf Instanzen gelangen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Wachdienst-von-ClamAV-stoeren-11409730.html",
-      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "Workshop | 26.08.2026Physische IT-Sicherheit",
