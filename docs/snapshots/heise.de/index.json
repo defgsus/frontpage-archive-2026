@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T06:16:06",
+  "timestamp": "2026-08-15T07:19:37",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer-Häppchen: Security-Patches für GitLab, Postgres und Python",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Security-Patches-fuer-GitLab-Postgres-und-Python-11413676.html"
+    },
     {
       "title": "Die Natur der Dinge: Die Galeriebilder der Woche 33",
       "url": "https://www.heise.de/news/Die-Natur-der-Dinge-Die-Galeriebilder-der-Woche-33-11413916.html"
@@ -60,10 +64,6 @@
       "url": "https://www.heise.de/ratgeber/Heimliche-Videos-mit-Smart-Glasses-Was-man-dagegen-tun-kann-11351431.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Zugriff auf Telemetriedaten: Autobranche kritisiert Geheimdienstreform",
-      "url": "https://www.heise.de/news/Zugriff-auf-Telemetriedaten-Autobranche-kritisiert-Geheimdienstreform-11414983.html"
     },
     {
       "title": "Bayerns 360-Millionen-RechnungJetzt muss das Bundeskartellamt endlich ran!",
@@ -183,21 +183,27 @@
       "url": "https://www.heise.de/news/Das-Nerdquiz-rund-um-den-IBM-PC-11382932.html"
     },
     {
+      "title": "Developer-Häppchen: Security-Patches für GitLab, Postgres und Python",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu pnpm, Django, GitLab, Mojo, Postgres, Zed Delta, Google Credentio, Python und React Native.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Security-Patches-fuer-GitLab-Postgres-und-Python-11413676.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Die Natur der Dinge: Die Galeriebilder der Woche 33",
       "teaser": "Diese Woche zeigt unsere Auswahl aus Wolken, Nebel, Sonnenstrahlen und geflügelten Lebewesen einen vielfältigen Blick in die Natur.",
       "url": "https://www.heise.de/news/Die-Natur-der-Dinge-Die-Galeriebilder-der-Woche-33-11413916.html",
       "image_title": "Eine Reihe hölzerner Buhnen-Pfähle steht bei Sonnenuntergang auf einem breiten, nassen Sandstrand und wirft lange, parallele Schatten in Richtung des Betrachters. Die tiefstehende Sonne leuchtet zwischen den Pfählen hindurch, der Himmel zeigt warme Gold- und Orangetöne, die nach oben in zartes Blau übergehen. Im Hintergrund ist das ruhige Meer zu erkennen."
     },
     {
+      "title": "Solaranlagen: KI-Speicher gegen Sommer-Lastspitzen",
+      "teaser": "Hitzewellen und steigender Stromverbrauch machen intelligente Heimspeicher immer wichtiger. Die Jackery SolarVault 3 Serie optimiert den Eigenverbrauch von Solarstrom, reduziert Lastspitzen und dient als Notstromversorgung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7368875277&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Upcycling: Wie man einen DIY-Flaschenschneider selbst baut",
       "teaser": "Böden von Glasflaschen sauber und kontrolliert abtrennen? Mit einem selbstgebauten Flaschenschneider gelingt der Anriss als Grundlage für einen präzisen Bruch.",
       "url": "https://www.heise.de/ratgeber/Upcycling-Wie-man-einen-DIY-Flaschenschneider-selbst-baut-11369005.html",
       "image_title": ","
-    },
-    {
-      "title": "In fünf Monaten zum kompletten Systemwechsel",
-      "teaser": "Ein komplexer Carve-out, nur fünf Monate Zeit und ein laufender Hotelbetrieb: Mit SAP Cloud ERP Public gelang den Airport Hotels Frankfurt eine erfolgreiche Transformation.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7375713984&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Handy-Klotz aus Finnland: So begann die Smartphone-Ära",
@@ -226,12 +232,6 @@
       "title": "Top 10: Der beste Ventilator im Test – mit Akku, App und Sprühnebel gegen Hitze",
       "teaser": "Wir zeigen die zehn besten Ventilatoren aus unseren Tests. Testsieger, Preis-Leistungs-Sieger und Kaufberatung im Überblick.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-ventilator-im-test-mit-akku-app-und-spruehnebel-gegen-hitze/3vw0k3j?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Freie Tankstellen fordern Ende der 12-Uhr-Regel",
-      "teaser": "Die Kritik an der 12-Uhr-Regel reißt nicht ab. Viele Unternehmen berichten von Abweichungen und Problemen bei der Umsetzung.",
-      "url": "https://www.heise.de/news/Freie-Tankstellen-fordern-Ende-der-12-Uhr-Regel-11415003.html",
-      "image_title": "Teilansicht des Hecks eines blauen Autos an der Zapfsäule einer Tankstelle."
     },
     {
       "title": "RatgeberDas iPad zum Desktop-Rechner aufrüsten",
@@ -314,6 +314,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-kompressor-kuehlbox-im-test-echte-kuehlung-bis-minus-20-grad/8jwmngt?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Freie Tankstellen fordern Ende der 12-Uhr-Regel",
+      "teaser": "Die Kritik an der 12-Uhr-Regel reißt nicht ab. Viele Unternehmen berichten von Abweichungen und Problemen bei der Umsetzung.",
+      "url": "https://www.heise.de/news/Freie-Tankstellen-fordern-Ende-der-12-Uhr-Regel-11415003.html",
+      "image_title": "Teilansicht des Hecks eines blauen Autos an der Zapfsäule einer Tankstelle."
+    },
+    {
       "title": "Zugriff auf Telemetriedaten: Autobranche kritisiert Geheimdienstreform",
       "teaser": "Die Autobranche will sich nicht zum verlängerten Arm der Schlapphüte machen lassen und fordert Nachbesserungen bei Dobrindts Geheimdienstreform.",
       "url": "https://www.heise.de/news/Zugriff-auf-Telemetriedaten-Autobranche-kritisiert-Geheimdienstreform-11414983.html"
@@ -383,15 +389,15 @@
       "image_title": "Apple-Intelligence-Icon mit Farbverlauf"
     },
     {
+      "title": "Souveräne KI in der Praxis",
+      "teaser": "Künstliche Intelligenz lockt derzeit viele Unternehmen, stellt aber auch rechtliche Risiken dar. In einem Webcast sehen wir uns diese genauer an und zeigen, wie Firmen KI rechtssicher und souverän nutzen können.",
+      "url": "https://business-services.heise.de/it-management/digitale-souveraenitaet/beitrag/souveraene-ki-in-der-praxis-von-der-infrastruktur-bis-zur-governance-5080/?source=hbsad-ersatz"
+    },
+    {
       "title": "Genesis greift mit dem GV60 Magma Porsche Taycan und Ioniq 5 N an",
       "teaser": "Mit dem GV60 Magma bringt Genesis sein erstes Hochleistungsmodell in Serie. Der Elektro-Crossover leistet bis zu 478 kW und lädt in 18 Minuten auf 80 Prozent.",
       "url": "https://www.heise.de/news/Genesis-GV60-Magma-Luxury-High-Performance-mit-478-kW-ab-85-990-Euro-11414557.html",
       "image_title": "Genesis GV60 Magma"
-    },
-    {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
     },
     {
       "title": "Windows-Netzverkehr mitschneiden: Client-Agent Edge Visibility für Allegro",
@@ -445,12 +451,6 @@
       "teaser": "Passkeys sollen Passwörter ablösen, sie gelten als viel sicherer. In der Praxis fehlt vielen Nutzern noch Wissen, haben US-Forscher herausgefunden.",
       "url": "https://www.heise.de/news/Studie-zum-Umgang-mit-Passkeys-Teilweise-gefaehrlicher-als-Passwoerter-11413954.html",
       "image_title": "Finger auf dem Fingerabdrucksensor eines Smartphones"
-    },
-    {
-      "title": "Cirqa Smart Ring: Garmin plant offenbar Einstieg in den Smartring-Markt",
-      "teaser": "Ein Datenbankeintrag deutet darauf hin, dass Garmin sein Portfolio um einen Smartring erweitert. Das Produkt könnte unter dem Namen Cirqa erscheinen.",
-      "url": "https://www.heise.de/news/Cirqa-Smart-Ring-Garmin-plant-offenbar-Einstieg-in-den-Smartring-Markt-11414203.html",
-      "image_title": "Mann mit drei Smart-Ringen an der Hand"
     },
     {
       "title": "Pixel Tag: Google stellt eigene Antwort auf Apples AirTag vor",
@@ -623,21 +623,21 @@
       "url": "https://www.heise.de/en/news/AI-Models-Google-Gemini-3-7-Flash-OpenAI-Ultrafast-DeepSeek-V4-Pro-11413537.html"
     },
     {
-      "title": "Kryptografie: Warum das Merkle-Hellman-Kryptosystem scheitern musste",
-      "teaser": "In den 1970ern galt die Merkle-Hellman-Verschlüsselung als möglicher Standard. Es kam anders, mit Implikationen bis in die Quantencomputer-Ära.",
-      "url": "https://www.heise.de/hintergrund/Kryptografie-Warum-das-Merkle-Hellman-Kryptosystem-scheitern-musste-11332281.html",
-      "image_title": "Wanderin mit Rucksack und Gewichten denkt über Karte nach."
-    },
-    {
-      "title": "Wolkenlos: Bose kastriert teure Lautsprecher",
-      "teaser": "Bose schaltet die Cloud für seine SoundTouch-Lautsprecher ab. Damit verlieren die einst teuren Geräte zentrale Funktionen wie die beliebten Preset-Tasten.",
-      "url": "https://www.heise.de/ratgeber/Wolkenlos-Bose-kastriert-teure-Lautsprecher-11413524.html"
-    },
-    {
       "title": "KIClaude als autonomen Dateiagenten nutzen",
       "teaser": "Der Chatbot kann Dateien öffnen und Apps steuern. Das spart viel Arbeit, öffnet aber Angriffsflächen.",
       "url": "https://www.heise.de/ratgeber/Claude-als-autonomen-Dateiagenten-nutzen-11387164.html",
       "image_title": "Ein Wesen mit einem Pferdeschwanz sitzt vor einem Computer und tippt auf einer Tastatur."
+    },
+    {
+      "title": "KI-Tools ausreizenEinführung in Claude",
+      "teaser": "Wie Sie Claude sinnvoll einrichten und ausreizen: unsere dreiteilige Strecke zum mächtigen KI-Chatbot.",
+      "url": "https://www.heise.de/ratgeber/Claude-personalisieren-Gedaechtnis-Anweisungen-und-Projekte-einrichten-11362510.html",
+      "image_title": "Ein Mann sitzt am Schreibtisch vor einem Computer, neben ihm schwebt ein Geist mit Klemmbrett."
+    },
+    {
+      "title": "Galaxy Watch Ultra2 im Test: Mehr Akku und neue Funktionen",
+      "teaser": "Die Galaxy Watch Ultra2 ist Samsungs Antwort auf die Apple Watch Ultra. Die zweite Generation bringt neue Funktionen und einen stärkeren Akku, ist aber teurer.",
+      "url": "https://www.heise.de/tests/Galaxy-Watch-Ultra2-im-Test-Mehr-Akku-und-neue-Funktionen-11367320.html"
     },
     {
       "title": "Festplatten-Neuheiten im Test3,5 Zoll ohne Netzteil und RAID mit Thunderbolt 5",
@@ -740,22 +740,22 @@
       "image_title": "Batteriesystem von Mercedes"
     },
     {
-      "title": "Rüstung statt Hilfe: Bundesregierung kürzt für Panzer bei Welternährungsprogramm",
-      "teaser": "Während der Verteidigungsetat steigt, schrumpft Deutschlands Hilfe fürs Welternährungsprogramm bis 2026 auf den Gegenwert von zwei Leopard-Panzern.",
-      "url": "https://www.telepolis.de/article/Ruestung-statt-Hilfe-Bundesregierung-kuerzt-fuer-Panzer-bei-Welternaehrungsprogramm-11412187.html",
-      "image_title": "Friedenssymbol mit Tarnmuster vor einem Panzer"
-    },
-    {
       "title": "Odessa: Warum der Schwarzmeerzugang entscheidend für die Zukunft der Ukraine ist",
       "teaser": "Russland blockiert Odessas Häfen. Ohne Seehandel bricht die Agrarwirtschaft ein – mit langfristigen Folgen für Wiederaufbau und Bevölkerung. Ein Gastbeitag.",
       "url": "https://www.telepolis.de/article/Odessa-Warum-der-Schwarzmeerzugang-entscheidend-fuer-die-Zukunft-der-Ukraine-ist-11412796.html",
       "image_title": "Schiffe in einem Hafen"
     },
     {
-      "title": "Prostatakrebs-Vorsorge: Warum Urologen den PSA-Test fordern",
-      "teaser": "Urologen streichen die klassische Tastuntersuchung aus den Empfehlungen. Für den besseren PSA-Test müssen gesetzlich Versicherte aber selbst zahlen.",
-      "url": "https://www.telepolis.de/article/Prostatakrebs-Vorsorge-Warum-Urologen-den-PSA-Test-fordern-11410995.html",
-      "image_title": "Schnittzeichnung eines männlichen Unterleibs mit Blase, Prostata und Finger im Rectum"
+      "title": "DeepSeek vervielfacht API-Preise – neues Modell glänzt nur bei Sicherheit",
+      "teaser": "DeepSeek führt Peak-/Off-Peak-Modell ein – Preise steigen um das Fünffache. Das neue V4-Pro enttäuscht in Benchmarks, übertrifft aber alle bei Cybersicherheit.",
+      "url": "https://www.telepolis.de/article/DeepSeek-vervielfacht-API-Preise-neues-Modell-glaenzt-nur-bei-Sicherheit-11414847.html",
+      "image_title": "Handybildschirm mit DeepSeeks Logo"
+    },
+    {
+      "title": "\"Finding Connection\": Wenn die Maschine zum Gegenüber wird",
+      "teaser": "Florian Karners Dokumentarfilm zeigt Menschen, die Nähe zu einer KI suchen – und stellt die verstörende Frage, wie viel Illusion Beziehungen vertragen.",
+      "url": "https://www.telepolis.de/article/Finding-Connection-Wenn-die-Maschine-zum-Gegenueber-wird-11410903.html",
+      "image_title": "Ausschnitt des Filmplakats: Ein Mann über den Wolcken auf einem Fels"
     },
     {
       "title": "Psychologin: „KI darf nicht die Erfahrung von Selbstwirksamkeit verdrängen“",
