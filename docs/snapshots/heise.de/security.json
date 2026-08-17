@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T07:41:02",
+  "timestamp": "2026-08-17T08:28:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,19 +20,21 @@
   ],
   "articles": [
     {
-      "title": "HilfestellungBSI gibt technische Richtlinie zum Cyber Resilience Act frei",
-      "teaser": "Die „Allgemeinen Anforderungen“ sollen Orientierung für Hersteller vernetzter Produkte schaffen. Auf Anfrage erhalten Unternehmen weitere Handreichungen.",
-      "url": "https://www.heise.de/news/Cyber-Resilience-Act-BSI-veroeffentlicht-1-0-der-TR-03183-11413010.html"
-    },
-    {
-      "title": "heise security WebinarSo verteidigt man sich gegen angreifende KI-Agenten",
-      "teaser": "Autonome KI-Angriffe sind bald das neue Normal. Erfahren Sie im heise security Webinar, wie Sie Ihre IT gezielt schützen und sich effektiv verteidigen.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11411969.html"
-    },
-    {
-      "title": "AlertAngriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
+      "title": "AlertCyberattackeAngriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
+      "teaser": "SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen.",
       "url": "https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html",
       "image_title": "Warnsymbol vor digitalem Rauschen"
+    },
+    {
+      "title": "StudieUmgang mit Passkeys auch für Versierte überraschend schwierig",
+      "teaser": "Passkeys sollen Passwörter ablösen, sie gelten als viel sicherer. In der Praxis fehlt vielen Nutzern noch Wissen und Sicherheit.",
+      "url": "https://www.heise.de/news/Studie-zum-Umgang-mit-Passkeys-Teilweise-gefaehrlicher-als-Passwoerter-11413954.html",
+      "image_title": "Finger auf dem Fingerabdrucksensor eines Smartphones"
+    },
+    {
+      "title": "AlertZahlreiche Crash-Lücken in Wireshark geschlossen",
+      "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -51,10 +53,16 @@
       "url": "https://shop.heise.de/ms-cloud-sicherheit-systematisch-testen-verbessern-4018837114933?wt_mc=intern.conf.security.web_m365.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertAngriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
-      "teaser": "SAP hat in der vergangenen Woche eine kritische Lücke in Commerce Cloud geschlossen. Seit dem Wochenende wird sie angegriffen.",
-      "url": "https://www.heise.de/news/Angriffe-auf-SAP-Commerce-Cloud-Luecke-beobachtet-11415552.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
+      "title": "AlertZahlreiche Crash-Lücken in Wireshark geschlossen",
+      "teaser": "In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert.",
+      "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
+      "image_title": "Ein symbolischer Updatebalken füllt sich."
+    },
+    {
+      "title": "Android 17 QPR2 Beta 3: Google bringt neue Anpassungsoptionen und Sicherheit",
+      "teaser": "Google hat die dritte Beta von Android 17 QPR2 veröffentlicht. Das Update bringt neue Anpassungsoptionen, eine App-Sperre und neue Sicherheits-Features.",
+      "url": "https://www.heise.de/news/Android-17-QPR2-Beta-3-Google-bringt-neue-Anpassungsoptionen-und-Sicherheit-11415668.html",
+      "image_title": "Bildschirm von Android 17 QPR 2 Beta 3 mit neuer Theming-Funktion"
     },
     {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 – Herausforderungen und Chancen",
@@ -110,12 +118,6 @@
       "image_title": "Apples Warnung für Spyware"
     },
     {
-      "title": "Studie zum Umgang mit Passkeys: Nutzer wissen zu wenig Bescheid",
-      "teaser": "Passkeys sollen Passwörter ablösen, sie gelten als viel sicherer. In der Praxis fehlt vielen Nutzern noch Wissen, haben US-Forscher herausgefunden.",
-      "url": "https://www.heise.de/news/Studie-zum-Umgang-mit-Passkeys-Teilweise-gefaehrlicher-als-Passwoerter-11413954.html",
-      "image_title": "Finger auf dem Fingerabdrucksensor eines Smartphones"
-    },
-    {
       "title": "Neue Version des Open-Weight-Modells: GLM 5.3 verbessert Sicherheitsfähigkeiten",
       "teaser": "Derzeit haben nur zahlende Kunden Zugriff auf das neueste Modell der chinesischen Firma. Eine Downloadmöglichkeit gibt es erst später – aus Sicherheitsgründen.",
       "url": "https://www.heise.de/news/Neue-Version-des-Open-Weight-Modells-GLM-5-3-verbessert-Sicherheitsfaehigkeiten-11413904.html",
@@ -134,19 +136,18 @@
       "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur."
     },
     {
+      "title": "heise security Webinar: So verteidigt man sich gegen angreifende KI-Agenten",
+      "teaser": "Autonome KI-Angriffe sind bald das neue Normal. Erfahren Sie im heise security Webinar, wie Sie Ihre IT gezielt schützen und sich effektiv verteidigen.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11411969.html"
+    },
+    {
       "title": "Hunderte irreführende VPN-Erweiterungen im Chrome Store",
       "teaser": "Über 500 betrügerische Browsererweiterungen hat ein Sicherheitsunternehmen im Chrome Web Store gefunden. Google lasse die Herausgeber unbehelligt weitermachen.",
       "url": "https://www.heise.de/news/Hunderte-irrefuehrende-VPN-Erweiterungen-im-Chrome-Store-11413548.html",
       "image_title": "Werbesujet für ein \"Zoog-VPN\""
     },
     {
-      "title": "Digitale Kaperbriefe: US-Regierung erlaubt Unternehmen offensive Cyberangriffe",
-      "teaser": "Im Kampf gegen transnationale kriminelle Akteure will die US-Regierung verstärkt auf die Privatwirtschaft setzen. Unternehmen sollen selbst angreifen dürfen.",
-      "url": "https://www.heise.de/news/Digitale-Kaperbriefe-US-Regierung-erlaubt-Unternehmen-offensive-Cyberangriffe-11413398.html",
-      "image_title": "Digitall verzerrte US-Flagge"
-    },
-    {
-      "title": "Workshop | 01.09. – 04.09.2026Advanced Kubernetes Security: Effektive Maßnahmen und Best Practices",
+      "title": "Workshop | 01.09. – 04.09.2026Advanced Kubernetes Security",
       "teaser": "Im Workshop lernen Administratoren und Security-Teams Kubernetes-Umgebungen mit praxisbewährten Methoden und Tools sicher zu betreiben.",
       "url": "https://heise-conferences.de/workshop/advanced-kubernetes-security-effektive-massnahmen-und-best-practices-N7keFwiQOIwtfi?wt_mc=intern.conf.ix.ws_adkub.security_buehne_2.teaser.teaser"
     },
