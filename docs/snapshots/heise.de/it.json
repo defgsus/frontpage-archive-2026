@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T04:29:01",
+  "timestamp": "2026-08-17T05:24:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,58 @@
   ],
   "articles": [
     {
+      "title": "Kopf oder KI? So kombinieren Sie beides sinnvoll für Schule und Studium",
+      "teaser": "Wer Hausaufgaben von ChatGPT schreiben lässt, ist schneller fertig, lernt aber nichts. Wir klären, wie KI in Schule und Studium unterstützt und wo sie stört.",
+      "url": "https://www.heise.de/ratgeber/Kopf-oder-KI-So-kombinieren-Sie-beides-sinnvoll-fuer-Schule-und-Studium-11394106.html"
+    },
+    {
+      "title": "Schutzmaßnahmen gegen die CPU-Sicherheitslücken Spectre und Meltdown",
+      "teaser": "Spectre und Meltdown machten 2018 überdeutlich, dass Hardware und Code sicherer werden müssen. Wir erklären Schutzfunktionen und welche Restrisiken bleiben.",
+      "url": "https://www.heise.de/hintergrund/Schutzmassnahmen-gegen-die-CPU-Sicherheitsluecken-Spectre-und-Meltdown-11358347.html",
+      "image_title": "Aufmachergrafik: Feuerlöscher neben brennendem Prozessor"
+    },
+    {
+      "title": "Bit-Rauschen: Ein geheimes Start-up für x86-Technik und DRAM-Chips aus China",
+      "teaser": "Ein US-Start-up arbeitet wohl an x86-Chips. DRAM aus China bringt viel Geld, aber auch Streit – und hat deutsche Wurzeln. Intel investiert in der EU.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Ein-geheimes-Start-up-fuer-x86-Technik-und-DRAM-Chips-aus-China-11264162.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "Marktwert in Monaten vervierfacht: OpenRouter angeblich vor Übernahme",
+      "teaser": "Wer verschiedene KI-Modelle vergleichen und Kosten unter Kontrolle halten will, hat in OpenRouter einen Helfer. Nun will Stripe den Dienst angeblich kaufen.",
+      "url": "https://www.heise.de/news/Marktwert-in-Monaten-vervierfacht-OpenRouter-angeblich-vor-Uebernahme-11415480.html",
+      "image_title": "Die Buchstaben KI, eine Waage und Warndreiecke schweben vor einem Laptop."
+    },
+    {
+      "title": "RatgeberKopf oder KI? So kombinieren Sie beides sinnvoll für Schule und Studium",
+      "url": "https://www.heise.de/ratgeber/Kopf-oder-KI-So-kombinieren-Sie-beides-sinnvoll-fuer-Schule-und-Studium-11394106.html"
+    },
+    {
+      "title": "HintergrundSchutzmaßnahmen gegen die CPU-Sicherheitslücken Spectre und Meltdown",
+      "url": "https://www.heise.de/hintergrund/Schutzmassnahmen-gegen-die-CPU-Sicherheitsluecken-Spectre-und-Meltdown-11358347.html",
+      "image_title": "Aufmachergrafik: Feuerlöscher neben brennendem Prozessor"
+    },
+    {
+      "title": "HintergrundBit-Rauschen: Ein geheimes Start-up für x86-Technik und DRAM-Chips aus China",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Ein-geheimes-Start-up-fuer-x86-Technik-und-DRAM-Chips-aus-China-11264162.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
       "title": "Energie- und Medizintechnikkonzerne wohl Opfer massiven Datendiebstahls",
       "teaser": "Russische Cyberkriminelle wollen Daten von Shell, Philips, GE und weiteren Firmen erbeutet haben. Die ausgenutzten Sicherheitslücken wurden im Juli bekannt.",
       "url": "https://www.heise.de/news/Energie-und-Medizintechnikkonzerne-wohl-Opfer-massiven-Datendiebstahls-11415464.html",
       "image_title": "Symbolischer Programmcode über einem offenem Laptop"
+    },
+    {
+      "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
+      "teaser": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Cloud-Provider pleite – 70 Jahre TV-Archiv bedroht",
+      "teaser": "Ein US-Fernsehsender liefert sich einen Rechtsstreit um Daten, von denen er kein lokales Backup hat. Die existieren noch, aber der Zugriff ist schwierig.",
+      "url": "https://www.heise.de/news/Cloud-Provider-pleite-70-Jahre-TV-Archiv-bedroht-11415411.html",
+      "image_title": "Server-Hardware"
     },
     {
       "title": "KI-Agenten bezahlen APIs automatisch mit Cloudflare Wallets",
@@ -37,36 +85,10 @@
       "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
     },
     {
-      "title": "Russlands Starlink-KlonWie Moskaus Satellitennetz die Ukraine bedroht",
-      "teaser": "Moskau baut im Eiltempo das Satellitensystem Rassvet auf. Das bedroht die Ukraine – und künftig auch Europa.",
+      "title": "Russlands Starlink-Klon: Wie Moskaus Satellitennetz die Ukraine bedroht",
+      "teaser": "Moskau baut im Eiltempo das Satellitensystem Rassvet auf. Die Technik bedroht die Ukraine und könnte künftig auch Europa vor neue Herausforderungen stellen.",
       "url": "https://www.heise.de/news/Russland-baut-Satellitensystem-Rassvet-zur-Drohnensteuerung-aus-11415359.html",
       "image_title": "Digital,Earth,Hologram,Planet,Made,In,Orange,Color,With,Optical"
-    },
-    {
-      "title": "RatgeberFänger im Netz: So scannen Sie Windows-Systeme mit Desinfec’t",
-      "url": "https://www.heise.de/ratgeber/Faenger-im-Netz-So-scannen-Sie-Windows-Systeme-mit-Desinfec-t-11367904.html",
-      "image_title": "Ein grüner Ball mit Netzwerkkabeln und einem Stecker"
-    },
-    {
-      "title": "TestsInkling: starkes Open-Weight-Modell aus den USA jagt Konkurrenz",
-      "url": "https://www.heise.de/tests/Inkling-starkes-Open-Weight-Modell-aus-den-USA-jagt-Konkurrenz-11410517.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "HintergrundDigitale Souveränität: Mit Open Source und Standards realisieren",
-      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Mit-Open-Source-und-Standards-realisieren-11411749.html",
-      "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
-    },
-    {
-      "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
-      "teaser": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Cloud-Provider pleite – 70 Jahre TV-Archiv bedroht",
-      "teaser": "Ein US-Fernsehsender liefert sich einen Rechtsstreit um Daten, von denen er kein lokales Backup hat. Die existieren noch, aber der Zugriff ist schwierig.",
-      "url": "https://www.heise.de/news/Cloud-Provider-pleite-70-Jahre-TV-Archiv-bedroht-11415411.html",
-      "image_title": "Server-Hardware"
     },
     {
       "title": "Lokale KI ausprobiert: Das leistet Qwen3.8-27B",
@@ -117,29 +139,6 @@
       "title": "Mähroboter Lymow One Plus im Test: Kettenantrieb und Rotationsmesser",
       "teaser": "Der Lymow One Plus verbessert Schneidwerk, Kameras, Bodenfreiheit & Ladetechnik. Reicht das gegen starke Konkurrenz?",
       "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-lymow-one-plus-im-test-kettenantrieb-und-rotationsmesser/3n1kr68?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Impact Labs: Workshopreihe für Frauen in IT-Berufen startet",
-      "teaser": "Zwei Online-Workshops im Oktober und Dezember behandeln das Auftreten in Tech-Teams und Verhandlungsführung – in Gruppen von höchstens 20 Personen.",
-      "url": "https://www.heise.de/news/Impact-Labs-Workshopreihe-fuer-Frauen-in-IT-Berufen-startet-11413402.html"
-    },
-    {
-      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
-      "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11389423.html",
-      "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
-    },
-    {
-      "title": "Developer-Häppchen: Security-Patches für GitLab, Postgres und Python",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu pnpm, Django, GitLab, Mojo, Postgres, Zed Delta, Google Credentio, Python und React Native.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-Security-Patches-fuer-GitLab-Postgres-und-Python-11413676.html",
-      "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Effizient, aber nicht authentisch: Wenn Agenten nur noch mit Agenten reden",
-      "teaser": "Maschinen schreiben Issues und Maschinen beantworten sie. Auch E-Mails kommen immer öfter vom Agenten. Gefährlich wird es, wenn keiner darüber redet.",
-      "url": "https://www.heise.de/hintergrund/Wenn-Agenten-nur-noch-mit-Agenten-reden-reden-Menschen-aneinander-vorbei-11409160.html",
-      "image_title": "Illustration: Zwei Roboter sprechen, ein Mensch gähnt"
     },
     {
       "title": "NewsEU-Verpackungsverordnung: Warum kleine Händler ihre Shops schließen",
