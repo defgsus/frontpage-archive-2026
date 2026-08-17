@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T02:11:11",
+  "timestamp": "2026-08-17T03:37:49",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Energie- und Medizintechnikkonzerne wohl Opfer massiven Datendiebstahls",
+      "url": "https://www.heise.de/news/Energie-und-Medizintechnikkonzerne-wohl-Opfer-massiven-Datendiebstahls-11415464.html"
+    },
     {
       "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
@@ -56,10 +60,6 @@
     {
       "title": "ChatGPT zeigt mehr Nutzern Werbeeinblendungen",
       "url": "https://www.heise.de/news/ChatGPT-Werbeeinblendungen-kommen-in-weitere-Laender-11415303.html"
-    },
-    {
-      "title": "Zweiteiliges Webinar von heise security: Deep-Dive in Kubernetes-Sicherheit",
-      "url": "https://www.heise.de/news/Zweiteiliges-Webinar-von-heise-security-Deep-Dive-in-Kubernetes-Sicherheit-11413156.html"
     },
     {
       "title": "Missing LinkChlorfreies Naturbad dank Technik",
@@ -185,20 +185,26 @@
       "url": "https://www.heise.de/news/Das-Nerdquiz-rund-um-den-IBM-PC-11382932.html"
     },
     {
+      "title": "Energie- und Medizintechnikkonzerne wohl Opfer massiven Datendiebstahls",
+      "teaser": "Russische Cyberkriminelle wollen Daten von Shell, Philips, GE und weiteren Firmen erbeutet haben. Die ausgenutzten Sicherheitslücken wurden im Juli bekannt.",
+      "url": "https://www.heise.de/news/Energie-und-Medizintechnikkonzerne-wohl-Opfer-massiven-Datendiebstahls-11415464.html",
+      "image_title": "Symbolischer Programmcode über einem offenem Laptop"
+    },
+    {
       "title": "Top 10: Der beste Mähroboter ohne Begrenzungskabel mit Kamera, GPS oder LiDAR",
       "teaser": "Mähroboter ohne Begrenzungskabel versprechen eine leichte Inbetriebnahme. Mit LiDAR-Navigation gelingt das sogar noch einfacher. Wir zeigen die besten Geräte.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "Infrastruktur in der KI-Ära: Netz rückt in die erste Reihe",
+      "teaser": "Welche Infrastruktur brauchen Unternehmen, damit KI im Betrieb sicher Wirkung entfaltet? Das Netzwerk rückt hierbei aus dem Hintergrund in die erste Reihe der unternehmerischen Wertschöpfung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7335847810&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Cloud-Provider pleite – 70 Jahre TV-Archiv bedroht",
       "teaser": "Ein US-Fernsehsender liefert sich einen Rechtsstreit um Daten, von denen er kein lokales Backup hat. Die existieren noch, aber der Zugriff ist schwierig.",
       "url": "https://www.heise.de/news/Cloud-Provider-pleite-70-Jahre-TV-Archiv-bedroht-11415411.html",
       "image_title": "Server-Hardware"
-    },
-    {
-      "title": "In fünf Monaten zum kompletten Systemwechsel",
-      "teaser": "Ein komplexer Carve-out, nur fünf Monate Zeit und ein laufender Hotelbetrieb: Mit SAP Cloud ERP Public gelang den Airport Hotels Frankfurt eine erfolgreiche Transformation.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7375713984&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "KI-Agenten bezahlen APIs automatisch mit Cloudflare Wallets",
@@ -227,12 +233,6 @@
       "title": "Zweiteiliges Webinar von heise security: Deep-Dive in Kubernetes-Sicherheit",
       "teaser": "Kubernetes ist aus modernen IT-Infrastrukturen nicht wegzudenken. Unser zweiteiliges Webinar hilft bei der Absicherung der Containerumgebung.",
       "url": "https://www.heise.de/news/Zweiteiliges-Webinar-von-heise-security-Deep-Dive-in-Kubernetes-Sicherheit-11413156.html"
-    },
-    {
-      "title": "Traton: VW-Anteile an eigener Lkw-Sparte auf dem Prüfstand",
-      "teaser": "Volkswagens Lkw-Sparte Traton sieht sich erhöhtem Spardruck des Konzerns ausgesetzt. Auch eine Reduzierung der Anteile von VW steht wohl wieder im Raum.",
-      "url": "https://www.heise.de/news/Traton-VW-Anteile-an-eigener-Lkw-Sparte-sollen-offenbar-sinken-11415097.html",
-      "image_title": "Verschiedene LKW der Marken von Traton."
     },
     {
       "title": "RatgeberDas iPad zum Desktop-Rechner aufrüsten",
@@ -265,19 +265,19 @@
       "url": "https://www.heise.de/news/KI-Brillen-Strafanzeige-gegen-Meta-Ray-Ban-und-Optiker-11410967.html"
     },
     {
-      "title": "Totale Sonnenfinsternis 2026: Wann und wo sie in Europa zu sehen ist",
-      "url": "https://www.heise.de/hintergrund/Totale-Sonnenfinsternis-2026-Wann-und-wo-sie-in-Europa-zu-sehen-ist-11362360.html",
-      "image_title": "Zeitraffer einer Sonnenfinsternis von der teilweisen zur totalen und zurück."
-    },
-    {
       "title": "„Fritzhole“: Adblocker direkt in Fritzboxen nutzen",
       "url": "https://www.heise.de/news/Fritzhole-Adblocker-direkt-in-Fritzboxen-nutzen-11414833.html",
+      "image_title": "Fritzbox auf einer dunklen Kommode"
+    },
+    {
+      "title": "Totale Sonnenfinsternis 2026: Wann und wo sie in Europa zu sehen ist",
+      "url": "https://www.heise.de/hintergrund/Totale-Sonnenfinsternis-2026-Wann-und-wo-sie-in-Europa-zu-sehen-ist-11362360.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "Wie sich KI-Rechenzentren von gewöhnlichen Rechenzentren unterscheiden",
-      "url": "https://www.heise.de/hintergrund/Wie-sich-KI-Rechenzentren-von-gewoehnlichen-Rechenzentren-unterscheiden-11355216.html",
+      "title": "So wird Claude zum persönlichen Assistenten: Tipps für die Einrichtung",
+      "url": "https://www.heise.de/ratgeber/Claude-personalisieren-Gedaechtnis-Anweisungen-und-Projekte-einrichten-11362510.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -313,6 +313,12 @@
       "title": "Stihl vor Einhell & GardenaTop 10: Der beste Akku-Rasenmäher im Test",
       "teaser": "Leiser, flexibler, komfortabler: Akku-Rasenmäher haben klare Vorteile gegenüber Benzin- und Kabelmodellen.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-bester-akku-rasenmaeher-im-test-stihl-vor-einhell-gardena-und-makita/ft2r6hp?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Traton: VW-Anteile an eigener Lkw-Sparte auf dem Prüfstand",
+      "teaser": "Volkswagens Lkw-Sparte Traton sieht sich erhöhtem Spardruck des Konzerns ausgesetzt. Auch eine Reduzierung der Anteile von VW steht wohl wieder im Raum.",
+      "url": "https://www.heise.de/news/Traton-VW-Anteile-an-eigener-Lkw-Sparte-sollen-offenbar-sinken-11415097.html",
+      "image_title": "Verschiedene LKW der Marken von Traton."
     },
     {
       "title": "Online-Glücksspiel: Spielverluste zurückfordern – worauf es vor Gericht ankommt",
@@ -383,15 +389,15 @@
       "url": "https://www.heise.de/news/Leica-streicht-Fotografen-GoPro-sucht-Kaeufer-die-Fotonews-der-Woche-33-2026-11414459.html"
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
       "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11389423.html",
       "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
-    },
-    {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
     },
     {
       "title": "Developer-Häppchen: Security-Patches für GitLab, Postgres und Python",
@@ -447,12 +453,6 @@
       "image_title": "Bahnhofsuhr"
     },
     {
-      "title": "Frankreichs Verfassungsrat stoppt Social-Media-Verbot für Kinder",
-      "teaser": "Das oberste Gericht stoppt das Social-Media-Verbot für Kinder unter 15 Jahren – zumindest vorerst. Macron will sein Vorhaben noch vor der Wahl durchbringen.",
-      "url": "https://www.heise.de/news/Frankreich-Verfassungsrat-kippt-Social-Media-Verbot-11414905.html",
-      "image_title": "Frankreichs Staatspräsident Emmanuel Macron bei den Feierlichkeiten zum 14. Juli 2026 in Paris."
-    },
-    {
       "title": "Studie zum Umgang mit Passkeys: Nutzer wissen zu wenig Bescheid",
       "url": "https://www.heise.de/news/Studie-zum-Umgang-mit-Passkeys-Teilweise-gefaehrlicher-als-Passwoerter-11413954.html",
       "image_title": "Finger auf dem Fingerabdrucksensor eines Smartphones"
@@ -463,14 +463,8 @@
       "image_title": "Google Pixel Tag zwischen zwei Fingern"
     },
     {
-      "title": "AlertFortinet FortiWeb: Angreifer können sich mit beliebigen Zugangsdaten einloggen",
-      "url": "https://www.heise.de/news/Fortinet-FortiWeb-Angreifer-koennen-sich-mit-beliebigen-Zugangsdaten-einloggen-11413738.html",
-      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "Wettersatelliten liefern beeindruckende Aufnahmen der Sonnenfinsternis",
-      "url": "https://www.heise.de/news/Wettersatelliten-liefern-beeindruckende-Aufnahmen-der-Sonnenfinsternis-11412696.html",
-      "image_title": "Aufnahme der Erdkugel, deren halbe Seite schon in der NAcht liegt: Auf der Tagesseite gibt es einen großen Schwarzen Fleck"
+      "title": "Wolkenlos: Bose kastriert teure Lautsprecher",
+      "url": "https://www.heise.de/ratgeber/Wolkenlos-Bose-kastriert-teure-Lautsprecher-11413524.html"
     },
     {
       "title": "Lithium für 500.000 E-Autos jährlich: Altmark-Projekt geht in nächste Pilotphase",
@@ -483,6 +477,11 @@
       "image_title": "Wanderin mit Rucksack und Gewichten denkt über Karte nach."
     },
     {
+      "title": "Wettersatelliten liefern beeindruckende Aufnahmen der Sonnenfinsternis",
+      "url": "https://www.heise.de/news/Wettersatelliten-liefern-beeindruckende-Aufnahmen-der-Sonnenfinsternis-11412696.html",
+      "image_title": "Aufnahme der Erdkugel, deren halbe Seite schon in der NAcht liegt: Auf der Tagesseite gibt es einen großen Schwarzen Fleck"
+    },
+    {
       "title": "Bericht: iPhone 18 Pro in der Fertigung bis zu 38 Prozent teurer",
       "url": "https://www.heise.de/news/Bericht-iPhone-18-Pro-in-der-Fertigung-bis-zu-38-Prozent-teurer-11410295.html",
       "image_title": "Drei iPhone-Boxen auf einem Tisch"
@@ -493,9 +492,9 @@
       "image_title": "Apples Warnung für Spyware"
     },
     {
-      "title": "In Taiwan war mobiles Internet für eine halbe Stunde unbrauchbar - wie geplant",
-      "url": "https://www.heise.de/news/In-Taiwan-war-mobiles-Internet-fuer-eine-halbe-Stunde-unbrauchbar-wie-geplant-11413586.html",
-      "image_title": "Skyline von Taipeh während des Sonnenuntergangs"
+      "title": "HyperOS 4.0: Xiaomis neuer Android-Aufsatz mit iOS-Anleihen",
+      "url": "https://www.heise.de/news/HyperOS-4-0-Xiaomis-neuer-Android-Aufsatz-mit-iOS-Anleihen-11414725.html",
+      "image_title": "Screenshots der neuen HyperOS 4.0 Bedienoberfläche"
     },
     {
       "title": "Upcycling: Wie man einen DIY-Flaschenschneider selbst baut",
@@ -503,24 +502,14 @@
       "image_title": ","
     },
     {
-      "title": "„Agefield High: Rock the School“ im Test: So trashig war meine Schulzeit nicht",
-      "url": "https://www.heise.de/tests/Agefield-High-Rock-the-School-im-Test-So-trashig-war-meine-Schulzeit-nicht-11414509.html",
-      "image_title": "Screenshot aus agefield High"
-    },
-    {
       "title": "Reprostativ für Dias und Negative: kaufen, umbauen oder improvisieren?",
       "url": "https://www.heise.de/ratgeber/Reprostativ-fuer-Dias-und-Negative-kaufen-umbauen-oder-improvisieren-11400622.html",
       "image_title": ", Alle Bilder: Thomas Gade"
     },
     {
-      "title": "7,4 Milliarden Euro Erlös: EU genehmigt Groß-Deal von Volkswagen",
-      "url": "https://www.heise.de/news/7-4-Milliarden-Euro-Erloes-EU-genehmigt-Gross-Deal-von-Volkswagen-11413098.html",
-      "image_title": "Ein Großmotor von Everllence wird verladen"
-    },
-    {
-      "title": "Heart X1: Jungfernflug des wohl größten vollelektrischen Flugzeugs erfolgreich",
-      "url": "https://www.heise.de/news/Heart-X1-Jungfernflug-des-wohl-groessten-vollelektrischen-Flugzeugs-erfolgreich-11413708.html",
-      "image_title": "Heart X1 in der Luft"
+      "title": "„The Elder Scrolls 6“: Xbox-Chefin schwärmt nach Live-Demo bei Bethesda",
+      "url": "https://www.heise.de/news/The-Elder-Scrolls-6-Xbox-Chefin-schwaermt-nach-Live-Demo-bei-Bethesda-11410827.html",
+      "image_title": "Werbebild für Elder Scrolls 6"
     },
     {
       "title": "Bundesdatenschutzbeauftragte: „Weg mit den Cookie-Bannern!“",
@@ -528,8 +517,14 @@
       "image_title": "Kekse und ein Tablet mit der Aufschrift \"Einwilligung\""
     },
     {
-      "title": "MDR wird Ziel russischer Desinformationskampagne",
-      "url": "https://www.heise.de/news/MDR-warnt-vor-gefaelschten-Videos-und-Desinformationskampagne-11414625.html"
+      "title": "7,4 Milliarden Euro Erlös: EU genehmigt Groß-Deal von Volkswagen",
+      "url": "https://www.heise.de/news/7-4-Milliarden-Euro-Erloes-EU-genehmigt-Gross-Deal-von-Volkswagen-11413098.html",
+      "image_title": "Ein Großmotor von Everllence wird verladen"
+    },
+    {
+      "title": "Genesis greift mit dem GV60 Magma Porsche Taycan und Ioniq 5 N an",
+      "url": "https://www.heise.de/news/Genesis-GV60-Magma-Luxury-High-Performance-mit-478-kW-ab-85-990-Euro-11414557.html",
+      "image_title": "Genesis GV60 Magma"
     },
     {
       "title": "Neue EU-Regeln: Strafverfolger kommen jetzt deutlich schneller an Nutzerdaten",
@@ -537,22 +532,27 @@
       "image_title": "Hammer, Gesetzbuch und Figur der Justitia auf einem Tisch vor der EU-Flagge."
     },
     {
-      "title": "Europol-Neuregelung: „Können Grundrechte nicht für Sicherheitszwecke opfern“",
-      "url": "https://www.heise.de/news/Europol-Neuregelung-Koennen-Grundrechte-nicht-fuer-Sicherheitszwecke-opfern-11414159.html",
-      "image_title": "Europol-Gebäude in Den Haag"
+      "title": "MDR wird Ziel russischer Desinformationskampagne",
+      "url": "https://www.heise.de/news/MDR-warnt-vor-gefaelschten-Videos-und-Desinformationskampagne-11414625.html"
     },
     {
-      "title": "Wolkenlos: Bose kastriert teure Lautsprecher",
-      "url": "https://www.heise.de/ratgeber/Wolkenlos-Bose-kastriert-teure-Lautsprecher-11413524.html"
+      "title": "Frankreichs Verfassungsrat stoppt Social-Media-Verbot für Kinder",
+      "url": "https://www.heise.de/news/Frankreich-Verfassungsrat-kippt-Social-Media-Verbot-11414905.html",
+      "image_title": "Frankreichs Staatspräsident Emmanuel Macron bei den Feierlichkeiten zum 14. Juli 2026 in Paris."
     },
     {
-      "title": "Post zum Freitag: KI-Magie braucht Know-how – und Rechenleistung",
-      "url": "https://www.heise.de/meinung/Post-zum-Freitag-KI-Magie-braucht-Know-how-und-Rechenleistung-11413410.html",
-      "image_title": "heise+ Update"
+      "title": "c’t-Story: Wir töten Heinrich den Achten",
+      "url": "https://www.heise.de/hintergrund/c-t-Story-Wir-toeten-Heinrich-den-Achten-11370200.html",
+      "image_title": "Maike Suter: Wir töten Heinrich den Achten"
     },
     {
       "title": "Vorsicht, Kunde: Wenn smarte Geräte plötzlich dumm werden",
       "url": "https://www.heise.de/news/Vorsicht-Kunde-Wenn-smarte-Geraete-ploetzlich-dumm-werden-11413514.html"
+    },
+    {
+      "title": "Skoda Elroq: Das kostet Ihre Wunschvariante tatsächlich",
+      "url": "https://www.heise.de/ratgeber/Skoda-Elroq-Das-kostet-Ihre-Wunschvariante-tatsaechlich-11354570.html",
+      "image_title": "Skoda Elroq RS"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -604,28 +604,21 @@
       "url": "https://www.heise.de/en/news/Leica-cuts-photographers-GoPro-seeks-buyer-the-photo-news-of-the-week-11414716.html"
     },
     {
-      "title": "Replicated Apple Watch connects to iPhones",
-      "url": "https://www.heise.de/en/news/Replicated-Apple-Watch-connects-to-iPhones-11414954.html",
-      "image_title": "Apple Watch Ultra"
+      "title": "HyperOS 4.0: Xiaomi's new Android overlay with iOS influences",
+      "url": "https://www.heise.de/en/news/HyperOS-4-0-Xiaomi-s-new-Android-overlay-with-iOS-influences-11414824.html",
+      "image_title": "Screenshots of the new HyperOS 4.0 user interface"
     },
     {
-      "title": "Side channel allows access to RAM of AMD security controller PSP",
-      "url": "https://www.heise.de/en/news/Side-channel-allows-access-to-RAM-of-AMD-security-controller-PSP-11414858.html"
+      "title": "Cloudflare Wallets: Automated API payments for AI agents",
+      "url": "https://www.heise.de/en/news/Cloudflare-Wallets-Automated-API-payments-for-AI-agents-11415424.html"
     },
     {
-      "title": "LiteLLM attack: Over 2500 companies affected",
-      "url": "https://www.heise.de/en/news/LiteLLM-attack-Over-2500-companies-affected-11412943.html"
+      "title": "AI Models: Google Gemini 3.7 Flash, OpenAI Ultrafast, DeepSeek V4-Pro",
+      "url": "https://www.heise.de/en/news/AI-Models-Google-Gemini-3-7-Flash-OpenAI-Ultrafast-DeepSeek-V4-Pro-11413537.html"
     },
     {
-      "title": "War in the North: Lord of the Rings action game returns to Steam",
-      "url": "https://www.heise.de/en/news/War-in-the-North-Lord-of-the-Rings-action-game-returns-to-Steam-11412517.html",
-      "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
-    },
-    {
-      "title": "c’t uplinkWas KI-Detektor-Software kann (und was nicht)",
-      "teaser": "Wie arbeiten KI-Text-Erkennungstools, woran scheitern sie erstaunlich oft und wie läuft die Erkennung bei Bildern und Musik?",
-      "url": "https://www.heise.de/news/Was-KI-Detektor-Software-kann-und-was-nicht-c-t-uplink-11414143.html",
-      "image_title": "YouTube-Thumbnail zum Uplink"
+      "title": "Trying out local AI: This is what Qwen3.8-27B can do",
+      "url": "https://www.heise.de/en/news/Trying-out-local-AI-This-is-what-Qwen3-8-27B-can-do-11415348.html"
     },
     {
       "title": "Wolkenlos: Bose kastriert teure Lautsprecher",
@@ -633,10 +626,15 @@
       "url": "https://www.heise.de/ratgeber/Wolkenlos-Bose-kastriert-teure-Lautsprecher-11413524.html"
     },
     {
-      "title": "Kryptografie: Warum das Merkle-Hellman-Kryptosystem scheitern musste",
-      "teaser": "In den 1970ern galt die Merkle-Hellman-Verschlüsselung als möglicher Standard. Es kam anders, mit Implikationen bis in die Quantencomputer-Ära.",
-      "url": "https://www.heise.de/hintergrund/Kryptografie-Warum-das-Merkle-Hellman-Kryptosystem-scheitern-musste-11332281.html",
-      "image_title": "Wanderin mit Rucksack und Gewichten denkt über Karte nach."
+      "title": "VideobeitragEuropäische Videocall-Dienste im Vergleich",
+      "teaser": "Nutzerdaten aus Teams oder Zoom könnten in den USA landen. Wir stellen sieben europäische Alternativen vor.",
+      "url": "https://www.heise.de/news/Video-Diese-europaeischen-Videocall-Dienste-solltet-ihr-euch-ansehen-11414237.html"
+    },
+    {
+      "title": "KI-Tools ausreizenEinführung in Claude",
+      "teaser": "Wie Sie Claude sinnvoll einrichten und ausreizen: unsere dreiteilige Strecke zum mächtigen KI-Chatbot.",
+      "url": "https://www.heise.de/ratgeber/Claude-personalisieren-Gedaechtnis-Anweisungen-und-Projekte-einrichten-11362510.html",
+      "image_title": "Ein Mann sitzt am Schreibtisch vor einem Computer, neben ihm schwebt ein Geist mit Klemmbrett."
     },
     {
       "title": "Festplatten-Neuheiten im Test3,5 Zoll ohne Netzteil und RAID mit Thunderbolt 5",
@@ -715,12 +713,6 @@
       "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
-      "title": "GV60 MagmaGenesis greift Porsche Taycan und Ioniq 5 N an",
-      "teaser": "Mit dem GV60 Magma bringt Genesis sein erstes Hochleistungsmodell in Serie. Der Elektro-Crossover leistet bis zu 478 kW.",
-      "url": "https://www.heise.de/news/Genesis-GV60-Magma-Luxury-High-Performance-mit-478-kW-ab-85-990-Euro-11414557.html",
-      "image_title": "Genesis GV60 Magma"
-    },
-    {
       "title": "Verlust von 42.300 Beschäftigte in einem JahrAutoindustrie schrumpft wie keine andere Großbranche",
       "teaser": "Die Zahl der Beschäftigten in der deutschen Automobilindustrie ist auf 691.500 gesunken. Besonders Zulieferer bauen massiv Stellen ab.",
       "url": "https://www.heise.de/news/Destatis-Automobilindustrie-verliert-42-300-Beschaeftigte-in-einem-Jahr-11414081.html",
@@ -739,22 +731,28 @@
       "image_title": "Jaguar Type 01"
     },
     {
-      "title": "600 Drohnen auf Moskau: Kiews Rekordangriff legt Wildberries-Lager lahm",
-      "teaser": "Kiews Drohnen treffen erneut Wildberries-Lager bei Moskau – Schäden bis zu 5 Milliarden Dollar. Ein Nato-Jet schießt über Rumänien eine Drohne ab.",
-      "url": "https://www.telepolis.de/article/600-Drohnen-auf-Moskau-Kiews-Rekordangriff-legt-Wildberries-Lager-lahm-11415407.html",
-      "image_title": "Soldat, der Drohne am Himmel mit Smartphone steuert"
+      "title": "Energieanbieter Lichtblick ertüchtigt LadeparksSchnelllader mit Speicher",
+      "teaser": "An zwei neuen Standorten in Norddeutschland kombiniert der Energieversorger Lichtblick Schnellladesäulen mit Batteriespeichern, um Netzengpässe zu überbrücken.",
+      "url": "https://www.heise.de/news/Schnellladen-auch-bei-schwachem-Netz-LichtBlick-ergaenzt-Ladeparks-um-Speicher-11412532.html",
+      "image_title": "Lichtblick Schnelllader"
     },
     {
-      "title": "Pflaumen, Zucchini, Tomaten: 5 Methoden, Ihre Ernte richtig haltbar zu machen",
-      "teaser": "Einkochen, trocknen, fermentieren, einlegen oder einfrieren: So bleibt Obst und Gemüse aus dem Garten monatelang frisch – ganz ohne künstliche Zusatzstoffe.",
-      "url": "https://www.telepolis.de/article/Pflaumen-Zucchini-Tomaten-5-Methoden-Ihre-Ernte-richtig-haltbar-zu-machen-11412472.html",
-      "image_title": "Einweckglas und Tupperwarebox"
+      "title": "Odessa: Warum der Schwarzmeerzugang entscheidend für die Zukunft der Ukraine ist",
+      "teaser": "Russland blockiert Odessas Häfen. Ohne Seehandel bricht die Agrarwirtschaft ein – mit langfristigen Folgen für Wiederaufbau und Bevölkerung. Ein Gastbeitag.",
+      "url": "https://www.telepolis.de/article/Odessa-Warum-der-Schwarzmeerzugang-entscheidend-fuer-die-Zukunft-der-Ukraine-ist-11412796.html",
+      "image_title": "Schiffe in einem Hafen"
     },
     {
-      "title": "Nvidias 500-Milliarden-Deal: KI-Anleihen bald auch für Privatanleger?",
-      "teaser": "Wall-Street-Chefs deuten an, dass die gigantischen Chip-Finanzierungen auch für kleinere Anleger geöffnet werden könnten. Doch Risiken bleiben.",
-      "url": "https://www.telepolis.de/article/Nvidias-500-Milliarden-Deal-KI-Anleihen-bald-auch-fuer-Privatanleger-11415283.html",
-      "image_title": "Nvidia-CEO Jensen Huang während einer Veranstaltung auf der Computex im Juni 2024 in Taipeh."
+      "title": "US-Heimatschutz spionierte massiv linke Anti-ICE-Protestler aus",
+      "teaser": "Neue Gerichtsakten zeigen, wie US-Behörden mit Undercover-Agenten und Finanzvorladungen gegen linke Organisationen vorgingen, ohne Anklage gegen sie zu erheben.",
+      "url": "https://www.telepolis.de/article/US-Heimatschutz-spionierte-massiv-linke-Anti-ICE-Protestler-aus-11414199.html",
+      "image_title": "Eine stilisierte Figur in Hut und Mantel mit Krawatte"
+    },
+    {
+      "title": "Die Französische Revolution: Wie 1789 das bürgerliche Zeitalter einläutete",
+      "teaser": "Wie die Französische Revolution 1789 das Ancien Régime hinwegfegte und dem bürgerlich-kapitalistischen Zeitalter zum Durchbruch verhalf (Teil 1/2).",
+      "url": "https://www.telepolis.de/article/Die-Franzoesische-Revolution-Wie-1789-das-buergerliche-Zeitalter-einlaeutete-11410147.html",
+      "image_title": "Mehrere Menschen in einem Ballhaus, Ölgemälde mit dramatischer Beleuchtung"
     },
     {
       "title": "Psychologin: „KI darf nicht die Erfahrung von Selbstwirksamkeit verdrängen“",
