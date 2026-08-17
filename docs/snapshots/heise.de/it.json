@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T08:28:11",
+  "timestamp": "2026-08-17T09:27:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "„Download more RAM“Windows-Sicherheit durch RAM-EEPROM geknackt",
+      "teaser": "IT-Forscher zeigen Angriff „Download more RAM“ auf Windows-Sicherheitsmechanismen, der auf Manipulation des RAM-EEPROMs basiert.",
+      "url": "https://www.heise.de/news/Download-more-RAM-Windows-Sicherheit-durch-RAM-EEPROM-geknackt-11415690.html",
+      "image_title": "Speichermodul mit SPD-EEPROM"
+    },
+    {
+      "title": "Containerlab: Emulieren und Verwalten virtueller Netzumgebungen in der Praxis",
+      "teaser": "Die Open-Source-Software Containerlab ist ein vielseitiger Baukasten für DevNetOps und ermöglicht die automatisierte deklarative Beschreibung von Topologien.",
+      "url": "https://www.heise.de/ratgeber/Containerlab-Emulieren-und-Verwalten-virtueller-Netzumgebungen-in-der-Praxis-11401342.html",
+      "image_title": ", Cathrin Kapell / KI / iX"
+    },
+    {
       "title": "AlertZahlreiche Crash-Lücken in Wireshark geschlossen",
       "teaser": "In der aktuellen Wireshark-Version haben sich die Entwickler um mehrere Sicherheitslücken gekümmert.",
       "url": "https://www.heise.de/news/Zahlreiche-Crash-Luecken-in-Wireshark-geschlossen-11415516.html",
@@ -30,18 +42,6 @@
       "teaser": "Google hat die dritte Beta von Android 17 QPR2 veröffentlicht. Das Update bringt neue Anpassungsoptionen, eine App-Sperre und neue Sicherheits-Features.",
       "url": "https://www.heise.de/news/Android-17-QPR2-Beta-3-Google-bringt-neue-Anpassungsoptionen-und-Sicherheit-11415668.html",
       "image_title": "Bildschirm von Android 17 QPR 2 Beta 3 mit neuer Theming-Funktion"
-    },
-    {
-      "title": "Scrum Master Day 2026: Neuer Präsenz-Workshop und mehr Zeit fürs Sparen",
-      "teaser": "Der Frühbucherpreis für die Online-Konferenz Scrum Master Day 2026 gilt eine Woche länger und neu im Programm ist ein Vor-Ort-Workshop in Köln.",
-      "url": "https://www.heise.de/news/Scrum-Master-Day-2026-Neuer-Praesenz-Workshop-und-mehr-Zeit-fuers-Sparen-11366136.html",
-      "image_title": "Viele weiße und ein rotes Papierschiffchen"
-    },
-    {
-      "title": "Tipp: ZIPX-Archive entpacken und packen",
-      "teaser": "Mit ZIPX kann man unter anderem JPEG-Bilder packen. So geht das auch am Mac – und sogar auf iPhone und iPad.",
-      "url": "https://www.heise.de/ratgeber/Tipp-ZIPX-Archive-entpacken-und-packen-11415051.html",
-      "image_title": "Komprimierung (Symbolbild)"
     },
     {
       "title": "RatgeberKopf oder KI? So kombinieren Sie beides sinnvoll für Schule und Studium",
@@ -56,6 +56,24 @@
       "title": "HintergrundBit-Rauschen: Ein geheimes Start-up für x86-Technik und DRAM-Chips aus China",
       "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Ein-geheimes-Start-up-fuer-x86-Technik-und-DRAM-Chips-aus-China-11264162.html",
       "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "RAM aus China: US-Regierung macht Druck auf Apple",
+      "teaser": "Apple ist von Micron und zwei südkoreanischen RAM-Produzenten abhängig und würde gerne CXMT-DRAM aus China kaufen. Doch das gibt Ärger mit der US-Regierung.",
+      "url": "https://www.heise.de/news/RAM-aus-China-US-Regierung-macht-Druck-auf-Apple-11415738.html",
+      "image_title": "Fabrik von CXMT in Hefei in der chinesischen Provinz Anhui"
+    },
+    {
+      "title": "Scrum Master Day 2026: Neuer Präsenz-Workshop und mehr Zeit fürs Sparen",
+      "teaser": "Der Frühbucherpreis für die Online-Konferenz Scrum Master Day 2026 gilt eine Woche länger und neu im Programm ist ein Vor-Ort-Workshop in Köln.",
+      "url": "https://www.heise.de/news/Scrum-Master-Day-2026-Neuer-Praesenz-Workshop-und-mehr-Zeit-fuers-Sparen-11366136.html",
+      "image_title": "Viele weiße und ein rotes Papierschiffchen"
+    },
+    {
+      "title": "Tipp: ZIPX-Archive entpacken und packen",
+      "teaser": "Mit ZIPX kann man unter anderem JPEG-Bilder packen. So geht das auch am Mac – und sogar auf iPhone und iPad.",
+      "url": "https://www.heise.de/ratgeber/Tipp-ZIPX-Archive-entpacken-und-packen-11415051.html",
+      "image_title": "Komprimierung (Symbolbild)"
     },
     {
       "title": "AlertAngriffe auf SAP-Commerce-Cloud-Lücke beobachtet",
@@ -126,22 +144,6 @@
       "teaser": "Alibaba hat die Gewichte seines Modells Qwen3.8-27B veröffentlicht, klein genug für bezahlbare Grafikkarten. Der Abstand zu Spitzenmodellen schrumpft.",
       "url": "https://www.heise.de/news/Lokale-KI-ausprobiert-Das-leistet-Qwen3-8-27B-11415293.html",
       "image_title": "Logos von Qwen und Alibaba.com auf Bildschirmen"
-    },
-    {
-      "title": "ChatGPT zeigt mehr Nutzern Werbeeinblendungen",
-      "teaser": "Werbung im eigenen Chat mit dem LLM: Das testet OpenAI gerade mit einem Teil der ChatGPT-Nutzer, auch Chatinhalte sollen einfließen.",
-      "url": "https://www.heise.de/news/ChatGPT-Werbeeinblendungen-kommen-in-weitere-Laender-11415303.html",
-      "image_title": "ChatGPT-App auf einem Smartphone"
-    },
-    {
-      "title": "Zweiteiliges Webinar von heise security: Deep-Dive in Kubernetes-Sicherheit",
-      "teaser": "Kubernetes ist aus modernen IT-Infrastrukturen nicht wegzudenken. Unser zweiteiliges Webinar hilft bei der Absicherung der Containerumgebung.",
-      "url": "https://www.heise.de/news/Zweiteiliges-Webinar-von-heise-security-Deep-Dive-in-Kubernetes-Sicherheit-11413156.html"
-    },
-    {
-      "title": "Outdoor-Handy Oukitel WP68 Air im Test: schlank, preiswert und mit starkem Akku",
-      "teaser": "Das Oukitel WP68 Air ist ungewohnt schlank für ein Outdoor-Handy, kommt aber dennoch mit ausdauerndem Akku und zum erschwinglichen Preis.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/outdoor-handy-oukitel-wp68-air-im-test-schlank-preiswert-und-mit-starkem-akku/we1x9yh?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsEU-Verpackungsverordnung: Warum kleine Händler ihre Shops schließen",
