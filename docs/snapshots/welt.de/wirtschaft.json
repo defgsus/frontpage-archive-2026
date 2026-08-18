@@ -1,18 +1,31 @@
 {
-  "timestamp": "2026-08-18T10:15:01",
+  "timestamp": "2026-08-18T11:13:52",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
   },
   "scripts": [
     {
+      "type": null,
+      "src": "https://jnt.welt.de/6pzfc2.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.Dit2ZK1O.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.-UqYLvio.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Top-Ökonom will Mehrwertsteuer von 19 auf 22 Prozent anheben – und Kündigungsschutz abschaffen",
+      "teaser": "Der Präsident des Instituts für Weltwirtschaft in Kiel hält die Steuerreform der Bundesregierung für mutlos. Moritz Schularick schlägt vor: Um Bürger bei der Einkommensteuer zu entlasten, sollte die Mehrwertsteuer deutlich steigen.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://images.welt.de/6a842d6e9fcb5798aae3a589/83f5f3248b6816c83b820dc0f5706bec-master/ci23x11-w200/prof-dr-moritz-schularick",
+      "image_title": "Moritz Schularick, Präsident des Instituts für Weltwirtschaft in Kiel"
+    },
     {
       "title": "Kreuzfahrt mit Kostenfalle – diese versteckten Ausgaben fallen bei 3 großen Reedereien an",
       "teaser": "All-inclusive-Kreuzfahrt klingt nach sorgenfreiem Urlaub. Doch ein Vergleich zeigt, wie schnell Zusatzkosten an Bord die Reisekasse belasten können.",
@@ -54,14 +67,6 @@
       "url": "https://www.welt.de/wirtschaft/businessinsider/",
       "image_url": "https://images.welt.de/6a8406a79fcb5798aae3a206/001b5885894605dfeabaed2b0bbd3002/ci23x11-w200/599016872-jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
-    },
-    {
-      "title": "Ende des Billigurlaubs – „Ich sehe nicht, dass es solche Preise noch einmal geben wird“",
-      "teaser": "Energiepreise und steigende Flugkosten haben die Aufwärtsspirale der Reisepreise in diesem Jahr weiter beschleunigt. Reiseverbands-Präsident Albin Loidl sieht darin ein gesellschaftliches Problem.",
-      "url": "https://www.welt.de/wirtschaft/plus6a80205e169e8e32c0ae8f0b/urlaubskosten-ende-des-billigurlaubs-ich-sehe-nicht-dass-es-solche-preise-noch-einmal-geben-wird.html",
-      "image_url": "https://images.welt.de/6a80205e169e8e32c0ae8f0b/a47b915a7a18a26ef11928d698f1eae2-master/ci23x11-w200/gettyimages-824395248-jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Steffen Fründt"
     },
     {
       "title": "„Was tun sie dagegen?“ „Wir zahlen rund 15,6 Milliarden Euro Steuern“",
@@ -233,6 +238,10 @@
       "author": "Hendrikje Rudnick"
     },
     {
+      "title": "Ende des Billigurlaubs – „Ich sehe nicht, dass es solche Preise noch einmal geben wird“",
+      "url": "https://www.welt.de/wirtschaft/plus6a80205e169e8e32c0ae8f0b/urlaubskosten-ende-des-billigurlaubs-ich-sehe-nicht-dass-es-solche-preise-noch-einmal-geben-wird.html"
+    },
+    {
       "title": "Die erstaunliche Entkopplung der Spritpreise",
       "url": "https://www.welt.de/wirtschaft/plus6a82da27a87e8142c31d29f9/diesel-und-benzin-nach-dem-tankrabatt-die-erstaunliche-entkopplung-der-spritpreise.html"
     },
@@ -298,7 +307,7 @@
     },
     {
       "title": "Dürre-Schock am Rhein – alte Gewissheiten für Autofahrer und Industrie kommen ins Wanken",
-      "url": "https://www.welt.de/wirtschaft/article6a803fa1d37aa94006fe079a/wassermangel-duerre-schock-am-rhein-alte-gewissheiten-fuer-autofahrer-und-industrie-kommen-ins-wanken.html"
+      "url": "https://www.welt.de/wirtschaft/article6a803fa1d37aa94006fe079a/rhein-duerre-schock-alte-gewissheiten-fuer-autofahrer-und-industrie-kommen-ins-wanken.html"
     },
     {
       "title": "Easyjet streicht rund 100 Flüge – Streit über Dienstpläne legt Ferienverkehr lahm",
@@ -330,7 +339,7 @@
     },
     {
       "title": "Schiffe aus Schaum",
-      "url": "https://www.welt.de/wirtschaft/plus6a7ecac7a87e8142c31cfb9d/30-prozent-mehr-ladung-trotz-niedrigwasser-schiffe-aus-schaum.html"
+      "url": "https://www.welt.de/wirtschaft/plus6a7ecac7a87e8142c31cfb9d/niedrigwasser-schiffe-aus-schaum-sollen-fluesse-laenger-befahrbar-machen.html"
     },
     {
       "title": "Wenn die Entlassung zur Karriere-Chance wird",
@@ -349,8 +358,12 @@
       "url": "https://www.welt.de/wirtschaft/plus6a7ac24cae5a98ad7008018e/stockende-zahlungen-so-laesst-logistiker-zeitfracht-seine-glaeubiger-zappeln.html"
     },
     {
-      "title": "„KI verändert zwar unsere Arbeit, aber nicht das, was Beratung ausmacht“",
-      "url": "https://www.welt.de/wirtschaft/article6a77354335268e5027022b53/bain-chefin-ki-veraendert-zwar-unsere-arbeit-aber-nicht-das-was-beratung-ausmacht.html"
+      "title": "Die Pegelstände am Rhein steigen wieder",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a843c4ad54f65372fb0cebe/die-pegelstaende-am-rhein-steigen-wieder.html"
+    },
+    {
+      "title": "Warum der Bahnhof von Stuttgart 21 keine Klimaanlage bekommt",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a84393e07b9f9f1de127ebb/warum-der-bahnhof-von-stuttgart-21-keine-klimaanlage-bekommt.html"
     },
     {
       "title": "ZEW-Konjunkturbarometer steigt auf Höchststand seit Februar",
@@ -465,12 +478,12 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a7ee38af14aa44f2fd5dc1e/bahn-klagt-gegen-fernverkehrsbeschluss-der-netzagentur.html"
     },
     {
-      "title": "Weniger Firmeninsolvenzen im Mai – Entspannung in Sicht?",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a7ebf362ea28efdb2791036/weniger-firmeninsolvenzen-im-mai-entspannung-in-sicht.html"
-    },
-    {
-      "title": "CXMT steigt zu Chinas wertvollstem Börsenkonzern auf",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a7ebd1aa87e8142c31cfada/cxmt-steigt-zu-chinas-wertvollstem-boersenkonzern-auf.html"
+      "title": "„Das geht mit keinem Diesel“ – Warum sich Elektro-Lkw für Spediteure plötzlich rechnen",
+      "teaser": "Nicht tauglich für die Langstrecke, miese Ladeinfrastruktur, störende Ruhezeiten: Die Liste der Vorurteile über E-Lkw ist lang. Der Lkw-Fahrer und YouTuber Tobias Wagner kämpft dagegen an – mit ersten Erfolgen.",
+      "url": "https://www.welt.de/wirtschaft/plus6a64c8ddfe2765826e0fd0db/elektromobilitaet-warum-sich-elektro-lkws-fuer-spediteure-ploetzlich-rechnen.html",
+      "image_url": "https://images.welt.de/6a64c8ddfe2765826e0fd0db/fa0d40970c0f5ca202300a805d10fe90-master/ci23x11-w200/26dt086-083-jpg",
+      "image_title": "Tobias Wagner mit einem Mercedes-Benz eActros 600",
+      "author": "Benedikt Fuest"
     },
     {
       "title": "Deutschlands großes Glasfaser-Debakel",
@@ -511,14 +524,6 @@
       "image_url": "https://images.welt.de/6a63698eb9a97a04edfd93d9/5c522f14b082e1b3261df6f99ce2b860-master/ci23x11-w200/dpa-com-20090101-260115-911-009514-jpg",
       "image_title": "Bei Lidl parken künftig wieder mehr Verbrenner",
       "author": "Christoph Kapalschinski"
-    },
-    {
-      "title": "5000 Prozent in 16 Jahren – diese 4 ETFs bieten die Reichtums-Option",
-      "teaser": "Ab sofort können Anleger erstmals den gesamten Weltaktienmarkt mit doppeltem Hebel kaufen. WELT hat diesen neuen ETF und drei bestehende Produkte geprüft. Für Anleger mit Durchhaltevermögen bieten diese Optionen lukrative Chancen.",
-      "url": "https://www.welt.de/wirtschaft/plus6a7564310e3689919ec73749/msci-world-5000-prozent-in-16-jahren-diese-4-etfs-bieten-die-reichtums-option.html",
-      "image_url": "https://images.welt.de/6a7564310e3689919ec73749/6ad32b98e24b1ff18ab1ada61ec26b11/ci23x11-w200/dwosb-wi-etf-hebel-pd-jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Holger Zschäpitz"
     }
   ]
 }
