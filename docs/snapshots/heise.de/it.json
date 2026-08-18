@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-18T13:32:59",
+  "timestamp": "2026-08-18T14:19:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,17 @@
   ],
   "articles": [
     {
+      "title": "Bessere Chancen bei der Jobsuche: So optimieren Sie Ihren Auftritt im Web",
+      "teaser": "Ein LinkedIn-Profil allein reicht nicht: Wer einen neuen Job sucht, muss sich im Web sichtbar machen, Jobbörsen nutzen und den Lebenslauf clever platzieren.",
+      "url": "https://www.heise.de/ratgeber/Bessere-Chancen-bei-der-Jobsuche-So-optimieren-Sie-Ihren-Auftritt-im-Web-11415592.html"
+    },
+    {
+      "title": "Cybercab mit Satelliten-Internet: Die Zukunft der Tesla-Konnektivität?",
+      "teaser": "Das neue Tesla Cybercab verfügt über eine integrierte Starlink-Antenne. Elon Musk deutet an, dass künftig alle Modelle auf Satelliten-Internet setzen könnten.",
+      "url": "https://www.heise.de/news/Tesla-Cybercab-Starlink-Antenne-im-Heck-als-Vorreiter-11417738.html",
+      "image_title": "Tesla Cybercab mit eingelassener Starlink-Antenne"
+    },
+    {
       "title": "Play-Dienste-Update: Google verteilt Tap to Share und mehr für Android-Geräte",
       "teaser": "Google verteilt neue Funktionen für Android-Geräte über seine Play-Dienste. Mit dabei Tap to Share und ein Vorbote für Googlebooks.",
       "url": "https://www.heise.de/news/Play-Dienste-Update-Google-verteilt-Tap-to-Share-und-mehr-fuer-Android-Geraete-11417698.html",
@@ -32,16 +43,8 @@
       "image_title": "Eine Person tippt auf einem Laptop, während eine Roboterhand aus dem Bildschirm heraus einer menschlichen Hand entgegenreicht."
     },
     {
-      "title": "Kollaborative Dokumente: Konzept für Ende-zu-Ende-Verschlüssung über Signal",
-      "teaser": "Wer online gemeinsam an Dokumenten arbeiten will, muss bei der Sicherheit Abstriche machen. Das will ein Forschungsteam ändern und spannt dafür Signal ein.",
-      "url": "https://www.heise.de/news/Kollaborative-Dokumente-Konzept-fuer-Ende-zu-Ende-Verschluessung-ueber-Signal-11417492.html",
-      "image_title": "Blick über mehrere Hände auf Tastaturen"
-    },
-    {
-      "title": "Redis: Sicherheitsupdates gegen Schadcode-Lücken",
-      "teaser": "In der In-Memory-Datenbank Redis wurden mehrere Schwachstellen ausgemacht, die etwa Einschleusen von Schadcode erlauben. Es hagelt Updates.",
-      "url": "https://www.heise.de/news/Redis-Sicherheitsupdates-gegen-Schadcode-Luecken-11417524.html",
-      "image_title": "Security Alert"
+      "title": "RatgeberBessere Chancen bei der Jobsuche: So optimieren Sie Ihren Auftritt im Web",
+      "url": "https://www.heise.de/ratgeber/Bessere-Chancen-bei-der-Jobsuche-So-optimieren-Sie-Ihren-Auftritt-im-Web-11415592.html"
     },
     {
       "title": "HintergrundHarness Engineering: Wie KI-Agenten in Brownfield-Projekten produktiv werden",
@@ -53,8 +56,16 @@
       "url": "https://www.heise.de/ratgeber/Kaufberatung-Notebook-Tablet-Die-richtige-Wahl-fuer-Schule-und-Uni-11374238.html"
     },
     {
-      "title": "RatgeberKopf oder KI? So kombinieren Sie beides sinnvoll für Schule und Studium",
-      "url": "https://www.heise.de/ratgeber/Kopf-oder-KI-So-kombinieren-Sie-beides-sinnvoll-fuer-Schule-und-Studium-11394106.html"
+      "title": "Kollaborative Dokumente: Konzept für Ende-zu-Ende-Verschlüssung über Signal",
+      "teaser": "Wer online gemeinsam an Dokumenten arbeiten will, muss bei der Sicherheit Abstriche machen. Das will ein Forschungsteam ändern und spannt dafür Signal ein.",
+      "url": "https://www.heise.de/news/Kollaborative-Dokumente-Konzept-fuer-Ende-zu-Ende-Verschluessung-ueber-Signal-11417492.html",
+      "image_title": "Blick über mehrere Hände auf Tastaturen"
+    },
+    {
+      "title": "Redis: Sicherheitsupdates gegen Schadcode-Lücken",
+      "teaser": "In der In-Memory-Datenbank Redis wurden mehrere Schwachstellen ausgemacht, die etwa Einschleusen von Schadcode erlauben. Es hagelt Updates.",
+      "url": "https://www.heise.de/news/Redis-Sicherheitsupdates-gegen-Schadcode-Luecken-11417524.html",
+      "image_title": "Security Alert"
     },
     {
       "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
@@ -132,18 +143,6 @@
       "teaser": "Automatisiertes Testing: Was hinter dem Ansatz steckt, ein LLM über ein anderes urteilen zu lassen, klärt Richard Seidl im Gespräch mit Anupam Krishnamurthy.",
       "url": "https://www.heise.de/blog/Software-Testing-KI-als-Tester-So-funktioniert-LLM-as-a-Judge-11416849.html",
       "image_title": "Software Testing: KI als Tester"
-    },
-    {
-      "title": "Neu in .NET 10.0 [36]: Neue Einstellungssammlung mit Best Practices für JSON",
-      "teaser": "Mit JsonSerializationOptions.Strict aktiviert man mehrere strengere Einstellungen für die Deserialisierung von JSON-Inhalten.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-10-0-36-Neue-Einstellungssammlung-mit-Best-Practices-fuer-JSON-11416779.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "Weitere Sicherheitsupdates: iOS 26.6.1, macOS 26.6.2 und mehr veröffentlicht",
-      "teaser": "Kleine Aktualisierung, viele Lücken: Gut 30 Sicherheitslöcher hat Apple in insgesamt sechs Betriebssystemen gestopft. KI dürfte geholfen haben.",
-      "url": "https://www.heise.de/news/Und-wieder-Sicherheitsupdates-iOS-26-6-1-macOS-26-6-2-und-mehr-veroeffentlicht-11416727.html",
-      "image_title": "Installation von iOS auf einem iPhone"
     },
     {
       "title": "NewsCloud-Provider pleite – 70 Jahre TV-Archiv bedroht",
