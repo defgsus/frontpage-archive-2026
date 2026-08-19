@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T06:21:20",
+  "timestamp": "2026-08-19T07:27:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "AlertWarnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+      "title": "Google führt erweiterten Sideloading-Ablauf für Android schrittweise ein",
+      "teaser": "Google startet den „Advanced Flow“ für das Sideloading von Apps. Nutzer müssen bei nicht verifizierten Entwicklern künftig eine 24-stündige Wartezeit einplanen.",
+      "url": "https://www.heise.de/news/Google-fuehrt-erweiterten-Sideloading-Ablauf-fuer-Android-schrittweise-ein-11418865.html",
+      "image_title": "Android-Logos auf grünem Hintergrund"
+    },
+    {
+      "title": "„Passwort“ Folge 64: Alarmierende Ausbrüche agentischer Angreifer",
+      "teaser": "PR-Stunt oder reale Bedrohung? Die Passwort-Hosts finden, dass die Agenten-Angriffe von Anthropic und Co. viel mit Schludrigkeit und Desinteresse zu tun haben.",
+      "url": "https://www.heise.de/news/Passwort-Folge-64-Alarmierende-Ausbrueche-agentischer-Angreifer-11412617.html",
+      "image_title": "Logo Passwort - der heise security Podcast"
+    },
+    {
+      "title": "AlertWarnungAngriffe auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
       "teaser": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.",
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
       "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette EXPLOIT"
@@ -29,18 +41,6 @@
       "title": "Sichtbarkeit in Tech-Strukturen: Workshop-Nachmittag in Frankfurt",
       "teaser": "Wie Fachkompetenz in Tech-Organisationen sichtbar wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Kostenfrei, die Plätze werden verlost.",
       "url": "https://www.heise.de/news/Sichtbarkeit-in-Tech-Strukturen-Workshop-Nachmittag-in-Frankfurt-11417734.html"
-    },
-    {
-      "title": "Markdown-Werkzeugkasten: Marked 3 für macOS im Test",
-      "teaser": "Marked 3 vom Entwickler Brett Trepstra vereint Markdown-Vorschau, Lektorat und vielseitigen Export. Wir haben die App am Mac getestet.",
-      "url": "https://www.heise.de/tests/Markdown-Werkzeugkasten-Marked-3-fuer-macOS-im-Test-11404538.html",
-      "image_title": "Marked auf dem Mac"
-    },
-    {
-      "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
-      "teaser": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
-      "url": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
-      "image_title": "Illustration Fehler im Code"
     },
     {
       "title": "TestsMarkdown-Werkzeugkasten: Marked 3 für macOS im Test",
@@ -56,6 +56,18 @@
       "title": "TestsInternet ohne Glasfaser: Tarife für DSL und TV-Kabel im Vergleich",
       "url": "https://www.heise.de/tests/Internet-ohne-Glasfaser-Tarife-fuer-DSL-und-TV-Kabel-im-Vergleich-11394958.html",
       "image_title": "Netzwerkkabel stecken in einem Router über Geldscheinen und Münzen."
+    },
+    {
+      "title": "KI: OpenAI wächst bei mehr Verlust, Anthropic wächst schneller und macht Gewinn",
+      "teaser": "Die Entwicklung von OpenAI und Anthropic koppelt sich wohl voneinander ab. Etwas mehr Umsatz und mehr Verlust stehen viel mehr Umsatz und Gewinn gegenüber.",
+      "url": "https://www.heise.de/news/KI-OpenAI-waechst-bei-mehr-Verlust-Anthropic-waechst-schneller-und-macht-Gewinn-11418779.html",
+      "image_title": "Börsenbild mit eher nicht so guten Zahlen"
+    },
+    {
+      "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
+      "teaser": "Viele der Top-Webseiten halten sich nicht an die Standards. Das kann zu Problemen mit der Barrierefreiheit oder der KI-Kommunikation führen.",
+      "url": "https://www.heise.de/news/87-Prozent-der-Top-Webseiten-verletzen-Standards-und-Accessibility-11417790.html",
+      "image_title": "Illustration Fehler im Code"
     },
     {
       "title": "KI prüft KI: OpenAI verspricht nach Angriff auf Hugging Face mehr Kontrolle",
@@ -132,18 +144,6 @@
       "teaser": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11404532.html",
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
-    },
-    {
-      "title": "Prognose: Inferenzkosten für KI-Agenten verfünffachen sich bis 2028",
-      "teaser": "Trotz sinkender Preise für KI-Modelle erwartet Gartner einen deutlichen Anstieg der Inferenzkosten für KI-Agenten. Bis 2028 sollen sie sich verfünffachen.",
-      "url": "https://www.heise.de/news/Prognose-Inferenzkosten-fuer-KI-Agenten-verfuenffachen-sich-bis-2028-11417470.html",
-      "image_title": "Implementing,Ai,In,Budget,And,Financial,Management.,Effective,Spending,And"
-    },
-    {
-      "title": "Screensharing-Lücke in macOS wird ausgenutzt – Exploit-Warnung",
-      "teaser": "Ein von Apple vor zwei Wochen gestopftes Loch in der Bildschirm-teilen-Funktion in macOS wird von Angreifern nun für die Rechner-Fernsteuerung missbraucht.",
-      "url": "https://www.heise.de/news/Screensharing-Luecke-in-macOS-wird-ausgenutzt-Exploit-Warnung-11416731.html",
-      "image_title": "Apple Remote Desktop ist eine macOS-Fernsteuerungsmöglichkeit"
     },
     {
       "title": "NewsCloud-Provider pleite – 70 Jahre TV-Archiv bedroht",
