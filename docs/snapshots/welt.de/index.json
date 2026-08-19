@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T04:24:08",
+  "timestamp": "2026-08-19T05:17:54",
   "url": "https://www.welt.de",
   "response": {
     "status": 200
@@ -7,8 +7,8 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://html-load.com/vendor.js",
-      "id": "VYAcsygAuSZtDv",
+      "src": "https://html-load.com/main.js",
+      "id": "blEMewQDRNCHT",
       "text": null
     },
     {
@@ -26,19 +26,26 @@
   ],
   "articles": [
     {
+      "title": "Der Constantin-Schock",
+      "teaser": "Die Constantin Film AG ist Deutschlands Kino-Gigant. Doch plötzlich muss die Münchener Blockbuster-Schmiede um ihre Zukunft bangen. 12,7 Millionen Aktien sind verpfändet. Warum? Die Spur führt in die Schweiz.",
+      "url": "https://www.welt.de/kultur/plus6a7eae4f1350622eebaae783/der-constantin-schock-ploetzlich-muss-deutschlands-kino-gigant-um-seine-zukunft-bangen.html",
+      "image_url": "https://images.welt.de/6a7eae4f1350622eebaae783/e4284f06f90cd1536de35adb3ec586cf/ci23x11-w200/42308047-quadrat-jpg",
+      "image_title": "39 der 100 erfolgreichsten deutschen Filme der letzten 20 Jahre trugen dieses Logo",
+      "author": "Hanns-Georg Rodek"
+    },
+    {
+      "title": "„Ich habe schreckliche Parteien erlebt, NPD, Republikaner, DVU. Keine war so gefährlich wie die AfD“",
+      "teaser": "Charlotte Knobloch fordert im Kampf gegen die AfD „radikale Mittel“. Denn es gehe darum, Deutschland als Demokratie zu bewahren. Die AfD ähnele zunehmend der NSDAP. Gleichsetzen könne man die beiden Parteien zwar nicht – „aber vergleichen sollte man“.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://images.welt.de/6a849afde6cb5d22726515d1/79ff4eac32445ab23eea76a880fff5e9-master/ci23x11-w200/dpa-com-260706-935-1462260-jpg",
+      "image_title": "Charlotte Knobloch, Präsidentin der Israelitischen Kultusgemeinde München und Oberbayern, im September 2025"
+    },
+    {
       "title": "„Echte Fachkräfte kommen nicht nach Deutschland“, kritisiert der AfD-Kandidat",
-      "teaser": "In Halle stellen sich die sieben Spitzenkandidaten der Parteien zur Landtagswahl den Fragen der IHK. Die Runde bringt manch neue Erkenntnis. AfD-Spitzenkandidat Siegmund fehlt. Sein Vertreter schlägt überraschend deutlich moderatere Töne an, als es seine Partei zuletzt getan hatte.",
       "url": "https://www.welt.de/politik/deutschland/plus6a830f74a87e8142c31d2ee5/wahlkampf-in-sachsen-anhalt-echte-fachkraefte-kommen-nicht-nach-deutschland-kritisiert-der-afd-kandidat.html",
       "image_url": "https://images.welt.de/6a830f74a87e8142c31d2ee5/fe34dc84e0306bb06a6cc40d7c625ced-master/ci23x11-w200/613553330-jpg",
       "image_title": "Die Spitzenkandidaten diskutieren mit Unternehmern über die wirtschaftliche Zukunft Sachsen-Anhalts",
       "author": "Nikolaus Doll"
-    },
-    {
-      "title": "„Ich sehe in vielen Bereichen keinen Unterschied zur NSDAP“ – Charlotte Knobloch will AfD bekämpfen",
-      "teaser": "Charlotte Knobloch fordert im Kampf gegen die AfD „radikale Mittel“. Denn es gehe darum, Deutschland als Demokratie zu bewahren. Die AfD ähnele zunehmend der NSDAP. Gleichsetzen könne man die beiden Parteien zwar nicht – „aber vergleichen sollte man“.",
-      "url": "https://www.welt.de/politik/",
-      "image_url": "https://images.welt.de/6a849afde6cb5d22726515d1/79ff4eac32445ab23eea76a880fff5e9-master/ci23x11-w200/dpa-com-260706-935-1462260-jpg",
-      "image_title": "Charlotte Knobloch, Präsidentin der Israelitischen Kultusgemeinde München und Oberbayern, im September 2025"
     },
     {
       "title": "„Dieser Anstieg der Proteinzufuhr erhöhte die Chance auf gesundes Altern um 38 Prozent“",
@@ -53,13 +60,6 @@
       "image_url": "https://images.welt.de/6a847938e6cb5d2272651401/d8b41398612359e55539f007469b251d-master/ci23x11-w200/dpa-com-20090101-260111-935-1070945-jpg",
       "image_title": "Elif Eralp, Spitzenkandidatin der Partei Die Linke für die Abgeordnetenhauswahl 2026 in Berlin",
       "author": "Leander F. Badura"
-    },
-    {
-      "title": "Die Legende vom Klimakrisen-Niedrigwasser",
-      "url": "https://www.welt.de/debatte/plus6a82c540169e8e32c0aeb05a/rhein-die-legende-vom-klimakrisen-niedrigwasser.html",
-      "image_url": "https://images.welt.de/6a82c540169e8e32c0aeb05a/36926744cab755023e75e424e9384db3/ci23x11-w200/gyi-2290458635-jpg",
-      "image_title": "Düsseldorf im August",
-      "author": "Axel Bojanowski"
     },
     {
       "title": "21 Prozent für Union – CDU-Politiker Laumann wird bei Umfragewerten „angst und bange“",
@@ -86,9 +86,9 @@
       "url": "https://www.welt.de/politik/ausland/article6a850d37d537b08639dcc798/naher-osten-abu-dhabi-stoppt-handel-mit-iran-teheran-dementiert-raketenangriff-auf-emirate.html"
     },
     {
-      "title": "Mehrwertsteuer rauf, Einkommensteuer runter? – „Falsch. Es gibt genug Sparpotenzial im Haushalt“",
-      "url": "https://www.welt.de/videos/video6a7acf0d0e3689919ec77698/jetzt-im-livestream-mehrwertsteuer-rauf-einkommensteuer-runter-falsch-es-gibt-genug-sparpotenzial-im-haushalt.html",
-      "image_url": "https://images.welt.de/6a7acf0d0e3689919ec77698/116e110e45eb17a665b5c0e3b03d1338/ci16x9-w1000/dpa-com-260806-935-1525996-jpg"
+      "title": "Spanien baut Zeltlager in Ceuta – Platz für 1500 Flüchtlinge ohne Unterkunft",
+      "url": "https://www.welt.de/videos/video6a7acf0d0e3689919ec77698/jetzt-im-livestream-spanien-baut-zeltlager-in-ceuta-platz-fuer-1500-fluechtlinge-ohne-unterkunft.html",
+      "image_url": "https://images.welt.de/6a7acf0d0e3689919ec77698/594ab30d5ebc56833248ffca3feaaf60/ci16x9-w1000/2026-08-18t190440z-1358348493-rc231na1ypk0-rtrmadp-3-migration-europe-spain-ceuta-jpg"
     },
     {
       "title": "„Wäre der Staat ein Unternehmen und wir als Bürger der Kunde, wäre er komplett pleite“",
@@ -231,6 +231,14 @@
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
+      "title": "Die Legende vom Klimakrisen-Niedrigwasser",
+      "teaser": "Trocknet die „Klimakrise“ in diesen Sommertagen den Rhein aus? Diese eingängige Erzählung verbreiten aktuell Politiker, Medien und Lobbyisten. Doch sie ist falsch.",
+      "url": "https://www.welt.de/debatte/plus6a82c540169e8e32c0aeb05a/rhein-die-legende-vom-klimakrisen-niedrigwasser.html",
+      "image_url": "https://images.welt.de/6a82c540169e8e32c0aeb05a/36926744cab755023e75e424e9384db3/ci23x11-w200/gyi-2290458635-jpg",
+      "image_title": "Düsseldorf im August",
+      "author": "Axel Bojanowski"
+    },
+    {
       "title": "Auf ein Zitronensorbet in die Klimaapokalypse",
       "teaser": "Andere Medien warnen, ich fahre: Kann man als haarlose Primatenart aus der Savanne Ostafrikas die Ferragostofeiern im glutheißen Italien überleben?",
       "url": "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6a83f4dcd36b21c0ebd5e511/expeditionen-ins-schmierreich-auf-ein-zitronensorbet-in-die-klimaapokalypse.html",
@@ -245,14 +253,6 @@
       "image_url": "https://images.welt.de/6a7db939dc674b59e6e1d43d/8a521841ef95ccacd651c43dd5d08f35-master/ci23x11-w200/gettyimages-1150016488-jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Michael Fabricius"
-    },
-    {
-      "title": "Wer trägt die Schuld am neuesten Bürokratiemonster? In Brüssel will es keiner gewesen sein",
-      "teaser": "Die EU erlässt neue Regeln für Verpackungen, sorgt für Chaos und will dann am liebsten alles wieder rückgängig machen. Wer hat sich das kuriose Gesetz ausgedacht? Eine Rekonstruktion.",
-      "url": "https://www.welt.de/wirtschaft/plus6a7f18f9169e8e32c0ae8320/verpackungsverordnung-wer-traegt-die-schuld-am-neuesten-buerokratiemonster-in-bruessel-will-es-keiner-gewesen-sein.html",
-      "image_url": "https://images.welt.de/6a7f18f9169e8e32c0ae8320/0744586e60e393819c2c0c38eb18f53b-master/ci23x11-w200/gettyimages-2280671378-jpg",
-      "image_title": "EU-Kommissionspräsidentin Ursula von der Leyen",
-      "author": "Stefan Beutelsbacher"
     },
     {
       "title": "„Was tun sie dagegen?“ „Wir zahlen rund 15,6 Milliarden Euro Steuern“",
@@ -291,6 +291,14 @@
     {
       "title": "Mehr als 22.000 Mittelmeer-Flüchtlinge erreichten Italien offenbar mit deutschen NGO-Schiffen",
       "url": "https://www.welt.de/politik/ausland/article6a842207d54f65372fb0cb4d/mehr-als-22-000-mittelmeer-fluechtlinge-erreichten-italien-offenbar-mit-deutschen-ngo-schiffen.html"
+    },
+    {
+      "title": "Perfektes Selfie mit Hai – neuer TikTok-Trend besorgt Eltern und Experten",
+      "teaser": "Es geht um Aufmerksamkeit – für das perfekte Bild oder Video gemeinsam mit einem Hai. Experten warnen vor einer wachsenden Sorglosigkeit. Immer öfter kommt es zu Unfällen und Bissen, weil Menschen die Distanz zu wilden Tieren unterschätzen.",
+      "url": "https://www.welt.de/videos/video6a852dd0d537b08639dcc856/steigende-zahl-von-unfaellen-perfektes-selfie-mit-hai-neuer-tiktok-trend-besorgt-eltern-und-experten.html",
+      "image_url": "https://images.welt.de/6a852dd0d537b08639dcc856/0045ae634f9d5e31ce3498c7f4549719/ci23x11-w200/hai-png",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "1 Min"
     },
     {
       "title": "Deutscher Extremläufer bleibt nach mehr als 623 Kilometern erschöpft im Wald liegen",
@@ -731,6 +739,30 @@
       "url": "https://www.welt.de/politik/deutschland/article6a842ff607b9f9f1de127dba/lueneburg-von-wahl-in-niedersachsen-ausgeschlossen-auch-afd-vizelandeschef-scheitert-vor-gericht.html"
     },
     {
+      "title": "OpenAI startet Werbegeschäft in Deutschland und Europa",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a8538b53f3b2550f6df41ce/openai-startet-werbegeschaeft-in-deutschland-und-europa.html"
+    },
+    {
+      "title": "Regen und Gewitter am Morgen – DWD erwartet Auflockerung",
+      "url": "https://www.welt.de/regionales/hamburg/article6a85387ad537b08639dcc89c/regen-und-gewitter-am-morgen-dwd-erwartet-auflockerung.html"
+    },
+    {
+      "title": "Signalreparatur am Savignyplatz bremst S-Bahn aus",
+      "url": "https://www.welt.de/regionales/berlin/article6a8536223f3b2550f6df41b8/signalreparatur-am-savignyplatz-bremst-s-bahn-aus.html"
+    },
+    {
+      "title": "Mann wirft Steine auf Fensterscheiben an Hotels und Geschäft",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article6a8534f63f3b2550f6df41af/mann-wirft-steine-auf-fensterscheiben-an-hotels-und-geschaeft.html"
+    },
+    {
+      "title": "Umgekippter Baukran geborgen - A2 wieder freigegeben",
+      "url": "https://www.welt.de/regionales/nrw/article6a8533523f3b2550f6df41a3/umgekippter-baukran-geborgen-a2-wieder-freigegeben.html"
+    },
+    {
+      "title": "Endlich nass: Gewitter und Regen bestimmen das Wetter",
+      "url": "https://www.welt.de/regionales/bayern/article6a852f91d537b08639dcc869/endlich-nass-gewitter-und-regen-bestimmen-das-wetter.html"
+    },
+    {
       "title": "Person erleidet bei Brand lebensbedrohliche Verletzungen",
       "url": "https://www.welt.de/regionales/berlin/article6a852ede3f3b2550f6df418c/person-erleidet-bei-brand-lebensbedrohliche-verletzungen.html"
     },
@@ -825,30 +857,6 @@
     {
       "title": "ADAC: Staus bleiben trotz gelockertem Lkw-Fahrverbot aus",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a850f76d537b08639dcc7b6/adac-staus-bleiben-trotz-gelockertem-lkw-fahrverbot-aus.html"
-    },
-    {
-      "title": "Brand im Hohen Venn soll eingedämmt werden",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article6a850f3ad537b08639dcc7b2/brand-im-hohen-venn-soll-eingedaemmt-werden.html"
-    },
-    {
-      "title": "Kfz-Versicherung: Prämien steigen kaum – Trendwende?",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a850f3a3f3b2550f6df4101/kfz-versicherung-praemien-steigen-kaum-trendwende.html"
-    },
-    {
-      "title": "Prozess um Mordanschlag auf Neffen von Drogenboss startet",
-      "url": "https://www.welt.de/regionales/nrw/article6a850efe3f3b2550f6df40fb/prozess-um-mordanschlag-auf-neffen-von-drogenboss-startet.html"
-    },
-    {
-      "title": "Bayern prüft Verstöße gegen 12-Uhr-Regel",
-      "url": "https://www.welt.de/regionales/bayern/article6a850efed537b08639dcc7a8/bayern-prueft-verstoesse-gegen-12-uhr-regel.html"
-    },
-    {
-      "title": "Glücksgefühle-Festival: So kommt man hin, das wird geboten",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article6a850efed537b08639dcc7ab/gluecksgefuehle-festival-so-kommt-man-hin-das-wird-geboten.html"
-    },
-    {
-      "title": "Tod beim Zahnarzt: Die wichtigsten Fakten zum Prozessstart",
-      "url": "https://www.welt.de/regionales/hessen/article6a850ec2d537b08639dcc7a4/tod-beim-zahnarzt-die-wichtigsten-fakten-zum-prozessstart.html"
     }
   ]
 }
