@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T07:27:35",
+  "timestamp": "2026-08-19T08:20:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,28 @@
   ],
   "articles": [
     {
+      "title": "AlertOracle-Patchday: Updates für weniger als tausend Schwachstellen",
+      "teaser": "Oracle fixt zum „Critical Security Patch Update“ knapp 1000 Lücken – weniger als zum letzten regulären „CPU“ genannten Patchday.",
+      "url": "https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html",
+      "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
+      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Cluster mit Ceph-Speicher einrichten und verwalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbares-Proxmox-VE-Cluster-mit-Ceph-Storage-11404564.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Agentic Engineering: Webinar zum verlässlichen Arbeiten mit Claude Code",
+      "teaser": "Am 26. August 2026 zeigt die the native web GmbH in einem Webinar, wie ein Repository beschaffen sein muss, damit ein KI-Agent verlässlich darin arbeitet.",
+      "url": "https://www.heise.de/blog/Agentic-Engineering-Webinar-zum-verlaesslichen-Arbeiten-mit-Claude-Code-11413500.html",
+      "image_title": "Symbolbild für den Workshop Agentic AI"
+    },
+    {
       "title": "Google führt erweiterten Sideloading-Ablauf für Android schrittweise ein",
       "teaser": "Google startet den „Advanced Flow“ für das Sideloading von Apps. Nutzer müssen bei nicht verifizierten Entwicklern künftig eine 24-stündige Wartezeit einplanen.",
       "url": "https://www.heise.de/news/Google-fuehrt-erweiterten-Sideloading-Ablauf-fuer-Android-schrittweise-ein-11418865.html",
       "image_title": "Android-Logos auf grünem Hintergrund"
-    },
-    {
-      "title": "„Passwort“ Folge 64: Alarmierende Ausbrüche agentischer Angreifer",
-      "teaser": "PR-Stunt oder reale Bedrohung? Die Passwort-Hosts finden, dass die Agenten-Angriffe von Anthropic und Co. viel mit Schludrigkeit und Desinteresse zu tun haben.",
-      "url": "https://www.heise.de/news/Passwort-Folge-64-Alarmierende-Ausbrueche-agentischer-Angreifer-11412617.html",
-      "image_title": "Logo Passwort - der heise security Podcast"
-    },
-    {
-      "title": "AlertWarnungAngriffe auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
-      "teaser": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette EXPLOIT"
-    },
-    {
-      "title": "Sichtbarkeit in Tech-Strukturen: Workshop-Nachmittag in Frankfurt",
-      "teaser": "Wie Fachkompetenz in Tech-Organisationen sichtbar wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Kostenfrei, die Plätze werden verlost.",
-      "url": "https://www.heise.de/news/Sichtbarkeit-in-Tech-Strukturen-Workshop-Nachmittag-in-Frankfurt-11417734.html"
     },
     {
       "title": "TestsMarkdown-Werkzeugkasten: Marked 3 für macOS im Test",
@@ -58,10 +59,27 @@
       "image_title": "Netzwerkkabel stecken in einem Router über Geldscheinen und Münzen."
     },
     {
-      "title": "KI: OpenAI wächst bei mehr Verlust, Anthropic wächst schneller und macht Gewinn",
+      "title": "OpenAI vs. Anthropic: Umsatzwachstum vs. Umsatzverdoppelung, Verlust vs. Gewinn",
       "teaser": "Die Entwicklung von OpenAI und Anthropic koppelt sich wohl voneinander ab. Etwas mehr Umsatz und mehr Verlust stehen viel mehr Umsatz und Gewinn gegenüber.",
       "url": "https://www.heise.de/news/KI-OpenAI-waechst-bei-mehr-Verlust-Anthropic-waechst-schneller-und-macht-Gewinn-11418779.html",
       "image_title": "Börsenbild mit eher nicht so guten Zahlen"
+    },
+    {
+      "title": "„Passwort“ Folge 64: Alarmierende Ausbrüche agentischer Angreifer",
+      "teaser": "PR-Stunt oder reale Bedrohung? Die Passwort-Hosts finden, dass die Agenten-Angriffe von Anthropic und Co. viel mit Schludrigkeit und Desinteresse zu tun haben.",
+      "url": "https://www.heise.de/news/Passwort-Folge-64-Alarmierende-Ausbrueche-agentischer-Angreifer-11412617.html",
+      "image_title": "Logo Passwort - der heise security Podcast"
+    },
+    {
+      "title": "AlertWarnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
+      "teaser": "Die IT-Sicherheitsbehörde CISA warnt aktuell vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS.",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette EXPLOIT"
+    },
+    {
+      "title": "Sichtbarkeit in Tech-Strukturen: Workshop-Nachmittag in Frankfurt",
+      "teaser": "Wie Fachkompetenz in Tech-Organisationen sichtbar wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Kostenfrei, die Plätze werden verlost.",
+      "url": "https://www.heise.de/news/Sichtbarkeit-in-Tech-Strukturen-Workshop-Nachmittag-in-Frankfurt-11417734.html"
     },
     {
       "title": "Fehler in HTML, CSS und Accessibility – 87 Prozent der Top-Seiten fehlerhaft",
@@ -126,24 +144,6 @@
       "teaser": "Laut einer Umfrage sehen Unternehmen viel Potenzial für KI in der Personalarbeit, etwa bei Onboarding und Arbeitszeugnissen. Die Nutzung ist aber zögerlich.",
       "url": "https://www.heise.de/news/Personalabteilung-Ein-Siebtel-der-Firmen-schreibt-Arbeitszeugnisse-mit-KI-11417670.html",
       "image_title": "Eine Person tippt auf einem Laptop, während eine Roboterhand aus dem Bildschirm heraus einer menschlichen Hand entgegenreicht."
-    },
-    {
-      "title": "Kollaborative Dokumente: Konzept für Ende-zu-Ende-Verschlüssung über Signal",
-      "teaser": "Wer online gemeinsam an Dokumenten arbeiten will, muss bei der Sicherheit Abstriche machen. Das will ein Forschungsteam ändern und spannt dafür Signal ein.",
-      "url": "https://www.heise.de/news/Kollaborative-Dokumente-Konzept-fuer-Ende-zu-Ende-Verschluessung-ueber-Signal-11417492.html",
-      "image_title": "Blick über mehrere Hände auf Tastaturen"
-    },
-    {
-      "title": "Redis: Sicherheitsupdates gegen Schadcode-Lücken",
-      "teaser": "In der In-Memory-Datenbank Redis wurden mehrere Schwachstellen ausgemacht, die etwa Einschleusen von Schadcode erlauben. Es hagelt Updates.",
-      "url": "https://www.heise.de/news/Redis-Sicherheitsupdates-gegen-Schadcode-Luecken-11417524.html",
-      "image_title": "Security Alert"
-    },
-    {
-      "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
-      "teaser": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11404532.html",
-      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
     },
     {
       "title": "NewsCloud-Provider pleite – 70 Jahre TV-Archiv bedroht",

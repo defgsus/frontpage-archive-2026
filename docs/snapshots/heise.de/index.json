@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T07:27:31",
+  "timestamp": "2026-08-19T08:20:39",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Oracle-Patchday: Updates für weniger als tausend Schwachstellen",
+      "url": "https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html"
+    },
+    {
+      "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
+      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbares-Proxmox-VE-Cluster-mit-Ceph-Storage-11404564.html"
+    },
+    {
+      "title": "China gelingt Raketenlandung auf Beinen",
+      "url": "https://www.heise.de/news/China-gelingt-Raketenlandung-auf-Beinen-11418953.html"
+    },
+    {
       "title": "Google führt erweiterten Sideloading-Ablauf für Android schrittweise ein",
       "url": "https://www.heise.de/news/Google-fuehrt-erweiterten-Sideloading-Ablauf-fuer-Android-schrittweise-ein-11418865.html"
     },
@@ -28,7 +40,7 @@
       "url": "https://www.heise.de/news/Kfz-Versicherung-Praemien-steigen-derzeit-kaum-11418849.html"
     },
     {
-      "title": "KI: OpenAI wächst bei mehr Verlust, Anthropic wächst schneller und macht Gewinn",
+      "title": "OpenAI vs. Anthropic: Umsatzwachstum vs. Umsatzverdoppelung, Verlust vs. Gewinn",
       "url": "https://www.heise.de/news/KI-OpenAI-waechst-bei-mehr-Verlust-Anthropic-waechst-schneller-und-macht-Gewinn-11418779.html"
     },
     {
@@ -48,18 +60,6 @@
     {
       "title": "„Prince of Persia“: GOG rüstet „Sands of Time“ für moderne PCs auf",
       "url": "https://www.heise.de/news/Prince-of-Persia-GOG-ruestet-Sands-of-Time-fuer-moderne-PCs-auf-11418799.html"
-    },
-    {
-      "title": "„GoldenEye 007“: N64-Klassiker ist vollständig dekompiliert",
-      "url": "https://www.heise.de/news/GoldenEye-007-N64-Klassiker-ist-vollstaendig-dekompiliert-11418751.html"
-    },
-    {
-      "title": "Warnung vor Angriffen auf Microsoft IKE, SharePoint, VMware vCenter und macOS",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Microsoft-IKE-SharePoint-VMware-vCenter-und-macOS-11418783.html"
-    },
-    {
-      "title": "Vorwürfe gegen Meta: Instagram und Facebook in der Kritik",
-      "url": "https://www.heise.de/news/USA-Meta-wegen-App-Nutzung-durch-Kinder-erneut-vor-Gericht-11418803.html"
     },
     {
       "title": "UpdateMobile KlimaanlageMidea PortaSplit lässt sich von jedermann fernsteuern",
@@ -184,6 +184,29 @@
       "image_title": "YouTube-Logo an einer Gebäudefront"
     },
     {
+      "title": "AlertOracle-Patchday: Updates für weniger als tausend Schwachstellen",
+      "teaser": "Oracle fixt zum „Critical Security Patch Update“ knapp 1000 Lücken – weniger als zum letzten regulären „CPU“ genannten Patchday.",
+      "url": "https://www.heise.de/news/Oracle-Patchday-Updates-fuer-weniger-als-tausend-Schwachstellen-11418883.html",
+      "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
+      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Cluster mit Ceph-Speicher einrichten und verwalten.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbares-Proxmox-VE-Cluster-mit-Ceph-Storage-11404564.html",
+      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
+    },
+    {
+      "title": "Neue Speicherkonzepte für das Supercomputing",
+      "teaser": "Wer mit riesigen Datenmengen arbeitet, kennt das Problem: Die Daten wachsen schneller als die Infrastruktur. Klassische Speicherarchitekturen stoßen an ihre Grenzen. Doch es gibt eine Lösung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319745106&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "China gelingt Raketenlandung auf Beinen",
+      "teaser": "Erstmals ist in China eine Raketenstufe nach einem Orbitalstart senkrecht auf eigenen Beinen gelandet. Sie gehörte zur privat entwickelten Zhuque-3.",
+      "url": "https://www.heise.de/news/China-gelingt-Raketenlandung-auf-Beinen-11418953.html",
+      "image_title": "Chinesische Flagge"
+    },
+    {
       "title": "Google führt erweiterten Sideloading-Ablauf für Android schrittweise ein",
       "teaser": "Google startet den „Advanced Flow“ für das Sideloading von Apps. Nutzer müssen bei nicht verifizierten Entwicklern künftig eine 24-stündige Wartezeit einplanen.",
       "url": "https://www.heise.de/news/Google-fuehrt-erweiterten-Sideloading-Ablauf-fuer-Android-schrittweise-ein-11418865.html",
@@ -196,12 +219,7 @@
       "image_title": "Mercedes E-Klasse Unfallforschung"
     },
     {
-      "title": "Europäische Cloud im Praxistest: Leistung, Sicherheit und KI aus einer Hand",
-      "teaser": "Wie leistungsfähig sind europäische Cloud-Plattformen wirklich? Im Live-Webcast am 10.9. um 11 Uhr erleben Sie eine europäische Cloud-Plattform live – inklusive Demo, Kundenbeispielen und KI-Workloads.",
-      "url": "https://business-services.heise.de/it-management/digitale-souveraenitaet/beitrag/europaeische-cloud-im-praxistest-leistung-sicherheit-und-ki-aus-einer-hand-5086/?source=hbsad_ersatz"
-    },
-    {
-      "title": "KI: OpenAI wächst bei mehr Verlust, Anthropic wächst schneller und macht Gewinn",
+      "title": "OpenAI vs. Anthropic: Umsatzwachstum vs. Umsatzverdoppelung, Verlust vs. Gewinn",
       "teaser": "Die Entwicklung von OpenAI und Anthropic koppelt sich wohl voneinander ab. Etwas mehr Umsatz und mehr Verlust stehen viel mehr Umsatz und Gewinn gegenüber.",
       "url": "https://www.heise.de/news/KI-OpenAI-waechst-bei-mehr-Verlust-Anthropic-waechst-schneller-und-macht-Gewinn-11418779.html",
       "image_title": "Börsenbild mit eher nicht so guten Zahlen"
@@ -217,24 +235,6 @@
       "teaser": "PR-Stunt oder reale Bedrohung? Die Passwort-Hosts finden, dass die Agenten-Angriffe von Anthropic und Co. viel mit Schludrigkeit und Desinteresse zu tun haben.",
       "url": "https://www.heise.de/news/Passwort-Folge-64-Alarmierende-Ausbrueche-agentischer-Angreifer-11412617.html",
       "image_title": "Logo Passwort - der heise security Podcast"
-    },
-    {
-      "title": "„Mortal Shell 2“ angespielt: Ostereier-Suche im Soulslike-Format",
-      "teaser": "„Mortal Shell 2“ fordert das Genre der Soulslikes mit einer neuen Formel heraus. Das neue Spiel sucht keine taktischen Schachspieler, sondern gierige Bestien.",
-      "url": "https://www.heise.de/tests/Mortal-Shell-2-angespielt-Ostereier-Suche-im-Soulslike-Format-11418775.html",
-      "image_title": "Screenshot aus Mortal Shell 2"
-    },
-    {
-      "title": "„Prince of Persia“: GOG rüstet „Sands of Time“ für moderne PCs auf",
-      "teaser": "GOG hat „Prince of Persia: The Sands of Time“ für moderne PCs verbessert. Der Spieleklassiker von 2003 bekommt etwa Ultrawide-Support und einen FPS-Limiter.",
-      "url": "https://www.heise.de/news/Prince-of-Persia-GOG-ruestet-Sands-of-Time-fuer-moderne-PCs-auf-11418799.html",
-      "image_title": "Screenshot aus Sands of Time"
-    },
-    {
-      "title": "Vorwürfe gegen Meta: Instagram und Facebook in der Kritik",
-      "teaser": "Mehrere US-Bundesstaaten werfen dem Meta-Konzern vor, Kinder absichtlich an Facebook und Instagram gebunden zu haben. Meta weist das zurück.",
-      "url": "https://www.heise.de/news/USA-Meta-wegen-App-Nutzung-durch-Kinder-erneut-vor-Gericht-11418803.html",
-      "image_title": "Fünf Kinder auf einem Fensterbrett, alle starren auf ihre Handys"
     },
     {
       "title": "RatgeberDas iPad zum Desktop-Rechner aufrüsten",
@@ -317,6 +317,24 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-elektrische-kuehlbox-im-test-fuer-auto-camping-und-urlaub/frtf717?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "„Mortal Shell 2“ angespielt: Ostereier-Suche im Soulslike-Format",
+      "teaser": "„Mortal Shell 2“ fordert das Genre der Soulslikes mit einer neuen Formel heraus. Das neue Spiel sucht keine taktischen Schachspieler, sondern gierige Bestien.",
+      "url": "https://www.heise.de/tests/Mortal-Shell-2-angespielt-Ostereier-Suche-im-Soulslike-Format-11418775.html",
+      "image_title": "Screenshot aus Mortal Shell 2"
+    },
+    {
+      "title": "„Prince of Persia“: GOG rüstet „Sands of Time“ für moderne PCs auf",
+      "teaser": "GOG hat „Prince of Persia: The Sands of Time“ für moderne PCs verbessert. Der Spieleklassiker von 2003 bekommt etwa Ultrawide-Support und einen FPS-Limiter.",
+      "url": "https://www.heise.de/news/Prince-of-Persia-GOG-ruestet-Sands-of-Time-fuer-moderne-PCs-auf-11418799.html",
+      "image_title": "Screenshot aus Sands of Time"
+    },
+    {
+      "title": "Vorwürfe gegen Meta: Instagram und Facebook in der Kritik",
+      "teaser": "Mehrere US-Bundesstaaten werfen dem Meta-Konzern vor, Kinder absichtlich an Facebook und Instagram gebunden zu haben. Meta weist das zurück.",
+      "url": "https://www.heise.de/news/USA-Meta-wegen-App-Nutzung-durch-Kinder-erneut-vor-Gericht-11418803.html",
+      "image_title": "Fünf Kinder auf einem Fensterbrett, alle starren auf ihre Handys"
+    },
+    {
       "title": "Sichtbarkeit in Tech-Strukturen: Workshop-Nachmittag in Frankfurt",
       "teaser": "Wie Fachkompetenz in Tech-Organisationen sichtbar wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Kostenfrei, die Plätze werden verlost.",
       "url": "https://www.heise.de/news/Sichtbarkeit-in-Tech-Strukturen-Workshop-Nachmittag-in-Frankfurt-11417734.html"
@@ -375,6 +393,11 @@
       "image_title": "ESP32-Entwicklungsboard"
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "Appell vor Landtagswahlen: Transparenz schützt vor Desinformation",
       "teaser": "Versprochen und vorgegeben wird viel – was wird tatsächlich gemacht? Vor den kommenden Landtagswahlen mahnen Informationsfreiheitsbeauftragte Transparenz an.",
       "url": "https://www.heise.de/news/Appell-vor-Landtagswahlen-Transparenz-schuetzt-vor-Desinformation-11418612.html",
@@ -391,11 +414,6 @@
       "teaser": "Der finnische Fotograf Kasperi Kropsu macht aus Helsinkis Straßen poetische Bildwelten – mit Geduld, Farbe und einem feinen Blick.",
       "url": "https://www.heise.de/hintergrund/Portfolio-Kasperi-Kropsu-Streetfotografie-zwischen-Nostalgie-und-Alltag-11414103.html",
       "image_title": ", Alle Bilder: Kasperi Kropsu"
-    },
-    {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
     },
     {
       "title": "WLAN-Lautsprecher: Google Home Speaker mit Gemini for Home im Test",
@@ -438,24 +456,6 @@
       "image_title": "Zwei Hände führen die Oberseiten zweier Android-Smartphones werden aneinander"
     },
     {
-      "title": "Umfrage der Körber-Stiftung: Viele Eltern bei Fake-News und KI unsicher",
-      "teaser": "Mehr als jedes vierte Elternteil fühlt sich im Umgang mit Künstlicher Intelligenz unsicher. Viele wünschen sich zudem mehr Unterstützung bei der Medienbildung.",
-      "url": "https://www.heise.de/news/Umfrage-der-Koerber-Stiftung-Viele-Eltern-bei-Fake-News-und-KI-unsicher-11417712.html",
-      "image_title": "Eine Hand hält Karte mit \"Fake\" ins Bild, darunter steht \"Real?\""
-    },
-    {
-      "title": "Upcycling: Wie man einen DIY-Flaschenschneider selbst baut",
-      "teaser": "Böden von Glasflaschen sauber und kontrolliert abtrennen? Mit einem selbstgebauten Flaschenschneider gelingt der Anriss als Grundlage für einen präzisen Bruch.",
-      "url": "https://www.heise.de/ratgeber/Upcycling-Wie-man-einen-DIY-Flaschenschneider-selbst-baut-11369005.html",
-      "image_title": ","
-    },
-    {
-      "title": "Personalabteilung: Ein Siebtel der Firmen schreibt Arbeitszeugnisse mit KI",
-      "teaser": "Laut einer Umfrage sehen Unternehmen viel Potenzial für KI in der Personalarbeit, etwa bei Onboarding und Arbeitszeugnissen. Die Nutzung ist aber zögerlich.",
-      "url": "https://www.heise.de/news/Personalabteilung-Ein-Siebtel-der-Firmen-schreibt-Arbeitszeugnisse-mit-KI-11417670.html",
-      "image_title": "Eine Person tippt auf einem Laptop, während eine Roboterhand aus dem Bildschirm heraus einer menschlichen Hand entgegenreicht."
-    },
-    {
       "title": "GitHub stundenlang kaputt",
       "url": "https://www.heise.de/news/Github-stundenlang-gestoert-11416671.html",
       "image_title": "Github-Logo an Gebäudewand"
@@ -491,7 +491,7 @@
       "image_title": "Rückseiten des Samsung Galaxy S22 Plus und Ultra nebeneinander"
     },
     {
-      "title": "Weitere Sicherheitsupdates: iOS 26.6.1, macOS 26.6.2 und mehr veröffentlicht",
+      "title": "UpdateWeitere Sicherheitsupdates: iOS 26.6.1, macOS 26.6.2 und mehr veröffentlicht",
       "url": "https://www.heise.de/news/Und-wieder-Sicherheitsupdates-iOS-26-6-1-macOS-26-6-2-und-mehr-veroeffentlicht-11416727.html",
       "image_title": "Installation von iOS auf einem iPhone"
     },
@@ -633,9 +633,10 @@
       "url": "https://www.heise.de/tests/Fairphone-6-Nachhaltiges-Smartphone-mit-mehr-Power-11360743.html"
     },
     {
-      "title": "Kaufberatung Notebook & Tablet: Die richtige Wahl für Schule und Uni",
-      "teaser": "Vom E-Ink-Notizblock bis zum 700-Euro-MacBook: Was Schüler und Studierende wirklich brauchen und worauf sie getrost verzichten können.",
-      "url": "https://www.heise.de/ratgeber/Kaufberatung-Notebook-Tablet-Die-richtige-Wahl-fuer-Schule-und-Uni-11374238.html"
+      "title": "KommentarApple lässt sich die Speicherkrise vergolden",
+      "teaser": "Eins der reichsten Unternehmen erhöht die Preise und langt im Bildungsbereich richtig zu? Ziemlich rücksichtslos, findet Ulrike Kuhlmann.",
+      "url": "https://www.heise.de/meinung/Kommentar-Apple-laesst-sich-die-Speicherkrise-vergolden-11416597.html",
+      "image_title": "Apple-Gerüchte (Symbolbild)"
     },
     {
       "title": "Internet ohne Glasfaser: Tarife für DSL und TV-Kabel im Vergleich",
@@ -744,22 +745,22 @@
       "image_title": "Verschiedene LKW der Marken von Traton"
     },
     {
-      "title": "Kommt der KI-Blockzwang? Der digitale Kalte Krieg zwischen den USA und China",
-      "teaser": "Zwei Mächte, zwei Systeme – und kein Platz mehr für Neutrale. Der Kampf um die KI-Vorherrschaft spaltet die Welt. Wer zieht dabei den Kürzeren?",
-      "url": "https://www.telepolis.de/article/Kommt-der-KI-Blockzwang-Der-digitale-Kalte-Krieg-zwischen-den-USA-und-China-11415776.html",
-      "image_title": "US und China mit KI-Schriftzug symbolisiert"
+      "title": "Stromnetz-Renditen über 30 Prozent – warum der Umbau trotzdem stockt",
+      "teaser": "Netzbetreiber erzielen Renditen von 30 bis 45 Prozent – regulär vorgesehen sind 3 bis 7 Prozent. Eine VDE-Studie zeigt, wie der Umbau trotzdem gelingen kann.",
+      "url": "https://www.telepolis.de/article/Stromnetz-Renditen-ueber-30-Prozent-warum-der-Umbau-trotzdem-stockt-11415696.html",
+      "image_title": "Wabenstruktur mit Häusern, teils mit Solardach, Trafohäuschen und Transformator"
     },
     {
-      "title": "Neandertaler-Gen beeinflusst noch heute Muskeln und Gesichtsform",
-      "teaser": "Urzeitliches Erbe: Ein Neandertaler-Gen formt noch heute unseren Körperbau. Wer es trägt, ahnt meist nicht, was es sonst noch verändert.",
-      "url": "https://www.telepolis.de/article/Neandertaler-Gen-beeinflusst-noch-heute-Muskeln-und-Gesichtsform-11417428.html",
-      "image_title": "Ein Mensch steht in einer Höhle"
+      "title": "Dead Pool am Colorado River: Wenn die Stauseen keinen Strom mehr liefern",
+      "teaser": "Der Colorado versorgt 40 Millionen Menschen mit Wasser und fünf Mio. Haushalte mit Strom. Doch die seit 20 Jahren anhaltende Dürre zwingt zum Wasser sparen.",
+      "url": "https://www.telepolis.de/article/Dead-Pool-am-Colorado-River-Wenn-die-Stauseen-keinen-Strom-mehr-liefern-11415087.html",
+      "image_title": "Stausee in karger Berglandschaft mit Dükern, die erkennen lassen, dass der Wasserstand viel zu niedrig ist."
     },
     {
-      "title": "Frankreich erlaubt Sterbehilfe: Wie frei ist die Entscheidung für den Tod?",
-      "teaser": "Frankreich erlaubt Hilfe zum Sterben. Doch ausgerechnet bei den Schutzvorkehrungen weicht das Gesetz von früheren ethischen Leitplanken ab.",
-      "url": "https://www.telepolis.de/article/Frankreich-erlaubt-Sterbehilfe-Wie-frei-ist-die-Entscheidung-fuer-den-Tod-11417536.html",
-      "image_title": "Friedhof Cimetière marin in Sète"
+      "title": "Hitzeschutz-Streit: Hans Jonas wusste schon 1979, was hier schiefläuft",
+      "teaser": "In Pflegeheimen herrschen bis zu 45 Grad. Der Bund darf nicht helfen, die Kommunen können nicht. Hans Jonas' Prinzip Verantwortung zeigt, warum. Ein Kommentar.",
+      "url": "https://www.telepolis.de/article/Hitzeschutz-Streit-Hans-Jonas-wusste-schon-1979-was-hier-schieflaeuft-11415972.html",
+      "image_title": "Close,Up,Image,Woman,Puts,Head,On,Sofa,Cushions,Closed"
     },
     {
       "title": "Digitaler Euro: EZB verspricht Datenschutz – Experten üben Kritik",
