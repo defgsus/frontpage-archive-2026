@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T10:16:57",
+  "timestamp": "2026-08-20T11:14:44",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Thunderbird steigt auf zweiwöchentlichen Veröffentlichungs-Zyklus um",
+      "title": "Blick ins Heft c’t 18/2026: KI bringt IT-Security ins Schleudern",
+      "teaser": "KI stellt die IT-Security vor enorme Herausforderungen. Dazu: Balkonkraftwerke mit Speicher im Test und die Highlights der IFA 2026.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-18-2026-KI-bringt-IT-Security-ins-Schleudern-11420507.html",
+      "image_title": "Titelbild des c't Magazins mit dem Thema \"Desinfec't 2026\" und einer Illustration von Viren, die von einem Staubsauger angegriffen werden."
+    },
+    {
+      "title": "Android 17: Google führt strengere Speicherlimits für Apps ein",
+      "teaser": "Google reagiert auf teuren Arbeitsspeicher: Mit Android 17 werden strengere Speicherlimits für Apps eingeführt, um Leistung und Stabilität zu verbessern.",
+      "url": "https://www.heise.de/news/Android-17-Google-fuehrt-strengere-Speicherlimits-fuer-Apps-ein-11420416.html",
+      "image_title": "Android-Smartphone."
+    },
+    {
+      "title": "Thunderbird folgt Firefox und veröffentlicht alle zwei Wochen",
       "teaser": "Der quelloffene Mail-Client Thunderbird folgt Firefox und stellt seinen Veröffentlichungszyklus auf einen Zweiwochen-Rhythmus um.",
       "url": "https://www.heise.de/news/Thunderbird-steigt-auf-zweiwoechentlichen-Veroeffentlichungs-Zyklus-um-11420390.html",
       "image_title": "Thunderbird-Logo"
@@ -29,18 +41,6 @@
       "title": "September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
       "teaser": "Die Eintageskonferenz für Sicherheitsverantwortliche mit praxisrelevantem Wissen zu aktuellen Herausforderungen der IT-Sicherheit. Jetzt noch als Frühbucher.",
       "url": "https://www.heise.de/news/September-Termin-heise-security-Tour-mit-Vortraegen-zu-KI-Lieferketten-und-mehr-11415876.html"
-    },
-    {
-      "title": "AlertCitrix stopft kritische Anmeldungsumgehung in Netscaler ADC und Gateway",
-      "teaser": "In Netscaler ADC und Gateway von Citrix können Angreifer mehrere Lücken missbrauchen. Sie können etwa unbefugt Zugriff erlangen.",
-      "url": "https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "AlertAngriffsversuche auf GitLab-Lücke beobachtet",
-      "teaser": "Attacken auf eine jüngst außerplanmäßig geschlossene Lücke in GitLab wurden beobachtet. Angreifer können etwa Projekte löschen.",
-      "url": "https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html",
-      "image_title": "Mann tippt auf Warnsymbol"
     },
     {
       "title": "TestsBillig-Duell: Mini-PC aus China vs. Selbstbau-Rechner",
@@ -56,6 +56,18 @@
       "title": "TestsRetro-Revival: SNES-Module am Mac per Adapter im Test",
       "url": "https://www.heise.de/tests/Retro-Revival-SNES-Module-am-Mac-per-Adapter-im-Test-11404492.html",
       "image_title": "SN Operator von Epilogue"
+    },
+    {
+      "title": "AlertCitrix: Kritische Lücke erlaubt Umgehung der Authentifizierung",
+      "teaser": "In Netscaler ADC und Gateway von Citrix können Angreifer mehrere Lücken missbrauchen. Sie können etwa unbefugt Zugriff erlangen.",
+      "url": "https://www.heise.de/news/Citrix-stopft-kritische-Anmeldungsumgehung-in-Netscaler-ADC-und-Gateway-11420304.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
+      "title": "AlertAngriffsversuche auf GitLab-Lücke beobachtet",
+      "teaser": "Attacken auf eine jüngst außerplanmäßig geschlossene Lücke in GitLab wurden beobachtet. Angreifer können etwa Projekte löschen.",
+      "url": "https://www.heise.de/news/Angriffsversuche-auf-GitLab-Luecke-beobachtet-11420240.html",
+      "image_title": "Mann tippt auf Warnsymbol"
     },
     {
       "title": "KI: Warum kollaborative Modellierung wichtiger wird als Programmieren",
@@ -130,18 +142,6 @@
       "title": "Insektenstichheiler Himmelshauch IBR600 im Test: Kompakt wie ein Lippenstift",
       "teaser": "Der Himmelshauch IBR600 ist ein besonders kleiner Stichheiler mit USB-C und Akku für 20 Euro. Ob der Winzling überzeugt, klären wir hier im Test.",
       "url": "https://www.heise.de/bestenlisten/testbericht/insektenstichheiler-himmelshauch-ibr600-im-test-kompakt-wie-ein-lippenstift/ljhvd5p?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Privacy Gateway: Filter entfernt sensible Daten, bevor sie ChatGPT erreichen",
-      "teaser": "Einzelne Informationen können Rückschlüsse auf Personen zulassen. Das stellt besonders für Firmen ein Risiko dar. Eine neue Lösung soll das Problem beheben.",
-      "url": "https://www.heise.de/news/Privacy-Gateway-Filter-entfernt-sensible-Daten-bevor-sie-ChatGPT-erreichen-11419501.html",
-      "image_title": "Eine Person hält ein mobiles Endgerät, über das ein Achtung-Zeichen retouchiert ist, in ihrer rechten Hand, während sie ihre linke Hand abweisend in die Kamera hält."
-    },
-    {
-      "title": "Drei Fragen und Antworten: Mehr Effizienz und Speed mit dem neuen Docker-VMM",
-      "teaser": "Die Entwicklung der neuen Virtualisierungsschicht Virtual Machine Manager hat Docker selbst in die Hand genommen. Das hat Vorteile, meint Colin Hemmings.",
-      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Mehr-Effizienz-und-Speed-mit-dem-neuen-Docker-VMM-11419371.html",
-      "image_title": "Ein roter Spielzeugroboter mit Sprechblase"
     },
     {
       "title": "NewsWeitere Nvidia-Prozessoren in russischem Marschflugkörper entdeckt",
