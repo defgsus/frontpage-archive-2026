@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T11:14:30",
+  "timestamp": "2026-08-21T12:19:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,43 @@
   ],
   "articles": [
     {
-      "title": "ENUM-Domains gekapert: Wie eine Hackerin beinahe militärische Telefonate abhörte",
-      "teaser": "Einige Inselnationen hatten geschlampt und ihre Telefonie angreifbar gemacht. Die Sicherheitsbehörden reagierten erst spät und nach einem Raketenangriff.",
+      "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
+      "teaser": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11404582.html",
+      "image_title": "stilisierte Roboter stehen an einem Fließband und schweißen Teile zusammen; links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
+    },
+    {
+      "title": "Justizcloud: Erste Bundesländer am Justiznetz angeschlossen",
+      "teaser": "Baden-Württemberg und Niedersachsen sind als erste Bundesländer an das bundesweite Justiznetz angeschlossen. Das Projekt soll die Justiz-IT vereinheitlichen.",
+      "url": "https://www.heise.de/news/Justizcloud-Erste-Bundeslaender-am-Justiznetz-angeschlossen-11422131.html",
+      "image_title": "Waage, auf die ein Finger zeigt, umgeben von Justiz-Symbolen."
+    },
+    {
+      "title": "Drei Fragen und Antworten: Wie man Zero Trust mit Minimalansatz einführt",
+      "teaser": "Weniger kann auch in der IT-Sicherheit mehr sein: Wie man mit Minimum Viable Zero Trust in 90 Tagen ans Ziel kommt.",
+      "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-man-Zero-Trust-mit-Minimalansatz-einfuehrt-11421929.html",
+      "image_title": "Ein Roboter"
+    },
+    {
+      "title": "Beinahe militärische Telefonate abgehörtDeutsche Hackerin kaperte ENUM-Domains",
+      "teaser": "Einige Inselnationen hatten geschlampt und ihre Telefonie angreifbar gemacht. Behörden reagierten nach einem Raketenangriff.",
       "url": "https://www.heise.de/hintergrund/ENUM-Domains-gekapert-Wie-eine-Hackerin-beinahe-militaerische-Telefonate-abhoerte-11420818.html",
       "image_title": "Aerial,Photo,Of,Diego,Garcia"
+    },
+    {
+      "title": "HintergrundEVPN und VXLAN für effizientere Skalierung von Rechenzentren",
+      "url": "https://www.heise.de/hintergrund/EVPN-und-VXLAN-fuer-effizientere-Skalierung-von-Rechenzentren-11395385.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "TestsSmarte Rollladensteuerung: Rademachers neuer Gurtwickler im Test",
+      "url": "https://www.heise.de/tests/Smarte-Rollladensteuerung-Rademachers-neuer-Gurtwickler-im-Test-11370920.html",
+      "image_title": "Ein weißer Gurtwickler mit Zubehörteilen und einer schwarzen Halterung auf blauem Hintergrund."
+    },
+    {
+      "title": "HintergrundSpiele-Engines: Wann es sich lohnt, eine eigene Engine zu entwickeln",
+      "url": "https://www.heise.de/hintergrund/Spiele-Engines-Wann-es-sich-lohnt-eine-eigene-Engine-zu-entwickeln-11301352.html",
+      "image_title": "Eine 3D-Darstellung von Spielelementen wie Drachen, Türmen und Rittern auf einer Leiterplatte."
     },
     {
       "title": "Google führt neue Personalisierungsfunktionen für Suche und News ein",
@@ -42,21 +75,6 @@
       "teaser": "Eine kritische Sicherheitslücke im WordPress-Plug-in Elementor Pro ermöglicht die komplette Übernahme von WordPress.",
       "url": "https://www.heise.de/news/Luecke-in-WordPress-Plug-in-Elementor-Pro-6-Millionen-Webseiten-gefaehrdet-11421805.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "HintergrundEVPN und VXLAN für effizientere Skalierung von Rechenzentren",
-      "url": "https://www.heise.de/hintergrund/EVPN-und-VXLAN-fuer-effizientere-Skalierung-von-Rechenzentren-11395385.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "TestsSmarte Rollladensteuerung: Rademachers neuer Gurtwickler im Test",
-      "url": "https://www.heise.de/tests/Smarte-Rollladensteuerung-Rademachers-neuer-Gurtwickler-im-Test-11370920.html",
-      "image_title": "Ein weißer Gurtwickler mit Zubehörteilen und einer schwarzen Halterung auf blauem Hintergrund."
-    },
-    {
-      "title": "HintergrundSpiele-Engines: Wann es sich lohnt, eine eigene Engine zu entwickeln",
-      "url": "https://www.heise.de/hintergrund/Spiele-Engines-Wann-es-sich-lohnt-eine-eigene-Engine-zu-entwickeln-11301352.html",
-      "image_title": "Eine 3D-Darstellung von Spielelementen wie Drachen, Türmen und Rittern auf einer Leiterplatte."
     },
     {
       "title": "China testet Robo-Verkehrspolizisten im Straßenverkehr",
@@ -126,23 +144,6 @@
       "teaser": "Die Klasse JsonElement bietet nun die Methode GetPropertyCount() zum Zählen der Attributwerte.",
       "url": "https://www.heise.de/blog/Neu-in-NET-10-0-37-GetPropertyCount-in-der-Klasse-JsonElement-11420004.html",
       "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "AlertZimbra: Warnung vor Angriffen auf Befehlsschmuggel-Lücke",
-      "teaser": "Das polnische CERT warnt vor Angriffen auf eine Befehlsschmuggel-Lücke in der Zimbra Collaboration Suite. Ein Update ist verfügbar.",
-      "url": "https://www.heise.de/news/Zimbra-Warnung-vor-Angriffen-auf-Befehlsschmuggel-Luecke-11421424.html"
-    },
-    {
-      "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
-      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
-      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-der-fundierte-Einstieg-in-IAM-und-SSO-11404578.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "Cyberangriff in Berlin: Behörden weiterhin offline",
-      "teaser": "Zwei Senatsverwaltungen sind nach einem Cyberangriff vom Landesnetz isoliert. Das hat auch Auswirkungen auf die Auszahlung von Wohngeld.",
-      "url": "https://www.heise.de/news/Berliner-Verwaltungen-nach-Cyberangriff-weiter-vom-Netz-getrennt-11421320.html",
-      "image_title": "Netzwerkkabel"
     },
     {
       "title": "NewsStarship nach über drei Wochen im Indischen Ozean geborgen",
