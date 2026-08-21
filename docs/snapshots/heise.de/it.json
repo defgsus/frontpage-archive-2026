@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-21T08:23:41",
+  "timestamp": "2026-08-21T09:22:54",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "l+f: Wörterbuchverlag mit Humor",
+      "title": "Wasserzeichen für Anthropics Claude: Coder entwickelt Tool zum Entfernen",
+      "teaser": "Mit einem unsichtbaren Wasserzeichen kennzeichnet Anthropic jetzt KI-generierte Inhalte von Claude. Ein Coder hat einen Weg gefunden, es wieder zu entfernen.",
+      "url": "https://www.heise.de/news/Wasserzeichen-fuer-KI-Claude-Coder-entwickelt-Tool-zum-Entfernen-11421600.html",
+      "image_title": "Anthropic steht auf einem Smartphone, im HIntergrund Claude."
+    },
+    {
+      "title": "Integrierte Grafik von AMD, Intel & Co: Nur Notnagel oder voll spieletauglich?",
+      "teaser": "Qualcomms Adreno X2-90, Intels Arc B390 und AMDs Radeon 8060S sind die schnellsten integrierten Grafikeinheiten. Ersetzen sie dedizierte Grafikkarten für Gamer?",
+      "url": "https://www.heise.de/tests/Integrierte-Grafik-von-AMD-Intel-Co-Nur-Notnagel-oder-voll-spieletauglich-11174717.html",
+      "image_title": "Ein Mann spielt ein Videospiel auf einem Laptop mit Windows 11."
+    },
+    {
+      "title": "l+fWörterbuchverlag mit Humor",
       "teaser": "Der Wörterbuchverlag Merriam-Webster beweist mit einem Beitrag auf X Humor.",
       "url": "https://www.heise.de/news/l-f-Woerterbuchverlag-mit-Humor-11421548.html",
       "image_title": "Merriam-Webster-Beitrag auf X"
@@ -30,17 +42,6 @@
       "teaser": "Ähnlich wie Gemini, ChatGPT oder Claude will Meta mit seinen KI-Modellen auf Apple-Rechner. OpenAI wiederum beginnt auf dem Mac über iMessage zu chatten.",
       "url": "https://www.heise.de/news/KI-Apps-fuer-den-Mac-ChatGPT-verschickt-iMessages-Meta-AI-liest-Bildschirm-11420644.html",
       "image_title": "Meta AI kommt auf den Mac"
-    },
-    {
-      "title": "AlertAtlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
-      "teaser": "Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen.",
-      "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
-      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
-    },
-    {
-      "title": "Ihr Weg zum Apple-Support-Profi – auch in Vorbereitung auf das Apple-Zertifikat",
-      "teaser": "Lernen Sie von einem Apple Certified Trainer, was Sie für den Support von iPhone, iPad und Mac wissen müssen.",
-      "url": "https://www.heise.de/news/Ihr-Weg-zum-Apple-Support-Profi-auch-in-Vorbereitung-auf-das-Apple-Zertifikat-11420102.html"
     },
     {
       "title": "HintergrundEVPN und VXLAN für effizientere Skalierung von Rechenzentren",
@@ -56,6 +57,22 @@
       "title": "HintergrundSpiele-Engines: Wann es sich lohnt, eine eigene Engine zu entwickeln",
       "url": "https://www.heise.de/hintergrund/Spiele-Engines-Wann-es-sich-lohnt-eine-eigene-Engine-zu-entwickeln-11301352.html",
       "image_title": "Eine 3D-Darstellung von Spielelementen wie Drachen, Türmen und Rittern auf einer Leiterplatte."
+    },
+    {
+      "title": "Oppo Reno 16 Pro 5G im Test: Kleines Smartphone mit Top-Kamera und großem Akku",
+      "teaser": "Klein aber oho: Das Oppo Reno 16 Pro 5G bietet starke Hardware im kompakten Format: 144-Hz-AMOLED, 200-MP-Kamera und 6000-mAh-Akku.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/oppo-reno-16-pro-5g-im-test-kleines-smartphone-mit-top-kamera-und-grossem-akku/rj9twv2?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "AlertAtlassian schließt mehr als 160 Sicherheitslücken in Confluence & Co.",
+      "teaser": "Angreifer können unter anderem an kritischen Schadcode-Schwachstellen in Softwareprodukten von Atlassian ansetzen.",
+      "url": "https://www.heise.de/news/Atlassian-schliesst-mehr-als-160-Sicherheitsluecken-in-Confluence-Co-11421486.html",
+      "image_title": "Eine Frau drück einen symbolischen Updateknopf."
+    },
+    {
+      "title": "Ihr Weg zum Apple-Support-Profi – auch in Vorbereitung auf das Apple-Zertifikat",
+      "teaser": "Lernen Sie von einem Apple Certified Trainer, was Sie für den Support von iPhone, iPad und Mac wissen müssen.",
+      "url": "https://www.heise.de/news/Ihr-Weg-zum-Apple-Support-Profi-auch-in-Vorbereitung-auf-das-Apple-Zertifikat-11420102.html"
     },
     {
       "title": "Neu in .NET 10.0 [37]: GetPropertyCount() in der Klasse JsonElement",
@@ -123,24 +140,6 @@
       "title": "Firefox 154: Private Suche mit Startpage jetzt direkt eingebaut",
       "teaser": "Firefox 154 ist da: Startpage kommt als Suchoption, WebSockets brauchen im lokalen Netz nun Erlaubnis, und Profil-Backups laufen jetzt auch unter macOS.",
       "url": "https://www.heise.de/news/Firefox-154-Private-Suche-mit-Startpage-jetzt-direkt-eingebaut-11420734.html"
-    },
-    {
-      "title": "Microsoft behebt Sicherheitslücke: KI-Assistent Copilot verrät Schwachstellen",
-      "teaser": "Sicherheitsforscher haben Microsofts KI-Assistenten dazu gebracht, seine eigenen Schutzmechanismen offenzulegen.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Microsoft-365-Copilot-KI-verraet-eigene-Schutzmechanismen-11420618.html",
-      "image_title": "Neu York, USA - 19. Juli 2024: Tipp-Anfrage in Microsoft Copilot AI App auf offizieller Website-Großansicht"
-    },
-    {
-      "title": "iX-Workshop: Backstage für Admins – IDP im Unternehmen aufbauen und betreiben",
-      "teaser": "Erfahren Sie, wie Sie mit Backstage eine umfassende Internal Developer Platform in Ihrem Unternehmen bereitstellen und effizient verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Backstage-fuer-Admins-IDP-im-Unternehmen-aufbauen-und-betreiben-11404574.html",
-      "image_title": "iX-Workshop: Backstage für Admins: Internal Developer Platform aufbauen, konfigurieren und betreiben"
-    },
-    {
-      "title": "Carlsen vs. OpenAI: ChatGPT erstellt ganze Druckvorlagen für „NEINhorn“-Plagiate",
-      "teaser": "Auf Anfrage kann ChatGPT komplett neue Buchtitel zum „NEINhorn“ erstellen, inklusive falscher ISBN. Deshalb zieht der Carlsen Verlag gegen OpenAI vor Gericht.",
-      "url": "https://www.heise.de/news/Rechtsverletzende-Kopien-vom-NEINhorn-Carlsen-klagt-gegen-OpenAI-11420543.html",
-      "image_title": "Zwei sich sehr ähnelnde Buch-Cover, eins ist echt, eins nicht"
     },
     {
       "title": "NewsStarship nach über drei Wochen im Indischen Ozean geborgen",
