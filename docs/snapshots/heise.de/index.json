@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T08:14:30",
+  "timestamp": "2026-08-22T09:15:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "Altersvorsorge für Kinder: Die Frühstartrente erklärt",
+      "url": "https://www.heise.de/ratgeber/Altersvorsorge-fuer-Kinder-Die-Fruehstartrente-erklaert-11187303.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
     {
       "title": "Doom auf der DSLR und Parrs Vermächtnis – die Fotonews der Woche KW 34",
       "url": "https://www.heise.de/news/Doom-auf-der-DSLR-und-Parrs-Vermaechtnis-die-Fotonews-der-Woche-KW-34-11422055.html"
@@ -60,12 +66,6 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-city-e-bike-im-test-das-perfekte-pedelec-fuer-die-stadt/syrrc15?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
-      "title": "Spiele dauerhaft besitzen und bewahren: Physisch und digital ohne DRM",
-      "url": "https://www.heise.de/ratgeber/Spiele-dauerhaft-besitzen-und-bewahren-Physisch-und-digital-ohne-DRM-11403442.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
       "title": "Beinahe militärische Telefonate abgehörtDeutsche Hackerin kaperte ENUM-Domains",
       "teaser": "Einige Inselnationen hatten geschlampt und ihre Telefonie angreifbar gemacht. Behörden reagierten nach einem Raketenangriff.",
       "url": "https://www.heise.de/hintergrund/ENUM-Domains-gekapert-Wie-eine-Hackerin-beinahe-militaerische-Telefonate-abhoerte-11420818.html",
@@ -90,16 +90,16 @@
       "image_title": "Zwei Google Pixel Smartphones liegen übereinander, eines mit Kamera-Array."
     },
     {
+      "title": "Urteil gegen BayernSieg für Geodaten-Aktivist lässt Fragen offen",
+      "teaser": "Bayern scheitert vor Gericht mit einer Klage gegen Aktivist Markus Drenger. Doch grundlegende Aspekte von Open Data bleiben ungeklärt.",
+      "url": "https://www.heise.de/news/Urteil-gegen-Bayern-Sieg-fuer-Geodaten-Aktivist-laesst-Fragen-offen-11422625.html",
+      "image_title": "Justitia"
+    },
+    {
       "title": "KI-BlaseExpertengruppe der EZB warnt vor den Folgen eines Kursrutsches",
       "teaser": "Immense Erwartungen an KI treiben die Aktienkurse. EZB-Forscherinnen und -Forscher warnen vor einer Kurskorrektur.",
       "url": "https://www.heise.de/news/KI-Blase-Expertengruppe-der-EZB-warnt-vor-den-Folgen-eines-Kursrutsches-11421468.html",
       "image_title": "Rote Kurven und Zahlen auf einem Monitor"
-    },
-    {
-      "title": "WartungsvertragBahn sichert sich ICE-1-Updates bis Ende 2038",
-      "teaser": "Die Züge der Baureihe 401 sollen noch bis 2040 fahren. Daher hat sich die Deutsche Bahn jetzt Softwareupdates gesichert.",
-      "url": "https://www.heise.de/news/Wartungsvertrag-bis-2038-Deutsche-Bahn-bestellt-Softwareupdates-fuer-den-ICE-1-11421773.html",
-      "image_title": "Ein ICE 1 fährt bei Bülzig in Sachsen-Anhalt"
     },
     {
       "title": "Pedelec für die StadtTop 10: Das beste City-E-Bike im Test",
@@ -159,10 +159,10 @@
       "image_title": "Merriam-Webster-Beitrag auf X"
     },
     {
-      "title": "Carlsen klagt gegen OpenAIChatGPT erstellt ganze Druckvorlagen für „NEINhorn“-Plagiate",
-      "teaser": "Auf Anfrage kann ChatGPT komplett neue Buchtitel zum „NEINhorn“ erstellen, inklusive falscher ISBN. Deshalb zieht Carlsen vor Gericht.",
-      "url": "https://www.heise.de/news/Rechtsverletzende-Kopien-vom-NEINhorn-Carlsen-klagt-gegen-OpenAI-11420543.html",
-      "image_title": "Zwei sich sehr ähnelnde Buch-Cover, eins ist echt, eins nicht"
+      "title": "WartungsvertragBahn sichert sich ICE-1-Updates bis Ende 2038",
+      "teaser": "Die Züge der Baureihe 401 sollen noch bis 2040 fahren. Daher hat sich die Deutsche Bahn jetzt Softwareupdates gesichert.",
+      "url": "https://www.heise.de/news/Wartungsvertrag-bis-2038-Deutsche-Bahn-bestellt-Softwareupdates-fuer-den-ICE-1-11421773.html",
+      "image_title": "Ein ICE 1 fährt bei Bülzig in Sachsen-Anhalt"
     },
     {
       "title": "KI-Tools ausreizenEinführung in Claude",
@@ -171,16 +171,16 @@
       "image_title": "Ein Mann sitzt am Schreibtisch vor einem Computer, neben ihm schwebt ein Geist mit Klemmbrett."
     },
     {
-      "title": "Winziges Funkmodul ES4L15MA1Bluetooth LE, Matter und Zigbee auf 28 mm²",
-      "teaser": "Das ES4L15MA1 ist 8,55 mm × 3,25 mm winzig, inklusive integrierter Antenne. Es funkt per Bluetooth LE und 2,4 GHz.",
-      "url": "https://www.heise.de/news/Kaga-Fei-Bluetooth-LE-Modul-kleiner-als-ein-Fingernagel-11421777.html",
-      "image_title": "Zwei Funkmodule neben einen Lineal"
+      "title": "c’t uplinkDer Speicherkrise entkommen durch gebrauchte Rechner",
+      "teaser": "SSDs und RAM werden vermutlich auf Jahre teuer bleiben – was Gebrauchtrechner interessant macht. Der Podcast geht ausführlich auf Risiken und Chancen ein.",
+      "url": "https://www.heise.de/news/Der-Speicherkrise-entkommen-durch-gebrauchte-Notebooks-und-PCs-c-t-uplink-11421240.html",
+      "image_title": "YouTube-Thumbnail zum Uplink"
     },
     {
-      "title": "Zehn Jahre HaftBankräuber hat ChatGPT vorab um Tipps gebeten",
-      "teaser": "Nach einem Bankraub in den USA ist der Täter zu einer langen Haftstrafe verurteilt worden. Er hatte vorher ChatGPT um Tipps gebeten.",
-      "url": "https://www.heise.de/news/Zehn-Jahre-Haft-nach-Bankraub-Taeter-hat-ChatGPT-vorab-um-Tipps-gebeten-11421306.html",
-      "image_title": "ChatGPT-Logo auf einem Smartphone"
+      "title": "#TGIQFDas Quiz rund um den Kultfilm Top Gun",
+      "teaser": "„Top Gun – Sie fürchten weder Tod noch Teufel“ ist vor 40 Jahren erstmals in bundesdeutschen Kinos gelaufen. Daher fliegt heute: das Quiz. Knobeln Sie mit!",
+      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-den-Kultfilm-Top-Gun-11330339.html",
+      "image_title": "Aufmacherbild"
     },
     {
       "title": "Susan Kares Design-GeschichteVom Millimeterpapier zum Mac-Icon",
@@ -189,21 +189,27 @@
       "image_title": "CMD-Taste des Macs"
     },
     {
+      "title": "Altersvorsorge für Kinder: Die Frühstartrente erklärt",
+      "teaser": "Die Frühstartrente soll schon bei Grundschülern den Grundstein für die Altersvorsorge legen. Wir erklären, wie das Depot mit staatlichem Zuschuss funktioniert.",
+      "url": "https://www.heise.de/ratgeber/Altersvorsorge-fuer-Kinder-Die-Fruehstartrente-erklaert-11187303.html",
+      "image_title": "Ein Kind erhält Zuschüsse zur Rente vom Staat"
+    },
+    {
       "title": "Doom auf der DSLR und Parrs Vermächtnis – die Fotonews der Woche KW 34",
       "teaser": "Von Kameras, die Ballerspiele rendern, über Ehrungen für Fotolegende Martin Parr bis zu Quartalszahlen der großen Hersteller.",
       "url": "https://www.heise.de/news/Doom-auf-der-DSLR-und-Parrs-Vermaechtnis-die-Fotonews-der-Woche-KW-34-11422055.html",
       "image_title": "Doom auf einem Kamera-Display"
     },
     {
+      "title": "Infrastruktur in der KI-Ära: Netz rückt in die erste Reihe",
+      "teaser": "Welche Infrastruktur brauchen Unternehmen, damit KI im Betrieb sicher Wirkung entfaltet? Das Netzwerk rückt hierbei aus dem Hintergrund in die erste Reihe der unternehmerischen Wertschöpfung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7335847810&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "iX-Workshop: Microsoft 365 Copilot für IT-Administratoren",
       "teaser": "Lernen Sie, wie Sie Microsoft 365 Copilot sicher und datenschutzkonform implementieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-Copilot-fuer-IT-Administratoren-11404588.html",
       "image_title": "Microsoft 365 Copilot für IT-Administratoren"
-    },
-    {
-      "title": "BSI-Vorgaben für Cloud-Souveränität",
-      "teaser": "„Ist Ihre Lösung souverän?“ Oft ist die Antwort darauf schlicht „Sovereign-Washing“: Das Etikett stimmt, der Inhalt nicht. Lauf BSI muss man künftig aber zeigen, was mit „souverän“ gemeint ist.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7397581139&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
@@ -233,12 +239,6 @@
       "title": "Home Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
       "teaser": "Hilfe, mein Smart Home wächst mir über den Kopf! Wie ich als Anfänger mit Home Assistant versuche, wieder Ordnung in meine smarten Gadgets zu bringen.",
       "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html"
-    },
-    {
-      "title": "Der Speicherkrise entkommen durch gebrauchte Notebooks und PCs | c’t uplink",
-      "teaser": "SSDs und RAM werden vermutlich auf Jahre teuer bleiben – was Gebrauchtrechner interessant macht. Der Podcast geht ausführlich auf Risiken und Chancen ein.",
-      "url": "https://www.heise.de/news/Der-Speicherkrise-entkommen-durch-gebrauchte-Notebooks-und-PCs-c-t-uplink-11421240.html",
-      "image_title": "YouTube-Thumbnail zum Uplink"
     },
     {
       "title": "E-MobilitätElektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
@@ -327,12 +327,6 @@
       "url": "https://www.heise.de/ratgeber/Spiele-dauerhaft-besitzen-und-bewahren-Physisch-und-digital-ohne-DRM-11403442.html"
     },
     {
-      "title": "Urteil gegen Bayern: Sieg für Geodaten-Aktivist lässt Fragen offen",
-      "teaser": "Der Freistaat Bayern scheitert vor Gericht mit einer Klage gegen den Aktivisten Markus Drenger. Doch grundlegende Aspekte von Open Data bleiben dabei ungeklärt.",
-      "url": "https://www.heise.de/news/Urteil-gegen-Bayern-Sieg-fuer-Geodaten-Aktivist-laesst-Fragen-offen-11422625.html",
-      "image_title": "Justitia"
-    },
-    {
       "title": "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA",
       "teaser": "Ein richtungsweisendes Urteil verpflichtet Online-Plattformen zu echter Transparenz bei Empfehlungs-Systemen und Hürdenfreiheit bei Klagen über illegale Ware.",
       "url": "https://www.heise.de/news/Oberlandesgericht-bremst-Amazon-Meldebutton-und-Algorithmen-verstossen-gegen-DSA-11422576.html",
@@ -398,15 +392,15 @@
       "image_title": "Samsung-Schriftzug an einem Bürogebäude"
     },
     {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
-    },
-    {
       "title": "iX-Workshop: Make.com und n8n – Geschäftsprozesse mit KI-Agenten automatisieren",
       "teaser": "Lernen Sie, wie Sie mit Make.com und n8n intelligente KI-Agenten für die Automatisierung Ihrer Geschäftsprozesse einsetzen, ohne selbst zu programmieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Make-com-und-n8n-Geschaeftsprozesse-mit-KI-Agenten-automatisieren-11404582.html",
       "image_title": "stilisierte Roboter stehen an einem Fließband und schweißen Teile zusammen; links oben ein gelber Kreis mit weißer Schrift \"iX-Workshop\""
+    },
+    {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
     },
     {
       "title": "Justizcloud: Erste Bundesländer am Justiznetz angeschlossen",
@@ -419,12 +413,6 @@
       "teaser": "Marked 3 vom Entwickler Brett Trepstra vereint Markdown-Vorschau, Lektorat und vielseitigen Export. Wir haben die App am Mac getestet.",
       "url": "https://www.heise.de/tests/Markdown-Werkzeugkasten-Marked-3-fuer-macOS-im-Test-11404538.html",
       "image_title": "Marked auf dem Mac"
-    },
-    {
-      "title": "#TGIQF: Das Quiz rund um den Kultfilm Top Gun",
-      "teaser": "„Top Gun – Sie fürchten weder Tod noch Teufel“ ist vor 40 Jahren erstmals in bundesdeutschen Kinos gelaufen. Daher fliegt heute: das Quiz. Knobeln Sie mit!",
-      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-den-Kultfilm-Top-Gun-11330339.html",
-      "image_title": "Aufmacherbild"
     },
     {
       "title": "Drei Fragen und Antworten: Wie man Zero Trust mit Minimalansatz einführt",
@@ -462,6 +450,22 @@
       "image_title": "Breite, von Bäumen gesäumte Straße in Hangzhou mit mehreren Hochhäusern und einem markanten Gebäude mit großer Öffnung in der Fassade."
     },
     {
+      "title": "Statt Wearables: Google-Forscher messen Körperfett anhand von Smartphone-Fotos",
+      "teaser": "Google zeigt mit Photoscan AI, dass künftig einfache 2D-Bilder ausreichen, um die genaue Verteilung des Fettanteils im Körper darzustellen.",
+      "url": "https://www.heise.de/news/Statt-Wearables-Google-Forscher-messen-Koerperfett-anhand-von-Smartphone-Fotos-11421686.html",
+      "image_title": "Durchleuchtetes Bild von einem Menschen"
+    },
+    {
+      "title": "M365 Copilot im Unternehmen – Agents mit Copilot Studio und Foundry entwickeln",
+      "teaser": "M365 Copilot ist mehr als ein KI-Assistent in Office. Agents lassen sich produktiv entwickeln und mit Copilot Studio und Foundry unternehmensweit skalieren.",
+      "url": "https://www.heise.de/news/M365-Copilot-im-Unternehmen-Agents-mit-Copilot-Studio-und-Foundry-entwickeln-11420032.html"
+    },
+    {
+      "title": "Carlsen vs. OpenAI: ChatGPT erstellt ganze Druckvorlagen für „NEINhorn“-Plagiate",
+      "url": "https://www.heise.de/news/Rechtsverletzende-Kopien-vom-NEINhorn-Carlsen-klagt-gegen-OpenAI-11420543.html",
+      "image_title": "Zwei sich sehr ähnelnde Buch-Cover, eins ist echt, eins nicht"
+    },
+    {
       "title": "Flugbegleiter gehen gegen Verkauf von Daten insolventer Fluglinie an Google vor",
       "url": "https://www.heise.de/news/Flugbegleiter-gehen-gegen-Verkauf-von-Daten-insolventer-Fluglinie-an-Google-vor-11419881.html",
       "image_title": "Flugzeug mit der Aufschrift Spirit"
@@ -470,10 +474,6 @@
       "title": "Windows-Updates: Microsoft untersucht Spieleprobleme",
       "url": "https://www.heise.de/news/Microsoft-untersucht-Spieleprobleme-nach-August-Patchday-11419963.html",
       "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
-    },
-    {
-      "title": "#heiseshow: Fritzhole, ChatGPT für Teens, Wero",
-      "url": "https://www.heise.de/news/heiseshow-Fritzhole-ChatGPT-fuer-Teens-Wero-11419667.html"
     },
     {
       "title": "Rettungsmission gescheitert: NASA-Weltraumteleskop Swift wird abstürzen",
@@ -516,9 +516,8 @@
       "image_title": "Screenshot aus Stalker 2"
     },
     {
-      "title": "Max-Planck-Institut weist menschlichen Fingerabdruck im regionalen Klima nach",
-      "url": "https://www.heise.de/news/Klimawandel-laesst-sich-jetzt-auch-regional-dem-Menschen-zuordnen-11420214.html",
-      "image_title": "Industrielle Verschmutzung verursacht Umweltschäden in einer großen Produktionsanlage mit Rauch und Emissionen während des Tages"
+      "title": "#heiseshow: Fritzhole, ChatGPT für Teens, Wero",
+      "url": "https://www.heise.de/news/heiseshow-Fritzhole-ChatGPT-fuer-Teens-Wero-11419667.html"
     },
     {
       "title": "KI-Paradox am Arbeitsmarkt: Berufseinsteiger verlieren, Erfahrene gewinnen",
@@ -630,19 +629,18 @@
       "url": "https://www.heise.de/en/news/Warning-about-attacks-on-Microsoft-IKE-SharePoint-VMware-vCenter-and-macOS-11418824.html"
     },
     {
-      "title": "Odyssee eines WutbürgersFalling Down im 4K-Heimkinotest",
-      "teaser": "Christopher Nolans Film ist derzeit in aller Munde. Doch Michael Douglas spielt den interessanteren Odysseus, wie unser Test der 4K-Restauration zeigt.",
-      "url": "https://www.heise.de/tests/Odyssee-eines-Wutbuergers-Falling-Down-im-4K-Heimkinotest-11408524.html",
-      "image_title": "Falling Down"
+      "title": "Smarte Rollladensteuerung: Rademachers neuer Gurtwickler im Test",
+      "teaser": "Rademachers Rollladengurtwickler lässt sich via Thread in Matter-Plattformen wie Apple Home oder Home Assistant einbinden – wenn man zuvor eine Hürde nimmt.",
+      "url": "https://www.heise.de/tests/Smarte-Rollladensteuerung-Rademachers-neuer-Gurtwickler-im-Test-11370920.html",
+      "image_title": "Ein weißer Gurtwickler mit Zubehörteilen und einer schwarzen Halterung auf blauem Hintergrund."
     },
     {
-      "title": "Black Hat USA: KI-Sicherheit, Passkey-Schwachstellen und Pwnie Awards",
-      "teaser": "Kontroverse KI-Diskussionen, verwundbare Passkey-Systeme und ein Schmähpreis für Microsoft: Wir resümieren die Highlights der diesjährigen Security-Konferenz.",
-      "url": "https://www.heise.de/hintergrund/Black-Hat-USA-KI-Sicherheit-Passkey-Schwachstellen-und-Pwnie-Awards-11301410.html",
-      "image_title": "Dunkle Tastatur"
+      "title": "Sony-Fernseher Bravia 9 II im Test: Echte Referenz oder überteuertes Smart-TV?",
+      "teaser": "Sonys hat seinem Topmodell Bravia 9 II ein Backlight aus RGB-Mini-LEDs und eine mattierte Schirmoberfläche spediert. Erreicht das LCD-TV damit Referenzniveau?",
+      "url": "https://www.heise.de/tests/Sony-Fernseher-Bravia-9-II-im-Test-Echte-Referenz-oder-ueberteuertes-Smart-TV-11399638.html"
     },
     {
-      "title": "Der Speicherkrise entkommen durch gebrauchte Notebooks und PCs | c’t uplink",
+      "title": "c’t uplinkDer Speicherkrise entkommen durch gebrauchte Rechner",
       "teaser": "SSDs und RAM werden vermutlich auf Jahre teuer bleiben – was Gebrauchtrechner interessant macht. Der Podcast geht ausführlich auf Risiken und Chancen ein.",
       "url": "https://www.heise.de/news/Der-Speicherkrise-entkommen-durch-gebrauchte-Notebooks-und-PCs-c-t-uplink-11421240.html",
       "image_title": "YouTube-Thumbnail zum Uplink"
@@ -666,6 +664,12 @@
       "image_title": "Calendar 366"
     },
     {
+      "title": "Winziges Funkmodul ES4L15MA1Bluetooth LE, Matter und Zigbee auf 28 mm²",
+      "teaser": "Das ES4L15MA1 ist 8,55 mm × 3,25 mm winzig, inklusive integrierter Antenne. Es funkt per Bluetooth LE und 2,4 GHz.",
+      "url": "https://www.heise.de/news/Kaga-Fei-Bluetooth-LE-Modul-kleiner-als-ein-Fingernagel-11421777.html",
+      "image_title": "Zwei Funkmodule neben einen Lineal"
+    },
+    {
       "title": "Maker-Drohnen für die Front: Kriegsgerät aus dem Hobbykeller",
       "teaser": "In mehreren deutschen Städten bauen Exil-Ukrainer mit einfachen Maker-Mitteln Drohnen, die zur Verteidigung an die Front in der Ukraine geliefert werden.",
       "url": "https://www.heise.de/ratgeber/Maker-Drohnen-fuer-die-Front-Kriegsgeraet-aus-dem-Hobbykeller-11374336.html",
@@ -676,12 +680,6 @@
       "teaser": "Mit dem ESPHome Starter Kit lassen sich eigene Smart-Home-Geräte bauen. Im Mittelpunkt steht ein ESP32-C6 mit Sensor- und Aktormodulen.",
       "url": "https://www.heise.de/news/ESPHome-Starter-Kit-ESP32-C6-und-Sensoren-fuer-das-eigene-Smart-Home-11419425.html",
       "image_title": "Bestanddteile eines ESPHome Starter Kits auf einem Holztisch"
-    },
-    {
-      "title": "Tiefer, breiter, schneller: Spezial Breadboard für ESP-Entwicklungsboards",
-      "teaser": "ESP32-Entwicklungsboards lassen kaum Platz auf Breadboards, um weitere Komponenten zu platzieren. Hier soll das neue Format Abhilfe schaffen.",
-      "url": "https://www.heise.de/news/Tiefer-breiter-schneller-Spezial-Breadboard-fuer-ESP-Entwicklungsboards-11418602.html",
-      "image_title": "ESP32-Entwicklungsboard"
     },
     {
       "title": "Brüssel fotografisch: Auf den Spuren des UNESCO-Biererbes",
@@ -750,22 +748,22 @@
       "image_title": "Tesla Semi"
     },
     {
+      "title": "Dead Pool am Colorado River: Wenn die Stauseen keinen Strom mehr liefern",
+      "teaser": "Der Colorado versorgt 40 Millionen Menschen mit Wasser und fünf Mio. Haushalte mit Strom. Doch die seit 20 Jahren anhaltende Dürre zwingt zum Wasser sparen.",
+      "url": "https://www.telepolis.de/article/Dead-Pool-am-Colorado-River-Wenn-die-Stauseen-keinen-Strom-mehr-liefern-11415087.html",
+      "image_title": "Stausee in karger Berglandschaft mit Dükern, die erkennen lassen, dass der Wasserstand viel zu niedrig ist."
+    },
+    {
       "title": "Strom-Paradoxon: Warum der November teurer wird als der Januar",
       "teaser": "Strompreis-Anomalie: Der Herbst wird teurer als der Winter. Schuld sind leere Gasspeicher und ausbleibende LNG-Lieferungen. .",
       "url": "https://www.telepolis.de/article/Strom-Paradoxon-Warum-der-November-teurer-wird-als-der-Januar-11418586.html",
       "image_title": "Glühbirne mit einem aufsteigenden Diagramm als Glühfaden"
     },
     {
-      "title": "Chinas KI-Modelle sind plötzlich größer als alles aus den USA",
-      "teaser": "Chinas KI-Labore veröffentlichen 2026 die größten offenen Modelle und setzen die USA unter Druck. Nvidia und AMD kontern mit Modellen für ihre Chips.",
-      "url": "https://www.telepolis.de/article/Chinas-KI-Modelle-sind-ploetzlich-groesser-als-alles-aus-den-USA-11416545.html",
-      "image_title": "Grafik zum KI-Machtkampf zwischen China und den USA: Ein rot-goldener Code-Datenfluss symbolisiert Chinas KI-Modelle, ein blau glimmender US-Mikrochip steht für die Hardware-Macht."
-    },
-    {
-      "title": "Dead Pool am Colorado River: Wenn die Stauseen keinen Strom mehr liefern",
-      "teaser": "Der Colorado versorgt 40 Millionen Menschen mit Wasser und fünf Mio. Haushalte mit Strom. Doch die seit 20 Jahren anhaltende Dürre zwingt zum Wasser sparen.",
-      "url": "https://www.telepolis.de/article/Dead-Pool-am-Colorado-River-Wenn-die-Stauseen-keinen-Strom-mehr-liefern-11415087.html",
-      "image_title": "Stausee in karger Berglandschaft mit Dükern, die erkennen lassen, dass der Wasserstand viel zu niedrig ist."
+      "title": "Hitzeschutz-Streit: Hans Jonas wusste schon 1979, was hier schiefläuft",
+      "teaser": "In Pflegeheimen herrschen bis zu 45 Grad. Der Bund darf nicht helfen, die Kommunen können nicht. Hans Jonas' Prinzip Verantwortung zeigt, warum. Ein Kommentar.",
+      "url": "https://www.telepolis.de/article/Hitzeschutz-Streit-Hans-Jonas-wusste-schon-1979-was-hier-schieflaeuft-11415972.html",
+      "image_title": "Close,Up,Image,Woman,Puts,Head,On,Sofa,Cushions,Closed"
     },
     {
       "title": "Für 3 Euro: So machst du aus deinem alten Laptop ein Chromebook",
