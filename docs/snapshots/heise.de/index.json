@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T06:17:38",
+  "timestamp": "2026-08-22T07:21:00",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,20 @@
     }
   ],
   "articles": [
+    {
+      "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Go-mit-generischen-Methoden-und-DuckDB-als-Server-11419998.html"
+    },
+    {
+      "title": "Data Act: Access by Design wird ab Herbst 2026 zur Pflicht",
+      "url": "https://www.heise.de/hintergrund/Data-Act-Access-by-Design-wird-ab-Herbst-2026-zur-Pflicht-11414659.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+      "url": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html"
+    },
     {
       "title": "Dystopie, Abstraktion und stille Details: Die Bilder der Woche 34",
       "url": "https://www.heise.de/news/Dystopie-Abstraktion-und-stille-Details-Die-Bilder-der-Woche-34-11420692.html"
@@ -50,20 +64,6 @@
     {
       "title": "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA",
       "url": "https://www.heise.de/news/Oberlandesgericht-bremst-Amazon-Meldebutton-und-Algorithmen-verstossen-gegen-DSA-11422576.html"
-    },
-    {
-      "title": "Warum leere Luxuskartons auf eBay für Tausende Dollar gehandelt werden",
-      "url": "https://www.heise.de/news/Influencer-Trend-Handel-mit-leeren-Luxus-Verpackungen-floriert-11422467.html"
-    },
-    {
-      "title": "VW ID.-Modelle: Das Smartphone wird zum digitalen Autoschlüssel",
-      "url": "https://www.heise.de/news/VW-ID-Modelle-Das-Smartphone-wird-zum-digitalen-Autoschluessel-11422263.html"
-    },
-    {
-      "title": "Struktur statt Zettelwirtschaft: Werkzeuge für Schule, Studium und Beruf",
-      "url": "https://www.heise.de/tests/Struktur-statt-Zettelwirtschaft-Werkzeuge-fuer-Schule-Studium-und-Beruf-11374252.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
     },
     {
       "title": "Beinahe militärische Telefonate abgehörtDeutsche Hackerin kaperte ENUM-Domains",
@@ -189,6 +189,29 @@
       "image_title": "CMD-Taste des Macs"
     },
     {
+      "title": "Developer-Häppchen – Go mit generischen Methoden und DuckDB als Server",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Windows App Development CLI, PPC, GNU Poke, VS Code, Toolbox App, OpenSpec, Azure, Go und DuckDB.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Go-mit-generischen-Methoden-und-DuckDB-als-Server-11419998.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Data Act: Access by Design wird ab Herbst 2026 zur Pflicht",
+      "teaser": "Ab 12. September 2026 ist Access by Design für neue vernetzte Produkte Pflicht und mit der Zuständigkeit der Bundesnetzagentur gibt es erstmals Vollzugspraxis.",
+      "url": "https://www.heise.de/hintergrund/Data-Act-Access-by-Design-wird-ab-Herbst-2026-zur-Pflicht-11414659.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Wissen statt suchen: KI bändigt Informationsflut",
+      "teaser": "Adobe PDF Spaces hilft Unternehmen, die Informationsflut zu bewältigen: KI unterstützt bei Suche, Analyse, Zusammenfassung und Zusammenarbeit.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7372589745&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "AI für SRE: Warum Automatisierung das Ziel ist und KI nur ein Werkzeug",
+      "teaser": "Severin Neumann kritisiert das Schlagwort „AI SRE“ und plädiert für ein CNCF-Modell, das Reliability-Aufgaben statt Menschen automatisiert.",
+      "url": "https://www.heise.de/hintergrund/AI-fuer-SRE-Warum-Automatisierung-das-Ziel-ist-und-KI-nur-ein-Werkzeug-11364776.html",
+      "image_title": "AI für SRE richtig einsetzen: Von klassischer Automation bis LLMs"
+    },
+    {
       "title": "Dystopie, Abstraktion und stille Details: Die Bilder der Woche 34",
       "teaser": "Von surrealen Inszenierungen bis zu abstrakten Strukturen: Sieben Aufnahmen, die Perspektive und Komposition vollendet einsetzen.",
       "url": "https://www.heise.de/news/Dystopie-Abstraktion-und-stille-Details-Die-Bilder-der-Woche-34-11420692.html",
@@ -198,11 +221,6 @@
       "title": "Home Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
       "teaser": "Hilfe, mein Smart Home wächst mir über den Kopf! Wie ich als Anfänger mit Home Assistant versuche, wieder Ordnung in meine smarten Gadgets zu bringen.",
       "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html"
-    },
-    {
-      "title": "Europäische Cloud im Praxistest: Leistung, Sicherheit und KI aus einer Hand",
-      "teaser": "Wie leistungsfähig sind europäische Cloud-Plattformen wirklich? Im Live-Webcast am 10.9. um 11 Uhr erleben Sie eine europäische Cloud-Plattform live – inklusive Demo, Kundenbeispielen und KI-Workloads.",
-      "url": "https://business-services.heise.de/it-management/digitale-souveraenitaet/beitrag/europaeische-cloud-im-praxistest-leistung-sicherheit-und-ki-aus-einer-hand-5086/?source=hbsad_ersatz"
     },
     {
       "title": "Der Speicherkrise entkommen durch gebrauchte Notebooks und PCs | c’t uplink",
@@ -220,24 +238,6 @@
       "teaser": "Der Freistaat Bayern scheitert vor Gericht mit einer Klage gegen den Aktivisten Markus Drenger. Doch grundlegende Aspekte von Open Data bleiben dabei ungeklärt.",
       "url": "https://www.heise.de/news/Urteil-gegen-Bayern-Sieg-fuer-Geodaten-Aktivist-laesst-Fragen-offen-11422625.html",
       "image_title": "Justitia"
-    },
-    {
-      "title": "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA",
-      "teaser": "Ein richtungsweisendes Urteil verpflichtet Online-Plattformen zu echter Transparenz bei Empfehlungs-Systemen und Hürdenfreiheit bei Klagen über illegale Ware.",
-      "url": "https://www.heise.de/news/Oberlandesgericht-bremst-Amazon-Meldebutton-und-Algorithmen-verstossen-gegen-DSA-11422576.html",
-      "image_title": "Amazon-Logo an der Fassade eines Gebäudes aus rotem Backstein mit großen Fenstern darunter."
-    },
-    {
-      "title": "VW ID.-Modelle: Das Smartphone wird zum digitalen Autoschlüssel",
-      "teaser": "Besitzer ausgewählter VW-ID.-Modelle können ihr Smartphone künftig als digitalen Autoschlüssel nutzen. Voraussetzung ist die Softwareversion 6.0.1.",
-      "url": "https://www.heise.de/news/VW-ID-Modelle-Das-Smartphone-wird-zum-digitalen-Autoschluessel-11422263.html",
-      "image_title": "Bildschirm eines VW ID. mit digitaler Schlüsselverwaltung"
-    },
-    {
-      "title": "Struktur statt Zettelwirtschaft: Werkzeuge für Schule, Studium und Beruf",
-      "teaser": "Wie Sie mit kostenlosen Bordmitteln und Wissensmanagement-Tools Ihren Workflow organisieren und Ablenkungen am Bildschirm minimieren.",
-      "url": "https://www.heise.de/tests/Struktur-statt-Zettelwirtschaft-Werkzeuge-fuer-Schule-Studium-und-Beruf-11374252.html",
-      "image_title": "Notebook mit vielen Post-its und ein Rucksack im Hintregrund"
     },
     {
       "title": "E-MobilitätElektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
@@ -321,6 +321,24 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Oberlandesgericht bremst Amazon: Meldebutton und Algorithmen verstoßen gegen DSA",
+      "teaser": "Ein richtungsweisendes Urteil verpflichtet Online-Plattformen zu echter Transparenz bei Empfehlungs-Systemen und Hürdenfreiheit bei Klagen über illegale Ware.",
+      "url": "https://www.heise.de/news/Oberlandesgericht-bremst-Amazon-Meldebutton-und-Algorithmen-verstossen-gegen-DSA-11422576.html",
+      "image_title": "Amazon-Logo an der Fassade eines Gebäudes aus rotem Backstein mit großen Fenstern darunter."
+    },
+    {
+      "title": "VW ID.-Modelle: Das Smartphone wird zum digitalen Autoschlüssel",
+      "teaser": "Besitzer ausgewählter VW-ID.-Modelle können ihr Smartphone künftig als digitalen Autoschlüssel nutzen. Voraussetzung ist die Softwareversion 6.0.1.",
+      "url": "https://www.heise.de/news/VW-ID-Modelle-Das-Smartphone-wird-zum-digitalen-Autoschluessel-11422263.html",
+      "image_title": "Bildschirm eines VW ID. mit digitaler Schlüsselverwaltung"
+    },
+    {
+      "title": "Struktur statt Zettelwirtschaft: Werkzeuge für Schule, Studium und Beruf",
+      "teaser": "Wie Sie mit kostenlosen Bordmitteln und Wissensmanagement-Tools Ihren Workflow organisieren und Ablenkungen am Bildschirm minimieren.",
+      "url": "https://www.heise.de/tests/Struktur-statt-Zettelwirtschaft-Werkzeuge-fuer-Schule-Studium-und-Beruf-11374252.html",
+      "image_title": "Notebook mit vielen Post-its und ein Rucksack im Hintregrund"
+    },
+    {
       "title": "NASA: Mikroben können tagelang am Südpol des Mondes überleben",
       "teaser": "Wenn Menschen wieder auf dem Mond landen, bringen sie zwangsläufig Mikroorganismen mit. An bestimmten Orten könnten die tagelang überleben, besagt eine Studie.",
       "url": "https://www.heise.de/news/NASA-Mikroben-koennen-tagelang-am-Suedpol-des-Mondes-ueberleben-11421636.html",
@@ -380,6 +398,11 @@
       "image_title": "Waage, auf die ein Finger zeigt, umgeben von Justiz-Symbolen."
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "Markdown-Werkzeugkasten: Marked 3 für macOS im Test",
       "teaser": "Marked 3 vom Entwickler Brett Trepstra vereint Markdown-Vorschau, Lektorat und vielseitigen Export. Wir haben die App am Mac getestet.",
       "url": "https://www.heise.de/tests/Markdown-Werkzeugkasten-Marked-3-fuer-macOS-im-Test-11404538.html",
@@ -396,11 +419,6 @@
       "teaser": "Weniger kann auch in der IT-Sicherheit mehr sein: Wie man mit Minimum Viable Zero Trust in 90 Tagen ans Ziel kommt.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-man-Zero-Trust-mit-Minimalansatz-einfuehrt-11421929.html",
       "image_title": "Ein Roboter"
-    },
-    {
-      "title": "Cyber-Hygiene statt Cyber-Panik",
-      "teaser": "Wenn es um IT-Sicherheit geht, muss nicht immer gleich eine „große“ Security-Lösung her. In einem Webcast erfahren Sie, dass auch „kleine“ Maßnahmen eine große Schutzwirkung entfalten können.",
-      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/cyber-hygiene-statt-cyber-panik-wie-sie-ihre-endpoints-wirklich-sicher-machen-5093/?source=nat_teas"
     },
     {
       "title": "Google führt neue Personalisierungsfunktionen für Suche und News ein",
@@ -441,23 +459,6 @@
       "title": "M365 Copilot im Unternehmen – Agents mit Copilot Studio und Foundry entwickeln",
       "teaser": "M365 Copilot ist mehr als ein KI-Assistent in Office. Agents lassen sich produktiv entwickeln und mit Copilot Studio und Foundry unternehmensweit skalieren.",
       "url": "https://www.heise.de/news/M365-Copilot-im-Unternehmen-Agents-mit-Copilot-Studio-und-Foundry-entwickeln-11420032.html"
-    },
-    {
-      "title": "Vibe-Coding im Selbstversuch: Anfänger baut eine Sprachlern-App",
-      "teaser": "Kann man mit KI eine eigene App programmieren – komplett ohne Programmierkenntnisse? Wir testen es im Video-Selbstversuch.",
-      "url": "https://www.heise.de/hintergrund/Vibe-Coding-im-Selbstversuch-Ein-Anfaenger-baut-eine-Sprachlern-App-11417568.html"
-    },
-    {
-      "title": "Apple TV: Apple Intelligence kommt – via Siri AI",
-      "teaser": "Hinweise in macOS 27 deuten auf einen Rollout der Chatbot-Assistentin auf Apples Fernsehbox hin. Allerdings braucht es dazu wohl ein neues Modell.",
-      "url": "https://www.heise.de/news/Apple-TV-Apple-Intelligence-kommt-via-Siri-AI-11420948.html",
-      "image_title": "Apple TV 4K mit tvOS"
-    },
-    {
-      "title": "AlertDell ObjectScale: Höhere Nutzerrechte erschleichbar",
-      "teaser": "Sicherheitsupdates schließen mehrere Lücken in Dells Object-Storage-Plattform ObjectScale.",
-      "url": "https://www.heise.de/news/Dell-ObjectScale-Hoehere-Nutzerrechte-erschleichbar-11421714.html",
-      "image_title": "Eine symbolische Updatetaste auf einer Tastatur."
     },
     {
       "title": "Flugbegleiter gehen gegen Verkauf von Daten insolventer Fluglinie an Google vor",
@@ -628,16 +629,16 @@
       "url": "https://www.heise.de/en/news/Warning-about-attacks-on-Microsoft-IKE-SharePoint-VMware-vCenter-and-macOS-11418824.html"
     },
     {
-      "title": "Der Speicherkrise entkommen durch gebrauchte Notebooks und PCs | c’t uplink",
-      "teaser": "SSDs und RAM werden vermutlich auf Jahre teuer bleiben – was Gebrauchtrechner interessant macht. Der Podcast geht ausführlich auf Risiken und Chancen ein.",
-      "url": "https://www.heise.de/news/Der-Speicherkrise-entkommen-durch-gebrauchte-Notebooks-und-PCs-c-t-uplink-11421240.html",
-      "image_title": "YouTube-Thumbnail zum Uplink"
-    },
-    {
       "title": "Odyssee eines WutbürgersFalling Down im 4K-Heimkinotest",
       "teaser": "Christopher Nolans Film ist derzeit in aller Munde. Doch Michael Douglas spielt den interessanteren Odysseus, wie unser Test der 4K-Restauration zeigt.",
       "url": "https://www.heise.de/tests/Odyssee-eines-Wutbuergers-Falling-Down-im-4K-Heimkinotest-11408524.html",
       "image_title": "Falling Down"
+    },
+    {
+      "title": "Black Hat USA: KI-Sicherheit, Passkey-Schwachstellen und Pwnie Awards",
+      "teaser": "Kontroverse KI-Diskussionen, verwundbare Passkey-Systeme und ein Schmähpreis für Microsoft: Wir resümieren die Highlights der diesjährigen Security-Konferenz.",
+      "url": "https://www.heise.de/hintergrund/Black-Hat-USA-KI-Sicherheit-Passkey-Schwachstellen-und-Pwnie-Awards-11301410.html",
+      "image_title": "Dunkle Tastatur"
     },
     {
       "title": "Sony-Fernseher Bravia 9 II im Test: Echte Referenz oder überteuertes Smart-TV?",
@@ -747,10 +748,10 @@
       "image_title": "Tesla Semi"
     },
     {
-      "title": "Macht mehr Bildschirmzeit Kinder sogar klüger?",
-      "teaser": "Mehr Bildschirmzeit korrelierte in einer finnischen Langzeitstudie mit besserem Denken. Doch ein kausaler Beweis fehlt – entscheidend ist, was Kinder tun.",
-      "url": "https://www.telepolis.de/article/Macht-mehr-Bildschirmzeit-Kinder-sogar-klueger-11416338.html",
-      "image_title": "Child,Addicted,Smartphone.,Screen,Time,Control,,Tech,Addiction,In,Kids,"
+      "title": "Chinas KI-Modelle sind plötzlich größer als alles aus den USA",
+      "teaser": "Chinas KI-Labore veröffentlichen 2026 die größten offenen Modelle und setzen die USA unter Druck. Nvidia und AMD kontern mit Modellen für ihre Chips.",
+      "url": "https://www.telepolis.de/article/Chinas-KI-Modelle-sind-ploetzlich-groesser-als-alles-aus-den-USA-11416545.html",
+      "image_title": "Grafik zum KI-Machtkampf zwischen China und den USA: Ein rot-goldener Code-Datenfluss symbolisiert Chinas KI-Modelle, ein blau glimmender US-Mikrochip steht für die Hardware-Macht."
     },
     {
       "title": "Frankreich stoppt Social-Media-Verbot: Wo der Jugendschutz an Grenzen stößt",
@@ -759,10 +760,10 @@
       "image_title": "\"Freiheit, Gleichheit, Brüderlichkeit\" - Inschrift auf dem Pantheon"
     },
     {
-      "title": "Gasspeicher auf Rekordtief: Warum Heizen diesen Winter teuer werden könnte",
-      "teaser": "Der negative Sommer-Winter-Spread macht Einspeichern zum Verlustgeschäft. Die Folge: Rekordtiefe Füllstände vor der Heizperiode.",
-      "url": "https://www.telepolis.de/article/Gasspeicher-auf-Rekordtief-Warum-Heizen-diesen-Winter-teuer-werden-koennte-11417422.html",
-      "image_title": "Der Erdgasspeicher in Rehden ist mit einer Kapazität von 3,9 Milliarden Kubikmetern Erdgas der größte Erdgasspeicher in Westeuropa."
+      "title": "Rotes Meer und Hormus: Krieg um Nadelöhre",
+      "teaser": "80–90 Prozent der iranischen Ölexporte gehen nach China. Die USA testen in Hormus, wie man diese Route kappt. Auch Bab al-Mandab und Malakka bleiben verwundbar.",
+      "url": "https://www.telepolis.de/article/Rotes-Meer-und-Hormus-Krieg-um-Nadeloehre-11415940.html",
+      "image_title": "Karte einer Meerenge vor Saudi-Arabien mit schiffen eingezeichnet"
     },
     {
       "title": "Für 3 Euro: So machst du aus deinem alten Laptop ein Chromebook",
