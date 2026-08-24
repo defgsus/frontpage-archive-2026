@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T05:27:27",
+  "timestamp": "2026-08-24T06:31:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,33 @@
   ],
   "articles": [
     {
-      "title": "Firmendaten: Ausgaben für KI-Modell Fable 5 von Anthropic stagnieren längst",
-      "teaser": "Bislang war es so, dass Firmen rasch auf neue und bessere KI-Modelle gewechselt sind, wenn die verfügbar wurden. Bei Anthropic ist das wohl nicht mehr so.",
+      "title": "Microsoft stopft zahlreiche Cloud-Schwachstellen",
+      "teaser": "Microsoft dokumentiert 18 teils kritische Sicherheitslücken in Cloud-Produkten, die die Entwickler geschlossen haben.",
+      "url": "https://www.heise.de/news/Microsoft-stopft-zahlreiche-Cloud-Schwachstellen-11423129.html",
+      "image_title": "Sicherheitsschloss auf einer ausgestreckten Hand"
+    },
+    {
+      "title": "iPhone-Kindersicherung: \"Wer nur auf technischen Schutz setzt, denkt zu kurz\"",
+      "teaser": "Wie können Eltern das Dauerproblem Kinderschutz auf iPhone & Co. meistern? Und hilft Apple dabei genug? Eine Expertin im Interview.",
+      "url": "https://www.heise.de/hintergrund/iPhone-Kindersicherung-Wer-nur-auf-technischen-Schutz-setzt-denkt-zu-kurz-11416028.html",
+      "image_title": "Kind mit iPhone"
+    },
+    {
+      "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
+      "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-11415558.html",
+      "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
+    },
+    {
+      "title": "FirmendatenAusgaben für KI-Modell Fable 5 von Anthropic stagnieren",
+      "teaser": "Bislang war es so, dass Firmen rasch auf neue und bessere KI-Modelle gewechselt sind. Bei Anthropic ist das wohl nicht mehr so.",
       "url": "https://www.heise.de/news/Firmendaten-Ausgaben-fuer-KI-Modell-Fable-5-von-Anthropic-stagnieren-laengst-11423073.html",
       "image_title": "Anthropic-Schriftzug auf Smartphone"
     },
     {
-      "title": "50-TByte-Festplatten in Sicht: Die Roadmap der großen Speicherhersteller",
-      "teaser": "Seagate, WD und Toshiba profitieren von der Speicherknappheit. Für das 2027 sind die ersten Laufwerke mit 50 TByte Speicherplatz angekündigt.",
-      "url": "https://www.heise.de/hintergrund/50-TByte-Festplatten-in-Sicht-Die-Roadmap-der-grossen-Speicherhersteller-11402713.html"
-    },
-    {
-      "title": "Nach CyberangriffBerliner Senatsverwaltungen wieder am Netz",
-      "teaser": "Wegen einer Cyberattacke waren zwei Senatsverwaltungen vom Netz genommen worden. Nun sind sie wieder online.",
-      "url": "https://www.heise.de/news/Nach-Cyberangriff-Senatsverwaltungen-wieder-am-Netz-11423077.html",
-      "image_title": "Server"
-    },
-    {
-      "title": "NvidiaPreise der KI-Server für Rechenzentren steigen um über 15 Prozent",
-      "teaser": "Aufgrund teureren Speichers wird Nvidia offenbar die Preise der eigenen KI-Server für Rechenzentren anziehen.",
-      "url": "https://www.heise.de/news/Nvidia-erhoeht-Preise-der-KI-Server-fuer-Rechenzentren-wohl-um-ueber-15-Prozent-11423059.html",
-      "image_title": "Nvidia-CEO Jensen Huang vor einer Reihe Server mit ausgestreckten Armen"
+      "title": "HintergrundiPhone-Kindersicherung: \"Wer nur auf technischen Schutz setzt, denkt zu kurz\"",
+      "url": "https://www.heise.de/hintergrund/iPhone-Kindersicherung-Wer-nur-auf-technischen-Schutz-setzt-denkt-zu-kurz-11416028.html",
+      "image_title": "Kind mit iPhone"
     },
     {
       "title": "Hintergrund50-TByte-Festplatten in Sicht: Die Roadmap der großen Speicherhersteller",
@@ -52,8 +58,16 @@
       "image_title": "Dunkle Tastatur"
     },
     {
-      "title": "RatgeberHome Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
-      "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html"
+      "title": "Nach Cyberangriff: Senatsverwaltungen wieder am Netz",
+      "teaser": "Wegen einer Cyberattacke waren zwei Senatsverwaltungen aus Sicherheitsgründen vom Netz genommen worden. Nach mehr als einer Woche sind sie wieder online.",
+      "url": "https://www.heise.de/news/Nach-Cyberangriff-Senatsverwaltungen-wieder-am-Netz-11423077.html",
+      "image_title": "Server"
+    },
+    {
+      "title": "Nvidia erhöht Preise der KI-Server für Rechenzentren wohl um über 15 Prozent",
+      "teaser": "Aufgrund teureren Speichers wird Nvidia offenbar die Preise der eigenen KI-Server für Rechenzentren anziehen. In vielen Fällen soll es mehr als 15 Prozent sein.",
+      "url": "https://www.heise.de/news/Nvidia-erhoeht-Preise-der-KI-Server-fuer-Rechenzentren-wohl-um-ueber-15-Prozent-11423059.html",
+      "image_title": "Nvidia-CEO Jensen Huang vor einer Reihe Server mit ausgestreckten Armen"
     },
     {
       "title": "Top 10: Bestes Tablet im Test – Samsung vor Apple und Lenovo",
@@ -128,17 +142,6 @@
       "image_title": "AI für SRE richtig einsetzen: Von klassischer Automation bis LLMs"
     },
     {
-      "title": "Samsung Galaxy Watch Ultra 2 im Test: Outdoor-Smartwatch kann jetzt tauchen",
-      "teaser": "Schlanker, schneller, mehr Ausdauer: Die Galaxy Watch Ultra 2 von Samsung will wieder etwas Schwung in die Welt von Wear OS bringen. Ob das gelingt?",
-      "url": "https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-watch-ultra-2-im-test-outdoor-smartwatch-kann-jetzt-tauchen/l1tbxfs?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Der Speicherkrise entkommen durch gebrauchte Notebooks und PCs | c’t uplink",
-      "teaser": "SSDs und RAM werden vermutlich auf Jahre teuer bleiben – was Gebrauchtrechner interessant macht. Der Podcast geht ausführlich auf Risiken und Chancen ein.",
-      "url": "https://www.heise.de/news/Der-Speicherkrise-entkommen-durch-gebrauchte-Notebooks-und-PCs-c-t-uplink-11421240.html",
-      "image_title": "YouTube-Thumbnail zum Uplink"
-    },
-    {
       "title": "HintergrundBeinahe militärische Telefonate abgehört: Deutsche Hackerin kaperte ENUM-Domains",
       "url": "https://www.heise.de/hintergrund/ENUM-Domains-gekapert-Wie-eine-Hackerin-beinahe-militaerische-Telefonate-abhoerte-11420818.html",
       "image_title": "Aerial,Photo,Of,Diego,Garcia"
@@ -164,6 +167,10 @@
       "image_title": "Falling Down"
     },
     {
+      "title": "RatgeberHome Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
+      "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html"
+    },
+    {
       "title": "News„Fritzhole“: Adblocker direkt in Fritzboxen nutzen",
       "url": "https://www.heise.de/news/Fritzhole-Adblocker-direkt-in-Fritzboxen-nutzen-11414833.html",
       "image_title": "Fritzbox auf einer dunklen Kommode"
@@ -171,11 +178,6 @@
     {
       "title": "RatgeberSpiele dauerhaft besitzen und bewahren: Physisch und digital ohne DRM",
       "url": "https://www.heise.de/ratgeber/Spiele-dauerhaft-besitzen-und-bewahren-Physisch-und-digital-ohne-DRM-11403442.html"
-    },
-    {
-      "title": "TestsPixel 11 Pro & Pro XL: Googles neue Smartphones mit dezenten Neuerungen im Test",
-      "url": "https://www.heise.de/tests/Pixel-11-Pro-Pro-XL-Googles-neue-Smartphones-mit-dezenten-Neuerungen-im-Test-11410265.html",
-      "image_title": "Zwei Google Pixel Smartphones liegen übereinander, eines mit Kamera-Array."
     }
   ]
 }
