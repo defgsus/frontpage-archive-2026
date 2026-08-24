@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-24T15:26:48",
+  "timestamp": "2026-08-24T16:20:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -20,13 +20,35 @@
   ],
   "articles": [
     {
+      "title": "Durch den Fels funken: Erstes Buch über DIY-Höhlenradio erschienen",
+      "url": "https://www.heise.de/news/Durch-den-Fels-funken-Erstes-Buch-ueber-DIY-Hoehlenradio-erschienen-11423618.html"
+    },
+    {
+      "title": "SiFive bringt RISC-V-Server mit Ubuntu 26.04 und RHEL 10 für Code-Entwickler",
+      "url": "https://www.heise.de/news/SiFive-bringt-RISC-V-Server-mit-Ubuntu-26-04-und-RHEL-10-fuer-Code-Entwickler-11424109.html"
+    },
+    {
+      "title": "AliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",
+      "url": "https://www.heise.de/news/AliExpress-trackt-Nutzer-via-unhoerbarem-Audio-Fingerprinting-11424127.html"
+    },
+    {
+      "title": "Spiele-Engines: Wann es sich lohnt, eine eigene Engine zu entwickeln",
+      "url": "https://www.heise.de/hintergrund/Spiele-Engines-Wann-es-sich-lohnt-eine-eigene-Engine-zu-entwickeln-11301352.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
+    },
+    {
+      "title": "EU-US-Datenabkommen: Nur kosmetische Korrekturen an umstrittenem Biometrie-Pakt",
+      "url": "https://www.heise.de/news/EU-US-Datenabkommen-Nur-kosmetische-Korrekturen-an-umstrittenem-Biometrie-Pakt-11424183.html"
+    },
+    {
       "title": "Home Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
       "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "Elon Musks KI-Satellit SpaceXAI „Starmind“ AI1 nimmt Nvidia-Technik an Bord",
+      "title": "Auf dem Weg zu KI-Rechenzentren im All: SpaceXAI zeigt „Starmind“",
       "url": "https://www.heise.de/news/Elon-Musks-KI-Satellit-SpaceXAI-Starmind-AI1-nimmt-Nvidia-Technik-an-Bord-11424009.html"
     },
     {
@@ -40,28 +62,6 @@
     {
       "title": "IBM-Mainframes: Der nächste Z-Prozessor kann auch ARM",
       "url": "https://www.heise.de/news/IBM-Mainframes-Der-naechste-Z-Prozessor-kann-auch-ARM-11424033.html"
-    },
-    {
-      "title": "Fast jeder Zweite will Roboter im Haushalt helfen lassen",
-      "url": "https://www.heise.de/news/Fast-jeder-Zweite-will-Roboter-im-Haushalt-helfen-lassen-11423993.html"
-    },
-    {
-      "title": "KI-Update kompakt: Carlsen vs. OpenAI, Arbeitsmarkt, KI nutzt KI, Smart Glasses",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-Carlsen-vs-OpenAI-Arbeitsmarkt-KI-nutzt-KI-Smart-Glasses-11423824.html"
-    },
-    {
-      "title": "KI und Security: Projekte wider die Vulnocalypse",
-      "url": "https://www.heise.de/ratgeber/KI-und-Security-Projekte-wider-die-Vulnocalypse-11363043.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
-    },
-    {
-      "title": "Irland: So viel Geld bekommt die Republik nach Apples EU-Niederlage",
-      "url": "https://www.heise.de/news/Nach-EU-Urteil-Geldregen-fuer-Irland-dank-Apple-Niederlage-11422851.html"
-    },
-    {
-      "title": "Smartphonemarkt: Samsung könnte Apple wieder von Platz 1 verdrängen",
-      "url": "https://www.heise.de/news/Smartphonemarkt-Samsung-koennte-Apple-wieder-von-Platz-1-verdraengen-11423914.html"
     },
     {
       "title": "IP-Protokollierung genügt nichtGericht fordert E-Mail-Nachweis bei Werbemails",
@@ -187,54 +187,55 @@
       "image_title": "Anthropic-Schriftzug auf Smartphone"
     },
     {
+      "title": "Durch den Fels funken: Erstes Buch über DIY-Höhlenradio erschienen",
+      "teaser": "Mit Billig-Hardware durch hunderte Meter Fels kommunizieren – wie das geht, zeigt ein britischer Funkamateur im ersten Buch über Cave Radio.",
+      "url": "https://www.heise.de/news/Durch-den-Fels-funken-Erstes-Buch-ueber-DIY-Hoehlenradio-erschienen-11423618.html"
+    },
+    {
+      "title": "SiFive bringt RISC-V-Server mit Ubuntu 26.04 und RHEL 10 für Code-Entwickler",
+      "teaser": "Um das Henne-und-Ei-Problem bei RISC-V für Rechenzentren zu lösen, stellt SiFive Entwicklerserver mit 32 RVA23-Kernen, 256 GByte RAM und PCIe 5.0 bereit.",
+      "url": "https://www.heise.de/news/SiFive-bringt-RISC-V-Server-mit-Ubuntu-26-04-und-RHEL-10-fuer-Code-Entwickler-11424109.html",
+      "image_title": "Blick in einen Rack-Server"
+    },
+    {
+      "title": "Neue Speicherkonzepte für das Supercomputing",
+      "teaser": "Wer mit riesigen Datenmengen arbeitet, kennt das Problem: Die Daten wachsen schneller als die Infrastruktur. Klassische Speicherarchitekturen stoßen an ihre Grenzen. Doch es gibt eine Lösung.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319745106&iu=%2F6514%2FClicktracking"
+    },
+    {
+      "title": "AliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",
+      "teaser": "AliExpress nutzte die Web Audio API, um Geräte per unhörbarem Audiosignal zu identifizieren. Ein Entwickler entdeckte das Tracking durch Bluetooth-Probleme.",
+      "url": "https://www.heise.de/news/AliExpress-trackt-Nutzer-via-unhoerbarem-Audio-Fingerprinting-11424127.html",
+      "image_title": "Paketscheine auf mehreren Paketen, alle von AliExpress"
+    },
+    {
+      "title": "Spiele-Engines: Wann es sich lohnt, eine eigene Engine zu entwickeln",
+      "teaser": "Für nie dagewesene Effekte und Features entwickeln manche Game-Studios eine eigene Engine. Wir haben deutsche Spieleschmieden gefragt, wann sich das lohnt.",
+      "url": "https://www.heise.de/hintergrund/Spiele-Engines-Wann-es-sich-lohnt-eine-eigene-Engine-zu-entwickeln-11301352.html",
+      "image_title": "Eine 3D-Darstellung von Spielelementen wie Drachen, Türmen und Rittern auf einer Leiterplatte."
+    },
+    {
+      "title": "EU-US-Datenabkommen: Nur kosmetische Korrekturen an umstrittenem Biometrie-Pakt",
+      "teaser": "Trotz Überarbeitung eines Geheimdokuments drohen beim Datenaustausch mit den USA weiterhin Grundrechtsverstöße und diskriminierendes Profiling.",
+      "url": "https://www.heise.de/news/EU-US-Datenabkommen-Nur-kosmetische-Korrekturen-an-umstrittenem-Biometrie-Pakt-11424183.html",
+      "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
+    },
+    {
       "title": "Home Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
       "teaser": "Hilfe, mein Smart Home wächst mir über den Kopf! Wie ich als Anfänger mit Home Assistant versuche, wieder Ordnung in meine smarten Gadgets zu bringen.",
       "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html"
     },
     {
-      "title": "Elon Musks KI-Satellit SpaceXAI „Starmind“ AI1 nimmt Nvidia-Technik an Bord",
+      "title": "Auf dem Weg zu KI-Rechenzentren im All: SpaceXAI zeigt „Starmind“",
       "teaser": "Der 150-Kilowatt-Satellit SpaceXAI AI1 bringt eine angepasste Version des KI-Systems Nvidia Vera Rubin NVL72 ins All und speist es mit Solarstrom.",
       "url": "https://www.heise.de/news/Elon-Musks-KI-Satellit-SpaceXAI-Starmind-AI1-nimmt-Nvidia-Technik-an-Bord-11424009.html",
       "image_title": "Ansicht des Satelliten AI1 von SpaceXAI"
-    },
-    {
-      "title": "Wie Unternehmen KI-Aussagen prüfen können",
-      "teaser": "In vielen Fällen beeinflusst KI bereits operative und strategische Entscheidungen. Ein Risiko, denn die gefährlichste KI-Halluzination ist eine Aussage, die unbemerkt zur Unternehmenswahrheit wird.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7368910293&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Faltbares iPhone: Bericht zitiert zufriedene Apple-Mitarbeiter",
       "teaser": "Ein Bericht zitiert Mitarbeiter bei Apple zum ersten faltbaren iPhone: Das Gerät soll robust sein und auf Touch ID setzen.",
       "url": "https://www.heise.de/news/Faltbares-iPhone-Bericht-zitiert-zufriedene-Apple-Mitarbeiter-11424159.html",
       "image_title": "Mensch mit Foldable"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 im Test: Gute Wear-OS-Smartwatch – kurze Akkulaufzeit",
-      "teaser": "Die Galaxy Watch 9 hat einen schnellen Chip, viele Apps und präzises Tracking. Kurze Akkulaufzeit und exklusive Funktionen für Samsung trüben den Eindruck.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-watch-9-im-test-gute-wear-os-smartwatch-kurze-akkulaufzeit/zp54drt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "IBM-Mainframes: Der nächste Z-Prozessor kann auch ARM",
-      "teaser": "Die nächste Z-CPU-Generation lernt ARM-Instruktionen. Die Kernanzahl steigt von acht auf elf und auch mehr Takt gibt es.",
-      "url": "https://www.heise.de/news/IBM-Mainframes-Der-naechste-Z-Prozessor-kann-auch-ARM-11424033.html",
-      "image_title": "Illustration eines IBM-Prozessors"
-    },
-    {
-      "title": "Fast jeder Zweite will Roboter im Haushalt helfen lassen",
-      "teaser": "Sogenannte Smart-Home-Anwendungen verbreiten sich, doch viele Menschen fürchten Kontrollverlust und Hacker. Wie Verbraucher Chancen und Risiken einschätzen.",
-      "url": "https://www.heise.de/news/Fast-jeder-Zweite-will-Roboter-im-Haushalt-helfen-lassen-11423993.html",
-      "image_title": "Humanoider Roboter von Neura steht an einem Bügelbrett und sortiert Wäsche."
-    },
-    {
-      "title": "KI-Update kompakt: Carlsen vs. OpenAI, Arbeitsmarkt, KI nutzt KI, Smart Glasses",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-Carlsen-vs-OpenAI-Arbeitsmarkt-KI-nutzt-KI-Smart-Glasses-11423824.html"
-    },
-    {
-      "title": "KI und Security: Projekte wider die Vulnocalypse",
-      "teaser": "Initiativen, die gegen eine KI-induzierte Flut an Bugs und Patches helfen sollen, sprießen allerorten; ein Überblick.",
-      "url": "https://www.heise.de/ratgeber/KI-und-Security-Projekte-wider-die-Vulnocalypse-11363043.html",
-      "image_title": "Ein Schild mit einem roten Kreuz auf weißem Grund, umrahmt von Blau."
     },
     {
       "title": "E-MobilitätElektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
@@ -318,6 +319,34 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-ohne-begrenzungskabel-mit-kamera-gps-oder-lidar/gb7xhbg?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Samsung Galaxy Watch 9 im Test: Gute Wear-OS-Smartwatch – kurze Akkulaufzeit",
+      "teaser": "Die Galaxy Watch 9 hat einen schnellen Chip, viele Apps und präzises Tracking. Kurze Akkulaufzeit und exklusive Funktionen für Samsung trüben den Eindruck.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/samsung-galaxy-watch-9-im-test-gute-wear-os-smartwatch-kurze-akkulaufzeit/zp54drt?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
+    },
+    {
+      "title": "IBM-Mainframes: Der nächste Z-Prozessor kann auch ARM",
+      "teaser": "Die nächste Z-CPU-Generation lernt ARM-Instruktionen. Die Kernanzahl steigt von acht auf elf und auch mehr Takt gibt es.",
+      "url": "https://www.heise.de/news/IBM-Mainframes-Der-naechste-Z-Prozessor-kann-auch-ARM-11424033.html",
+      "image_title": "Illustration eines IBM-Prozessors"
+    },
+    {
+      "title": "Fast jeder Zweite will Roboter im Haushalt helfen lassen",
+      "teaser": "Sogenannte Smart-Home-Anwendungen verbreiten sich, doch viele Menschen fürchten Kontrollverlust und Hacker. Wie Verbraucher Chancen und Risiken einschätzen.",
+      "url": "https://www.heise.de/news/Fast-jeder-Zweite-will-Roboter-im-Haushalt-helfen-lassen-11423993.html",
+      "image_title": "Humanoider Roboter von Neura steht an einem Bügelbrett und sortiert Wäsche."
+    },
+    {
+      "title": "KI-Update kompakt: Carlsen vs. OpenAI, Arbeitsmarkt, KI nutzt KI, Smart Glasses",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Carlsen-vs-OpenAI-Arbeitsmarkt-KI-nutzt-KI-Smart-Glasses-11423824.html"
+    },
+    {
+      "title": "KI und Security: Projekte wider die Vulnocalypse",
+      "teaser": "Initiativen, die gegen eine KI-induzierte Flut an Bugs und Patches helfen sollen, sprießen allerorten; ein Überblick.",
+      "url": "https://www.heise.de/ratgeber/KI-und-Security-Projekte-wider-die-Vulnocalypse-11363043.html",
+      "image_title": "Ein Schild mit einem roten Kreuz auf weißem Grund, umrahmt von Blau."
+    },
+    {
       "title": "AlertNotepad++ v8.9.8 stopft 14 Sicherheitslücken",
       "teaser": "Am Sonntag hat Don Ho Version 8.9.8 des beliebten Editors Notepad++ herausgegeben. Sie schließt etwa Codeschmuggellücken.",
       "url": "https://www.heise.de/news/Notepad-v8-9-8-stopft-14-Sicherheitsluecken-11423868.html",
@@ -366,6 +395,11 @@
       "image_title": "Werbebild für Amnesia Fortnight"
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "AlertZahlreiche Sicherheitslücken bedrohen VMware-Tanzu-Spring-Software",
       "teaser": "Angreifer können Systeme mit unter anderem VMware Tanzu Spring AI, Integration oder Security attackieren. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-VMware-Tanzu-Spring-Software-11423459.html",
@@ -392,11 +426,6 @@
       "teaser": "Wenn Windparks in Nord- und Ostsee maximal ausgebaut werden, kann das die Verteilung von Niederschlägen verändern. Das Szenario ist aktuell aber unrealistisch.",
       "url": "https://www.heise.de/news/Analyse-Maximaler-Ausbau-von-Offshore-Windenergie-kann-Niederschlaege-veraendern-11423323.html",
       "image_title": "Wolken über einem Offshore-Windpark"
-    },
-    {
-      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
-      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
     },
     {
       "title": "Update„Computer History“: OpenAI bringt Windows-Recall-ähnliche Funktion auf Macs",
@@ -426,36 +455,6 @@
       "teaser": "Monatlich werden in Berlin 1,2 Millionen Cyberangriffe abgewehrt. Der jüngste Angriff auf Senatsverwaltungen löst nun Sorgen aus.",
       "url": "https://www.heise.de/news/Cyberangriff-Staatssekretaer-fordert-mehr-Abwehrmassnahmen-11423341.html",
       "image_title": "3 Stop-Tafeln nebeneinander"
-    },
-    {
-      "title": "c’t-Webinar: Die Wärmepumpe fürs Eigenheim",
-      "teaser": "Das Webinar bietet eine herstellerunabhängige Einführung in die Wärmepumpentechnik, hilft die Machbarkeit zu beurteilen und räumt mit Vorurteilen auf.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-erklaert-11419931.html",
-      "image_title": "Wärmepumpe mit Außeneinheit und Steuergerät, ein rosa Sparschwein darauf, blauer Hintergrund, daneben ein Logo: c't Webinar"
-    },
-    {
-      "title": "Neuseeland: Regierung will Zugang zu sozialen Medien für Kinder beschränken",
-      "teaser": "Die neuseeländische Regierung plant ein Social-Media-Verbot für Heranwachsende unter 16 Jahren. Plattformen sollen bei Verstößen hohe Bußgelder zahlen.",
-      "url": "https://www.heise.de/news/Neuseelands-Regierungspartei-plant-Social-Media-Mindestalter-11423307.html",
-      "image_title": "Google-Startverknüpfung und die und diverser anderer Big-Tech-Dienste auf einem Smartphone-Bildschirm."
-    },
-    {
-      "title": "Trinkgeld per Kartenterminal: Wenn Gäste sich gedrängt fühlen",
-      "teaser": "Beim Bezahlen mit Karte in der Gastronomie werden Gäste oft mit Trinkgeld-Vorauswahlen konfrontiert. Verbraucherschützer kritisieren manipulative Designtricks.",
-      "url": "https://www.heise.de/news/Verbraucherschuetzer-monieren-Tricks-bei-Trinkgeld-per-Karte-11423285.html",
-      "image_title": "Kartenzahlung mit Smartwatch über NFC"
-    },
-    {
-      "title": "China verschiebt Start der Mondsonde Chang'e 7",
-      "teaser": "Die nächste chinesische Mission zum Mond steht kurz vor ihrem Beginn. Ihr Ziel liegt diesmal am Südpol. Doch überraschend verschiebt die Behörde den Start.",
-      "url": "https://www.heise.de/news/China-verschiebt-Start-der-Mondsonde-Chang-e-7-11423241.html",
-      "image_title": "Mond mit seinen Kratern"
-    },
-    {
-      "title": "Gesicherte Routenführung: Wie die RPKI das Internet sichert",
-      "teaser": "Pakete im Internet können sich durch Fehler oder Angriffe auf Abwege begeben. Die Mechanismen einer wenig bekannten Public-Key-Infrastruktur schützen davor.",
-      "url": "https://www.heise.de/hintergrund/Gesicherte-Routenfuehrung-Wie-die-RPKI-das-Internet-sichert-11293844.html",
-      "image_title": "Berglandschaft mit Wanderern, Schildern und digitalen Blasen"
     },
     {
       "title": "Bahn sichert sich ICE-1-Updates bis Ende 2038",
@@ -628,22 +627,21 @@
       "url": "https://www.heise.de/en/news/Samsung-shows-300-Hz-OLED-for-notebooks-11422830.html"
     },
     {
-      "title": "c’t-Webinar: Die Wärmepumpe fürs Eigenheim",
-      "teaser": "Das Webinar bietet eine herstellerunabhängige Einführung in die Wärmepumpentechnik, hilft die Machbarkeit zu beurteilen und räumt mit Vorurteilen auf.",
-      "url": "https://www.heise.de/news/c-t-Webinar-Waermepumpentechnik-fuer-Einsteiger-erklaert-11419931.html",
-      "image_title": "Wärmepumpe mit Außeneinheit und Steuergerät, ein rosa Sparschwein darauf, blauer Hintergrund, daneben ein Logo: c't Webinar"
-    },
-    {
-      "title": "KI-Projekte im Griff: So wird aus gut gemeint auch gut gemacht",
-      "teaser": "KI erkennt, ob Mitarbeiter Helme tragen oder Verdächtiges tun – Hilfe oder Totalüberwachung? Wir fragten Udo Sglavo vom Softwareanbieter SAS, worauf es ankommt.",
-      "url": "https://www.heise.de/hintergrund/KI-Projekte-im-Griff-So-wird-aus-gut-gemeint-auch-gut-gemacht-11362654.html",
-      "image_title": "Überwachung, Kamera"
+      "title": "50-TByte-Festplatten in Sicht: Die Roadmap der großen Speicherhersteller",
+      "teaser": "Seagate, WD und Toshiba profitieren von der Speicherknappheit. Für das 2027 sind die ersten Laufwerke mit 50 TByte Speicherplatz angekündigt.",
+      "url": "https://www.heise.de/hintergrund/50-TByte-Festplatten-in-Sicht-Die-Roadmap-der-grossen-Speicherhersteller-11402713.html"
     },
     {
       "title": "Forschung: Roboter lernt Klettern und Ballett aus Handyvideo",
       "teaser": "Mit der Steuersoftware ZEST lernen Roboter Tricks aus Handyvideos oder Bewegungsdaten. Auf der echten Hardware gelingt ihnen der Trick dann auf Anhieb.",
       "url": "https://www.heise.de/hintergrund/Forschung-Roboter-lernt-Klettern-und-Ballett-aus-Handyvideo-11414865.html",
       "image_title": "Ein Roboter tanzt Ballett"
+    },
+    {
+      "title": "Auf dem Weg zu KI-Rechenzentren im All: SpaceXAI zeigt „Starmind“",
+      "teaser": "Der 150-Kilowatt-Satellit SpaceXAI AI1 bringt eine angepasste Version des KI-Systems Nvidia Vera Rubin NVL72 ins All und speist es mit Solarstrom.",
+      "url": "https://www.heise.de/news/Elon-Musks-KI-Satellit-SpaceXAI-Starmind-AI1-nimmt-Nvidia-Technik-an-Bord-11424009.html",
+      "image_title": "Ansicht des Satelliten AI1 von SpaceXAI"
     },
     {
       "title": "14 TippsApple Mail auf dem iPad meistern",
@@ -748,42 +746,41 @@
       "image_title": "Volkswagen in Wolfsburg"
     },
     {
-      "title": "Aufrüstung statt Industrie: Wiederholt Deutschland den Fehler der USA?",
-      "teaser": "Während Washington nach 9/11 seine Prioritäten verschob, entwickelte sich China zur industriellen Großmacht. Deutschlands Aufrüstung wirft unbequeme Fragen auf.",
-      "url": "https://www.telepolis.de/article/Aufruestung-statt-Industrie-Wiederholt-Deutschland-den-Fehler-der-USA-11415630.html",
-      "image_title": "Containerschiff aus China fährt einen deutschen Hafen an"
+      "title": "Gasspeicher auf Rekordtief: Warum Heizen diesen Winter teuer werden könnte",
+      "teaser": "Der negative Sommer-Winter-Spread macht Einspeichern zum Verlustgeschäft. Die Folge: Rekordtiefe Füllstände vor der Heizperiode.",
+      "url": "https://www.telepolis.de/article/Gasspeicher-auf-Rekordtief-Warum-Heizen-diesen-Winter-teuer-werden-koennte-11417422.html",
+      "image_title": "Der Erdgasspeicher in Rehden ist mit einer Kapazität von 3,9 Milliarden Kubikmetern Erdgas der größte Erdgasspeicher in Westeuropa."
     },
     {
-      "title": "Die Französische Revolution: Wie 1789 das bürgerliche Zeitalter einläutete",
-      "teaser": "Wie die Französische Revolution 1789 das Ancien Régime hinwegfegte und dem bürgerlich-kapitalistischen Zeitalter zum Durchbruch verhalf (Teil 1/2).",
-      "url": "https://www.telepolis.de/article/Die-Franzoesische-Revolution-Wie-1789-das-buergerliche-Zeitalter-einlaeutete-11410147.html",
-      "image_title": "Mehrere Menschen in einem Ballhaus, Ölgemälde mit dramatischer Beleuchtung"
+      "title": "Pflaumen, Zucchini, Tomaten: 5 Methoden, Ihre Ernte richtig haltbar zu machen",
+      "teaser": "Einkochen, trocknen, fermentieren, einlegen oder einfrieren: So bleibt Obst und Gemüse aus dem Garten monatelang frisch – ganz ohne künstliche Zusatzstoffe.",
+      "url": "https://www.telepolis.de/article/Pflaumen-Zucchini-Tomaten-5-Methoden-Ihre-Ernte-richtig-haltbar-zu-machen-11412472.html",
+      "image_title": "Einweckglas und Tupperwarebox"
     },
     {
-      "title": "\"Hiddensee\": Wie ein Ferienparadies deutsche Geschichte sichtbar macht",
-      "teaser": "Annekatrin Hendels Dokumentarfilm zeigt Hiddensee als Sehnsuchtsort, in dem deutsche Geschichte, Freiheit und Widersprüche sichtbar werden.",
-      "url": "https://www.telepolis.de/article/Hiddensee-Wie-ein-Ferienparadies-deutsche-Geschichte-sichtbar-macht-11416901.html",
-      "image_title": "Filmbild: Mann und Frau sind sich nah in sanftem Schwarz-Weiß."
+      "title": "\"Die Odyssee\": Was Nolans Film über die USA von heute verrät",
+      "teaser": "Nolans Epos spiegelt das schlechte Gewissen der USA. Schuld, Intrigen und brüchige Hegemonie prägen Odysseus' Irrfahrt. Eine Filmrezension mit Spoilern.",
+      "url": "https://www.telepolis.de/article/Die-Odyssee-Was-Nolans-Film-ueber-die-USA-von-heute-verraet-11410287.html"
     },
     {
-      "title": "Für 3 Euro: So machst du aus deinem alten Laptop ein Chromebook",
-      "teaser": "Mit Chrome OS Flex bietet Google eine Alternative zu Windows an, die ausgedienten PCs ein neues Leben schenken soll. Die Installationsdatei kann man mittlerweile sogar auf einem Stick kaufen. Was bringt die Installation und was müsst ihr vorher wissen? Unser Autor erklärt es.",
-      "url": "https://t3n.de/news/chrome-os-flex-usb-stick-back-market-google-3-euro-1758960/"
+      "title": "Diese 6 Prompts helfen dir, versteckte Chancen in deinem Lebenslauf zu finden",
+      "teaser": "Der Lebenslauf ist so etwas wie die Visitenkarte des eigenen beruflichen Werdegangs, seinen Inhalt kennt man in der Regel in- und auswendig. Aber manchmal sind doch verborgene Talente in ihm zu finden – und damit ungeahntes Potenzial.",
+      "url": "https://t3n.de/news/bewerbung-prompts-chancen-lebenslauf-ki-1758125/"
     },
     {
-      "title": "Wir haben von KI erstellte Videospiele getestet, damit ihr es nicht müsst",
-      "teaser": "Ein neuer Prompting-Loop für Claude soll die Erstellung ganzer Videospiele deutlich vereinfachen. In der Realität ist das allerdings nicht ganz so einfach. Einen Ausflug in die Welt des spielbaren KI-Slop.",
-      "url": "https://t3n.de/news/ki-slop-gaming-claude-test-1759149/"
+      "title": "Niedrigen Pegel: „Die Folgen enden nicht mit steigenden Wasserständen“",
+      "teaser": "Wenngleich der Pegelstand im Rhein wieder steigt, so war die Situation für Flüsse in Deutschland in diesem Sommer besonders alarmierend. Das hat langfristige Folgen für die Wirtschaft.",
+      "url": "https://t3n.de/news/die-folgen-enden-nicht-mit-steigenden-wasserstaenden-was-die-niedrigen-pegel-fuer-unsere-wirtschaft-bedeuten-1759303/"
     },
     {
-      "title": "KI in Medizin: Hohes Datenschutzrisiko für bestimmte Personengruppen entdeckt",
-      "teaser": "Forschende greifen mit einer einfachen Methode erfolgreich medizinische KI-Modelle an und fordern Sicherheitsmaßnahmen – wenn auch nur für spezielle Fälle.",
-      "url": "https://t3n.de/news/ki-medizin-datenschutz-risiko-1758928/"
+      "title": "ChatGPT zeigt jetzt Werbung an: Wie Marken in KI-Gesprächen sichtbar werden",
+      "teaser": "OpenAI bringt Werbung in ChatGPT nach Europa und öffnet damit einen neuen digitalen Werbekanal. Für das Marketing ist vor allem der Kontext interessant: Statt einzelner Suchbegriffe können künftig Entscheidungssituationen darüber bestimmen, welche Werbung relevant ist.",
+      "url": "https://t3n.de/news/werbung-chatgot-marketing-neuer-kanal-1759471/"
     },
     {
-      "title": "[Werbung] NIS2-Compliance: Zugangsdaten schützen ohne Enterprise-Kosten",
-      "teaser": "Für NIS2-konformes Credential-Management sind effiziente Prozesse wichtiger als teure Lizenzen. Wir zeigen, wie Sie Zugriffs- & Nachweiskosten reduzieren.",
-      "url": "https://www.heise.de/download/specials/Werbung-NIS2-Compliance-Zugangsdaten-schuetzen-ohne-Enterprise-Kosten-11423317"
+      "title": "Cloud-Test: Die 10 besten Cloud-Speicher 2026 im Vergleich",
+      "teaser": "Wo gibt es den meisten Gratis-Speicher, wo den besten Datenschutz? Wir Cloud-Anbieter getestet und erklären, worauf bei der Auswahl zu achten ist.",
+      "url": "https://www.heise.de/download/specials/Die-10-besten-Cloud-Speicher-3149052"
     },
     {
       "title": "Desinfec't",
