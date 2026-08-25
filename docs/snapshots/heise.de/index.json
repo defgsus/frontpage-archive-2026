@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T14:32:09",
+  "timestamp": "2026-08-25T15:30:29",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -20,7 +20,11 @@
   ],
   "articles": [
     {
-      "title": "WhatsApp: Mehr Passkeys und verbesserte Sicherheit bei unbekannten Anrufen",
+      "title": "Browser-Tracking per Web Audio: Das verborgene Tonstudio",
+      "url": "https://www.heise.de/news/Browser-Tracking-per-Web-Audio-Das-verborgene-Tonstudio-11425479.html"
+    },
+    {
+      "title": "WhatsApp führt mehrere Passkeys ein und ersetzt PINs",
       "url": "https://www.heise.de/news/WhatsApp-Mehr-Passkeys-und-verbesserte-Sicherheit-bei-unbekannten-Anrufen-11425433.html"
     },
     {
@@ -56,10 +60,6 @@
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-11415568.html"
-    },
-    {
-      "title": "Apple nimmt zu OpenAIs Versuchen Stellung, seine Klage abzuweisen",
-      "url": "https://www.heise.de/news/Apple-vs-OpenAI-Apple-fuehlt-sich-missverstanden-11422839.html"
     },
     {
       "title": "Mac mini und Mac StudioApple stellt M6 und M5 Ultra vor",
@@ -182,20 +182,25 @@
       "image_title": "VW ID. Cross"
     },
     {
-      "title": "WhatsApp: Mehr Passkeys und verbesserte Sicherheit bei unbekannten Anrufen",
+      "title": "Browser-Tracking per Web Audio: Das verborgene Tonstudio",
+      "teaser": "Einem Entwickler ist aufgefallen, dass AliExpress das Web Audio API benutzt, um Geräte per unhörbarem Audiosignal zu erkennen. Fragt sich nur: Wie geht das?",
+      "url": "https://www.heise.de/news/Browser-Tracking-per-Web-Audio-Das-verborgene-Tonstudio-11425479.html"
+    },
+    {
+      "title": "WhatsApp führt mehrere Passkeys ein und ersetzt PINs",
       "teaser": "WhatsApp verbessert die Kontosicherheit durch die Unterstützung mehrerer Passkeys, stärkere Passwörter und Kontextinformationen bei unbekannten Anrufen.",
       "url": "https://www.heise.de/news/WhatsApp-Mehr-Passkeys-und-verbesserte-Sicherheit-bei-unbekannten-Anrufen-11425433.html",
       "image_title": "WhatsApp-Chat auf einem Smartphone"
     },
     {
-      "title": "Shark Flex Breeze Hydrogo im Test: Tischventilator mit Akku & feinem Sprühnebel",
-      "teaser": "Der Shark Flex Breeze Hydrogo ist ein kompakter, sparsamer Tischventilator mit Akku und feinem Sprühnebel. Dafür fehlen Oszillation und Fernbedienung.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/shark-flex-breeze-hydrogo-im-test-tischventilator-mit-akku-und-feinem-spruehnebel/rk50v95?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
-    },
-    {
       "title": "Europäische Cloud im Praxistest: Leistung, Sicherheit und KI aus einer Hand",
       "teaser": "Wie leistungsfähig sind europäische Cloud-Plattformen wirklich? Im Live-Webcast am 10.9. um 11 Uhr erleben Sie eine europäische Cloud-Plattform live – inklusive Demo, Kundenbeispielen und KI-Workloads.",
       "url": "https://business-services.heise.de/it-management/digitale-souveraenitaet/beitrag/europaeische-cloud-im-praxistest-leistung-sicherheit-und-ki-aus-einer-hand-5086/?source=hbsad_ersatz"
+    },
+    {
+      "title": "Shark Flex Breeze Hydrogo im Test: Tischventilator mit Akku & feinem Sprühnebel",
+      "teaser": "Der Shark Flex Breeze Hydrogo ist ein kompakter, sparsamer Tischventilator mit Akku und feinem Sprühnebel. Dafür fehlen Oszillation und Fernbedienung.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/shark-flex-breeze-hydrogo-im-test-tischventilator-mit-akku-und-feinem-spruehnebel/rk50v95?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Forschung: Roboter lernt Klettern und Ballett aus Handyvideo",
@@ -225,11 +230,6 @@
       "title": "Sony-Fernseher Bravia 9 II im Test: Echte Referenz oder überteuertes Smart-TV?",
       "teaser": "Sonys hat seinem Topmodell Bravia 9 II ein Backlight aus RGB-Mini-LEDs und eine mattierte Schirmoberfläche spediert. Erreicht das LCD-TV damit Referenzniveau?",
       "url": "https://www.heise.de/tests/Sony-Fernseher-Bravia-9-II-im-Test-Echte-Referenz-oder-ueberteuertes-Smart-TV-11399638.html"
-    },
-    {
-      "title": "Exchange Web Services: Admin-Hilfestellung vor API-Aus",
-      "teaser": "Microsoft erinnert an das Aus der EWS-API und liefert IT-Verantwortlichen Hilfestellung bei der Suche betroffener Apps.",
-      "url": "https://www.heise.de/news/Exchange-Web-Services-Admin-Hilfestellung-vor-API-Aus-11425124.html"
     },
     {
       "title": "E-MobilitätElektroautos laden: Welche Vor- und Nachteile das induktive Laden hat",
@@ -313,6 +313,11 @@
       "url": "https://www.heise.de/bestenlisten/ratgeber/midea-portasplit-vergriffen-diese-alternativen-klimaanlagen-sind-lieferbar/lwt238q?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Exchange Web Services: Admin-Hilfestellung vor API-Aus",
+      "teaser": "Microsoft erinnert an das Aus der EWS-API und liefert IT-Verantwortlichen Hilfestellung bei der Suche betroffener Apps.",
+      "url": "https://www.heise.de/news/Exchange-Web-Services-Admin-Hilfestellung-vor-API-Aus-11425124.html"
+    },
+    {
       "title": "Sony Xperia 10 VIII: Neues Mittelklasse-Smartphone mit saftigem Aufpreis",
       "teaser": "Sony stellt das Xperia 10 VIII vor. Trotz fast identischer Hardware zum Vorgänger steigt der Preis deutlich auf 599 Euro.",
       "url": "https://www.heise.de/news/Sony-Xperia-10-VIII-Neues-Mittelklasse-Smartphone-mit-saftigem-Aufpreis-11425070.html",
@@ -382,15 +387,15 @@
       "image_title": "Drei schematische Tabellen nebeneinander mit blauen Hervorhebungen"
     },
     {
+      "title": "VPNs am Ende? 7 IT-Security-Fehler, die Sie jetzt kennen müssen",
+      "teaser": "Sind VPNs wirklich noch zeitgemäß? Und welche klassischen Sicherheitsfehler gefährden Ihre IT täglich? Darum geht es beim Live Web-Talk am 3.9. um 11 Uhr – die ersten 100 Teilnehmer erhalten einen 15 € Lieferando-Gutschein!",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/vpns-am-ende-7-it-security-fehler-die-sie-jetzt-kennen-muessen-5088/?source=hbsad-ersatz"
+    },
+    {
       "title": "Software Testing: Warum vollständige Coverage keine Fehlerfreiheit garantiert",
       "teaser": "Garantierte Fehlerfreiheit in Softwaretests gibt es nicht – auch nicht bei 100-prozentiger Coverage, wie Roger Butenuth im Interview ausführt.",
       "url": "https://www.heise.de/blog/Software-Testing-Warum-vollstaendige-Coverage-keine-Fehlerfreiheit-garantiert-11424537.html",
       "image_title": "Software Testing: Coverage"
-    },
-    {
-      "title": "Effizienter Schutz sensibler Daten",
-      "teaser": "Der Schutz von Unternehmensdaten beginnt mit einer zuverlässigen Klassifizierung. Doch wie lässt sich Dokumenten automatisiert das richtige Label zuweisen? Antworten darauf gibt es in einem Webcast.",
-      "url": "https://business-services.heise.de/software/dokumenten-management/beitrag/effizienter-schutz-sensibler-daten-wie-microsoft-purview-um-securiti-ai-ergaenzt-wird-5089/?source=hbsad_ersatz"
     },
     {
       "title": "Plötzliche Rallye: Bitcoin erstmals seit Monaten wieder über 80.000 US-Dollar",
@@ -445,11 +450,6 @@
       "teaser": "Angreifer missbrauchen eine Sicherheitslücke in Oracle HTTP-Server und Weblogic Server, die komplette Kompromittierung ermöglicht.",
       "url": "https://www.heise.de/news/Attacken-auf-Oracle-Weblogic-und-HTTP-Server-beobachtet-11424527.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "IT Summit 2026: Digital souveräne KI, Infrastruktur und Arbeitsplätze",
-      "teaser": "Auf dem IT Summit 2026 erfahren IT-Verantwortliche an konkreten Beispielen, wie ihr Unternehmen bei KI, Arbeitsplatz und Infrastruktur digital souveräner wird.",
-      "url": "https://www.heise.de/news/IT-Summit-2026-Digital-souveraene-KI-Infrastruktur-und-Arbeitsplaetze-11420832.html"
     },
     {
       "title": "Missing Link: 30 Jahre Windows NT 4 - Ein Rückblick",
@@ -622,21 +622,22 @@
       "url": "https://www.heise.de/en/news/Samsung-shows-300-Hz-OLED-for-notebooks-11422830.html"
     },
     {
-      "title": "Forschung: Roboter lernt Klettern und Ballett aus Handyvideo",
-      "teaser": "Mit der Steuersoftware ZEST lernen Roboter Tricks aus Handyvideos oder Bewegungsdaten. Auf der echten Hardware gelingt ihnen der Trick dann auf Anhieb.",
-      "url": "https://www.heise.de/hintergrund/Forschung-Roboter-lernt-Klettern-und-Ballett-aus-Handyvideo-11414865.html",
-      "image_title": "Ein Roboter tanzt Ballett"
-    },
-    {
       "title": "Grub-Konfiguration unter Linux optimal anpassen",
       "teaser": "Grub ist der Standard-Bootloader aller Linuxe, doch nicht überall dürfen Sie auch alle Funktionen nutzen. Ein eigenes Skript beseitigt die Einschränkungen.",
       "url": "https://www.heise.de/hintergrund/Grub-Konfiguration-unter-Linux-optimal-anpassen-11250719.html",
       "image_title": "Ein Pinguin ist an eine Rakete gebunden und fliegt in den Nachthimmel, während Feuerwerk explodiert."
     },
     {
-      "title": "50-TByte-Festplatten in Sicht: Die Roadmap der großen Speicherhersteller",
-      "teaser": "Seagate, WD und Toshiba profitieren von der Speicherknappheit. Für das 2027 sind die ersten Laufwerke mit 50 TByte Speicherplatz angekündigt.",
-      "url": "https://www.heise.de/hintergrund/50-TByte-Festplatten-in-Sicht-Die-Roadmap-der-grossen-Speicherhersteller-11402713.html"
+      "title": "Forschung: Roboter lernt Klettern und Ballett aus Handyvideo",
+      "teaser": "Mit der Steuersoftware ZEST lernen Roboter Tricks aus Handyvideos oder Bewegungsdaten. Auf der echten Hardware gelingt ihnen der Trick dann auf Anhieb.",
+      "url": "https://www.heise.de/hintergrund/Forschung-Roboter-lernt-Klettern-und-Ballett-aus-Handyvideo-11414865.html",
+      "image_title": "Ein Roboter tanzt Ballett"
+    },
+    {
+      "title": "Leiser China-Mini-PC mit sparsamem Intel-Wildcat-Lake-Prozessor im Test",
+      "teaser": "Der Mini-PC Beelink Eqi Wildcat Lake Core 3 304 zählt zu den ersten mit einer Billig-CPU der Serie 300 und hat flotte Anschlüsse. Das leistet er im Büroalltag.",
+      "url": "https://www.heise.de/tests/Leiser-China-Mini-PC-mit-sparsamem-Intel-Wildcat-Lake-Prozessor-im-Test-11387527.html",
+      "image_title": "Ein kleiner silberner Computer mit USB-Anschlüssen und einem Logo auf der Oberseite."
     },
     {
       "title": "14 TippsApple Mail auf dem iPad meistern",
@@ -740,22 +741,22 @@
       "image_title": "Mazda CX-5 e-Skyactiv G 141"
     },
     {
-      "title": "Zwischen Weltmacht und Mittelfeld: Was Chinas BIP pro Kopf wirklich zeigt",
-      "teaser": "China ist die zweitgrößte Volkswirtschaft der Welt. Beim BIP pro Kopf bleibt es dennoch weit zurück. Warum das kein Widerspruch ist – sondern Strategie.",
-      "url": "https://www.telepolis.de/article/Zwischen-Weltmacht-und-Mittelfeld-Was-Chinas-BIP-pro-Kopf-wirklich-zeigt-11411497.html",
-      "image_title": "Bauarbeiter arbeitet an Stahlkonstruktion"
+      "title": "UpdateUkraine zerstört Tu-95-Bomber mit kopierter China-Drohne",
+      "teaser": "Die ukrainische Langstreckendrohne MICH 2000 entstand durch Industriespionage in einer chinesischen Fabrik. Nun hat sie einen strategischen Bomber vernichtet.",
+      "url": "https://www.telepolis.de/article/Ukraine-zerstoert-Tu-95-Bomber-mit-kopierter-China-Drohne-11416124.html",
+      "image_title": "Eine Drohne auf einem Startgestell bei Sonnenuntergang auf einem Flugplatz."
     },
     {
-      "title": "Chinas KI-Modelle sind plötzlich größer als alles aus den USA",
-      "teaser": "Chinas KI-Labore veröffentlichen 2026 die größten offenen Modelle und setzen die USA unter Druck. Nvidia und AMD kontern mit Modellen für ihre Chips.",
-      "url": "https://www.telepolis.de/article/Chinas-KI-Modelle-sind-ploetzlich-groesser-als-alles-aus-den-USA-11416545.html",
-      "image_title": "Grafik zum KI-Machtkampf zwischen China und den USA: Ein rot-goldener Code-Datenfluss symbolisiert Chinas KI-Modelle, ein blau glimmender US-Mikrochip steht für die Hardware-Macht."
+      "title": "Dead Pool am Colorado River: Wenn die Stauseen keinen Strom mehr liefern",
+      "teaser": "Der Colorado versorgt 40 Millionen Menschen mit Wasser und fünf Mio. Haushalte mit Strom. Doch die seit 20 Jahren anhaltende Dürre zwingt zum Wasser sparen.",
+      "url": "https://www.telepolis.de/article/Dead-Pool-am-Colorado-River-Wenn-die-Stauseen-keinen-Strom-mehr-liefern-11415087.html",
+      "image_title": "Stausee in karger Berglandschaft mit Dükern, die erkennen lassen, dass der Wasserstand viel zu niedrig ist."
     },
     {
-      "title": "600 Drohnen auf Moskau: Kiews Rekordangriff legt Wildberries-Lager lahm",
-      "teaser": "Kiews Drohnen treffen erneut Wildberries-Lager bei Moskau – Schäden bis zu 5 Milliarden Dollar. Ein Nato-Jet schießt über Rumänien eine Drohne ab.",
-      "url": "https://www.telepolis.de/article/600-Drohnen-auf-Moskau-Kiews-Rekordangriff-legt-Wildberries-Lager-lahm-11415407.html",
-      "image_title": "Soldat, der Drohne am Himmel mit Smartphone steuert"
+      "title": "Ben-Gvirs Worte, Berlins Fokus: Ein Kommentar zur deutschen Doppelmoral",
+      "teaser": "Der israelische Sicherheitsminister fordert die nächtliche Tötung von Dutzenden Palästinensern. Die deutschen Reaktionen darauf sind bezeichnend. Ein Kommentar.",
+      "url": "https://www.telepolis.de/article/Ben-Gvirs-Worte-Berlins-Fokus-Ein-Kommentar-zur-deutschen-Doppelmoral-11417214.html",
+      "image_title": "Ein Mann auf einer Tribüne"
     },
     {
       "title": "Diese 6 Prompts helfen dir, versteckte Chancen in deinem Lebenslauf zu finden",
