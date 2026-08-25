@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T12:21:22",
+  "timestamp": "2026-08-25T13:38:23",
   "url": "https://www.heise.de/newsticker/mobiles/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Xring O3: Xiaomi will es mit Apple, Qualcomm & Co. aufnehmen",
+      "title": "Garmin Fenix 9Neue Top-Uhren mit Amoled und InReach-Technik",
+      "teaser": "Garmin aktualisiert die Fenix-Reihe: Die neuen 9er-Modelle bieten AMOLED-Displays, mehr Speicher und Satelliten-Kommunikation.",
+      "url": "https://www.heise.de/news/Garmin-Fenix-9-Neue-Top-Uhren-mit-AMOLED-und-InReach-Technik-11425311.html",
+      "image_title": "Garmin Fenix 9 Modelle, links Läuferin in den Bergen"
+    },
+    {
+      "title": "Großer Leak in macOS 26.7 Release Candidate: War's ein Entwickler – oder die KI?",
+      "teaser": "Apple hat mit der fast fertigen nächsten macOS-26-Version diverse Hardware-Details verraten. Nun gibt es Spekulationen dazu, wie es so weit kam.",
+      "url": "https://www.heise.de/news/Grosser-Leak-in-macOS-26-7-Release-Candidate-War-s-ein-Entwickler-oder-die-KI-11424393.html",
+      "image_title": "Ein Apple-Leak (Symbolbild)"
+    },
+    {
+      "title": "Xiaomi Xring O3: Der erste Mobilprozessor mit LPDDR6-Speicher und Mali-G2-GPU",
       "teaser": "In ersten Tests ist der chinesische Mobilprozessor Xring O3 enorm effizient. Es gibt allerdings Vorbehalte.",
       "url": "https://www.heise.de/news/Xring-O3-Xiaomi-will-es-mit-Apple-Qualcomm-Co-aufnehmen-11425154.html",
       "image_title": "Kameraring des Xiaomi 17 Ultra Leica-Phones aus der Nähe"
@@ -30,18 +42,6 @@
       "teaser": "Sony stellt das Xperia 10 VIII vor. Trotz fast identischer Hardware zum Vorgänger steigt der Preis deutlich auf 599 Euro.",
       "url": "https://www.heise.de/news/Sony-Xperia-10-VIII-Neues-Mittelklasse-Smartphone-mit-saftigem-Aufpreis-11425070.html",
       "image_title": "Sony Xperia 10 VIII in verschiedenen Farben"
-    },
-    {
-      "title": "Unbrauchbare Legion GoLenovo räumt BIOS-Probleme ein",
-      "teaser": "Lenovo bestätigt Probleme mit einem BIOS-Update für das Legion Go ein. Unklar bleibt, ob der Hersteller dafür aufkommt.",
-      "url": "https://www.heise.de/news/Gebrickte-Handhelds-Lenovo-raeumt-BIOS-Probleme-ein-11424989.html",
-      "image_title": "Lenovo Legion Go mit großem Display und seitlich angebrachten Controllern vor violettem Hintergrund."
-    },
-    {
-      "title": "Leicht filterbare Domain: Apple ändert „E-Mail-Adresse verbergen“ doch nicht",
-      "teaser": "Apples populärer Dienst „Hide my Email“ sollte verändert werden – und hätte sich damit leicht unterbinden lassen. Die Idee wurde nun verworfen.",
-      "url": "https://www.heise.de/news/Leicht-filterbare-Domain-Apple-aendert-E-Mail-Adresse-verbergen-doch-nicht-11424859.html",
-      "image_title": "Apple-Mail-Icon (Symbolbild)"
     },
     {
       "title": "TestsTrackless-Links-Erweiterung im Test: Besser surfen auf iPhone, iPad und Mac",
@@ -57,6 +57,23 @@
       "title": "HintergrundiPhone-Kindersicherung: \"Wer nur auf technischen Schutz setzt, denkt zu kurz\"",
       "url": "https://www.heise.de/hintergrund/iPhone-Kindersicherung-Wer-nur-auf-technischen-Schutz-setzt-denkt-zu-kurz-11416028.html",
       "image_title": "Kind mit iPhone"
+    },
+    {
+      "title": "Dashcam 70mai A810S im Test: Dual-Kamera mit Parkraumüberwachung",
+      "teaser": "4K, langer Unfallvorlauf und Superkondensator statt Akku: Die Dashcam 70mai A810S verbessert den Vorgänger sinnvoll, aber nicht an allen Stellen. Reicht das trotzdem?",
+      "url": "https://www.heise.de/bestenlisten/testbericht/dashcam-70mai-a810s-im-test-dual-kamera-mit-parkraumueberwachung/527qmk1?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Unbrauchbare Legion Go: Lenovo räumt BIOS-Probleme ein",
+      "teaser": "Lenovo bestätigt Probleme mit einem BIOS-Update für das Legion Go ein. Unklar bleibt, ob der Hersteller für gebrickte Handhelds außerhalb der Garantie aufkommt.",
+      "url": "https://www.heise.de/news/Gebrickte-Handhelds-Lenovo-raeumt-BIOS-Probleme-ein-11424989.html",
+      "image_title": "Lenovo Legion Go mit großem Display und seitlich angebrachten Controllern vor violettem Hintergrund."
+    },
+    {
+      "title": "Leicht filterbare Domain: Apple ändert „E-Mail-Adresse verbergen“ doch nicht",
+      "teaser": "Apples populärer Dienst „Hide my Email“ sollte verändert werden – und hätte sich damit leicht unterbinden lassen. Die Idee wurde nun verworfen.",
+      "url": "https://www.heise.de/news/Leicht-filterbare-Domain-Apple-aendert-E-Mail-Adresse-verbergen-doch-nicht-11424859.html",
+      "image_title": "Apple-Mail-Icon (Symbolbild)"
     },
     {
       "title": "Warum das Auto für die Deutschen unverzichtbar bleibt",
@@ -127,22 +144,6 @@
       "teaser": "Business-, Enterprise- und Pro-Nutzer können ihre gesamte Rechnerarbeit unter macOS künftig von ChatGPT mitschreiben lassen. Die Memory-Files liegen offen.",
       "url": "https://www.heise.de/news/Computer-History-OpenAI-bringt-Windows-Recall-aehnliche-Funktion-auf-Macs-11422534.html",
       "image_title": "Computer History in Aktion, hier in der Menüleiste"
-    },
-    {
-      "title": "Tipp: Rollläden mit dem Sonnenlicht steuern",
-      "teaser": "Motorisierte Rollläden lassen sich auch bei Abwesenheit automatisch steuern. Möglich ist sogar, sie je nach Tageslicht zu öffnen und zu schließen. So geht’s.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Rolllaeden-mit-dem-Sonnenlicht-steuern-11422963.html",
-      "image_title": "Eve Shutter Switch"
-    },
-    {
-      "title": "Top 10: Der beste Insektenstichheiler im Test",
-      "teaser": "Stichheiler versprechen schnelle Linderung bei Mückenstichen durch Wärme. Wir zeigen, welche Geräte im Test überzeugen.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-insektenstichheiler-im-test-heat-it-vor-beurer-und-bite-away/h832dqm?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Lenovo Idea Tab Pro Gen 2 im Test: Starkes Tablet mit 13 Zoll und 144-Hz-Display",
-      "teaser": "Ein 13-Zoll-Display mit 3,5K-Auflösung, 144 Hz Bildwiederholrate und dem Snapdragon 8s Gen 4 als SoC. Das Lenovo Idea Tab Pro Gen 2 tischt ordentlich auf.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/lenovo-idea-tab-pro-gen-2-im-test-starkes-tablet-mit-13-zoll-und-144-hz-display/sbcmk97?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsAliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",
