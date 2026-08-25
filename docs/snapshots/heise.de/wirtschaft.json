@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T09:22:21",
+  "timestamp": "2026-08-25T10:19:02",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,28 +20,26 @@
   ],
   "articles": [
     {
+      "title": "50-TByte-Festplatten in Sicht: Die Roadmap der großen Speicherhersteller",
+      "teaser": "Seagate, WD und Toshiba profitieren von der Speicherknappheit. Für das 2027 sind die ersten Laufwerke mit 50 TByte Speicherplatz angekündigt.",
+      "url": "https://www.heise.de/hintergrund/50-TByte-Festplatten-in-Sicht-Die-Roadmap-der-grossen-Speicherhersteller-11402713.html"
+    },
+    {
+      "title": "ChatGPT: OpenAI bringt 5-Stunden-Limit wieder zurück – wer davon betroffen ist",
+      "teaser": "OpenAI hat schlechte Nachrichten für Nutzer: Das 5-Stunden-Limit kommt zurück. Warum es wieder aktiviert wird.",
+      "url": "https://www.heise.de/news/ChatGPT-OpenAI-bringt-5-Stunden-Limit-wieder-zurueck-wer-davon-betroffen-ist-11424889.html",
+      "image_title": "OpenAI-Logo auf einem grünen Schild an einer Gebäudefassade."
+    },
+    {
+      "title": "Deutsche Bahn: Fernverkehr mit hoher Ausfallquote im ersten Halbjahr",
+      "teaser": "Die Deutsche Bahn gibt im ersten Halbjahr kein gutes Bild ab. Viele Fernzüge sind verspätet unterwegs – auch der Anteil der ausgefallenen Züge hat sich erhöht.",
+      "url": "https://www.heise.de/news/Deutsche-Bahn-Fernverkehr-mit-hoher-Ausfallquote-im-ersten-Halbjahr-11424791.html"
+    },
+    {
       "title": "Quantencomputer aus neutralen Atomen: Im Labor von planqc zu Besuch",
       "teaser": "Qubits aus Atomen galten als Nische, nun setzt sogar Google darauf. Zu Besuch bei planqc, das ganz vorn mitspielt – obwohl es noch kein Gerät ausgeliefert hat.",
       "url": "https://www.heise.de/hintergrund/Quantencomputer-aus-neutralen-Atomen-Im-Labor-von-planqc-zu-Besuch-11369141.html",
       "image_title": "Ein Labortisch mit vielen Spiegeln und Optiken"
-    },
-    {
-      "title": "Amazon erhöht Preise für Echo, Fire TV und Kindle in Deutschland",
-      "teaser": "Amazon hebt die Preise seiner eigenen Produkte wie Fire-TV-Sticks und Echo-Speaker auch in Deutschland an. Ursache dafür sei die Speicherkrise.",
-      "url": "https://www.heise.de/news/Amazon-erhoeht-Preise-fuer-Echo-Fire-TV-und-Kindle-in-Deutschland-11424733.html",
-      "image_title": "Amazon Fire TV Stick mit Fernbedieung auf Tisch"
-    },
-    {
-      "title": "Software-BugsSoftware Testing: Warum vollständige Coverage keine Fehlerfreiheit garantiert",
-      "teaser": "Garantierte Fehlerfreiheit in Softwaretests gibt es nicht – auch nicht bei 100-prozentiger Coverage, wie Roger Butenuth im Interview ausführt.",
-      "url": "https://www.heise.de/blog/Software-Testing-Warum-vollstaendige-Coverage-keine-Fehlerfreiheit-garantiert-11424537.html",
-      "image_title": "Software Testing: Coverage"
-    },
-    {
-      "title": "Plötzliche Rallye: Bitcoin erstmals seit Monaten wieder über 80.000 US-Dollar",
-      "teaser": "Seit einigen Tagen zieht der Preis des Bitcoin kräftig an, erstmals seit dem Frühjahr ist er wieder über 80.000 US-Dollar wert. Wie es weitergeht, ist unklar.",
-      "url": "https://www.heise.de/news/Ploetzliche-Rallye-Bitcoin-erstmals-seit-Monaten-wieder-ueber-80-000-US-Dollar-11424681.html",
-      "image_title": "Bitcoin-Münzen"
     },
     {
       "title": "HintergrundKI-Projekte im Griff: So wird aus gut gemeint auch gut gemacht",
@@ -57,6 +55,18 @@
       "title": "RatgeberAltersvorsorge für Kinder: Die Frühstartrente erklärt",
       "url": "https://www.heise.de/ratgeber/Altersvorsorge-fuer-Kinder-Die-Fruehstartrente-erklaert-11187303.html",
       "image_title": "Ein Kind erhält Zuschüsse zur Rente vom Staat"
+    },
+    {
+      "title": "Software Testing: Warum vollständige Coverage keine Fehlerfreiheit garantiert",
+      "teaser": "Garantierte Fehlerfreiheit in Softwaretests gibt es nicht – auch nicht bei 100-prozentiger Coverage, wie Roger Butenuth im Interview ausführt.",
+      "url": "https://www.heise.de/blog/Software-Testing-Warum-vollstaendige-Coverage-keine-Fehlerfreiheit-garantiert-11424537.html",
+      "image_title": "Software Testing: Coverage"
+    },
+    {
+      "title": "Plötzliche Rallye: Bitcoin erstmals seit Monaten wieder über 80.000 US-Dollar",
+      "teaser": "Seit einigen Tagen zieht der Preis des Bitcoin kräftig an, erstmals seit dem Frühjahr ist er wieder über 80.000 US-Dollar wert. Wie es weitergeht, ist unklar.",
+      "url": "https://www.heise.de/news/Ploetzliche-Rallye-Bitcoin-erstmals-seit-Monaten-wieder-ueber-80-000-US-Dollar-11424681.html",
+      "image_title": "Bitcoin-Münzen"
     },
     {
       "title": "Oura steht vor milliardenschwerem Börsengang",
@@ -134,18 +144,6 @@
       "teaser": "Seit einigen Monaten verlangt Apple Music von Labels und Direktvertrieben die Angabe, ob Musik KI-Elemente enthält. Nun wird der Hinweis auch für User sichtbar.",
       "url": "https://www.heise.de/news/KI-Label-fuer-Apple-Music-wird-demnaechst-sichtbar-gemacht-11421628.html",
       "image_title": "Apple Music im App Store auf dem iPhone"
-    },
-    {
-      "title": "Analyse: Maximaler Ausbau von Offshore-Windenergie kann Niederschläge verändern",
-      "teaser": "Wenn Windparks in Nord- und Ostsee maximal ausgebaut werden, kann das die Verteilung von Niederschlägen verändern. Das Szenario ist aktuell aber unrealistisch.",
-      "url": "https://www.heise.de/news/Analyse-Maximaler-Ausbau-von-Offshore-Windenergie-kann-Niederschlaege-veraendern-11423323.html",
-      "image_title": "Wolken über einem Offshore-Windpark"
-    },
-    {
-      "title": "Hugging Face steht vor möglichem Milliardenverkauf",
-      "teaser": "Nach OpenRouter rückt mit Hugging Face die nächste große KI-Plattform ins Visier möglicher Käufer. Mindestens 13 Milliarden US-Dollar stehen dabei im Raum.",
-      "url": "https://www.heise.de/news/KI-Plattform-Hugging-Face-prueft-milliardenschweren-Verkauf-11423337.html",
-      "image_title": "Smartphone mit dem Logo der KI-Plattform Hugging Face vor einem unscharfen Bildschirmhintergrund."
     },
     {
       "title": "NewsAliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",

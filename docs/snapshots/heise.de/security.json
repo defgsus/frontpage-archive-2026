@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T09:22:18",
+  "timestamp": "2026-08-25T10:18:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,16 +20,15 @@
   ],
   "articles": [
     {
+      "title": "AlertZugriffsverwaltung KeycloakKontoübernahme durch Passwort-Rücksetzfunktion",
+      "teaser": "In Keycloak können Angreifer einen Fehler beim Passwort-Rücksetzen missbrauchen, um Konten zu übernehmen.",
+      "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html"
+    },
+    {
       "title": "SicherheitsproblemWindows-Defender-Treiber hebelt Windows-Sicherheitsmechanismen aus",
       "teaser": "Der Windows Defender Boot-Time Removal-Treiber öffnet Angreifern weitreichende Möglichkeiten, Systeme zu kompromittieren.",
       "url": "https://www.heise.de/news/Windows-Defender-Treiber-zum-Kompromittieren-von-Windows-missbrauchbar-11423812.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "„GTA 6“-ISOVermeintliche Leak-Abbilddatei voller Malware",
-      "teaser": "Bösartige Akteure bieten das vermeintlich geleakte ISO von „GTA 6“ im Netz an. Die 113 GByte enthalten aufgepumpte Virendaten.",
-      "url": "https://www.heise.de/news/GTA-6-ISO-Vermeintliche-Leak-Abbilddatei-voller-Malware-11423363.html",
-      "image_title": "\"GTA 6\"-Bild von Rockstar Games"
     },
     {
       "title": "AlertTP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
@@ -52,14 +51,15 @@
       "url": "https://heise-conferences.de/webinar/ki-fur-verteidiger-2026-WWq3dxp7zqocrV?wt_mc=intern.conf.security.web_ki-verteidiger.security_buehne_1.teaser.teaser&LPID=39434"
     },
     {
+      "title": "Microsoft: Druckprobleme nach .NET-Updates",
+      "teaser": "Auch die .NET-Updates aus dem August sorgen für Probleme. Microsoft untersucht PDF-Druckprobleme, die nach der Installation auftreten.",
+      "url": "https://www.heise.de/news/Microsoft-Druckprobleme-nach-NET-Updates-11424951.html",
+      "image_title": "Windows Updates verfügbar: Herunterladen, Installation, Abgeschlossen"
+    },
+    {
       "title": "AlertTP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
       "teaser": "Es sind wichtige Sicherheitsupdates verschiedene Router aus TP-Links Business-Netzwerkplattform Omada erschienen.",
       "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html"
-    },
-    {
-      "title": "AlertZugriffsverwaltung Keycloak: Kontoübernahme durch Passwort-Rücksetzfunktion",
-      "teaser": "In dem Identitäts- und Zugriffssteuerungssystem Keycloak können Angreifer einen Fehler beim Passwort-Rücksetzen missbrauchen, um Konten zu übernehmen.",
-      "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html"
     },
     {
       "title": "iX-Workshop: Windows Server absichern und härten",
@@ -109,6 +109,12 @@
       "image_title": "Ein Update-Schriftzug auf einem Bildschirm"
     },
     {
+      "title": "„GTA 6“-ISO: Vermeintliche Leak-Abbilddatei voller Malware",
+      "teaser": "Bösartige Akteure bieten das vermeintlich geleakte ISO von „GTA 6“ im Netz an. Die 113 GByte enthalten aufgepumpte Virendaten.",
+      "url": "https://www.heise.de/news/GTA-6-ISO-Vermeintliche-Leak-Abbilddatei-voller-Malware-11423363.html",
+      "image_title": "\"GTA 6\"-Bild von Rockstar Games"
+    },
+    {
       "title": "Update„Computer History“: OpenAI bringt Windows-Recall-ähnliche Funktion auf Macs",
       "teaser": "Business-, Enterprise- und Pro-Nutzer können ihre gesamte Rechnerarbeit unter macOS künftig von ChatGPT mitschreiben lassen. Die Memory-Files liegen offen.",
       "url": "https://www.heise.de/news/Computer-History-OpenAI-bringt-Windows-Recall-aehnliche-Funktion-auf-Macs-11422534.html",
@@ -137,12 +143,6 @@
       "teaser": "Für vier Tage haben Angreifer in Großbritannien ein Kraftwerk abgeschaltet. Die Behörden warnen und besänftigten zugleich.",
       "url": "https://www.heise.de/news/Britische-Regierung-bestaetigt-Cyberattacke-auf-Kraftwerk-11422989.html",
       "image_title": "Flagge Großbritanniens auf einer Europakarte"
-    },
-    {
-      "title": "Beinahe militärische Telefonate abgehört: Deutsche Hackerin kaperte ENUM-Domains",
-      "teaser": "Einige Inselnationen hatten geschlampt und ihre Telefonie angreifbar gemacht. Die Sicherheitsbehörden reagierten erst spät und nach einem Raketenangriff.",
-      "url": "https://www.heise.de/hintergrund/ENUM-Domains-gekapert-Wie-eine-Hackerin-beinahe-militaerische-Telefonate-abhoerte-11420818.html",
-      "image_title": "Aerial,Photo,Of,Diego,Garcia"
     },
     {
       "title": "Workshop | 15. – 18.9.2026IT-Grundschutz-Praktiker mit Zertifikat",
