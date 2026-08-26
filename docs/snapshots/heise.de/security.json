@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-26T12:22:58",
+  "timestamp": "2026-08-26T13:42:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,19 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertZugriffsverwaltung KeycloakKontoübernahme durch Passwort-Rücksetzfunktion",
-      "teaser": "In Keycloak können Angreifer einen Fehler beim Passwort-Rücksetzen missbrauchen, um Konten zu übernehmen.",
-      "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html"
+      "title": "„Principal Certification Authority“Microsoft nutzt Zertifikatablauf zum Update von Code-Signing-Infrastruktur",
+      "teaser": "Auch die Code-Signing-Zertifikate von Microsoft haben ein Ablaufdatum. Microsoft will die Infrastruktur auf aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Microsoft-nutzt-Zertifikatablauf-zum-Update-von-Code-Signing-Infrastruktur-11426565.html",
+      "image_title": "Frau hält Smartphone in der Hand, daneben ein Zertifikatssymbol"
     },
     {
-      "title": "SicherheitsproblemWindows-Defender-Treiber hebelt Windows-Sicherheitsmechanismen aus",
-      "teaser": "Der Windows Defender Boot-Time Removal-Treiber öffnet Angreifern weitreichende Möglichkeiten, Systeme zu kompromittieren.",
-      "url": "https://www.heise.de/news/Windows-Defender-Treiber-zum-Kompromittieren-von-Windows-missbrauchbar-11423812.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+      "title": "BetrugSpyware-Masche gegen Indeed-Nutzer – infizierte Vorstellungsgespräch-Apps",
+      "teaser": "IT-Forscher beobachten eine globale Malware-Kampagne, bei der die Drahtzieher es auf Nutzer der Indeed-Plattform abgesehen haben.",
+      "url": "https://www.heise.de/news/Spyware-Masche-gegen-Indeed-Nutzer-infizierte-Vorstellungsgespraech-Apps-11426339.html",
+      "image_title": "Betrügerische Mail oder SMS mit Angelhaken auf einem Smartphone."
     },
     {
-      "title": "AlertWordPress-Plug-in TranslatePress ermöglicht Übernahme bei 400.000 Installationen",
-      "url": "https://www.heise.de/news/WordPress-Plug-in-TranslatePress-ermoeglicht-Uebernahme-bei-400-000-Installationen-11426021.html"
+      "title": "AlertKritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-11426165.html",
+      "image_title": "Update-Schriftzug vor einer Holzplatte"
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -51,22 +53,16 @@
       "url": "https://heise-conferences.de/webinar/ki-fur-verteidiger-2026-WWq3dxp7zqocrV?wt_mc=intern.conf.security.web_ki-verteidiger.security_buehne_1.teaser.teaser&LPID=39434"
     },
     {
-      "title": "Microsoft nutzt Zertifikatablauf zum Update von Code-Signing-Infrastruktur",
-      "teaser": "Auch die Code-Signing-Zertifikate von Microsoft haben ein Ablaufdatum. Microsoft will die Infrastruktur auf aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Microsoft-nutzt-Zertifikatablauf-zum-Update-von-Code-Signing-Infrastruktur-11426565.html",
-      "image_title": "Frau hält Smartphone in der Hand, daneben ein Zertifikatssymbol"
+      "title": "AlertKritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
+      "teaser": "Angreifer können mehrere Sicherheitslücken unter anderem in Adobe Campaign Classic, Illustrator und Substance 3D Designer ausnutzen.",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-11426165.html",
+      "image_title": "Update-Schriftzug vor einer Holzplatte"
     },
     {
       "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
       "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
       "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11415578.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Spyware-Masche gegen Indeed-Nutzer – infizierte Vorstellungsgespräch-Apps",
-      "teaser": "IT-Forscher beobachten eine globale Malware-Kampagne, bei der die Drahtzieher es auf Nutzer der Indeed-Plattform abgesehen haben.",
-      "url": "https://www.heise.de/news/Spyware-Masche-gegen-Indeed-Nutzer-infizierte-Vorstellungsgespraech-Apps-11426339.html",
-      "image_title": "Betrügerische Mail oder SMS mit Angelhaken auf einem Smartphone."
     },
     {
       "title": "AlertWordPress-Plug-in TranslatePress ermöglicht Übernahme bei 400.000 Installationen",
@@ -106,6 +102,11 @@
       "title": "AlertTP-Link Omada Gateways: Geräte über VPN-Verbindung kompromittierbar",
       "teaser": "Es sind wichtige Sicherheitsupdates verschiedene Router aus TP-Links Business-Netzwerkplattform Omada erschienen.",
       "url": "https://www.heise.de/news/TP-Link-Omada-Gateways-Geraete-ueber-VPN-Verbindung-kompromittierbar-11424717.html"
+    },
+    {
+      "title": "AlertZugriffsverwaltung Keycloak: Kontoübernahme durch Passwort-Rücksetzfunktion",
+      "teaser": "In dem Identitäts- und Zugriffssteuerungssystem Keycloak können Angreifer einen Fehler beim Passwort-Rücksetzen missbrauchen, um Konten zu übernehmen.",
+      "url": "https://www.heise.de/news/Zugriffsverwaltung-Keycloak-Kontouebernahme-durch-Passwort-Ruecksetzfunktion-11424729.html"
     },
     {
       "title": "iX-Workshop: Windows Server absichern und härten",
