@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-27T02:20:25",
+  "timestamp": "2026-08-27T13:13:47",
   "url": "https://www.bild.de/politik/ausland/politik-ausland/home-15683414.bild.html",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://jnt.bild.de/wwcoiz.js",
       "id": null,
       "text": null
     },
@@ -37,46 +43,123 @@
     },
     {
       "type": "module",
-      "src": "https://a.bildstatic.de/assets/index-CsKcjY0s.js",
+      "src": "https://a.bildstatic.de/assets/index-qxTOiIkH.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "US-Militär setzt Termin an: Prozess gegen 9/11-Drahtzieher soll 2028 starten",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-setzen-termin-an-prozess-gegen-9-11-drahtzieher-soll-2028-starten-6a8f6f88518a586e18559871",
-      "image_url": "https://images.bild.de/6a8f6f88518a586e18559871/d1153a1f7f2285235b04a07796b8eb92,8fd90f07?w=656",
-      "image_title": "USA setzen Termin an: Prozess gegen 9/11-Drahtzieher soll 2028 starten"
+      "title": "„Balkan-Schlächter“: Srebrenica-Kriegsverbrecher Ratko Mladic ist tot",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/massaker-von-srebrenica-kriegsverbrecher-ratko-mladic-ist-tot-6a902f1a8a7786c19f33616b",
+      "image_url": "https://images.bild.de/6a902f1a8a7786c19f33616b/7d01c8b9d4bc5b64a8bfc0aa2e690319,b1e68c97?w=656",
+      "image_title": "Massaker von Srebrenica: Kriegsverbrecher Ratko Mladic ist tot"
+    },
+    {
+      "title": "„Katastrophale Folgen“: Jetzt droht Putin den Briten!",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/russland-droht-mit-angriffen-auf-britische-militaerziele-6a9023f3518a586e1855a28d",
+      "image_url": "https://images.bild.de/6a9023f3518a586e1855a28d/f9921abf7c52881fafb98be397489f9f,70bf2755?w=320",
+      "image_title": "Russland droht Großbritannien mit Angriffen auf Militärziele"
+    },
+    {
+      "title": "Düstere Prognose von Microsoft-Gründer: Bill Gates warnt vor KI und will Berufe für Menschen reservieren",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/essay-von-microsoft-gruender-bill-gates-will-wegen-ki-berufe-fuer-menschen-reservieren-6a8fddea518a586e18559bcc",
+      "image_url": "https://images.bild.de/6a8fddea518a586e18559bcd/cb34431e0027071660288d5b6bcfc10e,de9f4e90?w=320",
+      "image_title": "Essay von Microsoft-Gründer: Bill Gates will wegen KI Berufe für Menschen reservieren"
+    },
+    {
+      "title": "Keine Regierung hielt länger: Meloni knackt Italien-Rekord",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/meloni-knackt-putzigen-italien-rekord-keine-italien-regierung-hielt-laenger-6a8fe5450c649aabd9715292",
+      "image_url": "https://images.bild.de/6a8fe5450c649aabd9715292/7cbdf4f480bc463bce2cb7bcf749cac3,11500e51?w=320",
+      "image_title": "Italien: Giorgia Meloni knackt Rekord! Keine Regierung hielt länger"
+    },
+    {
+      "title": "Hochrangiger Militär getötet?: Tödliche Explosion in Putins Heimatstadt",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/bei-explosion-in-st-petersburg-russischer-oberstleutnant-getoetet-6a9008920c649aabd97156aa",
+      "image_url": "https://images.bild.de/6a9008920c649aabd97156aa/cf369dc28eead2758769ac72079fe633,71afaeed?w=320",
+      "image_title": "Bei Explosion in St. Petersburg: Russischer Oberstleutnant getötet"
+    },
+    {
+      "title": "KI-Offensive gegen China und USA: Lidl-Konzern baut Milliarden-Rechenzentrum",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/ki-offensive-gegen-china-und-usa-lidl-konzern-baut-milliarden-rechenzentrum-6a51305736e98236c4bc47df",
+      "image_url": "https://images.bild.de/6a51305736e98236c4bc47df/e8039cd92cfb7ec21ca8ce406d68b0a7,b078cdc0?w=656",
+      "image_title": "Neue Rechenzentren und eigene KI: Deutschlands Tech-Offensive gegen China und USA"
+    },
+    {
+      "title": "Italiens Salvini düpiert Deutschland: Sabotiert dieser Rüpel-Minister Europas Asylwende?",
+      "teaser": "Statt sich an EU-Recht zu halten, attackiert der Rechtsaußen-Politiker Deutschland.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/italiens-salvini-duepiert-deutschland-sabotiert-dieser-ruepel-minister-europas-asylwende-6a8e9788c3692834ff6dcf58",
+      "image_url": "https://images.bild.de/6a8e9788c3692834ff6dcf58/e245f737e2522feb3b285c8d185ca06d,db366d35?w=320",
+      "image_title": "Italiens Salvini düpiert Deutschland: Sabotiert dieser Rüpel-Minister Europas Asylwende?"
+    },
+    {
+      "title": "2-Billionen-Haushalt: Sechs Länder fordern: Weniger Geld an die EU!",
+      "teaser": "Österreichs Kanzler zu BILD: „Bessere Entscheidungen statt mehr Geld und Beamte“",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/eu-will-2-billionen-euro-dieses-duo-will-von-der-leyens-etat-rasieren-6a8fea03518a586e18559cce",
+      "image_url": "https://images.bild.de/6a8fea03518a586e18559cce/d33d33ec89ebd104500d1f74190f24e7,16b1d635?w=320",
+      "image_title": "EU will 2 Billionen Euro: Dieses Duo will von der Leyens Etat rasieren!"
+    },
+    {
+      "title": "Schock über Sprach-Regel: Kanadas Rundfunk nennt 9/11 nicht mehr „Terror“",
+      "teaser": "Kanadas Staatssender CBC untersagt ihren Reportern, 9/11 als Terrorakt zu bezeichnen.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/schock-ueber-sprach-regel-kanadas-oerr-nennt-11-september-nicht-mehr-terror-6a8ff11a14f40f555e0a32d9",
+      "image_url": "https://images.bild.de/6a8ff11a14f40f555e0a32d9/297120f157ab19215c0423dcf644c208,c2f1e18e?w=320",
+      "image_title": "Schock über Sprach-Regel: Kanadas Rundfunk nennt 11. September nicht mehr „Terror“"
+    },
+    {
+      "title": "Streitpunkt Iran: CIA-Chef machte Russen wohl auch eine Mullah-Ansage",
+      "teaser": "CIA-Chef Ratcliffe drängt Russland, seine Hilfe für den Iran deutlich zu verringern.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/cia-chef-war-in-moskau-darum-braucht-trump-jetzt-putin-6a8fe658518a586e18559c9f",
+      "image_url": "https://images.bild.de/6a8fe658518a586e18559c9f/53c3de9f37374eb871977d3ecb87595b,c2e556da?w=320",
+      "image_title": "Streitpunkt Iran: CIA-Chef machte Russen wohl auch eine Mullah-Ansage"
+    },
+    {
+      "title": "Medienberichte: CIA-Chef warnte Russland vor Angriff auf die Nato",
+      "teaser": "CIA-Chef Ratcliffe warnte Moskau vor Schritten gegen baltische Nato-Staaten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/jetzt-ist-es-gewissheit-cia-chef-warnte-russland-vor-angriff-auf-die-nato-6a8fbb6b8a7786c19f3356bd",
+      "image_url": "https://images.bild.de/6a8fbb6b8a7786c19f3356bd/c24ef8168f7f1d1164370c407a7edeed,7b3575d2?w=320",
+      "image_title": "Medienberichte: CIA-Chef warnte Russland vor Angriff auf die Nato"
     },
     {
       "title": "Inside Donbass: Der Kampf um die letzten Festungen der Ukraine",
+      "teaser": "Ukrainische Drohnenkommandeure stemmen sich im Donbass gegen Putins langsamen Vormarsch.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/inside-donbass-der-kampf-um-die-letzten-festungen-der-ukraine-6a8ef9ac0030825e3e9cd24a",
-      "image_url": "https://images.bild.de/6a8ef9ac0030825e3e9cd24a/b588b1a6d90c0de8b86e037ff4b8ebc5,80305dc2?w=320",
+      "image_url": "https://images.bild.de/6a8ef9ac0030825e3e9cd24a/04874bd25efae1cff0358ee3a05666a4,8be6eca3?w=320",
       "image_title": "Inside Donbass: Der Kampf um die letzten Festungen der Ukraine"
     },
     {
+      "title": "US-Militär setzt Termin an: Prozess gegen 9/11-Drahtzieher soll 2028 starten",
+      "teaser": "2028 soll der Prozess gegen den mutmaßlichen 9/11-Chefplaner starten.",
+      "url": "https://www.bild.de/politik/ausland-und-internationales/usa-setzen-termin-an-prozess-gegen-9-11-drahtzieher-soll-2028-starten-6a8f6f88518a586e18559871",
+      "image_url": "https://images.bild.de/6a8f6f88518a586e18559871/1b611570a5a811ea03d894307ecea905,9b8f9de8?w=320",
+      "image_title": "USA setzen Termin an: Prozess gegen 9/11-Drahtzieher soll 2028 starten"
+    },
+    {
       "title": "Geheimes Doppelleben: Pussy-Riot-Aktivistin spionierte für Putin",
+      "teaser": "Rita Flores berichtet, wie der russische Geheimdienst sie zur Spitzelin machte.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/geheimes-doppelleben-aktivistin-von-pussy-riot-spionierte-fuer-putin-6a8ea5110797e27ac1de0615",
-      "image_url": "https://images.bild.de/6a8ea5110797e27ac1de0615/04eded09bffae0ac9618a52700978997,360dd45b?w=320",
+      "image_url": "https://images.bild.de/6a8ea5110797e27ac1de0615/adfe14fc811105f7db5817d70a3f568e,4fa6e456?w=320",
       "image_title": "Geheimes Doppelleben! Aktivistin von Pussy Riot spionierte für Putin"
     },
     {
       "title": "Nvidia legt heute Zahlen vor: Schicksalsnacht an der Börse für Anleger",
+      "teaser": "Nvidia-Zahlen entscheiden, ob der KI-Boom trägt oder Billionen wackeln.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/nvidia-legt-heute-zahlen-vor-das-bedeutet-die-schicksalsnacht-an-der-boerse-fuer-anleger-6a8ea14f511d4fd3bc4e4348",
-      "image_url": "https://images.bild.de/6a8ea14f511d4fd3bc4e4348/9e6783c33fba126c21f6c4a2d770572d,af74895f?w=320",
+      "image_url": "https://images.bild.de/6a8ea14f511d4fd3bc4e4348/360f1b98c722919796794684812c2d45,af74895f?w=320",
       "image_title": "Nvidia legt heute Zahlen vor: Schicksalsnacht an der Börse für Anleger"
     },
     {
       "title": "CIA-Direktor John Ratcliffe: Was macht Trumps Top-Agent in Moskau?",
+      "teaser": "Trumps CIA-Chef reist heimlich nach Moskau, um mit russischen Diensten zu sprechen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/cia-direktor-john-ratcliffe-was-macht-trumps-top-agent-in-moskau-6a8e7a1e0797e27ac1de032b",
-      "image_url": "https://images.bild.de/6a8e7a1e0797e27ac1de032b/40bd2294731c4bd4a6a7909a0e47928d,6837b072?w=320",
+      "image_url": "https://images.bild.de/6a8e7a1e0797e27ac1de032b/a3971f0dec7d1c3f37d4f78f4d9fb2f8,73ee3f53?w=320",
       "image_title": "CIA-Direktor John Ratcliffe: Was macht Trumps Top-Agent in Moskau?"
     },
     {
       "title": "USA sprechen von „Endphase“: Gewinnt Trump den Iran-Krieg jetzt doch?",
+      "teaser": "Einige Anzeichen sprechen dafür, dass die USA die Oberhand gegen die Mullahs gewinnen.",
       "url": "https://www.bild.de/politik/ausland-und-internationales/usa-sprechen-von-endphase-gewinnt-trump-den-iran-krieg-jetzt-doch-6a8d58a7d8b561d618970f00",
-      "image_url": "https://images.bild.de/6a8d58a7d8b561d618970f00/ff79158e77559772f4777a9d148bdba1-square,9b32d591?w=656",
+      "image_url": "https://images.bild.de/6a8d58a7d8b561d618970f00/7c961dff41b667606d6d75702232f91f,4ae534c0?w=320",
       "image_title": "USA sprechen von „Endphase“: Gewinnt Trump den Iran-Krieg jetzt doch?"
     },
     {
@@ -134,83 +217,6 @@
       "url": "https://www.bild.de/politik/ausland-und-internationales/benjamin-netanjahu-iran-hat-einen-meiner-soehne-ins-visier-genommen-6a8c8561381905026832107e",
       "image_url": "https://images.bild.de/6a8c8561381905026832107e/c7ad56a63404706252e8c8d2cfc81f98,43d914b7?w=320",
       "image_title": "Benjamin Netanjahu: „Iran hat einen meiner Söhne ins Visier genommen“"
-    },
-    {
-      "title": "Was die UN-Chefin jetzt macht: Annalena Baerbock hat neuen Job",
-      "teaser": "Jetzt steht fest, welchen Job Annalena Baerbock nach der Zeit als UN-Präsidentin macht.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/annalena-baerbock-hat-neuen-job-was-die-un-chefin-jetzt-macht-6a8c9535511d4fd3bc4e2a72",
-      "image_url": "https://images.bild.de/6a8c9535511d4fd3bc4e2a72/3fa91191fd2c626fa545e4d38cd94fdb,97a70bee?w=320",
-      "image_title": "Annalena Baerbock hat neuen Job: Was die UN-Chefin jetzt macht"
-    },
-    {
-      "title": "Wildberries droht Zwangsverwaltung: Jetzt greift Putin nach Russlands Amazon",
-      "teaser": "Putin erlaubt Zwangsverwaltung von Firmen nach ukrainischen Drohnenangriffen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/jetzt-greift-putin-nach-russlands-amazon-droht-wildberries-die-enteignung-6a8c59633819050268320e3e",
-      "image_url": "https://images.bild.de/6a8c59633819050268320e3e/25ca49e29ed9738233ec5905fa1c7d3a,a2f1c762?w=320",
-      "image_title": "Putin-Dekret: Wildberries droht Zwangsverwaltung"
-    },
-    {
-      "title": "Mullahs drohen mit Propaganda-Video: 10 Millionen Dollar Kopfgeld auf Trumps Sohn",
-      "teaser": "Iranischer Sender droht Barron Trump in KI-Video und setzt Kopfgeld aus.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/iran-mullahs-drohen-trump-sohn-im-staatsfernsehen-mit-dem-tod-6a8c0143c3692834ff6dacf2",
-      "image_url": "https://images.bild.de/6a8c0143c3692834ff6dacf2/ef8115921afc0f50c33c16799158d913,251d1bbd?w=320",
-      "image_title": "Iran: Mullahs drohen Trump-Sohn im Staatsfernsehen mit dem Tod"
-    },
-    {
-      "title": "Deutscher Forscher in Taiwan verfolgt: Eine China-Spionin hat mich bespitzelt",
-      "teaser": "Ein deutscher China-Experte wird in Taiwan verfolgt, doch Berlin reagiert kaum.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/deutscher-forscher-in-taiwan-verfolgt-eine-china-spionin-hat-mich-bespitzelt-6a88171f1c4720d416546c24",
-      "image_url": "https://images.bild.de/6a88171f1c4720d416546c24/dee4e32b33965564014f5dd6187165d6,c942a72b?w=320",
-      "image_title": "Deutscher Forscher in Taiwan verfolgt: Eine China-Spionin hat mich bespitzelt"
-    },
-    {
-      "title": "Wie Kim Jong-un: Wer sich jetzt noch die Bombe holen könnte",
-      "teaser": "Trumps Umgang mit Nordkorea schwächt US-Schutzschirm und heizt Atompläne an.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nordkorea-und-trump-experten-warnen-vor-neuer-atomarer-aufruestung-6a8997771c4720d4165483a1",
-      "image_url": "https://images.bild.de/6a8997771c4720d4165483a1/29b8b933c034159dfaa9835805ba0510,679abdaa?w=320",
-      "image_title": "Nordkorea und Trump: Experten warnen vor neuer atomarer Aufrüstung"
-    },
-    {
-      "title": "US-Verbündeter brüskiert: Gefallen für Kim? Trump streicht Südkorea-Manöver",
-      "teaser": "USA sagen Großmanöver mit Südkorea ab, Trump begründet dies mit Nahost-Lage.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/donald-trump-streicht-manoever-mit-suedkorea-machtpoker-im-hintergrund-6a8c0d71c3692834ff6dae20",
-      "image_url": "https://images.bild.de/6a8c0d71c3692834ff6dae20/673a799ded2b0b7ba25e5abfce1d3036,90099ec9?w=320",
-      "image_title": "Donald Trump streicht Manöver mit Südkorea – Machtpoker im Hintergrund"
-    },
-    {
-      "title": "Attacken auf Ozon-Lagerhäuser: Jetzt brennt auch der Rivale des Russen-Amazon",
-      "teaser": "Ukraine greift nun auch Ozon-Lager mit Drohnen an, Aktie stürzt um 20 Prozent ab.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/ukraine-krieg-jetzt-brennt-mit-ozon-auch-der-groesste-rivale-des-russen-amazon-6a8c0268c3692834ff6dad17",
-      "image_url": "https://images.bild.de/6a8c0268c3692834ff6dad17/bd4cce7d55a82052ef74a1a42d11036b,94822d52?w=320",
-      "image_title": "Ukraine-Krieg: Jetzt brennt mit Ozon auch der größte Rivale des Russen-Amazon"
-    },
-    {
-      "title": "Nicht nur die Wirtschaft wackelt: Iran-Präsident räumt Probleme ein",
-      "teaser": "Irans Präsident warnt vor umfassendem Krieg und beklagt schwere Wirtschaftskrise.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/nicht-nur-die-wirtschaft-wackelt-iran-praesident-raeumt-probleme-ein-6a8bb29dc3692834ff6da847",
-      "image_url": "https://images.bild.de/6a8bb29dc3692834ff6da847/3353a8d5dc3fcf1a7e76c9e362110514,d15437a6?w=320",
-      "image_title": "Nicht nur die Wirtschaft wackelt: Iran-Präsident räumt Probleme ein"
-    },
-    {
-      "title": "„Wirtschaftlicher D-Day“: USA kündigen „Endphase“ des Iran-Kriegs an",
-      "teaser": "USA planen massive Finanzoffensive, um das Regime in Teheran zu stürzen.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/wirtschaftlicher-d-day-usa-kuendigen-endphasedes-kriegs-im-iran-an-6a8be63ac3692834ff6daace",
-      "image_url": "https://images.bild.de/6a8be63ac3692834ff6daace/5b58c0ff3a12089f842e9a4702aec80a,ed1fb0?w=320",
-      "image_title": "„Wirtschaftlicher D-Day“: USA kündigen „Endphase“ des Kriegs im Iran an"
-    },
-    {
-      "title": "Liebe unter Drohnen im Ukraine-Krieg: „Das Einzige, was dir bleibt, ist, zu träumen“",
-      "teaser": "Ein Paar rettet im Donbass Verwundete und wagt trotz Drohnenangriffen die Liebe.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/das-einzige-was-dir-bleibt-ist-zu-traeumen-liebe-unter-drohnen-im-krieg-in-der-ukraine-6a464d17ea435cadee21f0a5",
-      "image_url": "https://images.bild.de/6a464d17ea435cadee21f0a5/1ecaf8439945d82b451bc5963a153ab8,d4c1aee2?w=320",
-      "image_title": "„Das Einzige, was dir bleibt, ist, zu träumen“: Liebe unter Drohnen im Krieg in der Ukraine"
-    },
-    {
-      "title": "Weiterer Angriff auf Zivilisten?: Russen-Drohne attackiert Radfahrer",
-      "teaser": "Ein Video zeigt einen russischen Drohnen-Angriff auf einen Radfahrer in der Ostukraine.",
-      "url": "https://www.bild.de/politik/ausland-und-internationales/selenskyj-spricht-von-gezielter-jagd-auf-menschen-russen-drohne-attackiert-radfahrer-6a8b099cc3692834ff6da384",
-      "image_url": "https://images.bild.de/6a8b099cc3692834ff6da384/e614f9cb89b7ec75ec5fc6ed9c1cd765,fa72f648?w=320",
-      "image_title": "Weiterer Angriff auf Zivilisten?: Russen-Drohne attackiert Radfahrer"
     },
     {
       "title": "Gangster-Look im Nepal-Parlament: Politiker darf weiter Sonnenbrille tragen",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-27T02:20:22",
+  "timestamp": "2026-08-27T13:13:45",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://jnt.bild.de/wwcoiz.js",
       "id": null,
       "text": null
     },
@@ -37,54 +43,124 @@
     },
     {
       "type": "module",
-      "src": "https://a.bildstatic.de/assets/index-CsKcjY0s.js",
+      "src": "https://a.bildstatic.de/assets/index-qxTOiIkH.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Bauland plötzlich Grünfläche: Meine Altersvorsorge ist bald Hochwassergebiet",
+      "url": "https://www.bild.de/regional/nordrhein-westfalen/herford-bauland-wird-wegen-hochwasserrisiko-zur-gruenflaeche-6a609ce6ea7bf3843138add4",
+      "image_url": "https://images.bild.de/6a609ce6ea7bf3843138add5/644395c596fc72a012c8b7ee90b60d31,88b43674?w=656",
+      "image_title": "Herford: Bauland wird wegen Hochwasserrisiko zur Grünfläche"
+    },
+    {
+      "title": "Unwettergefahr steigt : Hier kracht es heute am heftigsten!",
+      "url": "https://www.bild.de/news/wetter/unwettergefahr-steigt-stuendlich-hier-kracht-es-heute-am-heftigsten-6a9002d714f40f555e0a3548",
+      "image_url": "https://images.bild.de/6a9002d714f40f555e0a3548/1656f9024ab5579846b65b967719311c,9bd2e248?w=320",
+      "image_title": "Unwettergefahr steigt stündlich: Hier kracht es heute am heftigsten"
+    },
+    {
+      "title": "Wetter zwischen Hoch und Tief: Experte spricht von „Kopfschmerz-Temperaturen“",
+      "url": "https://www.bild.de/news/wetter/machtkampf-zwischen-hoch-und-tief-experte-spricht-von-kopfschmerz-temperaturen-6a8abe84c3692834ff6d9f45",
+      "image_url": "https://images.bild.de/6a8abe84c3692834ff6d9f45/d8ced2bcc24e9b020319c77a152e870f,e75adc6b?w=320",
+      "image_title": "Machtkampf zwischen Hoch und Tief: Experte spricht von „Kopfschmerz-Temperaturen“"
+    },
+    {
+      "title": "Existenzangst bei Landwirten: Molkerei-Gigant kündigt Verträge mit Milchbauern",
+      "url": "https://www.bild.de/regional/brandenburg/molkerei-gigant-kuendigt-liefervertraege-mit-milchbauern-6a8d5c83511d4fd3bc4e321e",
+      "image_url": "https://images.bild.de/6a8d5c83511d4fd3bc4e321e/748ee5cad50678f299c2d715c1db7327,817a3ddc?w=320",
+      "image_title": "Molkerei-Gigant kündigt Lieferverträge mit Milchbauern"
+    },
+    {
+      "title": "Nach 145 Jahren: Deutscher Zucker-Riese macht Fabrik dicht",
+      "url": "https://www.bild.de/news/inland/deutscher-zucker-riese-macht-fabrik-dicht-so-viele-jobs-fallen-weg-6a8ead630a3e8cd36757c82a",
+      "image_url": "https://images.bild.de/6a8ead630a3e8cd36757c82a/7e97cd7afb92388b5a6b0273666bc84e,3a179f2f?w=320",
+      "image_title": "Deutscher Zucker-Riese macht Fabrik dicht: So viele Jobs fallen weg"
+    },
+    {
+      "title": "Rekord-Einnahmen durch Blitzer: Oberbürgermeister rast zweimal in eigene Radarfalle",
+      "url": "https://www.bild.de/regional/baden-wuerttemberg/rekord-einnahmen-durch-blitzer-ob-rast-zweimal-in-eigene-radarfalle-6a1ebe34411d40cd4c74f59e",
+      "image_url": "https://images.bild.de/6a1ebe34411d40cd4c74f59e/38e669f6d9b2a61dfe61c7fc3a2cbd5b,5675448d?w=656",
+      "image_title": "Rekord-Einnahmen durch Blitzer: OB rast zweimal in eigene Radarfalle"
+    },
+    {
+      "title": "Polizei ermittelt in Bielefeld: Frau auf Discounter-Parkplatz entführt?",
+      "teaser": "Drei Männer ziehen eine verletzte Frau in ein Auto, die Polizei ermittelt wegen Entführung.",
+      "url": "https://www.bild.de/regional/nordrhein-westfalen/bielefeld-frau-auf-discounter-parkplatz-entfuehrt-6a8fda58518a586e18559b8b",
+      "image_url": "https://images.bild.de/6a8fda58518a586e18559b8b/d1566232a0b8eacb11fccb57f467155d,14c2d818?w=320",
+      "image_title": "Bielefeld: Frau auf Discounter-Parkplatz entführt?"
+    },
+    {
       "title": "Bei Flucht durch Dortmund: Mercedes-Rambo fährt Polizisten um",
+      "teaser": "PS-Rambo verletzt in Dortmund einen Zivilpolizisten und rast davon.",
       "url": "https://www.bild.de/news/inland/dortmund-mercedes-rambo-faehrt-polizisten-um-6a8f50226451e5b5c547b956",
-      "image_url": "https://images.bild.de/6a8f50226451e5b5c547b956/99815869e828f1995face4694bd247c9,287c4e98?w=656",
+      "image_url": "https://images.bild.de/6a8f50226451e5b5c547b956/40e9b746e110b7e269d2104362c86b89,af5c7eaa?w=320",
       "image_title": "Dortmund: Mercedes-Rambo fährt Polizisten um"
     },
     {
-      "title": "Mordprozess um Fabian (8): Das Rätsel um Gina H.s Bewegungsdaten vom Handy",
-      "url": "https://www.bild.de/news/inland/zwei-eintraege-passen-nicht-das-raetsel-um-gina-h-s-bewegungsdaten-6a8f1e4b518a586e185595d3",
-      "image_url": "https://images.bild.de/6a8f1e4b518a586e185595d3/5b92b23e0519196ed52e0796cd346dd7,a221d09e?w=320",
-      "image_title": "Zwei Einträge passen nicht: Das Rätsel um Gina H.s Bewegungsdaten"
+      "title": "Er sitzt in U-Haft, sie ist auf freiem Fuß: „Reichsbürger“-Prinz wirft Geliebte aus Schloss",
+      "teaser": "Der terrorverdächtige Prinz Reuß hat offenbar genug von seiner Freundin.",
+      "url": "https://www.bild.de/regional/frankfurt/russin-soll-koffer-packen-reichsbuerger-prinz-wirft-geliebte-aus-schloss-6a898507c3692834ff6d9446",
+      "image_url": "https://images.bild.de/6a898507c3692834ff6d9446/d09a314c827cb7acacb79aea7b7b11e4,2be859b9?w=320",
+      "image_title": "Russin soll Koffer packen: „Reichsbürger“-Prinz wirft Geliebte aus Schloss"
     },
     {
-      "title": "Entscheidung am Bundesgerichtshof: Gericht hebt Urteil zum Raketen-Rambo auf",
-      "url": "https://www.bild.de/news/inland/raketen-urteil-geplatzt-6-millionen-menschen-sahen-abschuss-6a8f16d10030825e3e9cd4bc",
-      "image_url": "https://images.bild.de/6a8f16d10030825e3e9cd4bc/6ec3c75e4bdb7a42d13748d12612d794,e3514c7?w=320",
-      "image_title": "Raketen-Urteil geplatzt: 6 Millionen Menschen sahen Abschuss"
-    },
-    {
-      "title": "Zwei Tote in Frankfurt/Main: Droht uns jetzt Gefahr durch Malaria-Mücken?",
-      "url": "https://www.bild.de/regional/frankfurt/zwei-tote-amflughafen-droht-uns-gefahr-durch-malaria-muecken-6a8f0b380030825e3e9cd3ab",
-      "image_url": "https://images.bild.de/6a8f0b380030825e3e9cd3ab/b9434fd7012319e2b34db9e57c891225,41178153?w=320",
-      "image_title": "Zwei Tote amFlughafen: Droht uns Gefahr durch Malaria-Mücken?"
-    },
-    {
-      "title": "Lotto am Mittwoch, 26.8.2026: Haben Sie den Lotto-Jackpot geknackt?",
-      "url": "https://www.bild.de/news/inland/lotto-6aus49-am-mittwoch-die-gewinnzahlen-vom-26-8-2026-6a8ea38f0797e27ac1de05e9",
-      "image_url": "https://images.bild.de/6a8ea38f0797e27ac1de05e9/deefbd0cc55c5db6a7521d9ce63ed16e,8030f4ac?w=320",
-      "image_title": "Lotto 6aus49 am Mittwoch: Die Gewinnzahlen vom 26.8.2026"
-    },
-    {
-      "title": "Flugdrama in Österreich: 2 Deutsche stürzen mit Kleinflugzeug in Attersee",
+      "title": "Flugdrama in Österreich: Zwei Deutsche stürzen mit Kleinflugzeug in Attersee",
+      "teaser": "Kleinflugzeug stürzte in Attersee – Großeinsatz läuft.",
       "url": "https://www.bild.de/news/ausland/zwei-deutsche-an-bord-kleinflugzeug-stuerzt-in-attersee-6a8ee8c4518a586e185591a4",
-      "image_url": "https://images.bild.de/6a8ee8c4518a586e185591a4/377ae738958ea38a1ad06a614d270640,2b766a1b?w=656",
+      "image_url": "https://images.bild.de/6a8ee8c4518a586e185591a4/dbaebf544e27d91acbca0ba96e0687e2,2b766a1b?w=320",
       "image_title": "Zwei Deutsche an Bord! Kleinflugzeug stürzt in Attersee"
     },
     {
-      "title": "Alle Mitarbeiter gekündigt: Würstchen-Firma macht für immer dicht",
-      "teaser": "Ein deutscher Hersteller von Würstchen mit über 140 Jahren Tradition verschwindet.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/wuerstchen-firma-macht-fuer-immer-dicht-alle-mitarbeiter-gekuendigt-6a8ede0f0030825e3e9ccf0e",
-      "image_url": "https://images.bild.de/6a8ede0f0030825e3e9ccf0e/284895b04326259f616b71cf6cbbe3a2,32e8372c?w=320",
-      "image_title": "Würstchen-Firma macht für immer dicht: Alle Mitarbeiter gekündigt"
+      "title": "In der Nacht zum Freitag: Deutschland erlebt seltene partielle Mondfinsternis",
+      "teaser": "Am 28. August ist in Deutschland eine seltene partielle Mondfinsternis zu sehen.",
+      "url": "https://www.bild.de/news/inland/spektakel-freitagmorgen-ueber-deutschland-mond-verschwindet-fast-komplett-6a8e9a510a3e8cd36757c5c3",
+      "image_url": "https://images.bild.de/6a8e9a510a3e8cd36757c5c3/ce5eb0dec6ee027a413a8cfc3547f267,d62bce08?w=320",
+      "image_title": "Spektakel Freitagmorgen über Deutschland: Mond verschwindet fast komplett"
+    },
+    {
+      "title": "Kalaschnikow-Überfall auf Mare Atlantico: Räuber nach Tipp festgenommen",
+      "teaser": "Polizei fasst drei Räuber nach Überfall auf Kölner Feinkostladen im Großmarkt.",
+      "url": "https://www.bild.de/regional/koeln/festnahmen-nach-vier-jahren-kalaschnikow-ueberfall-spur-fuehrt-ins-rocker-milieu-6a3a577284d1ec4a45f99c44",
+      "image_url": "https://images.bild.de/6a3a577284d1ec4a45f99c44/c86e30d33b19a385d6a51ca7afe044d6,ab1823dc?w=320",
+      "image_title": "Kalaschnikow-Überfall auf Mare Atlantico: Räuber nach Tipp festgenommen"
+    },
+    {
+      "title": "Zwei Tote am Frankfurter Flughafen: Droht uns jetzt Gefahr durch Malaria-Mücken?",
+      "teaser": "Sechs Flughafen-Beschäftigte haben Malaria, zwei Frankfurter starben daran.",
+      "url": "https://www.bild.de/regional/frankfurt/zwei-tote-amflughafen-droht-uns-gefahr-durch-malaria-muecken-6a8f0b380030825e3e9cd3ab",
+      "image_url": "https://images.bild.de/6a8f0b380030825e3e9cd3ab/e0f481d501d425df8db568a9fa15b0c7,41178153?w=320",
+      "image_title": "Zwei Tote amFlughafen: Droht uns Gefahr durch Malaria-Mücken?"
+    },
+    {
+      "title": "Drei Jahre nach Verbot: Razzia gegen Neonazi-Sekte „Artgemeinschaft“",
+      "teaser": "Polizei durchsucht 15 Objekte mutmaßlicher Anhänger der verbotenen Artgemeinschaft.",
+      "url": "https://www.bild.de/news/inland/razzia-gegen-neonazi-sekte-artgemeinschaft-15-objekte-durchsucht-6a8ff4270c649aabd97153e5",
+      "image_url": "https://images.bild.de/6a8ff4270c649aabd97153e5/ee552c7975994bee613c368bd309e628-landscape,3dc36526?w=320",
+      "image_title": "Razzia gegen Neonazi-Sekte „Artgemeinschaft“: 15 Objekte durchsucht"
+    },
+    {
+      "title": "6 Millionen Menschen sahen Abschuss: Raketen-Urteil geplatzt",
+      "teaser": "Der Bundesgerichtshof hat das Urteil aufgehoben. Was jetzt aus dem Berliner Fall wird.",
+      "url": "https://www.bild.de/news/inland/raketen-urteil-geplatzt-6-millionen-menschen-sahen-abschuss-6a8f16d10030825e3e9cd4bc",
+      "image_url": "https://images.bild.de/6a8f16d10030825e3e9cd4bc/be61cc70cc642e0dc29b12e865677315,f6c7f705?w=320",
+      "image_title": "Raketen-Urteil geplatzt: 6 Millionen Menschen sahen Abschuss"
+    },
+    {
+      "title": "Lotto am Mittwoch, 26. August 2026: Haben Sie den Lotto-Jackpot geknackt?",
+      "teaser": "Hier sind die aktuellen Gewinnzahlen für die Ziehung am 26. August 2026.",
+      "url": "https://www.bild.de/news/inland/lotto-6aus49-am-mittwoch-die-gewinnzahlen-und-quoten-vom-26-8-2026-6a8ea38f0797e27ac1de05e9",
+      "image_url": "https://images.bild.de/6a8ea38f0797e27ac1de05e9/d64484f87a9fce90711041c5eb3bd887,8030f4ac?w=320",
+      "image_title": "Lotto 6aus49 am Mittwoch: Die Gewinnzahlen und Quoten vom 26.8.2026"
+    },
+    {
+      "title": "DNA-Test da!: Wal Timmy ist zu 99,91 Prozent tot",
+      "teaser": "DNA-Analyse klärt mit 99,91‑prozentiger Sicherheit das Schicksal von Buckelwal Timmy.",
+      "url": "https://www.bild.de/regional/niedersachsen/dna-test-da-wal-timmy-ist-zu-99-91-prozent-tot-6a8ea20f0a3e8cd36757c679",
+      "image_url": "https://images.bild.de/6a8ea20f0a3e8cd36757c679/d8324a2f8414c549ce59a31dac179e77,5bbbfca7?w=320",
+      "image_title": "DNA-Test da: Wal Timmy ist zu 99,91 Prozent tot"
     },
     {
       "title": "Live-Ticker zum Prozess um ermordeten Fabian: Gina H.! Was sie in ihrem Verhör sagte",
@@ -92,6 +168,27 @@
       "url": "https://www.bild.de/regional/rostock/live-ticker-zum-mordprozess-um-fabian-gina-h-raeumt-alibi-deal-ein-69f2f4ded6078134c45a3b9c",
       "image_url": "https://images.bild.de/69f2f4ded6078134c45a3b9c/8e26f65bd45b959970e59e22a875e3db,9f14ab9f?w=320",
       "image_title": "Live-Ticker zum Mordprozess um Fabian: Gina H. schon nach zwei Tagen tatverdächtig!"
+    },
+    {
+      "title": "Wann es in Deutschland kracht: Erst Hitze, dann rollen schwere Unwetter an",
+      "teaser": "Eine Gewitterfront zieht nach Deutschland und kündigt den Wetterumschwung an.",
+      "url": "https://www.bild.de/news/wetter/hitze-comeback-mit-bis-zu-34-grad-dann-rollen-schwere-unwetter-an-6a8eaea8511d4fd3bc4e4520",
+      "image_url": "https://images.bild.de/6a8eaea8511d4fd3bc4e4520/2d3b405d2a3a342346b9d3cf8cce221f,c2aab99b?w=320",
+      "image_title": "Hitze-Comeback mit bis zu 34 Grad, dann rollen schwere Unwetter an"
+    },
+    {
+      "title": "Mordprozess um Fabian (8): Das Rätsel um Gina H.s Bewegungsdaten vom Handy",
+      "teaser": "Handy-Daten widersprechen Gina H.s Angaben und werfen neue Fragen zum Mord auf.",
+      "url": "https://www.bild.de/news/inland/zwei-eintraege-passen-nicht-das-raetsel-um-gina-h-s-bewegungsdaten-6a8f1e4b518a586e185595d3",
+      "image_url": "https://images.bild.de/6a8f1e4b518a586e185595d3/89df8c00c4ec96726102956862ebcb02,a221d09e?w=320",
+      "image_title": "Zwei Einträge passen nicht: Das Rätsel um Gina H.s Bewegungsdaten"
+    },
+    {
+      "title": "Alle Mitarbeiter gekündigt: Würstchen-Firma macht für immer dicht",
+      "teaser": "Ein deutscher Hersteller von Würstchen mit über 140 Jahren Tradition verschwindet.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/wuerstchen-firma-macht-fuer-immer-dicht-alle-mitarbeiter-gekuendigt-6a8ede0f0030825e3e9ccf0e",
+      "image_url": "https://images.bild.de/6a8ede0f0030825e3e9ccf0e/284895b04326259f616b71cf6cbbe3a2,32e8372c?w=320",
+      "image_title": "Würstchen-Firma macht für immer dicht: Alle Mitarbeiter gekündigt"
     },
     {
       "title": "Kurz vor 100. Jubiläum: Deutscher Möbel-Hersteller insolvent",
@@ -122,95 +219,10 @@
       "image_title": "Zugspitze: Betreiber fahnden nach „Sticker“-Chaoten"
     },
     {
-      "title": "„Ich dachte, ich werde da sterben“: Erstmals sprechen Opfer des CSD-Terrors",
-      "teaser": "Überlebende des Berliner CSD-Angriffs schildern das blutige Macheten-Attentat.",
-      "url": "https://www.bild.de/regional/berlin/anschlag-auf-csd-in-berlin-erstmals-sprechen-opfer-des-anschlags-6a8ec738692b2e9e3efcb877",
-      "image_url": "https://images.bild.de/6a8ec738692b2e9e3efcb877/440ec42ae4de9025ab0f05400b8c5150-landscape,dd7775dd?w=320",
-      "image_title": "Anschlag auf CSD in Berlin: Erstmals sprechen Opfer des Anschlags"
-    },
-    {
-      "title": "Universität Bonn: Forscherin will lebende Mäuse zusammennähen",
-      "teaser": "Köln: Gerichtsprozess um geplante Mäuseversuche für die Malariaforschung.",
-      "url": "https://www.bild.de/news/inland/universitaet-bonn-forscherin-will-lebende-maeuse-zusammennaehen-6a8e890d0a3e8cd36757c4a7",
-      "image_url": "https://images.bild.de/6a8e890d0a3e8cd36757c4a7/24e90e6d25a62836999a1bb50b366d22,d5e86305?w=320",
-      "image_title": "Universität Bonn: Forscherin will lebende Mäuse zusammennähen"
-    },
-    {
-      "title": "40 Millionen Euro!: Deutscher knackt den Eurojackpot",
-      "teaser": "Wo der Glückspilz herkommt und wer noch im Lotto abgeräumt hat.",
-      "url": "https://www.bild.de/regional/schleswig-holstein/deutscher-lotto-spieler-knackt-den-eurojackpot-und-gewinnt-40-millionen-6a8e52acc3692834ff6dcc52",
-      "image_url": "https://images.bild.de/6a8e52acc3692834ff6dcc52/4cc4291132c4e6af16ce34409719c4a2,da871dd9?w=320",
-      "image_title": "Deutscher Lotto-Spieler knackt den Eurojackpot und gewinnt 40 Millionen"
-    },
-    {
-      "title": "In der Nacht zum Freitag: Deutschland erlebt seltene partielle Mondfinsternis",
-      "teaser": "Am 28. August ist in Deutschland eine seltene partielle Mondfinsternis zu sehen.",
-      "url": "https://www.bild.de/news/inland/spektakel-freitagmorgen-ueber-deutschland-mond-verschwindet-fast-komplett-6a8e9a510a3e8cd36757c5c3",
-      "image_url": "https://images.bild.de/6a8e9a510a3e8cd36757c5c3/ce5eb0dec6ee027a413a8cfc3547f267,d62bce08?w=320",
-      "image_title": "Spektakel Freitagmorgen über Deutschland: Mond verschwindet fast komplett"
-    },
-    {
-      "title": "Rätsel um erschossenen Öko-Guru: Baum ist einziger Mord-Zeuge",
-      "teaser": "Ein 130 Jahre alter Baum wird gefällt, um Spuren im Mordfall Emminger zu finden.",
-      "url": "https://www.bild.de/regional/bayern/oeko-guru-im-allgaeu-ermordet-ermittler-lassen-alten-baum-faellen-6a8d82ffe998204a5d80b777",
-      "image_url": "https://images.bild.de/6a8d82ffe998204a5d80b777/67931e7afba0a40fada94e5a5aa3e0ba,d7f19344?w=320",
-      "image_title": "Öko-Guru im Allgäu ermordet: Ermittler lassen alten Baum fällen"
-    },
-    {
-      "title": "Das Größte der Region: Fast 900 Jahre altes Weingut steht vor der Pleite",
-      "teaser": "Dem größten Weingut der Region droht das Geld auszugehen.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/fast-900-jahre-altes-weingut-steht-vor-der-pleite-6a8d5d0a511d4fd3bc4e322d",
-      "image_url": "https://images.bild.de/6a8d5d0a511d4fd3bc4e322d/19ef0e0d7b172e90a7263eb23852e216,2e82705a?w=320",
-      "image_title": "Fast 900 Jahre altes Weingut steht vor der Pleite"
-    },
-    {
-      "title": "Mit Unwettern im Gepäck: Wann der Hochsommer zurückkommt",
-      "teaser": "Experten sind sich einig: Der Hochsommer meldet sich diese Woche noch einmal zurück!",
-      "url": "https://www.bild.de/news/wetter/wann-der-hochsommer-zurueckkommt-und-wo-er-unwetter-im-gepaeck-hat-6a8d44fd511d4fd3bc4e3089",
-      "image_url": "https://images.bild.de/6a8d44fd511d4fd3bc4e3089/7511a5a2005a8666ce77c5e7a6bf6930,45e94b6c?w=320",
-      "image_title": "Wann der Hochsommer zurückkommt – und wo er Unwetter im Gepäck hat"
-    },
-    {
-      "title": "Mücke reiste im Flieger nach Deutschland: Zwei Tote durch Malaria am Frankfurter Flughafen",
-      "teaser": "Nach Mückenstichen erkrankt ein Flughafenangestellter an Malaria und stirbt.",
-      "url": "https://www.bild.de/regional/frankfurt/muecke-reiste-im-flieger-nach-deutschland-flughafen-mitarbeiter-stirbt-an-malaria-6a8e9be8511d4fd3bc4e42bf",
-      "image_url": "https://images.bild.de/6a8e9be8511d4fd3bc4e42bf/869949ca707c40368c42e166a450ae22,2d9756f5?w=320",
-      "image_title": "Mücke reiste im Flieger nach Deutschland: Zwei Tote durch Malaria am Frankfurter Flughafen"
-    },
-    {
-      "title": "Bei null Grad!: Mutter (41) setzt Sohn (8) nackt im Wald aus",
-      "teaser": "Schwerer Fall von Misshandlung von Schutzbefohlenen in Sachsen.",
-      "url": "https://www.bild.de/regional/sachsen/sachsen-mutter-41-setzt-sohn-8-nackt-im-wald-aus-6a8d7d25511d4fd3bc4e3509",
-      "image_url": "https://images.bild.de/6a8d7d25511d4fd3bc4e3509/e795638baf526a9700ab047b5a7f8a39,3c1f2b0?w=320",
-      "image_title": "Sachsen: Mutter (41) setzt Sohn (8) nackt im Wald aus"
-    },
-    {
-      "title": "Zum kleinen Preis: Ein Stück Usedom wird versteigert",
-      "teaser": "Ein mehr als 12.000 Quadratmeter großes Grundstück auf Usedom kommt unter den Hammer.",
-      "url": "https://www.bild.de/regional/ostsee/zum-kleinen-preis-ein-stueck-usedom-wird-versteigert-6a8d5be4c3692834ff6dbf27",
-      "image_url": "https://images.bild.de/6a8d5be4c3692834ff6dbf27/12620580f076ecf4274321eeb20323f6,cb11a520?w=320",
-      "image_title": "Zum kleinen Preis: Ein Stück Usedom wird versteigert"
-    },
-    {
-      "title": "Ziehung am 25. August 2026: Haben Sie den Eurojackpot geknackt?",
-      "teaser": "Die Gewinnzahlen & Quoten des Eurojackpots von Dienstag, 25. August 2026, lesen Sie hier.",
-      "url": "https://www.bild.de/news/inland/eurojackpot-am-dienstag-die-gewinnzahlen-quoten-vom-25-8-2026-6a8555a4b6831511cf83182d",
-      "image_url": "https://images.bild.de/6a8555a4b6831511cf83182d/758b5b63c4a0d89c031b110d47b0ef11,46ef5f58?w=320",
-      "image_title": "Eurojackpot am Dienstag: Die Gewinnzahlen & Quoten vom 25.8.2026"
-    },
-    {
-      "title": "Zeugin will Pick-up gesehen haben: War Gina H. ein viertes Mal am Tatort?",
-      "teaser": "Eine Zeugin will Gina H.s Wagen am Tümpel gesehen haben, die Verteidigung zweifelt das an.",
-      "url": "https://www.bild.de/news/inland/raetsel-im-mordfall-fabian-war-verdaechtige-noch-4-mal-am-tatort-6a8310d1a87e8142c31d2f15",
-      "image_url": "https://images.bild.de/6a8310d1a87e8142c31d2f15/49ae48a57abb11baf053a866f2aa6671,e4d03f04?w=320",
-      "image_title": "Rätsel im Mordfall Fabian: War Verdächtige ein viertes Mal am Tatort?"
-    },
-    {
-      "title": "Frühchen-Tod in Paderborn: Schon 2024 starb ein Baby mit demselben Keim",
-      "teaser": "Mutter verliert Frühchen an Enterobacter, nun infizierte der Keim erneut vier Babys.",
-      "url": "https://www.bild.de/regional/nordrhein-westfalen/fruehchen-tod-in-paderborn-schon-2024-starb-ein-fruehchen-mit-demselben-keim-6a8ad0c8511d4fd3bc4e1012",
-      "image_url": "https://images.bild.de/6a8ad0c8511d4fd3bc4e1012/836ef40d5954f8b2edf6e6ea996d7fcd,2af349ff?w=320",
-      "image_title": "Frühchen-Tod in Paderborn: Schon 2024 starb ein Frühchen mit demselben Keim"
+      "title": "Blutmond-Spektakel für Frühaufsteher am Freitag: Jetzt kommt die Mond-Finsternis",
+      "url": "https://www.bild.de/leben-wissen/wissenschaft/am-freitag-blutmond-spektakel-fuer-fruehaufsteher-jetzt-kommt-die-mond-finsternis-6a8ffe8a8a7786c19f335c5f",
+      "image_url": "https://images.bild.de/6a8ffe8a8a7786c19f335c5f/4f1fcf45f3a837211ed29f98a35f9a3f,82f8207a?w=320",
+      "image_title": "Blutmond-Spektakel für Frühaufsteher am Freitag: Jetzt kommt die Mond-Finsternis"
     },
     {
       "title": "Nach Kabinettsklausur: Kanzler macht Basta-Ansage zur Rente mit 63!",
@@ -223,12 +235,6 @@
       "url": "https://www.bild.de/news/inland/amy-lopez-moerder-nachbarn-nannten-ihn-einen-geilen-alten-sack-6a8d8e61c3692834ff6dc3de",
       "image_url": "https://images.bild.de/6a8d8e61c3692834ff6dc3de/bd567a0857887c2caaa940d1b14518dc,d871b88d?w=320",
       "image_title": "Amy Lopez` Mörder: „Nachbarn nannten ihn einen geilen, alten Sack“"
-    },
-    {
-      "title": "Nach 32 Jahren überführt: Mörder von Amy Lopez lebte gleich neben dem Tatort",
-      "url": "https://www.bild.de/news/inland/fall-amy-lopez-moerder-hans-s-lebte-nur-300-meter-vom-tatort-entfernt-6a8d882bc3692834ff6dc356",
-      "image_url": "https://images.bild.de/6a8d882bc3692834ff6dc356/43ffc86ca450e0e3f99c9afe95828def,434f3ad5?w=320",
-      "image_title": "Fall Amy Lopez: Mörder Hans S. lebte nur 300 Meter vom Tatort entfernt"
     }
   ]
 }

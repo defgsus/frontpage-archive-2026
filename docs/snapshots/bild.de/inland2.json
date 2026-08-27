@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-27T02:20:24",
+  "timestamp": "2026-08-27T13:13:47",
   "url": "https://www.bild.de/politik/inland/politik-inland/home-15682786.bild.html",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://jnt.bild.de/wwcoiz.js",
       "id": null,
       "text": null
     },
@@ -37,46 +43,109 @@
     },
     {
       "type": "module",
-      "src": "https://a.bildstatic.de/assets/index-CsKcjY0s.js",
+      "src": "https://a.bildstatic.de/assets/index-qxTOiIkH.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Sachsen-Anhalt vor der Wahl: Ratlosigkeit nach TV-Duell",
-      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-vor-der-wahl-hitziges-duell-aber-keine-koalitionsklarheit-6a8f4a81158d1d479feaac39",
-      "image_url": "https://images.bild.de/6a8f4a81158d1d479feaac39/4cc64b64d8ba03fdca74a1f04e27579b,1083e25c?w=656",
-      "image_title": "Sachsen-Anhalt vor der Wahl: Hitziges Duell, aber keine Koalitionsklarheit"
+      "title": "Sachsen-Anhalt: CDU-Mann Schulze in der Linken-Falle",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-cdu-ministerpraesident-schulze-in-der-linken-falle-6a90080314f40f555e0a3607",
+      "image_url": "https://images.bild.de/6a90080314f40f555e0a3607/48ce1fa055c727adca707e0f65f17eff,d78b288a?w=656",
+      "image_title": "Sachsen-Anhalt: CDU-Ministerpräsident Schulze in der Linken-Falle"
+    },
+    {
+      "title": "„Kein Informationsbedarf“: VW streicht Betriebsversammlung in Dresden",
+      "url": "https://www.bild.de/politik/inland/kein-informationsbedarf-vw-streicht-betriebsversammlung-in-dresden-6a9018388a7786c19f335f35",
+      "image_url": "https://images.bild.de/6a9018388a7786c19f335f35/9d444ac35e6aa5ba1fb2d3418cee49a4,66f3a40e?w=320",
+      "image_title": "„Kein Informationsbedarf“: VW streicht Betriebsversammlung in Dresden"
+    },
+    {
+      "title": "Süßsteuer-Irrsinn: Regierung erwägt sogar Zuckersteuer auf Eis!",
+      "url": "https://www.bild.de/politik/suesssteuer-irrsinn-regierung-erwaegt-sogar-zuckersteuer-auf-eis-6a8eafdb0a3e8cd36757c876",
+      "image_url": "https://images.bild.de/6a8eafdb0a3e8cd36757c876/1690e0f82b39d420276ab48b7e988fc8-miniSquare,d569c6ac?w=320",
+      "image_title": "Süßsteuer-Irrsinn: Regierung erwägt sogar Zuckersteuer auf Eis!"
+    },
+    {
+      "title": "Schwarz-Rote Klausur in Münster: Spahns letzter Akt als Alt-Fraktionschef",
+      "url": "https://www.bild.de/politik/inland/schwarz-rote-fraktionschefs-in-muenster-die-letzte-chance-klausur-fuer-reformen-6a8e850b511d4fd3bc4e4109",
+      "image_url": "https://images.bild.de/6a8e850b511d4fd3bc4e4109/e37be6d6fbf3181b406b28954f615ed5,889e0d8b?w=320",
+      "image_title": "Schwarz-Rote Fraktionschefs in Münster: Die Letzte-Chance-Klausur für Reformen"
+    },
+    {
+      "title": "„Sie werden dafür bezahlen“: So könnte sich Merz für die Drohnen-Bombe rächen",
+      "url": "https://www.bild.de/politik/inland/sie-werden-dafuer-bezahlen-so-koennte-sich-merz-fuer-die-drohnen-bombe-raechen-6a8d68cbc3692834ff6dc088",
+      "image_url": "https://images.bild.de/6a8d68cbc3692834ff6dc088/843c4aa0460d6cca00f80bbc305fa879,474b2ffd?w=320",
+      "image_title": "„Sie werden dafür bezahlen“: So könnte sich Merz für die Drohnen-Bombe rächen"
+    },
+    {
+      "title": "Schätzung des Robert-Koch-Instituts: 15.800 Menschen mehr während Hitzewelle gestorben",
+      "url": "https://www.bild.de/politik/inland/schaetzung-des-robert-koch-instituts-zahl-der-hitzetoten-steigt-auf-15-800-6a8ff12d14f40f555e0a32e0",
+      "image_url": "https://images.bild.de/6a8ff12d14f40f555e0a32e0/dba241c613dc68463a9f36ea46d90cac,2d679724?w=656",
+      "image_title": "Schätzung des Robert-Koch-Instituts: Zahl der Hitzetoten steigt auf 15.800"
+    },
+    {
+      "title": "Experten halten Betrug für ausgeschlossen: AfD verbreitet Angst vor Stimmenklau",
+      "teaser": "Die AfD warnt vor Stimmenklau in Sachsen-Anhalt. Experten erklären, ob die Gefahr real ist",
+      "url": "https://www.bild.de/politik/inland/landtagswahl-in-sachsen-anhalt-afd-verbreitet-angst-vor-stimmenklau-6a8ecbaa0030825e3e9ccd36",
+      "image_url": "https://images.bild.de/6a8ecbaa0030825e3e9ccd36/c55e4f8f018c0b00e9e2af78e695f03f,476268bf?w=320",
+      "image_title": "Experten halten Betrug für ausgeschlossen: AfD verbreitet Angst vor Stimmenklau"
+    },
+    {
+      "title": "Elon Musk greift nach Gas: So teuer kann Ihre Gas-Rechnung werden!",
+      "teaser": "Höhere Gaspreise drohen durch KI-Boom, leere Speicher und teure LNG-Lieferungen.",
+      "url": "https://www.bild.de/politik/inland/spacex-steigt-ins-gasgeschaeft-ein-warum-ihr-gas-teurer-werden-koennte-6a8b078beefcff79c24012e1",
+      "image_url": "https://images.bild.de/6a8b078beefcff79c24012e1/d4f923ddfea266037eda59e65a949000,893d0b69?w=320",
+      "image_title": "SpaceX steigt ins Gasgeschäft ein: Warum Ihr Gas teurer werden könnte"
     },
     {
       "title": "Rassismus-Skandal an Uniklinik: Oberarzt gefeuert!",
+      "teaser": "Rostocker Oberarzt hetzt im Netz mutmaßlich gegen Migranten, Klinik zieht Konsequenzen.",
       "url": "https://www.bild.de/politik/inland/rassismus-an-klinik-oberarzt-will-migranten-verbrennen-und-erschiessen-6a8eb8c6692b2e9e3efcb6c1",
-      "image_url": "https://images.bild.de/6a8eb8c6692b2e9e3efcb6c1/f2b6e6bd263052e8c79016e60b95d474,75ee073d?w=320",
+      "image_url": "https://images.bild.de/6a8eb8c6692b2e9e3efcb6c1/2f621e0045c3bf68875b9e07cc02ed35,8d5b24ff?w=320",
       "image_title": "Rassismus an Klinik: Oberarzt will Migranten verbrennen und erschießen"
     },
     {
+      "title": "55 Prozent zwischen 12 und 17 dafür: Mehrheit der Teenager für Social-Media-Verbot",
+      "teaser": "Viele Jugendliche lehnen Social Media ab und leiden unter psychischen Belastungen.",
+      "url": "https://www.bild.de/politik/inland/mehrheit-der-teenager-fuer-social-media-verbot-6a8f8ed6518a586e185598c1",
+      "image_url": "https://images.bild.de/6a8f8ed6518a586e185598c1/03d2f53c1f0b1f566d53ec5870f224fa,ee0bae5e?w=320",
+      "image_title": "Mehrheit der Teenager für Social-Media-Verbot"
+    },
+    {
+      "title": "Sachsen-Anhalt vor der Wahl: Ratlosigkeit nach TV-Duell",
+      "teaser": "Nach dem hitzigen Wahl-Duell bleibt offen, wer Sachsen-Anhalt künftig regiert.",
+      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-vor-der-wahl-hitziges-duell-aber-keine-koalitionsklarheit-6a8f4a81158d1d479feaac39",
+      "image_url": "https://images.bild.de/6a8f4a81158d1d479feaac39/fc3803475431dc8c628e6114164daeb5,1083e25c?w=320",
+      "image_title": "Sachsen-Anhalt vor der Wahl: Hitziges Duell, aber keine Koalitionsklarheit"
+    },
+    {
       "title": "Eine Analyse von Peter Tiede: Merz läuft die Zeit davon! Dem Land auch",
+      "teaser": "Merz verspricht zarten Aufschwung, doch Wirtschaftskrise und Zweifel bleiben.",
       "url": "https://www.bild.de/politik/inland/merz-laeuft-die-zeit-davon-dem-land-auch-eine-analyse-von-peter-tiede-6a8ed6f5518a586e18558fb7",
-      "image_url": "https://images.bild.de/6a8ed6f5518a586e18558fb7/cb1d1512094a3ac77bdf0723cad26ccc,f1eccae7?w=320",
+      "image_url": "https://images.bild.de/6a8ed6f5518a586e18558fb7/0e075b39b9d8c6ba51bbfd80f255219c,f1eccae7?w=320",
       "image_title": "Merz läuft die Zeit davon – Dem Land auch! Eine Analyse von Peter Tiede:"
     },
     {
       "title": "Beamte fühlen sich ungerecht behandelt: Kai Wegner fürchtet AfD-Schock",
+      "teaser": "Nachzahlungen verärgern Beamte, Wegner (CDU) warnt vor Stimmenverlust an die AfD.",
       "url": "https://www.bild.de/politik/inland/kai-wegner-wir-verlieren-polizei-und-feuerwehr-gerade-massiv-an-die-afd-6a8e8d55511d4fd3bc4e4189",
-      "image_url": "https://images.bild.de/6a8e8d55511d4fd3bc4e418a/4a65a6aab006bdc77217bfc4f2886827,387bba33?w=320",
+      "image_url": "https://images.bild.de/6a8e8d55511d4fd3bc4e4189/b447b720bacfa57ede25880207f01c8f,68e03066?w=320",
       "image_title": "Kai Wegner: „Wir verlieren Polizei und Feuerwehr gerade massiv an die AfD“"
     },
     {
       "title": "Gefährliche Landtagswahlen: Der Wahlkrampf der SPD",
+      "teaser": "Die Landes-SPD setzt auf Distanz zu Berlin und will die AfD so doch noch stoppen.",
       "url": "https://www.bild.de/politik/inland/spd-im-wahlkampf-maximale-distanz-zu-berlin-6a8dc8f2511d4fd3bc4e3b0b",
-      "image_url": "https://images.bild.de/6a8dc8f2511d4fd3bc4e3b0b/fc8dc2a3c9bd0d4be7f6d58075b3b53c,25417345?w=320",
+      "image_url": "https://images.bild.de/6a8dc8f2511d4fd3bc4e3b0b/4995baf50a4cd6e1937850c3987d61f3,25417345?w=320",
       "image_title": "SPD im Wahlkampf: „Maximale Distanz“ zu Berlin"
     },
     {
       "title": "Es geht um das Vermögen von Reichen: Ministerin Bas gibt brisante Studie in Auftrag",
+      "teaser": "Studie soll Einstellungen zu Vermögensungleichheit und höherer Besteuerung klären.",
       "url": "https://www.bild.de/politik/inland/arbeitsministerin-bas-gibt-studie-zu-vermoegen-und-reichtum-in-auftrag-6a8db4aec3692834ff6dc76d",
-      "image_url": "https://images.bild.de/6a8db4aec3692834ff6dc76d/11c6dbe7923136ffd698f6d8363cd48c-square,c1f26290?w=656",
+      "image_url": "https://images.bild.de/6a8db4aec3692834ff6dc76d/42763ac1d27c0dbdbe583b1272f90760,13f04ab7?w=320",
       "image_title": "Arbeitsministerin Bas gibt Studie zu Vermögen und Reichtum in Auftrag"
     },
     {
@@ -148,69 +217,6 @@
       "url": "https://www.bild.de/politik/klingbeils-zuckersteuer-warum-cola-zero-trotz-null-zucker-teurer-wird-6a8db021d8b561d6189718bb",
       "image_url": "https://images.bild.de/6a8db021d8b561d6189718bb/87c8d65d45ed248771c37eacfe6af05d,1ff2f380?w=320",
       "image_title": "Klingbeils Zuckersteuer: Warum Cola Zero trotz null Zucker teurer wird"
-    },
-    {
-      "title": "Was sie verdienen: Woher unsere Fachkräfte wirklich kommen",
-      "teaser": "Neue Zahlen zeigen: Menschen aus fünf Ländern verdienen mehr als Deutsche.",
-      "url": "https://www.bild.de/politik/inland/woher-unsere-fachkraefte-wirklich-kommen-und-was-sie-verdienen-6a8da35de998204a5d80bb0f",
-      "image_url": "https://images.bild.de/6a8da35de998204a5d80bb0f/fc76316e31dfd2bbb308bd529a31de3e,c6fdf42c?w=320",
-      "image_title": "Woher unsere Fachkräfte wirklich kommen und was sie verdienen"
-    },
-    {
-      "title": "Kein Bild, kein Ton: MDR warnt vor AfD-Regierung",
-      "teaser": "MDR warnt mit Sendestopp vor möglichen Folgen einer AfD-Regierung im Land.",
-      "url": "https://www.bild.de/politik/inland/sachsen-anhalt-mdr-unterbricht-programm-fuer-warnung-vor-afd-unter-ulrich-siegmund-6a8d6acd511d4fd3bc4e336e",
-      "image_url": "https://images.bild.de/6a8d6acd511d4fd3bc4e336e/37563eaf91a98875be1c2af546efda60,144454c2?w=320",
-      "image_title": "Sachsen-Anhalt: MDR unterbricht Programm für Warnung vor AfD unter Ulrich Siegmund"
-    },
-    {
-      "title": "Stadt in der Kritik: Kölns Abschiebe-Verweigerung führt zu 568 Straftaten",
-      "teaser": "Die Stadt lehnte Hilfe bei Abschiebungen ab, viele Ausreisepflichtige wurden straffällig.",
-      "url": "https://www.bild.de/politik/inland/koeln-152-von-471-ausreisepflichtigen-sollen-straffaellig-sein-6a8d90bdc3692834ff6dc412",
-      "image_url": "https://images.bild.de/6a8d90bdc3692834ff6dc412/58d8f0d28c8920d83128c36d87e21958,ebb8b4b0?w=320",
-      "image_title": "Köln: 152 von 471 Ausreisepflichtigen sollen straffällig sein"
-    },
-    {
-      "title": "Exklusive Forsa-Umfrage: Jeder Fünfte zittert davor, sein Haus zu verlieren",
-      "teaser": "Viele Deutsche träumen vom Eigenheim, doch die Angst vor Verlust und Kosten wächst.",
-      "url": "https://www.bild.de/politik/inland/eigenheim-jeder-fuenfte-eigentuemer-fuerchtet-um-sein-zuhause-6a896c1dc3692834ff6d92f5",
-      "image_url": "https://images.bild.de/6a896c1dc3692834ff6d92f5/ef747fc378786b73376a6076e84b7171,baceb309?w=320",
-      "image_title": "Eigenheim : Jeder fünfte Eigentümer fürchtet um sein Zuhause"
-    },
-    {
-      "title": "Sven Hüber: Misshandelte Polizei-Funktionär einen DDR-Flüchtling?",
-      "teaser": "Zeitzeuge wirft GdP-Vize Hüber brutale Übergriffe auf einen DDR-Flüchtling vor.",
-      "url": "https://www.bild.de/politik/inland/von-ex-ddr-grenzsoldat-neue-schwere-vorwuerfe-gegen-gdp-vize-hueber-6a8c944801344fc8f3c80352",
-      "image_url": "https://images.bild.de/6a8c944801344fc8f3c80352/3de451e9bf3c27466a06a662e5579a3f,c3742bb4?w=320",
-      "image_title": "Von Ex-DDR-Grenzsoldat: Neue schwere Vorwürfe gegen GdP-Vize Hüber"
-    },
-    {
-      "title": "Exklusiver *innen-Atlas: Das ist Deutschlands Gender-Hauptstadt",
-      "teaser": "Freiburg gendern am stärksten, doch die meisten Firmen verzichten weiterhin darauf.",
-      "url": "https://www.bild.de/politik/inland/gendern-in-deutschland-freiburg-ist-die-hauptstadt-6a79afd835268e50270244b0",
-      "image_url": "https://images.bild.de/6a79afd835268e50270244b0/65fc33acc50d4d401c88f61671a9e2e6,97258da2?w=320",
-      "image_title": "Gendern in Deutschland: Freiburg ist die Hauptstadt"
-    },
-    {
-      "title": "Agrarminister dagegen, Union auch: Regierungskrach um Klingbeils Zuckersteuer",
-      "teaser": "Mehrere Minister attackieren Klingbeils Zucker-Plan, auch die Unionsfraktion murrt!",
-      "url": "https://www.bild.de/politik/inland/zuckersteuer-von-klingbeil-faellt-bei-zwei-ministern-der-union-durch-6a8d73acc3692834ff6dc175",
-      "image_url": "https://images.bild.de/6a8d73acc3692834ff6dc175/a7e38b7a2a2169750d2cb8b88a913967,a2754ab3?w=320",
-      "image_title": "Zuckersteuer von Klingbeil fällt bei zwei Ministern der Union durch!"
-    },
-    {
-      "title": "Vom Gefängnis in den Flieger: Deutschland schiebt 23 Straftäter nach Kabul ab",
-      "teaser": "Deutschland schiebt 23 verurteilte Afghanen nach Kabul ab und hält am Kurs fest.",
-      "url": "https://www.bild.de/politik/inland/recht-auf-asyl-verwirkt-deutschland-schiebt-23-schwere-straftaeter-nach-kabul-ab-6a8d38c7e998204a5d80b09b",
-      "image_url": "https://images.bild.de/6a8d38c7e998204a5d80b09b/339cd22951499485bf82e8614ec454d7,4cd2b71b?w=320",
-      "image_title": "Recht auf Asyl verwirkt: Deutschland schiebt 23 schwere Straftäter nach Kabul ab"
-    },
-    {
-      "title": "VW-Boss bei Betriebsversammlung: Viele Worte, aber kaum Antworten",
-      "teaser": "VW-Chef Blume hat sich vor der Belegschaft zum Sparkurs geäußert.",
-      "url": "https://www.bild.de/politik/inland/betriebsversammlung-in-wolfsburg-tag-der-wahrheit-bei-volkswagen-6a8d3525c3692834ff6dbc9b",
-      "image_url": "https://images.bild.de/6a8d3525c3692834ff6dbc9b/19ee6d88a6e5977e7a07170623cf7322,bc43daf0?w=320",
-      "image_title": "VW-Boss bei Betriebsversammlung: Viele Worte, aber kaum Antworten"
     },
     {
       "title": "Merz mit knallhart Ansage: „Sie werden dafür bezahlen“",
