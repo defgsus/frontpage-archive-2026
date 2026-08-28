@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-28T07:20:12",
+  "timestamp": "2026-08-28T19:41:07",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,27 +20,32 @@
   ],
   "articles": [
     {
+      "title": "KI-Update kompakt: Starmind, Anthropic vs. Pentagon, Ox Alpha, Spider-Man",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Starmind-Anthropic-vs-Pentagon-Ox-Alpha-Spider-Man-11432862.html"
+    },
+    {
+      "title": "Vom Sport-Tracker bis zur Krebsfrüherkennung: Was Atemtests heute leisten",
+      "teaser": "Einmal pusten und schon weiß der Sportler, ob sein Fettstoffwechsel bereits angesprungen ist. Was kann die schnelle Atemanalyse heute noch alles?",
+      "url": "https://www.heise.de/hintergrund/Vom-Sport-Tracker-bis-zur-Krebsfrueherkennung-Was-Atemtests-heute-leisten-11394948.html",
+      "image_title": "Mann pustet in ein Messgerät, das mit einem Smartphone verbunden ist."
+    },
+    {
+      "title": "Premiere für Ariane 6Neueste Generation europäischer Wettersatelliten komplett",
+      "teaser": "Drei moderne Wettersatelliten sollen die Wettervorhersage in Europa für Jahrzehnte gewährleisten. Nun ist das Trio komplett.",
+      "url": "https://www.heise.de/news/Neueste-Generation-europaeischer-Wettersatelliten-komplett-MTG-I2-gestartet-11432806.html",
+      "image_title": "Künstlerische Darstellung des Satelliten zweier Satelliten, im Hintergrund die Erde"
+    },
+    {
       "title": "ALMA-Teleskop zeigt, wie der sterbende Stern Beteigeuze wirklich aussieht",
       "teaser": "Der rote Überriese liegt rund 600 Lichtjahre entfernt. ESO-Astronomen gelangen überraschend detaillierte Aufnahmen von Beteigeuze in seiner letzten Phase.",
       "url": "https://www.heise.de/news/ALMA-Teleskop-zeigt-wie-der-sterbende-Stern-Beteigeuze-wirklich-aussieht-11431904.html",
       "image_title": "Aufnahme von Beteigeuze vom ALMA-Teleskop"
     },
     {
-      "title": "McKinsey-StudieVertrauen der Firmen in KI wächst schnell, die Gewinne daraus nicht",
-      "teaser": "Laut McKinsey herrscht KI-Optimismus in den Unternehmen. Die finanziellen Erträge daraus lassen aber noch auf sich warten.",
-      "url": "https://www.heise.de/news/McKinsey-Vertrauen-der-Firmen-in-KI-waechst-schnell-die-Gewinne-daraus-nicht-11427091.html",
-      "image_title": "Weiße Buchstaben „AI“ liegen auf mehreren US-Dollar-Scheinen."
-    },
-    {
-      "title": "KI-gestützte Waffen: UN und Rotes Kreuz fordern Verbot von Killer-Drohnen",
-      "teaser": "Angesichts von Berichten über den Einsatz vollautonomer Drohnen verlangen UN-Chef Guterres und das Internationale Rote Kreuz verbindliche Regeln für Militär-KI.",
-      "url": "https://www.heise.de/news/KI-gestuetzte-Waffen-UN-und-Rotes-Kreuz-fordern-Verbot-von-Killer-Drohnen-11427275.html",
-      "image_title": "Drohnen"
-    },
-    {
-      "title": "KI-Update kompakt: Computer History, OpenAI Jalapeño, Militär-KI, AIS.Chat",
-      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
-      "url": "https://www.heise.de/news/KI-Update-kompakt-Computer-History-OpenAI-Jalapeno-Militaer-KI-AIS-Chat-11425186.html"
+      "title": "HintergrundVom Sport-Tracker bis zur Krebsfrüherkennung: Was Atemtests heute leisten",
+      "url": "https://www.heise.de/hintergrund/Vom-Sport-Tracker-bis-zur-Krebsfrueherkennung-Was-Atemtests-heute-leisten-11394948.html",
+      "image_title": "Mann pustet in ein Messgerät, das mit einem Smartphone verbunden ist."
     },
     {
       "title": "HintergrundQuantencomputer aus neutralen Atomen: Im Labor von planqc zu Besuch",
@@ -53,8 +58,15 @@
       "image_title": "Ein Roboter tanzt Ballett"
     },
     {
-      "title": "HintergrundForscher entwickeln Greifhandschuh für gelähmte Hand",
-      "url": "https://www.heise.de/hintergrund/Forscher-entwickeln-Greifhandschuh-fuer-gelaehmte-Hand-11403400.html"
+      "title": "KI-gestützte Waffen: UN und Rotes Kreuz fordern Verbot von Killer-Drohnen",
+      "teaser": "Angesichts von Berichten über den Einsatz vollautonomer Drohnen verlangen UN-Chef Guterres und das Internationale Rote Kreuz verbindliche Regeln für Militär-KI.",
+      "url": "https://www.heise.de/news/KI-gestuetzte-Waffen-UN-und-Rotes-Kreuz-fordern-Verbot-von-Killer-Drohnen-11427275.html",
+      "image_title": "Drohnen"
+    },
+    {
+      "title": "KI-Update kompakt: Computer History, OpenAI Jalapeño, Militär-KI, AIS.Chat",
+      "teaser": "Das \"KI-Update\" liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Computer-History-OpenAI-Jalapeno-Militaer-KI-AIS-Chat-11425186.html"
     },
     {
       "title": "Astronautin und Astronaut bringen neue Antenne an ISS an",
@@ -130,16 +142,6 @@
       "teaser": "Europa ist der Kontinent, der sich am schnellsten erwärmt. Wer den diesjährigen Sommer bereits als extrem empfand, den werden die Erwartungen nicht beruhigen.",
       "url": "https://www.heise.de/news/Klimaforscher-Europa-wird-haeufiger-Wetterextreme-erleben-11423081.html",
       "image_title": "Tote Bäume im Harz"
-    },
-    {
-      "title": "Bühl als Pioniermodell: Bosch setzt auf Roboter aus dem Schwarzwald",
-      "teaser": "Bosch will am Traditionsstandort Bühl nach jahrelangem Stellenabbau nun menschenähnliche Roboter zusammen mit dem britischen Startup Humanoid produzieren.",
-      "url": "https://www.heise.de/news/Buehl-als-Pioniermodell-Bosch-setzt-auf-Roboter-aus-dem-Schwarzwald-11422925.html"
-    },
-    {
-      "title": "Schneller als Usain Bolt: Humanoide Roboter setzen neue Maßstäbe",
-      "teaser": "Ein Roboter aus China sprintet die 100 Meter schneller als Usain Bolt. China hat große Ziele in der Robotik.",
-      "url": "https://www.heise.de/news/Roboter-Weltmeisterschaft-in-Peking-Neue-Bestzeiten-im-Sprint-11422931.html"
     },
     {
       "title": "NewsAliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",
