@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-29T02:31:21",
+  "timestamp": "2026-08-29T09:28:02",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,26 +20,27 @@
   ],
   "articles": [
     {
-      "title": "Ausfallsichere Handynetze: Bundesregierung lehnt starre Notstrom-Vorgaben ab",
-      "teaser": "Nach Berliner Blackouts fordern Experten resiliente Mobilfunknetze. Die Bundesregierung setzt auf eine Einzelfallprüfung: Starre Akku-Regeln seien praxisfern.",
-      "url": "https://www.heise.de/news/Ausfallsichere-Handynetze-Bundesregierung-lehnt-starre-Notstrom-Vorgaben-ab-11434156.html",
-      "image_title": "Mobilfunkmast"
-    },
-    {
-      "title": "Massiver Umbau gekipptMeta wollte „KI-nativ“ werden – und scheiterte",
-      "teaser": "Metas Entlassungsrunde im Mai sollte Teil einer deutlich massiveren Umstrukturierung werden, die Angestellte durch KI ersetzt.",
-      "url": "https://www.heise.de/news/Massiver-Umbau-gekippt-Meta-wollte-KI-nativ-werden-und-scheiterte-11434074.html",
-      "image_title": "Porträt von Mark Zuckerberg im dunklen Anzug mit Krawatte."
-    },
-    {
-      "title": "c't 3003Was ich über lokale KI gelernt habe",
-      "teaser": "c't 3003 klettert tief in den Kaninchenbau zu Qwen, OpenCode, Quantisierung und kryptischen LLM-Benchmarks.",
-      "url": "https://www.heise.de/news/Was-ich-ueber-lokale-KI-gelernt-habe-11433840.html"
-    },
-    {
       "title": "Webseiten intelligent auslesen: Smarter scrapen mit Python und KI",
       "teaser": "Mit Python lassen sich Webseiten scrapen. KI macht den Scraper flexibler: Sie erkennt Inhalte auch dann, wenn HTML-Strukturen oder Formulierungen variieren.",
       "url": "https://www.heise.de/ratgeber/Webseiten-intelligent-auslesen-Smarter-scrapen-mit-Python-und-KI-11349172.html"
+    },
+    {
+      "title": "iX-Workshops: Backup-Strategien für Proxmox-Umgebungen",
+      "teaser": "Lernen Sie, wie Sie Ihre bisherigen Backup-Lösungen optimieren oder auf eine moderne, deduplizierte Backup-Infrastruktur umsteigen.",
+      "url": "https://www.heise.de/news/iX-Workshops-Backup-Strategien-fuer-Proxmox-Umgebungen-11415608.html",
+      "image_title": "iX-Workshop: Backup und Recovery mit Proxmox: Daten automatisiert sichern und nach Ausfällen wiederherstellen"
+    },
+    {
+      "title": "Developer-Häppchen – Kubernetes 1.37, WebAuthn 3 und GitBrowser für Linux",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu VS Code, GitBrowser, W3C, Jupyter, Kubernetes, ESLint, Rust, GitHub, TypeScript und Routebase.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Weitere-GitHub-Stoerung-Jupyter-Umfrage-und-TypeScript-Go-11432660.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Reicht das Handy? Wann ihr die Kamera getrost zu Hause lassen könnt | c’t uplink",
+      "teaser": "Für viele Fotos reicht ein Smartphone. Oder nicht? Wir diskutieren, welche Faktoren für eine richtige Kamera sprechen und wo das Smartphone trotzdem punktet.",
+      "url": "https://www.heise.de/news/Reicht-das-Handy-Wann-ihr-die-Kamera-getrost-zu-Hause-lassen-koennt-c-t-uplink-11432317.html",
+      "image_title": "YouTube-Thumbnail zum Uplink"
     },
     {
       "title": "RatgeberWebseiten intelligent auslesen: Smarter scrapen mit Python und KI",
@@ -57,6 +58,17 @@
       "title": "Top 10: Die beste Wärmebildkamera fürs Handy",
       "teaser": "Wärmeverluste, Lecks und Störungen finden: Wir zeigen die besten Wärmebildkameras fürs Handy von Hikmicro, Topdon und Co.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-waermebildkamera-fuers-handy-adapter-fuer-android-und-iphone/m9y4787?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Ausfallsichere Handynetze: Bundesregierung lehnt starre Notstrom-Vorgaben ab",
+      "teaser": "Nach Berliner Blackouts fordern Experten resiliente Mobilfunknetze. Die Bundesregierung setzt auf eine Einzelfallprüfung: Starre Akku-Regeln seien praxisfern.",
+      "url": "https://www.heise.de/news/Ausfallsichere-Handynetze-Bundesregierung-lehnt-starre-Notstrom-Vorgaben-ab-11434156.html",
+      "image_title": "Mobilfunkmast"
+    },
+    {
+      "title": "Was ich über lokale KI gelernt habe",
+      "teaser": "Zur Seite, Anthropic, jetzt kommen die lokalen LLMs: c't 3003 klettert tief in den Kaninchenbau zu Qwen, OpenCode, Quantisierung und kryptischen LLM-Benchmarks.",
+      "url": "https://www.heise.de/news/Was-ich-ueber-lokale-KI-gelernt-habe-11433840.html"
     },
     {
       "title": "BKW-Speicher Jackery Solarvault 3 Pro im Test: 4 MPPTs & Home Assistant lokal",
@@ -129,34 +141,24 @@
       "image_title": "Mac mini mit Bildschirm und Tastatur"
     },
     {
-      "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
-      "teaser": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
-      "url": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
-      "image_title": "Illustration Mensch patcht Sicherheitslücke"
+      "title": "HintergrundWind of Change: Wie Hannover sich an 75.000 M365-Lizenzen die Finger verbrannte",
+      "url": "https://www.heise.de/hintergrund/Wind-of-Change-Wie-Hannover-sich-an-75-000-M365-Lizenzen-die-Finger-verbrannte-11432195.html",
+      "image_title": "Wahlplakat Eva Bender"
     },
     {
-      "title": "Informationssicherheit in Behörden – ISMS nach IT-Grundschutz aufbauen",
-      "teaser": "Praxisnah zum gelebten ISMS: IT-Grundschutz, BSI-Standards und die Aufgaben des Informationssicherheitsbeauftragten (ISB) in Behörden etablieren.",
-      "url": "https://www.heise.de/news/Informationssicherheit-in-Behoerden-ISMS-nach-IT-Grundschutz-aufbauen-11426415.html"
+      "title": "NewsRussische Radarfallen mit falscher Software und Hintertüren in der Slowakei",
+      "url": "https://www.heise.de/news/Russische-Radarfallen-mit-falscher-Software-und-Hintertueren-in-der-Slowakei-11432584.html",
+      "image_title": "Schild \"Radar-Kontrolle\" an Landstraße"
     },
     {
-      "title": "NewsAliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",
-      "url": "https://www.heise.de/news/AliExpress-trackt-Nutzer-via-unhoerbarem-Audio-Fingerprinting-11424127.html",
-      "image_title": "Paketscheine auf mehreren Paketen, alle von AliExpress"
+      "title": "NewsBundesbank fordert Integration von Wero und digitalem Euro",
+      "url": "https://www.heise.de/news/Bundesbank-Wero-und-digitalen-Euro-verzahnen-11426362.html",
+      "image_title": "Wero-Logo auf einem Smartphone"
     },
     {
-      "title": "NewsFür Frühaufsteher: Partielle Mondfinsternis am Freitagmorgen",
-      "url": "https://www.heise.de/news/Fuer-Fruehaufsteher-Partielle-Mondfinsternis-am-Freitagmorgen-11424839.html",
-      "image_title": "Rötlicher Mond vor einem blauen Himmel, am Bildrand Baumwpifel"
-    },
-    {
-      "title": "NewsZielmarke übertroffen: Mehr als eine Million Euro für Linux-Handheld Mecha Comet",
-      "url": "https://www.heise.de/news/Zielmarke-uebertroffen-Mehr-als-eine-Million-Euro-fuer-Linux-Handheld-Mecha-Comet-11424389.html"
-    },
-    {
-      "title": "NewsMac mini und Mac Studio: Apple stellt M6 und M5 Ultra vor",
-      "url": "https://www.heise.de/news/Grosses-Hardware-Update-Apple-ruestet-Mac-mini-und-Mac-Studio-auf-11424993.html",
-      "image_title": "M6 und M5 Ultra von Apple"
+      "title": "News„The Witcher 3“: Remaster kommt am 29. September – gratis für alle Besitzer",
+      "url": "https://www.heise.de/news/The-Witcher-3-Remaster-kommt-am-29-September-gratis-fuer-alle-Besitzer-11425763.html",
+      "image_title": "Screenshot aus \"Witcher 3 Songs of the Past\""
     },
     {
       "title": "HintergrundElektroautos laden: Den rollenden Speicher wirtschaftlich nutzen",
@@ -164,18 +166,18 @@
       "image_title": "VW ID.Polo"
     },
     {
-      "title": "RatgeberHome Assistant für den Technik-Messie: Endlich Ordnung im Smart Home",
-      "url": "https://www.heise.de/ratgeber/Wohnung-von-Technik-Messie-mit-Home-Assistant-smart-machen-11348773.html"
+      "title": "RatgeberPräsenzsensoren in Home Assistant: Komfort erhöhen und Energie sparen",
+      "url": "https://www.heise.de/ratgeber/Praesenzsensoren-in-Home-Assistant-Komfort-erhoehen-und-Energie-sparen-11349194.html",
+      "image_title": "Präsenzsensoren wie dieser erkennen, ob eine Person im Raum ist, selbst wenn sie sich nicht aktiv bewegt."
     },
     {
-      "title": "TestsÜberhitzkopf: Test Honda WN7",
-      "url": "https://www.heise.de/tests/Ueberhitzkopf-Test-Honda-WN7-11411315.html",
-      "image_title": "Honda WN7"
+      "title": "HintergrundPhotovoltaik und Cybersicherheit: Wo vernetzte Anlagen angreifbar werden",
+      "url": "https://www.heise.de/hintergrund/Photovoltaik-und-Cybersicherheit-Wo-vernetzte-Anlagen-angreifbar-werden-11348632.html"
     },
     {
-      "title": "RatgeberAltersvorsorge für Kinder: Die Frühstartrente erklärt",
-      "url": "https://www.heise.de/ratgeber/Altersvorsorge-fuer-Kinder-Die-Fruehstartrente-erklaert-11187303.html",
-      "image_title": "Ein Kind erhält Zuschüsse zur Rente vom Staat"
+      "title": "HintergrundGrub-Konfiguration unter Linux optimal anpassen",
+      "url": "https://www.heise.de/hintergrund/Grub-Konfiguration-unter-Linux-optimal-anpassen-11250719.html",
+      "image_title": "Ein Pinguin ist an eine Rakete gebunden und fliegt in den Nachthimmel, während Feuerwerk explodiert."
     }
   ]
 }
