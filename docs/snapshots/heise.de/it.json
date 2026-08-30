@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T11:23:17",
+  "timestamp": "2026-08-30T15:35:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Neues Geschäftsmodell: Nvidia-Deals mit Rechenzentrenbetreibern vorerst auf Eis",
+      "teaser": "Nvidia wollte kleinere Infrastrukturbetreiber finanziell unterstützen und dann an ihrem Umsatz mitverdienen. Doch es gab interne Kritik.",
+      "url": "https://www.heise.de/news/Nvidia-legt-Plaene-fuer-neues-Geschaeftsmodell-vorerst-auf-Eis-11434597.html",
+      "image_title": "Nvidia logo and sign on headquarters. Blurred foreground with green trees - Santa Clara, California, USA"
+    },
+    {
+      "title": "OpenAI macht Ernst mit Kommerz: Wie Werbung bei ChatGPT künftig geregelt wird",
+      "teaser": "Nach der Ankündigung von Werbeanzeigen passt OpenAI seine Datenschutzrichtlinie an. Der Konzern verspricht Kontext-Targeting ohne Zugriff auf den Chat-Verlauf.",
+      "url": "https://www.heise.de/news/OpenAI-macht-Ernst-mit-Kommerz-Wie-Werbung-bei-ChatGPT-kuenftig-geregelt-wird-11434619.html",
+      "image_title": "ChatGPT-Logo auf einem Smartphone"
+    },
+    {
       "title": "Security-Deep-Dive: Zweiteiliges Webinar zu Kubernetes-Sicherheit",
       "teaser": "Unser zweiteiliges Webinar hilft bei der Absicherung von Kubernetes-Umgebungen und der Angriffserkennung.",
       "url": "https://www.heise.de/news/Security-Deep-Dive-Zweiteiliges-Webinar-zu-Kubernetes-Sicherheit-11432295.html"
@@ -29,18 +41,6 @@
       "teaser": "Eine Erpresserbande hat aus der Berliner Verwaltung vertrauliche Daten ausgeleitet. Ein CCC-Sprecher beschreibt, was das für Bürger bedeuten könnte.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Berlin-Was-mit-den-Daten-passieren-koennte-11434581.html",
       "image_title": "Person an einer Tastatur, darüber zentral ein Stethoskop mit roter Farbe umkreist"
-    },
-    {
-      "title": "iX-Workshop: Schutz für M365 und Entra ID – Rechteausweitung gezielt verhindern",
-      "teaser": "Lernen Sie praxisnah, wie Sie Entra ID, Microsoft 365 und hybride Infrastrukturen mit dem Tiering-Modell effektiv schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Schutz-fuer-M365-und-Entra-ID-Rechteausweitung-gezielt-verhindern-11412325.html",
-      "image_title": "Horizontal dreigeteilte Pyramide, die Ebenen von oben nach unten in rot, gelb und grün vor einer Wolke"
-    },
-    {
-      "title": "Missing LinkIFA: Zwischen Mythos und Verkaufsschau",
-      "teaser": "Die IFA ist ein Schaufenster in die Zukunft. Der Blick in die Vergangenheit zeigt aber auch: Nicht alles, was hier gezeigt wird, hat Bestand.",
-      "url": "https://www.heise.de/hintergrund/IFA-Zwischen-Mythos-und-Verkaufsschau-11433232.html",
-      "image_title": "Messeszene auf der IFA"
     },
     {
       "title": "RatgeberWebseiten intelligent auslesen: Smarter scrapen mit Python und KI",
@@ -55,8 +55,25 @@
       "url": "https://www.heise.de/hintergrund/openDesk-Wie-die-Microsoft-Alternative-auch-bei-Unternehmen-ankommen-soll-11416094.html"
     },
     {
-      "title": "Top 10: Speicher für Balkonkraftwerk im Test – viele funktionieren ohne Cloud",
-      "teaser": "Wir zeigen die zehn besten Modelle aus zahlreichen Einzeltests. Viele Varianten lassen sich inzwischen lokal über Home Assistant ansteuern.",
+      "title": "Anker Solix C300 im Test: Mini-Powerstation mit integrierter USV & 300 W",
+      "teaser": "Die Anker Solix C300 setzt auf ein ultrakompaktes Format statt auf maximale Leistung. Unterwegs überzeugt sie mit geringem Gewicht, stationär dient sie als USV.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/anker-solix-c300-im-test-mini-powerstation-mit-integrierter-usv-und-300-w/0jk90kp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Schutz für M365 und Entra ID – Rechteausweitung gezielt verhindern",
+      "teaser": "Lernen Sie praxisnah, wie Sie Entra ID, Microsoft 365 und hybride Infrastrukturen mit dem Tiering-Modell effektiv schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schutz-fuer-M365-und-Entra-ID-Rechteausweitung-gezielt-verhindern-11412325.html",
+      "image_title": "Horizontal dreigeteilte Pyramide, die Ebenen von oben nach unten in rot, gelb und grün vor einer Wolke"
+    },
+    {
+      "title": "IFA: Zwischen Mythos und Verkaufsschau",
+      "teaser": "Die IFA ist ein Schaufenster in die Zukunft. Der Blick in die Vergangenheit zeigt aber auch: Nicht alles, was hier gezeigt wird, hat Bestand.",
+      "url": "https://www.heise.de/hintergrund/IFA-Zwischen-Mythos-und-Verkaufsschau-11433232.html",
+      "image_title": "Messeszene auf der IFA"
+    },
+    {
+      "title": "Top 10: Speicher für Balkonkraftwerk im Test",
+      "teaser": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele lassen sich inzwischen lokal über Home Assistant ansteuern.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-viele-funktionieren-ohne-cloud/9g7b03h?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
@@ -120,24 +137,6 @@
       "teaser": "Nach einem Jahr bringt Apple sein dynamisches 40-Watt-Netzteil in die EU – mit interessanter Mechanik. Das neue offizielle Poliertuch ist billiger und weicher.",
       "url": "https://www.heise.de/tests/Ausprobiert-Neues-Apple-Kompaktnetzteil-und-billigeres-Poliertuch-11431866.html",
       "image_title": "Drei von Apple erhältlichen Poliertücher"
-    },
-    {
-      "title": "Wie OpenAI die Cybersecurity mit fiesen Tricks vor den eigenen Karren spannt",
-      "teaser": "OpenAIs Cybersecurity-Aufruf ist ein manipulativer Trick. Denn natürlich brauchen wir mehr Security – aber nicht zwingend von denen, meint Jürgen Schmidt.",
-      "url": "https://www.heise.de/meinung/Wie-OpenAI-die-Cybersecurity-mit-fiesen-Tricks-vor-den-eigenen-Karren-spannt-11433488.html",
-      "image_title": "OpenAI-Logo und -Schriftzug auf einer Visitenkarte"
-    },
-    {
-      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
-      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
-      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11415602.html",
-      "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
-    },
-    {
-      "title": "Linux-Paketformat Flatpak erhält Großförderung für mehr Sicherheit und Features",
-      "teaser": "Eine halbe Million Euro Förderung der Sovereign Tech Agency fließen in ein Projekt zum Linux-Paketformat Flatpak, unter anderem für verbesserte Sicherheit.",
-      "url": "https://www.heise.de/news/Flatpak-Sovereign-Tech-Agency-foerdert-Weiterentwicklung-mit-halber-Million-Euro-11433344.html",
-      "image_title": "3d,Rendering.,Word,“linux”,With,Bright,Yellow,Color,Before,Linux"
     },
     {
       "title": "HintergrundWind of Change: Wie Hannover sich an 75.000 M365-Lizenzen die Finger verbrannte",
