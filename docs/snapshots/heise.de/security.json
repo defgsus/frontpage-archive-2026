@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T06:53:24",
+  "timestamp": "2026-09-01T12:10:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertExchange-Sicherheitslücke85 Prozent der On-Prem-Server in Deutschland anfällig",
-      "teaser": "Ein Proof-of-Concept-Exploit für eine hochriskante Exchange-Lücke ist öffentlich. 85 Prozent der On-Premises-Server sind anfällig.",
-      "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
-      "image_title": "E-Mail-Symbol"
+      "title": "AlertPV-WechselrichterHoymiles liefert Sicherheitsupdate aus",
+      "teaser": "Hoymiles hatte seine DTU-Funkprotokolle nicht gesichert, was fremden Zugriff ermöglicht. Nun stehen Firmware-Updates bereit.",
+      "url": "https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html",
+      "image_title": "Hoymiles-Wechselrichter vor Matrixregen-Hintergrund"
     },
     {
-      "title": "secIT digital im SeptemberDiese Rollen spielt KI aufseiten von Angreifern und Verteidigern",
-      "teaser": "KI ist kein universeller Hack-Button. Aber sie verändert, wie Angreifer auf IT-Systeme schauen: Auf der secIT digital ordnen Referenten die Lage objektiv ein.",
-      "url": "https://www.heise.de/news/secIT-digital-Diese-Rollen-spielt-KI-aufseiten-von-Angreifern-und-Verteidigern-11433602.html"
+      "title": "Credentials gestohlenAnthropic warnt Opfer von Infostealern",
+      "teaser": "Nutzerinnen und Nutzer berichten, dass Anthropic sie aus Claude ausgeloggt hat. Das soll sie vor Betrügern schützen.",
+      "url": "https://www.heise.de/news/Anthropic-warnt-Opfer-von-Infostealern-11436179.html",
+      "image_title": "Anthropic-Logo auf einem Smartphone, in dem sich ein Bildschirm mit Börsenkurven spiegelt."
     },
     {
-      "title": "AlertWatchGuard Security-Appliances: Schadcode-Lücken in Firebox OS geschlossen",
-      "url": "https://www.heise.de/news/WatchGuard-Security-Appliances-Schadcode-Luecken-in-Firebox-OS-geschlossen-11434937.html",
-      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
+      "title": "AlertPV-WechselrichterHoymiles liefert Sicherheitsupdate aus",
+      "url": "https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html",
+      "image_title": "Hoymiles-Wechselrichter vor Matrixregen-Hintergrund"
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -50,6 +51,12 @@
     {
       "title": "Webinar | 21. OktoberKI für Verteidiger 2026",
       "url": "https://heise-conferences.de/webinar/ki-fur-verteidiger-2026-WWq3dxp7zqocrV?wt_mc=intern.conf.security.web_ki-verteidiger.security_buehne_1.teaser.teaser&LPID=39434"
+    },
+    {
+      "title": "Microsoft: September-Hotpatches für Windows erfordern Neustart",
+      "teaser": "Microsoft warnt Admins, dass die September-Patches für Windows auch auf Hotpatching-Systemen außerplanmäßig einen Reboot benötigen.",
+      "url": "https://www.heise.de/news/Microsoft-September-Hotpatches-fuer-Windows-erfordern-Neustart-11436803.html",
+      "image_title": "Windows Updates verfügbar: Herunterladen"
     },
     {
       "title": "KI-Agenten in der Container-Security: Erfahrungen aus der Praxis",
@@ -93,10 +100,21 @@
       "image_title": "Google Pixel 11 Geräte übereinander"
     },
     {
+      "title": "secIT digital: Diese Rollen spielt KI aufseiten von Angreifern und Verteidigern",
+      "teaser": "KI ist kein universeller Hack-Button. Aber sie verändert, wie Angreifer auf IT-Systeme schauen: Auf der secIT digital ordnen Referenten die Lage objektiv ein.",
+      "url": "https://www.heise.de/news/secIT-digital-Diese-Rollen-spielt-KI-aufseiten-von-Angreifern-und-Verteidigern-11433602.html"
+    },
+    {
       "title": "AlertRoot-Sicherheitslücke bedroht cPanel/WHM",
       "teaser": "In aktuellen Versionen haben die Entwickler der Webhosting-Control-Panel-Software cPanel/WHM eine Schwachstelle geschlossen.",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
       "image_title": "Ein Schloss symbolisiert Sicherheit."
+    },
+    {
+      "title": "AlertExchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
+      "teaser": "Ein Proof-of-Concept-Exploit für eine hochriskante Exchange-Lücke ist öffentlich. 85 Prozent der On-Premises-Server sind anfällig.",
+      "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
+      "image_title": "E-Mail-Symbol"
     },
     {
       "title": "iX-Workshop: GenAI für Security – Auditierbare GRC-Assistenten und SOC-Reporting",
@@ -128,32 +146,14 @@
       "image_title": "ZBT-Router vor Matrix-Regen-Hintergrund"
     },
     {
-      "title": "Zwei kritische Lücken in Next.js – Remote-Code-Ausführung unter Windows",
-      "teaser": "Die zwei kritischen von Vercel gemeldeten Lücken im JavaScript-Framework Next.js ermöglichen es Angreifern, Code auszuführen.",
-      "url": "https://www.heise.de/news/Zwei-kritische-Luecken-in-Next-js-Remote-Code-Ausfuehrung-unter-Windows-11433140.html",
-      "image_title": "Illustration Mensch patcht Sicherheitslücke"
+      "title": "Workshop | 16.9 – 17.9.2026ISO 27001 für Admins: ISMS praktisch umsetzen",
+      "teaser": "In diesem Workshop lernen Sie, wie Sie ein Informationssicherheits-Managementsystem nach ISO 27001 aus technischer Sicht praxisnah umsetzen können.",
+      "url": "https://heise-conferences.de/workshop/iso-27001-fur-admins-isms-praktisch-umsetzen-gefHm7vaQHDXlQ?wt_mc=intern.conf.ix.ws_isms.security_buehne_2.teaser.teaser"
     },
     {
-      "title": "„Begrenztes Zeitfenster“: Mehr als 100 Unternehmen warnen vor KI-Cyberangriffen",
-      "teaser": "Führende KI-Labore sowie mehr als 100 Organisationen warnen in einem offenen Brief vor einer baldigen Zunahme KI-gestützter Cyberangriffe.",
-      "url": "https://www.heise.de/news/Begrenztes-Zeitfenster-Mehr-als-100-Unternehmen-warnen-vor-KI-Cyberangriffen-11432718.html",
-      "image_title": "OpenAI-Logo an Glasfassade eines Bürogebäudes vor blauem Himmel mit Wolken."
-    },
-    {
-      "title": "Google macht Android 17 sicherer: ECH-Unterstützung und 2G-Abschaltung",
-      "teaser": "Mit Android 17 führt Google neue Netzwerksicherheitsfunktionen ein. Diese sollen Verbindungen absichern und die Privatsphäre im heimischen WLAN schützen.",
-      "url": "https://www.heise.de/news/2G-Abschaltung-und-ECH-Support-Android-17-erhoeht-die-Netzwerksicherheit-11432832.html",
-      "image_title": "Grüne Android-Figur vor Schloss-Symbol"
-    },
-    {
-      "title": "Workshop | 23. – 24.9.2026Digital Forensics & Incident Response",
-      "teaser": "Erfahren Sie wie man auf Cybervorfälle wie Phishing, Business Email Compromise, Viren, Trojaner und Ransomware effektiv reagieren.",
-      "url": "https://heise-academy.de/Workshops/incidentresponse?wt_mc=intern.academy.ix.ws_incident.security_buehne_2.teaser.teaser"
-    },
-    {
-      "title": "Workshop | 18.11.2026Einführung ins Threat Modeling",
-      "teaser": "Etablieren Sie IT-Security als Mindset und lernen Sie Threat Modeling als leichtgewichtige Methode kennen, um Security frühzeitig zu adressieren.",
-      "url": "https://heise-conferences.de/workshop/einfuhrung-ins-threat-modeling-iSzYRFxCRMILG1?wt_mc=intern.conf.ct.ws_threat-modeling.developer_buehne_2.teaser.teaser"
+      "title": "Webinar | 22.09. + 24.09.2026IT-Security für Nicht-Nerds",
+      "teaser": "Lernen Sie die Grundlagen der Sicherheit im Netz kennen und erhalten Sie praktische Tipps zur Datensicherheit für den Alltag.",
+      "url": "https://heise-conferences.de/webinar/it-security-fur-nicht-nerds-4YwovgA67ic4KK?wt_mc=intern.conf.ct.web_it-security-verstaendlich.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Workshop | 29.09. – 30.09.2026Docker Advanced – Strategie, Sicherheit, Automation",
@@ -161,9 +161,9 @@
       "url": "https://heise-conferences.de/workshop/docker-advanced-strategie-sicherheit-automation-SvtNMh2l1E1Bq3?wt_mc=intern.conf.ct.ws_docker-2.security_buehne_2.teaser.teaser"
     },
     {
-      "title": "Webinar | 22.09. + 24.09.2026IT-Security für Nicht-Nerds",
-      "teaser": "Lernen Sie die Grundlagen der Sicherheit im Netz kennen und erhalten Sie praktische Tipps zur Datensicherheit für den Alltag.",
-      "url": "https://heise-conferences.de/webinar/it-security-fur-nicht-nerds-4YwovgA67ic4KK?wt_mc=intern.conf.ct.web_it-security-verstaendlich.security_buehne_2.teaser.teaser"
+      "title": "Workshop | 18.11.2026Einführung ins Threat Modeling",
+      "teaser": "Etablieren Sie IT-Security als Mindset und lernen Sie Threat Modeling als leichtgewichtige Methode kennen, um Security frühzeitig zu adressieren.",
+      "url": "https://heise-conferences.de/workshop/einfuhrung-ins-threat-modeling-iSzYRFxCRMILG1?wt_mc=intern.conf.ct.ws_threat-modeling.developer_buehne_2.teaser.teaser"
     },
     {
       "title": "AliExpress trackt Nutzer via unhörbarem Audio-Fingerprinting",
