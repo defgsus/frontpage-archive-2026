@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T12:10:20",
+  "timestamp": "2026-09-01T17:01:45",
   "url": "https://www.heise.de/newsticker/entertainment/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Lexus NX: Plug-in-Hybrid mit über 100 km E-Reichweite und Gleichstrom-Laden",
+      "title": "VM-1: Videomischer auf Raspberry Pi5-Basis",
+      "teaser": "Der kostengünstige Videomischer für Theaterbühnen, VJs, Musiker und mehr, ist jetzt in der 2. Version verfügbar. Zum selbst bauen oder bald auch kaufen.",
+      "url": "https://www.heise.de/news/VM-1-Videomischer-auf-Raspberry-Pi5-Basis-11437317.html",
+      "image_title": "Einfache Version des VM-1 Videomischers auf Raspi-5-Basis"
+    },
+    {
+      "title": "Sonos rüstet Beam Ultra mit Atmos auf und koppelt Ace Ultra mit Musik-Speakern",
+      "teaser": "Die Soundbar Sonos Beam Ultra erhält echte statt nur virtuelle Höhenkanäle, der Kopfhörer Ace Ultra spielt auch mit Musik- statt bloß TV-Lautsprechern.",
+      "url": "https://www.heise.de/news/Sonos-ruestet-Beam-Ultra-mit-Atmos-auf-und-koppelt-Ace-Ultra-mit-Musik-Speakern-11436823.html",
+      "image_title": "TV-Lautsprecher Sonos Beam Ultra mit nach oben gerichteten Treibern"
+    },
+    {
+      "title": "DC-ladefähig und 100 km ReichweiteLexus NX Plug-in-Hybrid überarbeitet",
       "teaser": "Der überarbeitete Lexus NX setzt auf Hybridtechnik mit SiC-Halbleitern. Der Plug-in-Hybrid fährt über 100 km elektrisch und lädt erstmals an Gleichstrom.",
       "url": "https://www.heise.de/news/Lexus-NX-Plug-in-Hybrid-mit-ueber-100-km-E-Reichweite-und-Gleichstrom-Laden-11436695.html",
       "image_title": "Lexus NX"
@@ -29,18 +41,6 @@
       "title": "Google frisst das Web: Warum durch KI der Web-Traffic sinkt",
       "teaser": "Google ist keine klassische Suchmaschine mehr, sondern beantwortet Nutzerfragen mit KI. Das hat weitreichende Auswirkungen aufs offene Web – und den Traffic.",
       "url": "https://www.heise.de/hintergrund/Google-frisst-das-Web-Warum-durch-KI-der-Web-Traffic-sinkt-11426467.html"
-    },
-    {
-      "title": "„Alien Isolation 2“ angespielt: Die Angst vor der Dunkelheit ist zurück",
-      "teaser": "Schleichen, bangen und verstecken: „Alien Isolation 2“ macht Spieler erneut zur Beute für einen übermächtigen Xenomorph.",
-      "url": "https://www.heise.de/tests/Alien-Isolation-2-angespielt-Die-Angst-vor-der-Dunkelheit-ist-zurueck-11436371.html",
-      "image_title": "Alien: Isolation 2 – Xenomorph mit geöffnetem Maul in einer düsteren Nahaufnahme aus der Pre-Alpha-Version."
-    },
-    {
-      "title": "Aus Großbritannien: Apple kauft erstmals bereits laufende TV-Serie",
-      "teaser": "Normalerweise sendet Apple nur Eigenmaterial oder ausgewählte Klassiker. Für eine BBC-Show übernimmt der Streamingdienst des Konzerns nun den Weltvertrieb.",
-      "url": "https://www.heise.de/news/Aus-Grossbritannien-Apple-kauft-erstmals-bereits-laufende-TV-Serie-11435837.html",
-      "image_title": "„Small Prophets“ gehört zu den erfolgreichsten britischen Dramedy-Serien der letzten Jahre"
     },
     {
       "title": "HintergrundGoogle frisst das Web: Warum durch KI der Web-Traffic sinkt",
@@ -54,6 +54,23 @@
     {
       "title": "HintergrundGamescom dev: Wie KI-Agenten die Zukunft der Spieleentwicklung beeinflussen",
       "url": "https://www.heise.de/hintergrund/Gamescom-dev-Wie-KI-Agenten-die-Zukunft-der-Spieleentwicklung-beeinflussen-11432506.html"
+    },
+    {
+      "title": "PC-Lautsprecher Creative XF1 im Test: starker Sound trotz kleinem Formfaktor",
+      "teaser": "Obwohl die Creative XF1 für Desktop-Lautsprecher vergleichsweise kompakt sind, erzeugen sie für ihre Größe einen tollen Sound.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/pc-lautsprecher-creative-xf1-im-test-starker-sound-trotz-kleinem-formfaktor/tr7lzgk?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "„Alien Isolation 2“ angespielt: Die Angst vor der Dunkelheit ist zurück",
+      "teaser": "Schleichen, bangen und verstecken: „Alien Isolation 2“ macht Spieler erneut zur Beute für einen übermächtigen Xenomorph.",
+      "url": "https://www.heise.de/tests/Alien-Isolation-2-angespielt-Die-Angst-vor-der-Dunkelheit-ist-zurueck-11436371.html",
+      "image_title": "Alien: Isolation 2 – Xenomorph mit geöffnetem Maul in einer düsteren Nahaufnahme aus der Pre-Alpha-Version."
+    },
+    {
+      "title": "Aus Großbritannien: Apple kauft erstmals bereits laufende TV-Serie",
+      "teaser": "Normalerweise sendet Apple nur Eigenmaterial oder ausgewählte Klassiker. Für eine BBC-Show übernimmt der Streamingdienst des Konzerns nun den Weltvertrieb.",
+      "url": "https://www.heise.de/news/Aus-Grossbritannien-Apple-kauft-erstmals-bereits-laufende-TV-Serie-11435837.html",
+      "image_title": "„Small Prophets“ gehört zu den erfolgreichsten britischen Dramedy-Serien der letzten Jahre"
     },
     {
       "title": "Feuer statt Netzteil: Maker baut Computer mit Stirlingmotor",
@@ -124,24 +141,6 @@
       "teaser": "„Wenn ich ein digitales Bild habe, dann muss ich ja nicht mehr durch die Stadt fahren, um Disketten abzugeben\", sagt Pixum-Gründer Daniel Attallah.",
       "url": "https://www.heise.de/news/25-Mal-Mount-Everest-aus-Fotobuechern-Click-Boom-Flash-Fotodienstleister-11431920.html",
       "image_title": "Aufgeklapptes Fotobuch"
-    },
-    {
-      "title": "DLSS-5-Mod ausprobiert: Warum die ganze Aufregung?",
-      "teaser": "DLSS 5 kann per Mod schon ausprobiert werden. In „Kingdom Come Deliverance 2“ zeigt sich, welches Potenzial in der Technik steckt – und welche Probleme es gibt.",
-      "url": "https://www.heise.de/hintergrund/DLSS-5-Mod-ausprobiert-Warum-die-ganze-Aufregung-11434485.html",
-      "image_title": "DLSS 5 in kingdom come deliverance 2"
-    },
-    {
-      "title": "IFA: Zwischen Mythos und Verkaufsschau",
-      "teaser": "Die IFA ist ein Schaufenster in die Zukunft. Der Blick in die Vergangenheit zeigt aber auch: Nicht alles, was hier gezeigt wird, hat Bestand.",
-      "url": "https://www.heise.de/hintergrund/IFA-Zwischen-Mythos-und-Verkaufsschau-11433232.html",
-      "image_title": "Messeszene auf der IFA"
-    },
-    {
-      "title": "Jugendschutz: Roblox verbietet „Doomscrolling“ für Belohnungen",
-      "teaser": "Die Gaming-Plattform Roblox geht gegen Spielmechaniken vor, die Kinder und Jugendliche durch In-Game-Vorteile zum endlosen Konsum von Kurzvideo-Feeds verleiten.",
-      "url": "https://www.heise.de/news/Jugendschutz-Roblox-verbietet-Doomscrolling-fuer-Belohnungen-11434425.html",
-      "image_title": "Person hält ein Smartphone mit Roblox-Logo, im Hintergrund eine unscharfe Auswahl bunter Spielekacheln."
     },
     {
       "title": "News„Lake America“ statt „Lake Ontario“: Google Maps folgt Donald Trumps Vorgabe",
