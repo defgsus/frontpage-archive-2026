@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-05T06:24:25",
+  "timestamp": "2026-09-05T10:58:56",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -20,8 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Open-Source Smartwatch Pebble Time 2 getestet | c't 3003",
-      "teaser": "Diese Smartwatch ist ungewöhnlich: Sie ist Open-Source und macht jeden im Browser zum Entwickler. c't 3003 hatte die Pebble Time 2 mehrere Wochen am Arm.",
+      "title": "Sechs Lauf-Apps im Praxistest: Tracking, Training und Analyse im Vergleich",
+      "teaser": "Mehr als Strava: Wir testen sechs Lauf-Apps für Android und iPhone ausführlich. Außerdem stellen wir datensparsame Alternativen vor.",
+      "url": "https://www.heise.de/ratgeber/Sechs-Lauf-Apps-im-Praxistest-Tracking-Training-und-Analyse-im-Vergleich-11424909.html"
+    },
+    {
+      "title": "Gehirn-Computer-Schnittstellen: Datenschützer warnen vor Big Tech",
+      "teaser": "Gehirn-Computer-Schnittstellen erobern Medizin und Gaming. Auf einer Tagung in Bonn forderten Experten klare Regeln für den Schutz von Neurodaten.",
+      "url": "https://www.heise.de/news/Forschung-mit-Neurodaten-BfDI-fuer-mehr-Mut-aber-klare-Grenzen-fuer-Big-Tech-11441245.html",
+      "image_title": "Bundesdatenschutzbeauftragte Louisa Specht-Riemenschneider auf der Jahrestagung des Zentrums für Medizinische Datennutzbarkeit und Translation."
+    },
+    {
+      "title": "c't 3003Open-Source Smartwatch Pebble Time 2 getestet",
+      "teaser": "Diese Smartwatch ist ungewöhnlich: Die Pebble Time 2 macht jeden im Browser zum Entwickler. Wir hatten sie mehrere Wochen am Arm.",
       "url": "https://www.heise.de/news/Open-Source-Smartwatch-Pebble-Time-2-getestet-c-t-3003-11441188.html"
     },
     {
@@ -29,17 +40,6 @@
       "teaser": "Der Einsatz von KI im Gesundheitswesen verspricht viel, doch wer dabei die Kontrolle über sensible Patientendaten hat, ist oft unklar.",
       "url": "https://www.heise.de/news/KI-Update-Deep-Dive-Wer-hat-die-Kontrolle-ueber-unsere-Gesundheitsdaten-11440033.html",
       "image_title": "KI-Update-Logo"
-    },
-    {
-      "title": "#TGIQF: Das Quiz zur Grand-Theft-Auto-Spielreihe",
-      "teaser": "Grand-Theft-Auto-Fans zählen die Stunden bis zu Veröffentlichung von Teil VI. Rockstar North zählt die Leaks. In unserem GTA-Quiz zählen wir auf Ihr Wissen.",
-      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-zur-Grand-Theft-Auto-Spielreihe-11441745.html"
-    },
-    {
-      "title": "Post zum Freitag: Wann sich eine Wärmepumpe in der Praxis wirklich bewährt",
-      "teaser": "Wärmepumpen werden in vielen Ländern schon seit langer Zeit erfolgreich als Heizung eingesetzt und werden auch in Deutschland immer populärer.",
-      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Wann-sich-eine-Waermepumpe-in-der-Praxis-wirklich-bewaehrt-11441337.html",
-      "image_title": "heise+ Update"
     },
     {
       "title": "RatgeberSechs Lauf-Apps im Praxistest: Tracking, Training und Analyse im Vergleich",
@@ -56,10 +56,15 @@
       "image_title": "Nibe-Wärmepumpe"
     },
     {
-      "title": "Gehirn-Computer-Schnittstellen: Datenschützer warnen vor Big Tech",
-      "teaser": "Gehirn-Computer-Schnittstellen erobern Medizin und Gaming. Auf einer Tagung in Bonn forderten Experten klare Regeln für den Schutz von Neurodaten.",
-      "url": "https://www.heise.de/news/Forschung-mit-Neurodaten-BfDI-fuer-mehr-Mut-aber-klare-Grenzen-fuer-Big-Tech-11441245.html",
-      "image_title": "Bundesdatenschutzbeauftragte Louisa Specht-Riemenschneider auf der Jahrestagung des Zentrums für Medizinische Datennutzbarkeit und Translation."
+      "title": "#TGIQF: Das Quiz zur Grand-Theft-Auto-Spielreihe",
+      "teaser": "Grand-Theft-Auto-Fans zählen die Stunden bis zu Veröffentlichung von Teil VI. Rockstar North zählt die Leaks. In unserem GTA-Quiz zählen wir auf Ihr Wissen.",
+      "url": "https://www.heise.de/news/TGIQF-Das-Quiz-zur-Grand-Theft-Auto-Spielreihe-11441745.html"
+    },
+    {
+      "title": "Post zum Freitag: Wann sich eine Wärmepumpe in der Praxis wirklich bewährt",
+      "teaser": "Wärmepumpen werden in vielen Ländern schon seit langer Zeit erfolgreich als Heizung eingesetzt und werden auch in Deutschland immer populärer.",
+      "url": "https://www.heise.de/meinung/Post-zum-Freitag-Wann-sich-eine-Waermepumpe-in-der-Praxis-wirklich-bewaehrt-11441337.html",
+      "image_title": "heise+ Update"
     },
     {
       "title": "Freitag: VW auf strengem Sparkurs, Google mit KI-Sprachsteuerung von Apps",
@@ -136,12 +141,6 @@
       "teaser": "Wie ein eintägiger Quality-Sprint-Workshop dabei helfen kann, die Qualität eines IT-Projekts zu verbessern, klären Pia Wiedermayer und Roman Kirchmeier.",
       "url": "https://www.heise.de/blog/Software-Testing-Quality-Sprint-Wie-ein-Workshop-Qualitaetsprobleme-loest-11436163.html",
       "image_title": "Software Testing: Quality Sprint"
-    },
-    {
-      "title": "Feuer statt Netzteil: Maker baut Computer mit Stirlingmotor",
-      "teaser": "Ein Maker hat einen Computer gebaut, der mit einer offenen Flamme und einem Stirlingmotor läuft. Darauf kann er unter anderem Tetris spielen.",
-      "url": "https://www.heise.de/news/Feuer-statt-Netzteil-Maker-baut-Computer-mit-Stirlingmotor-11435372.html",
-      "image_title": "Screenshot zeigt Bild des Computers mit Stirlingmotor"
     },
     {
       "title": "NewsÜberwachung ohne Staatstrojaner: Wie Behörden bei WhatsApp und Signal mitlesen",
