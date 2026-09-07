@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-07T10:52:27",
+  "timestamp": "2026-09-07T16:09:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,10 @@
   ],
   "articles": [
     {
-      "title": "AlertJetzt patchen!Es laufen derzeit Schadcode-Attacken auf Chrome",
-      "teaser": "Google hat mehrere Sicherheitslücken im Webbrowser Chrome geschlossen. Eine Schwachstelle nutzen Angreifer bereits aus.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html",
-      "image_title": "Update-Schild auf Chrome-Logo"
+      "title": "AlertDer \"MikroTrick\"RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen",
+      "teaser": "CERT Polska warnt vor aktiv ausgenutzten Lücken in MikroTik RouterOS. Über SSH lassen sich Router ohne Zugangsdaten komplett übernehmen. Update dringend nötig.",
+      "url": "https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html",
+      "image_title": "Kabel in Server-Rack"
     },
     {
       "title": "September-Terminheise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
@@ -31,8 +31,9 @@
       "url": "https://www.heise.de/news/September-Termin-heise-security-Tour-mit-Vortraegen-zu-KI-Lieferketten-und-mehr-11437401.html"
     },
     {
-      "title": "AlertRoot-Attacken auf Nexus-9000-Switches von Cisco möglich",
-      "url": "https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html"
+      "title": "AlertZero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-StyleSmuggler-in-Magento-und-Adobe-Commerce-wird-aktiv-ausgenutzt-11444217.html",
+      "image_title": "Adobe-Logo an einer Glasfassade"
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -49,6 +50,36 @@
     {
       "title": "Webinar | 21. OktoberKI für Verteidiger 2026",
       "url": "https://heise-conferences.de/webinar/ki-fur-verteidiger-2026-WWq3dxp7zqocrV?wt_mc=intern.conf.security.web_ki-verteidiger.security_buehne_1.teaser.teaser&LPID=39434"
+    },
+    {
+      "title": "NetBSD 9.x erreicht das Support-Ende",
+      "teaser": "Zum Abschied von NetBSD 9.x gibt es noch einmal einige Sicherheits- und Stabilitätskorrekturen. Ein Umstieg auf NetBSD 10 oder 11 wird ausdrücklich empfohlen.",
+      "url": "https://www.heise.de/news/NetBSD-9-x-erreicht-das-Support-Ende-11444156.html",
+      "image_title": "Unix-Schriftzug vor dunklem Hintergrund"
+    },
+    {
+      "title": "Gefahr für die nationale Sicherheit: Berliner Datenleck schlägt hohe Wellen",
+      "teaser": "Nach dem Darknet-Leak streiten Bezirke über Forensik-Software von Crowdstrike. Die Datenschutzbeauftragte warnt und gibt Verhaltensregeln für Betroffene heraus.",
+      "url": "https://www.heise.de/news/Gefahr-fuer-die-nationale-Sicherheit-Berliner-Datenleck-schlaegt-hohe-Wellen-11444301.html",
+      "image_title": "Rotes Warnschild auf schwarzem Hintergrund"
+    },
+    {
+      "title": "AlertZero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt",
+      "teaser": "Onlineshops auf Basis von Magento und Adobe Commerce sind offenbar aufgrund einer ungepatchten Sicherheitslücke namens StyleSmuggler angreifbar.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-StyleSmuggler-in-Magento-und-Adobe-Commerce-wird-aktiv-ausgenutzt-11444217.html",
+      "image_title": "Adobe-Logo an einer Glasfassade"
+    },
+    {
+      "title": "BSI erklärt ersten Angriffsvektor auf Berliner Behörden",
+      "teaser": "Erst Phishing, dann ein Fake-Captcha und ein Terminal-Befehl – so einfach lief nach ersten Analysen die Cyberattacke auf Berlin ab.",
+      "url": "https://www.heise.de/news/BSI-erklaert-ersten-Angriffsvektor-auf-Berliner-Behoerden-11444072.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
+    },
+    {
+      "title": "Microsoft bremst alte Exchange-Server aus",
+      "teaser": "Microsoft verschärft die Regeln für alte Exchange-Server: In Hybridumgebungen drohen Drosselung und blockierte E-Mails.",
+      "url": "https://www.heise.de/news/Alte-Exchange-Server-riskieren-Mailblockaden-11443696.html",
+      "image_title": "Kleine Bausteine mit dem E-Mail-Symbol"
     },
     {
       "title": "Unheimliches Schwarmverhalten: OpenAI-Agenten kollaborieren auf deutschem Wiki",
@@ -113,36 +144,6 @@
       "teaser": "Phishing erkennen, Daten sichern, Passkeys nutzen: Das c’t-Webinar vermittelt IT-Sicherheit alltagstauglich und verständlich für Einsteiger.",
       "url": "https://www.heise.de/news/c-t-Webinar-IT-Security-fuer-Nicht-Nerds-11418859.html",
       "image_title": "Drei Personen stehen nebeneinander. Eine hält einen Laptop, eine stützt den Kopf mit der Hand, eine hält eine Kreditkarte und ein Smartphone."
-    },
-    {
-      "title": "Auslegungssache 167: Datenschutz mit System",
-      "teaser": "Wie Unternehmen Datenschutz praxistauglich organisieren, erklärt Beraterin Regina Mühlich im c’t-Datenschutz-Podcast.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-167-Datenschutz-mit-System-11435081.html",
-      "image_title": "Regina Mühlich (links), Joerg Heidrich (rechts), Holger Bleich (unten)"
-    },
-    {
-      "title": "UpdateKehrtwende bei Cybersicherheit: Bund gibt Plan für BSI-Grundgesetzänderung auf",
-      "teaser": "Trotz der verschärften Bedrohungslage und verstärkter IT-Angriffe verzichtet die Bundesregierung überraschend auf eine Verfassungsänderung zur Stärkung des BSI.",
-      "url": "https://www.heise.de/news/Kehrtwende-bei-Cybersicherheit-Bund-gibt-Plan-fuer-BSI-Grundgesetzaenderung-auf-11440646.html",
-      "image_title": "Schild mit der Aufschrift Bundesamt für Sicherheit in der Informationstechnik vor einem Gebäude"
-    },
-    {
-      "title": "Fix in Arbeit: PayPal-App startet nicht auf GrapheneOS",
-      "teaser": "Auf Smartphones mit GrapheneOS startet die PayPal-App derzeit nicht. PayPal bestätigt den Fehler und arbeitet an einer Lösung.",
-      "url": "https://www.heise.de/news/Fix-in-Arbeit-PayPal-App-startet-nicht-auf-GrapheneOS-11440346.html",
-      "image_title": "Rotes Foto eines Schreibtischs, in der Mitte ein Smartphone mit dem payPal-Logo"
-    },
-    {
-      "title": "AlertSicherheitspatches: Attacken auf Switches mit ArubaOS-CX möglich",
-      "teaser": "Die Entwickler von HPE Aruba Networking haben 34 Sicherheitslücken in ArubaOS-CX geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
-      "image_title": "Update-Schild auf einem Holztisch"
-    },
-    {
-      "title": "iX-Workshop: Cloud Security Masterclass – Angriff und Verteidigung in AWS",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Cloud-Security-Masterclass-Angriff-und-Verteidigung-in-AWS-11422283.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "Webinar | 22.09. + 24.09.2026IT-Security für Nicht-Nerds",
