@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-08T19:02:55",
+  "timestamp": "2026-09-08T22:05:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,27 @@
   ],
   "articles": [
     {
+      "title": "Huawei in den USA wegen Iran-Geschäften vor Gericht",
+      "teaser": "Acht Jahre nach der Festnahme der Huawei-Finanzchefin wird der chinesische Tech-Konzern wegen Bankbetrugs und Diebstahls von Geschäftsgeheimnissen angeklagt.",
+      "url": "https://www.heise.de/news/Huawei-in-den-USA-wegen-Iran-Geschaeften-vor-Gericht-11445986.html"
+    },
+    {
+      "title": "Tech-Branche nimmt Patagonien als Standort für Rechenzentren in den Blick",
+      "teaser": "Der Süden Argentiniens bietet einige Vorteile für den Bau von Data Centern. Einige Projekte sind bereits in Planung. Aber es gibt auch wesentliche Hürden.",
+      "url": "https://www.heise.de/news/Tech-Branche-nimmt-Patagonien-als-Standort-fuer-Rechenzentren-in-den-Blick-11445973.html",
+      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
+    },
+    {
+      "title": "BGH stärkt Anwälte bei beA-Ausfall: Wenn das Ersatzfax zur Stolperfalle wird",
+      "teaser": "Fällt das digitale Anwaltspostfach vor Fristablauf aus, verzeiht der Bundesgerichtshof Fehler beim ungewohnten Computerfax, falls dieser Umweg unzumutbar war.",
+      "url": "https://www.heise.de/news/BGH-staerkt-Anwaelte-bei-beA-Ausfall-Wenn-das-Ersatzfax-zur-Stolperfalle-wird-11445903.html",
+      "image_title": "Legal,Advice,Concept.,Lawyer,Hands,Using,Digital,Tablet,With,Law"
+    },
+    {
       "title": "ChatGPT Images 2.5: OpenAI bringt neue Funktionen zur KI-Bilderstellung",
       "teaser": "Nur wenige Monate nach Images 2.0 bringt OpenAI erneut neue Funktionen für die KI-Bilderstellung und -bearbeitung in ChatGPT.",
       "url": "https://www.heise.de/news/ChatGPT-Images-2-5-OpenAI-bringt-neue-Funktionen-zur-KI-Bilderstellung-11443290.html",
       "image_title": "Cappy (Dieses Bild wurde mit KI generiert)"
-    },
-    {
-      "title": "Pentagon-Leaks: Die verheimlichten Verträge der KI-Giganten",
-      "teaser": "400 Seiten Enthüllungsakten zeigen: Google, OpenAI & Co. liefern nicht nur Software ans US-Militär, sondern gestalten die globale Pentagon-Kriegsstrategie mit.",
-      "url": "https://www.heise.de/news/Pentagon-Leaks-Die-verheimlichten-Vertraege-der-KI-Giganten-11445865.html",
-      "image_title": "Close up of army tech expert in data center running simulations with military grade defense artificial intelligence. Server farm worker configuring AI dashboards to support mission decisions."
-    },
-    {
-      "title": "Dauer-Aufzeichnung für das Second Brain: KI-Rekorder treffen auf die DSGVO",
-      "teaser": "KI-Rekorder aus China, die permanent aufzeichnen sollen, drängen auf den europäischen Markt. Doch die Vision des permanenten Mithörens kollidiert mit der DSGVO.",
-      "url": "https://www.heise.de/hintergrund/Dauer-Aufzeichnung-fuer-das-Second-Brain-KI-Rekorder-treffen-auf-die-DSGVO-11444876.html"
-    },
-    {
-      "title": "AWS ECS ohne Webkonsole verwalten",
-      "teaser": "Das Terminal-Tool e1s für Amazon ECS ermöglicht in Version 2.0.0 den Wechsel von AWS-Profilen und Regionen im laufenden Betrieb.",
-      "url": "https://www.heise.de/news/AWS-ECS-ohne-Webkonsole-verwalten-11445555.html",
-      "image_title": "Ein weißes Wolkensymbol über einem Server-Rack mit vielen Kabeln."
     },
     {
       "title": "HintergrundDauer-Aufzeichnung für das Second Brain: KI-Rekorder treffen auf die DSGVO",
@@ -60,6 +60,18 @@
       "title": "Top 10: Die beste Powerstation im Test – Ecoflow vor Bluetti und Anker",
       "teaser": "Mobile Solargeneratoren liefern netzunabhängig Strom – unterwegs oder daheim. Wir zeigen die besten zehn Powerstations aus über 60 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-powerstation-im-test-ecoflow-vor-bluetti-und-anker/1f379f0?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Pentagon-Leaks: Die verheimlichten Verträge der KI-Giganten",
+      "teaser": "400 Seiten Enthüllungsakten zeigen: Google, OpenAI & Co. liefern nicht nur Software ans US-Militär, sondern gestalten die globale Pentagon-Kriegsstrategie mit.",
+      "url": "https://www.heise.de/news/Pentagon-Leaks-Die-verheimlichten-Vertraege-der-KI-Giganten-11445865.html",
+      "image_title": "Close up of army tech expert in data center running simulations with military grade defense artificial intelligence. Server farm worker configuring AI dashboards to support mission decisions."
+    },
+    {
+      "title": "AWS ECS ohne Webkonsole verwalten",
+      "teaser": "Das Terminal-Tool e1s für Amazon ECS ermöglicht in Version 2.0.0 den Wechsel von AWS-Profilen und Regionen im laufenden Betrieb.",
+      "url": "https://www.heise.de/news/AWS-ECS-ohne-Webkonsole-verwalten-11445555.html",
+      "image_title": "Ein weißes Wolkensymbol über einem Server-Rack mit vielen Kabeln."
     },
     {
       "title": "Kubernetes-Orchestrierung für das KI-Modelltraining mit Karmada",
@@ -131,18 +143,6 @@
       "teaser": "Mit drei Milliarden Euro will Mistral wieder leistungsfähigere Modelle trainieren und seine Rolle als europäischer KI-Infrastrukturanbieter ausbauen.",
       "url": "https://www.heise.de/news/Drei-Milliarden-fuer-Mistral-Europas-KI-Hoffnung-will-zur-Spitze-aufschliessen-11445122.html",
       "image_title": "EU-Flagge weht vor blauem Himmel."
-    },
-    {
-      "title": "ÖGD-Digitalisierung: Berlin setzt auf ÖGDigital, Köln auf Open Source",
-      "teaser": "Köln setzt künftig auf die quelloffene Frankfurter Gesundheitsamtssoftware GA-Lotse. Berlin schließt sich dagegen der ÖGDigital-Kooperation an.",
-      "url": "https://www.heise.de/news/OeGD-Digitalisierung-Berlin-setzt-auf-OeGDigital-Frankfurt-auf-Open-Source-11409430.html",
-      "image_title": "Ärztin arbeitet am Laptop, überall Ordner-Symbole"
-    },
-    {
-      "title": "heise jobs IT Tage im Herbst 2026: IT-Jobmessen mit Karriereprogramm",
-      "teaser": "Die heise jobs IT Tage machen im September Station in Stuttgart und Berlin – mit Speed-Talks, Lebenslaufchecks und kostenlosen Bewerbungsfotos.",
-      "url": "https://www.heise.de/news/heise-jobs-IT-Tage-im-Herbst-2026-IT-Jobmessen-mit-Karriereprogramm-11441146.html",
-      "image_title": "Grafik zum heise jobs IT Tag mit sitzender Person, Laptop und großem Veranstaltungslogo auf blauem Hintergrund."
     },
     {
       "title": "NewsMissbrauch von Smart Glasses: Meta sperrt Kamerafunktion bei Tausenden Nutzern",
