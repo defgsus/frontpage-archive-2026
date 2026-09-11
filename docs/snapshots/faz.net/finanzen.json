@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-11T01:44:18",
+  "timestamp": "2026-09-11T06:44:00",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -56,9 +56,16 @@
   ],
   "articles": [
     {
+      "title": "Aktienmarkt: Europa eine Chance geben",
+      "teaser": "Die vielen Millionen ETF-Sparer versorgen derzeit vor allem die US-Techbranche mit Geld. Ein stärkeres Gegengewicht ist überfällig.",
+      "url": "https://www.faz.net/aktuell/finanzen/nicht-nur-us-tech-aktien-europa-eine-chance-geben-201214508.html"
+    },
+    {
       "title": "F.A.Z. Europakonferenz: „Der Kapitalmarkt erlebt gerade seinen Agenda-Moment“",
       "teaser": "Börsenchef Leithner sieht Deutschland bei der Lösung des Altersvorsorgeproblems einen großen Schritt nach vorne machen. Die Angst vor einem Börsenabsturz hält er für eine unsinnige Frage.",
-      "url": "https://www.faz.net/aktuell/finanzen/wie-damals-bei-schroeder-der-kapitalmarkt-erlebt-seinen-agenda-moment-201213402.html"
+      "url": "https://www.faz.net/aktuell/finanzen/wie-damals-bei-schroeder-der-kapitalmarkt-erlebt-seinen-agenda-moment-201213402.html",
+      "image_url": "https://media0.faz.net/image/w1200/a93ea8762991/w3000h1687x0y156/202609/43601.0.2535537625/von-europa-ueberzeugt.webp",
+      "image_title": "Von Europa überzeugt: Börsenchef Stephan Leithner am Donnerstag in Berlin"
     },
     {
       "title": "Wegen hoher Inflation: EZB hebt die Zinsen um einen Viertelprozentpunkt an",
@@ -78,7 +85,7 @@
       "title": "FAZ+Haus finanzieren: Wovon es abhängt, ob man einen Baukredit bekommt",
       "teaser": "Neun Prozent der Deutschen streben in den nächsten fünf Jahren den Erwerb einer Immobilie an. Bankvorstände berichten in einer Umfrage, worauf sie vor der Kreditvergabe achten.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/umfrage-unter-bankvorstaenden-wovon-es-abhaengt-ob-man-einen-baukredit-bekommt-accg-201205700.html",
-      "image_url": "https://media0.faz.net/image/w1200/dcc72ac75322/w3000h1687x0y176/202503/43601.0.918268182/hohe-baukosten-schon-allein.webp",
+      "image_url": "https://media0.faz.net/image/w1100/dcc72ac75322/w3000h1687x0y176/202503/43601.0.918268182/hohe-baukosten-schon-allein.webp",
       "image_title": "Hohe Baukosten: Schon allein das Dach eines Hauses kann teuer sein."
     },
     {
@@ -94,13 +101,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/sparkassen-gegen-trade-republic-kampf-um-das-altersvorsorgedepot-201210164.html",
       "image_url": "https://media0.faz.net/image/w1100/39ceafd8889f/w6144h3456x0y355/202604/43601.0.1979055677/mit-starker-vertriebsmacht.webp",
       "image_title": "Mit starker Vertriebsmacht: Sitz der Sparkassenfondsgesellschaft Deka in Frankfurt"
-    },
-    {
-      "title": "FAZ+Hohe Verkaufserlöse: Rekorddividende für Trade-Republic-Aktie",
-      "teaser": "Die Sino AG ist der einzige Weg, sich als Anleger am Geschäftserfolg der Berliner Neobank zu beteiligen. Bald winkt eine außergewöhnlich hohe Dividende.",
-      "url": "https://www.faz.net/aktuell/finanzen/trade-republic-diese-aktie-profitiert-vom-erfolg-der-neobank-accg-201205261.html",
-      "image_url": "https://media0.faz.net/image/w1100/412e17f86904/w9520h5355x0y408/202512/439f132956-db50-11f0-992e-e794eb67fa87/sehr-beliebtes-zahlungsmittel.webp",
-      "image_title": "Sehr beliebtes Zahlungsmittel: Die Visa-Karte von Trade Republic"
     },
     {
       "title": "Nach Sachsen-Anhalt: Nur der Gewinn zählt",
@@ -173,6 +173,13 @@
       "image_title": "Markus Frühauf"
     },
     {
+      "title": "FAZ+Hohe Verkaufserlöse: Rekorddividende für Trade-Republic-Aktie",
+      "teaser": "Die Sino AG ist der einzige Weg, sich als Anleger am Geschäftserfolg der Berliner Neobank zu beteiligen. Bald winkt eine außergewöhnlich hohe Dividende.",
+      "url": "https://www.faz.net/aktuell/finanzen/trade-republic-diese-aktie-profitiert-vom-erfolg-der-neobank-accg-201205261.html",
+      "image_url": "https://media0.faz.net/image/w880/412e17f86904/w9520h5355x0y408/202512/439f132956-db50-11f0-992e-e794eb67fa87/sehr-beliebtes-zahlungsmittel.webp",
+      "image_title": "Sehr beliebtes Zahlungsmittel: Die Visa-Karte von Trade Republic"
+    },
+    {
       "title": "FAZ+Vor der EZB-Sitzung: Gleichen die Zinsen bald wieder stärker die Inflation aus?",
       "teaser": "Am Donnerstag entscheidet die EZB über den weiteren Kurs. Sie dürfte ihre Inflationsprognosen und die Zinsen anheben. Auch für die Sparzinsen könnte der Zinsanstieg nach Einschätzung von Fachleuten weitergehen.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/ezb-sitzung-kommt-jetzt-die-naechste-zinserhoehung-201201704.html",
@@ -180,25 +187,11 @@
       "image_title": "EZB-Zentrale: Die nächste Zinserhöhung scheint sicher. Wie geht es danach weiter?"
     },
     {
-      "title": "Europlatz Frankfurt: Zinseinkommen sind gekommen, um zu bleiben",
-      "teaser": "Gastbeitrag Aktienanleger gehen aktuell eine der größten makroökonomischen Wetten der Geschichte ein.",
-      "url": "https://www.faz.net/aktuell/finanzen/zinseinkommen-und-aktien-die-groesste-makrowette-der-geschichte-accg-201192168.html",
-      "image_url": "https://media0.faz.net/image/w880/daa37e12b0fb/w3488h1962x0y95/202609/43601.0.2512494419/dax-boersenkurse-stehen-auf.webp",
-      "image_title": "Dax: Börsenkurse stehen auf Rekordniveau, trotz der hohen Zinsen."
-    },
-    {
       "title": "FAZ+Erfolg der Alpenrepublik: Warum geht es der Schweiz besser als Deutschland?",
       "teaser": "Gastbeitrag Die Schweizer Wirtschaft wächst, Deutschland wird nach unten durchgereicht. Woran das liegt: In der Schweiz hat der Bürger das letzte Wort.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/warum-geht-es-der-schweiz-wirtschaftlich-besser-als-deutschland-das-sind-die-antworten-accg-201180209.html",
       "image_url": "https://media0.faz.net/image/w1200/cbaaf1a208fb/w5000h2812x0y228/202608/43601.0.2455696837/gelebte-direkte-demokratie-die.webp",
       "image_title": "Gelebte direkte Demokratie: die Landsgemeinde, hier in Appenzell."
-    },
-    {
-      "title": "Früherer Feuerwehrchef: „Muss erst ein Flugzeug explodieren, damit wir aufwachen?“",
-      "teaser": "Der Zivilschutzfachmann Albrecht Broemme findet, dass Deutschland aus früheren Anschlägen kaum gelernt hat. Unternehmen sollten Drohnen abwehren dürfen, Privatleute sollen Notreserven anlegen – darunter auch gute Rotweine.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/albrecht-broemme-wann-wacht-deutschland-im-zivilschutz-auf-accg-201188265.html",
-      "image_url": "https://media0.faz.net/image/w1100/a1d64b1f899f/w4000h2250x0y726/202607/43601.0.2304767841/mahner-und-fachmann-albrecht.webp",
-      "image_title": "Mahner und Fachmann: Albrecht Broemme war Präsident des Technischen Hilfswerks und Berliner Landesbranddirektor."
     },
     {
       "title": "Zukunft der Wirtschaft: Gute Nachrichten, die keiner sieht",
@@ -213,6 +206,13 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-droht-mit-werksschliessung-in-deutschland-201209705.html",
       "image_url": "https://media0.faz.net/image/w1100/f5a69586d369/w6144h3456x0y299/202608/43601.0.2475743991/produktion-der-mercedes-s.webp",
       "image_title": "Produktion der Mercedes S-Klasse in Sindelfingen: Arbeiten die Beschäftigten bald 40 Stunden in der Woche?"
+    },
+    {
+      "title": "Sachsen-Anhalt: Merz sollte seine Reformen trotzdem durchziehen",
+      "teaser": "Die Mehrheit der Wähler will Veränderungen. Aber leider nicht solche, die den Standort Deutschland im internationalen Wettbewerb stärken.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wahl-sachsen-anhalt-2026-merz-sollte-seine-reformen-trotzdem-durchziehen-201200313.html",
+      "image_url": "https://media0.faz.net/image/w1100/890352231851/w5360h3015x0y214/202608/43601.0.2490186331/und-jetzt-kanzler-friedrich.webp",
+      "image_title": "Und jetzt? Kanzler Friedrich Merz und Sachsen-Anhalts Ministerpräsident Sven Schulze."
     },
     {
       "title": "Tagesgeld war gestern: Auf diese unscheinbaren ETF setzen die Profis",
