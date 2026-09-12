@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T21:45:23",
+  "timestamp": "2026-09-12T23:29:38",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "„Sicherheitsbedenken“: OpenAI verschiebt Börsengang",
+      "url": "https://www.heise.de/news/Sam-Altman-Boersengang-von-OpenAI-verschoben-11451477.html"
+    },
     {
       "title": "Neues \"StarCraft\" angekündigt: Open-World-Shooter statt Echtzeitstrategie",
       "url": "https://www.heise.de/news/Neues-StarCraft-angekuendigt-Open-World-Shooter-statt-Echtzeitstrategie-11451445.html"
@@ -58,10 +62,15 @@
       "url": "https://www.heise.de/news/Roboterkoch-braet-am-Bahnhof-Modellversuch-in-Leipzig-11451299.html"
     },
     {
-      "title": "Den Gardasee fotografieren: Die schönsten Spots abseits der Touristenpfade",
-      "url": "https://www.heise.de/ratgeber/Den-Gardasee-fotografieren-Die-schoensten-Spots-abseits-der-Touristenpfade-11442138.html",
-      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
-      "image_title": "heise Plus"
+      "title": "Sam Altman bestätigtBörsengang von OpenAI verschoben",
+      "teaser": "Weil es bei der Sicherheit und Ausrichtung von KI noch viel zu tun gibt, will OpenAI nicht so bald an die Börse.",
+      "url": "https://www.heise.de/news/Sam-Altman-Boersengang-von-OpenAI-verschoben-11451477.html",
+      "image_title": "Sam Altman vor Leinwand mit OpenAI-Schriftzug."
+    },
+    {
+      "title": "KI-EntwicklungWas AGI eigentlich ist – und warum es niemand genau weiß",
+      "teaser": "OpenAI ruft die AGI-Ära aus, Fachleute widersprechen. Doch was bedeutet \"AGI\" überhaupt?",
+      "url": "https://www.heise.de/hintergrund/Was-AGI-eigentlich-ist-und-warum-es-niemand-genau-weiss-11449521.html"
     },
     {
       "title": "Salto rückwärtsApple möchte KI doch mit Nutzerdaten trainieren",
@@ -70,32 +79,21 @@
       "image_title": "Apple Intelligence auf dem iPhone"
     },
     {
-      "title": "KI-EntwicklungWas AGI eigentlich ist – und warum es niemand genau weiß",
-      "teaser": "OpenAI ruft die AGI-Ära aus, Fachleute widersprechen. Doch was bedeutet \"AGI\" überhaupt?",
-      "url": "https://www.heise.de/hintergrund/Was-AGI-eigentlich-ist-und-warum-es-niemand-genau-weiss-11449521.html"
-    },
-    {
-      "title": "Nach Accell-Pleite:Hoffnung für deutsche E-Bike-Pioniere Haibike und Ghost",
-      "teaser": "Die Rettung für Haibike, Winora und Ghost nimmt nach der Pleite des Mutterkonzerns Form an.",
-      "url": "https://www.heise.de/news/Nach-Accell-Pleite-Hoffnung-fuer-deutsche-E-Bike-Pioniere-Haibike-und-Ghost-11451291.html",
-      "image_title": "Many,People,In,The,City,Center,In,The,Pedestrian,Zone"
-    },
-    {
       "title": "SolaranlagenWartung von PV-Anlagen für Einsteiger: Was Betreiber selbst prüfen können",
       "teaser": "PV-Anlagen brauchen wenig Wartung, aber regelmäßige Aufmerksamkeit. Was Betreiber selbst prüfen können, wann Reinigung lohnt und wann Fachleute ranmüssen.",
       "url": "https://www.heise.de/ratgeber/Wartung-von-PV-Anlagen-fuer-Einsteiger-Was-Betreiber-selbst-pruefen-koennen-11424897.html"
-    },
-    {
-      "title": "Microsoft-AlternativenMicrosoft-Alternativen: Open-Source-Software aus Europa",
-      "teaser": "Bloß weg von US-Diensten? Im c’t uplink diskutieren wir über digitale Souveränität und stellen Microsoft-365-Alternativen vor.",
-      "url": "https://www.heise.de/news/Microsoft-Alternativen-Open-Source-Software-aus-Europa-c-t-uplink-11449625.html",
-      "image_title": "Aufmacherbild c't uplink zeigt Redakteur mit externen Datenträgern in der Hand"
     },
     {
       "title": "Keine EchtzeitstrategieNeues \"StarCraft\" als Open-World-Shooter",
       "teaser": "Blizzards „StarCraft“ kehrt zurück und verabschiedet sich von seinen RTS-Wurzeln. Fans müssen sich noch Jahre gedulden.",
       "url": "https://www.heise.de/news/Neues-StarCraft-angekuendigt-Open-World-Shooter-statt-Echtzeitstrategie-11451445.html",
       "image_title": "Ein Mann steht vor einer massiven roten Kampfrüstung, darüber ist der Schriftzug „StarCraft“ eingeblendet."
+    },
+    {
+      "title": "Nach Accell-Pleite:Hoffnung für deutsche E-Bike-Pioniere Haibike und Ghost",
+      "teaser": "Die Rettung für Haibike, Winora und Ghost nimmt nach der Pleite des Mutterkonzerns Form an.",
+      "url": "https://www.heise.de/news/Nach-Accell-Pleite-Hoffnung-fuer-deutsche-E-Bike-Pioniere-Haibike-und-Ghost-11451291.html",
+      "image_title": "Many,People,In,The,City,Center,In,The,Pedestrian,Zone"
     },
     {
       "title": "IP-Rating, Display, FaltenfreiheitHardware-Details zum iPhone Duo",
@@ -195,10 +193,10 @@
       "url": "https://www.heise.de/news/Pentax-lebt-Leica-schwaechelt-und-Apple-blendet-Fotonews-der-Woche-KW-37-11450605.html"
     },
     {
-      "title": "Social Media und Kinder:Prien will zügig ins Kabinett, bleibt weiter vage",
-      "teaser": "Mitte Oktober plant Ministerin Karin Prien Gesetzesänderungen nach dem Bericht der Kommission.",
-      "url": "https://www.heise.de/hintergrund/Social-Media-und-Kinder-Prien-will-zuegig-ins-Kabinett-bleibt-aber-weiter-vage-11450565.html",
-      "image_title": "Fünf Kinder auf einem Fensterbrett, alle starren auf ihre Handys"
+      "title": "Microsoft-AlternativenMicrosoft-Alternativen: Open-Source-Software aus Europa",
+      "teaser": "Bloß weg von US-Diensten? Im c’t uplink diskutieren wir über digitale Souveränität und stellen Microsoft-365-Alternativen vor.",
+      "url": "https://www.heise.de/news/Microsoft-Alternativen-Open-Source-Software-aus-Europa-c-t-uplink-11449625.html",
+      "image_title": "YouTube-Thumbnail zum Uplink"
     },
     {
       "title": "Top 10: Mähroboter für kleine Flächen im Test – kabellos, kompakt, ab 475 Euro",
@@ -212,9 +210,9 @@
       "image_title": "Humanoider Roboter gibt die Hand."
     },
     {
-      "title": "Wie Smartwatches Sport und Gesundheit verbinden",
-      "teaser": "Wie viel Sport ist die richtige Dosis – und wann wird die Belastung zu hoch? Mit bestimmten Smartwatches lassen sich Sport, Style sowie Selbstvorsorge kombinieren und das Verhalten bewusster steuern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7421942591&iu=%2F6514%2FClicktracking"
+      "title": "Schluss mit der Fehlersuche bei IT-Störungen",
+      "teaser": "IT-Teams verfügen über immer mehr Endpoint-Daten, doch welche Geräte benötigen tatsächlich Aufmerksamkeit? KI-gestützte Analysen helfen, Anomalien zu erkennen und Probleme frühzeitig anzugehen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319814222&iu=%2F6514%2FClicktracking%2Ftextlink"
     },
     {
       "title": "Expertentalk Gebrauchtwagenkauf: Worauf Sie achten müssen",
@@ -402,15 +400,21 @@
       "image_title": "Von Kratern übersäte Oberfläche ds Merkus"
     },
     {
+      "title": "Social Media und Kinder: Prien will zügig ins Kabinett, bleibt aber weiter vage",
+      "teaser": "Mitte Oktober will Ministerin Karin Prien mit Gesetzesänderungen auf den Bericht der Kommission für einen besseren Kinder- und Jugendmedienschutz reagieren.",
+      "url": "https://www.heise.de/hintergrund/Social-Media-und-Kinder-Prien-will-zuegig-ins-Kabinett-bleibt-aber-weiter-vage-11450565.html",
+      "image_title": "Fünf Kinder auf einem Fensterbrett, alle starren auf ihre Handys"
+    },
+    {
+      "title": "Die Arbeitsplatzarchitektur der Zukunft",
+      "teaser": "Besonders bei Behörden und KRITIS-Unternehmen hängt die Handlungs- und Widerstandsfähigkeit von der Architektur ab. In einem Webcast diskutieren wir darüber, welche Entscheidungen in dieser Hinsicht zu treffen sind.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/entscheidungen-fuer-die-architektur-der-zukunft-it-sicherheit-als-geschaeftsgrundlage-und-wettbewerbsfaktor-5101/?source=hbsad-ersatz"
+    },
+    {
       "title": "Linux-Distribution: Warum NixOS mit seinem eigenen Wachstum kämpft",
       "teaser": "NixOS wächst und gedeiht, doch in der Community des Projekts gibt es ungelöste Konflikte, die das Wachstum gefährden könnten. Eine Zustandsanalyse von NixOS.",
       "url": "https://www.heise.de/hintergrund/Linux-Distribution-Warum-NixOS-mit-seinem-eigenen-Wachstum-kaempft-11418058.html",
       "image_title": "Ein Gebäude in Form eines Sterns wird von Arbeitern und einem Kran gebaut."
-    },
-    {
-      "title": "KI-gestützte Cyberangriffe: So rüsten Sie Ihre Abwehr richtig auf",
-      "teaser": "Cyberkriminelle nutzen KI, um Angriffe schneller und gezielter durchzuführen. Wie Sie Ihre Sicherheitsarchitektur darauf ausrichten, erfahren Sie im Live-Webcast am 22.10. um 11 Uhr.",
-      "url": "https://business-services.heise.de/security/security-management/beitrag/ki-gestuetzte-cyberangriffe-so-ruesten-sie-ihre-abwehr-richtig-auf-5106/?source=hbsad-ersatz"
     },
     {
       "title": "OLG Köln bremst Verbraucherschützer: „Bezahlen mit Daten“ ist kein Preis",
@@ -463,12 +467,6 @@
       "title": "Diskussion um Drohnenabwehr: Schießen Privatfirmen bald im Staatsauftrag?",
       "teaser": "Erste Bundesländer wollen Unternehmen erlauben, selbst Drohnen abzuwehren. Der Bund dürfte folgen. Doch wer haftet, wenn beim Abschussversuch etwas schiefgeht?",
       "url": "https://www.heise.de/hintergrund/Diskussion-um-Drohnenabwehr-Schiessen-Privatfirmen-bald-im-Staatsauftrag-11421562.html"
-    },
-    {
-      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
-      "teaser": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11426055.html",
-      "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
       "title": "NATO-Staaten vereiteln russische Sabotage-Simulation in der Arktis",
@@ -647,14 +645,15 @@
       "image_title": "Eyes Wide Shut"
     },
     {
-      "title": "Vorsicht, Kunde: Kurs bezahlt und trotzdem ausgesperrt",
-      "teaser": "Wird der Zugang zu einem digitalen Angebot plötzlich gesperrt, müssen Verbraucher das nicht hinnehmen. Wir klären, welche Vertragsklauseln oft unwirksam sind.",
-      "url": "https://www.heise.de/news/Vorsicht-Kunde-Kurs-bezahlt-und-trotzdem-ausgesperrt-11449571.html"
+      "title": "Microsoft-AlternativenMicrosoft-Alternativen: Open-Source-Software aus Europa",
+      "teaser": "Bloß weg von US-Diensten? Im c’t uplink diskutieren wir über digitale Souveränität und stellen Microsoft-365-Alternativen vor.",
+      "url": "https://www.heise.de/news/Microsoft-Alternativen-Open-Source-Software-aus-Europa-c-t-uplink-11449625.html",
+      "image_title": "YouTube-Thumbnail zum Uplink"
     },
     {
-      "title": "c't 3003Fritzbox blockt Werbung (in 5 Minuten eingerichtet)",
-      "teaser": "DNS-Filter blockieren Werbung im gesamten Heimnetz. Dank der neuen Fritzbox-Funktion ist das so schnell eingerichtet wie nie zuvor.",
-      "url": "https://www.heise.de/news/In-5-Minuten-eingerichtet-DNS-Filter-in-der-Fritzbox-11450196.html"
+      "title": "Bunte Gehäuse und RTX Spark: Notebook-News von der IFA 2026",
+      "teaser": "In den kommenden Monaten erscheinen Mittelklasse-Notebooks, bei denen man aus mehreren Gehäusefarben wählen kann. Zudem startet Nvidias ARM-Prozessor RTX Spark.",
+      "url": "https://www.heise.de/hintergrund/Bunte-Gehaeuse-und-RTX-Spark-Notebook-News-von-der-IFA-2026-11442198.html"
     },
     {
       "title": "BenQs 5K-Display im TestScharfer Schirm mit App",
