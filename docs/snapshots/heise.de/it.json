@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T01:49:57",
+  "timestamp": "2026-09-12T06:36:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,28 @@
   ],
   "articles": [
     {
+      "title": "Interview: Zehntausende US-Dollar Schaden durch aufgeblähte Sicherheitswarnungen",
+      "teaser": "Meldungen zu Sicherheitslücken sind für Open-Source-Projekte wichtig – viele davon seien inzwischen aber aufgeblähtes Marketing, meint Peter Gutmann.",
+      "url": "https://www.heise.de/news/Interview-Zehntausende-US-Dollar-Schaden-durch-aufgeblaehte-Sicherheitswarnungen-11443876.html",
+      "image_title": "Illustration frustrierter Entwickler"
+    },
+    {
+      "title": "Developer-Häppchen – CUDA für ARM, Node-Sicherheit und Rust-Umfrage",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu W3C, ESLint, GitHub, Cyber Resilience Act, PostgreSQL, Astro, Rust, Node.js, GPT-6 Astra und CUDA.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-CUDA-fuer-ARM-Node-Sicherheit-und-Rust-Umfrage-11446151.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "Microsoft-Alternativen: Open-Source-Software aus Europa | c’t uplink",
+      "teaser": "Bloß weg von US-Diensten? Im c’t uplink diskutieren wir über digitale Souveränität und stellen Microsoft-365-Alternativen wie openDesk vor.",
+      "url": "https://www.heise.de/news/Microsoft-Alternativen-Open-Source-Software-aus-Europa-c-t-uplink-11449625.html",
+      "image_title": "YouTube-Thumbnail zum Uplink"
+    },
+    {
       "title": "Herdr: Terminal-Multiplexer sortiert Flotten von Coding-Agenten",
       "teaser": "Herdr bündelt langlebige Terminal-Sitzungen und zeigt, welcher Coding-Agent auf Eingaben wartet. Omarchy Linux integriert das junge Open-Source-Projekt.",
       "url": "https://www.heise.de/news/Herdr-Terminal-Multiplexer-sortiert-Flotten-von-Coding-Agenten-11448520.html",
       "image_title": "Ansicht der Herdr-Anwendung im Terminal"
-    },
-    {
-      "title": "Linux-Distribution: Warum NixOS mit seinem eigenen Wachstum kämpft",
-      "teaser": "NixOS wächst und gedeiht, doch in der Community des Projekts gibt es ungelöste Konflikte, die das Wachstum gefährden könnten. Eine Zustandsanalyse von NixOS.",
-      "url": "https://www.heise.de/hintergrund/Linux-Distribution-Warum-NixOS-mit-seinem-eigenen-Wachstum-kaempft-11418058.html",
-      "image_title": "Ein Gebäude in Form eines Sterns wird von Arbeitern und einem Kran gebaut."
-    },
-    {
-      "title": "OLG Köln bremst Verbraucherschützer: „Bezahlen mit Daten“ ist kein Preis",
-      "teaser": "Wer Kunden-Apps nutzt, zahlt oft mit seinen Daten. Ein Gesamtpreis nach Verbraucherrecht entsteht dadurch laut Urteil des Oberlandesgerichts Köln aber nicht.",
-      "url": "https://www.heise.de/news/OLG-Koeln-bremst-Verbraucherschuetzer-Bezahlen-mit-Daten-ist-kein-Preis-11451080.html",
-      "image_title": "Einkaufswagen"
-    },
-    {
-      "title": "c't 3003Fritzbox blockt Werbung (in 5 Minuten eingerichtet)",
-      "teaser": "DNS-Filter blockieren Werbung im gesamten Heimnetz. Dank der neuen Fritzbox-Funktion ist das so schnell eingerichtet wie nie zuvor.",
-      "url": "https://www.heise.de/news/In-5-Minuten-eingerichtet-DNS-Filter-in-der-Fritzbox-11450196.html"
     },
     {
       "title": "TestsMusizieren mit Handbewegungen in der Luft: Der Sway-Controller im Test",
@@ -59,6 +60,17 @@
       "title": "Mobiler Monitor mit 15 Zoll & Full-HD für nur 60 Euro: Koorui E1512A im Test",
       "teaser": "Full-HD-Auflösung, Schutzhülle im Lieferumfang und ein sehr niedriger Preis: Wir zeigen, was der mobile 15,6-Zoll-Monitor Koorui E1512A leistet.",
       "url": "https://www.heise.de/bestenlisten/testbericht/mobiler-monitor-mit-15-zoll-und-full-hd-fuer-nur-60-euro-koorui-e1512a-im-test/46lc1v0?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "OLG Köln bremst Verbraucherschützer: „Bezahlen mit Daten“ ist kein Preis",
+      "teaser": "Wer Kunden-Apps nutzt, zahlt oft mit seinen Daten. Ein Gesamtpreis nach Verbraucherrecht entsteht dadurch laut Urteil des Oberlandesgerichts Köln aber nicht.",
+      "url": "https://www.heise.de/news/OLG-Koeln-bremst-Verbraucherschuetzer-Bezahlen-mit-Daten-ist-kein-Preis-11451080.html",
+      "image_title": "Einkaufswagen"
+    },
+    {
+      "title": "Fritzbox blockt Werbung (in 5 Minuten eingerichtet)",
+      "teaser": "DNS-Filter blockieren Werbung im gesamten Heimnetz. Dank der neuen Fritzbox-Funktion ist das so schnell eingerichtet wie nie zuvor.",
+      "url": "https://www.heise.de/news/In-5-Minuten-eingerichtet-DNS-Filter-in-der-Fritzbox-11450196.html"
     },
     {
       "title": "Mauszeiger-Bug in Windows 11: Microsoft liefert Update-Fix aus",
@@ -133,16 +145,9 @@
       "image_title": "20,October,2019,,Reichstag,Parliament,(1894),,Apartments,And,Bundeskanzleramt,The"
     },
     {
-      "title": "DeepSeek V4.1 Flash: Mehr Leistung als V4-Pro zu niedrigeren Preisen",
-      "teaser": "DeepSeek V4.1 Flash ersetzt vorerst V4-Pro und bietet mehr Leistung zu niedrigeren Kosten, allerdings mit ungewöhnlich hohem Tokenverbrauch.",
-      "url": "https://www.heise.de/news/DeepSeek-V4-1-Flash-Mehr-Leistung-als-V4-Pro-zu-niedrigeren-Preisen-11449697.html",
-      "image_title": "Eine Hand hält ein Smartphone mit dem DeepSeek-Logo vor rotem Hintergrund mit gelben Sternen der chinesischen Flagge."
-    },
-    {
-      "title": "IGEL startet Endgeräte nach Ransomware mit sauberem OS",
-      "teaser": "Separater Speicher, zentraler Neustart, forensisch erhaltenes Windows: IGEL will Endgeräte gegen Ransomware-Ausfälle absichern.",
-      "url": "https://www.heise.de/news/Ransomware-IGEL-OS-als-Ausweichsystem-fuer-Endgeraete-11449976.html",
-      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+      "title": "NewsiPhone Duo: Wie sich Apple ein Foldable vorstellt",
+      "url": "https://www.heise.de/news/iPhone-Duo-Was-Apples-High-End-Foldable-bringt-11447733.html",
+      "image_title": "iPhone Duo"
     },
     {
       "title": "NewsiPhone 18 Pro und 18 Pro Max: Neuer Chip und bessere Kamera",
@@ -154,14 +159,8 @@
       "image_title": "Anthropic-Schriftzug an einem riesigen Display, vor dem Leute laufen"
     },
     {
-      "title": "NewsiPhone Duo: Wie sich Apple ein Foldable vorstellt",
-      "url": "https://www.heise.de/news/iPhone-Duo-Was-Apples-High-End-Foldable-bringt-11447733.html",
-      "image_title": "iPhone Duo"
-    },
-    {
-      "title": "NewsSchweiz baut Alternative zu Microsoft 365 auf",
-      "url": "https://www.heise.de/news/Schweiz-startet-Open-Source-Arbeitsplatz-fuer-3000-Beschaeftigte-11444842.html",
-      "image_title": "Abstrakte Darstellung einer Flagge mit roten und weißen Linien und Lichtern"
+      "title": "NewsSecurity-Angriff: LG-Fernseher auf Dauersendung",
+      "url": "https://www.heise.de/news/Security-Angriff-LG-Fernseher-auf-Dauersendung-11445927.html"
     },
     {
       "title": "TestsVW ID. Polo im Fahrbericht: Elektro-Kleinwagen mit Mittelklasse-Gefühl",
@@ -169,19 +168,18 @@
       "image_title": "VW ID. Polos stehen in einer Reihe"
     },
     {
-      "title": "UpdateNewsVorstellung Dacia Spring: Mit Wiedererkennungswert",
-      "url": "https://www.heise.de/news/Vorstellung-Dacia-Spring-Mit-Wiedererkennungswert-11443652.html",
-      "image_title": "Dacia Spring"
+      "title": "RatgeberObsidian für Einsteiger: So einfach organisieren Sie Notizen und Wissen",
+      "url": "https://www.heise.de/ratgeber/Obsidian-fuer-Einsteiger-So-einfach-organisieren-Sie-Notizen-und-Wissen-11443538.html"
     },
     {
-      "title": "TestsPreis-Leistungs-Sieger gesucht: Smartphones zwischen 300 und 500 Euro im Test",
-      "url": "https://www.heise.de/tests/Preis-Leistungs-Sieger-gesucht-Smartphones-zwischen-300-und-500-Euro-im-Test-11367978.html",
-      "image_title": "Mehrere Smartphones liegen auf einer Holzoberfläche."
+      "title": "HintergrundE-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
+      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html",
+      "image_title": "Cupra Raval"
     },
     {
-      "title": "RatgeberVanguard FTSE Global All-Cap: Die beiden Welt-ETFs in der Analyse",
-      "url": "https://www.heise.de/ratgeber/Vanguard-FTSE-Global-All-Cap-Die-beiden-Welt-ETFs-in-der-Analyse-11424855.html",
-      "image_title": "Zwei neue Vanguard-ETFs investieren in über 10000 Unternehmen"
+      "title": "TestsRiesenkrad im Test: Achtzylinder-Tourer Souo S 2000 GL aus China",
+      "url": "https://www.heise.de/tests/Achtzylinder-Tourer-Souo-S-2000-GL-im-Test-Achtsam-11437251.html",
+      "image_title": "Souo S 2000 GL"
     }
   ]
 }
