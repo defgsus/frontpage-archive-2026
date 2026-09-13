@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13T06:52:49",
+  "timestamp": "2026-09-13T12:23:19",
   "url": "https://www.heise.de/newsticker/netzpolitik/",
   "response": {
     "status": 200
@@ -20,8 +20,20 @@
   ],
   "articles": [
     {
-      "title": "Chaos Communication Congress zieht um",
-      "teaser": "Der Chaos Computer Club verlässt das CCH: Mehr Platz, stabile Ticketpreise und eine Rückkehr zu dezentraler Gestaltung sollen den 40C3 im Dezember prägen.",
+      "title": "Jugendschutz im Netz: Kalifornien erlässt strenge Regeln für KI und Social Media",
+      "teaser": "Gouverneur Newsom hat ein Gesetzespaket zur Regulierung von Tech-Konzernen unterzeichnet, das Suchtfaktoren bremsen und KI-Anbieter in die Pflicht nehmen soll.",
+      "url": "https://www.heise.de/news/Jugendschutz-im-Netz-Kalifornien-erlaesst-strenge-Regeln-fuer-KI-und-Social-Media-11451599.html",
+      "image_title": "Kinder auf einer Bank, alle gucken auf ihr Smartphone"
+    },
+    {
+      "title": "DSGVO-Falle Smart Glasses: Warum Ray-Ban-Meta-Träger haftbar werden können",
+      "teaser": "Ein neuer Datenschutzbericht lehrt: Wer unbeteiligte Dritte mit Smart Glasses filmt oder Metas KI-Training zulässt, verliert das Privileg der Haushaltsausnahme.",
+      "url": "https://www.heise.de/news/DSGVO-Falle-Smart-Glasses-Warum-Ray-Ban-Meta-Traeger-haftbar-werden-koennen-11451607.html",
+      "image_title": "Nahaufnahme einer schwarzen Ray-Ban-Meta-Smart-Brille mit integrierter Kamera im Brillenrahmen und verspiegelten Gläsern auf einem Holztisch."
+    },
+    {
+      "title": "CCCChaos Communication Congress zieht um",
+      "teaser": "Mehr Platz, stabile Ticketpreise und eine Rückkehr zu dezentraler Gestaltung sollen den 40C3 im Dezember prägen.",
       "url": "https://www.heise.de/news/40C3-40-Chaos-Communication-Congress-zieht-in-die-Hamburger-Messehallen-um-11451397.html",
       "image_title": "CCC-Rakete vor dem CCH auf dem 33C3"
     },
@@ -30,18 +42,6 @@
       "teaser": "Nach mehreren Sicherheitsvorfällen, bei denen KI-Modelle aus Testumgebungen ausbrachen, hat die EU-Kommission erste Schritte eingeleitet.",
       "url": "https://www.heise.de/news/EU-Kommission-an-KI-Firmen-Bringt-euren-Laden-in-Ordnung-11451387.html",
       "image_title": "EU-Fahnen vor dem Gebäude des Europäischen Parlaments in Brüssel."
-    },
-    {
-      "title": "Salto rückwärtsApple möchte KI doch mit Nutzerdaten trainieren",
-      "teaser": "Apples Versprechen war: Kein Training von KI-Modellen mit persönlichen Daten aus dem iPhone. Damit ist es jetzt vorbei.",
-      "url": "https://www.heise.de/news/Salto-rueckwaerts-Apple-moechte-KI-Modelle-doch-mit-Nutzerdaten-trainieren-11451138.html",
-      "image_title": "Apple Intelligence auf dem iPhone"
-    },
-    {
-      "title": "Social Media und Kinder:Prien will zügig ins Kabinett, bleibt weiter vage",
-      "teaser": "Mitte Oktober plant Ministerin Karin Prien Gesetzesänderungen nach dem Bericht der Kommission.",
-      "url": "https://www.heise.de/hintergrund/Social-Media-und-Kinder-Prien-will-zuegig-ins-Kabinett-bleibt-aber-weiter-vage-11450565.html",
-      "image_title": "Fünf Kinder auf einem Fensterbrett, alle starren auf ihre Handys"
     },
     {
       "title": "HintergrundDiskussion um Drohnenabwehr: Schießen Privatfirmen bald im Staatsauftrag?",
@@ -55,6 +55,18 @@
     {
       "title": "HintergrundGoogle frisst das Web: Warum durch KI der Web-Traffic sinkt",
       "url": "https://www.heise.de/hintergrund/Google-frisst-das-Web-Warum-durch-KI-der-Web-Traffic-sinkt-11426467.html"
+    },
+    {
+      "title": "Salto rückwärts: Apple möchte KI-Modelle doch mit Nutzerdaten trainieren",
+      "teaser": "Apples Versprechen war simpel: Persönliche Daten von iPhone-Nutzern fließen niemals in das Training von KI-Modellen ein. Damit ist es jetzt vorbei.",
+      "url": "https://www.heise.de/news/Salto-rueckwaerts-Apple-moechte-KI-Modelle-doch-mit-Nutzerdaten-trainieren-11451138.html",
+      "image_title": "Apple Intelligence auf dem iPhone"
+    },
+    {
+      "title": "Social Media und Kinder: Prien will zügig ins Kabinett, bleibt aber weiter vage",
+      "teaser": "Mitte Oktober will Ministerin Karin Prien mit Gesetzesänderungen auf den Bericht der Kommission für einen besseren Kinder- und Jugendmedienschutz reagieren.",
+      "url": "https://www.heise.de/hintergrund/Social-Media-und-Kinder-Prien-will-zuegig-ins-Kabinett-bleibt-aber-weiter-vage-11450565.html",
+      "image_title": "Fünf Kinder auf einem Fensterbrett, alle starren auf ihre Handys"
     },
     {
       "title": "Datenschutz stoppt KI-Überwachung in Bremer Schwimmbad",
@@ -132,18 +144,6 @@
       "teaser": "Immer mehr Ärzte und Psychotherapeuten warnen vor möglichen Folgen der Nachrichtendienstreform. Therapiegespräche müssen vertraulich bleiben.",
       "url": "https://www.heise.de/news/Psychiater-fordern-absoluten-Schutz-von-Therapiegespraechen-11447120.html",
       "image_title": "Psychologe hört seinem Patienten zu und schreibt mit"
-    },
-    {
-      "title": "Korruptionsvorwürfe um Scam-Zentren: Ukrainischer Generalstaatsanwalt tritt ab",
-      "teaser": "Aus der Generalstaatsanwaltschaft der Ukraine heraus sollen betrügerische Call-Center geschützt worden sein. Der Chef weist die Vorwürfe zurück, tritt aber ab.",
-      "url": "https://www.heise.de/news/Korruptionsvorwuerfe-um-Scam-Zentren-Ukrainischer-Generalstaatsanwalt-tritt-ab-11446818.html",
-      "image_title": "Headset"
-    },
-    {
-      "title": "Kommentar: Auf Lücke gespielt - was in Berlin den Rhysida-Angriff begünstigte",
-      "teaser": "Berlin hat bei der IT-Sicherheit geschlampt. Den Angreifern hat über Jahrzehnte gewachsene und nur halbherzig modernisierte IT in die Karten gespielt.",
-      "url": "https://www.heise.de/meinung/Auf-Luecke-gespielt-Was-in-Berlin-den-Rhysida-Angriff-beguenstigte-11445881.html",
-      "image_title": "Starke Untersicht auf den Turm des Roten Rathauses in Berlin mit ominösen Wolken am Himmel."
     },
     {
       "title": "NewsFritzbox blockt Werbung (in 5 Minuten eingerichtet)",
