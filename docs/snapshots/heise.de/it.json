@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T06:51:38",
+  "timestamp": "2026-09-15T12:18:17",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,121 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11433666.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "PFAS-Produzenten bauen wohl Kapazitäten aus – KI-Boom als vermuteter Treiber",
+      "teaser": "Mehrere große PFAS-Produzenten erweitern wohl laut einem NGO-Bericht ihre Kapazitäten. Haupttreiber seien Rechenzentren und Halbleiter für KI und Batterien.",
+      "url": "https://www.heise.de/news/PFAS-Produzenten-bauen-wohl-Kapazitaeten-aus-KI-Boom-als-vermuteter-Treiber-11452757.html",
+      "image_title": "PFAS-Symbolbild"
+    },
+    {
+      "title": "DietPi 10.7: Linux für Einplatinencomputer bessert Probleme aus",
+      "teaser": "Die Linux-Distribution für Einplatinencomputer DietPi 10.7 bessert einige Fehler aus und verbessert die Netzwerkkonfiguration.",
+      "url": "https://www.heise.de/news/SBC-Linux-DietPi-10-7-verbessert-Netzwerkkonfiguration-11453468.html",
+      "image_title": "DietPi 9.10 auf Starfive Visionfive 2"
+    },
+    {
+      "title": "KostenkontrolleGoogle Firebase führt Kostendeckel für KI und Hosting ein",
+      "teaser": "Das neue Kostenlimit bei Googles App-Entwicklungs-Tool Firebase begrenzt die KI- und Hosting-Kosten im Backend.",
+      "url": "https://www.heise.de/news/Google-Firebase-fuehrt-Kostendeckel-fuer-KI-und-Hosting-ein-11453492.html",
+      "image_title": "Illustration Roboter hält Gelscheine in der Hand"
+    },
+    {
+      "title": "HintergrundKrisenmanagement in der IT: Rollen und Strategien für den Notfall",
+      "url": "https://www.heise.de/hintergrund/Krisenmanagement-in-der-IT-Rollen-und-Strategien-fuer-den-Notfall-11452476.html",
+      "image_title": "Netzwerkkabel werden in eine Wandbuchse gesteckt, daneben ein kleiner Router."
+    },
+    {
+      "title": "RatgeberUmleitungen in der Windows-Registry nachvollziehen",
+      "url": "https://www.heise.de/ratgeber/Umleitungen-in-der-Windows-Registry-nachvollziehen-11423289.html"
+    },
+    {
+      "title": "RatgeberFAQ zu Siri AI: Was Sie über Apple Intelligence 27 wissen müssen",
+      "url": "https://www.heise.de/ratgeber/FAQ-zu-Siri-AI-Was-Sie-ueber-Apples-verbessertes-KI-System-wissen-muessen-11369680.html",
+      "image_title": "Siri AI ist da – auch dank Google-Hilfe"
+    },
+    {
+      "title": "Raspberry Pi OS hübscht den Desktop auf",
+      "teaser": "Der Desktop von Raspberry Pi OS fühlt sich inzwischen etwas altbacken an. Die Entwickler spendieren ihm nun eine Frischzellenkur.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-OS-huebscht-den-Desktop-auf-11453796.html",
+      "image_title": "Modernerer Raspberry-Pi-Desktop"
+    },
+    {
+      "title": "CLC 2026: KI, Platform Engineering, Software Delivery – Frühbucherticket sichern",
+      "teaser": "Die CLC 2026 zeigt KI-gestützte Softwareentwicklung, DevEx, Platform Engineering und Kubernetes-Betrieb. Frühbuchertickets gibt es bis zum 22. September.",
+      "url": "https://www.heise.de/news/CLC-2026-KI-Platform-Engineering-Software-Delivery-Fruehbucherticket-sichern-11446390.html",
+      "image_title": "CLC 2026: Call for Proposals gestartet"
+    },
+    {
+      "title": "Nvidia, Palantir und Cisco bauen KI-Stack für Behörden",
+      "teaser": "Palantir, Nvidia und Cisco bieten eine gemeinsame KI-Referenzarchitektur für sensible Daten und regulierte Umgebungen an.",
+      "url": "https://www.heise.de/news/Nvidia-Palantir-und-Cisco-bauen-KI-Stack-fuer-Behoerden-11453448.html",
+      "image_title": "Logos von Palantir und Nvidia nebeneinander auf schwarzem Hintergrund"
+    },
+    {
+      "title": "Dringend aktualisieren: iOS 27, macOS 27 und Co. stopfen viele Lücken",
+      "teaser": "iOS 27, Golden Gate und Co. sind auch aus Sicherheitsgründen relevant. Apple hat nun seine Fix-Liste geliefert. Auch ältere Betriebssysteme bekommen Updates.",
+      "url": "https://www.heise.de/news/Dringend-aktualisieren-iOS-27-macOS-27-und-Co-stopfen-viele-Luecken-11452990.html",
+      "image_title": "Installation von iOS auf einem iPhone"
+    },
+    {
+      "title": "1.1.1.1 prüft DNS jetzt mit Post-Quanten-Kryptografie",
+      "teaser": "Cloudflare hat ML-DSA-44-Validierung für seinen DNS-Resolver 1.1.1.1 aktiviert. Das soll DNS-Antworten vor Quanten-Angriffen schützen.",
+      "url": "https://www.heise.de/news/1-1-1-1-prueft-DNS-jetzt-mit-Post-Quanten-Kryptografie-11453315.html",
+      "image_title": "Datenbankserver mit Zahnrädern und einem Vorhängeschloss aus Binärcode"
+    },
+    {
+      "title": "AlertAngreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway",
+      "teaser": "Cisco warnt vor laufenden Angriffen auf eine kritische SQL-Injection-Lücke im Secure E-Mail Gateway. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html",
+      "image_title": "view of Cisco company logo with selective focus."
+    },
+    {
+      "title": "AlertDer Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit",
+      "teaser": "Die neue Homebrew-Version 7.0.0 bietet einen integrierten Sicherheitslücken-Scanner für installierte Software und schließt acht Schwachstellen.",
+      "url": "https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html",
+      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "iX-Webinar: AI Act kompakt – Kennzeichnung, KI-Kompetenz, Hochrisiko-KI",
+      "teaser": "Erfahren Sie, wie Sie die neuen Anforderungen des AI Acts an Kennzeichnung, KI-Kompetenz und Hochrisiko-KI in Ihrem Unternehmen praktisch umsetzen können.",
+      "url": "https://www.heise.de/news/iX-Webinar-AI-Act-kompakt-Kennzeichnung-KI-Kompetenz-Hochrisiko-KI-11433644.html",
+      "image_title": "Steintafel mit angedeuteten Gesetzesparagraphen, rechts daneben Hammer und Meißel, vor einem Sternenkranz der EU-Flagge"
+    },
+    {
+      "title": "Googlebook: Android-basierte Notebooks ab 21. September vorbestellbar",
+      "teaser": "Google hat den neuen Notebooks auf Android-Basis ein Datum gegeben. Ab Ende September geht es mit den Googlebooks los.",
+      "url": "https://www.heise.de/news/Googlebook-Android-basierte-Notebooks-ab-21-September-vorbestellbar-11453231.html",
+      "image_title": "stilsiertes Googlebook mit Schiftzug \"Gemini Intelligence\" daneben"
+    },
+    {
+      "title": "Mediatek stellt neuen 2-nm-Prozessor Dimensity 9600 Pro vor",
+      "teaser": "Mediateks Dimensity 9600 Pro nutzt acht große CPU-Kerne und eine Dual-NPU für lokale KI-Anwendungen.",
+      "url": "https://www.heise.de/news/Mediatek-Dimensity-9600-Pro-2-nm-Prozessor-mit-All-Big-Core-CPU-und-zwei-NPUs-11452083.html"
+    },
+    {
+      "title": "Kommentar: Die einmal mehr besorgten „KI“-Bros",
+      "teaser": "Seit Tagen wird wieder darüber debattiert, ob „KI“ zu gefährlich ist. Die Warnungen sind nicht neu und die Branche hat andere Interessen, kommentiert tante.",
+      "url": "https://www.heise.de/meinung/Kommentar-Ach-die-besorgten-KI-Bros-11452815.html",
+      "image_title": "Sam Altman"
+    },
+    {
+      "title": "AlertAußer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates",
+      "teaser": "Microsoft hat ungeplante Updates für Windows außer der Reihe veröffentlicht. Sie stopfen Sicherheitslecks und beheben Probleme.",
+      "url": "https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "Software Testing: Wenn KI coden darf, bleibt Entwicklern nur noch Lesen?",
+      "teaser": "RIchard Seidl spricht mit Dr. Benjamin Hummel über die Aufgaben und die Verantwortung von Entwicklerinnen und Entwicklern, wenn KI Code generiert.",
+      "url": "https://www.heise.de/blog/Software-Testing-Wenn-KI-coden-darf-bleibt-Entwicklern-nur-noch-Lesen-11452738.html",
+      "image_title": "Software Testing: Qualität von KI-generiertem Code"
+    },
+    {
       "title": "iOS 27: Tipps zu den besten Neuerungen für iPhone und iPad",
       "teaser": "Zwar sind große Neuerungen rar gesät, doch iOS und iPadOS 27 stecken voller Verbesserungen im Detail. 20 Tipps zu den nützlichsten neuen Features.",
       "url": "https://www.heise.de/ratgeber/iOS-27-20-Tipps-zu-den-besten-Neuerungen-fuer-iPhone-und-iPad-11451997.html",
@@ -29,119 +144,6 @@
       "title": "S2N, die Konferenz für Storage, Server, Network: Early-Bird-Rabatt verlängert",
       "teaser": "Die zweitägige heise-Konferenz S2N startet am 3. November in Berlin. Das Programm steht fest – und Frühbucher können noch bis Ende September kräftig sparen.",
       "url": "https://www.heise.de/news/S2N-die-Konferenz-fuer-Storage-Server-Network-Early-Bird-Rabatt-verlaengert-11446398.html"
-    },
-    {
-      "title": "Linux-Overlay MangoHud: Leistung und Hardware beim Spielen im Blick behalten",
-      "teaser": "Ein frei konfigurierbares On-Screen-Display zeigt beim Spielen unter Linux, ob die FPS einbrechen, die CPU zu heiß wird oder der Arbeitsspeicher voll läuft.",
-      "url": "https://www.heise.de/ratgeber/Linux-Overlay-MangoHud-Leistung-und-Hardware-beim-Spielen-im-Blick-behalten-11148095.html",
-      "image_title": "Linux-Pinguin hält Schild mit Leistungswerten und Schwert in Spielszene."
-    },
-    {
-      "title": "GPUs partitionieren mit Nvidia MIG",
-      "teaser": "Nvidias Multi-Instance GPU teilt physische GPU in getrennte Recheninstanzen auf. Ressourcenschonend, aber setzt das Netzwerk Sicherheitsgrenzen ebenfalls durch?",
-      "url": "https://www.heise.de/hintergrund/GPUs-partitionieren-mit-Nvidia-MIG-11435434.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "RatgeberiOS 27: Tipps zu den besten Neuerungen für iPhone und iPad",
-      "url": "https://www.heise.de/ratgeber/iOS-27-20-Tipps-zu-den-besten-Neuerungen-fuer-iPhone-und-iPad-11451997.html",
-      "image_title": "iOS 27 und iPadOS 27"
-    },
-    {
-      "title": "RatgeberLinux-Overlay MangoHud: Leistung und Hardware beim Spielen im Blick behalten",
-      "url": "https://www.heise.de/ratgeber/Linux-Overlay-MangoHud-Leistung-und-Hardware-beim-Spielen-im-Blick-behalten-11148095.html",
-      "image_title": "Linux-Pinguin hält Schild mit Leistungswerten und Schwert in Spielszene."
-    },
-    {
-      "title": "HintergrundGPUs partitionieren mit Nvidia MIG",
-      "url": "https://www.heise.de/hintergrund/GPUs-partitionieren-mit-Nvidia-MIG-11435434.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "„Das Potenzial, uns alle zu töten“: Nächste dramatische Warnung von KI-Forscher",
-      "teaser": "Während Washington und Peking Rufe nach einer Pause im KI-Rennen zurückweisen, gibt es neue Warnungen aus der Branche. Ein Forscher wählt dramatische Worte.",
-      "url": "https://www.heise.de/news/Das-Potenzial-uns-alle-zu-toeten-Naechste-dramatische-Warnung-von-KI-Forscher-11453082.html",
-      "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
-    },
-    {
-      "title": "LG äußert sich zu Vorwürfen bezüglich Smart-TV-Tracking",
-      "teaser": "LG hat auf die Untersuchung von Gamers Nexus zu Smart-TVs reagiert. Der Hersteller erläutert die ACR-Funktion, bleibt bei vielen Vorwürfen jedoch vage.",
-      "url": "https://www.heise.de/news/Wir-beachten-den-Datenschutz-LG-zum-Usertracking-an-LG-TVs-11452996.html",
-      "image_title": "Verkäufer zeigt Frau Fernseher in einem Elektronikgeschäft"
-    },
-    {
-      "title": "iOS und macOS 27: Apple schickt System-Updates ins Rennen",
-      "teaser": "Apple rüstet seine Betriebssysteme für die KI-Ära, Siri AI darf jedoch nur begrenzt in die EU. Für iCloud zeichnen sich höhere Preise ab.",
-      "url": "https://www.heise.de/news/iOS-und-macOS-27-Apple-schickt-System-Updates-ins-Rennen-11452862.html",
-      "image_title": "Hand hält iPhone mit Homescreen"
-    },
-    {
-      "title": "Helgoland autark - Insel für zwei Tage ohne Festlandstrom",
-      "teaser": "Helgoland ist wegen Seekabel-Arbeiten kurzzeitig ohne Festlandstrom und Internet. Notrufe bleiben erreichbar, Stromversorgung durch Diesel-Aggregat.",
-      "url": "https://www.heise.de/news/Helgoland-autark-Insel-fuer-zwei-Tage-ohne-Festlandstrom-11452688.html",
-      "image_title": "Blick auf Helgoland"
-    },
-    {
-      "title": "Google, OpenAI, Anthropic: Interne Sicherheits-Gespräche wohl schon seit Juli",
-      "teaser": "Angeblich sprechen Google, OpenAI und Anthropic schon seit Juli miteinander über eine Sicherheitsorganisation. Sie soll die KI-Entwicklung kontrollieren.",
-      "url": "https://www.heise.de/news/Sicherheitsauflagen-KI-Firmen-sprechen-angeblich-bereits-seit-Juli-miteinander-11452562.html",
-      "image_title": "Papierstapel"
-    },
-    {
-      "title": "GPU-Marktanalyse: Überraschendes Absatzplus bei Grafikkarten",
-      "teaser": "Das zweite Quartal war für Grafikkartenhersteller ungewöhnlich stark. Dahinter könnten auch chinesische KI-Farmen stecken.",
-      "url": "https://www.heise.de/news/Grafikkartenverkaeufe-steigen-trotz-oder-wegen-steigender-Preise-11452728.html",
-      "image_title": "Sechs Grafikkarten diagonal auf rotem Untergrund"
-    },
-    {
-      "title": "Switchbot Lock Ultra Max Vision Pro im Test: Dieses Smart Lock ist Testsieger",
-      "teaser": "Stärkerer Motor, Alu-Gehäuse, Gesichts- und Handvenenscan: Das Switchbot Lock Ultra Max Vision Pro öffnet die Tür in 1,1 Sekunden. Der Test zeigt Details.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/switchbot-lock-ultra-max-vision-pro-im-test-dieses-smart-lock-ist-testsieger/j66zjn4?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "OpenObserve zeigt, warum KI-Agenten falsche Antworten geben",
-      "teaser": "OpenObserve 1.0.0 bietet eine neue Observability-Umgebung für LLM-Anwendungen, erweiterte Alarme, SLOs und schnellere PromQL-Abfragen.",
-      "url": "https://www.heise.de/news/OpenObserve-zeigt-warum-KI-Agenten-falsche-Antworten-geben-11452620.html",
-      "image_title": "Mann mit Tablet in einem KI-Rechenzentrum Data,Center,Engineer,Supervises,Ai-powered,Server,Infrastructure,Using,A,Tablet,"
-    },
-    {
-      "title": "Kommandozeilen-App für macOS: Homebrew 7 ist da – und schneidet alte Zöpfe ab",
-      "teaser": "Der populäre Paketmanager kriegt ein großes Update. Doch nicht allen Usern dürfte Homebrew 7 gefallen, denn das Team hat einige Entscheidungen getroffen.",
-      "url": "https://www.heise.de/news/Homebrew-7-fuer-macOS-erschienen-Catalina-Support-weg-Intel-folgt-11452333.html",
-      "image_title": "BrewUI hilft CLI-Newbies bei der Nutzung von Homebrew"
-    },
-    {
-      "title": "Huawei Watch GT 7 46 mm im Test: Eleganter Mix aus Smartwatch und Sportuhr",
-      "teaser": "Schick, präzise, ausdauernd: Die Huawei Watch GT 7 macht am Handgelenk und beim Sport eine gute Figur.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/huawei-watch-gt-7-46-mm-im-test-eleganter-mix-aus-smartwatch-und-sportuhr/gy75kks?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Salesforce Enterprise AI Harness: KI-Infrastruktur für Unternehmen",
-      "teaser": "Der Enterprise AI Harness soll KI sicher mit Unternehmensdaten verbinden. Neue Agentforce-Agenten helfen in Vertrieb, Kundendienst und Onlinehandel.",
-      "url": "https://www.heise.de/news/Salesforce-Enterprise-AI-Harness-KI-Infrastruktur-fuer-Unternehmen-11451895.html"
-    },
-    {
-      "title": "KI-Einsatz wächst rasant – doch Potenzial bleibt weitgehend ungenutzt",
-      "teaser": "57 Prozent der deutschen Unternehmen nutzen KI, ein starker Anstieg. Doch das Potenzial wird kaum ausgeschöpft.",
-      "url": "https://www.heise.de/news/KI-Einsatz-waechst-rasant-doch-Potenzial-bleibt-weitgehend-ungenutzt-11452391.html",
-      "image_title": "Fünf Roboter stehen auf einem Hügel, umgeben von binären Zahlen."
-    },
-    {
-      "title": "iX-Workshop: Keycloak – der fundierte Einstieg in IAM und SSO",
-      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
-      "url": "https://www.heise.de/news/iX-Workshop-Keycloak-der-fundierte-Einstieg-in-IAM-und-SSO-11433614.html",
-      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
-    },
-    {
-      "title": "Google erweitert „Mein Gerät finden“ für analoge Gegenstände",
-      "teaser": "Google erweitert das „Mein Gerät finden“-Netzwerk um eine Funktion für analoge Gegenstände, die sich nun per Gemini-Sprachbefehl oder manuell erfassen lassen.",
-      "url": "https://www.heise.de/news/Google-erweitert-Mein-Geraet-finden-fuer-analoge-Gegenstaende-11452315.html",
-      "image_title": "Mein Gerät finden auf Smartphone"
-    },
-    {
-      "title": "secIT digital: Cyber Resilience Act dank Workshop-Wissen verstehen und umsetzen",
-      "teaser": "Diesen Monat auf der secIT digital: Active Directory absichern, wirksame Maßnahmen gegen Phishing, Status quo Cyber Resilience Act und Grundschutz++.",
-      "url": "https://www.heise.de/news/secIT-digital-Cyber-Resilience-Act-dank-Workshop-Wissen-verstehen-und-umsetzen-11449932.html"
     },
     {
       "title": "NewsFritzbox blockt Werbung (in 5 Minuten eingerichtet)",
