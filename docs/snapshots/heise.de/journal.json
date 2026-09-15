@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-15T01:02:14",
+  "timestamp": "2026-09-15T06:51:47",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -20,6 +20,17 @@
   ],
   "articles": [
     {
+      "title": "Dienstag: Trump greift Anthropic-Chef an, Apple-Betriebssysteme für die KI-Ära",
+      "teaser": "Forderung nach KI-Pause + Grenzen für Siri AI in der EU + Krypto-Mining in Mexiko + Angriff auf Verschlüsselung + Ausdauerrekord für Kleindrohne des US-Militärs",
+      "url": "https://www.heise.de/news/Dienstag-Trump-greift-Anthropic-Chef-an-Apple-Betriebssysteme-fuer-die-KI-Aera-11453066.html",
+      "image_title": "vUS-amerikanische und chinesische Flagge auf Mauerwerk, dazu Text: DIENSTAG KI-Debatte, Apple-System-Updates, Krypto-Mining, Verschlüsselung & Kleindrohne"
+    },
+    {
+      "title": "Mexiko: Behörden zerschlagen illegale Krypto-Mining-Farm",
+      "teaser": "Bei einer Operation in Zentralmexiko beschlagnahmen die Behörden technisches Equipment. Mögliche Verbindungen zum organisierten Verbrechen werden untersucht.",
+      "url": "https://www.heise.de/news/Mexiko-Behoerden-zerschlagen-illegale-Krypto-Mining-Farm-11453014.html"
+    },
+    {
       "title": "KI-Update kompakt: KI-Entwicklung, Claude-Missbrauch, Mathe-Forschung, Deepfakes",
       "teaser": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-kompakt-KI-Entwicklung-Claude-Missbrauch-Mathe-Forschung-Deepfakes-11452283.html",
@@ -30,18 +41,6 @@
       "teaser": "Zwei US-Gesetzgeber greifen das britische Überwachungsgericht an. Es versuche, dem US-Kongress den Mund zu verbieten.",
       "url": "https://www.heise.de/news/iCloud-Verschluesselung-US-Politiker-fordern-Ende-der-britischen-Geheimhaltung-11451691.html",
       "image_title": "Schlossymbol auf gerenderter Leiterplatte"
-    },
-    {
-      "title": "Montag: DSGVO-Haftung bei Smart Glasses, Robotaxi gegen Waffen bei Fahrgästen",
-      "teaser": "Datenschutzmängel von Kamerabrillen + Waffenerkennung im Robotaxi + KI-Training mit Siri-Daten + Umzug des CCC-Kongresses + Flickenteppich beim Glasfaserausbau",
-      "url": "https://www.heise.de/news/Montag-DSGVO-Haftung-bei-Smart-Glasses-Robotaxi-gegen-Waffen-bei-Fahrgaesten-11451727.html",
-      "image_title": "Mann mit Meta Ray-Ban Display und neuronalem Armband hält Hand an Gestell und blickt durch Brille; Montag: Datenbrillen-Haftung, Robotaxi-Verhaftung, Apple-Rückzieher, CCC-Umzug & Glasfaserausbau-Probleme"
-    },
-    {
-      "title": "CCCChaos Communication Congress zieht um",
-      "teaser": "Mehr Platz, stabile Ticketpreise und eine Rückkehr zu dezentraler Gestaltung sollen den 40C3 im Dezember prägen.",
-      "url": "https://www.heise.de/news/40C3-40-Chaos-Communication-Congress-zieht-in-die-Hamburger-Messehallen-um-11451397.html",
-      "image_title": "CCC-Rakete vor dem CCH auf dem 33C3"
     },
     {
       "title": "Hintergrundc’t-Story: Optimierung",
@@ -55,6 +54,18 @@
     {
       "title": "RatgeberSechs Lauf-Apps im Praxistest: Tracking, Training und Analyse im Vergleich",
       "url": "https://www.heise.de/ratgeber/Sechs-Lauf-Apps-im-Praxistest-Tracking-Training-und-Analyse-im-Vergleich-11424909.html"
+    },
+    {
+      "title": "Montag: DSGVO-Haftung bei Smart Glasses, Robotaxi gegen Waffen bei Fahrgästen",
+      "teaser": "Datenschutzmängel von Kamerabrillen + Waffenerkennung im Robotaxi + KI-Training mit Siri-Daten + Umzug des CCC-Kongresses + Flickenteppich beim Glasfaserausbau",
+      "url": "https://www.heise.de/news/Montag-DSGVO-Haftung-bei-Smart-Glasses-Robotaxi-gegen-Waffen-bei-Fahrgaesten-11451727.html",
+      "image_title": "Mann mit Meta Ray-Ban Display und neuronalem Armband hält Hand an Gestell und blickt durch Brille; Montag: Datenbrillen-Haftung, Robotaxi-Verhaftung, Apple-Rückzieher, CCC-Umzug & Glasfaserausbau-Probleme"
+    },
+    {
+      "title": "Chaos Communication Congress zieht um",
+      "teaser": "Der Chaos Computer Club verlässt das CCH: Mehr Platz, stabile Ticketpreise und eine Rückkehr zu dezentraler Gestaltung sollen den 40C3 im Dezember prägen.",
+      "url": "https://www.heise.de/news/40C3-40-Chaos-Communication-Congress-zieht-in-die-Hamburger-Messehallen-um-11451397.html",
+      "image_title": "CCC-Rakete vor dem CCH auf dem 33C3"
     },
     {
       "title": "KI-Update Deep-Dive: KI in der Popkultur – zwischen Vision und Wunschdenken",
@@ -132,53 +143,40 @@
       "image_title": "Bitcoin-Münzen, dazu Text: DIENSTAG Liquid Network, Bitcoin-Reserve, Berliner Cyberattacke, Uber & Plug-in-Hybride"
     },
     {
-      "title": "Gefahr für die nationale Sicherheit: Berliner Datenleck schlägt hohe Wellen",
-      "teaser": "Nach dem Darknet-Leak streiten Bezirke über Forensik-Software von Crowdstrike. Die Datenschutzbeauftragte warnt und gibt Verhaltensregeln für Betroffene heraus.",
-      "url": "https://www.heise.de/news/Gefahr-fuer-die-nationale-Sicherheit-Berliner-Datenleck-schlaegt-hohe-Wellen-11444301.html",
-      "image_title": "Rotes Warnschild auf schwarzem Hintergrund"
-    },
-    {
-      "title": "Offline-Karten auf E-Ink: Fahrradnavi als Open-Source-Projekt",
-      "teaser": "Eine GPS-Karte am Lenker, die auch bei praller Sonne ablesbar ist, verspricht das Projekt OpenTrailPaper, das auf einem E-Ink-Display für rund 90 Euro basiert.",
-      "url": "https://www.heise.de/news/Offline-Karten-auf-E-Ink-Fahrradnavi-als-Open-Source-Projekt-11443850.html",
-      "image_title": "OpenTrailPaper"
-    },
-    {
       "title": "NewsFritzbox blockt Werbung (in 5 Minuten eingerichtet)",
       "url": "https://www.heise.de/news/In-5-Minuten-eingerichtet-DNS-Filter-in-der-Fritzbox-11450196.html"
     },
     {
-      "title": "NewsiPhone Duo: Wie sich Apple ein Foldable vorstellt",
-      "url": "https://www.heise.de/news/iPhone-Duo-Was-Apples-High-End-Foldable-bringt-11447733.html",
-      "image_title": "iPhone Duo"
+      "title": "NewsSalto rückwärts: Apple möchte KI-Modelle doch mit Nutzerdaten trainieren",
+      "url": "https://www.heise.de/news/Salto-rueckwaerts-Apple-moechte-KI-Modelle-doch-mit-Nutzerdaten-trainieren-11451138.html",
+      "image_title": "Apple Intelligence auf dem iPhone"
     },
     {
-      "title": "MeinungApples erstes Foldable iPhone Duo: Zauberhaft oder fauler Zauber?",
-      "url": "https://www.heise.de/meinung/Apples-erstes-Foldable-iPhone-Duo-Zauberhaft-oder-fauler-Zauber-11448153.html",
-      "image_title": "John Ternus vor dem iPhone Duo"
+      "title": "NewsWaymo-Robotaxi meldet jugendliche Passagiere mit Waffe bei der Polizei",
+      "url": "https://www.heise.de/news/Waymo-Robotaxi-ruft-Polizei-nach-Erkennung-einer-Waffe-bei-jugendlichen-Kunden-11451717.html",
+      "image_title": "Ein Fahrgast steigt in ein Waymo-Robotaxi in San Francisco ein."
     },
     {
-      "title": "NewsNATO-Staaten vereiteln russische Sabotage-Simulation in der Arktis",
-      "url": "https://www.heise.de/news/Bericht-NATO-verhindert-russische-Sabotageuebung-an-Unterseekabeln-11449468.html",
-      "image_title": "Eis im arktischen Meer"
-    },
-    {
-      "title": "TestsVW ID. Polo im Fahrbericht: Elektro-Kleinwagen mit Mittelklasse-Gefühl",
-      "url": "https://www.heise.de/tests/VW-ID-Polo-im-Fahrbericht-Elektro-Kleinwagen-mit-Mittelklasse-Gefuehl-11426835.html",
-      "image_title": "VW ID. Polos stehen in einer Reihe"
-    },
-    {
-      "title": "RatgeberObsidian für Einsteiger: So einfach organisieren Sie Notizen und Wissen",
-      "url": "https://www.heise.de/ratgeber/Obsidian-fuer-Einsteiger-So-einfach-organisieren-Sie-Notizen-und-Wissen-11443538.html"
-    },
-    {
-      "title": "HintergrundE-Auto-Kaufberatung: LFP- und NMC-Batterien im Vergleich",
-      "url": "https://www.heise.de/hintergrund/Auswahl-bei-der-Zellchemie-im-gleichen-E-Auto-Oft-ist-die-solide-Basis-besser-11441132.html",
-      "image_title": "Cupra Raval"
+      "title": "NewsUS-Militär entwickelt und baut Drohne in 24 Stunden und erzielt Rekordflug",
+      "url": "https://www.heise.de/news/US-Militaer-entwickelt-und-baut-Drohne-in-24-Stunden-und-erzielt-Rekordflug-11451905.html",
+      "image_title": "Soldat hält Rekorddrohne der U.S. Army."
     },
     {
       "title": "HintergrundWas AGI eigentlich ist – und warum es niemand genau weiß",
       "url": "https://www.heise.de/hintergrund/Was-AGI-eigentlich-ist-und-warum-es-niemand-genau-weiss-11449521.html"
+    },
+    {
+      "title": "RatgeberWartung von PV-Anlagen für Einsteiger: Was Betreiber selbst prüfen können",
+      "url": "https://www.heise.de/ratgeber/Wartung-von-PV-Anlagen-fuer-Einsteiger-Was-Betreiber-selbst-pruefen-koennen-11424897.html"
+    },
+    {
+      "title": "RatgeberTesla Model Y: Basis, Premium oder Performance – der Kostencheck",
+      "url": "https://www.heise.de/ratgeber/Tesla-Model-Y-Basis-Premium-oder-Performance-der-Kostencheck-11421374.html",
+      "image_title": "Tesla Model Y Premium"
+    },
+    {
+      "title": "RatgeberBatteriespeicher mit dynamischem Tarif für Mieter: Rabot Flow im Praxis-Check",
+      "url": "https://www.heise.de/ratgeber/Batteriespeicher-mit-dynamischem-Tarif-fuer-Mieter-Rabot-Flow-im-Praxis-Check-11347989.html"
     }
   ]
 }
