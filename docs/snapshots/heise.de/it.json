@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T07:13:30",
+  "timestamp": "2026-09-16T12:53:13",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,99 @@
   ],
   "articles": [
     {
-      "title": "Tipp: Fotoduplikate in Google Fotos via Finder finder",
+      "title": "Microsoft lädt zum ersten Windows-Event seit fast 2,5 Jahren",
+      "teaser": "Am 7. Oktober veranstaltet Microsoft ein Event zu Windows und Surface. Auch Nvidia-Chef Jensen Huang nimmt teil.",
+      "url": "https://www.heise.de/news/Microsoft-laedt-zum-ersten-Windows-Event-seit-fast-2-5-Jahren-11455356.html",
+      "image_title": "Surface Laptop Ultra vor dunklem Hintergrund"
+    },
+    {
+      "title": "Gemini 3.8 Live: Upgrade bei Echtzeit-Sprachmodellen für Voice Agents",
+      "teaser": "Google stellt Gemini 3.8 Live und eine Extended-Thinking-Variante vor. Die Modelle sollen Echtzeit-Dialoge mit parallelem Reasoning noch besser machen.",
+      "url": "https://www.heise.de/news/Gemini-3-8-Live-Upgrade-bei-Echtzeit-Sprachmodellen-fuer-Voice-Agents-11455182.html",
+      "image_title": "Finger schwebt über Gemini-App-Icon auf dem Smartphone-Bildschirm."
+    },
+    {
+      "title": "Alif bringt E1C StartKit",
+      "teaser": "Das E1C StartKit kombiniert einen Cortex-M55 mit einer Ethos-U55-NPU und bietet Anschlüsse für Kameras, Sensoren und Click-Boards.",
+      "url": "https://www.heise.de/news/Alif-bringt-E1C-StartKit-11455172.html",
+      "image_title": "Blaues Alif E1C StartKit-Entwicklungsboard mit Mikrocontroller, USB-C-Anschlüssen, Erweiterungsleisten und mehreren Anschlüssen für Sensoren und Zusatzmodule auf grauem Hintergrund."
+    },
+    {
+      "title": "iX-Workshop: Wireshark Deep Dive – Netzwerkprobleme gezielt lösen",
+      "teaser": "Erweitern Sie Ihre Wireshark-Kenntnisse, indem Sie reale Netzwerkprobleme analysieren und Sicherheitsbedrohungen aufdecken.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wireshark-Deep-Dive-Netzwerkprobleme-gezielt-loesen-11433686.html",
+      "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
+    },
+    {
+      "title": "HintergrundWarum KI die Business Intelligence nicht ersetzt, sondern neu definiert",
+      "url": "https://www.heise.de/hintergrund/Warum-KI-die-Business-Intelligence-nicht-ersetzt-sondern-neu-definiert-11453884.html",
+      "image_title": "Smart,Device,Virtual,Control,Interface.,Artificial,Intelligence,New,Application,Ai"
+    },
+    {
+      "title": "HintergrundFortschritte bei der Display-Technik: 3D-Effekte und KI für mehr Aufmerksamkeit",
+      "url": "https://www.heise.de/hintergrund/Fortschritte-bei-der-Display-Technik-3D-Effekte-und-KI-fuer-mehr-Aufmerksamkeit-11437071.html",
+      "image_title": "Eine geschwungene Wand mit einem Mosaik einer Stadtlandschaft und einer Säulenstruktur davor."
+    },
+    {
+      "title": "RatgebermacOS 27 Golden Gate: 22 Tipps für Umstieg und Einstieg",
+      "url": "https://www.heise.de/ratgeber/macOS-27-Golden-Gate-22-Tipps-fuer-Umstieg-und-Einstieg-11454503.html",
+      "image_title": ", Cathrin Kapell / KI / heise medien"
+    },
+    {
+      "title": "AlertOracle patcht mehr als 650 Sicherheitslücken",
+      "teaser": "Das Oracle Critical Security Patch Update bringt Softwareflicken für mehr als 650 Lücken. Darunter sind diverse mit kritischem Risiko.",
+      "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
+      "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "data2day 2026: Keynote von Dr. Constanze Kurz, Agentic AI und Datenarchitekturen",
+      "teaser": "Im Fokus der data2day stehen eine Keynote von Dr. Constanze Kurz, agentische KI-Systeme, Datenkontrakte und moderne Lakehouse-Architekturen sowie Governance.",
+      "url": "https://www.heise.de/news/data2day-2026-Keynote-von-Dr-Constanze-Kurz-Agentic-AI-und-Datenarchitekturen-11453954.html",
+      "image_title": "data2day 2026: Vorträge zur dreizehnten Ausgabe der Data-Science-Konferenz gesucht"
+    },
+    {
+      "title": "AlertIBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
+      "teaser": "In aktuellen Versionen von IBMs Middleware MQ haben die Entwickler mehrere Schwachstellen geschlossen. Bislang gibt es keine dokumentierten Attacken.",
+      "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
+      "image_title": "Ein symbolischer Updateknopf."
+    },
+    {
+      "title": "Microsofts neues Regelwerk für KI-Sicherheit - eine Farce",
+      "teaser": "Microsoft hat sich nun selber einen Code of Conduct auferlegt, der für die Sicherheit seiner KI-Systeme sorgen soll. Wir haben ihn uns genauer angesehen.",
+      "url": "https://www.heise.de/meinung/Microsofts-neues-Regelwerk-fuer-KI-Sicherheit-eine-Farce-11454748.html",
+      "image_title": "Ein Drucker und eine weiße Papierseite von oben"
+    },
+    {
+      "title": "Apple A20 Pro, M6 und M5 Ultra: Erste Benchmarks zeigen hohe Performance",
+      "teaser": "Drei neue Apple-Prozessoren sind in einem Vergleichs-Benchmark aufgetaucht. Die Performance ist bei allen dreien sehr hoch.",
+      "url": "https://www.heise.de/news/Apple-A20-Pro-M6-und-M5-Ultra-Erste-Benchmarks-zeigen-hohe-Performance-11454774.html",
+      "image_title": "Renderbild eines A20-Pro-Prozessors in einem offenen iPhone"
+    },
+    {
+      "title": "DDROP: Adapterstecker hebelt Confidential Computing aus",
+      "teaser": "IT-Forscher hebeln RAM-Verschlüsselung für Confidential Computing mittels Adapterstecker aus. DDROP greift aktuelles DDR5 an.",
+      "url": "https://www.heise.de/news/DDROP-Adapterstecker-hebelt-Confidential-Computing-aus-11454579.html",
+      "image_title": "DDROP-Adapterstecker"
+    },
+    {
+      "title": "iX-Workshop: IT-Umgebungen mit Microsoft Defender XDR vor Angriffen schützen",
+      "teaser": "XDR ist ein unverzichtbarer Bestandteil moderner Sicherheitsstrategien ‒ Prävention, Erkennung und Abwehr von Cyberangriffen mit Microsoft Defender XDR.",
+      "url": "https://www.heise.de/news/iX-Workshop-IT-Umgebungen-mit-Microsoft-Defender-XDR-vor-Angriffen-schuetzen-11445635.html",
+      "image_title": "iX-Workshop: Cyberabwehr mit Microsoft Defender XDR"
+    },
+    {
+      "title": "AlertAngreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
+      "teaser": "Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.",
+      "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
+      "image_title": "Anzeige \"Update\" mit Fortschrittsbalken"
+    },
+    {
+      "title": "Anker Solarbank Max: Vom Balkonspeicher zum kleinen Heimspeicher",
+      "teaser": "Mit bis zu 10 kWp PV und 42 kWh Speicher zielt das System auf hohe Lasten und Alt-PV. Die versprochene Amortisation bleibt optimistisch.",
+      "url": "https://www.heise.de/bestenlisten/deals/anker-solarbank-max-vom-balkonspeicher-zum-kleinen-heimspeicher/xmvbphm?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Tipp: Fotoduplikate in Google Fotos via Finder finden",
       "teaser": "Auch bei Googles Foto-Hosting-Dienst fallen oft doppelte Bilder an. Leider gibt es keine einfache Möglichkeit, sie zu löschen. Ein Workaround hilft.",
       "url": "https://www.heise.de/ratgeber/Tipp-Fotoduplikate-in-Google-Fotos-via-Finder-finder-11451212.html",
       "image_title": "Icon von Google Fotos"
@@ -32,35 +124,9 @@
       "image_title": "Logo Passwort - der heise security Podcast"
     },
     {
-      "title": "macOS 27 Golden Gate: 22 Tipps für Umstieg und Einstieg",
-      "teaser": "Das neue Mac-Betriebssystem läuft stabiler – und lohnt sich nicht nur deshalb. Unsere Tipps zeigen, welche Möglichkeiten und Verbesserungen macOS 27 bringt.",
-      "url": "https://www.heise.de/ratgeber/macOS-27-Golden-Gate-22-Tipps-fuer-Umstieg-und-Einstieg-11454503.html",
-      "image_title": ", Cathrin Kapell / KI / heise medien"
-    },
-    {
       "title": "September-Termin: heise security Tour mit Vorträgen zu KI, Lieferketten und mehr",
       "teaser": "Die Eintageskonferenz für Sicherheitsverantwortliche mit praxisrelevantem Wissen zu aktuellen Herausforderungen der IT-Sicherheit: KI, Lieferketten und mehr.",
       "url": "https://www.heise.de/news/September-Termin-heise-security-Tour-mit-Vortraegen-zu-KI-Lieferketten-und-mehr-11452936.html"
-    },
-    {
-      "title": "RatgebermacOS 27 Golden Gate: 22 Tipps für Umstieg und Einstieg",
-      "url": "https://www.heise.de/ratgeber/macOS-27-Golden-Gate-22-Tipps-fuer-Umstieg-und-Einstieg-11454503.html",
-      "image_title": ", Cathrin Kapell / KI / heise medien"
-    },
-    {
-      "title": "RatgeberKI-Agenten in Microsoft Copilot Studio bauen",
-      "url": "https://www.heise.de/ratgeber/KI-Agenten-in-Microsoft-Copilot-Studio-bauen-11420058.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "HintergrundKrisenmanagement in der IT: Rollen und Strategien für den Notfall",
-      "url": "https://www.heise.de/hintergrund/Krisenmanagement-in-der-IT-Rollen-und-Strategien-fuer-den-Notfall-11452476.html",
-      "image_title": "Netzwerkkabel werden in eine Wandbuchse gesteckt, daneben ein kleiner Router."
-    },
-    {
-      "title": "Anker Solarbank Max: Vom Balkonspeicher zum kleinen Heimspeicher",
-      "teaser": "Mit bis zu 10 kWp PV und 42 kWh Speicher zielt das System auf hohe Lasten und Alt-PV. Die versprochene Amortisation bleibt optimistisch.",
-      "url": "https://www.heise.de/bestenlisten/deals/anker-solarbank-max-vom-balkonspeicher-zum-kleinen-heimspeicher/xmvbphm?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Spaniens Datenschutzaufsicht: Erster Cyberangriff mithilfe eines KI-Agenten",
@@ -69,80 +135,16 @@
       "image_title": "Warnsymbol vor digitalem Rauschen"
     },
     {
+      "title": "KI-Agenten in Microsoft Copilot Studio bauen",
+      "teaser": "Ein neuer KI-Assistent von Microsoft ermöglicht auch Laien, Aufgaben im Servicebereich automatisiert zu lösen. Der Terminbuchungsassistent verdeutlicht das.",
+      "url": "https://www.heise.de/ratgeber/KI-Agenten-in-Microsoft-Copilot-Studio-bauen-11420058.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
       "title": "EWE-TEL-Chef zum Kupfer-Aus: „Wir müssen jetzt schon überlegen“",
       "teaser": "Zum 30. Geburtstag von EWE TEL zieht Geschäftsführer Norbert Westfal Bilanz: Er fordert fairen Netzzugang, die Kupferabschaltung und mehr Wettbewerb.",
       "url": "https://www.heise.de/news/EWE-TEL-Chef-zum-Kupfer-Aus-Wir-muessen-jetzt-schon-ueberlegen-11453600.html",
       "image_title": "Ein historisches Telefon"
-    },
-    {
-      "title": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört",
-      "teaser": "Der Iran kann einen Erfolg gegen einen US-Datenkonzern verbuchen: Amazons Rechenzentren in Bahrain sowie eines in den Emiraten sind unwiederbringlich kaputt.",
-      "url": "https://www.heise.de/news/Iran-Krieg-Alle-AWS-Daten-in-Bahrain-sind-zerstoert-11454487.html",
-      "image_title": "AWS-Logo an einer Glasfassade"
-    },
-    {
-      "title": "Top 10: Der beste GPS-Tracker für Fahrrad, Auto & Co. – mit und ohne Abo",
-      "teaser": "Wer wissen will, wo Fahrrad, Rucksack oder Auto sind, kann sie per GPS-Tracker orten. Wir haben Geräte mit und ohne Abo getestet und zeigen die Besten.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-gps-tracker-fuer-fahrrad-auto-und-co-mit-und-ohne-abo/1gmyf1g?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Cloud-Wettbewerb: Broadcom ist weiter auf Rot, SAP gerät wegen KI unter Druck",
-      "teaser": "Der Cloudverband CISPE warnt in seinem Wettbewerbsbarometer vor drastischen Lizenzpraktiken von Broadcom und neuen API-Sperren bei SAP rund um agentische KI.",
-      "url": "https://www.heise.de/news/Cloud-Wettbewerb-Broadcom-ist-weiter-auf-Rot-SAP-geraet-wegen-KI-unter-Druck-11454297.html",
-      "image_title": "rotes Licht beleuchtet Serverschränke"
-    },
-    {
-      "title": "Gegenwind für Telekom: Wettbewerber verlangen scharfe Regulierung",
-      "teaser": "Drei deutsche Verbände fordern die EU auf, die Forderungen großer Telekom-Anbieter nach einer Deregulierung zurückzuweisen und den Wettbewerb zu schützen.",
-      "url": "https://www.heise.de/news/Gegenwind-fuer-Telekom-Wettbewerber-verlangen-scharfe-Regulierung-11454283.html",
-      "image_title": "Glasfaser-Leitungen der Telekom beim Verlegen"
-    },
-    {
-      "title": "Philips Solarlampe im Test: Drei Leucht-Modi, Bewegungsmelder und Akku",
-      "teaser": "Die Philips Solarlampen für Außen versprechen 800 Lumen Helligkeit, PIR-Bewegungsmelder und Fernbedienung. Wir haben den Solar-Fluter im Praxistest.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/philips-solarlampe-im-test-drei-leucht-modi-bewegungsmelder-und-akku/ewzwsf2?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "DeepL Voice: Echtzeit-Übersetzung mit originaler Stimmcharakteristik",
-      "teaser": "DeepL erweitert seine Voice-Technologie: Neue Sprachmodelle übertragen bei Live-Übersetzungen auch den individuellen Klang, das Sprechtempo und die Emotionen.",
-      "url": "https://www.heise.de/news/DeepL-Voice-Neue-Sprachmodelle-bewahren-individuelle-Stimmen-bei-Uebersetzungen-11454033.html",
-      "image_title": "Stilisierte Smartphone Bildschrime mit Deepl Live Voice Translation"
-    },
-    {
-      "title": "Firefox zeigt jetzt Werbung in der Adressleiste",
-      "teaser": "Mozilla hat Firefox 156 veröffentlicht. Die neue Version beschleunigt den PDF-Betrachter und optimiert den Speicher- und CPU-Einsatz.",
-      "url": "https://www.heise.de/news/Firefox-156-PDF-Viewer-startet-bis-zu-45-Prozent-schneller-11454037.html",
-      "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
-    },
-    {
-      "title": "KI-Entwicklung: Tech-Börsen erleben Kurseinbrüche",
-      "teaser": "Nach jüngsten Äußerungen zur KI-Entwicklung fallen Tech-Aktien weltweit. NASDAQ 100, Softbank und Chip-Hersteller verlieren.",
-      "url": "https://www.heise.de/news/Tech-Aktien-unter-Druck-nach-KI-Turbulenzen-11453958.html",
-      "image_title": "Rote Kurven und Zahlen auf einem Monitor"
-    },
-    {
-      "title": "Debatte über KI-Pause: „Jede deutsche Großküche hat schärfere Kontrollsysteme“",
-      "teaser": "Die Debatte über eine mögliche Pause bei der KI-Entwicklung zieht immer weitere Kreise. Die Reaktionen aus der deutschsprachigen Forschung sind gemischt.",
-      "url": "https://www.heise.de/news/Debatte-ueber-KI-Pause-Jede-deutsche-Grosskueche-hat-schaerfere-Kontrollsysteme-11453768.html",
-      "image_title": "roter Stift hakt Aufgabenkästchen ab"
-    },
-    {
-      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11433666.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Raspberry Pi: Optionale Updates für modernere Desktop-Umgebung",
-      "teaser": "Der Desktop von Raspberry Pi OS fühlt sich inzwischen etwas altbacken an. Die Entwickler spendieren ihm nun eine Frischzellenkur.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-OS-huebscht-den-Desktop-auf-11453796.html",
-      "image_title": "Modernerer Raspberry-Pi-Desktop"
-    },
-    {
-      "title": "DietPi 10.7: Linux für Einplatinencomputer bessert Probleme aus",
-      "teaser": "Die Linux-Distribution für Einplatinencomputer DietPi 10.7 bessert einige Fehler aus und verbessert die Netzwerkkonfiguration.",
-      "url": "https://www.heise.de/news/SBC-Linux-DietPi-10-7-verbessert-Netzwerkkonfiguration-11453468.html",
-      "image_title": "DietPi 9.10 auf Starfive Visionfive 2"
     },
     {
       "title": "NewsFritzbox blockt Werbung (in 5 Minuten eingerichtet)",
