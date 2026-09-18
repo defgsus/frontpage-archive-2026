@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-18T11:56:24",
+  "timestamp": "2026-09-18T15:28:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,84 @@
     }
   ],
   "articles": [
+    {
+      "title": "AlertJetzt aktualisieren: Angreifer konnten beliebige Daten von Synology-NAS auslesen",
+      "teaser": "Gleich auf drei verschiedenen Wegen konnten Angreifer Daten von Synology-NAS klauen. Der Hersteller behebt mit einem Flicken auch weniger dringende Lücken.",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Angreifer-konnten-beliebige-Daten-von-Synology-NAS-auslesen-11458757.html",
+      "image_title": "Synology company logo sign on exhibition fair Cebit 2017 in Hannover Messe, Germany"
+    },
+    {
+      "title": "Huawei packt 4096 KI-Beschleuniger in einen riesigen Server",
+      "teaser": "Mit dem KI-Beschleuniger Ascend 960 wechselt jetzt auch Huawei auf flottes High Bandwidth Memory. Systeme skalieren vor allem in die Breite.",
+      "url": "https://www.heise.de/news/Huawei-packt-4096-KI-Beschleuniger-in-einen-riesigen-Server-11458847.html",
+      "image_title": "Bild einer Huawei-Präsentation mit einem Superpod"
+    },
+    {
+      "title": "Google veröffentlicht 3D-Emojis als Open Source",
+      "teaser": "Google hat 3977 3D-Versionen seiner Noto-Emojis als Open Source veröffentlicht. Trotz KI-Unterstützung wurden die Symbole manuell modelliert und optimiert.",
+      "url": "https://www.heise.de/news/Google-veroeffentlicht-3D-Emojis-als-Open-Source-11458107.html",
+      "image_title": "Googles neue Emoji-Website"
+    },
+    {
+      "title": "Klinik-Planung: DaphOS siegt bei KH-IT-Start-up-Pitch",
+      "teaser": "DaphOS überzeugte beim Start-up-Pitch auf der Krankenhaus-IT-Tagung mit einer Plattform für Personal- und Bettenplanung in Krankenhäusern.",
+      "url": "https://www.heise.de/news/Klinik-Planung-DaphOS-siegt-bei-KH-IT-Start-up-Pitch-11343644.html",
+      "image_title": "Sarah Peuling und Lars Forchheim"
+    },
+    {
+      "title": "HintergrundKI am Arbeitsplatz: So bewahren Sie Kreativität und Urteilsvermögen",
+      "url": "https://www.heise.de/hintergrund/KI-am-Arbeitsplatz-So-bewahren-Sie-Kreativitaet-und-Urteilsvermoegen-11431808.html"
+    },
+    {
+      "title": "HintergrundDie vier Schritte der Domain-Driven Transformation",
+      "url": "https://www.heise.de/hintergrund/Die-vier-Schritte-der-Domain-Driven-Transformation-11454151.html"
+    },
+    {
+      "title": "TestsNvidia RTX Pro 6000 Blackwell im Test: 96 GByte VRAM für KI und Workstations",
+      "url": "https://www.heise.de/tests/Nvidia-RTX-Pro-6000-Blackwell-im-Test-96-GByte-VRAM-fuer-KI-und-Workstations-11419673.html"
+    },
+    {
+      "title": "Was im Klassenchat landet und warum das Probleme macht",
+      "teaser": "Pornos, Gewaltvideos und KI-manipulierte Bilder zirkulieren längst auch in Schulchats. Experten erklären, warum solche Inhalte weitergeleitet werden.",
+      "url": "https://www.heise.de/news/Was-im-Klassenchat-landet-und-warum-das-Probleme-macht-11458229.html",
+      "image_title": "Kinder und Smartphones"
+    },
+    {
+      "title": "Lucid und Bolt wollen 25.000 autonome E-Autos in Europa einsetzen",
+      "teaser": "Lucid und die Mobilitätsplattform Bolt wollen mindestens 25.000 autonome Fahrzeuge mit SAE-Level-4-Technik in europäischen Städten einsetzen.",
+      "url": "https://www.heise.de/news/Lucid-und-Bolt-planen-25-000-Robotaxis-fuer-Europa-11458433.html",
+      "image_title": "Lucid Gravity als autonomes Taxi"
+    },
+    {
+      "title": "Claude Code: Anthropic macht aus Projects einen Auftragsverteiler",
+      "teaser": "Anthropic hat Projects in Claude Code umgebaut: Ein Projekt verteilt Aufträge jetzt selbst auf parallele Threads. Die Beta läuft zuerst für Pro und Max.",
+      "url": "https://www.heise.de/news/Claude-Code-Anthropic-macht-aus-Projects-einen-Auftragsverteiler-11458195.html",
+      "image_title": "Anthropic Claude Logo auf Handy"
+    },
+    {
+      "title": "Thüringer Polizei rüstet Holster für automatische Videoaufzeichnung auf",
+      "teaser": "Deutsche Polizisten ziehen ihre Waffen nur selten. Eine neue Technik hilft Thüringer Beamten, in solchen Situationen Beweise per Körperkamera zu sichern.",
+      "url": "https://www.heise.de/news/Neue-Technik-loest-automatisch-Video-bei-Waffen-Einsatz-aus-11458577.html",
+      "image_title": "Nahaufnahme eines Polizeiautos"
+    },
+    {
+      "title": "Nordkoreanische Cybergruppe bestiehlt IT-Fachleute auf Jobsuche",
+      "teaser": "Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift. Was hinter der Kampagne „Contagious Interview“ steckt.",
+      "url": "https://www.heise.de/news/Nordkoreanische-Cybergruppe-bestiehlt-IT-Fachleute-auf-Jobsuche-11458275.html",
+      "image_title": "Platz in Pjöngjang"
+    },
+    {
+      "title": "Developer-Häppchen – Schnelles Redis und Cross-Platform-Entwicklung mit Python",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Redis, Coreutils, Swift, GitLab, JupyterHub, RAD Studio, Laravel, Apache Storm und Flet.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Schnelles-Redis-und-Cross-Platform-Entwicklung-mit-Python-11457777.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
+      "title": "iX-Workshop: Der schnelle Weg zum iSAQB-zertifizierten Softwarearchitekten",
+      "teaser": "Werden Sie zum Certified Professional for Software Architecture (CPSA). Online Intensiv-Schulung mit anschließender iSAQB-Zertifizierung.",
+      "url": "https://www.heise.de/news/iX-Workshop-Der-schnelle-Weg-zum-iSAQB-zertifizierten-Softwarearchitekten-11434044.html",
+      "image_title": "iX-Workshop Softwarearchitektur iSAQB Foundation Level"
+    },
     {
       "title": "AlertAtlassian: Angreifer können Confluence Data Center ausspionieren",
       "teaser": "Atlassian hat zahlreiche Sicherheitslücken in Bitbucket, Jira & Co. geschlossen. Admins sollten die verfügbaren Sicherheitspatches zeitnah installieren.",
@@ -44,20 +122,7 @@
       "image_title": "Roboter hält geöffneten Laptop, der ein Flugzeugsymbol und einen grünen Haken zeigt"
     },
     {
-      "title": "HintergrundDie vier Schritte der Domain-Driven Transformation",
-      "url": "https://www.heise.de/hintergrund/Die-vier-Schritte-der-Domain-Driven-Transformation-11454151.html"
-    },
-    {
-      "title": "TestsNvidia RTX Pro 6000 Blackwell im Test: 96 GByte VRAM für KI und Workstations",
-      "url": "https://www.heise.de/tests/Nvidia-RTX-Pro-6000-Blackwell-im-Test-96-GByte-VRAM-fuer-KI-und-Workstations-11419673.html"
-    },
-    {
-      "title": "HintergrundOligarchen-Linux: Der rasante und problematische Aufstieg von Omarchy",
-      "url": "https://www.heise.de/hintergrund/Oligarchen-Linux-Der-rasante-und-problematische-Aufstieg-von-Omarchy-11445873.html",
-      "image_title": "Screenshot von oligarchy.fyi, mit dem Spruch: „Your free operating system, brought to you by unreasonable amounts of money.“"
-    },
-    {
-      "title": "macOS 27: Spotlight-Suche fällt aus Menüleiste – Siri-AI-Button kein Ersatz",
+      "title": "UpdatemacOS 27: Spotlight-Suche fällt aus Menüleiste – Siri-AI-Button kein Ersatz",
       "teaser": "Apple ändert die Bedienung seiner Systemsuche erneut: Sie wird gegebenenfalls mit Siri AI zusammengelegt. Das hat einen nervigen Nachteil.",
       "url": "https://www.heise.de/news/macOS-27-Spotlight-Suche-faellt-aus-Menueleiste-Siri-AI-Button-kein-Ersatz-11452237.html",
       "image_title": "macOS mit Siri AI"
@@ -69,82 +134,16 @@
       "image_title": "Verkehrsschild mit Aufschrift .NET"
     },
     {
+      "title": "Oligarchen-Linux: Der rasante und problematische Aufstieg von Omarchy",
+      "teaser": "Techkonzerne und CEOs spenden enorme Summen an die nischenorientierte Linux-Distribution Omarchy. Deren extrem rechten Gründer verschafft das viel Einfluss.",
+      "url": "https://www.heise.de/hintergrund/Oligarchen-Linux-Der-rasante-und-problematische-Aufstieg-von-Omarchy-11445873.html",
+      "image_title": "Screenshot von oligarchy.fyi, mit dem Spruch: „Your free operating system, brought to you by unreasonable amounts of money.“"
+    },
+    {
       "title": "Umfrage: Wie läuft die E-Rechnung in der Praxis?",
       "teaser": "Bei der E-Rechnungspflicht stoßen Betriebe auf einige Hürden. Der Verein eurofactura ruft Firmen auf, in einer Umfrage aus ihrer Praxis zu berichten.",
       "url": "https://www.heise.de/news/Umfrage-Wie-laeuft-die-E-Rechnung-in-der-Praxis-11458041.html",
       "image_title": "Nahaufnahme,Hand,Geschäftsmann,mit,digitaler,Rechnung"
-    },
-    {
-      "title": "Schimmelprobleme und der Vermieter: Mit Home Assistant Lüftung dokumentieren",
-      "teaser": "Mit Fensteröffnungssensoren kann Home Assistant das Lüftungsverhalten dauerhaft dokumentieren. Die Daten helfen bei Schimmeldiskussionen mit Vermietern.",
-      "url": "https://www.heise.de/ratgeber/Schimmelprobleme-und-der-Vermieter-Mit-Home-Assistant-Lueftung-dokumentieren-11456395.html",
-      "image_title": "Ein Fenstersensor meldet das geöffnete Fenster Home Assistant. So lässt sich das Lüftungsverhalten auch dauerhaft dokumentieren."
-    },
-    {
-      "title": "Anthropic: Claude übernimmt immer mehr Arbeit an eigener Weiterentwicklung",
-      "teaser": "Claude erledigt bei Anthropic immer mehr Aufgaben an künftigen KI-Modellen weitgehend selbstständig. Dieser Anteil ist zuletzt stark gestiegen.",
-      "url": "https://www.heise.de/news/Anthropic-Claude-uebernimmt-immer-mehr-Arbeit-an-eigener-Weiterentwicklung-11458053.html",
-      "image_title": "Anthropic-Logo auf einem Smartphone, in dem sich ein Bildschirm mit Börsenkurven spiegelt."
-    },
-    {
-      "title": "Interview: Die Zukunft von Vite & Co. beim neuen Eigentümer Cloudflare",
-      "teaser": "Nach der Übernahme durch Cloudflare teilt Alexander Lichter Einblicke in VoidZero und die Zukunftspläne für Vite und weitere Open-Source-Projekte.",
-      "url": "https://www.heise.de/news/Interview-Die-Zukunft-von-Vite-Co-beim-neuen-Eigentuemer-Cloudflare-11454119.html",
-      "image_title": "Gruppe von Menschen aus verschiedenen Ländern, die gemeinsam in einem Coworking-Space arbeiten."
-    },
-    {
-      "title": "Welches Display zum eigenen Maker-Projekt passt: Ein Überblick",
-      "teaser": "Kompakte Displays für Maker gibt es viele. Wir zeigen die Unterschiede, worauf es bei der Wahl ankommt und wie sich die Module in der Praxis schlagen.",
-      "url": "https://www.heise.de/ratgeber/Welches-Display-zum-eigenen-Maker-Projekt-passt-Ein-Ueberblick-11448372.html",
-      "image_title": ","
-    },
-    {
-      "title": "AlertRoot-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-      "teaser": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "Tipp: Standard-Mail-Client in macOS wechseln",
-      "teaser": "Sie verwenden statt Apple Mail lieber eine andere E-Mail-App auf dem Mac? Das Setting zur Umbelegung ist an ungewöhnlicher Stelle versteckt – mit Hürden.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Standard-Mail-Client-in-macOS-wechseln-11451224.html",
-      "image_title": "Outlook auf dem Mac"
-    },
-    {
-      "title": "Google-Suche ja, Modelltraining nein: Neue Cloudflare-Regeln",
-      "teaser": "KI-Crawler blockieren, aber in der Suche bleiben: Cloudflare entschärft den Konflikt bei Mehrzweck-Crawlern.",
-      "url": "https://www.heise.de/news/Google-Suche-ja-Modelltraining-nein-Neue-Cloudflare-Regeln-11457767.html",
-      "image_title": "Abstrakte Illustration eines Zyklus mit Symbolen für Roboter, Sonne, Wolken, Person mit Maske und Krabbe."
-    },
-    {
-      "title": "Nach dem Hugging-Face-Hack: Was jetzt auf die IT zukommt",
-      "teaser": "Der Hugging-Face-Hack hat gezeigt, wozu KI-Agenten in Sachen Hacking imstande sind. Für IT-Verantwortliche lohnt sich ein ausführlicher Blick auf den Vorfall.",
-      "url": "https://www.heise.de/hintergrund/Nach-dem-Hugging-Face-Hack-Was-jetzt-auf-die-IT-zukommt-11456857.html",
-      "image_title": "Ein abstrakte Illustration eines Schwarms von Dreiecken, der zwei Fensterscheiben zum Splittern bringt"
-    },
-    {
-      "title": "iOS 27, macOS 27, iPadOS 27: 8 Tipps zu Kamera und Fotos",
-      "teaser": "Apple steckt leistungsfähige KI-Bearbeitung in die Fotos-App von iPhone, iPad und Mac. Zudem bringen die 27er-Systeme hilfreiche Verwaltungsfunktionen.",
-      "url": "https://www.heise.de/ratgeber/iOS-27-macOS-27-iPadOS-27-8-Tipps-zu-Kamera-und-Fotos-11455906.html",
-      "image_title": "Icon der Fotos-App"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher einrichten und datenschutzkonform betreiben",
-      "teaser": "Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-einrichten-und-datenschutzkonform-betreiben-11434034.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "SaaSpokalypse: Wie die Arbeit mit KI-Agenten die Softwarebranche verändert",
-      "teaser": "Der Einsatz von KI-Agenten setzt die SaaS-Branche unter Druck. Gefragt sind nun neue Produkte und Preismodelle, die nach Ergebnis statt pro Nutzer abrechnen.",
-      "url": "https://www.heise.de/hintergrund/SaaSpokalypse-Wie-die-Arbeit-mit-KI-Agenten-die-Softwarebranche-veraendert-11403698.html",
-      "image_title": "Roboterarme bedienen einen Computer mit Finanzdiagrammen und Rechnungen."
-    },
-    {
-      "title": "„Größter Diebstahl von Arbeitskraft“: Intern Kritik bei Microsoft an KI-Training",
-      "teaser": "Die New York Times hat gegen OpenAI und Microsoft wegen unerlaubter Verwendung von Texten fürs KI-Training geklagt. Intern werden die Argumente dort geteilt.",
-      "url": "https://www.heise.de/news/Groesster-Diebstahl-von-Arbeitskraft-Intern-Kritik-bei-Microsoft-an-KI-Training-11457705.html",
-      "image_title": "Gebäude der New York Times"
     },
     {
       "title": "NewsSchon lange zerstört? Kollision von Venus mit eigenem Mond wohl unausweichlich",
