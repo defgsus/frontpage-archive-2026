@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-21T07:38:29",
+  "timestamp": "2026-09-21T14:37:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
-      "title": "Experte zu Cyberangriffen:„Ich habe so eine Dynamik bisher noch nicht erlebt“",
-      "teaser": "Cyberangriffe können Krankenhäuser lahmlegen. Fraunhofer SIT simuliert den Ernstfall, um Schwachstellen aufzudecken.",
-      "url": "https://www.heise.de/news/Cyberangriff-im-Krankenhaus-Krisensimulation-zeigt-Potenzial-auf-11457429.html",
-      "image_title": "Sebastian Schinzel und Nico Brüggemann"
-    },
-    {
-      "title": "PatchdayWindows-Update sperrt Domain-Nutzer aus",
-      "teaser": "Microsoft bestätigt Probleme mit dem September-Patchday. Domain-Logins können dadurch unmöglich werden.",
-      "url": "https://www.heise.de/news/Windows-Update-sperrt-Domain-Nutzer-aus-11456331.html",
-      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
-    },
-    {
-      "title": "AlertCISAWarnung vor Angriffen auf Linux-Schwachstellen",
+      "title": "AlertUpdateCISAWarnung vor Angriffen auf Linux-Schwachstellen",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf Linux-Lücken. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
       "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
+    },
+    {
+      "title": "AlertWerbeblockerPi-hole-Update stopft Codeschmuggel-Lücken",
+      "teaser": "Ein Update für den DNS-basierten Werbeblocker Pi-hole schließt teils hochriskante Codeschmuggel-Lücken.",
+      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html",
+      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
+    },
+    {
+      "title": "AlertFremdzugriffe auf SolarWinds Access Rights Manager vorstellbar",
+      "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
+      "image_title": "Eine symbolische Updateerrinerung."
     },
     {
       "title": "Webinar | 15. + 22. SeptemberDeep-Dive in Kubernetes-Security",
@@ -53,10 +53,28 @@
       "url": "https://heise-conferences.de/webinar/ki-fur-verteidiger-2026-WWq3dxp7zqocrV?wt_mc=intern.conf.security.web_ki-verteidiger.security_buehne_1.teaser.teaser&LPID=39434"
     },
     {
-      "title": "AlertWarnung vor Angriffen auf Linux-Schwachstellen",
-      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf Linux-Lücken. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
-      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
+      "title": "Kritische Lücke bei Claude Code, OpenAI Codex, GitHub Copilot und Gemini CLI",
+      "teaser": "Bei der Sicherheitslücke Plugin4Shell laden Coding-Agenten Schadcode und führen ihn automatisch aus. Anthropic und OpenAI haben gepatcht, GitHub reagiert nicht.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-bei-Claude-Code-OpenAI-Codex-GitHub-Copilot-und-Gemini-CLI-11459862.html",
+      "image_title": "Roter \"Exploit\"-Text steht zwischen weißen Nullen und Einsen."
+    },
+    {
+      "title": "AlertFremdzugriffe auf SolarWinds Access Rights Manager vorstellbar",
+      "teaser": "Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.",
+      "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
+      "image_title": "Eine symbolische Updateerrinerung."
+    },
+    {
+      "title": "Umfrage: Wo drückt Sie der Schuh im Microsoft-Umfeld?",
+      "teaser": "Helfen Sie uns, eine neue Microsoft-Konferenz zu gestalten: mit spannenden Workshops, echtem Tiefgang und genau den Themen, die Sie in der Praxis weiterbringen.",
+      "url": "https://www.heise.de/news/Umfrage-Wo-drueckt-Sie-der-Schuh-im-Microsoft-Umfeld-11406364.html",
+      "image_title": "Mann mit weißem Hemd und Taucherausrüstung unter Wasser, daneben eine offene Schatztruhe, aus der Icons an die Wasseroberfläche schwimmen (Dieses Bild wurde mit KI generiert)"
+    },
+    {
+      "title": "Microsoft löst Probleme nach Software-Updates",
+      "teaser": "Updates von Microsoft haben Probleme verursacht, hat das Unternehmen eingeräumt. Nun sollen auch die letzten bekannten gelöst sein.",
+      "url": "https://www.heise.de/news/Microsoft-loest-Probleme-nach-Software-Updates-11459609.html",
+      "image_title": "Windows Updates verfügbar: Herunterladen, Installation, Abgeschlossen"
     },
     {
       "title": "Russlands „Super-App“ Max: Überwachung vorbei am Smartphone-OS",
@@ -131,32 +149,14 @@
       "image_title": "Anthropic-Logo auf einem Smartphone, in dem sich ein Bildschirm mit Börsenkurven spiegelt."
     },
     {
-      "title": "AlertRoot-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-      "teaser": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "Google-Suche ja, Modelltraining nein: Neue Cloudflare-Regeln",
-      "teaser": "KI-Crawler blockieren, aber in der Suche bleiben: Cloudflare entschärft den Konflikt bei Mehrzweck-Crawlern.",
-      "url": "https://www.heise.de/news/Google-Suche-ja-Modelltraining-nein-Neue-Cloudflare-Regeln-11457767.html",
-      "image_title": "Abstrakte Illustration eines Zyklus mit Symbolen für Roboter, Sonne, Wolken, Person mit Maske und Krabbe."
-    },
-    {
-      "title": "Auslegungssache 168: Wie das Netz uns erkennt",
-      "teaser": "Im c’t-Datenschutz-Podcast geht es darum, mit welchen Mitteln sich Menschen im Internet identifizieren lassen, von der IP-Adresse bis zum Browser-Fingerprint.",
-      "url": "https://www.heise.de/hintergrund/Auslegungssache-168-Wie-das-Netz-uns-erkennt-11455726.html",
-      "image_title": "Sylvester Tremmel (links), Jo Bager (rechts), Joerg Heidrich (unten)"
-    },
-    {
       "title": "Online-Konferenz | 29. – 30.09.2026secIT by heise digital",
       "teaser": "Digitale Kongressmesse für IT-Sicherheitsbeauftragte, Rechenzentrumsleiter, Netzwerkadministratoren und Entscheider in Sicherheitsfragen. Kostenfrei anmelden!",
       "url": "https://secit-digital.de/?wt_mc=intern.conf.events.konf_secit.security_buehne_2.teaser.teaser"
     },
     {
-      "title": "Workshop | 5. – 7.10.2026Cyberabwehr mit Microsoft Defender XDR – Roll-out, Konfiguration, Nutzung",
-      "teaser": "Im Workshop lernen IT-Sicherheitsexperten, Microsoft XDR wirksam in Unternehmensinfrastrukturen zu integrieren und anzupassen.",
-      "url": "https://heise-conferences.de/workshop/cyberabwehr-mit-microsoft-defender-xdr-roll-out-konfiguration-nutzung-0dLDfoIM656Ib0?wt_mc=intern.conf.ix.ws_cyberabwehr.security_buehne_2.teaser.teaser"
+      "title": "Workshop | 15. – 16.10.2026Sicheres Active Directory: Rechteausweitung mit Microsoft Tiering verhindern",
+      "teaser": "Workshop für Systemadministratoren: Tiering einrichten und betreiben, um unberechtigte Zugriffe und Rechteausweitungen in Windows-Systemen zu verhindern.",
+      "url": "https://heise-conferences.de/workshop/sicheres-active-directory-rechteausweitung-mit-microsoft-tiering-gezielt-verhindern-CjXZsIzUXe7Dz2?wt_mc=intern.conf.ix.ws_microsofttiering.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Workshop | 19.11.2026Observability für Kubernetes-Umgebungen",
