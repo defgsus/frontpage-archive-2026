@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T20:34:06",
+  "timestamp": "2026-09-22T23:20:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Österreich setzt NIS2 um, erhält Bundesamt für Cybersicherheit",
+      "url": "https://www.heise.de/news/Ab-1-10-Meldepflicht-fuer-IT-Vorfaelle-in-Oesterreich-11462442.html"
+    },
     {
       "title": "Snapdragon 8 Elite Gen 6: Qualcomm stellt zwei High-End-Chips vor",
       "url": "https://www.heise.de/news/Snapdragon-8-Elite-Gen-6-Qualcomm-stellt-zwei-High-End-Chips-vor-11461007.html"
@@ -56,10 +60,6 @@
     {
       "title": "iPhone 18 Pro: In den teuersten Versionen schlummert QLC-Speicher",
       "url": "https://www.heise.de/news/iPhone-18-Pro-In-den-teuersten-Versionen-schlummert-QLC-Speicher-11462238.html"
-    },
-    {
-      "title": "MiMo-V2.6-Pro: Neues Open-Weight-Modell schlägt offene Konkurrenz",
-      "url": "https://www.heise.de/news/MiMo-V2-6-Pro-Neues-Modell-fuehrt-Open-Weight-Ranking-an-11462212.html"
     },
     {
       "title": "VirtualisierungBroadcom erschwert den VMware-Ausstieg",
@@ -195,21 +195,27 @@
       "image_title": "Mann mit weißem Hemd und Taucherausrüstung unter Wasser, daneben eine offene Schatztruhe, aus der Icons an die Wasseroberfläche schwimmen (Dieses Bild wurde mit KI generiert)"
     },
     {
+      "title": "Österreich setzt NIS2 um, erhält Bundesamt für Cybersicherheit",
+      "teaser": "Die NIS-2-Richtlinie beschert Österreich Registrierungspflichten für Unternehmen und Behörden. Diese erhalten Zuwachs: Das neue Bundesamt für Cybersicherheit.",
+      "url": "https://www.heise.de/news/Ab-1-10-Meldepflicht-fuer-IT-Vorfaelle-in-Oesterreich-11462442.html",
+      "image_title": "Futuristicher Touchscreen von hinten, der gerade von einem Finger bedient wird"
+    },
+    {
       "title": "Snapdragon 8 Elite Gen 6: Qualcomm stellt zwei High-End-Chips vor",
       "teaser": "Qualcomm fährt künftig zweigleisig: Der neue Snapdragon 8 Elite Gen 6 erreicht 5 GHz, während die Extreme-Variante zusätzliche KI-Funktionen für die GPU bietet.",
       "url": "https://www.heise.de/news/Snapdragon-8-Elite-Gen-6-Qualcomm-stellt-zwei-High-End-Chips-vor-11461007.html",
       "image_title": "Qualcomm Snaodragon 8 Elite Gen 6"
     },
     {
+      "title": "Wissen statt suchen: KI bändigt Informationsflut",
+      "teaser": "Adobe PDF Spaces hilft Unternehmen, die Informationsflut zu bewältigen: KI unterstützt bei Suche, Analyse, Zusammenfassung und Zusammenarbeit.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7372589745&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "AlertGleich noch ein Sicherheitsupdate für WordPress",
       "teaser": "Angreifer können WordPress dazu bringen, nicht vorgesehene .php-Dateien aufzurufen. Das kann zur Ausführung von Code führen.",
       "url": "https://www.heise.de/news/Gleich-noch-ein-Sicherheitsupdate-fuer-WordPress-11462385.html",
       "image_title": "WordPress-Logo in Sepia"
-    },
-    {
-      "title": "Wie Smartwatches Sport und Gesundheit verbinden",
-      "teaser": "Wie viel Sport ist die richtige Dosis – und wann wird die Belastung zu hoch? Mit bestimmten Smartwatches lassen sich Sport, Style sowie Selbstvorsorge kombinieren und das Verhalten bewusster steuern.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7421942591&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Der beste Mähroboter für kleine Flächen – Testsieger für 550 Euro",
@@ -239,12 +245,6 @@
       "teaser": "Neigt sich der Speicherplatz beim iPhone 18 Pro (Max) mit 1 und 2 TByte dem Ende zu, bricht die Geschwindigkeit besonders stark ein.",
       "url": "https://www.heise.de/news/iPhone-18-Pro-In-den-teuersten-Versionen-schlummert-QLC-Speicher-11462238.html",
       "image_title": "Hände halten zwei iPhones"
-    },
-    {
-      "title": "MiMo-V2.6-Pro: Neues Open-Weight-Modell schlägt offene Konkurrenz",
-      "teaser": "Xiaomis MiMo-V2.6-Pro setzt sich in Benchmarks an die Spitze der Open-Weight-Modelle und ist zudem günstiger als ähnlich leistungsfähige offene Konkurrenz.",
-      "url": "https://www.heise.de/news/MiMo-V2-6-Pro-Neues-Modell-fuehrt-Open-Weight-Ranking-an-11462212.html",
-      "image_title": "Xiaomi-Logo an Gebäudefassade"
     },
     {
       "title": "SolaranlagenWartung von PV-Anlagen: Was Betreiber selbst prüfen können",
@@ -301,8 +301,8 @@
       "url": "https://www.heise.de/news/Umstrittener-Tankrabatt-Bund-beschliesst-Milliarden-Hilfen-trotz-scharfer-Kritik-11459167.html"
     },
     {
-      "title": "Iran-Krieg: Alle AWS-Daten in Bahrain sind zerstört",
-      "url": "https://www.heise.de/news/Iran-Krieg-Alle-AWS-Daten-in-Bahrain-sind-zerstoert-11454487.html"
+      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
+      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html"
     },
     {
       "title": "Mit BewegungsmelderTop 10: Die besten Solarleuchten im Test",
@@ -323,6 +323,12 @@
       "title": "Navee vor Ninebot & JoyorTop 10: Der beste Offroad-E-Scooter im Test",
       "teaser": "Ein Offroad-E-Scooter braucht eine gute Federung, eine robuste Verarbeitung, einen starken Motor und einen großen Akku.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-offroad-e-scooter-im-test-navee-vor-segway-ninebot-und-joyor/mtwzmjq?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "MiMo-V2.6-Pro: Neues Open-Weight-Modell schlägt offene Konkurrenz",
+      "teaser": "Xiaomis MiMo-V2.6-Pro setzt sich in Benchmarks an die Spitze der Open-Weight-Modelle und ist zudem günstiger als ähnlich leistungsfähige offene Konkurrenz.",
+      "url": "https://www.heise.de/news/MiMo-V2-6-Pro-Neues-Modell-fuehrt-Open-Weight-Ranking-an-11462212.html",
+      "image_title": "Xiaomi-Logo an Gebäudefassade"
     },
     {
       "title": "DIY-Kamera auf Raspi-5-Basis: 3D-gedruckt und komplett hackbar",
@@ -395,15 +401,15 @@
       "image_title": "Beleuchtete Serverschränke"
     },
     {
+      "title": "So gelingt der globale System-Rollout",
+      "teaser": "Nach der Einführung eines Systems an einem Standort beginnt oft erst die eigentliche Herausforderung. Wie lässt sich eine bewährte Lösung auf ein weltweit verteiltes Portfolio mit unterschiedlichen Anforderungen übertragen? Antworten am Beispiel des Immobilien-Managements gibt ein Webcast.",
+      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/internationale-standards-vs-lokale-flexibilitaet-so-gelingt-der-globale-system-rollout-am-beispiel-des-immobilienmanagements-5104/?source=hbsad-ersatz"
+    },
+    {
       "title": "Werbemesse DMEXCO: KI als Risiko und Chance",
       "teaser": "Die Werbe- und Marketingmesse startet morgen in Köln. c't hat im Vorfeld mit DMEXCO-Host Verena Gründel über den KI-Einsatz in der Branche gesprochen.",
       "url": "https://www.heise.de/news/Werbemesse-DMEXCO-KI-als-Risiko-und-Chance-11461712.html",
       "image_title": "Blick in die DMEXCO-Hallen"
-    },
-    {
-      "title": "So gelingt der globale System-Rollout",
-      "teaser": "Nach der Einführung eines Systems an einem Standort beginnt oft erst die eigentliche Herausforderung. Wie lässt sich eine bewährte Lösung auf ein weltweit verteiltes Portfolio mit unterschiedlichen Anforderungen übertragen? Antworten am Beispiel des Immobilien-Managements gibt ein Webcast.",
-      "url": "https://business-services.heise.de/software/enterprise-software/beitrag/internationale-standards-vs-lokale-flexibilitaet-so-gelingt-der-globale-system-rollout-am-beispiel-des-immobilienmanagements-5104/?source=hbsad-ersatz"
     },
     {
       "title": "Autonome KI-Angreifer: Ihr Leitfaden zur IT-Verteidigung",
@@ -455,12 +461,6 @@
       "teaser": "Die meisten Drohnen nutzen Kamera, Tiefen- und Entfernungssensoren, um ihre Umgebung wahrzunehmen. Die Drohne der TU Delft nutzt künstliche Schnurrhaare dafür.",
       "url": "https://www.heise.de/news/Drohne-orientiert-sich-mit-bio-inspirierten-Schnurrhaaren-11461299.html",
       "image_title": "Drohne mit künstlichen Schnurrhaaren"
-    },
-    {
-      "title": "Malen auf dem iPhone: Apple plante wohl Stummel-Pencil fürs Duo",
-      "teaser": "Wenn das iPhone Duo im Oktober auf den Markt kommt, wird der Support für Apple-Stifte erst nachgereicht. Auch ein für das Foldable passender Pencil fehlt.",
-      "url": "https://www.heise.de/news/Malen-auf-dem-iPhone-Apple-plante-wohl-Stummel-Pencil-fuers-Duo-11459856.html",
-      "image_title": "Apple Pencil mit USB-C"
     },
     {
       "title": "Russlands „Super-App“ Max: Überwachung vorbei am Smartphone-OS",
@@ -561,8 +561,9 @@
       "image_title": "Der Geschwister-Scholl-Platz an der LMU München mit dem charakteristischen Brunnen unter strahlend blauem Himmel."
     },
     {
-      "title": "Stromnetze vertragen mehr PV-Strom – mit Batteriespeichern an Umspannwerken",
-      "url": "https://www.heise.de/news/Stromnetze-vertragen-mehr-PV-Strom-mit-Batteriespeichern-an-Umspannwerken-11459047.html"
+      "title": "Montag: Gesundheitsdatenautobahn vor Umbau, Kritik an Chat-Löschungen der EU",
+      "url": "https://www.heise.de/news/Montag-Gesundheitsdatenautobahn-vor-Umbau-Kritik-an-Chat-Loeschungen-der-EU-11459491.html",
+      "image_title": "Arzt mit einem Tablet, darüber dgitale Symbole für KI etc.: Montag: Telematik-Umbau, EU-Löschungen, Smart-Home-Erlaubnis, PV-Stromausbau & Gemini-Fehlkonfiguration"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -631,20 +632,21 @@
       "url": "https://www.heise.de/en/news/Microsoft-resolves-issues-after-software-updates-11459704.html"
     },
     {
-      "title": "Raus aus der Filterblase: Musik- und Video-Streaming ohne Algorithmus",
-      "teaser": "Streamingdienste wollen Sie mit persönlichen Empfehlungen möglichst lange bei der Stange halten. Wir zeigen, wie Sie selbst bestimmen, was Sie sehen.",
-      "url": "https://www.heise.de/ratgeber/Raus-aus-der-Filterblase-Musik-und-Video-Streaming-ohne-Algorithmus-11080899.html"
+      "title": "Gesetz zur Kartenakzeptanz: Belastung für kleine Händler",
+      "teaser": "Die Bundesregierung arbeitet an der Kartenakzeptanzpflicht im Handel. c’t-Redakteur Markus Montz findet, dass sie Händler und Verbraucher unnötig belastet.",
+      "url": "https://www.heise.de/hintergrund/Gesetz-zur-Kartenakzeptanz-Belastung-fuer-kleine-Haendler-11332172.html",
+      "image_title": "Ein Mann steht in einem Labyrinth mit verschiedenen Geld-Symbolen."
+    },
+    {
+      "title": "Optische Speicher mit Terabyte-Kapazität: Folio Photonics im Check",
+      "teaser": "Folio Photonics will mit mehrschichtigen optischen Disks den Markt für Archivspeicher aufmischen. Die Daten sollen mindestens 50 Jahre halten.",
+      "url": "https://www.heise.de/hintergrund/Optische-Speicher-mit-Terabyte-Kapazitaet-Folio-Photonics-im-Check-11359706.html"
     },
     {
       "title": "RSA-Verschlüsselung: RSA-Module mit 862 und 896 Bit erfolgreich faktorisiert",
       "teaser": "Im September posteten Eric Lu und Steve Weis etwas unscheinbar auf X die Faktoren zu RSA-260 und RSA-896. Was ist da los?",
       "url": "https://www.heise.de/hintergrund/RSA-Verschluesselung-RSA-Module-mit-862-und-896-Bit-erfolgreich-faktorisiert-11452716.html",
       "image_title": "Ein Schild, das auf dem Hintergrund der Leiterbahnen des Boards in zwei Teile aufgeteilt ist."
-    },
-    {
-      "title": "Audio-Restaurator: So retten Sie Musik von stark beschädigten Audio-CDs",
-      "teaser": "Wenn Audio-CDs extrem zerkratzt sind und selbst eine äußerst akkurat vorgehende Ripping-Software wie Exact Audio Copy scheitert, gibt es noch Rettungsanker.",
-      "url": "https://www.heise.de/ratgeber/Audio-Restaurator-So-retten-Sie-Musik-von-stark-beschaedigten-Audio-CDs-11436535.html"
     },
     {
       "title": "Für iPhone und iPadiOS 27: Tipps zu den besten Neuerungen",
