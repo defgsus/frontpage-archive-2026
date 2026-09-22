@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-22T01:19:36",
+  "timestamp": "2026-09-22T06:56:53",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,77 @@
   ],
   "articles": [
     {
-      "title": "Charité-CDO zum Gesundheitsnetz„Wer eine Vision hat, soll zum Arzt gehen“",
-      "teaser": "Die Digitalisierung im Gesundheitswesen kämpft mit Komplexität und Altsystemen. Ein Blick auf Charité, Gematik und Dänemark.",
+      "title": "Java 27: Sicherheit, Laufzeit und reifende APIs",
+      "teaser": "Das frisch erschienene OpenJDK 27 zielt vor allem auf Stabilität, Security und Performanceverbesserungen.",
+      "url": "https://www.heise.de/news/Java-27-Sicherheit-Laufzeit-und-reifende-APIs-11460106.html",
+      "image_title": "Kaffeebohnen"
+    },
+    {
+      "title": "Cybergang-Fehde: ShinyHunters knackt Cl0p-Darknetseite",
+      "teaser": "Die Cybergang ShinyHunters liefert sich eine offene Schlacht mit der Cl0p-Bande. Die Darknet-Seite von Cl0p wurde übernommen.",
+      "url": "https://www.heise.de/news/Cybergang-Fehde-ShinyHunters-knackt-Cl0p-Darknetseite-11460967.html",
+      "image_title": "Hand auf Computertatastatur in dunklem Zimmer"
+    },
+    {
+      "title": "Splunk lässt KI-Agenten Angriffswege statt Alarme jagen",
+      "teaser": "Splunk stellt auf der .conf26 neue KI-Agenten für Security Operations Center vor, die Prozesse beschleunigen und Angriffsflächen analysieren.",
+      "url": "https://www.heise.de/news/Splunk-laesst-KI-Agenten-Angriffswege-statt-Alarme-jagen-11460947.html",
+      "image_title": "Splunk-Logo mit dem Untertitel \"a CISCO company\""
+    },
+    {
+      "title": "Geschrumpfte Chatbots: So passt die KI plötzlich in 4 GByte RAM",
+      "teaser": "Quantisierung ermöglicht große Sprachmodelle auf Consumer-Hardware. Bonsai verspricht 27B-LLMs mit wenig RAM – auch auf Handys.",
+      "url": "https://www.heise.de/news/Liebling-ich-habe-die-Chatbots-geschrumpft-11460614.html",
+      "image_title": "Ein Wissenschaftler hält einen Bonsai-Baum in einem Labor mit einem schwebenden Baum in einer Kammer."
+    },
+    {
+      "title": "HintergrundCustom-HBM für KI-Beschleuniger: Nvidias proprietäres NVHBM ist nur der Anfang",
+      "url": "https://www.heise.de/hintergrund/Custom-HBM-fuer-KI-Beschleuniger-Nvidias-proprietaeres-NVHBM-ist-nur-der-Anfang-11436869.html"
+    },
+    {
+      "title": "HintergrundSecurity: Identitätsmanagement für KI-Agenten",
+      "url": "https://www.heise.de/hintergrund/Security-Identitaetsmanagement-fuer-KI-Agenten-11448233.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "TestsRAM-Zwitter im Test: LGA1700-Mainboard Asrock H610M Combo II für DDR4 und DDR5",
+      "url": "https://www.heise.de/tests/RAM-Zwitter-im-Test-LGA1700-Mainboard-Asrock-H610M-Combo-II-fuer-DDR4-und-DDR5-11413064.html",
+      "image_title": "Ein Mainboard mit einem installierten Prozessor auf hellblauem Hintergrund"
+    },
+    {
+      "title": "Vodafone erprobt KI-Übersetzung und Geräuschfilter im Mobilfunknetz",
+      "teaser": "Vodafone und Ericsson haben KI-gestützte Live-Übersetzungen und Geräuschfilter direkt im Mobilfunknetz getestet. Nutzer benötigen dafür keine speziellen Apps.",
+      "url": "https://www.heise.de/news/Vodafone-und-Ericsson-testen-KI-Live-Uebersetzung-direkt-im-Mobilfunknetz-11460502.html",
+      "image_title": "Ein Vodafone-Store"
+    },
+    {
+      "title": "Tipp: Apple Erinnerungen schnell befüllen",
+      "teaser": "Wer schnell eine To-Do-Liste aus vorhandenen Dokumenten oder abfotografierten Inhalte in Apples Erinnerungen-App aufbauen will, muss sich Tricks bedienen.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Apple-Erinnerungen-schnell-befuellen-11458005.html",
+      "image_title": "Apple Erinnerungen auf dem iPhone"
+    },
+    {
+      "title": "betterCode() .NET 11.0: Workshops zu KI, ASP.NET, C# 15.0, EF Core und Blazor",
+      "teaser": "Nach der Online-Konferenz finden im November und Dezember fünf ganztägige Workshops statt – für Vertiefungen in KI, Blazor und mehr.",
+      "url": "https://www.heise.de/news/betterCode-NET-11-0-Workshops-zu-KI-ASP-NET-C-15-0-EF-Core-und-Blazor-11445410.html",
+      "image_title": "betterCode() .NET 11.0"
+    },
+    {
+      "title": "Rechnungshof: EU nicht genug gegen Cyberangriffe gewappnet",
+      "teaser": "Eine Attacke legte 2025 IT-Systeme an europäischen Flughäfen lahm und zeigte die Verwundbarkeit bei Cyberangriffen. Unabhängige Prüfer kritisieren Lücken.",
+      "url": "https://www.heise.de/news/Rechnungshof-EU-nicht-genug-gegen-Cyberangriffe-gewappnet-11460919.html",
+      "image_title": "Menschen zeige auf Anzeigen auf einem Leuchttisch-Display"
+    },
+    {
+      "title": "30 Jahre Krankenhaus-IT: Zwischen Digitalstrategie, Epic-Debatte und Faxgerät",
+      "teaser": "Die Digitalisierung im Gesundheitswesen kämpft mit Komplexität, alten Systemen und Finanzierung. Ein Blick auf Charité, Gematik und Dänemark.",
       "url": "https://www.heise.de/news/30-Jahre-Krankenhaus-IT-Zwischen-Digitalstrategie-Epic-Debatte-und-Faxgeraet-11460318.html",
       "image_title": "Peter Gocke auf der KH-IT-Tagung"
+    },
+    {
+      "title": "Top 10: Der beste höhenverstellbare Schreibtisch im Test – gut ab 339 Euro",
+      "teaser": "Ein elektrisch höhenverstellbarer Schreibtisch soll Gesundheit und Konzentration fördern. Wir zeigen die zehn besten Modelle aus über 20 Tests.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hoehenverstellbare-schreibtisch-im-test-gut-ab-339-euro/187xypf?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Nachfolger von Windows: Staatskanzlei Kiel stellt auf Linux um",
@@ -38,28 +105,26 @@
       "image_title": "Hände einer Person an einem Laptop, umgeben von Security- und Health-Icons."
     },
     {
-      "title": "Speicher wird teurerDie Preisschere zwischen DDR5 und DDR4 geht auseinander",
+      "title": "Speicher wird teurer: Die Preisschere zwischen DDR5 und DDR4 geht auseinander",
       "teaser": "Die Speicherpreise steigen weiter. 32 GByte DDR5-RAM kosten jetzt mindestens 400 Euro. Laut Acer ist der Mangel aber nicht mehr akut.",
       "url": "https://www.heise.de/news/Acer-Chef-PCs-koennten-ab-Mitte-2027-wieder-guenstiger-werden-11460550.html",
       "image_title": "Vergoldeter RAM-Riegel auf rotem Kissen"
     },
     {
-      "title": "HintergrundRSA-Verschlüsselung: RSA-Module mit 862 und 896 Bit erfolgreich faktorisiert",
+      "title": "RSA-Verschlüsselung: RSA-Module mit 862 und 896 Bit erfolgreich faktorisiert",
+      "teaser": "Im September posteten Eric Lu und Steve Weis etwas unscheinbar auf X die Faktoren zu RSA-260 und RSA-896. Was ist da los?",
       "url": "https://www.heise.de/hintergrund/RSA-Verschluesselung-RSA-Module-mit-862-und-896-Bit-erfolgreich-faktorisiert-11452716.html",
       "image_title": "Ein Schild, das auf dem Hintergrund der Leiterbahnen des Boards in zwei Teile aufgeteilt ist."
     },
     {
-      "title": "TestsWordPress Studio: Websites einfach lokal entwickeln – auch mit KI",
+      "title": "WordPress Studio: Websites einfach lokal entwickeln – auch mit KI",
+      "teaser": "WordPress Studio richtet lokale Websites in Minuten ein. Unser Test zeigt, wie gut Entwicklung, KI-Assistent, Vorschau und Synchronisation funktionieren.",
       "url": "https://www.heise.de/tests/WordPress-Studio-Websites-einfach-lokal-entwickeln-auch-mit-KI-11456623.html"
     },
     {
-      "title": "TestsMac Studio mit M5 Ultra im KI-Praxistest: Benchmarks mit lokalen Modellen",
+      "title": "Mac Studio mit M5 Ultra im KI-Praxistest: Benchmarks mit lokalen Modellen",
+      "teaser": "Der Mac Studio mit M5 Ultra verspricht Leistung satt für lokale KI. Im Test muss er zeigen, ob er Claude und ChatGPT für Softwareentwicklung ersetzen kann.",
       "url": "https://www.heise.de/tests/Mac-Studio-mit-M5-Ultra-im-KI-Praxistest-Benchmarks-mit-lokalen-Modellen-11459736.html"
-    },
-    {
-      "title": "Top 10: Der beste höhenverstellbare Schreibtisch im Test – gut ab 339 Euro",
-      "teaser": "Ein elektrisch höhenverstellbarer Schreibtisch soll Gesundheit und Konzentration fördern. Wir zeigen die zehn besten Modelle aus über 20 Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-hoehenverstellbare-schreibtisch-im-test-gut-ab-339-euro/187xypf?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Zu laut im Klassenzimmer? Makey:Lab als Lärmampel",
@@ -80,71 +145,6 @@
       "image_title": "Mac mini M6 und M5 Pro"
     },
     {
-      "title": "Googlebook OS: Das ist Googles Android-basiertes Betriebssystem für Notebooks",
-      "teaser": "Googles neues Betriebssystem Googlebook OS soll Android-Apps und KI-Funktionen nahtlos auf Notebooks bringen. Die ersten Geräte starten ab 1000 Euro.",
-      "url": "https://www.heise.de/news/Googlebook-OS-Das-ist-Googles-Android-basiertes-Betriebssystem-fuer-Notebooks-11459633.html",
-      "image_title": "Notebook mit Googlebook OS auf Tisch"
-    },
-    {
-      "title": "Google: 403 Millionen Euro Strafe wegen Standortdaten-Tracking",
-      "teaser": "Irlands Datenschutzaufsicht hat gegen die Alphabet-Tochter ein weiteres hohes Bußgeld verhängt. Google habe entgegen der DSGVO Standortdaten verarbeitet.",
-      "url": "https://www.heise.de/news/Google-403-Millionen-Euro-Strafe-wegen-Standortdaten-Tracking-11460206.html",
-      "image_title": "Justizhammer vor Google-Logo"
-    },
-    {
-      "title": "Lizenzierungstool slmgr.vbs: Microsoft bietet PowerShell-Ersatz wegen VBS-Ende",
-      "teaser": "Microsoft stampft Visual Basic Script ein. Das Lizenzierungstool slmgr.vbs funktioniert dann nicht mehr. Nun kommt ein Ersatz-Skript.",
-      "url": "https://www.heise.de/news/slmgr-vbs-Microsoft-liefert-Powershell-Alternative-zum-VBS-Ende-11460002.html",
-      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
-    },
-    {
-      "title": "Kritische Lücke bei Claude Code, OpenAI Codex, GitHub Copilot und Gemini CLI",
-      "teaser": "Bei der Sicherheitslücke Plugin4Shell laden Coding-Agenten Schadcode und führen ihn automatisch aus. Anthropic und OpenAI haben gepatcht, GitHub reagiert nicht.",
-      "url": "https://www.heise.de/news/Kritische-Luecke-bei-Claude-Code-OpenAI-Codex-GitHub-Copilot-und-Gemini-CLI-11459862.html",
-      "image_title": "Roter \"Exploit\"-Text steht zwischen weißen Nullen und Einsen."
-    },
-    {
-      "title": "So schützen Sie sich vor unerwünschten Anrufen und Betrugsversuchen",
-      "teaser": "Spamanrufe kosten Zeit und Nerven. Whitelists helfen gegen Schockanrufe und mit den richtigen Apps kann man professionelle Störer ausblenden.",
-      "url": "https://www.heise.de/ratgeber/So-schuetzen-Sie-sich-vor-unerwuenschten-Anrufen-und-Betrugsversuchen-11443564.html"
-    },
-    {
-      "title": "Gmail-Suche wird zur Frage-Antwort-Funktion",
-      "teaser": "Google führt AI Overviews in der Gmail-Suche weltweit für zahlende Workspace-Kunden ein. Private Konten in der EU bleiben außen vor.",
-      "url": "https://www.heise.de/news/Gmail-Suche-liefert-Antworten-statt-Trefferlisten-11460042.html",
-      "image_title": "Gmail-Oberfläche mit einer E-Mail-Liste und einer Suchleiste"
-    },
-    {
-      "title": "AlertFremdzugriffe auf SolarWinds Access Rights Manager vorstellbar",
-      "teaser": "Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.",
-      "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
-      "image_title": "Eine symbolische Updateerrinerung."
-    },
-    {
-      "title": "iX-Workshop: Erfolgreiche Umsetzung der E-Rechnungspflicht in Deutschland",
-      "teaser": "Softwareentwickler lernen Hands-on, welche Formate wie unterstützt, geprüft und umgewandelt werden können oder müssen und wie sie dabei vorgehen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Erfolgreiche-Umsetzung-der-E-Rechnungspflicht-in-Deutschland-11443112.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Umfrage: Wo drückt Sie der Schuh im Microsoft-Umfeld?",
-      "teaser": "Helfen Sie uns, eine neue Microsoft-Konferenz zu gestalten: mit spannenden Workshops, echtem Tiefgang und genau den Themen, die Sie in der Praxis weiterbringen.",
-      "url": "https://www.heise.de/news/Umfrage-Wo-drueckt-Sie-der-Schuh-im-Microsoft-Umfeld-11406364.html",
-      "image_title": "Mann mit weißem Hemd und Taucherausrüstung unter Wasser, daneben eine offene Schatztruhe, aus der Icons an die Wasseroberfläche schwimmen (Dieses Bild wurde mit KI generiert)"
-    },
-    {
-      "title": "AlertWerbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken",
-      "teaser": "Ein Update für den DNS-basierten Werbeblocker Pi-hole schließt teils hochriskante Codeschmuggel-Lücken.",
-      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html",
-      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "Token statt Bauchgefühl: Splunk soll KI kalkulierbar machen",
-      "teaser": "Auf der .conf stellte Splunk Neuerungen im KI-Bereich vor: Agent Observability, Tokenomics und eine KI-Lösung für eigene Rechenzentren.",
-      "url": "https://www.heise.de/news/KI-Agenten-im-Griff-Splunk-macht-Kosten-und-Risiken-sichtbar-11459798.html",
-      "image_title": "Splunk-Logo mit dem Untertitel \"a CISCO company\""
-    },
-    {
       "title": "NewsGoogle Gemini: Komplett kaputt",
       "url": "https://www.heise.de/news/Google-Gemini-Komplett-kaputt-11458617.html"
     },
@@ -154,14 +154,14 @@
       "image_title": "Synology company logo sign on exhibition fair Cebit 2017 in Hannover Messe, Germany"
     },
     {
-      "title": "NewsNeue Mars-Rätsel: Curiosity stößt auf ungewöhnliche Gruben",
-      "url": "https://www.heise.de/news/Neue-Mars-Raetsel-Curiosity-stoesst-auf-ungewoehnliche-Gruben-11458355.html",
-      "image_title": "Ansicht des Mars aus Weltraumperspektive"
+      "title": "NewsEU-Kommission bleibt trotz Rüge bei automatischer Löschung von Chat-Nachrichten",
+      "url": "https://www.heise.de/news/EU-Kommission-bleibt-trotz-Ruege-bei-automatischer-Loeschung-von-Chat-Nachrichten-11459229.html",
+      "image_title": "Bundesverteidigungsministerin Ursula von der Leyen auf der ILA Berlin Air Show. Mai 2014."
     },
     {
-      "title": "NewsEuro-Office kommt auf den Desktop",
-      "url": "https://www.heise.de/news/Euro-Office-erhaelt-Desktop-App-11456058.html",
-      "image_title": "Ein Kanban-Board mit den Spalten \"Upcoming\", \"In progress\" und \"Done\" für \"Event preparation\"."
+      "title": "HintergrundRusslands „Super-App“ Max: Überwachung vorbei am Smartphone-OS",
+      "url": "https://www.heise.de/hintergrund/Digitaler-Totalitarismus-Wie-Russlands-App-Max-zur-Ueberwachungswaffe-wird-11459403.html",
+      "image_title": "Russian,Flag,With,Barbed,Fence.,Conflict,And,War,Concept.,Grunge"
     },
     {
       "title": "HintergrundOligarchen-Linux: Der rasante und problematische Aufstieg von Omarchy",
@@ -173,13 +173,13 @@
       "url": "https://www.heise.de/hintergrund/OpenTrafficMap-Live-Verkehrskarte-im-Eigenbau-11406126.html"
     },
     {
-      "title": "HintergrundAnalyse zu KI-Hacks und Agenten-Chaos: Was wirklich hinter dem KI-Eigenleben steckt",
-      "url": "https://www.heise.de/hintergrund/Analyse-zu-KI-Hacks-und-Agenten-Chaos-Was-wirklich-hinter-dem-KI-Eigenleben-steckt-11455264.html"
+      "title": "TestsHyundai Inster mit 42 kWh: Kleine Batterie, große Strecke – wie gut klappt das?",
+      "url": "https://www.heise.de/tests/Hyundai-Inster-mit-42-kWh-Kleine-Batterie-grosse-Strecke-wie-gut-klappt-das-11457283.html",
+      "image_title": "Hyundai Inster"
     },
     {
-      "title": "HintergrundNach dem Hugging-Face-Hack: Was jetzt auf die IT zukommt",
-      "url": "https://www.heise.de/hintergrund/Nach-dem-Hugging-Face-Hack-Was-jetzt-auf-die-IT-zukommt-11456857.html",
-      "image_title": "Ein abstrakte Illustration eines Schwarms von Dreiecken, der zwei Fensterscheiben zum Splittern bringt"
+      "title": "HintergrundAnalyse zu KI-Hacks und Agenten-Chaos: Was wirklich hinter dem KI-Eigenleben steckt",
+      "url": "https://www.heise.de/hintergrund/Analyse-zu-KI-Hacks-und-Agenten-Chaos-Was-wirklich-hinter-dem-KI-Eigenleben-steckt-11455264.html"
     }
   ]
 }
