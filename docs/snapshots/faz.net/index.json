@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T15:37:06",
+  "timestamp": "2026-09-25T19:37:51",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -54,6 +54,12 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://core.dpa-infocom.net/js/dpa.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
       "src": "https://www.faz.net/suche/widget/widget.wc.js",
       "id": null,
@@ -68,101 +74,115 @@
   ],
   "articles": [
     {
-      "title": "Nach Schnabels Rückzug: Im Rennen um die Lagarde-Nachfolge wird es ernst",
-      "teaser": "EZB-Direktoriumsmitglied Isabel Schnabel scheidet vorzeitig aus dem Amt. Damit hat das Stühlerücken in der Notenbank begonnen. Nun könnte alles ganz schnell gehen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/im-rennen-um-die-lagarde-nachfolge-in-der-ezb-wird-es-ernst-201262077.html"
+      "title": "Medizin, Essen, Haushalt: Kann die KI mehr als nur Kosten sparen?",
+      "teaser": "Tech-Unternehmer betonen, dass KI trotz aller Gefahren lange undenkbare Innovationen hervorbringen kann. Diese Beispiele zeigen, wo das schon heute gelingt. Aber der Weg zum großen Fortschrittsversprechen ist lang.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/kuenstliche-intelligenz-kann-ki-mehr-als-kosten-sparen-201251373.html"
+    },
+    {
+      "title": "App Muse: Warum Metas KI-Agent so erfolgreich ist",
+      "teaser": "Der Tech-Konzern landet mit seinem neuen virtuellen Alltagshelfer Muse einen Überraschungserfolg und stellt ein eigens dafür konzipiertes Gerät vor. Doch der KI-Agent wirft einige Fragen auf.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-agent-muse-warum-meta-damit-einen-ueberraschungserfolg-landet-201255847.html"
+    },
+    {
+      "title": "Bill Gates warnt: „Es gab noch nie eine so mächtige Waffe“",
+      "teaser": "Gates warnt vor KI-Werkzeugen in den Händen von „Menschen mit bösen Absichten“. KI könne zu Ereignissen führen, die eine Milliarde Todesfälle verursachen. Die Auslöschung der Menschheit werde aber „ziemlich schwer“.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/bill-gates-warnt-vor-ki-gab-noch-nie-so-eine-maechtige-waffe-201264022.html"
+    },
+    {
+      "title": "Nach KI-Einbruch: Wie Australien „Big Tech“ die Stirn bieten will",
+      "teaser": "Schon Canberras Social-Media-Bann für Jugendliche war wegweisend. Nun will das Land die Gesetze weiter ausbauen – und auch die KI ins Visier nehmen.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ki-einbruch-wie-australien-big-tech-die-stirn-bietet-201261428.html"
+    },
+    {
+      "title": "Deutschland-Liveblog: Berliner Linke will mit Grünen und SPD sondieren",
+      "teaser": "Parteitag der Linken in Berlin +++ Eltern sollen Kindergeld künftig antragsfrei ausgezahlt bekommen +++ Schwesig fordert Merz zu Gespräch über Reformen auf +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-berliner-linke-will-mit-gruenen-und-spd-sondieren-faz-110093143.html",
+      "image_url": "https://media0.faz.net/image/w1200/8c34f411a0a6/w4800h2700x0y354/202609/43601.0.2595209030/die-spitzenkandidatin-der.webp",
+      "image_title": "Die Spitzenkandidatin der Berliner Linken, Elif Eralp (Mitte) auf dem Parteitag des Landesverbands am Freitag"
+    },
+    {
+      "title": "Nach den Wahlen: Auch die Journalisten machen einfach „Weiter so“",
+      "teaser": "Nach dem AfD-Sieg in Sachsen-Anhalt fragt der ARD-„Brennpunkt“ nach der Vertrauenskrise. Er besucht ein Autohaus, zeigt Umfragen und lässt CDU-Politiker zu Wort kommen. An den vertrauten Abläufen ändert sich wenig.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/nach-den-wahlen-die-medien-und-das-weiter-so-201260199.html",
+      "image_url": "https://media0.faz.net/image/w1200/e1052af89cf6/w2030h1142x372y286/202609/43601.0.2578327760/die-routine-in-person.webp",
+      "image_title": "Die Routine in Person: Moderator Jörg Schönenborn präsentiert im ARD-Wahlstudio eine Hochrechnung der Landtagswahl in Mecklenburg-Vorpommern"
+    },
+    {
+      "title": "Johannes Winkel: Jung, erfolgreich, konservativ",
+      "teaser": "Generationenfrage: Johannes Winkel, 34, organisierte den Widerstand gegen die Rentenreform. Jetzt wird er gebraucht, um für die Union die Zukunft wiederzugewinnen.",
+      "url": "https://www.faz.net/aktuell/politik/inland/johannes-winkel-aufstieg-zum-cdu-fraktionsvize-mit-34-201258358.html",
+      "image_url": "https://media0.faz.net/image/w1200/fd233c8402ef/w6000h3375x0y280/202602/43601.0.1736186892/johannes-winkel-cdu.webp",
+      "image_title": "Johannes Winkel (CDU), Bundesvorsitzender der Jungen Union, wurde in dieser Woche in der Bundestagsfraktion von CDU und CSU zum stellvertretenden Fraktionsvorsitzenden gewählt (Aufnahme aus dem vergangenen November)."
+    },
+    {
+      "title": "Wadephul in Ottawa: Ahornbaum und Eiche",
+      "teaser": "Außenminister Wadephul besucht seine kanadische Kollegin Anand: Angesichts von Trumps Abkehr vom Westen rücken Europa und Kanada zusammen. Für Ottawa steht dabei Berlin im Zentrum.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/johann-wadephul-in-ottawa-warum-deutschland-und-kanada-ihr-verhaeltnis-vertiefen-201264139.html",
+      "image_url": "https://media0.faz.net/image/w1100/924f11c5cd89/w5211h2931x81y817/202609/43601.0.2595019011/aussenminister-johann-wadephul.webp",
+      "image_title": "Außenminister Johann Wadephul und seine kanadische Amtskollegin Anita Anand bei einem Gang durch den Park von Ridau Hall"
+    },
+    {
+      "title": "Teure Sozialleistung: Ausgaben für Wohngeld haben sich seit 2019 verfünffacht",
+      "teaser": "Zwei Gesetzesänderungen der vergangenen Jahre haben das Wohngeld zum rasanten Kostentreiber gemacht. In ihrer Haushaltsnot plant die Regierung jetzt Kürzungen – aber die Länder stellen sich quer.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/wohngeld-warum-die-ausgaben-sich-seit-2019-verfuenffacht-haben-201262040.html",
+      "image_url": "https://media0.faz.net/image/w1100/01ea267d289a/w6144h3456x0y320/202608/43601.0.2404469860/so-stark-steigt-keine-miete.webp",
+      "image_title": "So stark steigt keine Miete: Vor allem die Ausweitung von Leistungen hat die Ausgaben für den Wohnkostenzuschuss erhöht."
+    },
+    {
+      "title": "UN-Doku im Kino: Die schreibt doch nur Berichte, oder?",
+      "teaser": "Francesca Albanese hat als UN-Beauftragte maßgeblich dafür gesorgt, dass der Genozidvorwurf gegenüber Israel hoffähig wurde. Ein Dokumentarfilm zeigt, dass sie statt auf Präzision eher auf moralisches Pathos setzt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/begeht-israel-einen-genozid-disunited-nations-im-kino-201259156.html",
+      "image_url": "https://media0.faz.net/image/w1100/1b9dc0dd9f13/w1707h960x107y0/202609/43601.0.2588722107/auf-englisch-nennt-man-sie.webp",
+      "image_title": "Auf Englisch nennt man sie „Rapporteur“: Francesca Albanese, Sonderberichterstatterin der Vereinten Nationen."
+    },
+    {
+      "title": "Angriff auf Reporter: „Hau ab, hau ab“",
+      "teaser": "Ein Reporter fragt einen führenden Kopf der „propalästinensischen“ Szene nach seiner Unterstützung der Linken. Fragen wollte er auch nach der Sicherheit von Juden in Berlin. Was passiert? Auf ihn wird eingeschlagen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/terror-und-linke-unterstuetzer-ibrahim-geht-auf-reporter-los-accg-201262371.html",
+      "image_url": "https://media0.faz.net/image/w100/b0a2a04968a9/w1830h1830x598y194/201311/1.2906553/michael-hanfeld.webp",
+      "image_title": "Michael Hanfeld"
+    },
+    {
+      "title": "EU-Asylpolitik: Grenzschutz darf nicht Glückssache sein",
+      "teaser": "Die brenzlige Lage in der Exklave Ceuta ist die Folge spanischer Nachlässigkeit. Die Europäische Union sollte daraus Konsequenzen ziehen.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ceuta-kommentar-grenzschutz-darf-nicht-glueckssache-sein-201258312.html",
+      "image_url": "https://media0.faz.net/image/w100/a658a608ae4f/w488h488x278y66/201907/1.6279886/thomas-gutschker.webp",
+      "image_title": "Thomas Gutschker, Brüssel"
+    },
+    {
+      "title": "FAZ+Xi Jinping bei Trump: Es geht nur noch darum, wie der Konflikt geführt wird",
+      "teaser": "Xi Jinping hat Trumps Schmeicheleien bei seinem Besuch in Washington lächelnd hingenommen. Der Systemkonflikt ist dadurch aber nicht beseitigt. Im Gegenteil.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/xi-bei-trump-der-konflikt-ist-unvermeidbar-201254810.html",
+      "image_url": "https://media0.faz.net/image/w100/623af0b9174b/w450h450x220y69/201805/1.5594791/jochen-stahnke.webp",
+      "image_title": "Jochen Stahnke"
+    },
+    {
+      "title": "Kleiner Etat, große Stücke: Glückwunsch, Oper Mainz",
+      "teaser": "Wenn die vielfach ausgezeichnete Oper Frankfurt der FC Bayern des Musiktheaters ist, dann ist das Staatstheater Mainz der SV Elversberg. Umso verdienter ist die Ernennung zum „Opernhaus des Jahres“.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/staatstheater-mainz-ist-opernhaus-des-jahres-2026-201262171.html",
+      "image_url": "https://media0.faz.net/image/w100/db19063ae944/w1000h1000x0y253/201311/1.2906491/guido-holze.webp",
+      "image_title": "Guido Holze"
+    },
+    {
+      "title": "Rot-rot-Grün: Judenhass mit Unschuldsmiene",
+      "teaser": "Die Verharmlosung des Antisemitismus soll das rot-rot-grüne Bündnis in Berlin retten. Den Preis bezahlen ihre Ideologen auch gegenüber der AfD.",
+      "url": "https://www.faz.net/aktuell/politik/inland/antisemitismus-in-berlin-linkspartei-und-afd-im-vergleich-201262570.html",
+      "image_url": "https://media0.faz.net/image/w100/0c1a2165704e/w420h420x290y95/201108/1.1123696/jasper-von-altenbockum.webp",
+      "image_title": "Jasper von Altenbockum"
     },
     {
       "title": "Lagarde-Nachfolge: Die größte Herausforderung des nächsten EZB-Chefs ist die Staatsverschuldung",
       "teaser": "Die Spekulationen über das künftige Spitzenpersonal der Euro-Notenbank drehen sich zu sehr um alte Riten. Und zu wenig um neue Herausforderungen.",
-      "url": "https://www.faz.net/aktuell/finanzen/lagarde-und-ihr-nachfolger-was-die-groesste-herausforderung-fuer-die-ezb-ist-201262862.html"
-    },
-    {
-      "title": "Geheimdienst GRU: Ermittler sehen Moskau auch hinter dem Brandanschlag in München",
-      "teaser": "Nach dem Drohnenangriff in Leipzig wurden in München Brandsätze geworfen. Ermittler machen nach Informationen der F.A.Z. in beiden Fällen Putins Militärgeheimdienst GRU verantwortlich.",
-      "url": "https://www.faz.net/aktuell/politik/inland/geheimdienst-gru-ermittler-sehen-moskau-auch-hinter-dem-brandanschlag-in-muenchen-accg-201261687.html",
-      "image_url": "https://media0.faz.net/image/w920/68d947a50bd9/w6144h3456x0y194/202609/43601.0.2522150714/polizisten-untersuchen-den.webp",
-      "image_title": "Polizisten untersuchen den Tatort in München Anfang September nach einem Brandanschlag"
+      "url": "https://www.faz.net/aktuell/finanzen/lagarde-und-ihr-nachfolger-was-die-groesste-herausforderung-fuer-die-ezb-ist-201262862.html",
+      "image_url": "https://media0.faz.net/image/w100/6a494d07150e/w425h425x259y97/201906/1.6253744/gerald-braunberger.webp",
+      "image_title": "Gerald Braunberger"
     },
     {
       "title": "Putins Hybrider Krieg: Die russischen Anschläge zielen auf die deutsche Kampfmoral",
       "teaser": "Die Wahlerfolge der AfD dürften Putin darin bestärken, seinen „hybriden“ Krieg gegen Deutschland fortzusetzen. Er liefert seinen nützlichen Idioten damit Munition.",
       "url": "https://www.faz.net/aktuell/politik/inland/russische-anschlaege-zielen-auf-deutschlands-kampfmoral-201263029.html",
-      "image_url": "https://media0.faz.net/image/w1200/ab2d606bd40e/w4534h2550x0y0/202609/43601.0.2568127672/der-russische-praesident.webp",
-      "image_title": "Der russische Präsident Wladimir Putin bei einer Sitzung der Militär-Industriellen Kommission im Kreml am 18. September 2026."
-    },
-    {
-      "title": "Putins Hybrider Krieg: Die russischen Anschläge zielen auf die deutsche Kampfmoral",
-      "teaser": "Die Wahlerfolge der AfD dürften Putin darin bestärken, seinen „hybriden“ Krieg gegen Deutschland fortzusetzen. Er liefert seinen nützlichen Idioten damit Munition.",
-      "url": "https://www.faz.net/aktuell/politik/inland/russische-anschlaege-zielen-auf-deutschlands-kampfmoral-201263029.html"
-    },
-    {
-      "title": "Red Storm Charlie: Dann geht die feindliche Drohne ins Netz",
-      "teaser": "Hamburg probt den Ernstfall, schickt eine Militärkolonne durch die Stadt und imitiert hybride Attacken. Wie resilient sind Behörden und Unternehmen?",
-      "url": "https://www.faz.net/aktuell/politik/inland/red-storm-charlie-hamburg-testet-seine-abwehrbereitschaft-accg-201258779.html",
-      "image_url": "https://media0.faz.net/image/w1200/349d06bf3bc5/w2571h1446x194y462/202609/43601.0.2592751452/eine-drohne-wie-jene-in.webp",
-      "image_title": "Eine Drohne wie jene in Leipzig: Im Rahmen der Übung „Red Storm Charlie“ im September 2026 in Hamburg wird ein „feindliches“ Fluggerät zerstört."
-    },
-    {
-      "title": "Red Storm Charlie: Dann geht die feindliche Drohne ins Netz",
-      "teaser": "Hamburg probt den Ernstfall, schickt eine Militärkolonne durch die Stadt und imitiert hybride Attacken. Wie resilient sind Behörden und Unternehmen?",
-      "url": "https://www.faz.net/aktuell/politik/inland/red-storm-charlie-hamburg-testet-seine-abwehrbereitschaft-accg-201258779.html"
-    },
-    {
-      "title": "Teure Sozialleistung: Ausgaben für Wohngeld haben sich seit 2019 verfünffacht",
-      "teaser": "Zwei Gesetzesänderungen der vergangenen Jahre haben das Wohngeld zum rasanten Kostentreiber gemacht. In ihrer Haushaltsnot plant die Regierung jetzt Kürzungen – aber die Länder stellen sich quer.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/wohngeld-warum-die-ausgaben-sich-seit-2019-verfuenffacht-201262040.html",
-      "image_url": "https://media0.faz.net/image/w1200/01ea267d289a/w6144h3456x0y320/202608/43601.0.2404469860/so-stark-steigt-keine-miete.webp",
-      "image_title": "So stark steigt keine Miete: Vor allem die Ausweitung von Leistungen hat die Ausgaben für den Wohnkostenzuschuss erhöht."
-    },
-    {
-      "title": "Traum vom großen Chemiedeal: Was hinter dem Interesse von BASF an Evonik steckt",
-      "teaser": "Der Chemiekonzern BASF hat seine Fühler nach dem Konkurrenten Evonik ausgestreckt. Sollten sie sich einigen, entstünde ein neuer Chemieriese aus Deutschland. Doch viele Fragen sind noch offen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/grosser-deal-in-der-chemie-basf-arbeitet-an-uebernahme-von-evonik-201263548.html",
-      "image_url": "https://media0.faz.net/image/w1200/dc7c08e6a6e5/w6144h3456x0y256/202602/43601.0.1817703244/die-chemieindustrie-ordnet.webp",
-      "image_title": "Die Chemieindustrie ordnet sich neu: Kolonne zur Phenolherstellung in Leuna."
-    },
-    {
-      "title": "BESuch von Leo XIV.: „Papamania“ in Frankreich",
-      "teaser": "Papst Leo XIV. weckt im Land der Laizität große Hoffnungen. Er kommt mit Lob für den Wiederaufbau von Notre-Dame – und mit scharfer Kritik.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-frankreich-papamania-in-paris-201261778.html",
-      "image_url": "https://media0.faz.net/image/w1200/59a9594c810a/w6000h3375x0y498/202609/43601.0.2593834822/eine-grosse-ehre-papst-leo-xiv.webp",
-      "image_title": "Eine „große Ehre“: Papst Leo XIV. wird im Élysée-Palast von Präsident Emmanuel Macron empfangen."
-    },
-    {
-      "title": "Juden an Hochschulen: „Es ist zu einer Zumutung geworden, jüdische Identität offen auszuleben“",
-      "teaser": "Die Anfeindung von Juden an Universitäten hat massiv zugenommen. Die Antisemitismusforscherin Julia Bernstein hat Erfahrungsberichte gesammelt und erzählt im Gespräch von der gefährlichen Lage auf deutschen Campus.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/julia-bernstein-ueber-judenfeindschaft-an-unis-israel-gilt-als-provokation-201235682.html",
-      "image_url": "https://media0.faz.net/image/w1100/8b730f8ad654/w3000h1687x0y128/202504/43601.0.970607295/polizisten-nehmen-am-campus.webp",
-      "image_title": "Polizisten nehmen am Campus der Humboldt-Universität einen propalästinensischen Aktivisten in Gewahrsam, April 2025."
-    },
-    {
-      "title": "FAZ+Klaus Holetschek: Wir müssen uns auf die Eigenverantwortung besinnen",
-      "teaser": "Gastbeitrag Die Forderung Helmut Kohls ist heute erschreckend aktuell: Unsere Gesellschaft braucht eine Neubesinnung im Denken und Handeln.",
-      "url": "https://www.faz.net/aktuell/politik/inland/klaus-holetschek-helmut-kohls-appell-gilt-noch-heute-201231411.html",
-      "image_url": "https://media0.faz.net/image/w1100/04b6b713811c/w5516h3103x0y79/201512/431.0.31208759/helmut-kohl-am-13-september.webp",
-      "image_title": "Helmut Kohl am 13. September 1980 in der Olympiahalle in München"
-    },
-    {
-      "title": "Merkel im Theater: So schön, schön war die Zeit",
-      "teaser": "Sehnsucht nach den sorglosen Merkel-Jahren: „Angelaland“ erzählt am Hessischen Landestheater satirisch von Angela Merkels politischer Karriere und der Illusion Deutschlands.",
-      "url": "https://www.faz.net/aktuell/rhein-main/kultur/angela-merkel-kehrt-zurueck-landestheater-marburg-widmet-der-kanzlerin-eine-revue-201255189.html",
-      "image_url": "https://media0.faz.net/image/w1100/49379bc5594b/w2400h1350x0y125/202609/43601.0.2588661989/die-sechsfache-kanzlerin-szene.webp",
-      "image_title": "Die sechsfache Kanzlerin: Szene aus „Angelaland“ am Landestheater Marburg"
-    },
-    {
-      "title": "Hohe Preise: Es gibt viel bessere Optionen als den Tankrabatt",
-      "teaser": "Die Bundesregierung beschließt den Tankrabatt. An vorteilhafte Alternativen denkt leider niemand.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/tankrabatt-warum-die-bundesregierung-besser-plant-201262496.html",
-      "image_url": "https://media0.faz.net/image/w100/7fb9b222ca56/w512h512x215y75/201311/1.2906989/patrick-bernau.webp",
-      "image_title": "Patrick Bernau"
-    },
-    {
-      "title": "XI-Trump-Gipfel: Xi und auch Putin spielen Spielchen mit Trump",
-      "teaser": "Wie seine Vorgänger wollte Trump sich eigentlich der chinesischen Herausforderung stellen. Doch der Präsident lässt sich umschmeicheln.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/donald-trump-und-china-warum-er-den-konflikt-scheut-201260349.html",
-      "image_url": "https://media0.faz.net/image/w100/6f093c65e1b7/w516h516x301y97/201108/1.1126541/majid-sattar.webp",
-      "image_title": "Majid Sattar"
+      "image_url": "https://media0.faz.net/image/w100/94efce49f173/w3622h3622x1177y181/202603/43601.0.1848948075/berthold-kohler.webp",
+      "image_title": "Berthold Kohler"
     },
     {
       "title": "Vermögensbildung: Richtig vorsorgen",
@@ -170,6 +190,13 @@
       "url": "https://www.faz.net/aktuell/finanzen/vermoegensbildung-warum-die-steigende-sparquote-truegt-201262703.html",
       "image_url": "https://media0.faz.net/image/w100/1ed7496617bb/w385h385x313y77/201911/1.6494630/inken-schoenauer.webp",
       "image_title": "Inken Schönauer"
+    },
+    {
+      "title": "Hohe Preise: Es gibt viel bessere Optionen als den Tankrabatt",
+      "teaser": "Die Bundesregierung beschließt den Tankrabatt. An vorteilhafte Alternativen denkt leider niemand.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/tankrabatt-warum-die-bundesregierung-besser-plant-201262496.html",
+      "image_url": "https://media0.faz.net/image/w100/7fb9b222ca56/w512h512x215y75/201311/1.2906989/patrick-bernau.webp",
+      "image_title": "Patrick Bernau"
     },
     {
       "title": "Erinnerungskultur: Sie wollen das Gedenken verbannen",
@@ -189,46 +216,6 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-als-bundestrainer-hier-kann-merz-nichts-lernen-201258829.html",
       "image_url": "https://media0.faz.net/image/w100/d2e2e7b2077d/w2784h2784x1380y406/202602/a363fa84-d750-4f60-9c80-36b607875837/christopher-meltzer.webp",
       "image_title": "Christopher Meltzer, Amsterdam"
-    },
-    {
-      "title": "Ratlosigkeit der Mitte: Warum benehmen sich die einst etablierten Parteien wie Schlafwandler?",
-      "teaser": "Die Parteien in der Mitte stehen zunehmend wie bloße Verwalter des lähmenden Status quo da, dem zu verdanken ist, dass gefühlt alles irgendwie immer schlechter, auf jeden Fall nicht besser wird. Das ist fatal.",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/denkfaul-warum-etablierte-parteien-sich-neu-erfinden-muessen-201252235.html"
-    },
-    {
-      "title": "Umgang mit Steuergeld: Finanzen zum Anfassen",
-      "teaser": "Überall wird davon gesprochen, die Bürger mitzunehmen und nicht über ihre Köpfe hinweg zu regieren. Im hessischen Hofheim zeigt ein neues Portal, wie das aussehen kann.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/hofheim-erklaerseite-fuer-den-staedtischen-haushalt-201259417.html",
-      "image_url": "https://media0.faz.net/image/w100/c4de9b53d58f/w1531h1531x846y275/201506/1.3656343/andrea-diener.webp",
-      "image_title": "Andrea Diener"
-    },
-    {
-      "title": "Teures benzin: Ölt Klingbeils Kasse",
-      "teaser": "Die unter enormem Druck erwachte Fürsorge um den gebeutelten Autofahrer riecht nach Heuchelei. Wahrscheinlich will kaum jemand wirklich eine Entlastung. Der Staat verdient am hohen Kraftstoffpreis fröhlich mit.",
-      "url": "https://www.faz.net/aktuell/technik-motor/kraftstoffpreise-wie-der-staat-am-hohen-benzinpreis-verdient-201237612.html",
-      "image_url": "https://media0.faz.net/image/w100/f5a7fb3c0676/w485h485x256y68/201108/1.1123746/holger-appel.webp",
-      "image_title": "Holger Appel"
-    },
-    {
-      "title": "50 jahre U2: Der Moment, in dem sich U2 auflösen wird",
-      "teaser": "Die irische Rockband U2 feiert am heutigen Freitag ihr fünfzigjähriges Bestehen. Alle vier Musiker sind seit dem Gründungstag dabei, das dürfte ein Weltrekord sein. Dass ihre Musik inzwischen auch alt klingt, ist verzeihlich.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/die-irische-rockband-u2-wird-50-201257124.html",
-      "image_url": "https://media0.faz.net/image/w100/cba83e8a7725/w991h991x0y183/201312/1.2905622/matthias-alexander.webp",
-      "image_title": "Matthias Alexander"
-    },
-    {
-      "title": "Sachsen-Anhalt: Die CDU sollte es der AfD nicht zu leicht machen",
-      "teaser": "Die CDU tut gut daran, sich bei der Regierungsbildung in Sachsen-Anhalt nicht aufzudrängen. Jetzt ist die AfD am Zug.",
-      "url": "https://www.faz.net/aktuell/politik/inland/cdu-in-sachsen-anhalt-warum-die-afd-warten-soll-201259656.html",
-      "image_url": "https://media0.faz.net/image/w100/66e1069ad8de/w466h466x272y61/201812/1.5934605/thomas-jansen.webp",
-      "image_title": "Thomas Jansen"
-    },
-    {
-      "title": "Umgang mit Extremen: Nicht von vornherein ausschließen",
-      "teaser": "Die Brandmauer signalisiert Wählern: Egal, wie ihr stimmt, es regiert wie bisher eine große Koalition. Aus wie viel Parteien auch immer. Die Folgen konnte man jetzt sehen.",
-      "url": "https://www.faz.net/aktuell/politik/inland/waehlerwille-nicht-von-vorneherein-ausschliessen-201255093.html",
-      "image_url": "https://media0.faz.net/image/w100/477d59537053/w491h491x214y101/201805/1.5611254/stephan-loewenstein.webp",
-      "image_title": "Stephan Löwenstein"
     },
     {
       "title": "Deutschland in zehn Jahren: Gesünder leben muss in Deutschland leichter werden!",
@@ -261,9 +248,9 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/widerspruchsloesung-bei-der-organspende-wer-ist-dafuer-201260234.html"
     },
     {
-      "title": "Deutschland-Liveblog: Eltern sollen Kindergeld künftig antragsfrei ausgezahlt bekommen",
-      "teaser": "Bundesrat beschließt Gesetz +++ Schwesig fordert Merz zu Gespräch über Reformen auf +++ Pistorius verstärkt Militärkooperation mit Ungarn +++ Sachsens Innenminister will Asylrecht verschärfen +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-eltern-sollen-kindergeld-kuenftig-antragsfrei-ausgezahlt-bekommen-faz-110093143.html"
+      "title": "Polizei Warnt: Was hat es mit den Gully-Kletterern in New York auf sich?",
+      "teaser": "In New York häufen sich die Fälle, bei denen unbekannte Personen in die Kanalisation absteigen. Nun will die Polizei einem möglichen Motiv für diese seltsamen Ausflüge auf der Spur sein.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/was-hat-es-mit-den-gully-kletterern-in-new-york-auf-sich-201264063.html"
     },
     {
       "title": "Premier League: Manchester City schuldig in 114 Fällen?",
@@ -271,74 +258,74 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/manchester-city-schuldig-in-114-faellen-201263735.html"
     },
     {
-      "title": "Björn Wilhelm: Der Kulturchef des Bayerischen Rundfunks ist gescheitert",
-      "teaser": "So etwas gibt es im öffentlich-rechtlichen Rundfunk nicht alle Tage: Der Vertrag des Kulturdirektors des Bayerischen Rundfunks, Björn Wilhelm, wird vom Rundfunkrat nicht verlängert. Was ist da los?",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/br-kulturdirektor-bjoern-wilhelm-scheitert-im-rundfunkrat-201262815.html"
+      "title": "Schweizer ImpfAffäre: Embolo soll gefälschten Impf-Nachweis von Hells Angels gekauft haben",
+      "teaser": "Nach Granit Xhaka wird auch der frühere Bundesliga-Profi Breel Embolo für die nächsten Länderspiele der Schweiz gesperrt. Er soll sich über ein Mitglied der Hells Angels gefälschte Impf-Zertifikate besorgt haben.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/breel-embolo-kaufte-von-hells-angels-gefaelschten-corona-impf-nachweis-201264019.html"
     },
     {
-      "title": "Italien: Burkaverbot und Ausländerquote für Schulen beschlossen",
-      "teaser": "Italiens Ministerpräsidentin Meloni spricht von Maßnahmen zum Kampf gegen die Spaltung der Gesellschaft. Oppositionsführerin wirft ihr Symbolpolitik vor.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/giorgia-meloni-burkaverbot-und-auslaenderquote-in-schulen-201262357.html"
+      "title": "Cambridge Analytica: Drohende Milliardenstrafe für Meta nach verlorenem Prozess",
+      "teaser": "In New Mexico verliert der Konzern Meta einen Prozess im Zusammenhang mit dem Cambridge-Analytica-Skandal. Nun droht dem Facebook-Mutterkonzern eine Strafe in Milliardenhöhe.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cambridge-analytica-skandal-drohende-milliardenstrafe-fuer-meta-nach-verlorenem-prozess-201264202.html"
     },
     {
-      "title": "Fraktur: Dann müsste Klopp Kanzler und Bundespräsident werden",
-      "teaser": "Wenn die nächsten Spiele der Fußball-Nationalmannschaft besser ausgehen als gegen die Niederlande, wird eine schon schwelende Forderung wieder aufflammen.",
-      "url": "https://www.faz.net/aktuell/politik/inland/juergen-klopp-als-bundeskanzler-waere-das-eine-gute-idee-accg-201262100.html"
+      "title": "Bakterien im Trinkwasser: In Wiesbaden muss das Wasser abgekocht werden",
+      "teaser": "In Teilen Wiesbadens ist das Trinkwasser mit Bakterien verunreinigt. Vor allem Bewohner der Innenstadt rund um das Kurhaus und im historischen Fünfeck sind zur Vorsicht aufgerufen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/trinkwasser-in-wiesbaden-mit-bakterien-verunreinigt-bewohner-sollen-wasser-abkochen-201263367.html"
     },
     {
-      "title": "News-Quiz vom 25. September: Warum rufen VW und Audi 900.000 Autos in Deutschland zurück?",
-      "teaser": "Wie gut haben Sie die Nachrichten am heutigen Freitag verfolgt? Beantworten Sie fünf Fragen, und vergleichen Sie Ihr Wissen mit anderen Lesern!",
-      "url": "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-des-tages-testen-sie-ihr-wissen-heute-warum-rufen-vw-und-audi-900-000-autos-zurueck-faz-201262789.html"
+      "title": "Regeln mit nebenwirkungen: Große Warenvernichtung soll in letzter Minute gestoppt werden",
+      "teaser": "Wegen der EU-Regeln gegen Greenwashing drohen nichtkonforme Produkte auf dem Müll zu landen. Eine deutsche Sonderregel soll das verhindern. Sie reiche aber nicht, mahnen Branchenvertreter.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/greenwashing-regeln-der-eu-droht-jetzt-warenvernichtung-201261353.html"
     },
     {
-      "title": "Frankreich: Model tot im Auto gefunden – Ex-Freund unter Mordverdacht",
-      "teaser": "Bei einer Kontrolle auf einem Autobahnrastplatz entdecken Polizisten die verstümmelte Leiche einer jungen Frau im Kofferraum eines Wagens. Ihr Ex-Freund soll schon vorher gewalttätig gewesen sein.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/model-tot-im-auto-gefunden-ex-freund-unter-mordverdacht-201263208.html"
+      "title": "Nach Gasleck: Sechs Vermisste nach Explosion im Zentrum Athens",
+      "teaser": "Aufgrund eines Gaslecks kommt es zu einer Explosion in der Altstadt von Athen. Das betroffene Wohnhaus stürzt teilweise ein. Nun suchen Rettungskräfte nach sechs Vermissten.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/sechs-vermisste-nach-explosion-im-zentrum-athens-201264148.html"
     },
     {
-      "title": "Anzugfarben in der Politik: Erst auf Sizilien fand ich das richtige Anzugblau",
-      "teaser": "Der ästhetische Triumph der Rechtspopulisten ist die Anzugfarbe ihrer Gegner. Kann man noch blau kaufen? Unser Autor wollte das vermeiden. Dann fuhr er nach Sizilien.",
-      "url": "https://www.faz.net/aktuell/besser-leben/stil/klamotten-und-politik-ist-ein-anzug-in-blau-noch-tragbar-201168533.html",
-      "image_url": "https://media0.faz.net/image/w880/7fc2563c251d/w7224h4063x0y377/202609/43601.0.2552838646/endlich-hat-er-den-ton.webp",
-      "image_title": "Endlich hat er den Ton getroffen: Unser Autor Philipp Krohn genießt im neuen blauen Anzug die letzten Sommertage."
+      "title": "„Brothers“ bei AppleTV+: Wie im echten Leben?",
+      "teaser": "„Basierend auf einem wahren Gerücht“: Die Serie „Brothers“ spielt mit der Idee, dass Woody Harrelson und Matthew McConaughey Halbbrüder sein könnten. Entstanden ist eine solide Familiencomedy mit etwas Nabelschau.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/brothers-mit-woody-harrelson-und-matthew-mcconaughey-bei-appletv-201251740.html",
+      "image_url": "https://media0.faz.net/image/w880/2e688b7bee99/w6000h3375x0y183/202609/43601.0.2581118078/vielleicht-halbgeschwister.webp",
+      "image_title": "Vielleicht Halbgeschwister: Matthew McConaughey und Woody Harrelson spielen sich selbst."
     },
     {
-      "title": "F.A.Z. Podcast Wissen: Verstehen Hunde, was wir ihnen sagen?",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-wissen-der-podcast/faz-podcast-verstehen-hunde-was-wir-ihnen-sagen-201263571.html",
-      "image_url": "https://media0.faz.net/image/w880/a310c4de3d47/w3000h1687x0y74/201906/43600.0.16060540/ob-er-weiss-dass-mit-braver.webp",
-      "image_title": "Ob er weiß, dass mit „braver Hund!“ ein Lob gemeint ist?"
+      "title": "FAZ+Drohnen: Unbemannten Objekten auf der Spur",
+      "teaser": "Sie transportieren, sie düngen, sie überwachen. Drohnen machen auch jenseits des Militärischen Karriere.",
+      "url": "https://www.faz.net/aktuell/technik-motor/digital/von-der-fliegenden-kamera-fuer-hobbypiloten-bis-zur-kontrolle-von-pipelines-im-meer-ein-blick-auf-die-faszinierende-vielfalt-der-drohnen-accg-201218222.html",
+      "image_url": "https://media0.faz.net/image/w880/83973cab13bb/w3840h2160x0y177/202512/43601.0.1542197073/fuer-spektakulaere-videos-a1.webp",
+      "image_title": "Für spektakuläre Videos: A1 von Antigravity zeigt dem Pilot ein Livebild in der Brille"
     },
     {
-      "title": "Einspruch Exklusiv: Marathon und Recht: Was Läufer wissen müssen",
-      "teaser": "Gastbeitrag Am Sonntag gehört Berlin den Läufern. Sportrechtler Sven Piel erklärt, was bei kurzfristigen Ausfällen gilt – und warum eine Bananenschale juristische Folgen haben kann. Die wichtigsten Fragen und Antworten.",
-      "url": "https://www.faz.net/premium/einspruch/exklusiv/berlin-marathon-darf-ich-meine-startnummer-weitergeben-201258826.html",
-      "image_url": "https://media0.faz.net/image/w920/bef8f134a4ac/w3062h1722x0y123/202609/43601.0.2584535792/einmal-durch-das-brandenburger.webp",
-      "image_title": "Einmal durch das Brandenburger Tor ins Ziel laufen? Wer träumt nicht davon – notfalls auch mit fremder Startnummer."
+      "title": "KI für Juristen: C. H. Beck investiert mehr als 100 Millionen Euro in Rechts-KI Noxtua",
+      "teaser": "„So viel Geld hat die Familie noch nie ausgegeben“, sagt Klaus Weber, der die Geschäfte des juristischen Fachverlags C. H. Beck leitet. Die 100 Millionen Euro sollen Noxtua helfen, auch künftig gegen Harvey und Anthropic zu bestehen.",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/noxtua-c-h-beck-investiert-100-mio-euro-in-rechts-ki-accg-201250842.html",
+      "image_url": "https://media0.faz.net/image/w920/6c9a5365e133/w2066h1162x217y149/202609/43601.0.2580612903/noxtua-gruender-leif-nissen.webp",
+      "image_title": "Noxtua-Gründer Leif-Nissen Lundbæk (l.) und Beck-Geschäftsführer Klaus Weber setzen auf eine europäische Verlagsallianz."
     },
     {
-      "title": "FAZ+F.A.Z. Einspruch Podcast: Mautdebakel und Maskendeals vor Gericht",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-einspruch-podcast/maut-und-maskendeals-wie-politische-skandale-vor-gericht-aufgearbeitet-werden-201255736.html",
-      "image_url": "https://media0.faz.net/image/w1200/0b01fd597645/w3767h2119x0y90/202609/43601.0.2569372421/sagte-er-hier-unter-eid-falsch.webp",
-      "image_title": "Sagte er hier unter Eid falsch aus? Der frühere Bundesverkehrsminister Andreas Scheuer (CSU) vor dem Untersuchungsausschuss des Bundestages zur Pkw-Maut"
+      "title": "Assistiertes Fahren: Wo die vier „Superbrains“ im neuen BMW iX3 an Grenzen stoßen",
+      "teaser": "Auf langen Strecken nimmt „Assisted Drive PRO“ dem Fahrer spürbar Last ab. Doch je enger der Verkehr wird, desto häufiger ist beherztes Eingreifen des Piloten gefragt. Ein Erfahrungsbericht.",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/bmw-ix3-wo-die-vier-superbrains-an-ihre-grenzen-stossen-accg-201247250.html",
+      "image_url": "https://media0.faz.net/image/w1200/50f98ec5001d/w8256h4644x0y430/202512/43601.0.1605360770/ueber-die-franzoesische.webp",
+      "image_title": "Über die französische Autobahn, kurvige Landstraßen und durch dichten Stadtverkehr: Wo sich die KI im neuen BMW iX3 wirklich bewährt."
     },
     {
-      "title": "FAZ+F.A.Z. Einspruch Podcast: Mautdebakel und Maskendeals vor Gericht",
-      "teaser": "Zwei politische Skandale werden derzeit vor Gericht aufgearbeitet. Außerdem spricht der frühere Verfassungsrichter Udo Di Fabio über eine mögliche Kandidatur für das Amt des Bundespräsidenten.",
-      "url": "https://www.faz.net/podcasts/f-a-z-einspruch-podcast/maut-und-maskendeals-wie-politische-skandale-vor-gericht-aufgearbeitet-werden-201255736.html"
+      "title": "Assistiertes Fahren: Wo die vier „Superbrains“ im neuen BMW iX3 an Grenzen stoßen",
+      "teaser": "Auf langen Strecken nimmt „Assisted Drive PRO“ dem Fahrer spürbar Last ab. Doch je enger der Verkehr wird, desto häufiger ist beherztes Eingreifen des Piloten gefragt. Ein Erfahrungsbericht.",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/mobility/bmw-ix3-wo-die-vier-superbrains-an-ihre-grenzen-stossen-accg-201247250.html"
     },
     {
-      "title": "einspruch Exklusiv: Was können Beamte einer AfD-Regierung entgegensetzen?",
-      "teaser": "Gastbeitrag Beamte müssen Weisungen folgen – aber nicht blind gehorchen. Seine Stärke zeigt der Rechtsstaat dort, wo Menschen politischem Druck standhalten.",
-      "url": "https://www.faz.net/premium/einspruch/exklusiv/was-koennen-beamte-einer-afd-regierung-entgegensetzen-201253409.html",
-      "image_url": "https://media0.faz.net/image/w1200/b22e3d3d57e6/w5104h2871x0y265/202609/43601.0.2525321821/hat-die-wahl-in-sachsen-anhalt.webp",
-      "image_title": "Hat die Wahl in Sachsen-Anhalt gewonnen: Ulrich Siegmund (vorne)."
+      "title": "iea-bericht: Die Ukraine nimmt Russlands Öl ins Visier",
+      "teaser": "Gezielt greifen ukrainische Drohnen russische Raffinerien an. Das trifft die Kriegswirtschaft Moskaus nun hart. Es dauert teils Monate, die Anlagen zu reparieren, und westliche Bauteile fehlen aufgrund der Sanktionen.",
+      "url": "https://www.faz.net/premium/weltwirtschaft/klima-ressourcen/ukrainische-drohnenangriffe-auf-russlands-raffinerien-accg-201251159.html",
+      "image_url": "https://media0.faz.net/image/w1200/8eb32c24abfe/w5061h2847x0y264/202609/43601.0.2573097838/rauch-und-flammen-steigen-auf.webp",
+      "image_title": "Rauch und Flammen steigen auf, nachdem eine Raffinerie in Moskau von ukrainischen Drohnen angegriffen worden ist."
     },
     {
-      "title": "einspruch Exklusiv: Was können Beamte einer AfD-Regierung entgegensetzen?",
-      "teaser": "Gastbeitrag Beamte müssen Weisungen folgen – aber nicht blind gehorchen. Seine Stärke zeigt der Rechtsstaat dort, wo Menschen politischem Druck standhalten.",
-      "url": "https://www.faz.net/premium/einspruch/exklusiv/was-koennen-beamte-einer-afd-regierung-entgegensetzen-201253409.html"
+      "title": "iea-bericht: Die Ukraine nimmt Russlands Öl ins Visier",
+      "teaser": "Gezielt greifen ukrainische Drohnen russische Raffinerien an. Das trifft die Kriegswirtschaft Moskaus nun hart. Es dauert teils Monate, die Anlagen zu reparieren, und westliche Bauteile fehlen aufgrund der Sanktionen.",
+      "url": "https://www.faz.net/premium/weltwirtschaft/klima-ressourcen/ukrainische-drohnenangriffe-auf-russlands-raffinerien-accg-201251159.html"
     },
     {
       "title": "FAZ+Studiendauer und Job: „Wir sehen das natürlich, wenn jemand deutlich länger studiert hat“",
@@ -415,10 +402,17 @@
       "image_url": "https://media0.faz.net/image/w1100/bbad59d46329/w960h540x0y0/202609/3fb4f101-6090-48cd-b3c2-f509137e7b6f/vcdzbw1iuvpu.webp"
     },
     {
+      "title": "F.A.Z.-Gesundheitspodcast: Ich habe Rücken – was hilft gegen Schmerzen?",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-gesundheit-der-podcast/was-hilft-gegen-rueckenschmerzen-201252495.html",
+      "image_url": "https://media0.faz.net/image/w920/a354925932dc/w6000h2571x0y714/202609/43601.0.2581450009/physiotherapeuten-koennen.webp",
+      "image_title": "Physiotherapeuten können Patienten mit Rückenschmerzen Übungen zeigen, damit sich das Leid nicht chronifiziert."
+    },
+    {
       "title": "Rhein-Main-Feierabendbriefing: Lange Wartezeiten bei Einreise am Flughafen Frankfurt",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/ees-terminals-am-flughafen-gestoert-lange-wartezeit-bei-der-einreise-in-frankfurt-200404449.html",
-      "image_url": "https://media0.faz.net/image/w920/ba68b2c4700a/w5000h2142x0y595/202606/43601.0.2345619796/automatisiert-aber-nicht.webp",
+      "image_url": "https://media0.faz.net/image/w1100/a67e80a886ac/w5000h2812x0y260/202606/43601.0.2345619796/automatisiert-aber-nicht.webp",
       "image_title": "Automatisiert, aber nicht schnell: die neuen Einreiseterminals am Flughafen Frankfurt"
     },
     {
@@ -429,39 +423,32 @@
       "image_title": "Jürgen Klopp reagiert in seinem ersten Spiel als Bundestrainer gegen die Niederlande"
     },
     {
-      "title": "FAZ+Digitalwirtschaft-Podcast: KI-Agenten außer Kontrolle",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-digitalwirtschaft/ki-agenten-ausser-kontrolle-mirko-ross-ueber-neue-risiken-201261912.html",
-      "image_url": "https://media0.faz.net/image/w1100/5da566a8d1bc/w6144h3456x0y320/202609/43601.0.2587304445/dario-amodei-links-ceo-von.webp",
-      "image_title": "Dario Amodei (links), CEO von Anthropic, und Clément Delangue (rechts), CEO und Mitbegründer von Hugging Face, nehmen im Hauptquartier der Vereinten Nationen an einer Sitzung des Sicherheitsrats teil."
-    },
-    {
-      "title": "Xis Ehefrau Peng Liyuan: Chinas Sopran und First Lady",
-      "teaser": "Die Frau von Xi entstammt nicht dem „roten Adel“, sondern der Kulturszene. Immer wieder wird darüber spekuliert, wie viel politischen Einfluss Peng Liyuan auf Xi hat.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/peng-liyuan-chinas-first-lady-und-sopranistin-201262139.html",
-      "image_url": "https://media0.faz.net/image/w1200/d27f46a304ce/w5185h2917x0y46/202609/43601.0.2590854664/peng-liyuan-beim-besuch-des.webp",
-      "image_title": "Peng Liyuan beim Besuch des Smithsonian's National Museum Of Asian Art am 24. September in Washington)."
-    },
-    {
-      "title": "Liveblog Irankrieg: Dubai stellt Flugverkehr nach Iran ein",
-      "teaser": "Luftfahrtbehörde verweist auf US-Sanktionen +++ Kolumbien bricht diplomatische Beziehungen zu Iran ab +++ Iran wohl zur Herausgabe hochangereicherten Urans bereit +++ alle Entwicklungen im Liveblog",
+      "title": "Liveblog Irankrieg: UN verurteilt Angriffe der Huthi-Miliz auf Saudi-Arabien",
+      "teaser": "Sicherheitsrat ruft zu „konkreter Zusammenarbeit“ mit der Regierung im Jemen auf +++ Dubai stellt Flugverkehr nach Iran ein +++ Kolumbien bricht diplomatische Beziehungen zu Iran ab +++ alle Entwicklungen im Liveblog",
       "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-irankrieg-dubai-stellt-flugverkehr-nach-iran-ein-faz-200583539.html",
-      "image_url": "https://media0.faz.net/image/w1100/45d15788ed0e/w5610h3156x0y151/v/2026/09/25/52j-hfEz/ein-flugzeug-der-iranischen.webp",
-      "image_title": "Ein Flugzeug der iranischen Fluggesellschaft Mahan Air im Juni 2022 am internationalen Flughafen Teheran-Mehrabad"
+      "image_url": "https://media0.faz.net/image/w1200/e25d54c3d2b2/w6000h3375x0y313/202506/43601.0.1089903861/der-amtierende-ratsvorsitzende.webp",
+      "image_title": "Der amtierende Ratsvorsitzende, Frankreichs Botschafter Jérôme Bonnafon."
     },
     {
-      "title": "Linkspartei im Fokus: Ermittlungen wegen Verdachts auf Wahlbetrug in Schweden",
-      "teaser": "Wurde ein Linkspartei-Politiker dank gekaufter Stimmen ins Parlament gewählt? Die Vorwürfe überschatten die Regierungsbildung in Stockholm.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/schweden-wahlbetrug-ermittlungen-erschweren-regierungsbildung-201261571.html",
-      "image_url": "https://media0.faz.net/image/w1100/86c37814e7a2/w6000h3375x0y313/202609/43601.0.2549412757/ihre-partei-legte-in-der.webp",
-      "image_title": "Ihre Partei legte in der Parlamentswahl am stärksten zu: die Vorsitzende der schwedischen Linkspartei, Nooshi Dadgostar, auf einer Wahlfeier am 13. September."
+      "title": "USA unter Trump: Supreme Court lässt zentrales Tool zur Überprüfung von Wählern wieder zu",
+      "teaser": "Wählerlisten sollen auf Nicht-Staatsbürger geprüft werden können +++ Abschiebungen in Drittländer – US-Regierung zieht vor Supreme Court +++ Journalisten erhalten wieder Zutritt zum Weißen Haus +++ alle Neuigkeiten im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-supreme-court-laesst-zentrales-tool-zur-ueberpruefung-von-waehlern-wieder-faz-19444916.html",
+      "image_url": "https://media0.faz.net/image/w1100/d1cc2aa76019/w8256h4644x0y860/202609/43601.0.2557348179/das-oberste-gericht-der-usa-in.webp",
+      "image_title": "Das Oberste Gericht der USA in Washington"
     },
     {
-      "title": "Kolumbiens Kurswechsel: Bogotá bricht mit Teheran",
-      "teaser": "Kolumbiens neue Regierung richtet die Außenpolitik neu aus. Der Bruch mit Iran passt zur Annäherung an Israel und die Vereinigten Staaten.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/kolumbien-bricht-diplomatische-beziehungen-zu-iran-ab-accg-201262634.html",
-      "image_url": "https://media0.faz.net/image/w1100/85f2b9ef396e/w1833h1031x0y0/202609/43601.0.2528181265/der-kolumbianische-praesident.webp",
-      "image_title": "Der kolumbianische Präsident Abelardo de la Espriella salutiert neben US-Außenminister Marco Rubio bei dessen Besuch in Kolumbien Anfang September."
+      "title": "Grünen-Chef Banaszak: „Die Berliner Linke hat eine Chance verdient“",
+      "teaser": "Der Grünen-Vorsitzende Felix Banaszak wirbt für Koalitionsgespräche mit der Berliner Linken. Die Kritik an ihr sei „nicht immer verhältnismäßig“. Einen Blankoscheck gebe es aber nicht.",
+      "url": "https://www.faz.net/aktuell/politik/inland/felix-banaszak-im-interview-berliner-linke-hat-eine-chance-verdient-201259137.html",
+      "image_url": "https://media0.faz.net/image/w1100/0e30456d4d1a/w7273h4091x0y293/202609/43601.0.2586584744/felix-banaszak-im-innenhof-der.webp",
+      "image_title": "Felix Banaszak im Innenhof der Bundesgeschäftsstelle der Grünen in Berlin-Mitte"
+    },
+    {
+      "title": "BESuch von Leo XIV.: „Papamania“ in Frankreich",
+      "teaser": "Papst Leo XIV. weckt im Land der Laizität große Hoffnungen. Er kommt mit Lob für den Wiederaufbau von Notre-Dame – und mit scharfer Kritik.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/papst-leo-xiv-in-frankreich-papamania-in-paris-201261778.html",
+      "image_url": "https://media0.faz.net/image/w1100/59a9594c810a/w6000h3375x0y498/202609/43601.0.2593834822/eine-grosse-ehre-papst-leo-xiv.webp",
+      "image_title": "Eine „große Ehre“: Papst Leo XIV. wird im Élysée-Palast von Präsident Emmanuel Macron empfangen."
     },
     {
       "title": "FAZ+Heinrich August Winkler: „Es könnte sein, dass die AfD gerade ihren Höhepunkt überschreitet“",
@@ -471,39 +458,39 @@
       "image_title": "Heinrich August Winkler zählt zu den profiliertesten deutschen Historikern."
     },
     {
-      "title": "FAZ+Xis Bosse nicht dabei: Trump lässt Chinas Konzernchefs abblitzen",
-      "teaser": "Das Staatsbankett in Washington lief ohne chinesische Konzernchefs ab. Diese hatten offenbar bis zur letzten Minute gehofft.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/trump-laesst-chinas-konzernchefs-beim-staatsbankett-abblitzen-accg-201261065.html",
-      "image_url": "https://media0.faz.net/image/w1100/e0ab9fe9b3fa/w4774h2685x0y249/202609/43601.0.2592333094/donald-trump-und-xi-jinping.webp",
-      "image_title": "Donald Trump und Xi Jinping beim Staatsbankett in Washington am Donnerstag"
+      "title": "Luxus mit über 800 PS: Erster komplett elektrischer Bentley startet durch",
+      "teaser": "Bentley hat sich von den Plänen einer schnellen Elektrifizierung verabschiedet. Dennoch gibt es nun ein reines Elektromodell, positioniert für jüngere Käufer. Absatzprobleme in China und am Golf belasten die Marke.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/bentley-torcal-das-neue-elektro-suv-fuer-200-000-euro-201262867.html",
+      "image_url": "https://media0.faz.net/image/w1100/15ab46411431/w4698h2643x0y272/202609/43601.0.2587319678/der-torcal-bentleys-erstes.webp",
+      "image_title": "Der Torcal, Bentleys erstes vollelektrisches Modell, bei der Präsentation in London"
     },
     {
-      "title": "FAZ+Brasilien: Der nächste Bolsonaro",
-      "teaser": "Flávio Bolsonaro will es seinem Vater gleichtun und Präsident von Brasilien werden. Seine Chancen stehen gut. Wenn da nicht ein veritabler Finanzskandal wäre.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/favio-bolsonaro-praesidentschaftskandidat-mit-finanzskandal-201231786.html",
-      "image_url": "https://media0.faz.net/image/w1100/7557d203f7f1/w5364h3017x336y133/202609/43601.0.2578815462/praesidentschaftsfkandidat-fl.webp",
-      "image_title": "Präsidentschaftsfkandidat Flávio Bolsonaro, 45, zeigt sich seinen Anhängern in São. Auf seinem T-Shirt steht: „Brasilien ist meine Partei.“"
+      "title": "Land in der Krise: Industrieabbau auf Italienisch",
+      "teaser": "Auch in Italien, der zweitgrößten Industrienation Europas, geht es bergab. Aber es gibt einige Lichtblicke, etwa in der kaum bekannten italienischen Pharmaindustrie.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/italiens-industrieabbau-krise-und-lichtblicke-im-vergleich-201241434.html",
+      "image_url": "https://media0.faz.net/image/w1100/b57ad0ea89de/w5472h3078x0y285/202303/43600.0.1532312179/italiens-industrie-muss.webp",
+      "image_title": "Italiens Industrie muss kämpfen. Blick in ein Textilunternehmen in Prato bei Florenz"
     },
     {
-      "title": "Business-Ticker: Staat gibt Beteiligung an Condor ab",
-      "teaser": "Chemiebranche vor Großübernahme +++ Starbucks schließt 250 Filialen in Nordamerika +++ KI-Modell mit mehr Sicherheit geplant +++ Neuigkeiten im Unternehmen-Liveblog",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-staat-zieht-sich-aus-fluggesellschaft-condor-zurueck-faz-200452404.html",
-      "image_url": "https://media0.faz.net/image/w1100/b8ba456673f2/w5996h3373x74y0/202609/43601.0.2593053479/der-investor-attestor-soll.webp",
-      "image_title": "Der Investor Attestor soll Alleineigentümer der Fluggesellschaft Condor werden."
+      "title": "Nach Schnabels Rückzug: Im Rennen um die Lagarde-Nachfolge wird es ernst",
+      "teaser": "EZB-Direktoriumsmitglied Isabel Schnabel scheidet vorzeitig aus dem Amt. Damit hat das Stühlerücken in der Notenbank begonnen. Nun könnte alles ganz schnell gehen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/im-rennen-um-die-lagarde-nachfolge-in-der-ezb-wird-es-ernst-201262077.html",
+      "image_url": "https://media0.faz.net/image/w1100/09e36dc6bed8/w4948h2783x1055y457/202609/43601.0.2577754630/ein-spanier-ein-deutscher-das.webp",
+      "image_title": "Ein Spanier? Ein Deutscher? Das Rennen um die Nachfolge von Christine Lagarde an der EZB-Spitze nimmt Fahrt auf"
     },
     {
-      "title": "Lungenhochdruck CTEPH: Messerscharfe Feinarbeit im Herzbeutel",
-      "teaser": "Fettablagerungen in den Adern haben viele, bei der oft nicht erkannten CTEPH dagegen verstopft Bindegewebe die Lungenarterie. Spezialisten der Kerckhoff-Klinik in Bad Nauheim schälen es heraus – der Patient ist dabei „klinisch tot“.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/oft-nicht-erkannter-lebensbedrohlicher-lungenhochdruck-cteph-kerckhoff-klinik-in-bad-nauheim-hilft-patienten-accg-201230056.html",
-      "image_url": "https://media0.faz.net/image/w920/2c66fc991665/w7248h3106x0y863/202605/43601.0.2074867192/arbeitet-an-der-kerckhoff.webp",
-      "image_title": "Arbeitet an der Kerckhoff-Klinik: Stefan Guth ist auf CTEPH-Operationen spezialisiert."
+      "title": "Traum vom großen Chemiedeal: Was hinter dem Interesse von BASF an Evonik steckt",
+      "teaser": "Der Chemiekonzern BASF hat seine Fühler nach dem Konkurrenten Evonik ausgestreckt. Sollten sie sich einigen, entstünde ein neuer Chemieriese aus Deutschland. Doch viele Fragen sind noch offen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/grosser-deal-in-der-chemie-basf-arbeitet-an-uebernahme-von-evonik-201263548.html",
+      "image_url": "https://media0.faz.net/image/w920/a9bbe9431b77/w6144h2633x0y667/202602/43601.0.1817703244/die-chemieindustrie-ordnet.webp",
+      "image_title": "Die Chemieindustrie ordnet sich neu: Kolonne zur Phenolherstellung in Leuna."
     },
     {
-      "title": "Noch viel zu lernen: Pauker Klopp und seine Pennäler",
-      "teaser": "Deutschlands oberster Fußball-Lehrer Jürgen Klopp gibt sich nach seinem Einstand zufrieden. Es wird dauern, bis alle Nationalspieler die neuen Vorgaben umsetzen.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/deutschland-nach-niederlande-spiel-lernen-mit-juergen-klopp-accg-201261485.html",
-      "image_url": "https://media0.faz.net/image/w1100/4e70ef10c2b9/w1938h1090x0y124/202609/43601.0.2591752214/alles-hoert-auf-juergen-klopps.webp",
-      "image_title": "Alles hört auf Jürgen Klopps Kommando. Amiri, Brown und Schade (v.l.) lauschen hier eher beiläufig."
+      "title": "FAZ+Klaus Holetschek: Wir müssen uns auf die Eigenverantwortung besinnen",
+      "teaser": "Gastbeitrag Die Forderung Helmut Kohls ist heute erschreckend aktuell: Unsere Gesellschaft braucht eine Neubesinnung im Denken und Handeln.",
+      "url": "https://www.faz.net/aktuell/politik/inland/klaus-holetschek-helmut-kohls-appell-gilt-noch-heute-201231411.html",
+      "image_url": "https://media0.faz.net/image/w1100/04b6b713811c/w5516h3103x0y79/201512/431.0.31208759/helmut-kohl-am-13-september.webp",
+      "image_title": "Helmut Kohl am 13. September 1980 in der Olympiahalle in München"
     },
     {
       "title": "Verbannte Medien: Noch braucht Trump ihre Kameras",
@@ -541,38 +528,45 @@
       "image_title": "Eigenheim mit Belastung: Der Irankrieg hat die Hypothekenzinsen auf deutlich mehr als vier Prozent getrieben. Eine Anschlussfinanzierung kann teuer werden."
     },
     {
-      "title": "Waechter-Ausstellung: Was für eine Bilderbuchkombination",
-      "teaser": "Zwei Zeichnerstars in einer Familie: Das Bilderbuchmuseum Burg Wissem in Troisdorf zeigt die Illustrationskunst von F. K. Waechter und seinem Sohn Philip.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/troisdorfer-ausstellung-zu-f-k-waechter-und-philip-waechter-201258962.html",
-      "image_url": "https://media0.faz.net/image/w1200/5ce509e479f5/w13644h7675x0y2558/202609/43601.0.2589818188/philip-waechter-sorgt-nicht.webp",
-      "image_title": "Philip Waechter sorgt nicht nur dafür, dass wir vieles über Monster wissen. Er setzt das auch so schön ins Build, dass es keine Angst macht."
+      "title": "Jüdische Sammler: Ein mediokres Gauklerbild in Tempera ist schlicht zu wenig",
+      "teaser": "Vergebene Chance: Die Ausstellung „Von Monet bis Picasso – Jüdische Kunstsammler:innen in Deutschland“ im Bucerius Kunst Forum in Hamburg enttäuscht.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/bucerius-ausstellung-zu-juedischen-kunstsammlern-in-deutschland-enttaeuscht-201256097.html",
+      "image_url": "https://media0.faz.net/image/w1200/24f0b2739ca6/w1848h1039x0y51/202609/43601.0.2585855913/auch-in-diesem-fall-sollte-die.webp",
+      "image_title": "Auch in diesem Fall sollte die Lebensleistung von Künstlern und Sammlern viel bekannter sein: Wladimir von Zabotins „Sonntagmorgen in Danzig“ gelangte 1973 durch die Schenkung William Landmanns aus Toronto in den Bestand der Kunsthalle Mannheim."
     },
     {
-      "title": "7. bis 11. Oktober 2026: Das müssen Sie vor Ihrem Besuch der Buchmesse wissen",
-      "teaser": "Neue Hallenwege, begrenzte Tickets, zwei geschlossene Eingänge: Wer vor dem Besuch der Frankfurter Buchmesse ein paar Dinge klärt, hat dort mehr Zeit für Bücher. Die wichtigsten Fragen und Antworten für 2026.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-buchmesse-2026-das-muessen-sie-vor-dem-besuch-wissen-accg-110720521.html",
-      "image_url": "https://media0.faz.net/image/w1100/9b823a493934/w5598h3149x273y0/202609/43601.0.2552342891/seit-2025-kann-man-buecher.webp",
-      "image_title": "Seit 2025 kann man Bücher auch kaufen: Eine Mitarbeiterin füllt am Stand der S. Fischer Verlage auf der Buchmesse die Regale mit Büchern."
+      "title": "Frauen in der Musik: Gegen Beethovens „phallozentrischen Code“",
+      "teaser": "Maskulines Dur, feminines Moll, heroische Konsonanz: Lange Zeit wurde Musik in starre Geschlechterkategorien gepresst. Eva Rieger blickt auf fünfzig Jahre Frauen- und Genderforschung in der Musikwissenschaft zurück.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/maskulines-dur-eva-rieger-ueber-50-jahre-frauenforschung-in-der-musik-200987638.html",
+      "image_url": "https://media0.faz.net/image/w1100/2b0a0b90d549/w7807h4391x0y0/202605/43601.0.2104081603/aude-extr-mo-bei-der-premiere.webp",
+      "image_title": "Aude Extrémo bei der Premiere von „La Montagne noire“ (1895) von Augusta Holmès in Bordeaux"
     },
     {
-      "title": "HBO-Serie „4 Blocks Zero“: Sie konnten ja nur kriminell werden",
-      "teaser": "Die Serie „4 Blocks Zero“ erzählt die Vorgeschichte des Clanpaten Toni Hamady als Drama einer liberalen Einwanderfamilie aus Libanon, die Opfer äußerer Umstände wird. Das wirkt leider ziemlich konstruiert.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/serie-4-blocks-zero-bei-hbo-max-greift-zum-weichzeichner-accg-201251321.html",
-      "image_url": "https://media0.faz.net/image/w1100/5f9644cad000/w2472h1390x65y84/202609/43601.0.2579726644/opfer-der-umstaende-tariq-al.webp",
-      "image_title": "Opfer der Umstände? Tariq Al-Saies als Ibrahim Mansour (li.) und Mohammad Eliraqui als Latif Hamady in „4 Blocks Zero“."
+      "title": "Hessischer Rundfunk: HR deutet Kehrtwende in Frankfurter Restitutionsfall an",
+      "teaser": "Bei einer Pressekonferenz bekräftigt die jüdische Loge B’nai B’rith ihre Restitutions-Vorwürfe gegen den HR. Eine Pressemitteilung des Senders schlägt nun einen neutralen Vermittler vor.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/hr-nun-doch-zu-gespraechen-mit-juedischer-loge-bereit-201261674.html",
+      "image_url": "https://media0.faz.net/image/w1100/cf45d8df800f/w4746h2670x0y0/202608/43601.0.2449133411/auch-an-die-adresse-des.webp",
+      "image_title": "Auch an die Adresse des Intendanten des Hessischen Rundfunks, Florian Hager, richten sich die Vorwürfe der jüdischen Loge."
     },
     {
-      "title": "Marina Vlady gestorben: Die Hexe als moderne Frau",
-      "teaser": "Mit Mädchenrollen wurde Marina Vlady berühmt, als Pariser Hausfrau in einem Film von Jean-Luc Godard schrieb sie Kinogeschichte. Jetzt ist die französische Schauspielerin mit 88 Jahren gestorben.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/marina-vlady-gestorben-die-hexe-als-moderne-frau-accg-201262039.html",
-      "image_url": "https://media0.faz.net/image/w1100/c0e20cfe53b3/w2548h1433x0y83/202609/43601.0.2593175319/rauchpause-marina-vlady-in.webp",
-      "image_title": "Rauchpause: Marina Vlady in Godards „Zwei oder drei Dinge., die ich von ihr weiß“"
+      "title": "Marcks in weimar: Der Glanz der Abgeschiedenheit",
+      "teaser": "Fernab der Weimarer Avantgarde schuf der Bildhauer Gerhard Marcks Anfang der Zwanzigerjahre ein virtuoses grafisches Werk. Im Bauhaus-Museum ist es nun erstmals zu sehen.",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/schau-zum-bauhaeusler-gerhard-marcks-in-weimar-201226856.html",
+      "image_url": "https://media0.faz.net/image/w1100/6fb2c689cd5a/w2500h1406x0y1241/202609/43601.0.2592967067/vision-einer-liebe-gerhard.webp",
+      "image_title": "Vision einer Liebe: Gerhard Marcks' „Wintertraum“, Holzschnitt von 1924"
+    },
+    {
+      "title": "Kolumne „Uni live“: Sind Studenten nicht mehr rebellisch?",
+      "teaser": "Der rebellische Student scheint verschwunden zu sein – ersetzt durch einen Menschen, der nach dem perfekten Lebenslauf strebt. Doch stimmt das wirklich?",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/studentenbewegungen-damals-und-heute-201083663.html",
+      "image_url": "https://media0.faz.net/image/w920/8fb93bf4a238/w5315h2277x0y756/201801/43600.0.1400700305/protest-gegen-die.webp",
+      "image_title": "Protest gegen die Notstandsgesetze: Studenten blockieren 1968 die Uni Frankfurt."
     },
     {
       "title": "HOchschulreform: Die Kritik an Bologna ist zu Unrecht verstummt",
       "teaser": "Gastbeitrag Einzelkenntnisse ohne Struktur, lähmende Bürokratielasten: Die Kritik an der Bologna-Reform hat nachgelassen, doch ihre Folgen wirken nach. Die Reformdebatte ist neu zu führen.",
       "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/kritik-an-der-bologna-reform-neu-entfachen-accg-201235376.html",
-      "image_url": "https://media0.faz.net/image/w920/8ad4957da166/w3402h1458x0y405/201208/431.0.46528156/verwaltete-lehre-studenten-im.webp",
+      "image_url": "https://media0.faz.net/image/w1100/95c12d2b1759/w3402h1914x0y177/201208/431.0.46528156/verwaltete-lehre-studenten-im.webp",
       "image_title": "Verwaltete Lehre: Studenten im Hörsaal"
     },
     {
@@ -583,17 +577,24 @@
       "image_title": "Pause nach der Logik der Maschine. Charlie Chaplin hat mit „Moderne Zeiten“ für lange Zeit das Bild der Automatisierung geprägt."
     },
     {
-      "title": "Christoph Möllers: Die Universitäten werden auf dramatische Weise kleingespart",
-      "teaser": "Ein Gespräch mit Christoph Möllers, dem neuen Rektor des Berliner Wissenschaftskollegs, über autoritären Druck auf die Wissenschaftsfreiheit und den Handlungsspielraum einer AfD-Regierung in Sachsen-Anhalt.",
-      "url": "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/christoph-moellers-ueber-autoritaeren-druck-auf-wissenschaftsfreiheit-accg-201247046.html",
-      "image_url": "https://media0.faz.net/image/w1100/df3f22133f4c/w6000h3375x0y310/202609/43601.0.2565720902/bewohner-eines-gluecklichen.webp",
-      "image_title": "Bewohner eines glücklichen Elfenbeinturms: Christoph Möllers, der neue Rektor des Berliner Wissenschaftskollegs"
+      "title": "Brunners Jubel-Eklat: Ein vom Rampenlicht geblendeter Jungprofi",
+      "teaser": "Paris Brunner prägt den Erfolg des französischen Tabellenführers AS Monaco. Überschattet wird dies nun von einer Kopf-ab-Geste nach einem Treffer – nicht die erste Entgleisung des talentierten Grenzgängers.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-ausnahmetalent-paris-brunner-zwischen-erfolg-und-eklat-201258705.html",
+      "image_url": "https://media0.faz.net/image/w1200/6fbcdfe3c29e/w5709h3211x0y344/202609/43601.0.2588572558/skandal-nach-torjubel-brunner.webp",
+      "image_title": "Skandal nach Torjubel: Brunner bereut seine Entgleisung nicht."
+    },
+    {
+      "title": "FIDE-präsidentenwahl: Entscheidet der ukrainische Joker die Zukunft des Schachs?",
+      "teaser": "An der Seidenstraße spielt sich ein knallharter Machtkampf ab: Wer führt künftig den Schachverband? Vor der Wahl am Samstag erscheinen die letzten Züge schmutzig.",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/fide-wahl-machtkampf-um-die-zukunft-des-schachs-201261617.html",
+      "image_url": "https://media0.faz.net/image/w1100/ae2c47b82f25/w3000h1687x0y156/202609/43601.0.2559238135/kandidat-auf-den.webp",
+      "image_title": "Kandidat auf den Präsidentenposten: Wadim Rosenstein"
     },
     {
       "title": "DOSB-Olympiabewerber: Hervorragende Kandidaten, spitzenmäßig nervös",
       "teaser": "Was entscheidet über den deutschen Olympiabewerber? Viele Spitzenverbände wägen vor der Wahl zwischen München und Rhein-Ruhr am Samstag Stimmung, DOSB-Matrix – und Eigeninteressen.",
       "url": "https://www.faz.net/aktuell/sport/sportpolitik/muenchen-oder-rhein-ruhr-wer-wird-dosb-olympiabewerber-201261969.html",
-      "image_url": "https://media0.faz.net/image/w1200/e41b9c7ba934/w6144h3456x0y230/202609/43601.0.2593409766/comebackversuch-sport-und.webp",
+      "image_url": "https://media0.faz.net/image/w1100/e41b9c7ba934/w6144h3456x0y230/202609/43601.0.2593409766/comebackversuch-sport-und.webp",
       "image_title": "Comebackversuch: Sport und Bundespolitik wollen die internationale Bewerbung gewinnen. Am Samstag wird entschieden, ob mit München oder der Rhein-Ruhr-Kampagne."
     },
     {
@@ -604,25 +605,18 @@
       "image_title": "Falsch abgebogen: Kimi Antonelli in Baku"
     },
     {
-      "title": "Ärger bei DFB-Gegner: „Das ist eine absolute Schande“",
-      "teaser": "Das Führungstor von Virgil van Dijk zählt nach einem VAR-Eingriff doch nicht – sehr zum Ärger der Niederländer. Auch beim deutschen Treffer durch Felix Nmecha kochen die Emotionen hoch.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/niederlande-kritik-am-schiedsrichter-nach-var-eingriff-und-dfb-tor-accg-201260890.html",
-      "image_url": "https://media0.faz.net/image/w1100/063a8090c2e7/w5138h2890x194y211/202609/43601.0.2591435858/kapitaen-virgil-van-dijk.webp",
-      "image_title": "Kapitän Virgil van Dijk reklamiert beim Schiedsrichter nach seinem nicht gegebenen Tor."
-    },
-    {
-      "title": "Früherer Kapitän: HSV trauert um Peter Nogly",
-      "teaser": "Er galt als „hart, aber fair“. Als Verteidiger war er Publikumsliebling in einer erfolgreichen Zeit beim HSV. Nun ist der einstige Kapitän Peter Nogly gestorben.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-frueherer-hsv-kapitaen-peter-nogly-gestorben-accg-201262633.html",
-      "image_url": "https://media0.faz.net/image/w1100/4daaea924683/w4500h2531x0y0/202609/43601.0.2593732540/peter-nogly-1947-2026-spielte.webp",
-      "image_title": "Peter Nogly (1947-2026) spielte noch 2022 bei den HSV-All-Stars mit"
-    },
-    {
       "title": "Swifts „The Encore“: Nur einer findet sie nicht völlig unerträglich",
       "teaser": "Taylor Swift hat ihr Album „The Life of a Showgirl“ um vier neue Songs erweitert. Gerade der offensichtlichste Titel erzählt dabei am meisten über die Sängerin.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/taylor-swifts-the-encore-nur-einer-findet-sie-nicht-voellig-unertraeglich-accg-201261458.html",
       "image_url": "https://media0.faz.net/image/w1200/b903ad7a4e3a/w3500h1969x0y0/202609/43601.0.2534283341/bei-ihrer-aufnahme-in-die.webp",
       "image_title": "Bei ihrer Aufnahme in die Songwriters Hall of Fame: Taylor Swift"
+    },
+    {
+      "title": "Drogenkrieg: Wer hinter dem Mordkommando von Overasselt steckte",
+      "teaser": "Anfang September sollte Jan G. ermordet werden – eine Abrechnung im Drogenmilieu. Nun sitzt er selbst im Gefängnis. Vielleicht rettet ihn das.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/wer-hinter-dem-mordkommando-von-overasselt-steckte-201262298.html",
+      "image_url": "https://media0.faz.net/image/w1100/0f028c63fdbf/w6500h3656x0y339/202609/43601.0.2493254273/auf-der-suche-nach-den.webp",
+      "image_title": "Auf der Suche: Nach den Schüssen in Overasselt fahndete die Polizei auch in benachbarten Orten nach den Tätern."
     },
     {
       "title": "179. Volksfest in Stuttgart: Rummel an der Fruchtsäule",
@@ -632,18 +626,18 @@
       "image_title": "Dieses Mal brauchte er vier Schläge: Frank Nopper (CDU), Oberbürgermeister von Stuttgart, sticht das Bierfass zur Eröffnung des 179. Cannstatter Volksfestes an."
     },
     {
-      "title": "Bei Hofe: Seine Neffen William und Harry wollte Graf Spencer schützen",
-      "teaser": "Charles Spencers Buch über Diana beschäftigt den Palast, Prinz Harry steht ohne Teleprompter da, und gleich zwei Königinnen nehmen an der UN-Generalversammlung in New York teil. Unser royaler Wochenrückblick.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/royal-news-der-woche-zwei-koeniginnen-vereint-bei-den-vereinten-nationen-201262186.html",
-      "image_url": "https://media0.faz.net/image/w1100/513725a56e1a/w3300h1856x0y516/202609/43601.0.2562268084/bei-dianas-beerdigung-graf.webp",
-      "image_title": "Bei Dianas Beerdigung: Graf Charles Spencer (vorne links), Prinz William (vorne rechts), Prinz Harry (hinten links) und Prinz Charles"
+      "title": "Frankreich: Model tot im Auto gefunden – Ex-Freund unter Mordverdacht",
+      "teaser": "Bei einer Kontrolle auf einem Autobahnrastplatz entdecken Polizisten die verstümmelte Leiche einer jungen Frau im Kofferraum eines Wagens. Ihr Ex-Freund soll schon vorher gewalttätig gewesen sein.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/model-tot-im-auto-gefunden-ex-freund-unter-mordverdacht-201263208.html",
+      "image_url": "https://media0.faz.net/image/w1100/1a8749f08980/w6144h3456x0y642/202609/43601.0.2594217973/ein-fahrzeug-der.webp",
+      "image_title": "Ein Fahrzeug der französischen Polizei steht mit Blaulicht auf einer Straße. (Symbolbild)"
     },
     {
-      "title": "Wiedervereinigung: Warum ist am 3. Oktober der Tag der Deutschen Einheit?",
-      "teaser": "Am 3. Oktober ist der Tag der Deutschen Einheit. Warum dieses Datum dafür gewählt wurde, wie und wo gefeiert wird und welche Aktionen es zu diesem Anlass gibt – ein Überblick.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/warum-wir-den-tag-der-deutschen-einheit-am-3-oktober-feiern-18348458.html",
-      "image_url": "https://media0.faz.net/image/w1100/378434769923/w2833h1594x0y273/201509/431.0.32625605/mit-einem-feuerwerk-am.webp",
-      "image_title": "Mit einem Feuerwerk am Brandenburger Tor in Berlin feierten rund eine Million Menschen in der Nacht vom 2. auf den 3. Oktober 1990 die deutsche Wiedervereinigung. (Archivbild)"
+      "title": "Anzugfarben in der Politik: Erst auf Sizilien fand ich das richtige Anzugblau",
+      "teaser": "Der ästhetische Triumph der Rechtspopulisten ist die Anzugfarbe ihrer Gegner. Kann man noch blau kaufen? Unser Autor wollte das vermeiden. Dann fuhr er nach Sizilien.",
+      "url": "https://www.faz.net/aktuell/besser-leben/stil/klamotten-und-politik-ist-ein-anzug-in-blau-noch-tragbar-201168533.html",
+      "image_url": "https://media0.faz.net/image/w1100/7fc2563c251d/w7224h4063x0y377/202609/43601.0.2552838646/endlich-hat-er-den-ton.webp",
+      "image_title": "Endlich hat er den Ton getroffen: Unser Autor Philipp Krohn genießt im neuen blauen Anzug die letzten Sommertage."
     },
     {
       "title": "Mailänder Modewoche: Tanz auf dem Vulkan",
@@ -653,52 +647,45 @@
       "image_title": "Für Frühjahr und Sommer 2027: Etro"
     },
     {
-      "title": "Uschi Obermaier wird 80: Unbändiger Freiheitsdrang",
-      "teaser": "11 Bilder",
-      "url": "https://www.faz.net/aktuell/besser-leben/stil/uschi-obermaier-wird-80-ihr-leben-in-bildern-201258122.html",
-      "image_url": "https://media0.faz.net/image/w1100/59cd7b931ede/w3838h2158x0y178/202410/43601.0.664319346/ich-hab-mich-nur-fotografieren.webp",
-      "image_title": "„Ich hab mich nur fotografieren lassen“: Uschi Obermaier, hier Mitte der Sechzigerjahre in einer Wohngemeinschaft in München, verstand sich zunächst gar nicht als Model. Beim Ausgehen in den Clubs ihrer Heimatstadt wurde sie von Fotografen entdeckt. „Zu meiner Zeit hießen Models Tausendmarkmädchen, weil man tausend Mark pro Tag bekommen hat“, erinnerte sie sich später."
+      "title": "Vor der Wahl in neustadt: „Ich finde den Titel Königin schon schön“",
+      "teaser": "Lena Roie stammt aus einer Schaustellerfamilie und ist Frankfurterin. Trotzdem haben die Rheingauer Winzer sie zu ihrer Weinbotschafterin gewählt. An diesem Freitag könnte sie die Deutsche Weinkönigin werden.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/wahl-der-deutschen-weinkoenigin-warum-eine-frankfurterin-den-titel-will-201209122.html",
+      "image_url": "https://media0.faz.net/image/w1200/2a385cc769be/w5000h2812x0y0/202509/43601.0.1278500243/moment-der-freude-lena-roie.webp",
+      "image_title": "Moment der Freude: Lena Roie (Mitte) im Jahr 2025 nach ihrer Wahl zur Weinkönigin des Rheingaus."
+    },
+    {
+      "title": "Rhein-Main-Liveblog: Tausende Menschen zu Demo gegen Sozialabbau erwartet",
+      "teaser": "Frankfurt: Autofahrer fangen nach Unfall Prügelei an +++ Hessischer LKA-Vize steigt zum obersten Verfassungsschützer in Mainz auf +++ Spätsommerliches Wetter mit bis zu 28 Grad in Hessen +++ Liveblog zu Rhein-Main und Hessen",
+      "url": "https://www.faz.net/aktuell/rhein-main/aktionstag-und-grossdemonstration-gegen-sozialabbau-in-frankfurt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+      "image_url": "https://media0.faz.net/image/w1100/56a5e58b7f20/w6144h3456x0y320/202609/43601.0.2594470180/am-freitag-gingen-schueler.webp",
+      "image_title": "Am Freitag gingen Schüler gegen die Wehrpflicht auf die Straße, am Samstag sind Arbeitnehmer und Gewerkschafter zu Protesten gegen Sozialreformen aufgerufen."
+    },
+    {
+      "title": "Merkel im Theater: So schön, schön war die Zeit",
+      "teaser": "Sehnsucht nach den sorglosen Merkel-Jahren: „Angelaland“ erzählt am Hessischen Landestheater satirisch von Angela Merkels politischer Karriere und der Illusion Deutschlands.",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/angela-merkel-kehrt-zurueck-landestheater-marburg-widmet-der-kanzlerin-eine-revue-201255189.html",
+      "image_url": "https://media0.faz.net/image/w1100/49379bc5594b/w2400h1350x0y125/202609/43601.0.2588661989/die-sechsfache-kanzlerin-szene.webp",
+      "image_title": "Die sechsfache Kanzlerin: Szene aus „Angelaland“ am Landestheater Marburg"
     },
     {
       "title": "André Rieu: Rituale bis zur finalen Sektlaune",
       "teaser": "Samt Schneegestöber und Luftballons von der Decke: André Rieu bringt sein Publikum in der Frankfurter Festhalle mit Walzern und launigen Moderationen in Stimmung.",
       "url": "https://www.faz.net/aktuell/rhein-main/kultur/andre-rieu-sorgt-fuer-hochstimmung-in-der-frankfurter-festhalle-201263013.html",
-      "image_url": "https://media0.faz.net/image/w1200/ef7ff2ddd69c/w2834h1594x0y712/202002/43600.0.29693177/andr-rieu-hier-bei-einem.webp",
+      "image_url": "https://media0.faz.net/image/w1100/ef7ff2ddd69c/w2834h1594x0y712/202002/43600.0.29693177/andr-rieu-hier-bei-einem.webp",
       "image_title": "André Rieu, hier bei einem Auftritt 2020 in der Frankfurter Festhalle"
-    },
-    {
-      "title": "Bakterien im Trinkwasser: In Wiesbaden muss das Wasser abgekocht werden",
-      "teaser": "In Teilen Wiesbadens ist das Trinkwasser mit Bakterien verunreinigt. Vor allem Bewohner der Innenstadt rund um das Kurhaus und im historischen Fünfeck sind zur Vorsicht aufgerufen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/wiesbaden-trinkwasser-in-der-city-mit-bakterien-verunreinigt-201263367.html",
-      "image_url": "https://media0.faz.net/image/w1100/454c5881d5b3/w3000h1687x0y156/202504/43601.0.954815494/seit-freitag-muss-in-wiesbaden.webp",
-      "image_title": "Seit Freitag muss in Wiesbaden Trinkwasser abgekocht werden. Es wurde eine Verunreinigung mit Bakterien festgestellt."
-    },
-    {
-      "title": "„Nicht unser Militär“: Schüler streiken gegen Wehrpflicht",
-      "teaser": "Zum „Schulstreik gegen die Wehrpflicht“ kommen rund 200 Schüler auf den Opernplatz. Die Organisatoren meinen: „Junge Menschen haben in diesem Land nur einen Wert, wenn sie bereit sind, dafür zu sterben.“",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/lieber-unfreiheit-statt-tod-warum-frankfurter-schueler-die-wehrpflicht-ablehnen-201263016.html",
-      "image_url": "https://media0.faz.net/image/w1100/985933af169e/w7973h4485x0y415/202609/43601.0.2593802765/teilnehmer-der-demonstration.webp",
-      "image_title": "Teilnehmer der Demonstration gegen die Wehrpflicht auf dem Frankfurter Opernplatz"
-    },
-    {
-      "title": "Angebot für Schüler: Zum Vorstellungsgespräch ins Riesenrad",
-      "teaser": "Ein ungewöhnliches Azubi-Speeddating haben Arbeitgeber in Frankfurt veranstaltet. Auf dem Volksfest Dippemess sprechen sie mit Jugendlichen in 48 Metern Höhe über Erwartungen, Ängste und die Arbeitswelt.",
-      "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/frankfurter-unternehmen-suchen-bei-speeddating-im-riesenrad-neue-azubis-201248697.html",
-      "image_url": "https://media0.faz.net/image/w1100/6aba43c0d25b/w7503h4220x0y391/202609/43601.0.2591405917/10-minuten-speeddating-dalina.webp",
-      "image_title": "10 Minuten „Speeddating“: Dalina Selimi von Siemens spricht im Riesenrad mit Maximilian über mögliche Praktika."
-    },
-    {
-      "title": "FAZ+Drohnen: Unbemannten Objekten auf der Spur",
-      "teaser": "Sie transportieren, sie düngen, sie überwachen. Drohnen machen auch jenseits des Militärischen Karriere.",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/von-der-fliegenden-kamera-fuer-hobbypiloten-bis-zur-kontrolle-von-pipelines-im-meer-ein-blick-auf-die-faszinierende-vielfalt-der-drohnen-accg-201218222.html",
-      "image_url": "https://media0.faz.net/image/w1100/83973cab13bb/w3840h2160x0y177/202512/43601.0.1542197073/fuer-spektakulaere-videos-a1.webp",
-      "image_title": "Für spektakuläre Videos: A1 von Antigravity zeigt dem Pilot ein Livebild in der Brille"
     },
     {
       "title": "Fünf am Freitag: Putzt, kocht und heizt",
       "teaser": "Sensor im Vögelchen, Essen und Auto im Buch, Staubsauger im Wischmodus, Uhr im Langzeitbetrieb und Can-Am im Gelände: Das sind unsere Neuheiten aus der Technikkiste.",
       "url": "https://www.faz.net/aktuell/technik-motor/dyson-r2-nurovi-washdry-saugen-und-wischen-accg-201202813.html",
       "image_url": "https://media0.faz.net/image/w1100/b0fdf0216c2b/w6759h3802x1141y943/202609/43601.0.2563334107/4360102563334107.webp"
+    },
+    {
+      "title": "Teures benzin: Ölt Klingbeils Kasse",
+      "teaser": "Die unter enormem Druck erwachte Fürsorge um den gebeutelten Autofahrer riecht nach Heuchelei. Wahrscheinlich will kaum jemand wirklich eine Entlastung. Der Staat verdient am hohen Kraftstoffpreis fröhlich mit.",
+      "url": "https://www.faz.net/aktuell/technik-motor/kraftstoffpreise-wie-der-staat-am-hohen-benzinpreis-verdient-201237612.html",
+      "image_url": "https://media0.faz.net/image/w1100/2aacc61ccb68/w6144h3456x0y321/202609/43601.0.2563312870/staatshaushalt-was-willst-du.webp",
+      "image_title": "Staatshaushalt, was willst du mehr?"
     },
     {
       "title": "Soziologie Ethischer Urteile: Die Milde der Begünstigten",
@@ -750,11 +737,11 @@
       "image_title": "Arbeiten nach dem Auszug: Welche Wände, Fenster und Türen sind zu streichen?"
     },
     {
-      "title": "Das wahre Sylt: „Furchtbar, in jeder Welle hängt ein nackter Arsch“",
-      "teaser": "FKK, Sexskandale, rauschende Nächte: Lange war Sylt eine Insel der Freizügigkeit und der Exzesse. Künstler, Freigeister und Partylöwen prägten ihren Mythos. Was ist von dieser Lebenslust geblieben?",
-      "url": "https://www.faz.net/aktuell/reise/fkk-sexskandale-und-partys-im-pony-sylt-frueher-und-heute-accg-201249025.html",
-      "image_url": "https://media0.faz.net/image/w1800/8702fafba65d/w3383h1903x0y196/202609/43601.0.2578709657/nahtlose-braeune-1954-wurde.webp",
-      "image_title": "Nahtlose Bräune: 1954 wurde auf Sylt der erste offizielle FKK-Strand ausgewiesen."
+      "title": "Norwegens Inseln: Schönheit in Überdosis",
+      "teaser": "Kaiser und Könige weisen den Weg: Bei Wanderungen über die Gebirgs- und Küstenwege auf den norwegischen Archipelen der Lofoten und Vesterålen erlebt man lauter Wunderwerke der Natur.",
+      "url": "https://www.faz.net/aktuell/reise/lofoten-norwegens-spektakulaerste-inseln-200890502.html",
+      "image_url": "https://media0.faz.net/image/w1800/d4325912c26f/w2327h1309x190y202/202606/43601.0.2176864615/die-lofoten-wie-aus-dem.webp",
+      "image_title": "Die Lofoten wie aus dem Bilderbuch: der Fischerort Reine mit den typischen Rorbuer, den rot gestrichenen Häusern, die auf Stelzen am Ufer stehen."
     },
     {
       "title": "FAZ+Überzogener Eiweiß-Hype: „Proteinshakes sind nicht notwendig – auch nicht im Spitzensport“",

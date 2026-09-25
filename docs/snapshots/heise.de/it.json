@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T15:37:11",
+  "timestamp": "2026-09-25T19:37:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,9 +20,22 @@
   ],
   "articles": [
     {
-      "title": "Optische Speicher mit Terabyte-Kapazität: Folio Photonics im Check",
-      "teaser": "Folio Photonics will mit mehrschichtigen optischen Disks den Markt für Archivspeicher aufmischen. Die Daten sollen mindestens 50 Jahre halten.",
-      "url": "https://www.heise.de/hintergrund/Optische-Speicher-mit-Terabyte-Kapazitaet-Folio-Photonics-im-Check-11359706.html"
+      "title": "Lokale LLMs in Text- und Notizsoftware: So arbeitet die KI produktiv mit",
+      "teaser": "Chat-Masken eignen sich wenig, um lokale LLMs als Schreibhilfe einzusetzen. Wir probieren, wie sich LLMs direkt in Textbearbeitungswerkzeuge integrieren lassen.",
+      "url": "https://www.heise.de/ratgeber/Lokale-LLMs-in-Text-und-Notizsoftware-So-arbeitet-die-KI-produktiv-mit-11466058.html",
+      "image_title": "KI schreibt im Dokument mit: Das klappt mit lokalen LLMs etwa in LibreOffice und Obsidian."
+    },
+    {
+      "title": "KI-Rechenzentren: Abwärme heizt angrenzende Wohngebiete auf",
+      "teaser": "KI-Rechenzentren geben enorme Mengen Abwärme ab. Erste Studien belegen, dass dies die Temperaturen in angrenzenden Wohngebieten messbar ansteigen lässt.",
+      "url": "https://www.heise.de/news/KI-Rechenzentren-Abwaerme-heizt-angrenzende-Wohngebiete-auf-11466676.html",
+      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
+    },
+    {
+      "title": "Big Brother AwardsNegativpreise für Digital-Omnibus, Steuer-ID & Smart Glasses",
+      "teaser": "Der Big Brother Award geht in diesem Jahr an die EU-Kommission, Innenminister Dobrindt, Telekom, Fielmann, Apollo-Optik und die Evangelische Nordkirche.",
+      "url": "https://www.heise.de/news/Big-Brother-Awards-2026-Negativpreis-fuer-Dobrindt-EU-Kommission-Telekom-Co-11463202.html",
+      "image_title": "Person, auf deren Hand ein Hologramm schwebt, das ein Auge ist, und Zeichen, die für Überwachung stehen"
     },
     {
       "title": "Warum diese Chipfirma niemand nachbauen kann",
@@ -30,16 +43,9 @@
       "url": "https://www.heise.de/news/Warum-diese-Chipfirma-niemand-nachbauen-kann-11466614.html"
     },
     {
-      "title": "Wasserzeichen für KI-Texte: Anthropic weitet Anwendung aus",
-      "teaser": "Anthropic versieht weitere Claude-Modelle mit unsichtbaren Text-Wasserzeichen. Das Verfahren soll mit Claude erzeugte Texte erkennbar machen, hat aber Grenzen.",
-      "url": "https://www.heise.de/news/Wasserzeichen-fuer-KI-Texte-Anthropic-weitet-Anwendung-aus-11466692.html",
-      "image_title": "Anthropic Claude Logo auf Handy"
-    },
-    {
-      "title": "Appwrite 2.3: Dev-Keys entfallen, Migration nötig",
-      "teaser": "Appwrite 2.3 bringt Jaspr für Sites und Nightly-Versionen für den Eigenbetrieb. Wichtig für bestehende Installationen ist das Aus für Dev-Keys.",
-      "url": "https://www.heise.de/news/Appwrite-2-3-Dev-Keys-entfallen-Migration-noetig-11466656.html",
-      "image_title": "Appwrite Dashboard mit Projektübersicht, Bandbreitendiagramm und Statistiken."
+      "title": "RatgeberLokale LLMs in Text- und Notizsoftware: So arbeitet die KI produktiv mit",
+      "url": "https://www.heise.de/ratgeber/Lokale-LLMs-in-Text-und-Notizsoftware-So-arbeitet-die-KI-produktiv-mit-11466058.html",
+      "image_title": "KI schreibt im Dokument mit: Das klappt mit lokalen LLMs etwa in LibreOffice und Obsidian."
     },
     {
       "title": "HintergrundWindows 11 Update: Warum Version 26H2 absichtlich keine großen Neuerungen bringt",
@@ -52,9 +58,16 @@
       "image_title": ", !!!"
     },
     {
-      "title": "RatgeberMehr als Pakete scannen: Wie umfangreiche Netzwerkanalyse mit Wireshark abläuft",
-      "url": "https://www.heise.de/ratgeber/Mehr-als-Pakete-scannen-Wie-umfangreiche-Netzwerkanalyse-mit-Wireshark-ablaeuft-11455716.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
+      "title": "Wasserzeichen für KI-Texte: Anthropic weitet Anwendung aus",
+      "teaser": "Anthropic versieht weitere Claude-Modelle mit unsichtbaren Text-Wasserzeichen. Das Verfahren soll mit Claude erzeugte Texte erkennbar machen, hat aber Grenzen.",
+      "url": "https://www.heise.de/news/Wasserzeichen-fuer-KI-Texte-Anthropic-weitet-Anwendung-aus-11466692.html",
+      "image_title": "Anthropic Claude Logo auf Handy"
+    },
+    {
+      "title": "Appwrite 2.3: Dev-Keys entfallen, Migration nötig",
+      "teaser": "Appwrite 2.3 bringt Jaspr für Sites und Nightly-Versionen für den Eigenbetrieb. Wichtig für bestehende Installationen ist das Aus für Dev-Keys.",
+      "url": "https://www.heise.de/news/Appwrite-2-3-Dev-Keys-entfallen-Migration-noetig-11466656.html",
+      "image_title": "Appwrite Dashboard mit Projektübersicht, Bandbreitendiagramm und Statistiken."
     },
     {
       "title": "Googlebook OS: Google-Manager Kuscher erklärt den Wechsel zu Android",
@@ -132,17 +145,6 @@
       "teaser": "Meta hält es nicht für eine Remote-Übernahme, doch der Sicherheitsexperte Patrick Wardle sieht das anders: Die mächtige Muse-App für macOS war angreifbar.",
       "url": "https://www.heise.de/news/macOS-Metas-Muse-Agent-war-per-ClickFix-uebernehmbar-11465123.html",
       "image_title": "Muse-Aussage nach Übernahme"
-    },
-    {
-      "title": "M365 Copilot im Unternehmen – Agents mit Copilot Studio und Foundry entwickeln",
-      "teaser": "M365 Copilot ist mehr als ein KI-Assistent in Office. Agents lassen sich produktiv entwickeln und mit Copilot Studio und Foundry unternehmensweit skalieren.",
-      "url": "https://www.heise.de/news/M365-Copilot-im-Unternehmen-Agents-mit-Copilot-Studio-und-Foundry-entwickeln-11426765.html"
-    },
-    {
-      "title": "Neobank Revolut: Cybergang „Imnotavillain“ behauptet Datendiebstahl",
-      "teaser": "Die kriminelle Online-Bande „Imnotavillain“ behauptet im Darknet, von der Neobank Revolut vertrauliche Daten erhalten zu haben.",
-      "url": "https://www.heise.de/news/Neobank-Revolut-Cybergang-Imnotavillain-behauptet-Datendiebstahl-11465363.html",
-      "image_title": "Revolut-Schriftzug vor Matrix-Regen-Hintergrund"
     },
     {
       "title": "NewsBroadcom erschwert den VMware-Ausstieg",
