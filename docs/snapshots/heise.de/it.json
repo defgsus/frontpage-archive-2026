@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-25T05:44:55",
+  "timestamp": "2026-09-25T10:41:23",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,95 @@
   ],
   "articles": [
     {
-      "title": "Geschätzt wurden MillionenNSA gibt Milliarden US-Dollar für KI-Prüfung aus",
-      "teaser": "Die NSA prüft die besten KI-Modelle und zahlt 2026 dafür Milliarden. Im US-Kongress war von sehr viel weniger ausgegangen.",
-      "url": "https://www.heise.de/news/Geschaetzt-wurden-Millionen-NSA-gibt-Milliarden-US-Dollar-fuer-KI-Pruefung-aus-11465259.html",
-      "image_title": "NSA-Logo auf einem Smartphone, dahinter unscharf die US-Flagge"
+      "title": "IAM-Anbieter für die Identity Fabric in der Marktübersicht",
+      "teaser": "Über eine Identity Fabric verbindet man einzelne IAM-Bausteine verschiedener Hersteller. Wir vergleichen sieben Plattformen mit unterschiedlichen Ansätzen.",
+      "url": "https://www.heise.de/tests/IAM-Anbieter-fuer-die-Identity-Fabric-in-der-Marktuebersicht-11448404.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
-      "title": "Mehr als Pakete scannen: Wie umfangreiche Netzwerkanalyse mit Wireshark abläuft",
-      "teaser": "Das Capture-Tool Wireshark kann viel mehr als Pakete mitlesen. Wer die Filtersyntax, Profile und Kommandozeilenwerkzeuge kennt, arbeitet deutlich effizienter.",
+      "title": "M365 Copilot im Unternehmen – Agents mit Copilot Studio und Foundry entwickeln",
+      "teaser": "M365 Copilot ist mehr als ein KI-Assistent in Office. Agents lassen sich produktiv entwickeln und mit Copilot Studio und Foundry unternehmensweit skalieren.",
+      "url": "https://www.heise.de/news/M365-Copilot-im-Unternehmen-Agents-mit-Copilot-Studio-und-Foundry-entwickeln-11426765.html"
+    },
+    {
+      "title": "Neobank Revolut: Cybergang „Imnotavillain“ behauptet Datendiebstahl",
+      "teaser": "Die kriminelle Online-Bande „Imnotavillain“ behauptet im Darknet, von der Neobank Revolut vertrauliche Daten erhalten zu haben.",
+      "url": "https://www.heise.de/news/Neobank-Revolut-Cybergang-Imnotavillain-behauptet-Datendiebstahl-11465363.html",
+      "image_title": "Revolut-Schriftzug vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "AlertSicherheitslücken: GitLab-Server sind für Schadcode-Attacken anfällig",
+      "teaser": "Die GitLab-Entwickler raten zur zügigen Installation der jüngst veröffentlichten Sicherheitsupdates.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-GitLab-Server-mit-Schadcode-attackierbar-11465889.html",
+      "image_title": "Ein symbolsicher Updateknopf auf einer Tastatur."
+    },
+    {
+      "title": "HintergrundWindows 11 Update: Warum Version 26H2 absichtlich keine großen Neuerungen bringt",
+      "url": "https://www.heise.de/hintergrund/Windows-11-Update-Warum-Version-26H2-absichtlich-keine-grossen-Neuerungen-bringt-11443266.html",
+      "image_title": "Windows-11-Logo mit Schritzug und Unterschrift 26H2"
+    },
+    {
+      "title": "RatgeberKI-Coding-Assistent: Erste Schritte mit Agentic Coding",
+      "url": "https://www.heise.de/ratgeber/KI-Coding-Assistent-Erste-Schritte-mit-Agentic-Coding-11448768.html",
+      "image_title": ", !!!"
+    },
+    {
+      "title": "RatgeberMehr als Pakete scannen: Wie umfangreiche Netzwerkanalyse mit Wireshark abläuft",
       "url": "https://www.heise.de/ratgeber/Mehr-als-Pakete-scannen-Wie-umfangreiche-Netzwerkanalyse-mit-Wireshark-ablaeuft-11455716.html",
       "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
+      "title": "Wiederholtes Votum: Bundestag billigt Bundespolizeigesetz",
+      "teaser": "Im Juli gab es eine Panne bei der Abstimmung, jetzt steht die Kanzlermehrheit im Bundestag: Die Bundespolizei soll neue Befugnisse bekommen.",
+      "url": "https://www.heise.de/news/Wiederholtes-Votum-Bundestag-billigt-Bundespolizeigesetz-11465879.html"
+    },
+    {
+      "title": "Läuft das auf AlmaLinux? Ein Katalog soll Klarheit schaffen",
+      "teaser": "AlmaLinux führt ein Zertifizierungsprogramm für Anwendungen und Hardware ein. Ein neuer Katalog zeigt Kompatibilität mit verschiedenen Versionen.",
+      "url": "https://www.heise.de/news/AlmaLinux-Zertifizierungsprogramm-fuer-Software-und-Hardware-11465635.html",
+      "image_title": "AlmaLinux Zertifizierungskatalog mit Optionen für Systeme, Komponenten, Software, Benchmarks und Validierungen."
+    },
+    {
+      "title": "Google bringt Echtzeit-Avatare für Gemini-Sprachagenten",
+      "teaser": "Google erweitert Gemini um Avatare, die sprechen, sehen und mimisch auf Nutzer reagieren. Die Funktion richtet sich vorerst an Unternehmen.",
+      "url": "https://www.heise.de/news/Google-gibt-Gemini-Sprachagenten-ein-Gesicht-11465625.html",
+      "image_title": "Drei unterschiedliche Gemini-Avatare: eine gezeichnete Frau, ein realistisch dargestellter Mann und ein stilisierter roter Panda mit Mütze und Pullover."
+    },
+    {
+      "title": "Was läuft auf meinen Servern? systemd-report sammelt Antworten",
+      "teaser": "systemd-report bündelt Systemdaten und Messwerte in signierten JSON-Berichten. Das soll die Verwaltung großer Linux-Flotten erleichtern.",
+      "url": "https://www.heise.de/news/Was-laeuft-auf-meinen-Servern-systemd-report-sammelt-Antworten-11465325.html",
+      "image_title": "Ein Tux-Pinguin hält einen Schraubenschlüssel"
+    },
+    {
+      "title": "AlertUpdateJetzt updaten! Attacken auf Roundcube-Webmail-Instanzen beobachtet",
+      "teaser": "Angreifer nutzen derzeit eine Sicherheitslücke in Roundcube Webmail aus. Dafür müssen aber die Voraussetzungen stimmen.",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Attacken-auf-Roundcube-Webmail-Instanzen-beobachtet-11465379.html",
+      "image_title": "Warnendes Dreieck auf Display"
+    },
+    {
+      "title": "Photonisches Computing: Open-Source-SDK für energieeffiziente KI-Anwendungen",
+      "teaser": "Python, C/C++ und ein CPU-Simulator: Q.ANTs neues Open-Source-SDK bringt photonisches Computing ohne Spezialhardware auf den Laptop.",
+      "url": "https://www.heise.de/news/Photonisches-Computing-Open-Source-SDK-fuer-energieeffiziente-KI-Anwendungen-11464372.html",
+      "image_title": "Silizium-Wafer mit aufgedruckten Mikroprozessoren."
+    },
+    {
+      "title": "AlertVideo-Tool VLC: Version 3.0.24 stopft über 130 Sicherheitslecks",
+      "teaser": "Der Videoplayer VLC ist in Version 3.0.24 erschienen. Mehr als 130 Sicherheitslücken soll das Release schließen.",
+      "url": "https://www.heise.de/news/Video-Tool-VLC-Version-3-0-24-stopft-ueber-130-Sicherheitslecks-11465305.html",
+      "image_title": "VLC Logo mit Achtung-Schild"
+    },
+    {
+      "title": "iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren",
+      "teaser": "Erfahren Sie, wie Sie produktiv mit KI-Assistenten programmieren und lernen Sie die Stärken und Schwächen der Tools für den Einsatz in eigenen Projekten kennen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11443178.html",
+      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
+    },
+    {
+      "title": "Geschätzt wurden Millionen: NSA gibt Milliarden US-Dollar für KI-Prüfung aus",
+      "teaser": "Die NSA prüft die besten KI-Modelle und zahlt 2026 dafür Milliarden US-Dollar. Im US-Kongress war man davon ausgegangen, dass das einige Millionen kostet.",
+      "url": "https://www.heise.de/news/Geschaetzt-wurden-Millionen-NSA-gibt-Milliarden-US-Dollar-fuer-KI-Pruefung-aus-11465259.html",
+      "image_title": "NSA-Logo auf einem Smartphone, dahinter unscharf die US-Flagge"
     },
     {
       "title": "Viele Nutzer vertrauen KI-Chatbots intime Themen an",
@@ -38,24 +117,10 @@
       "image_title": "Mann spricht im Halbdunkel mit Sprachassistent auf Smartphone. Im Hintergrund ein Laptop."
     },
     {
-      "title": "KI-Rechenzentren im AllGoogle-Satellit mit vier KI-Beschleunigern vor dem Start",
-      "teaser": "Der nächste Wettlauf ins All könnte dem Aufbau riesiger KI-Rechenzentren dienen. Google steht kurz vor einem Test.",
+      "title": "Rechenzentren im All: Google-Satellit mit vier KI-Beschleunigern vor dem Start",
+      "teaser": "Der nächste Wettlauf ins All könnte dem Aufbau riesiger KI-Rechenzentren dienen. Google will nächste Woche einen ersten Testsatelliten mit vier TPUs starten.",
       "url": "https://www.heise.de/news/Rechenzentren-im-All-Google-will-Satellit-mit-vier-KI-Beschleunigern-starten-11464879.html",
       "image_title": "Sonnenaufgang hinter der Erde"
-    },
-    {
-      "title": "RatgeberMehr als Pakete scannen: Wie umfangreiche Netzwerkanalyse mit Wireshark abläuft",
-      "url": "https://www.heise.de/ratgeber/Mehr-als-Pakete-scannen-Wie-umfangreiche-Netzwerkanalyse-mit-Wireshark-ablaeuft-11455716.html",
-      "image_title": ", Vanessa Bahr / KI / iX"
-    },
-    {
-      "title": "RatgeberPS5 leiser machen: Weniger Lärm bei UHD-Blu-rays, Blu-rays und Spielen",
-      "url": "https://www.heise.de/ratgeber/PS5-leiser-machen-Weniger-Laerm-bei-UHD-Blu-rays-Blu-rays-und-Spielen-11403528.html"
-    },
-    {
-      "title": "HintergrundDer Weg zu skalierbaren KI-Agenten mit Spring AI und Amazon AgentCore",
-      "url": "https://www.heise.de/hintergrund/Der-Weg-zu-skalierbaren-KI-Agenten-mit-Spring-AI-und-Amazon-AgentCore-11461936.html",
-      "image_title": "Füsse eines Mannes in Anzug, der auf einer Treppe sitztdaneben eine Hand mit Brille."
     },
     {
       "title": "iOS 27 & Co: Was endlich besser ist und wo es kräftig hakt | Mac & i-Podcast",
@@ -79,70 +144,6 @@
       "teaser": "Eigentlich soll macOS 27 alias Golden Gate ein großes Fehlerbehebungs- und Produktpflege-Betriebssystem sein. Nun zeigen sich aber ganz neue Fehler.",
       "url": "https://www.heise.de/news/macOS-27-Bugs-Mission-Control-kaputt-Doppel-Siri-Menueleistenmerkwuerdigkeiten-11463790.html",
       "image_title": "macOS 27 alias Golden Gate"
-    },
-    {
-      "title": "Lautlos: Microsoft stellt Surface Pro und Surface Laptop vor",
-      "teaser": "Das Surface Pro 12 Zoll und der Surface Laptop 13 Zoll kommen mit neuen ARM-Prozessoren. Beide arbeiten lautlos.",
-      "url": "https://www.heise.de/news/Lautlos-Microsoft-stellt-Surface-Pro-und-Surface-Laptop-vor-11464520.html",
-      "image_title": "Ein Surface Pro mit Stift und eine Maus auf einem lila Hintergrund"
-    },
-    {
-      "title": "Angriff mit KI-Agenten auf hunderte Shops: 600.000 Kreditkartendaten geklaut",
-      "teaser": "Ein Angreifer hat hunderte Online-Shops mit KI-Agenten angegriffen und dabei Daten von mehr als 600.000 Kreditkarten abgegriffen.",
-      "url": "https://www.heise.de/news/Angriff-mit-KI-Agenten-auf-hunderte-Shops-600-000-Kreditkartendaten-geklaut-11464492.html",
-      "image_title": "Jemand tippt auf ein Smartphone, es erscheint ein Roboter und ein Einkaufswagen."
-    },
-    {
-      "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
-      "teaser": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11443172.html",
-      "image_title": "Serverschrank in Metallketten, die mit einem Vorhängeschloss gesichert sind, Geldbündel davor gestapelt, einige Scheine wehen umher"
-    },
-    {
-      "title": "RAW-Bilder in macOS 15.8: Fehler führt zu Abstürzen",
-      "teaser": "Die Macher eines Tools haben einen Fehler entdeckt, der offenbar nur im alten macOS auftritt: Die integrierte Nutzung von RAW-Bildern ist massiv gestört.",
-      "url": "https://www.heise.de/news/RAW-Bilder-in-macOS-15-8-Fehler-fuehrt-zu-Abstuerzen-11464516.html",
-      "image_title": "macOS 15 Sequoia"
-    },
-    {
-      "title": "Glasfaser: Per Mathenachhilfe zu mehr Wettbewerb?",
-      "teaser": "Die Bundesnetzagentur hat berechnet, was Glasfaseranbieter für eine Mitnutzung ihrer Netze verlangen könnten. Verbindlich ist das nicht, doch der Druck steigt.",
-      "url": "https://www.heise.de/news/Glasfaser-Per-Mathenachhilfe-zu-mehr-Wettbewerb-11464452.html",
-      "image_title": "Glasfaserkabelrolle"
-    },
-    {
-      "title": "Qualcomm kündigt Linux-Support für Snapdragon X2 an",
-      "teaser": "Künftig sollen die Qualcomm-Prozessoren auch Linux-Betriebssysteme unterstützen, zunächst Debian, kurz danach auch Ubuntu.",
-      "url": "https://www.heise.de/news/Qualcomm-kuendigt-Linux-Support-fuer-Snapdragon-X2-an-11463854.html"
-    },
-    {
-      "title": "IT-Summit 2026: Digitale Souveränität in der Praxis",
-      "teaser": "Raus aus der AWS/VMware/M365/OpenAI-Falle: Der IT Summit 2026 zeigt funktionierende Alternativen in den Bereichen KI, Modern Workplace, Cloud und Infrastruktur.",
-      "url": "https://www.heise.de/news/IT-Summit-2026-Digitale-Souveraenitaet-in-der-Praxis-11461379.html"
-    },
-    {
-      "title": "Speicherort von Microsoft-365-Daten für kurze Zeit wählbar",
-      "teaser": "IT-Verantwortliche haben bis zum 14. Dezember Zeit, den Speicherort ihrer Microsoft-365-Daten auszuwählen: im eigenen Land oder EU.",
-      "url": "https://www.heise.de/news/Microsoft-Speicherort-von-Microsoft-365-Daten-bis-Dezember-waehlbar-11464146.html",
-      "image_title": "The,Flag,Of,Germany,In,The,World,Map"
-    },
-    {
-      "title": "AlertSicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted",
-      "teaser": "Die Monitoring-Lösung für IT-Infrastrukturen SolarWinds Observability Self-Hosted ist unter bestimmten Voraussetzungen verwundbar.",
-      "url": "https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html",
-      "image_title": "Eine Frau drückt einen symbolischen Updateknopf."
-    },
-    {
-      "title": "iX-Workshop: Cloud Security Masterclass – Angriff und Verteidigung in AWS",
-      "teaser": "Erfahren Sie, wie Angreifer Fehlkonfigurationen und mangelnde Härtung der Amazon Cloud ausnutzen und wie Sie AWS-Dienste und Cloud-Identitäten dagegen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Cloud-Security-Masterclass-Angriff-und-Verteidigung-in-AWS-11443166.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Tamagotchi trifft KI-Agent: Meta kündigt KI-Gadget Muse Charm an",
-      "teaser": "Meta hat mit Muse Charm ein neues KI-Gadget für seinen Agenten Muse vorgestellt. Das Gerät soll als tragbarer Begleiter für den Alltag dienen.",
-      "url": "https://www.heise.de/news/Tamagotchi-trifft-KI-Agent-Meta-kuendigt-KI-Gadget-Muse-Charm-an-11463998.html",
-      "image_title": "Muse Charm in Hand"
     },
     {
       "title": "NewsBroadcom erschwert den VMware-Ausstieg",
