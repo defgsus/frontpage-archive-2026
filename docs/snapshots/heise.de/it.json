@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T03:26:46",
+  "timestamp": "2026-09-27T09:37:46",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,17 @@
   ],
   "articles": [
     {
+      "title": "VideoMeshCore — So kommuniziert ihr auch beim Blackout",
+      "teaser": "Wenn der Strom ausfällt, fällt meist auch das Handynetz aus. MeshCore hält euch trotzdem in Kontakt. Wie das geht, erklären wir im Video.",
+      "url": "https://www.heise.de/news/Video-MeshCore-So-kommuniziert-ihr-auch-beim-Blackout-11464276.html"
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
+      "teaser": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11443220.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
+    },
+    {
       "title": "Nach DatendiebstahlKunden von Lieferdienst Flink werden erpresst",
       "teaser": "Kunden des Lieferdienstes Flink erhalten derzeit Erpressungsmails. Denn: nach Datenverlust wollte Flink nicht zahlen.",
       "url": "https://www.heise.de/news/Kunden-und-Mitarbeiter-von-Lieferdienst-Flink-werden-erpresst-11467086.html",
@@ -29,17 +40,6 @@
       "title": "D-TrustZertifikat der AusweisApp zurückgezogen",
       "teaser": "Seit kurzer Zeit wird das Zertifikat der AusweisApp von mehreren Browsern nicht mehr akzeptiert.",
       "url": "https://www.heise.de/news/AusweisApp-der-Bundesdruckerei-Zertifikat-ueberraschend-zurueckgezogen-11467046.html"
-    },
-    {
-      "title": "Meta droht wegen Cambridge Analytica neue Milliardenstrafe",
-      "teaser": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Im Nachgang führt der Fall nun zu einem neuen Urteil gegen den Meta-Konzern.",
-      "url": "https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html"
-    },
-    {
-      "title": "OpenAI informiert „dutzende“ Institutionen über unbefugte KI-Interaktionen",
-      "teaser": "OpenAIs KI platzierte Bilder seiner Nutzer auf Online-Plattformen. Es ist der erste bekannte Sicherheitsvorfall bei dem ChatGPT-Nutzerdaten involviert sind.",
-      "url": "https://www.heise.de/news/KI-von-OpenAI-stellte-Nutzer-Bilder-auf-Online-Plattformen-11466970.html",
-      "image_title": "OpenAI-Logo an Glasfassade eines Bürogebäudes vor blauem Himmel mit Wolken."
     },
     {
       "title": "RatgeberLokale LLMs in Text- und Notizsoftware: So arbeitet die KI produktiv mit",
@@ -60,6 +60,17 @@
       "title": "Mova Lumegret A4000 im Test: Speicher für Balkonkraftwerk mit 2,5 kW & 4 MPPT",
       "teaser": "Vier MPPTs, 4,02 kWh Speicher und 2,5 kW Backup machen den A4000 flexibel. Für kleine Balkonkraftwerke ist er aber oft zu groß.",
       "url": "https://www.heise.de/bestenlisten/testbericht/mova-lumegret-a4000-im-test-speicher-fuer-balkonkraftwerk-mit-25-kw-und-4-mppt/y41zfhh?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Meta droht wegen Cambridge Analytica neue Milliardenstrafe",
+      "teaser": "Der Skandal um Cambridge Analytica erschütterte einst das Vertrauen in Facebook. Im Nachgang führt der Fall nun zu einem neuen Urteil gegen den Meta-Konzern.",
+      "url": "https://www.heise.de/news/Meta-droht-wegen-Cambridge-Analytica-neue-Milliardenstrafe-11467008.html"
+    },
+    {
+      "title": "OpenAI informiert „dutzende“ Institutionen über unbefugte KI-Interaktionen",
+      "teaser": "OpenAIs KI platzierte Bilder seiner Nutzer auf Online-Plattformen. Es ist der erste bekannte Sicherheitsvorfall bei dem ChatGPT-Nutzerdaten involviert sind.",
+      "url": "https://www.heise.de/news/KI-von-OpenAI-stellte-Nutzer-Bilder-auf-Online-Plattformen-11466970.html",
+      "image_title": "OpenAI-Logo an Glasfassade eines Bürogebäudes vor blauem Himmel mit Wolken."
     },
     {
       "title": "MedConf Herbst 2026: Das erwartet Konferenzteilnehmer im November",
@@ -128,18 +139,6 @@
       "teaser": "Anthropic versieht weitere Claude-Modelle mit unsichtbaren Text-Wasserzeichen. Das Verfahren soll mit Claude erzeugte Texte erkennbar machen, hat aber Grenzen.",
       "url": "https://www.heise.de/news/Wasserzeichen-fuer-KI-Texte-Anthropic-weitet-Anwendung-aus-11466692.html",
       "image_title": "Anthropic Claude Logo auf Handy"
-    },
-    {
-      "title": "Appwrite 2.3: Dev-Keys entfallen, Migration nötig",
-      "teaser": "Appwrite 2.3 bringt Jaspr für Sites und Nightly-Versionen für den Eigenbetrieb. Wichtig für bestehende Installationen ist das Aus für Dev-Keys.",
-      "url": "https://www.heise.de/news/Appwrite-2-3-Dev-Keys-entfallen-Migration-noetig-11466656.html",
-      "image_title": "Appwrite Dashboard mit Projektübersicht, Bandbreitendiagramm und Statistiken."
-    },
-    {
-      "title": "Googlebook OS: Google-Manager Kuscher erklärt den Wechsel zu Android",
-      "teaser": "Im Gespräch mit heise online erklärt Google-Manager Alexander Kuscher, warum ein angepasstes Android ChromeOS ersetzt und was noch geplant ist.",
-      "url": "https://www.heise.de/news/Googlebook-OS-Google-Manager-Kuscher-erklaert-den-Wechsel-zu-Android-11466352.html",
-      "image_title": "Googlebook-Schriftzug auf Notebook"
     },
     {
       "title": "NewsAngriff mit KI-Agenten auf hunderte Shops: 600.000 Kreditkartendaten geklaut",
