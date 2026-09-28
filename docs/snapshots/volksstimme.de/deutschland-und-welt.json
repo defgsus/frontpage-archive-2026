@@ -1,10 +1,40 @@
 {
-  "timestamp": "2026-09-27T21:42:25",
+  "timestamp": "2026-09-28T00:04:20",
   "url": "https://www.volksstimme.de/deutschland-und-welt",
   "response": {
-    "status": 404
+    "status": 200
   },
   "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://data-11c63b1cbc.volksstimme.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://applets.ebxcdn.com/ebx.js",
+      "id": "ebx",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/scripts.d5102b46.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/adScripts.d5102b46.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cdn.dl.volksstimme.de/bineosmgm/content/Bineos_2_0/bineos.min.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": "module",
       "src": "https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495",
@@ -12,5 +42,306 @@
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Dutzende Festnahmen bei Demo für Palestine Action in England",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/dutzende-festnahmen-bei-demo-fur-palestine-action-in-england-4327759",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/2e0fb1b8-d1f8-4be7-89f5-80c20b7957b3.jpeg?rect=0%2C173%2C2048%2C1152&width=100",
+      "image_title": "Die Polizei in Liverpool hat Dutzende Demonstranten festgenommen.",
+      "topic": "Proteste"
+    },
+    {
+      "title": "Gegner blockieren umstrittene Oranier-Parade in Nordirland",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/gegner-blockieren-umstrittene-oranier-parade-in-nordirland-4327342",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/0a8524f7-1b64-48ac-824f-5cb4d140e2a4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Keine Bewegung: Die umstrittene Parade bleibt seit den Morgenstunden blockiert.",
+      "topic": "Konflikte"
+    },
+    {
+      "title": "Irak: US-Truppen sind vollständig abgezogen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/irak-us-truppen-sind-vollstandig-abgezogen-4327748",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/8443118b-3c83-446c-99b5-811791166ff4.jpeg?rect=0%2C110%2C2048%2C1152&width=100",
+      "image_title": "Der US-Truppenabzug wurde bereits 2024 beschlossen. (Archivbild)",
+      "topic": "US-Militär in Nahost"
+    },
+    {
+      "title": "Machtzuwachs für Le Pens Rechtsnationale im Pariser Senat",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/machtzuwachs-fur-le-pens-rechtsnationale-im-pariser-senat-4327427",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/8ae810bb-aab8-4ea9-93cb-5e19cd2032c0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Ergebnisse der Teilwahl des Senats stärken Marine Le Pen den Rücken (Archivbild).",
+      "topic": "Oberhaus des Parlaments"
+    },
+    {
+      "title": "Amthor eckt mit Strandkorb im Kanzleramt an",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/amthor-eckt-mit-strandkorb-im-kanzleramt-an-4327732",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/0ddbcae1-3855-4fcf-be3c-ecb125075dfa.jpeg?rect=0%2C183%2C2048%2C1152&width=100",
+      "image_title": "An einer Szene mit CDU-Politiker Philipp Amthor reiben sich viele Social-Media-Nutzer. (Archivbild)",
+      "topic": "Szene in ZDF-Dokumentation"
+    },
+    {
+      "title": "Serbiens Präsident Vucic zurückgetreten",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/serbiens-prasident-vucic-zuruckgetreten-4327726",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/28bd8f38-779e-455d-928c-3751c053dbda.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Serbiens Staatspräsident Aleksandar Vucic ist zurückgetreten, um als Spitzendkandidat seiner Fortschrittspartei bei der vorgezogenen Parlamentswahl vom 25. Oktober antreten zu können.",
+      "topic": "Politik am Balkan"
+    },
+    {
+      "title": "Papst trifft Missbrauchsopfer in Lourdes",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/papst-trifft-missbrauchsopfer-in-lourdes-4327601",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/c3fb80f3-afb6-4d84-8946-c45bb24b8a65.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Papst Leo XIV. traf sich auch mit Missbrauchsopfern.",
+      "topic": "Leo XIV. in Frankreich"
+    },
+    {
+      "title": "Festnahmen bei britischer Militärbasis - Terrorverdacht",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/festnahmen-bei-britischer-militarbasis-terrorverdacht-4327589",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/4ab01d1f-2011-4918-b209-e24a2316d376.jpeg?rect=0%2C47%2C2048%2C1152&width=100",
+      "image_title": "Die Polizei hatte in der Nähe des britischen Luftwaffenstützpunkts fünf Männer festgenommen.",
+      "topic": "Von USA genutzter Stützpunkt"
+    },
+    {
+      "title": "Trump: Erwarte weitere Gespräche mit dem Iran",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/trump-erwarte-weitere-gesprache-mit-dem-iran-4327663",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/4da6b2ee-b4c8-42d4-a6a7-d9634c2cf027.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Trump erwartet weitere Verhandlungen mit dem Iran.",
+      "topic": "Iran-Krieg"
+    },
+    {
+      "title": "Linnemann gegen Pflegedeckel - Warum die Koalition streitet",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/linnemann-gegen-pflegedeckel-warum-die-koalition-streitet-4327665",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/e5c74e51-40f6-404c-8b39-e0f485b60c2d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Vorerst ausgebremst scheint Gesundheitsminister Carsten Linnemann bei der Pflege. (Archivfoto)",
+      "topic": "Bundesregierung"
+    },
+    {
+      "title": "Warum Kerkeling und Maaßen über ein AfD-Verbot sprechen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/warum-kerkeling-und-maassen-uber-ein-afd-verbot-sprechen-4327312",
+      "topic": "Anhörung im Thüringer Landtag"
+    },
+    {
+      "title": "Russlands Krieg kommt näher",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/russlands-krieg-kommt-naher-4327437",
+      "topic": "Nach Drohnenangriffen"
+    },
+    {
+      "title": "Amthor eckt mit Strandkorb im Kanzleramt an",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/amthor-eckt-mit-strandkorb-im-kanzleramt-an-4327732",
+      "topic": "Szene in ZDF-Dokumentation"
+    },
+    {
+      "title": "53.000 Klagen von Passagieren gegen Fluglinien im Halbjahr",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/53-000-klagen-von-passagieren-gegen-fluglinien-im-halbjahr-4327513",
+      "topic": "Flugverkehr"
+    },
+    {
+      "title": "Banaszak und Brantner kandidieren wieder für Grünen-Spitze",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/banaszak-und-brantner-kandidieren-wieder-fur-grunen-spitze-4327523",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/d136be1f-a248-4d25-aff3-275ab382b6b9.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wollen im Dezember für eine weitere Amtszeit kandidieren: Felix Banaszak und Franziska Brantner (Archivbild)",
+      "topic": "Parteien"
+    },
+    {
+      "title": "DGB-Chefin ruft Regierung nach Protesten zu Konsequenzen auf",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/dgb-chefin-ruft-regierung-nach-protesten-zu-konsequenzen-auf-4327582",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/d541624a-4fb0-4049-a53c-587b6816ee8e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "DGB-Chefin Yasmin Fahimi fordert die Regierung auf, die Sorgen der Menschen ernst zu nehmen. (Archivfoto)",
+      "topic": "Demonstrationen"
+    },
+    {
+      "title": "CSU- und SPD-Politiker machen Druck bei Steinmeier-Nachfolge",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/csu-und-spd-politiker-machen-druck-bei-steinmeier-nachfolge-4327323",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/3aa34121-27bc-4788-9678-b9d69046ae52.jpeg?rect=0%2C73%2C2048%2C1152&width=100",
+      "image_title": "Die nächste Bundespräsidentin oder der nächste Bundespräsident zieht in ein Provisorium, weil das Schloss Bellevue renoviert wird.",
+      "topic": "Wahl des Bundespräsidenten"
+    },
+    {
+      "title": "Voigt fordert Trendumkehr: „Länder mischen sich ein“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/voigt-fordert-trendumkehr-lander-mischen-sich-ein-4327321",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/6a704bc0-0996-4809-ae8a-57226f8c1998.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Thüringens Ministerpräsident Mario Voigt (CDU) dringt auf eine programmatische Neuaufstellung seiner Partei nach drei Wahlniederlagen bei Landtagswahlen. (Archivbild)",
+      "topic": "CDU nach Wahlniederlagen"
+    },
+    {
+      "title": "Warum Kerkeling und Maaßen über ein AfD-Verbot sprechen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/warum-kerkeling-und-maassen-uber-ein-afd-verbot-sprechen-4327312",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/2444f771-6218-4c8b-9fb2-663976e61a72.jpeg?rect=0%2C117%2C2048%2C1152&width=100",
+      "image_title": "Hape Kerkeling hat eine vielbeachtete Rede zum Jahrestag der Befreiung des Konzentrationslagers Buchenwald bei Weimar gehalten. (Archivbild)",
+      "topic": "Anhörung im Thüringer Landtag"
+    },
+    {
+      "title": "Kassen warnen vor Pflege-Blockade - „Geld alle“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/kassen-warnen-vor-pflege-blockade-geld-alle-4327304",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/64513a2b-fc02-4f64-9f6f-0f835d85e18c.jpeg?rect=0%2C181%2C2048%2C1152&width=100",
+      "image_title": "Noch ist eine Pflegereform nur in Konturen erkennbar, vieles ist noch strittig. (Symbolbild)",
+      "topic": "Koalition"
+    },
+    {
+      "title": "Berliner SPD will mit Linken über Regierungsbildung sprechen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/berliner-spd-will-mit-linken-uber-regierungsbildung-sprechen-4327247",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/ccbb2877-6530-4a03-bb01-4f7cf1140df9.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Wer übernimmt hier künftig das Steuer? (Archivbild)",
+      "topic": "Wahlen"
+    },
+    {
+      "title": "Dobrindt will Frontex deutlich stärken",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/dobrindt-will-frontex-deutlich-starken-4327073",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/ba49e605-6f70-453b-87d2-1b7f5880104d.jpeg?rect=5%2C0%2C2037%2C1146&width=100",
+      "image_title": "Bundesinnenminister hat zum „Munich Migration Meeting“ geladen.",
+      "topic": "Migration"
+    },
+    {
+      "title": "Massenproteste gegen Sozialabbau",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/massenproteste-gegen-sozialabbau-4327076",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/6901688c-312e-44fe-b8df-4a5a166b231b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Allein 20.000 Menschen zogen nach Polizeiangaben bei verschiedenen Demonstrationszügen durch Nürnberg.",
+      "topic": "Demonstrationen"
+    },
+    {
+      "title": "Miersch droht mit Stopp von Linnemanns Pflegeplänen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/miersch-droht-mit-stopp-von-linnemanns-pflegeplanen-4326830",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/750effb0-1162-4f54-a5c5-b8b425be4889.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "SPD-Fraktionschef Matthias Miersch will keine reine Sparreform bei der Pflege. (Archivfoto)",
+      "topic": "Koalition"
+    },
+    {
+      "title": "Schweizer lehnen Abschottung durch strikte Neutralität ab",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/schweizer-lehnen-abschottung-durch-strikte-neutralitat-ab-4327481",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/f5a05749-2844-40ce-ae21-13406e616bd4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Schweiz: Neutralitätsinitiative scheitert bei einer Volksabstimmung. (Archivbild)",
+      "topic": "Schweizer Neutralität"
+    },
+    {
+      "title": "Ärger über Wohnungsnot setzt Spaniens Regierung unter Druck",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/arger-uber-wohnungsnot-setzt-spaniens-regierung-unter-druck-4327266",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/3b16bc46-01e4-42e5-bfd3-86f16f5ab473.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "An dem Marsch in Madrid beteiligten sich Familien, Jugendliche und Rentner.",
+      "topic": "Wohnungsnot"
+    },
+    {
+      "title": "Russlands Krieg kommt näher",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/russlands-krieg-kommt-naher-4327437",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/f4e02ae5-11ff-41de-b60b-cca6f94cde4d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Feuer machen mit Birkenrinde: Das lernen Mitarbeiter der deutschen Botschaft in Warschau bei Notfalltraining von Polens Armee.",
+      "topic": "Nach Drohnenangriffen"
+    },
+    {
+      "title": "Prozess um angebliche Drohung Comeys gegen Trump erst 2027",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/prozess-um-angebliche-drohung-comeys-gegen-trump-erst-2027-4327277",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/b790a1e8-07c4-4745-973d-ec1fac37a05f.jpeg?rect=0%2C164%2C2048%2C1152&width=100",
+      "image_title": "Ex-FBI-Chef Comey hat Ärger wegen eines Fotos von Muscheln am Strand. (Archivbild)",
+      "topic": "Nach Instagram-Beitrag"
+    },
+    {
+      "title": "Treffen am Rande der UN: Wadephul und Lawrow bleiben uneins",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/treffen-am-rande-der-un-wadephul-und-lawrow-bleiben-uneins-4327092",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/7e665687-ffb3-4cd9-9bf8-8e22204ae1b3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die ersten direkten Gespräche seit Jahren: Wadephul hat Lawrow getroffen.",
+      "topic": "Vereinte Nationen"
+    },
+    {
+      "title": "China und USA richten KI-Kommunikationskanal ein",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/china-und-usa-richten-ki-kommunikationskanal-ein-4327057",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/d8e5e97b-1e76-41d3-b8ae-479d6483a26a.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Chinas Staatschef Xi Jinping (l) reiste für drei Tage zu US-Präsident Donald Trump nach Washington. (Archivbild)",
+      "topic": "Staatsbesuch"
+    },
+    {
+      "title": "Trump: Habe iranisches Hormus-Angebot abgelehnt",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/trump-habe-iranisches-hormus-angebot-abgelehnt-4327146",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/8d475de8-b9f5-4f01-b7a3-4cf0d33c7672.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Der Vorschlag sei nicht annehmbar gewesen, sagte Donald Trump.",
+      "topic": "Iran-Krieg"
+    },
+    {
+      "title": "Selenskyj: Tote und Verletzte durch russische Angriffe",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/selenskyj-tote-und-verletzte-durch-russische-angriffe-4326987",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/d1ab0279-6da8-4bb4-a482-7f8e85a4245c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Zwei Menschen starben bei einem russischen Angriff auf Saporischschja.",
+      "topic": "Ukraine-Krieg"
+    },
+    {
+      "title": "Tote und Verletzte nach Explosion in Pakistan",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/tote-und-verletzte-nach-explosion-in-pakistan-4327070",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/9b48de21-925c-4f9e-96e8-63b6f279b9b1.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "In Pakistan ist es wieder zu einem Anschlag gekommen. (Symbolbild)",
+      "topic": "Angriff"
+    },
+    {
+      "title": "Hunderttausende bei Papstmesse in Paris",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/hunderttausende-bei-papstmesse-in-paris-4327042",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/d8c2900f-8b2c-462b-bd26-9043ad5374d6.jpeg?rect=0%2C192%2C2048%2C1152&width=100",
+      "image_title": "Nach offiziellen Angaben haben sich etwa 600.000 Menschen für den Gottesdienst nahe den Champs-Élysées angemeldet.",
+      "topic": "Katholische Kirche"
+    },
+    {
+      "title": "53.000 Klagen von Passagieren gegen Fluglinien im Halbjahr",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/53-000-klagen-von-passagieren-gegen-fluglinien-im-halbjahr-4327513",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/2084b1b8-eeff-4292-a3d3-423596361804.jpeg?rect=0%2C76%2C2048%2C1152&width=100",
+      "image_title": "Wegen Verspätungen und Ausfällen kommen im Jahr mehr als 100.000 Klagen gegen Fluglinien zusammen. (Illustration)",
+      "topic": "Flugverkehr"
+    },
+    {
+      "title": "Statt Tarifdschungel: Fahrscheine für 15 oder 60 Minuten?",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/statt-tarifdschungel-fahrscheine-fur-15-oder-60-minuten-4327346",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/06531917-0014-4aab-bbef-e996c58171b8.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Tarifsysteme im Nahverkehr haben oft komplizierte Zonen und Ticketvarianten. (Archivbild)",
+      "topic": "Nahverkehr"
+    },
+    {
+      "title": "Gewerkschaft fordert Schritte gegen illegales Glücksspiel",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/gewerkschaft-fordert-schritte-gegen-illegales-glucksspiel-4327311",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/646267af-6f66-472a-aa01-4ac42503e44e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Spielautomat in einer legalen Spielothek. Viele andere Automaten sind hingegen illegal im Einsatz.",
+      "topic": "Spielautomaten"
+    },
+    {
+      "title": "Verbraucher hinterfragen zunehmend Fleischkonsum",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/verbraucher-hinterfragen-zunehmend-fleischkonsum-4327291",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/27/7e9229e2-731c-4da8-ba3e-1ff362ed7a92.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bei Wurstwaren nahmen zuletzt sowohl Käuferreichweite als auch Absatzmenge ab. (Symbolbild)",
+      "topic": "Weltvegetariertag"
+    },
+    {
+      "title": "Neue Label informieren Verbraucher über Rechte bei Problemen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/neue-label-informieren-verbraucher-uber-rechte-bei-problemen-4327272",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/b22d6473-0575-4193-8484-84409cf94b84.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Was können Verbraucher bei Problemen tun? Auch darüber klärt das Label auf. (Symbolbild)",
+      "topic": "Verbraucher"
+    },
+    {
+      "title": "Warum VW-Fahrer nach Rückruf zweimal in die Werkstatt müssen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/warum-vw-fahrer-nach-ruckruf-zweimal-in-die-werkstatt-mussen-4327009",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/3fc06287-d2b4-476f-a9ff-9335f9e8c065.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
+      "image_title": "Wegen einer fehlenden Schraube müssen VW-Fahrer für einen vorsorglichen Rückruf möglicherweise zweimal in die Werkstatt. (Symbolbild)",
+      "topic": "Autobauer"
+    },
+    {
+      "title": "Pakete landen immer häufiger vor der Haustür",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/pakete-landen-immer-haufiger-vor-der-haustur-4326881",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/f17dc229-d23c-4982-aa44-4937f31f42c5.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Da sind sie ja, die Pakete. Einen großen Teil der Pakete legen Zusteller inzwischen vor den Haustüren ab.",
+      "topic": "Mit Zustimmung der Verbraucher"
+    },
+    {
+      "title": "Milchprodukte könnten bald teurer werden",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/milchprodukte-konnten-bald-teurer-werden-4326869",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/353beef1-5c66-4260-931c-0756d48d8022.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Aus Sicht des Milchindustrie-Verbands sprechen mehrere Faktoren für steigende Preise. (Archivbild)",
+      "topic": "Proteinhype und El-Niño-Effekt"
+    },
+    {
+      "title": "Spritpreise machen gebrauchte Elektroautos teurer",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/spritpreise-machen-gebrauchte-elektroautos-teurer-4326848",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/3fcf546d-d989-4f53-b275-7d5fd0b547b0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Preise für gebrauchte Elektroautos haben angezogen. (Archivbild)",
+      "topic": "Elektromobilität"
+    },
+    {
+      "title": "Persil, Taft, Pril, Pritt – Henkel wird 150",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/persil-taft-pril-pritt-henkel-wird-150-4326842",
+      "image_url": "https://bmg-images.forward-publishing.io/2026/09/26/a76464d9-53e6-4beb-8d68-8c2e45999d26.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Reihe historischer Produktverpackungen bekannter Henkel-Produkte.",
+      "topic": "Düsseldorfer Konzern"
+    }
+  ]
 }
