@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-29T00:40:55",
+  "timestamp": "2026-09-29T06:20:25",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -20,38 +20,67 @@
   ],
   "articles": [
     {
-      "title": "NewsWie fährt der VW ID. Tiguan?",
-      "teaser": "Volkswagen ersetzt Anfang 2027 seine Elektroauto-Modelle VW ID.4 und ID.5 durch den VW ID. Tiguan. Das Elektro-SUV basiert weiterhin auf der MEB-Plattform.",
-      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html",
-      "image_title": "VW ID. Tiguan"
+      "title": "HintergrundWo neue Engstellen für E-Autofahrer drohen",
+      "teaser": "Die Ladeinfrastruktur ist derzeit nur mäßig ausgelastet. Das dürfte sich ändern. Die Zukunft lässt sich zwar nicht perfekt planen, ein bisschen aber schon.",
+      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Engstellen-in-der-oeffentlichen-Ladeinfrastruktur-11445717.html",
+      "image_title": "Kia an Aral-Ladepunkt"
     },
     {
-      "title": "HintergrundWie Open Table Formats die Logik moderner Datenplattformen verändern",
-      "teaser": "Lakehouse-Architekturen mit offenen Standards wie Iceberg und Delta Lake schaffen die Basis für KI, Analytics und modernes Datenmanagement.",
-      "url": "https://www.heise.de/hintergrund/Wie-Open-Table-Formats-die-Logik-moderner-Datenplattformen-veraendern-11462020.html"
+      "title": "HintergrundVon 3 bis 98 Prozent Nutzungsquote: So erfolgreich ist die digitale Verwaltung",
+      "teaser": "Eine Umfrage von c’t unter Städten zeigt: Manche Online-Anträge werden von über 90 Prozent der Menschen genutzt. Doch meist bremsen E-Perso & Co. massiv.",
+      "url": "https://www.heise.de/hintergrund/Von-3-bis-98-Prozent-Nutzungsquote-So-erfolgreich-ist-die-digitale-Verwaltung-11408626.html"
     },
     {
-      "title": "HintergrundKI-Agenten vor vergifteten Tools schützen",
-      "teaser": "Vergiftete Tools und manipulierte Agent Cards bedrohen KI-Agenten. So sichern Sie MCP und A2A wirksam ab.",
-      "url": "https://www.heise.de/hintergrund/MCP-Server-und-Agent-to-Agent-Verbindungen-gegen-vergiftete-Tools-absichern-11446706.html",
+      "title": "RatgeberAlte USB-Gadgets ansteuern: ESP32-S3 als USB-Host verwenden",
+      "teaser": "Wir zeigen, wie sich ein altes USB-Gadget direkt ansteuern lässt und USB-Control-Transfers, HID-Requests und die Host-Bibliothek der ESP-IDF zusammenspielen.",
+      "url": "https://www.heise.de/ratgeber/Alte-USB-Gadgets-ansteuern-ESP32-S3-als-USB-Host-verwenden-11448820.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberAnalogfotografie: Lomografie als Gegenbewegung zur digitalen Perfektion",
+      "teaser": "Unscharf, körnig, unperfekt – und gerade deshalb faszinierend. Lomografie feiert ihr Comeback im Zeitalter von digitaler Bilderflut und KI.",
+      "url": "https://www.heise.de/ratgeber/Analogfotografie-Lomografie-als-Gegenbewegung-zur-digitalen-Perfektion-11463536.html",
+      "image_title": ", Ansgar Kossowski / heise medien"
+    },
+    {
+      "title": "HintergrundWie KI das explorative Testen verändert: Vom Ideenimpuls zum Session-Partner",
+      "teaser": "Zwischen kreativer Unterstützung und autonomen Agenten entstehen neue Chancen. Der Artikel zeigt, wo KI heute inspiriert und scheitert.",
+      "url": "https://www.heise.de/hintergrund/Wie-KI-das-explorative-Testen-veraendert-Vom-Ideenimpuls-zum-Session-Partner-11461822.html"
+    },
+    {
+      "title": "TestsClub 3D CAC-2509 im Test: Neun Meter USB-Kabel mit Tücken",
+      "teaser": "Die Hüter der USB-Spezifikationen definieren nur den maximalen Leitungswiderstand eines USB-Kabels, aber keine Höchstlänge. Club 3D dehnt sie auf neun Meter.",
+      "url": "https://www.heise.de/tests/Club-3D-CAC-2509-im-Test-Neun-Meter-USB-Kabel-mit-Tuecken-11425180.html"
+    },
+    {
+      "title": "Offene Notizensammler: Vier Alternativen zu Apples Notizen-App im Test",
+      "teaser": "Viele Notizen-Apps speichern Inhalte in geschlossenen Datensilos. Wir haben vier flexible Alternativen getestet, die Ihre Daten als Markdown-Dateien verwalten.",
+      "url": "https://www.heise.de/tests/Offene-Notizensammler-Vier-Alternativen-zu-Apples-Notizen-App-im-Test-11466862.html",
+      "image_title": ". , KI / heise medien"
+    },
+    {
+      "title": "Mathe-Beweise durch KI: Warum Mathematiker den Modell-Anbietern misstrauen",
+      "teaser": "OpenAI und Anthropic liefern sich ein atemloses Rennen und nutzen Mathe-Beweise als Benchmark. Doch was ist wirklich KIs Werk und was des Menschen Beitrag?",
+      "url": "https://www.heise.de/hintergrund/Mathe-Beweise-durch-KI-Warum-Mathematiker-den-Modell-Anbietern-misstrauen-11313140.html",
+      "image_title": "Ein futuristisches Labor mit einem Roboterarm, der an einem Fließband mit Fragezeichen arbeitet."
+    },
+    {
+      "title": "Wie Sie KI-Agenten mit .NET orchestrieren",
+      "teaser": "Microsoft Agent Framework verbindet LLMs, Werkzeuge und zustandsbehaftete Workflows für ein belastbares KI-System.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-KI-Agenten-mit-NET-orchestrieren-11464010.html",
       "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
-      "title": "RatgeberRaus aus Adobes Creative Cloud: Acht Photoshop-Alternativen im Praxischeck",
-      "teaser": "Abo-Frust, Cloud-Zwang, KI-Bedenken: Wir zeigen, was Photoshop-Alternativen wie Affinity, ACDSee, GIMP und Co. wirklich leisten.",
-      "url": "https://www.heise.de/ratgeber/Raus-aus-Adobes-Creative-Cloud-Acht-Photoshop-Alternativen-im-Praxischeck-11453137.html",
-      "image_title": ", KI / heise medien; Alle weiteren Bilder: Thomas Gade"
+      "title": "Mit mattem OLED: Businessnotebook HP EliteBook X G2q im Test",
+      "teaser": "Das EliteBook X G2q erfreut mit einem matten OLED-Bildschirm und integriertem 5G-Modem. Ein HP-exklusiver Snapdragon-X2-Prozessor liefert viel Leistung.",
+      "url": "https://www.heise.de/tests/Mit-mattem-OLED-Businessnotebook-HP-EliteBook-X-G2q-im-Test-11436913.html",
+      "image_title": "Ein aufgeklappter Laptop mit Landschafts-Hintergrundbild vor hellblauem Hintergrund"
     },
     {
-      "title": "TestsAirPods 5 im Test",
-      "teaser": "In Apples AirPods ziehen neue Funktionen ein. Ob Generation 5 echte Fortschritte macht, zeigt unser Test.",
-      "url": "https://www.heise.de/tests/AirPods-5-im-Test-ANC-endlich-fuer-alle-11461270.html",
-      "image_title": "Die neuen AirPods 5"
-    },
-    {
-      "title": "RatgeberDawarich: Open-Source-Alternative zum Google Standortverlauf im Test",
-      "teaser": "Dawarich ist eine private Alternative zum Google Standortverlauf. Mit eigener App lassen sich die Geodaten nun komfortabel am Smartphone erheben und einsehen.",
-      "url": "https://www.heise.de/ratgeber/Dawarich-Open-Source-Alternative-zum-Google-Standortverlauf-11453464.html"
+      "title": "Die Registry-Struktur: Hives und ihre Speicherorte",
+      "teaser": "Wissen Sie, in wie vielen Dateien Windows die Registry speichert? Wie verstreut die Dateien sogar über Laufwerk C: hinaus sind? Wir klären auf.",
+      "url": "https://www.heise.de/ratgeber/Die-Registry-Struktur-Hives-und-ihre-Speicherorte-11426125.html",
+      "image_title": "Fünf Holzkisten auf einer Leiterplatte mit goldenen Kontakten"
     },
     {
       "title": "Expertentalk Spritpreise: Was sich jetzt ändert",
@@ -65,16 +94,15 @@
       "image_title": "Eine Hand hält eine transparente, quadratische Box mit einem Snapdragon-Logo."
     },
     {
-      "title": "Alte USB-Gadgets ansteuern: ESP32-S3 als USB-Host verwenden",
-      "teaser": "Wir zeigen, wie sich ein altes USB-Gadget direkt ansteuern lässt und USB-Control-Transfers, HID-Requests und die Host-Bibliothek der ESP-IDF zusammenspielen.",
-      "url": "https://www.heise.de/ratgeber/Alte-USB-Gadgets-ansteuern-ESP32-S3-als-USB-Host-verwenden-11448820.html",
-      "image_title": ","
+      "title": "Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
+      "teaser": "Volkswagen ersetzt Anfang 2027 seine Elektroauto-Modelle VW ID.4 und ID.5 durch den VW ID. Tiguan. Das Elektro-SUV basiert weiterhin auf der MEB-Plattform.",
+      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html",
+      "image_title": "VW ID. Tiguan"
     },
     {
-      "title": "Analogfotografie: Lomografie als Gegenbewegung zur digitalen Perfektion",
-      "teaser": "Unscharf, körnig, unperfekt – und gerade deshalb faszinierend. Lomografie feiert ihr Comeback im Zeitalter von digitaler Bilderflut und KI.",
-      "url": "https://www.heise.de/ratgeber/Analogfotografie-Lomografie-als-Gegenbewegung-zur-digitalen-Perfektion-11463536.html",
-      "image_title": ", Ansgar Kossowski / heise medien"
+      "title": "Wie Open Table Formats die Logik moderner Datenplattformen verändern",
+      "teaser": "Lakehouse-Architekturen mit offenen Standards wie Iceberg und Delta Lake schaffen die Basis für KI, Analytics und modernes Datenmanagement.",
+      "url": "https://www.heise.de/hintergrund/Wie-Open-Table-Formats-die-Logik-moderner-Datenplattformen-veraendern-11462020.html"
     },
     {
       "title": "Wie Sie die LLM-Inferenz im eigenen Rechenzentrum absichern",
@@ -112,6 +140,21 @@
       "image_title": "Nachtzugkonzept Projekt ALISA"
     },
     {
+      "title": "Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
+      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html",
+      "image_title": "VW ID. Tiguan"
+    },
+    {
+      "title": "VW ID.3 Neo im Test: Schneller als versprochen",
+      "url": "https://www.heise.de/tests/VW-ID-3-Neo-im-Test-Der-letzte-Schliff-11464488.html",
+      "image_title": "VW ID.3 Neo"
+    },
+    {
+      "title": "Die bürgerliche Mitte: Der Skoda Elroq 60 im Test",
+      "url": "https://www.heise.de/tests/Die-buergerliche-Mitte-Der-Skoda-Elroq-60-im-Test-11456498.html",
+      "image_title": "Skoda Elroq"
+    },
+    {
       "title": "Lokale KI als Schreibhilfe: LLMs in LibreOffice, Obsidian & Co. einsetzen",
       "teaser": "Chat-Masken eignen sich wenig, um lokale LLMs als Schreibhilfe einzusetzen. Wir probieren, wie sich LLMs direkt in Textbearbeitungswerkzeuge integrieren lassen.",
       "url": "https://www.heise.de/ratgeber/Lokale-LLMs-in-Text-und-Notizsoftware-So-arbeitet-die-KI-produktiv-mit-11466058.html",
@@ -138,21 +181,6 @@
       "teaser": "Beim Vibe-Coding generiert die KI den Code, aber einbauen muss man ihn noch selbst. Das Agentic Coding übernimmt auch das und auch noch das Debugging.",
       "url": "https://www.heise.de/ratgeber/KI-Coding-Assistent-Erste-Schritte-mit-Agentic-Coding-11448768.html",
       "image_title": ", !!!"
-    },
-    {
-      "title": "Erste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
-      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html",
-      "image_title": "VW ID. Tiguan"
-    },
-    {
-      "title": "VW ID.3 Neo im Test: Schneller als versprochen",
-      "url": "https://www.heise.de/tests/VW-ID-3-Neo-im-Test-Der-letzte-Schliff-11464488.html",
-      "image_title": "VW ID.3 Neo"
-    },
-    {
-      "title": "Die bürgerliche Mitte: Der Skoda Elroq 60 im Test",
-      "url": "https://www.heise.de/tests/Die-buergerliche-Mitte-Der-Skoda-Elroq-60-im-Test-11456498.html",
-      "image_title": "Skoda Elroq"
     },
     {
       "title": "c’t-Story: #ForeverVivian",
@@ -208,37 +236,9 @@
       "image_title": ", Vanessa Bahr / KI / iX"
     },
     {
-      "title": "Club 3D CAC-2509 im Test: Neun Meter USB-Kabel mit Tücken",
-      "teaser": "Die Hüter der USB-Spezifikationen definieren nur den maximalen Leitungswiderstand eines USB-Kabels, aber keine Höchstlänge. Club 3D dehnt sie auf neun Meter.",
-      "url": "https://www.heise.de/tests/Club-3D-CAC-2509-im-Test-Neun-Meter-USB-Kabel-mit-Tuecken-11425180.html"
-    },
-    {
-      "title": "Wie KI das explorative Testen verändert: Vom Ideenimpuls zum Session-Partner",
-      "teaser": "Zwischen kreativer Unterstützung und autonomen Agenten entstehen neue Chancen. Der Artikel zeigt, wo KI heute inspiriert und scheitert.",
-      "url": "https://www.heise.de/hintergrund/Wie-KI-das-explorative-Testen-veraendert-Vom-Ideenimpuls-zum-Session-Partner-11461822.html"
-    },
-    {
-      "title": "Von 3 bis 98 Prozent Nutzungsquote: So erfolgreich ist die digitale Verwaltung",
-      "teaser": "Eine Umfrage von c’t unter Städten zeigt: Manche Online-Anträge werden von über 90 Prozent der Menschen genutzt. Doch meist bremsen E-Perso & Co. massiv.",
-      "url": "https://www.heise.de/hintergrund/Von-3-bis-98-Prozent-Nutzungsquote-So-erfolgreich-ist-die-digitale-Verwaltung-11408626.html"
-    },
-    {
-      "title": "Öffentliche Ladeinfrastruktur in Deutschland: Wo neue Engstellen drohen",
-      "teaser": "Die Ladeinfrastruktur ist derzeit nur mäßig ausgelastet. Das dürfte sich ändern. Die Zukunft lässt sich zwar nicht perfekt planen, ein bisschen aber schon.",
-      "url": "https://www.heise.de/hintergrund/Elektroautos-laden-Engstellen-in-der-oeffentlichen-Ladeinfrastruktur-11445717.html",
-      "image_title": "Kia an Aral-Ladepunkt"
-    },
-    {
-      "title": "Blutzucker ohne Nadeln messen: Warum der Traum platzt",
-      "teaser": "Seit Jahren wünschen sich Diabetiker nadelfreie Blutzuckermessungen. Doch die Technik ist so komplex, dass selbst die Branche mittlerweile Erwartungen dämpft.",
-      "url": "https://www.heise.de/hintergrund/Blutzucker-ohne-Nadeln-messen-Warum-der-Traum-platzt-11442116.html",
-      "image_title": "Eine Frau misst ihren Blutzuckerwert mit einem Messgerät."
-    },
-    {
-      "title": "Sechs SFX-Netzteile für kompakte Gaming-PCs im Test",
-      "teaser": "Kompakte PCs brauchen kleine Netzteile: Wir haben sechs SFX-Modelle von 600 bis 850 Watt getestet. Zwei Kandidaten überlebten den Überspannungstest nicht.",
-      "url": "https://www.heise.de/tests/Sechs-SFX-Netzteile-fuer-kompakte-Gaming-PCs-im-Test-11431758.html",
-      "image_title": "Nahaufnahme von elektronischen Bauteilen in einem Computer-Netzteil."
+      "title": "Dawarich: Open-Source-Alternative zum Google Standortverlauf im Test",
+      "teaser": "Dawarich ist eine private Alternative zum Google Standortverlauf. Mit eigener App lassen sich die Geodaten nun komfortabel am Smartphone erheben und einsehen.",
+      "url": "https://www.heise.de/ratgeber/Dawarich-Open-Source-Alternative-zum-Google-Standortverlauf-11453464.html"
     },
     {
       "title": "Rabot Flow im Praxis-CheckBatteriespeicher mit dynamischem Tarif für Mieter",
@@ -315,18 +315,24 @@
       "image_title": "VW ID.3 Neo"
     },
     {
-      "title": "Snapdragon 8 Elite Gen 6: Was der neue Qualcomm-Chip wirklich bringt",
-      "url": "https://www.heise.de/tests/Snapdragon-8-Elite-Gen-6-Was-der-neue-Qualcomm-Chip-wirklich-bringt-11420910.html",
-      "image_title": "Eine Hand hält eine transparente, quadratische Box mit einem Snapdragon-Logo."
+      "title": "Mathe-Beweise durch KI: Warum Mathematiker den Modell-Anbietern misstrauen",
+      "url": "https://www.heise.de/hintergrund/Mathe-Beweise-durch-KI-Warum-Mathematiker-den-Modell-Anbietern-misstrauen-11313140.html",
+      "image_title": "Ein futuristisches Labor mit einem Roboterarm, der an einem Fließband mit Fragezeichen arbeitet."
     },
     {
-      "title": "Bit-Rauschen: Huaweis Logic-Folding-Technik und neue KI-Konkurrenz für Nvidia",
-      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Huaweis-Logic-Folding-Technik-und-neue-KI-Konkurrenz-fuer-Nvidia-11420638.html",
-      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+      "title": "Mit mattem OLED: Businessnotebook HP EliteBook X G2q im Test",
+      "url": "https://www.heise.de/tests/Mit-mattem-OLED-Businessnotebook-HP-EliteBook-X-G2q-im-Test-11436913.html",
+      "image_title": "Ein aufgeklappter Laptop mit Landschafts-Hintergrundbild vor hellblauem Hintergrund"
     },
     {
-      "title": "Datenflut unter Kontrolle: Die Storage-Architektur des CERN erklärt",
-      "url": "https://www.heise.de/hintergrund/Datenflut-unter-Kontrolle-Die-Storage-Architektur-des-CERN-erklaert-11318792.html"
+      "title": "Die Registry-Struktur: Hives und ihre Speicherorte",
+      "url": "https://www.heise.de/ratgeber/Die-Registry-Struktur-Hives-und-ihre-Speicherorte-11426125.html",
+      "image_title": "Fünf Holzkisten auf einer Leiterplatte mit goldenen Kontakten"
+    },
+    {
+      "title": "Offene Notizensammler: Vier Alternativen zu Apples Notizen-App im Test",
+      "url": "https://www.heise.de/tests/Offene-Notizensammler-Vier-Alternativen-zu-Apples-Notizen-App-im-Test-11466862.html",
+      "image_title": ". , KI / heise medien"
     },
     {
       "title": "Besser organisiert mit Datenbanken: iPad-Workshop mit Tap Forms Pro",
@@ -337,11 +343,6 @@
       "title": "Apple Watch Series 12 und Ultra 4 im TestSensor-Spurt rund um die Uhr",
       "url": "https://www.heise.de/tests/Apple-Watch-Series-12-und-Ultra-4-im-Test-Sensor-Spurt-rund-um-die-Uhr-11464792.html",
       "image_title": "Apples neue Watch-Modelle Series 12 und Ultra 4"
-    },
-    {
-      "title": "ANC für alleAirPods 5 im Test",
-      "url": "https://www.heise.de/tests/AirPods-5-im-Test-ANC-endlich-fuer-alle-11461270.html",
-      "image_title": "Die neuen AirPods 5"
     },
     {
       "title": "Bei Stromausfall: Was eine USV ausmacht und was für einen Raspi sinnvoll ist",
@@ -359,6 +360,11 @@
       "image_title": ","
     },
     {
+      "title": "MCP-Server und Agent-to-Agent-VerbindungenKI-Agenten vor vergifteten Tools schützen",
+      "url": "https://www.heise.de/hintergrund/MCP-Server-und-Agent-to-Agent-Verbindungen-gegen-vergiftete-Tools-absichern-11446706.html",
+      "image_title": ", Vanessa Bahr / KI / iX"
+    },
+    {
       "title": "Security: Identitätsmanagement für KI-Agenten",
       "url": "https://www.heise.de/hintergrund/Security-Identitaetsmanagement-fuer-KI-Agenten-11448233.html",
       "image_title": ", Vanessa Bahr / KI / iX"
@@ -369,9 +375,9 @@
       "image_title": ", Laura-Sophie Gruhn / KI / iX"
     },
     {
-      "title": "SicherheitNach dem Hugging-Face-Hack: Was jetzt auf die IT zukommt",
-      "url": "https://www.heise.de/hintergrund/Nach-dem-Hugging-Face-Hack-Was-jetzt-auf-die-IT-zukommt-11456857.html",
-      "image_title": "Ein abstrakte Illustration eines Schwarms von Dreiecken, der zwei Fensterscheiben zum Splittern bringt"
+      "title": "Raus aus Adobes Creative Cloud: Acht Photoshop-Alternativen im Praxischeck",
+      "url": "https://www.heise.de/ratgeber/Raus-aus-Adobes-Creative-Cloud-Acht-Photoshop-Alternativen-im-Praxischeck-11453137.html",
+      "image_title": ", KI / heise medien; Alle weiteren Bilder: Thomas Gade"
     },
     {
       "title": "Canons VCM-Objektive: Was die kamerainterne Objektivkorrektur wirklich bewirkt",
@@ -382,11 +388,6 @@
       "title": "Der BildprozessorDas verkannte Herzstück jeder Digitalkamera",
       "url": "https://www.heise.de/ratgeber/Der-Bildprozessor-Das-verkannte-Herzstueck-jeder-Digitalkamera-11445328.html",
       "image_title": ", Nikon"
-    },
-    {
-      "title": "DIYFotos auf Holz transferieren",
-      "url": "https://www.heise.de/ratgeber/DIY-Fotos-auf-Holz-kaschieren-oder-transferieren-11445078.html",
-      "image_title": ", Alle Bilder: Christine Bruns"
     },
     {
       "title": "Oligarchen-Linux: Der rasante und problematische Aufstieg von Omarchy",
