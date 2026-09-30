@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-30T01:41:42",
+  "timestamp": "2026-09-30T07:36:02",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Erstes völlig unsichtbare Hör-Implantat",
+      "title": "Mittwoch: Starship mit Triebwerksproblemen, Handy-Inspektion bei USA-Einreise",
+      "teaser": "Folgen der Starship-Antriebsausfälle + US-Grenzen ohne Datenschutz + Hörgerät unter der Haut + Anthropics hohe Verluste & Kosten + E-Autos ohne Plakettenpflicht",
+      "url": "https://www.heise.de/news/Mittwoch-Starship-mit-Triebwerksproblemen-Handy-Inspektion-bei-USA-Einreise-11470417.html",
+      "image_title": "Starship von oben beim letzten Test; Mittwoch: Starship-Antriebsausfälle, US-Grenzdurchsuchungen, Hör-Implantat, Anthropic-Verluste & Elektroauto-Plakette"
+    },
+    {
+      "title": "DatenschutzUrteil erlaubt Handy-Durchsuchung an US-Grenze ohne Anlass",
+      "teaser": "Durchsuchungen elektronischer Geräte bei der Einreise in die USA bedürfen keinerlei Anlass, sagt ein US-Bundesberufungsgericht.",
+      "url": "https://www.heise.de/news/Urteil-erlaubt-Handy-Durchsuchung-an-US-Grenze-ohne-Anlass-11470383.html",
+      "image_title": "Grenzpatroullienfahrzeug entlang der internationalen Grenze zwischen San Diego, Kalifornien und Tijuana, Mexiko"
+    },
+    {
+      "title": "Erstes völlig unsichtbares Hör-Implantat",
       "teaser": "Erstmals ist ein Hörimplantat kommerzieller verfügbar, das komplett unter der Haut implantiert wird. Auch das Mikrofon.",
       "url": "https://www.heise.de/news/Erstes-voellig-unsichtbares-Hoer-Implantat-11470363.html",
       "image_title": "Ein Mensch spricht, ein anderer hört zu"
@@ -30,18 +42,6 @@
       "teaser": "Wie ein Ex-Black-Hat-Werber die Seiten wechselt: Andrew Batey entlarvt mit KI und Datenanalyse einen milliardenschweren Betrug im Musikstreaming.",
       "url": "https://www.heise.de/news/Darknet-Diaries-Deutsch-Auch-Betrueger-haben-Lieder-Teil-1-11446470.html",
       "image_title": "Aufmacherbild Darknet Diaries Deutsch"
-    },
-    {
-      "title": "Zahlen, bitte! zu Saturns Hexagon29.000 Kilometer breites mysteriöses Sechseck",
-      "teaser": "Seit den Voyager-Missionen fasziniert ein riesiger, hexagonförmiger Wirbelsturm auf Saturn die Forscher. Doch was ist die Ursache?",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Saturn-Hexagon-29-000-Kilometer-breites-mysterioeses-Sechseck-11469373.html",
-      "image_title": "Titelbild der Reihe"
-    },
-    {
-      "title": "Dienstag: Bund schließt Risiko-Anbieter aus, Starship in der Erdumlaufbahn",
-      "teaser": "Behördenfunk umgestellt + Planänderung für Starship-Testflug + Aktienrückkauf von Nvidia + Raspberry Pi verdreifacht Nettogewinn + Bundesrat fordert Maßnahmen",
-      "url": "https://www.heise.de/news/Dienstag-Bund-schliesst-Risiko-Anbieter-aus-Starship-in-der-Erdumlaufbahn-11468874.html",
-      "image_title": "Ein Polizeiauto rast vorbei, dazu Text: DIENSTAG Digitalfunk, Riesenrakete Starship, Nvidia-Aktienrückkauf, Raspberry Pi & Lieferdienste"
     },
     {
       "title": "TestsBodyFit vs. BodyScan 2: Welche Withings-Waage sich lohnt",
@@ -56,6 +56,18 @@
       "title": "Hintergrundc’t-Story: Optimierung",
       "url": "https://www.heise.de/hintergrund/c-t-Story-Optimierung-11441343.html",
       "image_title": "c’t-Story: Ulf Fildebrandt, Optimierung"
+    },
+    {
+      "title": "Zahlen, bitte! – Saturn-Hexagon: 29.000 Kilometer breites mysteriöses Sechseck",
+      "teaser": "Seit den Voyager-Missionen fasziniert ein riesiger, hexagonförmiger Wirbelsturm auf Saturn die Forscher. Doch was ist die Ursache?",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Saturn-Hexagon-29-000-Kilometer-breites-mysterioeses-Sechseck-11469373.html",
+      "image_title": "Titelbild der Reihe"
+    },
+    {
+      "title": "Dienstag: Bund schließt Risiko-Anbieter aus, Starship in der Erdumlaufbahn",
+      "teaser": "Behördenfunk umgestellt + Planänderung für Starship-Testflug + Aktienrückkauf von Nvidia + Raspberry Pi verdreifacht Nettogewinn + Bundesrat fordert Maßnahmen",
+      "url": "https://www.heise.de/news/Dienstag-Bund-schliesst-Risiko-Anbieter-aus-Starship-in-der-Erdumlaufbahn-11468874.html",
+      "image_title": "Ein Polizeiauto rast vorbei, dazu Text: DIENSTAG Digitalfunk, Riesenrakete Starship, Nvidia-Aktienrückkauf, Raspberry Pi & Lieferdienste"
     },
     {
       "title": "KI ermöglicht Millionenbetrug bei italienischer Bank",
@@ -133,20 +145,17 @@
       "url": "https://www.heise.de/news/heiseshow-EU-Kids-Act-Claude-Opus-5-5-IT-Arbeitsmarkt-11463654.html"
     },
     {
-      "title": "KI-Bescheide ohne menschliches Zutun in Österreich",
-      "teaser": "Amtliche Bescheide ganz ohne Beamte, erstellt von einer KI. Das wird in Österreich legalisiert. Zudem ziehen Chatbots in die Amtsstuben ein.",
-      "url": "https://www.heise.de/news/KI-Bescheide-ohne-menschliches-Zutun-in-Oesterreich-11463844.html",
-      "image_title": "Ein Roboter tiptt sich an die Stirn"
-    },
-    {
-      "title": "Frauen heimlich mit Kamerabrille gefilmt: Frankreichs Justiz ermittelt",
-      "teaser": "Frauen werden in der Öffentlichkeit heimlich mit vernetzten Brillen gefilmt – oft in provozierten Situationen. Die Staatsanwaltschaft Paris ermittelt.",
-      "url": "https://www.heise.de/news/Frauen-heimlich-mit-Kamerabrille-gefilmt-Frankreichs-Justiz-ermittelt-11463794.html",
-      "image_title": "Großaufnahme der Brille eines Mannes, darin die Spiegelung einer Frau im Bikini"
-    },
-    {
       "title": "NewsAusweisApp: Zertifikate von der Bundesdruckerei zwischenzeitlich zurückgezogen",
       "url": "https://www.heise.de/news/AusweisApp-der-Bundesdruckerei-Zertifikat-ueberraschend-zurueckgezogen-11467046.html"
+    },
+    {
+      "title": "NewsPatent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
+      "url": "https://www.heise.de/news/Patent-Urteil-Apple-soll-5-7-Milliarden-Dollar-zahlen-11467192.html"
+    },
+    {
+      "title": "NewsAnthropic meldet vor Börsengang dutzende Milliarden Verlust, exorbitante Kosten",
+      "url": "https://www.heise.de/news/Anthropic-Nettoverlust-von-42-Milliarden-US-Dollar-allein-2025-11468924.html",
+      "image_title": "Anthropic-Logo auf einem Smartphone, in dem sich ein Bildschirm mit Börsenkurven spiegelt."
     },
     {
       "title": "News„Minecraft“ bekommt 2027 die erste neue Dimension seit 15 Jahren",
@@ -154,18 +163,14 @@
       "image_title": "Der Sift in Minecraft Dungeons 2"
     },
     {
-      "title": "NewsPatent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
-      "url": "https://www.heise.de/news/Patent-Urteil-Apple-soll-5-7-Milliarden-Dollar-zahlen-11467192.html"
-    },
-    {
-      "title": "UpdateNewsOpenAI pausiert KI-Training nach neuem Zwischenfall – auch UN angegriffen",
-      "url": "https://www.heise.de/news/OpenAI-pausiert-KI-Training-nach-neuem-Zwischenfall-11467188.html",
-      "image_title": "ChatGPT-Logo auf einem Smartphone"
-    },
-    {
       "title": "TestsVW ID.3 Neo im Test: Schneller als versprochen",
       "url": "https://www.heise.de/tests/VW-ID-3-Neo-im-Test-Der-letzte-Schliff-11464488.html",
       "image_title": "VW ID.3 Neo"
+    },
+    {
+      "title": "RatgeberKI-Coding-Assistent: Erste Schritte mit Agentic Coding",
+      "url": "https://www.heise.de/ratgeber/KI-Coding-Assistent-Erste-Schritte-mit-Agentic-Coding-11448768.html",
+      "image_title": ", !!!"
     },
     {
       "title": "TestsDie bürgerliche Mitte: Der Skoda Elroq 60 im Test",
@@ -176,11 +181,6 @@
       "title": "HintergrundDLR auf der Innotrans: Von neuen Nachtzügen, ATO & virtuellem Kuppeln",
       "url": "https://www.heise.de/hintergrund/DLR-auf-der-Innotrans-Von-neuen-Nachtzuegen-ATO-virtuellem-Kuppeln-11465219.html",
       "image_title": "Nachtzugkonzept Projekt ALISA"
-    },
-    {
-      "title": "RatgeberKI-Coding-Assistent: Erste Schritte mit Agentic Coding",
-      "url": "https://www.heise.de/ratgeber/KI-Coding-Assistent-Erste-Schritte-mit-Agentic-Coding-11448768.html",
-      "image_title": ", !!!"
     }
   ]
 }
