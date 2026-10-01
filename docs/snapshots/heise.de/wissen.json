@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-01T02:45:03",
+  "timestamp": "2026-10-01T09:30:38",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,16 +20,21 @@
   ],
   "articles": [
     {
+      "title": "BCI: Über die Gehirn-Computer-Schnittstelle Rechner und Roboter steuern",
+      "teaser": "Gehirn-Computer-Schnittstellen helfen schwerst behinderten Patienten, die darüber PCs steuern und sich wieder mitteilen können.",
+      "url": "https://www.heise.de/hintergrund/BCI-Ueber-die-Gehirn-Computer-Schnittstelle-Rechner-und-Roboter-steuern-11403584.html"
+    },
+    {
+      "title": "UpdateStrom aus der SäuleLadetarife für E-Autos im Vergleich",
+      "teaser": "Preise an Ladesäulen variieren stark: Wer mit Gleichstrom lädt, zahlt manchmal 40 Cent/kWh mehr.",
+      "url": "https://www.heise.de/news/Ladetarife-fuer-Elektroautos-im-Vergleich-7180518.html",
+      "image_title": "Ladekurve"
+    },
+    {
       "title": "KI in der Reha: Entlastung bei der Dokumentation, offene Fragen zum Arztberuf",
       "teaser": "Was bedeuten KI-Sprachmodelle für Rehakliniken? Ärzte diskutierten unter anderem über die Möglichkeiten, Kosten, Zeitersparnis und Deskilling.",
       "url": "https://www.heise.de/news/KI-in-der-Reha-Entlastung-bei-der-Dokumentation-offene-Fragen-zum-Arztberuf-11471741.html",
       "image_title": "KI-Summit Rehakliniken"
-    },
-    {
-      "title": "Mathe-Beweise durch KI: Warum Mathematiker den Modell-Anbietern misstrauen",
-      "teaser": "OpenAI und Anthropic liefern sich ein atemloses Rennen und nutzen Mathe-Beweise als Benchmark. Doch was ist wirklich KIs Werk und was des Menschen Beitrag?",
-      "url": "https://www.heise.de/hintergrund/Mathe-Beweise-durch-KI-Warum-Mathematiker-den-Modell-Anbietern-misstrauen-11313140.html",
-      "image_title": "Ein futuristisches Labor mit einem Roboterarm, der an einem Fließband mit Fragezeichen arbeitet."
     },
     {
       "title": "KI-Update kompakt: KI-Aufsichtsbehörde, OpenAI DevDay, Anthropic, Pilzesammeln",
@@ -38,10 +43,8 @@
       "image_title": "Aufmacherbild des KI-Updates"
     },
     {
-      "title": "Tapete produziert Strom mit Luftfeuchtigkeit",
-      "teaser": "Energie kann mittels Luftfeuchtigkeit mit Mini-Generatoren gewonnen werden. Forscher haben das Design solcher MEGs angepasst und auf eine Tapete aufgebracht.",
-      "url": "https://www.heise.de/news/Tapete-produziert-Strom-mit-Luftfeuchtigkeit-11470666.html",
-      "image_title": "Mann sitzt am Rechner vor Tapete mit Moist-Electric Gnerators."
+      "title": "HintergrundBCI: Über die Gehirn-Computer-Schnittstelle Rechner und Roboter steuern",
+      "url": "https://www.heise.de/hintergrund/BCI-Ueber-die-Gehirn-Computer-Schnittstelle-Rechner-und-Roboter-steuern-11403584.html"
     },
     {
       "title": "HintergrundQuantensprung erstmals in Echtzeit in Schall beobachtet",
@@ -54,8 +57,10 @@
       "image_title": "Ein futuristisches Labor mit einem Roboterarm, der an einem Fließband mit Fragezeichen arbeitet."
     },
     {
-      "title": "HintergrundWie das CERN Forschungsdaten im Exabyte-Maßstab speichert",
-      "url": "https://www.heise.de/hintergrund/Datenflut-unter-Kontrolle-Die-Storage-Architektur-des-CERN-erklaert-11318792.html"
+      "title": "Tapete produziert Strom mit Luftfeuchtigkeit",
+      "teaser": "Energie kann mittels Luftfeuchtigkeit mit Mini-Generatoren gewonnen werden. Forscher haben das Design solcher MEGs angepasst und auf eine Tapete aufgebracht.",
+      "url": "https://www.heise.de/news/Tapete-produziert-Strom-mit-Luftfeuchtigkeit-11470666.html",
+      "image_title": "Mann sitzt am Rechner vor Tapete mit Moist-Electric Gnerators."
     },
     {
       "title": "Elektroauto Ventra reduziert von Reifen- und Bremsabrieb verursachten Feinstaub",
@@ -121,6 +126,11 @@
       "url": "https://www.heise.de/news/Zentimetergenau-Kleiner-Roboter-kann-so-hoch-springen-wie-ihm-vorgegeben-wird-11467685.html"
     },
     {
+      "title": "Wie das CERN Forschungsdaten im Exabyte-Maßstab speichert",
+      "teaser": "Die riesigen Detektoren im Teilchenbeschleuniger erzeugen jede Sekunde Datenmengen im zweistelligen Terabyte-Bereich. Nur ein kleiner Teil dient der Forschung.",
+      "url": "https://www.heise.de/hintergrund/Datenflut-unter-Kontrolle-Die-Storage-Architektur-des-CERN-erklaert-11318792.html"
+    },
+    {
       "title": "Missing Link: Vom Herzbefund zur Behandlung – was Algorithmen nicht leisten",
       "teaser": "Algorithmen erkennen Herzprobleme, über Wearables und Co. auch aus der Ferne. Doch wer prüft die Hinweise und sorgt dafür, dass Patienten behandelt werden?",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Vom-Herzbefund-zur-Behandlung-was-Algorithmen-nicht-leisten-11467142.html",
@@ -133,34 +143,24 @@
       "image_title": "KI-Update-Logo"
     },
     {
-      "title": "Studie schätzt Strombedarf für E-Lkw bis 2045 in Europa auf 200 TWh",
-      "teaser": "Eine Studie von ICCT und Fraunhofer ISI zeigt, wo in Europa Ladebedarf für E-Lkw entsteht. Die meiste Energie wird an Depots benötigt und nicht an Autobahnen.",
-      "url": "https://www.heise.de/news/Studie-schaetzt-Strombedarf-fuer-E-Lkw-bis-2045-in-Europa-auf-200-TWh-11464997.html",
-      "image_title": "MAN eTGX an Ladesäule"
+      "title": "NewsAnthropic meldet vor Börsengang dutzende Milliarden Verlust, exorbitante Kosten",
+      "url": "https://www.heise.de/news/Anthropic-Nettoverlust-von-42-Milliarden-US-Dollar-allein-2025-11468924.html",
+      "image_title": "Anthropic-Logo auf einem Smartphone, in dem sich ein Bildschirm mit Börsenkurven spiegelt."
     },
     {
-      "title": "Astronomie: Schwere Elemente wohl schon zu Beginn der Reionisierung entstanden",
-      "teaser": "Laut Daten des Weltraumteleskops James Webb haben Galaxien schon am Anfang der Reionisierung schwere Elemente verteilt. Das könnte ein weiteres Rätsel lösen.",
-      "url": "https://www.heise.de/news/Astronomie-Schwere-Elemente-wohl-schon-zu-Beginn-der-Reionisierung-entstanden-11465373.html",
-      "image_title": "Komplexe Strukutr mit einem hellen Zentrum"
+      "title": "NewsItalien: Ölkonzerne reagieren auf steigende Kraftstoffpreise",
+      "url": "https://www.heise.de/news/Italienische-Energiekonzerne-deckeln-Kraftstoffpreise-11468285.html",
+      "image_title": "BMW an Tankstelle"
     },
     {
-      "title": "NewsAusweisApp: Zertifikate von der Bundesdruckerei zwischenzeitlich zurückgezogen",
-      "url": "https://www.heise.de/news/AusweisApp-der-Bundesdruckerei-Zertifikat-ueberraschend-zurueckgezogen-11467046.html"
+      "title": "NewsGrüne Plakette für E-Autos fällt bald weg – was Halter jetzt wissen müssen",
+      "url": "https://www.heise.de/news/Bundesrat-E-Autos-mit-E-Kennzeichen-brauchen-bald-keine-Umweltplakette-mehr-11469573.html",
+      "image_title": "Umweltplakette München"
     },
     {
-      "title": "NewsKunden und Mitarbeiter von Lieferdienst Flink werden erpresst",
-      "url": "https://www.heise.de/news/Kunden-und-Mitarbeiter-von-Lieferdienst-Flink-werden-erpresst-11467086.html",
-      "image_title": "Eine Frau in rosa/blauer Dienstkleidung räumt Lebensmittel aus einem Regal in einen Wagen."
-    },
-    {
-      "title": "NewsVW und die Schraube: Seat betroffen, zwei Werkstattbesuche möglich",
-      "url": "https://www.heise.de/news/VW-Rueckruf-Auch-Seat-betroffen-zwei-Werkstattbesuche-moeglich-11467330.html",
-      "image_title": "Volkswagen in Wolfsburg"
-    },
-    {
-      "title": "NewsPatent-Urteil: Apple soll 5,7 Milliarden Dollar zahlen",
-      "url": "https://www.heise.de/news/Patent-Urteil-Apple-soll-5-7-Milliarden-Dollar-zahlen-11467192.html"
+      "title": "NewsFritzOS 8.50 mit Adblocker-Funktion ist fertig",
+      "url": "https://www.heise.de/news/Fritzbox-7690-bekommt-FritzOS-8-50-als-Erstes-11469876.html",
+      "image_title": "Ein FRITZ!Box-Router und die Leuchtschrift FRITZ!OS 8.50 auf blauem Hintergrund."
     },
     {
       "title": "TestsVW ID.3 Neo im Test: Schneller als versprochen",
@@ -173,14 +173,13 @@
       "image_title": ", !!!"
     },
     {
-      "title": "TestsDie bürgerliche Mitte: Der Skoda Elroq 60 im Test",
-      "url": "https://www.heise.de/tests/Die-buergerliche-Mitte-Der-Skoda-Elroq-60-im-Test-11456498.html",
-      "image_title": "Skoda Elroq"
+      "title": "HintergrundKriselnde E-Bike-Hersteller: Was dahintersteckt und worauf Käufer achten sollten",
+      "url": "https://www.heise.de/hintergrund/Pleitewelle-bei-E-Bikes-Was-dahintersteckt-und-worauf-Kaeufer-achten-sollten-11425065.html"
     },
     {
-      "title": "HintergrundDLR auf der Innotrans: Von neuen Nachtzügen, ATO & virtuellem Kuppeln",
-      "url": "https://www.heise.de/hintergrund/DLR-auf-der-Innotrans-Von-neuen-Nachtzuegen-ATO-virtuellem-Kuppeln-11465219.html",
-      "image_title": "Nachtzugkonzept Projekt ALISA"
+      "title": "NewsErste Proberunde im VW ID. Tiguan, dem Nachfolger von VW ID.4 und ID.5",
+      "url": "https://www.heise.de/news/Erste-Proberunde-im-VW-ID-Tiguan-dem-Nachfolger-von-VW-ID-4-und-ID-5-11467955.html",
+      "image_title": "VW ID. Tiguan"
     }
   ]
 }
