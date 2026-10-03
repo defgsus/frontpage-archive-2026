@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-03T08:38:37",
+  "timestamp": "2026-10-03T14:01:25",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,8 +20,20 @@
   ],
   "articles": [
     {
+      "title": "Apple härtet „Full Disk Access“ gegen KI-Agenten",
+      "teaser": "Bevor eine App auf einem Mac künftig alle Dateien einsehen kann, muss der Nutzer das ausdrücklich erlauben. Grund sind KI-Agenten.",
+      "url": "https://www.heise.de/news/Apple-haertet-Full-Disk-Access-gegen-KI-Agenten-11475083.html",
+      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
+    },
+    {
+      "title": "iX-Workshop: Schutz vor Prompt Injection – KI-Software sicher entwickeln",
+      "teaser": "Lernen Sie praxisnah, wie Sie die Angriffsfläche eigener KI-Anwendungen erfassen, effektive Schutzmaßnahmen implementieren und deren Wirksamkeit gezielt prüfen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schutz-vor-Prompt-Injection-KI-Software-sicher-entwickeln-11436247.html",
+      "image_title": "KI-Anwendungen sicher entwickeln: Hands-on gegen Prompt Injection, RAG-Angriffe und Agentenrisiken"
+    },
+    {
       "title": "AlertZero-Day in NetscalerCrashes und Codeausführung",
-      "teaser": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte.",
+      "teaser": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte, sie waren voll gepatcht.",
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
     },
@@ -29,18 +41,6 @@
       "title": "Mut statt perfekter Lebenslauf: Keynote beim Women-in-Tech-Event",
       "teaser": "Warum Mut zur Zukunftskompetenz wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Teilnahme kostenfrei, die 50 Plätze werden verlost.",
       "url": "https://www.heise.de/news/Mut-statt-perfekter-Lebenslauf-Keynote-beim-Women-in-Tech-Event-11417758.html"
-    },
-    {
-      "title": "Weniger Prompt, mehr Platz für Code: Pi 1.0.0 ist da",
-      "teaser": "Pi ist ein erweiterbarer KI-Coding-Agent fürs Terminal. Version 1.0.0 strafft den Codemode, ergänzt Bildgenerierung und startet im Vollbild.",
-      "url": "https://www.heise.de/news/Coding-Agent-Pi-Mehr-Platz-im-Prompt-weniger-Ballast-11474629.html",
-      "image_title": "Roboterarm hält ein Buch mit Code über den Wellen"
-    },
-    {
-      "title": "Developer-Häppchen – Rust wird variadisch, Qt kann HarmonyOS, Python 3.10 geht",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GNU Debugger (GDB), Crystal, Git, Kong AI, Qt, Python, Rust, BoxLang und Visual Studio Code.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-Rust-wird-variadisch-Qt-kann-HarmonyOS-Python-3-10-geht-11473875.html",
-      "image_title": "Mexikanische Häppchen"
     },
     {
       "title": "HintergrundWarum moderne Java-Systeme weder rein reaktiv noch rein synchron sind",
@@ -57,6 +57,18 @@
       "image_title": "Ein Mann mit verzerrtem Gesicht drückt gegen eine Tresortür mit Aufschrift."
     },
     {
+      "title": "Weniger Prompt, mehr Platz für Code: Pi 1.0.0 ist da",
+      "teaser": "Pi ist ein erweiterbarer KI-Coding-Agent fürs Terminal. Version 1.0.0 strafft den Codemode, ergänzt Bildgenerierung und startet im Vollbild.",
+      "url": "https://www.heise.de/news/Coding-Agent-Pi-Mehr-Platz-im-Prompt-weniger-Ballast-11474629.html",
+      "image_title": "Roboterarm hält ein Buch mit Code über den Wellen"
+    },
+    {
+      "title": "Developer-Häppchen – Rust wird variadisch, Qt kann HarmonyOS, Python 3.10 geht",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GNU Debugger (GDB), Crystal, Git, Kong AI, Qt, Python, Rust, BoxLang und Visual Studio Code.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-Rust-wird-variadisch-Qt-kann-HarmonyOS-Python-3-10-geht-11473875.html",
+      "image_title": "Mexikanische Häppchen"
+    },
+    {
       "title": "Mini-PCs im Test: stark wie nie, aber viele sind teuer | c’t uplink",
       "teaser": "Mini-PCs: klein, kräftig, kostengünstig, und der Mac Mini M6 ist auch dabei. Nein, halt, billig sind sie nicht, im Podcast müssen wir auch über Preise reden.",
       "url": "https://www.heise.de/news/Mini-PCs-im-Test-stark-wie-nie-aber-viele-sind-teuer-c-t-uplink-11473733.html",
@@ -69,7 +81,7 @@
       "image_title": "Schloss-Symbol auf angedeuteter Platine mit Schaltkreisen"
     },
     {
-      "title": "Top 10: Der beste Saugroboter mit Wischfunktion – zum Prime Day sehr günstig",
+      "title": "Top 10: Der beste Saugroboter mit Wischfunktion",
       "teaser": "Saugroboter mit Wischfunktion erleichtern den Alltag. Wir zeigen die besten Modelle mit Absaug- oder Reinigungsstation.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-saugroboter-mit-wischfunktion-zum-prime-day-sehr-guenstig/2dxtvlp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
@@ -131,18 +143,6 @@
       "teaser": "Der Raspberry-Pi-Hersteller erhöht die Preise der 2-GByte-Versionen von Raspi 5 und Raspi 4. Sie legen um bis zu 23 Prozent zu.",
       "url": "https://www.heise.de/news/Weitere-Raspis-werden-teurer-11474143.html",
       "image_title": "Ein Raspberry Pi 5 mit hervorgehobenem Speicherchip"
-    },
-    {
-      "title": "Kostenloses Whitepaper: Wenn Hacker KI nutzen.",
-      "teaser": "KI verändert nicht nur Arbeitsprozesse, sondern auch die Möglichkeiten von Angreifern. Für Unternehmen verschärft sich damit die Bedrohungslage.",
-      "url": "https://www.heise.de/news/Kostenloses-Whitepaper-Wenn-Hacker-KI-nutzen-11438392.html",
-      "image_title": "KI-generiertes Bild mit einem Hacker vor dem Laptop"
-    },
-    {
-      "title": "Open Source mit Ablaufdatum? Siemens ändert Kurs bei Radioss",
-      "teaser": "Siemens beendet das Open-Source-Projekt OpenRadioss. Der Quellcode ist nicht mehr öffentlich zugänglich, stattdessen gibt es ein R&D-Programm.",
-      "url": "https://www.heise.de/news/Open-Source-mit-Ablaufdatum-Siemens-aendert-Kurs-bei-Radioss-11473978.html",
-      "image_title": "Das Siemens-Logo an einer Wand."
     },
     {
       "title": "NewsGebrauchter Prozessor führt zu Spielsperre",
