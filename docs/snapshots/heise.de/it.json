@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-05T02:39:49",
+  "timestamp": "2026-10-05T09:41:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,19 +20,117 @@
   ],
   "articles": [
     {
+      "title": "IBM Bob: COBOL trifft KI – ohne Umweg über die Cloud",
+      "teaser": "IBM bietet Bob nun als selbstgehostete Option an. So können Unternehmen KI-gestützte Softwareentwicklung in ihrer eigenen Infrastruktur nutzen.",
+      "url": "https://www.heise.de/news/IBM-Bob-COBOL-trifft-KI-ohne-Umweg-ueber-die-Cloud-11475819.html",
+      "image_title": "IBM-Logo an Gebäude"
+    },
+    {
+      "title": "ChatGPT-App für macOS: Angreifer konnten sensible Daten einsehen – wie bei Muse",
+      "teaser": "Nach Meta hatte auch OpenAI ein Sicherheitsproblem in seiner macOS-App. Erneut wurde es vom Security-Experten Patrick Wardle entdeckt.",
+      "url": "https://www.heise.de/news/Nach-Muse-Auch-ChatGPT-App-fuer-macOS-war-angreifbar-11475385.html",
+      "image_title": "ChatGPT für macOS"
+    },
+    {
+      "title": "Windows-Insider-VorschauenInsider-Versionen bringen den Pfad ~ zu Windows",
+      "teaser": "Microsoft hat zum Wochenende neue Windows-Insider-Vorschauen veröffentlicht. Der Unix-Pfad ~ kommt damit zu Windows.",
+      "url": "https://www.heise.de/news/Insider-Vorschauen-bringen-den-Pfad-zu-Windows-11475833.html",
+      "image_title": "Ein Finger drückt die Windowstaste auf einer beleuchteten Notebook-Tastatur"
+    },
+    {
+      "title": "Könnte herunterfallen „wie Schmuck von Weihnachtsbaum“: Russland droht Starlink",
+      "teaser": "Russland hat dutzende Satelliten für die Starlink-Alternative Rasswet gestartet. Eine US-Blockade könnte zum Krieg im Weltraum führen, warnt Dmitri Medwedew.",
+      "url": "https://www.heise.de/news/Ruf-nach-Sanktionen-Russland-droht-mit-Krieg-im-All-und-Angriff-auf-Starlink-11475637.html",
+      "image_title": "Abstrakte Linien, die zusammen einen blauen Planeten bilden"
+    },
+    {
+      "title": "HintergrundKI-Hype: Warum der massive Ausbau von Rechenzentren kritisch hinterfragt wird",
+      "url": "https://www.heise.de/hintergrund/KI-Hype-Warum-der-massive-Ausbau-von-Rechenzentren-kritisch-hinterfragt-wird-11410559.html",
+      "image_title": "Rechenzentrum von Equinix in Frankfurt am Main"
+    },
+    {
+      "title": "RatgeberBastel-Projekt: Spukhafte Halloween-Motive ans Fenster projizieren",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Spukhafte-Halloween-Motive-ans-Fenster-projizieren-11449152.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundWarum moderne Java-Systeme weder rein reaktiv noch rein synchron sind",
+      "url": "https://www.heise.de/hintergrund/Warum-moderne-Java-Systeme-weder-rein-reaktiv-noch-rein-synchron-sind-11471635.html",
+      "image_title": "Mehrere übereinandergelegte Bildschirme mit buntem Quellcode"
+    },
+    {
+      "title": "BMW streicht Managementebenen und setzt auf agentische KI-Systeme",
+      "teaser": "BMW will bis Mitte 2027 rund 20 Prozent seiner Bereiche und Managementfunktionen abbauen. KI-Agenten sollen schlankere Strukturen ermöglichen.",
+      "url": "https://www.heise.de/news/BMW-will-20-Prozent-seines-Managements-abbauen-11475761.html",
+      "image_title": "Komponenten im Werksregal des BMW-Werks Leipzig"
+    },
+    {
+      "title": "Apple Health wird zum Fitness-Influencer | Mac & i-Podcast",
+      "teaser": "Apples neue Health-App wertet Körperdaten mit KI aus und überrascht Nutzer mit einem „Gesundheitsalter“. Wir loten die gravierende Neuorientierung aus.",
+      "url": "https://www.heise.de/news/Apple-Health-wird-zum-Fitness-Influencer-Mac-i-Podcast-11473299.html",
+      "image_title": "Apple Health wird zum Fitness-Influencer Mac & i-Podcast"
+    },
+    {
+      "title": "Windows-Updates: September-Vorschau führt zu schließenden Apps und Spielen",
+      "teaser": "Microsoft räumt ein, dass die Windows-Update-Vorschau aus dem September zu unerwartet schließenden Spielen und Apps führt.",
+      "url": "https://www.heise.de/news/Windows-Updates-September-Vorschau-fuehrt-zu-schliessenden-Apps-und-Spielen-11475709.html",
+      "image_title": "Zittriges Windows-11-Logo vor Matrix-artigem Code"
+    },
+    {
+      "title": "Tipp: Siri-Cache löschen",
+      "teaser": "Wenn Apples KI-System sich nicht nutzen lässt, kann dies an fehlenden Dateien liegen. Das können Sie tun, wenn der Cache klemmt.",
+      "url": "https://www.heise.de/ratgeber/Tipp-Siri-Cache-loeschen-11474905.html",
+      "image_title": "Siri AI"
+    },
+    {
+      "title": "AlertCISA warnt vor Angriffen auf Zammad und Citrix NetScaler",
+      "teaser": "Bösartige Akteure attackieren aktuell nicht nur Sicherheitslücken in Citrix NetScaler, sondern auch in Zammad. Davor warnt die CISA.",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Zammad-und-Citrix-NetScaler-11475555.html"
+    },
+    {
+      "title": "„GPT-6 Astra hat gerade geschummelt“: KI-Modell tauscht „StarCraft“-Bot aus",
+      "teaser": "Bei einem „StarCraft“-Wettbewerb für KI-Modelle lud GPT-6 Astra einen fremden Bot herunter. Der eigene Bot des LLMs hatte zuvor verloren.",
+      "url": "https://www.heise.de/news/StarCraft-Benchmark-GPT-6-Astra-schummelt-mit-einem-fremden-Bot-11475539.html",
+      "image_title": "Szene aus Starcraft Remastered"
+    },
+    {
+      "title": "AlertMicrosoft schiebt Exchange-Update nach",
+      "teaser": "Zum Wochenende hat Microsoft weitere Exchange-Updates nachgelegt. Sie stopfen eine Rechteausweitungslücke.",
+      "url": "https://www.heise.de/news/Microsoft-schiebt-Exchange-Update-nach-11475517.html",
+      "image_title": "Ein E-Mail-Symbol und Benutzersymbole über einer Laptop-Tastatur"
+    },
+    {
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11433960.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Bericht: Bei Cyberangriff Zugriff auf Antrieb von Öl-Supertanker erlangt",
+      "teaser": "Ende August haben FBI und US-Küstenwache einen Öltanker geentert, der stundenlang nicht kommunizieren konnte. Nun gibt es Erkenntnisse über den Cyberangriff.",
+      "url": "https://www.heise.de/news/Cyberangriff-Unbefugte-hatten-angeblich-Zugriff-auf-Antrieb-von-Oel-Supertanker-11475495.html",
+      "image_title": "Ein Öltanker"
+    },
+    {
+      "title": "Für Donald Trump: Elon Musks KI-Firma SpaceXAI angeblich wieder vor Umbenennung",
+      "teaser": "xAI heißt erst seit dem Sommer SpaceXAI. Inzwischen möchte Donald Trump „Künstliche Intelligenz“ aber „Superintelligenz“ nennen und Elon Musk will mitmachen.",
+      "url": "https://www.heise.de/news/Fuer-Superintelligenz-SpaceXAI-soll-angeblich-in-SpaceXSI-umbenannt-werden-11475471.html",
+      "image_title": "Elon Musk"
+    },
+    {
       "title": "Der „KI-Zar“ der USA kommt von den Geheimdiensten",
       "teaser": "Der Sonderbeauftragte für KI in den USA ist gefunden: Jay Clayton soll neben seiner Tätigkeit als Geheimdienstchef eine Task Force leiten.",
       "url": "https://www.heise.de/news/Der-KI-Zar-der-USA-kommt-von-den-Geheimdiensten-11475401.html",
       "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
     },
     {
-      "title": "Raus aus der Filterblase: Musik- und Video-Streaming ohne Algorithmus",
-      "teaser": "Streamingdienste wollen Sie mit persönlichen Empfehlungen möglichst lange bei der Stange halten. Wir zeigen, wie Sie selbst bestimmen, was Sie sehen.",
-      "url": "https://www.heise.de/ratgeber/Raus-aus-der-Filterblase-Musik-und-Video-Streaming-ohne-Algorithmus-11080899.html"
+      "title": "Saugroboter Eufy Hydrojet E35 im Test: Gute Reinigung zum moderaten Preis",
+      "teaser": "Der Eufy Hydrojet E35 kombiniert 35.000 Pa, selbstreinigende Wischwalze und starke Hinderniserkennung in kompakter Reinigungsstation.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-eufy-hydrojet-e35-im-test-gute-reinigung-zum-moderaten-preis/ng3l99j?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
-      "title": "BerichtFBI-Angreifer von „ShinyHunters“ gefasst und kooperativ",
-      "teaser": "In Jordanien wurde ein Mitglied der Bande ShinyHunters festgesetzt. Laut Berichten kooperiert er mit dem FBI.",
+      "title": "Bericht: FBI-Angreifer von „ShinyHunters“ gefasst und kooperativ",
+      "teaser": "Einem Bericht zufolge wurde ein weiteres Mitglied der Cyberbande „ShinyHunters“ in Jordanien festgesetzt. Er soll mit dem FBI kooperieren.",
       "url": "https://www.heise.de/news/Bericht-FBI-Angreifer-von-ShinyHunters-gefasst-und-kooperativ-11475303.html",
       "image_title": "Jacke mit FBI-Schriftzug"
     },
@@ -42,108 +140,10 @@
       "url": "https://www.heise.de/news/Netzwerksicherheit-im-oeffentlichen-Dienst-sichere-Architektur-in-fuenf-Sessions-11458365.html"
     },
     {
-      "title": "HintergrundWarum moderne Java-Systeme weder rein reaktiv noch rein synchron sind",
-      "url": "https://www.heise.de/hintergrund/Warum-moderne-Java-Systeme-weder-rein-reaktiv-noch-rein-synchron-sind-11471635.html",
-      "image_title": "Mehrere übereinandergelegte Bildschirme mit buntem Quellcode"
-    },
-    {
-      "title": "RatgeberStresstest: Lastprogramme für AMD- und Intel-CPUs im Vergleich",
-      "url": "https://www.heise.de/ratgeber/Stresstest-Lastprogramme-fuer-AMD-und-Intel-CPUs-im-Vergleich-11458865.html"
-    },
-    {
-      "title": "RatgeberAnkaufsportal ZOXS: iPhone weg auf dem Rückweg, Erstattung nach Kassenlage",
-      "url": "https://www.heise.de/ratgeber/Ankaufsportal-ZOXS-iPhone-weg-auf-dem-Rueckweg-Erstattung-nach-Kassenlage-11416969.html",
-      "image_title": "Ein Mann mit verzerrtem Gesicht drückt gegen eine Tresortür mit Aufschrift."
-    },
-    {
-      "title": "Saugroboter Eufy Hydrojet E35 im Test: Gute Reinigung zum moderaten Preis",
-      "teaser": "Der Eufy Hydrojet E35 kombiniert 35.000 Pa, selbstreinigende Wischwalze und starke Hinderniserkennung in kompakter Reinigungsstation.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/saugroboter-eufy-hydrojet-e35-im-test-gute-reinigung-zum-moderaten-preis/ng3l99j?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
       "title": "AlertUpdateCitrix Netscaler aktualisieren! Zero-Day verursacht Crashes und Codeausführung",
       "teaser": "Sicherheitsforscher und Administratoren melden massenhafte Spontanreboots betroffener Geräte. Updates sind nun verfügbar und sollten schnell aufgespielt werden.",
       "url": "https://www.heise.de/news/Netscaler-Admins-aufgepasst-Zero-Day-verursacht-Crashes-und-Codeausfuehrung-11474971.html",
       "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
-    },
-    {
-      "title": "iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
-      "teaser": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11330257.html",
-      "image_title": "Schiff auf einem Fluss mit beleuchteten Ufern"
-    },
-    {
-      "title": "Vorsorgeregister: Ärzte können hinterlegte Vorsorgedokumente einsehen",
-      "teaser": "Ärzte können Abschriften von Patientenverfügungen nun digital im Vorsorgeregister abrufen. Ein Allgemeinmediziner sieht einen ersten Schritt – mit Grenzen.",
-      "url": "https://www.heise.de/news/Vorsorgeregister-Aerzte-koennen-hinterlegte-Vorsorgedokumente-einsehen-11475163.html",
-      "image_title": "Hand mit Symbolen, die für das Gesundheitswesen stehen auf schwarzem Hintergrund."
-    },
-    {
-      "title": "Missing Link: Our Best Machines – Was bin ich ohne meinen KI-Assistenten?",
-      "teaser": "KI-Assistenten ziehen in immer mehr Lebensbereiche ein. Medizininformatikerin und Sci-Fi-Autorin Christina Czeschik über die Frage, wer wir noch ohne sie sind.",
-      "url": "https://www.heise.de/news/Missing-Link-Our-Best-Machines-Was-bin-ich-ohne-meinen-KI-Assistenten-11467180.html"
-    },
-    {
-      "title": "Nvidias DGX Spark wird trotz halbiertem RAM teurer",
-      "teaser": "Ein neues Modell der KI-Workstation für lokale KI bringt nur noch 64 GByte RAM mit. Teurer wird es trotzdem.",
-      "url": "https://www.heise.de/news/Nvidias-DGX-Spark-wird-trotz-halbiertem-RAM-teurer-11475117.html",
-      "image_title": "Verschiedene Mini PCs von Acer, Asus, Dell, Gigabyte, HP, MSI und Nvidia."
-    },
-    {
-      "title": "Mähroboter Mammotion Yuka Mini 2 1000 im Test: wendig und präzise mit LiDAR",
-      "teaser": "360-Grad-LiDAR, gute Hinderniserkennung und hohe Wendigkeit: Der Yuka Mini 2 1000 überzeugt im Alltag. An Kanten und bei der Ausdauer zeigt er aber Schwächen.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/maehroboter-mammotion-yuka-mini-2-1000-im-test-wendig-und-praezise-mit-lidar/0lkw2bs?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Apple härtet „Full Disk Access“ gegen KI-Agenten",
-      "teaser": "Bevor eine App auf einem Mac künftig alle Dateien einsehen kann, muss der Nutzer das ausdrücklich erlauben. Grund sind KI-Agenten.",
-      "url": "https://www.heise.de/news/Apple-haertet-Full-Disk-Access-gegen-KI-Agenten-11475083.html",
-      "image_title": "Apple-Tastatur mit Vorhängeschloss: Wie sicher ist macOS?"
-    },
-    {
-      "title": "iX-Workshop: Schutz vor Prompt Injection – KI-Software sicher entwickeln",
-      "teaser": "Lernen Sie praxisnah, wie Sie die Angriffsfläche eigener KI-Anwendungen erfassen, effektive Schutzmaßnahmen implementieren und deren Wirksamkeit gezielt prüfen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Schutz-vor-Prompt-Injection-KI-Software-sicher-entwickeln-11436247.html",
-      "image_title": "KI-Anwendungen sicher entwickeln: Hands-on gegen Prompt Injection, RAG-Angriffe und Agentenrisiken"
-    },
-    {
-      "title": "Mut statt perfekter Lebenslauf: Keynote beim Women-in-Tech-Event",
-      "teaser": "Warum Mut zur Zukunftskompetenz wird: Women-in-Tech-Event am 30. Oktober in Frankfurt. Teilnahme kostenfrei, die 50 Plätze werden verlost.",
-      "url": "https://www.heise.de/news/Mut-statt-perfekter-Lebenslauf-Keynote-beim-Women-in-Tech-Event-11417758.html"
-    },
-    {
-      "title": "Weniger Prompt, mehr Platz für Code: Pi 1.0.0 ist da",
-      "teaser": "Pi ist ein erweiterbarer KI-Coding-Agent fürs Terminal. Version 1.0.0 strafft den Codemode, ergänzt Bildgenerierung und startet im Vollbild.",
-      "url": "https://www.heise.de/news/Coding-Agent-Pi-Mehr-Platz-im-Prompt-weniger-Ballast-11474629.html",
-      "image_title": "Roboterarm hält ein Buch mit Code über den Wellen"
-    },
-    {
-      "title": "Developer-Häppchen – Rust wird variadisch, Qt kann HarmonyOS, Python 3.10 geht",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu GNU Debugger (GDB), Crystal, Git, Kong AI, Qt, Python, Rust, BoxLang und Visual Studio Code.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-Rust-wird-variadisch-Qt-kann-HarmonyOS-Python-3-10-geht-11473875.html",
-      "image_title": "Mexikanische Häppchen"
-    },
-    {
-      "title": "Mini-PCs im Test: stark wie nie, aber viele sind teuer | c’t uplink",
-      "teaser": "Mini-PCs: klein, kräftig, kostengünstig, und der Mac Mini M6 ist auch dabei. Nein, halt, billig sind sie nicht, im Podcast müssen wir auch über Preise reden.",
-      "url": "https://www.heise.de/news/Mini-PCs-im-Test-stark-wie-nie-aber-viele-sind-teuer-c-t-uplink-11473733.html",
-      "image_title": "YouTube-Thumbnail zum Uplink"
-    },
-    {
-      "title": "Trickreicher Angriff knackt RSA-Signaturen – ein bisschen",
-      "teaser": "Ein neues Paper reduziert die angenommene Sicherheit von 1024-Bit-RSA, indem es Signaturen fälscht. Doch die Methode ist in der Praxis kaum relevant.",
-      "url": "https://www.heise.de/news/Kryptografie-Forscher-demonstrieren-neuartigen-Angriff-auf-RSA-11474271.html",
-      "image_title": "Schloss-Symbol auf angedeuteter Platine mit Schaltkreisen"
-    },
-    {
-      "title": "Top 10: Der beste Saugroboter mit Wischfunktion",
-      "teaser": "Saugroboter mit Wischfunktion erleichtern den Alltag. Wir zeigen die besten Modelle mit Absaug- oder Reinigungsstation.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-saugroboter-mit-wischfunktion-zum-prime-day-sehr-guenstig/2dxtvlp?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "MeinungKommentar zu GPT-6.1 Astra: Die Nebelkerze der außer Kontrolle geratenen KI",
-      "url": "https://www.heise.de/meinung/Kommentar-zu-GPT-6-1-Astra-Die-Nebelkerze-der-ausser-Kontrolle-geratenen-KI-11470024.html",
-      "image_title": "Terminator-Statue mit rot leuchtenden Augen"
     },
     {
       "title": "NewsAmazon Prime: Jahresabo für langjährige Kunden kostet wieder 69 Euro",
@@ -151,14 +151,18 @@
       "image_title": "Eine Amazon-Geschenkkarte liegt auf einer hellen Unterlage."
     },
     {
-      "title": "NewsFigure mustert humanoide F.02-Roboter aus und lässt sie in Schmelzofen springen",
-      "url": "https://www.heise.de/news/Arnold-Schwarzenegger-humanoide-F-02-und-ein-Hochofen-Figure-entsorgt-Roboter-11472119.html",
-      "image_title": "Roboter springt in Hochofen."
-    },
-    {
       "title": "NewsSkoda ruft 1,7 Millionen Fahrzeuge zurück",
       "url": "https://www.heise.de/news/Skoda-ruft-1-7-Millionen-Fahrzeuge-zurueck-11474865.html",
       "image_title": "Skoda-Emblem auf einem Kühlergrill"
+    },
+    {
+      "title": "NewsMein Umzug auf einen neuen Passwort-Manager (Open Source)",
+      "url": "https://www.heise.de/news/Mein-Umzug-auf-einen-neuen-Passwort-Manager-Open-Source-11474408.html"
+    },
+    {
+      "title": "MeinungKommentar zu GPT-6.1 Astra: Die Nebelkerze der außer Kontrolle geratenen KI",
+      "url": "https://www.heise.de/meinung/Kommentar-zu-GPT-6-1-Astra-Die-Nebelkerze-der-ausser-Kontrolle-geratenen-KI-11470024.html",
+      "image_title": "Terminator-Statue mit rot leuchtenden Augen"
     },
     {
       "title": "RatgeberPV-Anlage vs. ETF: Der Investitionsvergleichsrechner",
@@ -170,14 +174,14 @@
       "image_title": "Eine Person sitzt auf einem Sofa und benutzt einen Laptop, verbunden mit einem Raspberry Pi und Servern."
     },
     {
-      "title": "RatgeberAnleihen statt Aktien: Was Sie vor dem Einstieg wissen sollten",
-      "url": "https://www.heise.de/ratgeber/Anleihen-statt-Aktien-Was-Sie-vor-dem-Einstieg-wissen-sollten-11424881.html",
-      "image_title": "Renditeentwicklung von Aktien und Anleihen im Vergleich"
-    },
-    {
       "title": "TestsE-Motorrad Flying Flea C6 im Fahrbericht: Fliegender Floh auf Strom",
       "url": "https://www.heise.de/tests/E-Motorrad-Flying-Flea-C6-im-Fahrbericht-Fliegender-Floh-auf-Strom-11471305.html",
       "image_title": "Flying Flea C6"
+    },
+    {
+      "title": "HintergrundWie Testfallgenerierung mit KI auch im regulativen Umfeld gelingt",
+      "url": "https://www.heise.de/hintergrund/Wie-Testfallgenerierung-mit-KI-auch-im-regulativen-Umfeld-gelingt-11470235.html",
+      "image_title": "Ein Roboter schwitzt und liest ein Buch, ein Mann schaut ihn an."
     }
   ]
 }
