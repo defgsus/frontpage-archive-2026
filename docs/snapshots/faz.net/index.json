@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-06T13:49:23",
+  "timestamp": "2026-10-06T19:09:43",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -54,6 +54,12 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://core.dpa-infocom.net/js/dpa.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": null,
       "src": "https://www.faz.net/suche/widget/widget.wc.js",
       "id": null,
@@ -68,54 +74,75 @@
   ],
   "articles": [
     {
+      "title": "Literaturnobelpreis 2026: Wer verdient den Literaturnobelpreis? Sieben Vorschläge",
+      "teaser": "Am Donnerstag verkündet die Schwedische Akademie den Literaturnobelpreis. Wir hätte sieben Vorschläge, vom zurückgezogen lebenden Gerald Murnane bis zum Dauerprovokateur Michel Houellebecq.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/literaturnobelpreis-2026-sieben-autoren-die-ihn-verdienen-201292042.html"
+    },
+    {
+      "title": "AfD in Magdeburg: Ein Etappensieg für die Rechtsradikalen",
+      "teaser": "Erstmals wird ein AfD-Politiker zum Parlamentspräsidenten gewählt – mutmaßlich auch mit Stimmen der CDU. Der steht die eigentliche Feuerprobe allerdings noch bevor.",
+      "url": "https://www.faz.net/aktuell/politik/inland/rausch-und-tillschneider-im-praesidium-des-landtags-sachsen-anhalt-vordergruendig-versoehnlich-201293219.html",
+      "image_url": "https://media0.faz.net/image/w920/8f20341457f5/w2909h1636x0y82/202610/43601.0.2633807935/noch-ministerpaesident-sven.webp",
+      "image_title": "Noch-Ministerpäsident Sven Schulze (CDU) gratuliert Tobias Rausch (AfD) nach dessen Wahl zum Landtagspräsidenten."
+    },
+    {
+      "title": "Magdeburger Landtag: Tillschneider will als Vizepräsident „unauffällig“ arbeiten",
+      "teaser": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html",
+      "image_url": "https://media0.faz.net/image/w1200/43d8f1251dc3/w4495h2528x0y102/202610/43601.0.2634410363/hans-thomas-tillschneider-afd.webp",
+      "image_title": "Hans-Thomas Tillschneider (AfD) wird am Dienstag im Landtag von Thomas Schulze (BSW) beglückwünscht."
+    },
+    {
+      "title": "Magdeburger Landtag: Tillschneider will als Vizepräsident „unauffällig“ arbeiten",
+      "teaser": "AfD-Politiker erhält 44 Stimmen +++ CDU-Politiker Borchert zum zweiten Vizepräsidenten gewählt, SPD-Mann gescheitert +++ Frei besorgt über zusätzliche Stimmen für AfD-Landtagspräsidenten +++ alle Entwicklungen im Liveblog",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-tillschneider-will-als-vizepraesident-unauffaellig-arbeiten-faz-110093143.html"
+    },
+    {
+      "title": "Landtagspräsident: Die AfD ist nun mittendrin",
+      "teaser": "Die AfD stellt den ersten Landtagspräsidenten. Was er daraus macht, strahlt weit über Magdeburg hinaus.",
+      "url": "https://www.faz.net/aktuell/politik/inland/landtagspraesident-in-sachsen-anhalt-die-afd-ist-mittendrin-201292986.html",
+      "image_url": "https://media0.faz.net/image/w1200/730259e3c9a6/w4317h2428x0y225/202610/43601.0.2634043600/ulrich-siegmund-gratuliert-dem.webp",
+      "image_title": "Ulrich Siegmund gratuliert dem frisch gewählten Landtagspräsidenten Tobias Rausch (beide AfD)."
+    },
+    {
+      "title": "Landtagspräsident: Die AfD ist nun mittendrin",
+      "teaser": "Die AfD stellt den ersten Landtagspräsidenten. Was er daraus macht, strahlt weit über Magdeburg hinaus.",
+      "url": "https://www.faz.net/aktuell/politik/inland/landtagspraesident-in-sachsen-anhalt-die-afd-ist-mittendrin-201292986.html"
+    },
+    {
+      "title": "Gescheitertes Fregattenprojekt: 4.679.663.394 Euro – für nichts?",
+      "teaser": "Viel zu teuer, viel zu spät: Die Berliner Politik beendete das Projekt Fregatte F126 im Frühsommer. Die Verlierer fahren nun schweres Geschütz auf und fordern Milliarden Euro. Unterdessen erteilen die Parlamentarier den nächsten Auftrag.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fregatte-f126-peter-gauweiler-fordert-milliarden-vom-bund-201292562.html",
+      "image_url": "https://media0.faz.net/image/w1200/75128a9aafb3/w3024h1701x0y483/202610/43601.0.2633692662/absehbar-schrott-bis-vor.webp",
+      "image_title": "Absehbar Schrott. Bis vor kurzem: eine Fregatte F 126 im Bau."
+    },
+    {
       "title": "August Hanning: Ein Spionageskandal erschüttert den BND",
-      "teaser": "Der frühere BND-Präsident August Hanning wurde festgenommen – wegen des Verdachts auf Landesverrat. Ein beispielloser Vorgang, der die Behörde zu einem sensiblen Zeitpunkt trifft.",
-      "url": "https://www.faz.net/aktuell/politik/inland/august-hanning-festgenommen-der-bnd-wird-von-einem-spionageskandal-erschuettert-accg-201292341.html"
+      "teaser": "Der frühere BND-Präsident August Hanning wurde festgenommen – wegen des Verdachts auf Landesverrat. Eine Spur führt dabei offenbar nach Aserbaidschan. Ein beispielloser Vorgang, der die Behörde zu einem sensiblen Zeitpunkt trifft.",
+      "url": "https://www.faz.net/aktuell/politik/inland/august-hanning-festgenommen-der-bnd-wird-von-einem-spionageskandal-erschuettert-accg-201292341.html",
+      "image_url": "https://media0.faz.net/image/w1200/fa6ff2c19f68/w6144h3456x0y640/202610/43601.0.2633249701/polizeibeamte-stehen-vor-dem.webp",
+      "image_title": "Polizeibeamte stehen vor dem Wohnhaus des ehemaligen BND-Präsidenten Hanning, der am Morgen unter Spionageverdacht festgenommen worden ist."
     },
     {
-      "title": "Festnahme Hannings: Der rüstige Aufstocker – Mission impossible",
-      "teaser": "Eine neue Dimension: Ein ehemaliger Präsident des BND und ein Dauer-Büroleiter stehen im Verdacht der Spionage. Der Schaden ist kaum zu ermessen.",
-      "url": "https://www.faz.net/aktuell/politik/inland/ex-bnd-chef-hanning-der-ruestige-aufstocker-201293046.html"
+      "title": "Autorin Ronja von Rönne: Wie mich Elke Heidenreich vernichtete, und ich ihr dann auf der Buchmesse begegnete",
+      "teaser": "Gastbeitrag Ein Verriss, ein Werbeslogan – und dann ein freundliches Treffen: Mit der Kritikerin Elke Heidenreich habe ich echte Buchmessen-Magie erlebt.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/ronja-von-roenne-wie-ich-auf-elke-heidenreich-traf-201268753.html",
+      "image_url": "https://media0.faz.net/image/w1200/21947ab86305/w3000h1687x0y59/202510/43601.0.1387047950/elke-heidenreich-auf-der.webp",
+      "image_title": "Elke Heidenreich auf der Frankfurter Buchmesse 2025"
     },
     {
-      "title": "Magdeburger Landtag: Rausch will keine „Abrechnung mit der Vergangenheit“",
-      "teaser": "AfD-Politiker schlägt in seiner ersten Rede als Landtagspräsident in Sachsen-Anhalt versöhnlichen Ton an +++ Rausch mit 48 Ja-Stimmen gewählt – AfD und BSW haben zusammen 44 Stimmen +++ alle Entwicklungen im Liveblog",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-sachsen-anhalt-tobias-rausch-haelt-erste-rede-als-landtagspraesident-faz-110093143.html",
-      "image_url": "https://media0.faz.net/image/w1200/8467f297dd4b/w4669h2626x0y243/202610/43601.0.2633411022/der-neugewaehlte.webp",
-      "image_title": "Der neugewählte Landtagspräsident Tobias Rausch sitzt nach seiner Wahl am Pult im Landtag."
+      "title": "FAZ+Schwester Samuelle: Von Gott und der Kirche verlassen",
+      "teaser": "In Lourdes kam der Papst mit Opfern zusammen, die als Minderjährige missbraucht wurden. Doch das Leid der Ordensfrauen wird in der Kirche weiter ausgeblendet.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/missbrauchte-ordensfrauen-fuehlen-sich-von-der-katholischen-kirche-verlassen-201270526.html",
+      "image_url": "https://media0.faz.net/image/w1100/a1a6d968ccb1/w5339h3003x0y150/202503/43601.0.938645435/arbeiter-in-lourdes-decken-ein.webp",
+      "image_title": "Arbeiter in Lourdes decken ein Mosaik von Marko Rupnik ab, einem slowenischen Priester, dem sexueller Missbrauch vorgeworden wird."
     },
     {
-      "title": "Tobias Rausch: Wer ist der erste Landtagspräsident der AfD?",
-      "teaser": "Sein Vater war der erste Landtagsvizepräsident der AfD, nun wurde Tobias Rausch in Magdeburg zu ihrem ersten Landtagspräsidenten gewählt. Belastet ist er durch die Verwandtenaffäre.",
-      "url": "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-tobias-rausch-ist-der-erste-landtagspraesident-der-afd-accg-201289186.html",
-      "image_url": "https://media0.faz.net/image/w1200/9f19ef7c3e2c/w2675h1505x0y30/202610/43601.0.2633278856/tobias-rausch-am-dienstag-im.webp",
-      "image_title": "Tobias Rausch am Dienstag im Landtag von Sachsen-Anhalt in Magdeburg"
-    },
-    {
-      "title": "Tobias Rausch: Wer ist der erste Landtagspräsident der AfD?",
-      "teaser": "Sein Vater war der erste Landtagsvizepräsident der AfD, nun wurde Tobias Rausch in Magdeburg zu ihrem ersten Landtagspräsidenten gewählt. Belastet ist er durch die Verwandtenaffäre.",
-      "url": "https://www.faz.net/aktuell/politik/inland/sachsen-anhalt-tobias-rausch-ist-der-erste-landtagspraesident-der-afd-accg-201289186.html"
-    },
-    {
-      "title": "Klage nach Germanwings-Absturz: „Es geht um sehr viel Grundsätzlicheres als eine Entschädigung“",
-      "teaser": "Mehr als elf Jahre nach dem Flugzeugabsturz einer Germanwings-Maschine wurde in Braunschweig um zusätzliches Schmerzensgeld für Angehörige gestritten. Das Gericht hat die Klage abgewiesen.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schmerzensgeld-nach-germanwings-absturz-gericht-weist-klage-von-hinterbliebenen-ab-accg-201292075.html",
-      "image_url": "https://media0.faz.net/image/w1200/397f3d36eda1/w3000h1687x0y177/202503/43601.0.925431589/eine-fuenf-meter-grosse.webp",
-      "image_title": "Eine fünf Meter große goldene Sonnenkugel erinnert in den französischen Alpen an die Opfer des Absturz des Germanwings-Flugzeugs im März 2015."
-    },
-    {
-      "title": "Forschungsinstitut Irkutsk: Ist in Russland die Lungenpest ausgebrochen?",
-      "teaser": "Nach dem Tod einer Labormitarbeiterin in Sibirien dementiert die zuständige Behörde einen Pestausbruch. Aber das Vertrauen in die offizielle Version ist gering.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ist-in-russland-die-lungenpest-ausgebrochen-201291880.html",
-      "image_url": "https://media0.faz.net/image/w1200/b6b94da23eb6/w1000h562x0y38/202610/43601.0.2631253197/hier-arbeitete-die-im.webp",
-      "image_title": "Hier arbeitete die im Krankenhaus verstorbene Labormitarbeiterin: das Forschungsinstitut für Pestbekämpfung in Irkutsk (Aufnahme von 2019)."
-    },
-    {
-      "title": "Preis-Leistungs-Verhältnis: So finden Profis Aktien zum Schnäppchenpreis",
-      "teaser": "Wer billige Aktien sucht, schaut oft aufs KGV. Doch die Kennzahl hat Tücken. Vier Fondsmanager erklären, wie sie wirklich unterbewertete Titel mit Potential finden – von Mexiko bis China.",
-      "url": "https://www.faz.net/premium/meine-finanzen/unterbewertete-aktien-so-finden-profis-schnaeppchen-accg-201276986.html",
-      "image_url": "https://media0.faz.net/image/w1200/81ffe679506c/w3966h2231x0y1859/202507/43601.0.1183877316/kauflaune-value-investoren.webp",
-      "image_title": "Kauflaune? Value-Investoren wollen auf keinen Fall zu viel für ihre Aktien zahlen."
+      "title": "Vor dem Koalitionsausschuss: Klein-Klein hilft nicht gegen große Probleme",
+      "teaser": "Zuckersteuer, Plastiksteuer und eine Nicht-Einkommensteuerreform: Womit sich die Koalition in dieser Woche beschäftigt, wird die Politikverdrossenheit eher noch steigern.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/zuckersteuer-und-plastiksteuer-waechst-die-politikverdrossenheit-201292740.html",
+      "image_url": "https://media0.faz.net/image/w1100/488885dac8ba/w6000h3375x0y280/202610/43601.0.2632982950/wie-rauskommen-aus-der-misere.webp",
+      "image_title": "Wie rauskommen aus der Misere? Kanzler Friedrich Merz in Berlin"
     },
     {
       "title": "Verknüpftes Angebot: F.A.Z. und „Wall Street Journal“ machen gemeinsame Sache",
@@ -125,69 +152,63 @@
       "image_title": "F.A.Z. und „Wall Street Journal“: Beide Zeitungen verknüpfen ihre Digitalangebote"
     },
     {
-      "title": "FAZ+Hilfe bei Schmerzen: Was die „Liebscher & Bracht“-Therapie wirklich bringt",
-      "teaser": "Der Ansatz der selbsternannten Schmerzspezialisten Liebscher & Bracht ist umstritten. Die einen schwören darauf, die anderen sagen: alles Humbug. Was bei der Behandlung wirklich passiert – und ob sie funktioniert.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/liebscher-und-bracht-was-bei-der-behandlung-passiert-und-ob-sie-funktioniert-accg-201174147.html",
-      "image_url": "https://media0.faz.net/image/w1100/ce4d28bee33c/w7952h4473x0y416/202610/43601.0.2620979791/reicht-es-wirklich-aus.webp",
-      "image_title": "Reicht es wirklich aus, Verspannungen zu lösen?"
+      "title": "KI-Regulierung: Zu Beginn der Buchmesse ein Appell an Berlin und Brüssel",
+      "teaser": "Zur Eröffnung der Frankfurter Buchmesse fordert die Buchbranche von der Bundesregierung schnelle Unterstützung bei der Regulierung Künstlicher Intelligenz.",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/frankfurter-buchmesse-2026-appell-fuer-ki-regulierung-201292741.html",
+      "image_url": "https://media0.faz.net/image/w920/b47402c9b804/w5779h3251x0y584/202610/43601.0.2634659033/gruppenbild-mit-dame.webp",
+      "image_title": "Gruppenbild mit Dame: Buchmessedirektor Juergen Boos (Dritter von links) und Frankfurts Oberbürgermeister Mike Josef (rechts) begrüßen Kulturstaatsminister Wolfram Weimer (Mitte) und die Delegation des Gastlands Tschechien um Kulturminister Oto Klempíř (Fünfter von links) und Projektleiterin Jana Hájková."
     },
     {
-      "title": "Paradigmenwechsel: Was die verschärften Regeln für Steuersünder bedeuten",
-      "teaser": "Gastbeitrag Die Bundesregierung möchte die Möglichkeiten zur Selbstanzeige beschneiden und schwere Steuerhinterziehung zum Verbrechen machen. Für Vermögende mit Altlasten zählt jetzt das Timing.",
-      "url": "https://www.faz.net/premium/meine-finanzen/selbstanzeige-regeln-fuer-steuersuender-sollen-verschaerft-werden-accg-201290164.html",
-      "image_url": "https://media0.faz.net/image/w1100/99f3d6e4074a/w6755h3800x0y744/202610/43601.0.2630884255/ein-ferienhaus-auf-sardinien.webp",
-      "image_title": "Ein Ferienhaus auf Sardinien kann bei komplexen Privatvermögen steuerliche Fragen aufwerfen, die künftig schneller ins Visier der Finanzbehörden geraten könnten."
+      "title": "Leonard Woolfs Erinnerungen: Es war traurig, fast zum Verrücktwerden",
+      "teaser": "Seine Kolonialkollegen verfassten schreckliche Gedichte über Elfen. Leonard Woolf aber schrieb präzis beobachtete Erinnerungen auf: „Sieben Jahre in Ceylon“.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-leonard-woolfs-sieben-jahre-in-ceylon-201268020.html",
+      "image_url": "https://media0.faz.net/image/w1200/885a6330f809/w2010h1131x0y130/202609/43601.0.2552852350/er-war-laengst-wieder-zurueck.webp",
+      "image_title": "Er war längst wieder zurück aus den Kolonien, als Leonard Woolf in der Tür des Hauses porträtiert wurde, das er bis 1941 gemeinsam mit seiner Frau Virginia bewohnt hatte. Nach deren Freitod verliebte er sich in Trekkie Ritchie Parsons, die das Bild malte."
     },
     {
-      "title": "Superstar Colson Whitehead: Gangster und Galeristen spielen dasselbe Spiel",
-      "teaser": "Colson Whitehead lässt das schillernde, brutale New York der Achtzigerjahre auferstehen. Die Stadt verdrängt ihre Bewohner und erfindet sich neu. „Cool Machine“ ist der fulminante Abschluss seiner Harlem-Trilogie.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-colson-whiteheads-cool-machine-201262774.html",
-      "image_url": "https://media0.faz.net/image/w920/b854e49c1008/w5274h2967x0y256/202609/4d30ab5d-8a78-4d22-befc-93e0819821d2/die-zahnraeder-anhalten-kaum.webp",
-      "image_title": "Die Zahnräder anhalten? Kaum. Aber versuchen, nicht dazwischen zu geraten: Straßenszene mit der Wohltäterin „Mother Hale“ und einem Kind in Harlem, 1986"
+      "title": "Leonard Woolfs Erinnerungen: Es war traurig, fast zum Verrücktwerden",
+      "teaser": "Seine Kolonialkollegen verfassten schreckliche Gedichte über Elfen. Leonard Woolf aber schrieb präzis beobachtete Erinnerungen auf: „Sieben Jahre in Ceylon“.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-leonard-woolfs-sieben-jahre-in-ceylon-201268020.html"
     },
     {
-      "title": "Herbst-Lektüre: Das sind die wichtigsten Romane zur Buchmesse",
-      "teaser": "Von der kasachischen Steppe über Prag und New York bis nach Ceylon, dazu eine Tränenkunde für Fortgeschrittene: Fünf Empfehlungen aus unserer Literaturbeilage zur Frankfurter Buchmesse. Die Übersicht.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/zur-frankfurter-buchmesse-2026-diese-romane-sollten-sie-lesen-accg-201280479.html",
-      "image_url": "https://media0.faz.net/image/w1200/335559825dde/w2133h1200x0y0/202610/65a808f1-50d4-4b6f-a7f4-2e0a2613041d/tfttsk9udlcy.webp"
+      "title": "Frankfurter Appell: Verzweifelte Rufe",
+      "teaser": "Über KI wird an anderen Orten entschieden als in den Messehallen. Die Frankfurter Buchmesse spürt ihre Einflusslosigkeit in für sie entscheidenden Fragen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-buchmesse-einflusslos-gegen-ki-201293486.html",
+      "image_url": "https://media0.faz.net/image/w1200/e9de5de22f2d/w5408h3042x0y558/202610/43601.0.2633988591/vor-der-eroeffnung.webp",
+      "image_title": "Vor der Eröffnung: Buchmessendirektor Juergen Boos (rechts) mit seinem designierten Nachfolger Joachim Kaufmann auf der „Dialogue Stage“ in Halle 4"
     },
     {
-      "title": "Herbst-Lektüre: Das sind die wichtigsten Romane zur Buchmesse",
-      "teaser": "Von der kasachischen Steppe über Prag und New York bis nach Ceylon, dazu eine Tränenkunde für Fortgeschrittene: Fünf Empfehlungen aus unserer Literaturbeilage zur Frankfurter Buchmesse. Die Übersicht.",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/zur-frankfurter-buchmesse-2026-diese-romane-sollten-sie-lesen-accg-201280479.html"
+      "title": "Frankfurter Appell: Verzweifelte Rufe",
+      "teaser": "Über KI wird an anderen Orten entschieden als in den Messehallen. Die Frankfurter Buchmesse spürt ihre Einflusslosigkeit in für sie entscheidenden Fragen.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-buchmesse-einflusslos-gegen-ki-201293486.html"
+    },
+    {
+      "title": "Rassismus im Netz: Ignoranz ist Kapitulation",
+      "teaser": "Tennisspielerin Coco Gauff muss sich wieder mit rassistischen Kommentaren auseinandersetzen. Wer ihr rät, sie zu ignorieren, hilft ihr nicht. Weil das Problem so bestehen bleibt.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/tennisstar-coco-gauff-rassistisch-angefeindet-ignoranz-ist-eine-kapitulation-201293019.html",
+      "image_url": "https://media0.faz.net/image/w100/d9c7a02e2a1f/w380h380x309y92/202207/1.8205285/julia-basic.webp",
+      "image_title": "Julia Basic"
+    },
+    {
+      "title": "Festnahme Hannings: Der rüstige Aufstocker – Mission impossible",
+      "teaser": "Eine neue Dimension: Ein ehemaliger Präsident des BND und ein Dauer-Büroleiter stehen im Verdacht der Spionage. Der Schaden ist kaum zu ermessen.",
+      "url": "https://www.faz.net/aktuell/politik/inland/ex-bnd-chef-hanning-der-ruestige-aufstocker-201293046.html",
+      "image_url": "https://media0.faz.net/image/w100/a4562f9bf989/w444h444x274y75/201108/1.1126059/reinhard-mueller.webp",
+      "image_title": "Reinhard Müller"
+    },
+    {
+      "title": "KI-Portal America.gov: Der gute Staat",
+      "teaser": "Warum einfach, wenn es auch kompliziert geht? Oder umgekehrt? In Amerika wird der Staat dank KI zum Helfer. In Deutschland muss sogar der Gartenwasserzähler dran glauben.",
+      "url": "https://www.faz.net/aktuell/technik-motor/wie-america-gov-in-amerika-die-buerokratie-eindaemmt-201280269.html",
+      "image_url": "https://media0.faz.net/image/w100/e18647d9aed4/w667h667x0y201/201305/1.2170960/michael-spehr.webp",
+      "image_title": "Michael Spehr"
     },
     {
       "title": "Buchmesse: Der Schock-Moment der Buchbranche",
       "teaser": "Der nachlässige Umgang der Digitalkonzerne mit Urheberrechten erinnert an die Musikpiraterie der Napster-Ära – nur dreister.",
       "url": "https://www.faz.net/aktuell/wirtschaft/open-ai-und-ki-training-buecher-als-rohstoff-ohne-urheberrecht-201269994.html",
-      "image_url": "https://media0.faz.net/image/w1200/b23e00abbfd7/w3072h1728x0y160/200804/431.0.63063708/trainingsmaterial-fuer-ki.webp",
-      "image_title": "Trainingsmaterial für KI-Modelle: Manche KI-Anbieter scannen auf der Suche nach neuem Stoff auch Bücher vom Gebrauchtmarkt ein."
-    },
-    {
-      "title": "Buchmesse: Der Schock-Moment der Buchbranche",
-      "teaser": "Der nachlässige Umgang der Digitalkonzerne mit Urheberrechten erinnert an die Musikpiraterie der Napster-Ära – nur dreister.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/open-ai-und-ki-training-buecher-als-rohstoff-ohne-urheberrecht-201269994.html"
-    },
-    {
-      "title": "Tennis-Weltrangliste: Was Alexander Zverev zur verdienten Nummer eins macht",
-      "teaser": "Durch das Saison-Aus von Jannik Sinner wird Alexander Zverev bald zur zweiten deutschen Nummer eins der Tennis-Welt. Der beste Spieler des Planeten ist er trotzdem nicht. Aber er ist etwas anderes.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-vor-aufstieg-in-tennis-weltrangliste-der-verdiente-lohn-201292876.html",
-      "image_url": "https://media0.faz.net/image/w100/828f3c525479/w358h358x319y67/202004/1.6708618/pirmin-closs.webp",
-      "image_title": "Pirmin Clossé"
-    },
-    {
-      "title": "Digitale Transformation: Geht doch! Von Stillstand kann keine Rede sein",
-      "teaser": "Die Deutschen verschlafen gerade die digitale Transformation, weil sie dem Staat nichts mehr zutrauen. Dabei ist er längst weiter, als man denkt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/digitale-transformation-in-deutschland-geht-doch-201276013.html",
-      "image_url": "https://media0.faz.net/image/w100/7405b1b0e1d4/w413h413x313y58/201805/1.5571931/corinna-budras.webp",
-      "image_title": "Corinna Budras"
-    },
-    {
-      "title": "Landtagspräsident: Die AfD ist nun mittendrin",
-      "teaser": "Die AfD stellt den ersten Landtagspräsidenten. Was er daraus macht, strahlt weit über Magdeburg hinaus.",
-      "url": "https://www.faz.net/aktuell/politik/inland/landtagspraesident-in-sachsen-anhalt-die-afd-ist-mittendrin-201292986.html",
-      "image_url": "https://media0.faz.net/image/w100/0c1a2165704e/w420h420x290y95/201108/1.1123696/jasper-von-altenbockum.webp",
-      "image_title": "Jasper von Altenbockum"
+      "image_url": "https://media0.faz.net/image/w100/81316c3012c2/w478h478x299y62/201907/1.6281661/tillmann-neuscheler.webp",
+      "image_title": "Tillmann Neuscheler"
     },
     {
       "title": "Regierungsbildung in Berlin: Die marode Metropole",
@@ -197,11 +218,25 @@
       "image_title": "Stefan Paravicini"
     },
     {
+      "title": "Tennis-Weltrangliste: Was Alexander Zverev zur verdienten Nummer eins macht",
+      "teaser": "Durch das Saison-Aus von Jannik Sinner wird Alexander Zverev bald zur zweiten deutschen Nummer eins der Tennis-Welt. Der beste Spieler des Planeten ist er trotzdem nicht. Aber er ist etwas anderes.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-vor-aufstieg-in-tennis-weltrangliste-der-verdiente-lohn-201292876.html",
+      "image_url": "https://media0.faz.net/image/w100/828f3c525479/w358h358x319y67/202004/1.6708618/pirmin-closs.webp",
+      "image_title": "Pirmin Clossé"
+    },
+    {
       "title": "Mainzer Oktoberfest: Oans, zwoa, g’stricha!",
       "teaser": "Die Absage des 20. Mainzer Oktoberfestes kommt zwar kurzfristig, ist aber konsequent. Und auch in diesem Fall liegen die Versäumnisse eher in der Vergangenheit.",
       "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/absage-kein-oktoberfest-auf-mainzer-messegelaende-201292798.html",
       "image_url": "https://media0.faz.net/image/w100/e2fe0df8aca8/w441h441x281y106/201907/1.6281706/markus-schug.webp",
       "image_title": "Markus Schug"
+    },
+    {
+      "title": "Digitale Transformation: Geht doch! Von Stillstand kann keine Rede sein",
+      "teaser": "Die Deutschen verschlafen gerade die digitale Transformation, weil sie dem Staat nichts mehr zutrauen. Dabei ist er längst weiter, als man denkt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/digitale-transformation-in-deutschland-geht-doch-201276013.html",
+      "image_url": "https://media0.faz.net/image/w100/7405b1b0e1d4/w413h413x313y58/201805/1.5571931/corinna-budras.webp",
+      "image_title": "Corinna Budras"
     },
     {
       "title": "Abzug aus Fairford: Wieder sieht Amerika schwach aus",
@@ -232,50 +267,34 @@
       "image_title": "Joachim Müller-Jung"
     },
     {
-      "title": "Streit um AfD-Verbot: Ein Beispiel an Sachsen nehmen",
-      "teaser": "Hessens Justizministerium wollte Gerichte für mögliche Befangenheitsanträge gegen Unterzeichner eines AfD-Verbotsaufrufs sensibilisieren. Doch das Vorgehen hat eine Debatte ausgelöst, die der Justiz eher schadet.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/justizstreit-um-aufruf-nach-afd-verbotsverfahren-ein-beispiel-an-sachsen-nehmen-201289803.html",
-      "image_url": "https://media0.faz.net/image/w100/cadf2f3527c8/w491h491x212y91/202406/1.9768770/elena-zompi.webp",
-      "image_title": "Elena Zompi"
+      "title": "Missglückte Hinrichtung: Erhielt Christa Pike veraltetes Pentobarbital?",
+      "teaser": "Nach der missglückten Hinrichtung von Christa Pike sprechen ihre Anwälte von „minderwertigen Substanzen“, die ihr verabreicht wurden.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/christa-pike-erhielt-sie-veraltetes-pentobarbital-201293258.html"
     },
     {
-      "title": "DFB-Team: Für Klopp ist jetzt Schluss mit lustig",
-      "teaser": "Das Casting des Fußball-Bundestrainers mit 43 Profis ist vorbei. Vor der nächsten Partie im November wird erkennbar sein, ob die besonderen Spieler zu seinem Spielplan passen.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/dfb-team-fuer-juergen-klopp-ist-jetzt-schluss-mit-lustig-201288667.html",
-      "image_url": "https://media0.faz.net/image/w100/d2e2e7b2077d/w2784h2784x1380y406/202602/a363fa84-d750-4f60-9c80-36b607875837/christopher-meltzer.webp",
-      "image_title": "Christopher Meltzer"
+      "title": "Forschungsinstitut Irkutsk: Ist in Russland die Lungenpest ausgebrochen?",
+      "teaser": "Nach dem Tod einer Labormitarbeiterin in Sibirien dementiert die zuständige Behörde einen Pestausbruch. Aber das Vertrauen in die offizielle Version ist gering.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ist-in-russland-die-lungenpest-ausgebrochen-201291880.html"
     },
     {
-      "title": "Vorgezogene Wahl: Sánchez hofft auf den Volkszorn",
-      "teaser": "Der spanische Ministerpräsident will vom Unmut über hohe Mieten und mangelnden Wohnraum profitieren. Diese Neuwahl wird spannend.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/neuwahlen-in-spanien-sanchez-hofft-auf-den-volkszorn-201289800.html",
-      "image_url": "https://media0.faz.net/image/w100/66e1069ad8de/w466h466x272y61/201812/1.5934605/thomas-jansen.webp",
-      "image_title": "Thomas Jansen"
+      "title": "Tuchel und England: Warum es kaum englische Spitzentrainer gibt",
+      "teaser": "Obwohl Thomas Tuchel mit England ein bemerkenswerter Erfolg gelingt, gibt es viele, die sich einen Engländer als Nationaltrainer wünschen. Doch englische Spitzentrainer fehlen seit Jahren. Warum?",
+      "url": "https://www.faz.net/aktuell/sport/fussball/warum-thomas-tuchel-nach-7-0-mit-england-alternativlos-ist-201286337.html"
     },
     {
-      "title": "US-Realitydarstellerin: Kim Kardashian beschäftigt fünf Nannys",
-      "teaser": "Die Realitydarstellerin Kim Kardashian hat vier Kinder – und fünf Nannys, die sich um sie kümmern. Sie selbst pflegt ein tägliches Ritual mit den Kindern.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/kim-kardashian-beschaeftigt-fuenf-nannys-201293100.html"
+      "title": "Nach sieben Staffeln: Carolin Kebekus übernimmt „LOL“ von Bully Herbig",
+      "teaser": "Carolin Kebekus darf künftig lachen, so viel sie will. Sie übernimmt bei „LOL: Last One Laughing“ die Spielleitung von Michael „Bully“ Herbig.",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/carolin-kebekus-uebernimmt-lol-von-michael-bully-herbig-201294183.html"
     },
     {
-      "title": "Vor UEFA-Treffen: Neuendorf fordert Rote Karte für Infantino",
-      "teaser": "Vor dem UEFA-Spitzentreffen in Berlin sendet DFB-Präsident Bernd Neuendorf eine scharfe Botschaft: „Wir müssen ihn vom Platz stellen.“ Aber zuerst geht es noch um etwas anderes.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/dfb-praesident-bernd-neuendorf-will-rote-karte-fuer-fifa-chef-infantino-201292806.html"
+      "title": "Hybride Bedrohung: Wegwerfagenten im Auftrag Teherans",
+      "teaser": "Mutmaßliche Anschläge auf einen Fliegerhorst, Brandsätze und Messerattacken in London: Iran steht im Zentrum von Terrorvorwürfen in Großbritannien.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/plaene-fuer-anschlag-auf-fairford-welche-rolle-spielt-iran-201292363.html"
     },
     {
-      "title": "Bekanntgabe in Stockholm: Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen",
-      "teaser": "Der Teilchenforscher Francis Halzen aus den USA habe „den Weg für eine neue Art der Astronomie geebnet“, lobt das Physik-Nobelkomitee.",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-nobelpreis-an-neutrinoforscher-francis-halzen-accg-201292227.html"
-    },
-    {
-      "title": "FAZ+Wahlen in Brasilien: Brasiliens Märkte wetten auf Bolsonaro",
-      "teaser": "Nach dem ersten Wahlgang steigen Aktien und Real kräftig. Investoren hoffen auf einen haushaltspolitischen Kurswechsel.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/brasilien-wahl-boerse-und-real-steigen-201292995.html"
-    },
-    {
-      "title": "Ehemalige Polizisten vor Gericht: Transfrau wegen Vergewaltigung von Vierzehnjähriger verurteilt",
-      "teaser": "Vor Gericht gesteht eine ehemalige Bundespolizistin, eine Minderjährige vergewaltigt zu haben. Die Transfrau muss ins Gefängnis. Doch in welches?",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vergewaltigung-transfrau-und-ex-polizistin-verurteilt-201293113.html"
+      "title": "MasernAusbruch in den USA: Gouverneurin von New York ruft Notstand wegen Masern aus",
+      "teaser": "Die Vereinigten Staaten erleben den heftigsten Masernausbruch seit 1991. In New York hat die Gouverneurin nun reagiert.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/masern-notstand-in-new-york-kathy-hochul-greift-durch-201292875.html"
     },
     {
       "title": "Bekanntgabe des IOC: Sechs Konkurrenten für München um Olympia 2036",
@@ -283,54 +302,56 @@
       "url": "https://www.faz.net/aktuell/sport/mehr-sport/muenchens-olympia-bewerbung-2036-ioc-gibt-sechs-konkurrenten-bekannt-accg-201292886.html"
     },
     {
-      "title": "Festnahmen und Verletzte: Der Wahlkampf in Spanien startet turbulent",
-      "teaser": "Vor der Neuwahl kündigen die spanischen Gewerkschaften einen Generalstreik an, Separatistenführer Puigdemont steht vor der Rückkehr – und eine Demonstration schlägt in Gewalt um.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/carles-puigdemont-rueckkehr-nach-spanien-vor-der-wahl-201292290.html"
+      "title": "NHL-Star Owetschkin: Ein Putin-Fan im Herzen von Washington",
+      "teaser": "Alexander Owetschkin wird nach seinem Karriere-Ende ein zweischneidiges Vermächtnis hinterlassen: als einer der größten Eishockey-Stars der NHL, aber auch als glühender Anhänger von Wladimir Putin.",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-ovechkin-nhl-legende-und-putin-unterstuetzer-201292603.html",
+      "image_url": "https://media0.faz.net/image/w880/042fe6303605/w7998h4499x0y377/202603/43601.0.1843705491/hoert-auf-alexander-owetschkin.webp",
+      "image_title": "Hört auf: Alexander Owetschkin geht in seine letzte NHL-Saison."
     },
     {
-      "title": "FAZ+Prügelei auf der Straße: „Spiele nicht den Helden, sondern schütze deine Familie“",
-      "teaser": "Es hatte einfach ein Spaziergang mit der Familie sein sollen. Auf einmal stehen die vier vor einer Straßenschlägerei. Und der Vater steht vor der Frage, wie er sich in dieser Situation richtig verhält.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kolumnen/schlaflos/ploetzlich-eine-pruegelei-eingreifen-oder-familie-schuetzen-accg-201290752.html",
-      "image_url": "https://media0.faz.net/image/w880/cc0bb2efefe3/w4835h2720x0y199/202610/43601.0.2633648897/e-roller-wurden-durcheinander.webp",
-      "image_title": "E-Roller wurden durcheinander, teils umgefallen, neben einem Gehweg geparkt, Berlin, 04.06.2026."
+      "title": "FAZ+Toyota bZ4X: Nächster Versuch",
+      "teaser": "Das erste Elektroauto von Toyota auf dem deutschen Markt enttäuschte Kunden und Fachpresse. Also auf ein Neues. Der Name ist der alte: bZ4X, die Technik grundlegend überarbeitet.",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/der-neue-toyota-bz4x-im-test-201252871.html",
+      "image_url": "https://media0.faz.net/image/w880/826ac9cabb97/w3500h1969x0y364/202609/43601.0.2577599985/muss-man-moegen-toyota-zeigt.webp",
+      "image_title": "Muss man mögen: Toyota zeigt außen wieder klare Kante ..."
     },
     {
-      "title": "barockmaler Correggio: Zwischen Muttergottes und Liebesgöttin",
-      "teaser": "Wie konnte das große Vorbild von Rubens und Winckelmann nur derart vergessen werden? Dresdens Gemäldegalerie Alte Meister rehabilitiert den zwischen Renaissance und Barock stehenden Maler Correggio furios.",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/dresden-zeigt-die-groesste-deutsche-correggio-schau-accg-201287770.html",
-      "image_url": "https://media0.faz.net/image/w880/11bc1c9ade19/w4000h2250x0y545/202610/43601.0.2629345407/flotter-dreier-denn-auch-der.webp",
-      "image_title": "Flotter Dreier, denn auch der jugendliche Engel auf dem Bett mit caravaggesk gespreizten Beinen mischt mit: Correggios um 1530/31 entstandene „Danaë“ aus der Galleria Borghese in Rom"
+      "title": "Paradigmenwechsel: Was die verschärften Regeln für Steuersünder bedeuten",
+      "teaser": "Gastbeitrag Die Bundesregierung möchte die Möglichkeiten zur Selbstanzeige beschneiden und schwere Steuerhinterziehung zum Verbrechen machen. Für Vermögende mit Altlasten zählt jetzt das Timing.",
+      "url": "https://www.faz.net/premium/meine-finanzen/selbstanzeige-regeln-fuer-steuersuender-sollen-verschaerft-werden-accg-201290164.html",
+      "image_url": "https://media0.faz.net/image/w920/99f3d6e4074a/w6755h3800x0y744/202610/43601.0.2630884255/ein-ferienhaus-auf-sardinien.webp",
+      "image_title": "Ein Ferienhaus auf Sardinien kann bei komplexen Privatvermögen steuerliche Fragen aufwerfen, die künftig schneller ins Visier der Finanzbehörden geraten könnten."
     },
     {
       "title": "Steuertipp: Renovierungsbedarf verlängert die Steuerfreiheit im Erbfall",
       "teaser": "Das Elternhaus erben die Kinder eigentlich nur dann steuerfrei, wenn sie innerhalb von sechs Monaten einziehen. Jetzt gibt es eine neue Ausnahme.",
       "url": "https://www.faz.net/premium/meine-finanzen/elternhaus-erben-bfh-staerkt-rechte-bei-renovierung-accg-201270473.html",
-      "image_url": "https://media0.faz.net/image/w920/618e9b1f8a48/w5616h3159x0y262/202609/43601.0.2610132543/schoenes-erbe.webp",
+      "image_url": "https://media0.faz.net/image/w1200/618e9b1f8a48/w5616h3159x0y262/202609/43601.0.2610132543/schoenes-erbe.webp",
       "image_title": "Schönes Erbe"
     },
     {
-      "title": "Vermögensbildung: Steuern sparen im Studium",
-      "teaser": "Wenn die Kinder aus dem Haus sind, wird es ruhiger, aber nicht unbedingt günstiger. Was Sie wissen sollten, um Steuern zu sparen.",
-      "url": "https://www.faz.net/premium/meine-finanzen/ausbildung-und-studium-was-das-finanzamt-dazu-beisteuert-accg-201288633.html",
-      "image_url": "https://media0.faz.net/image/w1200/4cc448b635e0/w6144h3456x0y29/202607/43601.0.2283932399/erste-wohnung-erste.webp",
-      "image_title": "Erste Wohnung, erste Steuererklärung? Steuerlich interessant wird es erst von der zweiten Ausbildung an."
+      "title": "Steuertipp: Renovierungsbedarf verlängert die Steuerfreiheit im Erbfall",
+      "teaser": "Das Elternhaus erben die Kinder eigentlich nur dann steuerfrei, wenn sie innerhalb von sechs Monaten einziehen. Jetzt gibt es eine neue Ausnahme.",
+      "url": "https://www.faz.net/premium/meine-finanzen/elternhaus-erben-bfh-staerkt-rechte-bei-renovierung-accg-201270473.html"
     },
     {
-      "title": "Vermögensbildung: Steuern sparen im Studium",
-      "teaser": "Wenn die Kinder aus dem Haus sind, wird es ruhiger, aber nicht unbedingt günstiger. Was Sie wissen sollten, um Steuern zu sparen.",
-      "url": "https://www.faz.net/premium/meine-finanzen/ausbildung-und-studium-was-das-finanzamt-dazu-beisteuert-accg-201288633.html"
+      "title": "Preis-Leistungs-Verhältnis: So finden Profis Aktien zum Schnäppchenpreis",
+      "teaser": "Wer billige Aktien sucht, schaut oft aufs KGV. Doch die Kennzahl hat Tücken. Vier Fondsmanager erklären, wie sie wirklich unterbewertete Titel mit Potential finden – von Mexiko bis China.",
+      "url": "https://www.faz.net/premium/meine-finanzen/unterbewertete-aktien-so-finden-profis-schnaeppchen-accg-201276986.html",
+      "image_url": "https://media0.faz.net/image/w1200/81ffe679506c/w3966h2231x0y1859/202507/43601.0.1183877316/kauflaune-value-investoren.webp",
+      "image_title": "Kauflaune? Value-Investoren wollen auf keinen Fall zu viel für ihre Aktien zahlen."
     },
     {
-      "title": "Anlagehype: Wenn die Story stärker ist als die Zahlen",
-      "teaser": "Gestern die Energiewende, heute KI und Verteidigung: Megatrends werden immer wieder herangezogen, um jede Kursphantasie zu rechtfertigen. Anleger sollten davor auf der Hut sein.",
-      "url": "https://www.faz.net/premium/meine-finanzen/kapitalmarkt-wenn-die-story-staerker-ist-als-die-zahlen-accg-201290140.html",
-      "image_url": "https://media0.faz.net/image/w1200/0294dea16552/w7813h4395x0y816/v/2026/10/05/teqP9WRR/zauberwoerter-der.webp",
-      "image_title": "Zauberwörter der Kapitalmarktkommunikation: KI-Anwendungen sorgen für eine große Nachfrage nach Rechenzentren."
+      "title": "Preis-Leistungs-Verhältnis: So finden Profis Aktien zum Schnäppchenpreis",
+      "teaser": "Wer billige Aktien sucht, schaut oft aufs KGV. Doch die Kennzahl hat Tücken. Vier Fondsmanager erklären, wie sie wirklich unterbewertete Titel mit Potential finden – von Mexiko bis China.",
+      "url": "https://www.faz.net/premium/meine-finanzen/unterbewertete-aktien-so-finden-profis-schnaeppchen-accg-201276986.html"
     },
     {
-      "title": "Anlagehype: Wenn die Story stärker ist als die Zahlen",
-      "teaser": "Gestern die Energiewende, heute KI und Verteidigung: Megatrends werden immer wieder herangezogen, um jede Kursphantasie zu rechtfertigen. Anleger sollten davor auf der Hut sein.",
-      "url": "https://www.faz.net/premium/meine-finanzen/kapitalmarkt-wenn-die-story-staerker-ist-als-die-zahlen-accg-201290140.html"
+      "title": "FAZ+Hilfe bei Schmerzen: Was die „Liebscher & Bracht“-Therapie wirklich bringt",
+      "teaser": "Der Ansatz der selbsternannten Schmerzspezialisten Liebscher & Bracht ist umstritten. Die einen schwören darauf, die anderen sagen: alles Humbug. Was bei der Behandlung wirklich passiert – und ob sie funktioniert.",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/liebscher-und-bracht-was-bei-der-behandlung-passiert-und-ob-sie-funktioniert-accg-201174147.html",
+      "image_url": "https://media0.faz.net/image/w1000/73162a43e21b/w3536h5304x2208y0/202610/43601.0.2620979791/reicht-es-wirklich-aus.webp",
+      "image_title": "Reicht es wirklich aus, Verspannungen zu lösen?"
     },
     {
       "title": "FAZ+Liebeskummer: Ist es nicht mehr zeitgemäß, an der Liebe zu leiden?",
@@ -350,15 +371,8 @@
       "title": "FAZ+Kinder mit ADHS: „Alles ist schwierig: Hände waschen, anziehen, frühstücken“",
       "teaser": "Die Moderatorin Annika Lau erzählt, was ADHS für ihren Sohn bedeutet, wie die Diagnose den Familienalltag bestimmt – und warum ihr Gurgeln mit Wasser hilft.",
       "url": "https://www.faz.net/aktuell/besser-leben/familie/wie-sich-adhs-bei-kindern-auf-den-familienalltag-auswirkt-accg-201269917.html",
-      "image_url": "https://media0.faz.net/image/w1000/0103074d84ea/w2362h3543x0y0/202609/43601.0.2578497884/annika-lau-mit-ihrem-sohn.webp",
+      "image_url": "https://media0.faz.net/image/w850/0103074d84ea/w2362h3543x0y0/202609/43601.0.2578497884/annika-lau-mit-ihrem-sohn.webp",
       "image_title": "Annika Lau mit ihrem Sohn"
-    },
-    {
-      "title": "FAZ+Frauen und Kraftsport: „Einen Deadlift zu machen, das kann jede“",
-      "teaser": "Kollagen, Hormone, Muskelmasse: Für die Frau ab 40 stehen die Zeichen auf Abbau, heißt es. Immer mehr Frauen halten dagegen: Sie werden stark. Und zwar unübersehbar.",
-      "url": "https://www.faz.net/aktuell/besser-leben/fitness/frauen-und-kraftsport-warum-es-um-mehr-als-das-aussehen-geht-accg-201200042.html",
-      "image_url": "https://media0.faz.net/image/w850/5d4782d3f900/w2098h3147x618y0/202609/43601.0.2584699518/coach-nadine-huebner.webp",
-      "image_title": "Coach Nadine Hübner-Bandulewitz (rechts) trainiert mit ihrer Kundin Sharon"
     },
     {
       "title": "Demographischer Wandel: Die Kinder verschwinden",
@@ -375,11 +389,11 @@
       "image_title": "Die Börse in Frankfurt am Main"
     },
     {
-      "title": "Philipp Amthor: So schleift man Politiker endgültig rund",
-      "teaser": "Staatsminister Philipp Amthor ist wegen eines Strandkorbs in einen Sandsturm der Kritik geraten. Geht’s noch?",
-      "url": "https://www.faz.net/aktuell/politik/inland/was-erlauben-philipp-amthor-der-strandkorb-shitstorm-und-seine-folgen-201272276.html",
-      "image_url": "https://media0.faz.net/image/w1100/1c84b744693d/w4246h2388x0y46/202609/43601.0.2607500814/philipp-amthor-bei-einer.webp",
-      "image_title": "Philipp Amthor bei einer Regierungsbefragung am 23. September im Bundestag"
+      "title": "FAZ+Ostseebad: Das ewige Versprechen von Heiligendamm",
+      "teaser": "Heiligendamm ist Deutschlands ältestes und ungewöhnlichstes Seebad. Vermögen gingen hier verloren. Vor dreißig Jahren kam ein Investor und versprach, den Ort in ein neues Sylt zu verwandeln. Die Hoffnung war groß, dann folgte Ernüchterung.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/was-wurde-aus-heiligendamm-das-ein-investor-zum-zweiten-sylt-machen-wollte-accg-201270030.html",
+      "image_url": "https://media0.faz.net/image/w1100/a991a678c16d/w6240h3510x0y325/202609/43601.0.2610392798/wie-perlen-auf-der-schnur-die.webp",
+      "image_title": "Wie Perlen auf der Schnur: Die meisten Logierhäuser am Strand, ursprünglich rötlich-beige gekalkt, sind saniert. Die luxuriösen Eigentumswohnungen sind verkauft. Doch bei viele andere Villen hat sich noch nichts getan."
     },
     {
       "title": "FAZ+Wunderportfolio 2.0: Warum das neue ETF-Portfolio fast alle Fonds schlägt",
@@ -389,10 +403,17 @@
       "image_title": "Grund zum Feiern: Die aktualisierte Version des sogenannten „Wunderportfolios“ der F.A.S. schlägt sich gut."
     },
     {
+      "title": "BARCELONA, SPANIEN: Ausschreitungen bei Protesten gegen Wohnungsnot",
+      "teaser": "In Barcelona kam es am Montagabend zu Zusammenstößen zwischen Polizei und Demonstranten. Die anhaltenden Proteste hatten sich nach dem Scheitern eines Gesetzes zur Linderung Wohnungskrise verschärft.",
+      "url": "https://www.faz.net/video/ausschreitungen-bei-protesten-gegen-wohnungsnot-201292688.html",
+      "image_url": "https://media0.faz.net/image/w920/98a4f8a1b83c/w5918h2536x0y704/202610/43601.0.2633807900/dpa.webp",
+      "image_title": "dpa"
+    },
+    {
       "title": "FRANKREICH: Neue Gewalt bei Schülerprotesten befürchtet",
       "teaser": "Bei den für Dienstag geplanten Protesten werden Blockaden an Hunderten Bildungseinrichtungen erwartet. In den vergangenen Tagen hatte es mehrfach Ausschreitungen gegeben, in der Stadt Lens verlor ein 15-Jähriger eine Hand.",
       "url": "https://www.faz.net/video/neue-gewalt-bei-schuelerprotesten-befuerchtet-201292687.html",
-      "image_url": "https://media0.faz.net/image/w920/fe0ddf9098cf/w6144h2633x0y732/202610/43601.0.2633558360/dpa.webp",
+      "image_url": "https://media0.faz.net/image/w1100/627f98702df8/w6144h3456x0y321/202610/43601.0.2633558360/dpa.webp",
       "image_title": "dpa"
     },
     {
@@ -403,94 +424,116 @@
       "image_title": "Reuters"
     },
     {
-      "title": "Medizin-Nobelpreis 2026: Zwei deutsche Forscher erhalten Nobelpreis",
-      "teaser": "Die Optogenetik revolutionierte die Hirnforschung. Nun ehrt das Karolinska-Institut die Entdecker der Methode mit dem Nobelpreis. Zwei von ihnen kommen aus Deutschland.",
-      "url": "https://www.faz.net/video/zwei-deutsche-forscher-erhalten-medizin-nobelpreis-201289792.html",
-      "image_url": "https://media0.faz.net/image/w1100/2ea4a8828d03/w6144h3456x0y0/202610/43601.0.2629977238/dpa.webp",
-      "image_title": "dpa"
+      "title": "Rhein-Main-Feierabendbriefing: Rhein-Main-Region will führend im zirkulären Bauen werden",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/rhein-main-region-will-fuehrend-im-zirkulaeren-bauen-werden-201293643.html",
+      "image_url": "https://media0.faz.net/image/w920/8060dca82c85/w6144h2633x0y732/202604/43601.0.1975816993/die-wiederverwertung-von.webp",
+      "image_title": "Die Wiederverwertung von Baustoffen ist das Ziel einer neu gegründeten Initiative mehrerer Kommunen im Rhein-Main-Gebiet."
+    },
+    {
+      "title": "FAZ+F.A.Z. Podcast für Deutschland: Bodo Ramelow über Sachsen-Anhalt: „Zerrissene und kopflose CDU“",
+      "teaser": "Podcast",
+      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/bodo-ramelow-ueber-sachsen-anhalt-zerrissene-und-kopflose-cdu-201292602.html",
+      "image_url": "https://media0.faz.net/image/w1100/e99c8dbf5a12/w4317h2428x0y225/202610/43601.0.2634186069/ulrich-siegmund.webp",
+      "image_title": "Ulrich Siegmund, Spitzenkandidat der AfD in Sachsen-Anhalt gratuliert seinem Parteikollegen Tobias Rausch zu seiner Wahl zum Landtagspräsidenten"
     },
     {
       "title": "FAZ+Podcast Finanzen & Immobilien: Wolfgang Grupp, was lässt sich aus einem Unternehmerleben lernen?",
       "teaser": "Podcast",
       "url": "https://www.faz.net/podcasts/f-a-z-finanzen-immobilien/wolfgang-grupp-was-laesst-sich-aus-einem-unternehmerleben-lernen-201282909.html",
-      "image_url": "https://media0.faz.net/image/w920/57170481bd50/w6144h2633x0y668/202603/43601.0.1936627561/wolfgang-grupp-lange-hat-er.webp",
+      "image_url": "https://media0.faz.net/image/w1100/c6fe91e44f50/w6144h3456x0y256/202603/43601.0.1936627561/wolfgang-grupp-lange-hat-er.webp",
       "image_title": "Wolfgang Grupp: Lange hat er das Familienunternehmen Trigema geleitet."
     },
     {
-      "title": "FAZ+F.A.Z. Frühdenker: Wie wird die erste Landtagssitzung in Magdeburg ablaufen?",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wie-wird-die-erste-landtagssitzung-in-magdeburg-ablaufen-faz-fruehdenker-accg-201291175.html",
-      "image_url": "https://media0.faz.net/image/w1100/9b8e14f008d8/w7600h4275x0y764/202610/43601.0.2617082772/ein-uebersichtsplan-mit-der.webp",
-      "image_title": "Ein Übersichtsplan mit der Sitzeverteilung der Fraktionen liegt im Plenarsaal vom Landtag von Sachsen-Anhalt."
+      "title": "Vereint gegen Israel: Wo Berliner Linke mit Extremisten kooperieren",
+      "teaser": "Im Internationalistischen Bündnis Berlin arbeiten drei Linkspartei-Gliederungen mit extremistischen Gruppen zusammen. Wer ist dabei?",
+      "url": "https://www.faz.net/aktuell/politik/inland/wo-berliner-linke-mit-extremisten-kooperieren-201292106.html",
+      "image_url": "https://media0.faz.net/image/w1200/e45e99466e0e/w2739h1541x109y459/202411/1.10131909/im-internationalistischen.webp",
+      "image_title": "Im Internationalistischen Bündnis arbeitet die Linke auch mit BDS Berlin zusammen."
     },
     {
-      "title": "Rhein-Main-Feierabendbriefing: Krankenhausreform: Komplizierte Eingriffe nur noch an ausgewählten Kliniken",
-      "teaser": "Podcast",
-      "url": "https://www.faz.net/podcasts/rhein-main-feierabendbriefing/krankenhausreform-in-hessen-komplizierte-eingriffe-nur-noch-an-ausgewaehlten-kliniken-201290796.html",
-      "image_url": "https://media0.faz.net/image/w1100/b2fc7aa97bec/w5000h2813x0y436/202609/43601.0.2519882403/4360102519882403.webp"
+      "title": "Mekka-Bündnis: Schickt die Türkei jetzt Truppen nach Saudi-Arabien?",
+      "teaser": "Im Rahmen ihres Verteidigungspakts wollen Pakistan und die Türkei Soldaten und Gerät bereitstellen. An einer öffentlichen Debatte hat Ankara aber kein Interesse.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-und-pakistan-wollen-saudi-arabien-gegen-die-huthis-unterstuetzen-201291878.html",
+      "image_url": "https://media0.faz.net/image/w1100/f29797446681/w1600h900x0y113/202610/43601.0.2631596095/die-aussenminister-der-tuerkei.webp",
+      "image_title": "Die Außenminister der Türkei, von Pakistan und Saudi-Arabien, Hakan Fidan, Ishaq Dar und Faisal bin Farhan Al Saud, am Montag in Riad"
     },
     {
-      "title": "Schülerproteste: Abermals Zusammenstöße zwischen Demonstranten und Polizei",
-      "teaser": "Nach Angaben der Schülergewerkschaft sind an diesem Dienstag rund 1800 Gymnasien in Frankreich blockiert oder geschlossen. Auch Gewerkschaften und Eltern haben sich den Protesten angeschlossen.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-schueler-und-gewerkschaftsvertreter-blockieren-schulen-accg-201291935.html",
-      "image_url": "https://media0.faz.net/image/w1200/ecae654097e4/w7000h3938x0y731/202610/43601.0.2632547260/schueler-versammeln-sich-am.webp",
-      "image_title": "Schüler versammeln sich am Dienstag vor dem Lycée Charles Péguy in Paris und demonstrieren gegen unterfinanzierte Schulen."
+      "title": "EU-Erweiterung: Neue Mitglieder sollen schneller bestraft werden, wenn sie gegen EU-Werte verstoßen",
+      "teaser": "Die EU-Kommission zieht Konsequenzen aus den Problemen mit Ungarn und Polen. Für die Ukraine hat sie einen besonderen Vorschlag.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/erweiterung-neue-regeln-fuer-neue-eu-mitglieder-201292529.html",
+      "image_url": "https://media0.faz.net/image/w1100/8c12031290fd/w5566h3131x0y0/202610/43601.0.2617082486/johann-wadephul-cdu.webp",
+      "image_title": "Johann Wadephul (CDU), Außenminister, Ervin Ibrahimović, Außenminister von Montenegro, und Marta Kos, EU-Erweiterungskommissarin, nehmen an einer gemeinsamen Pressekonferenz in Montenegro am Donnerstag teil."
     },
     {
-      "title": "Separatistenführer: Carles Puigdemont kann nach Spanien zurückkehren",
-      "teaser": "Das spanische Verfassungsgericht entschied am Dienstag, dass die Amnestie für katalanische Separatisten aus dem Jahr 2024 auch auf den katalanischen Separatistenführer anwendbar ist.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/carles-puigdemont-spaniens-justiz-macht-weg-fuer-rueckkehr-frei-accg-201292812.html",
-      "image_url": "https://media0.faz.net/image/w1100/ef18226d1393/w7649h4303x0y0/202609/43601.0.2582092021/der-katalanische.webp",
-      "image_title": "Der katalanische Separatistenführer Carles Puigdemont im August 2024 in Barcelona"
+      "title": "Schülerproteste: „Zu den Waffen, Bürger!“",
+      "teaser": "Über dem Pariser Quartier Latin liegt ein Hauch von Mai 1968. Wieder sind es geburtenstarke Jahrgänge, die protestieren.",
+      "url": "https://www.faz.net/aktuell/politik/ausland/protesttag-in-frankreich-so-demonstrieren-die-schueler-in-paris-201291778.html",
+      "image_url": "https://media0.faz.net/image/w1100/27637eee0e21/w7490h4213x0y561/202610/43601.0.2622585520/ein-maskierter-schueler.webp",
+      "image_title": "Ein maskierter Schüler transportiert ein Absperrgitter vor dem Gymnasium Louis-le-Grand in Paris am Freitag."
     },
     {
-      "title": "Oranien-Nassau: Sie legitimierten den Sklavenhandel",
-      "teaser": "König Willem-Alexander hat die Geschichte seiner Familie durchleuchten lassen. Die niederländische Monarchie war in den Kolonialismus verstrickt, verdiente aber kein Geld damit.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/koenigshaus-und-kolonialismus-der-niederlaendische-koenig-liess-seine-familie-durchleuchten-accg-201289244.html",
-      "image_url": "https://media0.faz.net/image/w1100/236fed40a341/w6000h3375x0y437/202609/43601.0.2569362892/der-niederlaendische-koenig.webp",
-      "image_title": "Der niederländische König Willem-Alexander im September bei der Eröffnung des restaurierten Schlosses Huis Bergh"
+      "title": "Teurer Einkauf: Nun sorgt die geplante Plastiksteuer für Ärger",
+      "teaser": "Für Kunden wird mit der geplanten Steuer auf Kunststoffverpackungen vieles im täglichen Einkauf teurer. Verbände warnen davor, die Abgabe im Schnellverfahren durchzudrücken.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/plastiksteuer-fuer-verbraucher-wird-der-taegliche-einkauf-teurer-201292398.html",
+      "image_url": "https://media0.faz.net/image/w1200/05618ea5571a/w3300h1856x0y172/202606/43601.0.2173376533/in-folie-verpackte.webp",
+      "image_title": "In Folie verpackte Lebensmittel sind ein Fall für die neue Steuer auf Kunststoffverpackungen."
     },
     {
-      "title": "Attentäter von 2009: Trump genehmigt Hinrichtung eines Soldaten",
-      "teaser": "Der amerikanische Soldat Nidal Hasan hat im Jahr 2009 auf einem US-Militärstützpunkt 13 Menschen getötet. Nun soll er erschossen werden.",
-      "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/trump-stimmt-hinrichtung-von-amoklaeufer-durch-us-militaer-zu-accg-201292333.html",
-      "image_url": "https://media0.faz.net/image/w1100/ce3070900058/w3000h1687x0y154/202608/43601.0.2473084430/ein-eingangsschild-zu-fort.webp",
-      "image_title": "Ein Eingangsschild zu Fort Hood im Juli 2025"
+      "title": "Gesetzliche Krankenversicherung: Weniger Geld für Verwaltung, mehr für Krankenhäuser",
+      "teaser": "Einige Anträge von CDU/ CSU und SPD folgen dem, was die Finanzkommission Gesundheit vorgeschlagen hatte – andere werden zu mehr Ausgaben führen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/gkv-aenderungsantraege-mehr-geld-fuer-krankenhaeuser-201292021.html",
+      "image_url": "https://media0.faz.net/image/w1100/55869b16b3da/w6000h3375x0y193/202603/43601.0.1935406008/die-finanzkommission.webp",
+      "image_title": "Die Finanzkommission Gesundheit stellt ihre Empfehlungen vor. Manche der Empfehlungen kommen erst jetzt als Änderungsantrag."
     },
     {
-      "title": "Güterverkehr: Die Logistik darf nicht zum Spielball werden",
-      "teaser": "Gastbeitrag Durch die Transportbranche rollt eine Insolvenzwelle. Damit sind Deutschlands wirtschaftliche Substanz und Resilienz bedroht. Es ist höchste Zeit für eine Gesamtstrategie, denn es geht um mehr als Lastwagen, Schiene oder Antriebe.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gueterverkehr-die-logistik-darf-nicht-zum-spielball-werden-201291968.html",
-      "image_url": "https://media0.faz.net/image/w1200/ab3b5e223594/w4943h2780x0y257/202609/43601.0.2580162759/nabelschau-auf-der-messe-iaa.webp",
-      "image_title": "Nabelschau: Auf der Messe IAA Transportation hat die Branche gerade gezeigt, was sie kann."
+      "title": "Frankfurter Buchmesse: Buchbranche wirft Weimer Untätigkeit im KI-Streit vor",
+      "teaser": "Auf der Frankfurter Buchmesse werden mehr als 250.000 Besucher erwartet. Zum Auftakt appellieren mehr als 120 Verlage an die Politik, ihnen in ihrem Streit gegen die Urheberrechtsverletzungen der großen Techkonzerne zu helfen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/frankfurter-buchmesse-wolfram-weimer-im-ki-streit-201292519.html",
+      "image_url": "https://media0.faz.net/image/w1100/d4ecd618bb00/w5172h2909x0y269/202610/43601.0.2633905092/fuer-eine-strengere.webp",
+      "image_title": "Für eine strengere Regulierung der KI-Anbieter: Buchmessendirektor Jürgen Boos, die US-Historikerin Jill Lepore und der Vorsteher des Börsenvereins, Sebastian Guggolz, auf der Eröffnungspressekonferenz der Frankfurter Buchmesse"
     },
     {
-      "title": "Business-Ticker: Paramount schließt Warner-Übernahme ab",
-      "teaser": "Unzureichend geschützte KI-Agenten brechen bei Wikipedia ein +++ Mutmaßlicher Hackerangriff auf Online-Händler Asos +++ Flugticketpreise von Deutschland aus seit 2010 etwa verdoppelt +++ Neuigkeiten im Unternehmen-Liveblog",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-paramount-schliesst-warner-uebernahme-ab-faz-200452404.html",
-      "image_url": "https://media0.faz.net/image/w1100/15966fcc706a/w7991h4495x0y0/202609/43601.0.2579688513/studio-von-warner-brothers-in.webp",
-      "image_title": "Studio von Warner Brothers in Kalifornien: Die Aktie des neuen Dachkonzerns Skydance soll ab Dienstag an der New Yorker Börse gehandelt werden."
+      "title": "Wirtschaftsbücher: Geopolitik am Nordpol",
+      "teaser": "Die Arktis wird zum Machtpoker der Großmächte. Michael Paul hat über das geopolitische Tauziehen im Norden ein lesenswertes Buch verfasst.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/michael-paul-ueber-den-nordpol-die-arktis-ist-das-ziel-geopolitischer-ambitionen-201283468.html",
+      "image_url": "https://media0.faz.net/image/w1100/518f0d6bded4/w3000h1687x0y82/200906/431.0.58311253/eisbaeren-in-der-arktis.webp",
+      "image_title": "Eisbären in der Arktis"
     },
     {
-      "title": "Immobilien vor Gericht: Maklerprovision wird fällig, auch wenn der Verkäufer nicht zahlt",
-      "teaser": "Gastbeitrag Ein Makler vermittelt einen Hauskauf. Doch der Verkäufer widerruft den Maklervertrag. Muss der Käufer trotzdem Provision zahlen?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hauskauf-maklerprovision-wird-trotz-widerruf-faellig-accg-201183116.html",
-      "image_url": "https://media0.faz.net/image/w1100/336e290e7f0f/w6720h3780x0y324/202506/43601.0.1106291360/uebergabe-ein-makler-der-das.webp",
-      "image_title": "Übergabe: Ein Makler, der das Haus vermittelt, kostet."
+      "title": "Medienwandel: Überlebt die Demokratie das Ende des Lesens?",
+      "teaser": "Lesen hat einen hohen kulturellen Stellenwert – und verliert doch an Beliebtheit und Prestige. Was geht der Gesellschaft und uns als Menschen verloren, wenn wir immer seltener zum Buch greifen?",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/krise-des-lesens-kann-die-demokratie-das-ueberleben-201248489.html",
+      "image_url": "https://media0.faz.net/image/w920/ccbe0e9f767c/w6144h2633x0y545/202609/43601.0.2580983567/auf-die-kraft-des-wortes.webp",
+      "image_title": "Auf die Kraft des Wortes angewiesen: Bundespräsident Frank-Walter bei dem Besuch einer Buchhandlung in Hattingen, September 2026"
     },
     {
-      "title": "Klimaschutz: EU will die Methanverordnung verschieben",
-      "teaser": "Erdgas ist teuer und knapp. Die Europäische Union will deshalb eine Klimaschutzverordnung verschieben, die eigentlich mitten im Winter in Kraft träte.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eu-will-die-methanverordnung-verschieben-accg-201292376.html",
-      "image_url": "https://media0.faz.net/image/w1100/5aa361c0a5fa/w7568h4257x0y322/202609/43601.0.2613417651/sollte-sauberer-werden-lng.webp",
-      "image_title": "Sollte sauberer werden: LNG-Einfuhr am Terminal in Wilhelmshaven"
+      "title": "Superstar Colson Whitehead: Gangster und Galeristen spielen dasselbe Spiel",
+      "teaser": "Colson Whitehead lässt das schillernde, brutale New York der Achtzigerjahre auferstehen. Die Stadt verdrängt ihre Bewohner und erfindet sich neu. „Cool Machine“ ist der fulminante Abschluss seiner Harlem-Trilogie.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/frankfurter-buchmesse-2026-colson-whiteheads-cool-machine-201262774.html",
+      "image_url": "https://media0.faz.net/image/w1100/b854e49c1008/w5274h2967x0y256/202609/4d30ab5d-8a78-4d22-befc-93e0819821d2/die-zahnraeder-anhalten-kaum.webp",
+      "image_title": "Die Zahnräder anhalten? Kaum. Aber versuchen, nicht dazwischen zu geraten: Straßenszene mit der Wohltäterin „Mother Hale“ und einem Kind in Harlem, 1986"
     },
     {
       "title": "Kosten Für KI: Schon bei der Abrechnung fängt das Problem an",
       "teaser": "Deutsche Unternehmen geben Milliarden für Künstliche Intelligenz aus – Tendenz stark steigend. Eine F.A.Z.-Umfrage zeigt: Zum Eindämmen der Kosten verfolgen sie unterschiedliche Strategien.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/tokenverbrauch-ki-kosten-steigen-in-deutschen-unternehmen-rapide-accg-201280853.html",
-      "image_url": "https://media0.faz.net/image/w920/d6d239add933/w2682h1149x0y40/202610/43601.0.2630483437/der-android-commander-data.webp",
+      "image_url": "https://media0.faz.net/image/w1100/6bbae2897172/w2682h1509x0y11/202610/43601.0.2630483437/der-android-commander-data.webp",
       "image_title": "Der Android Commander Data (rechts) – hier mit seinem Zwillingsbruder B-4 – war auf der Brücke der Enterprise unbezahlbar. Diesen Luxus haben Unternehmen nicht, die für ihre Künstliche Intelligenzen immer mehr zahlen müssen."
+    },
+    {
+      "title": "SpaceX und Tesla: Elon Musk ist wieder Billionär",
+      "teaser": "Das Vermögen des reichsten Menschen der Welt überspringt die Marke von einer Billion US-Dollar. Seine beiden Unternehmen konnten sich an der Börse zuletzt wieder besser behaupten.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/elon-musk-wieder-billionaer-dank-tesla-und-spacex-201291952.html",
+      "image_url": "https://media0.faz.net/image/w920/b7a5e7d30f6b/w5900h2528x0y157/202606/43601.0.2265385944/boersengang-im-juni-nach-einer.webp",
+      "image_title": "Börsengang im Juni: Nach einer Schwächephase notieren SpaceX-Aktien wieder über ihrem Ausgabekurs."
+    },
+    {
+      "title": "FAZ+Wahlen in Brasilien: Brasiliens Märkte wetten auf Bolsonaro",
+      "teaser": "Nach dem ersten Wahlgang steigen Aktien und Real kräftig. Investoren hoffen auf einen haushaltspolitischen Kurswechsel.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/brasilien-wahl-boerse-und-real-steigen-201292995.html",
+      "image_url": "https://media0.faz.net/image/w1100/3ea426c347cb/w4552h2561x0y38/202610/43601.0.2632278761/sieger-der-ersten-wahlrunde-fl.webp",
+      "image_title": "Sieger der ersten Wahlrunde: Flávio Bolsonaro geht Ende Oktober als Favorit in die Stichwahl für das Präsidentenamt."
     },
     {
       "title": "FAZ+Mein Geld: „Soll ich meine Lebensversicherung kündigen?“",
@@ -498,34 +541,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/lohnt-sich-die-kuendigung-der-lebensversicherung-accg-201277540.html",
       "image_url": "https://media0.faz.net/image/w1100/289ed93edec9/w6720h3780x0y468/202610/43601.0.2616776438/wer-blickt-hier-noch-durch.webp",
       "image_title": "Wer blickt hier noch durch?"
-    },
-    {
-      "title": "Schulproteste in Frankreich: Warum sind die Oberschüler so unzufrieden?",
-      "teaser": "Die Oberschüler sehen sich als verlorene Generation, die den Niveauverlust des französischen Bildungssystems ausbaden muss. Dafür gibt es mehrere Gründe – und einer davon weist nach Deutschland.",
-      "url": "https://www.faz.net/aktuell/politik/ausland/frankreich-gibt-viel-geld-fuer-bildung-aus-trotzdem-protestieren-die-schueler-accg-201288845.html",
-      "image_url": "https://media0.faz.net/image/w1100/9995d074427d/w6144h3456x0y559/202610/43601.0.2630432446/protestierende-schueler.webp",
-      "image_title": "Protestierende Schüler versammeln sich am 5. Oktober an einer Oberschule in Paris."
-    },
-    {
-      "title": "FAZ+Wüstenrot & Württembergische: Welche Chancen die W&W-Aktie nach dem Kursrückgang bietet",
-      "teaser": "In der Niedrigzinsphase rückten Bausparkassen wie W&W in den Hintergrund. Nun wittern sie Morgenluft. Altlasten bleiben allerdings.",
-      "url": "https://www.faz.net/aktuell/finanzen/boersen-maerkte/ww-aktie-welche-chancen-bieten-sich-201258763.html",
-      "image_url": "https://media0.faz.net/image/w920/f5962e899c19/w6000h2571x0y791/202608/43601.0.2432535066/will-effizienter-werden-der.webp",
-      "image_title": "Will effizienter werden: Der Finanzkonzern Wüstenrot & Württembergische"
-    },
-    {
-      "title": "Dollar gewinnt: Europäische Haushaltssorgen belasten den Euro",
-      "teaser": "Währungshändler trauen der finanziellen Stabilität der Eurostaaten im Moment nicht. Der Dollar scheint seinen Status als Reservewährung zu behaupten.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/europaeische-haushaltssorgen-belasten-den-euro-201288425.html",
-      "image_url": "https://media0.faz.net/image/w1100/c86a3fd3fb8c/w3000h1687x0y77/202210/43600.0.1232263440/teurer-dollar-der-euro-verlor.webp",
-      "image_title": "Teurer Dollar: Der Euro verlor in den vergangenen Wochen auf dem Weltmarkt an Wert."
-    },
-    {
-      "title": "Tarifrunde Privatbanken: Banker wollen mehr Geld und Freizeit kaufen können",
-      "teaser": "Die deutschen Privatbanken verdienen prächtig. Jetzt sollen auch die Angestellten etwas davon haben. Die Gewerkschaften gehen mit hohen Forderungen in die anstehende Tarifrunde.",
-      "url": "https://www.faz.net/aktuell/finanzen/tarifrunde-privatbanken-was-gewerkschaften-fordern-201289566.html",
-      "image_url": "https://media0.faz.net/image/w1100/3ce79dc982fe/w3000h1687x0y0/202504/43601.0.991200314/die-angestellten-der-deutschen.webp",
-      "image_title": "Die Angestellten der deutschen Privatbanken ringen um eine Lohnerhöhung."
     },
     {
       "title": "FAZ+In Charts: Oil Is Flowing From Hormuz Again—Just Not the Kind the World Needs Most",
@@ -549,32 +564,32 @@
       "image_title": "Americans are spending more on food and most anything else they want or need"
     },
     {
+      "title": "Familienbande: Vor wem auch immer sie Angst haben",
+      "teaser": "Jess Walter schaut mit dem Roman „So weit weg“ tief in die amerikanische Seele und findet dort Risse, die ganze Familien spalten. Auch Kindesentführung gehört zum Programm.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/krimi/jess-walters-us-familiendrama-so-weit-weg-201269375.html",
+      "image_url": "https://media0.faz.net/image/w1200/354d662e83d0/w1691h951x0y424/202609/43601.0.2496717926/versoehnung-ist-moeglich-herr.webp",
+      "image_title": "Versöhnung ist möglich, Herr Nachbar? Jess Walter glaubt daran."
+    },
+    {
+      "title": "Digitale Infrastruktur: Ein Stollen fürs digitale Zeitalter",
+      "teaser": "Der „Digital Turn“ im Archivwesen ist ein großes Versprechen – doch gerade hier hat man bereits einiges versäumt. Eine Berliner Tagung macht nun die Dringlichkeit der Aufgabe klar.",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/berliner-tagung-zur-digitalisierung-von-archiven-201282454.html",
+      "image_url": "https://media0.faz.net/image/w1100/132c02f4fe55/w3000h1687x0y169/201603/431.0.30468795/digitale-objekte-als.webp",
+      "image_title": "Digitale Objekte als Museumsgut: Ein Teil des im Deutschen Literaturarchiv aufbewahrten Nachlasses des Schriftstellers und Literaturwissenschaftlers Friedrich Kittler besteht aus Speichermedien. Aber wie speichern wir zukünftig die Texte?"
+    },
+    {
+      "title": "Biermanns Tagebücher: „O welches Stinkvolk!“",
+      "teaser": "In seinen bislang unveröffentlichten Tagebüchern arbeitet Wolf Biermann sich an manchen bitteren Lebensthemen ab, wie ein erster Auswahlband jetzt zeigt. Aber er sprüht auch vor Witz und Spott.",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/literatur/wolf-biermann-tagebuecher-ueber-ddr-verbot-und-mauerfall-201277287.html",
+      "image_url": "https://media0.faz.net/image/w1100/fa4702daa6e7/w6000h3375x0y397/202610/43601.0.2633601837/fiel-wohl-auf-den-ruecken-den.webp",
+      "image_title": "„Fiel wohl auf den Rücken, den Arsch, auf den Kopf / – doch nie auf die Knie im Widerstand“: Wolf Biermann, daheim im September 2026."
+    },
+    {
       "title": "Festival „Enjoy Jazz“: Sprache des Herzens",
       "teaser": "Die Tracy Chapman des Maghreb und der Guru des tantrischen Saxophons: Souad Massi eröffnet das Festival „Enjoy Jazz“, Trygve Seim und Tord Gustavsen erweitern es zwischen Bach-Chorälen und Electro-Folklore.",
       "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/souad-massi-und-tord-gustavsen-bei-enjoy-jazz-201289122.html",
-      "image_url": "https://media0.faz.net/image/w1200/aec986c3703c/w4297h2417x0y1391/202610/43601.0.2629869085/soud-massi-singt-bei-der.webp",
+      "image_url": "https://media0.faz.net/image/w1100/aec986c3703c/w4297h2417x0y1391/202610/43601.0.2629869085/soud-massi-singt-bei-der.webp",
       "image_title": "Soud Massi singt bei der Eröffnung des Festivals „Enjoy Jazz“."
-    },
-    {
-      "title": "Finanzprobleme: Der RBB ist noch längst nicht über den Berg",
-      "teaser": "Trotz Sparmaßnahmen bleiben Zweifel an der Zukunftsfähigkeit des Senders. Der Personalrat kritisiert die Überlastung von Mitarbeitern und mahnt eine neue Programmstrategie an.",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/wie-steht-es-um-die-finanzen-des-rbb-accg-201279257.html",
-      "image_url": "https://media0.faz.net/image/w1100/d84c792733b9/w6000h3375x0y584/202609/43601.0.2559992893/das-logo-des-senders-rundfunk.webp",
-      "image_title": "Das Logo des Senders Rundfunk Berlin-Brandenburg (RBB) vor dem Gebäude an der Masurenallee"
-    },
-    {
-      "title": "Theaterpremiere Wien: Eigentlich ist alles Liebe",
-      "teaser": "Am Theater in der Josefstadt versuchen sie sich an der größten Liebesgeschichte der Welt. Stefan Pucher inszeniert Shakespeares „Romeo und Julia“ als postgeschlechtliches Identitätswirrwarr.",
-      "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/puchers-romeo-und-julia-in-wien-accg-201288614.html",
-      "image_url": "https://media0.faz.net/image/w1100/b554b8c76163/w4000h2250x0y72/202610/43601.0.2629557713/gegen-die-verhaeltnisse.webp",
-      "image_title": "Gegen die Verhältnisse antrampeln: Seide Noffke als Julia und Leonard Dick als Romeo"
-    },
-    {
-      "title": "Verlegerin Felicitas von Lovenberg: Die Buchmesse, das sind auch Party, Klatsch und Gerüchte",
-      "teaser": "Gastbeitrag Wie wir einmal eine Zeitung nur für die Buchmesse auf den Weg brachten, in die alles Eingang fand: Hintergrundartikel, Interviews, Gastbeiträge, Klatsch und Gerüchte. Eine Erinnerung",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/buchmessenzeitung-felicitas-von-lovenberg-erinnert-sich-accg-201242432.html",
-      "image_url": "https://media0.faz.net/image/w1100/6d16e1b5b902/w3888h2187x0y203/200810/43601.0.2613633446/eines-der-ersten-exemplare-der.webp",
-      "image_title": "Eines der ersten Exemplare der F.A.Z.-Buchmessenzeitung im Oktober 2008"
     },
     {
       "title": "Forschungsförderung: Landsleute bevorzugt",
@@ -598,10 +613,24 @@
       "image_title": "Kontextualisierter Individualismus: Metallplastik des spanischen Künstlers Juan Genoves vor dem Hintergrund einer Industrieanlage im spanischen Gijón"
     },
     {
+      "title": "Eintracht Frankfurt: Die Eintracht-Gewinner der Länderspielpause",
+      "teaser": "Nicht für jeden Nationalspieler bei der Eintracht lief es gut. Dafür aber für drei, die nicht nominiert wurden. Mit einem von ihnen hat Hütter einen Plan, den man aus Liverpool kennt.",
+      "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-knauff-soll-in-die-klopp-rolle-wachsen-201292541.html",
+      "image_url": "https://media0.faz.net/image/w1200/06402a3ea7f0/w6264h3524x0y300/202610/43601.0.2629513539/doch-noch-nationalspieler.webp",
+      "image_title": "Doch noch Nationalspieler: Nnamdi Collins ist für die U21 nachnominiert worden."
+    },
+    {
+      "title": "Vor UEFA-Treffen: Neuendorf fordert Rote Karte für Infantino",
+      "teaser": "Vor dem UEFA-Spitzentreffen in Berlin sendet DFB-Präsident Bernd Neuendorf eine scharfe Botschaft: „Wir müssen ihn vom Platz stellen.“ Aber zuerst geht es noch um etwas anderes.",
+      "url": "https://www.faz.net/aktuell/sport/fussball/dfb-praesident-bernd-neuendorf-will-rote-karte-fuer-fifa-chef-infantino-201292806.html",
+      "image_url": "https://media0.faz.net/image/w1100/c085befc31b3/w2043h1149x248y118/202609/43601.0.2567696991/was-tun-dfb-praesident-bernd.webp",
+      "image_title": "Was tun? DFB-Präsident Bernd Neuendorf (li.) und UEFA-Chef Aleksander Čeferin"
+    },
+    {
       "title": "Fußball-Transferticker: Matthias Ginter verlängert seinen Vertrag beim SC Freiburg",
       "teaser": "Weltmeister von 2014 bleibt im Breisgau +++ Olaf Janßen wechselt in die Schweiz +++ Demme und Leistner verstärken Viktoria Potsdam +++ Dahoud hat neuen Arbeitgeber +++ alle Infos im Transferticker.",
       "url": "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-matthias-ginter-verlaengert-beim-sc-freiburg-18134600.html",
-      "image_url": "https://media0.faz.net/image/w1200/57ce6d9cc4aa/w5663h3185x0y7/202610/43601.0.2633611365/abwehrchef-matthias-ginter.webp",
+      "image_url": "https://media0.faz.net/image/w1100/57ce6d9cc4aa/w5663h3185x0y7/202610/43601.0.2633611365/abwehrchef-matthias-ginter.webp",
       "image_title": "Abwehrchef Matthias Ginter bleibt dem SC Freiburg erhalten."
     },
     {
@@ -612,24 +641,24 @@
       "image_title": "Endgegner: Wie schon bei der WM 2014 führt auch in Traorés Illustration für Messi kein Weg an Neuer vorbei."
     },
     {
-      "title": "Einheitliche Lösung: Bundesliga-Präsidium möchte Konsens bei 50+1-Regelung",
-      "teaser": "In einer Stellungnahme stellt sich das Präsidium hinter die Regel und kündigt „finale Vorschläge“ für eine gemeinsame Anwendung an. Damit sollen gerichtliche Auseinandersetzungen vermieden werden.",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-praesidium-fordert-konsens-bei-regelung-zu-501-accg-201292421.html",
-      "image_url": "https://media0.faz.net/image/w1100/91ae043521ba/w6124h3445x0y319/202608/43601.0.2489926970/das-bundesliga-praesidium.webp",
-      "image_title": "Das Bundesliga-Präsidium äußert sich nach einem Urteil des Bundeskartellamts."
+      "title": "US-Realitydarstellerin: Kim Kardashian beschäftigt fünf Nannys",
+      "teaser": "Die Realitydarstellerin Kim Kardashian hat vier Kinder – und fünf Nannys, die sich um sie kümmern. Sie selbst pflegt ein tägliches Ritual mit den Kindern.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/kim-kardashian-beschaeftigt-fuenf-nannys-201293100.html",
+      "image_url": "https://media0.faz.net/image/w1200/c355c076c3c2/w2500h1406x0y0/202605/43601.0.2086606715/kim-kardashian.webp",
+      "image_title": "Kim Kardashian"
     },
     {
-      "title": "Saisonaus für Sinner: Zverevs Weg zur neuen Nummer eins ist frei",
-      "teaser": "Jannik Sinner kehrt in diesem Jahr nicht mehr auf die Tour zurück – und macht damit den Weg für Zverev auf den Tennis-Thron frei. Das Erfolgsjahr des Hamburgers dürfte schon sehr bald gekrönt werden.",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverevs-weg-zur-neuen-nummer-eins-im-tennis-ist-frei-accg-201292318.html",
-      "image_url": "https://media0.faz.net/image/w1100/b97fe8d36084/w6291h3539x0y0/202607/43601.0.2329107297/alexander-zverev-links-und.webp",
-      "image_title": "Alexander Zverev (links) und Jannik Sinner beim Wimbledon-Finale 2026."
+      "title": "Ehemalige Polizisten vor Gericht: Transfrau wegen Vergewaltigung von Vierzehnjähriger verurteilt",
+      "teaser": "Vor Gericht gesteht eine ehemalige Bundespolizistin, eine Minderjährige vergewaltigt zu haben. Die Transfrau muss ins Gefängnis. Doch in welches?",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vergewaltigung-transfrau-und-ex-polizistin-verurteilt-201293113.html",
+      "image_url": "https://media0.faz.net/image/w1100/d9948fd6015a/w6000h3375x0y300/202610/43601.0.2632744864/vor-gericht-die-transfrau-eine.webp",
+      "image_title": "Vor Gericht: die Transfrau, eine suspendierte Polizistin (links), neben ihrem Anwalt Peter Dürr vor dem Richter Andreas Bartschmid"
     },
     {
       "title": "400 Kreise untersucht: Bevölkerung in Deutschland wird laut Studie bis 2045 schrumpfen",
       "teaser": "81,8 Millionen Menschen leben 2045 in Deutschland – so prognostiziert es das Berlin-Institut für Bevölkerung und Entwicklung. Viele Regionen aber müssen mit einem Bevölkerungsrückgang rechnen.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/bevoelkerung-in-deutschland-schrumpft-laut-studie-bis-2045-accg-201292435.html",
-      "image_url": "https://media0.faz.net/image/w1200/115ae70ee434/w6144h3456x0y45/202610/43601.0.2633023536/passanten-gehen-durch-die.webp",
+      "image_url": "https://media0.faz.net/image/w1100/115ae70ee434/w6144h3456x0y45/202610/43601.0.2633023536/passanten-gehen-durch-die.webp",
       "image_title": "Passanten gehen durch die Innenstadt von Köln."
     },
     {
@@ -638,20 +667,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/ulm-prozess-beginnt-41-jahre-nach-toetung-einer-frau-accg-201293007.html",
       "image_url": "https://media0.faz.net/image/w1100/1e8ad0531fc8/w6144h3456x0y0/202610/43601.0.2632963074/ein-wegen-mordes-angeklagter.webp",
       "image_title": "Ein wegen Mordes Angeklagter wird im Rollstuhl in den Gerichtssaal gefahren."
-    },
-    {
-      "title": "Bundibugyo-Virus: Kenia bestätigt ersten Ebola-Fall",
-      "teaser": "Ein Mann, der sich mit dem hochansteckenden Bundibugyo-Virus infiziert hatte, ist in Nairobi gestorben. Die Gesundheitsbehörde spricht vom „am schnellsten wachsende Ebola-Ausbruch, den wir je gesehen haben“.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/kenia-bestaetigt-ersten-ebola-fall-accg-201292838.html",
-      "image_url": "https://media0.faz.net/image/w1100/e03b05cb15a8/w6000h3375x0y292/202610/43601.0.2633355508/eine-person-traegt-im.webp",
-      "image_title": "Eine Person trägt im Gesundheitsministerium eine Maske, nachdem Kenia den ersten Ebola-Fall gemeldet hat."
-    },
-    {
-      "title": "FAZ+Kolumne „Der Landarzt“: Wer Mercedes bezahlt und Trabi bekommt, findet das nicht fair",
-      "teaser": "Unser Kolumnist ist Landarzt und gerade im Urlaub – und zwar in den USA. Was er in diesem gespaltenen Land erlebt, macht ihn nachdenklich, bringt ihn aber auf eine neue Geschäftsidee.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/was-unser-landarzt-in-den-usa-erlebt-accg-201268653.html",
-      "image_url": "https://media0.faz.net/image/w1100/3c77ac4f867c/w5500h3094x0y283/202607/43601.0.2321716468/unter-den-eindruecken-seiner.webp",
-      "image_title": "Unter den Eindrücken seiner Reise philosophiert Landarzt Thomas Assmann über die Spaltung einer Gesellschaft – nicht nur hierzulande."
     },
     {
       "title": "Designer aus Litauen: Mode-Geheimtipps aus dem Gründungsland von Vinted",
@@ -668,32 +683,32 @@
       "image_title": "Dieser Stil vergeht nicht: Julian Klausner spult bei Dries Van Noten zurück zum Hollywood-Glamour der Fünfzigerjahre."
     },
     {
-      "title": "Absage mit Ansage: Mainzer Oktoberfest ist abgeblasen",
-      "teaser": "Rund 50.000 Bier- und Blasmusikliebhaber dürften sich auf das 20. Mainzer Oktoberfest schon gefreut haben. Doch nun wurde die Party kurzfristig abgeblasen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/abgeblasen-warum-das-20-mainzer-oktoberfest-ausfaellt-201291930.html",
-      "image_url": "https://media0.faz.net/image/w1200/3f4a1cce566b/w5315h2990x0y472/202610/01fe33ee-9982-4db0-9ef9-4ab871e953ff/heuer-spielt-die-musik.webp",
-      "image_title": "Heuer spielt die Musik woanders: Da der Veranstalter notwendige Gutachten nicht vorlegen konnte, fällt das Mainzer Oktoberfest aus."
+      "title": "Spurensuche in Frankfurt: Die jüdischste Stadt Deutschlands",
+      "teaser": "Wer durch Frankfurt spaziert, trifft auf zahlreiche jüdisch geprägte Orte wie die Goethe-Universität, moderne Siedlungen oder das Städel-Museum. Sie erzählen von mutigen Aufbrüchen in neue Zeiten.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/was-frankfurt-zur-juedischten-stadt-deutschlands-macht-201251686.html",
+      "image_url": "https://media0.faz.net/image/w1200/166b9b9d2530/w9504h5345x0y991/202507/43601.0.1128694345/den-grundstein-legten.webp",
+      "image_title": "Den Grundstein legten jüdische Stifter: Im Hörsaalzentrum der Goethe-Universität tritt die Schriftstellerin Judith Schalansky auf."
     },
     {
-      "title": "Wetter in Frankfurt: Der September war sehr sonnig und sehr trocken",
-      "teaser": "Wer nach dem Rekordsommer auf Regen und Abkühlung gehofft hatte, wurde enttäuscht: Der erste Herbstmonat fühlte sich nicht nach Herbst an.",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/rekordsommer-2026-september-war-sonnig-und-zu-trocken-201288366.html",
-      "image_url": "https://media0.faz.net/image/w1100/fb479253ad5e/w5962h3354x0y415/202609/43601.0.2503558564/im-september-bot-das-wetter.webp",
-      "image_title": "Im September bot das Wetter weiter reichlich Gelegenheit, draußen zu sitzen."
+      "title": "30 Jahre nach dem Tod: Mord am „Bierkönig von Mallorca“ wird neu aufgerollt",
+      "teaser": "Er war Teil der Ballermann-Kultur. Eines Tages liegt Manfred Meisel, der „Bierkönig von Mallorca“, tot in seiner Finca. Gerüchte über Rache und die Papageien-Mafia kursieren, aufgeklärt ist der Mord bis heute nicht.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/mord-am-bierkoenig-von-mallorca-bei-aktenzeichen-xy-accg-201274119.html",
+      "image_url": "https://media0.faz.net/image/w1100/fc430fab55b9/w7551h4247x0y393/202609/43601.0.2612574194/wer-hat-den-betreiber-des.webp",
+      "image_title": "Wer hat den Betreiber des „Bierkönigs“ umgebracht? Die Behörden hoffen, diese Fragen nun zu klären."
     },
     {
-      "title": "Immobilienmesse Expo Real: Rhein-Main will führend beim zirkulären Bauen werden",
-      "teaser": "Wiederverwenden statt wegwerfen: Die Rhein-Main-Region will beim zirkulären Bauen eine führende Rolle in Europa einnehmen.",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/region-frankfurt-will-bei-der-kreislaufwirtschaft-an-die-spitze-accg-201292419.html",
-      "image_url": "https://media0.faz.net/image/w1100/e2a3a09e15ff/w6144h3456x0y320/202606/43601.0.2170887358/projekt-des-zirkulaeren-bauens.webp",
-      "image_title": "Projekt des zirkulären Bauens: Das Abbruchmaterial der ehemaligen KWU-Türme in Offenbach soll wiederverwertet werden."
+      "title": "Filmpremiere: Mit „Babylon Prag“ zurück in die Zukunft",
+      "teaser": "Das Arte-Dokudrama „Babylon Prag“ ruft die kulturelle Blüte der Zwischenkriegsjahre wach. Und es zeigt, wie schnell autoritäre Enge alles beenden kann. Nicht nur in Prag.",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/babylon-prag-arte-doku-drama-feiert-premiere-in-frankfurt-201292226.html",
+      "image_url": "https://media0.faz.net/image/w1100/220505ae1d01/w2953h1661x0y190/202610/43601.0.2633150447/nachwuchsjournalisten-nowotny.webp",
+      "image_title": "Nachwuchsjournalisten: Nowotny (Filip Antonio, links) und Švarc (Antonio Šoposki) wünschen sich zu Beginn der Dreißigerjahre ein besseres Miteinander zwischen den Tschechen und der deutschsprachigen Minderheit."
     },
     {
-      "title": "Rhein-Main-Liveblog: Hessische Abiturienten bleiben zum Studium meist in Hessen",
-      "teaser": "Betrunkener wehrt sich gegen Kontrolle und verletzt fünf Polizisten +++ Entwarnung nach Gasaustritt in Romrod +++ Fahrer wird nach Unfall auf A3 bei Limburg überfahren und stirbt +++ Liveblog zu Rhein-Main und Hessen",
-      "url": "https://www.faz.net/aktuell/rhein-main/nur-ein-drittel-der-abiturienten-zieht-zum-studium-in-ein-anderes-bundesland-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
-      "image_url": "https://media0.faz.net/image/w1100/39fc13353048/w5605h3153x0y148/202410/43601.0.629572604/jura-fuer-anfaenger-gut.webp",
-      "image_title": "Jura für Anfänger: gut gefüllter Hörsaal zum Semesterbeginn an der Goethe-Universität in Frankfurt"
+      "title": "FAZ+Lohengrin in Mainz: Das Glück bleibt Illusion",
+      "teaser": "Richard Wagners „Lohengrin“ wirkt in Erik Raskopfs Inszenierung am Staatstheater Mainz, dem „Opernhaus des Jahres“, oft statisch.",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/wagners-lohengrin-im-staatstheater-mainz-ueberzeugt-nicht-201289727.html",
+      "image_url": "https://media0.faz.net/image/w1100/dd05fd5f1a15/w1707h960x0y118/202610/43601.0.2630719072/rollendeckend-nadja-stefanoff.webp",
+      "image_title": "Rollendeckend: Nadja Stefanoff als Elsa und Corby Welch als Lohengrin in der Mainzer Neuproduktion"
     },
     {
       "title": "FAZ+Jake Dyson im Gespräch: „Unsere Erdbeeren sind außergewöhnlich gut“",
@@ -710,25 +725,25 @@
       "image_title": "Wenn zwei das Gleiche tun: mäht es noch nicht dasselbe. Husqvarna (links) und Gardena einsatzbereit"
     },
     {
+      "title": "Physik-Nobelpreis: Neutrino-Fischen im ewigen Eis",
+      "teaser": "Der Nobelpreis für Physik geht an den Teilchenphysiker Francis Halzen. Er hatte die Idee, am Südpol die schwer nachweisbaren Neutrinos einzufangen, die aus den Tiefen des Universums bis zur Erde gelangen.",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/francis-halzen-physik-nobelpreis-fuer-neutrino-forschung-im-eis-201292563.html",
+      "image_url": "https://media0.faz.net/image/w920/896748bbd7bd/w3600h1542x0y429/201311/431.0.40876726/im-eis-vergaben-86.webp",
+      "image_title": "Im Eis vergaben: 86 Kabelstränge mit insgesamt 5160 Sensoren liegen kilometertief im antarktischen Eispanzer. Das Eis dient als Detektormaterial für hochenergetische Neutrinos aus den Tiefen des Weltalls. NFS"
+    },
+    {
+      "title": "Bekanntgabe in Stockholm: Physik-Nobelpreis geht an Neutrinoforscher Francis Halzen",
+      "teaser": "Der Teilchenforscher Francis Halzen aus den USA habe „den Weg für eine neue Art der Astronomie geebnet“, lobt das Physik-Nobelkomitee.",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/physik-nobelpreis-an-neutrinoforscher-francis-halzen-accg-201292227.html",
+      "image_url": "https://media0.faz.net/image/w1100/36bc84d544ef/w1800h1012x0y108/202610/43601.0.2633208217/francis-halzen-im-maerz-1999.webp",
+      "image_title": "Francis Halzen im März 1999"
+    },
+    {
       "title": "Tote Labormitarbeiterin: Russische Behörden dementieren Pest-Verdacht in Sibirien",
       "teaser": "Nach dem Tod einer Laborangestellten in einem Institut zur Pestbekämpfung in Sibirien sind viele Fragen offen. Die russischen Behörden widersprechen den Berichten, wonach sich die Frau nach einem Laborunfall mit Lungenpest infiziert habe. Die US-Gesundheitsbehörde beobachtet den Fall.",
       "url": "https://www.faz.net/aktuell/wissen/russland-dementiert-lungenpest-verdacht-nach-tod-von-laborantin-201291155.html",
-      "image_url": "https://media0.faz.net/image/w920/e4af4cc678ef/w1000h428x0y83/202610/43601.0.2631253197/mitarbeiter-des.webp",
+      "image_url": "https://media0.faz.net/image/w1100/47de5b902d08/w1000h562x0y80/202610/43601.0.2631253197/mitarbeiter-des.webp",
       "image_title": "Mitarbeiter des Forschungsinstituts für Pestbekämpfung in Irkutsk."
-    },
-    {
-      "title": "Medizin-Nobelpreis: Ins rechte Licht gerückt",
-      "teaser": "Die diesjährigen Medizin-Nobelpreisträger haben der modernen Medizin ein völlig neues Werkzeug an die Hand gegeben, viele Krankheiten mithilfe von Licht zu therapieren. Deutsche Grundlagenforschung hat den Weg geebnet.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/medizin-nobelpreis-fuer-peter-hegemann-georg-nagel-und-karl-deisseroth-201289237.html",
-      "image_url": "https://media0.faz.net/image/w1100/b7cdf0b53981/w2539h1428x0y124/202505/432a3c200a-2c01-11f0-a178-f59a159315ad/3d-darstellung-einer.webp",
-      "image_title": "3D-Darstellung einer Hörschnecke mittels Lichtblattmikroskopie"
-    },
-    {
-      "title": "Bekanntgabe in Stockholm: Nobelpreis für Medizin geht an zwei deutsche Optogenetiker",
-      "teaser": "Der Nobelpreis für Medizin geht an die beiden Deutschen Peter Hegemann und Georg Nagel sowie den US-Forscher Karl Deisseroth. Ausgezeichnet werden ihre Entdeckungen im Bereich der Optogenetik.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/nobelpreis-fuer-medizin-geht-an-zwei-deutsche-und-einen-us-amerikaner-accg-201288768.html",
-      "image_url": "https://media0.faz.net/image/w1100/2ea4a8828d03/w6144h3456x0y0/202610/43601.0.2629977238/dpa.webp",
-      "image_title": "dpa"
     },
     {
       "title": "Greser & Lenz: Immer im Bilde",
@@ -738,10 +753,17 @@
       "image_title": "„Du bist verrückt mein Kind, du musst nach Berlin, wo die Verrückten sind, dort gehörst du hin“"
     },
     {
+      "title": "Immobilien vor Gericht: Maklerprovision wird fällig, auch wenn der Verkäufer nicht zahlt",
+      "teaser": "Gastbeitrag Ein Makler vermittelt einen Hauskauf. Doch der Verkäufer widerruft den Maklervertrag. Muss der Käufer trotzdem Provision zahlen?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/hauskauf-maklerprovision-wird-trotz-widerruf-faellig-accg-201183116.html",
+      "image_url": "https://media0.faz.net/image/w920/d260da61bbe3/w6720h2880x0y755/202506/43601.0.1106291360/uebergabe-ein-makler-der-das.webp",
+      "image_title": "Übergabe: Ein Makler, der das Haus vermittelt, kostet."
+    },
+    {
       "title": "FAZ+Villa Rezek: Ein Haus lichtet Anker",
       "teaser": "Nach der stimmigen Renovierung ist die Villa Rezek als Flaggschiff der Wiener Moderne öffentlich zugänglich.",
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/renovierte-villa-rezek-ein-haus-lichtet-anker-accg-201224141.html",
-      "image_url": "https://media0.faz.net/image/w920/d0e8ddbab5d8/w2062h883x0y859/202609/43601.0.2562988751/riesige-glastueren-und-fenster.webp",
+      "image_url": "https://media0.faz.net/image/w1100/4b2ba804547f/w1875h1055x110y897/202609/43601.0.2562988751/riesige-glastueren-und-fenster.webp",
       "image_title": "Riesige Glastüren und Fenster lassen Licht ins Haus fluten."
     },
     {
@@ -750,13 +772,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/garten/kiwibeeren-fuer-den-heimischen-garten-accg-201251437.html",
       "image_url": "https://media0.faz.net/image/w1100/c41b9d230bba/w3024h1701x0y479/202609/43601.0.2580834385/klein-aber-robust-die.webp",
       "image_title": "Klein, aber robust: Die Kiwibeere (Actinidia arguta) ist frostunempfindlicher als die große Variante (Actinidia deliciosa)."
-    },
-    {
-      "title": "FAZ+Ostseebad: Das ewige Versprechen von Heiligendamm",
-      "teaser": "Heiligendamm ist Deutschlands ältestes und ungewöhnlichstes Seebad. Vermögen gingen hier verloren. Vor dreißig Jahren kam ein Investor und versprach, den Ort in ein neues Sylt zu verwandeln. Die Hoffnung war groß, dann folgte Ernüchterung.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/was-wurde-aus-heiligendamm-das-ein-investor-zum-zweiten-sylt-machen-wollte-accg-201270030.html",
-      "image_url": "https://media0.faz.net/image/w1100/a991a678c16d/w6240h3510x0y325/202609/43601.0.2610392798/wie-perlen-auf-der-schnur-die.webp",
-      "image_title": "Wie Perlen auf der Schnur: Die meisten Logierhäuser am Strand, ursprünglich rötlich-beige gekalkt, sind saniert. Die luxuriösen Eigentumswohnungen sind verkauft. Doch bei viele andere Villen hat sich noch nichts getan."
     },
     {
       "title": "Dänemark: Für eine Handvoll Austern",
@@ -794,10 +809,17 @@
       "image_title": "„An die zweite Kammer der Gr.-Hess. Stände-Versammlung. Gehorsamste Anzeige und Rechtsverwahrung des Gr. Rectors Dr. Weidig in Butzbach“: Manuskript von Weidigs Verteidigung gegen die Anklage wegen revolutionärer Umtriebe, Taxe 12.000 Euro"
     },
     {
+      "title": "Klimaschutz: EU will die Methanverordnung verschieben",
+      "teaser": "Erdgas ist teuer und knapp. Die Europäische Union will deshalb eine Klimaschutzverordnung verschieben, die eigentlich mitten im Winter in Kraft träte.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/eu-will-die-methanverordnung-verschieben-accg-201292376.html",
+      "image_url": "https://media0.faz.net/image/w920/a11a873c4c6b/w7568h3243x0y828/202609/43601.0.2613417651/sollte-sauberer-werden-lng.webp",
+      "image_title": "Sollte sauberer werden: LNG-Einfuhr am Terminal in Wilhelmshaven"
+    },
+    {
       "title": "Umwelthilfe: In vielen großen Städten fahren weiterhin Verbrennerbusse",
       "teaser": "In vielen Großstädten fahren weiterhin überwiegend Busse mit Dieselmotor. Das hat die Deutsche Umwelthilfe herausgefunden. Es gibt aber auch Kommunen, die auf batteriebetriebene Elektrobusse setzen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/in-vielen-grossen-staedten-fahren-weiterhin-verbrennerbusse-accg-201291594.html",
-      "image_url": "https://media0.faz.net/image/w920/24d3ec06745f/w5419h2322x0y440/201801/431.0.21959176/keine-e-busse-in-frankfurt.webp",
+      "image_url": "https://media0.faz.net/image/w1100/3e75f48e4cbb/w5419h3048x0y0/201801/431.0.21959176/keine-e-busse-in-frankfurt.webp",
       "image_title": "Keine E-Busse in Frankfurt: Reine Dieselantriebe machen in den 39 größten Städten 70 Prozent aus."
     },
     {
@@ -808,29 +830,22 @@
       "image_title": "Teures Tröpfchen: Ein Autofahrer betankt seinen VW an einer Tankstelle in Eisleben mit Dieselkraftstoff."
     },
     {
-      "title": "Energieversorgung: Reiche ordnet Befüllung der Gasspeicher an",
-      "teaser": "Die Wirtschaftsministerin sorgt sich um eine sichere Versorgung mit Gas im kommenden Winter. Nun gibt es konkrete Anweisungen für ein verstaatlichtes Unternehmen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/reiche-ordnet-befuellung-der-gasspeicher-an-accg-201276210.html",
-      "image_url": "https://media0.faz.net/image/w1100/a6414b1c35d2/w4959h2789x0y0/202609/43601.0.2584820343/wirtschaftsministerin.webp",
-      "image_title": "Wirtschaftsministerin Katherina Reiche"
+      "title": "Künstliche Intelligenz: Warum KI-Kompetenzen so wichtig sind",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/ki-akademie/warum-ki-kompetenzen-so-wichtig-sind-201272548.html",
+      "image_url": "https://media0.faz.net/image/w920/cfe66fbe6fe2/w3403h1458x0y81/202609/eee77da4-501b-4624-a51d-2c1fd8168bfd/mebbqfksm1f1.webp"
+    },
+    {
+      "title": "KI-Kompetenz Test: Wie kompetent sind Sie im Umgang mit KI",
+      "teaser": "Öffnen",
+      "url": "https://www.faz.net/premium/digitalwirtschaft/ki-akademie/wie-kompetent-sind-sie-im-umgang-mit-ki-wirklich-machen-hier-sie-den-test-faz-201272504.html",
+      "image_url": "https://media0.faz.net/image/w1100/0fc065b3a789/w2884h1622x260y0/202609/9a97ecfd-12bf-4931-bc49-db77591a3002/u5kzkqa11ayq.webp"
     },
     {
       "title": "FAZ+Fotos von Angelica Blechschmidt: Niemand war näher dran",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/besser-leben/stil/modeszene-der-90s-auf-fotos-von-angelica-blechschmidt-201213430.html",
-      "image_url": "https://media0.faz.net/image/w920/e348f42d8a8a/w4608h1974x0y337/202607/43601.0.2354046841/4360102354046841.webp"
-    },
-    {
-      "title": "FAZ+Restaurant „Eichhalde“: „Ein klischeefreieres italienisches Restaurant hat Deutschland noch nicht erlebt“",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/besser-leben/essen/warum-das-restaurant-eichhalde-nach-sieben-jahren-schliesst-201277759.html",
-      "image_url": "https://media0.faz.net/image/w1100/bd5d49c7bafb/w3307h1860x0y1550/202609/43601.0.2578561251/4360102578561251.webp"
-    },
-    {
-      "title": "FAZ+Schneller Schlau: Die harte Realität der Weinwelt",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/alkoholkonsum-und-klimawandel-harte-realitaet-der-weinwelt-201263185.html",
-      "image_url": "https://media0.faz.net/image/w1100/62c182a32afb/w3871h2177x1010y0/202609/c34c34e6-5440-4b58-8847-c7cca17b70a6/aq1htrh1csoz.webp"
+      "image_url": "https://media0.faz.net/image/w1100/b95e6ef1d52c/w4608h2592x0y195/202607/43601.0.2354046841/4360102354046841.webp"
     },
     {
       "title": "Fotograf Don McCullin: Ein Skeptiker gegenüber der eigenen Arbeit",
