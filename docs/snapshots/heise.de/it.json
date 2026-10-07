@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T09:40:40",
+  "timestamp": "2026-10-07T17:04:28",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,103 @@
   ],
   "articles": [
     {
-      "title": "GitHub ReviewBench: Benchmark für KI-gestützte Code-Reviews",
+      "title": "Konkurrenz zu Visa: Meta und Sierra stellen neues Personal Agent Protocol vor",
+      "teaser": "Meta und Sierra präsentieren ein neues Personal Agent Protocol, das die Interaktion von KI-Agenten mit Unternehmenswebseiten vereinfachen soll.",
+      "url": "https://www.heise.de/news/Konkurrenz-zu-Visa-Meta-und-Sierra-stellen-neues-Personal-Agent-Protocol-vor-11479372.html",
+      "image_title": "Distance,Education,Online,Learning,Concept.,Robot,Teacher,,Abstract,Classroom,Interior"
+    },
+    {
+      "title": "EmbeddingGemma 2: Multimodale Suche für Endgeräte",
+      "teaser": "Google hat EmbeddingGemma 2 veröffentlicht. Das Modell bildet Text, Code, Bilder, Audio und Video in einem gemeinsamen Vektorraum ab.",
+      "url": "https://www.heise.de/news/EmbeddingGemma-2-Multimodale-Suche-fuer-Endgeraete-11479628.html",
+      "image_title": "Der Titel \"Embedding Gemma 2\" wird auf einem dunklen, abstrakten Hintergrund angezeigt."
+    },
+    {
+      "title": "Testlabor für KI-Anwendungen von NTT Data in München eröffnet",
+      "teaser": "Im neuen KI-Labor von NTT Data in München können Unternehmen ihre KI-Anwendungen unter Live-Bedingungen in sicherer und datensouveräner Umgebung testen.",
+      "url": "https://www.heise.de/news/Testlabor-fuer-KI-Anwendungen-von-NTT-Data-in-Muenchen-eroeffnet-11479710.html",
+      "image_title": "Gebäudequerschnitt KI-Labor in München NTT Data"
+    },
+    {
+      "title": "US-Berufungsgericht: KI-generiertes Video von Opfer „unzulässige Beeinflussung“",
+      "teaser": "Bevor der Richter das Strafmaß für einen Totschlag in Arizona verkünden konnte, äußerte sich ein KI-Abbild des Opfers. Das hat ein Berufungsgericht moniert.",
+      "url": "https://www.heise.de/news/US-Berufungsgericht-KI-generiertes-Video-von-Opfer-unzulaessige-Beeinflussung-11479688.html",
+      "image_title": "Oberkörper eines bärtigen Mannes"
+    },
+    {
+      "title": "TestsUnter 900 Euro: Günstigster 6K-Monitor mit 32 Zoll, USB-C und KVM im Test",
+      "url": "https://www.heise.de/tests/Unter-900-Euro-Guenstigster-6K-Monitor-mit-32-Zoll-USB-C-und-KVM-im-Test-11470075.html",
+      "image_title": "Ein Monitor mit Standfuß vor hellem Hintergrund"
+    },
+    {
+      "title": "HintergrundWelche Gefahr durch Indirect Prompt Injections in LLM-Workflows entsteht",
+      "url": "https://www.heise.de/hintergrund/Welche-Gefahr-durch-Indirect-Prompt-Injections-in-LLM-Workflows-entsteht-11476277.html"
+    },
+    {
+      "title": "RatgeberAirLLM: Große KI-Modelle auf schwachen Grafikkarten starten",
+      "url": "https://www.heise.de/ratgeber/AirLLM-Grosse-KI-Modelle-auf-schwachen-Grafikkarten-starten-11476015.html",
+      "image_title": "Illustration zu AirLLM: Schnecke hebt eine Schicht eines großen KI-Modells ab."
+    },
+    {
+      "title": "Xiaomi Poco F9 Pro im Test: Das erschwingliche Top-Smartphone",
+      "teaser": "Starke Leistung, helles Display, gute Kamera: Das Poco F9 Pro liegt zwischen Oberklasse und gehobener Mittelklasse.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/xiaomi-poco-f9-pro-im-test-das-erschwingliche-top-smartphone/ttttb2v?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Komplett neu in Rust: Mold 3.0 wirft C++ über Bord",
+      "teaser": "Mit Version 3.0 wechselt der schnelle Linker Mold von C++ zu Rust. Das nächste Ziel steht schon fest: Mold soll Standard-Linker in Linux-Distributionen werden.",
+      "url": "https://www.heise.de/news/Komplett-neu-in-Rust-Mold-3-0-wirft-C-ueber-Bord-11479469.html",
+      "image_title": "Rust-Logo, Bleistift, Zirkel"
+    },
+    {
+      "title": "macOS-App von Google: Lokale KI soll Notizen erfassen und mit Dateien arbeiten",
+      "teaser": "Google AI Edge Foresight läuft mit einem Gemma-Modell und soll Meetings zusammenfassen und Mac-Dokumente verstehen. Alles sei „100% lokal on-device“, so Google.",
+      "url": "https://www.heise.de/news/macOS-App-von-Google-Lokale-KI-soll-Notizen-erfassen-und-mit-Dateien-arbeiten-11479135.html",
+      "image_title": "Google AI Edge Foresight auf dem Mac"
+    },
+    {
+      "title": "Umfrage unter VMware-Kunden: 90 Prozent suchen nach Alternativen",
+      "teaser": "Die Preiserhöhungen bei VMware haben laut einer Umfrage viele Kunden weichgekocht – sie erwägen den Abschied von Broadcom und VMware.",
+      "url": "https://www.heise.de/news/Umfrage-unter-VMware-Kunden-90-Prozent-suchen-nach-Alternativen-11479284.html",
+      "image_title": "Logo \"vmware by Broadcom\" auf einem Smartphone"
+    },
+    {
+      "title": "iX-Workshop: OWASP Top 10 – Schwachstellen in Webanwendungen und Gegenmaßnahmen",
+      "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Webanwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
+      "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Schwachstellen-in-Webanwendungen-und-Gegenmassnahmen-11468431.html",
+      "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "Cybercrime-Zentrum Karlsruhe: Zunahme KI-generierter Missbrauchsdarstellungen",
+      "teaser": "Täter nutzen frei verfügbare KI-Tools, um kinderpornografische Inhalte zu erstellen. Warum die Unterscheidung zwischen KI und echtem Missbrauch wichtig ist .",
+      "url": "https://www.heise.de/news/Kindesmissbrauch-mit-KI-Cyber-Ermittler-vor-neuen-Problemen-11479344.html",
+      "image_title": "Ein kleiner Teddybär liegt auf der Straße"
+    },
+    {
+      "title": "Nach FBI-Datenleck: Dienstleister rausgeworfen",
+      "teaser": "Die Cybergang ShinyHunters hat aus dem FBI-Jobportal Daten vieler Mitarbeiter kopiert. Nun wirft das FBI deswegen einen Dienstleister raus.",
+      "url": "https://www.heise.de/news/FBI-wirft-nach-Datenausleitung-aus-Jobportal-Dienstleister-raus-11479242.html",
+      "image_title": "FBI-Siegel"
+    },
+    {
+      "title": "Raspberry Pi OS: Nervige Fehler korrigiert und kleine Verbesserungen",
+      "teaser": "Neue Abbilder von Raspberry Pi OS stehen seit Dienstag dieser Woche zum Download bereit. Sie korrigieren viele kleine Fehler.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-OS-Kleine-Verbesserungen-und-diverse-Fehlerkorrekturen-11478867.html",
+      "image_title": "Ein kleiner Computer mit GPIO-Leiste und verschiedenen Anschlüssen auf einer Platine."
+    },
+    {
+      "title": "Microsoft blockiert MSIX-Dateien in Outlook",
+      "teaser": "Microsoft blockiert ab November 2026 standardmäßig MSIX- und MSIXBUNDLE-Dateien in Outlook. Ausnahmen sind über Richtlinien möglich.",
+      "url": "https://www.heise.de/news/Microsoft-blockiert-MSIX-Dateien-in-Outlook-11479085.html",
+      "image_title": "Zerbrochenes Windows-Logo"
+    },
+    {
+      "title": "KI in der Cybersecurity – Sicherheit trotz Coding-Agenten, LLMs und Deepfakes",
+      "teaser": "Künstliche Intelligenz verändert die IT-Sicherheit und schafft neue Herausforderungen. Sie bietet neue Angriffsflächen, aber auch Möglichkeiten.",
+      "url": "https://www.heise.de/news/KI-in-der-Cybersecurity-Sicherheit-trotz-Coding-Agenten-LLMs-und-Deepfakes-11447449.html"
+    },
+    {
+      "title": "Copilot auf Platz eins: GitHub stellt neuen Review-Benchmark vor",
       "teaser": "Mit ReviewBench will GitHub Code-Reviews durch KI fair vergleichbar machen. Auf Platz eins landet ausgerechnet Copilot, ein unabhängiger Test sieht das anders.",
       "url": "https://www.heise.de/news/GitHub-ReviewBench-Benchmark-fuer-KI-gestuetzte-Code-Reviews-11478889.html",
       "image_title": "Lupe vor dem Wikipedia-Logo"
@@ -44,107 +140,10 @@
       "image_title": "Ein Laptop steht auf einem Holztisch, daneben ein Smartphone."
     },
     {
-      "title": "HintergrundWelche Gefahr durch Indirect Prompt Injections in LLM-Workflows entsteht",
-      "url": "https://www.heise.de/hintergrund/Welche-Gefahr-durch-Indirect-Prompt-Injections-in-LLM-Workflows-entsteht-11476277.html"
-    },
-    {
-      "title": "RatgeberAirLLM: Große KI-Modelle auf schwachen Grafikkarten starten",
-      "url": "https://www.heise.de/ratgeber/AirLLM-Grosse-KI-Modelle-auf-schwachen-Grafikkarten-starten-11476015.html",
-      "image_title": "Illustration zu AirLLM: Schnecke hebt eine Schicht eines großen KI-Modells ab."
-    },
-    {
-      "title": "HintergrundDas steckt in dem Open-Weight-Modell DeepSeek-V4.1-Flash",
-      "url": "https://www.heise.de/hintergrund/Das-steckt-in-dem-Open-Weight-Modell-DeepSeek-V4-1-Flash-11477333.html"
-    },
-    {
       "title": "Lokale KI auf dem Mac: Ollama nutzt MLX als Standard",
       "teaser": "MLX wird auf Apple-Silicon-Macs für unterstützte Modelle zum Standard. Ollama 0.40.0 lässt zudem Entscheidungs- und Embedding-Modelle über MLX laufen.",
       "url": "https://www.heise.de/news/Lokale-KI-auf-dem-Mac-Ollama-nutzt-MLX-als-Standard-11478783.html",
       "image_title": "Ein weißes, abgerundetes Quadrat mit einer schwarzen Umrisszeichnung eines Lamas."
-    },
-    {
-      "title": "iX-Workshops: Backup-Strategien für Proxmox-Umgebungen",
-      "teaser": "Lernen Sie, wie Sie Ihre bisherigen Backup-Lösungen optimieren oder auf eine moderne, deduplizierte Backup-Infrastruktur umsteigen.",
-      "url": "https://www.heise.de/news/iX-Workshops-Backup-Strategien-fuer-Proxmox-Umgebungen-11468401.html",
-      "image_title": "iX-Workshop: Backup und Recovery mit Proxmox: Daten automatisiert sichern und nach Ausfällen wiederherstellen"
-    },
-    {
-      "title": "Nano Banana 2.1: Google verbessert Bildmodell und senkt Bildpreise",
-      "teaser": "Nano Banana 2.1 soll bessere Bilder liefern und kostet bei der Bildausgabe in 1K und 2K nur rund halb so viel wie der Vorgänger.",
-      "url": "https://www.heise.de/news/Nano-Banana-2-1-Google-verbessert-Bildmodell-und-senkt-Bildpreise-11478751.html",
-      "image_title": "Banner zu Google Nano Banana 2.1 mit großem Schriftzug und Bananen-Emoji auf blauem Hintergrund, umgeben von mehreren Beispielbildern."
-    },
-    {
-      "title": "Tipp: Menüleisten-Timer in macOS",
-      "teaser": "Sie wollen schnell Zeiten vermessen oder sich einen Countdown bauen? Dafür gibt es auf dem Mac nicht nur die Timer-Funktion in der Uhr-App.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Menueleisten-Timer-in-macOS-11474897.html",
-      "image_title": "Uhr (Symbolbild)"
-    },
-    {
-      "title": "AlertJetzt aktualisieren! Atlassian warnt vor kritischer Data-Center-Lücke",
-      "teaser": "Ein kritisches Leck in Atlassians Data-Center-Produkten ermöglicht unbefugten Dateizugriff ohne Anmeldung. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Atlassian-warnt-vor-kritischer-Data-Center-Luecke-11478707.html",
-      "image_title": "Eine Hand tippt auf ein berührungsempfindliches Display mit holografischen Bedienelementen."
-    },
-    {
-      "title": "Werkzeugwahl, Teil 1: Wenn Agenten schreiben, verlieren Sprachen an Bedeutung",
-      "teaser": "Der Rails-Erfinder lässt das HEY-Backend von Agenten in Rust schreiben. Ich finde das richtig: Sprachen verlieren an Gewicht, es zählt, was sich prüfen lässt.",
-      "url": "https://www.heise.de/blog/Werkzeugwahl-Teil-1-Wenn-Agenten-schreiben-verlieren-Sprachen-an-Bedeutung-11473479.html",
-      "image_title": "Ein Zirkel und ein Bleistift liegen neben einer technischen Zeichnung mit dem Rust-Logo."
-    },
-    {
-      "title": "Java in seiner besten Form: Jetzt noch Ticket für die betterCode() Java sichern",
-      "teaser": "Die betterCode() Java 2026 zeigt, wie man die Änderungen der jüngsten JDKs sinnvoll nutzt, und hilft bei der KI-gestützten Softwareentwicklung in Java.",
-      "url": "https://www.heise.de/news/Java-in-seiner-besten-Form-Jetzt-noch-Ticket-fuer-die-betterCode-Java-sichern-11476433.html",
-      "image_title": "Kaffeetasse, betterCode() Java"
-    },
-    {
-      "title": "Stirling PDF 3.1: Gruppenunterschrift verlässt die Alpha-Phase",
-      "teaser": "Stirling PDF 3.1 bringt die Gruppenunterschrift „Stirling Sign“ aus der Alpha-Phase und testet einen neuen Office-Konverter, der mehr Effizienz bringen soll.",
-      "url": "https://www.heise.de/news/Stirling-PDF-3-1-Gruppenunterschrift-verlaesst-die-Alpha-Phase-11478247.html",
-      "image_title": "Bedienoberfläche eines PDF-Tools von Stirling"
-    },
-    {
-      "title": "OpenAI veröffentlicht hunderte KI-generierte Lösungen für Mathematikprobleme",
-      "teaser": "Das KI-Unternehmen hat ein internes KI-Modell auf tausende Probleme aus der Mathematik angesetzt. Für ein Zehntel davon hat es relevante Lösungen generiert.",
-      "url": "https://www.heise.de/news/OpenAI-Hunderte-weitere-KI-generierte-Loesungen-fuer-Mathematikprobleme-11478615.html",
-      "image_title": "Digitale Darstellung mathematischer Formeln vor Buchrücken"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Wie lange bleibt RAM noch teuer?",
-      "teaser": "Seit einem Jahr spielen die RAM-Preise verrückt. Wann es wieder billiger werden könnte, untersucht Folge 2026/20 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Wie-lange-bleibt-RAM-noch-teuer-11474773.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "Bericht: Seagate und Toshiba im Bieterstreit um Übernahme von TDKs HDD-Geschäft",
-      "teaser": "TDK ist der letzte unabhängige Zulieferer von Schreib-Leseköpfen für Festplatten. Jetzt sollen zwei der drei HDD-Hersteller an einem Kauf interessiert sein.",
-      "url": "https://www.heise.de/news/Bericht-Seagate-und-Toshiba-im-Bieterstreit-um-Uebernahme-von-TDKs-HDD-Geschaeft-11478599.html",
-      "image_title": "Schreib-Lesekopf einer traditionellen Festplatte"
-    },
-    {
-      "title": "Post-Quanten-Krypto: BSI besorgt über McEliece",
-      "teaser": "Das BSI hat Forschungsergebnisse zu einem der ältesten quantensicheren Kryptoverfahren analysiert und rät vom Einsatz ab – zumindest für neue Projekte.",
-      "url": "https://www.heise.de/news/Post-Quanten-Krypto-BSI-besorgt-ueber-McEliece-11473897.html",
-      "image_title": "Güldene Rolle mit fünf elfenbeinfarbenen drehbaren Buchstabenreihen"
-    },
-    {
-      "title": "„Gesunde digitale Gewohnheiten“: Apple bringt Hilfe für Familien heraus",
-      "teaser": "Apple hat mit iOS 27, macOS 27 und Co. seinen Kinderschutz verbessert. Nun will man Eltern mehr Hilfen an die Hand geben, diesen umzusetzen.",
-      "url": "https://www.heise.de/news/Familienfuehrer-Apple-veroeffentlicht-Ratgeber-fuer-Healthy-Digital-Habits-11475365.html",
-      "image_title": "Eltern mit Kind an einem iMac"
-    },
-    {
-      "title": "KI-Rezepte: In den USA darf eine KI nun Akne-Medikamente verschreiben",
-      "teaser": "Im US-Bundesstaat Utah darf eine KI-App erstmals eigenständig Medikamente gegen Akne verschreiben – zunächst mit ärztlicher Prüfung, später per Stichprobe.",
-      "url": "https://www.heise.de/news/US-Bundesstaat-Utah-KI-darf-erstmals-Medikament-verschreiben-11478185.html",
-      "image_title": "Drei Smartphones mit Benutzeroberflächen der Nolla-App und einem Foto des Hautbilds einer Akne-Patientin."
-    },
-    {
-      "title": "Mistral Large 4: Der LLM-Brocken aus der EU will zur Konkurrenz aufschließen",
-      "teaser": "Mit 49 Milliarden aktiven Parametern ist das Modell das bisher größte und nach Herstellerangaben fähigste des französischen Unternehmens.",
-      "url": "https://www.heise.de/news/Mistral-Large-4-Der-LLM-Brocken-aus-der-EU-will-zur-Konkurrenz-aufschliessen-11478121.html",
-      "image_title": "Das Mistral AI-Logo erscheint auf dem Bildschirm eines Smartphones."
     },
     {
       "title": "NewsSogar Chatverläufe: KI-Anbieter geben Daten ihrer Nutzer weiter",
