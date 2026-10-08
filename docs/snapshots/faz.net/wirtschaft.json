@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-08T02:19:30",
+  "timestamp": "2026-10-08T09:36:38",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -31,12 +31,6 @@
     },
     {
       "type": null,
-      "src": "https://atonato.de/fazscr",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
       "src": "https://www.faz.net/js/adobe/atarget.js",
       "id": null,
       "text": null
@@ -49,64 +43,65 @@
     },
     {
       "type": "module",
-      "src": "https://www.faz.net/_nuxt/DltKjZ4Y.js",
+      "src": "https://www.faz.net/_nuxt/MGFdXgsf.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "FAZ+Machtverschiebung im Netz: Wenn es so weitergeht, werden die Menschen ein Rundungsfehler im Internet",
+      "teaser": "Im Internet verdrängen KI-Agenten die Menschen. Dem Journalismus entgehen Leser und Einnahmen. Wer regiert die Technik?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ki-agenten-die-maschinen-sind-schon-in-der-mehrheit-201289113.html"
+    },
+    {
+      "title": "FAZ+Budget 2028 bis 2034: Von der Leyen beharrt auf neuen Einnahmequellen für die EU",
+      "teaser": "Die Kommissionspräsidentin weist das Ansinnen Deutschlands zurück, den EU-Haushalt zu verkleinern. Und schlägt eine Alternative vor. Fachleute rechnen vor, was diese wirklich bringt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/von-der-leyen-beharrt-auf-neuen-einnahmequellen-fuer-die-eu-201294044.html",
+      "image_url": "https://media0.faz.net/image/w1200/3b96280eeae5/w6048h3402x0y315/202610/43601.0.2632898421/neue-eu-eigenmittel-statt.webp",
+      "image_title": "Neue EU-Eigenmittel statt Haushaltskürzungen fordert Kommissionspräsidentin von der Leyen vor dem EU-Parlament."
+    },
+    {
+      "title": "Grenzen des Berechnens: Warum brauchen Quantencomputer eine eigene Software, Frau Lorenz?",
+      "teaser": "Europa arbeitet an Quantencomputern. Die werden einmal die Grenze des Berechenbaren verschieben. Doch das allein reicht nicht. Fraunhofer-Forscherin Jeanette Miriam Lorenz sagt, was dahintersteckt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/quantencomputer-warum-brauchen-sie-eine-eigene-software-accg-201278774.html",
+      "image_url": "https://media0.faz.net/image/w1200/b651cb4c8392/w5165h2905x408y61/202610/43601.0.2615772948/jeanette-miriam-lorenz.webp",
+      "image_title": "Jeanette Miriam Lorenz erforscht Quantencomputer."
+    },
+    {
+      "title": "Business-Ticker: 700.000 Sitzplätze weniger: Ryanair kappt Flugprogramm in Deutschland",
+      "teaser": "TSMC steigert Umsatz +++ Samsung prognostiziert Rekordgewinn +++ Abrupter Chefwechsel bei Fresenius Medical Care +++ Neuigkeiten im Unternehmen-Liveblog",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ryanair-kappt-flugprogramm-in-deutschland-faz-200452404.html",
+      "image_url": "https://media0.faz.net/image/w1200/a059af5fd10c/w3593h2021x104y422/202604/43601.0.2019875987/flieger-von-ryanair-startet.webp",
+      "image_title": "Flieger von Ryanair startet vom Hauptstadtflughafen BER: Kürzungen im Flugprogramm."
+    },
+    {
+      "title": "Energiekrise: So senkt Frankreich die Dieselpreise",
+      "teaser": "Mehr als 70 Milliarden Euro an Hilfen mobilisierte Frankreich in der zurückliegenden Energiekrise. Wegen leerer Kassen muss die Regierung nun zu anderen Mitteln greifen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/energiekrise-so-senkt-frankreich-die-dieselpreise-accg-201298276.html",
+      "image_url": "https://media0.faz.net/image/w1100/aeddc5ed9e74/w7742h4355x0y0/202610/43601.0.2638983947/frankreichs-premierminister-s.webp",
+      "image_title": "Frankreichs Premierminister Sébastien Lecornu am Mittwochabend im französischen Fernsehen: „Nicht bei jeder Krise die gleichen Ausgaben tätigen“"
+    },
+    {
+      "title": "Ökologische Krise: Von der Suppenschildkröte zum Schutzmodell",
+      "teaser": "Wildtierpopulationen gehen global weiter zurück. Aber es gibt Lichtblicke, zeigt ein WWF-Bericht. In zehn Tagen beginnt die UN-Biodiversitätskonferenz.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wwf-bericht-haelfte-der-tierbestaende-hat-sich-stabilisiert-accg-201294965.html",
+      "image_url": "https://media0.faz.net/image/w1100/70441ce85483/w6144h3456x0y530/202608/43601.0.2458496613/eine-junge-meeresschildkroete.webp",
+      "image_title": "Eine junge Meeresschildkröte macht sich auf den Weg zum Meer, nachdem sie von Naturschutzmitarbeitern an einem Strand in Kijal im malaysischen Bundesstaat Terengganu freigelassen wurde."
+    },
+    {
+      "title": "Rechnungshof: Prüfer kritisieren Geldvergabe aus Corona-Fonds",
+      "teaser": "Vage Ziele, inakkurate Kostenschätzungen – der Europäische Rechnungshof sieht bei der Geldvergabe aus dem Corona-Fonds Mängel. Die dürfen sich nicht im EU-Haushalt 2028 bis 2034 wiederholen, warnt der Hof.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/europaeischer-rechnungshof-kritisiert-geldvergabe-aus-corona-fonds-accg-201296180.html",
+      "image_url": "https://media0.faz.net/image/w1100/6590157a53c2/w5500h3094x0y278/202507/43601.0.1143629453/kommissionspraesidentin-ursula.webp",
+      "image_title": "Kommissionspräsidentin Ursula von der Leyen mit Maske: Der Rechnungshof warnt davor, den EU-Haushalt 2028 bis 2034 wie den Corona-Fonds zu gestalten."
+    },
+    {
       "title": "Irland: Haushaltsüberschüsse machen nicht automatisch glücklich",
       "teaser": "Irlands Wirtschaftsdaten sind gut – doch die Bevölkerung ist trotzdem unzufrieden. Inflation, Wohnungsknappheit und Zuwanderung sind die Hauptsorgen. Höhere Staatsausgaben helfen da nicht unbedingt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/irland-haushaltsueberschuesse-machen-nicht-automatisch-gluecklich-201296466.html"
-    },
-    {
-      "title": "Überschüsse in Milliardenhöhe: Irland geht es gut – aber die Bürger sind unzufrieden",
-      "teaser": "Irland macht Milliardenüberschüsse und erhöht Sozialausgaben. Trotzdem sind viele Iren nicht zufrieden. Die Regierung kämpft mit verbreitetem Unmut über hohe Preise, Wohnungsknappheit und Zuwanderung.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/irland-geht-es-gut-aber-die-buerger-sind-unzufrieden-woran-liegt-das-201296315.html",
-      "image_url": "https://media0.faz.net/image/w1200/331b764b193e/w6192h3483x0y357/202610/43601.0.2637650849/das-ausgehviertel-rund-um.webp",
-      "image_title": "Das Ausgehviertel rund um Temple Bar in Dublin"
-    },
-    {
-      "title": "Neue Studie: Wie Deutschlands Stromversorgung sicher werden könnte",
-      "teaser": "Die Wirtschaftsweise Grimm schlägt vor, beim Strom stärker auf den Markt zu setzen. Nur: Dafür gibt es kein Vorbild – und auch die Politik ist nicht überzeugt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/veronika-grimm-wie-deutschlands-stromversorgung-sicher-wird-201295801.html",
-      "image_url": "https://media0.faz.net/image/w1200/1d58e9ede966/w6144h3456x0y60/202610/43601.0.2636713552/windraeder-drehen-sich-nicht.webp",
-      "image_title": "Windräder drehen sich nicht immer. Eine neue Studie macht Vorschläge dazu, wie auch dann die Stromversorgung gesichert werden kann."
-    },
-    {
-      "title": "Business-Ticker: Abrupter Chefwechsel bei Fresenius Medical Care",
-      "teaser": "Internationale Energieagentur beschleunigt Freigabe von Ölreserven +++ Bund untersagt Verkauf von Logistikfirma an Chinesen +++ Neuigkeiten im Unternehmen-Liveblog",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-abrupter-chefwechsel-bei-fresenius-medical-care-faz-200452404.html",
-      "image_url": "https://media0.faz.net/image/w1200/d7236995b6cf/w3911h2200x1806y1194/202610/43601.0.2638874178/verlaesst-das-unternehmen.webp",
-      "image_title": "Verlässt das Unternehmen frühzeitig: Helen Giza, Vorstandsvorsitzende von Fresenius Medical Care"
-    },
-    {
-      "title": "Niederländischer Schiffsbauer Damen: Die F126-Werft hat nicht nur ein Problem in Deutschland",
-      "teaser": "Die Gruppe ist im Streit mit der Bundesregierung. Auch Belgien droht, einen Auftrag zu stornieren. Wer ist dieser Schiffsbauer, der mit gut drei Milliarden Euro Umsatz zu den größeren in Europa zählt?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/niederlaendische-werftengruppe-damen-hat-nicht-nur-mit-der-fregatte-f126-ein-problem-201294207.html",
-      "image_url": "https://media0.faz.net/image/w1100/9df856f2a34a/w5804h3265x0y340/202610/43601.0.2620824429/trockengelegt-die-nachbildung.webp",
-      "image_title": "Trockengelegt: die Nachbildung des VOC-Schiffs De Batavia in Lelystad"
-    },
-    {
-      "title": "Wirtschaftsbücher: Von Macht, Märkten und Maschinen",
-      "teaser": "Am Mittwoch beginnt die Frankfurter Buchmesse. Womit befassen sich die Wirtschaftstitel in diesem Jahr? Eine kleine Auswahl.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wirtschaftsbuecher-auf-der-frankfurter-buchmesse-von-macht-maerkten-und-maschinen-201189385.html",
-      "image_url": "https://media0.faz.net/image/w1100/f0d69d668b22/w1899h1068x1y0/202609/0c7aca39-6def-4078-8273-79ba9056a8ab/01moql0tlez.webp"
-    },
-    {
-      "title": "Luftverschmutzung: Das Luftreinhalteprogramm landet vor dem EuGH",
-      "teaser": "Wie aktuell müssen die Prognosen der Bundesregierung für Maßnahmen zur Minderung von Luftschadstoffen sein? In dem Rechtsstreit muss jetzt erst geklärt werden, was das EU-Recht sagt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/das-luftreinhalteprogramm-landet-vor-dem-eugh-201295184.html",
-      "image_url": "https://media0.faz.net/image/w1100/52800bfabffb/w3000h1687x0y26/202502/43601.0.858159635/eine-feinstaub-messstation-in.webp",
-      "image_title": "Eine Feinstaub-Messstation in Leipzig"
-    },
-    {
-      "title": "Machtverschiebung im Internet: Die Maschinen sind schon in der Mehrheit",
-      "teaser": "Im Internet verdrängen KI-Agenten die Menschen. Dem Journalismus entgehen Leser und Einnahmen. Wer regiert die Technik?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/ki-agenten-die-maschinen-sind-schon-in-der-mehrheit-201289113.html",
-      "image_url": "https://media0.faz.net/image/w100/dc967425051c/w384h384x335y115/201905/1.6174794/carsten-knop.webp",
-      "image_title": "Carsten Knop"
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/irland-haushaltsueberschuesse-machen-nicht-automatisch-gluecklich-201296466.html",
+      "image_url": "https://media0.faz.net/image/w100/a9427c381d93/w426h426x267y119/201907/1.6281670/philip-plickert.webp",
+      "image_title": "Philip Plickert"
     },
     {
       "title": "Neue Porsche-Strategie: Riskanter Schrumpfkurs",
@@ -202,18 +197,18 @@
       "url": "https://www.faz.net/podcasts/vw-story/vw-story-als-sich-betriebsraete-luxusreisen-und-prostituierte-vom-konzern-bezahlen-liessen-faz-podcast-200852342.html"
     },
     {
-      "title": "Übergang von Vermögen: Nächste Runde im Pingpong um die Erbschaftsteuer",
-      "teaser": "Winkt das Bundesverfassungsgericht das geltende Recht einfach durch? Verlangt es abermals ein punktuelles Nacharbeiten? Oder nutzt es die Gelegenheit für einen grundlegenden Schwenk?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/erbschaftsteuer-was-plant-das-bundesverfassungsgericht-201292854.html",
-      "image_url": "https://media0.faz.net/image/w880/a7884d9ef925/w3000h1687x0y127/201407/431.0.37935308/der-erste-senat-des.webp",
-      "image_title": "Der Erste Senat des Bundesverfassungsgerichts verhandelte zuletzt im Juli 2014 über die Erbschaftsteuer."
+      "title": "Überschüsse in Milliardenhöhe: Irland geht es gut – aber die Bürger sind unzufrieden",
+      "teaser": "Irland macht Milliardenüberschüsse und erhöht Sozialausgaben. Trotzdem sind viele Iren nicht zufrieden. Die Regierung kämpft mit verbreitetem Unmut über hohe Preise, Wohnungsknappheit und Zuwanderung.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/irland-geht-es-gut-aber-die-buerger-sind-unzufrieden-woran-liegt-das-201296315.html",
+      "image_url": "https://media0.faz.net/image/w880/331b764b193e/w6192h3483x0y357/202610/43601.0.2637650849/das-ausgehviertel-rund-um.webp",
+      "image_title": "Das Ausgehviertel rund um Temple Bar in Dublin"
     },
     {
-      "title": "Stuttgarter Familienunternehmen: Wenn der Heimatmarkt von Lapp schwächelt, hilft Indien",
-      "teaser": "Der Stuttgarter Kabelspezialist Lapp hat in den Achtzigerjahren erste Kontakte nach Indien geknüpft. Nun wird die indische Tochtergesellschaft 30 Jahre alt und gleicht zunehmend Konjunkturdellen im Heimatmarkt aus.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lapp-in-indien-warum-der-stuttgarter-kabelspezialist-seit-30-jahren-vor-ort-ist-201264921.html",
-      "image_url": "https://media0.faz.net/image/w880/877c105c664c/w4252h2392x0y437/202304/43715543ca-d43f-11ed-859c-b7b330f9ab7e/kabeln-trommeln-werden-fuer.webp",
-      "image_title": "Kabeln-Trommeln werden für den Versand vorbereitet: Das Stuttgarter Unternehmen Lapp ist mit Ölflex-Leitungen und Kabeln weltweit erfolgreich."
+      "title": "Neue Studie: Wie Deutschlands Stromversorgung sicher werden könnte",
+      "teaser": "Die Wirtschaftsweise Grimm schlägt vor, beim Strom stärker auf den Markt zu setzen. Nur: Dafür gibt es kein Vorbild – und auch die Politik ist nicht überzeugt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/veronika-grimm-wie-deutschlands-stromversorgung-sicher-wird-201295801.html",
+      "image_url": "https://media0.faz.net/image/w880/1d58e9ede966/w6144h3456x0y60/202610/43601.0.2636713552/windraeder-drehen-sich-nicht.webp",
+      "image_title": "Windräder drehen sich nicht immer. Eine neue Studie macht Vorschläge dazu, wie auch dann die Stromversorgung gesichert werden kann."
     },
     {
       "title": "Demographischer Wandel: Die Kinder verschwinden",
@@ -265,10 +260,16 @@
       "image_title": "funk"
     },
     {
+      "title": "Wirtschaftsbücher: Von Macht, Märkten und Maschinen",
+      "teaser": "Am Mittwoch beginnt die Frankfurter Buchmesse. Womit befassen sich die Wirtschaftstitel in diesem Jahr? Eine kleine Auswahl.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wirtschaftsbuecher-auf-der-frankfurter-buchmesse-von-macht-maerkten-und-maschinen-201189385.html",
+      "image_url": "https://media0.faz.net/image/w920/63d6d99f8247/w1900h814x0y24/202609/0c7aca39-6def-4078-8273-79ba9056a8ab/01moql0tlez.webp"
+    },
+    {
       "title": "Welthandel: Die internationale Ordnung beginnt zu Hause",
       "teaser": "Gastbeitrag Die Welthandelsordnung steht unter Druck, aus den Vereinigten Staaten und aus China. Zugleich wird international so viel gehandelt wie noch nie. Die Menschen wollen auf den Wohlstand durch Außenhandel und friedliche Arbeitsteilung nicht mehr verzichten.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/welthandelsordnung-unter-druck-die-wto-trump-und-china-accg-201237754.html",
-      "image_url": "https://media0.faz.net/image/w920/ed42b0eb2af7/w594h254x0y78/202609/43601.0.2559847747/fruehe-globalisierung-eine.webp",
+      "image_url": "https://media0.faz.net/image/w1100/8feab466d9de/w594h334x0y38/202609/43601.0.2559847747/fruehe-globalisierung-eine.webp",
       "image_title": "Frühe Globalisierung: Eine Weltkarte des niederländischen Kupferstechers Daniël Stopendaal aus dem Jahr 1730"
     },
     {
@@ -279,32 +280,25 @@
       "image_title": "Trotz Niedrigwasser im Rhein kamen die deutschen Unternehmen wohl gut durch den Sommer."
     },
     {
-      "title": "Wirtschaftsbücher: Geopolitik am Nordpol",
-      "teaser": "Die Arktis wird zum Machtpoker der Großmächte. Michael Paul hat über das geopolitische Tauziehen im Norden ein lesenswertes Buch verfasst.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/michael-paul-ueber-den-nordpol-die-arktis-ist-das-ziel-geopolitischer-ambitionen-201283468.html",
-      "image_url": "https://media0.faz.net/image/w1100/518f0d6bded4/w3000h1687x0y82/200906/431.0.58311253/eisbaeren-in-der-arktis.webp",
-      "image_title": "Eisbären in der Arktis"
+      "title": "Niederländischer Schiffsbauer Damen: Die F126-Werft hat nicht nur ein Problem in Deutschland",
+      "teaser": "Die Gruppe ist im Streit mit der Bundesregierung. Auch Belgien droht, einen Auftrag zu stornieren. Wer ist dieser Schiffsbauer, der mit gut drei Milliarden Euro Umsatz zu den größeren in Europa zählt?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/niederlaendische-werftengruppe-damen-hat-nicht-nur-mit-der-fregatte-f126-ein-problem-201294207.html",
+      "image_url": "https://media0.faz.net/image/w920/e07e07a9c14a/w5804h2487x0y739/202610/43601.0.2620824429/trockengelegt-die-nachbildung.webp",
+      "image_title": "Trockengelegt: die Nachbildung des VOC-Schiffs De Batavia in Lelystad"
+    },
+    {
+      "title": "Stuttgarter Familienunternehmen: Wenn der Heimatmarkt von Lapp schwächelt, hilft Indien",
+      "teaser": "Der Stuttgarter Kabelspezialist Lapp hat in den Achtzigerjahren erste Kontakte nach Indien geknüpft. Nun wird die indische Tochtergesellschaft 30 Jahre alt und gleicht zunehmend Konjunkturdellen im Heimatmarkt aus.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/lapp-in-indien-warum-der-stuttgarter-kabelspezialist-seit-30-jahren-vor-ort-ist-201264921.html",
+      "image_url": "https://media0.faz.net/image/w1100/877c105c664c/w4252h2392x0y437/202304/43715543ca-d43f-11ed-859c-b7b330f9ab7e/kabeln-trommeln-werden-fuer.webp",
+      "image_title": "Kabeln-Trommeln werden für den Versand vorbereitet: Das Stuttgarter Unternehmen Lapp ist mit Ölflex-Leitungen und Kabeln weltweit erfolgreich."
     },
     {
       "title": "Audiostreaming: Spotify bringt Hörbuchangebot in mehr als 100 neue Märkte",
       "teaser": "Vor drei Jahren startete Spotify sein Hörbuchangebot. „Hunderte Millionen Dollar“ sind laut dem Streamingriesen seitdem an Verlage geflossen. Jetzt folgt der nächste große Schritt.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/spotify-hoerbuecher-expansion-in-ueber-100-neue-maerkte-201291835.html",
-      "image_url": "https://media0.faz.net/image/w920/af41bdf4892c/w5000h2142x0y594/202606/43601.0.2256418185/die-doppelspitze-des.webp",
+      "image_url": "https://media0.faz.net/image/w1100/eb4fc2d1a863/w5000h2812x0y259/202606/43601.0.2256418185/die-doppelspitze-des.webp",
       "image_title": "Die Doppelspitze des Streamingriesen: Alex Norström (links) und Gustav Söderström"
-    },
-    {
-      "title": "Modell von OPen AI: KI löst wohl Hunderte weitere Mathematikprobleme",
-      "teaser": "Revolutioniert die Künstliche Intelligenz nun auch die Mathematik? Open AI veröffentlicht eine Vielzahl neuer Lösungen und Beweise.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-von-openai-loest-wohl-hunderte-weitere-mathematikprobleme-accg-201295709.html",
-      "image_url": "https://media0.faz.net/image/w1100/1d30ed65b556/w3000h1687x0y156/202601/43601.0.1709370181/revolutioniert-die-ki-jetzt.webp",
-      "image_title": "Revolutioniert die KI jetzt auch die Mathematik?"
-    },
-    {
-      "title": "Milliardenvermögen: C&A-Erben leiten Generationswechsel ein",
-      "teaser": "Florian Brenninkmeijer steuert künftig das milliardenschwere Beteiligungsgeflecht der deutsch-niederländischen Großfamilie. Hält sie weiterhin an der Textilkette C&A fest?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ca-erben-florian-brenninkmeyer-uebernimmt-cofra-accg-201295301.html",
-      "image_url": "https://media0.faz.net/image/w1100/4252ee1e9d05/w3978h2238x0y363/202407/43601.0.470350121/c-a-in-berlin-wichtiger.webp",
-      "image_title": "C&A in Berlin: „Wichtiger Bestandteil des Unternehmensportfolios“"
     },
     {
       "title": "Ein hundert Jahre altes Vorbild: Diese Berliner Siedlungen machen Wohnen erschwinglich",
