@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-09T02:37:02",
+  "timestamp": "2026-10-09T09:43:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,14 +20,80 @@
   ],
   "articles": [
     {
+      "title": "AWS Strands Box: KI-Agenten an die kurze Leine nehmen",
+      "teaser": "Ein Agent darf Logs lesen, aber keine Infrastruktur ändern? Strands Box verbindet eine Sandbox mit Regeln, die auch frühere Aktionen berücksichtigen.",
+      "url": "https://www.heise.de/news/AWS-Strands-Box-KI-Agenten-an-die-kurze-Leine-nehmen-11482058.html",
+      "image_title": "AWS-Logo in einer Wolke vor einem Hintergrund mit blauen Schilden und Wolken."
+    },
+    {
+      "title": "AlertSicherheitsupdates: Root-Attacken auf Cisco-Switches möglich",
+      "teaser": "Angreifer können unter anderem an Sicherheitslücken in Cisco License On-Prem und Nexus 3000 ansetzen.",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Kritische-Root-Luecke-bedroht-Cisco-Switches-11481742.html",
+      "image_title": "Das Wort \"update\" vor einem blau gestreiften Hintergrund"
+    },
+    {
+      "title": "iX-Workshop: Lokale KI effizient betreiben und Prozesse automatisieren",
+      "teaser": "Erfahren Sie, wie Sie lokale KI-Modelle effizient betreiben, in eigene Anwendungen integrieren und an interne Daten anbinden, um Workflows zu automatisieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokale-KI-effizient-betreiben-und-Prozesse-automatisieren-11468499.html",
+      "image_title": "Insel in der Nacht, einige Straßenzüge sind hellblau und magentafarben beleuchtet"
+    },
+    {
+      "title": "Außergewöhnliche Uhr: Sprechende Kanne selber bauen",
+      "teaser": "Für dieses animatronische Projekt genügt schon ein wenig Fischertechnik für die Mechanik, gepaart mit einem ESP32, einem MP3-Player und einem Servo.",
+      "url": "https://www.heise.de/ratgeber/Aussergewoehnliche-Uhr-Sprechende-Kanne-selber-bauen-11450108.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberAußergewöhnliche Uhr: Sprechende Kanne selber bauen",
+      "url": "https://www.heise.de/ratgeber/Aussergewoehnliche-Uhr-Sprechende-Kanne-selber-bauen-11450108.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundITSM-Tools für jeden Bedarf im Marktüberblick: Spezialisten und Komplettpakete",
+      "url": "https://www.heise.de/hintergrund/ITSM-Tools-fuer-jeden-Bedarf-im-Marktueberblick-Spezialisten-und-Komplettpakete-11478857.html",
+      "image_title": ","
+    },
+    {
+      "title": "TestsFritzOS 8.50: Integrierter Adblocker und weitere Neuerungen im Überblick",
+      "url": "https://www.heise.de/tests/FritzOS-8-50-Integrierter-Adblocker-und-weitere-Neuerungen-im-Ueberblick-11469960.html"
+    },
+    {
+      "title": "Warum Open-Source-Patches in Banken oft nicht ankommen",
+      "teaser": "Der OSERA Risk Navigator hilft Finanzinstituten, Sicherheitslücken in Open-Source-Software zu finden, zu priorisieren und zu schließen.",
+      "url": "https://www.heise.de/news/Warum-Open-Source-Patches-in-Banken-oft-nicht-ankommen-11481898.html",
+      "image_title": "Eine offene Tresortür aus Metall mit Riegeln und einem Rampenübergang."
+    },
+    {
+      "title": "AlertCitrix legt weiteres Sicherheitsupdate gegen kritische Netscaler-Lücke nach",
+      "teaser": "Vergangenes Wochenende hat Citrix eine Zero-Day-Lücke in Netscaler geschlossen. Jetzt legt der Hersteller ein weiteres Update nach.",
+      "url": "https://www.heise.de/news/Citrix-legt-weiteres-Sicherheitsupdate-gegen-kritische-Netscaler-Luecke-nach-11481808.html",
+      "image_title": "Warnhinweis Security Alert auf einem Computerchip"
+    },
+    {
+      "title": "KI-Agenten, NIS2, Ransomware: Das bietet der ICC Summit 2026",
+      "teaser": "Wie Identitäten zum Kern der Cybersecurity werden, zeigt der ICC Summit am 26. November 2026 in München. Jetzt steht das Konferenz-Programm.",
+      "url": "https://www.heise.de/news/KI-Agenten-NIS2-Ransomware-Das-bietet-der-ICC-Summit-2026-11480270.html"
+    },
+    {
+      "title": "Firefox im neuen Look: Was beim Testen durchfiel",
+      "teaser": "Mozilla erklärt, warum Firefox ein neues Design bekommt, der Kompaktmodus zurückkehrt und welche Nutzerrückmeldungen es verändert haben.",
+      "url": "https://www.heise.de/news/Neue-Tabs-alte-Kritik-Mozilla-und-das-neue-Firefox-Design-11480798.html",
+      "image_title": "Ein Fuchs springt über ein virtuelles Objekt, umgeben von einem weißen Rahmen und Sprechblasen."
+    },
+    {
+      "title": "Anleitung: Lokale KI-Modelle mit aktuellen Fakten aus dem Internet anreichern",
+      "teaser": "Lokale KI scheitert oft an einer Websuche. Unsere Methode ist deutlich zuverlässiger, braucht keine Cloud eines KI-Anbieters und nutzt fast nur Open Source.",
+      "url": "https://www.heise.de/hintergrund/Anleitung-Lokale-KI-Modelle-mit-aktuellen-Fakten-aus-dem-Internet-anreichern-11323088.html"
+    },
+    {
       "title": "TK-Manager: „In Deutschland haben wir einen echten Datenschutz-Fetisch“",
       "teaser": "Millionen Dokumente füllen die elektronische Patientenakte. Doch Nutzer kämpfen mit Datenbergen und umständlicher Bedienung. Das soll sich bessern.",
       "url": "https://www.heise.de/news/E-Patientenakte-Millionen-Dokumente-aber-wer-findet-darin-das-Wichtige-11481365.html",
       "image_title": "7 personen stehen hinter zwei Tischen auf einer Bühne, dahinter eine Leinwand mit Porträtfotos von sechs der Personen"
     },
     {
-      "title": "„Michelangelus“Auf Michelangelos Handschrift basierender Font veröffentlicht",
-      "teaser": "Vor dem 400. Geburtstag des Petersdoms entstand eine Schriftart auf Basis der Handschrift seines bekanntesten Architekten.",
+      "title": "„Michelangelus“: Auf Michelangelos Handschrift basierender Font veröffentlicht",
+      "teaser": "Vor dem 400. Geburtstag des Petersdoms entstand eine Schriftart auf Basis der Handschrift seines bekanntesten Architekten. „Michelangelus“ ist nun verfügbar.",
       "url": "https://www.heise.de/news/Michelangelus-Auf-Michelangelos-Handschrift-basierender-Font-veroeffentlicht-11481415.html",
       "image_title": "Typografisches System der Schriftart Michelangelus in den Stilen Regular, Italic, Bold und Bold Italic vor einem Teil des Petersdoms."
     },
@@ -38,27 +104,15 @@
       "image_title": "Apple-Chef John Ternus bei einer Präsentation"
     },
     {
-      "title": "Gefahr für autonome AutosWie eine Folie Kameras und Lidar täuscht",
-      "teaser": "Forscher fühlen Kamera- und Lidar-Systemen auf den Zahn, um autonome Fahrzeuge besser vor gezielten Manipulationen zu schützen.",
-      "url": "https://www.heise.de/news/Gefahr-fuer-autonome-Autos-Wie-eine-Folie-Kameras-und-Lidar-taeuscht-11481395.html",
-      "image_title": "Fahrzeuge mit Symbolen für automatisiertes und vernetztes Fahren"
-    },
-    {
-      "title": "HintergrundMit JShell Code-Snippets schnell und einfach über das Kommandozeilentool testen",
-      "url": "https://www.heise.de/hintergrund/Mit-JShell-Code-Snippets-schnell-und-einfach-ueber-das-Kommandozeilentool-testen-11478077.html"
-    },
-    {
-      "title": "HintergrundWoran scheitern KI-Projekte? Ein Überblick der wichtigsten Einflussfaktoren",
-      "url": "https://www.heise.de/hintergrund/Woran-scheitern-KI-Projekte-Ein-Ueberblick-der-wichtigsten-Einflussfaktoren-11477117.html"
-    },
-    {
-      "title": "TestsTagSpaces im Test: DMS-Alternative für Ordner-Strukturen",
-      "url": "https://www.heise.de/tests/TagSpaces-im-Test-DMS-Alternative-fuer-Ordner-Strukturen-11466278.html"
-    },
-    {
       "title": "Thermostat für Fußbodenheizung Tado X (2. Gen.) im Test: Matter, Thread & Akku",
       "teaser": "Schlankes Design, intuitive Bedienung, aber auch Cloud-Zwang und API-Limits – wir zeigen, was das neue Modell wirklich leistet.",
       "url": "https://www.heise.de/bestenlisten/testbericht/thermostat-fuer-fussbodenheizung-tado-x-2-gen-im-test-matter-thread-und-akku/h2cr0wl?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Gefahr für autonome Autos: Wie eine Folie Kameras und Lidar täuscht",
+      "teaser": "Forscher aus München fühlen Kamera- und Lidar-Systemen auf den Zahn, um autonome Fahrzeuge besser vor gezielten Manipulationen zu schützen.",
+      "url": "https://www.heise.de/news/Gefahr-fuer-autonome-Autos-Wie-eine-Folie-Kameras-und-Lidar-taeuscht-11481395.html",
+      "image_title": "Fahrzeuge mit Symbolen für automatisiertes und vernetztes Fahren"
     },
     {
       "title": "Ecosia: Warum die Suchmaschine Mistral AI durch chinesische KI ersetzt",
@@ -91,95 +145,43 @@
       "image_title": "Eine Hand schreibt mathematische Formeln mit Kreide an eine Tafel"
     },
     {
-      "title": "iX-Workshop: Nach dem Ransomware-Angriff – sicher entscheiden und kommunizieren",
-      "teaser": "Erfahren Sie in einer praxisnahen Simulation, wie Sie auf einen Ransomware-Angriff strategisch reagieren und mit den Konsequenzen sicher umgehen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Ransomware-Angriff-sicher-entscheiden-und-kommunizieren-11468569.html",
-      "image_title": "Serverschrank in Metallketten, die mit einem Vorhängeschloss gesichert sind, Geldbündel davor gestapelt, einige Scheine wehen umher"
-    },
-    {
-      "title": "AlertVeeam stopft Schadcode-Lücke in Backup & Replication",
-      "teaser": "Veeam hat Backup & Replication aktualisiert und dabei vier Sicherheitslücken geschlossen. Schmuggeln von Schadcode auf den Server ist möglich.",
-      "url": "https://www.heise.de/news/Veeam-stopft-Schadcode-Luecke-in-Backup-Replication-11480790.html",
-      "image_title": "Mann tippt in einem Serverraum an einem Laptop vor einem Serverschrank."
-    },
-    {
-      "title": "Intel-Macs: Offizieller Support für Magic Mouse und Magic Trackpad gestrichen",
-      "teaser": "Apple verabschiedet sich mehr und mehr von seinen Intel-Macs. Nun fällt der Support für wichtige Peripheriegeräte weg. Was das genau heißt, muss sich zeigen.",
-      "url": "https://www.heise.de/news/Intel-Macs-Offizieller-Support-fuer-Magic-Mouse-und-Magic-Trackpad-gestrichen-11480598.html",
-      "image_title": "Intel-Inside-Logo neben Magic Mouse"
-    },
-    {
-      "title": "KI-Features für Webex-Telefonie: Persönliche Assistenz und Echtzeitübersetzung",
-      "teaser": "Cisco stellt auf der WebexOne-Konferenz zahlreiche KI-Features für Webex Calling vor, darunter einen Anruf-Assistenten und Echtzeitübersetzung.",
-      "url": "https://www.heise.de/news/KI-Features-fuer-Webex-Telefonie-Persoenliche-Assistenz-und-Echtzeituebersetzung-11480604.html",
-      "image_title": "Bedienoberfläche von Cisco Webex mit KI-Assistent"
-    },
-    {
-      "title": "M365 Copilot im Unternehmen – Agents mit Copilot Studio und Foundry entwickeln",
-      "teaser": "M365 Copilot ist mehr als ein KI-Assistent in Office. Agents lassen sich produktiv entwickeln und mit Copilot Studio und Foundry unternehmensweit skalieren.",
-      "url": "https://www.heise.de/news/M365-Copilot-im-Unternehmen-Agents-mit-Copilot-Studio-und-Foundry-entwickeln-11458173.html"
-    },
-    {
-      "title": "Dekompilierung per KI: Warum Closed Source laut Raymond am Ende ist",
-      "teaser": "Open-Source-Mitbegründer Eric S. Raymond erklärt Closed-Source-Software per KI-gestütztem Reverse Engineering für faktisch am Ende.",
-      "url": "https://www.heise.de/news/Open-Source-Papst-Raymond-KI-setzt-Closed-Source-Software-ein-Ende-11480624.html",
-      "image_title": "Laptop mit Code-Zeilen"
-    },
-    {
-      "title": "LG: Diese HomeKit-Produkte sind offenbar geplant",
-      "teaser": "Bisher lieferte LG schon Mac-Bildschirme nach Apples Spezifikationen. Nun scheint die Kooperation auf Smart-Home-Zubehör ausgedehnt zu werden. Das zeigen Leaks.",
-      "url": "https://www.heise.de/news/LG-Diese-HomeKit-Produkte-sind-offenbar-geplant-11479392.html",
-      "image_title": "Haus mit Reklame von LG"
-    },
-    {
-      "title": "AlertSonicWall SMA1000: Lücke mit Höchstwertung öffnet interne Funktionen",
-      "teaser": "SMA1000-Appliances von SonicWall sollen vor dem unbefugten Zugriff aufs Netz schützen. Eine kritische Lücke ermöglicht das aber.",
-      "url": "https://www.heise.de/news/SonicWall-SMA1000-Luecke-mit-Hoechstwertung-oeffnet-interne-Funktionen-11480426.html",
-      "image_title": "SonicWall SMA1000 Appliances vor blauem Mosaik-Hintergrund mit Achtung-Schild"
-    },
-    {
-      "title": "Welcher Befehl ist schneller? Hyperfine misst nach",
-      "teaser": "Das Benchmark-Tool Hyperfine misst in Version 2.0.0 mehr als Laufzeiten. Zugleich ändern sich der Start von Testbefehlen und der JSON-Export.",
-      "url": "https://www.heise.de/news/Welcher-Befehl-ist-schneller-Hyperfine-misst-nach-11480298.html",
-      "image_title": "Armaturenbrett eines Autos mit Tachometer und Gangwahlanzeige"
-    },
-    {
       "title": "NewsSogar Chatverläufe: KI-Anbieter geben Daten ihrer Nutzer weiter",
       "url": "https://www.heise.de/news/Diese-Daten-geben-ChatGPT-Gemini-Claude-und-Co-ueber-uns-an-Dritte-11476698.html",
       "image_title": "Ein Schreibtisch mit Dokumenten, Stiften und einem Smartphone, überlagert von Börsenkursgrafiken."
     },
     {
-      "title": "NewsMicrosoft-Authenticator-Backup ab Januar nicht mehr mit Microsoft-Konto",
-      "url": "https://www.heise.de/news/Microsoft-Authenticator-Android-Backup-ab-Januar-nur-noch-mit-Google-One-11475979.html",
-      "image_title": "Microsoft-Authenticator-Icon neben Achtung-Schild vor blauem Mosaik-Hintergrund"
+      "title": "NewsPost-Quanten-Krypto: BSI besorgt über McEliece",
+      "url": "https://www.heise.de/news/Post-Quanten-Krypto-BSI-besorgt-ueber-McEliece-11473897.html",
+      "image_title": "Güldene Rolle mit fünf elfenbeinfarbenen drehbaren Buchstabenreihen"
     },
     {
-      "title": "NewsBericht: Bei Cyberangriff Zugriff auf Antrieb von Öl-Supertanker erlangt",
-      "url": "https://www.heise.de/news/Cyberangriff-Unbefugte-hatten-angeblich-Zugriff-auf-Antrieb-von-Oel-Supertanker-11475495.html",
-      "image_title": "Ein Öltanker"
+      "title": "NewsOpenCourant: Der Fork, den Siemens nicht stoppen kann",
+      "url": "https://www.heise.de/news/OpenCourant-Der-Fork-den-Siemens-nicht-stoppen-kann-11477542.html",
+      "image_title": "Das Logo von OpenCourant, bestehend aus einem Raster-Symbol und dem Schriftzug OpenCourant."
     },
     {
-      "title": "NewsKönnte herunterfallen „wie Schmuck von Weihnachtsbaum“: Russland droht Starlink",
-      "url": "https://www.heise.de/news/Ruf-nach-Sanktionen-Russland-droht-mit-Krieg-im-All-und-Angriff-auf-Starlink-11475637.html",
-      "image_title": "Abstrakte Linien, die zusammen einen blauen Planeten bilden"
+      "title": "NewsJaguar Type 01 vorgestellt: Der radikale Bruch mit der Historie",
+      "url": "https://www.heise.de/news/Jaguar-Type-01-vorgestellt-Der-radikale-Bruch-mit-der-Historie-11477948.html",
+      "image_title": "Jaguar Type 01"
     },
     {
-      "title": "TestsPeugeot e-5008 Long Range im Test: Die Hummel kann fliegen",
-      "url": "https://www.heise.de/tests/Peugeot-e-5008-Long-Range-im-Test-Die-Hummel-kann-fliegen-11431774.html"
-    },
-    {
-      "title": "RatgeberHTTPS im Heimnetz: So sichern Sie lokale Dienste ab",
-      "url": "https://www.heise.de/ratgeber/HTTPS-im-Heimnetz-So-sichern-Sie-lokale-Dienste-ab-11439409.html",
-      "image_title": "Eine Person sitzt auf einem Sofa und benutzt einen Laptop, verbunden mit einem Raspberry Pi und Servern."
-    },
-    {
-      "title": "RatgeberPV-Anlage vs. ETF: Der Investitionsvergleichsrechner",
-      "url": "https://www.heise.de/ratgeber/PV-Anlage-vs-ETF-Der-Investitionsvergleichsrechner-11470117.html"
+      "title": "RatgeberAirLLM: Große KI-Modelle auf schwachen Grafikkarten starten",
+      "url": "https://www.heise.de/ratgeber/AirLLM-Grosse-KI-Modelle-auf-schwachen-Grafikkarten-starten-11476015.html",
+      "image_title": "Illustration zu AirLLM: Schnecke hebt eine Schicht eines großen KI-Modells ab."
     },
     {
       "title": "TestsCarPlay-Navi-Apps im Test: Es muss nicht immer Google Maps und Apple Karten sein",
       "url": "https://www.heise.de/tests/CarPlay-Navi-Apps-im-Test-Es-muss-nicht-immer-Google-Maps-und-Apple-Karten-sein-11467384.html",
       "image_title": "CarPlay-Navigation in einem BMW"
+    },
+    {
+      "title": "HintergrundDas steckt in dem Open-Weight-Modell DeepSeek-V4.1-Flash",
+      "url": "https://www.heise.de/hintergrund/Das-steckt-in-dem-Open-Weight-Modell-DeepSeek-V4-1-Flash-11477333.html"
+    },
+    {
+      "title": "RatgeberHTTPS im Heimnetz: So sichern Sie lokale Dienste ab",
+      "url": "https://www.heise.de/ratgeber/HTTPS-im-Heimnetz-So-sichern-Sie-lokale-Dienste-ab-11439409.html",
+      "image_title": "Eine Person sitzt auf einem Sofa und benutzt einen Laptop, verbunden mit einem Raspberry Pi und Servern."
     }
   ]
 }
