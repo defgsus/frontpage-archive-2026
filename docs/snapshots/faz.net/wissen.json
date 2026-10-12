@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-12T09:54:13",
+  "timestamp": "2026-10-12T19:28:04",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Risikomanagement: KI braucht Regeln – genau wie die Nukleartechnik",
+      "teaser": "Gastbeitrag Viele fragen sich, ob Künstliche Intelligenz die Existenz der Menschheit bedroht. Donald Trump will das Risikomanagement den KI-Firmen überlassen. Warum das eine sehr schlechter Plan ist.",
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/kuenstliche-intelligenz-warum-globale-regeln-wie-bei-atomwaffen-noetig-sind-accg-201280245.html"
+    },
+    {
       "title": "Schnell viele Argumente: Chatbots sind überzeugender als Menschen",
       "teaser": "Algorithmen können die Meinung von Menschen beeinflussen, weil sie schnell viele Fakten liefern. Diese müssen nicht einmal stimmen. Macht das die Maschinen gefährlich?",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/chatbots-koennen-menschen-leicht-ueberzeugen-wie-maechtig-macht-sie-das-accg-201295725.html"
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/chatbots-koennen-menschen-leicht-ueberzeugen-wie-maechtig-macht-sie-das-accg-201295725.html",
+      "image_url": "https://media0.faz.net/image/w1200/488ec6c22438/w7488h4212x0y391/202511/43601.0.1450617545/menschen-lassen-sich-von.webp",
+      "image_title": "Menschen lassen sich von Chatbots überzeugen, da diese schnell viele Argumente liefern können."
     },
     {
       "title": "heiss und trocken: Ebbe in Flüssen – Westeuropa erlebt weiter Rekord-Wetter",
@@ -62,17 +69,17 @@
       "image_title": "Köln: Die außerordentlich niedrigen Pegelstände am Rhein erschweren den Schiffsverkehr."
     },
     {
-      "title": "FAZ+El Niño: Steht uns ein Eiswinter bevor?",
-      "teaser": "Das pazifische Wetterphänomen El Niño wirbelt weltweit das Wetter durcheinander. Was bedeutet das für die nächsten Monate in Europa?",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/bringt-el-nino-europa-einen-eiswinter-accg-201299528.html",
-      "image_url": "https://media0.faz.net/image/w1200/a654755c124b/w4159h2339x0y740/202610/43601.0.2641773041/wolkenloch-ueber-frankfurt-am.webp",
-      "image_title": "Wolkenloch über Frankfurt am Main im Dezember"
-    },
-    {
       "title": "FAZ+Herbsträtsel: Mein Kopf denkt um drei Ecken",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/wissen/netzraetsel/faz-wissen-herbstraetsel-201254698.html",
       "image_url": "https://media0.faz.net/image/w1200/daa15c1875e1/w3543h1993x0y302/202610/43601.0.2617159156/4360102617159156.webp"
+    },
+    {
+      "title": "FAZ+El Niño: Steht uns ein Eiswinter bevor?",
+      "teaser": "Das pazifische Wetterphänomen El Niño wirbelt weltweit das Wetter durcheinander. Was bedeutet das für die nächsten Monate in Europa?",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/bringt-el-nino-europa-einen-eiswinter-accg-201299528.html",
+      "image_url": "https://media0.faz.net/image/w1100/a654755c124b/w4159h2339x0y740/202610/43601.0.2641773041/wolkenloch-ueber-frankfurt-am.webp",
+      "image_title": "Wolkenloch über Frankfurt am Main im Dezember"
     },
     {
       "title": "Netzrätsel: Hüpf, kleiner Frosch!",
@@ -86,13 +93,6 @@
       "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/quitten-comeback-warum-dieses-obst-besser-als-sein-ruf-ist-accg-201276890.html",
       "image_url": "https://media0.faz.net/image/w1100/21b32a81d9fc/w6016h3384x0y316/202609/43601.0.2613164092/bei-vielen-landet-die-quitten.webp",
       "image_title": "Bei vielen landet die Quitten-Ernte auf dem Kompost."
-    },
-    {
-      "title": "Gerhard Ertl zum Neunzigsten: Einfache Experimente für komplexe Vorgänge",
-      "teaser": "Bei chemischen Reaktionen, wie sie in der Brennstoffzelle oder im Autokatalysator ablaufen, schaute Gerhard Ertl ganz genau hin. Der Chemie-Nobelpreisträger wird heute 90 Jahre alt.",
-      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/chemie-nobelpreistraeger-gerhard-ertl-wird-90-accg-201289884.html",
-      "image_url": "https://media0.faz.net/image/w1100/c1215c4e0cdb/w4724h2657x0y370/201610/433bb99c36-dc60-11ea-972f-237a00511f13/chemie-nobelpreistraeger.webp",
-      "image_title": "Chemie-Nobelpreisträger Gerhard Ertl im Jahr 2014"
     },
     {
       "title": "Schreiben mit KI: Die Gedanken sind Brei",
@@ -165,6 +165,13 @@
       "image_title": "Joachim Müller-Jung"
     },
     {
+      "title": "Gerhard Ertl zum Neunzigsten: Einfache Experimente für komplexe Vorgänge",
+      "teaser": "Bei chemischen Reaktionen, wie sie in der Brennstoffzelle oder im Autokatalysator ablaufen, schaute Gerhard Ertl ganz genau hin. Der Chemie-Nobelpreisträger wird heute 90 Jahre alt.",
+      "url": "https://www.faz.net/aktuell/wissen/physik-mehr/chemie-nobelpreistraeger-gerhard-ertl-wird-90-accg-201289884.html",
+      "image_url": "https://media0.faz.net/image/w880/c1215c4e0cdb/w4724h2657x0y370/201610/433bb99c36-dc60-11ea-972f-237a00511f13/chemie-nobelpreistraeger.webp",
+      "image_title": "Chemie-Nobelpreisträger Gerhard Ertl im Jahr 2014"
+    },
+    {
       "title": "377 KI-Beweise: Der Tag der Mathe-Apokalypse",
       "teaser": "Nur vier Wochen nach Erledigung eines „Millennium-Problems“ veröffentlicht das KI-Unternehmen Open AI auf einen Schlag Resultate zu 377 weiteren, teils sehr hochrangigen Theoremen. Die Mathematiker stehen unter Schock.",
       "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/open-ai-loest-377-matheprobleme-und-schockt-mathematiker-accg-201297619.html",
@@ -172,18 +179,18 @@
       "image_title": "Was macht die Maschine da mit uns? Aktuell fragen sich das die Mathematiker auch gerade. Filmszene aus Stanley Kubricks „2001: A Space Odyssey“."
     },
     {
-      "title": "Axel Honneths Habermas-Exegese: Da begann bei Habermas die Abwehr zu bröckeln",
-      "teaser": "Wollte auch Jürgen Habermas wie Theodor Adorno der Metaphysik im Augenblick ihres Sturzes solidarisch bleiben? Habermas suchte die Frage offenbar so lange wie möglich offenzuhalten.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/axel-honneth-ueber-die-wende-im-naturverstaendnis-von-juergen-habermas-201288609.html",
-      "image_url": "https://media0.faz.net/image/w880/ad2b7a4d49e8/w2530h1423x0y153/200906/43601.0.500650945/frankfurter-buchmesse-1968.webp",
-      "image_title": "Frankfurter Buchmesse 1968: Theodor W. Adorno und Jürgen Habermas, zwischen ihnen Hans-Jürgen Krahl und K. D. Wolff"
-    },
-    {
       "title": "FAZ+Hilfe bei Schmerzen: Was die „Liebscher & Bracht“-Therapie wirklich bringt",
       "teaser": "Der Ansatz der selbsternannten Schmerzspezialisten Liebscher & Bracht ist umstritten. Die einen schwören darauf, die anderen sagen: alles Humbug. Was bei der Behandlung wirklich passiert – und ob sie funktioniert.",
       "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/liebscher-und-bracht-was-bei-der-behandlung-passiert-und-ob-sie-funktioniert-accg-201174147.html",
       "image_url": "https://media0.faz.net/image/w1200/ce4d28bee33c/w7952h4473x0y416/202610/43601.0.2620979791/reicht-es-wirklich-aus.webp",
       "image_title": "Reicht es wirklich aus, Verspannungen zu lösen?"
+    },
+    {
+      "title": "Axel Honneths Habermas-Exegese: Da begann bei Habermas die Abwehr zu bröckeln",
+      "teaser": "Wollte auch Jürgen Habermas wie Theodor Adorno der Metaphysik im Augenblick ihres Sturzes solidarisch bleiben? Habermas suchte die Frage offenbar so lange wie möglich offenzuhalten.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/axel-honneth-ueber-die-wende-im-naturverstaendnis-von-juergen-habermas-201288609.html",
+      "image_url": "https://media0.faz.net/image/w1100/ad2b7a4d49e8/w2530h1423x0y153/200906/43601.0.500650945/frankfurter-buchmesse-1968.webp",
+      "image_title": "Frankfurter Buchmesse 1968: Theodor W. Adorno und Jürgen Habermas, zwischen ihnen Hans-Jürgen Krahl und K. D. Wolff"
     },
     {
       "title": "FAZ+Kolumne „Gesundheitsmythen“: „Honig legt sich wie ein Schutzfilm auf die Schleimhaut“",
@@ -198,13 +205,6 @@
       "url": "https://www.faz.net/aktuell/wissen/erde-klima/eine-solaranlage-und-die-nachbarn-installieren-auch-eine-accg-201272448.html",
       "image_url": "https://media0.faz.net/image/w1100/ee8af3c968c1/w1609h905x0y11/201212/431.0.45218917/energiewende-auch-im-osten-die.webp",
       "image_title": "Energiewende auch im Osten: Die unter Denkmalschutz stehende Dorfkirche aus dem 13. Jahrhundert in Zernin (Mecklenburg-Vorpommern) trägt nach ihrer Wiedereinweihung eine Photovoltaikanlage."
-    },
-    {
-      "title": "Medizin-Nobelpreis: Ins rechte Licht gerückt",
-      "teaser": "Die diesjährigen Medizin-Nobelpreisträger haben der modernen Medizin ein völlig neues Werkzeug an die Hand gegeben, viele Krankheiten mithilfe von Licht zu therapieren. Deutsche Grundlagenforschung hat den Weg geebnet.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/medizin-nobelpreis-fuer-peter-hegemann-georg-nagel-und-karl-deisseroth-201289237.html",
-      "image_url": "https://media0.faz.net/image/w1100/b7cdf0b53981/w2539h1428x0y124/202505/432a3c200a-2c01-11f0-a178-f59a159315ad/3d-darstellung-einer.webp",
-      "image_title": "3D-Darstellung einer Hörschnecke mittels Lichtblattmikroskopie"
     },
     {
       "title": "FAZ+Früherkennung: Wie gut sind Multi-Krebstests?",
@@ -375,10 +375,17 @@
       "image_title": "Che gelida manina: Ötzi rechte Hand wies zwischen Daumen und Zeigefinger eine tiefe Schnittwunde auf. Zwei Tage vor seinem Tod muss er im Nahkampf eine scharfe Waffe abgewehrt haben."
     },
     {
+      "title": "Axel Honneths Habermas-Exegese: Da begann bei Habermas die Abwehr zu bröckeln",
+      "teaser": "Wollte auch Jürgen Habermas wie Theodor Adorno der Metaphysik im Augenblick ihres Sturzes solidarisch bleiben? Habermas suchte die Frage offenbar so lange wie möglich offenzuhalten.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/axel-honneth-ueber-die-wende-im-naturverstaendnis-von-juergen-habermas-201288609.html",
+      "image_url": "https://media0.faz.net/image/w920/2336533ece31/w2530h1084x0y323/200906/43601.0.500650945/frankfurter-buchmesse-1968.webp",
+      "image_title": "Frankfurter Buchmesse 1968: Theodor W. Adorno und Jürgen Habermas, zwischen ihnen Hans-Jürgen Krahl und K. D. Wolff"
+    },
+    {
       "title": "US-Jubiläen 1976 und 2026: Hört sich an wie frühes Donnergrollen",
       "teaser": "Das Feuerwerk am 4. Juli 1976 hatte sich Richard Nixon ähnlich exklusiv vorgestellt wie 50 Jahre später Donald Trump. Damals konnte die politische Öffentlichkeit die exekutive Vereinnahmung des Gedenkens noch verhindern.",
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/die-amerikanischen-revolutionsjubilaeen-1976-und-2026-im-vergleich-accg-201243336.html",
-      "image_url": "https://media0.faz.net/image/w920/be63651a6032/w3928h1683x0y738/202609/43601.0.2577431220/richard-nixon-hatte-sich-wohl.webp",
+      "image_url": "https://media0.faz.net/image/w1100/645af67c24b3/w3928h2209x0y587/202609/43601.0.2577431220/richard-nixon-hatte-sich-wohl.webp",
       "image_title": "Richard Nixon hatte sich wohl eingebildet, er könnte der Geburtstagsparade in einem Auto vorausfahren und sich zujubeln lassen. Statt des zurückgetretenen Präsidenten amtierte Johnny Cash am 3. Juli 1976 als Zeremonienmeister."
     },
     {
@@ -387,13 +394,6 @@
       "url": "https://www.faz.net/aktuell/wissen/geist-soziales/streit-um-das-rautenstrauch-joest-museum-replik-auf-martin-zillinger-accg-201261853.html",
       "image_url": "https://media0.faz.net/image/w1100/24bb37abb34d/w4700h2644x0y357/202207/4329430e70-0049-11ed-a7ef-1a0bfd8ff96b/der-koenig-von-fontem-bangwa.webp",
       "image_title": "Der König von Fontem/Bangwa in Kamerun, Asabaton Fontem Njifua, und seine Gemahlin Folefac Emenkeng Beatrice besuchten am 9. Juli 2022 das Rautenstrauch-Joest-Museum."
-    },
-    {
-      "title": "Nolan und Diderot: Der Zyklop auf der Leinwand",
-      "teaser": "„Wer könnte den Anblick des Polyphem ertragen?“ Denis Diderots Frage aus dem „Brief über die Taubstummen“ verdient im Licht von Christopher Nolans Odyssee-Verfilmung eine neue Betrachtung.",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/nolans-odyssee-film-mit-diderots-augen-betrachtet-accg-201214700.html",
-      "image_url": "https://media0.faz.net/image/w1100/c81be234444c/w1280h720x0y67/202609/3fde5bcf-8a3b-487e-9032-acfb3914368e/nichts-stellt-die-von-diderot.webp",
-      "image_title": "Nichts stellt die von Diderot beschriebene Strenge des Auges so kühn auf die Probe wie der Einäugige: Bill Irwin spielt Polyphem in Christopher Nolans Film."
     },
     {
       "title": "Juristentag: Die Ausbildung fällt durch die Prüfung",
