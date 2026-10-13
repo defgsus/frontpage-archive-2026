@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T16:31:57",
+  "timestamp": "2026-10-13T21:37:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,28 @@
   ],
   "articles": [
     {
-      "title": "Firefox 158: JPEG XL und bessere PDFs",
+      "title": "Grafikkarte GeForce RTX 5090 klettert über 6.000 Euro und soll bald verschwinden",
+      "teaser": "Eine GeForce RTX 5090 kostet jetzt mindestens 6.500 Euro. Vermutlich verschwindet die Grafikkarte demnächst komplett vom Markt.",
+      "url": "https://www.heise.de/news/Nvidia-Geruechte-GeForce-RTX-5090-verschwindet-RTX-5080-24-GByte-soll-kommen-11486799.html",
+      "image_title": "Zwei Zotac Gaming Grafikkarten nebeneinander auf grünem Untergrund"
+    },
+    {
+      "title": "Apple zeigt Smart-Home-Hardware – vorerst ohne EU",
+      "teaser": "Apple bringt erstmals eigenes HomeKit-Zubehör heraus – indirekt in Zusammenarbeit mit zwei Herstellern. Wann die Hardware nach Europa kommt, bleibt im Dunkeln.",
+      "url": "https://www.heise.de/news/Neues-Apple-Home-Zubehoer-von-LG-und-Schneider-aber-nicht-in-der-EU-11486775.html",
+      "image_title": "Verschiedene vernetze Geräte: Türschloss, Kamera, Thermostat und Türklingel mit Kamera"
+    },
+    {
+      "title": "AlertSecurity-Appliance: Angreifer nutzen Sicherheitslücke in Ivanti Connect Secure",
+      "teaser": "Ivanti warnt vor einer Sicherheitslücke und bietet seit Anfang Oktober Updates an. Netzwerkadmins sollten diese schnell aufspielen, Angriffe laufen.",
+      "url": "https://www.heise.de/news/Security-Appliance-Angreifer-nutzen-Sicherheitsluecke-in-Ivanti-Connect-Secure-11486827.html",
+      "image_title": "Eine männliche Hand zeigt auf ein rotes Warndreieck auf einem Touchscreen; im Hintergrund steht ein aufgeklappter Laptop"
+    },
+    {
+      "title": "Firefox 158 mit JPEG XL-Unterstützung",
       "teaser": "Mozilla hat Firefox 158 veröffentlicht. Der Browser kann jetzt Bilder im Format JPEG XL anzeigen und erzeugt besser zugängliche PDFs.",
       "url": "https://www.heise.de/news/Firefox-158-JPEG-XL-und-bessere-PDFs-11486725.html",
       "image_title": "Das Firefox-Logo mit einem Fuchs und einer Weltkugel vor einem blauen Hintergrund."
-    },
-    {
-      "title": "PhotoCraft, LightCraft, SoundCraftVermeintliche Adobe-Alternativen im Test: Was die „Crafting Apps“ leisten",
-      "teaser": "ArtCraft ahmt bekannte Kreativprogramme per Vibe-Coding nach. Der Test zeigt, ob eine vertraute Oberfläche tatsächlich ein Ersatz für die Originale sein kann.",
-      "url": "https://www.heise.de/hintergrund/Vermeintliche-Adobe-Alternativen-im-Test-Was-die-Crafting-Apps-leisten-11485961.html"
-    },
-    {
-      "title": "Security-Analyse: Wie wir den eesy Papier-Passwortmanager geknackt haben",
-      "teaser": "Unsere Kryptoanalyse zeigt, dass selbst Passwörter aus einem Offline-Passwortmanager aus Papier nicht vor Hackern gefeit sind.",
-      "url": "https://www.heise.de/hintergrund/Security-Analyse-Wie-wir-den-eesy-Papier-Passwortmanager-geknackt-haben-11452732.html",
-      "image_title": "Ein offenes Notizbuch mit herausschauenden Registerreitern."
-    },
-    {
-      "title": "Anthropic warntKI könnte sich bald selbstständig vervielfältigen",
-      "teaser": "Anthropic warnt: Kleinere KI-Modelle könnten sich bald zum Beispiel auf Haushaltsgeräten selbst vervielfältigen.",
-      "url": "https://www.heise.de/news/Anthropic-KI-koennte-sich-bald-auf-Haushaltsgeraeten-selbst-replizieren-11485683.html",
-      "image_title": "Darstellung eines Roboterkopfs mit menschlichem Gesicht"
     },
     {
       "title": "HintergrundVermeintliche Adobe-Alternativen im Test: Was die „Crafting Apps“ leisten",
@@ -54,6 +55,17 @@
     {
       "title": "HintergrundWarum Java und Design Patterns eine vielversprechende Kombination sind",
       "url": "https://www.heise.de/hintergrund/Warum-Java-und-Design-Patterns-eine-vielversprechende-Kombination-sind-11479224.html"
+    },
+    {
+      "title": "Top 10: Das beste Bluetooth-Headset fürs Büro – Poly vor Jabra & Logitech",
+      "teaser": "Im Büro oder Homeoffice sollen Bluetooth-Headsets die Arbeit durch guten Sound und praktische Funktionen unterstützen. Wir zeigen die zehn besten Exemplare.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-bluetooth-headset-fuers-buero-poly-vor-jabra-und-logitech/y1dd1xt?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Anthropic warnt: KI-Replikation auf IoT-Geräten rückt näher",
+      "teaser": "Anthropic warnt: Kleinere KI-Modelle könnten sich bald zum Beispiel auf Haushaltsgeräten selbst vervielfältigen. Kontrolle wäre dann kaum noch möglich.",
+      "url": "https://www.heise.de/news/Anthropic-KI-koennte-sich-bald-auf-Haushaltsgeraeten-selbst-replizieren-11485683.html",
+      "image_title": "Darstellung eines Roboterkopfs mit menschlichem Gesicht"
     },
     {
       "title": "12,8 Tbit/s: Nvidia und Cisco mit neuen USFP-Modulen",
@@ -130,18 +142,6 @@
       "teaser": "Microsoft stellt Decision-1 vor, ein KI-Modell, das für schnelle Entscheidungen optimiert ist. Es liefert numerische Werte statt Freitext als Ausgabe.",
       "url": "https://www.heise.de/news/Microsoft-Decision-1-KI-fuer-Entscheidungsaufgaben-11484750.html",
       "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
-    },
-    {
-      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
-      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
-      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11472809.html",
-      "image_title": "Workshop Mobile Device Management mit Intune"
-    },
-    {
-      "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
-      "teaser": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
-      "url": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html",
-      "image_title": "Ein Mann blickt lächelnd in die Kamera neben dem Text „Zahlen ohne Entscheidung“"
     },
     {
       "title": "NewsJetzt rumst es im PC-Markt",
