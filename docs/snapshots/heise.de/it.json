@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T01:41:26",
+  "timestamp": "2026-10-13T08:36:40",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,15 +20,103 @@
   ],
   "articles": [
     {
+      "title": "Microsoft-Decision-1: KI-Modell für schnelle Entscheidungen",
+      "teaser": "Microsoft stellt Decision-1 vor, ein KI-Modell, das für schnelle Entscheidungen optimiert ist. Es liefert numerische Werte statt Freitext als Ausgabe.",
+      "url": "https://www.heise.de/news/Microsoft-Decision-1-KI-fuer-Entscheidungsaufgaben-11484750.html",
+      "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
+    },
+    {
+      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
+      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
+      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11472809.html",
+      "image_title": "Workshop Mobile Device Management mit Intune"
+    },
+    {
+      "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+      "teaser": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
+      "url": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html",
+      "image_title": "Ein Mann blickt lächelnd in die Kamera neben dem Text „Zahlen ohne Entscheidung“"
+    },
+    {
+      "title": "Neuer Browser für UnternehmenMozilla startet Firefox Enterprise",
+      "teaser": "Mozilla Firefox Enterprise kann unterbinden, dass Beschäftigte sensible Daten in nicht freigegebene KI-Dienste kopieren.",
+      "url": "https://www.heise.de/news/Firefox-Enterprise-Mozilla-startet-Business-Browser-11485341.html",
+      "image_title": "Das Firefox Enterprise Logo mit einem Fuchs-Symbol und dem Schriftzug \"Firefox Enterprise\"."
+    },
+    {
+      "title": "HintergrundWie man Microsofts Entra ID mit Conditional Access Policies absichert",
+      "url": "https://www.heise.de/hintergrund/Wie-man-Microsofts-Entra-ID-mit-Conditional-Access-Policies-absichert-11477487.html"
+    },
+    {
+      "title": "RatgeberAnythingLLM: Eigene Dokumente mit KI lokal auswerten",
+      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
+    },
+    {
+      "title": "HintergrundWie Sprachmodelle den Kipppunkt zur Decision Intelligence verschieben",
+      "url": "https://www.heise.de/hintergrund/Wie-Sprachmodelle-den-Kipppunkt-zur-Decision-Intelligence-verschieben-11479053.html"
+    },
+    {
+      "title": "AlertJetzt patchen! SonicWall SMA1000 im Fokus von Angreifern",
+      "teaser": "Derzeit nutzen Angreifer eine kritische Lücke in der Fernzugriffslösung SonicWall SMA1000 aus. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-SonicWall-SMA1000-im-Fokus-von-Angreifern-11485407.html",
+      "image_title": "Ein Warnzeichen für Malware wird angezeigt"
+    },
+    {
+      "title": "Kontext bei Architekturentscheidungen: „It Depends reicht nicht“",
+      "teaser": "Im Interview erläutert Neal Ford, warum Architekten mehr überprüfen und weniger diskutieren sollten. Außerdem spricht er über KI in der Softwarearchitektur.",
+      "url": "https://www.heise.de/hintergrund/Kontext-bei-Architekturentscheidungen-It-Depends-reicht-nicht-11484586.html",
+      "image_title": "Drei Personen sitzen an einem Tisch vor einem Whiteboard mit Diagrammen und Texten."
+    },
+    {
+      "title": "Metas KI-Aufholjagd: Muse Wonder erreicht Spitzenniveau",
+      "teaser": "Meta hat mit Muse Wonder und Muse Wonder Full zwei neue KI-Modelle der Frontier-Klasse vorgestellt. Der Leistungssprung hat seinen Preis.",
+      "url": "https://www.heise.de/news/Metas-neue-KI-Spitzenmodelle-Muse-Wonder-macht-Claude-Konkurrenz-11485317.html",
+      "image_title": "Meta-Logo an der Fassade eines Firmengebäudes vor blauem Himmel."
+    },
+    {
+      "title": "Sicherheitslücke in Reisebuchungssystem: Passagierdaten waren betroffen",
+      "teaser": "Ein Datenleck bei Amadeus legte Passagierdaten offen. Über einen ungeschützten Heap-Dump waren Zugangsdaten im Klartext einsehbar.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Reisebuchungssystem-Passagierdaten-waren-betroffen-11479912.html",
+      "image_title": "Blick auf Flugzeugflügel und blauer Himmel mit weißen Wolken."
+    },
+    {
+      "title": "KI jenseits des Hypes: OOP Focus Day nimmt die Praxis in den Blick",
+      "teaser": "KI verändert die Softwareentwicklung. Doch was funktioniert wirklich? Der OOP Focus Day am 11. November beleuchtet Trends, Erfahrungen und Kontroversen.",
+      "url": "https://www.heise.de/news/KI-jenseits-des-Hypes-OOP-Focus-Day-nimmt-die-Praxis-in-den-Blick-11481078.html",
+      "image_title": "OOP by heise Focus Day 2026"
+    },
+    {
+      "title": "UpdateDNSSEC-Schlüsseltausch: Secunet- und RISE-Konnektoren verlieren TI-Verbindung",
+      "teaser": "Secunet- und RISE-Konnektoren verlieren nach einem DNSSEC-Schlüsselwechsel die Verbindung zur Telematikinfrastruktur. Viele Praxen sind betroffen.",
+      "url": "https://www.heise.de/news/DNSSEC-Schluesseltausch-Secunet-und-RISE-Konnektoren-verlieren-TI-Verbindung-11477109.html",
+      "image_title": "Konnektor in der Hand"
+    },
+    {
+      "title": "Kryptodiebe verkaufen Hardware-Wallets mit heimlicher eSIM",
+      "teaser": "An die 100 Millionen US-Dollar in Kryptowährung sind Nutzern bestimmter Hardware-Wallets gestohlen worden. Denn wer den Bildschirm auslesen kann, gewinnt.",
+      "url": "https://www.heise.de/news/Kryptodiebe-verkaufen-Hardware-Wallets-mit-heimlicher-eSIM-11485183.html",
+      "image_title": "Ein Ledger Stick liegt auf einer PC-Tastatur"
+    },
+    {
       "title": "Cyberangriff auf französische Supermarkt-Kühlschränke: Hunderte Waren verdorben",
       "teaser": "Unbekannte Angreifer haben die Kühl- und Gefriersysteme französischer Supermärkte außer Betrieb gesetzt. Auch ein niederländischer Betreiber meldet Probleme.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-franzoesische-Supermarkt-Kuehlschraenke-Hunderte-Waren-verdorben-11485129.html",
       "image_title": "Supermarket,Aisle,With,Empty,Red,Shopping,Cart."
     },
     {
-      "title": "Strata im Test: Booster für lokale KI auf dem Normalo-PC",
-      "teaser": "Sie wollen zügig mit einem großen LLM arbeiten, für das eine 12-GByte-Grafikkarte eigentlich viel zu schwach ist? Diesen Traum macht das Projekt Strata wahr.",
-      "url": "https://www.heise.de/ratgeber/Strata-im-Test-Booster-fuer-lokale-KI-auf-dem-Normalo-PC-11481996.html"
+      "title": "Jabra Evolve 3 65 im Test: leichtes Business-Headset mit gut ausblendendem Mikro",
+      "teaser": "Das Jabra Evolve 3 65 kommt mit starkem Mikrofon, leichtem und schickem Design, ANC sowie einer Vielzahl an Einstellungsmöglichkeiten.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/jabra-evolve-3-65-im-test-leichtes-business-headset-mit-gut-ausblendendem-mikro/jh6662l?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Top 10: Mähroboter für kleine Flächen",
+      "teaser": "Für kleine Gärten braucht es keinen teuren Mähroboter. Wir zeigen günstige Modelle bis 500 m² ohne Begrenzungskabel.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-fuer-kleine-flaechen-testsieger-fuer-550-euro/dtx14fd?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Mobiler Monitor Lenovo Thinkvision M16 im Test: mattes Display, 16 Zoll, 220 €",
+      "teaser": "Der Lenovo Thinkvision M16 bündelt die Anschlüsse im Standfuß und leitet bis zu 65 W an den Laptop weiter. Was der matte 16-Zöller sonst bietet, zeigt der Test.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/mobiler-monitor-lenovo-thinkvision-m16-im-test-mattes-display-16-zoll-220-euro/hes98w8?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Satya Nadella will „Notbremse“, um KI abschalten zu können",
@@ -43,34 +131,6 @@
       "image_title": "Eine Hand fuegt ein Blatt Papier in einen Faxgeraet ein."
     },
     {
-      "title": "RatgeberAnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
-    },
-    {
-      "title": "HintergrundWie Sprachmodelle den Kipppunkt zur Decision Intelligence verschieben",
-      "url": "https://www.heise.de/hintergrund/Wie-Sprachmodelle-den-Kipppunkt-zur-Decision-Intelligence-verschieben-11479053.html"
-    },
-    {
-      "title": "RatgeberBastel-Projekt: Musik-Controller als Spielbrett",
-      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Musik-Controller-als-Spielbrett-11450261.html",
-      "image_title": ","
-    },
-    {
-      "title": "Jabra Evolve 3 65 im Test: leichtes Business-Headset mit gut ausblendendem Mikro",
-      "teaser": "Das Jabra Evolve 3 65 kommt mit starkem Mikrofon, leichtem und schickem Design, ANC sowie einer Vielzahl an Einstellungsmöglichkeiten.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/jabra-evolve-3-65-im-test-leichtes-business-headset-mit-gut-ausblendendem-mikro/jh6662l?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Top 10: Der beste Mähroboter für kleine Flächen – Testsieger für 550 Euro",
-      "teaser": "Für kleine Gärten braucht es keinen teuren Mähroboter. Wir zeigen günstige Modelle bis 500 m² ohne Begrenzungskabel – mit Kamera-, RTK- oder LiDAR-Navigation.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-maehroboter-fuer-kleine-flaechen-testsieger-fuer-550-euro/dtx14fd?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Mobiler Monitor Lenovo Thinkvision M16 im Test: mattes Display, 16 Zoll, 220 €",
-      "teaser": "Der Lenovo Thinkvision M16 bündelt die Anschlüsse im Standfuß und leitet bis zu 65 W an den Laptop weiter. Was der matte 16-Zöller sonst bietet, zeigt der Test.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/mobiler-monitor-lenovo-thinkvision-m16-im-test-mattes-display-16-zoll-220-euro/hes98w8?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
       "title": "Datenbanken mit Java, KI und MCP steuern: Googles MCP Toolbox",
       "teaser": "Java-Entwickler können mit der Google-Toolbox ihre Datenbanken per KI über MCP ansprechen – derzeit noch mit Einschränkungen.",
       "url": "https://www.heise.de/news/Datenbanken-mit-Java-KI-und-MCP-steuern-Googles-MCP-Toolbox-11483877.html",
@@ -83,74 +143,14 @@
       "image_title": "Neues Rathaus und Frauenkirche am Marienplatz in München"
     },
     {
-      "title": "Microsoft: KI-Inferenz für eigene Produkte soll auf Maia-Beschleunigern laufen",
-      "teaser": "Microsoft kündigt die dritte Generation der hauseigenen KI-Beschleuniger Maia an, die in „Multi-Gigawatt“-Dimensionen zum Einsatz kommen sollen.",
-      "url": "https://www.heise.de/news/Microsoft-KI-Inferenz-fuer-eigene-Produkte-soll-auf-Maia-Beschleunigern-laufen-11480988.html",
-      "image_title": "Ein Mann hält einen riesigen Chip über einem Serverboard"
-    },
-    {
-      "title": "Cyberkriminelle behaupten Datenleck bei Confluent, Deloitte, KFC und MoneyGram",
-      "teaser": "Eine Cybergang behauptet, bei Confluent, Deloitte, KFC und MoneyGram Daten kopiert zu haben. Daten von Air Canada und FTAPI hat sie veröffentlicht.",
-      "url": "https://www.heise.de/news/Cyberkriminelle-behaupten-Datenleck-bei-Confluent-Deloitte-KFC-und-MoneyGram-11484301.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette DATALEAK"
-    },
-    {
-      "title": "iX-Workshop: Claude Code in der Praxis – effizienter entwickeln mit KI-Agenten",
-      "teaser": "Erfahren Sie, wie Sie Ihre Entwicklungsaufgaben mit Claude Code autonom bearbeiten lassen und Ihre Workflows mit KI-Agenten spürbar beschleunigen können.",
-      "url": "https://www.heise.de/news/iX-Workshop-Claude-Code-in-der-Praxis-effizienter-entwickeln-mit-KI-Agenten-11467949.html",
-      "image_title": "Stilisierte Oberfläche einer Leiterplatte mit blau leuchtenden Rechtecken, darüber orange leuchtende, eine stilisierte 3D-Variante des Logos von Anthropic Claude"
-    },
-    {
-      "title": "Python 3.15 erschienen: Faule Importe, UTF-8 und neue Datentypen",
-      "teaser": "Python 3.15 soll manche Programme schneller starten lassen und vereinfacht den Umgang mit unveränderlichen Daten. UTF-8 als Standard erfordert Tests.",
-      "url": "https://www.heise.de/news/Python-3-15-erschienen-Faule-Importe-UTF-8-und-neue-Datentypen-11483795.html",
-      "image_title": "Schriftzug Python mit Hand"
-    },
-    {
-      "title": "Im Kampf gegen KI-Scam: Wie Bots Betrügern ihre wertvolle Zeit stehlen",
-      "teaser": "Am besten kämpft man gegen die steigende Anzahl von KI-Betrugsfällen laut Sicherheitsexperten ebenfalls mit KI. Wie KI-Bots Betrüger in Schach halten.",
-      "url": "https://www.heise.de/news/Im-Kampf-gegen-KI-Scam-Wie-Bots-Betruegern-ihre-wertvolle-Zeit-stehlen-11484115.html",
-      "image_title": "Eine Person berührt ein leuchtendes Verbotssymbol mit dem Text Scam."
-    },
-    {
-      "title": "Model-Schau: Decision-Modelle, N-Gramme, schlanke Modelle und lokale LLMs",
-      "teaser": "Das Decision-Modell Jev hat einen neuen Trend begründet, und die altbekannten Techniken sorgen bei LLMs für schlankere Modelle.",
-      "url": "https://www.heise.de/hintergrund/Model-Schau-Decision-Modelle-N-Gramme-schlanke-Modelle-und-lokale-LLMs-11483777.html",
-      "image_title": "Chatbot und Menschen"
-    },
-    {
-      "title": "Let’s Encrypt: Umstellung auf 64-Tage-Zertifikate im Februar 2027",
-      "teaser": "Let’s Encrypt will die Lebensspanne von Zertifikaten deutlich reduzieren. Ab Februar erfolgt die Umstellung auf 64 Tage Laufzeit.",
-      "url": "https://www.heise.de/news/Let-s-Encrypt-Umstellung-auf-64-Tage-Zertifikate-im-Februar-2027-11484047.html",
-      "image_title": "Schlüsselsymbol aus Leitern vor blauem Hintergrund"
-    },
-    {
-      "title": "SAP zwischen KI-Vision und ERP-Alltag: DSAG fordert Wahlfreiheit",
-      "teaser": "SAP will mit KI-Agenten die Unternehmenssoftware neu gestalten. Die SAP-Anwendergruppe DSAG fordert aber Innovationen auch für bestehende ERP-Systeme.",
-      "url": "https://www.heise.de/news/SAP-zwischen-KI-Vision-und-ERP-Alltag-DSAG-fordert-Wahlfreiheit-11484019.html",
-      "image_title": "SAP-Logo an einem Bürogebäude"
-    },
-    {
-      "title": "S2N Agentic Ops: Programm der Online-Konferenz zu KI im IT-Betrieb steht",
-      "teaser": "Wie verändern KI-Agenten den IT-Betrieb? Die iX-Online-Konferenz stellt am 9. Dezember Praxisprojekte und Technik vor. Tickets gibt es zum Frühbucher-Preis.",
-      "url": "https://www.heise.de/news/S2N-Agentic-Ops-Programm-der-Online-Konferenz-zu-KI-im-IT-Betrieb-steht-11481912.html",
-      "image_title": "Ein Roboter interagiert mit einem Touchscreen vor Serverracks."
-    },
-    {
-      "title": "Apples Smart-Home-Hub hat einen Namen – plus neue technische Details",
-      "teaser": "Neben „homeOS“ hat Apple offenbar einen zweiten Begriff im Zusammenhang mit seinem kommenden Home-Gerät schützen lassen. Neues gibt es auch zur Hardware.",
-      "url": "https://www.heise.de/news/Apples-Smart-Home-Hub-hat-einen-Namen-plus-neue-technische-Details-11483493.html",
-      "image_title": "Teile von Apples HomeKit-Ökosystem"
-    },
-    {
       "title": "NewsJetzt rumst es im PC-Markt",
       "url": "https://www.heise.de/news/Jetzt-rumst-es-im-PC-Markt-11482918.html",
       "image_title": "Geöffneter Desktop-PC"
     },
     {
-      "title": "NewsUS-Regierung schließt Microsoft und Adobe von Visa-Programm aus",
-      "url": "https://www.heise.de/news/US-Regierung-schliesst-Microsoft-und-Adobe-von-Visa-Programm-aus-11481548.html",
-      "image_title": "US-Vizepräsident J.D. Vance spricht an einem Rednerpult mit Siegel."
+      "title": "NewsCDU will Balkonkraftwerke stärken: 1000 Voltampere und ihre Tücken",
+      "url": "https://www.heise.de/news/CDU-will-Balkonkraftwerke-staerken-1000-Voltampere-und-ihre-Tuecken-11483523.html",
+      "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
     },
     {
       "title": "NewsCEO-Fraud: Manager haftet für Millionen-Schaden",
@@ -158,9 +158,13 @@
       "image_title": "Geld in Handschellen"
     },
     {
-      "title": "News„Haben nicht darum gebeten“: Scharfe Kritik an OpenAI aus der Mathematik",
-      "url": "https://www.heise.de/news/KI-generierte-Mathematikloesungen-Scharfe-Kritik-am-Vorgehen-von-OpenAI-11480767.html",
-      "image_title": "Eine Hand schreibt mathematische Formeln mit Kreide an eine Tafel"
+      "title": "NewsVor 15 Jahren: Der Tod von Dennis Ritchie und das Rätsel seiner Dissertation",
+      "url": "https://www.heise.de/news/Vor-15-Jahren-Der-Tod-von-Dennis-Ritchie-und-das-Raetsel-seiner-Dissertation-11483545.html",
+      "image_title": "Dennis M. Ritchie vor einem Hintergrund mit den Schriftzügen Unix und C"
+    },
+    {
+      "title": "TestsStreaming-Kosten sparen mit Account-Sharing: Sharesub im Praxistest",
+      "url": "https://www.heise.de/tests/Streaming-Kosten-sparen-mit-Account-Sharing-Sharesub-im-Praxistest-11477921.html"
     },
     {
       "title": "RatgeberSo machen Sie den Gaszähler smart: Home Assistant und ein 17-Euro-Sensor genügen",
@@ -168,16 +172,13 @@
       "image_title": "Gaszaehler mit Ziffern und einem digitalen Sensor."
     },
     {
-      "title": "TestsStreaming-Kosten sparen mit Account-Sharing: Sharesub im Praxistest",
-      "url": "https://www.heise.de/tests/Streaming-Kosten-sparen-mit-Account-Sharing-Sharesub-im-Praxistest-11477921.html"
-    },
-    {
       "title": "TestsFritzOS 8.50: Integrierter Adblocker und weitere Neuerungen im Überblick",
       "url": "https://www.heise.de/tests/FritzOS-8-50-Integrierter-Adblocker-und-weitere-Neuerungen-im-Ueberblick-11469960.html"
     },
     {
-      "title": "HintergrundDas steckt in dem Open-Weight-Modell DeepSeek-V4.1-Flash",
-      "url": "https://www.heise.de/hintergrund/Das-steckt-in-dem-Open-Weight-Modell-DeepSeek-V4-1-Flash-11477333.html"
+      "title": "TestsElektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität",
+      "url": "https://www.heise.de/tests/Elektroauto-Xpeng-X9-im-Test-Die-konsequente-Absage-an-Agilitaet-11480552.html",
+      "image_title": "Xpeng X9"
     }
   ]
 }

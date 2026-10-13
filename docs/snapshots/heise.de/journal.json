@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T01:41:34",
+  "timestamp": "2026-10-13T08:36:48",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Software Testing: Ein Lasttest ohne Risikofrage ist verschwendete Lebenszeit",
+      "teaser": "Richard Seidl spricht mit Stephan Schwarz über Lasttests in Kubernetes und warum alles mit sauberen Requests und Limits für Container beginnt.",
+      "url": "https://www.heise.de/blog/Software-Testing-Ein-Lasttest-ohne-Risikofrage-ist-verschwendete-Lebenszeit-11485475.html",
+      "image_title": "Ein Mann blickt lächelnd in die Kamera neben dem Text „Zahlen ohne Entscheidung“"
+    },
+    {
+      "title": "Dienstag: Supermarkt-Kühlsysteme angegriffen, OpenAI-Modell auf Zerstörungstrip",
+      "teaser": "Cyberangriff auf Kühl- und Gefriersysteme + OpenAI-Modell zerstört Testumgebung + Vorschlag von Satya Nadella + BYD mit neuem Modell + Starlink in Venezuela",
+      "url": "https://www.heise.de/news/Dienstag-Supermarkt-Kuehlsysteme-angegriffen-OpenAI-Modell-auf-Zerstoerungstrip-11485167.html",
+      "image_title": "Einkaufswagen eines Supermarkts, dazu Text: DIENSTAG Supermarkt-Kühlschränke, OpenAI, Satya Nadella-Vorschlag, BYD Atto 8 & Starlink"
+    },
+    {
       "title": "Bitkom: Mehrheit der Lehrkräfte will Pflichtfortbildungen zu digitalen Themen",
       "teaser": "Es gibt mehr Lehrkräfte, die ihre Fähigkeiten für digitalen Unterricht als „gut“ oder „sehr gut“ einstufen. Darauf wollen sie sich aber offenbar nicht ausruhen.",
       "url": "https://www.heise.de/news/Bitkom-Mehrheit-der-Lehrkraefte-will-Pflichtfortbildungen-zu-digitalen-Themen-11484716.html",
@@ -30,17 +42,6 @@
       "teaser": "Das „KI-Update“ liefert drei mal pro Woche eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
       "url": "https://www.heise.de/news/KI-Update-SI-statt-AI-Wer-zahlt-Apples-Privacy-SynthID-Closed-Source-Ende-11482254.html",
       "image_title": "Das Logo der Podcast-Reihe KI Update mit dem Schriftzug KI Update und dem Heise-Logo"
-    },
-    {
-      "title": "Montag: Ukrainische Drohnen gegen russisches Internet, Intels CPU-Wiederauflage",
-      "teaser": "Internetausfälle nach Drohnenangriffen + Intels neue Alt-CPUs 2027 + CDU-Vorstoß für stärkere Balkonkraftwerke + Cyberangriffe in Japan + Stopp für Pornosperren",
-      "url": "https://www.heise.de/news/Montag-Ukrainische-Drohnen-gegen-russisches-Internet-Intels-CPU-Wiederauflage-11483723.html",
-      "image_title": "Problemmeldung auf einem Windows-PC; Montag: Yandex-Ausfälle, Intel-CPU-Pläne, Steckersolar-Vorstoß, Cybersicherheit-Notstand & Pornosperren-Absage"
-    },
-    {
-      "title": "FAQ zu Cybergrooming: Ermittler warnen vor Massenphänomen im Netz",
-      "teaser": "Sie haben sexuelle Absichten und knüpfen Kontakte über Chats und Gaming-Plattformen: Wie Täter im Netz vorgehen, welche Hürden bei der Strafverfolgung bestehen.",
-      "url": "https://www.heise.de/hintergrund/FAQ-zu-Cybergrooming-Ermittler-warnen-vor-Massenphaenomen-im-Netz-11483635.html"
     },
     {
       "title": "RatgeberKleinwagen im Kostenvergleich: VW ID. Polo gegen Polo, Ibiza und Cupra Raval",
@@ -55,6 +56,17 @@
     {
       "title": "HintergrundÜberwachung im Schwimmbad: Wie KI vor dem Ertrinken retten soll",
       "url": "https://www.heise.de/hintergrund/Kameras-im-Hallenbad-Darum-ueberwacht-KI-immer-mehr-Schwimmbaeder-11349276.html"
+    },
+    {
+      "title": "Montag: Ukrainische Drohnen gegen russisches Internet, Intels CPU-Wiederauflage",
+      "teaser": "Internetausfälle nach Drohnenangriffen + Intels neue Alt-CPUs 2027 + CDU-Vorstoß für stärkere Balkonkraftwerke + Cyberangriffe in Japan + Stopp für Pornosperren",
+      "url": "https://www.heise.de/news/Montag-Ukrainische-Drohnen-gegen-russisches-Internet-Intels-CPU-Wiederauflage-11483723.html",
+      "image_title": "Problemmeldung auf einem Windows-PC; Montag: Yandex-Ausfälle, Intel-CPU-Pläne, Steckersolar-Vorstoß, Cybersicherheit-Notstand & Pornosperren-Absage"
+    },
+    {
+      "title": "FAQ zu Cybergrooming: Ermittler warnen vor Massenphänomen im Netz",
+      "teaser": "Sie haben sexuelle Absichten und knüpfen Kontakte über Chats und Gaming-Plattformen: Wie Täter im Netz vorgehen, welche Hürden bei der Strafverfolgung bestehen.",
+      "url": "https://www.heise.de/hintergrund/FAQ-zu-Cybergrooming-Ermittler-warnen-vor-Massenphaenomen-im-Netz-11483635.html"
     },
     {
       "title": "CDU will Balkonkraftwerke stärken: 1000 Voltampere und ihre Tücken",
@@ -134,26 +146,9 @@
       "image_title": "Bedienung in Restaurant nutzt Kasse mit Kreditkarte; Mittwoch: Uber-Geschäftsausbau, HDD-Übernahmegespräche, Jaguar-Neustart, Ransomware-Auslieferung & Bit-Rauschen"
     },
     {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Wie lange bleibt RAM noch teuer?",
-      "teaser": "Seit einem Jahr spielen die RAM-Preise verrückt. Wann es wieder billiger werden könnte, untersucht Folge 2026/20 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Wie-lange-bleibt-RAM-noch-teuer-11474773.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
-    },
-    {
-      "title": "Ransomware Qilin: Russe von Japan an Deutschland ausgeliefert",
-      "teaser": "Er soll für die Qilin-Bande Ransomware programmiert haben. Jetzt wurde der Russe von Japan an Deutschland ausgeliefert. Das passiert selten.",
-      "url": "https://www.heise.de/news/Seltene-Sache-Japan-liefert-Ransomware-Verdaechtigen-an-Deutschland-aus-11478517.html",
-      "image_title": "Nahaufnahme der japanischen Flagge"
-    },
-    {
       "title": "NewsJetzt rumst es im PC-Markt",
       "url": "https://www.heise.de/news/Jetzt-rumst-es-im-PC-Markt-11482918.html",
       "image_title": "Geöffneter Desktop-PC"
-    },
-    {
-      "title": "NewsUS-Regierung schließt Microsoft und Adobe von Visa-Programm aus",
-      "url": "https://www.heise.de/news/US-Regierung-schliesst-Microsoft-und-Adobe-von-Visa-Programm-aus-11481548.html",
-      "image_title": "US-Vizepräsident J.D. Vance spricht an einem Rednerpult mit Siegel."
     },
     {
       "title": "NewsCEO-Fraud: Manager haftet für Millionen-Schaden",
@@ -161,9 +156,18 @@
       "image_title": "Geld in Handschellen"
     },
     {
-      "title": "News„Haben nicht darum gebeten“: Scharfe Kritik an OpenAI aus der Mathematik",
-      "url": "https://www.heise.de/news/KI-generierte-Mathematikloesungen-Scharfe-Kritik-am-Vorgehen-von-OpenAI-11480767.html",
-      "image_title": "Eine Hand schreibt mathematische Formeln mit Kreide an eine Tafel"
+      "title": "NewsVor 15 Jahren: Der Tod von Dennis Ritchie und das Rätsel seiner Dissertation",
+      "url": "https://www.heise.de/news/Vor-15-Jahren-Der-Tod-von-Dennis-Ritchie-und-das-Raetsel-seiner-Dissertation-11483545.html",
+      "image_title": "Dennis M. Ritchie vor einem Hintergrund mit den Schriftzügen Unix und C"
+    },
+    {
+      "title": "NewsWer „KI“ sagt, ist für Trump „DER FEIND“: Immer mehr folgen Umbenennung in „SI“",
+      "url": "https://www.heise.de/news/Superintelligenz-statt-KI-Nadella-Huang-Bezos-Co-folgen-Trumps-Vorgabe-11483733.html",
+      "image_title": "Donald Trump vor dunklem Hintergrund"
+    },
+    {
+      "title": "TestsStreaming-Kosten sparen mit Account-Sharing: Sharesub im Praxistest",
+      "url": "https://www.heise.de/tests/Streaming-Kosten-sparen-mit-Account-Sharing-Sharesub-im-Praxistest-11477921.html"
     },
     {
       "title": "RatgeberSo machen Sie den Gaszähler smart: Home Assistant und ein 17-Euro-Sensor genügen",
@@ -171,16 +175,13 @@
       "image_title": "Gaszaehler mit Ziffern und einem digitalen Sensor."
     },
     {
-      "title": "TestsStreaming-Kosten sparen mit Account-Sharing: Sharesub im Praxistest",
-      "url": "https://www.heise.de/tests/Streaming-Kosten-sparen-mit-Account-Sharing-Sharesub-im-Praxistest-11477921.html"
-    },
-    {
       "title": "TestsFritzOS 8.50: Integrierter Adblocker und weitere Neuerungen im Überblick",
       "url": "https://www.heise.de/tests/FritzOS-8-50-Integrierter-Adblocker-und-weitere-Neuerungen-im-Ueberblick-11469960.html"
     },
     {
-      "title": "HintergrundDas steckt in dem Open-Weight-Modell DeepSeek-V4.1-Flash",
-      "url": "https://www.heise.de/hintergrund/Das-steckt-in-dem-Open-Weight-Modell-DeepSeek-V4-1-Flash-11477333.html"
+      "title": "TestsElektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität",
+      "url": "https://www.heise.de/tests/Elektroauto-Xpeng-X9-im-Test-Die-konsequente-Absage-an-Agilitaet-11480552.html",
+      "image_title": "Xpeng X9"
     }
   ]
 }
