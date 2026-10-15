@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-15T01:01:27",
+  "timestamp": "2026-10-15T06:36:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,16 +20,93 @@
   ],
   "articles": [
     {
+      "title": "Vibe-Coding am Mac: So legen Sie los",
+      "teaser": "Mit Claude und Xcode entwickeln Sie Mac-Apps, ohne selbst Code zu schreiben. Wir zeigen Schritt für Schritt, wie aus einer Idee eine lauffähige Anwendung wird.",
+      "url": "https://www.heise.de/ratgeber/Vibe-Coding-am-Mac-So-legen-Sie-los-11475065.html",
+      "image_title": "Programmieren mit KI"
+    },
+    {
+      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
+      "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11472869.html",
+      "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
+    },
+    {
+      "title": "OpenWiki im Test: Gedächtnis für Coding-Agenten",
+      "teaser": "Coding-Agenten bleibt der rote Faden eines Systems verborgen. OpenWiki von LangChain setzt dort an und erzeugt ein Gedächtnis direkt im Repository.",
+      "url": "https://www.heise.de/tests/OpenWiki-im-Test-Gedaechtnis-fuer-Coding-Agenten-11485587.html",
+      "image_title": ","
+    },
+    {
+      "title": "Ergonomie am Arbeitsplatz: Tipps für gesundes Arbeiten",
+      "teaser": "Tipps von der Ergonomie-Expertin: Wie Sie entspannt am Schreibtisch arbeiten, Belastungen reduzieren und Ihre Gesundheit erhalten – ein Interview.",
+      "url": "https://www.heise.de/ratgeber/Ergonomie-am-Arbeitsplatz-Tipps-fuer-gesundes-Arbeiten-11426384.html"
+    },
+    {
+      "title": "RatgeberVibe-Coding am Mac: So legen Sie los",
+      "url": "https://www.heise.de/ratgeber/Vibe-Coding-am-Mac-So-legen-Sie-los-11475065.html",
+      "image_title": "Programmieren mit KI"
+    },
+    {
+      "title": "TestsOpenWiki im Test: Gedächtnis für Coding-Agenten",
+      "url": "https://www.heise.de/tests/OpenWiki-im-Test-Gedaechtnis-fuer-Coding-Agenten-11485587.html",
+      "image_title": ","
+    },
+    {
+      "title": "RatgeberErgonomie am Arbeitsplatz: Tipps für gesundes Arbeiten",
+      "url": "https://www.heise.de/ratgeber/Ergonomie-am-Arbeitsplatz-Tipps-fuer-gesundes-Arbeiten-11426384.html"
+    },
+    {
+      "title": "Ergonomie-Hardware im Test: Was wirklich hilft",
+      "teaser": "Mausarm, Rücken- und Nackenverspannungen sind typisch bei langer Bildschirmarbeit. Wir zeigen, wie Sie vorbeugen und stellen Gadgets vor, die sie unterstützen.",
+      "url": "https://www.heise.de/ratgeber/Ergonomie-Hardware-im-Test-Was-wirklich-hilft-11426356.html",
+      "image_title": "Eine Frau steht an einem höhenverstellbaren Schreibtisch und sitzt in einem Bürostuhl."
+    },
+    {
+      "title": "Prozessor-Kürzel entschlüsseln: So lesen Sie CPU-Namen richtig",
+      "teaser": "Die Typbezeichnungen moderner Prozessoren sind für Laien ein Buch mit sieben Siegeln. Wir erbrechen es und schlüsseln die undurchsichtigen Kürzel auf.",
+      "url": "https://www.heise.de/ratgeber/Prozessor-Kuerzel-entschluesseln-So-lesen-Sie-CPU-Namen-richtig-11422389.html",
+      "image_title": "Ein AMD Ryzen Prozessor wird mit einer Lupe vergrößert."
+    },
+    {
+      "title": "Sechs Mini-PCs im Test: Wer bei KI, Tempo und Verbrauch punktet",
+      "teaser": "Klein und sparsam reicht schon lang nicht mehr: Sechs Mini-PCs mit SoCs von AMD, Apple und Intel zeigen, wie gut sie mit modernen KI-Aufgaben zurechtkommen.",
+      "url": "https://www.heise.de/ratgeber/Sechs-Mini-PCs-im-Test-Wer-bei-KI-Tempo-und-Verbrauch-punktet-11422377.html",
+      "image_title": "Mehrere Mini-PCs und NUCs gestapelt vor blauem Hintergrund"
+    },
+    {
+      "title": "Mini-PC-Kaufberatung: Gute Wahl treffen in Zeiten teurer Speicherchips",
+      "teaser": "Neue Mobilprozessoren bringen attraktive Verbesserungen für Mini-PCs. Doch Mondpreise für RAM und SSDs erzwingen eine besonders sorgfältige Kaufentscheidung.",
+      "url": "https://www.heise.de/ratgeber/Mini-PC-Kaufberatung-Gute-Wahl-treffen-in-Zeiten-teurer-Speicherchips-11422361.html",
+      "image_title": "Ein Turm aus mehreren Mini-PCs auf blauem Hintergrund"
+    },
+    {
+      "title": "Vorsicht, Kunde: Smart Meter eingebaut, Schlussrechnung verschwunden",
+      "teaser": "Der Netzbetreiber tauscht den Zähler, der Lieferant findet ihn nicht. Dazwischen sitzt ein Kunde, der mehr als ein halbes Jahr auf seine Abrechnung wartet.",
+      "url": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Smart-Meter-eingebaut-Schlussrechnung-verschwunden-11417033.html",
+      "image_title": "Ein Mann hält eine Taschenlampe und eine Lupe vor einen Stromkasten"
+    },
+    {
+      "title": "#heiseshow: KI-Klone, PC-Markt, Mathematiker vs. OpenAI",
+      "teaser": "In der #heiseshow: KI-Klone machen etablierten Anbietern Konkurrenz, der PC-Markt bricht ein und Mathematiker wehren sich gegen KI-generierte Lösungen.",
+      "url": "https://www.heise.de/news/heiseshow-KI-Klone-PC-Markt-Mathematiker-vs-OpenAI-11488029.html"
+    },
+    {
       "title": "Verwanzte Krypto-Wallets von Ledger: Problem größer als gedacht",
       "teaser": "Jemand baut heimlich LTE-Modems in neue Kryptowallets ein. Käufer haben über 100 Millionen Dollar verloren. Hersteller Ledger kommuniziert wenig.",
       "url": "https://www.heise.de/news/Verwanzte-Krypto-Wallets-von-Ledger-Problem-groesser-als-gedacht-11488785.html",
       "image_title": "Ein Ledger Stick liegt auf einer PC-Tastatur"
     },
     {
-      "title": "Apple TV und HomeViewWie Apple die EU unter Druck setzt",
+      "title": "Neues Apple TV 4K und HomeView: Wie Apple die EU unter Druck setzt",
       "teaser": "Apple hinkt bei KI hinterher und nutzt HomeView und das Apple TV 4K, um Druck auf die EU zu machen. Doch die technischen Begründungen sind dünn.",
       "url": "https://www.heise.de/hintergrund/Neues-Apple-TV-4K-und-HomeView-Wie-Apple-die-EU-unter-Druck-setzt-11487611.html",
       "image_title": "Apple HomeView"
+    },
+    {
+      "title": "Top 5: Der beste Hemdenbügler im Test – Bügelpuppen von Cleanmaxx & Co. ab 50 €",
+      "teaser": "Hemdenbügler ersparen Bügelbrett und heißes Eisen. Wir haben fünf Bügelpuppen von 48 bis 109 Euro getestet, das günstigste Modell ist besser als manch teureres.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-5-der-beste-hemdenbuegler-im-test-buegelpuppen-von-cleanmaxx-und-co-ab-50-euro/f3wvxj6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Apple-Forscher nutzen Apple-Silicon-Macs im Idle-Betrieb als virtuelle GPUs",
@@ -38,33 +115,15 @@
       "image_title": "Apple Silicon SoC."
     },
     {
+      "title": "Test: Hemdenbügler Cleanmaxx Pro Steam – gut verarbeitet, durchdacht, Testsieger",
+      "teaser": "Der Cleanmaxx Pro Steam ist unser Testsieger: Als einzige Bügelpuppe im Test glättet er per Dampf auch trockene, zerknitterte Hemden.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/test-hemdenbuegler-cleanmaxx-pro-steam-gut-verarbeitet-durchdacht-testsieger/rlfkdpj?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
       "title": "Steam Frame im Test: Sehr bequem, aber noch nicht ganz fertig",
       "teaser": "Steam Frame bringt Linux federleicht auf den Kopf und viel unter einen Hut: VR, Non-VR, PC-Streaming, Windows- und Android-Apps. Manches wirkt jedoch überholt.",
       "url": "https://www.heise.de/tests/Steam-Frame-im-Test-Sehr-bequem-aber-noch-nicht-ganz-fertig-11486805.html",
       "image_title": "Steam Frame"
-    },
-    {
-      "title": "TestsSteam Frame im Test: Sehr bequem, aber noch nicht ganz fertig",
-      "url": "https://www.heise.de/tests/Steam-Frame-im-Test-Sehr-bequem-aber-noch-nicht-ganz-fertig-11486805.html",
-      "image_title": "Steam Frame"
-    },
-    {
-      "title": "TestsTRMNL (X): E-Paper-Infodisplay mit Akku und ohne Ablenkungen im Test",
-      "url": "https://www.heise.de/tests/TRMNL-X-E-Paper-Infodisplay-mit-Akku-und-ohne-Ablenkungen-im-Test-11347993.html"
-    },
-    {
-      "title": "HintergrundTyped Domain Grounding als Designprinzip für LLM-taugliche DSLs",
-      "url": "https://www.heise.de/hintergrund/Typed-Domain-Grounding-als-Designprinzip-fuer-LLM-taugliche-DSLs-11486511.html"
-    },
-    {
-      "title": "Top 5: Der beste Hemdenbügler im Test – Bügelpuppen von Cleanmaxx & Co. ab 50 €",
-      "teaser": "Hemdenbügler ersparen Bügelbrett und heißes Eisen. Wir haben fünf Bügelpuppen von 48 bis 109 Euro getestet, das günstigste Modell ist besser als manch teureres.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-5-der-beste-hemdenbuegler-im-test-buegelpuppen-von-cleanmaxx-und-co-ab-50-euro/f3wvxj6?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Test: Hemdenbügler Cleanmaxx Pro Steam – gut verarbeitet, durchdacht, Testsieger",
-      "teaser": "Der Cleanmaxx Pro Steam ist unser Testsieger: Als einzige Bügelpuppe im Test glättet er per Dampf auch trockene, zerknitterte Hemden.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/test-hemdenbuegler-cleanmaxx-pro-steam-gut-verarbeitet-durchdacht-testsieger/rlfkdpj?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "UpdateNeue Kampagne: Apple erhofft sich Safari-Switcher",
@@ -85,79 +144,19 @@
       "image_title": "Roboterhand weist auf ein Papier, auf dem eine menschliche Hand mit Stift schreibt. Im Hintergrund ein Richterhammer"
     },
     {
-      "title": "Linux- und Unix-Desktop KDE feiert 30. Geburtstag",
-      "teaser": "Vor 30 Jahren begann die Arbeit an der Desktop-Umgebung KDE. Das Jubiläum feiert das Team mit Partys, einer größeren Spendenaktion und einem Wettbewerb.",
-      "url": "https://www.heise.de/hintergrund/Linux-und-Unix-Desktop-KDE-feiert-30-Geburtstag-11487966.html",
-      "image_title": "Ein gruenes Maskottchen mit einer roten Schleife posiert vor einer grossen Zahl drei"
-    },
-    {
-      "title": "30 Jahre KDE: Plasma 6.8 setzt komplett auf Wayland",
-      "teaser": "Die Desktop-Umgebung KDE Plasma verabschiedet sich zum 30. KDE-Geburtstag von X11, integriert das Backup-Tool Kup und macht Fortschritte beim Union-Design.",
-      "url": "https://www.heise.de/news/KDE-Plasma-6-8-offeriert-nur-noch-Wayland-Sitzung-11487974.html",
-      "image_title": "Screenshot des Desktops mit dem 30. Jahre Jubiläumsbild und dem aufgeklappten Kalender-Widget"
-    },
-    {
-      "title": "Muse speichert anscheinend intime Details über Freunde und Familie seiner Nutzer",
-      "teaser": "Metas KI-Agent Muse legt Berichten zufolge detaillierte Profile über Freunde und Bekannte seiner Nutzer an. Hinzu kommen weitere datenkritische Praktiken.",
-      "url": "https://www.heise.de/news/Muse-erstellt-offenbar-Berichte-ueber-die-Freunde-und-Bekannten-seiner-Nutzer-11487802.html",
-      "image_title": "Muse-Icon auf Handybildschirm in blau"
-    },
-    {
-      "title": "ESP32-Projekt verbindet Retro-Computer verschlüsselt",
-      "teaser": "Selectric-256 verlagert WLAN, MQTT und Verschlüsselung auf einen ESP32 und bringt so sicheren Chat auch auf alte Rechner",
-      "url": "https://www.heise.de/news/ESP32-Projekt-verbindet-Retro-Computer-verschluesselt-11488177.html",
-      "image_title": "Nahaufnahme einer grünen Leiterplatte mit USB-Anschluss, neunpoliger serieller D-Sub-Buchse, mehreren elektronischen Bauteilen und einem Mikrocontroller. Die Platine liegt auf einer hellen Holzoberfläche."
-    },
-    {
-      "title": "Souveräne Cloud: Erste Partner für OpenDesk-Rollout stehen fest",
-      "teaser": "Mit Stackit, B1 Systems und Dachs IT stehen die ersten zertifizierten Partner fest, die die souveräne Open-Source-Suite OpenDesk in die Fläche skalieren sollen.",
-      "url": "https://www.heise.de/news/Erste-Anbieter-zugelassen-Zendis-startet-OpenDesk-Partnerprogramm-11488128.html",
-      "image_title": "Eine Hand bedient eine Computermaus auf einem Mauspad."
-    },
-    {
-      "title": "NetApp: Damit der Speicher die GPUs nicht ausbremst",
-      "teaser": "NetApp präsentiert Novus, eine Speicherarchitektur für Zettabyte-Kapazitäten, optimiert für KI-Fabriken und GPU-Auslastung.",
-      "url": "https://www.heise.de/news/NetApp-Novus-Speicherarchitektur-fuer-KI-Fabriken-11488065.html",
-      "image_title": "Drei NetApp Speichergeräte stapeln sich auf einem gelben Podest."
-    },
-    {
-      "title": "iX-Workshop: Mehr Tempo beim Coding – mit KI-Assistenten effizient programmieren",
-      "teaser": "Erfahren Sie, wie Sie produktiv mit KI-Assistenten programmieren und lernen Sie die Stärken und Schwächen der Tools für den Einsatz in eigenen Projekten kennen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mehr-Tempo-beim-Coding-mit-KI-Assistenten-effizient-programmieren-11472849.html",
-      "image_title": "iX-Workshop Effizienter programmieren mit GitHub CoPilot"
-    },
-    {
-      "title": "Verbraucherzentrale mahnt Starlink ab",
-      "teaser": "Nach unrechtmäßigen Tarifumstellungen haben Verbraucherschützer Starlink abgemahnt. Der Satelliteninternetanbieter hat nachgegeben.",
-      "url": "https://www.heise.de/news/Verbraucherzentrale-mahnt-Starlink-ab-11487946.html",
-      "image_title": "Hand hält Smartphone mit Starlink-Logo und verschwommener Erde im Hintergrund"
-    },
-    {
-      "title": "Ohne Vorwarnung: Ukraine beklagt plötzliche Starlink-Beschränkungen",
-      "teaser": "Ohne Vorwarnung hat SpaceX Starlink-Funktionen für das ukrainische Militär eingeschränkt, Missionen wurden abgesagt. Dort will man an keinen Zufall glauben.",
-      "url": "https://www.heise.de/news/Ohne-Vorwarnung-von-SpaceX-Ukraine-beklagt-ploetzliche-Starlink-Beschraenkungen-11487892.html",
-      "image_title": "Hände bedienen die Steuerung einer Drohne."
-    },
-    {
-      "title": "Prognose: 80 Prozent der Neoclouds stellen bis 2030 Betrieb ein",
-      "teaser": "Wenn der Boom beim KI-Infrastrukturausbau so weitergeht, könnte es ein böses Erwachen geben, prognostizieren die Marktforscher von Gartner.",
-      "url": "https://www.heise.de/news/Prognose-80-Prozent-der-Neoclouds-stellen-bis-2030-Betrieb-ein-11487830.html",
-      "image_title": "Weiße Buchstaben „AI“ liegen auf mehreren US-Dollar-Scheinen."
-    },
-    {
       "title": "NewsJetzt rumst es im PC-Markt",
       "url": "https://www.heise.de/news/Jetzt-rumst-es-im-PC-Markt-11482918.html",
       "image_title": "Geöffneter Desktop-PC"
     },
     {
-      "title": "NewsCDU will Balkonkraftwerke stärken: 1000 Voltampere und ihre Tücken",
-      "url": "https://www.heise.de/news/CDU-will-Balkonkraftwerke-staerken-1000-Voltampere-und-ihre-Tuecken-11483523.html",
-      "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
+      "title": "NewsDutzende Browser-Ports: KI-Modelle dekompilieren Spiele",
+      "url": "https://www.heise.de/news/Halo-Vice-City-Black-Ops-KI-Ports-von-Spielen-laufen-im-Browser-11485595.html",
+      "image_title": "Screenshot aus Halo Combat Evolved"
     },
     {
-      "title": "NewsKryptodiebe verkaufen Hardware-Wallets mit heimlicher eSIM",
-      "url": "https://www.heise.de/news/Kryptodiebe-verkaufen-Hardware-Wallets-mit-heimlicher-eSIM-11485183.html",
-      "image_title": "Ein Ledger Stick liegt auf einer PC-Tastatur"
+      "title": "UpdateNewsStörung bei Kaspersky: Auffallende Nähe zu Attacken auf russische Rechenzentren",
+      "url": "https://www.heise.de/news/Stoerung-bei-Kaspersky-Auffallende-Naehe-zu-Attacken-auf-russische-Rechenzentren-11485507.html",
+      "image_title": "Kaspersky-Firmenlogo auf Firmenzentrale"
     },
     {
       "title": "NewsCitroën 2CV Concept: Elektrische Ente soll 2028 für rund 15.000 Euro kommen",
@@ -165,19 +164,17 @@
       "image_title": "Heckansicht eines roten Konzeptautos."
     },
     {
+      "title": "HintergrundVermeintliche Adobe-Alternativen im Test: Was die „Crafting Apps“ leisten",
+      "url": "https://www.heise.de/hintergrund/Vermeintliche-Adobe-Alternativen-im-Test-Was-die-Crafting-Apps-leisten-11485961.html"
+    },
+    {
+      "title": "RatgeberAnythingLLM: Eigene Dokumente mit KI lokal auswerten",
+      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
+    },
+    {
       "title": "TestsElektroauto Xpeng X9 im Test: Die konsequente Absage an Agilität",
       "url": "https://www.heise.de/tests/Elektroauto-Xpeng-X9-im-Test-Die-konsequente-Absage-an-Agilitaet-11480552.html",
       "image_title": "Xpeng X9"
-    },
-    {
-      "title": "RatgeberKleinwagen im Kostenvergleich: VW ID. Polo gegen Polo, Ibiza und Cupra Raval",
-      "url": "https://www.heise.de/ratgeber/Kleinwagen-im-Kostenvergleich-VW-ID-Polo-gegen-Polo-Ibiza-und-Cupra-Raval-11421386.html",
-      "image_title": "VW ID. Polo"
-    },
-    {
-      "title": "RatgeberSo machen Sie den Gaszähler smart: Home Assistant und ein 17-Euro-Sensor genügen",
-      "url": "https://www.heise.de/ratgeber/So-machen-Sie-den-Gaszaehler-smart-Home-Assistant-und-ein-17-Euro-Sensor-genuegen-11202562.html",
-      "image_title": "Gaszaehler mit Ziffern und einem digitalen Sensor."
     },
     {
       "title": "RatgeberLötarbeiten erleichtern: Schwebende Lötplattform im Selbstbau",
