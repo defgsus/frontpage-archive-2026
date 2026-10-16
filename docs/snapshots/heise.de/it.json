@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-16T06:30:34",
+  "timestamp": "2026-10-16T11:58:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,12 +20,91 @@
   ],
   "articles": [
     {
-      "title": "Obsidian für Fortgeschrittene: Notizen organisieren mit Bases und Übersichten",
-      "teaser": "Viele Notizen und Ideen, aber wenig Überblick? Mit Projektstartseiten, Eigenschaften und „Bases“ machen Sie Ihre Obsidian-Sammlung fit für den Alltag.",
-      "url": "https://www.heise.de/ratgeber/Obsidian-fuer-Fortgeschrittene-Notizen-organisieren-mit-Bases-und-Uebersichten-11484119.html"
+      "title": "Schluss mit Vibe-Coding: Sandbox für professionelle KI-Entwicklung gebaut",
+      "teaser": "Ein Prompt macht noch keine gute Software. Mit unserer Sandbox hilft ein LLM bei der alltäglichen Softwareentwicklung, bearbeitet Tickets und agiert planvoll.",
+      "url": "https://www.heise.de/ratgeber/Schluss-mit-Vibe-Coding-Sandbox-fuer-professionelle-KI-Entwicklung-gebaut-11427067.html"
     },
     {
-      "title": "Per Vibe-Coding auf dem Mac zur eigenen App",
+      "title": "Jetzt auch auf dem Desktop: Microsoft Defender schützt Linux",
+      "teaser": "Microsoft Defender unterstützt Linux-Desktops im Unternehmen. Administratoren können die Geräte über ihre bestehende Infrastruktur verwalten.",
+      "url": "https://www.heise.de/news/Jetzt-auch-auf-dem-Desktop-Microsoft-Defender-schuetzt-Linux-11490688.html",
+      "image_title": "Laptop mit Login-Bildschirm und IT-Symbolen, blaue Farben"
+    },
+    {
+      "title": "Talos Linux: Vom Kubernetes-OS zur Virtualisierungs- und KI-Plattform",
+      "teaser": "Sidero Labs hat auf der TalosCon in Amsterdam die Alpha-Version des Talos Hypervisor sowie die VMware-Alternative Talos Director fürs Rechenzentrum vorgestellt.",
+      "url": "https://www.heise.de/news/TalosCon-2026-Sidero-Labs-erweitert-Talos-um-Hypervisor-und-Enterprise-Produkte-11490630.html",
+      "image_title": "Steve Francis und Anant Yardi auf der Bühne der TalosCon 2026"
+    },
+    {
+      "title": "Linux-Kernel: Maintainer wollen „Assisted-by“-Tag streichen",
+      "teaser": "Kernel-Maintainer wollen die Kennzeichnung für KI-Patches abschaffen, weil nur wenige sie setzen. Auch Linus Torvalds programmiert inzwischen mit KI.",
+      "url": "https://www.heise.de/news/Linux-Kennzeichnung-von-KI-Code-soll-entfallen-auch-Torvalds-nutzt-LLMs-11490345.html",
+      "image_title": "Ein auf Papier gestempelter runder Stempel mit der Aufschrift Code & AI Certified."
+    },
+    {
+      "title": "RatgeberSchluss mit Vibe-Coding: Sandbox für professionelle KI-Entwicklung gebaut",
+      "url": "https://www.heise.de/ratgeber/Schluss-mit-Vibe-Coding-Sandbox-fuer-professionelle-KI-Entwicklung-gebaut-11427067.html"
+    },
+    {
+      "title": "HintergrundHybrid Business Intelligence: Wo die KI ihr Potenzial entfaltet kann",
+      "url": "https://www.heise.de/hintergrund/Hybrid-Business-Intelligence-Wo-die-KI-ihr-Potenzial-entfaltet-kann-11487603.html"
+    },
+    {
+      "title": "Hintergrund5G, LTE und Starlink: Wann Funk die Glasfaser ersetzen kann – und wann nicht",
+      "url": "https://www.heise.de/hintergrund/5G-LTE-und-Starlink-Wann-Funk-die-Glasfaser-ersetzen-kann-und-wann-nicht-11467759.html",
+      "image_title": "Satelliten, ein Funkmast und eine ländliche Landschaft mit Feldern und Gebäuden."
+    },
+    {
+      "title": "Untethered: Jailbreak für iOS 27.0.1 auf iPhone 18 Pro, der Reboots überlebt",
+      "teaser": "Das Team Calif.io hat den ersten rebootfesten Jailbreak seit iOS 9 entwickelt. Er läuft bis zur jüngsten Version und auch auf den neuesten iPhones. KI half.",
+      "url": "https://www.heise.de/news/Untethered-Jailbreak-fuer-iOS-27-0-1-auf-iPhone-18-Pro-der-Reboots-ueberlebt-11490726.html",
+      "image_title": "Ein Smartphone mit Apple-Schloss-Logo in einer Hand."
+    },
+    {
+      "title": "Microsoft untersucht Exchange-Probleme nach Updates",
+      "teaser": "Nach der Installation der Oktober-Updates für Windows Server kommt es auf Exchange-Servern zu Ausfällen. Microsoft untersucht das Problem.",
+      "url": "https://www.heise.de/news/Oktober-Updates-legen-Exchange-Server-lahm-11490529.html",
+      "image_title": "Ein verpixeltes Logo auf blauem Hintergrund"
+    },
+    {
+      "title": "c’t-Workshop: Microsoft 365 im Team produktiv nutzen",
+      "teaser": "Auch Copilot hilft wenig, wenn Informationen verstreut und Ablagen unübersichtlich sind. Im Workshop bringen Sie Ordnung in Ihre Microsoft-365-Zusammenarbeit",
+      "url": "https://www.heise.de/news/c-t-Workshop-Microsoft-365-im-Team-produktiv-nutzen-11488055.html",
+      "image_title": "Drei stilisierte Figuren mit erhobenen Fäusten hinter einem grünen Laptop. Auf dem Laptop ist das Teams-Symbol abgebildet."
+    },
+    {
+      "title": "Kolibri-1 denkt deutsch. Hilft das auch beim Antworten?",
+      "teaser": "Aleph Alphas Kolibri-1 ist ein neues KI-Modell, das speziell für deutsche Texte optimiert wurde und auch auf Deutsch argumentiert. iX hat es ausprobiert.",
+      "url": "https://www.heise.de/hintergrund/Kolibri-1-denkt-deutsch-Hilft-das-auch-beim-Antworten-11489670.html",
+      "image_title": "Nahaufnahme eines Smartphones mit dem weißen Aleph-Alpha-Logo auf schwarzem Display vor unscharfem, blau-orangefarbenem Hintergrund."
+    },
+    {
+      "title": "Siri AI bleibt draußen: Apple-Intelligence-Start in China naht",
+      "teaser": "Seit zwei Jahren versucht Apple, sein KI-System im Reich der Mitte auf die Geräte zu holen. Die Zulassung liegt nun offenbar vor – ein Starttermin auch.",
+      "url": "https://www.heise.de/news/Apple-Intelligence-kommt-nach-China-ohne-Siri-AI-11489007.html",
+      "image_title": "Ein Laptop, ein Tablet und ein Smartphone liegen auf einem Tisch vor einem Bildschirm."
+    },
+    {
+      "title": "Meta und Apple optimieren riesiges KI-Modell für Mac Studios",
+      "teaser": "Meta hat mit Muse Spark Open ein großes Open-Weight-Modell veröffentlicht. Es wurde gemeinsam mit Apple für zwei Mac Studios optimiert.",
+      "url": "https://www.heise.de/news/Meta-veroeffentlicht-Muse-Spark-Open-und-kooperiert-dabei-mit-Apple-11490339.html",
+      "image_title": "Zwei silberne Apple Mac Studios stehen nebeneinander unter einem Monitor, auf dem eine Chat-Oberfläche und Programmcode zu sehen sind."
+    },
+    {
+      "title": "iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
+      "teaser": "Lernen Sie praxisnah, wie Sie Schwachstellen in Anwendungen gezielt vorbeugen und einen sicheren Entwicklungsprozess in Ihrem Unternehmen verankern.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sichere-Softwareentwicklung-Schwachstellen-erkennen-und-vermeiden-11477267.html",
+      "image_title": "Schiff auf einem Fluss mit beleuchteten Ufern"
+    },
+    {
+      "title": "Nach Cyberangriff: Bauarbeiten am Fehmarnbelt-Tunnel gestört",
+      "teaser": "Offline-Zwang für Arbeiter, Probleme bei der Schiffsnavigation und ausgefallene Zutrittskontrollen erschwerten die Arbeit am Mammutprojekt.",
+      "url": "https://www.heise.de/news/Nach-Cyberangriff-Bauarbeiten-am-Fehmarnbelt-Tunnel-gestoert-11490277.html",
+      "image_title": "June,2,2022,-,Rødby,,Denmark:,Cranes,And,Excavators,Are"
+    },
+    {
+      "title": "Vibe-Coding auf dem Mac: Eigene Apps mit KI entwickeln",
       "teaser": "App-Idee, aber keine Programmierkenntnisse? Das Mac & i - Webinar zeigt vier Wege, Apps auf dem Mac zu entwickeln und für Web, Mac oder iPhone bereitzustellen.",
       "url": "https://www.heise.de/news/Per-Vibe-Coding-auf-dem-Mac-zur-eigenen-App-11461579.html",
       "image_title": "Webinar Vibe-Coding auf dem Mac"
@@ -41,20 +120,6 @@
       "teaser": "Der DNS-Server Technitium glänzt mit großem Funktionsumfang, ist aber nicht ganz einfach einzurichten. Wir zeigen Installation und Konfiguration.",
       "url": "https://www.heise.de/ratgeber/Adblocker-inklusive-DNS-Server-Technitium-installieren-und-einrichten-11439401.html",
       "image_title": "Dirigent auf einem Podest von IP-Adressen und Domain-Namen umgeben"
-    },
-    {
-      "title": "HintergrundSo funktioniert Kill-Switch-Architektur für KI-Anwendungen",
-      "url": "https://www.heise.de/hintergrund/So-funktioniert-Kill-Switch-Architektur-fuer-KI-Anwendungen-11487391.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberAdblocker inklusive: DNS-Server Technitium installieren und einrichten",
-      "url": "https://www.heise.de/ratgeber/Adblocker-inklusive-DNS-Server-Technitium-installieren-und-einrichten-11439401.html",
-      "image_title": "Dirigent auf einem Podest von IP-Adressen und Domain-Namen umgeben"
-    },
-    {
-      "title": "RatgeberObsidian für Fortgeschrittene: Notizen organisieren mit Bases und Übersichten",
-      "url": "https://www.heise.de/ratgeber/Obsidian-fuer-Fortgeschrittene-Notizen-organisieren-mit-Bases-und-Uebersichten-11484119.html"
     },
     {
       "title": "Bericht: Weißes Haus ordnete Einschränkung von Starlink in der Ukraine an",
@@ -79,70 +144,6 @@
       "teaser": "Ab 2027 haben Hitzegeplagte mehr Auswahl bei mobilen Split-Klimaanlagen. Von AEG kommt die Roomovi, die der PortaSplit ähnelt.",
       "url": "https://www.heise.de/news/AEG-will-der-Midea-PortaSplit-Konkurrenz-machen-11489814.html",
       "image_title": "Ein AEG Klimagerät mit Aussengerät und verbundenem Schlauch."
-    },
-    {
-      "title": "Neue Macs: Apple lädt zur „Launch Experience“ am 28. Oktober",
-      "teaser": "Die nächsten Produktankündigungen von Apple stehen an. Laut einem Bericht hat der Konzern zu einer Veranstaltung in Los Angeles geladen.",
-      "url": "https://www.heise.de/news/Neue-Macs-Apple-laedt-zur-Launch-Experience-am-28-Oktober-11489612.html",
-      "image_title": "Apple-Chef John Ternus spricht"
-    },
-    {
-      "title": "Chinesischer Spionagesatellit verfolgt Inmarsat-Satelliten im All",
-      "teaser": "Ein mutmaßlicher Lauschangriff im geostationären Orbit sorgt bei Bundeswehr und westlichen Geheimdiensten für Unruhe. Betroffen sind auch Kommunikationsdaten.",
-      "url": "https://www.heise.de/news/Chinesischer-Spionagesatellit-verfolgt-Inmarsat-Satelliten-im-All-11489808.html",
-      "image_title": "Amerikanischer und chinesischer Satellit im All"
-    },
-    {
-      "title": "Ubuntu 26.10: Linux 7.3 und KI-Assistent im Gepäck",
-      "teaser": "Das neue Ubuntu-Release enthält bereits Kernel Linux 7.3, obwohl dieser erst noch erscheint. Außerdem gibt es optional den KI-Assistenten Myna für den Desktop.",
-      "url": "https://www.heise.de/news/Ubuntu-26-10-Linux-7-3-und-KI-Assistent-im-Gepaeck-11488457.html",
-      "image_title": "Ein Laptop zeigt das Betriebssystem Ubuntu mit dem Info-Fenster auf dem Bildschirm."
-    },
-    {
-      "title": ".NET 11.0 Release Candidate 2: Breaking Changes kurz vor Fertigstellung",
-      "teaser": "Rund vier Wochen vor dem geplanten Erscheinen von .NET 11.0 legt Microsoft einen zweiten Release Candidate nach, der noch Breaking Changes enthält.",
-      "url": "https://www.heise.de/news/NET-11-0-Release-Candidate-2-Breaking-Changes-kurz-vor-Fertigstellung-11489365.html",
-      "image_title": "Verkehrsschild mit Aufschrift .NET"
-    },
-    {
-      "title": "Der beste mehrfarbige 3D-Drucker zum Tiefstpreis: Snapmaker U1 ab 675 Euro",
-      "teaser": "Der Snapmaker U1 ist der Liebling der bestenlisten-Redaktion. Aktuell gibt es ihn im Halloween-Sale so günstig wie nie.",
-      "url": "https://www.heise.de/bestenlisten/deals/der-beste-mehrfarbige-3d-drucker-zum-tiefstpreis-snapmaker-u1-ab-675-euro/1f4vf44?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Grok Voice 3.0 setzt sich im Sprach-KI-Vergleich an die Spitze",
-      "teaser": "SpaceXAI steigert mit Grok Voice 3.0 vor allem die Leistung bei Kundendienstaufgaben. Im Gesamtindex von Artificial Analysis liegt es vor OpenAI und Google.",
-      "url": "https://www.heise.de/news/Grok-Voice-3-0-setzt-sich-im-Sprach-KI-Vergleich-an-die-Spitze-11489420.html",
-      "image_title": "Grok-Logo auf einem dunklen Bildschirm; im unscharfen Hintergrund ist das Gesicht von Elon Musk zu sehen."
-    },
-    {
-      "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
-      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Cluster mit Ceph-Speicher einrichten und verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbares-Proxmox-VE-Cluster-mit-Ceph-Storage-11468489.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
-    },
-    {
-      "title": "Apple Watch mit Android? Diese Open-Source-App soll das jetzt möglich machen",
-      "teaser": "Die Verbindung einer Applewatch zu Android ist nur mit starken Einschränkungen möglich. Ein Entwickler will das mit seinem quelloffenen Projekt jetzt ändern.",
-      "url": "https://www.heise.de/news/Apple-Watch-mit-Android-Diese-Open-Source-App-soll-das-jetzt-moeglich-machen-11489283.html",
-      "image_title": "Eine Apple Watch und ein iPhone"
-    },
-    {
-      "title": "HomePod mini 2: Kann auch zum Default-Lautsprecher am Mac werden",
-      "teaser": "Bislang kann man HomePods zwar zur Musikausgabe verwenden, doch nicht zur Ausgabe des Systemklangs. Mit dem HomePod mini 2 erbarmt sich Apple.",
-      "url": "https://www.heise.de/news/HomePod-mini-2-Kann-auch-zum-Default-Lautsprecher-am-Mac-werden-11488305.html",
-      "image_title": "Zwei HomePod mini 2 an einem iMac M4"
-    },
-    {
-      "title": "Bund veröffentlicht Leitlinie zur Umstellung auf Post-Quanten-Kryptografie",
-      "teaser": "Krypto-Anwendungen mit hohem Risiko müssen bis Ende 2030 quantensicher sein, die mit mittlerem Risiko bis Ende 2035. Diese EU-Vorgabe wird nationale Leitlinie.",
-      "url": "https://www.heise.de/news/Bund-veroeffentlicht-Leitlinie-zur-Umstellung-auf-Post-Quanten-Kryptografie-11489209.html",
-      "image_title": "Bonn,,North,Rhine-westphalia,/,Germany,-,May,14,,2018:,Sign"
-    },
-    {
-      "title": "heise security Webinar: KI für Verteidiger – Hype vs. Nutzen für die Praxis",
-      "teaser": "Wo kann KI den Verteidigern wirklich helfen? Grundsätzlich, konzeptionell und dann ganz konkret in der Praxis – dieses Webinar klärt auf, berät und empfiehlt.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-KI-fuer-Verteidiger-Hype-vs-Nutzen-fuer-die-Praxis-11485713.html"
     },
     {
       "title": "NewsVerwanzte Krypto-Wallets von Ledger: Problem größer als gedacht",
