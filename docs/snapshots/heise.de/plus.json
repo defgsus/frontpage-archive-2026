@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T05:08:37",
+  "timestamp": "2026-10-17T09:48:34",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -20,25 +20,21 @@
   ],
   "articles": [
     {
-      "title": "TestsOpenWiki im Test: Gedächtnis für Coding-Agenten",
-      "teaser": "Coding-Agenten bleibt der rote Faden eines Systems verborgen. OpenWiki von LangChain setzt dort an und erzeugt ein Gedächtnis direkt im Repository.",
-      "url": "https://www.heise.de/tests/OpenWiki-im-Test-Gedaechtnis-fuer-Coding-Agenten-11485587.html",
-      "image_title": ","
-    },
-    {
-      "title": "RatgeberEigene Dokumente mit KI lokal auswerten",
-      "teaser": "AnythingLLM liest Dokumente ein und gibt mit einem KI-Chat Antworten dazu. Dabei bleiben Daten und LLM lokal.",
-      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
-    },
-    {
-      "title": "RatgeberErgonomie am Arbeitsplatz: Tipps für gesundes Arbeiten",
-      "teaser": "Tipps von der Ergonomie-Expertin: Wie Sie entspannt am Schreibtisch arbeiten, Belastungen reduzieren und Ihre Gesundheit erhalten – ein Interview.",
-      "url": "https://www.heise.de/ratgeber/Ergonomie-am-Arbeitsplatz-Tipps-fuer-gesundes-Arbeiten-11426384.html"
-    },
-    {
       "title": "HintergrundEntra ID mit Conditional Access Policies absichern",
       "teaser": "Da Identität die neue Sicherheitsgrenze der IT ist, muss man sie besonders gut absichern.",
       "url": "https://www.heise.de/hintergrund/Wie-man-Microsofts-Entra-ID-mit-Conditional-Access-Policies-absichert-11477487.html"
+    },
+    {
+      "title": "RatgeberErgonomie-Hardware im Test: Was wirklich hilft",
+      "teaser": "Mausarm, Rücken- und Nackenverspannungen sind typisch bei langer Bildschirmarbeit. Wir zeigen, wie Sie vorbeugen und stellen Gadgets vor, die sie unterstützen.",
+      "url": "https://www.heise.de/ratgeber/Ergonomie-Hardware-im-Test-Was-wirklich-hilft-11426356.html",
+      "image_title": "Eine Frau steht an einem höhenverstellbaren Schreibtisch und sitzt in einem Bürostuhl."
+    },
+    {
+      "title": "RatgeberWiederkehrende Aufgaben mit selbstgebauten Werkzeugen vereinfachen",
+      "teaser": "Wer kreativ mit recyceltem Material arbeitet und an die Grenzen gängiger Werkzeuge stößt, braucht eigene Lösungen.",
+      "url": "https://www.heise.de/ratgeber/Wiederkehrende-Aufgaben-mit-selbstgebauten-Werkzeugen-vereinfachen-11481068.html",
+      "image_title": ","
     },
     {
       "title": "TestsFitbit Air vs. Whoop 5 am iPhone im Test",
@@ -47,10 +43,15 @@
       "image_title": "Fitbit Air und Whoop 5 am iPhone"
     },
     {
-      "title": "HintergrundWie die Spiele-Engine Godot den großen Konkurrenten trotzt - ein Interview",
-      "teaser": "In der Spieleentwicklung wird die quelloffene Godot Engine immer beliebter. Wir haben einen Entwickler nach dem Warum gefragt und wohin die Reise geht.",
-      "url": "https://www.heise.de/hintergrund/Fuer-welche-Art-von-Spielen-sich-die-Engine-Godot-eignet-ein-Interview-11469567.html",
-      "image_title": "Godot-Logo mit Rahmen drumrum"
+      "title": "RatgeberEigene Dokumente mit KI lokal auswerten",
+      "teaser": "AnythingLLM liest Dokumente ein und gibt mit einem KI-Chat Antworten dazu. Dabei bleiben Daten und LLM lokal.",
+      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
+    },
+    {
+      "title": "TestsOpenWiki im Test: Gedächtnis für Coding-Agenten",
+      "teaser": "Coding-Agenten bleibt der rote Faden eines Systems verborgen. OpenWiki von LangChain setzt dort an und erzeugt ein Gedächtnis direkt im Repository.",
+      "url": "https://www.heise.de/tests/OpenWiki-im-Test-Gedaechtnis-fuer-Coding-Agenten-11485587.html",
+      "image_title": ","
     },
     {
       "title": "Melty ausprobiert: Faszinierende Spiele-Mashups mit KI, fragwürdige Sicherheit",
@@ -171,10 +172,9 @@
       "image_title": "Triumph Trident 660 Test"
     },
     {
-      "title": "Ergonomie-Hardware im Test: Was wirklich hilft",
-      "teaser": "Mausarm, Rücken- und Nackenverspannungen sind typisch bei langer Bildschirmarbeit. Wir zeigen, wie Sie vorbeugen und stellen Gadgets vor, die sie unterstützen.",
-      "url": "https://www.heise.de/ratgeber/Ergonomie-Hardware-im-Test-Was-wirklich-hilft-11426356.html",
-      "image_title": "Eine Frau steht an einem höhenverstellbaren Schreibtisch und sitzt in einem Bürostuhl."
+      "title": "Ergonomie am Arbeitsplatz: Tipps für gesundes Arbeiten",
+      "teaser": "Tipps von der Ergonomie-Expertin: Wie Sie entspannt am Schreibtisch arbeiten, Belastungen reduzieren und Ihre Gesundheit erhalten – ein Interview.",
+      "url": "https://www.heise.de/ratgeber/Ergonomie-am-Arbeitsplatz-Tipps-fuer-gesundes-Arbeiten-11426384.html"
     },
     {
       "title": "Prozessor-Kürzel entschlüsseln: So lesen Sie CPU-Namen richtig",
@@ -338,11 +338,6 @@
       "image_title": "Fitbit Air und Whoop 5 am iPhone"
     },
     {
-      "title": "Wiederkehrende Aufgaben mit selbstgebauten Werkzeugen vereinfachen",
-      "url": "https://www.heise.de/ratgeber/Wiederkehrende-Aufgaben-mit-selbstgebauten-Werkzeugen-vereinfachen-11481068.html",
-      "image_title": ","
-    },
-    {
       "title": "Lötarbeiten erleichternLötarbeiten erleichtern: Schwebende Lötplattform im Selbstbau",
       "url": "https://www.heise.de/ratgeber/Loetarbeiten-erleichtern-Schwebende-Loetplattform-im-Selbstbau-11476600.html",
       "image_title": ","
@@ -350,6 +345,11 @@
     {
       "title": "Bastel-Projekt: Musik-Controller als Spielbrett",
       "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Musik-Controller-als-Spielbrett-11450261.html",
+      "image_title": ","
+    },
+    {
+      "title": "Außergewöhnliche Uhr: Sprechende Kanne selber bauen",
+      "url": "https://www.heise.de/ratgeber/Aussergewoehnliche-Uhr-Sprechende-Kanne-selber-bauen-11450108.html",
       "image_title": ","
     },
     {
