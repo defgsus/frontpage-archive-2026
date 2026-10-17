@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-17T09:48:22",
+  "timestamp": "2026-10-17T13:19:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,28 +20,27 @@
   ],
   "articles": [
     {
+      "title": "Apple: Nachfrage nach iPhone Duo „schlichtweg außergewöhnlich“",
+      "teaser": "Laut Marketing erscheint Apples erstes Foldable nächste Woche – geliefert wird es aber bei jetziger Bestellung erst Ende Januar. Möglicher Ausweg: Apple Stores.",
+      "url": "https://www.heise.de/news/Apple-laedt-fuer-ausverkauftes-iPhone-Duo-in-Apple-Stores-ein-11491646.html",
+      "image_title": "iPhone Duo in verschiedenen Zuständen"
+    },
+    {
+      "title": "enterJS: Call for Proposals 2027 und letzter Aufruf für KI-Online-Thementag 2026",
+      "teaser": "Der Call for Proposals für die enterJS 2027 ist eröffnet und läuft bis zum 3. November. Nächsten Donnerstag findet der Online-Thementag enterJS Agentic statt.",
+      "url": "https://www.heise.de/news/enterJS-Call-for-Proposals-2027-und-letzter-Aufruf-fuer-KI-Online-Thementag-2026-11456215.html"
+    },
+    {
       "title": "Belttunnel – Arbeiten laufen nach Cyberangriff wieder an",
       "teaser": "Zwischen Deutschland und Dänemark wird ein Tunnel gebaut. Nach einem Cyberangriff können nun die Arbeiten am Fehmarnbelt schrittweise wie geplant weitergehen.",
       "url": "https://www.heise.de/news/Belttunnel-Arbeiten-laufen-nach-Cyberangriff-wieder-an-11491544.html",
-      "image_title": "Die Brücke am Fehmarnbelt, mit typischem Spannbogen und Stahlseilen."
+      "image_title": "Die Brücke am Fehmarnsund, mit typischem Spannbogen und Stahlseilen."
     },
     {
       "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
       "teaser": "Erfahren Sie, wie Sie die Zero-Trust-Architektur mit Zugriffsrichtlinien in Entra ID umsetzen und so Ihr Unternehmensnetzwerk effektiv schützen.",
       "url": "https://www.heise.de/news/iX-Workshop-Identitaeten-in-Entra-ID-mit-Conditional-Access-Policies-schuetzen-11472945.html",
       "image_title": "iX-Workshop Zugriffskontrolle mit Zero Trust"
-    },
-    {
-      "title": "Developer-Häppchen – was Postgres 19, Python 3.16 und Symfony 8.2 Neues bringen",
-      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Postgres, Node.js, PyPy, Python, Crystal, pnpm, Eclipse Theia, Symfony, CouchDB und List & Label.",
-      "url": "https://www.heise.de/news/Developer-Haeppchen-was-Postgres-19-Python-3-16-und-Symfony-8-2-Neues-bringen-11490397.html",
-      "image_title": "Verschiedene mexikanische Speisen und Zutaten auf einem Tisch"
-    },
-    {
-      "title": "KommentarBei der d-you jetzt nicht anfangen aufzuhören!",
-      "teaser": "Trotz viel Kritik bei Sicherheit und Datenschutz: Eigentlich hat die d-you gute Voraussetzungen. Das jetzt bitte nicht verschenken!",
-      "url": "https://www.heise.de/meinung/Kommentar-Bei-der-d-you-jetzt-nicht-anfangen-aufzuhoeren-11490834.html",
-      "image_title": "d-you Schriftzug und Logo vor dunklem Hintergrund"
     },
     {
       "title": "TestsRTX Spark im Notebook: Asus ProArt P14 im KI-Praxistest",
@@ -55,6 +54,18 @@
     {
       "title": "HintergrundAll Systems Go!: Wie Systemd Image-basierte Linux-Systeme vorantreibt",
       "url": "https://www.heise.de/hintergrund/All-Systems-Go-Wie-Systemd-Image-basierte-Linux-Systeme-vorantreibt-11482750.html"
+    },
+    {
+      "title": "Developer-Häppchen – was Postgres 19, Python 3.16 und Symfony 8.2 Neues bringen",
+      "teaser": "Kleine, aber interessante Meldungshäppchen vom News-Buffet zu Postgres, Node.js, PyPy, Python, Crystal, pnpm, Eclipse Theia, Symfony, CouchDB und List & Label.",
+      "url": "https://www.heise.de/news/Developer-Haeppchen-was-Postgres-19-Python-3-16-und-Symfony-8-2-Neues-bringen-11490397.html",
+      "image_title": "Verschiedene mexikanische Speisen und Zutaten auf einem Tisch"
+    },
+    {
+      "title": "Kommentar: Bei der d-you jetzt nicht anfangen aufzuhören!",
+      "teaser": "Trotz viel Kritik aus Sicherheits- und Datenschutzkreisen: Eigentlich startet die d-you mit ziemlich guten Voraussetzungen. Das jetzt bitte nicht verschenken!",
+      "url": "https://www.heise.de/meinung/Kommentar-Bei-der-d-you-jetzt-nicht-anfangen-aufzuhoeren-11490834.html",
+      "image_title": "d-you Schriftzug und Logo vor dunklem Hintergrund"
     },
     {
       "title": "Smartwatches im Test: Pebble-Comeback und die Pixel Watch 5 | c’t uplink",
@@ -129,18 +140,6 @@
       "title": "Hybrid Business Intelligence: Wo die KI ihr Potenzial entfaltet kann",
       "teaser": "KI führt klassische BI in eine hybride Evolutionsstufe und schafft Effizienzpotenziale bei technischen und wirtschaftlichen Herausforderungen.",
       "url": "https://www.heise.de/hintergrund/Hybrid-Business-Intelligence-Wo-die-KI-ihr-Potenzial-entfaltet-kann-11487603.html"
-    },
-    {
-      "title": "Kolibri-1 denkt deutsch. Hilft das auch beim Antworten?",
-      "teaser": "Aleph Alphas Kolibri-1 ist ein neues KI-Modell, das speziell für deutsche Texte optimiert wurde und auch auf Deutsch argumentiert. iX hat es ausprobiert.",
-      "url": "https://www.heise.de/hintergrund/Kolibri-1-denkt-deutsch-Hilft-das-auch-beim-Antworten-11489670.html",
-      "image_title": "Nahaufnahme eines Smartphones mit dem weißen Aleph-Alpha-Logo auf schwarzem Display vor unscharfem, blau-orangefarbenem Hintergrund."
-    },
-    {
-      "title": "Siri AI bleibt draußen: Apple-Intelligence-Start in China naht",
-      "teaser": "Seit zwei Jahren versucht Apple, sein KI-System im Reich der Mitte auf die Geräte zu holen. Die Zulassung liegt nun offenbar vor – ein Starttermin auch.",
-      "url": "https://www.heise.de/news/Apple-Intelligence-kommt-nach-China-ohne-Siri-AI-11489007.html",
-      "image_title": "Ein Laptop, ein Tablet und ein Smartphone liegen auf einem Tisch vor einem Bildschirm."
     },
     {
       "title": "NewsVerwanzte Wallets: \"Mit Millionenbudget monatelang vorbereitet\"",
