@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T01:47:49",
+  "timestamp": "2026-10-18T06:42:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,17 @@
   ],
   "articles": [
     {
+      "title": "Adblocker inklusive: DNS-Server Technitium installieren und einrichten",
+      "teaser": "Der DNS-Server Technitium glänzt mit großem Funktionsumfang, ist aber nicht ganz einfach einzurichten. Wir zeigen Installation und Konfiguration.",
+      "url": "https://www.heise.de/ratgeber/Adblocker-inklusive-DNS-Server-Technitium-installieren-und-einrichten-11439401.html",
+      "image_title": "Dirigent auf einem Podest von IP-Adressen und Domain-Namen umgeben"
+    },
+    {
+      "title": "Missing Link: Barrierefreiheit mit Bluetooth – wie weit ist Auracast wirklich?",
+      "teaser": "Auracast verbreitet sich zunehmend, auch als Hörhilfe – doch Bedienung, Latenz und Hürden bei der Entwicklung bremsen die Technik noch.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Barrierefreiheit-mit-Bluetooth-wie-weit-ist-Auracast-wirklich-11490616.html"
+    },
+    {
       "title": "Musks geopolitischer Hebel: Gedrosseltes Starlink rüttelt Europa auf",
       "teaser": "Plötzliche Tempolimits für Satellitensignale haben die ukrainische Abwehr behindern. Die EU berät über Alternativen. Die Sorge über fatale Abhängigkeit geht um.",
       "url": "https://www.heise.de/news/Musks-geopolitischer-Hebel-Gedrosseltes-Starlink-ruettelt-Europa-auf-11491703.html",
@@ -30,17 +41,6 @@
       "teaser": "Wer jetzt bestellt, bekommt das Foldable erst Ende Januar. Möglicher Ausweg: Apple Stores.",
       "url": "https://www.heise.de/news/Apple-laedt-fuer-ausverkauftes-iPhone-Duo-in-Apple-Stores-ein-11491646.html",
       "image_title": "iPhone Duo in verschiedenen Zuständen"
-    },
-    {
-      "title": "enterJS: Call for Proposals 2027 und letzter Aufruf für KI-Online-Thementag 2026",
-      "teaser": "Der Call for Proposals für die enterJS 2027 ist eröffnet und läuft bis zum 3. November. Nächsten Donnerstag findet der Online-Thementag enterJS Agentic statt.",
-      "url": "https://www.heise.de/news/enterJS-Call-for-Proposals-2027-und-letzter-Aufruf-fuer-KI-Online-Thementag-2026-11456215.html"
-    },
-    {
-      "title": "Belttunnel – Arbeiten laufen nach Cyberangriff wieder an",
-      "teaser": "Zwischen Deutschland und Dänemark wird ein Tunnel gebaut. Nach einem Cyberangriff können nun die Arbeiten am Fehmarnbelt schrittweise wie geplant weitergehen.",
-      "url": "https://www.heise.de/news/Belttunnel-Arbeiten-laufen-nach-Cyberangriff-wieder-an-11491544.html",
-      "image_title": "Die Brücke am Fehmarnsund, mit typischem Spannbogen und Stahlseilen."
     },
     {
       "title": "TestsRTX Spark im Notebook: Asus ProArt P14 im KI-Praxistest",
@@ -64,6 +64,17 @@
       "title": "Speicher für Balkonkraftwerk im Test: Bluetti Balco 260 lädt auch per AC",
       "teaser": "Vier starke PV-Eingänge, AC-Überschussladen und USV: Der Balco 260 ist vielseitig. Bei 800 W arbeitet er effizient, bei 200 W fällt die Energieausbeute ab.",
       "url": "https://www.heise.de/bestenlisten/testbericht/speicher-fuer-balkonkraftwerk-im-test-bluetti-balco-260-laedt-auch-per-ac/kwznv95?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "enterJS: Call for Proposals 2027 und letzter Aufruf für KI-Online-Thementag 2026",
+      "teaser": "Der Call for Proposals für die enterJS 2027 ist eröffnet und läuft bis zum 3. November. Nächsten Donnerstag findet der Online-Thementag enterJS Agentic statt.",
+      "url": "https://www.heise.de/news/enterJS-Call-for-Proposals-2027-und-letzter-Aufruf-fuer-KI-Online-Thementag-2026-11456215.html"
+    },
+    {
+      "title": "Belttunnel – Arbeiten laufen nach Cyberangriff wieder an",
+      "teaser": "Zwischen Deutschland und Dänemark wird ein Tunnel gebaut. Nach einem Cyberangriff können nun die Arbeiten am Fehmarnbelt schrittweise wie geplant weitergehen.",
+      "url": "https://www.heise.de/news/Belttunnel-Arbeiten-laufen-nach-Cyberangriff-wieder-an-11491544.html",
+      "image_title": "Die Brücke am Fehmarnsund, mit typischem Spannbogen und Stahlseilen."
     },
     {
       "title": "iX-Workshop: Identitäten in Entra ID mit Conditional Access Policies schützen",
@@ -129,18 +140,6 @@
       "image_title": "Laptop mit Login-Bildschirm und IT-Symbolen, blaue Farben"
     },
     {
-      "title": "Talos Linux: Vom Kubernetes-OS zur Virtualisierungs- und KI-Plattform",
-      "teaser": "Sidero Labs hat auf der TalosCon in Amsterdam den Talos Hypervisor sowie die VMware-Alternative Talos Director fürs Rechenzentrum vorgestellt.",
-      "url": "https://www.heise.de/news/TalosCon-2026-Sidero-Labs-erweitert-Talos-um-Hypervisor-und-Enterprise-Produkte-11490630.html",
-      "image_title": "Steve Francis und Anant Yardi auf der Bühne der TalosCon 2026"
-    },
-    {
-      "title": "Linux-Kernel: Maintainer wollen „Assisted-by“-Tag streichen",
-      "teaser": "Kernel-Maintainer wollen die Kennzeichnung für KI-Patches abschaffen, weil nur wenige sie setzen. Auch Linus Torvalds programmiert inzwischen mit KI.",
-      "url": "https://www.heise.de/news/Linux-Kennzeichnung-von-KI-Code-soll-entfallen-auch-Torvalds-nutzt-LLMs-11490345.html",
-      "image_title": "Ein auf Papier gestempelter runder Stempel mit der Aufschrift Code & AI Certified."
-    },
-    {
       "title": "NewsVerwanzte Wallets: \"Mit Millionenbudget monatelang vorbereitet\"",
       "url": "https://www.heise.de/news/Verwanzte-Wallets-Hersteller-Ledger-sieht-Angriff-auf-die-ganze-Branche-11490092.html",
       "image_title": "4 verschiedene Hardware-Wallets von Ledger"
@@ -151,27 +150,27 @@
       "image_title": "Tesla Roadster mit geöffneten Flügeltüren bei Nacht"
     },
     {
-      "title": "NewsVerwanzte Krypto-Wallets von Ledger: Problem größer als gedacht",
-      "url": "https://www.heise.de/news/Verwanzte-Krypto-Wallets-von-Ledger-Problem-groesser-als-gedacht-11488785.html",
-      "image_title": "Ein Ledger Stick liegt auf einer PC-Tastatur"
-    },
-    {
       "title": "NewsSchaltsekunde abgeschafft: Jetzt kommt die Schaltstunde",
       "url": "https://www.heise.de/news/Nie-mehr-Schaltsekunden-11490060.html",
       "image_title": "Künstlerisch gestaltetes Ziffernblatt mit diversen Markierungen und einem eigenen Ring für die Sternzeichen"
+    },
+    {
+      "title": "NewsVerwanzte Krypto-Wallets von Ledger: Problem größer als gedacht",
+      "url": "https://www.heise.de/news/Verwanzte-Krypto-Wallets-von-Ledger-Problem-groesser-als-gedacht-11488785.html",
+      "image_title": "Ein Ledger Stick liegt auf einer PC-Tastatur"
     },
     {
       "title": "HintergrundVermeintliche Adobe-Alternativen im Test: Was die „Crafting Apps“ leisten",
       "url": "https://www.heise.de/hintergrund/Vermeintliche-Adobe-Alternativen-im-Test-Was-die-Crafting-Apps-leisten-11485961.html"
     },
     {
-      "title": "RatgeberAnythingLLM: Eigene Dokumente mit KI lokal auswerten",
-      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
-    },
-    {
       "title": "RatgeberSechs Mini-PCs im Test: Wer bei KI, Tempo und Verbrauch punktet",
       "url": "https://www.heise.de/ratgeber/Sechs-Mini-PCs-im-Test-Wer-bei-KI-Tempo-und-Verbrauch-punktet-11422377.html",
       "image_title": "Mehrere Mini-PCs und NUCs gestapelt vor blauem Hintergrund"
+    },
+    {
+      "title": "RatgeberAnythingLLM: Eigene Dokumente mit KI lokal auswerten",
+      "url": "https://www.heise.de/ratgeber/AnythingLLM-Eigene-Dokumente-mit-KI-lokal-auswerten-11431828.html"
     },
     {
       "title": "HintergrundSecurity-Analyse: Wie wir den Papier-Passwortmanager eesy geknackt haben",
