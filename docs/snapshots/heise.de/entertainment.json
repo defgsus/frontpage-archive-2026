@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-19T08:09:50",
+  "timestamp": "2026-10-19T15:56:26",
   "url": "https://www.heise.de/newsticker/entertainment/",
   "response": {
     "status": 200
@@ -20,6 +20,17 @@
   ],
   "articles": [
     {
+      "title": "30 Millionen Parameter: Lokalers KI-Sprachmodell für den ESP32",
+      "teaser": "Ein selbst trainiertes Sprachmodell mit 30 Millionen Parametern schafft es auf einem ESP32-S3 einfache Gespräche zu halten -- ganz ohne Internetverbindung.",
+      "url": "https://www.heise.de/news/30-Millionen-Parameter-Lokaler-KI-Sprachmodell-fuer-den-ESP32-11492822.html"
+    },
+    {
+      "title": "Analogue bringt FPGA-Konsolen für SNES- und Mega-Drive-Spiele zurück",
+      "teaser": "Analogue legt seine FPGA-Konsolen für SNES- und Mega-Drive-Module neu auf. Beide Geräte erhalten moderne Anschlüsse und einen frischen Look.",
+      "url": "https://www.heise.de/news/Analogue-bringt-FPGA-Konsolen-fuer-SNES-und-Mega-Drive-Spiele-zurueck-11492541.html",
+      "image_title": "Analogue Super Nt+ mit Chrono-Trigger-Modul, umgeben von weiteren SNES-Modulen wie Final Fight und Mortal Kombat II."
+    },
+    {
       "title": "Wie eine Industriefräse in eine Hobbywerkstatt kam",
       "teaser": "Hier erzähle ich, wie ich mit meinem Bruder eine 2,5 Tonnen schwere Industriefräse in unsere Hobbywerkstatt geholt und auf LinuxCNC umgerüstet habe.",
       "url": "https://www.heise.de/ratgeber/Wie-eine-Industriefraese-in-eine-Hobbywerkstatt-kam-11485579.html",
@@ -29,17 +40,6 @@
       "title": "„Valor Mortis“ im Test: Napoleonisches Soulslike aus der Ego-Perspektive",
       "teaser": "Ein Soulslike aus der Ego-Perspektive mit Napoleons Zombie-Truppen: „Valor Mortis“ wagt viel, verkauft sich aber schlecht.",
       "url": "https://www.heise.de/tests/Valor-Mortis-im-Test-Napoleonisches-Soulslike-aus-der-Ego-Perspektive-11491859.html"
-    },
-    {
-      "title": "Gettys Restrukturierung und imposantes Wildlife – Fotonews der Woche 42/2026",
-      "teaser": "Zwischen Gettys finanzieller Neuaufstellung, Canons Fingerabdruck-Idee und preisgekrönter Wildlife-Fotografie zeigt sich, wie vielfältig Fotografie ist.",
-      "url": "https://www.heise.de/news/Gettys-Restrukturierung-und-imposantes-Wildlife-Fotonews-der-Woche-42-2026-11490974.html"
-    },
-    {
-      "title": "Ein Film wie eine Arschbombe„Street Fighter“ im Kino: Achterbahnfahrt ins Nirgendwo",
-      "teaser": "Der neue „Street Fighter“-Film ist richtig dumm. Offenbar wissen das auch alle Beteiligten – vielleicht kein großes Kino, aber großer Spaß.",
-      "url": "https://www.heise.de/tests/Street-Fighter-im-Test-Erfolg-dank-Achselschweiss-11490670.html",
-      "image_title": "Szene aus „Street Fighter“"
     },
     {
       "title": "RatgeberWie eine Industriefräse in eine Hobbywerkstatt kam",
@@ -55,9 +55,25 @@
       "url": "https://www.heise.de/tests/Moehre-Kohl-und-Sellerie-bricht-The-Furious-im-4K-Heimkinotest-11440744.html"
     },
     {
+      "title": "Doogee U14 im Test: Riesiges 14-Zoll-Tablet für winzige 269 Euro",
+      "teaser": "Ein 14-Zoll-Tablet weit unter 300 Euro sieht man selten. Hinzu kommt noch eine hochwertige Verarbeitung. Doch gibt es einen Haken?",
+      "url": "https://www.heise.de/bestenlisten/testbericht/doogee-u14-im-test-riesiges-14-zoll-tablet-fuer-winzige-269-euro/ryhr19z?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
       "title": "Ulefone Armor Pad 5 Ultra im Test: monströses Outdoor-Tablet mit DLP-Beamer",
       "teaser": "Das Ulefone Armor Pad 5 Ultra ist DAS Outdoor-Tablet. Camping-Licht, DLP-Beamer, ein massiver Akku und mehr machen es zum Allround-Talent für unterwegs.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ulefone-armor-pad-5-ultra-im-test-monstroeses-outdoor-tablet-mit-dlp-beamer/be4grqb?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Gettys Restrukturierung und imposantes Wildlife – Fotonews der Woche 42/2026",
+      "teaser": "Zwischen Gettys finanzieller Neuaufstellung, Canons Fingerabdruck-Idee und preisgekrönter Wildlife-Fotografie zeigt sich, wie vielfältig Fotografie ist.",
+      "url": "https://www.heise.de/news/Gettys-Restrukturierung-und-imposantes-Wildlife-Fotonews-der-Woche-42-2026-11490974.html"
+    },
+    {
+      "title": "„Street Fighter“ im Kino: Eine Achterbahnfahrt ins Nirgendwo",
+      "teaser": "Der neue „Street Fighter“-Film ist richtig dumm. Offenbar wissen das auch alle Beteiligten. So entsteht vielleicht kein großes Kino, aber ein großer Spaß.",
+      "url": "https://www.heise.de/tests/Street-Fighter-im-Test-Erfolg-dank-Achselschweiss-11490670.html",
+      "image_title": "Szene aus „Street Fighter“"
     },
     {
       "title": "Schwarz-Weiß konsequent: Die Bilder der Woche 42",
@@ -122,23 +138,6 @@
       "teaser": "Sega nimmt die Complete Edition von „Total War: Shogun 2“ nach Kritik vorerst aus dem Verkauf. Das Original von 2011 kehrt derweil zurück.",
       "url": "https://www.heise.de/news/Total-War-Shogun-2-Sega-nimmt-Remaster-nach-zwei-Tagen-aus-dem-Verkauf-11490249.html",
       "image_title": "Screenshot aus „Total War: Shogun 2 Complete Edition“"
-    },
-    {
-      "title": "TV-Staffel gelöscht, kein Backup: Schwedischer Sender bestreitet Schuld von KI",
-      "teaser": "Die nächste Staffel von „The Challenge Sverige“ verspätet sich, die geschnittene Fassung wurde gelöscht. Schuld sei keine KI, wohl aber ein defektes Backup.",
-      "url": "https://www.heise.de/news/TV-Staffel-geloescht-kein-Backup-Schwedischer-Sender-bestreitet-Schuld-von-KI-11490175.html",
-      "image_title": "Eine Videokamera wird von einer Hand gehalten."
-    },
-    {
-      "title": "Top 10: Der beste Bluetooth-Lautsprecher",
-      "teaser": "Bluetooth-Lautsprecher sind ideal für Garten, Balkon, kleine Zimmer und unterwegs. Wir zeigen die besten aus über 40 Tests.",
-      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-bluetooth-lautsprecher-preis-leistungs-sieger-nur-40-euro/9t2vjzx?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "„Drova 2“: Der Magdeburger Indie-Hit bekommt einen Nachfolger",
-      "teaser": "Das Magdeburger Indie-Team Just2D kündigt „Drova 2“ an. Der Nachfolger des ruppigen Rollenspiel-Hits soll vor allem besser werden, nicht unbedingt größer.",
-      "url": "https://www.heise.de/news/Drova-2-Der-Magdeburger-Indie-Hit-bekommt-einen-Nachfolger-11489822.html",
-      "image_title": "Eine Person mit Speer steht auf einer Klippe mit Blick auf eine Landschaft mit Bergen und Fluss"
     },
     {
       "title": "NewsVerwanzte Wallets: \"Mit Millionenbudget monatelang vorbereitet\"",
