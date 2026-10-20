@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-20T18:20:49",
+  "timestamp": "2026-10-20T21:58:09",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Neue Instrumente für Firmen: Microsoft verspricht mehr Cloud-Souveränität",
+      "teaser": "Mit erweiterten Kontrollwerkzeugen und lokalen Umgebungen will Microsoft regulatorische Bedenken zerstreuen. Doch Experten bleiben wegen US-Gesetzen skeptisch.",
+      "url": "https://www.heise.de/news/Neue-Instrumente-fuer-Firmen-Microsoft-verspricht-mehr-Cloud-Souveraenitaet-11494812.html",
+      "image_title": "Ein Mensch hält ein Smartphone mit Logo und im Hintergrund steht ein Laptop."
+    },
+    {
+      "title": "Digital-Health-Podcast: Von Cyberrisiken bei Krankenhäusern und Medizinprodukten",
+      "teaser": "Offene Netze, fehlendes Personal, schnellere Angriffe: Martin Tettke erklärt im Podcast, wo Gesundheitseinrichtungen bei der IT-Sicherheit nachbessern müssen.",
+      "url": "https://www.heise.de/news/Digital-Health-Podcast-Von-Cyberrisiken-bei-Krankenhaeusern-und-Medizinprodukten-11479196.html",
+      "image_title": "Notaufnahme"
+    },
+    {
       "title": "Umfrage: Deutschlands Unternehmen würden 16 Monate ohne Digitalimporte überleben",
       "teaser": "Digitale Souveränität ist ein Schlagwort, das im Alltag deutscher Firmen wohl nur bedingt Widerhall findet. Eine aktuelle Umfrage zeigt die Abhängigkeiten.",
       "url": "https://www.heise.de/news/Umfrage-Deutschlands-Unternehmen-wuerden-16-Monate-ohne-Digitalimporte-ueberleben-11494720.html",
@@ -30,18 +42,6 @@
       "teaser": "Ein Familienvater aus Frankfurt will, dass das Grundstück seines Wohnhauses nicht bei Google Earth oder Google Maps zu sehen ist – und klagt.",
       "url": "https://www.heise.de/news/Gericht-untersagt-Luftbildaufnahmen-bei-Google-Maps-11494524.html",
       "image_title": "Screenshot einer Ansicht der Frankfurter Innenstadt auf Google Maps."
-    },
-    {
-      "title": "CA-Zertifikate gesperrt: Sicherheitsvorfall bei Zertifizierungsstelle eMudhra",
-      "teaser": "Die privaten Schlüssel waren trivial einfach zu raten; einer lautete „4“. Mit ihnen konnten Angreifer gültige TLS-Zertifikate für beliebige Domains ausstellen.",
-      "url": "https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
-    },
-    {
-      "title": "UpdateStromausfallGoogle-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm",
-      "teaser": "Ein Ausfall der Google Cloud zwing zahlreiche Unternehmen seit Stunden in die Knie. Unter anderem sind Revolut und DPD betroffen.",
-      "url": "https://www.heise.de/news/Google-Cloud-Ausfall-legt-Revolut-und-weitere-Unternehmen-lahm-11494278.html",
-      "image_title": "Gebäude von Google Cloud"
     },
     {
       "title": "HintergrundFlash-Talk: erste Weltraum-Rechenzentren und neue Controller-Konzepte",
@@ -57,9 +57,21 @@
       "url": "https://www.heise.de/hintergrund/Pruefleistungen-fuer-die-IT-Sicherheit-Was-zu-einem-Penetrationstest-gehoert-11490545.html"
     },
     {
+      "title": "CA-Zertifikate gesperrt: Sicherheitsvorfall bei Zertifizierungsstelle eMudhra",
+      "teaser": "Die privaten Schlüssel waren trivial einfach zu raten; einer lautete „4“. Mit ihnen konnten Angreifer gültige TLS-Zertifikate für beliebige Domains ausstellen.",
+      "url": "https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
       "title": "AC-Speicher fürs Balkonkraftwerk: Marstek Venus E Mini überzeugt im Test",
       "teaser": "Der kompakte AC-Speicher ergänzt bestehende Balkonkraftwerke ohne Umbau. Im Test überzeugt das Konzept mit guter Regelung und starkem Backup-Ausgang.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ac-speicher-fuers-balkonkraftwerk-marstek-venus-e-mini-ueberzeugt-im-test/q4rg5dy?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "UpdateGoogle-Cloud-Ausfall legt Revolut und weitere Unternehmen lahm",
+      "teaser": "Ein massiver Ausfall der Google Cloud zwingt zahlreiche Unternehmen seit Stunden in die Knie. Unter anderem sind Revolut und offenbar DPD betroffen.",
+      "url": "https://www.heise.de/news/Google-Cloud-Ausfall-legt-Revolut-und-weitere-Unternehmen-lahm-11494278.html",
+      "image_title": "Gebäude von Google Cloud"
     },
     {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
@@ -130,18 +142,6 @@
       "teaser": "Ein Blogpost, der postulierte, Attestation mache Passkeys zur Falle, ging kürzlich viral. Wie Attestation bei Passkeys wirklich funktioniert.",
       "url": "https://www.heise.de/hintergrund/Warum-Passkeys-keine-Falle-sind-Passkey-Attestation-kurz-erklaert-11485823.html",
       "image_title": "Sechs Schlüssel mit bunten Anhängern hängen an einer Holzwand."
-    },
-    {
-      "title": "ISO/IEC 27090 soll KI-Systeme sicher machen",
-      "teaser": "Nach vier Jahren liegt die Norm ISO/IEC 27090 vor. Der Leitfaden beschreibt KI-spezifische Angriffe samt Gegenmaßnahmen und ergänzt ISO 27001.",
-      "url": "https://www.heise.de/news/ISO-IEC-27090-soll-KI-Systeme-sicher-machen-11492332.html",
-      "image_title": "Finger zeigt auf ein rundes, leuchtendes Schriftfeld mit der Aufschrift ISO"
-    },
-    {
-      "title": "KI-Markt im Wandel: Unternehmen wechseln Modelle immer häufiger",
-      "teaser": "Laut Vercels AI Gateway Index verarbeiten Open-Weight-Modelle mittlerweile über 70 Prozent aller Token. Die Wechselbereitschaft steigt.",
-      "url": "https://www.heise.de/news/Vercel-Index-Open-Weight-Modellnutzung-erstmalig-ueber-70-Prozent-11488361.html",
-      "image_title": "Eine Hand hält ein Smartphone mit dem DeepSeek-Logo vor rotem Hintergrund mit gelben Sternen der chinesischen Flagge."
     },
     {
       "title": "NewsJetzt rumst es im PC-Markt",
