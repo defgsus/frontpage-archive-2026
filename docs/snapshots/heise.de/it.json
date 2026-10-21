@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T15:41:49",
+  "timestamp": "2026-10-21T19:43:27",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,28 +20,27 @@
   ],
   "articles": [
     {
+      "title": "EU plant arktisches Datenkabel",
+      "teaser": "Mit einem Datenkabelzentrum für die Arktis und einer Direktanbindung Grönlands möchte die EU-Kommission digitale Souveränität stärken und Seeleitungen schützen.",
+      "url": "https://www.heise.de/news/EU-plant-arktisches-Datenkabel-11496212.html",
+      "image_title": "Ein Schild steht auf Holzbeinen im Wasser; es verbietet ankern weil dort ein \"underwater cable\" verläuft; im Hintergrund grüne Inseln"
+    },
+    {
+      "title": "Offene Fragen nach dem AfD-Leak",
+      "teaser": "Nach dem Hacker-Angriff versucht die AfD, die Bedeutung des Falls herunterzuspielen. Offen bleibt, ob der Datenabfluss den Datenschützern gemeldet wurde.",
+      "url": "https://www.heise.de/news/Offene-Fragen-nach-dem-AfD-Leak-11496176.html",
+      "image_title": "Mehrere kleine Ansteck-Buttons der Partei AfD liegen auf einem Haufen."
+    },
+    {
+      "title": "AlertNode.js-Update bessert hochriskante Lücken aus",
+      "teaser": "Neue Versionen für Node.js 22.x, 24.x und 26.x fixen hochriskante Sicherheitslücken und schützen vor kompromittierten Zertifikaten von eMudhra.",
+      "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html"
+    },
+    {
       "title": "OpenBSD 8.0RTR-Cache-Server, Multi-CPU-Gäste und ein CoW-Dateisystem in Sicht",
       "teaser": "OpenBSD 8.0 bringt einen RPKI-RTR-Cache-Server, Gäste mit bis zu 64 vCPUs und mit GEFS ein schlankes CoW-Dateisystem – bislang aber nur als Prototyp.",
       "url": "https://www.heise.de/news/OpenBSD-8-0-RTR-Cache-Server-Multi-CPU-Gaeste-und-ein-CoW-Dateisystem-in-Sicht-11495940.html",
       "image_title": "Eine gezeichnete Kreatur mit Stacheln schreibt Text an eine Tafel in einem Klassenzimmer"
-    },
-    {
-      "title": "VirtualisierungMultipass mit Debian, Fedora im Image-Katalog",
-      "teaser": "Canonical hat Multipass 1.17 veröffentlicht. Der VM-Manager unterstützt nun Debian- und Fedora-Cloud-Images direkt neben Ubuntu.",
-      "url": "https://www.heise.de/news/Multipass-Debian-und-Fedora-als-Cloud-Images-im-Image-Katalog-11495926.html",
-      "image_title": "Tanzende Tux-Pinguine unter einer Discokugel"
-    },
-    {
-      "title": "AlertLieferkettenangriff auf Backup-Dienst trifft Hunderte M365-Tenants",
-      "teaser": "Nutzer des Cloud Backups von ConnectWise müssen dringend ihre Systeme prüfen, da Angreifer diese möglicherweise bereits kompromittiert haben.",
-      "url": "https://www.heise.de/news/Angriffe-via-ConnectWise-Cloud-Backup-11495835.html",
-      "image_title": "Ein Warnsymbol in Form eines Dreiecks mit einem Ausrufezeichen"
-    },
-    {
-      "title": "Alertphp2shell-SicherheitslecksKritische Lücken erlauben Codeeinschleusung in PHP",
-      "teaser": "Zwei Fehler machen Webserver mit PHP aus dem Netz angreifbar. Betroffen: Versionen der letzten 20 Jahre. Admins müssen dringend patchen.",
-      "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
-      "image_title": "php2shell-Ausgabebildschirm"
     },
     {
       "title": "HintergrundBrauchen Datenarchitekturen für KI-Agenten einen föderierten Knowledge Layer?",
@@ -56,6 +55,29 @@
       "title": "RatgeberDatensparsame DVB-T2-Alternative: TV-Streaming mit Raspberry Pi und LibreELEC",
       "url": "https://www.heise.de/ratgeber/Datensparsame-DVB-T2-Alternative-TV-Streaming-mit-Raspberry-Pi-und-LibreELEC-11455442.html",
       "image_title": "Ein Mensch sitzt vor einem Fernseher mit Kodi-Logo und hält eine Fernbedienung"
+    },
+    {
+      "title": "Höhenverstellbarer Vernal-Schreibtisch im Test: Chefschreibtisch mit Sichtschutz",
+      "teaser": "Der höhenverstellbare Schreibtisch von Vernal macht mit Seitenwangen, Holzblende und Walnussdekor aus einem Sitz-Steh-Tisch einen Chefschreibtisch.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/hoehenverstellbarer-vernal-schreibtisch-im-test-chefschreibtisch-mit-sichtschutz/d8tnzed?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Virtualisierung: Multipass mit Debian, Fedora im Image-Katalog",
+      "teaser": "Canonical hat Multipass 1.17 veröffentlicht. Der VM-Manager unterstützt nun Debian- und Fedora-Cloud-Images direkt neben Ubuntu.",
+      "url": "https://www.heise.de/news/Multipass-Debian-und-Fedora-als-Cloud-Images-im-Image-Katalog-11495926.html",
+      "image_title": "Tanzende Tux-Pinguine unter einer Discokugel"
+    },
+    {
+      "title": "AlertLieferkettenangriff auf Backup-Dienst trifft Hunderte M365-Tenants",
+      "teaser": "Nutzer des Cloud Backups von ConnectWise müssen dringend ihre Systeme prüfen, da Angreifer diese möglicherweise bereits kompromittiert haben.",
+      "url": "https://www.heise.de/news/Angriffe-via-ConnectWise-Cloud-Backup-11495835.html",
+      "image_title": "Ein Warnsymbol in Form eines Dreiecks mit einem Ausrufezeichen"
+    },
+    {
+      "title": "Alertphp2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP",
+      "teaser": "Zwei Fehler machen Webserver mit PHP aus dem Netz angreifbar. Betroffen: Versionen der letzten 20 Jahre, Admins sollten patchen.",
+      "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
+      "image_title": "php2shell-Ausgabebildschirm"
     },
     {
       "title": "5320 Mal verschoben: Was Event-Sourcing rückwirkend möglich macht",
@@ -121,29 +143,6 @@
       "title": "heise security Webinar: So verteidigt man sich gegen angreifende KI-Agenten",
       "teaser": "Autonome KI-Angriffe sind bald das neue Normal. Erfahren Sie im heise security Webinar, wie Sie Ihre IT gezielt schützen und sich effektiv verteidigen.",
       "url": "https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11492796.html"
-    },
-    {
-      "title": "AlertOracle-Patchday mit 1295 Sicherheitspatches",
-      "teaser": "Oracle begeht seinen CPU-Patchday im Oktober und verteilt dabei 1295 Sicherheitspatches für diverse Produkten.",
-      "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
-      "image_title": "Reihen von Serverracks in einem beleuchteten Rechenzentrum"
-    },
-    {
-      "title": "Dieser Schreibtisch vibriert, wenn du aufstehen sollst: Desktopia Pro X im Test",
-      "teaser": "Der höhenverstellbare Schreibtisch Ergotopia Desktopia Pro X trägt im Test 160 kg, merkt sich neun Höhen und erinnert per Vibration ans Aufstehen.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/dieser-schreibtisch-vibriert-wenn-du-aufstehen-sollst-desktopia-pro-x-im-test/ypqhgke?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "AlertWichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
-      "teaser": "Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.",
-      "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
-    },
-    {
-      "title": "iX-Workshop: GitOps mit ArgoCD – Kubernetes-Deployments effizient automatisieren",
-      "teaser": "Lernen Sie, wie Sie Anwendungen in Kubernetes mit ArgoCD deklarativ verwalten und automatisiert bereitstellen.",
-      "url": "https://www.heise.de/news/iX-Workshop-GitOps-mit-ArgoCD-Kubernetes-Deployments-effizient-automatisieren-11347646.html",
-      "image_title": "Orangefarbener Oktopus mit großen Augen und Kopf unter einer Glaskuppel im Wasser schwimmend, links ein gelber Kreis mit weißer Schrift: \"iX-Workshops\""
     },
     {
       "title": "UpdateNewsIng-Bank: Kunden hatten stundenlang keinen Zugriff auf ihre Konten",
