@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T00:20:43",
+  "timestamp": "2026-10-21T05:27:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,15 +20,16 @@
   ],
   "articles": [
     {
+      "title": "CA-Zertifikate gesperrtSicherheitsvorfall bei Zertifizierungsstelle eMudhra",
+      "teaser": "Private Schlüssel waren einfach zu raten; einer lautete „4“. Angreifer konnten TLS-Zertifikate für beliebige Domains ausstellen.",
+      "url": "https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html",
+      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
+    },
+    {
       "title": "AlertWerbeblockerPi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
       "teaser": "Der Werbeblocker Pi-hole bessert mit einem Update zahlreiche Schwachstellen aus. Nutzer sollten es rasch anwenden.",
       "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
       "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "Diesen Mittwoch – jetzt noch buchenKI für Verteidiger – Hype vs. Nutzen für die Praxis",
-      "teaser": "Wo kann KI den Verteidigern wirklich helfen? Grundsätzlich, konzeptionell und dann ganz konkret in der Praxis – dieses Webinar klärt auf, berät und empfiehlt.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-KI-fuer-Verteidiger-Hype-vs-Nutzen-fuer-die-Praxis-11485713.html"
     },
     {
       "title": "AlertWerbeblockerPi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
@@ -56,12 +57,6 @@
       "teaser": "Offene Netze, fehlendes Personal, schnellere Angriffe: Martin Tettke erklärt im Podcast, wo Gesundheitseinrichtungen bei der IT-Sicherheit nachbessern müssen.",
       "url": "https://www.heise.de/news/Digital-Health-Podcast-Von-Cyberrisiken-bei-Krankenhaeusern-und-Medizinprodukten-11479196.html",
       "image_title": "Notaufnahme"
-    },
-    {
-      "title": "CA-Zertifikate gesperrt: Sicherheitsvorfall bei Zertifizierungsstelle eMudhra",
-      "teaser": "Die privaten Schlüssel waren trivial einfach zu raten; einer lautete „4“. Mit ihnen konnten Angreifer gültige TLS-Zertifikate für beliebige Domains ausstellen.",
-      "url": "https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html",
-      "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
       "title": "USA verbannen DeepSeek aus allen zivilen Bundesbehörden",
@@ -98,6 +93,11 @@
       "teaser": "Das österreichische Unternehmen Loxone meldet einen IT-Vorfall. Die Täter haben Daten kopiert. Kundensysteme seien nicht betroffen.",
       "url": "https://www.heise.de/news/Loxone-Cyberangriff-auf-Gebaeudeautomatisierungsanbieter-11492872.html",
       "image_title": "Hand auf dem Trackpad einer Laptop-Tastatur"
+    },
+    {
+      "title": "heise security Webinar: KI für Verteidiger – Hype vs. Nutzen für die Praxis",
+      "teaser": "Wo kann KI den Verteidigern wirklich helfen? Grundsätzlich, konzeptionell und dann ganz konkret in der Praxis – dieses Webinar klärt auf, berät und empfiehlt.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-KI-fuer-Verteidiger-Hype-vs-Nutzen-fuer-die-Praxis-11485713.html"
     },
     {
       "title": "Russischer Satellit nähert sich ungebührlich westlichem Radarsatelliten",
@@ -177,8 +177,8 @@
       "url": "https://www.heise.de/news/Verwanzte-Krypto-Wallets-von-Ledger-Problem-groesser-als-gedacht-11488785.html"
     },
     {
-      "title": "Auffallende Nähe zu Attacken auf russische Rechenzentren",
-      "url": "https://www.heise.de/news/Stoerung-bei-Kaspersky-Auffallende-Naehe-zu-Attacken-auf-russische-Rechenzentren-11485507.html"
+      "title": "Chinesischer Spionagesatellit verfolgt Inmarsat-Satelliten",
+      "url": "https://www.heise.de/news/Chinesischer-Spionagesatellit-verfolgt-Inmarsat-Satelliten-im-All-11489808.html"
     },
     {
       "title": "Wie wir den Papier-Passwortmanager eesy geknackt haben",
@@ -186,14 +186,14 @@
       "image_title": "Ein offenes Notizbuch mit herausschauenden Registerreitern."
     },
     {
-      "title": "All Systems Go!: Wie Systemd Image-basierte Linux-Systeme vorantreibt",
-      "url": "https://www.heise.de/hintergrund/All-Systems-Go-Wie-Systemd-Image-basierte-Linux-Systeme-vorantreibt-11482750.html",
+      "title": "Warum Passkeys keine Falle sind: Passkey-Attestation kurz erklärt",
+      "url": "https://www.heise.de/hintergrund/Warum-Passkeys-keine-Falle-sind-Passkey-Attestation-kurz-erklaert-11485823.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
     {
-      "title": "Was wirklich hinter dem KI-Eigenleben steckt",
-      "url": "https://www.heise.de/hintergrund/Analyse-zu-KI-Hacks-und-Agenten-Chaos-Was-wirklich-hinter-dem-KI-Eigenleben-steckt-11455264.html",
+      "title": "All Systems Go!: Wie Systemd Image-basierte Linux-Systeme vorantreibt",
+      "url": "https://www.heise.de/hintergrund/All-Systems-Go-Wie-Systemd-Image-basierte-Linux-Systeme-vorantreibt-11482750.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },

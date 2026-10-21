@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T00:20:48",
+  "timestamp": "2026-10-21T05:27:41",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "FAZ+Steigende Bauzinsen: So müssen Hauskäufer jetzt rechnen",
+      "teaser": "Die Bauzinsen sind so hoch wie lange nicht. Was das für die monatliche Kreditrate bedeutet.",
+      "url": "https://www.faz.net/aktuell/finanzen/bauzinsen-so-hoch-wie-seit-2011-nicht-so-muessen-hauskaeufer-jetzt-rechnen-accg-201316725.html"
+    },
+    {
       "title": "Schwacher Börsengang: Hohe Kursverluste in Korea schwächen Vertrauen in KI-Boom",
       "teaser": "Der schwache Börsengang eines kleinen Unternehmens in Seoul bringt die Aktien von SK Hynix und ASML in Europa auf Talfahrt. Die bekannte Fondsmanagerin Cathy Wood kauft den Wochenverlierer Coreweave.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/sk-hynix-unter-druck-elices-schwacher-boersengang-erschuettert-ki-aktien-201604715.html"
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/sk-hynix-unter-druck-elices-schwacher-boersengang-erschuettert-ki-aktien-201604715.html",
+      "image_url": "https://media0.faz.net/image/w1200/0584f7fd1430/w4000h2250x0y58/202610/3de3e1d3-712f-46d3-a66e-ed5a7a8c0d12/eine-fabrikanlage-von-sk-hynix.webp",
+      "image_title": "Eine Fabrikanlage von SK Hynix in Südkorea."
     },
     {
       "title": "ING und Revolut: IT-Störungen nerven Bankkunden",
@@ -72,7 +79,7 @@
       "title": "Steueroptimierung: Auch eine GmbH zur Aktienanlage hat Kosten",
       "teaser": "Der Wunsch, schnell reich zu werden, ist so alt wie die Menschheit – die guten Tipps dafür auch. Für Geldanlage braucht es Menschenverstand.",
       "url": "https://www.faz.net/aktuell/finanzen/altersvorsorgedepot-2027-warum-rendite-nie-zum-nulltarif-kommt-201601852.html",
-      "image_url": "https://media0.faz.net/image/w1200/b3f342db237b/w5000h2812x0y260/202609/43601.0.2604413272/bulle-und-baer-stehen-vor-der.webp",
+      "image_url": "https://media0.faz.net/image/w1100/b3f342db237b/w5000h2812x0y260/202609/43601.0.2604413272/bulle-und-baer-stehen-vor-der.webp",
       "image_title": "Bulle und Bär stehen vor der Frankfurter Börse."
     },
     {
@@ -88,13 +95,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/vonovia-aktie-auf-rekordtief-berliner-enteignungsplaene-belasten-accg-201601764.html",
       "image_url": "https://media0.faz.net/image/w1100/4923d1e31b63/w3000h1687x0y222/202306/43600.0.1892173345/in-berlin-gibt-es-immer-wieder.webp",
       "image_title": "In Berlin gibt es immer wieder Proteste gegen angebliche Spekulation mit Wohneigentum"
-    },
-    {
-      "title": "gefördertes Depot: Vermögensbildung schon für Babys",
-      "teaser": "Österreichs Regierung plant ein steuerfreies Zukunftsdepot für den Nachwuchs des Landes. Ein staatliches Startguthaben soll Sparbücher verdrängen.",
-      "url": "https://www.faz.net/aktuell/finanzen/zukunftsdepot-oesterreich-plant-steuerfreies-depot-fuer-kinder-accg-201598145.html",
-      "image_url": "https://media0.faz.net/image/w1100/b50041af0f84/w5940h3341x0y297/202608/43601.0.2465266490/oesterreicher-sollen-kuenftig.webp",
-      "image_title": "Österreicher sollen künftig für ihren Nachwuchs eine staatlich geförderte Vorsorge betreiben."
     },
     {
       "title": "Altersvorsorgedepot: Die Gratis-Masche von Trade Republic",
@@ -167,18 +167,18 @@
       "image_title": "Klaus Max Smolka"
     },
     {
+      "title": "gefördertes Depot: Vermögensbildung schon für Babys",
+      "teaser": "Österreichs Regierung plant ein steuerfreies Zukunftsdepot für den Nachwuchs des Landes. Ein staatliches Startguthaben soll Sparbücher verdrängen.",
+      "url": "https://www.faz.net/aktuell/finanzen/zukunftsdepot-oesterreich-plant-steuerfreies-depot-fuer-kinder-accg-201598145.html",
+      "image_url": "https://media0.faz.net/image/w880/b50041af0f84/w5940h3341x0y297/202608/43601.0.2465266490/oesterreicher-sollen-kuenftig.webp",
+      "image_title": "Österreicher sollen künftig für ihren Nachwuchs eine staatlich geförderte Vorsorge betreiben."
+    },
+    {
       "title": "FAZ+Vor der Steuerreform: Schnell noch Geld sparen",
       "teaser": "Bald kommt die Steuerreform. Wer clever ist, bereitet sich jetzt schon vor. Wir geben Ihnen sieben Tipps.",
       "url": "https://www.faz.net/aktuell/finanzen/steuerreform-2026-sieben-tipps-wie-sie-jetzt-noch-geld-sparen-accg-201340787.html",
       "image_url": "https://media0.faz.net/image/w880/05b37629adc5/w6000h3375x0y281/202610/43601.0.2699494381/ran-ans-werk-rechnungen-fuer.webp",
       "image_title": "Ran ans Werk: Rechnungen für Handwerkerleistungen werden in diesem Jahr noch begünstigt."
-    },
-    {
-      "title": "FAZ+Urheberrecht: Fremde Bilder richtig nutzen",
-      "teaser": "Wer im Internet Fotos verwendet, braucht die richtige Lizenz. So vermeiden Sie eine Abmahnung.",
-      "url": "https://www.faz.net/aktuell/finanzen/das-gibt-es-beim-kauf-von-fotos-zu-beachten-accg-201312859.html",
-      "image_url": "https://media0.faz.net/image/w880/e5420387a914/w6016h3384x0y395/202610/4312c27e70-c8b2-11f1-bc34-447a7c27142d/auf-eigenen-plattformen-im.webp",
-      "image_title": "Auf eigenen Plattformen im Internet können Nutzer Fotos kaufen."
     },
     {
       "title": "FAZ+Abfindungsprogramme: Unter den Managern geht die Angst um",
