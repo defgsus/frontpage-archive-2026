@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T05:27:37",
+  "timestamp": "2026-10-21T10:43:10",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,28 +20,30 @@
   ],
   "articles": [
     {
-      "title": "MCP für Android-Apps: Android AppFunctions im praktischen Einsatz",
-      "teaser": "Die Android-Plattform-API AppFunctions ermöglicht es Apps, ihre Funktionen und Daten so bereitzustellen, dass KI-Agenten diese finden und nutzen können.",
-      "url": "https://www.heise.de/ratgeber/MCP-fuer-Android-Apps-Android-AppFunctions-im-praktischen-Einsatz-11493658.html",
-      "image_title": ","
+      "title": "Umfrage: Acht von zehn Jugendlichen kennen Social-Media-Süchtige",
+      "teaser": "Umfragen zufolge nutzen viele Kinder und Jugendliche soziale Medien in riskantem oder krankhaftem Ausmaß. Auch Jugendliche selbst beobachten das bei Bekannten.",
+      "url": "https://www.heise.de/news/Viele-Jugendliche-sehen-Social-Media-Sucht-im-Umfeld-11495334.html",
+      "image_title": "Jugendliche mit Smartphones"
     },
     {
-      "title": "Datensparsame DVB-T2-Alternative: TV-Streaming mit Raspberry Pi und LibreELEC",
-      "teaser": "Mit LibreELEC und wenigen Handgriffen wird ein Raspberry Pi zum datensparsamen Ersatz für einen DVB-T2-Receiver – inklusive Timeshift und Programmführer.",
-      "url": "https://www.heise.de/ratgeber/Datensparsame-DVB-T2-Alternative-TV-Streaming-mit-Raspberry-Pi-und-LibreELEC-11455442.html",
-      "image_title": "Ein Mensch sitzt vor einem Fernseher mit Kodi-Logo und hält eine Fernbedienung"
+      "title": "Brauchen Datenarchitekturen für KI-Agenten einen föderierten Knowledge Layer?",
+      "teaser": "Autonome KI-Agenten scheitern oft an semantischen Lücken. Ein föderierter Knowledge Layer soll als semantisches Fundament die nötige Klarheit schaffen.",
+      "url": "https://www.heise.de/hintergrund/Brauchen-Datenarchitekturen-fuer-KI-Agenten-einen-foederierten-Knowledge-Layer-11493816.html"
     },
     {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Datentypen, Zahlenformate und CPU-Leistung",
-      "teaser": "Wie digitale Zahlenformate die Rechenleistung von Prozessoren und KI-Beschleunigern beeinflussen, bespricht Folge 2026/21 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Datentypen-Zahlenformate-und-CPU-Leistung-11476401.html",
-      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
+      "title": "heise security Webinar: So verteidigt man sich gegen angreifende KI-Agenten",
+      "teaser": "Autonome KI-Angriffe sind bald das neue Normal. Erfahren Sie im heise security Webinar, wie Sie Ihre IT gezielt schützen und sich effektiv verteidigen.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11492796.html"
     },
     {
-      "title": "Neue Instrumente für Firmen: Microsoft verspricht mehr Cloud-Souveränität",
-      "teaser": "Mit erweiterten Kontrollwerkzeugen und lokalen Umgebungen will Microsoft regulatorische Bedenken zerstreuen. Doch Experten bleiben wegen US-Gesetzen skeptisch.",
-      "url": "https://www.heise.de/news/Neue-Instrumente-fuer-Firmen-Microsoft-verspricht-mehr-Cloud-Souveraenitaet-11494812.html",
-      "image_title": "Ein Mensch hält ein Smartphone mit Logo und im Hintergrund steht ein Laptop."
+      "title": "AlertOracle-Patchday mit 1295 Sicherheitspatches",
+      "teaser": "Oracle begeht seinen CPU-Patchday im Oktober und verteilt dabei 1295 Sicherheitspatches für diverse Produkten.",
+      "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
+      "image_title": "Reihen von Serverracks in einem beleuchteten Rechenzentrum"
+    },
+    {
+      "title": "HintergrundBrauchen Datenarchitekturen für KI-Agenten einen föderierten Knowledge Layer?",
+      "url": "https://www.heise.de/hintergrund/Brauchen-Datenarchitekturen-fuer-KI-Agenten-einen-foederierten-Knowledge-Layer-11493816.html"
     },
     {
       "title": "RatgeberMCP für Android-Apps: Android AppFunctions im praktischen Einsatz",
@@ -54,8 +56,44 @@
       "image_title": "Ein Mensch sitzt vor einem Fernseher mit Kodi-Logo und hält eine Fernbedienung"
     },
     {
-      "title": "HintergrundFlash-Talk: erste Weltraum-Rechenzentren und neue Controller-Konzepte",
-      "url": "https://www.heise.de/hintergrund/Flash-Talk-erste-Weltraum-Rechenzentren-und-neue-Controller-Konzepte-11456353.html"
+      "title": "Dieser Schreibtisch vibriert, wenn du aufstehen sollst: Desktopia Pro X im Test",
+      "teaser": "Der höhenverstellbare Schreibtisch Ergotopia Desktopia Pro X trägt im Test 160 kg, merkt sich neun Höhen und erinnert per Vibration ans Aufstehen.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/dieser-schreibtisch-vibriert-wenn-du-aufstehen-sollst-desktopia-pro-x-im-test/ypqhgke?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "AlertWichtige PHP-Updates am 21. Oktober beheben Codeeinschleusung-Schwachstellen",
+      "teaser": "Technische Details werden um 16 Uhr folgen, doch die Lage ist ernst: Es droht Codeausführung aus der Ferne. Admins sollten das Risiko abwägen.",
+      "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
+      "title": "iX-Workshop: GitOps mit ArgoCD – Kubernetes-Deployments effizient automatisieren",
+      "teaser": "Lernen Sie, wie Sie Anwendungen in Kubernetes mit ArgoCD deklarativ verwalten und automatisiert bereitstellen.",
+      "url": "https://www.heise.de/news/iX-Workshop-GitOps-mit-ArgoCD-Kubernetes-Deployments-effizient-automatisieren-11347646.html",
+      "image_title": "Orangefarbener Oktopus mit großen Augen und Kopf unter einer Glaskuppel im Wasser schwimmend, links ein gelber Kreis mit weißer Schrift: \"iX-Workshops\""
+    },
+    {
+      "title": "AlertAngriffswarnungen für Plex Media Server, SiteGuard und Siemens Software Center",
+      "teaser": "Angreifer nehmen Schwachstellen in Plex Media Server, SiteGuard Server und Siemens Software Center ins Visier, warnt die CISA.",
+      "url": "https://www.heise.de/news/Angriffswarnungen-fuer-Plex-Media-Server-SiteGuard-und-Siemens-Software-Center-11494994.html",
+      "image_title": "Man,Interacting,With,A,Holographic,Touchscreen,Interface,In,Red,Color."
+    },
+    {
+      "title": "c’t Netzwerke 2026: Heimnetz zukunftssicher planen",
+      "teaser": "Begriffe wie GPON, DSL, Wi-Fi, WLAN, NAS lassen Sie rätseln? Das neue c’t-Sonderheft Netzwerke zeigt, wie Sie Ihr Heimnetz auf Zack bringen.",
+      "url": "https://www.heise.de/news/c-t-Netzwerke-2026-Heimnetz-zukunftssicher-planen-11492561.html"
+    },
+    {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: Datentypen, Zahlenformate und CPU-Leistung",
+      "teaser": "Wie digitale Zahlenformate die Rechenleistung von Prozessoren und KI-Beschleunigern beeinflussen, bespricht Folge 2026/21 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Datentypen-Zahlenformate-und-CPU-Leistung-11476401.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
+    },
+    {
+      "title": "Neue Instrumente für Firmen: Microsoft verspricht mehr Cloud-Souveränität",
+      "teaser": "Mit erweiterten Kontrollwerkzeugen und lokalen Umgebungen will Microsoft regulatorische Bedenken zerstreuen. Doch Experten bleiben wegen US-Gesetzen skeptisch.",
+      "url": "https://www.heise.de/news/Neue-Instrumente-fuer-Firmen-Microsoft-verspricht-mehr-Cloud-Souveraenitaet-11494812.html",
+      "image_title": "Ein Mensch hält ein Smartphone mit Logo und im Hintergrund steht ein Laptop."
     },
     {
       "title": "Digital-Health-Podcast: Von Cyberrisiken bei Krankenhäusern und Medizinprodukten",
@@ -93,58 +131,15 @@
       "image_title": "Gebäude von Google Cloud"
     },
     {
+      "title": "Flash-Talk: erste Weltraum-Rechenzentren und neue Controller-Konzepte",
+      "teaser": "Neue Konzepte sollen mehr Leistung für KI-Rechenzentren bereitstellen. Zugleich treiben die hohe Nachfrage und knappe Fertigungskapazitäten die Speicherpreise.",
+      "url": "https://www.heise.de/hintergrund/Flash-Talk-erste-Weltraum-Rechenzentren-und-neue-Controller-Konzepte-11456353.html"
+    },
+    {
       "title": "iX-Workshop IT-Grundschutz-Praktiker mit Zertifikat",
       "teaser": "Erhalten Sie einen umfassenden Einblick in die Praxis der IT-Grundschutz-Methodik des BSI. Mit anschließender Prüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Grundschutz-Praktiker-mit-Zertifikat-11476215.html",
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
-    },
-    {
-      "title": "Was Linux 7.3 bei Grafikspeicher, Scheduling und Dateisystemen verbessert",
-      "teaser": "Linux-Kernel 7.3 steigert die Leistung bei Scheduling, Grafik und Dateisystemen. Unterstützung für Apple Time Machine inklusive.",
-      "url": "https://www.heise.de/news/Linux-7-3-verbessert-Dateisysteme-und-Scheduling-11494072.html",
-      "image_title": "Ein Pinguin blickt vor einer Wasserfläche nach rechts."
-    },
-    {
-      "title": "„Pro and Tell“: Apple-„Experience“ mit neuen Macs hat einen Namen",
-      "teaser": "Das Einladungsschreiben zu Apples Mac-Veranstaltung Ende des Monats liegt vor. Was es uns bereits verrät.",
-      "url": "https://www.heise.de/news/Pro-and-Tell-Apple-Experience-mit-neuen-Macs-hat-einen-Namen-11493916.html",
-      "image_title": "Einladungs-Logo für die Apple-„Experience“"
-    },
-    {
-      "title": "AlertWerbeblocker Pi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
-      "teaser": "Der Werbeblocker Pi-hole bessert mit einem Update zahlreiche Schwachstellen aus. Nutzerinnen und Nutzer sollten es rasch anwenden.",
-      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
-      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "Everpure, aka Pure Storage: Von Storage zur Datenintelligenz",
-      "teaser": "Mit neuen Funktionen für Datenklassifizierung und KI-Agenten baut Everpure seine Storage-Plattform aus. Dahinter steht ein strategischer Kurswechsel.",
-      "url": "https://www.heise.de/news/Everpure-aka-Pure-Storage-Von-Storage-zur-Datenintelligenz-11493950.html",
-      "image_title": "Server-Hardware"
-    },
-    {
-      "title": "Leak: HomeView war eigentlich schon 2024 fertig",
-      "teaser": "Einem Leak zufolge bemühte sich Apple schon zum Start von Apple Intelligence um eine Genehmigung seiner neuen Heimzentrale. Das zog sich dann aber deutlich.",
-      "url": "https://www.heise.de/news/Leak-HomeView-war-eigentlich-schon-2024-fertig-11489021.html",
-      "image_title": "Vier HomeViews von Apple"
-    },
-    {
-      "title": "Software Testing: ZAP als Proxy: Regressionstests werden zu Sicherheitstests",
-      "teaser": "Richard Seidl spricht mit Daniel Schmuck über Sicherheitstests in einer Bank: Das Open-Source-Tool ZAP schneidet Playwright-Tests mit und leitet Angriffe ab.",
-      "url": "https://www.heise.de/blog/Software-Testing-ZAP-als-Proxy-Regressionstests-werden-zu-Sicherheitstests-11493529.html",
-      "image_title": "Ein Mann blickt lächelnd in die Kamera neben dem Text „Erst mitlesen, dann angreifen“"
-    },
-    {
-      "title": "iX-Workshop: Mehr aus Wazuh herausholen – Detection, Compliance, Response",
-      "teaser": "Machen Sie Wazuh zur maßgeschneiderten Detection- und Response-Plattform: eigene Detections entwickeln, Compliance prüfen und Reaktionen automatisieren.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mehr-aus-Wazuh-herausholen-Detection-Compliance-Response-11476195.html",
-      "image_title": "Radargerät mit einem roten Punkt auf der Anzeige"
-    },
-    {
-      "title": "Tipp: Übergreifende Funktionstasten für Absatzstile in Pages nutzen",
-      "teaser": "Per Tastendruck kann man in Apples Textverarbeitung Absatzstile zuweisen. Mit einer Vorlage wird die Funktion universeller.",
-      "url": "https://www.heise.de/ratgeber/Tipp-Uebergreifende-Funktionstasten-fuer-Absatzstile-in-Pages-nutzen-11483306.html",
-      "image_title": "Apple Pages"
     },
     {
       "title": "UpdateNewsIng-Bank: Kunden hatten stundenlang keinen Zugriff auf ihre Konten",

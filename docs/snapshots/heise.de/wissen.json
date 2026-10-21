@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T05:27:38",
+  "timestamp": "2026-10-21T10:43:11",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Von Gehirnscan zu Bild: Wie KI rekonstruiert, was Menschen gerade sehen",
+      "teaser": "Eine Forschergruppe entwickelte einen Gehirn-Decoder, indem sie ein KI-Modell mit MRT-Daten von Probanden trainierte, denen 9.000 Bilder gezeigt wurden.",
+      "url": "https://www.heise.de/hintergrund/Von-Gehirnscan-zu-Bild-Wie-KI-rekonstruiert-was-Menschen-gerade-sehen-11492135.html",
+      "image_title": "Digital,Brain,With,Circuit,And,Ai,Cocept.,3d,Rendering.Gehirn mit Schaltkreisen"
+    },
+    {
+      "title": "„Unsichtbares“ Rohr: Forscher leiten Flüssigkeit kontaktlos durch Ultraschall",
+      "teaser": "Forscher nutzen Ultraschallwellen bei 40 kHz, um einen Flüssigkeitsstrahl horizontal durch die Luft zu leiten. Auch andere Stoffe können transportiert werden.",
+      "url": "https://www.heise.de/news/Ultraschallwellen-transportieren-Fluessigkeitsstrom-kontaktlos-durch-die-Luft-11494988.html",
+      "image_title": "In einem Rohrsegment mit Ulraschallwandlern fließt ein Flüssigkeitsstrom horizontal durch die Luft."
+    },
+    {
       "title": "Digital-Health-Podcast: Von Cyberrisiken bei Krankenhäusern und Medizinprodukten",
       "teaser": "Offene Netze, fehlendes Personal, schnellere Angriffe: Martin Tettke erklärt im Podcast, wo Gesundheitseinrichtungen bei der IT-Sicherheit nachbessern müssen.",
       "url": "https://www.heise.de/news/Digital-Health-Podcast-Von-Cyberrisiken-bei-Krankenhaeusern-und-Medizinprodukten-11479196.html",
@@ -29,18 +41,6 @@
       "title": "Wie Laserterminals aus München Daten durchs All übertragen",
       "teaser": "Per Laser kommunizieren Satelliten über Tausende Kilometer mit hoher Bandbreite. Wir haben uns angesehen, wie Mynaric in München optische Terminals herstellt.",
       "url": "https://www.heise.de/hintergrund/Wie-Laserterminals-aus-Muenchen-Daten-durchs-All-uebertragen-11475771.html"
-    },
-    {
-      "title": "Zahlen, bitte! Verschollen im Pazifik: Amelia Earharts tragischer Rekordversuch",
-      "teaser": "Flugzeugpionierin Amelia Earhart verschwand 1937, als sie versuchte, im Flug die Welt zu umrunden. Auch eine erneute Suche brachte kein Licht ins Dunkel.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Verschollen-im-Pazifik-Amelia-Earharts-tragischer-Rekordversuch-11493042.html",
-      "image_title": "Zahlen, Bitte! Grafik mit verschiedenen Zahlen."
-    },
-    {
-      "title": "MIT-Forscherin warntKI könnte Menschen falsche Erinnerungen erzeugen",
-      "teaser": "Ein Experiment zeigt, wie KI Erinnerungen beeinflusst. Pattie Maes hält das für gefährlich für Gerichtsverfahren und Geschichtsschreibung.",
-      "url": "https://www.heise.de/news/MIT-Forscherin-warnt-KI-koennte-bei-Menschen-falsche-Erinnerungen-erzeugen-11493982.html",
-      "image_title": "Stilisierter menschlicher Kopf mit Schaltkreisen und leuchtenden Datenpunkten auf blauem Hintergrund"
     },
     {
       "title": "HintergrundWie Laserterminals aus München Daten durchs All übertragen",
@@ -54,6 +54,18 @@
     {
       "title": "HintergrundWarum Software in der Medizintechnik so streng reguliert ist",
       "url": "https://www.heise.de/hintergrund/Warum-Software-in-der-Medizintechnik-so-streng-reguliert-ist-11489137.html"
+    },
+    {
+      "title": "Zahlen, bitte! Verschollen im Pazifik: Amelia Earharts tragischer Rekordversuch",
+      "teaser": "Flugzeugpionierin Amelia Earhart verschwand 1937, als sie versuchte, im Flug die Welt zu umrunden. Auch eine erneute Suche brachte kein Licht ins Dunkel.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Verschollen-im-Pazifik-Amelia-Earharts-tragischer-Rekordversuch-11493042.html",
+      "image_title": "Zahlen, Bitte! Grafik mit verschiedenen Zahlen."
+    },
+    {
+      "title": "MIT-Forscherin warnt: KI könnte bei Menschen falsche Erinnerungen erzeugen",
+      "teaser": "Ein Experiment zeigt, wie KI Erinnerungen beeinflusst. Professorin Pattie Maes hält das für gefährlich für Gerichtsverfahren und die Geschichtsschreibung.",
+      "url": "https://www.heise.de/news/MIT-Forscherin-warnt-KI-koennte-bei-Menschen-falsche-Erinnerungen-erzeugen-11493982.html",
+      "image_title": "Stilisierter menschlicher Kopf mit Schaltkreisen und leuchtenden Datenpunkten auf blauem Hintergrund"
     },
     {
       "title": "c’t-Webinar: KI als Schreibhelfer für Studium und Forschung",
@@ -130,18 +142,6 @@
       "teaser": "Das Hubble Ultra Deep Field gilt als gut erforschte Himmelsregion. Ein neu entdecktes Signal gibt Astronomen Rätsel auf.",
       "url": "https://www.heise.de/news/Astronomen-raetseln-ueber-von-James-Webb-entdecktes-Infrarotsignal-11489774.html",
       "image_title": "Hubble Ultra Deep Field"
-    },
-    {
-      "title": "Astronomie: Weiße Zwergsterne können unerwartet farbig sein",
-      "teaser": "Bei keinem Weißen Zwerg können Teleskope ermitteln, welche Farbe er für uns hätte. Das ist nun anders gelungen. Und die Ergebnisse sind unerwartet vielfältig.",
-      "url": "https://www.heise.de/news/Erster-gruener-und-bislang-roetester-Stern-Weisse-Zwerge-teils-ueberraschend-farbig-11489432.html",
-      "image_title": "Ein hell leuchtender Himmelskörper mit Ringen und umlaufenden Gesteinsbrocken im All."
-    },
-    {
-      "title": "Autonome Renndrohne bewältigt Race-Parcours schneller als Ex-Weltmeister",
-      "teaser": "Eine autonome Race-Drohne behauptet sich gegen Ex-Weltmeister auf einem Rennparcours. Das MonoRace-System sorgt für autonomes Fliegen mit wenig Ressourcen.",
-      "url": "https://www.heise.de/news/Autonome-Renndrohne-bewaeltigt-Race-Parcours-schneller-als-Ex-Weltmeister-11489177.html",
-      "image_title": "Eine beleuchtete Race-Drohne durchfliegt ein Tor."
     },
     {
       "title": "UpdateNewsIng-Bank: Kunden hatten stundenlang keinen Zugriff auf ihre Konten",
