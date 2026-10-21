@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-21T10:43:13",
+  "timestamp": "2026-10-21T15:41:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,20 @@
   ],
   "articles": [
     {
+      "title": "Alertphp2shell-SicherheitslecksKritische Lücken erlauben Codeeinschleusung in PHP",
+      "teaser": "Zwei Fehler machen Webserver mit PHP aus dem Netz angreifbar. Betroffen: Versionen der letzten 20 Jahre. Admins müssen dringend patchen.",
+      "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
+      "image_title": "php2shell-Ausgabebildschirm"
+    },
+    {
       "title": "CA-Zertifikate gesperrtSicherheitsvorfall bei Zertifizierungsstelle eMudhra",
       "teaser": "Private Schlüssel waren einfach zu raten; einer lautete „4“. Angreifer konnten TLS-Zertifikate für beliebige Domains ausstellen.",
       "url": "https://www.heise.de/news/Vorfall-bei-Zertifizierungsstelle-eMudhra-Acht-CA-Zertifikate-kompromittiert-11494412.html",
       "image_title": "Stilisiertes Bild mit rötlichen Leiterbahnen, offenem Schloss im Vordergrund und den Worten Data Leak, Security, Exploit found"
     },
     {
-      "title": "AlertWerbeblockerPi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
-      "teaser": "Der Werbeblocker Pi-hole bessert mit einem Update zahlreiche Schwachstellen aus. Nutzer sollten es rasch anwenden.",
-      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
-      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "AlertOracle-Patchday mit 1295 Sicherheitspatches",
-      "url": "https://www.heise.de/news/Patchday-bei-Oracle-1295-Sicherheitspatches-quer-durch-die-Bank-11495244.html",
-      "image_title": "Reihen von Serverracks in einem beleuchteten Rechenzentrum"
+      "title": "AlertNode.js fixt eigene und geerbte Sicherheitslücken",
+      "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html"
     },
     {
       "title": "Webinar | 21. OktoberKI für Verteidiger 2026",
@@ -51,6 +50,41 @@
     {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "AlertNode.js fixt eigene und geerbte Sicherheitslücken",
+      "teaser": "Neue Versionen für Node.js 22.x, 24.x und 26.x fixen hochriskante Sicherheitslücken und schützen vor kompromittierten Zertifikaten von eMudhra.",
+      "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html"
+    },
+    {
+      "title": "AlertLieferkettenangriff auf Backup-Dienst trifft Hunderte M365-Tenants",
+      "teaser": "Nutzer des Cloud Backups von ConnectWise müssen dringend ihre Systeme prüfen, da Angreifer diese möglicherweise bereits kompromittiert haben.",
+      "url": "https://www.heise.de/news/Angriffe-via-ConnectWise-Cloud-Backup-11495835.html",
+      "image_title": "Ein Warnsymbol in Form eines Dreiecks mit einem Ausrufezeichen"
+    },
+    {
+      "title": "Quick Machine Recovery: Starthilfe für Windows Server 2025",
+      "teaser": "Server startet nicht mehr? QMR kann unter Windows Server 2025 nach einer Reparatur suchen. Die Funktion bleibt zunächst ausgeschaltet.",
+      "url": "https://www.heise.de/news/Quick-Machine-Recovery-Starthilfe-fuer-Windows-Server-2025-11495644.html",
+      "image_title": "Zerbrochenes Windows-Logo"
+    },
+    {
+      "title": "Nvidia will KI-Agenten per Hardware überwachen",
+      "teaser": "Offene KI-Modelle versprechen Unabhängigkeit. Mit OpenShell und speziellen Prozessoren will Nvidia jedoch die Handlungsräume von Agenten begrenzen.",
+      "url": "https://www.heise.de/hintergrund/Nvidia-will-KI-Agenten-per-Hardware-ueberwachen-11494932.html",
+      "image_title": "Ein Mann steht auf einer Bühne vor einer Präsentationsgrafik zur Nvidia OpenShell Reference Architecture."
+    },
+    {
+      "title": "Windows-Update-Nebenwirkungen: Probleme mit OWA, RDP und Smart App Control",
+      "teaser": "Microsoft bestätigt einige Probleme, die durch Windows-Updates ausgelöst werden. Sie betreffen OWA, RDP und Smart App Control.",
+      "url": "https://www.heise.de/news/Windows-Update-Nebenwirkungen-Probleme-mit-OWA-RDP-und-Smart-App-Control-11495356.html",
+      "image_title": "Achtung-Schild neben Windows-Logo auf Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "iX-Workshop: ISO 27001 als Admin im Unternehmen praktisch umsetzen",
+      "teaser": "Administratoren und IT-Verantwortliche lernen ihre Rolle im ISMS kennen und trainieren, wie sie Maßnahmen der ISO 27001 technisch und organisatorisch umsetzen.",
+      "url": "https://www.heise.de/news/iX-Workshop-ISO-27001-als-Admin-im-Unternehmen-praktisch-umsetzen-11476233.html",
+      "image_title": "iX-Workshop ISO 27001 für Admins – ISMS praktisch umsetzen"
     },
     {
       "title": "heise security Webinar: So verteidigt man sich gegen angreifende KI-Agenten",
@@ -88,6 +122,12 @@
       "image_title": "Handybildschirm mit DeepSeeks Logo"
     },
     {
+      "title": "AlertWerbeblocker Pi-hole: Update stopft Befehlsschmuggel-Lücke und mehr",
+      "teaser": "Der Werbeblocker Pi-hole bessert mit einem Update zahlreiche Schwachstellen aus. Nutzerinnen und Nutzer sollten es rasch anwenden.",
+      "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Befehlsschmuggel-Luecke-und-mehr-11493503.html",
+      "image_title": "Pi-hole-Panel mit Achtung-Schild vor blauem Mosaik-Hintergrund"
+    },
+    {
       "title": "iX-Workshop: Mehr aus Wazuh herausholen – Detection, Compliance, Response",
       "teaser": "Machen Sie Wazuh zur maßgeschneiderten Detection- und Response-Plattform: eigene Detections entwickeln, Compliance prüfen und Reaktionen automatisieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Mehr-aus-Wazuh-herausholen-Detection-Compliance-Response-11476195.html",
@@ -104,47 +144,6 @@
       "teaser": "Nach vier Jahren liegt die Norm ISO/IEC 27090 vor. Der Leitfaden beschreibt KI-spezifische Angriffe samt Gegenmaßnahmen und ergänzt ISO 27001.",
       "url": "https://www.heise.de/news/ISO-IEC-27090-soll-KI-Systeme-sicher-machen-11492332.html",
       "image_title": "Finger zeigt auf ein rundes, leuchtendes Schriftfeld mit der Aufschrift ISO"
-    },
-    {
-      "title": "Rückblick: OpenSSF-Datenbank erweitert GitHubs Malware-Warnungen",
-      "teaser": "Mithilfe eines OpenSSF-Repositorys warnt GitHub seit Juli vor Malware in acht Paket-Ökosystemen. In einer Fallstudie zieht die OpenSSF jetzt Bilanz.",
-      "url": "https://www.heise.de/news/Rueckblick-OpenSSF-Datenbank-erweitert-GitHubs-Malware-Warnungen-11492599.html",
-      "image_title": "Github-Logo an Gebäudewand"
-    },
-    {
-      "title": "Gebäudeautomatisierungsanbieter Loxone ist Opfer eines Cyberangriffs",
-      "teaser": "Das österreichische Unternehmen Loxone meldet einen IT-Vorfall. Die Täter haben Daten kopiert. Kundensysteme seien nicht betroffen.",
-      "url": "https://www.heise.de/news/Loxone-Cyberangriff-auf-Gebaeudeautomatisierungsanbieter-11492872.html",
-      "image_title": "Hand auf dem Trackpad einer Laptop-Tastatur"
-    },
-    {
-      "title": "heise security Webinar: KI für Verteidiger – Hype vs. Nutzen für die Praxis",
-      "teaser": "Wo kann KI den Verteidigern wirklich helfen? Grundsätzlich, konzeptionell und dann ganz konkret in der Praxis – dieses Webinar klärt auf, berät und empfiehlt.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-KI-fuer-Verteidiger-Hype-vs-Nutzen-fuer-die-Praxis-11485713.html"
-    },
-    {
-      "title": "Russischer Satellit nähert sich ungebührlich westlichem Radarsatelliten",
-      "teaser": "Ein russischer Satellit ist sehr nahe zu einem Radarsatelliten geflogen, den das ukrainische Militär nutzt. Der Zweck des Manövers ist noch unklar.",
-      "url": "https://www.heise.de/news/Russischer-Satellit-beschattet-westlichen-Radarsatelliten-11492768.html",
-      "image_title": "Künstlerische Darstellung eines Radarsatelliten von Iceye im Orbit"
-    },
-    {
-      "title": "Windows 10 LTSB und Server 2016: Supportende zwingt zu ESU oder Migration",
-      "teaser": "Windows 10 Enterprise und IoT Enterprise LTSB 2016 sowie Windows Server 2016 verlieren den Support. ESU bieten Aufschub bis zur Migration.",
-      "url": "https://www.heise.de/news/Support-Ende-fuer-Windows-10-LTSB-und-Server-2016-Was-Admins-jetzt-planen-muessen-11492075.html",
-      "image_title": "Symbolbild für Supportende für die drei Windows-Versionen."
-    },
-    {
-      "title": "AlertSicherheitslücken in Fortinet-Produkten und BeyondTrust werden attackiert",
-      "teaser": "Die US-Sicherheitsbehörde CISA warnt vor laufenden Angriffen auf Lücken in Fortinet-Produkten und BeyondTrust Remote Support.",
-      "url": "https://www.heise.de/news/Cyberangriffe-auf-Sicherheitsluecken-in-Fortinet-Produkten-und-BeyondTrust-11492254.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette EXPLOIT"
-    },
-    {
-      "title": "PwnEscape: Kritische Lücke in Linux-Kernel erlaubt VM-Ausbruch",
-      "teaser": "Der Fehler steckt im Netzwerkbereich von Linux und ist, so die Entdecker, Teil einer neuartigen Klasse von Sicherheitslücken. Auch Cloud-Hoster sind betroffen.",
-      "url": "https://www.heise.de/news/PwnEscape-Kritische-Luecke-in-Linux-Kernel-erlaubt-VM-Ausbruch-11492131.html",
-      "image_title": "Linux-Pinguin Tux vor Matrix-Regen, verzerrt"
     },
     {
       "title": "Workshop | 9. – 11.11.2026BCM - Notfallplanung und Notfallübungen",
@@ -197,17 +196,17 @@
       "image_title": "heise Plus"
     },
     {
+      "title": "Wichtige PHP-Updates beheben Codeeinschleusung",
+      "url": "https://www.heise.de/news/Wichtige-PHP-Updates-am-21-Oktober-beheben-Codeeinschleusung-Schwachstellen-11495072.html",
+      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
+    },
+    {
       "title": "„Mit Millionenbudget monatelang vorbereitet“",
-      "url": "https://www.heise.de/news/Verwanzte-Wallets-Hersteller-Ledger-sieht-Angriff-auf-die-ganze-Branche-11490092.html",
-      "image_title": "4 verschiedene Hardware-Wallets von Ledger"
+      "url": "https://www.heise.de/news/Verwanzte-Wallets-Hersteller-Ledger-sieht-Angriff-auf-die-ganze-Branche-11490092.html"
     },
     {
       "title": "Microsoft Defender schützt Linux",
       "url": "https://www.heise.de/news/Jetzt-auch-auf-dem-Desktop-Microsoft-Defender-schuetzt-Linux-11490688.html"
-    },
-    {
-      "title": "Russischer Satellit nähert sich westlichem Radarsatelliten",
-      "url": "https://www.heise.de/news/Russischer-Satellit-beschattet-westlichen-Radarsatelliten-11492768.html"
     }
   ]
 }
