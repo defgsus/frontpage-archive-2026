@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-22T12:34:40",
+  "timestamp": "2026-10-22T17:42:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,102 @@
     }
   ],
   "articles": [
+    {
+      "title": "OpenAI: Agenten schalteten eigene Sicherheitswarnungen ab",
+      "teaser": "Zwei OpenAI-Agenten haben aktiv Sicherheitswarnungen unterdrückt. Es wird geprüft, ob dies aus Missverständnis oder Absicht geschah.",
+      "url": "https://www.heise.de/news/OpenAI-Agenten-unterdrueckten-aktiv-Sicherheitswarnungen-11496302.html",
+      "image_title": "OpenAI-Logo auf Bildschirm, davor Hand mit Smartphone in Silhouette"
+    },
+    {
+      "title": "Passwortmanager ohne Cloud-Zwang: Update für KeePassXC",
+      "teaser": "KeePassXC 2.8.0 schließt Sicherheitslücken, unterstützt Auto-Type unter Wayland und ermöglicht den Datenbankabgleich über externe Programme.",
+      "url": "https://www.heise.de/news/Passwortmanager-ohne-Cloud-Zwang-Update-fuer-KeePassXC-11497220.html",
+      "image_title": "Ein stilisiertes Schlüsselsymbol in einem Kreis auf einem braunen Hintergrund."
+    },
+    {
+      "title": "Effizienz-Test: Wie viel Leistung die RTX Pro 6000 bei reduzierter TDP verliert",
+      "teaser": "Müssen Grafikkarten 600 Watt verheizen? Wir prüfen, wie viel Leistung das Absenken auf diverse TDP-Stufen kostet und warum 6 Watt mehr entscheidend sein können.",
+      "url": "https://www.heise.de/ratgeber/Effizienz-Test-Wie-viel-Leistung-die-RTX-Pro-6000-bei-reduzierter-TDP-verliert-11473305.html",
+      "image_title": "Vier Grafikkarten in unterschiedlichen Größen stehen nebeneinander."
+    },
+    {
+      "title": "php2shellWer nun was machen muss",
+      "teaser": "Sämtliche PHP-Versionen der letzten 20 Jahre sind durch zwei Sicherheitslücken gefährdet. Updates einzuspielen ist das einzig wirksame Mittel.",
+      "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html",
+      "image_title": "Laptop mit Code-Zeilen"
+    },
+    {
+      "title": "RatgeberEffizienz-Test: Wie viel Leistung die RTX Pro 6000 bei reduzierter TDP verliert",
+      "url": "https://www.heise.de/ratgeber/Effizienz-Test-Wie-viel-Leistung-die-RTX-Pro-6000-bei-reduzierter-TDP-verliert-11473305.html",
+      "image_title": "Vier Grafikkarten in unterschiedlichen Größen stehen nebeneinander."
+    },
+    {
+      "title": "HintergrundRetrieval-Logs zur Priorisierung von Datenqualität nutzen",
+      "url": "https://www.heise.de/hintergrund/Retrieval-Logs-zur-Priorisierung-von-Datenqualitaet-nutzen-11494004.html",
+      "image_title": "Ein Hand tippt auf einem Smartphone, darüber gelegt die Ansicht eines Chats mit einem Chatbot"
+    },
+    {
+      "title": "HintergrundSo schützt Google seine KI-Agenten vor Prompt Injections – ein Interview",
+      "url": "https://www.heise.de/hintergrund/So-schuetzt-Google-seine-KI-Agenten-vor-Prompt-Injections-ein-Interview-11471465.html"
+    },
+    {
+      "title": "Zimmer schneller warm für 27 Euro: Sichler Heizkörperventilator im Praxistest",
+      "teaser": "Der Heizkörperventilator von Sichler hängt per Magnet unter dem Heizkörper und läuft über USB. Er kostet einzeln 27 Euro, im Doppelpack 48 Euro.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/zimmer-schneller-warm-fuer-27-euro-sichler-heizkoerperventilator-im-praxistest/rt97w4v?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "AlertDringend updaten! Fortinet-Updates außer der Reihe",
+      "teaser": "Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.",
+      "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
+      "image_title": "Das Firmenlogo von Fortinet an der Glasfassade eines modernen Bürogebäudes"
+    },
+    {
+      "title": "Tapo C675D im Test: Überwachungskamera für außen sieht alles und folgt jedem",
+      "teaser": "Dual-4K, 360°-Schwenk und Solarbetrieb: Die Tapo C675D KIT verspricht lückenlose Außenüberwachung ohne Stromanschluss – der Praxistest zeigt, ob das aufgeht.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/tapo-c675d-im-test-ueberwachungskamera-fuer-aussen-sieht-alles-und-folgt-jedem/c722s14?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Chrome: Google macht Schluss mit unsicheren HTTP-Verbindungen",
+      "teaser": "Der Chrome-Browser warnt fortan vor dem ersten Aufruf unverschlüsselter Websites. Google hat die Sicherheitsfunktion standardmäßig für alle Nutzer aktiviert.",
+      "url": "https://www.heise.de/news/Chrome-Google-macht-Schluss-mit-unsicheren-HTTP-Verbindungen-11497052.html",
+      "image_title": "App von Chrome in Nahaufnahme"
+    },
+    {
+      "title": "FritzOS 8.50 steht für die Fritzbox 7530 AX und 5690 bereit",
+      "teaser": "Vier Fritzboxen haben inzwischen das finale FritzOS 8.50 erhalten. Die 7530 AX bekommt eine modellspezifische Firmware-Komponente.",
+      "url": "https://www.heise.de/news/FritzOS-8-50-steht-fuer-die-Fritzbox-7530-AX-und-5690-bereit-11497127.html",
+      "image_title": "Ein Fritz!Box-Router steht auf einer Holzkommode."
+    },
+    {
+      "title": "AlertBIND 9: Codeschmuggel-Lücke im Nameserver",
+      "teaser": "Die Entwickler des Nameservers BIND haben aktualisierte Quellcodes veröffentlicht, die eine Schadcode-Lücke im Dienst schließen.",
+      "url": "https://www.heise.de/news/BIND-9-Codeschmuggel-Luecke-im-Nameserver-11497068.html",
+      "image_title": "Person an einer Tastatur"
+    },
+    {
+      "title": "Microsoft Frontier Tour: KI ist wie der Kölner Dom – eine Vision",
+      "teaser": "Microsoft präsentierte auf der Frontier Tour in Köln eine große KI-Produktschau. Fokus: Kontrolle über KI-Anwendungen und Cloud-Souveränität.",
+      "url": "https://www.heise.de/news/Microsoft-Frontier-Tour-KI-ist-wie-der-Koelner-Dom-eine-Vision-11496656.html",
+      "image_title": "Satya Nadella auf einer Bühne vor einer Kulisse mit Köln und dem Schriftzug Frontier Transformation"
+    },
+    {
+      "title": "GoDaddy widerruft Hunderttausende Zertifikate aufgrund formaler Fehler",
+      "teaser": "Weil sie nicht ihrer Dokumentation entsprechen, muss der Anbieter, zu dem Firmen wie Host Europe und DomainFactory gehören, 404.607 Zertifikate zurückziehen.",
+      "url": "https://www.heise.de/news/GoDaddy-widerruft-Hunderttausende-Zertifikate-aufgrund-formaler-Fehler-11496900.html",
+      "image_title": "Pixelige Nahaufnahme des Schriftzugs https://www in einem Browser"
+    },
+    {
+      "title": "OpenCode 2.1: Ein Coding-Agent, viele Modelle",
+      "teaser": "Neue Datenfelder für Plug-ins und Clients, dauerhafte Terminals für Windows: Das bringt Version 2.1 des quelloffenen KI-Coding-Agenten OpenCode.",
+      "url": "https://www.heise.de/news/OpenCode-2-1-Ein-Coding-Agent-viele-Modelle-11497016.html",
+      "image_title": "Ein Holzkasten enthält mehrere Holzbausteine mit aufgedruckten Screenshots und dem Schriftzug OpenCode."
+    },
+    {
+      "title": "curl: Konzentration auf hochriskante und kritische Sicherheitslücken",
+      "teaser": "Das curl-Projekt will sich auf dem HackerOne-Bugtracker auf hochriskante und kritische Sicherheitslücken beschränken.",
+      "url": "https://www.heise.de/news/curl-Konzentration-auf-hochriskante-und-kritische-Sicherheitsluecken-11496792.html",
+      "image_title": "cURL-Logo auf blauem Hintergrund"
+    },
     {
       "title": "iX-Workshop: Agentic Engineering statt Vibe Coding",
       "teaser": "Üben Sie praxisnah, wie Sie Coding-Agenten in einem professionellen Workflow steuern und von der Anforderung bis zur fertigen Anwendung führen.",
@@ -44,104 +140,9 @@
       "image_title": "Ein kompakter, silberner Computer unter einer leuchtenden Kuppel."
     },
     {
-      "title": "HintergrundRetrieval-Logs zur Priorisierung von Datenqualität nutzen",
-      "url": "https://www.heise.de/hintergrund/Retrieval-Logs-zur-Priorisierung-von-Datenqualitaet-nutzen-11494004.html",
-      "image_title": "Ein Hand tippt auf einem Smartphone, darüber gelegt die Ansicht eines Chats mit einem Chatbot"
-    },
-    {
-      "title": "HintergrundSo schützt Google seine KI-Agenten vor Prompt Injections – ein Interview",
-      "url": "https://www.heise.de/hintergrund/So-schuetzt-Google-seine-KI-Agenten-vor-Prompt-Injections-ein-Interview-11471465.html"
-    },
-    {
-      "title": "TestsKyocera PA4500x im Test: Laserdrucker mit zehn Jahren Garantie auf die Trommel",
-      "url": "https://www.heise.de/tests/Kyocera-PA4500x-im-Test-Laserdrucker-mit-zehn-Jahren-Garantie-auf-die-Trommel-11457353.html",
-      "image_title": "Kyocera-Drucker vor blauem Hintergrund"
-    },
-    {
       "title": "Save the Date: IT-Security-Konferenzmesse secIT 2027 im März",
       "teaser": "Auf der secIT 2027 verschaffen sich IT-Sicherheitsprofis einen Überblick zur aktuellen IT-Bedrohungslage inklusive Gegenmaßnahmen.",
       "url": "https://www.heise.de/news/Save-the-Date-IT-Security-Konferenzmesse-secIT-2027-im-Maerz-11494290.html"
-    },
-    {
-      "title": "Der gefährlichste Satz beim Cloud-Umstieg: „SAP kümmert sich“",
-      "teaser": "RISE with SAP entlastet beim Betrieb – doch viele Sicherheitsaufgaben bleiben beim Kunden. Wo die Verantwortung verläuft und welche Lücken entstehen können.",
-      "url": "https://www.heise.de/news/Der-gefaehrlichste-Satz-beim-Cloud-Umstieg-SAP-kuemmert-sich-11475749.html",
-      "image_title": "Das SAP-Logo ist von stürmischen Wolken, Regen und Blitzen umgeben."
-    },
-    {
-      "title": "Kritische Codeausführung: GitLab veröffentlicht dringende Sicherheitsupdates",
-      "teaser": "Mit Updates für mehrere Versionszweige schließt GitLab zwölf Sicherheitslücken, darunter auch eine kritische Lücke zur Remote-Codeausführung.",
-      "url": "https://www.heise.de/news/GitLab-schliesst-kritische-Sicherheitsluecke-und-elf-weitere-Schwachstellen-11496485.html",
-      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette EXPLOIT"
-    },
-    {
-      "title": "HyperArmor: Broadcoms Antwort auf KI-Angriffe auf VMware ESX",
-      "teaser": "Broadcom präsentierte den neuen Schutz HyperArmor für ESX-Hypervisor, der KI-beschleunigte Angriffe abwehren soll. Ein vSphere-8-Nachfolger blieb jedoch aus.",
-      "url": "https://www.heise.de/news/VMware-HyperArmor-schuetzt-ESX-Hypervisor-vor-KI-Angriffen-11496495.html",
-      "image_title": "VMware-Logo auf einem Smartphone"
-    },
-    {
-      "title": "Embedded Testing Conference: Jetzt Vorträge einreichen",
-      "teaser": "Entwickler und Tester im Embedded-Umfeld können ihre Vortragsideen bis zum 29.11. einreichen. Die Konferenz findet am 23. und 24. Februar 2027 in München statt.",
-      "url": "https://www.heise.de/news/Embedded-Testing-Conference-Jetzt-Vortraege-einreichen-11495766.html",
-      "image_title": "Keyvisual der Embedded Testing"
-    },
-    {
-      "title": "Tado: KI soll offene Fenster besser erkennen – Heizpause weiter nur im Abo",
-      "teaser": "Tado will per Update mit KI die Fenster-Offen-Erkennung seiner X-Thermostate verbessern. Hebt das den Nachteil fehlender Kontaktsensoren auf?",
-      "url": "https://www.heise.de/news/Tado-KI-soll-offene-Fenster-besser-erkennen-Heizpause-weiter-nur-im-Abo-11495557.html",
-      "image_title": "Eine Frau liegt auf einem Sofa und schaut auf ein Smartphone."
-    },
-    {
-      "title": "Alertphp2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
-      "teaser": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
-      "url": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
-      "image_title": "Mehrere übereinandergelegte Bildschirme mit buntem Quellcode"
-    },
-    {
-      "title": "Datensouveränität scheitert oft schon am fehlenden Überblick",
-      "teaser": "Datensouveränität steht hoch im Kurs. Doch häufig fehlt es an der Basis: Wo liegen die eigenen Daten, wie sensibel sind sie und wer darf darauf zugreifen?",
-      "url": "https://www.heise.de/news/Datensouveraenitaet-scheitert-oft-schon-am-fehlenden-Ueberblick-11496066.html",
-      "image_title": "Roboter mit der Hand am Mund, um ihn herum ganz viele digitale Schriftzüge mit dem Wort \"Data\""
-    },
-    {
-      "title": "Zu junge Pakete müssen draußen bleiben: Rust schützt die Lieferkette",
-      "teaser": "Mehr Sicherheit für die Lieferkette: Das Rust-Projekt lässt Entwickler optional auf die Cargo-Bremse treten. Zu junge Pakete weist Cargo ab.",
-      "url": "https://www.heise.de/news/Zu-junge-Pakete-muessen-draussen-bleiben-Rust-schuetzt-die-Lieferkette-11495856.html",
-      "image_title": "Illustration Krabbe sitzt auf Paket"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 gegen Angriffe absichern",
-      "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-11476241.html",
-      "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "#heiseshow: Starlink-Drosselung, Luftbilder in Google Maps, Tesla Roadster",
-      "teaser": "In der #heiseshow: Starlink-Drosselung als Warnschuss für Europa, ein Gerichtsurteil gegen Luftbilder bei Google Maps und der abgehobene neue Tesla Roadster.",
-      "url": "https://www.heise.de/news/heiseshow-Starlink-Drosselung-Luftbilder-in-Google-Maps-Tesla-Roadster-11495658.html"
-    },
-    {
-      "title": "EU plant arktisches Datenkabel",
-      "teaser": "Mit einem Datenkabelzentrum für die Arktis und einer Direktanbindung Grönlands möchte die EU-Kommission digitale Souveränität stärken und Seeleitungen schützen.",
-      "url": "https://www.heise.de/news/EU-plant-arktisches-Datenkabel-11496212.html",
-      "image_title": "Ein Schild steht auf Holzbeinen im Wasser; es verbietet ankern weil dort ein \"underwater cable\" verläuft; im Hintergrund grüne Inseln"
-    },
-    {
-      "title": "Offene Fragen nach dem AfD-Leak",
-      "teaser": "Nach dem Hacker-Angriff versucht die AfD, die Bedeutung des Falls herunterzuspielen. Offen bleibt, ob der Datenabfluss den Datenschützern gemeldet wurde.",
-      "url": "https://www.heise.de/news/Offene-Fragen-nach-dem-AfD-Leak-11496176.html",
-      "image_title": "Mehrere kleine Ansteck-Buttons der Partei AfD liegen auf einem Haufen."
-    },
-    {
-      "title": "Höhenverstellbarer Vernal-Schreibtisch im Test: Chefschreibtisch mit Sichtschutz",
-      "teaser": "Der höhenverstellbare Schreibtisch von Vernal macht mit Seitenwangen, Holzblende und Walnussdekor aus einem Sitz-Steh-Tisch einen Chefschreibtisch.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/hoehenverstellbarer-vernal-schreibtisch-im-test-chefschreibtisch-mit-sichtschutz/d8tnzed?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "AlertNode.js-Update bessert hochriskante Lücken aus",
-      "teaser": "Neue Versionen für Node.js 22.x, 24.x und 26.x fixen hochriskante Sicherheitslücken und schützen vor kompromittierten Zertifikaten von eMudhra.",
-      "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html"
     },
     {
       "title": "AlertNewsphp2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP",
