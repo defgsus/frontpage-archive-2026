@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T02:14:37",
+  "timestamp": "2026-10-23T08:00:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,16 +20,16 @@
   ],
   "articles": [
     {
+      "title": "AlertDringendFortinet-Updates außer der Reihe",
+      "teaser": "Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.",
+      "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
+      "image_title": "Das Firmenlogo von Fortinet an der Glasfassade eines modernen Bürogebäudes"
+    },
+    {
       "title": "php2shellWer nun was machen muss",
       "teaser": "Sämtliche PHP-Versionen der letzten 20 Jahre sind durch zwei Sicherheitslücken gefährdet. Updates einzuspielen ist das einzig wirksame Mittel.",
       "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html",
       "image_title": "Laptop mit Code-Zeilen"
-    },
-    {
-      "title": "Alertphp2shellWebseiten offline, Angriffe laufen",
-      "teaser": "Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
-      "url": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
-      "image_title": "Mehrere übereinandergelegte Bildschirme mit buntem Quellcode"
     },
     {
       "title": "AlertDringendFortinet-Updates außer der Reihe",
@@ -53,6 +53,24 @@
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "GitHub Package Firewall blockiert schädliche npm-Pakete",
+      "teaser": "GitHub hat die Package Firewall als öffentliche Vorschau für Enterprise-Cloud-Kunden freigegeben. Sie prüft Paketabfragen und Downloads.",
+      "url": "https://www.heise.de/news/GitHub-Package-Firewall-blockiert-schaedliche-npm-Pakete-11497748.html",
+      "image_title": "Einstellungen für \"Advisories and malware\" und \"Supply chain verification\" mit Schaltern und Dropdown-Menüs."
+    },
+    {
+      "title": "AWS Continuum: KI findet und behebt Code-Schwachstellen",
+      "teaser": "Amazon Web Services macht die KI-gestützte Erkennung und Behebung von Code-Schwachstellen in AWS Continuum allgemein verfügbar.",
+      "url": "https://www.heise.de/news/AWS-Continuum-KI-findet-und-behebt-Code-Schwachstellen-11497692.html",
+      "image_title": "AWS-Logo in einer orangefarbenen Wolke, umgeben von blauen Schilden und Wolken."
+    },
+    {
+      "title": "JFrog führt BYOK-Unterstützung für KI-Sicherheitsscans ein",
+      "teaser": "JFrog erweitert die Erkennung von Schatten-KI in seiner KI-Sicherheitssuite AI Security. Ebenfalls neu ist BYOK für AI Asset Scanning.",
+      "url": "https://www.heise.de/news/JFrog-AI-Security-Mehr-Kontrolle-ueber-Schatten-KI-auf-Entwicklerrechnern-11496904.html",
+      "image_title": "Symbolbild für das Aufspüren von Schatten-KI: Eine Drohne beleuchtet einen dunklen Block voller Schattenfiguren"
+    },
+    {
       "title": "Zensur-Urteil: DNS-Dienst Quad9 verlässt Frankreich",
       "teaser": "Der DNS-Vermittler Quad9 zieht sich aus Frankreich zurück. Grund ist ein Zensururteil, erstritten von beIN aus Katar.",
       "url": "https://www.heise.de/news/Zensur-Urteil-DNS-Dienst-Quad9-verlaesst-Frankreich-11497622.html",
@@ -63,12 +81,6 @@
       "teaser": "KeePassXC 2.8.0 schließt Sicherheitslücken, unterstützt Auto-Type unter Wayland und ermöglicht den Datenbankabgleich über externe Programme.",
       "url": "https://www.heise.de/news/Passwortmanager-ohne-Cloud-Zwang-Update-fuer-KeePassXC-11497220.html",
       "image_title": "Ein stilisiertes Schlüsselsymbol in einem Kreis auf einem braunen Hintergrund."
-    },
-    {
-      "title": "AlertDringend updaten! Fortinet-Updates außer der Reihe",
-      "teaser": "Fortinet will am Donnerstag Updates veröffentlichen, die Admins dringend installieren sollen. Details folgen erst im November.",
-      "url": "https://www.heise.de/news/Ausserplanmaessige-Fortinet-Updates-Details-Fehlanzeige-aber-dringend-11497171.html",
-      "image_title": "Das Firmenlogo von Fortinet an der Glasfassade eines modernen Bürogebäudes"
     },
     {
       "title": "Chrome: Google macht Schluss mit unsicheren HTTP-Verbindungen",
@@ -118,6 +130,12 @@
       "image_title": "VMware-Logo auf einem Smartphone"
     },
     {
+      "title": "Alertphp2shell: Updates trudeln ein, viele Webseiten offline, Angriffe laufen",
+      "teaser": "Viele Linux-Distributionen liefern aktualisierte PHP-Pakete. Webseiten gingen offline. Erfolgreiche Exploits sind bislang nicht belegt.",
+      "url": "https://www.heise.de/news/php2shell-Updates-trudeln-ein-viele-Webseiten-offline-Angriffe-laufen-11496366.html",
+      "image_title": "Mehrere übereinandergelegte Bildschirme mit buntem Quellcode"
+    },
+    {
       "title": "Zu junge Pakete müssen draußen bleiben: Rust schützt die Lieferkette",
       "teaser": "Mehr Sicherheit für die Lieferkette: Das Rust-Projekt lässt Entwickler optional auf die Cargo-Bremse treten. Zu junge Pakete weist Cargo ab.",
       "url": "https://www.heise.de/news/Zu-junge-Pakete-muessen-draussen-bleiben-Rust-schuetzt-die-Lieferkette-11495856.html",
@@ -128,22 +146,6 @@
       "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-11476241.html",
       "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "US-Gericht: Zugriff von DOGE-Agenten auf Behördendaten war illegal",
-      "teaser": "Ein New Yorker Gericht hat entschieden, dass die Weitergabe sensibler Mitarbeiterdaten an das Effizienzteam unter Elon Musk gegen US-Bundesgesetze verstieß.",
-      "url": "https://www.heise.de/news/US-Gericht-Zugriff-von-DOGE-Agenten-auf-Behoerdendaten-war-illegal-11496306.html"
-    },
-    {
-      "title": "UpdateOffene Fragen nach dem AfD-Leak",
-      "teaser": "Nach dem Hacker-Angriff versucht die AfD, die Bedeutung des Falls herunterzuspielen. Offen bleibt, ob der Datenabfluss den Datenschützern gemeldet wurde.",
-      "url": "https://www.heise.de/news/Offene-Fragen-nach-dem-AfD-Leak-11496176.html",
-      "image_title": "Mehrere kleine Ansteck-Buttons der Partei AfD liegen auf einem Haufen."
-    },
-    {
-      "title": "AlertNode.js-Update bessert hochriskante Lücken aus",
-      "teaser": "Neue Versionen für Node.js 22.x, 24.x und 26.x fixen hochriskante Sicherheitslücken und schützen vor kompromittierten Zertifikaten von eMudhra.",
-      "url": "https://www.heise.de/news/Node-js-fixt-eigene-und-geerbte-Sicherheitsluecken-11495996.html"
     },
     {
       "title": "Workshop | 9. – 11.11.2026BCM - Notfallplanung und Notfallübungen",
@@ -179,13 +181,13 @@
       "url": "https://www.heise.de/news/Verwanzte-Wallets-Hersteller-Ledger-sieht-Angriff-auf-die-ganze-Branche-11490092.html"
     },
     {
-      "title": "Wie wir den Papier-Passwortmanager eesy geknackt haben",
-      "url": "https://www.heise.de/hintergrund/Security-Analyse-Wie-wir-den-eesy-Papier-Passwortmanager-geknackt-haben-11452732.html",
-      "image_title": "Ein offenes Notizbuch mit herausschauenden Registerreitern."
-    },
-    {
       "title": "Warum Passkeys keine Falle sind: Passkey-Attestation kurz erklärt",
       "url": "https://www.heise.de/hintergrund/Warum-Passkeys-keine-Falle-sind-Passkey-Attestation-kurz-erklaert-11485823.html",
+      "image_title": "Sechs Schlüssel mit bunten Anhängern hängen an einer Holzwand."
+    },
+    {
+      "title": "Wie wir den Papier-Passwortmanager eesy geknackt haben",
+      "url": "https://www.heise.de/hintergrund/Security-Analyse-Wie-wir-den-eesy-Papier-Passwortmanager-geknackt-haben-11452732.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
