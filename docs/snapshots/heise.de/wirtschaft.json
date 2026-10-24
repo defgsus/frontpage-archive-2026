@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T05:09:31",
+  "timestamp": "2026-10-24T09:54:45",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,27 +20,32 @@
   ],
   "articles": [
     {
+      "title": "Anthropic lässt KI-Agenten Verhandlungsregeln für Menschen lernen",
+      "teaser": "Anthropic berät sich angeblich mit Anwaltskanzleien, wie KI-Agenten künftig Preise, Gehälter und Verträge für ihre Nutzer aushandeln sollten.",
+      "url": "https://www.heise.de/news/Anthropic-laesst-KI-Agenten-Verhandlungsregeln-fuer-Menschen-lernen-11498981.html",
+      "image_title": "Zwei Hände schütteln einander"
+    },
+    {
+      "title": "Alten Hometrainer an Garmin anbinden: So klappts mit ESP32 und Reed-Kontakt",
+      "teaser": "Ein alter Kettler-Hometrainer, ein ESP32-Board und etwas KI: Die neue Konsole funkt Tempo und Trittfrequenz an eine Garmin-Uhr und speichert jede Fahrt.",
+      "url": "https://www.heise.de/ratgeber/Alten-Hometrainer-an-Garmin-anbinden-So-klappts-mit-ESP32-und-Reed-Kontakt-11484103.html",
+      "image_title": "Ein Mann sitzt schweißgebadet auf einem Heimtrainer mit elektronischen Bauteilen."
+    },
+    {
+      "title": "Mehr digitale SouveränitätOpen Source im Unternehmen einsetzen",
+      "teaser": "Wer Open-Source-Software erfolgreich im Unternehmen einsetzen will, muss ein paar Punkte beachten.",
+      "url": "https://www.heise.de/ratgeber/Mehr-digitale-Souveraenitaet-Open-Source-im-Unternehmen-einsetzen-11498660.html",
+      "image_title": "Tauben verlassen ihren Käfig"
+    },
+    {
       "title": "EU-Parlament will eigene Regeln für Glasfaser und Kupferabschaltung",
       "teaser": "Mit dem Aufschlag aus dem EU-Parlament kommt neuer Diskussionsstoff in die Verhandlungen über den Digital Networks Act. Das Parlament hat eigene Vorstellungen.",
       "url": "https://www.heise.de/news/Digital-Networks-Act-EU-Parlament-steckt-Verhandlungsposition-ab-11498997.html"
     },
     {
-      "title": "Nvidia-CEO nimmt KI-Entwickler in die Pflicht„Wenn du weißt, dass dein Produkt der Gesellschaft schadet, hör sofort auf“",
-      "teaser": "Jensen Huang: Engineering statt Regulierung macht KI sicher. Nvidia empfiehlt OpenShell als Sicherheitsgurt für KI-Agenten.",
-      "url": "https://www.heise.de/news/Nvidia-CEO-nimmt-KI-Entwickler-in-die-Pflicht-Sollen-keine-Schaeden-anrichten-11498634.html",
-      "image_title": "NVIDIA-CEO Jensen Huang auf der NVIDIA GTC in Berlin."
-    },
-    {
-      "title": "RaffineriestrategieBundesregierung will deutsche Standorte halten",
-      "teaser": "Wirtschaftsministerin Reiche will Raffineriekapazität in Deutschland sichern. Vorerst gibt es aber nur einen Dialog ohne Zeitplan, Summen oder Maßnahmen.",
-      "url": "https://www.heise.de/news/Raffineriestrategie-Bundesregierung-will-deutsche-Standorte-halten-11498450.html",
-      "image_title": "Katherina Reiche vom BMWE"
-    },
-    {
-      "title": "Jetzt auch von Anthropic: Proaktiver KI-Agent für den Arbeitsalltag",
-      "teaser": "Anthropic veröffentlicht mit Claude Duet nun auch einen persönlichen Agenten. Er zielt zunächst auf Fachleute und Kleinunternehmer und startet als Preview.",
-      "url": "https://www.heise.de/news/Jetzt-auch-von-Anthropic-Proaktiver-KI-Agent-fuer-den-Arbeitsalltag-11498244.html",
-      "image_title": "Das Claude-Logo von Anthropic auf einem Smartphone-Bildschirm."
+      "title": "RatgeberMehr digitale Souveränität: Open Source im Unternehmen einsetzen",
+      "url": "https://www.heise.de/ratgeber/Mehr-digitale-Souveraenitaet-Open-Source-im-Unternehmen-einsetzen-11498660.html",
+      "image_title": "Tauben verlassen ihren Käfig"
     },
     {
       "title": "RatgeberGehaltsprognose 2027: Was IT-Fachkräfte erwarten können",
@@ -52,9 +57,16 @@
       "image_title": "BMW 123"
     },
     {
-      "title": "MeinungKommentar zu Musks Raketen-Roadster: Kindliche Freude verbietet sich",
-      "url": "https://www.heise.de/meinung/Kommentar-Musks-fliegender-Tesla-Roadster-Spektakel-eines-Machtbesessenen-11493179.html",
-      "image_title": "Tesla Roadster"
+      "title": "Nvidia-CEO nimmt KI-Entwickler in die Pflicht: Sollen keine Schäden anrichten",
+      "teaser": "Laut Jensen Huang macht nicht Regulierung KI sicher, sondern Engineering. Als Sicherheitsgurt für KI-Agenten empfiehlt Nvidia seine freie Software OpenShell.",
+      "url": "https://www.heise.de/news/Nvidia-CEO-nimmt-KI-Entwickler-in-die-Pflicht-Sollen-keine-Schaeden-anrichten-11498634.html",
+      "image_title": "NVIDIA-CEO Jensen Huang auf der NVIDIA GTC in Berlin."
+    },
+    {
+      "title": "Raffineriestrategie: Bundesregierung tritt in Dialog mit Mineralölwirtschaft",
+      "teaser": "Wirtschaftsministerin Reiche will Raffineriekapazität in Deutschland sichern. Vorerst gibt es aber nur einen Dialog ohne Zeitplan, Summen oder Maßnahmen.",
+      "url": "https://www.heise.de/news/Raffineriestrategie-Bundesregierung-will-deutsche-Standorte-halten-11498450.html",
+      "image_title": "Katherina Reiche vom BMWE"
     },
     {
       "title": "Mercedes-Baukasten für die 2030er: Was über die Modulpläne bekannt ist",
@@ -135,18 +147,6 @@
       "image_title": "Tesla Optimus"
     },
     {
-      "title": "Der gefährlichste Satz beim Cloud-Umstieg: „SAP kümmert sich“",
-      "teaser": "RISE with SAP entlastet beim Betrieb – doch viele Sicherheitsaufgaben bleiben beim Kunden. Wo die Verantwortung verläuft und welche Lücken entstehen können.",
-      "url": "https://www.heise.de/news/Der-gefaehrlichste-Satz-beim-Cloud-Umstieg-SAP-kuemmert-sich-11475749.html",
-      "image_title": "Das SAP-Logo ist von stürmischen Wolken, Regen und Blitzen umgeben."
-    },
-    {
-      "title": "Skoda: Wie du dir jetzt Accessoires für dein Auto selbst drucken kannst",
-      "teaser": "Skoda hat einige Druckvorlagen für Besitzer von 3D-Druckern und Fahrzeugen des Herstellers veröffentlicht. Was mit den kostenlosen Vorlagen möglich ist.",
-      "url": "https://www.heise.de/news/Skoda-Wie-du-dir-jetzt-Accessoires-fuer-dein-Auto-selbst-drucken-kannst-11496392.html",
-      "image_title": "Skoda-Emblem auf einem Kühlergrill"
-    },
-    {
       "title": "AlertNewsphp2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP",
       "url": "https://www.heise.de/news/php2shell-Kritische-Sicherheitsluecken-erlauben-Codeeinschleusung-in-PHP-11492938.html",
       "image_title": "php2shell-Ausgabebildschirm"
@@ -167,6 +167,11 @@
       "image_title": "Das Spotify-Logo ist auf einem Smartphone-Bildschirm zu sehen, daneben liegen kabellose In-Ear-Kopfhörer."
     },
     {
+      "title": "MeinungKommentar zu Musks Raketen-Roadster: Kindliche Freude verbietet sich",
+      "url": "https://www.heise.de/meinung/Kommentar-Musks-fliegender-Tesla-Roadster-Spektakel-eines-Machtbesessenen-11493179.html",
+      "image_title": "Tesla Roadster"
+    },
+    {
       "title": "RatgeberApple Business: Was Sie als Admin über die neuen Systeme wissen müssen",
       "url": "https://www.heise.de/ratgeber/Apple-Business-Was-Sie-als-Admin-ueber-die-neuen-Systeme-wissen-muessen-11483076.html",
       "image_title": "Mehrere Personen mit Macs auf einer Aussichtsplattform vor einer Skyline."
@@ -178,11 +183,6 @@
     {
       "title": "TestsNabenmotor von Bosch debütiert: So schlägt sich das Gazelle Curb im Alltag",
       "url": "https://www.heise.de/tests/Nabenmotor-von-Bosch-debuetiert-So-schlaegt-sich-das-Gazelle-Curb-im-Alltag-11366478.html"
-    },
-    {
-      "title": "RatgeberDatensparsame DVB-T2-Alternative: TV-Streaming mit Raspberry Pi und LibreELEC",
-      "url": "https://www.heise.de/ratgeber/Datensparsame-DVB-T2-Alternative-TV-Streaming-mit-Raspberry-Pi-und-LibreELEC-11455442.html",
-      "image_title": "Ein Mensch sitzt vor einem Fernseher mit Kodi-Logo und hält eine Fernbedienung"
     }
   ]
 }
