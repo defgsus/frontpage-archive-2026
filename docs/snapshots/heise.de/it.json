@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T05:25:51",
+  "timestamp": "2026-10-25T10:16:06",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Desinfec't: Defekten Grub-Bootloader unter Linux wiederherstellen",
+      "teaser": "Wenn Linux nicht mehr von selbst bootet, können Sie den Desinfec't-Bootloader benutzen oder mit Desinfec't Ihr installiertes Linux reparieren.",
+      "url": "https://www.heise.de/ratgeber/Desinfec-t-Defekten-Grub-Bootloader-unter-Linux-wiederherstellen-11488347.html",
+      "image_title": "Ein Pinguin repariert einen Computer mit Starthilfekabeln und einem Ladegerät."
+    },
+    {
+      "title": "iX-Workshop MS Intune: Mobile Endgeräte und Apps sicher in der Cloud verwalten",
+      "teaser": "Mobile Endgeräte sicher und effektiv verwalten, Sicherheitsrichtlinien festlegen und Unternehmensanwendungen verteilen.",
+      "url": "https://www.heise.de/news/iX-Workshop-MS-Intune-Mobile-Endgeraete-und-Apps-sicher-in-der-Cloud-verwalten-11476289.html",
+      "image_title": "Workshop Mobile Device Management mit Intune"
+    },
+    {
       "title": "Ärger mit SchützenpanzerBundeswehr-Digitalfunk: Test bestanden, Marder fällt durch",
       "teaser": "Die Bundeswehr meldet Fortschritte beim Umrüsten auf Digitalfunk. Doch es gibt noch technische Hürden und Lieferverzögerungen.",
       "url": "https://www.heise.de/news/Bundeswehr-Digitalfunk-Test-bestanden-aber-der-Marder-faellt-durch-11499229.html"
@@ -29,18 +41,6 @@
       "teaser": "Donald Trump verkündete schon das Ende der Starlink-Drosselung – doch Kiew kann erst am Samstag Besserung sehen.",
       "url": "https://www.heise.de/news/Kiew-Starlink-bleibt-weiter-gedrosselt-entgegen-Trumps-Ankuendigung-11499145.html",
       "image_title": "Internet,Starlink,Satellite,In,Space,Near,Earth.,3d,Render"
-    },
-    {
-      "title": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
-      "teaser": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Die „Offline-Welten“ dafür sind aber nicht offline.",
-      "url": "https://www.heise.de/news/OpenAI-stellt-seine-neue-Trainingsumgebung-vor-ohne-Air-Gap-11499163.html",
-      "image_title": "Roboterhand bedient eine virtuelle Benutzeroberfläche mit Symbolen für KI, Cybersecurity und Zugangsschutz."
-    },
-    {
-      "title": "Continuous Architecture: KI zwingt uns dazu, veraltete Dokumentation aufzuräumen",
-      "teaser": "Im Interview beschreibt Murat Erder, wie KI Softwareentwicklung verändern kann, ohne die grundlegenden Prinzipien guter Architektur außer Kraft zu setzen.",
-      "url": "https://www.heise.de/hintergrund/Continuous-Architecture-KI-zwingt-uns-dazu-veraltete-Dokumentation-aufzuraeumen-11497700.html",
-      "image_title": "Menschliche Hand trifft auch KI-Hand"
     },
     {
       "title": "RatgeberMehr digitale Souveränität: Open Source im Unternehmen einsetzen",
@@ -68,9 +68,21 @@
       "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-x12s-omnicyclone-im-test-beutelloser-saugroboter-mit-wassersprueher/059zlth?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
+      "title": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
+      "teaser": "OpenAI verschärfte nach Hacking-Attacken durch seine KI die Sicherheits-Maßnahmen. Die „Offline-Welten“ dafür sind aber nicht offline.",
+      "url": "https://www.heise.de/news/OpenAI-stellt-seine-neue-Trainingsumgebung-vor-ohne-Air-Gap-11499163.html",
+      "image_title": "Roboterhand bedient eine virtuelle Benutzeroberfläche mit Symbolen für KI, Cybersecurity und Zugangsschutz."
+    },
+    {
       "title": "AV Access iDock C20 im Test: 12-in-1-Dockingstation & KVM-Switch für 2 Monitore",
       "teaser": "Das AV Access iDock C20 bindet zwei Laptops per USB-C an zwei HDMI-Monitore an und lädt beide mit 60 W. Wir haben es für 260 Euro getestet.",
       "url": "https://www.heise.de/bestenlisten/testbericht/av-access-idock-c20-im-test-12-in-1-dockingstation-und-kvm-switch-fuer-2-monitore/rsdkzs2?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Continuous Architecture: KI zwingt uns dazu, veraltete Dokumentation aufzuräumen",
+      "teaser": "Im Interview beschreibt Murat Erder, wie KI Softwareentwicklung verändern kann, ohne die grundlegenden Prinzipien guter Architektur außer Kraft zu setzen.",
+      "url": "https://www.heise.de/hintergrund/Continuous-Architecture-KI-zwingt-uns-dazu-veraltete-Dokumentation-aufzuraeumen-11497700.html",
+      "image_title": "Menschliche Hand trifft auch KI-Hand"
     },
     {
       "title": "iX-Workshop: Wireshark für Netzwerkdiagnose und -sicherheit",
@@ -127,18 +139,6 @@
       "teaser": "Anthropic veröffentlicht mit Claude Duet nun auch einen persönlichen Agenten. Er zielt zunächst auf Fachleute und Kleinunternehmer und startet als Preview.",
       "url": "https://www.heise.de/news/Jetzt-auch-von-Anthropic-Proaktiver-KI-Agent-fuer-den-Arbeitsalltag-11498244.html",
       "image_title": "Das Claude-Logo von Anthropic auf einem Smartphone-Bildschirm."
-    },
-    {
-      "title": "php2shell: Millionen PHP-Dienste in Deutschland verwundbar",
-      "teaser": "Die IT-Sicherheitsfirma Censys scannt PHP-Server auf für php2shell anfällige Versionen. Millionen in Deutschland sind noch verwundbar.",
-      "url": "https://www.heise.de/news/php2shell-Millionen-PHP-Dienste-in-Deutschland-verwundbar-11498464.html",
-      "image_title": "Statistik über betroffene PHP-Versionen in Deutschland"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11476271.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "AlertNewsphp2shell: Kritische Sicherheitslücken erlauben Codeeinschleusung in PHP",
