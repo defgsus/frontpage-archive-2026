@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-26T17:45:13",
+  "timestamp": "2026-10-26T21:59:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,9 +20,41 @@
   ],
   "articles": [
     {
+      "title": "iOS und macOS 27.2: Das ändert sich auf iPhones, iPads und Macs",
+      "teaser": "Apple springt auf 27.2: iPhone, Mac und iPad erhalten neue Funktionen, Siri AI lernt mehr Sprachen und in Deutschland ändert sich die Werbe-Tracking-Nachfrage.",
+      "url": "https://www.heise.de/news/iOS-und-macOS-27-2-Das-aendert-sich-auf-iPhones-iPads-und-Macs-11500927.html",
+      "image_title": "iPhone mit Rückseite neben der Packung"
+    },
+    {
+      "title": "CloudflareJahrelang Sicherheitsprobleme wie bei php2shell",
+      "teaser": "Mit KI wird gerade jeglicher Code durchsucht. Laut Cloudflare ist noch jahrelang mit neuen, schweren Sicherheitslücken zu rechnen.",
+      "url": "https://www.heise.de/news/Cloudflare-Chef-erwartet-etliche-weitere-Luecken-wie-php2shell-11500909.html",
+      "image_title": "Cloudflare-Schriftzug an einem Gebäude"
+    },
+    {
+      "title": "Wenn KI wählen müsste: GPT und Grok liefern gegensätzliche Empfehlungen",
+      "teaser": "Ein Forscherteam fragte GPT-6.1 Sol und Grok 4.7 per API nach Wahlempfehlungen. Das Ergebnis: GPT wählte fast nur demokratisch, Grok fast nur republikanisch.",
+      "url": "https://www.heise.de/news/KI-Wahlempfehlungen-GPT-waehlt-Demokraten-Grok-waehlt-Republikaner-11500825.html",
+      "image_title": "Roboterhand wirft Wahlzettel ein, US-Flagge im Hintergrund"
+    },
+    {
       "title": "Entire: Ehemaliger GitHub-CEO startet GitHub-Alternative",
       "teaser": "Entire öffnet sein Git-Netzwerk für alle, vorerst kostenlos. Der Fokus liegt auf Entwicklung mit KI-Agenten und verteilter Infrastruktur.",
       "url": "https://www.heise.de/news/Entire-Ehemaliger-GitHub-CEO-startet-GitHub-Alternative-11496622.html"
+    },
+    {
+      "title": "TestsOpenCode 2.1: So funktioniert der Coding-Agent nach Baukastenprinzip",
+      "url": "https://www.heise.de/tests/OpenCode-2-1-So-funktioniert-der-Coding-Agent-nach-Baukastenprinzip-11498618.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundAgentic-Native Architecture: Warum autonome Agenten zuerst Kontrolle brauchen",
+      "url": "https://www.heise.de/hintergrund/Agentic-Native-Architecture-Warum-autonome-Agenten-zuerst-Kontrolle-brauchen-11498308.html",
+      "image_title": "Eine Person tippt auf einem Laptop, während eine Roboterhand aus dem Bildschirm heraus einer menschlichen Hand entgegenreicht."
+    },
+    {
+      "title": "RatgeberMailadresse oder Passwort geleakt? So reagieren Sie richtig",
+      "url": "https://www.heise.de/ratgeber/Mailadresse-oder-Passwort-geleakt-So-reagieren-Sie-richtig-11424341.html"
     },
     {
       "title": "ESP-SDR: Open-Source-Firmware macht den ESP32 zum Funkscanner",
@@ -41,26 +73,6 @@
       "teaser": "OpenAI wirbt offenbar mit Rabatten Unternehmenskunden von Anthropic ab. Laut Insiderinformationen scheint das zu funktionieren.",
       "url": "https://www.heise.de/news/OpenAI-wirbt-Anthropic-Kunden-offenbar-mit-Rabatten-ab-11500685.html",
       "image_title": "Populäre KI-Apps auf einem Smartphone-Display"
-    },
-    {
-      "title": "TestsOpenCode 2.1: So funktioniert der Coding-Agent nach Baukastenprinzip",
-      "url": "https://www.heise.de/tests/OpenCode-2-1-So-funktioniert-der-Coding-Agent-nach-Baukastenprinzip-11498618.html",
-      "image_title": ","
-    },
-    {
-      "title": "HintergrundAgentic-Native Architecture: Warum autonome Agenten zuerst Kontrolle brauchen",
-      "url": "https://www.heise.de/hintergrund/Agentic-Native-Architecture-Warum-autonome-Agenten-zuerst-Kontrolle-brauchen-11498308.html",
-      "image_title": "Eine Person tippt auf einem Laptop, während eine Roboterhand aus dem Bildschirm heraus einer menschlichen Hand entgegenreicht."
-    },
-    {
-      "title": "RatgeberMailadresse oder Passwort geleakt? So reagieren Sie richtig",
-      "url": "https://www.heise.de/ratgeber/Mailadresse-oder-Passwort-geleakt-So-reagieren-Sie-richtig-11424341.html"
-    },
-    {
-      "title": "KI-Wahlempfehlungen: GPT wählt Demokraten, Grok wählt Republikaner",
-      "teaser": "Ein Forscherteam fragte GPT-6.1 Sol und Grok 4.7 per API nach Wahlempfehlungen. Das Ergebnis: GPT wählte fast nur demokratisch, Grok fast nur republikanisch.",
-      "url": "https://www.heise.de/news/KI-Wahlempfehlungen-GPT-waehlt-Demokraten-Grok-waehlt-Republikaner-11500825.html",
-      "image_title": "Roboterhand wirft Wahlzettel ein, US-Flagge im Hintergrund"
     },
     {
       "title": "Podcast: „Die digitale Welt ist durch das Amoklaufen der KI-Konzerne gefährdet“",
@@ -133,18 +145,6 @@
       "teaser": "In einem zweitägigen Online-Workshop lernen Admins, Kea-DHCP hochverfügbar aufzusetzen, per API zu automatisieren und mit Stork zentral zu überwachen.",
       "url": "https://www.heise.de/news/c-t-Workshop-DHCP-automatisieren-mit-Kea-und-Stork-11486001.html",
       "image_title": "Zwei bunte Vögel sitzen auf zwei übereinander gestapelten Servern vor orangefarbenem Hintergrund"
-    },
-    {
-      "title": "Python schließt per Update kritische TLS-Lücke wegen eMudhra-Schlüsseln",
-      "teaser": "Python 3.15.2, 3.14.10, 3.13.18, 3.12.16 und 3.11.18 beheben eine kritische Schwachstelle durch kompromittierte eMudhra-Zertifikate und weitere Lücken.",
-      "url": "https://www.heise.de/news/Python-schliesst-per-Update-kritische-TLS-Luecke-wegen-eMudhra-Schluesseln-11499933.html",
-      "image_title": "Hand tippt auf virtuelles Hexagon mit Python-Schriftzug."
-    },
-    {
-      "title": "AlertBrotli-Decoder-Lücke nicht nur in Node.js, sondern auch in Bun, Python und mehr",
-      "teaser": "Die zunächst als „node2shell“ genannte Lücke im Brotli-Decoder von Google betrifft weitere Software. Admins sollten zügig updaten.",
-      "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
-      "image_title": "Logo zur Broccoli2Shell-Lücke"
     },
     {
       "title": "NewsAfD-Leak: Mutmaßliche Täter bekennen sich",
