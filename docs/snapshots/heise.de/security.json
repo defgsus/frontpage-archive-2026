@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-27T06:55:43",
+  "timestamp": "2026-10-27T12:49:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,21 @@
   ],
   "articles": [
     {
+      "title": "Alertphp2shellErfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+      "teaser": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
+      "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
+      "image_title": "php2shell-Schriftzug unter php-Logo auf Matrix-Regen-Hintergrund"
+    },
+    {
       "title": "AlertBrotli-Leck „Broccoli2Shell“Lücke nicht nur in Node.js, auch in Bun, Python und mehr",
       "teaser": "Die zunächst „node2shell“ genannte Lücke im Brotli-Decoder betrifft weitere Software. Admins sollten zügig updaten.",
       "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
       "image_title": "Logo zur Broccoli2Shell-Lücke"
     },
     {
-      "title": "AlertSicherheitslückenAngriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
-      "teaser": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.",
-      "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html"
-    },
-    {
-      "title": "AlertBrotli-Leck „Broccoli2Shell“Lücke nicht nur in Node.js, auch in Bun, Python und mehr",
-      "url": "https://www.heise.de/news/Brotli-Decoder-Luecke-nicht-nur-in-Node-js-sondern-auch-in-Bun-Python-und-mehr-11499975.html",
-      "image_title": "Logo zur Broccoli2Shell-Lücke"
+      "title": "Alertphp2shellErfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
+      "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
+      "image_title": "php2shell-Schriftzug unter php-Logo auf Matrix-Regen-Hintergrund"
     },
     {
       "title": "Webinar | 21. OktoberKI für Verteidiger 2026",
@@ -50,6 +51,18 @@
     {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Sicherheit: Apple stopft wieder viele Löcher – auch für ältere Betriebssysteme",
+      "teaser": "Mit iOS 27.2, macOS 27.2 und Co. kommen einmal mehr jede Menge gestopfte Löcher auf Apples Geräte. Nutzer sollten schnell aktualisieren.",
+      "url": "https://www.heise.de/news/Sicherheit-Apple-stopft-wieder-viele-Loecher-auch-fuer-aeltere-Betriebssysteme-11501091.html",
+      "image_title": "iPhone mit einem Apple-Schlosslogo: Nur mit den neuesten Updates auch sicher"
+    },
+    {
+      "title": "Kali Linux 2026.3: Images einfacher selbst bauen und Wardriving per Smartwatch",
+      "teaser": "Wer Kali Linux nach eigenen Vorstellungen zusammenstellen will, kann das jetzt auch im Container erledigen. Zudem gibt es neue Pentestingwerkzeuge.",
+      "url": "https://www.heise.de/news/Kali-Linux-2026-3-Images-einfacher-selbst-bauen-und-Wardriving-per-Smartwatch-11501465.html",
+      "image_title": "Das Display einer Smartwatch wird angezeigt"
     },
     {
       "title": "Cloudflare: Jahrelang Sicherheitsprobleme wie bei php2shell",
@@ -93,6 +106,11 @@
       "image_title": "Eine Hand mit einer digitalen roten Weltkugel und lauter Warnzeichen"
     },
     {
+      "title": "AlertAngriffe auf Arista VeloCloud und Collabora/Nextcloud beobachtet",
+      "teaser": "Angreifer nutzen eine Lücke in Collabora und installieren Webshells auf Nextcloud-Servern. Auch Arista VeloCloud wird attackiert.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Arista-VeloCloud-und-Collabora-Nextcloud-beobachtet-11499615.html"
+    },
+    {
       "title": "„Tal der Tränen“: Warum Angreifer bei Sicherheitslücken derzeit im Vorteil sind",
       "teaser": "Ein Experte der Cyberagentur des Bundes erklärt, warum Sicherheitslücken wie die PHP-Schwachstelle derzeit zunehmen und wie KI künftig helfen könnte.",
       "url": "https://www.heise.de/news/Cyberagentur-Software-Schwachstellen-bleiben-laenger-ein-Problem-11499379.html",
@@ -129,32 +147,14 @@
       "image_title": "Eine aufklappbare Tür mit einem Schlüssel, umgeben von vier quadratischen Tafeln."
     },
     {
-      "title": "W3C: Ein Auftrag ist kein Freibrief für KI-Agenten",
-      "teaser": "Wie bleiben Nutzer in Kontrolle, wenn KI-Agenten Websites bedienen? Das W3C-Strategieteam skizziert Anforderungen an sichere Webstandards.",
-      "url": "https://www.heise.de/news/W3C-Ein-Auftrag-ist-kein-Freibrief-fuer-KI-Agenten-11497919.html",
-      "image_title": "Eine stilisierte Weltkugel mit einem Netzwerk aus weißen Linien und Punkten, die sie umgeben."
-    },
-    {
-      "title": "AlertCisco stopft diverse, teils kritische Sicherheitslücken",
-      "teaser": "In mehreren Produkten von Cisco klaffen teils kritische Lücken. Der Hersteller stellt Sicherheitsupdates bereit.",
-      "url": "https://www.heise.de/news/Cisco-stopft-diverse-teils-kritische-Sicherheitsluecken-11497857.html",
-      "image_title": "Cisco Logo an einem Gebäude"
-    },
-    {
-      "title": "iX-Workshop: Spurensicherung nach M365-Angriff ‒ Protokolle gezielt auswerten",
-      "teaser": "Lernen Sie, wie Sie mit Angriffen auf Ihre Microsoft-365-Umgebung richtig umgehen, digitale Spuren gezielt sichern und sich vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Spurensicherung-nach-M365-Angriff-Protokolle-gezielt-auswerten-11476259.html",
-      "image_title": "iX-Workshop M365 Forensik und Incident Response: Angriffe erkennen, eindämmen und forensisch untersuchen"
+      "title": "Webinar | 6.11.2026Vom Notfall-Patch zum Versionssprung: PHP nach PHP2Shell",
+      "teaser": "Dieses Webinar vermittelt, wie Sie nach PHP2Shell mit Analyse, Tests und Refactoring auf eine unterstützte PHP-Version wechseln.",
+      "url": "https://heise-conferences.de/webinar/vom-notfall-patch-zum-versionssprung-php-nach-php2shell-UcFXSF7D539Q2e?wt_mc=intern.conf.ix.web_php.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Workshop | 9. – 12.11.2026IT-Grundschutz-Praktiker mit Zertifikat",
       "teaser": "Lernen Sie die IT-Grundschutz-Methodik des BSI kennen und erwerben Sie das offizielle Zertifikat.",
       "url": "https://heise-conferences.de/workshop/it-grundschutz-praktiker-mit-zertifikat-C55fj4n99qdY6T?wt_mc=intern.conf.ix.ws_itgrundschutz.security_buehne_2.teaser.teaser"
-    },
-    {
-      "title": "Workshop | 18.11.2026Einführung ins Threat Modeling",
-      "teaser": "Etablieren Sie IT-Security als Mindset und lernen Sie Threat Modeling als leichtgewichtige Methode kennen, um Security frühzeitig zu adressieren.",
-      "url": "https://heise-conferences.de/workshop/einfuhrung-ins-threat-modeling-iSzYRFxCRMILG1?wt_mc=intern.conf.ct.ws_threat-modeling.security_buehne_2.teaser.teaser"
     },
     {
       "title": "Konferenz | 18.11.2026IT-Sicherheitstag Gelsenkirchen",
