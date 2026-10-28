@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T19:56:39",
+  "timestamp": "2026-10-28T23:43:57",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
+      "teaser": "Erst vor 4 Wochen hat Google sein Sprachmodell Gemini Argon freigegeben, da lässt es schon das nächste Spitzenmodell vom Stapel laufen. Es heißt Carbon.",
+      "url": "https://www.heise.de/news/Gemini-Argon-war-gestern-jetzt-kommt-Carbon-11503849.html",
+      "image_title": "Ein blauer Lichtstrahl fällt auf die aus Lichtpunkten zusammengesetzte Zeichnung eines Gehirms sowie die Buchstaben AI"
+    },
+    {
+      "title": "„Copilot Access“: GitHub macht Copilot für Enterprise-Kunden verfügbar",
+      "teaser": "GitHub vereinfacht den Zugang zum Large Language Model Copilot für Enterprise-Kunden. Außerdem soll besseres Modell-Routing helfen, Token zu sparen.",
+      "url": "https://www.heise.de/news/Copilot-Access-GitHub-macht-Copilot-fuer-Enterprise-Kunden-verfuegbar-11503777.html",
+      "image_title": "Github-Logo, darunter eine Eingabemakse mit geöffnetem Drop Down Menü für Copilot Fusion. Zur Auswahl stehen die \"Effort Level\" Standard, High und Max."
+    },
+    {
       "title": "Der nächste Engpass für Elektronik in Europa: Leiterplatten werden knapp",
       "teaser": "In Europa gibt es nur noch wenige Hersteller von Platinen, auch PCBs genannt. Zudem drohen Lieferschwierigkeiten bei Vorprodukten wie Epoxidharz und Glasgewebe.",
       "url": "https://www.heise.de/news/Der-naechste-Engpass-fuer-Elektronik-in-Europa-Leiterplatten-werden-knapp-11503725.html",
@@ -30,18 +42,6 @@
       "teaser": "Touchscreen, Tandem-OLED und Dynamic Island geben ihr großes MacBook-Pro-Debüt. Apple sortiert die neuen Notebooks preislich ganz oben ein.",
       "url": "https://www.heise.de/news/Touch-me-Apple-MacBook-Pro-erstmals-mit-OLED-Touchscreen-11503623.html",
       "image_title": "Touch erlaubt beim neuen MacBook Pro PROLED XDR"
-    },
-    {
-      "title": "Billige KI-Accounts per Abo-Sharing: GamsGo ausprobiert",
-      "teaser": "Nützliche KI-Assistenten aus der Cloud gibt es viele. Leider sind sie recht teuer. Abo-Sharing spart Geld. Dafür zahlen Nutzer einen anderen Preis.",
-      "url": "https://www.heise.de/ratgeber/Billige-KI-Accounts-per-Abo-Sharing-GamsGo-ausprobiert-11432070.html",
-      "image_title": "Illustration: Ein zwielichter Händler bietet Zugänge für KI-Dienste an."
-    },
-    {
-      "title": "Adafruit Metro ESP32-P4 Hydra kombiniert RISC-V mit Kamera und Display",
-      "teaser": "Ein ESP32-P4 übernimmt die Rechenarbeit, ein ESP32-C6 sorgt für Funk. Das neue Adafruit-Board richtet sich an anspruchsvolle Maker-Projekte.",
-      "url": "https://www.heise.de/news/Adafruit-kombiniert-ESP32-P4-und-ESP32-C6-auf-einem-Board-11503585.html",
-      "image_title": "Schwarze ESP32-P4-Mikrocontrollerplatine mit USB-C-Anschluss, USB-A-Host-Anschluss, DC-Strombuchse, GPIO-Pinleisten und Flachbandkabelanschlüssen auf grauem Hintergrund."
     },
     {
       "title": "RatgeberBillige KI-Accounts per Abo-Sharing: GamsGo ausprobiert",
@@ -56,6 +56,12 @@
     {
       "title": "RatgeberAutomad statt WordPress: Websites ohne Datenbank betreiben",
       "url": "https://www.heise.de/ratgeber/Automad-statt-WordPress-Websites-ohne-Datenbank-betreiben-11498200.html"
+    },
+    {
+      "title": "Adafruit Metro ESP32-P4 Hydra kombiniert RISC-V mit Kamera und Display",
+      "teaser": "Ein ESP32-P4 übernimmt die Rechenarbeit, ein ESP32-C6 sorgt für Funk. Das neue Adafruit-Board richtet sich an anspruchsvolle Maker-Projekte.",
+      "url": "https://www.heise.de/news/Adafruit-kombiniert-ESP32-P4-und-ESP32-C6-auf-einem-Board-11503585.html",
+      "image_title": "Schwarze ESP32-P4-Mikrocontrollerplatine mit USB-C-Anschluss, USB-A-Host-Anschluss, DC-Strombuchse, GPIO-Pinleisten und Flachbandkabelanschlüssen auf grauem Hintergrund."
     },
     {
       "title": "GitHub: TypeScript bleibt dank KI-Agenten populärste Programmiersprache",
@@ -138,12 +144,6 @@
       "title": "Vibe-Coding auf dem Mac – vier Wege zur eigenen App",
       "teaser": "Ein erster Prototyp ist schnell gepromptet. Im Webinar sehen Sie, wie daraus eine App für iPhone oder Web entsteht und was für Sicherheit und Datenschutz zählt.",
       "url": "https://www.heise.de/news/Vibe-Coding-auf-dem-Mac-vier-Wege-zur-eigenen-App-11501055.html"
-    },
-    {
-      "title": "UpdateeMudhra-TLS-Leck: Apple lässt Problem auf macOS-Kommandozeile zunächst bestehen",
-      "teaser": "Während Browser längst gepatcht sind, hat Apple die Datei cert.pem, die diverse CLI-Werkzeuge nutzen, nicht korrigiert. Immerhin gibt es eine Anleitung.",
-      "url": "https://www.heise.de/news/eMudhra-TLS-Leck-Apple-laesst-Problem-auf-macOS-Kommandozeile-zunaechst-bestehen-11500945.html",
-      "image_title": "macOS-Terminal (Illustration)"
     },
     {
       "title": "NewsMicrosoft bietet 60.000 Mitarbeitern Goldenen Handschlag",
