@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-28T07:37:58",
+  "timestamp": "2026-10-28T14:36:20",
   "url": "https://www.faz.net/aktuell/wissen/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Informationstheorie: In der Mathematik platzt die nächste Bombe",
+      "teaser": "Einer mathematischen Hypothese zufolge wären zumindest einige Verschlüsselungsalgorithmen nur extrem aufwendig zu knacken. Jetzt zeigen gleich zwei von KI-Modellen erzeugte Beweise: Die Hypothese ist falsch.",
+      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/openai-ki-widerlegt-exponential-time-hypothesis-201625425.html"
+    },
+    {
       "title": "Dürre in Deutschland: Den Flüssen fehlt nach wie vor das Wasser",
       "teaser": "Durch Deutschlands Ströme floss im gesamten Jahr extrem wenig Wasser – die Folge eines Winters ohne Schnee und eines Sommers mit großer Hitze. Bisher hat der Herbst wenig geholfen.",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/nach-wie-vor-niedrigwasser-in-den-deutschlands-fluessen-201626239.html"
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/nach-wie-vor-niedrigwasser-in-den-deutschlands-fluessen-201626239.html",
+      "image_url": "https://media0.faz.net/image/w1200/c0dfcc842c3c/w6144h3456x0y320/202610/4c780489-e12e-4249-a070-4dff5ccd2c6e/der-rhein-im-august-2026.webp",
+      "image_title": "Der Rhein im August 2026: Spaziergänger gehen durch das ausgetrocknete Flussbett des Rheins zum Mäuseturm bei Bingen."
     },
     {
       "title": "Botanik-Kolumne: Herbstputz gegen Sommermücken",
@@ -62,17 +69,17 @@
       "image_title": "Wer im nächsten Sommer Ruhe vor Stechinsekten haben möchte, muss jetzt seine Töpfe putzen."
     },
     {
-      "title": "FAZ+Personalisierte Therapie: Impfen gegen Krebs ist alles, nur keine Kleinigkeit",
-      "teaser": "Der neue Erfolg in der Therapie von schwarzem Hautkrebs mit Hilfe einer personalisierten Krebsvakzine lässt hoffen und fürchten zugleich. Kann sich die Gesellschaft den Fortschritt der Forscher am Ende auch leisten?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schwarzer-hautkrebs-was-ist-der-erfolg-des-impfstoffs-wert-201622051.html",
-      "image_url": "https://media0.faz.net/image/w1200/f1dc68059286/w4073h2291x0y212/202610/43601.0.2773410988/die-mrna-krebsvakzine-wird-wie.webp",
-      "image_title": "Die mRNA-Krebsvakzine wird wie eine gewöhnliche Virus-Impfung intramuskulär verabreicht."
-    },
-    {
       "title": "Herbsträtsel: Mein Kopf denkt um drei Ecken",
       "teaser": "Öffnen",
       "url": "https://www.faz.net/aktuell/wissen/netzraetsel/faz-wissen-herbstraetsel-201254698.html",
       "image_url": "https://media0.faz.net/image/w1200/daa15c1875e1/w3543h1993x0y302/202610/43601.0.2617159156/4360102617159156.webp"
+    },
+    {
+      "title": "FAZ+Personalisierte Therapie: Impfen gegen Krebs ist alles, nur keine Kleinigkeit",
+      "teaser": "Der neue Erfolg in der Therapie von schwarzem Hautkrebs mit Hilfe einer personalisierten Krebsvakzine lässt hoffen und fürchten zugleich. Kann sich die Gesellschaft den Fortschritt der Forscher am Ende auch leisten?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/schwarzer-hautkrebs-was-ist-der-erfolg-des-impfstoffs-wert-201622051.html",
+      "image_url": "https://media0.faz.net/image/w1100/f1dc68059286/w4073h2291x0y212/202610/43601.0.2773410988/die-mrna-krebsvakzine-wird-wie.webp",
+      "image_title": "Die mRNA-Krebsvakzine wird wie eine gewöhnliche Virus-Impfung intramuskulär verabreicht."
     },
     {
       "title": "Martin Löffler: Es war alles ganz egal",
@@ -87,13 +94,6 @@
       "url": "https://www.faz.net/aktuell/wissen/leben-gene/insektenschwund-im-nordwesten-europas-ist-das-problem-besonders-deutlich-accg-201602209.html",
       "image_url": "https://media0.faz.net/image/w1100/e3fe60fce10f/w5419h3048x0y340/202608/43601.0.2439725686/vor-allem-wichtige.webp",
       "image_title": "Vor allem wichtige Bestäuberinsekten wurden untersucht."
-    },
-    {
-      "title": "FAZ+Empfindliche Psyche: Die dunkle Seite der Meditation",
-      "teaser": "Wer viel meditiert, läuft Gefahr, Schlafstörungen oder sogar Psychosen zu erleiden. Wer ist gefährdet und wie kann man vorbeugen?",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/meditation-wann-sie-schlafstoerungen-oder-psychosen-ausloest-accg-201605310.html",
-      "image_url": "https://media0.faz.net/image/w1100/27019e74ae64/w16725h9408x1075y0/202610/f97738ca-ba48-4303-8c7b-5e33292d5c8b/meditation-soll-die-gedanken.webp",
-      "image_title": "Meditation soll die Gedanken zur Ruhe bringen und Stress reduzieren. Nicht immer gelingt das."
     },
     {
       "title": "Epidemie-Erfahrung: Lernen aus der Epidemie",
@@ -166,18 +166,18 @@
       "image_title": "Ulf von Rauchhaupt"
     },
     {
+      "title": "FAZ+Empfindliche Psyche: Die dunkle Seite der Meditation",
+      "teaser": "Wer viel meditiert, läuft Gefahr, Schlafstörungen oder sogar Psychosen zu erleiden. Wer ist gefährdet und wie kann man vorbeugen?",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/meditation-wann-sie-schlafstoerungen-oder-psychosen-ausloest-accg-201605310.html",
+      "image_url": "https://media0.faz.net/image/w880/27019e74ae64/w16725h9408x1075y0/202610/f97738ca-ba48-4303-8c7b-5e33292d5c8b/meditation-soll-die-gedanken.webp",
+      "image_title": "Meditation soll die Gedanken zur Ruhe bringen und Stress reduzieren. Nicht immer gelingt das."
+    },
+    {
       "title": "Botanik-Kolumne: Die dunkle Seite der Eckern",
       "teaser": "Derzeit fallen nicht nur Nüsse und Kastanien, sondern auch Bucheckern. Wer sie sammeln will, sollte ein paar Regeln beachten. Denn ungefährlich sind sie nicht.",
       "url": "https://www.faz.net/aktuell/wissen/ab-in-die-botanik/bucheckern-warum-sie-in-groesseren-mengen-giftig-sind-accg-201315118.html",
       "image_url": "https://media0.faz.net/image/w880/82ec37de6ae4/w4288h2412x0y218/200910/431.0.56973385/wenig-zu-knabbern-bucheckern.webp",
       "image_title": "Wenig zu knabbern: Bucheckern im Herbst"
-    },
-    {
-      "title": "Bildband zu Krebstherapien: „Ich bin kein Angsthase. Ich gucke nach vorne.“",
-      "teaser": "Die Münchner Fotografin Herlinde Koelbl hat mit 40 Krebspatienten in der Klinik gesprochen. Ihre Fotografien verraten viel über die moderne Medizin und ihre Patienten.",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/bewegender-bildband-mit-krebspatienten-von-herlinde-koelbl-201461715.html",
-      "image_url": "https://media0.faz.net/image/w880/7426abb18ab9/w1920h1080x0y100/202610/43601.0.2731621845/der-ehemalige-anaesthesist-und.webp",
-      "image_title": "Der ehemalige Anästhesist und Krebspatient Manfred Flöck mit seiner Bestrahlungsmaske, die er für Fotografin Herlinde Koelbl in die Kamera hält."
     },
     {
       "title": "FAZ+Kolumne „Gesundheitsmythen“: „Man nimmt zu, auch wenn man nicht mehr isst“",
@@ -187,24 +187,25 @@
       "image_title": "Plötzlich passt die Jeans nicht mehr, auch wenn man nicht mehr gegessen hat."
     },
     {
-      "title": "Demographischer Wandel: Deutschland fehlen Frauen – diese Regionen sind besonders betroffen",
-      "teaser": "Öffnen",
-      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/deutschland-fehlen-frauen-diese-regionen-sind-besonders-betroffen-201606394.html",
-      "image_url": "https://media0.faz.net/image/w1100/bff15760b71f/w2884h1622x260y0/202610/a0c15cfa-1715-4eef-a8f7-8ec1106cd513/f8yqmpleainz.webp"
-    },
-    {
-      "title": "KI Und Gehirn: Die Zähmung des Molochs",
-      "teaser": "Gastbeitrag Digitale „intelligente“ Maschinen wissen nicht, was sie tun. Erst unser analoges Gehirn gibt dem Output von KI eine Bedeutung. In diesem Gegensatz steckt eine Chance. Ein Vorschlag für hybride Intelligenz.",
-      "url": "https://www.faz.net/aktuell/wissen/computer-mathematik/neurologe-wolf-singer-ki-menschliches-gehirn-und-hybride-intelligenz-accg-201599272.html",
-      "image_url": "https://media0.faz.net/image/w1100/4274eee73e30/w3000h1687x0y156/201404/431.0.38978195/geist-und-maschine-im-film.webp",
-      "image_title": "Geist und Maschine: Im Film „Transcendence“ von 2014 überträgt KI-Forscher Dr. Will Caster (Johnny Depp) sein Bewusstsein auf einen Computer."
-    },
-    {
       "title": "UN-Biodiversitätskonferenz: Wie kommen die Länder voran bei der Rettung der Natur?",
       "teaser": "Halbzeit bei der Weltnaturkonferenz: Lässt sich die Zerstörung bis zum Jahr 2030 beenden? Die Konflikte sind groß – der Wille, das ehrgeizigste Naturschutzprojekt der Geschichte nicht scheitern zu lassen, aber auch.",
       "url": "https://www.faz.net/aktuell/wissen/erde-klima/weltnaturkonferenz-cop-17-in-eriwan-eine-zwischenbilanz-accg-201610959.html",
       "image_url": "https://media0.faz.net/image/w1100/3d88f0cec3ea/w3113h1751x433y974/202610/4a2897e7-b14c-4035-bb0d-7bf1ab405532/artenschutz-dient-nicht-nur.webp",
       "image_title": "Artenschutz dient nicht nur der Natur, sondern auch den Menschen."
+    },
+    {
+      "title": "Leistungsprinzip: Warum Chancengleichheit nicht für Gerechtigkeit sorgt",
+      "teaser": "Welchen Anteil am eigenen Erfolg haben wir wirklich? Es kommt darauf an, welche Vorteile im Leben man als verdient oder unverdient ansieht.",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/studie-aus-den-usa-wo-das-leistungsprinzip-an-grenzen-stoesst-accg-201317650.html",
+      "image_url": "https://media0.faz.net/image/w1100/279cb2a2c108/w5997h3373x0y312/202606/43601.0.2214959139/kinder-im-unterricht-schule.webp",
+      "image_title": "Kinder im Unterricht: Schule als Fiktion der Startgleichheit?"
+    },
+    {
+      "title": "Folgen des KI-Umbruchs: Die Zukunft des Wissenschaftsjournalismus ist kritisch",
+      "teaser": "Gastbeitrag Werden allwissende KI-Agenten bald die Menschen ersetzen, die Brücken in die Forschung schlagen, Wissen einordnen und die richtigen Fragen stellen? Ein Plädoyer für die Erneuerung der unabhängigen Fremdbeobachtung der Wissenschaft im Dienst einer informierten Öffentlichkeit.",
+      "url": "https://www.faz.net/aktuell/wissen/forschung-politik/die-zukunft-des-wissenschaftsjournalismus-ist-kritisch-201613236.html",
+      "image_url": "https://media0.faz.net/image/w1100/42a4bb8a1d1d/w4032h2268x0y378/202610/9ec7700e-8d7c-4e30-9b77-517bc8ca4348/die-erste-pressekonferenz-in.webp",
+      "image_title": "Die erste Pressekonferenz in der Pandemie in Deutschland am 13.Februar 2020. Veranstalter waren das SMC und die Nationalakademie Leopoldina. Zu diesem Zeitpunkt gab es in Deutschland erst 16 bestätigte Fälle, die alle auf den ersten bekannten Cluster beim Autozulieferer Webasto in Bayern zurückgingen. Am 13. Februar vermeldeten die Medien erfreuliche Nachrichten aus München: Der bundesweit erste geheilte Patient konnte gesund aus dem Krankenhaus entlassen werden."
     },
     {
       "title": "Depressionen: Wie Psychotherapie das Baby schützt",
