@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T10:29:43",
+  "timestamp": "2026-10-29T17:08:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertUpdateIT-SicherheitAngriffe auf Linux- und VMware-ESX-Schwachstellen",
+      "teaser": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
+      "image_title": "Warnsymbol vor digitalem Rauschen"
+    },
+    {
       "title": "Bösartige AppsMicrosoft Authenticator ließ Zugangstoken abgreifen",
       "teaser": "Microsoft hat im Authenticator eine Sicherheitslücke geschlossen, durch die bösartige Apps hätten Zugangstoken abgreifen können.",
       "url": "https://www.heise.de/news/Microsoft-Authenticator-Boesartige-Apps-konnten-Zugangstoken-abgreifen-11503334.html",
       "image_title": "Microsoft-Authenticator-Icon neben Achtung-Schild vor blauem Mosaik-Hintergrund"
     },
     {
-      "title": "„Passwort“ Folge 69Die Hütte brennt",
-      "teaser": "Der Podcast sieht sich einem Themenberg gegenüber. php2shell und eMudhra bekommen viel Raum, aber zuerst werden einige andere Themen aus deren Schatten gezogen.",
-      "url": "https://www.heise.de/news/Passwort-Folge-69-Die-Huette-brennt-11483971.html",
-      "image_title": "Logo Passwort - der heise security Podcast"
-    },
-    {
-      "title": "AlertUpdateIT-SicherheitAngriffe auf Linux- und VMware-ESX-Schwachstellen",
-      "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
+      "title": "AlertDiverse kritische Schwachstellen in WatchGuard Fireware OS",
+      "url": "https://www.heise.de/news/Diverse-kritische-Schwachstellen-in-WatchGuard-Fireware-OS-11504873.html",
+      "image_title": "Sicherheitswarnung auf einem Mikrochip"
     },
     {
       "title": "Zweiteiliges Webinar | 25.11. & 9.12.Zweiteiliges Webinar: Maßgeschneiderte Verteidigung mit Wazuh",
@@ -49,10 +49,46 @@
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "AlertUpdateAngriffe auf Linux- und VMware-ESX-Schwachstellen",
-      "teaser": "Die IT-Sicherheitsbehörde CISA warnt vor Angriffen auf Lecks im Linux-Kernel und VMware ESX. Dieses Mal sind Hintergründe bekannt.",
-      "url": "https://www.heise.de/news/Angriffe-auf-Linux-und-VMware-ESX-Schwachstellen-11503947.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
+      "title": "AlertDiverse kritische Schwachstellen in WatchGuard Fireware OS",
+      "teaser": "Schwere Sicherheitslücken gefährden Security-Appliances von WatchGuard. Updates stehen zur Verfügung und sollten schnell eingespielt werden.",
+      "url": "https://www.heise.de/news/Diverse-kritische-Schwachstellen-in-WatchGuard-Fireware-OS-11504873.html",
+      "image_title": "Sicherheitswarnung auf einem Mikrochip"
+    },
+    {
+      "title": "Mistral Large 4: Modellgewichte veröffentlicht, Coding-Leistung verbessert",
+      "teaser": "Nach drei Wochen zusätzlichem Training gibt Mistral die Gewichte seines KI-Flaggschiffs Large 4 frei. Beim Programmieren soll es besser geworden sein.",
+      "url": "https://www.heise.de/news/Mistral-Large-4-Modellgewichte-veroeffentlicht-Coding-Leistung-verbessert-11504965.html",
+      "image_title": "Ein Smartphone zeigt das Logo von Mistral AI auf dem Display."
+    },
+    {
+      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
+      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11480234.html",
+      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "Cyberangriff auf Fehmarnbelt-Tunnel-Gesellschaft: Cybergang meldet sich",
+      "teaser": "Die Fehmarnbelt-Tunnel-Baugesellschaft wurde Opfer eines Angriffs. Nun melden sich die angeblichen Täter und wollen Geld.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-Fehmarnbelt-Tunnel-Gesellschaft-Cybergang-meldet-sich-11504853.html",
+      "image_title": "Bogenbrücke führt über einen Meeresarm mit welligem Wasser."
+    },
+    {
+      "title": "Adobe schließt teilweise kritische Lücken in vier Produkten",
+      "teaser": "Mit einer Reihe Updates behebt Adobe Lücken, über die Angreifer Systeme kompromittieren könnten. Nutzer sollten zügig updaten.",
+      "url": "https://www.heise.de/news/Adobe-schliesst-teilweise-kritische-Luecken-in-vier-Produkten-11504628.html",
+      "image_title": "Ein Warnsymbol neben dem Adobe-Schriftzug vor einem Hintergrund aus grünem Programmcode"
+    },
+    {
+      "title": "AlertAngriffsversuche auf junge Lücke in Oracle E-Business-Suite",
+      "teaser": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
+      "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
+      "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "Gut getarnt: Automatisch startender Wurm bei GitHub ist schwer zu finden",
+      "teaser": "JFrog hat Schadcode in 42 GitHub-Repositories entdeckt. Dieser startet automatisch durch KI-Assistenten oder bei der Arbeit an Projekten.",
+      "url": "https://www.heise.de/news/Angreifer-kapern-42-GitHub-Repositories-fuer-npm-Wurm-Kampagne-testmetest-11503164.html",
+      "image_title": "Github-Logo an Gebäudewand"
     },
     {
       "title": "Neues LLM: Gemini 4 Carbon ist Exploit-Experte",
@@ -105,42 +141,6 @@
       "teaser": "Es sind wichtige Sicherheitsupdates für Veeam Backup & Replication und ONE erschienen. Bislang gibt es keine Hinweise auf laufende Attacken.",
       "url": "https://www.heise.de/news/Veeam-Backup-Server-manipulierbar-und-MFA-deaktivierbar-11502821.html",
       "image_title": "Ein symbolischer Updateknopf auf einer Tastatur."
-    },
-    {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Angreifer Active Directory kompromittieren und wie Sie Ihre AD-Umgebung effektiv vor Ransomware und anderen Cyberangriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-11480210.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "AlertAngreifer nehmen Brotli-, Adobe-Commerce- und Magento-Lecks ins Visier",
-      "teaser": "In freier Wildbahn wurden Angriffe auf kritische Sicherheitslücken in Brotli, Adobe Commerce und Magento beobachtet. Updates helfen.",
-      "url": "https://www.heise.de/news/Angreifer-nehmen-Brotli-Adobe-Commerce-und-Magento-Lecks-ins-Visier-11502623.html",
-      "image_title": "Broccoli2Shell- und Brotli-Logo vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Starlink-Observation geht über Online-Werbung",
-      "teaser": "Discover-Tech soll über Online-Werbung Spyware installieren. Ganz besonders soll sich die israelische Firma für Starlink-Nutzer interessieren.",
-      "url": "https://www.heise.de/news/Starlink-Observation-geht-ueber-Online-Werbung-11502479.html",
-      "image_title": "Starlink-Schüssel \"Dishy\", dahinter hockt ein US-Luftwaffensoldat in Tarnuniform"
-    },
-    {
-      "title": "UpdateSicherheit: Apple stopft wieder viele Löcher – auch für ältere Betriebssysteme",
-      "teaser": "Mit iOS 27.2, macOS 27.2 und Co. kommen einmal mehr jede Menge gestopfte Löcher auf Apples Geräte. Nutzer sollten schnell aktualisieren.",
-      "url": "https://www.heise.de/news/Sicherheit-Apple-stopft-wieder-viele-Loecher-auch-fuer-aeltere-Betriebssysteme-11501091.html",
-      "image_title": "iPhone mit einem Apple-Schlosslogo: Nur mit den neuesten Updates auch sicher"
-    },
-    {
-      "title": "Kali Linux 2026.3: Images einfacher selbst bauen und Wardriving per Smartwatch",
-      "teaser": "Wer Kali Linux nach eigenen Vorstellungen zusammenstellen will, kann das jetzt auch im Container erledigen. Zudem gibt es neue Pentestingwerkzeuge.",
-      "url": "https://www.heise.de/news/Kali-Linux-2026-3-Images-einfacher-selbst-bauen-und-Wardriving-per-Smartwatch-11501465.html",
-      "image_title": "Das Display einer Smartwatch wird angezeigt"
-    },
-    {
-      "title": "Alertphp2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
-      "teaser": "Seit Bekanntwerden der php2shell-Schwachstelle laufen Angriffe darauf. Am Wochenende wurden erste erfolgreiche Attacken bestätigt.",
-      "url": "https://www.heise.de/news/php2shell-Erfolgreiche-Angriffe-bestaetigt-noch-viele-Instanzen-ungepatcht-11501167.html",
-      "image_title": "php2shell-Schriftzug unter php-Logo auf Matrix-Regen-Hintergrund"
     },
     {
       "title": "Webinar | 6.11.2026Vom Notfall-Patch zum Versionssprung: PHP nach PHP2Shell",
