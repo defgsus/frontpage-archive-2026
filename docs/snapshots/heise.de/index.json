@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T22:06:19",
+  "timestamp": "2026-10-30T02:12:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Alphabets Börsenwert stürzt um halbe Billion Dollar",
+      "url": "https://www.heise.de/news/Alphabets-Boersenwert-stuerzt-um-halbe-Billion-Dollar-11505575.html"
+    },
     {
       "title": "Patrick Stewart ist tot",
       "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html"
@@ -56,10 +60,6 @@
       "url": "https://www.heise.de/ratgeber/Platzmanagement-fuer-Maschinen-Adapterplatten-System-selbst-bauen-11490744.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Finnische Polizei ermittelt jetzt wegen Bauarbeiten für Google-Rechenzentrum",
-      "url": "https://www.heise.de/news/Finnische-Polizei-ermittelt-jetzt-wegen-Bauarbeiten-fuer-Google-Rechenzentrum-11505106.html"
     },
     {
       "title": "Update„Oh Captain, my Captain!“Patrick Stewart ist tot",
@@ -184,19 +184,25 @@
       "image_title": "John Ternus bei der MacBook-Pro-Vorstellung"
     },
     {
+      "title": "Alphabets Börsenwert stürzt um halbe Billion Dollar",
+      "teaser": "Noch nie haben Aktien des Google-Konzerns an einem Tag so stark nachgegeben. Alphabet gibt viel für KI aus, verwässert Aktien und verliert mit Wertpapieren.",
+      "url": "https://www.heise.de/news/Alphabets-Boersenwert-stuerzt-um-halbe-Billion-Dollar-11505575.html",
+      "image_title": "Brennende Geldscheine"
+    },
+    {
       "title": "Top 10: Die beste Gaming-Tastatur im Test – schon ab 59 Euro richtig gut zocken",
       "teaser": "Gaming-Tastaturen haben besondere Anforderungen. Wir zeigen die besten Keyboards mit mechanischen und magnetischen Switches aus über 30 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-gaming-tastatur-im-test-schon-ab-59-euro-richtig-gut-zocken/gj64hls?wt_mc=intern.red.bestenlisten.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Der Wandel vom KI-Training zur KI-Inferenz",
+      "teaser": "In Sachen KI hat sich die größte Herausforderung für IT-Architekten vom Training hin zur Bereitstellung verlagert – insbesondere hin zur effizienten KI-Inferenz mit hohem Durchsatz im großen Maßstab.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7459617329&iu=%2F6514%2FClicktracking"
+    },
+    {
       "title": "Millionenkredite für Raumfahrtfirmen in Deutschland und EU",
       "teaser": "Lange Entwicklungszeiten und schwer kalkulierbare Erträge machen Raumfahrtfirmen die Finanzierung oft schwer. Ein neues Projekt soll das ändern.",
       "url": "https://www.heise.de/news/Millionenkredite-fuer-Raumfahrtfirmen-in-Deutschland-und-EU-11505409.html"
-    },
-    {
-      "title": "Eine Smartwatch, die Leben retten kann",
-      "teaser": "Bluthochdruck ist ein Risikofaktor für schwere Erkrankungen und einen vorzeitigen Tod. Durch Messen mit einer Smartwatch mit einer integrierten Luftdruckmanschette lässt er sich rechtzeitig bemerken.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7319603488&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Malaysia: Zoll beschlagnahmt KI-Chips im Wert von rund 12 Millionen US-Dollar",
@@ -226,12 +232,6 @@
       "teaser": "Die Corona-Pandemie zeigte: Die Welt war auf Pandemien nicht gut vorbereitet. Die WHO will das künftig mithilfe einer weltweiten Pandemiestrategie verbessern.",
       "url": "https://www.heise.de/news/Pandemien-frueh-mit-globalem-Ueberwachungsnetz-erkennen-11504881.html",
       "image_title": "Schaubild des 24-h-Szenario"
-    },
-    {
-      "title": "Der Cluster ist konform, die App aber nicht – da gibt's bald was von Kubernetes",
-      "teaser": "Vor Cluster-Upgrades müssen Admins Apps oft manuell auf Kompatibilität prüfen. Eine neue Kubernetes-Arbeitsgruppe entwickelt dafür standardisierte Tests.",
-      "url": "https://www.heise.de/news/Ueberlebt-die-App-den-Node-Drain-Kubernetes-plant-den-Haertetest-11505071.html",
-      "image_title": "Kubernetes-Logo auf einem blauen Polygon mit farbigen Punkten und Linien"
     },
     {
       "title": "Home Assistant und ein 17-Euro-SensorSo machen Sie den Gaszähler smart",
@@ -314,6 +314,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-die-beste-smartwatch-mit-ekg-gesundheitsuhren-im-test/02n25tj?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Der Cluster ist konform, die App aber nicht – da gibt's bald was von Kubernetes",
+      "teaser": "Vor Cluster-Upgrades müssen Admins Apps oft manuell auf Kompatibilität prüfen. Eine neue Kubernetes-Arbeitsgruppe entwickelt dafür standardisierte Tests.",
+      "url": "https://www.heise.de/news/Ueberlebt-die-App-den-Node-Drain-Kubernetes-plant-den-Haertetest-11505071.html",
+      "image_title": "Kubernetes-Logo auf einem blauen Polygon mit farbigen Punkten und Linien"
+    },
+    {
       "title": "AlertDiverse kritische Schwachstellen in WatchGuard Fireware OS",
       "teaser": "Schwere Sicherheitslücken gefährden Security-Appliances von WatchGuard. Updates stehen zur Verfügung und sollten schnell eingespielt werden.",
       "url": "https://www.heise.de/news/Diverse-kritische-Schwachstellen-in-WatchGuard-Fireware-OS-11504873.html",
@@ -386,15 +392,15 @@
       "image_title": "Ein Warnsymbol neben dem Adobe-Schriftzug vor einem Hintergrund aus grünem Programmcode"
     },
     {
+      "title": "Cybersicherheit und digitale Souveränität in Europa",
+      "teaser": "Wo Daten liegen, ist nur ein Teil der digitalen Souveränität. Vielmehr geht es um Abhängigkeiten von Cloud-, Security- und KI-Diensten. Wie Sie diese bewerten und im Ernstfall handlungsfähig bleiben, erfahren Sie im Live-Webcast am 17. November um 11 Uhr.",
+      "url": "https://business-services.heise.de/software/dokumenten-management/beitrag/effizienter-schutz-sensibler-daten-wie-microsoft-purview-um-securiti-ai-ergaenzt-wird-5089/?source=hbsad_ersatz"
+    },
+    {
       "title": "AlertAngriffsversuche auf junge Lücke in Oracle E-Business-Suite",
       "teaser": "Oracle hat mit dem Oktober-CPU auch Lücken in der E-Business-Suite geschlossen. Nun sehen IT-Forscher erste Angriffsversuche.",
       "url": "https://www.heise.de/news/Angriffsversuche-auf-junge-Luecke-in-Oracle-E-Business-Suite-11504666.html",
       "image_title": "Oracle-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Virtualisierung mit Weitblick: Kosten im Griff, Verfügbarkeit gesichert, Wechsel möglich",
-      "teaser": "Neue Lizenzmodelle und steigende Kosten stellen viele Virtualisierungsstrategien infrage. Welche Plattform zu welchen Anforderungen passt, erfahren Sie im Live-Webcast am 26. November um 11 Uhr.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/virtualisierung-mit-weitblick-kosten-im-griff-verfuegbarkeit-gesichert-wechsel-moeglich-5126/?source=hbsad-ersatz"
     },
     {
       "title": "Artificial Analysis v5: KI-Modelle im neuen Benchmark-Test",
@@ -448,12 +454,6 @@
       "teaser": "Samsung hat im Zuge der Veröffentlichung der Quartalszahlen einen Ausblick auf das Galaxy S27 und eine grobe Produktroadmap für das Jahr 2027 gewährt.",
       "url": "https://www.heise.de/news/Samsung-gibt-groben-Ausblick-auf-Galaxy-S27-und-Produktroadmap-2027-11504263.html",
       "image_title": "Drei Smartphones stehen auf einem Tisch, dazwischen ein Eingabestift."
-    },
-    {
-      "title": "Datenarchitektur als Schlüssel für erfolgreiche Transformationsprojekte",
-      "teaser": "Transformationsprojekte scheitern oft an unklaren Datenverantwortlichkeiten. Drei Fallstricke zeigen, wie eine solide Datenarchitektur Risiken minimiert.",
-      "url": "https://www.heise.de/hintergrund/Datenarchitektur-als-Schluessel-fuer-erfolgreiche-Transformationsprojekte-11501475.html",
-      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
     },
     {
       "title": "Alertphp2shell: Erfolgreiche Angriffe auf PHP-Schwachstelle bestätigt",
@@ -627,10 +627,10 @@
       "url": "https://www.heise.de/en/news/Calif-io-jailbreak-How-the-untethered-tool-cracks-iOS-27-0-1-11492321.html"
     },
     {
-      "title": "Smarter Verkehrsfunk: Ampelphasen am Smartphone anzeigen",
-      "teaser": "Rund um den Verkehrsfunk ITS-G5 entstehen vermehrt Softwareprojekte. Zum Beispiel die Android-App CITS-to-go, die dabei hilft, rote Ampeln zu überstehen.",
-      "url": "https://www.heise.de/ratgeber/Smarter-Verkehrsfunk-Ampelphasen-am-Smartphone-anzeigen-11497232.html",
-      "image_title": "Person auf einem Fahrrad mit Smartphone und Verkehrsampel"
+      "title": "Linux-Dateimanager Nemo mit eigenen Skripten und Actions erweitern",
+      "teaser": "Der Linux-Dateimanager Nemo lässt sich leicht um zusätzliche Funktionen erweitern. Dabei können Sie fertige Actions installieren oder eigene Skripte hinzufügen.",
+      "url": "https://www.heise.de/ratgeber/Linux-Dateimanager-Nemo-mit-eigenen-Skripten-und-Actions-erweitern-11398936.html",
+      "image_title": "Ein Pinguin zieht mit magischem Strom Symbole und Ordner in ein digitales Dateifenster."
     },
     {
       "title": "Der nächste EngpassLeiterplatten werden in Europa knapp",
@@ -639,10 +639,10 @@
       "image_title": "Blick auf eine Leiterplatte"
     },
     {
-      "title": "Urheberrecht, Patente, MarkenWas beim KI-Nachbau von Software zu beachten ist",
-      "teaser": "KI macht den Nachbau bekannter Programme verlockend einfach. Doch was technisch gelingt, ist längst nicht immer erlaubt. Eine juristische Einschätzung.",
-      "url": "https://www.heise.de/hintergrund/Urheberrecht-Patente-Marken-Was-beim-KI-Nachbau-von-Software-zu-beachten-ist-11487778.html",
-      "image_title": "Ein Roboterarm platziert einen Bauklötzchen auf ein pixelartiges Konsolenfenster."
+      "title": "Humanoide Roboter: Dank KI im kommenden Jahr alltagstauglich?",
+      "teaser": "Mit KI lernen humanoide Roboter immer schneller. Mehrere Hersteller wollen 2027 neue Modelle veröffentlichen – ein Überblick, was sie können und was nicht.",
+      "url": "https://www.heise.de/hintergrund/Humanoide-Roboter-Dank-KI-im-kommenden-Jahr-alltagstauglich-11499883.html",
+      "image_title": "Ein humanoider Roboter steht vor einer Waschmaschine."
     },
     {
       "title": "Apple BusinessWas Sie als Admin über Apples 27er-Systeme wissen müssen",
@@ -753,10 +753,10 @@
       "image_title": "Bild der zwei Hauotdarstellerinnen des Tatorts"
     },
     {
-      "title": "CCS unter der Nordsee: Warum Deutschlands CO2-Speicherpläne scheitern könnten",
-      "teaser": "CCS soll fossile Kraftwerke retten, doch die Rechnung geht nicht auf: 150 bis 250 Euro Speicherkosten pro Tonne CO2 steht ein CO2-Preis von 74 Euro gegenüber.",
-      "url": "https://www.telepolis.de/article/CCS-unter-der-Nordsee-Warum-Deutschlands-CO2-Speicherplaene-scheitern-koennten-11493517.html",
-      "image_title": "Schematische Darstellung von CCS"
+      "title": "KI-Agenten statt Personaler: Nur 8 Prozent der Firmen schulen ausreichend",
+      "teaser": "Laut EU-KI-Verordnung müssen Firmen KI-Kompetenz fördern. Die Realität sieht anders aus. Experten warnen vor Fehlentscheidungen bei Beförderungen und Gehältern.",
+      "url": "https://www.telepolis.de/article/KI-Agenten-statt-Personaler-Nur-8-Prozent-der-Firmen-schulen-ausreichend-11491632.html",
+      "image_title": "Ein Mann steht neben Icons von Menschen und einer KI."
     },
     {
       "title": "Lebensmittelverschwendung: Was Frankreich besser macht als Deutschland",
