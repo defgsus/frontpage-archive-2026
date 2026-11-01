@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-01T13:56:46",
+  "timestamp": "2026-11-01T18:41:08",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,16 @@
   ],
   "articles": [
     {
-      "title": "Humanoide Roboter: Dank KI im kommenden Jahr alltagstauglich?",
-      "teaser": "Mit KI lernen humanoide Roboter immer schneller. Mehrere Hersteller wollen 2027 neue Modelle veröffentlichen – ein Überblick, was sie können und was nicht.",
-      "url": "https://www.heise.de/hintergrund/Humanoide-Roboter-Dank-KI-im-kommenden-Jahr-alltagstauglich-11499883.html",
-      "image_title": "Ein humanoider Roboter steht vor einer Waschmaschine."
+      "title": "Knappe SpeicherchipsOpenAI-Chef Sam Altman findet DRAM in Privathand „schrecklich“",
+      "teaser": "Die Speicherpreise steigen weiter rasant, eine schnelle Lösung gibt es nicht – außer alles KI-Rechenzentren zu überlassen, findet Sam Altman.",
+      "url": "https://www.heise.de/news/Sam-Altman-Privat-genutztes-DRAM-ist-schrecklich-11507338.html",
+      "image_title": "Ein Gesicht wird von einem digitalen Netz mit einer Person verschmolzen"
+    },
+    {
+      "title": "Erste Daten von Googles KI-Satellit",
+      "teaser": "Google experimentiert mit KI-Beschleunigern im Orbit. Jetzt lieferte das Projekt erste Daten.",
+      "url": "https://www.heise.de/news/Googles-KI-Satellit-sendet-erste-Daten-aus-dem-All-11507302.html",
+      "image_title": "Blick aus dem All auf Europa bei Nacht mit leuchtenden Städten"
     },
     {
       "title": "Nach PHP2Shell: Vom Notfall-Patch zum sicheren Upgrade",
@@ -35,12 +41,6 @@
       "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
       "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-11480254.html",
       "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
-    },
-    {
-      "title": "Förderung für 300mm-Wafer in Itzehoe an Vishay übergeben",
-      "teaser": "Power-Mosfets aus Schleswig-Holstein werden künftig auf größeren Siliziumscheiben gefertigt – Vishay erweitert seine Chipfabrik.",
-      "url": "https://www.heise.de/news/Foerderung-fuer-300mm-Wafer-in-Itzehoe-an-Vishay-uebergeben-11507214.html",
-      "image_title": "Blick in den Reinraum von Vishay Siliconix in Itzehoe."
     },
     {
       "title": "HintergrundHome Assistant im Selbstversuch: Vom Smart-Home-Chaos zu voller Flexibilität",
@@ -56,6 +56,17 @@
       "title": "HintergrundDigitale Souveränität: Die Rechnung, die niemand macht",
       "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Die-Rechnung-die-niemand-macht-11505138.html",
       "image_title": "Ein Eisberg mit vielen Münzstapeln unter Wasser und einem Preisschild daran."
+    },
+    {
+      "title": "Sonoff TRV Gen2 im Test: günstiges Heizkörperthermostat für Home Assistant",
+      "teaser": "Sonoff TRV Gen2: günstiges Zigbee-Heizkörperthermostat mit PID-Regelung und lokalen Zeitplänen. Der Test zeigt, wie es sich in App und Home Assistant schlägt.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/sonoff-trv-gen2-im-test-guenstiges-heizkoerperthermostat-fuer-home-assistant/wh3ff9g?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Förderung für 300mm-Wafer in Itzehoe an Vishay übergeben",
+      "teaser": "Power-Mosfets aus Schleswig-Holstein werden künftig auf größeren Siliziumscheiben gefertigt – Vishay erweitert seine Chipfabrik.",
+      "url": "https://www.heise.de/news/Foerderung-fuer-300mm-Wafer-in-Itzehoe-an-Vishay-uebergeben-11507214.html",
+      "image_title": "Blick in den Reinraum von Vishay Siliconix in Itzehoe."
     },
     {
       "title": "Product Owner Days: Der Launch ist erst der Anfang",
@@ -133,18 +144,6 @@
       "teaser": "Neue Versionen von TeamViewer stopfen als hochriskant eingestufte Sicherheitslücken. Angreifer könnten etwa Code einschmuggeln.",
       "url": "https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html",
       "image_title": "Das TeamViewer-Logo wird durch eine Lupe vergrößert dargestellt."
-    },
-    {
-      "title": "Touch-MacBook Pro im Praxistest: Erste Eindrücke aus Los Angeles",
-      "teaser": "Einige feiern es, andere zweifeln: In Los Angeles konnten wir die neue Touch-Bedienung des MacBook Pro mit PROLED-XDR-Display schon einmal ausprobieren.",
-      "url": "https://www.heise.de/news/Hands-On-mit-dem-ersten-Touch-Mac-Was-auf-der-Hand-liegt-und-was-nicht-11506246.html",
-      "image_title": "MacBook Pro mit PROLED-XDR-Display"
-    },
-    {
-      "title": "AlertErneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
-      "teaser": "Eine kritische Lücke im TCP/IP-Stack des Linux-Kerns erlaubt Remote Code Execution. Anthropics Claude entdeckte den elf Jahre alten Fehler.",
-      "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
-      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
     },
     {
       "title": "NewsAlphabets Börsenwert stürzt um halbe Billion Dollar",
