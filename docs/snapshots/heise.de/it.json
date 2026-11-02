@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-02T01:56:43",
+  "timestamp": "2026-11-02T08:39:22",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,7 +20,51 @@
   ],
   "articles": [
     {
-      "title": "Knappe SpeicherchipsOpenAI-Chef Sam Altman findet DRAM in Privathand „schrecklich“",
+      "title": "AlertAttacken laufenAngriffe auf Drupal, Ivanti Connect Secure und Synology",
+      "teaser": "Angreifer missbrauchen Lücken in alten Betriebssystemen oder als Zero-Day-Lücken in Drupal, Ivanti Connect Secure und Synology.",
+      "url": "https://www.heise.de/news/Schwachstellen-in-Drupal-Ivanti-Connect-Secure-und-Synology-angegriffen-11507497.html",
+      "image_title": "Ein Mensch bedient ein berührungsempfindliches Display mit einer angezeigten Warnung."
+    },
+    {
+      "title": "Last Call: IT-Sicherheitstag Gelsenkirchen am 18. November",
+      "teaser": "Werte sichern, Angriffe verhindern: IT-Sicherheit als Wertegarant, Prävention und kollektive Resilienz im Fokus. Letzte Tickets sind noch buchbar.",
+      "url": "https://www.heise.de/news/Last-Call-IT-Sicherheitstag-Gelsenkirchen-am-18-November-11496846.html"
+    },
+    {
+      "title": "Wie Entwickler Claude mit C#-SDK in .NET einbinden",
+      "teaser": "Bisher nutzten .NET-Entwickler für das Anbinden von Claude HTTP-Aufrufe der REST-API oder ein Community-SDK. Anthropic liefert nun ein offizielles C#-SDK.",
+      "url": "https://www.heise.de/ratgeber/Wie-Entwickler-Claude-mit-C-SDK-in-NET-einbinden-11495780.html",
+      "image_title": ","
+    },
+    {
+      "title": "Abliteration erklärtWo KI ihr Gewissen hat und wie man es ausradiert",
+      "teaser": "Wer weiß, wo das „Gewissen“ eines Sprachmodells sitzt, kann es mit mathematischen Operationen lahmlegen. Wir erläutern die Grundlagen.",
+      "url": "https://www.heise.de/hintergrund/Abliteration-erklaert-Wo-KI-ihr-Gewissen-hat-und-wie-man-es-ausradiert-11462982.html",
+      "image_title": "Ein rundes Kontrollinstrument mit Hebel, Aufschriften und beleuchteten Segmenten"
+    },
+    {
+      "title": "RatgeberWie Entwickler Claude mit C#-SDK in .NET einbinden",
+      "url": "https://www.heise.de/ratgeber/Wie-Entwickler-Claude-mit-C-SDK-in-NET-einbinden-11495780.html",
+      "image_title": ","
+    },
+    {
+      "title": "HintergrundAbliteration erklärt: So lassen sich Schranken in Sprachmodellen durchbrechen",
+      "url": "https://www.heise.de/hintergrund/Abliteration-erklaert-Wo-KI-ihr-Gewissen-hat-und-wie-man-es-ausradiert-11462982.html",
+      "image_title": "Ein rundes Kontrollinstrument mit Hebel, Aufschriften und beleuchteten Segmenten"
+    },
+    {
+      "title": "RatgeberKI abliterieren: So entfesseln Sie Open-Weight-Modelle",
+      "url": "https://www.heise.de/ratgeber/KI-abliterieren-So-entfesseln-Sie-Open-Weight-Modelle-11462976.html",
+      "image_title": "Ein rundes Bedienpult mit einem Hebel und den Begriffen Sicher und Frei"
+    },
+    {
+      "title": "Meta arbeitet offenbar mit chinesischer Hilfe an humanoidem Haushaltsroboter",
+      "teaser": "'Max' heißt der Roboter in Menschengestalt, den Meta mit Unterstützung des chinesischen Start-ups Fourier entwickelt haben soll. Ein Verkauf ist nicht geplant.",
+      "url": "https://www.heise.de/news/Meta-arbeitet-offenbar-mit-chinesischer-Hilfe-an-humanoidem-Haushaltsroboter-11507414.html",
+      "image_title": "Meta-Logo und Kopf eines weiblichen Roboters"
+    },
+    {
+      "title": "OpenAI-Chef Sam Altman findet DRAM in Privathand „schrecklich“",
       "teaser": "Die Speicherpreise steigen weiter rasant, eine schnelle Lösung gibt es nicht – außer alles KI-Rechenzentren zu überlassen, findet Sam Altman.",
       "url": "https://www.heise.de/news/Sam-Altman-Privat-genutztes-DRAM-ist-schrecklich-11507338.html",
       "image_title": "Ein Gesicht wird von einem digitalen Netz mit einer Person verschmolzen"
@@ -32,6 +76,11 @@
       "image_title": "Blick aus dem All auf Europa bei Nacht mit leuchtenden Städten"
     },
     {
+      "title": "Sonoff TRV Gen2 im Test: günstiges Heizkörperthermostat für Home Assistant",
+      "teaser": "Sonoff TRV Gen2: günstiges Zigbee-Heizkörperthermostat mit PID-Regelung und lokalen Zeitplänen. Der Test zeigt, wie es sich in App und Home Assistant schlägt.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/sonoff-trv-gen2-im-test-guenstiges-heizkoerperthermostat-fuer-home-assistant/wh3ff9g?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
       "title": "Nach PHP2Shell: Vom Notfall-Patch zum sicheren Upgrade",
       "teaser": "Ein 2,5-stündiges Webinar zeigt detailliert, wie Entwickler und Betreiber älterer PHP-Anwendungen und -Websites sicher auf eine aktuelle PHP-Version upgraden.",
       "url": "https://www.heise.de/news/Nach-PHP2Shell-Vom-Notfall-Patch-zum-sicheren-Upgrade-11504538.html"
@@ -41,26 +90,6 @@
       "teaser": "Sich mit der Rolle des Informationssicherheitsbeauftragten vertraut machen: die Anforderungen verstehen und die notwendigen Kompetenzen erwerben.",
       "url": "https://www.heise.de/news/iX-Workshop-Aufgaben-eines-Informationssicherheitsbeauftragten-11480254.html",
       "image_title": "ix-Workshop IT-Sicherheit nach ISO 27001 umsetzen"
-    },
-    {
-      "title": "HintergrundHome Assistant im Selbstversuch: Vom Smart-Home-Chaos zu voller Flexibilität",
-      "url": "https://www.heise.de/hintergrund/Home-Assistant-im-Selbstversuch-Vom-Smart-Home-Chaos-zu-voller-Flexibilitaet-11431838.html",
-      "image_title": "Person hält eine Vielzahl von Geräten vor der Brust. Sie schaut unentschlossen drein."
-    },
-    {
-      "title": "HintergrundHerausforderung Legacy-Modernisierung: Strategien für die Zukunft",
-      "url": "https://www.heise.de/hintergrund/Herausforderung-Legacy-Modernisierung-Strategien-fuer-die-Zukunft-11501540.html",
-      "image_title": "Zwei Pfeile biegen in entgegengesetzte Richtungen ab, vor blauem Hintergrund"
-    },
-    {
-      "title": "HintergrundDigitale Souveränität: Die Rechnung, die niemand macht",
-      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Die-Rechnung-die-niemand-macht-11505138.html",
-      "image_title": "Ein Eisberg mit vielen Münzstapeln unter Wasser und einem Preisschild daran."
-    },
-    {
-      "title": "Sonoff TRV Gen2 im Test: günstiges Heizkörperthermostat für Home Assistant",
-      "teaser": "Sonoff TRV Gen2: günstiges Zigbee-Heizkörperthermostat mit PID-Regelung und lokalen Zeitplänen. Der Test zeigt, wie es sich in App und Home Assistant schlägt.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/sonoff-trv-gen2-im-test-guenstiges-heizkoerperthermostat-fuer-home-assistant/wh3ff9g?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Förderung für 300mm-Wafer in Itzehoe an Vishay übergeben",
@@ -116,34 +145,9 @@
       "image_title": "Aufmacher vom Dev Summit"
     },
     {
-      "title": "OpenAI verdoppelt ausgewählte Nutzungslimits und aktualisiert KI-Ziele",
-      "teaser": "OpenAI verdoppelt anscheinend die Nutzungskontingente für einige Pro- und Business-Kunden. Zudem wurden die Modellspezifikationen für KI aktualisiert.",
-      "url": "https://www.heise.de/news/OpenAI-verdoppelt-ausgewaehlte-Nutzungslimits-und-aktualisiert-KI-Ziele-11506206.html",
-      "image_title": "OpenAI-Logo auf Bildschirm, davor Hand mit Smartphone in Silhouette"
-    },
-    {
-      "title": "Intel-Aktie sackt um ein Viertel ab: Schwache Progonose fürs letzte Quartal",
-      "teaser": "Intel meldet gestiegenen Umsatz fürs dritte Quartal 2026, aber der Ausblick enttäuscht. Im PC-Markt geht es bergab und bei Servern gibt es Engpässe.",
-      "url": "https://www.heise.de/news/Intel-Aktie-sackt-um-ein-Viertel-ab-Schwache-Progonose-fuers-letzte-Quartal-11506352.html",
-      "image_title": "Das Intel-Logo auf einer blauen Stele vor einem Firmengebäude"
-    },
-    {
-      "title": "AlertClaude-Code-Erweiterung im Cursor-Marktplatz mit Malware infiziert",
-      "teaser": "Im Marktplatz der Entwicklungsumgebung Cursor steckte in der offiziellen Claude-Code-Erweiterung eine SSH-Backdoor.",
-      "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html",
-      "image_title": "Ein Smartphone mit dem Schriftzug Anthropic auf dem Display liegt auf einer Tastatur."
-    },
-    {
-      "title": "iX-Workshop: GenAI für Security – Auditierbare GRC-Assistenten und SOC-Reporting",
-      "teaser": "Im Workshop entwickeln Sie einen GRC-Assistenten und ein SOC-Reporting – praxisnah, auditierbar und compliance-konform.",
-      "url": "https://www.heise.de/news/iX-Workshop-GenAI-fuer-Security-Auditierbare-GRC-Assistenten-und-SOC-Reporting-11480244.html",
-      "image_title": "Generative KI in der Security-Praxis – Governance-konforme Use Cases für GRC und SOC"
-    },
-    {
-      "title": "AlertTeamViewer stopft Codeschmuggel-Lücke",
-      "teaser": "Neue Versionen von TeamViewer stopfen als hochriskant eingestufte Sicherheitslücken. Angreifer könnten etwa Code einschmuggeln.",
-      "url": "https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Luecke-11506072.html",
-      "image_title": "Das TeamViewer-Logo wird durch eine Lupe vergrößert dargestellt."
+      "title": "NewsFrankreich plant Internetsteuer: 5,5 Cent pro Gigabyte",
+      "url": "https://www.heise.de/news/Frankreich-plant-Internetsteuer-5-5-Cent-pro-Gigabyte-11507164.html",
+      "image_title": "Fassade eines Rathauses mit französischer Flagge und Inschrift über dem Eingang"
     },
     {
       "title": "NewsAlphabets Börsenwert stürzt um halbe Billion Dollar",
@@ -151,19 +155,18 @@
       "image_title": "Brennende Geldscheine"
     },
     {
-      "title": "NewsFrankreich plant Internetsteuer: 5,5 Cent pro Gigabyte",
-      "url": "https://www.heise.de/news/Frankreich-plant-Internetsteuer-5-5-Cent-pro-Gigabyte-11507164.html",
-      "image_title": "Fassade eines Rathauses mit französischer Flagge und Inschrift über dem Eingang"
+      "title": "NewsNeue Zollgebühren: pro Position, nicht pro Paket",
+      "url": "https://www.heise.de/news/Importpakete-2-Euro-zusaetzliche-Gebuehr-pro-Warenposition-11507130.html"
     },
     {
-      "title": "UpdateNewsPatrick Stewart ist tot",
-      "url": "https://www.heise.de/news/Patrick-Stewart-ist-tot-11505529.html",
-      "image_title": "Patrick Stewart"
+      "title": "AlertNewsErneut kritischer Bug in Linux TCP/IP aufgedeckt – Updates in Arbeit",
+      "url": "https://www.heise.de/news/Erneut-kritischer-Bug-in-Linux-TCP-IP-aufgedeckt-Updates-in-Arbeit-11506050.html",
+      "image_title": "Linux-Pinguin Tux vor abstraktem Hintergrund mit Achtung-Schild"
     },
     {
-      "title": "NewsChinas mysteriöser Raumgleiter: US-Geheimdienst macht erstes gutes Foto publik",
-      "url": "https://www.heise.de/news/Satellitenfoto-von-Maxar-zeigt-erstmals-Chinas-geheimen-Raumgleiter-im-Orbit-11502777.html",
-      "image_title": "Satellitenaufnahme einer Raumfähre mit Solarpaneelen im All."
+      "title": "HintergrundDigitale Souveränität: Die Rechnung, die niemand macht",
+      "url": "https://www.heise.de/hintergrund/Digitale-Souveraenitaet-Die-Rechnung-die-niemand-macht-11505138.html",
+      "image_title": "Ein Eisberg mit vielen Münzstapeln unter Wasser und einem Preisschild daran."
     },
     {
       "title": "RatgeberSmarter Verkehrsfunk: Ampelphasen am Smartphone anzeigen",
@@ -171,19 +174,14 @@
       "image_title": "Person auf einem Fahrrad mit Smartphone und Verkehrsampel"
     },
     {
-      "title": "TestsFrischer Anstrich für mehr Geld: Der HomePod mini 2 im Test",
-      "url": "https://www.heise.de/tests/Frischer-Anstrich-fuer-mehr-Geld-Der-HomePod-mini-2-im-Test-11503599.html",
-      "image_title": "Andreas Wodrich / heise medien"
-    },
-    {
       "title": "RatgeberBillige KI-Accounts per Abo-Sharing: GamsGo ausprobiert",
       "url": "https://www.heise.de/ratgeber/Billige-KI-Accounts-per-Abo-Sharing-GamsGo-ausprobiert-11432070.html",
       "image_title": "Illustration: Ein zwielichter Händler bietet Zugänge für KI-Dienste an."
     },
     {
-      "title": "RatgeberPraxistipps zu iOS 27.2: So nutzen Sie die neuen Funktionen",
-      "url": "https://www.heise.de/ratgeber/Praxistipps-zu-iOS-27-2-und-macOS-27-2-Das-ist-neu-in-Apples-Systemen-11501099.html",
-      "image_title": "iOS 27.2 auf iPhone, iPad und Mac"
+      "title": "TestsKill Bill – The Whole Bloody Affair im 4K-Heimkinotest: Eine Frau sieht rot",
+      "url": "https://www.heise.de/tests/Kill-Bill-The-Whole-Bloody-Affair-im-4K-Heimkinotest-Eine-Frau-sieht-rot-11500483.html",
+      "image_title": "The Whole Bloody Affair"
     }
   ]
 }
