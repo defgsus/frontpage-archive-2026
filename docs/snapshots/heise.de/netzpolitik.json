@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-03T16:40:34",
+  "timestamp": "2026-11-03T22:06:00",
   "url": "https://www.heise.de/newsticker/netzpolitik/",
   "response": {
     "status": 200
@@ -20,7 +20,19 @@
   ],
   "articles": [
     {
-      "title": "Nextcloud und Ionos: Open-Source-Bildungsplattform für sechs Bundesländer",
+      "title": "Extremwetter: Mobilfunkverband GSMA fordert koordiniertes Handeln",
+      "teaser": "Die GSMA warnt vor zunehmenden Risiken für Mobilfunknetze durch extremes Wetter und fordert eine koordinierte Politik zum Schutz kritischer Infrastrukturen.",
+      "url": "https://www.heise.de/news/Extremwetter-Mobilfunkverband-GSMA-fordert-koordiniertes-Handeln-11510739.html",
+      "image_title": "Ein Techniker in Schutzkleidung führt Arbeiten an der Spitze eines Antennenmastes mit Mobilfunkantennen aus."
+    },
+    {
+      "title": "KommentarGoogle-Cloud „sicher“: Kanzler-TÜV gegen Expertenmeinungen",
+      "teaser": "Friedrich Merz glaubt an eine Google-Cloudlösung, die souverän genug für deutsche Nachrichtendienste ist. Diese Haltung ist brandgefährlich, meint Falk Steiner.",
+      "url": "https://www.heise.de/meinung/Kommentar-Merz-hohles-Souveraenitaetsversprechen-11510653.html",
+      "image_title": "Zwei Männer stehen an einem Pult mit Mikrofon vor einer blauen Leinwand."
+    },
+    {
+      "title": "Bye-bye Microsoft: Nextcloud und Ionos starten Bildungsplattform für Schulen",
       "teaser": "Microsoft und Google sollen im Schulalltag künftig weniger selbstverständlich sein: Sechs Bundesländer setzen auf eine Open-Source-Plattform.",
       "url": "https://www.heise.de/news/Nextcloud-und-Ionos-Open-Source-Bildungsplattform-fuer-sechs-Bundeslaender-11510231.html",
       "image_title": "Ein leerer Klassenraum mit gestapelten Stühlen"
@@ -30,18 +42,6 @@
       "teaser": "Indien hat eine Idee, wie KI-Modelle legal an Daten kommen könnten: Eine zentrale Plattform soll anonymisierte Daten bereitstellen – zu eigenen Bedingungen.",
       "url": "https://www.heise.de/news/Indien-Loesungsidee-fuer-illegales-Datensammeln-von-KI-Anbietern-11509713.html",
       "image_title": "Indische Flagge neben Daten-Symbol"
-    },
-    {
-      "title": "Nach ukrainischen AngriffenRussische Firmen dürfen ausländische Rechenzentren nutzen",
-      "teaser": "Mit Angriffen auf Rechenzentren von Yandex und Co. hat die Ukraine einen wunden Punkt getroffen. Jetzt reagiert Russlands Präsident Wladimir Putin.",
-      "url": "https://www.heise.de/news/Ukrainische-Angriffe-Russische-Firmen-duerfen-auslaendische-Rechenzentren-nutzen-11509124.html",
-      "image_title": "Reihe von Serverschränken in einem Rechenzentrum"
-    },
-    {
-      "title": "Nachrichten-LeakWachstum scheint bei Proton wichtiger als Sicherheit",
-      "teaser": "Geleakte Slack-Nachrichten legen nahe, dass bei Proton Sicherheit nicht oberste Priorität hat. Der CEO drängt auf KI-Einsatz.",
-      "url": "https://www.heise.de/news/Nachrichten-Leak-Wachstum-scheint-bei-Proton-aktuell-wichtiger-als-Sicherheit-11508413.html",
-      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
       "title": "RatgeberAbliterierte KI: Security-Werkzeug oder Weltuntergangswaffe?",
@@ -57,6 +57,18 @@
       "title": "RatgeberKI abliterieren: So entfesseln Sie Open-Weight-Modelle",
       "url": "https://www.heise.de/ratgeber/KI-abliterieren-So-entfesseln-Sie-Open-Weight-Modelle-11462976.html",
       "image_title": "Ein rundes Bedienpult mit einem Hebel und den Begriffen Sicher und Frei"
+    },
+    {
+      "title": "Ukrainische Angriffe: Russische Firmen dürfen ausländische Rechenzentren nutzen",
+      "teaser": "Mit den Angriffen auf Rechenzentren von Yandex & Co. hat die Ukraine einen wunden Punkt getroffen. Jetzt hat Russlands Präsident Wladimir Putin reagiert.",
+      "url": "https://www.heise.de/news/Ukrainische-Angriffe-Russische-Firmen-duerfen-auslaendische-Rechenzentren-nutzen-11509124.html",
+      "image_title": "Reihe von Serverschränken in einem Rechenzentrum"
+    },
+    {
+      "title": "Nachrichten-Leak: Wachstum scheint bei Proton aktuell wichtiger als Sicherheit",
+      "teaser": "Geleakte Slack-Nachrichten legen nahe, dass bei Proton Sicherheit nicht oberste Priorität hat. Der CEO drängt auf KI-Einsatz.",
+      "url": "https://www.heise.de/news/Nachrichten-Leak-Wachstum-scheint-bei-Proton-aktuell-wichtiger-als-Sicherheit-11508413.html",
+      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
       "title": "Urheberrechtsverletzungen: New York Times verklagt Brave Software",
@@ -134,18 +146,6 @@
       "title": "Interview: Warum die EUDI-Wallet-App auch ohne Pseudonym-Funktion starten soll",
       "teaser": "Verbraucherschützer fordern Nachbesserungen bei der EUDI-Wallet-App „d-you“. Im c't-Interview stellt sich Projektleiter Torsten Lodderstedt der Kritik.",
       "url": "https://www.heise.de/meinung/Interview-Warum-die-EUDI-Wallet-App-auch-ohne-Pseudonym-Funktion-starten-soll-11496944.html"
-    },
-    {
-      "title": "Urheberrecht, Patente, Marken: Was beim KI-Nachbau von Software zu beachten ist",
-      "teaser": "KI macht den Nachbau bekannter Programme verlockend einfach. Doch was technisch gelingt, ist längst nicht immer erlaubt. Eine juristische Einschätzung.",
-      "url": "https://www.heise.de/hintergrund/Urheberrecht-Patente-Marken-Was-beim-KI-Nachbau-von-Software-zu-beachten-ist-11487778.html",
-      "image_title": "Ein Roboterarm platziert einen Bauklötzchen auf ein pixelartiges Konsolenfenster."
-    },
-    {
-      "title": "Starlink-Observation geht über Online-Werbung",
-      "teaser": "Discover-Tech soll über Online-Werbung Spyware installieren. Ganz besonders soll sich die israelische Firma für Starlink-Nutzer interessieren.",
-      "url": "https://www.heise.de/news/Starlink-Observation-geht-ueber-Online-Werbung-11502479.html",
-      "image_title": "Starlink-Schüssel \"Dishy\", dahinter hockt ein US-Luftwaffensoldat in Tarnuniform"
     },
     {
       "title": "NewsNeue Zollgebühren: pro Position, nicht pro Paket",
