@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-05T20:51:47",
+  "timestamp": "2026-11-06T01:13:35",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Brasilien: Gericht verbietet Meta die Nutzung von Medieninhalten für KI-Training",
+      "url": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html"
+    },
     {
       "title": "Jugendschutz in Netz: Google, Meta und TikTok klagen gegen kalifornisches Gesetz",
       "url": "https://www.heise.de/news/Jugendschutz-in-Netz-Google-Meta-und-TikTok-klagen-gegen-kalifornisches-Gesetz-11514162.html"
@@ -56,10 +60,6 @@
     {
       "title": "Bayern und Schleswig-Holstein kooperieren für digitale Souveränität",
       "url": "https://www.heise.de/news/Bayern-und-Schleswig-Holstein-kooperieren-fuer-digitale-Souveraenitaet-11513932.html"
-    },
-    {
-      "title": "Forscher finden Hinweise auf vulkanische Aktivität auf dem Mars",
-      "url": "https://www.heise.de/news/Forscher-finden-Hinweise-auf-vulkanische-Aktivitaet-auf-dem-Mars-11513968.html"
     },
     {
       "title": "Kopfhörer MDR-3RSony bringt „Ikone der Walkman-Ära“ zurück",
@@ -186,20 +186,26 @@
       "image_title": "Logo \"vmware by Broadcom\" auf einem Smartphone"
     },
     {
+      "title": "Brasilien: Gericht verbietet Meta die Nutzung von Medieninhalten für KI-Training",
+      "teaser": "Metas neue Nutzungsbedingungen sahen die kostenlose Überlassung von Inhalten vor. Ein Gericht in Brasilien erklärt dies für unzulässig und droht mit Zwangsgeld.",
+      "url": "https://www.heise.de/news/Brasilien-Gericht-verbietet-Meta-die-Nutzung-von-Medieninhalten-fuer-KI-Training-11514246.html",
+      "image_title": "Meta-Logo an der Fassade eines Firmengebäudes vor blauem Himmel."
+    },
+    {
       "title": "Jugendschutz in Netz: Google, Meta und TikTok klagen gegen kalifornisches Gesetz",
       "teaser": "Um Jugendliche zu schützen, untersagt ein Gesetz in Kalifornien personalisierte Empfehlungen und Autoplay von Videos. Google, Meta und TikTok klagen dagegen.",
       "url": "https://www.heise.de/news/Jugendschutz-in-Netz-Google-Meta-und-TikTok-klagen-gegen-kalifornisches-Gesetz-11514162.html"
+    },
+    {
+      "title": "Heizkosten sparen ohne Komfortverlust",
+      "teaser": "Heizkosten zu verringern, heißt nicht, auf Komfort zu verzichten. Entscheidend ist, die Heizung intelligent zu regeln. Mit einer smarten Lösung lassen sich Energiekosten um bis zu 33 % senken.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7471076123&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Tierschutz: Nur große Schlachthöfe von Videopflicht betroffen",
       "teaser": "Der Bundestag hat eine Videoüberwachungspflicht für Schlachthöfe beschlossen – allerdings nur für größere Betriebe.",
       "url": "https://www.heise.de/news/Tierschutz-Nur-grosse-Schlachthoefe-von-Videopflicht-betroffen-11513964.html",
       "image_title": "Schweine auf dem Weg zum Schlachthaus"
-    },
-    {
-      "title": "Zeitgewinn mit KI-gestützter Fahrzeugvalidierung",
-      "teaser": "Eine ereignisgesteuerte Erfassung und eine Cloud-gestützte Aufbereitung verkürzen die Entwicklungszyklen in der Automobilbranche vor dem Start der Produktion und verändern den Alltag von Ingenieuren.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7471399581&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Top 10: Der beste E-Scooter im Test – Testsieger mit 2400 W, Pendler-Tipp 439 €",
@@ -229,12 +235,6 @@
       "teaser": "Auf dem Mars gibt es die größten Vulkane des Sonnensystems, aber keine direkten Anzeichen für aktuelle vulkanische Aktivität – bis jetzt.",
       "url": "https://www.heise.de/news/Forscher-finden-Hinweise-auf-vulkanische-Aktivitaet-auf-dem-Mars-11513968.html",
       "image_title": "Rendering der europäischen Sonde Trace Gas Orbiter im Marsorbit"
-    },
-    {
-      "title": "Wie Entwickler Claude mit C#-SDK in .NET einbinden",
-      "teaser": "Bisher nutzten .NET-Entwickler für das Anbinden von Claude HTTP-Aufrufe der REST-API oder ein Community-SDK. Anthropic liefert nun ein offizielles C#-SDK.",
-      "url": "https://www.heise.de/ratgeber/Wie-Entwickler-Claude-mit-C-SDK-in-NET-einbinden-11495780.html",
-      "image_title": ","
     },
     {
       "title": "Home Assistant und ein 17-Euro-SensorSo machen Sie den Gaszähler smart",
@@ -317,6 +317,12 @@
       "url": "https://www.heise.de/bestenlisten/testsieger/top-10-der-beste-over-ear-kopfhoerer-im-test-preis-leistungs-sieger-nur-69-euro/sl68nkv?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Wie Entwickler Claude mit C#-SDK in .NET einbinden",
+      "teaser": "Bisher nutzten .NET-Entwickler für das Anbinden von Claude HTTP-Aufrufe der REST-API oder ein Community-SDK. Anthropic liefert nun ein offizielles C#-SDK.",
+      "url": "https://www.heise.de/ratgeber/Wie-Entwickler-Claude-mit-C-SDK-in-NET-einbinden-11495780.html",
+      "image_title": ","
+    },
+    {
       "title": "Nach US-Zwischenwahlen: OpenAI verspricht anwohnerfreundliche Rechenzentren",
       "teaser": "OpenAI kündigt zwei Tage nach den Zwischenwahlen in den USA neue Regeln für sozialverträglichere Rechenzentren an. Anwohner sollen entlastet werden.",
       "url": "https://www.heise.de/news/Nach-US-Zwischenwahlen-OpenAI-verspricht-anwohnerfreundliche-Rechenzentren-11513473.html",
@@ -370,7 +376,7 @@
       "image_title": "Großer, weiß beleuchteter Tencent-Schriftzug vor einem modernen Bürogebäude bei Nacht."
     },
     {
-      "title": "Nuki Smart Module macht Türen mit Motorschloss smart – für 359 Euro",
+      "title": "UpdateNuki Smart Module macht Türen mit Motorschloss smart – für 359 Euro",
       "teaser": "Nukis Steuereinheit für Haustüren mit Motorschloss ist ab sofort erhältlich, auch zum Nachrüsten. Das NFC-Keypad kommt in Weiß und mit Diebstahlschutz.",
       "url": "https://www.heise.de/news/Nuki-Smart-Module-macht-Tueren-mit-Motorschloss-smart-fuer-359-Euro-11513433.html",
       "image_title": "Schwarze Haustür, daneben das Nuki Smart Module"
@@ -388,15 +394,15 @@
       "image_title": "VMware-Logo auf einem Smartphone"
     },
     {
+      "title": "Virtualisierung mit Weitblick: Kosten im Griff, Verfügbarkeit gesichert, Wechsel möglich",
+      "teaser": "Neue Lizenzmodelle und steigende Kosten stellen viele Virtualisierungsstrategien infrage. Welche Plattform zu welchen Anforderungen passt, erfahren Sie im Live-Webcast am 26. November um 11 Uhr.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/virtualisierung-mit-weitblick-kosten-im-griff-verfuegbarkeit-gesichert-wechsel-moeglich-5126/?source=hbsad-ersatz"
+    },
+    {
       "title": "iX-Workshop IT-Sicherheit: Angriffstechniken verstehen und erfolgreich abwehren",
       "teaser": "Analysieren Sie aktuelle Angriffstechniken mit und ohne KI, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen.",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Angriffstechniken-verstehen-und-erfolgreich-abwehren-11492942.html",
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
-    },
-    {
-      "title": "Cybersicherheit und digitale Souveränität in Europa",
-      "teaser": "Wo Daten liegen, ist nur ein Teil der digitalen Souveränität. Vielmehr geht es um Abhängigkeiten von Cloud-, Security- und KI-Diensten. Wie Sie diese bewerten und im Ernstfall handlungsfähig bleiben, erfahren Sie im Live-Webcast am 17. November um 11 Uhr.",
-      "url": "https://business-services.heise.de/software/dokumenten-management/beitrag/effizienter-schutz-sensibler-daten-wie-microsoft-purview-um-securiti-ai-ergaenzt-wird-5089/?source=hbsad_ersatz"
     },
     {
       "title": "AlertSonicWall Global Management System verwundbar, bekommt aber keine Updates mehr",
@@ -417,7 +423,7 @@
       "image_title": "Ein Pinguin zieht mit magischem Strom Symbole und Ordner in ein digitales Dateifenster."
     },
     {
-      "title": "AlertOpenSSH und Alpine Linux warnen vor nischigem, aber gravierendem Bug",
+      "title": "AlertUpdateOpenSSH und Alpine Linux warnen vor nischigem, aber gravierendem Bug",
       "teaser": "OpenSSH 10.6p2 umgeht einen Bug, der zwar schwerwiegend ist, aber eher wenige Setups betrifft – und wohl auch nicht in OpenSSH selbst liegt.",
       "url": "https://www.heise.de/news/OpenSSH-und-Alpine-Linux-warnt-vor-nischigem-aber-gravierendem-Bug-11513105.html",
       "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Ausrufezeichen"
@@ -450,12 +456,6 @@
       "teaser": "Humanoide Roboter sollen künftig Stromnetze kontrollieren. Dabei sollen sie Fachpersonal entlasten.",
       "url": "https://www.heise.de/news/Gegen-Fachkraeftemangel-Humanoide-Roboter-sollen-bei-Stromnetzkontrollen-helfen-11513099.html",
       "image_title": "Humanoider Roboter von Neura vor Hochspannungsmast"
-    },
-    {
-      "title": "NASA-Weltraumteleskop Swift über Indonesien verglüht",
-      "teaser": "Die NASA wollte das Weltraumteleskop Swift retten, das scheiterte aber im Sommer. Jetzt ist das altgediente Instrument über Sumatra abgestürzt.",
-      "url": "https://www.heise.de/news/Nach-gescheiterter-Rettung-Weltraumteleskop-Swift-ueber-Indonesien-verglueht-11513165.html",
-      "image_title": "Illustration des Satelliten Swift im Erdorbit"
     },
     {
       "title": "US-Zwischenwahlen: Rechenzentren noch größere Verlierer als die Republikaner",
@@ -631,22 +631,22 @@
       "url": "https://www.heise.de/en/news/Xiaomi-begins-rolling-out-HyperOS-4-0-to-many-models-11510993.html"
     },
     {
-      "title": "Linux-Distribution Fedora 45: KDE Plasma 6.8, Gnome 51 und Kmscon",
-      "teaser": "Ein Security-Vorfall verzögerte das Release, sodass KDE Plasma 6.8 noch drin landet. Außerdem kommt Fedora 45 mit Gnome 51 und einer aufpolierten Textkonsole.",
-      "url": "https://www.heise.de/news/Linux-Distribution-Fedora-45-KDE-Plasma-6-8-Gnome-51-und-Kmscon-11505699.html",
-      "image_title": "Desktop von Fedora 45 auf Notebook"
-    },
-    {
-      "title": "Angriffe auf Prozessor-Hardware: Wie der TÜVIT Chips knackt",
-      "teaser": "Der TÜVIT greift gezielt Chips an, um ihren Schutz zu prüfen. Dabei spielen auch Laser eine Rolle, die 500.000 Euro kosten. Wir blicken hinter die Kulissen.",
-      "url": "https://www.heise.de/hintergrund/Angriffe-auf-Prozessor-Hardware-Wie-der-TUeVIT-Chips-knackt-11480775.html",
-      "image_title": "Technischer Aufbau mit Messgeräten, Kabeln und einem aufgestellten Roboter-Schädel"
+      "title": "Last Call – c’t-Webinar: KI als Schreibhelfer für Studium und Forschung",
+      "teaser": "Von der Recherche bis zum Feinschliff: Das Webinar klärt, wie KI-Tools beim wissenschaftlichen Schreiben unterstützen und worauf Sie achten müssen.",
+      "url": "https://www.heise.de/news/Last-Call-c-t-Webinar-KI-als-Schreibhelfer-fuer-Studium-und-Forschung-11509242.html",
+      "image_title": "Blauer Laptop mit aufgerolltem weißen Papier und bunter Feder, umgeben von bunten Kugeln vor orangefarbenem Hintergrund."
     },
     {
       "title": "Flash-Rennen19 SSDs mit PCIe 4.0 und 5.0 im Test",
       "teaser": "Die Preise sind hoch, nur wenige Hersteller bringen neue Modelle. Bei diesen aber deutet sich eine Renaissance älterer Technik an, unter anderem bei Samsung.",
       "url": "https://www.heise.de/tests/Flash-Rennen-19-SSDs-mit-PCIe-4-0-und-5-0-11341600.html",
       "image_title": "Sechs M.2-SSD-Festplatten mit unterschiedlichen Kühlkörpern nebeneinander angeordnet"
+    },
+    {
+      "title": "Angriffe auf Prozessor-Hardware: Wie der TÜVIT Chips knackt",
+      "teaser": "Der TÜVIT greift gezielt Chips an, um ihren Schutz zu prüfen. Dabei spielen auch Laser eine Rolle, die 500.000 Euro kosten. Wir blicken hinter die Kulissen.",
+      "url": "https://www.heise.de/hintergrund/Angriffe-auf-Prozessor-Hardware-Wie-der-TUeVIT-Chips-knackt-11480775.html",
+      "image_title": "Technischer Aufbau mit Messgeräten, Kabeln und einem aufgestellten Roboter-Schädel"
     },
     {
       "title": "Frischer Anstrich für mehr GeldHomePod mini 2 im Test",
