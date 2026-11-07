@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-07T07:54:09",
+  "timestamp": "2026-11-07T14:27:35",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,44 @@
     }
   ],
   "articles": [
+    {
+      "title": "Vom Skill zum Plugin: KI mit Werkzeugen und Daten verbinden",
+      "teaser": "Das heise KI PRO Webinar zeigt, wie Skills, Konnektoren und Werkzeuge zusammenspielen und daraus nutzbare Plugins für wiederkehrende Aufgaben entstehen.",
+      "url": "https://www.heise.de/news/Vom-Skill-zum-Plugin-KI-mit-Werkzeugen-und-Daten-verbinden-11512012.html",
+      "image_title": "Vom Skill zum Plugin: KI mit Werkzeugen und Daten verbinden"
+    },
+    {
+      "title": "Protest gegen Microsoft-Rechenzentrum in Amsterdam – viele Festnahmen",
+      "teaser": "Hunderte dringen auf die Baustelle eines Microsoft-Rechenzentrums in Amsterdam vor, die Polizei nimmt bis zu 200 Menschen fest. Was trieb die beiden Gruppen an?",
+      "url": "https://www.heise.de/news/Protest-gegen-Microsoft-Rechenzentrum-in-Amsterdam-viele-Festnahmen-11516304.html",
+      "image_title": "Blick auf ein Microsoft-Rechenzentrum aus der Luft"
+    },
+    {
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11492918.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "NVKE: Nvidia bringt eigene Kubernetes Engine als Preview",
+      "teaser": "Mit Nvidias NVKE sollen Betreiber von GPU-Rechenzentren Managed Kubernetes anbieten können. Die Preview lässt sich jetzt ausprobieren.",
+      "url": "https://www.heise.de/news/NVKE-Nvidia-bringt-eigene-Kubernetes-Engine-als-Preview-11515947.html",
+      "image_title": "Nahaufnahme des Nvidia-Logos auf einer dunklen Oberfläche"
+    },
+    {
+      "title": "HintergrundZukunft der Versionsverwaltung: Braucht die Welt ein neues GitHub?",
+      "url": "https://www.heise.de/hintergrund/Zukunft-der-Versionsverwaltung-Braucht-die-Welt-ein-neues-GitHub-11424089.html"
+    },
+    {
+      "title": "RatgeberSchimmelbildung stoppen: Taupunkt-Automation in Home Assistant einrichten",
+      "url": "https://www.heise.de/ratgeber/Schimmelbildung-stoppen-Taupunkt-Automation-in-Home-Assistant-einrichten-11431816.html",
+      "image_title": "Ein Wohn- und Essbereich mit Sofa, Teppich, Tisch, Regalen und einem Esstisch"
+    },
+    {
+      "title": "TestsiMac M6 im Test: Das kann Apples neuer All-in-One-Rechner",
+      "url": "https://www.heise.de/tests/iMac-M6-im-Test-Das-kann-Apples-neuer-All-in-One-Rechner-11515399.html",
+      "image_title": "iMac M6 von Apple"
+    },
     {
       "title": "Sichere Architektur für KI-Agenten im Backoffice",
       "teaser": "KI-Agenten lassen sich nur sicher in Systeme einbinden, wenn die Architektur für eine Trennung von Daten und Handlungen sorgt.",
@@ -42,20 +80,6 @@
       "teaser": "Cyberagentur, Bundeswehr und DLR suchen Technologien zur Abwehr und gezielten Beeinflussung von Signalen für GPS & Co. – vor dem Hintergrund massiver Störungen.",
       "url": "https://www.heise.de/news/Deutschland-will-Manipulation-von-Satellitennavigation-etwas-entgegensetzen-11516136.html",
       "image_title": "Zwei Personen in Tarnkleidung mit Schulterklappen und Ärmelabzeichen"
-    },
-    {
-      "title": "HintergrundZukunft der Versionsverwaltung: Braucht die Welt ein neues GitHub?",
-      "url": "https://www.heise.de/hintergrund/Zukunft-der-Versionsverwaltung-Braucht-die-Welt-ein-neues-GitHub-11424089.html"
-    },
-    {
-      "title": "RatgeberSchimmelbildung stoppen: Taupunkt-Automation in Home Assistant einrichten",
-      "url": "https://www.heise.de/ratgeber/Schimmelbildung-stoppen-Taupunkt-Automation-in-Home-Assistant-einrichten-11431816.html",
-      "image_title": "Ein Wohn- und Essbereich mit Sofa, Teppich, Tisch, Regalen und einem Esstisch"
-    },
-    {
-      "title": "TestsiMac M6 im Test: Das kann Apples neuer All-in-One-Rechner",
-      "url": "https://www.heise.de/tests/iMac-M6-im-Test-Das-kann-Apples-neuer-All-in-One-Rechner-11515399.html",
-      "image_title": "iMac M6 von Apple"
     },
     {
       "title": "Neue Datenschutzklausel bei M365 sorgt für Verwirrung",
@@ -120,30 +144,6 @@
       "teaser": "Wer Fotos oder Dateien aus seinem privaten iCloud-Konto mit anderen über Apples Publikationsdienst weitergibt, muss ab sofort mit einer Prüfung rechnen.",
       "url": "https://www.heise.de/news/Apple-checkt-bald-iCloud-Links-auf-Harmful-Content-11514250.html",
       "image_title": "iCloud von Apple: Eigentlich verschlüsselt – aber nicht wenn öffentliche Links geteilt werden"
-    },
-    {
-      "title": "AlertAttacken auf Cisco UCS Central Software und Unified CM können bevorstehen",
-      "teaser": "Sicherheitsupdates schließen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
-      "image_title": "Das Wort \"update\" vor einem Hintergrund mit Linien und einem Stecker"
-    },
-    {
-      "title": "So sichern Sie KI-Anwendungen und Agenten ab: Jenseits der Testpyramide",
-      "teaser": "Die klassische Testpyramide stößt bei KI-Anwendungen an ihre Grenzen. Wie kombiniert man statistische Verfahren mit Laufzeitschutz und menschlicher Aufsicht?",
-      "url": "https://www.heise.de/hintergrund/So-sichern-Sie-KI-Anwendungen-und-Agenten-ab-Jenseits-der-Testpyramide-11510121.html",
-      "image_title": "Roboterhand bedient eine virtuelle Benutzeroberfläche mit Symbolen für KI, Cybersecurity und Zugangsschutz."
-    },
-    {
-      "title": "iX Testing-Guide – Qualitätssicherung in Zeiten von KI",
-      "teaser": "Testing-Praxis mit, von und ohne KI – das neue Sonderheft von iX developer berichtet über klassische und moderne Testing-Methoden, Know-how und Best Practices.",
-      "url": "https://www.heise.de/news/iX-Testing-Guide-Qualitaetssicherung-in-Zeiten-von-KI-11507635.html",
-      "image_title": "Aufmacher Sonderheft"
-    },
-    {
-      "title": "RAM-Mangel: Smartphone-Hersteller verbauen gebrauchten Speicher",
-      "teaser": "Ein Marktbeobachter berichtet, dass chinesische Firmen für immer mehr Smartphones unter 200 Euro gebrauchte LPDDR4X-DRAM-Chips recyclen.",
-      "url": "https://www.heise.de/news/RAM-Krise-Gebrauchte-Speicherchips-in-chinesischen-Billig-Smartphones-11514852.html",
-      "image_title": "Lotkugeln auf der Unterseite von Halbleiterbauelementen."
     },
     {
       "title": "NewsUS-Zwischenwahlen: Rechenzentren noch größere Verlierer als die Republikaner",
