@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T09:45:56",
+  "timestamp": "2026-11-08T16:25:25",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Geförderte Altersvorsorge: Was das neue Altersvorsorgedepot bringt",
+      "teaser": "Es kommt nicht zum Bruch, sondern zu einem behutsamen Wandel in der geförderten Altersvorsorge. Sparer können eine deutlich höhere Rendite erzielen, wenn sie es schlau anstellen.",
+      "url": "https://www.faz.net/aktuell/finanzen/altersvorsorge-schwarz-rot-hofft-auf-rendite-booster-fuer-sparer-accg-201656541.html"
+    },
+    {
       "title": "FAZ+Europäische Zentralbank: Wie gut war Christine Lagarde?",
       "teaser": "Nun ist klar: Im Februar scheidet die EZB-Präsidentin vorzeitig aus dem Amt. Zeit für eine Bilanz.",
-      "url": "https://www.faz.net/aktuell/finanzen/christine-lagarde-und-die-ezb-eine-bilanz-mit-licht-und-schatten-accg-201634586.html"
+      "url": "https://www.faz.net/aktuell/finanzen/christine-lagarde-und-die-ezb-eine-bilanz-mit-licht-und-schatten-accg-201634586.html",
+      "image_url": "https://media0.faz.net/image/w1200/c67185a2d6aa/w3492h1964x0y0/202610/af9675cd-c638-403b-9cd7-8de4a617407e/christine-lagarde-ist-seit.webp",
+      "image_title": "Christine Lagarde ist seit November 2019 Präsidentin der Europäischen Zentralbank"
     },
     {
       "title": "FAZ+Wikifolio-Auswertung: Warum sich deutsche Aktien besonders lohnen",
@@ -72,7 +79,7 @@
       "title": "Talfahrt beendet: Leichte Erholung an den US-Börsen nach drastischen Kursverlusten",
       "teaser": "Achterbahnfahrt der Gefühle: Nach dem deutlichen Einbruch der KI-Aktien am Donnerstag konnte sich der amerikanische Aktienmarkt wieder etwas stabilisieren. Es gibt aber auch Gründe, die eine Erholung bremsen.",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/leichte-erholung-an-den-us-boersen-nach-drastischen-kursverlusten-201660375.html",
-      "image_url": "https://media0.faz.net/image/w1200/43158379a667/w3479h1957x0y182/202611/30d90a12-24b4-4c1e-836f-1473b1313f4b/am-donnerstag-haben-vor-allem.webp",
+      "image_url": "https://media0.faz.net/image/w1100/43158379a667/w3479h1957x0y182/202611/30d90a12-24b4-4c1e-836f-1473b1313f4b/am-donnerstag-haben-vor-allem.webp",
       "image_title": "Am Donnerstag haben vor allem KI-Werte an der US-Börse enorm gelitten."
     },
     {
@@ -88,13 +95,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/midterm-wahlen-wie-sp-500-und-europa-reagieren-201659040.html",
       "image_url": "https://media0.faz.net/image/w1100/b384732aa75b/w6144h3456x0y320/202609/43601.0.2562736325/costco-ist-neben-walmart-die.webp",
       "image_title": "Costco ist neben Walmart die größte Supermarktkette der USA."
-    },
-    {
-      "title": "Börse: Nach Verlusten in Asien: Dax eröffnet leicht schwächer",
-      "teaser": "Der Nasdaq in den USA und die Börsen in Korea und Japan haben deutlich verloren. Der Dax eröffnet mit einem Minus von 1,7 Prozent.",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-startet-mit-1-7-prozent-minus-nach-nasdaq-einbruch-accg-201657896.html",
-      "image_url": "https://media0.faz.net/image/w1100/83a9a0a5844f/w6144h3456x0y320/202611/5ed32b92-a28d-42ed-9900-8867c6c9ac21/die-boersianer-sind-etwas.webp",
-      "image_title": "Die Börsianer sind etwas angespannt."
     },
     {
       "title": "Unruhe unter Kunden: Die Fusion Commerzbank-Unicredit ist eine Mammutaufgabe",
@@ -167,6 +167,13 @@
       "image_title": "Archibald Preuschat"
     },
     {
+      "title": "Börse: Nach Verlusten in Asien: Dax eröffnet leicht schwächer",
+      "teaser": "Der Nasdaq in den USA und die Börsen in Korea und Japan haben deutlich verloren. Der Dax eröffnet mit einem Minus von 1,7 Prozent.",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/dax-startet-mit-1-7-prozent-minus-nach-nasdaq-einbruch-accg-201657896.html",
+      "image_url": "https://media0.faz.net/image/w880/83a9a0a5844f/w6144h3456x0y320/202611/5ed32b92-a28d-42ed-9900-8867c6c9ac21/die-boersianer-sind-etwas.webp",
+      "image_title": "Die Börsianer sind etwas angespannt."
+    },
+    {
       "title": "FAZ+Zweistellige Kursverluste: KI-Sorgen lassen Asiens Börsen einbrechen",
       "teaser": "Nach der Wahl in den USA befürchten Anleger strengere Regeln für den Bau von KI-Rechenzentren. In Tokio, Seoul und Taipeh brechen die Aktienkurse der großen KI-Profiteure teilweise zweistellig ein.",
       "url": "https://www.faz.net/aktuell/finanzen/ki-sorgen-lassen-asiens-boersen-einbrechen-accg-201657580.html",
@@ -174,18 +181,18 @@
       "image_title": "Eine Spaziergängerin vor einer Börsentafel in Tokio"
     },
     {
-      "title": "Nach den Midterms: Angst vor KI-Regulierung schickt US-Börsen auf Talfahrt",
-      "teaser": "Die Kurse amerikanischer Tech-Unternehmen fallen. Der Nasdaq 100 verliert sechs Prozent und sackt auf den tiefsten Stand seit April ab. Die Tesla-Aktie gibt um elf Prozent nach, SpaceX verbilligt sich um neun Prozent.",
-      "url": "https://www.faz.net/aktuell/finanzen/techaktienindex-nasdaq-100-faellt-um-mehr-als-fuenf-prozent-201656726.html",
-      "image_url": "https://media0.faz.net/image/w880/50bcb559df21/w4893h2752x0y255/202611/2b37e6a4-60b7-47ce-b803-27aa2d435dbf/an-den-amerikanischen-boersen.webp",
-      "image_title": "An den amerikanischen Börsen fallen die Kurse."
-    },
-    {
       "title": "FAZ+Kongresswahlen: Das ganze Geld von Musk hat nichts gebracht",
       "teaser": "Elon Musk hat eine halbe Milliarde Dollar in den US-Wahlkampf gepumpt – und auf breiter Front verloren. Jetzt könnte einiges auf ihn zukommen.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/bittere-pleite-fuer-elon-musk-bei-us-midterms-2026-halbe-milliarde-dollar-an-wahlkampfspenden-ohne-erfolg-accg-201649321.html",
       "image_url": "https://media0.faz.net/image/w1200/2ba5aa140c92/w5500h3094x0y197/202610/43601.0.2666410821/texas-is-not-for-sale-elon.webp",
       "image_title": "„Texas is not for Sale“: Elon Musks finanzielles Engagement im Wahlkampf hat sich nicht ausgezahlt."
+    },
+    {
+      "title": "FAZ+Umweltminister Schneider: „Privat fahren wir einen 13 Jahre alten Diesel“",
+      "teaser": "Umweltminister Carsten Schneider erklärt vor der Klimakonferenz in Antalya, warum das Verbrenner-Auto ein Auslaufmodell ist – und warum er selbst noch eins fährt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/umweltminister-carsten-schneider-privat-fahren-wir-einen-13-jahre-alten-diesel-accg-201653839.html",
+      "image_url": "https://media0.faz.net/image/w1100/6f99d9981fb5/w4875h2742x0y787/ef090e41-27a0-49be-9efa-fef49fd8ad0c-39_Carsten_Schneider.jpg/der-thueringer-spd-politiker.webp",
+      "image_title": "Der Thüringer SPD-Politiker Carsten Schneider, 50, ist seit anderthalb Jahren Bundesminister für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit."
     },
     {
       "title": "FAZ+nachfolge im Unternehmen: „Ich habe wirklich keinen Plan B gehabt“",
@@ -200,13 +207,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/us-midterms-2026-was-donald-trump-zur-halbzeit-wirklich-erreicht-hat-201625540.html",
       "image_url": "https://media0.faz.net/image/w1100/24d320038e0c/w6314h3552x0y412/202610/1ecd145a-ed50-429c-8c8e-6bb37e0fe281/donald-trump-im-wahlkampf.webp",
       "image_title": "Donald Trump im Wahlkampf"
-    },
-    {
-      "title": "FAZ+Nobelpreisträger Acemoglu: „Wo es Groll gibt, hat die Identitätspolitik die Spaltung vertieft“",
-      "teaser": "Die Krise der liberalen Demokratie ist nicht vorbei, warnt der Ökonom Daron Acemoglu, auch wenn in den US-Wahlen Donald Trumps Partei verloren hat. Ein Gespräch über KI und linke Parteien, die die Arbeiter vergessen haben.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/daron-acemoglu-wir-steuern-mit-volldampf-in-die-falsche-richtung-accg-201269417.html",
-      "image_url": "https://media0.faz.net/image/w1100/ef6d1db212d9/w5404h3040x0y847/202412/43601.0.733868291/sieht-eine-hausgemachte-krise.webp",
-      "image_title": "Sieht eine hausgemachte Krise: Wirtschaftsnobelpreisträger Daron Acemoglu"
     },
     {
       "title": "Kryptosicherheit: Was der Binance-Hack lehrt",
