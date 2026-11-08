@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T02:57:19",
+  "timestamp": "2026-11-08T09:45:59",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
   ],
   "articles": [
     {
+      "title": "Deutsche StandorteRechenzentren: Versteckspiel beim Energiehunger",
+      "teaser": "Das Energieeffizienzgesetz verlangt Offenheit von Rechenzentren-Betreibern, doch viele halten Strom- und Wasserverbrauch geheim.",
+      "url": "https://www.heise.de/news/Intransparente-Rechenzentren-Versteckspiel-beim-Energiehunger-11516418.html",
+      "image_title": "Luftaufnahme eines Meta-Rechenzentrums hinter einem Wald"
+    },
+    {
       "title": "Brenner-Basistunnel: Cyberangriff auf Baufirma",
       "teaser": "Unbekannte Täter griffen auf Daten der österreichisch-italienischen Baugesellschaft zu, die aus dem Internet erreichbar waren.",
       "url": "https://www.heise.de/news/Brenner-Basistunnel-Cyberangriff-auf-Baufirma-11516406.html",
@@ -36,12 +42,6 @@
       "teaser": "Kameraverkäufe steigen weltweit, Canon und Nikon bringen Firmware-Updates. Und: Die Sony-Awards.",
       "url": "https://www.heise.de/news/Kameramarkt-waechst-Canon-und-Nikon-updaten-Fotonews-der-Woche-45-2026-11515640.html",
       "image_title": "Eine Frau fotografiert mit einer Kamera, aus der sich eine farbige Collage entfaltet"
-    },
-    {
-      "title": "NVKE: Nvidia bringt eigene Kubernetes Engine als Preview",
-      "teaser": "Mit Nvidias NVKE sollen Betreiber von GPU-Rechenzentren Managed Kubernetes anbieten können. Die Preview lässt sich jetzt ausprobieren.",
-      "url": "https://www.heise.de/news/NVKE-Nvidia-bringt-eigene-Kubernetes-Engine-als-Preview-11515947.html",
-      "image_title": "Nahaufnahme des Nvidia-Logos auf einer dunklen Oberfläche"
     },
     {
       "title": "HintergrundZukunft der Versionsverwaltung: Braucht die Welt ein neues GitHub?",
@@ -147,19 +147,9 @@
       "image_title": "Eine Hand hält ein Smartphone mit dem Starlink-Logo auf dem Display."
     },
     {
-      "title": "NewsUS-Zwischenwahlen: Rechenzentren noch größere Verlierer als die Republikaner",
-      "url": "https://www.heise.de/news/US-Zwischenwahlen-Rechenzentren-noch-groessere-Verlierer-als-die-Republikaner-11510882.html",
-      "image_title": "Luftaufnahme eines großen Rechenzentrums mit rauchenden Kühlanlagen."
-    },
-    {
       "title": "NewsKurz vor historischem Meilenstein: Kontakt zu Voyager 1 steht wieder",
       "url": "https://www.heise.de/news/Kurz-vor-historischem-Meilenstein-Kontakt-zu-Voyager-1-steht-wieder-11513463.html",
       "image_title": "Erde aus dem All photographiert"
-    },
-    {
-      "title": "NewsSam Altman rudert nach RAM-Aussage zurück",
-      "url": "https://www.heise.de/news/Sam-Altman-rudert-nach-RAM-Aussage-zurueck-11513133.html",
-      "image_title": "Sam Altman"
     },
     {
       "title": "News25 Millionen Quadratkilometer: Ozonloch war in diesem Jahr so groß wie selten",
@@ -167,9 +157,24 @@
       "image_title": "Visualisierung der Erde mit Fokus auf den Kontinent in der Südpolregion"
     },
     {
+      "title": "NewsSam Altman rudert nach RAM-Aussage zurück",
+      "url": "https://www.heise.de/news/Sam-Altman-rudert-nach-RAM-Aussage-zurueck-11513133.html",
+      "image_title": "Sam Altman"
+    },
+    {
+      "title": "NewsEU-Generalanwalt hält Google-Fonts-Abmahnwellen für missbräuchlich",
+      "url": "https://www.heise.de/news/EU-Generalanwalt-Google-Fonts-Abmahnwellen-sind-oft-rechtsmissbraeuchlich-11514000.html",
+      "image_title": "Web-Browser mit Lupe, die den Schriftzug Google Fonts vergrößert"
+    },
+    {
       "title": "RatgeberWerkzeug per Strom-Fingerabdruck erkennen: Shelly-Hardware gehackt",
       "url": "https://www.heise.de/ratgeber/Werkzeug-per-Strom-Fingerabdruck-erkennen-Shelly-Hardware-gehackt-11490992.html",
       "image_title": ","
+    },
+    {
+      "title": "TestsOrganisches Wachstum: Apples neues iPad mini 8 im Test",
+      "url": "https://www.heise.de/tests/Organisches-Wachstum-Apples-neues-iPad-mini-8-im-Test-11513928.html",
+      "image_title": "iPad mini 8"
     },
     {
       "title": "HintergrundWie bleibt der Akku im Elektroauto lange leistungsfähig?",
@@ -177,14 +182,8 @@
       "image_title": "Fiat 500 E Ladesäule"
     },
     {
-      "title": "HintergrundUrheberrecht, Patente, Marken: Was beim KI-Nachbau von Software zu beachten ist",
-      "url": "https://www.heise.de/hintergrund/Urheberrecht-Patente-Marken-Was-beim-KI-Nachbau-von-Software-zu-beachten-ist-11487778.html",
-      "image_title": "Ein Roboterarm platziert einen Bauklötzchen auf ein pixelartiges Konsolenfenster."
-    },
-    {
-      "title": "RatgeberKI abliterieren: So entfesseln Sie Open-Weight-Modelle",
-      "url": "https://www.heise.de/ratgeber/KI-abliterieren-So-entfesseln-Sie-Open-Weight-Modelle-11462976.html",
-      "image_title": "Ein rundes Bedienpult mit einem Hebel und den Begriffen Sicher und Frei"
+      "title": "TestsMacBook Pro mit PROLED-XDR-Display im Test: Das kann der Touch-Mac",
+      "url": "https://www.heise.de/tests/MacBook-Pro-mit-PROLED-XDR-Display-im-Test-Das-kann-der-Touch-Mac-11513698.html"
     }
   ]
 }

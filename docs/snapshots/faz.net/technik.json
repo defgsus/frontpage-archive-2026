@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T02:57:26",
+  "timestamp": "2026-11-08T09:46:08",
   "url": "https://www.faz.net/aktuell/technik-motor/",
   "response": {
     "status": 200
@@ -50,9 +50,16 @@
   ],
   "articles": [
     {
+      "title": "Schlusslicht: Klug wie nie mit KI",
+      "teaser": "Diese Bundesregierung kann vor allem eines gut: Steuern erhöhen und neue Steuern erfinden. Jetzt soll die KI-Steuer kommen.",
+      "url": "https://www.faz.net/aktuell/technik-motor/schlusslicht-bundesregierung-will-ki-steuer-201646511.html"
+    },
+    {
       "title": "Tiefbau: Caroline und Verena 45 Meter unter dem Fluss",
       "teaser": "Ein neuer Kabeltunnel unter der Themse wird mit zwei Maschinen aus Deutschland gebaut: Wie das in 45 Meter Tiefe gelingt.",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/herrenknecht-maschinen-bohren-kabeltunnel-unter-themse-accg-201600388.html"
+      "url": "https://www.faz.net/aktuell/technik-motor/technik/herrenknecht-maschinen-bohren-kabeltunnel-unter-themse-accg-201600388.html",
+      "image_url": "https://media0.faz.net/image/w1200/3f2151c928cb/w5280h2970x0y0/202610/43601.0.2770091745/das-themse-projekt.webp",
+      "image_title": "Das Themse-Projekt: Bohrmaschine Caroline wird in den Startschacht gehoben."
     },
     {
       "title": "FAZ+VW Tiguan 2.0 TDI 4motion: Ein Freund der Familie",
@@ -62,17 +69,17 @@
       "image_title": "Braver Kumpel: Der neue VW Tiguan"
     },
     {
-      "title": "EICMA 2026: Motorradtrends: Klein, fein, mein",
-      "teaser": "Die Rückbesinnung auf die Freude am kleinen Hubraum bewegt die Motorradwelt. Das Auftrumpfen der Inder und Chinesen mindestens ebenso. Und Elektro? Bericht von der Eicma in Mailand.",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/eicma-2026-neue-motorradtrends-201654320.html",
-      "image_url": "https://media0.faz.net/image/w1200/5f5571d5932e/w3088h1737x371y421/202611/e4813aaa-3090-44c5-b84b-f90ba72d83d1/765-aussteller-und-2142-marken.webp",
-      "image_title": "765 Aussteller und 2142 Marken aus 52 Ländern: Zweiradfans kommen um die Motorradmesse Eicma kaum umhin."
-    },
-    {
       "title": "Der F.A.Z.-Autoticker: Fahrtenschreiber",
       "teaser": "Honda zeigt seriennahe V3R900 mit E-Kompressor ++ Electra übernimmt Mercedes-Ladeparks ++ Autofahrer in mittelgroßen Städten besonders unzufrieden ++ Opel Grandland Electric mit 22-kW-Bordlader",
       "url": "https://www.faz.net/aktuell/technik-motor/auto-liveticker-neues-infotainment-fuer-porsche-faz-18137164.html",
       "image_url": "https://media0.faz.net/image/w1200/6a3620dffed8/w1600h900x0y0/202204/1.7951806/pp-1-7951806.webp"
+    },
+    {
+      "title": "EICMA 2026: Motorradtrends: Klein, fein, mein",
+      "teaser": "Die Rückbesinnung auf die Freude am kleinen Hubraum bewegt die Motorradwelt. Das Auftrumpfen der Inder und Chinesen mindestens ebenso. Und Elektro? Bericht von der Eicma in Mailand.",
+      "url": "https://www.faz.net/aktuell/technik-motor/motor/eicma-2026-neue-motorradtrends-201654320.html",
+      "image_url": "https://media0.faz.net/image/w1100/5f5571d5932e/w3088h1737x371y421/202611/e4813aaa-3090-44c5-b84b-f90ba72d83d1/765-aussteller-und-2142-marken.webp",
+      "image_title": "765 Aussteller und 2142 Marken aus 52 Ländern: Zweiradfans kommen um die Motorradmesse Eicma kaum umhin."
     },
     {
       "title": "Fünf am Freitag: Verspielter Winter",
@@ -86,13 +93,6 @@
       "url": "https://www.faz.net/aktuell/technik-motor/digital/macbook-pro-proled-xdr-von-apple-im-test-201647036.html",
       "image_url": "https://media0.faz.net/image/w1100/f620e8a92de7/w3840h2160x0y191/202611/556131c1-831c-486c-9137-3a5e5bac0ec7/zwei-groessen-macbook-pro.webp",
       "image_title": "Zwei Größen: Macbook Pro PROLED XDR mit 14 und 16 Zoll"
-    },
-    {
-      "title": "FAZ+E-Scooter Navee XT 5 Max: Gegen die Teerkraft",
-      "teaser": "Mit dem XT 5 Max schickt der chinesische Hersteller Navee einen voll gefederten E-Scooter auf die Straße, der Ausdauer, Komfort und Offroad-Talente verbindet.",
-      "url": "https://www.faz.net/aktuell/technik-motor/technik/e-scooter-navee-xt-5-max-im-test-chinesischer-hersteller-gegen-die-teerkraft-accg-201313022.html",
-      "image_url": "https://media0.faz.net/image/w1100/3245175da8db/w5038h2834x0y271/202610/43601.0.2655086763/kleine-freiheit-navees-e.webp",
-      "image_title": "Kleine Freiheit: Navees E-Scooter XT 5 Max ist auch abseits städtischer Wege ein guter Begleiter."
     },
     {
       "title": "Umweltplakette: Zum Grünärgern",
@@ -172,10 +172,17 @@
       "image_title": "Der Feldversuch mit dem autonomen Lkw ist Mitte September gestartet und dauert noch bis zum Jahresende."
     },
     {
+      "title": "FAZ+E-Scooter Navee XT 5 Max: Gegen die Teerkraft",
+      "teaser": "Mit dem XT 5 Max schickt der chinesische Hersteller Navee einen voll gefederten E-Scooter auf die Straße, der Ausdauer, Komfort und Offroad-Talente verbindet.",
+      "url": "https://www.faz.net/aktuell/technik-motor/technik/e-scooter-navee-xt-5-max-im-test-chinesischer-hersteller-gegen-die-teerkraft-accg-201313022.html",
+      "image_url": "https://media0.faz.net/image/w920/ef5fe678f8a2/w5712h2448x0y352/202610/43601.0.2655086763/kleine-freiheit-navees-e.webp",
+      "image_title": "Kleine Freiheit: Navees E-Scooter XT 5 Max ist auch abseits städtischer Wege ein guter Begleiter."
+    },
+    {
       "title": "Rivian R2: Eloquenter Exot auf Exportkurs",
       "teaser": "Der amerikanische Hersteller Rivian bringt sein SUV R2 im kommenden Jahr nach Europa. Was ihm an Bekanntheit fehlt, macht er mit seinem Design wett.",
       "url": "https://www.faz.net/aktuell/technik-motor/motor/rivian-r2-in-europa-gefahr-fuer-das-tesla-model-y-accg-201340088.html",
-      "image_url": "https://media0.faz.net/image/w920/b436d5f070b5/w3000h1285x0y682/202610/e777dce0-995f-47d8-bb40-bbc0ef1c3d17/demnaechst-in-europa-rivian.webp",
+      "image_url": "https://media0.faz.net/image/w1100/f459c99addb2/w3000h1687x0y313/202610/e777dce0-995f-47d8-bb40-bbc0ef1c3d17/demnaechst-in-europa-rivian.webp",
       "image_title": "Demnächst in Europa: Rivian mit seinem SUV R2"
     },
     {
@@ -184,13 +191,6 @@
       "url": "https://www.faz.net/aktuell/technik-motor/digital/wechseljahre-was-bringen-smartwatches-und-apps-accg-201607944.html",
       "image_url": "https://media0.faz.net/image/w1100/0df5c8c9d989/w5931h3336x0y266/202610/edf812dc-3608-4e25-9882-352b3963d072/ziemlich-heiss-hier.webp",
       "image_title": "Ziemlich heiß hier: Hitzewallungen und Schlafprobleme sind typisch für die Wechseljahre."
-    },
-    {
-      "title": "Führerschein: Durch die Wüste und zurück",
-      "teaser": "Der Führerschein stößt das Tor zur Freiheit auf. Hindurchgegangen sind wir erst zehn Jahre später in Namibia. Von der Angst vorm Fahren haben wir uns befreit.",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/warum-ich-den-fuehrerschein-jederzeit-wieder-machen-wuerde-accg-201308472.html",
-      "image_url": "https://media0.faz.net/image/w1100/db65f8e02d6c/w6062h3410x708y1262/202610/43601.0.2655175871/das-malerische-namibia-mit.webp",
-      "image_title": "Das malerische Namibia mit seinen fragwürdigen Straßen ist ein Fahrgenuss."
     },
     {
       "title": "FAZ+ÖPNV in Rom: Einfach mal machen",
