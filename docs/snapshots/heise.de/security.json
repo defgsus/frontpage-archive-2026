@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-10T07:50:47",
+  "timestamp": "2026-11-10T15:52:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,21 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertUpdate verfügbarNotepad++ schließt Rechteausweitungslücke",
-      "teaser": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
-      "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
-      "image_title": "Das Logo von Notepad++ neben einem dreieckigen Warnschild mit Ausrufezeichen"
+      "title": "AlertIm MalprogrammCodeschmuggel-Lücke in Microsoft Paint",
+      "teaser": "In dem rudimentären Zeichenprogramm Paint von Windows können Angreifer Schadcode einschleusen. Jetzt gibt es ein Update dagegen.",
+      "url": "https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html",
+      "image_title": "Windosw Paint mit Bordmitteln in Windows Paint geschrieben"
     },
     {
-      "title": "AlertSchwachstellen in Plex Media ServerQnap NAS: Attackierte Lücken in geschlossen",
-      "teaser": "Angreifer nutzen die Plex2Shell-Schwachstellen aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
-      "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
-      "image_title": "Warndreieck vor lecuhtenden Fenstern auf Bildshcirm"
+      "title": "CyberkriminalitätOnline-Banking geknackt – Betrüger muss jahrelang in Haft",
+      "teaser": "Welche Strafen und finanzielle Folgen das für den 36-Jährigen hat. Der Fall führte Ermittler durch ein Geflecht aus Pseudonymen und Krypto-Konten.",
+      "url": "https://www.heise.de/news/Online-Banking-geknackt-Betrueger-muss-jahrelang-in-Haft-11518324.html",
+      "image_title": "Person tippt mit einer Hand auf einer Laptoptastatur und hält mit der anderen eine Kreditkarte."
     },
     {
-      "title": "AlertUpdate verfügbarNotepad++ schließt Rechteausweitungslücke",
-      "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
-      "image_title": "Das Logo von Notepad++ neben einem dreieckigen Warnschild mit Ausrufezeichen"
+      "title": "AlertSAP-Patchday bringt Korrekturen für Codeschmuggel-Lücken",
+      "url": "https://www.heise.de/news/SAP-Patchday-bringt-Korrekturen-fuer-Codeschmuggel-Luecken-11519250.html",
+      "image_title": "SAP-Logo neben \"Achtung\"-Schild"
     },
     {
       "title": "Zweiteiliges Webinar | 25.11. & 9.12.Zweiteiliges Webinar: Maßgeschneiderte Verteidigung mit Wazuh",
@@ -45,12 +45,70 @@
       "url": "https://heise-conferences.de/webinar/so-verteidigt-man-sich-gegen-angreifende-agenten-77Fmd87ObO9Szy?wt_mc=intern.conf.security.web_ki-agenten.security_buehne_1.teaser.teaser&LPID=42046"
     },
     {
+      "title": "Webinar | 21. Januar 2027Zertifizierungen und ihr Nutzen",
+      "url": "https://heise-conferences.de/webinar/zertifizierungen-und-ihr-nutzen-hKP_5FYYpKbHAt?wt_mc=intern.conf.security.web_zertifizierung.security_buehne_1.teaser.teaser&LPID=40913"
+    },
+    {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "Umstrittene Cloud für den Staat: Delos will Anfang 2027 starten",
+      "teaser": "Die SAP-Tochter Delos verspricht eine „souveräne“ Cloud speziell für den deutschen Staat. Aktuell laufen Zertifizierungen, Anfang 2027 soll das Angebot starten.",
+      "url": "https://www.heise.de/news/Umstrittene-Cloud-fuer-den-Staat-Delos-will-Anfang-2027-starten-11518696.html",
+      "image_title": "Serverracks in einem Rechenzentrum"
+    },
+    {
+      "title": "AlertSAP-Patchday bringt Korrekturen für Codeschmuggel-Lücken",
+      "teaser": "Der November-Patchday bei SAP stopft Code-Injection- und Speicherkorrumpierungslücken. Neun Sicherheitslecks gelten als kritisch.",
+      "url": "https://www.heise.de/news/SAP-Patchday-bringt-Korrekturen-fuer-Codeschmuggel-Luecken-11519250.html",
+      "image_title": "SAP-Logo neben \"Achtung\"-Schild"
+    },
+    {
+      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11508681.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "AlertAngriffswarnung für GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex",
+      "teaser": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor Angriffen auf GPUStack, FreeSwitch, OpenSSH und IBM Aspera Faspex.",
+      "url": "https://www.heise.de/news/Angriffswarnung-fuer-GPUStack-FreeSwitch-OpenSSH-und-IBM-Aspera-Faspex-11518710.html",
+      "image_title": "Nullen und Einsen auf einem Display, unterbrochen von dem roten Schriftzug ATTACK"
+    },
+    {
+      "title": "AlertZahlreiche Sicherheitslücken bedrohen IBM App Connect Enterprise",
+      "teaser": "Patches schließen Schwachstellen in IBM App Connect Enterprise, der Log Source Management App for IBM QRadar SIEM und der TS4500 Tape Library.",
+      "url": "https://www.heise.de/news/Zahlreiche-Sicherheitsluecken-bedrohen-IBM-App-Connect-Enterprise-11518678.html",
+      "image_title": "Ein Schild mit der Aufschrift „Time to Update“"
+    },
+    {
+      "title": "40C3: Zweiter Vorverkaufstermin naht, Vortragsbeschreibungen sind online",
+      "teaser": "Neben zwei VVK-Terminen im November gibt es per „Halfnarp“ erste Einblicke ins Konferenzprogramm. Über 180 Vorträge von Roboter-Hacks bis Sticken stehen drin.",
+      "url": "https://www.heise.de/news/40C3-Zweiter-Vorverkaufstermin-naht-Vortragsbeschreibungen-sind-online-11517552.html",
+      "image_title": "Logo des 40C3"
+    },
+    {
+      "title": "AlertAußer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
+      "teaser": "Apple hat iOS 27.2.1, macOS 27.2.1 und diverse weitere Updates veröffentlicht. Gestopft werden unter anderem Lücken in Bluetooth und der Nachrichten-App.",
+      "url": "https://www.heise.de/news/Ausser-der-Reihe-Sicherheitsupdates-fuer-fast-alle-Apple-Geraete-11518098.html",
+      "image_title": "iPhone beim Update"
+    },
+    {
+      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
+      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
+      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11503328.html",
+      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "AlertChrome-Update stopft attackiertes Sicherheitsleck",
+      "teaser": "Google hat ein Update für den Webbrowser Chrome veröffentlicht. Die Entwickler warnen, dass eine Lücke bereits angegriffen wird.",
+      "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
+      "image_title": "Das Google-Chrome-Logo und ein Warndreieck vor einem Hintergrund mit grünem Text"
+    },
+    {
       "title": "Anthropic Claude Fable 5.2 ist günstiger, aber Tempo kostet extra",
-      "teaser": "Anthropic veröffentlicht Claude Fable 5.2 und Claude Mythos 5.2 veröffentlicht. Wer schnellere Ausgaben wünscht, darf das Doppelte zahlen.",
+      "teaser": "Anthropic veröffentlicht Claude Fable 5.2 und Claude Mythos 5.2. Wer schnellere Ausgaben wünscht, darf das Doppelte zahlen.",
       "url": "https://www.heise.de/news/Anthropic-Claude-Fable-5-2-ist-guenstiger-aber-Tempo-kostet-extra-11518102.html",
       "image_title": "Anthropic Claude Logo auf Handy"
     },
@@ -79,70 +137,16 @@
       "image_title": "Die Buchstaben AI umfliegen Haken und Warndreiecke."
     },
     {
-      "title": "7-Zip-Update schließt nicht genannte Sicherheitslücken",
-      "teaser": "7-Zip 26.06 beseitigt neben einigen Fehlern auch Schwachstellen. Das Update müssen Nutzer selbst herunterladen und installieren.",
-      "url": "https://www.heise.de/news/7-Zip-Update-schliesst-nicht-genannte-Sicherheitsluecken-11516845.html",
-      "image_title": "7-zip-Logo mit Update-Stempel"
+      "title": "AlertNotepad++: Update schließt Rechteausweitungslücke und mehr",
+      "teaser": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
+      "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
+      "image_title": "Das Logo von Notepad++ neben einem dreieckigen Warnschild mit Ausrufezeichen"
     },
     {
-      "title": "AlertSonicWall warnt vor Angriffen auf SSLVPN von SonicOS",
-      "teaser": "SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt.",
-      "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
-      "image_title": "Orangenes Dreieck vor einer blau leuchtenden Ebene"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 gegen Angriffe absichern",
-      "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-11503242.html",
-      "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Russlands Statistikamt nach Cyberangriff mit Problemen, Verlustzahlen öffentlich",
-      "teaser": "Die russische Statistikbehörde muss infolge eines Cyberangriffs eine Datenveröffentlichung verschieben. Für Aufsehen sorgen angeblich entwendete Verlustzahlen.",
-      "url": "https://www.heise.de/news/Russlands-Statistikamt-nach-Cyberangriff-mit-Problemen-Verlustzahlen-oeffentlich-11516801.html",
-      "image_title": "Blick bei Nacht auf die Moskwa mit beleuchteten Brücken, Schiffen und dem Kreml im Hintergrund."
-    },
-    {
-      "title": "Sabotage an Kühlsystemen: Warum deutsche Geheimdienste nun eingeschaltet sind",
-      "teaser": "Nach Angriffen auf Kühlsysteme in Supermärkten europaweit ermitteln nun auch Verfassungsschutz und BND. Die Täter nutzen Schwachstellen in Fernwartungszugängen.",
-      "url": "https://www.heise.de/news/Supermarkt-Kuehlsysteme-Deutsche-Geheimdienste-ermitteln-nach-Sabotageakten-11516390.html",
-      "image_title": "Lebensmittel in einem großen Müllcontainer, dieser ist beinahe voll."
-    },
-    {
-      "title": "Sichere Architektur für KI-Agenten im Backoffice",
-      "teaser": "KI-Agenten lassen sich nur sicher in Systeme einbinden, wenn die Architektur für eine Trennung von Daten und Handlungen sorgt.",
-      "url": "https://www.heise.de/hintergrund/Sichere-Architektur-fuer-KI-Agenten-im-Backoffice-11514414.html",
-      "image_title": "Illustration: Roboter am Tisch, auf dem ein Architekturmodell steht"
-    },
-    {
-      "title": "UpdateMindfactory informiert Kunden über Cyberangriff",
-      "teaser": "Hardwarehändler Mindfactory ist Opfer eines Cyberangriffs geworden. Kunden und die Datenschutzbehörde wurden informiert, die Ermittlungen laufen.",
-      "url": "https://www.heise.de/news/Mindfactory-informiert-Kunden-ueber-Cyberangriff-11515963.html",
-      "image_title": "Nahaufnahme mehrerer Grafikkarten nebeneinander mit sichtbaren Lüftern"
-    },
-    {
-      "title": "TU München schaltet nach Cyberangriff Campussystem ab",
-      "teaser": "Die TUM hat ihr zentrales Campus-Management-System offline genommen, nachdem sich Angreifer unberechtigten Zugriff verschafft und Daten entwendet haben.",
-      "url": "https://www.heise.de/news/Plattformen-offline-Cyberangriff-auf-TU-Muenchen-11515734.html",
-      "image_title": "Zentrum für QuantumEngineering der TU München in Garching mit Wiese und Steinen im Vordergrund."
-    },
-    {
-      "title": "macOS 27.3: Apple behebt letztes eMudhra-Leck – aber es wird dauern",
-      "teaser": "Safari und andere Browser auf dem Mac sind vor dem schweren TLS-Sicherheitsproblem zwar sicher, das Terminal aber nur mit Handarbeit. Apple hilft verspätet.",
-      "url": "https://www.heise.de/news/macOS-27-3-Apple-behebt-letztes-eMudhra-Leck-aber-es-wird-dauern-11513443.html",
-      "image_title": "Apple-Logo mit offenem Schloss (Symbolbild)"
-    },
-    {
-      "title": "iOS-Blockierungsmodus umgangen: Wie der jüngste Exploit von Calif.io arbeitet",
-      "teaser": "Erneut sind die Sicherheitsforscher von Calif.io in den Schlagzeilen. Nun gibt es erste Details zum jüngsten Exploit – und wie Apple reagieren kann.",
-      "url": "https://www.heise.de/news/iOS-Blockierungsmodus-umgangen-Wie-der-juengste-Exploit-von-Calif-io-arbeitet-11513469.html",
-      "image_title": "iPhone mit Blockierungsmodus"
-    },
-    {
-      "title": "AlertAttacken auf Cisco UCS Central Software und Unified CM können bevorstehen",
-      "teaser": "Sicherheitsupdates schließen Lücken in Cisco UCS Central Software und Cisco Unified Communications Manager.",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Cisco-UCS-Central-Software-und-Unified-CM-moeglich-11515138.html",
-      "image_title": "Das Wort \"update\" vor einem Hintergrund mit Linien und einem Stecker"
+      "title": "AlertQnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
+      "teaser": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
+      "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
+      "image_title": "Warndreieck vor lecuhtenden Fenstern auf Bildshcirm"
     },
     {
       "title": "Workshop | 17. – 18.11.2026Sicheres Active Directory: Rechteausweitung mit Microsoft Tiering verhindern",
