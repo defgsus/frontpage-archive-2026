@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-09T17:53:31",
+  "timestamp": "2026-11-10T00:55:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Grenzkontrollsystem: EU verklagt Konsortium um IBM",
+      "teaser": "Wegen wiederholter Verzögerungen bei der Entwicklung des europäischen Ein- und Ausreisesystems (EES) reicht die EU in Estland Klage gegen IBM und Partner ein.",
+      "url": "https://www.heise.de/news/Grenzkontrollsystem-EU-verklagt-Konsortium-um-IBM-11518072.html",
+      "image_title": "Hinweisschild zur Zollkontrolle bei der Einreise in die EU auf einem Flughafen."
+    },
+    {
+      "title": "Milliarden-Deal für Gasturbinen: Anthropic sichert sich Energiekapazitäten",
+      "teaser": "Angesichts des rasant steigenden Energiebedarfs für KI-Infrastruktur investiert der Claude-Entwickler erstmals direkt in Anlagen zur Stromerzeugung.",
+      "url": "https://www.heise.de/news/Milliarden-Deal-fuer-Gasturbinen-Anthropic-sichert-sich-Energiekapazitaeten-11518056.html",
+      "image_title": "Außenansicht eines modernen Bürogebäudes mit großem Anthropic-Firmenschild im Vordergrund."
+    },
+    {
       "title": "Microsoft prüft Rechenzentrumsverträge und lehnt ab",
       "teaser": "Microsoft lässt Insiderinformationen zufolge einige Rechenzentrumsverträge auslaufen, darunter einen Mietvertrag mit Oracle.",
       "url": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html",
@@ -30,18 +42,6 @@
       "teaser": "Für die Sabotage von Kühlsystemen in mehreren europäischen Ländern ist nach Erkenntnissen der französischen Regierung der Iran verantwortlich.",
       "url": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html",
       "image_title": "Ein Blick in den Gang eines Supermarktes mit langen verglasten Kühlregale"
-    },
-    {
-      "title": "Option GigafactoryTelekom rüstet KI-Fabrik in München nach",
-      "teaser": "Mit viel Prominenz hat die Telekom den Startschuss für ihre „KI-Fabrik 2.0“ gegeben. Zu einer Gigafactory blieb Tim Höttges vage.",
-      "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html",
-      "image_title": "Telekom-Chef Tim Höttges vor einer LED-Leinwand mit Daten der Unternehmen, welche die KI-Fabrik bereits nutzen."
-    },
-    {
-      "title": "Outlook.comDie Mail ist echt – und sie kommt trotzdem nicht an",
-      "teaser": "Outlook.com lehnt derzeit E-Mails kleiner Absender ohne DMARC-Eintrag ab – selbst wenn SPF und DKIM stimmen.",
-      "url": "https://www.heise.de/news/Outlook-com-Die-Mail-ist-echt-und-sie-kommt-trotzdem-nicht-an-11517776.html",
-      "image_title": "Logo von Outlook.com mit Achtung-Schild vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "TestsUniversalfernbedienung Sofabaton X2 im Test: Infrarot, Bluetooth, WLAN",
@@ -55,6 +55,23 @@
       "title": "HintergrundLehren aus einem produktiven Review-Agenten-Workflow",
       "url": "https://www.heise.de/hintergrund/Lehren-aus-einem-produktiven-Review-Agenten-Workflow-11510195.html",
       "image_title": "Ein weiblich anmutender Roboter sitzt vor einem Mischpult mit Bildschirmen und singt oder spricht in ein Mikrofon"
+    },
+    {
+      "title": "Top 10: Speicher für Balkonkraftwerk im Test",
+      "teaser": "Wir zeigen die besten Speicher für Balkonkraftwerke. Viele Modelle lassen sich inzwischen lokal via Home Assistant ansteuern.",
+      "url": "https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-ohne-cloud-lokal-steuerbar/9g7b03h?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option",
+      "teaser": "Mit viel Politprominenz hat die Telekom am Montag den Startschuss für ihre „KI-Fabrik 2.0“ gegeben. Zu einer möglichen Gigafactory blieb Tim Höttges vage.",
+      "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html",
+      "image_title": "Telekom-Chef Tim Höttges vor einer LED-Leinwand mit Daten der Unternehmen, welche die KI-Fabrik bereits nutzen."
+    },
+    {
+      "title": "Outlook.com: Die Mail ist echt – und sie kommt trotzdem nicht an",
+      "teaser": "Outlook.com lehnt derzeit E-Mails kleiner Absender ohne DMARC-Eintrag ab – selbst wenn SPF und DKIM stimmen.",
+      "url": "https://www.heise.de/news/Outlook-com-Die-Mail-ist-echt-und-sie-kommt-trotzdem-nicht-an-11517776.html",
+      "image_title": "Logo von Outlook.com mit Achtung-Schild vor blauem Mosaik-Hintergrund"
     },
     {
       "title": "Neue Gallium- und Germanium-Materialien für Leistungshalbleiter reifen heran",
@@ -126,24 +143,6 @@
       "teaser": "Bei akuten Problemen gilt es, Protokolle wie DNS und HTTP systematisch zu analysieren. Die größte Herausforderung: Troubleshooting bei verschlüsseltem Traffic.",
       "url": "https://www.heise.de/ratgeber/Protokollanalysen-mit-dem-Capture-Tool-Wireshark-durchfuehren-11515080.html",
       "image_title": ","
-    },
-    {
-      "title": "7-Zip-Update schließt nicht genannte Sicherheitslücken",
-      "teaser": "7-Zip 26.06 beseitigt neben einigen Fehlern auch Schwachstellen. Das Update müssen Nutzer selbst herunterladen und installieren.",
-      "url": "https://www.heise.de/news/7-Zip-Update-schliesst-nicht-genannte-Sicherheitsluecken-11516845.html",
-      "image_title": "7-zip-Logo mit Update-Stempel"
-    },
-    {
-      "title": "AlertSonicWall warnt vor Angriffen auf SSLVPN von SonicOS",
-      "teaser": "SonicWall mahnt zum zügigen Update: Angreifer missbrauchen eine Sicherheitslücke im SSLVPN von SonicOS. Auch die CISA warnt.",
-      "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html",
-      "image_title": "Orangenes Dreieck vor einer blau leuchtenden Ebene"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 gegen Angriffe absichern",
-      "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-11503242.html",
-      "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
     },
     {
       "title": "News25 Millionen Quadratkilometer: Ozonloch war in diesem Jahr so groß wie selten",
