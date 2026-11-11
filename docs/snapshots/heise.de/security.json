@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T01:31:45",
+  "timestamp": "2026-11-11T08:31:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,16 +20,15 @@
   ],
   "articles": [
     {
+      "title": "IT-Vorfall an Uni TübingenTausende Datensätze abgeflossen",
+      "teaser": "Bei einem Cyberangriff haben die Täter Tausende Datensätze von der Universität Tübingen abgegriffen. Betroffen sind Angestellte.",
+      "url": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html"
+    },
+    {
       "title": "AlertIm MalprogrammCodeschmuggel-Lücke in Microsoft Paint",
       "teaser": "In dem rudimentären Zeichenprogramm Paint von Windows können Angreifer Schadcode einschleusen. Jetzt gibt es ein Update dagegen.",
       "url": "https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html",
       "image_title": "Windosw Paint mit Bordmitteln in Windows Paint geschrieben"
-    },
-    {
-      "title": "CyberkriminalitätOnline-Banking geknackt – Betrüger muss jahrelang in Haft",
-      "teaser": "Welche Strafen und finanzielle Folgen das für den 36-Jährigen hat. Der Fall führte Ermittler durch ein Geflecht aus Pseudonymen und Krypto-Konten.",
-      "url": "https://www.heise.de/news/Online-Banking-geknackt-Betrueger-muss-jahrelang-in-Haft-11518324.html",
-      "image_title": "Person tippt mit einer Hand auf einer Laptoptastatur und hält mit der anderen eine Kreditkarte."
     },
     {
       "title": "AlertSAP-Patchday bringt Korrekturen für Codeschmuggel-Lücken",
@@ -51,6 +50,17 @@
     {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "„Passwort“ Folge 70: Bunte Tüte für 4 Milliarden Euro",
+      "teaser": "Der Milliardenhack bei der Kryptoplattform Binance ist ein Thema der neuesten Folge, es geht aber auch um überhitzte Kühlschränke und TCP-Schwachstellen.",
+      "url": "https://www.heise.de/news/Passwort-Folge-70-Bunte-Tuete-fuer-4-Milliarden-Euro-11483977.html",
+      "image_title": "Logo Passwort - der heise security Podcast"
+    },
+    {
+      "title": "Sicherheits-Zertifikate: Was bringen ISO 27001 & Co. wirklich?",
+      "teaser": "Bringen ISO 27001 oder BSI Grundschutz wirklich mehr Schutz? Ein heise security Webinar vergleicht Nutzen mit Aufwand und gibt Tipps für den richtigen Einstieg.",
+      "url": "https://www.heise.de/news/heise-security-Webinar-Sicherheits-Zertifizierungen-und-ihr-Nutzen-11517458.html"
     },
     {
       "title": "Umstrittene Cloud für den Staat: Delos will Anfang 2027 starten",
@@ -101,6 +111,12 @@
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
     },
     {
+      "title": "Online-Banking geknackt – Betrüger muss jahrelang in Haft",
+      "teaser": "Der Fall führte Ermittler durch ein komplexes System aus Pseudonymen und Krypto-Konten. Welche Strafen und finanzielle Folgen das für den 36-Jährigen hat.",
+      "url": "https://www.heise.de/news/Online-Banking-geknackt-Betrueger-muss-jahrelang-in-Haft-11518324.html",
+      "image_title": "Person tippt mit einer Hand auf einer Laptoptastatur und hält mit der anderen eine Kreditkarte."
+    },
+    {
       "title": "AlertChrome-Update stopft attackiertes Sicherheitsleck",
       "teaser": "Google hat ein Update für den Webbrowser Chrome veröffentlicht. Die Entwickler warnen, dass eine Lücke bereits angegriffen wird.",
       "url": "https://www.heise.de/news/Chrome-Update-stopft-attackiertes-Sicherheitsleck-11518215.html",
@@ -131,24 +147,6 @@
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
     },
     {
-      "title": "KI-Coding-Agenten verfrachten Zugangsdaten in öffentliche Repositories",
-      "teaser": "Wer mit KI-Coding-Agenten arbeitet, kann Zugangsdaten in öffentliche Repositories ausleiten. Schuld ist eine Komfortfunktion.",
-      "url": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html",
-      "image_title": "Die Buchstaben AI umfliegen Haken und Warndreiecke."
-    },
-    {
-      "title": "AlertNotepad++: Update schließt Rechteausweitungslücke und mehr",
-      "teaser": "Mit dem Update auf Notepad++ 8.9.9 bessert Don Ho sechs Schwachstellen aus. Es gibt aber auch Verbesserungen etwa in der Performance.",
-      "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html",
-      "image_title": "Das Logo von Notepad++ neben einem dreieckigen Warnschild mit Ausrufezeichen"
-    },
-    {
-      "title": "AlertQnap NAS: Attackierte Lücken in Plex Media Server geschlossen",
-      "teaser": "Derzeit nutzen Angreifer die Plex2Shell-Schwachstellen in Plex Media Server aus. Nun ist eine abgesicherte Version auch für Qnap NAS erschienen.",
-      "url": "https://www.heise.de/news/Qnap-NAS-Attackierte-Luecken-in-Plex-Media-Server-geschlossen-11516935.html",
-      "image_title": "Warndreieck vor lecuhtenden Fenstern auf Bildshcirm"
-    },
-    {
       "title": "Workshop | 17. – 18.11.2026Sicheres Active Directory: Rechteausweitung mit Microsoft Tiering verhindern",
       "teaser": "Workshop für Systemadministratoren: Tiering einrichten und betreiben, um unberechtigte Zugriffe und Rechteausweitungen in Windows-Systemen zu verhindern.",
       "url": "https://heise-conferences.de/workshop/sicheres-active-directory-rechteausweitung-mit-microsoft-tiering-gezielt-verhindern-CjXZsIzUXe7Dz2?wt_mc=intern.conf.ix.ws_microsofttiering.security_buehne_2.teaser.teaser"
@@ -174,8 +172,8 @@
       "image_title": "Blick bei Nacht auf die Moskwa mit beleuchteten Brücken, Schiffen und dem Kreml im Hintergrund."
     },
     {
-      "title": "Google legt Botnetz lahm, beschuldigt Hersteller",
-      "url": "https://www.heise.de/news/Google-legt-Botnetz-lahm-beschuldigt-Hersteller-von-Android-Set-Top-Boxen-11510056.html"
+      "title": "Die Mail ist echt – und sie kommt trotzdem nicht an",
+      "url": "https://www.heise.de/news/Outlook-com-Die-Mail-ist-echt-und-sie-kommt-trotzdem-nicht-an-11517776.html"
     },
     {
       "title": "Falsches Bewerbungsgespräch als Einfallstor",
