@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-11T23:10:03",
+  "timestamp": "2026-11-12T04:36:44",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -19,6 +19,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Jensen Huang nach weiterer Affäre mit Mitarbeiterin wohl vor dem Aus bei Nvidia",
+      "url": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html"
+    },
     {
       "title": "Missachtung von Anordnungen im Wahlkampf: Geldstrafe gegen Meta in Brasilien",
       "url": "https://www.heise.de/news/Missachtung-von-Anordnungen-im-Wahlkampf-Geldstrafe-gegen-Meta-in-Brasilien-11521585.html"
@@ -56,10 +60,6 @@
       "url": "https://www.heise.de/tests/Selbst-Audits-fuer-Entra-ID-im-Test-Tools-und-Praxis-11517170.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
-    },
-    {
-      "title": "Apple Glasses: Zulieferer lüftet unfreiwillig Geheimnis",
-      "url": "https://www.heise.de/news/Apple-Zulieferer-plaudert-versehentlich-ueber-KI-Brille-aus-11521407.html"
     },
     {
       "title": "Digital Fairness ActEU-Offensive gegen Abo-Fallen, Lootboxen und Dark Patterns",
@@ -184,20 +184,26 @@
       "image_title": "Stator aus einem Nio ET7"
     },
     {
+      "title": "Jensen Huang nach weiterer Affäre mit Mitarbeiterin wohl vor dem Aus bei Nvidia",
+      "teaser": "Neben der mutmaßlichen Agentin Chinas hatte der Nvidia-CEO offenbar auch eine Affäre mit einer Kollegin. Die Aktie rutscht weiter ab, der Abschied rückt näher.",
+      "url": "https://www.heise.de/news/Jensen-Huang-nach-weiterer-Affaere-mit-Mitarbeiterin-wohl-vor-dem-Aus-bei-Nvidia-11521625.html",
+      "image_title": "Nvidia-CEO Jensen Huang während einer Veranstaltung auf der Computex im Juni 2024 in Taipeh."
+    },
+    {
       "title": "Missachtung von Anordnungen im Wahlkampf: Geldstrafe gegen Meta in Brasilien",
       "teaser": "Die brasilianische Wahlbehörde bestraft Meta wegen Missachtung von Gerichtsentscheidungen im Wahlkampf, erkennt jedoch keine gezielte Beeinflussung der Wahlen.",
       "url": "https://www.heise.de/news/Missachtung-von-Anordnungen-im-Wahlkampf-Geldstrafe-gegen-Meta-in-Brasilien-11521585.html"
+    },
+    {
+      "title": "Ist Ihr Servicedesk bereit für KI?",
+      "teaser": "Alle Abteilungen wollen mehr künstliche Intelligenz nutzen, doch oft hinken die Ergebnisse den Erwartungen hinterher. Ob KI zum Beispiel im Servicedesk sinnvoll ist, lässt sich an drei Dingen prüfen.",
+      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7434689442&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Bericht: ByteDance plant eigenen KI-Agenten",
       "teaser": "ByteDance bereitet einen KI-Agenten nach dem Vorbild von Metas Muse vor und will so den Rückstand im KI-Wettrennen gegenüber US-Unternehmen aufholen.",
       "url": "https://www.heise.de/news/Bericht-ByteDance-plant-eigenen-KI-Agenten-11521573.html",
       "image_title": "Eine Lupe auf einer chinesischen Flagge"
-    },
-    {
-      "title": "Heizkosten sparen ohne Komfortverlust",
-      "teaser": "Heizkosten zu verringern, heißt nicht, auf Komfort zu verzichten. Entscheidend ist, die Heizung intelligent zu regeln. Mit einer smarten Lösung lassen sich Energiekosten um bis zu 33 % senken.",
-      "url": "https://pubads.g.doubleclick.net/gampad/clk?id=7471076123&iu=%2F6514%2FClicktracking"
     },
     {
       "title": "Teuer muss sie nicht sein: Die beste Akku-Luftpumpe im Test",
@@ -229,12 +235,6 @@
       "image_title": "Agent Siri AI: Wo Apples holprige KI-Reise hingeht Mac & i-Podcast"
     },
     {
-      "title": "Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor",
-      "teaser": "Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient.",
-      "url": "https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html",
-      "image_title": "Abstrakte Darstellung eines neuronalen Netzes, das binäre Eingaben verarbeitet und in Programmcode überführt."
-    },
-    {
       "title": "Home Assistant und ein 17-Euro-SensorSo machen Sie den Gaszähler smart",
       "teaser": "Ab ins Smart Home. So überwachen Sie den Verbrauch Ihres Gaszählers und beurteilen Sparmaßnahmen.",
       "url": "https://www.heise.de/ratgeber/So-machen-Sie-den-Gaszaehler-smart-Home-Assistant-und-ein-17-Euro-Sensor-genuegen-11202562.html",
@@ -261,8 +261,8 @@
       "url": "https://www.heise.de/news/Kurz-vor-historischem-Meilenstein-Kontakt-zu-Voyager-1-steht-wieder-11513463.html"
     },
     {
-      "title": "US-Zwischenwahlen: Rechenzentren noch größere Verlierer als die Republikaner",
-      "url": "https://www.heise.de/news/US-Zwischenwahlen-Rechenzentren-noch-groessere-Verlierer-als-die-Republikaner-11510882.html"
+      "title": "25 Millionen Quadratkilometer: Ozonloch war in diesem Jahr so groß wie selten",
+      "url": "https://www.heise.de/news/Trotz-anhaltender-Erholung-Ozonloch-war-in-diesem-Jahr-so-gross-wie-selten-11513956.html"
     },
     {
       "title": "Werkzeug per Strom-Fingerabdruck erkennen: Shelly-Hardware gehackt",
@@ -276,8 +276,8 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Wie bleibt der Akku im Elektroauto lange leistungsfähig?",
-      "url": "https://www.heise.de/hintergrund/Wie-bleibt-Akku-im-Elektroauto-lange-leistungsfaehig-11496499.html",
+      "title": "4K-UHD-Blu-ray-Player im Test: Die letzten Scheibendreher",
+      "url": "https://www.heise.de/ratgeber/4K-UHD-Blu-ray-Player-im-Test-Die-letzten-Scheibendreher-11468170.html",
       "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
       "image_title": "heise Plus"
     },
@@ -313,6 +313,12 @@
       "title": "Viele Stunden am Schreibtisch?Hier nicht sparen: Der beste Bürostuhl im Test",
       "teaser": "Ein guter ergonomischer Bürostuhl entlastet den Rücken über lange Arbeitstage. Wir zeigen die besten Modelle aus 33 Tests.",
       "url": "https://www.heise.de/bestenlisten/testsieger/viele-stunden-am-schreibtisch-hier-nicht-sparen-der-beste-buerostuhl-im-test/6le25ss?wt_mc=intern.red.bestenlisten.bestenlisten_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor",
+      "teaser": "Das Münchner Unternehmen Helsing hat mit Clarity eine KI-Plattform für militärische Analysen vorgestellt, die als europäische Alternative zu US-Systemen dient.",
+      "url": "https://www.heise.de/news/Muenchner-Ruestungs-KI-Helsing-stellt-Plattform-Clarity-vor-11521399.html",
+      "image_title": "Abstrakte Darstellung eines neuronalen Netzes, das binäre Eingaben verarbeitet und in Programmcode überführt."
     },
     {
       "title": "Selbst-Audits für Entra ID im Test: Tools und Praxis",
@@ -385,15 +391,15 @@
       "image_title": "PayPal-Logo an einem Fenster, im Hintergrund Wolkenkratzer"
     },
     {
+      "title": "Virtualisierung mit Weitblick: Kosten im Griff, Verfügbarkeit gesichert, Wechsel möglich",
+      "teaser": "Neue Lizenzmodelle und steigende Kosten stellen viele Virtualisierungsstrategien infrage. Welche Plattform zu welchen Anforderungen passt, erfahren Sie im Live-Webcast am 26. November um 11 Uhr.",
+      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/virtualisierung-mit-weitblick-kosten-im-griff-verfuegbarkeit-gesichert-wechsel-moeglich-5126/?source=hbsad-ersatz"
+    },
+    {
       "title": "Grok Build: KI-Apps geben Geschäftsgeheimnisse und persönliche Daten preis",
       "teaser": "Tausende KI-generierte Grok-Apps waren für Fremde erreichbar. Darunter fanden Sicherheitsforscher vertrauliche Daten von SpaceXSI und anderen Unternehmen.",
       "url": "https://www.heise.de/news/Grok-Build-KI-Apps-geben-Geschaeftsgeheimnisse-und-persoenliche-Daten-preis-11520974.html",
       "image_title": "Das Logo von Grok auf einem Smartphone"
-    },
-    {
-      "title": "Cybersicherheit und digitale Souveränität in Europa",
-      "teaser": "Wo Daten liegen, ist nur ein Teil der digitalen Souveränität. Vielmehr geht es um Abhängigkeiten von Cloud-, Security- und KI-Diensten. Wie Sie diese bewerten und im Ernstfall handlungsfähig bleiben, erfahren Sie im Live-Webcast am 17. November um 11 Uhr.",
-      "url": "https://business-services.heise.de/software/dokumenten-management/beitrag/effizienter-schutz-sensibler-daten-wie-microsoft-purview-um-securiti-ai-ergaenzt-wird-5089/?source=hbsad_ersatz"
     },
     {
       "title": "iX-Workshop: Mehr aus Wazuh herausholen – Detection, Compliance, Response",
@@ -449,9 +455,9 @@
       "image_title": "Auto-SR in Rocket League"
     },
     {
-      "title": "Live-Webinar – So erledigt der Mac Routineaufgaben für Sie",
-      "teaser": "Von einfachen Workflows bis zu komplexen Automatisierungen: Nutzen Sie die integrierten Mac-Tools optimal, um Ihre Produktivität zu steigern.",
-      "url": "https://www.heise.de/news/Live-Webinar-So-erledigt-der-Mac-Routineaufgaben-fuer-Sie-11517015.html"
+      "title": "Daten weg, Produktion gestoppt: Vier Tage in einer Lösegeldverhandlung",
+      "url": "https://www.heise.de/hintergrund/Im-Chat-mit-Kriminellen-Wie-eine-Loesegeldverhandlung-ablaeuft-11510982.html",
+      "image_title": "Schwarz-Weiß-Illustration im Comicstil mit Rot als einziger Farbe: Auf einem Schreibtisch steht ein rotes Wählscheibentelefon. Eine Hand im Anzugärmel greift nach dem Hörer, aber das Telefonkabel ist durchtrennt und sprüht Funken. Daneben steht ein Kaffeebecher mit der Aufschrift „IR TEAM“. Im Hintergrund arbeiten Menschen als Silhouetten an Bildschirmen in einem nächtlichen Büro"
     },
     {
       "title": "AlertUpdateAußer der Reihe: Sicherheitsupdates für fast alle Apple-Geräte",
@@ -459,19 +465,9 @@
       "image_title": "iPhone beim Update"
     },
     {
-      "title": "Outlook.com: Die Mail ist echt – und sie kommt trotzdem nicht an",
-      "url": "https://www.heise.de/news/Outlook-com-Die-Mail-ist-echt-und-sie-kommt-trotzdem-nicht-an-11517776.html",
-      "image_title": "Logo von Outlook.com mit Achtung-Schild vor blauem Mosaik-Hintergrund"
-    },
-    {
-      "title": "Microsoft prüft Rechenzentrumsverträge und lehnt ab",
-      "url": "https://www.heise.de/news/Microsoft-laesst-Rechenzentrumsvertrag-mit-Oracle-auslaufen-11517608.html",
-      "image_title": "Microsoft-Logo an einem Gebäude"
-    },
-    {
-      "title": "RWE nimmt größte Wasserstoffturbine Europas in Betrieb",
-      "url": "https://www.heise.de/news/RWE-nimmt-groesste-Wasserstoffturbine-Europas-in-Betrieb-11518550.html",
-      "image_title": "Wasserstofftanks und Windkraftanlagen auf einer Wiese"
+      "title": "Kommentar: Der Fall (des) Jensen Huang – zu viel Macht für einen Einzelnen",
+      "url": "https://www.heise.de/meinung/Kommentar-Der-Fall-des-Jensen-Huang-zu-viel-Macht-fuer-einen-Einzelnen-11518908.html",
+      "image_title": "Nvidia-Chef Jensen Huang 2025 auf der Nvidia-Veranstaltung GTC"
     },
     {
       "title": "Rätsel gelöst: Per Transitmethode entdeckter Exoplanet plötzlich „verschwunden“",
@@ -479,14 +475,19 @@
       "image_title": "Illustration eines Planeten vor einem hellen Sternenhimmel"
     },
     {
-      "title": "Forscher entwickeln Recycling-Methode für Rotorblätter von Windkraftwerken",
-      "url": "https://www.heise.de/news/Forscher-entwickeln-Recycling-Methode-fuer-Rotorblaetter-von-Windkraftwerken-11518165.html",
-      "image_title": "Windkraftanlagen auf einem Feld."
+      "title": "Gravitationswellen: Hinweis auf Überreste von „fehlgeschlagenen Supernovae“",
+      "url": "https://www.heise.de/news/Gravitationswellen-enthalten-Hinweise-auf-gescheiterte-Supernovae-11520292.html",
+      "image_title": "Zwei Aufnahmen eines Sterns aus den Jahren 2007 und 2015, markiert mit blauen Kreisen."
     },
     {
-      "title": "Meteotime-Wetterstationen auch nach über vier Monaten weiter ohne Daten",
-      "url": "https://www.heise.de/news/Meteotime-Wetterstationen-auch-nach-ueber-vier-Monaten-weiter-ohne-Daten-11518476.html",
-      "image_title": "Sechs Regenschirme hängen an einer Metallstange"
+      "title": "Kongsberg Maritime entwickelt autonomes Marineschiff für das Polarmeer",
+      "url": "https://www.heise.de/news/Kongsberg-Maritime-entwickelt-autonomes-Marineschiff-fuer-das-Polarmeer-11519908.html",
+      "image_title": "Rendering des Arctic Hunter USV"
+    },
+    {
+      "title": "Pixel Drop: Diese Neuerungen bringt Android 17 QPR2 fürs Pixel 6a und neuer",
+      "url": "https://www.heise.de/news/Pixel-Drop-inklusive-Google-verteilt-Android-17-QPR2-fuer-Pixel-Geraete-11520180.html",
+      "image_title": "Ein Google Logo und der Text Pixel Drop umgeben von glänzenden Sternen."
     },
     {
       "title": "Radfahrer-Tracking: Garmin-Geräte senden Echtzeitdaten an Waze",
@@ -494,14 +495,9 @@
       "image_title": "Radfahrer auf der Straße neben Autos sowie Smartphone und Smartwatch"
     },
     {
-      "title": "Halbtrockene Bremse: VW Mission Efficiency bremst hinten elektromechanisch",
-      "url": "https://www.heise.de/hintergrund/Halbtrockene-Bremse-VW-Mission-Efficiency-bremst-hinten-elektromechanisch-11507573.html",
-      "image_title": "VW Mission Efficiency"
-    },
-    {
-      "title": "„GTA 6“ lässt sich vorab herunterladen: Bis zu 212 GByte nötig",
-      "url": "https://www.heise.de/news/GTA-6-Preload-auf-Playstation-5-und-Xbox-Series-X-S-hat-begonnen-11518229.html",
-      "image_title": "Screenshot aus GTA 6"
+      "title": "Meteotime-Wetterstationen auch nach über vier Monaten weiter ohne Daten",
+      "url": "https://www.heise.de/news/Meteotime-Wetterstationen-auch-nach-ueber-vier-Monaten-weiter-ohne-Daten-11518476.html",
+      "image_title": "Sechs Regenschirme hängen an einer Metallstange"
     },
     {
       "title": "„GTA 6“: Rockstar peilt auf allen Konsolen 30 fps an",
@@ -509,14 +505,19 @@
       "image_title": "Ein Mann und eine Frau mit Waffen stehen auf einem Balkon vor einer Stadtkulisse"
     },
     {
-      "title": "Billiger als jedes Starterset: „Warhammer Survivors“ ausprobiert",
-      "url": "https://www.heise.de/tests/Warhammer-Survivors-im-Test-Starkes-Metal-Crossover-11518193.html",
-      "image_title": "Screenshot aus Warhammer Survivors"
+      "title": "3D-Filme in der VR-Brille: Meta baut Kinoangebot mit Disney und Lionsgate aus",
+      "url": "https://www.heise.de/news/3D-Filme-in-der-VR-Brille-Meta-baut-Kinoangebot-mit-Disney-und-Lionsgate-aus-11520514.html",
+      "image_title": "Virtuelle 3D-Filmbibliothek von Meta mit einer großen Leinwand und Filmplakaten von Avatar, Toy Story 5, Deadpool & Wolverine und weiteren Hollywood-Filmen."
     },
     {
-      "title": "Kommentar: Der Fall (des) Jensen Huang – zu viel Macht für einen Einzelnen",
-      "url": "https://www.heise.de/meinung/Kommentar-Der-Fall-des-Jensen-Huang-zu-viel-Macht-fuer-einen-Einzelnen-11518908.html",
-      "image_title": "Nvidia-Chef Jensen Huang 2025 auf der Nvidia-Veranstaltung GTC"
+      "title": "Blender 5.3 importiert und bearbeitet Gaussian Splats",
+      "url": "https://www.heise.de/news/Blender-5-3-importiert-und-bearbeitet-Gaussian-Splats-11519994.html",
+      "image_title": "Screenshot: Drei kleine Bären lugen aus einem Loch in einem Baum hervor; dahinter steht ein weißer Pickup"
+    },
+    {
+      "title": "Dream Chaser: FAA-Landeerlaubnis ebnet Weg zum Testflug",
+      "url": "https://www.heise.de/news/Raumfrachter-Dream-Chaser-erhaelt-Genehmigung-fuer-Landung-von-FAA-11520166.html",
+      "image_title": "Dream Chaser auf Startbahn."
     },
     {
       "title": "ZF High Revolution Drive: E-Antrieb mit 30.000 U/min soll Bauraum sparen",
@@ -524,14 +525,13 @@
       "image_title": "ZF E-Antrieb"
     },
     {
-      "title": "Frankreich: Iran steckt hinter Cyberangriffen auf Kühlsysteme",
-      "url": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html",
-      "image_title": "Ein Blick in den Gang eines Supermarktes mit langen verglasten Kühlregale"
+      "title": "Nvidia-Aktien fallen und fallen: Microsoft zieht beim Marktwert kurz vorbei",
+      "url": "https://www.heise.de/news/Skandal-bei-Nvidia-Aktienkurs-faellt-auf-den-tiefsten-Stand-seit-Maerz-11520096.html",
+      "image_title": "Ein roter Aktienchart mit Kursen auf einem schwarzen Display"
     },
     {
-      "title": "Telekom rüstet KI-Fabrik in München nach, Gigafactory bleibt Option",
-      "url": "https://www.heise.de/news/Telekom-ruestet-KI-Fabrik-in-Muenchen-nach-Gigafactory-bleibt-Option-11517926.html",
-      "image_title": "Telekom-Chef Tim Höttges vor einer LED-Leinwand mit Daten der Unternehmen, welche die KI-Fabrik bereits nutzen."
+      "title": "IT-Vorfall an Uni Tübingen: Tausende Datensätze abgeflossen",
+      "url": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html"
     },
     {
       "title": "Umstrittene Cloud für den Staat: Delos will Anfang 2027 starten",
@@ -544,19 +544,19 @@
       "image_title": "Logo des 40C3"
     },
     {
-      "title": "Dienstag: Klage wegen EU-Grenzkontrollsystem, Anthropic kauft Gasgeneratoren",
-      "url": "https://www.heise.de/news/Dienstag-Klage-wegen-EU-Grenzkontrollsystem-Anthropic-kauft-Gasgeneratoren-11518084.html",
-      "image_title": "Schild \"Halt! Hier Grenze Bundesgrenzschutz\", dazu Text: DIENSTAG Grenzkontrollsystem, Anthropic, Cyberangriffe, Mondmission & Outlook.com"
+      "title": "Mittwoch: US-Hitparaden wieder mit YouTube, Vorwürfe an Freundin des Nvidia-CEO",
+      "url": "https://www.heise.de/news/Mittwoch-US-Hitparaden-wieder-mit-YouTube-Vorwuerfe-an-Freundin-des-Nvidia-CEO-11520074.html",
+      "image_title": "Menschlicher Kopf hinter Musik-Wellenform vor einer Weltkugel; Mittwoch: Billboard-Gewichtung, Milliarden-Affäre, Transceiver-Importverbot, Blender-Neuheit & Apple-Sicherheitsupdates"
     },
     {
-      "title": "Software Testing: Testfälle zählen ist Erbsenzählen, Metriken helfen",
-      "url": "https://www.heise.de/blog/Software-Testing-Testfaelle-zaehlen-ist-Erbsenzaehlen-Metriken-helfen-11518245.html",
-      "image_title": "Zwei Männer blicken in die Kamera neben dem Text „Unfall in Zeitlupe“."
+      "title": "Felgenversiegelung im Langzeittest: Die schnelle Drecklösung",
+      "url": "https://www.heise.de/ratgeber/Felgenversiegelung-im-Langzeittest-Die-schnelle-Dreckloesung-11520227.html",
+      "image_title": "Skoda Enyaq RS Felgen"
     },
     {
-      "title": "Zahlen, bitte! Vom Aufklärungsmittel zur Gedenkinstallation mit 88 Scheinwerfern",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Vom-Aufklaerungsmittel-zur-Gedenkinstallation-mit-88-Scheinwerfern-11518630.html",
-      "image_title": "Zahlenkolonnen in dunkelblauer und hellblauer Farbe auf blauem Hintergrund mit Text"
+      "title": "„Passwort“ Folge 70: Bunte Tüte für 4 Milliarden Euro",
+      "url": "https://www.heise.de/news/Passwort-Folge-70-Bunte-Tuete-fuer-4-Milliarden-Euro-11483977.html",
+      "image_title": "Logo Passwort - der heise security Podcast"
     },
     {
       "title": "GehaltsreportWas IT-Profis und KI-Spezialisten verdienen",
@@ -604,18 +604,14 @@
       "image_title": "YouTube-Thumbnail zum Uplink"
     },
     {
-      "title": "Merz: Google Cloud is sovereign enough for intelligence agencies",
-      "url": "https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html",
-      "image_title": "Friedrich Merz speaks to the press, with Alexander Dobrindt in the background"
-    },
-    {
       "title": "Fitbit: Google removes third-party apps and watch faces from App Gallery",
       "url": "https://www.heise.de/en/news/Fitbit-Google-removes-third-party-apps-and-watch-faces-from-App-Gallery-11519445.html",
       "image_title": "The Fitbit logo on a wall"
     },
     {
-      "title": "Discord is rebuilding in Rust, leaving React and Electron behind",
-      "url": "https://www.heise.de/en/news/Discord-is-rebuilding-in-Rust-leaving-React-and-Electron-behind-11516113.html"
+      "title": "Blender 5.3 imports and edits Gaussian Splats",
+      "url": "https://www.heise.de/en/news/Blender-5-3-imports-and-edits-Gaussian-Splats-11520011.html",
+      "image_title": "Screenshot: Three small bears peek out of a hole in a tree; a white pickup truck is parked behind them"
     },
     {
       "title": "Out-of-cycle security updates for nearly all Apple devices",
@@ -627,22 +623,26 @@
       "image_url": "https://www.heise.de/icons/svg/icons/svg/video_outline_grey_light.svg"
     },
     {
+      "title": "Merz: Google Cloud is sovereign enough for intelligence agencies",
+      "url": "https://www.heise.de/en/news/Merz-Google-Cloud-is-sovereign-enough-for-intelligence-agencies-11508564.html"
+    },
+    {
+      "title": "Fritzbox 5690 Pro bekommt FritzOS 8.51 – und weniger Speicher",
+      "teaser": "Für die Fritzbox 5690 Pro steht die Firmware 8.51 bereit, die einen Adblocker per DNS-Sperrliste mitbringt. Neue Hardwarerevisionen haben weniger RAM und Flash.",
+      "url": "https://www.heise.de/news/Fritzbox-5690-Pro-bekommt-FritzOS-8-51-und-weniger-Speicher-11521196.html",
+      "image_title": "Ein Router steht auf einem Regal neben mehreren Büchern und einer Vase mit Blumen."
+    },
+    {
+      "title": "KommentarDer Fall (des) Jensen Huang – zu viel Macht für einen Einzelnen",
+      "teaser": "KI-Hype, Hybris und Hyperkapitalismus als gefährliche Mischung. Die Affäre zeigt, wie Gier alle Regeln sprengt, meint Christof Windeck.",
+      "url": "https://www.heise.de/meinung/Kommentar-Der-Fall-des-Jensen-Huang-zu-viel-Macht-fuer-einen-Einzelnen-11518908.html",
+      "image_title": "Nvidia-Chef Jensen Huang 2025 auf der Nvidia-Veranstaltung GTC"
+    },
+    {
       "title": "Mit Linux loslegen: Die zehn wichtigsten Kommandozeilenbefehle",
       "teaser": "Schwarzes Fenster, blinkender Cursor – und nun? Wir stellen die wichtigsten Linux-Befehle vor, die Ihnen helfen, in die Kommandozeile einzusteigen.",
       "url": "https://www.heise.de/ratgeber/Mit-Linux-loslegen-Die-zehn-wichtigsten-Kommandozeilenbefehle-11310655.html",
       "image_title": "Ein Pinguin sitzt vor einem Computer an einem Schreibtisch mit Linux-Befehlen in der Luft."
-    },
-    {
-      "title": "Linux für die Couch: Mit Plasma Bigscreen Streaming und Gaming vereinen",
-      "teaser": "Plasma Bigscreen ist eine Linux-Oberfläche, die für Sofa und Controller gemacht ist. So richten Sie einen Wohnzimmer-PC für Streaming-Apps und Steam ein.",
-      "url": "https://www.heise.de/ratgeber/Linux-fuer-die-Couch-Mit-Plasma-Bigscreen-Streaming-und-Gaming-vereinen-11493606.html",
-      "image_title": "Ein Pinguin sitzt auf einem Sessel, hält eine Fernbedienung und blickt auf einen Bildschirm."
-    },
-    {
-      "title": "Neue Kindle-Generation 2026 im Test: Schickere Gehäuse, austauschbare Akkus",
-      "teaser": "Amazon verpasst seinen Kindles schickere Gehäuse und knackigere Displays. Doch die größte Verbesserung ist von außen nicht zu sehen.",
-      "url": "https://www.heise.de/tests/Neue-Kindle-Generation-2026-im-Test-Schickere-Gehaeuse-austauschbare-Akkus-11474681.html",
-      "image_title": "Drei E-Reader stehen nebeneinander auf einer Holzoberfläche vor gelbem Hintergrund"
     },
     {
       "title": "Apples 14-ZöllerMacBook Pro mit M6-Prozessor im Test",
@@ -727,12 +727,6 @@
       "image_title": "BYD Seal 6 DM-i Touring"
     },
     {
-      "title": "Die schnelle DrecklösungFelgenversiegelung im Langzeittest",
-      "teaser": "Ein halbes Jahr lang musste sich eine recht teure Versiegelung speziell für Felgen bewähren. Bringt das was? Ein Fazit",
-      "url": "https://www.heise.de/ratgeber/Felgenversiegelung-im-Langzeittest-Die-schnelle-Dreckloesung-11520227.html",
-      "image_title": "Skoda Enyaq RS Felgen"
-    },
-    {
       "title": "LFP-Akku flink vollE-Auto BYD mit Blade-Batterie 2.0: Blitzartig geladen",
       "teaser": "In neun Minuten von zehn auf 97 Prozent: Das ist das Versprechen, das BYD für die neue Blade-Batterie 2.0 macht. Was ist der technische Hintergrund?",
       "url": "https://www.heise.de/news/E-Auto-BYD-mit-Blade-Batterie-2-0-Blitzartig-geladen-11518514.html",
@@ -743,6 +737,12 @@
       "teaser": "Brüssel hat keine Bedenken: Europcar soll bald komplett der Kontrolle des Volkswagenkonzerns unterliegen.",
       "url": "https://www.heise.de/news/VW-darf-Europcar-vollstaendig-uebernehmen-11519650.html",
       "image_title": "Ein Schild mit dem Europcar-Logo"
+    },
+    {
+      "title": "Designstudie als Vorschau auf Polestar 2 und Polestar 7Polestar Formula 2030",
+      "teaser": "Mit dem Formula 2030 gibt Polestar einen Ausblick auf das Design des neuen Polestar 2 und des Kompakt-SUV Polestar 7, noch ohne technische Daten.",
+      "url": "https://www.heise.de/news/Polestar-Formula-2030-Designstudie-als-Vorschau-auf-Polestar-2-und-Polestar-7-11519208.html",
+      "image_title": "Polestar Formula"
     },
     {
       "title": "CCS unter der Nordsee: Warum Deutschlands CO2-Speicherpläne scheitern könnten",
