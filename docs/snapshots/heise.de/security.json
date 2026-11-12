@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T04:36:52",
+  "timestamp": "2026-11-12T13:22:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,21 @@
   ],
   "articles": [
     {
-      "title": "AlertMicrosoft-PatchdayAttacken auf Outlook beobachtet",
-      "teaser": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
-      "image_title": "Windows-Logo mit Riss, der Blick auf MAtrix-Regen-Hintgerund freigibt"
+      "title": "MicrosoftVerwirrung und Phishingverdacht durch Umstellung bei E-Rechnungen",
+      "teaser": "B2B-Rechnungen müssen ab 2027 elektronisch übermittelt werden. Microsoft hat bereits im November umgestellt, was Kunden verwirrt.",
+      "url": "https://www.heise.de/news/Microsoft-Verwirrung-und-Phishingverdacht-durch-Umstellung-bei-E-Rechnungen-11521669.html",
+      "image_title": "Microsoft-Logo vor mehreren Glasfassaden"
     },
     {
-      "title": "IT-Vorfall an Uni TübingenTausende Datensätze abgeflossen",
-      "teaser": "Bei einem Cyberangriff haben die Täter Tausende Datensätze von der Universität Tübingen abgegriffen. Betroffen sind Angestellte.",
-      "url": "https://www.heise.de/news/IT-Vorfall-an-Uni-Tuebingen-Tausende-Datensaetze-abgeflossen-11520090.html"
+      "title": "BKA-HerbsttagungZwischen Q-Day und Rückschlägen",
+      "teaser": "Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI und alte Wünsche nach Hackbacks.",
+      "url": "https://www.heise.de/news/BKA-Herbsttagung-Zwischen-Q-Day-und-Rueckschlaegen-11521539.html",
+      "image_title": "Polizistin in einer Einsatzleitstelle mit Landkarte auf dem Monitor"
     },
     {
-      "title": "AlertPatchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html",
-      "image_title": "Aufmacher Adobe Patchday"
+      "title": "AlertMonitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks",
+      "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html",
+      "image_title": "Finger tippt auf Update-Button"
     },
     {
       "title": "Zweiteiliges Webinar | 25.11. & 9.12.Zweiteiliges Webinar: Maßgeschneiderte Verteidigung mit Wazuh",
@@ -52,10 +53,34 @@
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
-      "title": "BKA-Herbsttagung: Zwischen Q-Day und Rückschlägen",
-      "teaser": "Auf der Herbsttagung des Bundeskriminalamts diskutieren Praktiker und Politiker über neue Bedrohungen durch KI und alte Wünsche nach Hackbacks.",
-      "url": "https://www.heise.de/news/BKA-Herbsttagung-Zwischen-Q-Day-und-Rueckschlaegen-11521539.html",
-      "image_title": "Polizistin in einer Einsatzleitstelle mit Landkarte auf dem Monitor"
+      "title": "Angriff über MCP-Server: Webhoster Mittwald im Krisenmodus",
+      "teaser": "Die Webseite des Hosters ist im Notbetrieb, das Blog offline und Administrationsdienste sind für Kunden deaktiviert.",
+      "url": "https://www.heise.de/news/Angriff-ueber-MCP-Server-Webhoster-Mittwald-im-Krisenmodus-11522728.html",
+      "image_title": "Rechenzentrum mit Server-Racks in einem schmalen Gang"
+    },
+    {
+      "title": "iOS, macOS, iPadOS: Calif.io-Exploit setzt auf Brotli-Bug für Jailbreak",
+      "teaser": "WLAN-Captive-Portal öffnen, schon gehackt: Das Sicherheitsteam Calif.io zeigt einen weiteren Exploit. Nutzer sollten schnellstmöglich ihr Apple-Gerät updaten.",
+      "url": "https://www.heise.de/news/Naechster-Calif-io-Angriff-Jailbreak-nutzt-Brotli-Luecke-auf-Mac-iPhone-und-iPad-11521975.html",
+      "image_title": "iPhone mit noch nicht eingespielten Updates"
+    },
+    {
+      "title": "AlertMonitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks",
+      "teaser": "Updates für die Monitoring-Software Checkmk schließen kritische Sicherheitslücken. Angreifer können dadurch Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html",
+      "image_title": "Finger tippt auf Update-Button"
+    },
+    {
+      "title": "Polens Digitalisierungsportal ePUAP nach Cyberangriff offline",
+      "teaser": "Die Digitalisierungsplattform ePUAP der polnischen Regierung ist derzeit offline. Ursache ist ein Cyberangriff.",
+      "url": "https://www.heise.de/news/Polens-Digitalisierungsportal-ePUAP-nach-Cyberangriff-offline-11521735.html",
+      "image_title": "Hand auf Tastatur"
+    },
+    {
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11503292.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "Münchner Rüstungs-KI: Helsing stellt Plattform Clarity vor",
@@ -112,39 +137,16 @@
       "image_title": "Ein Totenkopf geformt aus roten Binärcodes vor schwarzem Hintergrund."
     },
     {
+      "title": "AlertMicrosoft-Patchday: Attacken auf Outlook beobachtet",
+      "teaser": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
+      "image_title": "Windows-Logo mit Riss, der Blick auf MAtrix-Regen-Hintgerund freigibt"
+    },
+    {
       "title": "„Passwort“ Folge 70: Bunte Tüte für 4 Milliarden Euro",
       "teaser": "Der Milliardenhack bei der Kryptoplattform Binance ist ein Thema der neuesten Folge, es geht aber auch um überhitzte Kühlschränke und TCP-Schwachstellen.",
       "url": "https://www.heise.de/news/Passwort-Folge-70-Bunte-Tuete-fuer-4-Milliarden-Euro-11483977.html",
       "image_title": "Logo Passwort - der heise security Podcast"
-    },
-    {
-      "title": "Sicherheits-Zertifikate: Was bringen ISO 27001 & Co. wirklich?",
-      "teaser": "Bringen ISO 27001 oder BSI Grundschutz wirklich mehr Schutz? Ein heise security Webinar vergleicht Nutzen mit Aufwand und gibt Tipps für den richtigen Einstieg.",
-      "url": "https://www.heise.de/news/heise-security-Webinar-Sicherheits-Zertifizierungen-und-ihr-Nutzen-11517458.html"
-    },
-    {
-      "title": "Umstrittene Cloud für den Staat: Delos will Anfang 2027 starten",
-      "teaser": "Die SAP-Tochter Delos verspricht eine „souveräne“ Cloud speziell für den deutschen Staat. Aktuell laufen Zertifizierungen, Anfang 2027 soll das Angebot starten.",
-      "url": "https://www.heise.de/news/Umstrittene-Cloud-fuer-den-Staat-Delos-will-Anfang-2027-starten-11518696.html",
-      "image_title": "Serverracks in einem Rechenzentrum"
-    },
-    {
-      "title": "AlertSAP-Patchday bringt Korrekturen für Codeschmuggel-Lücken",
-      "teaser": "Der November-Patchday bei SAP stopft Code-Injection- und Speicherkorrumpierungslücken. Neun Sicherheitslecks gelten als kritisch.",
-      "url": "https://www.heise.de/news/SAP-Patchday-bringt-Korrekturen-fuer-Codeschmuggel-Luecken-11519250.html",
-      "image_title": "SAP-Logo neben \"Achtung\"-Schild"
-    },
-    {
-      "title": "iX-Workshop: Schwachstellen aufdecken – Pentesting mit Open-Source-Tools",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Schwachstellen-aufdecken-Pentesting-mit-Open-Source-Tools-11508681.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "AlertMicrosoft Paint: Codeschmuggel-Lücke im Malprogramm",
-      "teaser": "In dem rudimentären Zeichenprogramm Paint von Windows können Angreifer Schadcode einschleusen. Jetzt gibt es ein Update dagegen.",
-      "url": "https://www.heise.de/news/Microsoft-Paint-Codeschmuggel-Luecke-im-Malprogramm-11519162.html",
-      "image_title": "Windosw Paint mit Bordmitteln in Windows Paint geschrieben"
     },
     {
       "title": "Workshop | 17. – 18.11.2026Sicheres Active Directory: Rechteausweitung mit Microsoft Tiering verhindern",
