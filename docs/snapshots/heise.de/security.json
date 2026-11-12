@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-12T13:22:44",
+  "timestamp": "2026-11-12T21:11:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,9 +32,9 @@
       "image_title": "Polizistin in einer Einsatzleitstelle mit Landkarte auf dem Monitor"
     },
     {
-      "title": "AlertMonitoring-Software Checkmk: Updates schließen kritische Codeschmuggel-Lecks",
-      "url": "https://www.heise.de/news/Monitoring-Software-Checkmk-Updates-schliessen-kritische-Codeschmuggel-Lecks-11522043.html",
-      "image_title": "Finger tippt auf Update-Button"
+      "title": "AlertZoom für Windows: Angreifer können Rechte über das Netz ausweiten",
+      "url": "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
+      "image_title": "Man mit Kopfhörern vor Laptop mit Videkonferenz"
     },
     {
       "title": "Zweiteiliges Webinar | 25.11. & 9.12.Zweiteiliges Webinar: Maßgeschneiderte Verteidigung mit Wazuh",
@@ -51,6 +51,42 @@
     {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Münch: Erheblichkeitsschwelle für Datenaustausch ist aus der Zeit gefallen",
+      "teaser": "Das Bundeskriminalamt und seine Mitstreiter leiden unter einem massiv gestiegenen Fallaufkommen – und suchen technologische Lösungen für manche der Probleme.",
+      "url": "https://www.heise.de/news/BKA-Herbsttagung-Kriminalaemter-fordern-mehr-Datenaustausch-gegen-Betrugswellen-11523346.html",
+      "image_title": "Sondersignalanlage auf einem Fahrzeugdach im Dunkeln"
+    },
+    {
+      "title": "Kritische Sicherheitslücke in Apache2 ermöglicht Codeeinschleusung",
+      "teaser": "Nur Server mit aktiviertem HTTP/2 sind betroffen, Updates sind angeraten. Ein Exploit ist möglich, aber schwierig.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Apache2-ermoeglicht-Codeeinschleusung-11523150.html",
+      "image_title": "Apache HTTP Server Logo vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "Pager-Panne in Sachsen: Notrufmeldungen offenbar frei zugänglich im Netz",
+      "teaser": "Ein Notruf geht ein und alle können mitlesen: Offenbar sind heikle Patientendaten von Rettungsdienst- und Feuerwehr-Pagern in Sachsen abgefischt worden.",
+      "url": "https://www.heise.de/news/Pager-Panne-in-Sachsen-Notrufmeldungen-offenbar-frei-zugaenglich-im-Netz-11523154.html",
+      "image_title": "Blick auf das Blaulicht eines Einsatzfahrzeugs"
+    },
+    {
+      "title": "OSCAL Foundation löst sich auf",
+      "teaser": "Die Organisation hinter dem Compliance-Format OSCAL gibt nach knapp zwei Jahren auf. Das BSI hat den IT-Grundschutz++ erst 2025 auf dieses Format umgestellt.",
+      "url": "https://www.heise.de/news/OSCAL-Foundation-loest-sich-auf-11522880.html",
+      "image_title": "Ein Schild, das auf dem Hintergrund der Leiterbahnen des Boards in zwei Teile aufgeteilt ist."
+    },
+    {
+      "title": "AlertZoom für Windows: Angreifer können Rechte über das Netz ausweiten",
+      "teaser": "Mit aktualisierten Paketen beseitigt Zoom zwei gravierende Sicherheitslücken in der Windows-Version, die die Rechteausweitung ermöglichen.",
+      "url": "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
+      "image_title": "Man mit Kopfhörern vor Laptop mit Videkonferenz"
+    },
+    {
+      "title": "AlertAngreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
+      "teaser": "Um mehrere Sicherheitslücken zu schließen, müssen Admins ihre Installation von Citrix NetScaler ADC und NetScaler Gateway auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html",
+      "image_title": "Ein großes Vorhängeschloss vor einer transparenten Weltkugel über einer nächtlichen Großstadt"
     },
     {
       "title": "Angriff über MCP-Server: Webhoster Mittwald im Krisenmodus",
@@ -111,42 +147,6 @@
       "teaser": "Die EU will den Datenschutz „vereinfachen“. Auf der KI-Woche zeigte sich: Gute Regeln brauchen Aufsicht, doch es drohen Kürzungen.",
       "url": "https://www.heise.de/news/Omnibus-Gesetze-der-EU-und-die-Folgen-fuer-den-Datenschutz-11519738.html",
       "image_title": "Ralf Bendrath"
-    },
-    {
-      "title": "Firefox: Mozilla hebt Datenlimit für kostenloses VPN auf",
-      "teaser": "Ab jetzt bis zum 31. Januar 2027 will Mozilla das kostenlose VPN in Firefox ohne Datenlimit anbieten. Nicht zum ersten Mal.",
-      "url": "https://www.heise.de/news/Mozilla-hebt-VPN-Datenlimit-in-Firefox-bis-Ende-Januar-auf-11520640.html",
-      "image_title": "Mozilla-Firefox - Fuchs über BVrwoserfenster mit „VPN“-Schaltfläche"
-    },
-    {
-      "title": "Custom-ROM-Hürde beseitigt: GrapheneOS für Pixel 11 kommt",
-      "teaser": "Das GrapheneOS-Team bringt sein Custom-ROM nun doch auf Googles Pixel-11-Modelle. Google hat eine wichtige Komponente mit Android 17 QPR2 zurückgebracht.",
-      "url": "https://www.heise.de/news/Mit-Android-17-QPR2-GrapheneOS-kommt-doch-auf-das-Pixel-11-11520678.html",
-      "image_title": "Zwei Smartphones liegen nebeneinander, eines zeigt den Bildschirm, das andere die Rueckseite"
-    },
-    {
-      "title": "AlertPatchday Adobe: Kritische Lücken mit Höchstwertung bedrohen Connect",
-      "teaser": "Angreifer können mehrere Softwareprodukte von Adobe attackieren und die volle Kontrolle über PCs erlangen.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Kritische-Luecken-mit-Hoechstwertung-bedrohen-Connect-11520346.html",
-      "image_title": "Aufmacher Adobe Patchday"
-    },
-    {
-      "title": "AlertAngriffe auf Cisco BroadWorks, Barracuda ESG und weitere Produkte beobachtet",
-      "teaser": "Derzeit laufen Angriffe auf Cisco BroadWorks, Barracuda ESG, andere Barracuda-Netzwerkgeräte und weitere Produkte.",
-      "url": "https://www.heise.de/news/Angriffe-auf-Cisco-BroadWorks-Barracuda-ESG-und-weitere-Produkte-beobachtet-11520190.html",
-      "image_title": "Ein Totenkopf geformt aus roten Binärcodes vor schwarzem Hintergrund."
-    },
-    {
-      "title": "AlertMicrosoft-Patchday: Attacken auf Outlook beobachtet",
-      "teaser": "Aus Microsofts Security Update Guide geht hervor, dass die Entwickler knapp 1100 Sicherheitslücken in Office, Windows & Co. geschlossen haben.",
-      "url": "https://www.heise.de/news/Microsoft-Patchday-Attacken-auf-Outlook-beobachtet-11520196.html",
-      "image_title": "Windows-Logo mit Riss, der Blick auf MAtrix-Regen-Hintgerund freigibt"
-    },
-    {
-      "title": "„Passwort“ Folge 70: Bunte Tüte für 4 Milliarden Euro",
-      "teaser": "Der Milliardenhack bei der Kryptoplattform Binance ist ein Thema der neuesten Folge, es geht aber auch um überhitzte Kühlschränke und TCP-Schwachstellen.",
-      "url": "https://www.heise.de/news/Passwort-Folge-70-Bunte-Tuete-fuer-4-Milliarden-Euro-11483977.html",
-      "image_title": "Logo Passwort - der heise security Podcast"
     },
     {
       "title": "Workshop | 17. – 18.11.2026Sicheres Active Directory: Rechteausweitung mit Microsoft Tiering verhindern",
