@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-13T10:11:37",
+  "timestamp": "2026-11-13T18:12:54",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,43 +20,77 @@
   ],
   "articles": [
     {
-      "title": "Sparpläne bei Mercedes-BenzInvestitionsstopp und mögliche Werksschließungen",
+      "title": "DSGVO: Tinder muss Millionen-Bußgeld zahlen",
+      "teaser": "Die irische Data Protection Commission hat gegen die europäische Tochter der Match Group ein Bußgeld wegen eines DSGVO-Verstoßes verhängt.",
+      "url": "https://www.heise.de/news/DSGVO-Tinder-muss-Millionen-Bussgeld-zahlen-11525093.html",
+      "image_title": "Eine Person hält ein Smartphone mit einer Dating-App in der Hand."
+    },
+    {
+      "title": "Bit-Rauschen, der Prozessor-Podcast: Nvidia nach dem Rücktritt von Jensen Huang",
+      "teaser": "Nach Affären und Spionageverdacht tritt Nvidia-Boss Huang ab. Was wir wissen und wie es weitergehen könnte bei Nvidia: Folge 2026/23 des Podcasts Bit-Rauschen.",
+      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Nvidia-nach-dem-Ruecktritt-von-Jensen-Huang-11524919.html",
+      "image_title": "Logo von Bit-Rauschen - der Prozessor-Podcast von c’t"
+    },
+    {
+      "title": "Was Gaskunden erwartet: CO2-Preis, Speicherstände und LNG-Konkurrenz",
+      "teaser": "Globale Krisen, leere Speicher, Netzentgelte: Viele Faktoren bestimmen künftig den Gaspreis. Was das Zusammenspiel für Ihre Rechnung bedeutet – ein Überblick.",
+      "url": "https://www.heise.de/hintergrund/Was-Gaskunden-erwartet-CO2-Preis-Speicherstaende-und-LNG-Konkurrenz-11518294.html"
+    },
+    {
+      "title": "Bit-Rauschen: Nvidia-Chef tritt ab, KI-Aktien fahren Achterbahn",
+      "teaser": "Nvidia-Boss Jensen Huang traf heimlich eine Frau, die der Spionage verdächtigt wird und die Midterm-Wahlen in den USA versetzen KI-Aktien einen Dämpfer.",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Chef-tritt-ab-KI-Aktien-fahren-Achterbahn-11420684.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "HintergrundWas Gaskunden erwartet: CO2-Preis, Speicherstände und LNG-Konkurrenz",
+      "url": "https://www.heise.de/hintergrund/Was-Gaskunden-erwartet-CO2-Preis-Speicherstaende-und-LNG-Konkurrenz-11518294.html"
+    },
+    {
+      "title": "HintergrundBit-Rauschen: Nvidia-Chef tritt ab, KI-Aktien fahren Achterbahn",
+      "url": "https://www.heise.de/hintergrund/Bit-Rauschen-Nvidia-Chef-tritt-ab-KI-Aktien-fahren-Achterbahn-11420684.html",
+      "image_title": "Aufmacher Kolumne Bit-Rauschen"
+    },
+    {
+      "title": "HintergrundCCS: CO₂ – vom Erdboden verschluckt",
+      "url": "https://www.heise.de/hintergrund/CCS-CO-vom-Erdboden-verschluckt-11520246.html",
+      "image_title": "Kraftwerk Bremen-Hastedt"
+    },
+    {
+      "title": "c't-Podcast: „Zentrale Kryptobörsen wie Binance sind attraktive Angriffsziele“",
+      "teaser": "Die Ursache des Binance-Hack liegt nicht in der Technik, sondern darin, dass viele Nutzer das Versprechen der Kryptowelt gar nicht in Anspruch nehmen.",
+      "url": "https://www.heise.de/news/c-t-Podcast-Zentrale-Kryptoboersen-wie-Binance-sind-attraktive-Angriffsziele-11524576.html",
+      "image_title": "Podcast-Cover von They Talk Tech mit Eckert und Wolfangel"
+    },
+    {
+      "title": "Anthropic: Was Anleger vor dem Börsengang wissen sollten",
+      "teaser": "Anthropic strebt an die Börse und könnte zum Gradmesser für die gesamte Branche werden. Denn der jüngste KI-Crash zeigt, wie hoch die finanziellen Risiken sind.",
+      "url": "https://www.heise.de/ratgeber/Anthropic-Was-Anleger-vor-dem-Boersengang-wissen-sollten-11502575.html",
+      "image_title": "Börsenkurs eines KI-Unternehmens"
+    },
+    {
+      "title": "DHL: Paketpreise für Privatkunden steigen 2027 – vor allem in der Filiale",
+      "teaser": "Die Deutsche Post erhöht zum 1. Januar 2027 die Paketpreise für Privatkunden. Vor allem in der Filiale wird es teurer, online bleiben viele Preise stabil.",
+      "url": "https://www.heise.de/news/DHL-Paketpreise-fuer-Privatkunden-steigen-2027-vor-allem-in-der-Filiale-11524318.html",
+      "image_title": "Eine DHL-Packstation im Freien vor einem Wohnblock."
+    },
+    {
+      "title": "Indische iPhone-Fabrik: Drei Todesfälle bei Lieferanten",
+      "teaser": "Bei Reparaturen an Wasserfiltern kam es in Hosur zu einem Unglück. Apple prüft, was die Gründe waren. Es ist nicht der erste Vorfall in der iPhone-Fabrik.",
+      "url": "https://www.heise.de/news/Indische-iPhone-Fabrik-Drei-Todesfaelle-bei-Lieferanten-11522802.html",
+      "image_title": "Tata-Logo: Wichtiger fertiger von Apple in Indien"
+    },
+    {
+      "title": "Mercedes stoppt Investitionen in Deutschland und prüft Werksschließungen",
       "teaser": "Ohne Einigung mit Betriebsrat und IG Metall will Mercedes nicht mehr in deutsche Werke investieren. Ein Montage- und ein Powertrain-Werk stehen zur Disposition.",
       "url": "https://www.heise.de/news/Mercedes-stoppt-Investitionen-in-Deutschland-und-prueft-Werksschliessungen-11523770.html",
       "image_title": "Produktion des Mercedes-Benz GLA im Werk Rastatt"
     },
     {
-      "title": "Zwischen Roller und EnduroYamaha RW700 vorgestellt",
-      "teaser": "Die Yamaha RW700 ist eine interessante Kreuzung aus Enduro und Roller mit Zweizylindermotor, Automatikgetriebe und vielen Assistenzsystemen.",
-      "url": "https://www.heise.de/news/Yamaha-RW700-Zwitterwesen-zwischen-Roller-und-Enduro-11517712.html",
-      "image_title": "Yamaha RW 700"
-    },
-    {
-      "title": "Zeitplan verkürztSpaceX und Tesla verhandeln angeblich über Fusion",
-      "teaser": "Elon Musk will seine beiden größten Konzerne schnell fusionieren. Das geht aus einem Bericht hervor, der auch die größten Hindernisse nennt.",
+      "title": "Deal noch 2026? SpaceX und Tesla verhandeln angeblich intensiv über Fusion",
+      "teaser": "Elon Musk will seine beiden größten Konzerne fusionieren, und zwar schnell. Das geht aus einem Bericht hervor, der auch die größten Hindernisse benennt.",
       "url": "https://www.heise.de/news/SpaceX-und-Tesla-verhandeln-angeblich-intensiv-ueber-Fusion-Deal-noch-2026-11523662.html",
       "image_title": "Reihe von Elektro-Pickups vor einem Gebäude mit Wandgemälde und Baukränen"
-    },
-    {
-      "title": "Freitag: Störungen bei Microsoft-Diensten, Ukraine-Abwehr von Starlink gebremst",
-      "teaser": "Serverausfälle bei Outlook & Co + Vorwürfe der Ukraine wegen Starlink + Nvidia-Ermittlungen & Jensen-Affären + Angriffe auf Webhoster + Datenschutz-Geschichte",
-      "url": "https://www.heise.de/news/Freitag-Stoerungen-bei-Microsoft-Diensten-Ukraine-Abwehr-von-Starlink-gebremst-11523646.html",
-      "image_title": "Rechenzentrum in rotem Warnlicht; Freitag: Microsoft-365-Störung, Starlink-Bremse, Nvidia-Untersuchungen, Webhoster-Attacken & Datenschutz-Podcast"
-    },
-    {
-      "title": "TestsVW ID. Era 5X im ersten Fahrbericht: Der ID. Tiguan für China",
-      "url": "https://www.heise.de/tests/VW-ID-Era-5X-im-ersten-Fahrbericht-Der-ID-Tiguan-fuer-China-11521807.html",
-      "image_title": "VW Era 5X"
-    },
-    {
-      "title": "HintergrundWie nasse Bremsen die Feinstaubemission senken können",
-      "url": "https://www.heise.de/hintergrund/Wie-nasse-Bremsen-die-Feinstaubemission-senken-koennen-11520504.html",
-      "image_title": "Lamellenbremse Mercedes"
-    },
-    {
-      "title": "RatgeberAltersvorsorgedepot: Produkte und Kosten im Test",
-      "url": "https://www.heise.de/ratgeber/Altersvorsorgedepot-Produkte-und-Kosten-im-Test-11421368.html",
-      "image_title": "Staat und Bürger zahlen in das Altersvorsorgedepot ein"
     },
     {
       "title": "Rohstoffe als Druckmittel: Berlin baut globale Lieferketten um",
@@ -107,46 +141,10 @@
       "image_title": "Skyline von Singapur"
     },
     {
-      "title": "Schnellster Ozeandampfer der Geschichte als künstliches Riff versenkt",
-      "teaser": "Die SS United States hat nach 74 Jahren ihre letzte Ruhestätte gefunden und erfüllt als künstliches Riff auch noch einen guten Zweck.",
-      "url": "https://www.heise.de/news/Schnellster-Ozeandampfer-der-Geschichte-als-kuenstliches-Riff-versenkt-11522239.html",
-      "image_title": "SS United States auf dem Wasser."
-    },
-    {
-      "title": "BaFin verhängt Millionenstrafe gegen Deutsche Bank wegen Postbank-IT-Pannen",
-      "teaser": "Das Projekt der Deutschen Bank zur IT-Migration der Postbank führte 2022 und 2023 zu massiven Kundenbeschwerden. Jetzt gibt es dafür eine Millionenstrafe.",
-      "url": "https://www.heise.de/news/BaFin-verhaengt-Millionenstrafe-gegen-Deutsche-Bank-wegen-Postbank-IT-Pannen-11522003.html",
-      "image_title": "Person tippt auf einer Laptop-Tastatur und hält eine Bankkarte"
-    },
-    {
-      "title": "ADAC-Test: Sechs von sieben Nachrüst-LEDs leuchten weiter als Halogenlampen",
-      "teaser": "Der ADAC prüft sieben H7-LEDs fürs Abblendlicht: Die meisten leuchten deutlich weiter als Halogen, eine Billiglampe blendet stark und ist nicht zugelassen.",
-      "url": "https://www.heise.de/news/ADAC-Test-Sechs-von-sieben-Nachruest-LEDs-leuchten-weiter-als-Halogenlampen-11521697.html",
-      "image_title": "Philips Ultinon"
-    },
-    {
-      "title": "TeleClinic übernimmt Schweizer Telemedizin-Anbieter Medi24",
-      "teaser": "Mit der Übernahme des Schweizer Telemedizin-Anbieters Medi24 unternimmt die deutsche Plattform TeleClinic den ersten Schritt in weitere europäische Länder.",
-      "url": "https://www.heise.de/news/TeleClinic-uebernimmt-Schweizer-Telemedizin-Anbieter-Medi24-11521595.html",
-      "image_title": "Mann hält ein Smartphone. In der Mitte befindet sich ein weißes Kreuz."
-    },
-    {
-      "title": "Microsoft: Verwirrung und Phishingverdacht durch Umstellung bei E-Rechnungen",
-      "teaser": "B2B-Rechnungen müssen ab 2027 elektronisch übermittelt werden. Microsoft hat bereits im November umgestellt, was Kunden verwirrt.",
-      "url": "https://www.heise.de/news/Microsoft-Verwirrung-und-Phishingverdacht-durch-Umstellung-bei-E-Rechnungen-11521669.html",
-      "image_title": "Microsoft-Logo vor mehreren Glasfassaden"
-    },
-    {
-      "title": "Robotik-Firma aus München mit 8,5 Milliarden Dollar bewertet",
-      "teaser": "Das deutsche Robotikunternehmen Agile Robots ist nach einer neuen Finanzierungsrunde in Höhe von 500 Millionen US-Dollar nun 8,5 Milliarden Dollar wert.",
-      "url": "https://www.heise.de/news/Muenchner-Start-up-Agile-Robots-erhaelt-500-Millionen-Dollar-11521653.html",
-      "image_title": "Humanoider Roboter in Fabrikumgebung."
-    },
-    {
-      "title": "Gasspeicher so leer wie nie vor dem Winter",
-      "teaser": "Bei der Gasversorgung für den Winter demonstriert die Politik Gottvertrauen: Die Gasspeicher sind so schlecht gefüllt wie nie, Bayern voran.",
-      "url": "https://www.heise.de/news/Fuellstand-der-Gasspeicher-zum-Winterbeginn-niedrig-wie-nie-11521657.html",
-      "image_title": "Green,Hydrogen,Energy,Storage,Tank,With,Wind,Turbines,And,Solar"
+      "title": "VW ID. Era 5X im ersten Fahrbericht: Der ID. Tiguan für China",
+      "teaser": "Der VW ID. Era 5X ist ein neues Kompakt-SUV für China, das im ersten Fahrbericht mit solider Verarbeitung und Fahrdynamik überzeugt.",
+      "url": "https://www.heise.de/tests/VW-ID-Era-5X-im-ersten-Fahrbericht-Der-ID-Tiguan-fuer-China-11521807.html",
+      "image_title": "VW Era 5X"
     },
     {
       "title": "NewsNvidia-Chef Jensen Huang nach zweiter Affäre wohl vor dem Ende bei seiner Firma",
