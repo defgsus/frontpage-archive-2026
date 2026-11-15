@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-15T08:32:04",
+  "timestamp": "2026-11-15T15:56:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,10 +20,9 @@
   ],
   "articles": [
     {
-      "title": "Supermarkt-AngriffeDanfoss-Kühlsteuerungen blieben trotz Updates angreifbar",
-      "teaser": "Offenbar enthielten die seit August als angreifbar geltenden Kühlgerätesteuerungen „AK-SM 800A“ von Danfoss weitere kritische Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Supermarkt-Angriffe-Danfoss-Kuehlsteuerungen-blieben-trotz-Updates-angreifbar-11524376.html",
-      "image_title": "Ein Blick in den Gang eines Supermarktes mit langen verglasten Kühlregale"
+      "title": "AlertCheck-Point-GatewaysAngreifer verketteten PHP2Shell mit Root-Lücke",
+      "teaser": "Angreifer nutzten verkettete Lücken für Hintertüren auf Check-Point-Gateways. In einem Fall löschten sie Daten auf einem ESXi-Host. Patches sind verfügbar.",
+      "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html"
     },
     {
       "title": "heise security WebinarSo verteidigt man sich gegen angreifende KI-Agenten",
@@ -31,9 +30,9 @@
       "url": "https://www.heise.de/news/heise-security-Webinar-So-verteidigt-man-sich-gegen-angreifende-KI-Agenten-11523778.html"
     },
     {
-      "title": "AlertZoom für Windows: Angreifer können Rechte über das Netz ausweiten",
-      "url": "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
-      "image_title": "Man mit Kopfhörern vor Laptop mit Videkonferenz"
+      "title": "AlertAngriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+      "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette ATTACK"
     },
     {
       "title": "Zweiteiliges Webinar | 25.11. & 9.12.Zweiteiliges Webinar: Maßgeschneiderte Verteidigung mit Wazuh",
@@ -50,6 +49,23 @@
     {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "AlertAngriffe auf UnrealIRCd: Sicherheitslücke ermöglicht Befehle mit Serverrechten",
+      "teaser": "Der IRC-Server UnrealIRCd ist verwundbar und Angreifer nutzen derzeit eine Lücke aus. Ein Sicherheitspatch steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html",
+      "image_title": "Nullen und Einsen, darunter versteckt sich die Zeichenkette ATTACK"
+    },
+    {
+      "title": "Phishing-Kampagne nutzt Microsoft-Cloud-Ausfall",
+      "teaser": "Nur kurz nach dem Ende des Microsoft-Cloud-Ausfalls greifen Kriminelle das Thema auf. Microsoft warnt vor einer Phishing-Kampagne.",
+      "url": "https://www.heise.de/news/Phishing-Kampagne-nutzt-Microsoft-Cloud-Ausfall-11525471.html",
+      "image_title": "Screenshot einer Nachricht der Phishing-Kampagne"
+    },
+    {
+      "title": "AlertWarten auf Sicherheitspatch: Krypto-Miner-Attacken auf N-central beobachtet",
+      "teaser": "Angreifer attackieren derzeit die Fernwartungslösung N-central von N-able. Gegen einen neuen Angriffsweg gibt es bislang nur eine Übergangslösung.",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html"
     },
     {
       "title": "Daten-GAU in Berlin: Forensiker über den Rhysida-Leak",
@@ -74,6 +90,12 @@
       "teaser": "Europol koordiniert in der Operation Endgame Aktionen gegen Malware-Netzwerke. Strafverfolger sicherten nun Millionen Datensätze von Opfern.",
       "url": "https://www.heise.de/news/Operation-Endgame-Weltweiter-Schlag-gegen-Cybercrime-11524460.html",
       "image_title": "Logo der Operation Endgame von Europol"
+    },
+    {
+      "title": "Supermarkt-Angriffe: Danfoss-Kühlsteuerungen blieben trotz Updates angreifbar",
+      "teaser": "Offenbar enthielten die seit August als angreifbar geltenden Kühlgerätesteuerungen „AK-SM 800A“ des Herstellers Danfoss weitere kritische Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Supermarkt-Angriffe-Danfoss-Kuehlsteuerungen-blieben-trotz-Updates-angreifbar-11524376.html",
+      "image_title": "Ein Blick in den Gang eines Supermarktes mit langen verglasten Kühlregale"
     },
     {
       "title": "Fernzugriff ohne Terminal-Zwang: Pangolin zieht in den Linux-Tray",
@@ -121,30 +143,6 @@
       "teaser": "Ein Notruf geht ein und alle können mitlesen: Offenbar sind heikle Patientendaten von Rettungsdienst- und Feuerwehr-Pagern in Sachsen abgefischt worden.",
       "url": "https://www.heise.de/news/Pager-Panne-in-Sachsen-Notrufmeldungen-offenbar-frei-zugaenglich-im-Netz-11523154.html",
       "image_title": "Blick auf das Blaulicht eines Einsatzfahrzeugs"
-    },
-    {
-      "title": "OSCAL Foundation löst sich auf",
-      "teaser": "Die Organisation hinter dem Compliance-Format OSCAL gibt nach knapp zwei Jahren auf. Das BSI hat den IT-Grundschutz++ erst 2025 auf dieses Format umgestellt.",
-      "url": "https://www.heise.de/news/OSCAL-Foundation-loest-sich-auf-11522880.html",
-      "image_title": "Ein Schild, das auf dem Hintergrund der Leiterbahnen des Boards in zwei Teile aufgeteilt ist."
-    },
-    {
-      "title": "AlertZoom für Windows: Angreifer können Rechte über das Netz ausweiten",
-      "teaser": "Mit aktualisierten Paketen beseitigt Zoom zwei gravierende Sicherheitslücken in der Windows-Version, die die Rechteausweitung ermöglichen.",
-      "url": "https://www.heise.de/news/Zoom-fuer-Windows-Angreifer-koennen-Rechte-ueber-das-Netz-ausweiten-11522500.html",
-      "image_title": "Man mit Kopfhörern vor Laptop mit Videkonferenz"
-    },
-    {
-      "title": "AlertAngreifer können Citrix NetScaler ADC und NetScaler Gateway lahmlegen",
-      "teaser": "Um mehrere Sicherheitslücken zu schließen, müssen Admins ihre Installation von Citrix NetScaler ADC und NetScaler Gateway auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-NetScaler-ADC-und-NetScaler-Gateway-lahmlegen-11522940.html",
-      "image_title": "Ein großes Vorhängeschloss vor einer transparenten Weltkugel über einer nächtlichen Großstadt"
-    },
-    {
-      "title": "Angriff über MCP-Server: Webhoster Mittwald im Krisenmodus",
-      "teaser": "Die Webseite des Hosters ist im Notbetrieb, das Blog offline und Administrationsdienste sind für Kunden deaktiviert.",
-      "url": "https://www.heise.de/news/Angriff-ueber-MCP-Server-Webhoster-Mittwald-im-Krisenmodus-11522728.html",
-      "image_title": "Rechenzentrum mit Server-Racks in einem schmalen Gang"
     },
     {
       "title": "Workshop | 17. – 18.11.2026Sicheres Active Directory: Rechteausweitung mit Microsoft Tiering verhindern",
