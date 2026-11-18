@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T18:49:43",
+  "timestamp": "2026-11-18T01:24:53",
   "url": "https://www.heise.de/newsticker/wirtschaft/",
   "response": {
     "status": 200
@@ -20,6 +20,18 @@
   ],
   "articles": [
     {
+      "title": "Java: RCE mit AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+      "teaser": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Womöglich sind auch Java-Clients auf anderen CPU anfällig.",
+      "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html",
+      "image_title": "Warnsymbol vor digitalem Rauschen"
+    },
+    {
+      "title": "AlertUpdateJava4Shell: Gefährlicher Bug in Java",
+      "teaser": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
+      "image_title": "Jemand tippt mit dem Zeigefinger auf eine mit \"java\" beschriftete, erleuchtete Schaltfläche"
+    },
+    {
       "title": "US-Ministerien geben Details zu Ermittlungen gegen Megaspeed bekannt",
       "teaser": "Megaspeed steht im Verdacht, illegal Nvidia-Chips nach China zu exportieren. Zwei US-Ministerien ermitteln seit zwei Jahren gegen das Unternehmen.",
       "url": "https://www.heise.de/news/US-Ministerien-geben-Details-zu-Ermittlungen-gegen-Megaspeed-bekannt-11528367.html",
@@ -30,18 +42,6 @@
       "teaser": "Die Kommission verschärft im Verfahren gegen Temu erneut die Gangart und moniert unzureichenden Schutz vor illegalen Waren. Temu weist die Vorwürfe zurück.",
       "url": "https://www.heise.de/news/Gefaehrliche-Produkte-EU-Kommission-droht-Temu-mit-Strafe-11527948.html",
       "image_title": "Ein Smartphone mit dem Temu-Logo vor einem Bildschirm mit einer Auswahl an Billigprodukten."
-    },
-    {
-      "title": "CPU-Absatz schrumpft, Marktanteile bei Laptops und Desktop-PCs verschieben sich",
-      "teaser": "Im dritten Quartal sackte der Absatz von Mobilprozessoren um mehr als 10 Prozent ab. Dabei wuchs der relative Anteil von AMD, während er bei Desktop-CPUs sank.",
-      "url": "https://www.heise.de/news/CPU-Absatz-schrumpft-Marktanteile-bei-Laptops-und-Desktop-PCs-verschieben-sich-11528313.html",
-      "image_title": "Foto von zahlreichen Prozessoren"
-    },
-    {
-      "title": "Bericht: DRAM-Mangel treibt Apple zu ungewöhnlichem Samsung-Deal",
-      "teaser": "Apple und Samsung stehen laut einem Zeitungsbericht kurz vor dem Abschluss eines Langzeit-Liefervertrags für DRAM.",
-      "url": "https://www.heise.de/news/Bericht-Apple-und-Samsung-vor-Langzeit-Liefervertrag-fuer-DRAM-11528223.html",
-      "image_title": "Schriftzug Samsung an einer Fassade über Büschen"
     },
     {
       "title": "HintergrundWas Gaskunden erwartet: CO2-Preis, Speicherstände und LNG-Konkurrenz",
@@ -56,6 +56,12 @@
       "title": "HintergrundCCS: CO₂ – vom Erdboden verschluckt",
       "url": "https://www.heise.de/hintergrund/CCS-CO-vom-Erdboden-verschluckt-11520246.html",
       "image_title": "Kraftwerk Bremen-Hastedt"
+    },
+    {
+      "title": "Bericht: DRAM-Mangel treibt Apple zu ungewöhnlichem Samsung-Deal",
+      "teaser": "Apple und Samsung stehen laut einem Zeitungsbericht kurz vor dem Abschluss eines Langzeit-Liefervertrags für DRAM.",
+      "url": "https://www.heise.de/news/Bericht-Apple-und-Samsung-vor-Langzeit-Liefervertrag-fuer-DRAM-11528223.html",
+      "image_title": "Schriftzug Samsung an einer Fassade über Büschen"
     },
     {
       "title": "Bericht: China trainiert KI mit Destillation von US-Modellen",
@@ -140,12 +146,6 @@
       "teaser": "Tesla hält sich an das Versprechen, das autonome Cybercab in diesem Jahr für 30.000 Dollar an Privatkunden zu verkaufen. Das Ganze hat jedoch mehrere Haken.",
       "url": "https://www.heise.de/news/Kein-Lenkrad-kein-Pedal-Tesla-verkauft-Cybercab-fuer-30-000-Dollar-mit-Haken-11526690.html",
       "image_title": "Tesla Robotaxi Cybercab"
-    },
-    {
-      "title": "Samsung will Rechenzentrumsbetreiber für KI-Firmen werden",
-      "teaser": "Samsung möchte wohl für den KI-Boom Rechenzentrumsbetreiber werden und führt Gespräche mit OpenAI und Anthropic über die Vermietung von Kapazitäten.",
-      "url": "https://www.heise.de/news/Samsung-will-Rechenzentrumsbetreiber-fuer-KI-Firmen-werden-11526352.html",
-      "image_title": "Samsung-Gebäude"
     },
     {
       "title": "UpdateNewsNvidia-Angestellte wollen Jensen Huang zurück",

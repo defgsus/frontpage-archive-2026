@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-17T18:49:36",
+  "timestamp": "2026-11-18T01:24:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,10 +20,46 @@
   ],
   "articles": [
     {
-      "title": "Package Installer 2.0 soll CachyOS einsteigerfreundlicher machen",
+      "title": "Java: RCE mit AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+      "teaser": "Die Sicherheitslücke Java4Shell erlaubt Remote Code Execution, trifft aber nur bestimmte Prozessoren. Womöglich sind auch Java-Clients auf anderen CPU anfällig.",
+      "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html",
+      "image_title": "Warnsymbol vor digitalem Rauschen"
+    },
+    {
+      "title": "Ausfälle bei der NSA, Apple und United Airlines",
+      "teaser": "Die Reihe auffälliger Systemausfälle ist am Dienstag weitergegangen. Betroffen sind eine Reihe von Apple-Diensten und das interne Kommunikationsnetz der NSA.",
+      "url": "https://www.heise.de/news/Ausfaelle-bei-der-NSA-Apple-und-United-Airlines-11528545.html",
+      "image_title": "Illustration zeigt eine schwarze Fahne mit güldenem Apple-Logo"
+    },
+    {
+      "title": "AlertUpdateJava4Shell: Gefährlicher Bug in Java",
+      "teaser": "Oracles Patchday stiftet Verwirrung. Es gibt gleich elf Updates gegen Remote Code Execution in Java. Dabei ist auch das hochriskante Java4Shell.",
+      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
+      "image_title": "Jemand tippt mit dem Zeigefinger auf eine mit \"java\" beschriftete, erleuchtete Schaltfläche"
+    },
+    {
+      "title": "Mit Package Installer 2.0 will CachyOS Linux-Neulinge gewinnen",
       "teaser": "Nach Octopi und Shelly wagt CachyOS den nächsten Anlauf. Der überarbeitete Package Installer soll Umsteigern von Windows den Weg ins Terminal ersparen.",
       "url": "https://www.heise.de/news/Package-Installer-2-0-soll-CachyOS-einsteigerfreundlicher-machen-11528265.html",
       "image_title": "Kleiner Einkaufswagen auf einer Tastatur, im Einkaufswagen und auf der Tastatur liegen braune Kartonpakete."
+    },
+    {
+      "title": "HintergrundTestautomatisierung mit KI: Agenten erkennen Lücken, aber keine Lügen",
+      "url": "https://www.heise.de/hintergrund/Testautomatisierung-mit-KI-Agenten-erkennen-Luecken-aber-keine-Luegen-11524248.html",
+      "image_title": "Ein Roboter und ein Mensch sitzen an einem Tisch mit Dokumentenstapeln"
+    },
+    {
+      "title": "HintergrundAmazons neuer Echo-Kurs: Mehr KI, teurere Hardware",
+      "url": "https://www.heise.de/hintergrund/Amazons-neuer-Echo-Kurs-Mehr-KI-teurere-Hardware-11526217.html"
+    },
+    {
+      "title": "HintergrundFlash-Talk: NAND mit 400 Lagen, neue SSD-Technik und Flash auf dem Mond",
+      "url": "https://www.heise.de/hintergrund/Flash-Talk-NAND-mit-400-Lagen-neue-SSD-Technik-und-Flash-auf-dem-Mond-11518670.html"
+    },
+    {
+      "title": "Blitzwolf BW-CML6 im Test: Diese Screenbar macht eher Stimmung als helles Licht",
+      "teaser": "Die Screenbar Blitzwolf BW-CML6 kommt mit einem RGB-Rücklicht und eine lächelnde Funk-Fernbedienung. Beim Licht hält sie sich jedoch zurück.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/blitzwolf-bw-cml6-im-test-diese-screenbar-macht-eher-stimmung-als-helles-licht/qfx17qq?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Googles Project Zero reduziert Zeitraum bis zur Veröffentlichung von Lücken",
@@ -42,19 +78,6 @@
       "teaser": "Im dritten Quartal sackte der Absatz von Mobilprozessoren um mehr als 10 Prozent ab. Dabei wuchs der relative Anteil von AMD, während er bei Desktop-CPUs sank.",
       "url": "https://www.heise.de/news/CPU-Absatz-schrumpft-Marktanteile-bei-Laptops-und-Desktop-PCs-verschieben-sich-11528313.html",
       "image_title": "Foto von zahlreichen Prozessoren"
-    },
-    {
-      "title": "HintergrundTestautomatisierung mit KI: Agenten erkennen Lücken, aber keine Lügen",
-      "url": "https://www.heise.de/hintergrund/Testautomatisierung-mit-KI-Agenten-erkennen-Luecken-aber-keine-Luegen-11524248.html",
-      "image_title": "Ein Roboter und ein Mensch sitzen an einem Tisch mit Dokumentenstapeln"
-    },
-    {
-      "title": "HintergrundAmazons neuer Echo-Kurs: Mehr KI, teurere Hardware",
-      "url": "https://www.heise.de/hintergrund/Amazons-neuer-Echo-Kurs-Mehr-KI-teurere-Hardware-11526217.html"
-    },
-    {
-      "title": "HintergrundFlash-Talk: NAND mit 400 Lagen, neue SSD-Technik und Flash auf dem Mond",
-      "url": "https://www.heise.de/hintergrund/Flash-Talk-NAND-mit-400-Lagen-neue-SSD-Technik-und-Flash-auf-dem-Mond-11518670.html"
     },
     {
       "title": "Zu neugierige KI-Agenten: Apple warnt Mac-Nutzer nachdrücklich vor Freigabe",
@@ -120,30 +143,6 @@
       "teaser": "Mit Wazuh lassen sich Logs auswerten, aber auch ungestopfte Sicherheitslücken erkennen. Unser zweiteiliges Webinar zeigt, wo das Opensource-Werkzeug hilft.",
       "url": "https://www.heise.de/news/Zweiteiliges-Webinar-Verteidigung-gegen-php2shell-Co-mit-Wazuh-11525947.html",
       "image_title": "Wazuh bekämpft Schwachstellen und Malware"
-    },
-    {
-      "title": "KubeCon 2026: Wie Unternehmen KI-Agenten im Griff behalten",
-      "teaser": "KI-Agenten im Griff: Auf der KubeCon NA 2026 ging es um Zugriffsregeln von Mirantis, Kostenkontrolle mit Splunk und überprüfbare Identitäten durch ANS.",
-      "url": "https://www.heise.de/news/KubeCon-2026-Kontrolle-ueber-KI-Agenten-in-Kubernetes-Umgebungen-11526358.html",
-      "image_title": "Gestapelte Container in unterschiedlichen Farben"
-    },
-    {
-      "title": "Software Testing: Ein Productized Service für 20.000 Euro, der Aufwand ist egal",
-      "teaser": "Richard Seidl spricht mit Maik Pfingsten darüber, wie aus einer Ingenieurdienstleistung ein Productized Service wurde.",
-      "url": "https://www.heise.de/blog/Software-Testing-Ein-Productized-Service-fuer-20-000-Euro-der-Aufwand-ist-egal-11527386.html",
-      "image_title": "Ein Mann blickt lächelnd die Kamera neben dem Text „Stundensatz ist ein Hamsterrad“."
-    },
-    {
-      "title": "Apple Intelligence und Siri bald mit Tageslimits",
-      "teaser": "Ab Version 27.3 sind in Apple-Systeme integrierte KI-Tools und Siri AI mit Tageslimits versehen. Mehr gibts per iCloud-Abo, aber nicht in der EU.",
-      "url": "https://www.heise.de/news/Nutzungsbegrenzungen-Apple-limitiert-bald-KI-Funktionen-und-Siri-AI-11527526.html",
-      "image_title": "Ein Smartphone zeigt die Webpage von Apple Intelligence"
-    },
-    {
-      "title": "iX-Konferenz für agile Führungskräfte: digitale Transformation im Team meistern",
-      "teaser": "Am 1. und 2. Dezember bietet die Online-Konferenz rund um Führung und Selbstführung wertvolle Impulse für starke Teams in Zeiten des Wandels.",
-      "url": "https://www.heise.de/news/iX-Konferenz-fuer-agile-Fuehrungskraefte-digitale-Transformation-im-Team-meistern-11525769.html",
-      "image_title": "Aufmacher zur Konferenz"
     },
     {
       "title": "UpdateNewsNvidia-Angestellte wollen Jensen Huang zurück",
