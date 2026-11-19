@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T00:48:54",
+  "timestamp": "2026-11-19T08:05:05",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -7,8 +7,8 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://applets.ebxcdn.com/ebx.js",
-      "id": "ebx",
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
@@ -24,18 +24,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
-      "id": "adobe-launch-head",
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/js/adobe/atarget.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
@@ -43,58 +31,59 @@
     },
     {
       "type": "module",
-      "src": "https://www.faz.net/_nuxt/3P-aPXIc.js",
+      "src": "https://www.faz.net/_nuxt/D5_EJMzk.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Künstliche Intelligenz: Anthropic setzt Messlatte für Börsengang höher",
-      "teaser": "Das KI-Unternehmen legt einen höher als erwarteten Ausgabepreis für sein mit Spannung erwartetes Börsendebüt am Donnerstag fest. Damit peilt es eine Marktkapitalisierung von 1,5 Billionen Dollar an.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/anthropic-aktie-soll-laut-berichten-83-dollar-kosten-201696457.html"
+      "title": "FAZ+APEC-Gipfel in Shenzhen: Langer Applaus für Putin",
+      "teaser": "Externer Inhalt von Youtube",
+      "url": "https://www.faz-datenschutz.de/faz",
+      "image_url": "https://media0.faz.net/image/w1860/967f396c6e33/w720h1080x600y0/202611/9ae1e073-a99a-4f88-a7b7-9fabf6096b87/56w7j10pquen.webp"
     },
     {
-      "title": "Systemausfälle in den USA: „Wir sind vollständig von Softwaresystemen abhängig, die kaum noch jemand versteht“",
+      "title": "FAZ+China-Sonderuntersuchung: Mercedes soll Notizbücher des Vorstands und Verträge zeigen",
+      "teaser": "Mit Verweis auf die nationale Sicherheit leitet der US-Kongress eine Prüfung gegen Mercedes ein. Es geht um die chinesischen Großaktionäre sowie die technologischen Partnerschaften in China.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-benz-unter-druck-us-kongress-fordert-vertraege-und-vorstandsnotizen-201694477.html",
+      "image_url": "https://media0.faz.net/image/w1200/00b6e4a86c2a/w5812h3269x0y303/202611/433f98b2-9e51-4e1e-acec-4296114c4dee/mercedes-werk-in-tuscaloosa-im.webp",
+      "image_title": "Mercedes-Werk in Tuscaloosa im US-Bundesstaat Alabama: Der Hersteller verweist darauf, dass Mercedes seit Langem einen wesentlichen Beitrag zur US-Wirtschaft leiste."
+    },
+    {
+      "title": "FAZ+Systemausfälle in den USA: „Wir sind vollständig von Softwaresystemen abhängig, die kaum noch jemand versteht“",
       "teaser": "Microsoft, Apple, die Flughäfen und nun der Geheimdienst NSA: Amerikas digitale Infrastruktur erlebt eine Serie schwerer Störungen. Was bedeutet das? Und wird durch KI alles noch schlimmer?",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nsa-microsoft-apple-wie-schlimm-steht-es-um-amerikas-digitale-infrastruktur-201695022.html",
       "image_url": "https://media0.faz.net/image/w1200/144c81667e77/w4500h2531x0y234/202611/7427ba05-bfb4-437c-bdf9-f82870543720/auch-das-noch-systemausfall.webp",
       "image_title": "Auch das noch: Systemausfall bei United Airlines"
     },
     {
-      "title": "In Brandenburg: Höchstes Windrad der Welt soll offiziell ans Netz gehen",
-      "teaser": "Doppelter Ertrag ist laut einem Fachmann nicht der einzige Vorteil des Riesen-Windrads. Am Donnerstag soll es in Betrieb gehen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/hoechstes-windrad-der-welt-gicon-turm-in-brandenburg-geht-ans-netz-201696305.html",
-      "image_url": "https://media0.faz.net/image/w1200/de792bb7b1ff/w5272h2965x0y219/202611/e8fc5186-5b9b-4a85-a5d5-c87daaa273e0/deutlich-hoeher-als.webp",
-      "image_title": "Deutlich höher als konventionelle Windkraftanlagen steht der Höhenwindturm in einer bewaldeten Fläche bei Schipkau."
+      "title": "Business-Ticker: E-Mail-Anbieter warnen vor Spam-Mails zur „Black Week“",
+      "teaser": "Commerzbank-Übernahme: Bundesregierung und UniCredit einigen sich +++ US-Behörden: Russe spähte Rüstungsfirma im Silicon Valley aus +++ alle Neuigkeiten im Unternehmen-Liveblog",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-black-week-gmx-und-web-de-warnen-vor-spam-mails-faz-200452404.html",
+      "image_url": "https://media0.faz.net/image/w1200/0a2ed7d396a5/w5933h3337x0y309/202611/6b56cc87-2936-4772-b8c4-c578def0a53b/vorsicht-vor-falschen.webp",
+      "image_title": "Vorsicht vor falschen Paketdienst-Mails jetzt und in der nächsten Woche."
     },
     {
-      "title": "Business-Ticker: US-Behörden: Russe spähte Rüstungsfirma im Silicon Valley aus",
-      "teaser": "Ein Russe soll Mitarbeiter eines US-Rüstungsunternehmens überwacht haben – es ist von einer Verfolgung die Rede +++ Bundesregierung unterstützt wohl Spaniens EZB-Kandidaten +++ alle Neuigkeiten im Unternehmen-Liveblog",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-behoerden-russe-spaehte-ruestungsfirma-im-silicon-valley-aus-faz-200452404.html",
-      "image_url": "https://media0.faz.net/image/w1200/bf09c4df613f/w3600h2025x0y188/202611/4a29f288-d3e7-445e-a9c9-886cb4c9f2da/us-behoerden-haben-einen.webp",
-      "image_title": "US-Behörden haben einen russischen Staatsbürger im Visier."
+      "title": "Grand Theft Auto VI: Wo bleibt das deutsche GTA?",
+      "teaser": "GTA 6 soll das Videospiel des Jahrzehnts werden. Die kriselnde Spielebranche erhofft sich einen Aufschwung. Warum nicht in Deutschland mit Blockbustern anfangen?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wo-bleibt-das-deutsche-gta-201687565.html",
+      "image_url": "https://media0.faz.net/image/w1100/d07cdcde531a/w6144h3456x0y519/202611/0cab7fb9-1dd2-4b68-815d-7b8048db9411/werbung-fuer-gta-6-am-berliner.webp",
+      "image_title": "Werbung für GTA 6 am Berliner Alexanderplatz: Deutschland braucht Blockbuster."
     },
     {
-      "title": "im Feierabendverkehr: Störung am Nürnberger Hauptbahnhof behoben",
-      "teaser": "Am Nürnberger Hauptbahnhof herrscht zeitweise Stillstand. Auch der Fernverkehr ist betroffen. Dann gibt die Bahn Entwarnung.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/stoerung-am-nuernberger-hauptbahnhof-behoben-201696186.html",
-      "image_url": "https://media0.faz.net/image/w1100/af71c4f41d3c/w4000h2250x0y532/202611/f63f8fb3-6392-4e9d-9150-5f20bf90c5ad/eine-stellwerkstoerung-hat.webp",
-      "image_title": "Eine Stellwerkstörung hat mitten im Feierabendverkehr den Nürnberger Hauptbahnhof lahmgelegt."
+      "title": "FAZ+Fehlende Geschäftszahlen: Das Geheimnis von Check24",
+      "teaser": "Check24 hat mit verschenkten Fußballtrikots für viel Aufsehen gesorgt und ist im Urlaubsgeschäft groß geworden. Fragt sich nur, warum Konzernabschlüsse seit Jahren nicht einsehbar sind.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/check24-verweigert-transparenz-was-hinter-den-fehlenden-geschaeftszahlen-steckt-accg-201692968.html",
+      "image_url": "https://media0.faz.net/image/w1100/204cf9eb805f/w3000h1687x0y202/202406/43601.0.429243457/das-vergleichsportal-feierte.webp",
+      "image_title": "Das Vergleichsportal feierte einen Werbeerfolg mit Fußballtrikots. Aber wie steht es um die Transparenz?"
     },
     {
-      "title": "China-Sonderuntersuchung: Mercedes soll Notizbücher des Vorstands und Verträge zeigen",
-      "teaser": "Mit Verweis auf die nationale Sicherheit leitet der US-Kongress eine Prüfung gegen Mercedes ein. Es geht um die chinesischen Großaktionäre sowie die technologischen Partnerschaften in China.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mercedes-benz-unter-druck-us-kongress-fordert-vertraege-und-vorstandsnotizen-201694477.html",
-      "image_url": "https://media0.faz.net/image/w1100/00b6e4a86c2a/w5812h3269x0y303/202611/433f98b2-9e51-4e1e-acec-4296114c4dee/mercedes-werk-in-tuscaloosa-im.webp",
-      "image_title": "Mercedes-Werk in Tuscaloosa im US-Bundesstaat Alabama: Der Hersteller verweist darauf, dass Mercedes seit Langem einen wesentlichen Beitrag zur US-Wirtschaft leiste."
-    },
-    {
-      "title": "Bericht von Alan Milburn: Hilfen für die „verlorene Generation“ Großbritanniens",
-      "teaser": "Eine Million junge Leute sind ohne Arbeit, Studien- oder Ausbildungsplatz. Dieser Skandal erfordere dringende Reformen im Sozialsystem, heißt es in einem Bericht für die Labour-Regierung. Sie selbst steht auch in der Kritik.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/arbeitslosigkeit-alan-milburn-fordert-reformen-fuer-grossbritanniens-jugend-201694396.html",
-      "image_url": "https://media0.faz.net/image/w1100/527768564661/w5456h3069x0y125/202611/5d0d5b64-f4aa-4c19-ad4c-b9774a20cab1/ex-minister-alan-milburn.webp",
-      "image_title": "Ex-Minister Alan Milburn stellte seinen Bericht mit Reformempfehlungen für rund eine Million „Neets“ vor."
+      "title": "Künstliche Intelligenz: Anthropic schafft Rekord-Börsengang",
+      "teaser": "Das KI-Unternehmen hat so viel Geld eingesammelt wie kein Börsenneuling zuvor. Damit startet Anthropic heute mit einer Marktkapitalisierung von 1,5 Billionen Dollar.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/geld-fuer-die-ki-anthropic-legt-rekord-boersengang-hin-201696457.html",
+      "image_url": "https://media0.faz.net/image/w1100/288cc80ed588/w6145h3457x159y0/202611/ee7ed61b-6d56-4cf1-8668-b25d8590e353/neuer-boersenmilliardaer-dario.webp",
+      "image_title": "Neuer Börsenmilliardär: Dario Amodei, Mitgründer und Vorstandsvorsitzender von Anthropic."
     },
     {
       "title": "Deutsche Bank: Sewings Crashtest mit der Vergangenheit",
@@ -197,31 +186,24 @@
       "url": "https://www.faz.net/podcasts/vw-story/vw-story-als-sich-betriebsraete-luxusreisen-und-prostituierte-vom-konzern-bezahlen-liessen-faz-podcast-200852342.html"
     },
     {
-      "title": "Streit mit der IG Metall: Amtsgericht erlässt Strafbefehl gegen Werkleiter von Tesla",
-      "teaser": "André Thierig, der das Tesla-Werk in Grünheide leitet, wird üble Nachrede vorgeworfen. Nach einer Betriebsratssitzung im Februar war ein Streit mit der Gewerkschaft eskaliert. Gegen den Strafbefehl wurde Einspruch eingelegt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gruenheide-amtsgericht-erlaesst-strafbefehl-gegen-tesla-werkleiter-201696191.html",
-      "image_url": "https://media0.faz.net/image/w880/67c1b8e865e6/w6144h3456x0y252/202603/43601.0.1848828784/im-clinch-mit-der-gewerkschaft.webp",
-      "image_title": "Im Clinch mit der Gewerkschaft: André Thierig, Werkleiter der Fabrik von Tesla in Grünheide"
+      "title": "In Brandenburg: Höchstes Windrad der Welt soll offiziell ans Netz gehen",
+      "teaser": "Doppelter Ertrag ist laut einem Fachmann nicht der einzige Vorteil des Riesen-Windrads. Am Donnerstag soll es in Betrieb gehen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/hoechstes-windrad-der-welt-gicon-turm-in-brandenburg-geht-ans-netz-201696305.html",
+      "image_url": "https://media0.faz.net/image/w880/de792bb7b1ff/w5272h2965x0y219/202611/e8fc5186-5b9b-4a85-a5d5-c87daaa273e0/deutlich-hoeher-als.webp",
+      "image_title": "Deutlich höher als konventionelle Windkraftanlagen steht der Höhenwindturm in einer bewaldeten Fläche bei Schipkau."
     },
     {
-      "title": "Überraschendes Angebot: Finnen wollen mit Italienern Europas SpaceX schmieden",
-      "teaser": "Das Satelliten-Start-up Iceye will den italienischen Raketenhersteller Avio übernehmen. Die Regierung in Rom äußert sich bisher nicht, aber die Avio-Aktionäre sind begeistert. Die Übernahme hätte weitreichende Folgen.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/iceye-will-avio-uebernehmen-europas-antwort-auf-spacex-201694727.html",
-      "image_url": "https://media0.faz.net/image/w880/eacc97a04ffe/w4892h2752x0y256/202609/43601.0.2554282858/eine-vega-c-rakete-von-avio.webp",
-      "image_title": "Eine Vega-C-Rakete von Avio beim Start in Französisch-Guyana. Mitte September 2026 brachte sie europäische Satelliten ins All."
-    },
-    {
-      "title": "FAZ+Jensen Huang: Der Nvidia-Chef, die Chinesin und der Leerverkäufer",
-      "teaser": "Eine mutmaßliche Spionin, Milliarden für KI-Chips und rätselhafte Geschäfte in Südostasien: Ein Leerverkäufer ahnt schon länger, dass da was nicht stimmt.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-und-jensen-huang-was-der-leerverkaeufer-culper-research-schon-frueher-ahnte-accg-201674198.html",
-      "image_url": "https://media0.faz.net/image/w1200/022c80ee192d/w3207h1804x0y68/202611/9e5bbddd-d841-4069-8f12-aa5c97abe4c3/jensen-huang-ist-nicht-mehr.webp",
-      "image_title": "Jensen Huang ist nicht mehr Chef von Nvidia."
+      "title": "im Feierabendverkehr: Störung am Nürnberger Hauptbahnhof behoben",
+      "teaser": "Am Nürnberger Hauptbahnhof herrscht zeitweise Stillstand. Auch der Fernverkehr ist betroffen. Dann gibt die Bahn Entwarnung.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/stoerung-am-nuernberger-hauptbahnhof-behoben-201696186.html",
+      "image_url": "https://media0.faz.net/image/w880/af71c4f41d3c/w4000h2250x0y532/202611/f63f8fb3-6392-4e9d-9150-5f20bf90c5ad/eine-stellwerkstoerung-hat.webp",
+      "image_title": "Eine Stellwerkstörung hat mitten im Feierabendverkehr den Nürnberger Hauptbahnhof lahmgelegt."
     },
     {
       "title": "FAZ+Streit um Datenschutz: Warum die Europäer Apples „Home View“ nicht kaufen dürfen",
       "teaser": "Apple beginnt in den Vereinigten Staaten mit der Auslieferung eines neuen digitalen Assistenten namens „Home View“. In der Europäischen Union ist das Gerät vorerst nicht zu kaufen. Schuld sei eine EU-Verordnung, sagt Apple. Stimmt das?",
       "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/home-view-von-apple-sorgt-fuer-streit-um-datenschutz-mit-der-eu-kommission-accg-201678715.html",
-      "image_url": "https://media0.faz.net/image/w1100/e49c614402b3/w4861h2734x0y253/202610/43601.0.2666939424/nicht-in-der-eu-verfuegbar.webp",
+      "image_url": "https://media0.faz.net/image/w1200/e49c614402b3/w4861h2734x0y253/202610/43601.0.2666939424/nicht-in-der-eu-verfuegbar.webp",
       "image_title": "Nicht in der EU verfügbar: Apples neues Produkt Home View"
     },
     {
@@ -237,6 +219,13 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/stoerung-von-outlook-und-teams-microsoft-hat-ein-ernsthaftes-qualitaetsproblem-201679755.html",
       "image_url": "https://media0.faz.net/image/w1100/471f69932079/w5581h3139x0y582/202611/b0e549bb-a7d5-4454-b63d-69812e933fbd/usa-redmond-am-hauptsitz-des.webp",
       "image_title": "USA, Redmond: Am Hauptsitz des Unternehmens sind ein Microsoft-Logo und ein Schild zu sehen."
+    },
+    {
+      "title": "FAZ+Nvidia-Affäre: Der jähe Fall des Jensen Huang",
+      "teaser": "Der Nvidia-Chef war offenbar von seiner vermeintlichen Unantastbarkeit verblendet. Seine Ablösung war unvermeidlich. Für das Unternehmen ist das ein Schock – aber es muss keine Katastrophe sein.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-geht-ein-schock-fuer-nvidia-aber-keine-katastrophe-201677508.html",
+      "image_url": "https://media0.faz.net/image/w1100/de9fabd3c246/w5500h3094x0y287/202611/33de4cea-6ff1-4ad0-916d-4a0d9ff30a63/jensen-huang-war-nicht-nur.webp",
+      "image_title": "Jensen Huang war nicht nur „Mister Nvidia“, sondern auch die Galionsfigur für die ganze KI-Welt."
     },
     {
       "title": "Was kostet die Welt?: Der tragische Absturz von Varta",
@@ -260,10 +249,17 @@
       "image_title": "funk"
     },
     {
+      "title": "Bericht von Alan Milburn: Hilfen für die „verlorene Generation“ Großbritanniens",
+      "teaser": "Eine Million junge Leute sind ohne Arbeit, Studien- oder Ausbildungsplatz. Dieser Skandal erfordere dringende Reformen im Sozialsystem, heißt es in einem Bericht für die Labour-Regierung. Sie selbst steht auch in der Kritik.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/arbeitslosigkeit-alan-milburn-fordert-reformen-fuer-grossbritanniens-jugend-201694396.html",
+      "image_url": "https://media0.faz.net/image/w920/75d973425263/w5456h2338x0y189/202611/5d0d5b64-f4aa-4c19-ad4c-b9774a20cab1/ex-minister-alan-milburn.webp",
+      "image_title": "Ex-Minister Alan Milburn stellte seinen Bericht mit Reformempfehlungen für rund eine Million „Neets“ vor."
+    },
+    {
       "title": "Kompromiss der Koalition: Wer von der Einigung im Kanzleramt profitiert",
       "teaser": "Die Koalition senkt die Stromsteuer, verzichtet aber darauf, die Einkommensteuer den gestiegenen Preisen entsprechend anzupassen. Für Singles dürfte das ein schlechtes Geschäft sein.",
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/koalitionseinigung-wer-von-stromsteuer-und-spritpreisdeckel-profitiert-201694358.html",
-      "image_url": "https://media0.faz.net/image/w920/61624514103b/w2508h1074x0y299/angebote/eabf32cd-2a17-410b-88cd-8589f6bd3cde-imago_st_1118_11410001_0885095513.jpg/kompromiss-gefunden.webp",
+      "image_url": "https://media0.faz.net/image/w1100/e1ccf6f20ff1/w2508h1411x0y131/angebote/eabf32cd-2a17-410b-88cd-8589f6bd3cde-imago_st_1118_11410001_0885095513.jpg/kompromiss-gefunden.webp",
       "image_title": "Kompromiss gefunden: Bundesfinanzminister Lars Klingbeil (links) und Kanzler Friedrich Merz am Mittwoch vor der Kabinettssitzung im Kanzleramt in Berlin."
     },
     {
@@ -274,32 +270,25 @@
       "image_title": "Der Umsatz in der mittelständischen Industrie steigt."
     },
     {
-      "title": "Wohnungsmarkt: Die Zahl der Baugenehmigungen bricht ein",
-      "teaser": "Ist der Aufwärtstrend bei den Baugenehmigungen schon zu Ende? Im September waren die Zahlen stark rückläufig. Für die Aussichten auf dem Wohnungsmarkt ist die schleppende Bautätigkeit das größere Problem.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/baugenehmigungen-in-deutschland-brechen-im-september-ein-201694683.html",
-      "image_url": "https://media0.faz.net/image/w1100/76be58547374/w6144h3456x0y363/202611/bb59bce5-a44e-40d5-acec-9ebbefccfbf7/neubau-in-frankfurt-oder.webp",
-      "image_title": "Neubau in Frankfurt (Oder): Baustelle eines Mehrfamilienhauses"
+      "title": "Streit mit der IG Metall: Amtsgericht erlässt Strafbefehl gegen Werkleiter von Tesla",
+      "teaser": "André Thierig, der das Tesla-Werk in Grünheide leitet, wird üble Nachrede vorgeworfen. Nach einer Betriebsratssitzung im Februar war ein Streit mit der Gewerkschaft eskaliert. Gegen den Strafbefehl wurde Einspruch eingelegt.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gruenheide-amtsgericht-erlaesst-strafbefehl-gegen-tesla-werkleiter-201696191.html",
+      "image_url": "https://media0.faz.net/image/w920/29e8dfd6c571/w6144h2633x0y264/202603/43601.0.1848828784/im-clinch-mit-der-gewerkschaft.webp",
+      "image_title": "Im Clinch mit der Gewerkschaft: André Thierig, Werkleiter der Fabrik von Tesla in Grünheide"
+    },
+    {
+      "title": "Überraschendes Angebot: Finnen wollen mit Italienern Europas SpaceX schmieden",
+      "teaser": "Das Satelliten-Start-up Iceye will den italienischen Raketenhersteller Avio übernehmen. Die Regierung in Rom äußert sich bisher nicht, aber die Avio-Aktionäre sind begeistert. Die Übernahme hätte weitreichende Folgen.",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/iceye-will-avio-uebernehmen-europas-antwort-auf-spacex-201694727.html",
+      "image_url": "https://media0.faz.net/image/w1100/eacc97a04ffe/w4892h2752x0y256/202609/43601.0.2554282858/eine-vega-c-rakete-von-avio.webp",
+      "image_title": "Eine Vega-C-Rakete von Avio beim Start in Französisch-Guyana. Mitte September 2026 brachte sie europäische Satelliten ins All."
     },
     {
       "title": "DB-Wettbewerbsbericht: Zugreisende haben immer mehr Wahlmöglichkeiten",
       "teaser": "Auf der Schiene in Deutschland sind inzwischen 524 Eisenbahnunternehmen unterwegs. Der Wettbewerb für die DB ist also da, doch gibt es noch viel zu tun.",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/mehr-konkurrenz-fuer-db-524-bahnunternehmen-auf-deutschen-schienen-201693873.html",
-      "image_url": "https://media0.faz.net/image/w920/c7a95acd7be5/w4824h2067x0y575/202611/04159619-1d5b-46b4-9a4e-16b8c8f02033/auf-deutschen-gleisen-ist.webp",
+      "image_url": "https://media0.faz.net/image/w1100/56cf9c7779c2/w4824h2713x0y251/202611/04159619-1d5b-46b4-9a4e-16b8c8f02033/auf-deutschen-gleisen-ist.webp",
       "image_title": "Auf deutschen Gleisen ist nicht nur die DB unterwegs."
-    },
-    {
-      "title": "Grand Theft Auto VI: Rettet GTA 6 die Gaming-Branche?",
-      "teaser": "Externer Inhalt von Youtube",
-      "url": "https://www.faz-datenschutz.de/faz",
-      "image_url": "https://media0.faz.net/image/w1860/bf6666f3ca3f/w720h1080x600y0/202611/d83ec937-de75-4bfc-bb82-be811d2d555c/f-a-z.webp",
-      "image_title": "F.A.Z."
-    },
-    {
-      "title": "Equinor: Cyberangriff auf Deutschlands wichtigsten Gaslieferanten",
-      "teaser": "Europas größter Gasversorger gerät ins Visier von Cyberkriminellen. Die hybride Kriegsführung nimmt zu: Norwegen hat schon die Sicherheitsstufe erhöht.",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/cyberangriff-auf-equinor-deutschlands-wichtigster-gaslieferant-im-visier-201694711.html",
-      "image_url": "https://media0.faz.net/image/w1100/ad47d3aa0f08/w5813h3270x0y352/202606/43601.0.2225431702/ziel-der-cyberattacken-die.webp",
-      "image_title": "Ziel der Cyberattacken: die Zentrale von Equinor im norwegischen Stavanger"
     },
     {
       "title": "Dämmung als Nachteil: Was im Winter wärmt, kann im Sommer zur Hitzefalle werden",

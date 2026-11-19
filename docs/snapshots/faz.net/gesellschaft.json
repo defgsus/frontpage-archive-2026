@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-19T00:49:03",
+  "timestamp": "2026-11-19T08:05:10",
   "url": "https://www.faz.net/aktuell/gesellschaft/",
   "response": {
     "status": 200
@@ -7,8 +7,8 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://applets.ebxcdn.com/ebx.js",
-      "id": "ebx",
+      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
+      "id": "adobe-launch-head",
       "text": null
     },
     {
@@ -24,18 +24,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://assets.adobedtm.com/101b76c36d9a/299bb2761e13/launch-b62c4c37ed74.min.js",
-      "id": "adobe-launch-head",
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.faz.net/js/adobe/atarget.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "text/javascript",
       "src": "https://cdn.storifyme.xyz/static/web-components/storifyme-elements.min.js",
       "id": null,
@@ -43,16 +31,23 @@
     },
     {
       "type": "module",
-      "src": "https://www.faz.net/_nuxt/3P-aPXIc.js",
+      "src": "https://www.faz.net/_nuxt/D5_EJMzk.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Nasser Herbst: So ungemütlich wird das Wetter morgen",
+      "title": "Katharina Thalbach: „Mit 41 Großmutter zu sein, war das Tollste“",
+      "teaser": "Katharina Thalbach spielt Männer, Frauen und Kinder – und nun im Kino eine 101-Jährige. Schert sich diese Frau gar nicht um ihr Äußeres? Und wie schaut sie auf ihr eigenes Alter?",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/wie-spielt-man-eine-101-jaehrige-katharina-thalbach-accg-201655180.html"
+    },
+    {
+      "title": "Nasser Herbst: So ungemütlich wird das Wetter am Donnerstag",
       "teaser": "In mehreren Bundesländern werden Schäden durch umgestürzte Bäume gemeldet. Meteorologen erwarten weiter wechselhaftes Novemberwetter.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/wetter-dwd-erwartet-wind-und-regen-201696416.html"
+      "url": "https://www.faz.net/aktuell/gesellschaft/wetter-dwd-erwartet-wind-und-regen-201696416.html",
+      "image_url": "https://media0.faz.net/image/w1200/e2dd82f27ac9/w4462h2510x0y30/202611/4424a216-d19c-436f-af81-525ea6ce4bbb/ein-mann-mit-einem-roten.webp",
+      "image_title": "Ein Mann mit einem roten Regenschirm geht am Ufer der Warnow im Stadthafen spazieren."
     },
     {
       "title": "Ungewöhnlicher Fahrgast: Lebendiger Hummer in Münchner S-Bahn vergessen",
@@ -72,7 +67,7 @@
       "title": "Maximilian Mundt: „In der Schule habe ich geweint, wenn die anderen Jungs Krieg gespielt haben“",
       "teaser": "In der neuen Serie „Ballz“ spielt Maximilan Mundt einen jungen Mann, bei dem Hodenkrebs diagnostiziert wird. Hier spricht er über die lustige Seite dieser Rolle und seine Probleme mit Hetero-Klischees.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/maximilian-mundt-im-interview-201689178.html",
-      "image_url": "https://media0.faz.net/image/w1200/5ba927ca020b/w6000h3375x0y124/202611/6d501899-60b4-4582-b1d2-743725e83e98/schock-julian-maximilian-mundt.webp",
+      "image_url": "https://media0.faz.net/image/w1100/5ba927ca020b/w6000h3375x0y124/202611/6d501899-60b4-4582-b1d2-743725e83e98/schock-julian-maximilian-mundt.webp",
       "image_title": "Schock: Julian (Maximilian Mundt) ist fassungslos, als der die Diagnose Hodenkrebs erhält."
     },
     {
@@ -88,13 +83,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/kim-jong-uns-tochter-faehrt-ski-in-nordkorea-201694797.html",
       "image_url": "https://media0.faz.net/image/w1100/e35b1c97e20e/w2965h1668x0y152/202611/3d235aee-597b-427d-b684-0669e94248f2/schaulaufen-ein-von.webp",
       "image_title": "Schaulaufen: Ein von nordkoreanischen Staatsmedien verbreitetes Bild zeigt, wie der Diktator Kim Jong-un das Skigebiet Samjiyon besucht."
-    },
-    {
-      "title": "Nach Ärger bei Show: Stadt Leipzig prüft rechtliche Schritte gegen Bill Kaulitz",
-      "teaser": "Bill Kaulitz nennt bei einem Konzert in Leipzig den Namen eines städtischen Mitarbeiters, der ein Pyro-Verbot durchgesetzt hat. Die Stadt sieht darin einen „erheblichen Angriff“ – und wehrt sich.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/bill-kaulitz-blamiert-stadtmitarbeiter-auf-tokio-hotel-konzert-in-leipzig-201693647.html",
-      "image_url": "https://media0.faz.net/image/w1100/28e22ce14e7c/w3000h1687x0y55/202512/43601.0.1551216256/nicht-in-leipzig-sondern-in.webp",
-      "image_title": "Nicht in Leipzig, sondern in Bielefeld: Sänger Bill Kaulitz während der Verleihung der 1Live-Krone"
     },
     {
       "title": "FAZ+Kolumne „Midlife-Crisis“: Als hätte der Sargdeckel auch die Akte der Hoffnung geschlossen",
@@ -121,18 +109,18 @@
       "url": "https://www.faz.net/aktuell/besser-leben/stil/warum-mein-partner-manchmal-der-emotionale-boxsack-ist-accg-201670236.html"
     },
     {
+      "title": "Nach Ärger bei Show: Stadt Leipzig prüft rechtliche Schritte gegen Bill Kaulitz",
+      "teaser": "Bill Kaulitz nennt bei einem Konzert in Leipzig den Namen eines städtischen Mitarbeiters, der ein Pyro-Verbot durchgesetzt hat. Die Stadt sieht darin einen „erheblichen Angriff“ – und wehrt sich.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/bill-kaulitz-blamiert-stadtmitarbeiter-auf-tokio-hotel-konzert-in-leipzig-201693647.html",
+      "image_url": "https://media0.faz.net/image/w880/28e22ce14e7c/w3000h1687x0y55/202512/43601.0.1551216256/nicht-in-leipzig-sondern-in.webp",
+      "image_title": "Nicht in Leipzig, sondern in Bielefeld: Sänger Bill Kaulitz während der Verleihung der 1Live-Krone"
+    },
+    {
       "title": "Razzia gegen Rocker: Bekamen die „Hells Angels“ einen Wink?",
       "teaser": "Anfang der Woche wurde ein „Hells Angels“-Ableger in Mönchengladbach verboten und aufgelöst. Nun steht der Verdacht im Raum, die Rocker könnten vorab über die Razzia informiert worden sein.",
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/hells-angels-in-moenchengladbach-wurden-die-rocker-vor-der-razzia-gewarnt-201694538.html",
       "image_url": "https://media0.faz.net/image/w880/d448d9fa9529/w3000h1687x0y133/202109/43600.0.311252811/moenchengladbach-polizisten.webp",
       "image_title": "Mönchengladbach: Polizisten stehen vor den zersprungenen Scheiben eines mutmaßlichen Vereinsheims der Rocker."
-    },
-    {
-      "title": "Vorwurf sexueller Übergriffe: Ermittlungen gegen Schlagersänger Julio Iglesias",
-      "teaser": "Zwei frühere Angestellte haben den 83-Jährigen wegen sexueller Übergriffe und Misshandlungen angezeigt. Ermittler sehen einen hinreichenden Anfangsverdacht, um ein Strafverfahren einzuleiten.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/julio-iglesias-strafverfahren-wegen-sexueller-uebergriffe-eroeffnet-201695153.html",
-      "image_url": "https://media0.faz.net/image/w880/6a051d9e66a0/w2000h1125x0y1/202601/43601.0.1669998235/damals-trat-er-noch.webp",
-      "image_title": "Damals trat er noch öffentlich auf: Julio Iglesias 2016 in Puerto Rico"
     },
     {
       "title": "Joachim Sauer: „Wir hatten auch in der DDR ein richtiges Leben“",
@@ -163,25 +151,25 @@
       "image_title": "Zurück am Fels: Extremkletterer Alexander Huber in der Route „Mythos“"
     },
     {
+      "title": "Vorwurf sexueller Übergriffe: Ermittlungen gegen Schlagersänger Julio Iglesias",
+      "teaser": "Zwei frühere Angestellte haben den 83-Jährigen wegen sexueller Übergriffe und Misshandlungen angezeigt. Ermittler sehen einen hinreichenden Anfangsverdacht, um ein Strafverfahren einzuleiten.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/julio-iglesias-strafverfahren-wegen-sexueller-uebergriffe-eroeffnet-201695153.html",
+      "image_url": "https://media0.faz.net/image/w920/13da587f214c/w2000h857x0y21/202601/43601.0.1669998235/damals-trat-er-noch.webp",
+      "image_title": "Damals trat er noch öffentlich auf: Julio Iglesias 2016 in Puerto Rico"
+    },
+    {
+      "title": "Brasilien: Hunger treibt isoliert lebende Indigene aus Regenwald",
+      "teaser": "Ihr traditioneller Lebensraum schrumpft durch Abholzung im Amazonas-Gebiet. Nun haben sich Mitglieder einer indigenen Gruppe in ein Dorf vorgewagt und nach Essen gefragt.",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/brasilien-hunger-treibt-indigene-aus-amazonas-regenwald-accg-201693085.html",
+      "image_url": "https://media0.faz.net/image/w1100/5269673d7f01/w1739h978x0y130/202611/b119e98f-8429-47aa-904d-ca4648e76f2e/ein-standbild-aus-dem-video.webp",
+      "image_title": "Ein Standbild aus dem Video der NGO Survival International zeigt die Menschen am Rand einer Siedlung."
+    },
+    {
       "title": "Mannheim: Stadtrat wegen Swingerparty im Rathaus mit Ordnungsgeld belegt",
       "teaser": "Julien Ferrat lud im August zu einer „politischen Swingerparty“ — und sieht das in Übereinstimmung mit der Hausordnung. Der Gemeinderat kommt zu einem anderen Urteil.",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/mannheim-stadtrat-wegen-swingerparty-im-rathaus-mit-ordnungsgeld-belegt-201692611.html",
-      "image_url": "https://media0.faz.net/image/w920/2eae55b17a17/w6144h2633x0y482/202608/43601.0.2489725811/mannheims-stadtrat-julien.webp",
+      "image_url": "https://media0.faz.net/image/w1100/d09d92fa4ac6/w6144h3456x0y429/202608/43601.0.2489725811/mannheims-stadtrat-julien.webp",
       "image_title": "Mannheims Stadtrat Julien Ferrat"
-    },
-    {
-      "title": "Bereit für GTA 6: „Seit dreizehn Jahren warte ich nun auf GTA VI und kann’s kaum erwarten“",
-      "teaser": "In der Nacht zum Donnerstag erscheint GTA VI. Hier berichten Fans, wie sich auf ihren großen Tag vorbereiten, ob sie extra Urlaub genommen haben und was ihre Partnerinnen davon halten.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/gta-vi-so-bereiten-sich-fans-auf-das-gaming-vor-201688186.html",
-      "image_url": "https://media0.faz.net/image/w1100/7e85c211f136/w3840h2160x0y0/202611/67b1dcf1-69a7-49f0-80d7-e01a247c66f9/mit-goldketten-behangenen.webp",
-      "image_title": "Mit Goldketten behangenen Gangstern um die Vorherrschaft in der Unterwelt eines fiktiven Miami kämpfen? Für die Fans der GTA-Videospiele geht es nach dreizehn Jahren Wartezeit in der Nacht zum 19. November los."
-    },
-    {
-      "title": "Mit Mehr als 50 km/h: 14-Jähriger lässt sich mehrfach mit E-Scooter blitzen",
-      "teaser": "Er dachte wohl, man käme ihm nicht auf die Spur: In Dülmen ist ein 14-Jähriger mehrfach mit seinem E-Scooter in eine Radarfalle gerast. Die Beamten kamen ihm jedoch auf die Spur.",
-      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/ueber-50-km-h-schnell-14-jaehriger-laesst-sich-mehrfach-mit-e-scooter-blitzen-201691999.html",
-      "image_url": "https://media0.faz.net/image/w1100/8cf3d4227c6b/w6000h3375x0y709/202611/659f8d1a-9d4a-424d-bcde-2435dd226230/hoffentlich-nur-mit-maximal-20.webp",
-      "image_title": "Hoffentlich nur mit maximal 20 km/h: Jemand ist auf einem E-Scooter unterwegs. (Symbolbild)"
     },
     {
       "title": "Prozessauftakt: Sohn tötete Mitschüler – Eltern sollen die Waffe nicht richtig gesichert haben",
