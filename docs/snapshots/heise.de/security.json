@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-20T05:24:19",
+  "timestamp": "2026-11-20T14:29:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,20 +20,21 @@
   ],
   "articles": [
     {
+      "title": "AlertVMwareBroadcom stopft attackierte Sicherheitslücken",
+      "teaser": "Broadcom schließt teils kritische Lücken in VMware-Produkten. Eine in vCenter wird laut Mandiant bereits angegriffen.",
+      "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
+      "image_title": "Smartphone mit VMware-Logo"
+    },
+    {
       "title": "AlertPHP-SicherheitsupdatePHP behebt 17 Sicherheitslücken, fünf erlauben Schadcode",
       "teaser": "Die kritischen Sicherheitslücken sind nur mit Vorbedingungen auf Standardinstallationen ausnutzbar; Admins sollten dennoch updaten.",
       "url": "https://www.heise.de/news/PHP-behebt-17-Sicherheitsluecken-vier-erlauben-Ausfuehrung-von-Schadcode-11531249.html",
       "image_title": "Zwei Plüschelefanten stehen neben einem Vorhängeschloss auf einer Holzbank."
     },
     {
-      "title": "c't-SonderheftViren jagen, Daten retten: Desinfec’t 2026/27 ist ab sofort erhältlich",
-      "teaser": "Aktualisierte Ubuntu-Basis und ein ressourcenschonenderer Scanassistent: Das c’t-Sicherheitstool mit Scannern von ESET, IKARUS und WithSecure hat dazugelernt.",
-      "url": "https://www.heise.de/news/Viren-jagen-Daten-retten-Desinfec-t-2026-27-ist-ab-sofort-erhaeltlich-11527418.html"
-    },
-    {
-      "title": "Alertruby2ßhell: Remote Code Execution durch 21 ß",
-      "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html",
-      "image_title": "Ein facettierter Edelstein mit spitzem Schliff."
+      "title": "AlertVMwareBroadcom stopft attackierte Sicherheitslücken",
+      "url": "https://www.heise.de/news/VMware-stopft-attackierte-Sicherheitsluecken-11532009.html",
+      "image_title": "Smartphone mit VMware-Logo"
     },
     {
       "title": "Zweiteiliges Webinar | 25.11. & 9.12.Zweiteiliges Webinar: Maßgeschneiderte Verteidigung mit Wazuh",
@@ -52,6 +53,42 @@
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
     },
     {
+      "title": "LKA Niedersachsen setzt verdeckte Ermittler als Scheinkinder gegen Groomer ein",
+      "teaser": "Das LKA Niedersachsen lässt Ermittler im Netz als Kinder auftreten, um Cybergrooming-Täter frühzeitig zu identifizieren.",
+      "url": "https://www.heise.de/news/LKA-Niedersachsen-setzt-verdeckte-Ermittler-als-Scheinkinder-gegen-Groomer-ein-11532577.html",
+      "image_title": "Ein Streifenwagen mit Cyberpolizei-Schriftzug vor einer nächtlichen Stadtkulisse und Text. Es wird Werbung für einen Online-Elternabend gemacht."
+    },
+    {
+      "title": "Kritisch eingestufte Lücken in Ruby – auch Rails, GitHub und GitLab betroffen",
+      "teaser": "Ruby korrigiert eine Reihe von als kritisch eingestuften Lücken – fünf Exploits gibt es bereits, ein Update sollte zügig erfolgen.",
+      "url": "https://www.heise.de/news/Kritisch-eingestufte-Luecken-in-Ruby-auch-Rails-GitHub-und-GitLab-betroffen-11532469.html",
+      "image_title": "Illustration: Roboter patch Lücke"
+    },
+    {
+      "title": "SonicWall rät Kunden zum Entsorgen von Gen6-Firewalls",
+      "teaser": "SonicWall empfiehlt IT-Verantwortlichen, nicht mehr unterstützte Firewalls der Generation 6 außer Dienst zu stellen.",
+      "url": "https://www.heise.de/news/SonicWall-raet-Kunden-zum-Entsorgen-von-Gen6-Firewalls-11532307.html",
+      "image_title": "Sonicwall-Logo vor Matrix-Regen-Hintergrund"
+    },
+    {
+      "title": "Microsoft Hotpatching: Patchday-Flicken legen Apps lahm",
+      "teaser": "Im November hat Microsoft Hotpatches verteilt, die ohne Neustart wirken. Allerdings starten dadurch einige Apps nicht mehr.",
+      "url": "https://www.heise.de/news/Microsoft-Patchday-Hotpatches-erzeugen-Startprobleme-mit-Apps-11532241.html",
+      "image_title": "WIndows-Update-Suche mit \"Achtung\"-Schild"
+    },
+    {
+      "title": "Google baut ein künstliches Internet für seine KI-Agenten",
+      "teaser": "Google hat ein künstliches Internet mit Tausenden Websites geschaffen, um KI-Agenten realistischen Angriffen auszusetzen und ihre Sicherheit zu verbessern.",
+      "url": "https://www.heise.de/news/Google-baut-ein-kuenstliches-Internet-fuer-seine-KI-Agenten-11532191.html",
+      "image_title": "Pixelige Nahaufnahme des Schriftzugs https://www in einem Browser"
+    },
+    {
+      "title": "iX-Workshop: Microsoft 365 gegen Angriffe absichern",
+      "teaser": "Lernen Sie effektive technische Maßnahmen kennen, um Microsofts Office-Paket in der Cloud gegen Angriffe abzusichern.",
+      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-gegen-Angriffe-absichern-11516042.html",
+      "image_title": "Sichere Konfiguration von Microsoft 365 (iX-Workshop)"
+    },
+    {
       "title": "Cyberangriff auf EU-Kommission: Verdacht auf KI-Tool Artex, tagelange Ausfälle",
       "teaser": "Ein Cyberangriff legte Personalsysteme der EU-Kommission tagelang lahm. Grund ist offenbar der Missbrauch des KI-Tools Artex, vor dem CERT-EU gewarnt hatte.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html",
@@ -63,7 +100,7 @@
       "url": "https://www.heise.de/news/TeleTrusT-veroeffentlicht-Handreichung-zu-Kryptoagilitaet-11531656.html"
     },
     {
-      "title": "Alertruby2ßhell: Remote Code Execution durch 21 ß",
+      "title": "AlertUpdateruby2ßhell: Remote Code Execution durch 21 ß",
       "teaser": "Kein Tippfehler: Eine neue Sicherheitslücke in Ruby heißt ruby2ßhell. Wegen falscher Verarbeitung von ß sind Ruby-Projekte wie GitLab und Mastodon angreifbar.",
       "url": "https://www.heise.de/news/ruby2sshell-Remote-Code-Execution-durch-21-ss-11531365.html",
       "image_title": "Ein facettierter Edelstein mit spitzem Schliff."
@@ -109,41 +146,6 @@
       "teaser": "Krachen nginx und WordPress, darf PHP nicht fehlen. Es gibt auch kritische Probleme; Details und Updates folgen am Donnerstag.",
       "url": "https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html",
       "image_title": "Eine von der Decke hängende Uhr; an der Decke verlaufen weiße Rohre einer Industrieanlage"
-    },
-    {
-      "title": "AlertWebserver: nginx-Update schließt schwere Lücken",
-      "teaser": "Für den weltweit meistgenutzten Webserver nginx gibt es frische Patches. Unbedingt unverzüglich updaten.",
-      "url": "https://www.heise.de/news/Webserver-nginx-Update-schliesst-schwere-Luecken-11530216.html",
-      "image_title": "Stark verzerrtes Bild eines Fingers auf einer Tastatur, im Vordergrund ein digitales Warndreieck"
-    },
-    {
-      "title": "AlertWordPress-Update schließt zig Lücken",
-      "teaser": "WordPress bekämpft mit einem Zwischenupdate zahlreiche Bugs. Bitte unverzüglich updaten.",
-      "url": "https://www.heise.de/news/WordPress-Update-schliesst-zig-Luecken-11530196.html",
-      "image_title": "WordPress-Logo mit Achtung-Schild vor Matrix-Regen-Hintergrund"
-    },
-    {
-      "title": "Anthropic und Cisco integrieren Claude Mythos 5 in AI Defense",
-      "teaser": "Anthropic und Cisco kooperieren bei der Absicherung von KI-Agenten. Das Modell Mythos 5 hält Einzug in die KI-Sicherheitsplattform AI Defense.",
-      "url": "https://www.heise.de/news/Anthropic-und-Cisco-integrieren-Claude-Mythos-5-in-AI-Defense-11529932.html",
-      "image_title": "Das Claude-Logo von Anthropic auf einem Smartphone-Bildschirm."
-    },
-    {
-      "title": "Malware ohne Quellcode: Wie Trusting-Trust-Attacken funktionieren",
-      "teaser": "Wer Software nicht blind vertrauen will, muss ihren Quellcode lückenlos prüfen. Doch wenn Angreifer geschickt vorgehen, reicht nicht einmal das.",
-      "url": "https://www.heise.de/hintergrund/Malware-ohne-Quellcode-Wie-Trusting-Trust-Attacken-funktionieren-11414923.html",
-      "image_title": "Ein transparentes Kunststofffenster mit Textzeilen wirft einen bedrohlichen Schatten."
-    },
-    {
-      "title": "AlertMicrosoft SharePoint: Angreifer können Code einschleusen und ausführen",
-      "teaser": "Microsoft warnt vor Sicherheitslücken in der SharePoint Server Subscription Edition. Admins sollten das bereitstehende Update anwenden.",
-      "url": "https://www.heise.de/news/Microsoft-SharePoint-Angreifer-koennen-Code-einschleusen-und-ausfuehren-11529556.html"
-    },
-    {
-      "title": "iX-Workshop: Industrial Security nach IEC 62443 – Ein Praxisleitfaden",
-      "teaser": "IEC 62443 für industrielle Automatisierungs- und Steuerungssysteme – Wie Sie Ihre Produktentwicklung von Anfang an sicher und normenkonform gestalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Industrial-Security-nach-IEC-62443-Ein-Praxisleitfaden-11515957.html",
-      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
       "title": "Konferenz | 02.12.2026IT-Security im KI-Zeitalter – der Online-Thementag für Security-Profis",
