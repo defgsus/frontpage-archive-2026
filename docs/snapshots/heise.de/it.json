@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-22T03:45:10",
+  "timestamp": "2026-11-22T12:04:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,27 +20,27 @@
   ],
   "articles": [
     {
+      "title": "TDWI München 2027: Vorträge für die Konferenz zu Data, Analytics und KI gesucht",
+      "teaser": "Im Juni 2027 findet die TDWI München als Deutschlands größter Treffpunkt für Data, Analytics und KI in einer neuen Location statt.",
+      "url": "https://www.heise.de/news/TDWI-Muenchen-2027-Vortraege-fuer-die-Konferenz-zu-Data-Analytics-und-KI-gesucht-11532059.html",
+      "image_title": "Menschen auf der TDWI München"
+    },
+    {
+      "title": "AlertGL.iNet: Schwachstelle entdeckt, Patch verfügbar",
+      "teaser": "Eine Lücke in den cloudbasierten Fernverwaltungsdiensten wird bereits ausgenutzt. Admins sollten schnell handeln.",
+      "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entdeckt-Patch-verfuegbar-11533722.html",
+      "image_title": "Ein Warnsymbol mit Ausrufezeichen vor einem Hintergrund aus Codezeilen."
+    },
+    {
+      "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response",
+      "teaser": "Lernen Sie, professionelle Incident-Response-Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
+      "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-11516070.html",
+      "image_title": "iX-Workshop Digital Forensics & Incident Response"
+    },
+    {
       "title": "Killer-Roboter: UN-Konferenz endet ohne Mandat für verbindliches Verbot",
       "teaser": "Trotz viel Unterstützung für strenge Regeln haben Staaten wie Russland und die USA erneut einen klaren Fahrplan gegen autonome Waffensysteme in Genf blockiert.",
       "url": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html"
-    },
-    {
-      "title": "MedienberichtZentrale FBI-Datenbank angegriffen",
-      "teaser": "Medienberichten zufolge wurde die FBI-Datenbank NCIC angegriffen. Ein Experte fürchtet vor allem manipulierte Datensätze.",
-      "url": "https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html",
-      "image_title": "Jacke mit FBI-Schriftzug"
-    },
-    {
-      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
-      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
-      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11526116.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Windows HelloWindows-Update-Vorschau: Gesichts-Unlock im Dunkeln",
-      "teaser": "Die Vorschau kommender Patchday-Updates ist da: Windows Hello lernt die Gesichtserkennung im Dunkeln.",
-      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html",
-      "image_title": "Windows Updates verfügbar: Herunterladen, Installation, Abgeschlossen"
     },
     {
       "title": "RatgeberHome Assistant: Licht, Türen und Temperatur direkt per Push-Nachricht steuern",
@@ -65,6 +65,18 @@
       "title": "Ecovacs Winbot W2S Pro Omni im Test: Akku-Fensterputzroboter mit Filz für Kanten",
       "teaser": "Der Ecovacs Winbot W2S Pro Omni putzt Ränder mit vier Filz-Kantenreinigern. Für 499 Euro liefert er aber zu wenig Fortschritt und hinterlässt Schlieren.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ecovacs-winbot-w2s-pro-omni-im-test-akku-fensterputzroboter-mit-filz-fuer-kanten/dvyy2hy?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "iX-Workshop: Angriffe auf Entra ID abwehren",
+      "teaser": "Lernen Sie, wie Sie Entra ID einschließlich Azure-Diensten härten und effektiv vor Angriffen schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Angriffe-auf-Entra-ID-abwehren-11526116.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
+    },
+    {
+      "title": "Windows-Update-Vorschau: Gesichts-Unlock im Dunkeln",
+      "teaser": "Microsoft hat die Vorschau der kommenden Patchday-Updates veröffentlicht. Windows Hello lernt darin Gesichtserkennung im Dunkeln.",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html",
+      "image_title": "Windows Updates verfügbar: Herunterladen, Installation, Abgeschlossen"
     },
     {
       "title": "iX-Workshop: Sichere Softwareentwicklung – Schwachstellen erkennen und vermeiden",
@@ -129,36 +141,24 @@
       "url": "https://www.heise.de/news/SteamDeck-fuer-die-Hosentasche-DroidDeck-bringt-Steam-auf-Android-11532341.html"
     },
     {
-      "title": "Lieferkettensicherheit: Risiken in CI/CD-Pipelines minimieren",
-      "teaser": "Angreifer kapern zunehmend CI/CD-Pipelines. iX-Autor Fabian Deitelhoff erklärt im Interview, wie Teams GitHub Actions absichern.",
-      "url": "https://www.heise.de/news/Lieferkettensicherheit-Risiken-in-CI-CD-Pipelines-minimieren-11533016.html",
-      "image_title": "Ein Wolf bricht aus einem Turm aus Pappkartons hervor"
-    },
-    {
-      "title": "GitLab 19.6 führt Audit-Log für KI-Agenten ein, NGINX bleibt verwundbar",
-      "teaser": "Agenten-Aktionen über den MCP-Server landen jetzt im Audit-Log. Patch 19.6.1 schließt Ruby2Shell, das mitgelieferte NGINX bleibt für nginx2root anfällig.",
-      "url": "https://www.heise.de/news/GitLab-19-6-fuehrt-Audit-Log-fuer-KI-Agenten-ein-NGINX-bleibt-verwundbar-11532950.html",
-      "image_title": "Vektorgrafik einer Pipeline in Orangetönen"
-    },
-    {
       "title": "NewsSicherheitsfix: PHP-Admins bekommen Donnerstagnachmittag zu tun",
       "url": "https://www.heise.de/news/Sicherheitsfix-PHP-Admins-bekommen-Donnerstagnachmittag-zu-tun-11530253.html",
       "image_title": "Eine von der Decke hängende Uhr; an der Decke verlaufen weiße Rohre einer Industrieanlage"
     },
     {
-      "title": "AlertUpdateNewsJava4Shell: Gefährlicher Bug in Java",
-      "url": "https://www.heise.de/news/Java4Shell-Gefaehrlicher-Bug-in-Java-11528499.html",
-      "image_title": "Jemand tippt mit dem Zeigefinger auf eine mit \"java\" beschriftete, erleuchtete Schaltfläche"
+      "title": "NewsBritische Regierung muss gestehen, dass sie Apple eine Hintertür befohlen hat",
+      "url": "https://www.heise.de/news/Spionagegericht-Grossbritannien-muss-Auftrag-fuer-Apple-Hintertuer-gestehen-11531845.html",
+      "image_title": "Bunte Schnüre laufen von links in eine geschlossene Faust, aus der sie rechts, in einander verwickelt, gerdae herauskommen"
     },
     {
-      "title": "NewsMillionenfinanzierung in zehn Minuten: Flipper One kratzt an Kickstarter-Rekord",
-      "url": "https://www.heise.de/news/Rekordverdaechtiges-Crowdfunding-Flipper-One-auf-Kickstarter-vorbestellbar-11528795.html",
-      "image_title": "Flipper One"
+      "title": "NewsDie erste von 4000? Weltweit höchste Windkraftanlage in Betrieb genommen",
+      "url": "https://www.heise.de/news/Offshore-auf-dem-Land-Weltweit-hoechste-Windkraftanlage-in-Betrieb-genommen-11531361.html",
+      "image_title": "Eine Windkraftanlage mit einem hohen Gittermast im Wald, umgeben von weiteren Windkraftanlagen"
     },
     {
-      "title": "NewsJava: RCE mit 64-mal dem „A“ und einem „=“",
-      "url": "https://www.heise.de/news/Java-RCE-mit-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA-11528561.html",
-      "image_title": "Warnsymbol vor digitalem Rauschen"
+      "title": "NewsD-App: Privates Unternehmen baut Bürger-App – und setzt den Bund unter Druck",
+      "url": "https://www.heise.de/news/D-App-Privates-Unternehmen-baut-Buerger-App-und-setzt-den-Bund-unter-Druck-11532271.html",
+      "image_title": "Startseite der D-App mit Figuren und Antragsübersicht"
     },
     {
       "title": "Ratgeber18 Freeware-Perlen fürs iPhone: Ohne Abo und ohne Werbung",
@@ -166,18 +166,18 @@
       "image_title": "iPhone-Apps: Frei und ohne Reklame"
     },
     {
-      "title": "TestsBitcoin-Heizung im Test: Lohnt sich der Ofen 3 Pro XL?",
-      "url": "https://www.heise.de/tests/Bitcoin-Heizung-im-Test-Lohnt-sich-der-Ofen-3-Pro-XL-11501794.html"
-    },
-    {
-      "title": "TestsClaude als Office-Ersatz: Wie weit Anthropics eingebaute Werkzeuge schon reichen",
-      "url": "https://www.heise.de/tests/Claude-als-Office-Ersatz-Wie-weit-Anthropics-eingebaute-Werkzeuge-schon-reichen-11521250.html",
-      "image_title": "Ein blauer Geist am Computer umgeben von mehreren digitalen Fenstern."
-    },
-    {
       "title": "HintergrundKI beweist, dass Quantencomputer nicht allmächtig sind",
       "url": "https://www.heise.de/hintergrund/KI-beweist-dass-Quantencomputer-nicht-allmaechtig-sind-11521373.html",
       "image_title": "Ein abstraktes Netzwerk aus leuchtenden Punkten und Linien vor einem dunklen Hintergrund"
+    },
+    {
+      "title": "TestsGTA VI im Techniktest: Zwischen Prachtkulisse und Konsolenlimits",
+      "url": "https://www.heise.de/tests/GTA-VI-im-Techniktest-Zwischen-Prachtkulisse-und-Konsolenlimits-11532431.html"
+    },
+    {
+      "title": "HintergrundMalware ohne Quellcode: Wie Trusting-Trust-Attacken funktionieren",
+      "url": "https://www.heise.de/hintergrund/Malware-ohne-Quellcode-Wie-Trusting-Trust-Attacken-funktionieren-11414923.html",
+      "image_title": "Ein transparentes Kunststofffenster mit Textzeilen wirft einen bedrohlichen Schatten."
     }
   ]
 }
