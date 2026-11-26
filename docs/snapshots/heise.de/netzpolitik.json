@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T03:15:12",
+  "timestamp": "2026-11-26T13:17:37",
   "url": "https://www.heise.de/newsticker/netzpolitik/",
   "response": {
     "status": 200
@@ -20,8 +20,20 @@
   ],
   "articles": [
     {
-      "title": "Datenschutzfreundliches DNS: Quad9 schließt Frankreich aus",
-      "teaser": "Der schweizerische DNS-Vermittler blockiert seit Dienstag Abfragen aus Frankreich. Grund ist ein Zensururteil, erstritten von beIN aus Katar.",
+      "title": "Kommentar zum digitalen FührerscheinEine vertane Chance",
+      "teaser": "Der digitale Führerschein soll zuerst in der i-Kfz-App erscheinen, danach in d-you. Sinnvoller wäre ein gleichzeitiger Start, kommentiert Christian Wölbert.",
+      "url": "https://www.heise.de/meinung/Kommentar-zum-digitalen-Fuehrerschein-Eine-vertane-Chance-11538617.html",
+      "image_title": "Logo mit App-Symbol und dem Schriftzug d-you"
+    },
+    {
+      "title": "Illegales IPTV: Europol-Aktion stört 57 Piraterie-Dienste",
+      "teaser": "Ermittler aus elf Ländern haben Krypto-Zahlungen an illegale IPTV-Dienste verfolgt. 57 Dienste wurden gestört, über 26 Millionen Euro zurückverfolgt.",
+      "url": "https://www.heise.de/news/Europol-Ermittler-folgen-der-Krypto-Spur-illegaler-IPTV-Dienste-11538501.html",
+      "image_title": "Blick nach oben auf das Europol-Gebäude mit Kameras am Mast im Vordergrund."
+    },
+    {
+      "title": "Datenschutzfreundliches DNSQuad9 schließt Frankreich aus",
+      "teaser": "Der DNS-Vermittler Quad9 blockiert seit Dienstag Abfragen aus Frankreich. Grund ist ein Zensururteil, erstritten von beIN aus Katar.",
       "url": "https://www.heise.de/news/Datenschutzfreundliches-DNS-Quad9-schliesst-Frankreich-aus-11538423.html",
       "image_title": "Eine Kette wird gesprengt"
     },
@@ -30,18 +42,6 @@
       "teaser": "Australiens Regierung will mit einem Gesetz Medienunternehmen helfen. In der Folge kündigt Google erst einmal eine Übereinkunft mit mehreren kleinen Verlagen.",
       "url": "https://www.heise.de/news/Neues-Mediengesetz-Google-kuendigt-Abkommen-mit-australischen-Verlagen-11538214.html",
       "image_title": "Google-Niederlassung"
-    },
-    {
-      "title": "Chatkontrolle: Irische Ratspräsidentschaft plant Umgehung der EU-Parlamentarier",
-      "teaser": "Ein geleakter Bericht belegt: Im Streit über die Chatkontrolle will die irische Ratsspitze nur die Fraktionschefs einschalten. Berlin drängt auf breite Scans.",
-      "url": "https://www.heise.de/news/Chatkontrolle-Ministerrat-will-EU-Fachpolitiker-bei-Massenueberwachung-umgehen-11538170.html",
-      "image_title": "Person mit Smartphone in der Hand am Laptop."
-    },
-    {
-      "title": "ZenDiS bringt Souveränitäts-Check: Wie abhängig ist die Verwaltung?",
-      "teaser": "openDesk-Betreiber ZenDiS hat einen Souveränitäts-Check entwickelt, mit dem Behörden das Maß ihrer digitalen Souveränität oder Abhängigkeit einschätzen können.",
-      "url": "https://www.heise.de/news/ZenDiS-bringt-Souveraenitaets-Check-Wie-abhaengig-ist-die-Verwaltung-11538046.html",
-      "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
     },
     {
       "title": "HintergrundKI-Training mit Asyldaten: Wie das KIMVG den Datenschutz aushöhlt",
@@ -55,6 +55,18 @@
     {
       "title": "HintergrundAbofallen, Lootboxen, Dark Patterns: EU plant neues Verbraucherschutzgesetz",
       "url": "https://www.heise.de/hintergrund/Abofallen-Lootboxen-Dark-Patterns-EU-plant-neues-Verbraucherschutzgesetz-11493020.html"
+    },
+    {
+      "title": "Chatkontrolle: Irische Ratspräsidentschaft plant Umgehung der EU-Parlamentarier",
+      "teaser": "Ein geleakter Bericht belegt: Im Streit über die Chatkontrolle will die irische Ratsspitze nur die Fraktionschefs einschalten. Berlin drängt auf breite Scans.",
+      "url": "https://www.heise.de/news/Chatkontrolle-Ministerrat-will-EU-Fachpolitiker-bei-Massenueberwachung-umgehen-11538170.html",
+      "image_title": "Person mit Smartphone in der Hand am Laptop."
+    },
+    {
+      "title": "ZenDiS bringt Souveränitäts-Check: Wie abhängig ist die Verwaltung?",
+      "teaser": "openDesk-Betreiber ZenDiS hat einen Souveränitäts-Check entwickelt, mit dem Behörden das Maß ihrer digitalen Souveränität oder Abhängigkeit einschätzen können.",
+      "url": "https://www.heise.de/news/ZenDiS-bringt-Souveraenitaets-Check-Wie-abhaengig-ist-die-Verwaltung-11538046.html",
+      "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
     },
     {
       "title": "Celonis statt Palantir: NRW-Polizei setzt auf deutsche Software",
@@ -135,21 +147,19 @@
       "image_title": "Die Wayback Machine in einem Browser"
     },
     {
-      "title": "D-You-Wallet: Warten auf Weihnachten",
-      "teaser": "Bundesdigitalminister Wildberger vertraut beim Start der D-You-Wallet auf die BSI-Sicherheitseinschätzung bis Weihnachten.",
-      "url": "https://www.heise.de/news/D-You-Wallet-Warten-auf-Weihnachten-11533284.html",
-      "image_title": "Das Logo der App d-you mit einem geschwungenen grünen Symbol und deutscher Flagge"
-    },
-    {
-      "title": "LKA Niedersachsen setzt verdeckte Ermittler als Scheinkinder gegen Groomer ein",
-      "teaser": "Das LKA Niedersachsen lässt Ermittler im Netz als Kinder auftreten, um Cybergrooming-Täter frühzeitig zu identifizieren.",
-      "url": "https://www.heise.de/news/LKA-Niedersachsen-setzt-verdeckte-Ermittler-als-Scheinkinder-gegen-Groomer-ein-11532577.html",
-      "image_title": "Ein Streifenwagen mit Cyberpolizei-Schriftzug vor einer nächtlichen Stadtkulisse und Text. Es wird Werbung für einen Online-Elternabend gemacht."
-    },
-    {
       "title": "NewsStreit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7",
       "url": "https://www.heise.de/news/Streit-ums-Design-Gericht-verhindert-EU-weiten-Verkauf-des-E-SUV-BYD-Ti7-11534173.html",
       "image_title": "BYD Ti7"
+    },
+    {
+      "title": "NewsNach 365-Ausfall: Höchste Alarmstufe bei Microsoft",
+      "url": "https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html",
+      "image_title": "Rot erleuchteter Gang eines Rechenzentrums"
+    },
+    {
+      "title": "NewsMathe-Wettlauf: Anthropic und OpenAI mit fast zeitgleichen Beweisen für VP ≠ VNP",
+      "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html",
+      "image_title": "Mathematische Formeln und Gleichungen auf einem futuristischen, blau und rot leuchtenden digitalen Raster."
     },
     {
       "title": "AlertNews„Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme",
@@ -157,14 +167,9 @@
       "image_title": "Ein transparenter Würfel, aus dem Rauch entweicht, mit dem Schriftzug Upload2Shell"
     },
     {
-      "title": "UpdateNewsNvidia setzt Jensen Huang wieder als CEO ein",
-      "url": "https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html",
-      "image_title": "Ein Mann mit grauen Haaren und Brille blickt leicht nach rechts."
-    },
-    {
-      "title": "TestsGTA 6: Rockstar entdeckt die Macht der kleinen Gesten",
-      "url": "https://www.heise.de/tests/GTA-6-Ein-Spiel-von-Liebe-Verbrechen-und-dem-ganz-normalen-Wahnsinn-11533850.html",
-      "image_title": "Jason und Lucia sitzen lächelnd an einem Holztisch in einer Bar und unterhalten sich bei einem Getränk."
+      "title": "HintergrundDie KI-Produktivitätslüge: Warum schnellerer Code nichts bringt",
+      "url": "https://www.heise.de/hintergrund/Die-KI-Produktivitaetsluege-Warum-schnellerer-Code-nichts-bringt-11511612.html",
+      "image_title": ","
     },
     {
       "title": "RatgeberMaulkörbe für Smart-TVs: DNS-Filter und Alternativen",
@@ -172,18 +177,14 @@
       "image_title": "Ein Fernseher unter einer gläsernen Glocke auf blauem Hintergrund"
     },
     {
-      "title": "HintergrundDie KI-Produktivitätslüge: Warum schnellerer Code nichts bringt",
-      "url": "https://www.heise.de/hintergrund/Die-KI-Produktivitaetsluege-Warum-schnellerer-Code-nichts-bringt-11511612.html",
-      "image_title": ","
-    },
-    {
       "title": "RatgeberTeure Elektro-SUVs im Kostenvergleich: BMW iX3, Mercedes GLC und Volvo EX60",
       "url": "https://www.heise.de/ratgeber/Teure-Elektro-SUVs-im-Kostenvergleich-BMW-iX3-Mercedes-GLC-und-Volvo-EX60-11421378.html",
       "image_title": "Mercedes-Benz GLC"
     },
     {
-      "title": "TestsGTA VI im Techniktest: Zwischen Prachtkulisse und Konsolenlimits",
-      "url": "https://www.heise.de/tests/GTA-VI-im-Techniktest-Zwischen-Prachtkulisse-und-Konsolenlimits-11532431.html"
+      "title": "HintergrundGeschenktipps für Apple-Anwender: 20 Empfehlungen der Redaktion",
+      "url": "https://www.heise.de/hintergrund/Geschenktipps-fuer-Apple-Anwender-20-Empfehlungen-der-Redaktion-11533686.html",
+      "image_title": ", Madlen Grunert / KI / heise medien"
     }
   ]
 }

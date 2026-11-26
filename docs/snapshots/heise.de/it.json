@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T03:15:07",
+  "timestamp": "2026-11-26T13:17:33",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,42 +20,124 @@
   ],
   "articles": [
     {
+      "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
+      "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
+      "url": "https://www.heise.de/news/iX-Workshop-Mit-Keycloak-zum-sicheren-Identity-und-Access-Management-11526173.html",
+      "image_title": "iX-Workshop: SSO und IAM mit Keycloak"
+    },
+    {
+      "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
+      "teaser": "Eine weitere US-Behörde ist Opfer eines Cyberangriffs geworden. Dieses Mal trifft es eine Abteilung gegen Finanzkriminalität.",
+      "url": "https://www.heise.de/news/Cyberangriff-auf-US-Behoerde-gegen-Finanzkriminalitaet-11539155.html",
+      "image_title": "Das runde Siegel des Financial Crimes Enforcement Network der US Treasury mit Adler"
+    },
+    {
+      "title": "Software Testing: Wer jedes Problem der KI übergibt, verlernt das Denken",
+      "teaser": "Richard Seidl spricht mit Gerald Hüther darüber, wie KI uns das Denken abgewöhnen kann und warum ein scheinbar perfekter Text leblos wirkt.",
+      "url": "https://www.heise.de/blog/Software-Testing-Wer-jedes-Problem-der-KI-uebergibt-verlernt-das-Denken-11538597.html",
+      "image_title": "Ein Mann blickt lächelnd die Kamera neben dem Text „Kopf aus KI an?“."
+    },
+    {
+      "title": "Riemannsche Vermutung: Claude kürzt KI-Beweis um mehr als 99 Prozent",
+      "teaser": "Claude hat den eigenen Beweis der Riemannschen Vermutung drastisch verschlankt. Die mathematische Fachwelt arbeitet weiterhin daran, ihn zu verstehen.",
+      "url": "https://www.heise.de/news/Riemannsche-Vermutung-Claude-kuerzt-KI-Beweis-um-mehr-als-99-Prozent-11539145.html",
+      "image_title": "Digital dargestelltes Gehirn mit der Aufschrift „AI“, umgeben von mathematischen und naturwissenschaftlichen Formeln."
+    },
+    {
+      "title": "RatgeberSilent-Allrounder: Bauvorschlag für einen flüsterleisen Gaming-PC",
+      "url": "https://www.heise.de/ratgeber/Silent-Allrounder-Bauvorschlag-fuer-einen-fluesterleisen-Gaming-PC-11467907.html",
+      "image_title": "Blick in einen geöffneten Computer mit Komponenten"
+    },
+    {
+      "title": "RatgeberHardware-Kaufberatung für Aufrüster: PC-Leben verlängern in der Speicherkrise",
+      "url": "https://www.heise.de/ratgeber/Hardware-Kaufberatung-fuer-Aufruester-PC-Leben-verlaengern-in-der-Speicherkrise-11467901.html",
+      "image_title": "Verschiedene Computerkomponenten wie Grafikkarte, SSD, Prozessor und Mainboard vor grünem Hintergrund"
+    },
+    {
+      "title": "RatgeberKaufberatung: So finden Sie die passende PC-Hardware in Zeiten der Speicherkrise",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-So-finden-Sie-die-passende-PC-Hardware-in-Zeiten-der-Speicherkrise-11400767.html",
+      "image_title": "Computergehäuse mit Motherboard und CPU-Kühler, daneben eine weiße Grafikkarte"
+    },
+    {
+      "title": "Luna Band im Test: Fitness-Tracker ohne Display und ohne Abo",
+      "teaser": "Das Luna Band positioniert sich als Konkurrenz zum Whoop Band, legt aber eigene Schwerpunkte und kommt ohne Abo-Modell daher.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/luna-band-im-test-fitness-tracker-ohne-display-und-ohne-abo/6lqf3ml?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Google lässt Entwickler für den Traffic der Anwender bezahlen",
+      "teaser": "Mit einem neuen und undurchsichtigen Kostenmodell erhebt Google Gebühren für die API-Nutzung, auch für jene, die von bereits zahlenden Anwendern anfällt.",
+      "url": "https://www.heise.de/news/Google-laesst-Entwickler-fuer-den-Traffic-der-Anwender-bezahlen-11538829.html",
+      "image_title": "Google-Schriftzug an einer Glasfassade eines Bürogebäudes."
+    },
+    {
+      "title": "iX-Workshop: Sicheres Active Directory – Adminrechte mit Tiering schützen",
+      "teaser": "Erfahren Sie, wie Sie mit dem Enterprise Access Model eine Rechteausweitung verhindern und so die Active-Directory-Domäne Ihres Unternehmens schützen.",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicheres-Active-Directory-Adminrechte-mit-Tiering-schuetzen-11533352.html",
+      "image_title": "iX-Workshop Sicheres Active Directory: Rechteausweitung mit Tiering gezielt verhindern"
+    },
+    {
+      "title": "Cloudera: Mehr infrastrukturelle Unabhängigkeit für Daten und KI",
+      "teaser": "Mit lokal ausführbaren KI-Modellen und neuen Infrastrukturpartnern erweitert Cloudera die Anwendungsbreite seiner KI- und Datenplattform.",
+      "url": "https://www.heise.de/news/Cloudera-Mehr-infrastrukturelle-Unabhaengigkeit-fuer-Daten-und-KI-11538779.html",
+      "image_title": "Server-Hardware"
+    },
+    {
+      "title": "Blick ins Heft c’t 25/2026: Der optimale PC * Maulkörbe für Smart-TVs",
+      "teaser": "Allen Hardwarekosten zum Trotz gibt es auch in diesem Jahr unseren optimalen PC. Fernseher sind als Datenschleudern verschriehen, doch man kann sie einhegen.",
+      "url": "https://www.heise.de/meinung/Blick-ins-Heft-c-t-25-2026-Der-optimale-PC-Maulkoerbe-fuer-Smart-TVs-11538339.html"
+    },
+    {
+      "title": "AlertPalo Alto: Angreifer attackieren öffentlich erreichbare PAN-OS-Firewalls",
+      "teaser": "Derzeit kombinieren Angreifer zwei Sicherheitslücken, um Firewalls von Palo Alto zu attackieren. Sicherheitspatches stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Palo-Alto-Angriffe-auf-PAN-OS-Firewalls-mit-offenem-Managementzugang-beobachtet-11538805.html",
+      "image_title": "Ein Finger berührt das Warndreieck-Symbol auf einem beleuchteten Bildschirm"
+    },
+    {
+      "title": "Sparkassen bringen Unterstützung für Google Pay",
+      "teaser": "In Updates der Sparkassen-App wurden Hinweise auf eine Google-Pay-Anbindung entdeckt. Der Sparkassenverband bestätigt die Funktion.",
+      "url": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html",
+      "image_title": "Logos von Sparkasse und Google Pay nebeneinander"
+    },
+    {
+      "title": "AlertAttacken auf Danfoss-Geräte, HPE-Juniper-Router, Mitel MiCollab und XO",
+      "teaser": "Die US-IT-Sicherheitsbehörde warnt vor laufenden Angriffen auf zehn Sicherheitslücken in mehreren Produkten.",
+      "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html",
+      "image_title": "Ein orangenes Gefahrensymbol mit Ausrufezeichen vor einem Hintergrund aus Programmcode."
+    },
+    {
+      "title": "Windows Server 2025: Ungeplantes Update gegen Absturz mit Fehlercode 0x139",
+      "teaser": "Windows Server 2025 mit Hotpatches vom November-Patchday stürzen unter Umständen mit Stop-Fehler 0x139 ab. Ein Update behebt das.",
+      "url": "https://www.heise.de/news/Ausserplanmaessiges-Update-fuer-Windows-Server-2025-behebt-Absturzfehler-11538601.html",
+      "image_title": "Blauer Bildschirm mit zwei sich kreuzenden Balken voller grüner Schrift."
+    },
+    {
+      "title": "Agentic AI verlässlich und mit dem richtigen Kontext: betterCode() Agentic AI",
+      "teaser": "Die betterCode() Agentic AI widmet sich Themen zu KI-gestützter Softwareentwicklung. Im Januar 2027 stehen Context Engineering und Verifikation im Fokus.",
+      "url": "https://www.heise.de/news/Agentic-AI-verlaesslich-und-mit-dem-richtigen-Kontext-betterCode-Agentic-AI-11534498.html",
+      "image_title": "Linien, Schriftzug betterCode()"
+    },
+    {
+      "title": "Pydantic AI 2: KI-Agenten mit Python erstellen",
+      "teaser": "In Version 2.0 führt Pydantic AI mit Capabilities ein neues Architekturmuster ein. Tools, Systemprompts, Hooks und Modelleinstellungen sind nun gebündelt.",
+      "url": "https://www.heise.de/ratgeber/Pydantic-AI-2-KI-Agenten-mit-Python-erstellen-11537261.html",
+      "image_title": ","
+    },
+    {
+      "title": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
+      "teaser": "In der #heiseshow: Jensen Huang ist zurück an der Nvidia-Spitze, Ladybird fordert die großen Browser-Engines heraus und GTA 6 bricht Rekorde.",
+      "url": "https://www.heise.de/news/heiseshow-Jensen-ist-zurueck-Ladybird-Browser-GTA-6-11538152.html"
+    },
+    {
+      "title": "Projektseite: Der optimale PC 2027",
+      "teaser": "Stellen Sie sich Ihren individuellen PC anhand unseres Bauvorschlags aus c’t 25/2026 zusammen. Unser Silent-Allrounder taugt für Spiele, Anwendungen und KI.",
+      "url": "https://www.heise.de/ratgeber/Projektseite-Der-optimale-PC-2027-11511232.html",
+      "image_title": "Geöffnetes PC-Gehäuse mit sichbaren Komponenten."
+    },
+    {
       "title": "1Password: Kundendaten entfleucht",
       "teaser": "Warum die Datenbank hacken, wenn man das Backend umschreiben kann? Kundendaten 1Passwords sind in unbefugte Hände gelangt. Obacht vor Phishing!",
       "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html",
       "image_title": "Eine Person tippend am Laptop, darüber schweben ein Sicherheitsschloss und Sicherheitssymbole."
-    },
-    {
-      "title": "xnulinux: macOS-Kernel als Modul in Linux",
-      "teaser": "Ein Open-Source-Projekt lädt den Kernel von macOS als Modul in Linux, sodass macOS-Prozesse neben Linux-Anwendungen laufen – bislang nur ein Experiment.",
-      "url": "https://www.heise.de/news/xnulinux-macOS-Kernel-als-Modul-in-Linux-11538082.html",
-      "image_title": "Ein Desktop-Computerbildschirm zeigt ein Terminalfenster und ein Systeminformationsfenster."
-    },
-    {
-      "title": "TSMC erwägt sehr große Chipfabrik in Texas nahe Musks „Terafab“",
-      "teaser": "TSMC plant eine Chipfabrik für 22,6 Milliarden US-Dollar rund 120 Kilometer nordwestlich von Houston, wie ein Antrag auf Steuersubventionen verrät.",
-      "url": "https://www.heise.de/news/TSMC-erwaegt-sehr-grosse-Chipfabrik-in-Texas-nahe-Musks-Terafab-11538050.html",
-      "image_title": "Firmengebäude von TSMC in Arizona."
-    },
-    {
-      "title": "Klinik-KI als Open Source: Leipzig teilt AMPEL-Code",
-      "teaser": "Das Uniklinikum Leipzig gibt den Code der AMPEL-Plattform frei. Kliniken sollen damit eigene Medizinprodukte entwickeln können.",
-      "url": "https://www.heise.de/news/Klinik-KI-als-Open-Source-Leipzig-teilt-AMPEL-Code-11538066.html",
-      "image_title": "AMPEL-Team des UKL"
-    },
-    {
-      "title": "HintergrundVahiny: Selbstheilende GUI-Tests für die Softwareentwicklung",
-      "url": "https://www.heise.de/hintergrund/Vahiny-Selbstheilende-GUI-Tests-fuer-die-Softwareentwicklung-11536376.html",
-      "image_title": "Zwei Verkehrsampeln vor wolkigem Abendhimmel."
-    },
-    {
-      "title": "RatgeberCyberangriff im Unternehmen: Was jetzt zu tun ist – und wer hilft",
-      "url": "https://www.heise.de/ratgeber/Cyberangriff-im-Unternehmen-Was-jetzt-zu-tun-ist-und-wer-hilft-11530505.html"
-    },
-    {
-      "title": "TestsDrucker mit Nachfülltank im Test: Günstig drucken für Familie und Homeoffice",
-      "url": "https://www.heise.de/tests/Drucker-mit-Nachfuelltank-im-Test-Guenstig-drucken-fuer-Familie-und-Homeoffice-11457369.html",
-      "image_title": "Drei Tintenstrahldrucker stehen nebeneinander auf einer Oberfläche"
     },
     {
       "title": "Black-Friday-Deals im Check: Bei Mini-PC und Laptop trotz Speicherkrise sparen",
@@ -63,90 +145,19 @@
       "url": "https://www.heise.de/bestenlisten/deals/black-friday-deals-im-check-bei-mini-pc-und-laptop-trotz-speicherkrise-sparen/vxmjgm8?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
-      "title": "Überwachungskamera Tapo C660 im Test: Rundumblick ohne Steckdose und Abo",
-      "teaser": "Die Tapo C660 KIT vereint 4K-Bildqualität, KI-Erkennung und Solarbetrieb. Im Test zeigt sich, wo die Überwachungskamera glänzt – und wo sie schwächelt.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/ueberwachungskamera-tapo-c660-im-test-rundumblick-ohne-steckdose-und-abo/bfnx6q4?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "ZenDiS bringt Souveränitäts-Check: Wie abhängig ist die Verwaltung?",
-      "teaser": "openDesk-Betreiber ZenDiS hat einen Souveränitäts-Check entwickelt, mit dem Behörden das Maß ihrer digitalen Souveränität oder Abhängigkeit einschätzen können.",
-      "url": "https://www.heise.de/news/ZenDiS-bringt-Souveraenitaets-Check-Wie-abhaengig-ist-die-Verwaltung-11538046.html",
-      "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
-    },
-    {
-      "title": "Sinken nach den KI-Aktienkursen auch die RAM-Preise?",
-      "teaser": "Die Nvidia-Affäre und strengere US-Exportregeln für KI-Hardware lassen Aktienkurse fallen und befeuern Spekulationen über bald billigeren Speicher.",
-      "url": "https://www.heise.de/news/Sinken-nach-den-KI-Aktienkursen-auch-die-RAM-Preise-11537988.html",
-      "image_title": "Goldendes Speichermodul auf rotem Samtkissen"
-    },
-    {
-      "title": "Das TrackpadOTron: Entwickler bringt MacBook-Vibrationsmotor zum Singen",
-      "teaser": "Das Open-Source-Projekt „No Speaker“ lässt Apples Solid-State-Trackpad so vibrieren, dass interessante Töne herauskommen. Verwendung auf eigene Gefahr.",
-      "url": "https://www.heise.de/news/Das-TrackpadOTron-Entwickler-bringt-MacBook-Vibrationsmotor-zum-Singen-11537759.html",
-      "image_title": "Taptic Engine, hier in einem MacBook von 2015"
-    },
-    {
-      "title": "ESP32-S31-Zero: Kompaktes RISC-V-Board für WLAN und Smart Home",
-      "teaser": "Waveshares ESP32-S31-Zero misst 28 × 18 Millimeter und unterstützt Wi-Fi 6, Bluetooth sowie IEEE 802.15.4 für Zigbee und Thread.",
-      "url": "https://www.heise.de/news/ESP32-S31-Zero-Kompaktes-RISC-V-Board-fuer-WLAN-und-Smart-Home-11537860.html",
-      "image_title": "Ein blaues ESP32-S3-Entwicklungsboard mit USB-C-Anschluss, quadratischem Mikrocontroller, zahlreichen seitlichen Lötanschlüssen, zwei Taster und einem Antennenanschluss auf einer grauen Hintergrundfläche."
-    },
-    {
-      "title": "AlertBroadcom stopft viele Sicherheitslücken in mehreren VMware-Produkten",
-      "teaser": "In mehreren VMware-Produkten klaffen Sicherheitslücken. Broadcom schließt 23 davon mit aktualisierter Software.",
-      "url": "https://www.heise.de/news/Broadcom-stopft-viele-Sicherheitsluecken-in-mehreren-VMware-Produkten-11537743.html",
-      "image_title": "Das Logo von VMware und ein roter Stempel mit der Aufschrift Update."
-    },
-    {
-      "title": "„It just works“: Wo es bei Apple richtig rund läuft | Mac & i-Podcast",
-      "teaser": "Was ist vom Steve-Jobs-Mantra „It just works“ geblieben? Wir sprechen über Apple-Produkte, bei denen alles rund läuft – zumindest meistens.",
-      "url": "https://www.heise.de/news/It-just-works-Wo-es-bei-Apple-richtig-rund-laeuft-Mac-i-Podcast-11537794.html",
-      "image_title": "„It just works“: Wo es bei Apple richtig rund läuft Mac & i-Podcast"
-    },
-    {
-      "title": "iX-Workshop: Hochverfügbares Proxmox VE-Cluster mit Ceph Storage",
-      "teaser": "Lernen Sie, wie Sie ein hochverfügbares Proxmox VE-Cluster mit Ceph-Speicher einrichten und verwalten.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hochverfuegbares-Proxmox-VE-Cluster-mit-Ceph-Storage-11533266.html",
-      "image_title": "Workshop Azure AD als zentralen Verzeichnisdienst inrichten"
-    },
-    {
-      "title": "Bürostühle zum Black Friday: Tiefstpreise für Steelcase, Clouvou & Ergotopia",
-      "teaser": "Zum Black Friday sind viele getestete Bürostühle und höhenverstellbare Schreibtische bis zu 25 Prozent günstiger. Diese Angebote lohnen sich fürs Homeoffice.",
-      "url": "https://www.heise.de/bestenlisten/deals/buerostuehle-zum-black-friday-tiefstpreise-fuer-steelcase-clouvou-und-ergotopia/qbnxdn9?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
-    },
-    {
-      "title": "Drohung mit endgültigem Support-Ende: 1Password will Legacy-Nutzer loswerden",
-      "teaser": "Es gibt noch viele Nutzer, die 1Password 7 verwenden, da es ohne die Server des Unternehmens auskommt. Künftig wird es für diese noch ungemütlicher.",
-      "url": "https://www.heise.de/news/1Password-draengt-Nutzer-der-Legacy-Version-ohne-Cloud-zum-Wechsel-11536995.html",
-      "image_title": "Ein Computerbildschirm mit mehreren geöffneten Fenstern vor einer animierten Landschaft"
-    },
-    {
-      "title": "Hilfe bei Virenbefall: Desinfec't 2026/27 jetzt auf USB-Stick erhältlich",
-      "teaser": "Windows-Trojaner finden und unschädlich machen: Die neue Desinfec't-Version ist ab sofort mit einem c't-Sonderheft auf einem USB-Stick bestellbar.",
-      "url": "https://www.heise.de/news/Hilfe-bei-Virenbefall-Desinfec-t-2026-27-jetzt-auf-USB-Stick-erhaeltlich-11534660.html"
-    },
-    {
-      "title": "Deichmann-Online-Shop geknackt, unbefugter Datenzugriff",
-      "teaser": "Deichmann meldet einen Cyberangriff auf den Online-Shop des Schuhhändlers. Es gab unbefugten Datenzugriff.",
-      "url": "https://www.heise.de/news/Deichmann-Online-Shop-geknackt-unbefugter-Datenzugriff-11537484.html",
-      "image_title": "Deichmann Logo mit weißem Buchstaben D vor grünem Hintergrund"
-    },
-    {
-      "title": "KI-Experiment: Anthropic führt KI-Agenten in Versuchung",
-      "teaser": "Anthropic untersucht mit einem Experiment, wie leicht sich KI-Agenten dazu verleiten lassen, Sicherheitslücken auszunutzen.",
-      "url": "https://www.heise.de/news/KI-Experiment-Anthropic-fuehrt-KI-Agenten-in-Versuchung-11537463.html",
-      "image_title": "Ein Smartphone-Bildschirm zeigt App-Symbole für Künstliche Intelligenz, darunter Claude AI."
-    },
-    {
-      "title": "AlertAngriffswarnung: Drupal Core, AntiCsrf und Optimizely",
-      "teaser": "Teils sind die Exploits schon bekannt, aber nun warnt die CISA vor beobachteten Attacken auf Drupal Core, AntiCsrf und Optimizely.",
-      "url": "https://www.heise.de/news/Angriffswarnung-Drupal-Core-AntiCsrf-und-Optimizely-11537363.html",
-      "image_title": "Hände halten eine digital dargestellte Weltkugel mit Warnsymbolen."
-    },
-    {
       "title": "NewsStreit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7",
       "url": "https://www.heise.de/news/Streit-ums-Design-Gericht-verhindert-EU-weiten-Verkauf-des-E-SUV-BYD-Ti7-11534173.html",
       "image_title": "BYD Ti7"
+    },
+    {
+      "title": "NewsNach 365-Ausfall: Höchste Alarmstufe bei Microsoft",
+      "url": "https://www.heise.de/news/Nach-365-Ausfall-Hoechste-Alarmstufe-bei-Microsoft-11536918.html",
+      "image_title": "Rot erleuchteter Gang eines Rechenzentrums"
+    },
+    {
+      "title": "NewsMathe-Wettlauf: Anthropic und OpenAI mit fast zeitgleichen Beweisen für VP ≠ VNP",
+      "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html",
+      "image_title": "Mathematische Formeln und Gleichungen auf einem futuristischen, blau und rot leuchtenden digitalen Raster."
     },
     {
       "title": "AlertNews„Upload2Shell“: Ghostscript-Lücke betrifft viele Systeme",
@@ -154,14 +165,9 @@
       "image_title": "Ein transparenter Würfel, aus dem Rauch entweicht, mit dem Schriftzug Upload2Shell"
     },
     {
-      "title": "UpdateNewsNvidia setzt Jensen Huang wieder als CEO ein",
-      "url": "https://www.heise.de/news/Nvidia-setzt-Jensen-Huang-wieder-als-CEO-ein-11534936.html",
-      "image_title": "Ein Mann mit grauen Haaren und Brille blickt leicht nach rechts."
-    },
-    {
-      "title": "TestsGTA 6: Rockstar entdeckt die Macht der kleinen Gesten",
-      "url": "https://www.heise.de/tests/GTA-6-Ein-Spiel-von-Liebe-Verbrechen-und-dem-ganz-normalen-Wahnsinn-11533850.html",
-      "image_title": "Jason und Lucia sitzen lächelnd an einem Holztisch in einer Bar und unterhalten sich bei einem Getränk."
+      "title": "HintergrundDie KI-Produktivitätslüge: Warum schnellerer Code nichts bringt",
+      "url": "https://www.heise.de/hintergrund/Die-KI-Produktivitaetsluege-Warum-schnellerer-Code-nichts-bringt-11511612.html",
+      "image_title": ","
     },
     {
       "title": "RatgeberMaulkörbe für Smart-TVs: DNS-Filter und Alternativen",
@@ -169,18 +175,14 @@
       "image_title": "Ein Fernseher unter einer gläsernen Glocke auf blauem Hintergrund"
     },
     {
-      "title": "HintergrundDie KI-Produktivitätslüge: Warum schnellerer Code nichts bringt",
-      "url": "https://www.heise.de/hintergrund/Die-KI-Produktivitaetsluege-Warum-schnellerer-Code-nichts-bringt-11511612.html",
-      "image_title": ","
-    },
-    {
       "title": "RatgeberTeure Elektro-SUVs im Kostenvergleich: BMW iX3, Mercedes GLC und Volvo EX60",
       "url": "https://www.heise.de/ratgeber/Teure-Elektro-SUVs-im-Kostenvergleich-BMW-iX3-Mercedes-GLC-und-Volvo-EX60-11421378.html",
       "image_title": "Mercedes-Benz GLC"
     },
     {
-      "title": "TestsGTA VI im Techniktest: Zwischen Prachtkulisse und Konsolenlimits",
-      "url": "https://www.heise.de/tests/GTA-VI-im-Techniktest-Zwischen-Prachtkulisse-und-Konsolenlimits-11532431.html"
+      "title": "HintergrundGeschenktipps für Apple-Anwender: 20 Empfehlungen der Redaktion",
+      "url": "https://www.heise.de/hintergrund/Geschenktipps-fuer-Apple-Anwender-20-Empfehlungen-der-Redaktion-11533686.html",
+      "image_title": ", Madlen Grunert / KI / heise medien"
     }
   ]
 }
