@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-25T20:15:43",
+  "timestamp": "2026-11-26T03:15:07",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
   ],
   "articles": [
     {
+      "title": "1Password: Kundendaten entfleucht",
+      "teaser": "Warum die Datenbank hacken, wenn man das Backend umschreiben kann? Kundendaten 1Passwords sind in unbefugte Hände gelangt. Obacht vor Phishing!",
+      "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html",
+      "image_title": "Eine Person tippend am Laptop, darüber schweben ein Sicherheitsschloss und Sicherheitssymbole."
+    },
+    {
       "title": "xnulinux: macOS-Kernel als Modul in Linux",
       "teaser": "Ein Open-Source-Projekt lädt den Kernel von macOS als Modul in Linux, sodass macOS-Prozesse neben Linux-Anwendungen laufen – bislang nur ein Experiment.",
       "url": "https://www.heise.de/news/xnulinux-macOS-Kernel-als-Modul-in-Linux-11538082.html",
@@ -36,12 +42,6 @@
       "teaser": "Das Uniklinikum Leipzig gibt den Code der AMPEL-Plattform frei. Kliniken sollen damit eigene Medizinprodukte entwickeln können.",
       "url": "https://www.heise.de/news/Klinik-KI-als-Open-Source-Leipzig-teilt-AMPEL-Code-11538066.html",
       "image_title": "AMPEL-Team des UKL"
-    },
-    {
-      "title": "ZenDiS bringt Souveränitäts-Check: Wie abhängig ist die Verwaltung?",
-      "teaser": "openDesk-Betreiber ZenDiS hat einen Souveränitäts-Check entwickelt, mit dem Behörden das Maß ihrer digitalen Souveränität oder Abhängigkeit einschätzen können.",
-      "url": "https://www.heise.de/news/ZenDiS-bringt-Souveraenitaets-Check-Wie-abhaengig-ist-die-Verwaltung-11538046.html",
-      "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
     },
     {
       "title": "HintergrundVahiny: Selbstheilende GUI-Tests für die Softwareentwicklung",
@@ -66,6 +66,12 @@
       "title": "Überwachungskamera Tapo C660 im Test: Rundumblick ohne Steckdose und Abo",
       "teaser": "Die Tapo C660 KIT vereint 4K-Bildqualität, KI-Erkennung und Solarbetrieb. Im Test zeigt sich, wo die Überwachungskamera glänzt – und wo sie schwächelt.",
       "url": "https://www.heise.de/bestenlisten/testbericht/ueberwachungskamera-tapo-c660-im-test-rundumblick-ohne-steckdose-und-abo/bfnx6q4?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "ZenDiS bringt Souveränitäts-Check: Wie abhängig ist die Verwaltung?",
+      "teaser": "openDesk-Betreiber ZenDiS hat einen Souveränitäts-Check entwickelt, mit dem Behörden das Maß ihrer digitalen Souveränität oder Abhängigkeit einschätzen können.",
+      "url": "https://www.heise.de/news/ZenDiS-bringt-Souveraenitaets-Check-Wie-abhaengig-ist-die-Verwaltung-11538046.html",
+      "image_title": "Aus Binärcode-Einsen und -Nullen gebildete Illustration der US-Flagge und der Europaflagge."
     },
     {
       "title": "Sinken nach den KI-Aktienkursen auch die RAM-Preise?",
@@ -136,12 +142,6 @@
       "teaser": "Teils sind die Exploits schon bekannt, aber nun warnt die CISA vor beobachteten Attacken auf Drupal Core, AntiCsrf und Optimizely.",
       "url": "https://www.heise.de/news/Angriffswarnung-Drupal-Core-AntiCsrf-und-Optimizely-11537363.html",
       "image_title": "Hände halten eine digital dargestellte Weltkugel mit Warnsymbolen."
-    },
-    {
-      "title": "KI ermittelt in 22 Minuten den unbekannten Zeichner eines Skizzenbuchs von 1808",
-      "teaser": "Ein Historiker hat GPT-6.2 Astra nach dem unbekannten Autor eines über 200 Jahre alten Skizzenbuchs fahnden lassen – und nach Minuten die Antwort bekommen.",
-      "url": "https://www.heise.de/news/KI-ermittelt-in-22-Minuten-den-unbekannten-Zeichner-eines-Skizzenbuchs-von-1808-11537049.html",
-      "image_title": "Historische Zeichnung eines Gebäudes vor einem Berg mit Fahnenmast"
     },
     {
       "title": "NewsStreit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7",
