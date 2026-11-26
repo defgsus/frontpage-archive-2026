@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T13:17:35",
+  "timestamp": "2026-11-26T22:39:28",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -20,15 +20,16 @@
   ],
   "articles": [
     {
+      "title": "Das BSI warnt vor AOFsKünstliche Intelligenz als Angreifer: „Eine neue Ära hat begonnen“",
+      "teaser": "Attacken mit KI-Frameworks: Das BSI warnt und im heise security PRO-Talk diskutieren Sicherheitsverantwortliche, wie man die Gefahr in den Griff bekommen kann.",
+      "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html",
+      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
+    },
+    {
       "title": "IT-Sicherheitsvorfall1Password: Kundendaten entfleucht",
       "teaser": "Warum die Datenbank hacken, wenn man das Backend umschreiben kann? Kundendaten 1Passwords sind in unbefugte Hände geraten.",
       "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html",
       "image_title": "Eine Person tippend am Laptop, darüber schweben ein Sicherheitsschloss und Sicherheitssymbole."
-    },
-    {
-      "title": "Hilfe bei VirenbefallDesinfec't 2026/27 jetzt auf USB-Stick erhältlich",
-      "teaser": "Windows-Trojaner finden und unschädlich machen: Die neue Desinfec't-Version ist ab sofort mit einem c't-Sonderheft auf einem USB-Stick bestellbar.",
-      "url": "https://www.heise.de/news/Hilfe-bei-Virenbefall-Desinfec-t-2026-27-jetzt-auf-USB-Stick-erhaeltlich-11534660.html"
     },
     {
       "title": "AlertPalo Alto: Angreifer attackieren öffentlich erreichbare PAN-OS-Firewalls",
@@ -50,6 +51,12 @@
     {
       "title": "Aufzeichnung im Shop verfügbarSecurity & IoT im Unternehmenseinsatz – wie kann das gehen?",
       "url": "https://shop.heise.de/security-und-iot-im-unternehmenseinsatz-heise-security-webinar?wt_mc=intern.conf.security.web_iot.security_buehne_1.teaser.teaser"
+    },
+    {
+      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
+      "teaser": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "url": "https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html",
+      "image_title": "Fußball mit FIFA-Logo auf gemustertem Untergrund"
     },
     {
       "title": "Cyberangriff auf US-Behörde gegen Finanzkriminalität",
@@ -93,6 +100,11 @@
       "image_title": "Ein technischer Apparat mit vielen feinen Kabeln und spiralförmigen Elementen"
     },
     {
+      "title": "Hilfe bei Virenbefall: Desinfec't 2026/27 jetzt auf USB-Stick erhältlich",
+      "teaser": "Windows-Trojaner finden und unschädlich machen: Die neue Desinfec't-Version ist ab sofort mit einem c't-Sonderheft auf einem USB-Stick bestellbar.",
+      "url": "https://www.heise.de/news/Hilfe-bei-Virenbefall-Desinfec-t-2026-27-jetzt-auf-USB-Stick-erhaeltlich-11534660.html"
+    },
+    {
       "title": "Deichmann-Online-Shop geknackt, unbefugter Datenzugriff",
       "teaser": "Deichmann meldet einen Cyberangriff auf den Online-Shop des Schuhhändlers. Es gab unbefugten Datenzugriff.",
       "url": "https://www.heise.de/news/Deichmann-Online-Shop-geknackt-unbefugter-Datenzugriff-11537484.html",
@@ -133,18 +145,6 @@
       "teaser": "Apple, Google und Passwortmanager verwalten Passkeys bequem, aber anbietergebunden. Wir zeigen, wie Sie mit eigenen USB-Token mehr Unabhängigkeit gewinnen.",
       "url": "https://www.heise.de/ratgeber/FIDO2-Sicherheitsschluessel-So-funktioniert-das-Login-ohne-Cloudbindung-11489832.html",
       "image_title": "Ein Nitrokey 3C NFC wird in den USB-C-Anschluss eines Laptops eingesteckt."
-    },
-    {
-      "title": "iX-Workshop: NIS 2 – Anforderungen und Vorgaben",
-      "teaser": "Erhalten Sie praxisnahe Einblicke in die effektive Umsetzung von NIS2 und dem deutschen NIS2UmsuCG.",
-      "url": "https://www.heise.de/news/iX-Workshop-NIS-2-Anforderungen-und-Vorgaben-11526129.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Datenleck bei Cleverbridge: Kreditkartendaten abgegriffen",
-      "teaser": "Der Zahlungsdienstleister Cleverbridge räumt ein, dass Anfang November Angreifer sensible Daten abgegriffen haben.",
-      "url": "https://www.heise.de/news/Datenleck-bei-Cleverbridge-Kreditkartendaten-abgegriffen-11535956.html",
-      "image_title": "Ein rotes Warndreieck mit Ausrufezeichen vor einem pixeligen Hintergrund"
     },
     {
       "title": "Konferenz | 02.12.2026IT-Security im KI-Zeitalter – der Online-Thementag für Security-Profis",
@@ -197,13 +197,15 @@
       "image_title": "heise Plus"
     },
     {
-      "title": "Maulkörbe für Smart-TVs",
-      "url": "https://www.heise.de/ratgeber/Maulkoerbe-fuer-Smart-TVs-DNS-Filter-und-Alternativen-11425633.html",
-      "image_title": "Ein Fernseher unter einer gläsernen Glocke auf blauem Hintergrund"
+      "title": "1Password: Kundendaten entfleucht",
+      "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html",
+      "image_title": "Eine Person tippend am Laptop, darüber schweben ein Sicherheitsschloss und Sicherheitssymbole."
     },
     {
-      "title": "1Password: Kundendaten entfleucht",
-      "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html"
+      "title": "Maulkörbe für Smart-TVs",
+      "url": "https://www.heise.de/ratgeber/Maulkoerbe-fuer-Smart-TVs-DNS-Filter-und-Alternativen-11425633.html",
+      "image_url": "https://www.heise.de/icons/svg/logos/svg/heise_plus_blue.svg",
+      "image_title": "heise Plus"
     },
     {
       "title": "US-Regierung erwartet mehr IT-Ausfälle",

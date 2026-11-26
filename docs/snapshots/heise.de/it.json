@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T13:17:33",
+  "timestamp": "2026-11-26T22:39:26",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,6 +19,66 @@
     }
   ],
   "articles": [
+    {
+      "title": "Nova LakeSpezifikationen der nächsten Intel-Desktop-Prozessoren",
+      "teaser": "Intels nächstes Topmodell soll vorerst Core Ultra 9 4970K BFC heißen. Im Gespräch sind 28 CPU-Kerne, bis zu 5,5 GHz Takt und viel Cache.",
+      "url": "https://www.heise.de/news/Nova-Lake-Spezifikationen-der-naechsten-Intel-Desktop-Prozessoren-11539221.html",
+      "image_title": "Ein Intel Core Ultra 9 Prozessor im Sockel eines Mainboards"
+    },
+    {
+      "title": "Chinas KI-Labore unter DruckUS-Maßnahmen bremsen Modellentwicklung",
+      "teaser": "Wegen US-Chipauflagen und Maßnahmen gegen Destillation drohen Chinas KI-Entwicklern angeblich späte Modellstarts und längere Zyklen.",
+      "url": "https://www.heise.de/news/Chinas-KI-Labore-unter-Druck-US-Massnahmen-bremsen-Modellentwicklung-11539653.html",
+      "image_title": "Die Flaggen Chinas und der USA überlagern sich neben einem leuchtenden AI-Schriftzug vor einem digitalen Hintergrund."
+    },
+    {
+      "title": "Das BSI warnt vor AOFsKünstliche Intelligenz als Angreifer: „Eine neue Ära hat begonnen“",
+      "teaser": "Attacken mit KI-Frameworks: Das BSI warnt und im heise security PRO-Talk diskutieren Sicherheitsverantwortliche, wie man die Gefahr in den Griff bekommen kann.",
+      "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-als-Angreifer-Eine-neue-Aera-hat-begonnen-11539545.html",
+      "image_title": "A,Person's,Head,Covered,By,An,Ai-labeled,Dark,Cloud"
+    },
+    {
+      "title": "Abrechnungsfehler: Was OpenAIs GPT-6.2-Korrektur für Abonnenten bedeutet",
+      "teaser": "OpenAI hat die Nutzung von GPT-6.2 Astra und Sol zu niedrig angerechnet. Nach der Korrektur erreichen zahlende Nutzer ihre Limits deutlich früher.",
+      "url": "https://www.heise.de/news/OpenAI-korrigiert-Abrechnungsfehler-GPT-6-2-Limits-sind-schneller-erreicht-11539469.html",
+      "image_title": "Ein Smartphone zeigt das ChatGPT-App-Symbol auf dem Bildschirm."
+    },
+    {
+      "title": "TestsMusiksoftware Cubase 16 im Test: Was neu ist und wann sich das Update lohnt",
+      "url": "https://www.heise.de/tests/Musiksoftware-Cubase-16-im-Test-Was-neu-ist-und-wann-sich-das-Update-lohnt-11514392.html"
+    },
+    {
+      "title": "RatgeberSilent-Allrounder: Bauvorschlag für einen flüsterleisen Gaming-PC",
+      "url": "https://www.heise.de/ratgeber/Silent-Allrounder-Bauvorschlag-fuer-einen-fluesterleisen-Gaming-PC-11467907.html",
+      "image_title": "Blick in einen geöffneten Computer mit Komponenten"
+    },
+    {
+      "title": "RatgeberHardware-Kaufberatung für Aufrüster: PC-Leben verlängern in der Speicherkrise",
+      "url": "https://www.heise.de/ratgeber/Hardware-Kaufberatung-fuer-Aufruester-PC-Leben-verlaengern-in-der-Speicherkrise-11467901.html",
+      "image_title": "Verschiedene Computerkomponenten wie Grafikkarte, SSD, Prozessor und Mainboard vor grünem Hintergrund"
+    },
+    {
+      "title": "Netatmo Original im Test: Matter-Heizkörperthermostat mit cleverer PID-Regelung",
+      "teaser": "Lernende Vorheizung gibt es nur mit dem Netatmo-Zeitplan. Wer diesen an Home Assistant oder Apple Home abgibt, verliert die Funktion – und nicht nur die.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/netatmo-original-im-test-matter-heizkoerperthermostat-mit-cleverer-pid-regelung/2r0c2ef?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
+    {
+      "title": "Was die neue Proxmox-Virtualisierungsplattform 9.3 alles kann",
+      "teaser": "Proxmox Virtual Environment (VE) 9.3 erweitert das SAN-Management, verbessert die Cluster-Verwaltung und bringt neue Funktionen für SDN und Ceph.",
+      "url": "https://www.heise.de/news/Proxmox-VE-9-3-Neuerungen-bei-Storage-Netzwerk-und-Cluster-Verwaltung-11539299.html",
+      "image_title": "Bedienoberfläche des Proxmox Datacenter Dashboards"
+    },
+    {
+      "title": "Warnung vor „erheblichen Folgen“: Erfolgreicher Cyberangriff auf die FIFA",
+      "teaser": "Bei der FIFA haben Cyberkriminelle persönliche und geschäftliche Daten abgegriffen. Der Verband wiegelt gleichzeitig ab und warnt.",
+      "url": "https://www.heise.de/news/Warnung-vor-erheblichen-Folgen-Erfolgreicher-Cyberangriff-auf-die-FIFA-11539255.html",
+      "image_title": "Fußball mit FIFA-Logo auf gemustertem Untergrund"
+    },
+    {
+      "title": "Luna Band im Test: Fitness-Tracker ohne Display und ohne Abo",
+      "teaser": "Das Luna Band positioniert sich als Konkurrenz zum Whoop Band, legt aber eigene Schwerpunkte und kommt ohne Abo-Modell daher.",
+      "url": "https://www.heise.de/bestenlisten/testbericht/luna-band-im-test-fitness-tracker-ohne-display-und-ohne-abo/6lqf3ml?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
+    },
     {
       "title": "iX-Workshop: Mit Keycloak zum sicheren Identity- und Access-Management",
       "teaser": "SSO und Multifaktor-Authentifizierung – mehr Sicherheit und einfache Zugangsverwaltung mit dem OpenID-Connect-Provider Keycloak.",
@@ -42,26 +102,6 @@
       "teaser": "Claude hat den eigenen Beweis der Riemannschen Vermutung drastisch verschlankt. Die mathematische Fachwelt arbeitet weiterhin daran, ihn zu verstehen.",
       "url": "https://www.heise.de/news/Riemannsche-Vermutung-Claude-kuerzt-KI-Beweis-um-mehr-als-99-Prozent-11539145.html",
       "image_title": "Digital dargestelltes Gehirn mit der Aufschrift „AI“, umgeben von mathematischen und naturwissenschaftlichen Formeln."
-    },
-    {
-      "title": "RatgeberSilent-Allrounder: Bauvorschlag für einen flüsterleisen Gaming-PC",
-      "url": "https://www.heise.de/ratgeber/Silent-Allrounder-Bauvorschlag-fuer-einen-fluesterleisen-Gaming-PC-11467907.html",
-      "image_title": "Blick in einen geöffneten Computer mit Komponenten"
-    },
-    {
-      "title": "RatgeberHardware-Kaufberatung für Aufrüster: PC-Leben verlängern in der Speicherkrise",
-      "url": "https://www.heise.de/ratgeber/Hardware-Kaufberatung-fuer-Aufruester-PC-Leben-verlaengern-in-der-Speicherkrise-11467901.html",
-      "image_title": "Verschiedene Computerkomponenten wie Grafikkarte, SSD, Prozessor und Mainboard vor grünem Hintergrund"
-    },
-    {
-      "title": "RatgeberKaufberatung: So finden Sie die passende PC-Hardware in Zeiten der Speicherkrise",
-      "url": "https://www.heise.de/ratgeber/Kaufberatung-So-finden-Sie-die-passende-PC-Hardware-in-Zeiten-der-Speicherkrise-11400767.html",
-      "image_title": "Computergehäuse mit Motherboard und CPU-Kühler, daneben eine weiße Grafikkarte"
-    },
-    {
-      "title": "Luna Band im Test: Fitness-Tracker ohne Display und ohne Abo",
-      "teaser": "Das Luna Band positioniert sich als Konkurrenz zum Whoop Band, legt aber eigene Schwerpunkte und kommt ohne Abo-Modell daher.",
-      "url": "https://www.heise.de/bestenlisten/testbericht/luna-band-im-test-fitness-tracker-ohne-display-und-ohne-abo/6lqf3ml?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "Google lässt Entwickler für den Traffic der Anwender bezahlen",
@@ -103,46 +143,6 @@
       "teaser": "Die US-IT-Sicherheitsbehörde warnt vor laufenden Angriffen auf zehn Sicherheitslücken in mehreren Produkten.",
       "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html",
       "image_title": "Ein orangenes Gefahrensymbol mit Ausrufezeichen vor einem Hintergrund aus Programmcode."
-    },
-    {
-      "title": "Windows Server 2025: Ungeplantes Update gegen Absturz mit Fehlercode 0x139",
-      "teaser": "Windows Server 2025 mit Hotpatches vom November-Patchday stürzen unter Umständen mit Stop-Fehler 0x139 ab. Ein Update behebt das.",
-      "url": "https://www.heise.de/news/Ausserplanmaessiges-Update-fuer-Windows-Server-2025-behebt-Absturzfehler-11538601.html",
-      "image_title": "Blauer Bildschirm mit zwei sich kreuzenden Balken voller grüner Schrift."
-    },
-    {
-      "title": "Agentic AI verlässlich und mit dem richtigen Kontext: betterCode() Agentic AI",
-      "teaser": "Die betterCode() Agentic AI widmet sich Themen zu KI-gestützter Softwareentwicklung. Im Januar 2027 stehen Context Engineering und Verifikation im Fokus.",
-      "url": "https://www.heise.de/news/Agentic-AI-verlaesslich-und-mit-dem-richtigen-Kontext-betterCode-Agentic-AI-11534498.html",
-      "image_title": "Linien, Schriftzug betterCode()"
-    },
-    {
-      "title": "Pydantic AI 2: KI-Agenten mit Python erstellen",
-      "teaser": "In Version 2.0 führt Pydantic AI mit Capabilities ein neues Architekturmuster ein. Tools, Systemprompts, Hooks und Modelleinstellungen sind nun gebündelt.",
-      "url": "https://www.heise.de/ratgeber/Pydantic-AI-2-KI-Agenten-mit-Python-erstellen-11537261.html",
-      "image_title": ","
-    },
-    {
-      "title": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
-      "teaser": "In der #heiseshow: Jensen Huang ist zurück an der Nvidia-Spitze, Ladybird fordert die großen Browser-Engines heraus und GTA 6 bricht Rekorde.",
-      "url": "https://www.heise.de/news/heiseshow-Jensen-ist-zurueck-Ladybird-Browser-GTA-6-11538152.html"
-    },
-    {
-      "title": "Projektseite: Der optimale PC 2027",
-      "teaser": "Stellen Sie sich Ihren individuellen PC anhand unseres Bauvorschlags aus c’t 25/2026 zusammen. Unser Silent-Allrounder taugt für Spiele, Anwendungen und KI.",
-      "url": "https://www.heise.de/ratgeber/Projektseite-Der-optimale-PC-2027-11511232.html",
-      "image_title": "Geöffnetes PC-Gehäuse mit sichbaren Komponenten."
-    },
-    {
-      "title": "1Password: Kundendaten entfleucht",
-      "teaser": "Warum die Datenbank hacken, wenn man das Backend umschreiben kann? Kundendaten 1Passwords sind in unbefugte Hände gelangt. Obacht vor Phishing!",
-      "url": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html",
-      "image_title": "Eine Person tippend am Laptop, darüber schweben ein Sicherheitsschloss und Sicherheitssymbole."
-    },
-    {
-      "title": "Black-Friday-Deals im Check: Bei Mini-PC und Laptop trotz Speicherkrise sparen",
-      "teaser": "Zum Black Friday locken Online-Händler mit vermeintlich hohen Rabatten auf Mini-PCs und Laptops. Aber welche Angebote lohnen sich? Wir prüfen die Preise.",
-      "url": "https://www.heise.de/bestenlisten/deals/black-friday-deals-im-check-bei-mini-pc-und-laptop-trotz-speicherkrise-sparen/vxmjgm8?wt_mc=intern.red.bestenlisten.newsticker.rubrikstart.teaser.teaser"
     },
     {
       "title": "NewsStreit ums Design: Gericht verhindert EU-weiten Verkauf des E-SUV BYD Ti7",
